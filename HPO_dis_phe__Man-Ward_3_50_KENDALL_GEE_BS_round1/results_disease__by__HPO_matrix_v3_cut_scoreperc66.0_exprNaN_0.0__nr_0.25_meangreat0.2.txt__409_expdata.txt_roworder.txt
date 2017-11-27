@@ -1,0 +1,6 @@
+"x"
+"1" "Tenorio.Syndrome"
+"2" "Greig.cephalopolysyndactyly.sy"
+"3" "X5q14.3.microdeletion.syndrome"
+"4" "Orphanet.2710"
+"5" "Malan.overgrowth.syndrome"

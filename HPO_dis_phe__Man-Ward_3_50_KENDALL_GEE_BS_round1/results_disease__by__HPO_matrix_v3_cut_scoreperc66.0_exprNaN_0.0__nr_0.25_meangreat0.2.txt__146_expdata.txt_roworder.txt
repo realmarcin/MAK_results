@@ -1,0 +1,7 @@
+"x"
+"1" "Pseudohypoaldosteronism.type.2"
+"2" "Orphanet.189439"
+"3" "Deficiency.of.steroid.11.beta."
+"4" "Apparent.Mineralocorticoid.Exc"
+"5" "Orphanet.90044"
+"6" "Severe.early.onset.obesity.ins"

@@ -1,0 +1,10 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orphanet:1529"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Downslanted palpebral fissures"	0.0	0.0	1.0	0.0	0.0
+"Narrow mouth"	0.0	0.0	1.0	0.0	0.0
+"HP:0100490"	0.0	0.0	1.0	0.0	0.0
+"Blepharophimosis"	0.0	0.0	1.0	0.0	0.0
+"Lacrimal duct atresia"	0.0	0.0	1.0	0.0	0.0
+"Ulnar deviation of finger"	0.0	0.0	1.0	0.0	0.0
+"Ulnar deviation of the wrist"	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia involving the nose"	0.0	0.0	1.0	0.0	0.0

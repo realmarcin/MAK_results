@@ -1,0 +1,7 @@
+"x"
+"1" "Tracheobronchomalacia"
+"2" "Poorly ossified cervical vertebrae"
+"3" "Shortening of all phalanges of fingers"
+"4" "Shortening of all phalanges of the toes"
+"5" "Anterior tibial bowing"
+"6" "Shortening of all metacarpals"

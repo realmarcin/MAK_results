@@ -1,0 +1,6 @@
+"x"
+"1" "Redundant skin"
+"2" "Prematurely aged appearance"
+"3" "Aplasia/Hypoplasia of the skin"
+"4" "Myocardial infarction"
+"5" "Abnormal hair pattern"

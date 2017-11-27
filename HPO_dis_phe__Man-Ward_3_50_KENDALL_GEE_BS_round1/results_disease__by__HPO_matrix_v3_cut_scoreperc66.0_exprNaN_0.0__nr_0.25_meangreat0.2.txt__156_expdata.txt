@@ -1,0 +1,9 @@
+	"Colonic Varices Without Portal Hypertension"	"Factor 7 and Factor Viii, Combined Deficiency of"	"Factor 8 Deficiency"	"Factor 8 and Factor Ix, Combined Deficiency of"	"Venous Malformations, Multiple Cutaneous and Mucosal"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the mouth"	0.0	0.0	0.0	0.0	1.0
+"Intestinal bleeding"	1.0	1.0	0.0	0.0	1.0
+"Colonic varices"	1.0	0.0	0.0	0.0	0.0
+"Reduced factor VIII activity"	0.0	1.0	1.0	1.0	0.0
+"Reduced factor VII activity"	0.0	1.0	0.0	0.0	0.0
+"Reduced factor IX activity"	0.0	0.0	0.0	1.0	0.0
+"Venous malformation"	0.0	0.0	0.0	0.0	1.0

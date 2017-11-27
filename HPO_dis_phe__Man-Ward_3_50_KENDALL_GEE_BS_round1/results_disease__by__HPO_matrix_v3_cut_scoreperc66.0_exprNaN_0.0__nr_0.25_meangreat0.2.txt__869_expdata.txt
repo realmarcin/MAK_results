@@ -1,0 +1,11 @@
+	"Glycogen storage disease due to muscle phosphorylase kinase deficiency"	"Glycogen Storage Disease Ixa1"	"Neutral Lipid Storage Disease With Myopathy"	"Lipodystrophy, Congenital Generalized, Type 3"	"Lipodystrophy, Familial Partial, Type 5"	"Orphanet:371"	"Orphanet:71212"	"Orphanet:98895"
+"Hypocalcemia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Diabetes mellitus"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Acanthosis nigricans"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Hirsutism"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypercholesterolemia"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Insulin resistance"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Reduced subcutaneous adipose tissue"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Lipodystrophy"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Hepatosplenomegaly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

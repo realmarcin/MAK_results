@@ -1,0 +1,6 @@
+"x"
+"1" "Amelogenesis.Imperfecta..Type."
+"2" "Hemifacial.hypertrophy"
+"3" "Torticollis"
+"4" "Malocclusion.Due.to.Protuberan"
+"5" "Obesity..hyperphagia..and.deve"

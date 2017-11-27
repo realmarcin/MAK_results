@@ -1,0 +1,9 @@
+	"Tyrosinemia type I"	"Progressive familial intrahepatic cholestasis"	"Orphanet:848"	"Orphanet:91131"
+"Hypocalcemia"	0.0	1.0	0.0	0.0
+"Hepatomegaly"	1.0	1.0	1.0	1.0
+"Neoplasm"	0.0	1.0	0.0	0.0
+"Splenomegaly"	1.0	1.0	1.0	1.0
+"Cognitive impairment"	0.0	1.0	0.0	1.0
+"Reduced bone mineral density"	0.0	1.0	1.0	0.0
+"Abnormality of coagulation"	1.0	1.0	0.0	1.0
+"Abnormality of thrombocytes"	0.0	1.0	0.0	0.0

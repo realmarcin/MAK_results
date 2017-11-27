@@ -1,0 +1,7 @@
+"x"
+"1" "Ventricular.septal.defect.3"
+"2" "atrial.heart.septal.defect.2"
+"3" "Ventricular.septal.defect.1"
+"4" "Congenital.pulmonary.valve.ste"
+"5" "ASD1"
+"6" "Orphanet.1478"

@@ -1,0 +1,8 @@
+	"Febrile infection-related epilepsy syndrome"	"Orphanet:2495"	"Orphanet:251909"	"Steroid-responsive encephalopathy associated with autoimmune thyroiditis"	"Benign adult familial myoclonic epilepsy"
+"EEG abnormality"	1.0	0.0	0.0	0.0	1.0
+"Headache"	1.0	1.0	1.0	1.0	1.0
+"Myoclonus"	0.0	0.0	0.0	1.0	1.0
+"Focal seizures"	1.0	1.0	0.0	1.0	1.0
+"Generalized seizures"	0.0	0.0	0.0	1.0	1.0
+"Hand tremor"	0.0	0.0	0.0	0.0	1.0
+"Amaurosis fugax"	0.0	0.0	1.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Sick.Sinus.Syndrome.2"
+"2" "dilated.cardiomyopathy.1AA"
+"3" "CMH21"
+"4" "Cardiac.Conduction.Defect"
+"5" "Cardiomyopathy..Familial.Hyper"
+"6" "hypertrophic.cardiomyopathy.16"

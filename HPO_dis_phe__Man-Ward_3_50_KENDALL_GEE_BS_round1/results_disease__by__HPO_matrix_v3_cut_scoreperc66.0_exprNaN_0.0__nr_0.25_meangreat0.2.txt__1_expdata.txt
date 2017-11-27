@@ -1,0 +1,20 @@
+	"Hypocalcemic vitamin D-dependent rickets"	"Dent disease type 1"	"Hypophosphatemic rickets, X-linked recessive"	"Vitamin d hydroxylation-deficient rickets, type 1b"
+"HP:0001419"	0.0	1.0	1.0	0.0
+"Hypophosphatemia"	1.0	1.0	1.0	1.0
+"Tibial bowing"	1.0	1.0	1.0	1.0
+"Osteomalacia"	0.0	1.0	1.0	0.0
+"Recurrent fractures"	1.0	1.0	1.0	1.0
+"Bowing of the legs"	1.0	1.0	1.0	1.0
+"Bone pain"	1.0	1.0	1.0	1.0
+"Femoral bowing"	1.0	1.0	1.0	1.0
+"Delayed epiphyseal ossification"	1.0	1.0	1.0	1.0
+"Rickets"	1.0	1.0	1.0	1.0
+"Thin bony cortex"	1.0	1.0	1.0	1.0
+"Metaphyseal irregularity"	1.0	1.0	1.0	1.0
+"Renal phosphate wasting"	0.0	1.0	1.0	0.0
+"Sparse bone trabeculae"	1.0	1.0	1.0	1.0
+"Bulging epiphyses"	1.0	1.0	1.0	1.0
+"Enlargement of the wrists"	1.0	1.0	1.0	1.0
+"Enlargement of the ankles"	1.0	1.0	1.0	1.0
+"Increased serum 1,25-dihydroxyvitamin D3"	0.0	1.0	1.0	0.0
+"Fibular bowing"	1.0	1.0	1.0	1.0

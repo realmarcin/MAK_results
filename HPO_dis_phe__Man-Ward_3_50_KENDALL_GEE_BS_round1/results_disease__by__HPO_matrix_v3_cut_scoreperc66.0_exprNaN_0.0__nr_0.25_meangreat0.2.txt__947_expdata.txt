@@ -1,0 +1,13 @@
+	"Townes syndrome"	"Facial Dysmorphism With Multiple Malformations"	"Phace Association"	"Orphanet:1647"	"Orphanet:1780"
+"Microphthalmia"	0.0	0.0	1.0	0.0	0.0
+"Horner syndrome"	0.0	0.0	1.0	0.0	0.0
+"Migraine"	0.0	0.0	1.0	0.0	0.0
+"Congenital cataract"	0.0	0.0	1.0	0.0	0.0
+"Cavernous hemangioma of the face"	0.0	0.0	1.0	0.0	0.0
+"Congenital hypothyroidism"	0.0	0.0	1.0	0.0	0.0
+"Aortic aneurysm"	0.0	0.0	1.0	0.0	0.0
+"Anomalous branches of internal carotid artery"	0.0	0.0	1.0	0.0	0.0
+"Plaque-like facial hemangioma"	0.0	0.0	1.0	0.0	0.0
+"Increased retinal vascularity"	0.0	0.0	1.0	0.0	0.0
+"Lingual thyroid"	0.0	0.0	1.0	0.0	0.0
+"Arterial stenosis"	0.0	0.0	1.0	0.0	0.0

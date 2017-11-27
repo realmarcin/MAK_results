@@ -1,0 +1,7 @@
+"x"
+"1" "Craniometaphyseal.dysplasia..a"
+"2" "Craniometaphyseal.Dysplasia..A"
+"3" "Symphalangism.With.Multiple.An"
+"4" "Frontonasal.Dysplasia.With.Ala"
+"5" "Orphanet.3246"
+"6" "Orphanet.398173"

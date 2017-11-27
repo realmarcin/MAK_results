@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Scoliosis"
+"3" "Cervical C5/C6 vertebrae fusion"
+"4" "Cervical C2/C3 vertebral fusion"
+"5" "Irido-fundal coloboma"

@@ -1,0 +1,13 @@
+	"Sphingolipid activator protein 1 deficiency"	"Metachromatic leukodystrophy, adult form"	"Parkinson disease 9"	"SCAR4"	"Spastic Ataxia 4, Autosomal Recessive"	"Spinocerebellar Ataxia, Autosomal Recessive 15"	"Epilepsy, progressive myoclonic, 10"	"Spasticity, childhood-onset, with hyperglycinemia"	"Orphanet:1182"	"Orphanet:324290"
+"Seizures"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Myoclonus"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Mental deterioration"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Progressive cerebellar ataxia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Psychosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Confusion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Paranoia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Mutism"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Spastic tetraparesis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Generalized myoclonic seizures"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Lafora bodies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0

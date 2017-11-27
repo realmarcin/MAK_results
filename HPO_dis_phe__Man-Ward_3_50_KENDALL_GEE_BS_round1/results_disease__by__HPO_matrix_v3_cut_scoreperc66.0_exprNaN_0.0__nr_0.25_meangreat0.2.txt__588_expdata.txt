@@ -1,0 +1,7 @@
+	"X-linked intellectual disability, Cantagrel type"	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	1.0	0.0	0.0	0.0
+"Hyperactivity"	1.0	0.0	0.0	0.0
+"Short philtrum"	1.0	0.0	0.0	0.0
+"Round face"	1.0	0.0	0.0	0.0
+"Stereotypy"	1.0	0.0	0.0	0.0
+"Esotropia"	1.0	0.0	0.0	0.0

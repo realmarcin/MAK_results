@@ -1,0 +1,6 @@
+"x"
+"1" "Proteus.syndrome"
+"2" "Palmoplantar.keratoderma..muti"
+"3" "Psoriasis.2"
+"4" "Ichthyosis..Congenital..Autoso"
+"5" "Palmoplantar.carcinoma..multip"

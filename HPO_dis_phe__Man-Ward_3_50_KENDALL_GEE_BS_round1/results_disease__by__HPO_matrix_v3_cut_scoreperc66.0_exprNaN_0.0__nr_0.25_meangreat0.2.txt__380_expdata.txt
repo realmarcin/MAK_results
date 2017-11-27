@@ -1,0 +1,15 @@
+	"Neuronopathy, Distal Hereditary Motor, Type 2A"	"Scapuloperoneal spinal muscular atrophy"	"Distal spinal muscular atrophy type 3"	"Neuronopathy, Distal Hereditary Motor, Type 2B"	"myofibrillar myopathy 3"	"myofibrillar myopathy 4"	"Neuronopathy, Distal Hereditary Motor, Type 2C"	"Myopathy, distal, 4"
+"Peripheral neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Cardiomyopathy"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+"HP:0003584"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Polyneuropathy"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"HP:0003677"	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Steppage gait"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Areflexia of lower limbs"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Hyporeflexia of lower limbs"	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Paresis of extensor muscles of the big toe"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Distal lower limb muscle weakness"	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Progressive distal muscle weakness"	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Progressive proximal muscle weakness"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Autophagic vacuoles"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Distal upper limb muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

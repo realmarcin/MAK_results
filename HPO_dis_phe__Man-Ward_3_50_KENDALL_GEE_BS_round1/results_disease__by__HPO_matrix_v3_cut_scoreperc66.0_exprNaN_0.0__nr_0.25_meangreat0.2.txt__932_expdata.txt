@@ -1,0 +1,11 @@
+	"Ulnar Agenesis and Endocardial Fibroelastosis"	"Hydrops fetalis"	"Orphanet:158029"	"Diffuse neonatal hemangiomatosis"	"Orphanet:2781"
+"Renal insufficiency"	0.0	0.0	0.0	1.0	0.0
+"Premature birth"	0.0	0.0	0.0	1.0	0.0
+"Anemia"	0.0	0.0	0.0	1.0	0.0
+"Hypercalcemia"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the voice"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of coagulation"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the vagina"	0.0	0.0	0.0	1.0	0.0
+"Renal hypoplasia/aplasia"	0.0	0.0	0.0	1.0	0.0
+"Visceral angiomatosis"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the skull"	0.0	0.0	0.0	1.0	0.0

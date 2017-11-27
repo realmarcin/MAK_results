@@ -1,0 +1,11 @@
+	"Systemic Lupus Erythematosus"	"Thrombocytopenia With Elevated Serum Iga and Renal Disease"	"Von Willebrand Disease, X-Linked Form"	"Autoinflammatory syndrome, familial, Behcet-like"
+"HP:0000006"	1.0	0.0	0.0	1.0
+"Hemolytic anemia"	1.0	0.0	0.0	1.0
+"Cutaneous photosensitivity"	1.0	0.0	0.0	0.0
+"Arthritis"	1.0	0.0	0.0	0.0
+"Psychosis"	1.0	0.0	0.0	0.0
+"Systemic lupus erythematosus"	1.0	0.0	0.0	0.0
+"Pleuritis"	1.0	0.0	0.0	0.0
+"Pericarditis"	1.0	0.0	0.0	0.0
+"Antinuclear antibody positivity"	1.0	0.0	0.0	1.0
+"Antiphospholipid antibody positivity"	1.0	0.0	0.0	0.0

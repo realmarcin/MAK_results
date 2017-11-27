@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Disc-like vertebral bodies"
+"3" "Decreased cranial base ossification"
+"4" "Severe limb shortening"

@@ -1,0 +1,6 @@
+"x"
+"1" "Multiple.joint.dislocations..s"
+"2" "Martsolf.syndrome"
+"3" "Cranioectodermal.Dysplasia.1"
+"4" "Larsen.Like.Syndrome..Lethal.T"
+"5" "Microcephalic.Osteodysplastic."

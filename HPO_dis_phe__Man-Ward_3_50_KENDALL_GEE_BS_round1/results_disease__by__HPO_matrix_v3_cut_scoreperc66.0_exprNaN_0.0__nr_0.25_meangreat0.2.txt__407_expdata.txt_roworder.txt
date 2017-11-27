@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.217346"
+"2" "Insulin.Like.Growth.Factor.I.."
+"3" "Orphanet.2500"
+"4" "Orphanet.2637"
+"5" "Orphanet.2850"

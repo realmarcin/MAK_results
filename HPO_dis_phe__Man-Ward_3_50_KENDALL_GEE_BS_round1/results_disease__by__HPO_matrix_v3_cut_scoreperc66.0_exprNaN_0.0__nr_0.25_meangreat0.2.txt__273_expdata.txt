@@ -1,0 +1,12 @@
+	"Myotonia With Skeletal Abnormalities and Mental Retardation"	"Pyle metaphyseal dysplasia"	"Brachyolmia-amelogenesis imperfecta syndrome"	"Spondyloepiphyseal Dysplasia, Stanescu Type"
+"Mandibular prognathia"	0.0	1.0	1.0	0.0
+"Abnormality of the thorax"	0.0	1.0	0.0	0.0
+"Limited elbow extension"	0.0	1.0	0.0	0.0
+"Carious teeth"	0.0	1.0	0.0	0.0
+"Platyspondyly"	0.0	1.0	1.0	1.0
+"Arthralgia"	0.0	1.0	0.0	1.0
+"Thickened calvaria"	0.0	1.0	0.0	0.0
+"Muscle weakness"	0.0	1.0	0.0	0.0
+"Absent paranasal sinuses"	0.0	1.0	0.0	0.0
+"Hypoplastic frontal sinuses"	0.0	1.0	0.0	0.0
+"Reduced bone mineral density"	0.0	1.0	0.0	0.0

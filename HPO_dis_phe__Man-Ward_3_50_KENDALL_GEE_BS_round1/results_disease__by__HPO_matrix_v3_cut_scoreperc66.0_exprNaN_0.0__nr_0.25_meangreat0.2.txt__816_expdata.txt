@@ -1,0 +1,19 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Velofacioskeletal Syndrome"	"Orphanet:166277"	"Orphanet:3246"	"Orphanet:3424"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Nasal speech"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Long face"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Facial asymmetry"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Broad palm"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Short palm"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Large hands"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Short foot"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Short thumb"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Premature birth"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the dentition"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Posteriorly rotated ears"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"High, narrow palate"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Prominent fingertip pads"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Abnormality of the thumb"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Thickened nuchal skin fold"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hyperextensible hand joints"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"X-linked intellectual disability with marfanoid habitus"	"Macrocephaly, Dysmorphic Facies, and Psychomotor Retardation; MDFPMR"	"Mental retardation, autosomal dominant 44"	"Orphanet:250994"	"Orphanet:251019"	"Orphanet:254351"	"Orphanet:261197"	"16p13.11 microduplication syndrome"	"Orphanet:776"
+"Intellectual disability"	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Atrial septal defect"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Craniosynostosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Pes planus"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Ventricular septal defect"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Tetralogy of Fallot"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Coarctation of aorta"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Dolichocephaly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Transposition of the great arteries"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

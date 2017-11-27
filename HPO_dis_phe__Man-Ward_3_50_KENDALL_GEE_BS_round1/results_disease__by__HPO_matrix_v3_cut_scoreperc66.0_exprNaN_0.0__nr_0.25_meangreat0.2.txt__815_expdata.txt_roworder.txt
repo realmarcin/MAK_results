@@ -1,0 +1,7 @@
+"x"
+"1" "Keipert.syndrome"
+"2" "Orphanet.2662"
+"3" "Symphalangism.With.Multiple.An"
+"4" "Frontonasal.Dysplasia.With.Ala"
+"5" "Orphanet.3246"
+"6" "Orphanet.398173"

@@ -1,0 +1,9 @@
+	"Spastic paraplegia 15"	"Distal hereditary motor neuronopathy type 5"	"Charcot-Marie-Tooth Disease, Axonal, Type 2D"	"hereditary spastic paraplegia 11"
+"Visual impairment"	1.0	0.0	0.0	1.0
+"Reduced visual acuity"	1.0	0.0	0.0	0.0
+"Spastic paraplegia"	1.0	0.0	0.0	1.0
+"Bowel incontinence"	1.0	0.0	0.0	0.0
+"Psychosis"	1.0	0.0	0.0	0.0
+"Macular degeneration"	1.0	0.0	0.0	1.0
+"Mood swings"	1.0	0.0	0.0	0.0
+"Retinal degeneration"	1.0	0.0	0.0	1.0

@@ -1,0 +1,39 @@
+	"Friedreich Ataxia and Congenital Glaucoma"	"Parkinson-Dementia Syndrome"	"Charcot-Marie-Tooth Peroneal Muscular Atrophy and Friedreich Ataxia, Combined"	"FRDA2"
+"Pes cavus"	1.0	0.0	1.0	1.0
+"Impaired vibratory sensation"	1.0	0.0	1.0	1.0
+"Impaired proprioception"	0.0	0.0	1.0	0.0
+"Nystagmus"	1.0	0.0	1.0	1.0
+"Diabetes mellitus"	0.0	0.0	1.0	0.0
+"Scoliosis"	1.0	0.0	1.0	1.0
+"HP:0001417"	0.0	0.0	1.0	0.0
+"HP:0000007"	1.0	0.0	0.0	1.0
+"Ataxia"	1.0	0.0	1.0	1.0
+"HP:0003621"	1.0	0.0	1.0	1.0
+"Dysarthria"	1.0	0.0	1.0	1.0
+"Congestive heart failure"	1.0	0.0	1.0	1.0
+"Babinski sign"	1.0	0.0	1.0	1.0
+"Areflexia"	0.0	0.0	1.0	0.0
+"Hammertoe"	1.0	0.0	1.0	1.0
+"Distal sensory impairment"	0.0	0.0	1.0	0.0
+"Steppage gait"	0.0	0.0	1.0	0.0
+"Foot dorsiflexor weakness"	0.0	0.0	1.0	0.0
+"Reduced tendon reflexes"	1.0	0.0	0.0	1.0
+"Incoordination"	0.0	0.0	0.0	1.0
+"Weakness of the intrinsic hand muscles"	0.0	0.0	1.0	0.0
+"Decreased amplitude of sensory action potentials"	1.0	0.0	0.0	0.0
+"Abnormal EKG"	1.0	0.0	1.0	1.0
+"Congenital glaucoma"	1.0	0.0	0.0	0.0
+"Concentric hypertrophic cardiomyopathy"	1.0	0.0	1.0	1.0
+"Morphological abnormality of the pyramidal tract"	1.0	1.0	1.0	1.0
+"Abnormal echocardiogram"	1.0	0.0	1.0	1.0
+"Decreased pyruvate carboxylase activity"	1.0	0.0	1.0	1.0
+"Mitochondrial malic enzyme reduced"	1.0	0.0	1.0	1.0
+"Muscular subvalvular aortic stenosis"	1.0	0.0	1.0	1.0
+"Diabetic ketoacidosis"	1.0	0.0	1.0	1.0
+"Abnormality of the spinocerebellar tracts"	1.0	0.0	1.0	1.0
+"Abnormality of the dorsal column of the spinal cord"	1.0	0.0	1.0	1.0
+"Abnormality of the medulla oblongata"	1.0	0.0	1.0	1.0
+"Abnormality of peripheral nerve conduction"	0.0	0.0	1.0	1.0
+"Intrinsic hand muscle atrophy"	0.0	0.0	1.0	0.0
+"Tibialis muscle weakness"	0.0	0.0	1.0	0.0
+"Tibialis atrophy"	0.0	0.0	1.0	0.0

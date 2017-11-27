@@ -1,0 +1,21 @@
+	"Orotic Aciduria"	"Timothy Syndrome"	"Seckel syndrome 9"	"Orphanet:30"
+"Downslanted palpebral fissures"	0.0	0.0	0.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Wide nasal bridge"	0.0	0.0	0.0	1.0
+"HP:0000007"	1.0	0.0	1.0	0.0
+"Splenomegaly"	0.0	0.0	0.0	1.0
+"Hematuria"	1.0	0.0	0.0	0.0
+"Hip dysplasia"	0.0	0.0	0.0	1.0
+"Anemia"	0.0	0.0	0.0	1.0
+"Low-set, posteriorly rotated ears"	0.0	0.0	0.0	1.0
+"Aminoaciduria"	0.0	0.0	0.0	1.0
+"Abnormality of the ureter"	0.0	0.0	0.0	1.0
+"Impaired T cell function"	1.0	0.0	0.0	1.0
+"Oroticaciduria"	1.0	0.0	0.0	1.0
+"Abnormal toenail morphology"	0.0	0.0	0.0	1.0
+"Poikilocytosis"	1.0	0.0	0.0	0.0
+"Anisocytosis"	1.0	0.0	0.0	0.0
+"Reduced orotidine 5-prime phosphate decarboxylase activity"	1.0	0.0	0.0	0.0
+"Pyrimidine-responsive megaloblastic anemia"	1.0	0.0	0.0	0.0
+"Orotic acid crystalluria"	1.0	0.0	0.0	1.0
+"Folate-unresponsive megaloblastic anemia"	1.0	0.0	0.0	0.0

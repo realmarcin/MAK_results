@@ -1,0 +1,16 @@
+	"Limb-girdle muscular dystrophy, type 2E"	"Limb-girdle muscular dystrophy, type 2D"	"Limb-girdle muscular dystrophy-dystroglycanopathy, type C1"	"Limb-girdle muscular dystrophy, type 2Q"	"Muscular Dystrophy-Dystroglycanopathy (Limb-Girdle), Type C, 9"	"Muscular dystrophy, limb-girdle, type 2r"	"autosomal recessive limb-girdle muscular dystrophy type 2X"
+"Microcephaly"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Delayed speech and language development"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Lumbar hyperlordosis"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Cardiomyopathy"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003621"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Limb-girdle muscle weakness"	1.0	1.0	1.0	0.0	1.0	0.0	1.0
+"Unsteady gait"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Easy fatigability"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Ankle contracture"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Spinal rigidity"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Limb-girdle muscular dystrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Limb-girdle muscle atrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

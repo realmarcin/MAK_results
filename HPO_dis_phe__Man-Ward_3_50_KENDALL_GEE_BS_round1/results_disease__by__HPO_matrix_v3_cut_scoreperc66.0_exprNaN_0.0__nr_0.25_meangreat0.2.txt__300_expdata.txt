@@ -1,0 +1,11 @@
+	"Peroxisome Biogenesis Disorder 1A (Zellweger)"	"Peroxisome biogenesis disorder 2a (zellweger)"	"Mullerian derivatives-lymphangiectasia-polydactyly syndrome"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Orphanet:1655"	"Orphanet:912"
+"Cryptorchidism"	1.0	1.0	1.0	1.0	1.0	1.0
+"Death in childhood"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000113"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Joint contracture of the hand"	0.0	1.0	0.0	0.0	0.0	0.0
+"Dolichocephaly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Apnea"	0.0	1.0	0.0	0.0	0.0	0.0
+"Turricephaly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the mitochondrion"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the thymus"	0.0	1.0	0.0	0.0	0.0	0.0

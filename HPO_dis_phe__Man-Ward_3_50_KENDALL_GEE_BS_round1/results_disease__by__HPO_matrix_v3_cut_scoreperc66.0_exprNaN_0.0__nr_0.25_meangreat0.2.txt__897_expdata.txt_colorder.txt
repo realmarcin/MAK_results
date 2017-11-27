@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Overlapping toe"
+"3" "Ovarian cyst"
+"4" "Subglottic stenosis"
+"5" "Contracture of the proximal interphalangeal joint of the 2nd finger"

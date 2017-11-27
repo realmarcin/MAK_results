@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of ganglioside metabolism"
+"2" "Developmental stagnation"
+"3" "Progressive retinal degeneration"
+"4" "Abnormality of mucopolysaccharide metabolism"
+"5" "Spinocerebellar tract disease in lower limbs"

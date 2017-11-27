@@ -1,0 +1,6 @@
+"x"
+"1" "right.atrial.isomerism"
+"2" "Heterotaxy..Visceral..1..X.Lin"
+"3" "Heterotaxy..Visceral..7..Autos"
+"4" "Heterotaxy..Visceral..8..Autos"
+"5" "Porencephaly.cerebellar.hypopl"

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Congenital hypertrophy of left ventricle"
+"3" "Widened posterior fossa"
+"4" "Hypoplastic ischiopubic rami"

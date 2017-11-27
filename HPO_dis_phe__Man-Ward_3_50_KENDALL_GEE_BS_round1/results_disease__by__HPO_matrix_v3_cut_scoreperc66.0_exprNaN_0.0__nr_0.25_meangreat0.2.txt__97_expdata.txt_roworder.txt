@@ -1,0 +1,7 @@
+"x"
+"1" "Lipodystrophy..Congenital.Gene"
+"2" "Lipodystrophy..Congenital.Gene"
+"3" "Aarskog.Scott.Syndrome"
+"4" "Lipodystrophy..Congenital.Gene"
+"5" "Orphanet.280356"
+"6" "Orphanet.740"

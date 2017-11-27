@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Fusion of midphalangeal joints"
+"3" "Hypoplastic spinal processes"
+"4" "Progressive conductive hearing impairment"

@@ -1,0 +1,7 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orphanet:3246"	"Orphanet:329329"	"Orphanet:398173"
+"Muscular hypotonia"	0.0	0.0	0.0	1.0	0.0
+"Hypertelorism"	0.0	0.0	0.0	1.0	0.0
+"Delayed speech and language development"	0.0	0.0	0.0	1.0	0.0
+"Generalized tonic-clonic seizures"	0.0	0.0	0.0	1.0	0.0
+"Urinary incontinence"	0.0	0.0	0.0	1.0	0.0
+"Reduced tendon reflexes"	0.0	0.0	0.0	1.0	0.0

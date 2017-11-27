@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Gastrostomy tube feeding in infancy"
+"3" "Extra-axial cerebrospinal fluid accumulation"
+"4" "Reduced brain N-acetyl aspartate level by MRS"

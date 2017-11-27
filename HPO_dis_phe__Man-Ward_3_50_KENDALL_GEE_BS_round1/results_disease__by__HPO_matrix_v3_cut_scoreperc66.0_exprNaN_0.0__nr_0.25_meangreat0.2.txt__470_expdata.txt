@@ -1,0 +1,19 @@
+	"Momo Syndrome"	"Chromosome 9P Deletion Syndrome"	"acromelic frontonasal dysostosis"	"Chromosome 5P13 Duplication Syndrome"	"Orphanet:66625"	"Orphanet:98791"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
+"Overgrowth"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cutis marmorata"	1.0	0.0	0.0	0.0	0.0	0.0
+"High forehead"	1.0	0.0	0.0	0.0	0.0	1.0
+"Delayed eruption of teeth"	1.0	0.0	0.0	0.0	0.0	0.0
+"Dental malocclusion"	1.0	0.0	0.0	0.0	0.0	0.0
+"Large hands"	1.0	0.0	0.0	1.0	0.0	0.0
+"Long foot"	1.0	0.0	0.0	1.0	0.0	0.0
+"Thick lower lip vermilion"	1.0	0.0	0.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Taurodontia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Glaucoma"	1.0	0.0	1.0	0.0	0.0	0.0
+"Hyperconvex nail"	1.0	1.0	0.0	0.0	0.0	0.0
+"Blindness"	1.0	0.0	0.0	0.0	1.0	0.0
+"Retinal coloboma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Short sternum"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cleft eyelid"	1.0	0.0	0.0	0.0	0.0	0.0
+"Underfolded helix"	1.0	0.0	0.0	0.0	0.0	0.0

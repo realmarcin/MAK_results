@@ -1,0 +1,18 @@
+	"Acromegaloid facial appearance syndrome"	"Mastocytosis"	"Watson Syndrome"	"gastrointestinal stromal tumor"
+"Neurofibromas"	0.0	0.0	1.0	1.0
+"Dysphagia"	0.0	0.0	0.0	1.0
+"Constipation"	0.0	0.0	0.0	1.0
+"Bulbous nose"	1.0	0.0	0.0	0.0
+"Tapered finger"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Large hands"	1.0	0.0	0.0	1.0
+"Abnormality of the mouth"	1.0	0.0	0.0	0.0
+"Blepharophimosis"	1.0	0.0	0.0	0.0
+"Specific learning disability"	1.0	0.0	0.0	0.0
+"Large for gestational age"	1.0	0.0	0.0	0.0
+"Highly arched eyebrow"	1.0	0.0	0.0	0.0
+"Hyperpigmentation of the skin"	0.0	0.0	0.0	1.0
+"HP:0003745"	0.0	0.0	0.0	1.0
+"Gastrointestinal stroma tumor"	0.0	0.0	0.0	1.0
+"Urticaria"	0.0	1.0	0.0	1.0
+"Intestinal obstruction"	0.0	0.0	0.0	1.0

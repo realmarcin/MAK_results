@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of the skeletal system"
+"2" "Curly hair"
+"3" "Early balding"
+"4" "Hypocupremia"
+"5" "Abnormality of the nervous system"

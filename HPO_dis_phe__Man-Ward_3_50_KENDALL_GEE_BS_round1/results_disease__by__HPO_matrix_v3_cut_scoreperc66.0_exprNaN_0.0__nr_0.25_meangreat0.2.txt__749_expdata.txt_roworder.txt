@@ -1,0 +1,5 @@
+"x"
+"1" "hypomyelinating.leukodystrophy"
+"2" "Heterotopia..periventricular.."
+"3" "D.2.hydroxyglutaric.aciduria.2"
+"4" "Periventricular.Nodular.Hetero"

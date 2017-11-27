@@ -1,0 +1,7 @@
+"x"
+"1" "Foveoschisis"
+"2" "Abnormality of the fovea"
+"3" "Optic disc drusen"
+"4" "Scleral thickening"
+"5" "Abnormal light- and dark-adapted electroretinogram"
+"6" "Yellow/white lesions of the macula"

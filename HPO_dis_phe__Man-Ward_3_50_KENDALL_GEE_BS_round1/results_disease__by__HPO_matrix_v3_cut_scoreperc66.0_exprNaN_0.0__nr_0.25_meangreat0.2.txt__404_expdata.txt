@@ -1,0 +1,14 @@
+	"Branchioskeletogenital syndrome"	"Hydroxykynureninuria"	"Marfanoid Habitus With Microcephaly and Glomerulonephritis"	"Encephalopathy due to beta-mercaptolactate-cysteine disulfiduria"	"Sotos Syndrome 3; SOTOS3"	"Epilepsy, early-onset, vitamin b6-dependent"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
+"Mandibular prognathia"	1.0	0.0	1.0	0.0	1.0	0.0
+"Hyperactivity"	0.0	0.0	0.0	0.0	1.0	0.0
+"Long face"	0.0	0.0	0.0	0.0	1.0	0.0
+"Depressed nasal bridge"	0.0	0.0	0.0	1.0	0.0	0.0
+"Glomerulonephritis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Renal insufficiency"	0.0	0.0	1.0	0.0	0.0	0.0
+"Disproportionate tall stature"	0.0	0.0	1.0	0.0	0.0	0.0
+"Relative macrocephaly"	0.0	0.0	0.0	0.0	1.0	0.0
+"High, narrow palate"	0.0	0.0	1.0	1.0	0.0	0.0
+"Aminoaciduria"	0.0	1.0	0.0	1.0	0.0	0.0
+"HP:0002375"	0.0	0.0	0.0	1.0	0.0	0.0
+"Poor speech"	0.0	0.0	0.0	0.0	1.0	1.0

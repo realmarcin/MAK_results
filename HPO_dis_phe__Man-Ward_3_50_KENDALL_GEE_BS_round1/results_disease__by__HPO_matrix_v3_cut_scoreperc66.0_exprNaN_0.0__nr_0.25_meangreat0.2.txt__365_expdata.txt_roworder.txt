@@ -1,0 +1,8 @@
+"x"
+"1" "Tokita.Kim.Syndrome..TOKIMS"
+"2" "Intellectual.disability.microc"
+"3" "Neurodevelopmental.disorder.wi"
+"4" "Autosomal.dominant.intellectua"
+"5" "Palatal.anomalies.widely.space"
+"6" "Shashi.Pena.Syndrome..SHAPNS"
+"7" "Wiedemann.Steiner.Syndrome"

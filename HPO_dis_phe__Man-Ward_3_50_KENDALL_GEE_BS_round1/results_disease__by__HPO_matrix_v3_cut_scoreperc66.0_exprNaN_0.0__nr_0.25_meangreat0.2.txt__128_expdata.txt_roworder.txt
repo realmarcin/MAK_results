@@ -1,0 +1,6 @@
+"x"
+"1" "Familial.glucocorticoid.defici"
+"2" "Glucocorticoid.deficiency.2"
+"3" "Adrenocortical.Unresponsivenes"
+"4" "GCCD3"
+"5" "Lazy.Leukocyte.Syndrome"

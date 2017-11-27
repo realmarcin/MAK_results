@@ -1,0 +1,7 @@
+	"Multicentric carpo-tarsal osteolysis with or without nephropathy"	"Primary pulmonary hypertension"	"Dermatoosteolysis, Kirghizian type"	"Ketoadipicaciduria"	"Radial aplasia-thrombocytopenia syndrome"	"Pterygium colli-intellectual disability-digital anomalies syndrome"	"Primary pulmonary hypertension 2"	"Primary pulmonary hypertension 3"	"Primary pulmonary hypertension 4"	"Hereditary angioedema type 1"	"Idiopathic pulmonary arterial hypertension"
+"Ankle swelling"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Right ventricular hypertrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Increased pulmonary vascular resistance"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Edema of the dorsum of hands"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Edema of the dorsum of feet"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal jugular vein morphology"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

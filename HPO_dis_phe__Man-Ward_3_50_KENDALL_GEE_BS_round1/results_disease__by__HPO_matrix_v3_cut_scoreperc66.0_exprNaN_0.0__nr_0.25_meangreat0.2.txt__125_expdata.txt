@@ -1,0 +1,10 @@
+	"CMM1"	"Melanoma, Cutaneous Malignant, Susceptibility To, 2"	"Melanoma-Astrocytoma Syndrome"	"Melanoma, Cutaneous Malignant, Susceptibility To, 3"	"Tumor Predisposition Syndrome"	"Melanoma, Cutaneous Malignant, Susceptibility To, 8"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Meningioma"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cutaneous melanoma"	1.0	1.0	1.0	1.0	1.0	1.0
+"Lung adenocarcinoma"	0.0	0.0	0.0	0.0	1.0	0.0
+"Numerous nevi"	1.0	0.0	0.0	1.0	0.0	0.0
+"Atypical nevus"	1.0	0.0	0.0	1.0	0.0	0.0
+"Atypical nevi in non-sun exposed areas"	1.0	0.0	0.0	1.0	0.0	0.0
+"Intraocular melanoma"	1.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,23 @@
+	"Meckel Syndrome, Type 2"	"OMIM:607261"	"Meckel Syndrome, Type 3"	"Meckel Syndrome, Type 4"	"Meckel Syndrome, Type 5"	"Meckel Syndrome, Type 6"
+"Microcephaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Atrial septal defect"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the urinary system"	0.0	0.0	0.0	0.0	1.0	0.0
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0	1.0
+"Cleft upper lip"	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0000007"	1.0	0.0	1.0	1.0	1.0	1.0
+"Talipes equinovarus"	0.0	0.0	0.0	0.0	0.0	1.0
+"Ventricular septal defect"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hydrocephalus"	0.0	1.0	1.0	1.0	0.0	1.0
+"Postaxial hand polydactyly"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001425"	0.0	0.0	0.0	0.0	1.0	0.0
+"Agenesis of cerebellar vermis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Pulmonary hypoplasia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Postaxial foot polydactyly"	0.0	0.0	0.0	0.0	1.0	0.0
+"Occipital encephalocele"	0.0	0.0	0.0	0.0	1.0	1.0
+"Hepatic fibrosis"	0.0	1.0	1.0	0.0	0.0	1.0
+"Anencephaly"	1.0	0.0	0.0	1.0	1.0	1.0
+"Bile duct proliferation"	1.0	1.0	1.0	1.0	1.0	1.0
+"Molar tooth sign on MRI"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal internal genitalia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cystic liver disease"	0.0	0.0	0.0	0.0	0.0	1.0

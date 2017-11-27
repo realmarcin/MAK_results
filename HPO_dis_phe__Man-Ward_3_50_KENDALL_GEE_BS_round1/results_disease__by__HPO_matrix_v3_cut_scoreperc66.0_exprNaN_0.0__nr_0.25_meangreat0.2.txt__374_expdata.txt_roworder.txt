@@ -1,0 +1,7 @@
+"x"
+"1" "Primary.microcephaly.epilepsy."
+"2" "Tetrasomy.5p"
+"3" "Adenylosuccinase.Deficiency"
+"4" "Bifunctional.peroxisomal.enzym"
+"5" "Bone.fragility.with.contractur"
+"6" "Immunodeficiency.26.With.or.Wi"

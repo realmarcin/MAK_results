@@ -1,0 +1,13 @@
+	"Craniosynostosis With Anomalies of the Cranial Base and Digits"	"Craniosynostosis-fibular aplasia syndrome"	"Autosomal recessive hypophosphatemic vitamin D refractory rickets"	"Summitt Syndrome"	"Radiohumeral fusions with other skeletal and craniofacial anomalies"
+"Sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0
+"Craniosynostosis"	1.0	1.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Hypophosphatemia"	0.0	0.0	1.0	0.0	0.0
+"Absent thumb"	1.0	0.0	0.0	0.0	0.0
+"Increased bone mineral density"	0.0	0.0	1.0	0.0	0.0
+"Proximal placement of thumb"	1.0	0.0	0.0	0.0	0.0
+"Rickets"	0.0	0.0	1.0	0.0	0.0
+"Preaxial foot polydactyly"	1.0	0.0	0.0	0.0	0.0
+"Hypophosphatemic rickets"	0.0	0.0	1.0	0.0	0.0
+"Absent middle phalanx of 5th finger"	1.0	0.0	0.0	0.0	0.0
+"Absent middle phalanx of 2nd finger"	1.0	0.0	0.0	0.0	0.0

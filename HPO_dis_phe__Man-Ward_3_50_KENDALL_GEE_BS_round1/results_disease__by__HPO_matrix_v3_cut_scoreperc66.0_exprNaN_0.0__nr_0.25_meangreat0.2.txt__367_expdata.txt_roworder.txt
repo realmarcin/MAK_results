@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.300536"
+"2" "Congenital.Disorder.of.Glycosy"
+"3" "Peroxisome.biogenesis.disorder"
+"4" "Mitochondrial.Dna.Depletion.Sy"
+"5" "Orphanet.2971"

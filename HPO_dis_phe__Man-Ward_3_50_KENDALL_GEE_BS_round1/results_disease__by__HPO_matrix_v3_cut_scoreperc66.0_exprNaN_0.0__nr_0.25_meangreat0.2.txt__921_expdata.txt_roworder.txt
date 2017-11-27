@@ -1,0 +1,6 @@
+"x"
+"1" "Ciliary.Dyskinesia..Primary..1"
+"2" "Mucus.Inspissation.of.Respirat"
+"3" "Ciliary.Dyskinesia..Primary..3"
+"4" "Cd8.Deficiency..Familial"
+"5" "primary.ciliary.dyskinesia.35"

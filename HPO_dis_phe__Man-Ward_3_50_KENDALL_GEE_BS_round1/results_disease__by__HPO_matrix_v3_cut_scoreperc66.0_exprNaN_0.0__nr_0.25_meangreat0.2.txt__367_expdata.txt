@@ -1,0 +1,16 @@
+	"Congenital Disorder of Glycosylation, Type Ia"	"Peroxisome biogenesis disorder 11A"	"Mitochondrial Dna Depletion Syndrome 13 (Encephalomyopathic Type)"	"Orphanet:2971"	"Orphanet:300536"
+"Accelerated skeletal maturation"	0.0	0.0	0.0	0.0	1.0
+"Constipation"	0.0	0.0	0.0	0.0	1.0
+"Gastroesophageal reflux"	0.0	0.0	1.0	0.0	1.0
+"Neurological speech impairment"	0.0	0.0	0.0	1.0	1.0
+"Esotropia"	1.0	0.0	0.0	0.0	1.0
+"Osteopenia"	1.0	0.0	0.0	0.0	1.0
+"CNS hypomyelination"	0.0	1.0	0.0	0.0	1.0
+"Dry skin"	0.0	0.0	0.0	0.0	1.0
+"Elevated hepatic transaminases"	1.0	1.0	1.0	0.0	1.0
+"Lipodystrophy"	0.0	0.0	0.0	0.0	1.0
+"Primary hypothyroidism"	0.0	0.0	0.0	0.0	1.0
+"Oromotor apraxia"	0.0	0.0	0.0	0.0	1.0
+"Recurrent ear infections"	0.0	0.0	0.0	0.0	1.0
+"Neurodevelopmental delay"	0.0	0.0	0.0	0.0	1.0
+"Nephrotic range proteinuria"	0.0	0.0	0.0	0.0	1.0

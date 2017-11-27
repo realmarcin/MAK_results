@@ -1,0 +1,5 @@
+"x"
+"1" "Infantile.hypophosphatasia"
+"2" "Hypophosphatasia..Childhood"
+"3" "Orphanet.2097"
+"4" "Orphanet.436"

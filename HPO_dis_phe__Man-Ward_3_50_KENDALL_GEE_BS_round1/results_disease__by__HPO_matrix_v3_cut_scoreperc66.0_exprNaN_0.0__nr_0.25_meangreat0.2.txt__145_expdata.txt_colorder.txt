@@ -1,0 +1,8 @@
+"x"
+"1" "Metacarpal osteolysis"
+"2" "Wrist swelling"
+"3" "Carpal osteolysis"
+"4" "Metatarsal osteolysis"
+"5" "Osteolysis involving tarsal bones"
+"6" "Thin metacarpal cortices"
+"7" "Interphalangeal joint contracture of finger"

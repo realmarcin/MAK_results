@@ -1,0 +1,9 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Orphanet:75392"	"Orphanet:90309"
+"Microdontia"	0.0	0.0	1.0	0.0
+"Micrognathia"	0.0	0.0	1.0	0.0
+"Hyperextensible skin"	0.0	0.0	1.0	0.0
+"Hypermelanotic macule"	0.0	0.0	1.0	0.0
+"Gingival overgrowth"	0.0	0.0	1.0	0.0
+"Premature loss of primary teeth"	0.0	0.0	1.0	0.0
+"Agenesis of permanent teeth"	0.0	0.0	1.0	0.0
+"Atrophy of alveolar ridges"	0.0	0.0	1.0	0.0

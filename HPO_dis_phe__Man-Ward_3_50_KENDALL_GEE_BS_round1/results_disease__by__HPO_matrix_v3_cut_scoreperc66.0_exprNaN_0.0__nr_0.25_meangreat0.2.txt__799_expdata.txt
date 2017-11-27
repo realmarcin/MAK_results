@@ -1,0 +1,11 @@
+	"Aase-Smith Syndrome 1"	"Klippel-Feil syndrome 2, autosomal recessive"	"Multinucleated Neurons, Anhydramnios, Renal Dysplasia, Cerebellar Hypoplasia, and Hydranencephaly"	"Nephrosis-deafness-urinary tract-digital malformations syndrome"	"Lethal omphalocele-cleft palate syndrome"	"ACLH"	"Cowden Syndrome 4"	"OMIM:617478"	"Orphanet:398189"	"Orphanet:916"
+"Cleft palate"	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Abnormality of the pinna"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Flexion contracture"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hydrocephalus"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Open mouth"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dandy-Walker malformation"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Death in infancy"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Bicornuate uterus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Slender finger"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Congenital neuroblastoma"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Hepatic periportal necrosis"
+"3" "Defective dehydrogenation of isovaleryl CoA and butyryl CoA"
+"4" "Electron transfer flavoprotein-ubiquinone oxidoreductase defect"

@@ -1,0 +1,5 @@
+"x"
+"1" "Spondylocostal.dysostosis.anal"
+"2" "Orphanet.94095"
+"3" "Gamma.A.Globulin..Defect.1N.As"
+"4" "Orphanet.244"

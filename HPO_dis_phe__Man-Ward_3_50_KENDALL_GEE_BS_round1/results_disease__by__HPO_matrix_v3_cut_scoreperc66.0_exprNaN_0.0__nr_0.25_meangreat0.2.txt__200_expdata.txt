@@ -1,0 +1,5 @@
+	"Amyotrophic lateral sclerosis type 1"	"cadasil"	"Leukodystrophy, adult-onset, autosomal dominant"	"Cerebrotendinous Xanthomatosis"	"BPPX"	"Secondary syringomyelia"
+"Increased CSF protein"	0.0	0.0	0.0	0.0	0.0	1.0
+"Pseudobulbar paralysis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Dyslexia"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0001423"	0.0	0.0	0.0	0.0	1.0	0.0

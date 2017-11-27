@@ -1,0 +1,11 @@
+	"keratosis follicularis"	"Orphanet:218"	"Orphanet:304"	"Orphanet:312"	"Orphanet:46487"	"Orphanet:79397"
+"Acrokeratosis"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the hair"	0.0	1.0	0.0	0.0	1.0	0.0
+"Pruritus"	1.0	1.0	0.0	0.0	1.0	0.0
+"Palmoplantar keratoderma"	0.0	1.0	1.0	1.0	0.0	1.0
+"Plantar pits"	1.0	1.0	0.0	0.0	0.0	0.0
+"Congenital bullous ichthyosiform erythroderma"	0.0	0.0	0.0	1.0	0.0	0.0
+"Subungual hyperkeratotic fragments"	1.0	1.0	0.0	0.0	0.0	0.0
+"Poor appetite"	0.0	0.0	0.0	1.0	0.0	0.0
+"Anal mucosal leukoplakia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Conjunctival hamartoma"	0.0	0.0	0.0	1.0	0.0	0.0

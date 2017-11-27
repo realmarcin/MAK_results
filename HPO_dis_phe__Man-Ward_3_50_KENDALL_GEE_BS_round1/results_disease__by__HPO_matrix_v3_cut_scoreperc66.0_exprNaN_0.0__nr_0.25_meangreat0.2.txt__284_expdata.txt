@@ -1,0 +1,7 @@
+	"Deoxyribose-5-Phosphate Aldolase Deficiency"	"Pancreatitis, Hereditary"	"Tropical Calcific Pancreatitis"	"Orphanet:243343"	"Orphanet:676"
+"Abnormal enzyme/coenzyme activity"	1.0	0.0	0.0	1.0	1.0
+"Pancreatic pseudocyst"	0.0	1.0	0.0	0.0	0.0
+"Pancreatic calcification"	0.0	1.0	1.0	0.0	1.0
+"Chronic pancreatitis"	0.0	0.0	1.0	0.0	0.0
+"Insulin-dependent but ketosis-resistant diabetes"	0.0	0.0	1.0	0.0	0.0
+"Splanchnic vein thrombosis"	0.0	0.0	0.0	0.0	1.0

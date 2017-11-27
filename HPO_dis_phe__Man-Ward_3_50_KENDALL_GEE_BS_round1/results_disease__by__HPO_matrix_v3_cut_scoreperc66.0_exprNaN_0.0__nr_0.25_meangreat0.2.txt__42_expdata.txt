@@ -1,0 +1,9 @@
+	"Orphanet:2495"	"Pituicytoma"	"Orphanet:251909"	"Pineocytoma"	"Papillary Tumor of the Pineal Region"
+"Headache"	1.0	1.0	1.0	1.0	1.0
+"Increased CSF protein"	0.0	0.0	0.0	1.0	1.0
+"Episodic ataxia"	0.0	0.0	0.0	1.0	1.0
+"Memory impairment"	0.0	1.0	1.0	1.0	1.0
+"Difficulty walking"	1.0	0.0	0.0	1.0	1.0
+"Abnormality of the eyelid"	0.0	0.0	0.0	1.0	1.0
+"Hearing abnormality"	0.0	0.0	0.0	1.0	1.0
+"Altitudinal visual field defect"	0.0	0.0	0.0	1.0	1.0

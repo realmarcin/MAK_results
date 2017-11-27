@@ -1,0 +1,6 @@
+"x"
+"1" "Pulmonary lymphangiectasia"
+"2" "Alveolar ridge overgrowth"
+"3" "Pancreatic lymphangiectasis"
+"4" "Thyroid lymphangiectasia"
+"5" "Pleural lymphangiectasia"

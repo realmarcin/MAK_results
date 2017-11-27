@@ -1,0 +1,6 @@
+"x"
+"1" "Book.Syndrome"
+"2" "Failure.of.tooth.eruption..pri"
+"3" "NDNC5"
+"4" "Tooth.Agenesis..Selective..1"
+"5" "HYPRPP"

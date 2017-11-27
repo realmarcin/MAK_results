@@ -1,0 +1,6 @@
+"x"
+"1" "Autosomal.dominant.severe.cong"
+"2" "Immunodeficiency.due.to.interl"
+"3" "Neutrophil.Immunodeficiency.Sy"
+"4" "Immunodeficiency.13"
+"5" "Immunodeficiency.36"

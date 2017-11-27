@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0003674"
+"2" "Papilledema"
+"3" "HP:0001427"
+"4" "Leber optic atrophy"
+"5" "Sudden loss of visual acuity"
+"6" "Large central visual field defect"
+"7" "Ragged-red muscle fibers"

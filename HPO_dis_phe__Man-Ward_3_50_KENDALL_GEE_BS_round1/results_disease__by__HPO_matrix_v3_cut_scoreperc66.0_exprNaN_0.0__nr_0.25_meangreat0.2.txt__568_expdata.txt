@@ -1,0 +1,12 @@
+	"Noonan Syndrome-Like Disorder With Loose Anagen Hair 1"	"Legius Syndrome"	"Noonan syndrome 7"	"Noonan syndrome 10"
+"Nasal speech"	1.0	0.0	0.0	0.0
+"Hyperactivity"	1.0	0.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	1.0	0.0	0.0	0.0
+"Long eyelashes"	1.0	0.0	0.0	0.0
+"Eczema"	1.0	0.0	0.0	0.0
+"Sparse scalp hair"	1.0	0.0	0.0	0.0
+"Webbed neck"	1.0	0.0	0.0	0.0
+"Ichthyosis"	1.0	0.0	0.0	0.0
+"Feeding difficulties"	1.0	0.0	0.0	0.0
+"Deep palmar crease"	1.0	0.0	0.0	0.0
+"Loose anagen hair"	1.0	0.0	0.0	0.0

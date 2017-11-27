@@ -1,0 +1,10 @@
+	"Infections, Recurrent, With Encephalopathy, Hepatic Dysfunction, and Cardiovascular Malformations"	"Orphanet:1014"	"Orphanet:293964"	"Orphanet:306550"
+"Seizures"	1.0	0.0	0.0	1.0
+"Ventricular septal defect"	1.0	0.0	0.0	1.0
+"Cerebral atrophy"	1.0	0.0	0.0	1.0
+"Pulmonary artery atresia"	1.0	0.0	0.0	1.0
+"Autoimmune antibody positivity"	0.0	0.0	0.0	1.0
+"Decreased liver function"	1.0	0.0	0.0	1.0
+"Recurrent infections"	1.0	0.0	0.0	0.0
+"Hepatic fibrosis"	0.0	0.0	0.0	1.0
+"Encephalopathy"	1.0	0.0	0.0	1.0

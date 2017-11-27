@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Normal interictal EEG"
+"3" "Dialeptic seizures"
+"4" "Focal seizures, afebril"

@@ -1,0 +1,7 @@
+"x"
+"1" "Pancreatitis"
+"2" "Hepatocellular carcinoma"
+"3" "Hypocalcemic seizures"
+"4" "Renal hypophosphatemia"
+"5" "Reduced ratio of renal calcium clearance to creatinine clearance"
+"6" "Hypomagnesiuria"

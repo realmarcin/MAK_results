@@ -1,0 +1,8 @@
+"x"
+"1" "Atkin.Flaitz.syndrome"
+"2" "Clark.Baraitser.Syndrome"
+"3" "fragile.X.syndrome"
+"4" "syndromic.X.linked.intellectua"
+"5" "Orphanet.908"
+"6" "Orphanet.965"
+"7" "Orphanet.1193"

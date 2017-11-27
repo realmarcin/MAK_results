@@ -1,0 +1,7 @@
+"x"
+"1" "Loss of facial expression"
+"2" "Akinetic mutism"
+"3" "Progressive extrapyramidal muscular rigidity"
+"4" "Abnormal pupillary function"
+"5" "Diffuse spongiform leukoencephalopathy"
+"6" "Focal T2 hyperintense basal ganglia lesion"

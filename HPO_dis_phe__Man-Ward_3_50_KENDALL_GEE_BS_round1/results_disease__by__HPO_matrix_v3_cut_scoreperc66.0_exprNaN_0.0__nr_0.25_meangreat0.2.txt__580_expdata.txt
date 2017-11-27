@@ -1,0 +1,7 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Lissencephaly 8"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Talipes equinovarus"	0.0	0.0	1.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	1.0	0.0
+"Hypoplasia of the brainstem"	0.0	0.0	1.0	0.0
+"Occipital encephalocele"	0.0	0.0	1.0	0.0
+"Abnormal myelination"	0.0	0.0	1.0	0.0

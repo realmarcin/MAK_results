@@ -1,0 +1,6 @@
+	"LEOPARD syndrome 1"	"Indifference to Pain, Congenital, Autosomal Recessive"	"Olivopontocerebellar Atrophy Ii, Autosomal Recessive"	"Bosma Arhinia Microphthalmia Syndrome"	"Spinocerebellar Ataxia 12"	"ataxia with oculomotor apraxia type 2"	"Aural atresia, congenital"	"Neuropathy, Hereditary Sensory and Autonomic, Adult-Onset, With Anosmia"	"spinocerebellar ataxia type 27"	"Leber Congenital Amaurosis 10"	"Hypogonadotropic Hypogonadism 6 With or Without Anosmia"	"Spastic paraplegia 46, autosomal recessive"	"dystonia 23"	"dystonia 24"	"Bardet-Biedl Syndrome 19"	"Orphanet:2162"	"Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome"	"Orphanet:478"	"Orphanet:596"
+"Abnormal motor neuron morphology"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Parkinsonism with favorable response to dopaminergic medication"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Transient hyperphenylalaninemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyposmia"	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Head tremor"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0

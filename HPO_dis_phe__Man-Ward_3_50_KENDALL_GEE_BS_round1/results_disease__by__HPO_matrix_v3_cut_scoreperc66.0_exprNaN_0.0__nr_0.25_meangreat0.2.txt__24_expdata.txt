@@ -1,0 +1,6 @@
+	"neuronal ceroid lipofuscinosis 3"	"Friedreich Ataxia 1"	"Friedreich Ataxia and Congenital Glaucoma"	"Charcot-Marie-Tooth Peroneal Muscular Atrophy and Friedreich Ataxia, Combined"	"FRDA2"	"Combined Oxidative Phosphorylation Deficiency 3"	"Neonatal Marfan syndrome"
+"Concentric hypertrophic cardiomyopathy"	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Abnormal echocardiogram"	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Decreased pyruvate carboxylase activity"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Mitochondrial malic enzyme reduced"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Diabetic ketoacidosis"	0.0	0.0	1.0	1.0	1.0	0.0	0.0

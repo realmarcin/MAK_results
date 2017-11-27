@@ -1,0 +1,7 @@
+"x"
+"1" "Muscular hypotonia"
+"2" "Hypertelorism"
+"3" "Delayed speech and language development"
+"4" "Generalized tonic-clonic seizures"
+"5" "Urinary incontinence"
+"6" "Reduced tendon reflexes"

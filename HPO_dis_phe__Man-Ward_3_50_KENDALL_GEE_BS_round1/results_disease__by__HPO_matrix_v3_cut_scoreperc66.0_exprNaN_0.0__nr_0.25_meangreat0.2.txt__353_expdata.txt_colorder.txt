@@ -1,0 +1,6 @@
+"x"
+"1" "Impaired lymphocyte transformation with phytohemagglutinin"
+"2" "Sparse facial hair"
+"3" "Polyclonal elevation of IgM"
+"4" "Flaring of lower rib cage"
+"5" "Susceptibility to chickenpox"

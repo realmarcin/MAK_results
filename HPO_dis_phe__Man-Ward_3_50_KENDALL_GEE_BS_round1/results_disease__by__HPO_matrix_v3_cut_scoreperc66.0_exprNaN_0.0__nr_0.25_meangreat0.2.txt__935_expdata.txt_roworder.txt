@@ -1,0 +1,6 @@
+"x"
+"1" "Joubert.Syndrome.26"
+"2" "Deafness.with.labyrinthine.apl"
+"3" "Mental.retardation..stereotypi"
+"4" "Orphanet.324422"
+"5" "Orphanet.90024"

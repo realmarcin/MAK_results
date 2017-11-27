@@ -1,0 +1,6 @@
+"x"
+"1" "Omphalocele.syndrome..Shprintz"
+"2" "Sener.Syndrome"
+"3" "Orphanet.3164"
+"4" "Aarskog.Syndrome..Autosomal.Do"
+"5" "Prader.Willi.syndrome"

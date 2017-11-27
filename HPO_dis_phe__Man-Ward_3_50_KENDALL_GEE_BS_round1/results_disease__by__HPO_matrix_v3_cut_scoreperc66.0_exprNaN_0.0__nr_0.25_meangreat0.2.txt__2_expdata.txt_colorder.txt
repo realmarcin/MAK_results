@@ -1,0 +1,6 @@
+"x"
+"1" "Restrictive behavior"
+"2" "Lack of spontaneous play"
+"3" "Inflexible adherence to routines or rituals"
+"4" "Impaired use of nonverbal behaviors"
+"5" "Impaired ability to form peer relationships"

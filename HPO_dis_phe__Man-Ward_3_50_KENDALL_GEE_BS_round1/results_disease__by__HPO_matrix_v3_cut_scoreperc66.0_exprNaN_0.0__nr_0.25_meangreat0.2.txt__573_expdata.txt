@@ -1,0 +1,14 @@
+	"Amastia, Bilateral, With Ureteral Triplication and Dysmorphism"	"Polyvalvular heart disease syndrome"	"Orphanet:2868"	"Orphanet:3038"
+"Hydronephrosis"	1.0	0.0	0.0	0.0
+"Wide nasal bridge"	1.0	0.0	0.0	0.0
+"Scoliosis"	1.0	0.0	0.0	0.0
+"Syndactyly"	1.0	0.0	0.0	0.0
+"Congenital hip dislocation"	1.0	0.0	0.0	0.0
+"Patent ductus arteriosus"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0
+"Hydrocephalus"	1.0	0.0	0.0	0.0
+"Umbilical hernia"	1.0	0.0	0.0	0.0
+"Absent nipple"	1.0	0.0	0.0	0.0
+"Hemivertebrae"	1.0	0.0	0.0	0.0
+"Cubitus valgus"	1.0	0.0	0.0	0.0
+"Ureteral triplication"	1.0	0.0	0.0	0.0

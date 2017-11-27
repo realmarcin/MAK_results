@@ -1,0 +1,5 @@
+	"Aarskog Syndrome, Autosomal Dominant"	"AGA1"	"Familial juvenile hypertrophy of the breast"	"Precocious Puberty, Male-Limited"	"Blount Disease, Infantile"	"Deficiency of steroid 11-beta-monooxygenase"	"Premature Ovarian Failure 6"	"Premature Ovarian Failure 7"	"46,XY sex reversal, type 3"
+"HP:0001470"	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Osteochondritis Dissecans"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Precocious puberty in males"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the proximal tibial epiphysis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

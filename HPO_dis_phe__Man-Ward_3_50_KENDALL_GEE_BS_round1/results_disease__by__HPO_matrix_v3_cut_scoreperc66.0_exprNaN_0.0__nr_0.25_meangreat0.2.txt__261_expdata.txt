@@ -1,0 +1,5 @@
+	"Immunodeficiency With Defective Leukocyte and Lymphocyte Function and With Response to Histamine-1 Antagonist"	"Actinic prurigo"	"Immune Defect Due to Absence of Thymus"	"Lymphopenic Hypergammaglobulinemia, Antibody Deficiency, Autoimmune Hemolytic Anemia, and Glomerulonephritis"	"Bruton-type agammaglobulinemia"	"Isolated Growth Hormone Deficiency, Type 3"	"Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, and Acne"	"Inflammatory bowel disease 28, autosomal recessive"
+"Glomerulonephritis"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Pyoderma"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Plasmacytosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Pyoderma gangrenosum"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

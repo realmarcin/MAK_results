@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.245"
+"2" "Nager.syndrome"
+"3" "Treacher.Collins.syndrome.1"
+"4" "Treacher.Collins.Syndrome.3"
+"5" "X14q22q23.microdeletion.syndro"
+"6" "Mandibulofacial.dysostosis.wit"

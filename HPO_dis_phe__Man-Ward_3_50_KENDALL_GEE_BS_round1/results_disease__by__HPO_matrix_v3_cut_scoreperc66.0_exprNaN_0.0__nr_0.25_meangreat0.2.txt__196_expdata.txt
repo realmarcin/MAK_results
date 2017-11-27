@@ -1,0 +1,5 @@
+	"Breath-Holding Spells"	"Congenital disorder of glycosylation type 2L"	"Orphanet:156"	"Mercury poisoning"	"Congenital fibrinogen deficiency"	"Wyburn-Mason syndrome"
+"Iron deficiency anemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Interstitial pneumonitis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Episodic vomiting"	0.0	0.0	0.0	1.0	0.0	0.0
+"Loss of consciousness"	1.0	1.0	1.0	1.0	1.0	1.0

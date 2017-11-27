@@ -1,0 +1,16 @@
+	"Migraine With or Without Aura, Susceptibility To, 1"	"Migraine With or Without Aura, Susceptibility To, 2"	"Migraine With or Without Aura, Susceptibility To, 3"	"migraine without aura"	"Migraine With or Without Aura, Susceptibility To, 5"	"Migraine With or Without Aura, Susceptibility To, 6"	"Migraine With or Without Aura, Susceptibility To, 10"	"Migraine With or Without Aura, Susceptibility To, 11"	"MGR12"
+"Microcephaly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Intellectual disability"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Seizures"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Feeding difficulties in infancy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Delayed speech and language development"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Tall stature"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Mandibular prognathia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short stature"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Midface retrusion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pes cavus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Malar flattening"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Photophobia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Vomiting"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Nausea"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Phonophobia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

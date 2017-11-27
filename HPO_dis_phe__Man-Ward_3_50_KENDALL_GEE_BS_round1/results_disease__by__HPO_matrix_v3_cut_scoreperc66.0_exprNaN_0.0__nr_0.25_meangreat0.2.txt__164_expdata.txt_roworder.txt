@@ -1,0 +1,7 @@
+"x"
+"1" "hypotrichosis.11"
+"2" "hypotrichosis.12"
+"3" "hypotrichosis.13"
+"4" "Woolly.hair.hypotrichosis.ever"
+"5" "Diffuse.palmoplantar.keratoder"
+"6" "Orphanet.86923"

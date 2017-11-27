@@ -1,0 +1,13 @@
+	"Char Syndrome"	"Oculofaciocardiodental syndrome"	"2q31.1 microdeletion syndrome"	"Orphanet:46627"	"8p inverted duplication/deletion syndrome"
+"Everted lower lip vermilion"	0.0	0.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	0.0
+"Supernumerary nipple"	0.0	0.0	0.0	1.0	0.0
+"Depressed nasal ridge"	0.0	0.0	0.0	1.0	0.0
+"Prominent occiput"	0.0	0.0	0.0	1.0	0.0
+"Short middle phalanx of the 5th finger"	0.0	0.0	0.0	1.0	0.0
+"Persistence of primary teeth"	0.0	1.0	0.0	1.0	0.0
+"Mesoaxial hand polydactyly"	0.0	0.0	0.0	1.0	0.0
+"Mesoaxial foot polydactyly"	0.0	0.0	0.0	1.0	0.0
+"Triangular mouth"	1.0	0.0	0.0	1.0	0.0
+"No permanent dentition"	0.0	0.0	0.0	1.0	0.0
+"Symphalangism of the 5th finger"	0.0	0.0	0.0	1.0	0.0

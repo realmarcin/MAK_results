@@ -1,0 +1,8 @@
+	"ALG9-CDG"	"Salt and Pepper Developmental Regression Syndrome"	"Epileptic Encephalopathy, Early Infantile, 35"	"Combined Oxidative Phosphorylation Deficiency 29"
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Pericardial effusion"	1.0	0.0	0.0	0.0
+"Hepatosplenomegaly"	1.0	0.0	0.0	0.0
+"Inverted nipples"	1.0	0.0	0.0	0.0
+"Delayed CNS myelination"	1.0	0.0	1.0	1.0
+"Global brain atrophy"	1.0	1.0	0.0	1.0

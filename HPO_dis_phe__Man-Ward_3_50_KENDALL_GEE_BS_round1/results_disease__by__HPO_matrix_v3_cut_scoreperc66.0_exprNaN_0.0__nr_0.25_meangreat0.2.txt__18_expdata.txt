@@ -1,0 +1,6 @@
+	"Infantile hypophosphatasia"	"Hypophosphatasia, Childhood"	"Orphanet:2097"	"Orphanet:436"
+"Rachitic rosary"	1.0	1.0	0.0	0.0
+"Skin dimple over apex of long bone angulation"	1.0	1.0	1.0	1.0
+"Phosphoethanolaminuria"	1.0	1.0	0.0	0.0
+"Elevated urine pyrophosphate"	1.0	1.0	0.0	0.0
+"Elevated plasma pyrophosphate"	1.0	1.0	0.0	0.0

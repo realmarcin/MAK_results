@@ -1,0 +1,5 @@
+"x"
+"1" "Aplasia/Hypoplasia involving the metacarpal bones"
+"2" "Aplasia/Hypoplasia of the phalanges of the hand"
+"3" "Aplasia/Hypoplasia of metatarsal bones"
+"4" "Aplasia/Hypoplasia of the phalanges of the toes"

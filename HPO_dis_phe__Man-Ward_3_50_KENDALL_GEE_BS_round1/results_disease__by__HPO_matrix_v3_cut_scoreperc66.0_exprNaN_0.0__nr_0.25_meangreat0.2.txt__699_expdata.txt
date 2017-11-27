@@ -1,0 +1,33 @@
+	"Proteus syndrome"	"Palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked"	"Psoriasis 2"	"Ichthyosis, Congenital, Autosomal Recessive 6"	"Palmoplantar carcinoma, multiple self-healing"
+"Macrocephaly"	1.0	0.0	0.0	0.0	0.0
+"Long face"	1.0	0.0	0.0	0.0	0.0
+"Downslanted palpebral fissures"	1.0	0.0	0.0	0.0	0.0
+"Depressed nasal bridge"	1.0	0.0	0.0	0.0	0.0
+"Ptosis"	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, moderate"	1.0	0.0	0.0	0.0	0.0
+"Spinal canal stenosis"	1.0	0.0	0.0	0.0	0.0
+"Calvarial hyperostosis"	1.0	0.0	0.0	0.0	0.0
+"Epidermal acanthosis"	1.0	1.0	1.0	1.0	1.0
+"HP:0001428"	1.0	0.0	0.0	0.0	0.0
+"Kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0
+"HP:0003593"	1.0	0.0	0.0	0.0	0.0
+"HP:0003745"	1.0	0.0	0.0	0.0	0.0
+"HP:0003676"	1.0	0.0	0.0	0.0	0.0
+"Hemangioma"	1.0	0.0	0.0	0.0	0.0
+"Spinal cord compression"	1.0	0.0	0.0	0.0	0.0
+"Dolichocephaly"	1.0	0.0	0.0	0.0	0.0
+"Open mouth"	1.0	0.0	0.0	0.0	0.0
+"Hemihypertrophy"	1.0	0.0	0.0	0.0	0.0
+"Multiple lipomas"	1.0	0.0	0.0	0.0	0.0
+"Parakeratosis"	0.0	1.0	1.0	1.0	1.0
+"Lymphangioma"	1.0	0.0	0.0	0.0	0.0
+"Lipoma"	1.0	0.0	0.0	0.0	0.0
+"Epibulbar dermoid"	1.0	0.0	0.0	0.0	0.0
+"Thin bony cortex"	1.0	0.0	0.0	0.0	0.0
+"Deep venous thrombosis"	1.0	0.0	0.0	0.0	0.0
+"Mandibular hyperostosis"	1.0	0.0	0.0	0.0	0.0
+"Facial hyperostosis"	1.0	0.0	0.0	0.0	0.0
+"Hypertrophy of skin of soles"	1.0	0.0	0.0	0.0	0.0
+"Depigmentation/hyperpigmentation of skin"	1.0	0.0	0.0	0.0	0.0
+"Epidermal nevus"	1.0	0.0	0.0	0.0	0.0
+"Venous malformation"	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,19 @@
+	"DECIPHER:42"	"Cat-eye syndrome"	"Severe microbrachycephaly-intellectual disability-athetoid cerebral palsy syndrome"	"Orphanet:195"	"Orphanet:2152"	"Orphanet:66629"
+"Abnormal heart morphology"	1.0	1.0	0.0	0.0	0.0	0.0
+"Preauricular skin tag"	1.0	1.0	1.0	1.0	0.0	0.0
+"Downslanted palpebral fissures"	1.0	1.0	0.0	1.0	0.0	0.0
+"Anal atresia"	1.0	1.0	0.0	1.0	0.0	0.0
+"Preauricular pit"	1.0	1.0	0.0	1.0	0.0	0.0
+"Abnormality of the genital system"	0.0	0.0	0.0	1.0	0.0	0.0
+"Renal agenesis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Growth abnormality"	0.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, mild"	0.0	1.0	0.0	1.0	0.0	0.0
+"Intestinal malrotation"	0.0	1.0	0.0	0.0	0.0	0.0
+"Total anomalous pulmonary venous return"	0.0	1.0	0.0	0.0	0.0	0.0
+"Chorioretinal coloboma"	0.0	1.0	0.0	1.0	0.0	0.0
+"Stenosis of the external auditory canal"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hip dysplasia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Absent radius"	0.0	1.0	0.0	0.0	0.0	0.0
+"Biliary atresia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the ribs"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal localization of kidney"	0.0	0.0	0.0	1.0	0.0	0.0

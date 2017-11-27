@@ -1,0 +1,7 @@
+"x"
+"1" "Aicardi.Goutieres.syndrome.1"
+"2" "Aicardi.Goutieres.syndrome.5"
+"3" "Tay.Sachs.disease.AB.variant"
+"4" "Orphanet.309246"
+"5" "Orphanet.363400"
+"6" "Orphanet.909"

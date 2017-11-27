@@ -1,0 +1,8 @@
+	"Hyperaldosteronism, familial, type I"	"Familial hyperaldosteronism type III"	"Pigmented Nodular Adrenocortical Disease, Primary, 4"	"Orphanet:189439"	"Orphanet:369929"	"Catecholamine-producing tumor"	"Orphanet:786"
+"Hypertension"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperaldosteronism"	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Adrenal hyperplasia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Metabolic acidosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Polyuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Polydipsia"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Hypercalciuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

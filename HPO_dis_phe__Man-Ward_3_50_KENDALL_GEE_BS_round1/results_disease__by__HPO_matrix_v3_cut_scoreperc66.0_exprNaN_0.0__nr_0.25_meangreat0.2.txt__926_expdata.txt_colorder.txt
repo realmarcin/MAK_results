@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertelorism"
+"2" "Microphthalmia"
+"3" "Absent eyebrow"
+"4" "Low-set, posteriorly rotated ears"
+"5" "Upper eyelid coloboma"
+"6" "Prominent glabella"
+"7" "Facial cleft"

@@ -1,0 +1,17 @@
+	"Dermatoleukodystrophy"	"Dextrocardia With Unusual Facies and Microphthalmia"	"Microcephaly with mental retardation and digital anomalies"	"Anophthalmia plus syndrome"	"Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs"	"OMIM:605685"	"Sotos Syndrome 3; SOTOS3"
+"Micrognathia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Macrotia"	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Prominent nose"	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Microphthalmia"	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Cutis gyrata of scalp"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Choreoathetosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Exotropia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Supernumerary ribs"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Anophthalmia"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Rod-cone dystrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Subcapsular cataract"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Sloping forehead"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Dextrocardia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Vertebral segmentation defect"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cortical cataract"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Seizures"
+"2" "Cortical dysplasia"
+"3" "Large hands"
+"4" "Long foot"
+"5" "Exaggerated startle response"
+"6" "Cortical gyral simplification"
+"7" "Hypoplasia of the pons"

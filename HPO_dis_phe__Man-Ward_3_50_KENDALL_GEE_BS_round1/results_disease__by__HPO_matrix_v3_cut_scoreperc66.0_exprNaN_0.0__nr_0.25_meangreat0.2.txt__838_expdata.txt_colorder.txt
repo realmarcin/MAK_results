@@ -1,0 +1,6 @@
+"x"
+"1" "Global developmental delay"
+"2" "Acne"
+"3" "Immunodeficiency"
+"4" "Laryngomalacia"
+"5" "Biparietal narrowing"

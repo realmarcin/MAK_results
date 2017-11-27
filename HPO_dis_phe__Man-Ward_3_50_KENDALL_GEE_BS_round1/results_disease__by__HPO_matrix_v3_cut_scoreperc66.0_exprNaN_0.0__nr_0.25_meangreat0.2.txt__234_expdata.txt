@@ -1,0 +1,17 @@
+	"Dihydropyrimidinuria"	"Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome"	"propionic acidemia"	"Orphanet:79241"
+"Impaired vibratory sensation"	0.0	1.0	0.0	0.0
+"Abnormal pyramidal signs"	1.0	1.0	0.0	0.0
+"Specific learning disability"	0.0	1.0	0.0	0.0
+"Hypopigmentation of the fundus"	0.0	1.0	0.0	0.0
+"Spastic paraparesis"	0.0	1.0	0.0	0.0
+"Poor coordination"	0.0	1.0	0.0	0.0
+"Decreased nerve conduction velocity"	0.0	1.0	0.0	0.0
+"Chorioretinal atrophy"	0.0	1.0	0.0	0.0
+"Lethargy"	1.0	1.0	1.0	1.0
+"Generalized myoclonic seizures"	0.0	1.0	0.0	1.0
+"Morphological abnormality of the pyramidal tract"	1.0	1.0	0.0	0.0
+"Episodic vomiting"	0.0	1.0	0.0	0.0
+"Clonus"	0.0	1.0	0.0	0.0
+"Acute encephalopathy"	0.0	1.0	1.0	0.0
+"Hyperornithinemia"	0.0	1.0	0.0	0.0
+"Acute hepatitis"	0.0	1.0	0.0	0.0

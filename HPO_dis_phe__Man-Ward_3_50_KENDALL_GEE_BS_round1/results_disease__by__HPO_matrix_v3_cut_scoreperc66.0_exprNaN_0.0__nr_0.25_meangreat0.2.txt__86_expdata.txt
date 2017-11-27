@@ -1,0 +1,6 @@
+	"Grant Syndrome"	"osteogenesis imperfecta type 1"	"osteogenesis imperfecta type 2"	"osteogenesis imperfecta type 4"	"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures"	"Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome"	"Osteogenesis imperfecta type 9"	"Sc Phocomelia Syndrome"	"osteogenesis imperfecta type 5"	"Spondylocheirodysplasia, Ehlers-Danlos Syndrome-Like"	"Orphanet:157965"	"Orphanet:2050"	"Orphanet:763"
+"Wormian bones"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Moderately short stature"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Blue sclerae"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Flat capital femoral epiphysis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Thenar muscle atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0

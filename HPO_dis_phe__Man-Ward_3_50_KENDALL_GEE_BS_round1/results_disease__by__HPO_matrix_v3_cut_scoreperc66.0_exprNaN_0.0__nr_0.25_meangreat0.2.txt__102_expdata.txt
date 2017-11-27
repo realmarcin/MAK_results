@@ -1,0 +1,6 @@
+	"SPAX7"	"Charlevoix-Saguenay spastic ataxia"	"Epilepsy, progressive myoclonic, 10"	"Spinocerebellar ataxia 42"	"Orphanet:1182"
+"Spastic ataxia"	1.0	1.0	1.0	1.0	1.0
+"Congenital miosis"	1.0	0.0	0.0	0.0	1.0
+"Paranoia"	0.0	0.0	1.0	0.0	0.0
+"Loss of Purkinje cells in the cerebellar vermis"	0.0	1.0	0.0	1.0	0.0
+"Lafora bodies"	0.0	0.0	1.0	0.0	0.0

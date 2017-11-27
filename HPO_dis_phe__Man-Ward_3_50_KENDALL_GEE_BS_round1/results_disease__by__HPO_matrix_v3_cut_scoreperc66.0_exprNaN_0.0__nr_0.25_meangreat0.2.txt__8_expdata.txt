@@ -1,0 +1,10 @@
+	"Long QT syndrome 1"	"Jervell and Lange-Nielsen syndrome 1"	"Long Qt Syndrome 3"	"Long Qt Syndrome 2"	"long QT syndrome 6"	"Long Qt Syndrome 5"
+"Sensorineural hearing impairment"	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	1.0	1.0	1.0	1.0
+"HP:0001425"	1.0	1.0	1.0	1.0	1.0	1.0
+"Sudden cardiac death"	1.0	1.0	1.0	1.0	1.0	1.0
+"Syncope"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the ear"	1.0	0.0	0.0	0.0	0.0	0.0
+"Ventricular fibrillation"	1.0	0.0	1.0	1.0	1.0	1.0
+"Prolonged QT interval"	1.0	1.0	1.0	1.0	1.0	1.0
+"Torsade de pointes"	1.0	1.0	1.0	1.0	1.0	1.0

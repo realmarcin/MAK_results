@@ -1,0 +1,14 @@
+	"Griscelli syndrome type 1"	"Neuroectodermal melanolysosomal disease"	"Griscelli syndrome type 2"	"Cerebral Palsy, Spastic Quadriplegic, 3"	"Intellectual Developmental Disorder With Cardiac Arrhythmia"
+"Nystagmus"	0.0	1.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	0.0	1.0	1.0
+"Death in childhood"	0.0	1.0	1.0	0.0	0.0
+"Ataxia"	0.0	1.0	0.0	0.0	0.0
+"Recurrent bacterial infections"	0.0	0.0	1.0	0.0	0.0
+"Hypopigmentation of the skin"	1.0	1.0	1.0	0.0	0.0
+"Exotropia"	0.0	1.0	0.0	1.0	0.0
+"Progressive neurologic deterioration"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the cerebellum"	0.0	0.0	1.0	0.0	0.0
+"Accumulation of melanosomes in melanocytes"	1.0	1.0	1.0	0.0	0.0
+"Silver-gray hair"	1.0	1.0	1.0	0.0	0.0
+"Melanin pigment aggregation in hair shafts"	1.0	1.0	1.0	0.0	0.0
+"Reduced delayed hypersensitivity"	0.0	0.0	1.0	0.0	0.0

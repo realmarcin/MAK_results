@@ -1,0 +1,20 @@
+	"Homozygous familial hypercholesterolemia"	"Orphanet:881"	"Monosomy X"	"Mosaic monosomy X"	"Turner syndrome due to structural X chromosome anomalies"
+"Coronary atherosclerosis"	1.0	0.0	0.0	0.0	0.0
+"Myocardial infarction"	1.0	1.0	1.0	1.0	1.0
+"Renal steatosis"	1.0	0.0	0.0	0.0	0.0
+"Optic neuropathy"	1.0	0.0	0.0	0.0	0.0
+"Peripheral arterial stenosis"	1.0	0.0	0.0	0.0	0.0
+"Type II diabetes mellitus"	0.0	1.0	1.0	1.0	1.0
+"Left ventricular failure"	1.0	0.0	0.0	0.0	0.0
+"Heart murmur"	1.0	0.0	0.0	0.0	0.0
+"Renal artery stenosis"	1.0	0.0	0.0	0.0	0.0
+"Supravalvular aortic stenosis"	1.0	0.0	0.0	0.0	0.0
+"Cerebral artery atherosclerosis"	1.0	0.0	0.0	0.0	0.0
+"Hyperlipidemia"	1.0	1.0	1.0	1.0	1.0
+"Myocardial steatosis"	1.0	0.0	0.0	0.0	0.0
+"Premature arteriosclerosis"	1.0	0.0	0.0	0.0	0.0
+"Coronary artery aneurysm"	1.0	0.0	0.0	0.0	0.0
+"Aortic atherosclerosis"	1.0	0.0	0.0	0.0	0.0
+"Abnormal eye physiology"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of nervous system physiology"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of internal carotid artery"	1.0	0.0	0.0	0.0	0.0

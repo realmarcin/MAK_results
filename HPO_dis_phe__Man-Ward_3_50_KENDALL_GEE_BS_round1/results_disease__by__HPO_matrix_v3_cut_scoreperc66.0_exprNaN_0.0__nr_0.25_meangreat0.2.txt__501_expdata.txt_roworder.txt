@@ -1,0 +1,7 @@
+"x"
+"1" "Kapur.Toriello.syndrome"
+"2" "Orphanet.3378"
+"3" "Neu.Laxova.syndrome.1"
+"4" "NEK9.related.lethal.skeletal.d"
+"5" "Orphanet.2671"
+"6" "Orphanet.3103"

@@ -1,0 +1,9 @@
+	"DECIPHER:46"	"Constricting Bands, Congenital"	"Disorganization, Mouse, Homolog of"	"Holzgreve-Wagner-Rehder Syndrome"	"Multinucleated Neurons, Anhydramnios, Renal Dysplasia, Cerebellar Hypoplasia, and Hydranencephaly"	"Nephrosis-deafness-urinary tract-digital malformations syndrome"	"Microcephaly, Congenital Heart Disease, Unilateral Renal Agenesis, and Hyposegmented Lungs"	"ACLH"	"Cowden Syndrome 4"	"OMIM:617478"	"Dysraphism-cleft lip/palate-limb reduction defects syndrome"	"Orphanet:2516"
+"Cleft palate"	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"2-3 toe syndactyly"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal agenesis"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplastic left heart"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Renal hypoplasia"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal dysplasia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hand polydactyly"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hydranencephaly"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

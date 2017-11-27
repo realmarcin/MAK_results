@@ -1,0 +1,7 @@
+	"Phosphate transport defect"	"Cholangiocarcinoma, Susceptibility to"	"Orphanet:171"	"Orphanet:3386"	"Orphanet:99978"
+"Cholangiocarcinoma"	0.0	1.0	1.0	0.0	1.0
+"Elevated alkaline phosphatase of hepatic origin"	0.0	0.0	1.0	0.0	0.0
+"Abnormal large intestine physiology"	0.0	0.0	1.0	1.0	0.0
+"Dilated superficial abdominal veins"	0.0	0.0	1.0	0.0	0.0
+"Adenocarcinoma of the large intestine"	0.0	0.0	1.0	0.0	0.0
+"Neoplasm of the gallbladder"	0.0	0.0	1.0	0.0	0.0

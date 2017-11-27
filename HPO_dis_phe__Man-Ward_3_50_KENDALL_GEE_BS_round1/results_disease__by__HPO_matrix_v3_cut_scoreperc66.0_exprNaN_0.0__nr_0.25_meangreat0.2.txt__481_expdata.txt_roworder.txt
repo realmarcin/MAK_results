@@ -1,0 +1,5 @@
+"x"
+"1" "Arthrogryposis..Distal..Type.5"
+"2" "Diabetes.deafness.syndrome.mat"
+"3" "OPEM"
+"4" "Kearns.Sayre.Syndrome"

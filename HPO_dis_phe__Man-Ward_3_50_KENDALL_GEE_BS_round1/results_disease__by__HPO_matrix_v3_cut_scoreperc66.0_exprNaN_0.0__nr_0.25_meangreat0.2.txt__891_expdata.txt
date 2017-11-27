@@ -1,0 +1,32 @@
+	"Townes syndrome"	"Pallister-Hall Syndrome"	"Facial Dysmorphism With Multiple Malformations"	"Orphanet:1647"	"Orphanet:1780"
+"Depressed nasal bridge"	0.0	1.0	0.0	0.0	0.0
+"Hydroureter"	0.0	1.0	0.0	0.0	0.0
+"Microphthalmia"	0.0	1.0	0.0	0.0	0.0
+"HP:0003828"	0.0	1.0	0.0	0.0	0.0
+"Renal cyst"	0.0	1.0	0.0	0.0	0.0
+"Microglossia"	0.0	1.0	0.0	0.0	0.0
+"Nail dysplasia"	0.0	1.0	0.0	0.0	0.0
+"Neonatal death"	0.0	1.0	0.0	0.0	0.0
+"Hip dislocation"	0.0	1.0	0.0	0.0	0.0
+"Short 4th metacarpal"	0.0	1.0	0.0	0.0	0.0
+"Mesomelia"	0.0	1.0	0.0	0.0	0.0
+"Growth hormone deficiency"	0.0	1.0	0.0	0.0	0.0
+"Laryngeal cleft"	0.0	1.0	0.0	0.0	0.0
+"Decreased testicular size"	0.0	1.0	0.0	0.0	0.0
+"Natal tooth"	0.0	1.0	0.0	0.0	0.0
+"Precocious puberty"	0.0	1.0	0.0	0.0	0.0
+"Panhypopituitarism"	0.0	1.0	0.0	0.0	0.0
+"Abnormal lung lobation"	0.0	1.0	0.0	0.0	0.0
+"Radial head subluxation"	0.0	1.0	0.0	0.0	0.0
+"Preductal coarctation of the aorta"	0.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the epiglottis"	0.0	1.0	0.0	0.0	0.0
+"Y-shaped metacarpals"	0.0	1.0	0.0	0.0	0.0
+"Mesoaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0
+"Distal shortening of limbs"	0.0	1.0	0.0	0.0	0.0
+"Midline facial capillary hemangioma"	0.0	1.0	0.0	0.0	0.0
+"Decreased circulating cortisol level"	0.0	1.0	0.0	0.0	0.0
+"Thyroid dysgenesis"	0.0	1.0	0.0	0.0	0.0
+"Distal urethral duplication"	0.0	1.0	0.0	0.0	0.0
+"Mesoaxial foot polydactyly"	0.0	1.0	0.0	0.0	0.0
+"Bifid epiglottis"	0.0	1.0	0.0	0.0	0.0
+"Oligodactyly"	0.0	1.0	0.0	0.0	0.0

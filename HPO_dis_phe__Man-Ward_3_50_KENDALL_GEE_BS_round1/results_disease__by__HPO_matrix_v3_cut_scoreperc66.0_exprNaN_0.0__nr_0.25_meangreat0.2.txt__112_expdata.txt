@@ -1,0 +1,6 @@
+	"hyperargininemia"	"Argininosuccinate lyase deficiency"	"Citrullinemia type I"	"Orotic Aciduria"	"Orphanet:23"	"Orphanet:30"
+"HP:0003623"	0.0	1.0	1.0	0.0	0.0	0.0
+"Dry hair"	0.0	1.0	0.0	0.0	0.0	0.0
+"Trichorrhexis nodosa"	0.0	1.0	0.0	0.0	1.0	0.0
+"Cerebral edema"	0.0	1.0	1.0	0.0	0.0	0.0
+"Oroticaciduria"	1.0	1.0	1.0	1.0	1.0	1.0

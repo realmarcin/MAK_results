@@ -1,0 +1,6 @@
+"x"
+"1" "Speech apraxia"
+"2" "Hemiclonic seizures"
+"3" "Generalized tonic-clonic seizures with focal onset"
+"4" "EEG with centrotemporal focal spike waves"
+"5" "Auditory auras"

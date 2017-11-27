@@ -1,0 +1,12 @@
+	"MRXS12"	"Mental Retardation, Obesity, Mandibular Prognathism, and Eye and Skin Anomalies"	"Hyperphosphatasia with mental retardation syndrome 2"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"	"Epileptic Encephalopathy, Early Infantile, 23"	"Al-Raqad Syndrome"	"Corpus Callosum, Agenesis Of, With Facial Anomalies and Cerebellar Ataxia"	"Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 3"	"Alazami-Yuan Syndrome"
+"Cryptorchidism"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Narrow mouth"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Neonatal hypotonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"High palate"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0000007"	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Dental crowding"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Broad hallux"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Low anterior hairline"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Long eyelashes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Hirsutism"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Narrow forehead"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0

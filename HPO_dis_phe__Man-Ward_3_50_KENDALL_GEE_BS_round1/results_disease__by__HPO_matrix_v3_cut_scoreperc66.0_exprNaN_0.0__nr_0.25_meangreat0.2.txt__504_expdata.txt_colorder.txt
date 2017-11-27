@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormal lactate dehydrogenase activity"
+"2" "Abnormal levels of creatine kinase in blood"
+"3" "Abnormal aldolase level"
+"4" "Ridged fingernail"
+"5" "Prominence of the zygomatic bone"
+"6" "Onychogryposis of fingernail"

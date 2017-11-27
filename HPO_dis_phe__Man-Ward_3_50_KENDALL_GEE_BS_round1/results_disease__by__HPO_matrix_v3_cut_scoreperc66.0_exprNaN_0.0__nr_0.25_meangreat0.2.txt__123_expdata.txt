@@ -1,0 +1,43 @@
+	"Late-onset isolated ACTH deficiency"	"Multiple Endocrine Neoplasia Type 2"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Pes cavus"	0.0	1.0	0.0	0.0
+"Anxiety"	0.0	1.0	0.0	0.0
+"Constipation"	1.0	1.0	1.0	1.0
+"Diabetes mellitus"	0.0	1.0	0.0	0.0
+"Arachnodactyly"	0.0	1.0	0.0	0.0
+"Diarrhea"	1.0	1.0	1.0	1.0
+"Fatigue"	1.0	1.0	1.0	1.0
+"Dry skin"	1.0	1.0	1.0	1.0
+"Adrenal hyperplasia"	0.0	1.0	0.0	0.0
+"Skin rash"	0.0	1.0	0.0	0.0
+"Muscle weakness"	1.0	1.0	1.0	1.0
+"Tremor"	0.0	1.0	0.0	0.0
+"Pruritus"	0.0	1.0	0.0	0.0
+"Pallor"	0.0	1.0	0.0	0.0
+"Abdominal pain"	1.0	1.0	1.0	1.0
+"Arrhythmia"	0.0	1.0	0.0	0.0
+"Bone pain"	0.0	1.0	0.0	0.0
+"Nephrolithiasis"	0.0	1.0	0.0	0.0
+"Corneal dystrophy"	0.0	1.0	0.0	0.0
+"Edema of the lower limbs"	0.0	1.0	0.0	0.0
+"Hypercalcemia"	1.0	1.0	1.0	1.0
+"Weight loss"	1.0	1.0	1.0	1.0
+"Aganglionic megacolon"	0.0	1.0	0.0	0.0
+"Dehydration"	0.0	1.0	0.0	0.0
+"Hyperparathyroidism"	0.0	1.0	0.0	0.0
+"Hypotension"	0.0	1.0	0.0	0.0
+"Medullary thyroid carcinoma"	0.0	1.0	0.0	0.0
+"Ganglioneuroma"	0.0	1.0	0.0	0.0
+"Slender long bone"	0.0	1.0	0.0	0.0
+"Abnormality of the tongue"	0.0	1.0	0.0	0.0
+"Intestinal polyposis"	0.0	1.0	0.0	0.0
+"Anorexia"	1.0	1.0	1.0	1.0
+"Irregular hyperpigmentation"	0.0	1.0	0.0	0.0
+"Abnormality of temperature regulation"	0.0	1.0	0.0	0.0
+"Lymphadenopathy"	0.0	1.0	0.0	0.0
+"Intestinal obstruction"	0.0	1.0	0.0	0.0
+"Abnormality of oral mucosa"	0.0	1.0	0.0	0.0
+"Nausea and vomiting"	1.0	1.0	1.0	1.0
+"Benign neoplasm of the central nervous system"	0.0	1.0	0.0	0.0
+"Hypertensive crisis"	0.0	1.0	0.0	0.0
+"Reduced consciousness/confusion"	0.0	1.0	0.0	0.0
+"Neoplasm of the adrenal gland"	0.0	1.0	0.0	0.0

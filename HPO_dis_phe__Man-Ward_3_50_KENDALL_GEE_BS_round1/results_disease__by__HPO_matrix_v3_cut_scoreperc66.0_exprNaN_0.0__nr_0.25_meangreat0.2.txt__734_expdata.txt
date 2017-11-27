@@ -1,0 +1,12 @@
+	"Orphanet:101076"	"Orphanet:1178"	"Orphanet:1397"	"Orphanet:166"	"Orphanet:1766"	"Orphanet:2048"	"Gemignani syndrome"	"Orphanet:256"	"Orphanet:2822"	"Orphanet:487"	"Orphanet:99027"
+"Seizures"	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Absent speech"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Gait disturbance"	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Pigmentary retinopathy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Maternal diabetes"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the voice"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the thumb"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Tapetoretinal degeneration"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the cerebellum"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

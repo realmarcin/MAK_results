@@ -1,0 +1,29 @@
+	"Delayed membranous cranial ossification"	"Volvulus of Midgut"	"Molybdenum Cofactor Deficiency, Complementation Group a"	"Molybdenum Cofactor Deficiency, Complementation Group B"	"Familial intestinal malrotation-facial anomalies syndrome"
+"Microcephaly"	0.0	0.0	1.0	1.0	0.0
+"Long face"	0.0	0.0	1.0	1.0	0.0
+"Nystagmus"	0.0	0.0	1.0	1.0	0.0
+"Constipation"	0.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	1.0	1.0	0.0
+"Peripheral demyelination"	0.0	0.0	1.0	1.0	0.0
+"High forehead"	1.0	1.0	0.0	0.0	1.0
+"Intestinal malrotation"	0.0	1.0	0.0	0.0	1.0
+"Growth delay"	0.0	0.0	1.0	1.0	0.0
+"Cerebral atrophy"	0.0	0.0	1.0	1.0	0.0
+"Opisthotonus"	0.0	0.0	1.0	1.0	0.0
+"Abdominal distention"	0.0	1.0	0.0	0.0	0.0
+"HP:0003676"	0.0	0.0	1.0	1.0	0.0
+"Ectopia lentis"	0.0	0.0	1.0	1.0	0.0
+"Volvulus"	0.0	1.0	0.0	0.0	1.0
+"Increased urinary taurine"	0.0	0.0	1.0	1.0	0.0
+"Axonal loss"	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the genitourinary system"	0.0	1.0	0.0	0.0	0.0
+"Thick vermilion border"	0.0	0.0	1.0	1.0	0.0
+"Long palpebral fissure"	0.0	1.0	0.0	0.0	1.0
+"Myoclonic spasms"	0.0	0.0	1.0	1.0	0.0
+"Neonatal intestinal obstruction"	0.0	1.0	0.0	0.0	0.0
+"Spastic tetraplegia"	0.0	0.0	1.0	1.0	0.0
+"Hypouricemia"	0.0	0.0	1.0	1.0	0.0
+"Xanthine nephrolithiasis"	0.0	0.0	1.0	1.0	0.0
+"Molybdenum cofactor deficiency"	0.0	0.0	1.0	1.0	0.0
+"Xanthinuria"	0.0	0.0	1.0	1.0	0.0
+"Increased urinary hypoxanthine"	0.0	0.0	1.0	1.0	0.0

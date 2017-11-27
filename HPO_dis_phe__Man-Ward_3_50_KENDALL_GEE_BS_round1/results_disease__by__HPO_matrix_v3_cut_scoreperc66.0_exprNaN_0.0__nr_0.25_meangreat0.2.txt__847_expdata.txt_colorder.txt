@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Edema"
+"3" "Vomiting"
+"4" "Irritability"
+"5" "Abnormality of the genitourinary system"

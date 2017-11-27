@@ -1,0 +1,7 @@
+"x"
+"1" "Giant melanosomes in melanocytes"
+"2" "Nystagmus-induced head nodding"
+"3" "Depigmented fundus"
+"4" "Recurrent systemic pyogenic infections"
+"5" "Progressive peripheral neuropathy"
+"6" "Gallbladder dysfunction"

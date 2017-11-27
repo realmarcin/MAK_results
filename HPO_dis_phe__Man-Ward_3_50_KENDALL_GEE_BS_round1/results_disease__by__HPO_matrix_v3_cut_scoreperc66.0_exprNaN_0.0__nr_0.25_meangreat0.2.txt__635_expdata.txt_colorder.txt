@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Axial muscle stiffness"
+"3" "Proximal limb muscle stiffness"
+"4" "Asymmetric limb muscle stiffness"

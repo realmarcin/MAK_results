@@ -1,0 +1,5 @@
+"x"
+"1" "Enlarged lacrimal glands"
+"2" "Abnormal liver parenchyma morphology"
+"3" "Abnormal reproductive system morphology"
+"4" "Increase in T cell count"

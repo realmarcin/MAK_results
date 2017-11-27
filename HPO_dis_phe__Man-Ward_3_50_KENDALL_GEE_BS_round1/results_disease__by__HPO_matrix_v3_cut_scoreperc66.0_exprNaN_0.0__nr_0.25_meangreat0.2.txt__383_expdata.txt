@@ -1,0 +1,15 @@
+	"Marfanoid Mental Retardation Syndrome, Autosomal"	"Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant"	"Congenital disorder of glycosylation type 2H"	"Epilepsy, progressive myoclonic 3"	"Cerebral Palsy, Spastic Quadriplegic, 2"	"COG5-CDG"	"Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 4"	"Spastic Paraplegia 64, Autosomal Recessive"	"Epilepsy, early-onset, vitamin b6-dependent"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Truncal ataxia"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Inability to walk"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ventriculomegaly"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Cerebellar atrophy"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Cerebral atrophy"	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Dysarthria"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Corpus callosum atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Spastic tetraplegia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Type I transferrin isoform profile"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Cerebral palsy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Atrophy/Degeneration affecting the brainstem"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0012275"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

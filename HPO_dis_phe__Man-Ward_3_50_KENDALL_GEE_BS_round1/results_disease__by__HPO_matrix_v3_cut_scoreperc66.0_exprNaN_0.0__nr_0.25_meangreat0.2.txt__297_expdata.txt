@@ -1,0 +1,12 @@
+	"OMIM:300290"	"Meier-Gorlin syndrome 2"	"Meier-Gorlin Syndrome 3"	"Meier-Gorlin Syndrome 4"	"Meier-Gorlin syndrome 5"	"Intrauterine Growth Retardation, Metaphyseal Dysplasia, Adrenal Hypoplasia Congenita, and Genital Anomalies"
+"Global developmental delay"	1.0	0.0	0.0	0.0	0.0	1.0
+"Depressed nasal bridge"	1.0	0.0	0.0	0.0	0.0	1.0
+"Short nose"	1.0	0.0	0.0	0.0	0.0	1.0
+"HP:0008897"	1.0	0.0	0.0	0.0	0.0	1.0
+"Prominent forehead"	1.0	0.0	0.0	0.0	0.0	1.0
+"Growth hormone deficiency"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hypercalcemia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Epiphyseal dysplasia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hypercalciuria"	1.0	0.0	0.0	0.0	0.0	1.0
+"Adrenal hypoplasia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Metaphyseal dysplasia"	1.0	0.0	0.0	0.0	0.0	1.0

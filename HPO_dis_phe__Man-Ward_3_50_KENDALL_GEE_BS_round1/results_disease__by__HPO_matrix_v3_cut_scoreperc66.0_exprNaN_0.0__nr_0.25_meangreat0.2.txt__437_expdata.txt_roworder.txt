@@ -1,0 +1,6 @@
+"x"
+"1" "Ehlers.Danlos.syndrome.due.to."
+"2" "Orphanet.230839"
+"3" "Diaphyseal.medullary.stenosis."
+"4" "Ehlers.Danlos.syndrome..type.4"
+"5" "Orphanet.90309"

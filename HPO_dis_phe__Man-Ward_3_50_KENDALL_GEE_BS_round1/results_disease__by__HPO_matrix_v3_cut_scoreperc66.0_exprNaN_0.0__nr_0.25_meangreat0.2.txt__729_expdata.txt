@@ -1,0 +1,15 @@
+	"Hemochromatosis type 1"	"Hemochromatosis, Type 2A"	"Hemochromatosis, Type 2B"	"Anemia, Hypochromic Microcytic, With Iron Overload 2"	"Orphanet:139491"	"Orphanet:300298"	"Symptomatic form of hemochromatosis type 1"	"Hemochromatosis type 2"
+"Hypogonadism"	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Cafe-au-lait spot"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Anisopoikilocytosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Growth delay"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Fatigue"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Adrenal insufficiency"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Reticulocytopenia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Azoospermia"	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Decreased mean corpuscular volume"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Hepatosplenomegaly"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Elevated hepatic iron concentration"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the hypothalamus-pituitary axis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Dysplastic erythropoesis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Decreased transferrin saturation"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

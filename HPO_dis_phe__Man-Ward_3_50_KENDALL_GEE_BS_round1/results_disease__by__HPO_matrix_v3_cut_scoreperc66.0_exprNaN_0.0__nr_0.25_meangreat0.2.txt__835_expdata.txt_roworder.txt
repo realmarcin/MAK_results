@@ -1,0 +1,8 @@
+"x"
+"1" "chromosome.16p13.3.duplication"
+"2" "Cataract.aberrant.oral.frenula"
+"3" "Schilbach.Rott.Syndrome"
+"4" "Skin.Creases..Congenital.Symme"
+"5" "Polyvalvular.heart.disease.syn"
+"6" "Orphanet.2868"
+"7" "Orphanet.3038"

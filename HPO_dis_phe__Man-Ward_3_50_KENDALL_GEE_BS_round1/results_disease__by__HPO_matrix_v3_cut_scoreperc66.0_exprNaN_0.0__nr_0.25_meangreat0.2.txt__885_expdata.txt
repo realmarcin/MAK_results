@@ -1,0 +1,24 @@
+	"Mitochondrial Complex 1 Deficiency"	"Hsd10 Mitochondrial Disease"	"mitochondrial DNA depletion syndrome 2"	"Mitochondrial Dna Depletion Syndrome 5 (Encephalomyopathic With or Without Methylmalonic Aciduria)"	"Metabolic Encephalomyopathic Crises, Recurrent, With Rhabdomyolysis, Cardiac Arrhythmias, and Neurodegeneration"
+"Gait ataxia"	0.0	0.0	0.0	0.0	1.0
+"Drooling"	0.0	0.0	0.0	0.0	1.0
+"Hypothyroidism"	0.0	0.0	0.0	0.0	1.0
+"Poor coordination"	0.0	0.0	0.0	0.0	1.0
+"Increased serum lactate"	0.0	0.0	0.0	0.0	1.0
+"Premature pubarche"	0.0	0.0	0.0	0.0	1.0
+"Myoglobinuria"	0.0	0.0	0.0	0.0	1.0
+"Neurodegeneration"	0.0	0.0	0.0	0.0	1.0
+"Premature thelarche"	0.0	0.0	0.0	0.0	1.0
+"Hyperactive deep tendon reflexes"	0.0	0.0	0.0	0.0	1.0
+"Oral-pharyngeal dysphagia"	0.0	0.0	0.0	0.0	1.0
+"Myopathic facies"	0.0	0.0	0.0	0.0	1.0
+"Ventricular fibrillation"	0.0	0.0	0.0	0.0	1.0
+"Cardiac arrest"	0.0	0.0	0.0	0.0	1.0
+"Torsade de pointes"	0.0	0.0	0.0	0.0	1.0
+"Spastic diplegia"	0.0	0.0	0.0	0.0	1.0
+"Hyperammonemia"	0.0	0.0	0.0	0.0	1.0
+"Ketonuria"	0.0	0.0	0.0	0.0	1.0
+"Ventricular tachycardia"	0.0	0.0	0.0	0.0	1.0
+"Clonus"	0.0	0.0	0.0	0.0	1.0
+"Acute rhabdomyolysis"	0.0	0.0	0.0	0.0	1.0
+"Prolonged QTc interval"	0.0	0.0	0.0	0.0	1.0
+"Elevated plasma acylcarnitine levels"	0.0	0.0	0.0	0.0	1.0

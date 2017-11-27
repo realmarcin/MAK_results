@@ -1,0 +1,20 @@
+	"Gamstorp-Wohlfart syndrome"	"Spinocerebellar ataxia-dysmorphism syndrome"	"SPOAN syndrome"	"Orphanet:84142"
+"EEG abnormality"	0.0	0.0	0.0	1.0
+"Short nose"	0.0	1.0	0.0	0.0
+"Ptosis"	0.0	1.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0
+"Broad forehead"	0.0	1.0	0.0	0.0
+"Thick lower lip vermilion"	0.0	1.0	0.0	0.0
+"Fasciculations"	1.0	0.0	0.0	1.0
+"Muscle cramps"	1.0	0.0	0.0	1.0
+"Myotonia"	1.0	0.0	0.0	0.0
+"Abnormality of the foot"	1.0	1.0	0.0	0.0
+"Hyperhidrosis"	1.0	0.0	1.0	1.0
+"Coarse hair"	0.0	1.0	0.0	0.0
+"Myokymia"	1.0	0.0	0.0	0.0
+"Downturned corners of mouth"	0.0	1.0	0.0	0.0
+"Muscle stiffness"	1.0	0.0	0.0	1.0
+"Weight loss"	0.0	0.0	0.0	1.0
+"Calf muscle hypertrophy"	0.0	0.0	0.0	1.0
+"Muscle fibrillation"	0.0	0.0	0.0	1.0
+"EMG: myokymic discharges"	0.0	0.0	0.0	1.0

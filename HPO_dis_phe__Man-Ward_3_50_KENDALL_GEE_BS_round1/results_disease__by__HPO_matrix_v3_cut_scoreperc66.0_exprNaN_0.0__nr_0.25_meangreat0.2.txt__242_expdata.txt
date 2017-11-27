@@ -1,0 +1,10 @@
+	"Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, and Cerebral Calcification"	"Perrault Syndrome 3"	"Lethal Congenital Contracture Syndrome 7"	"Lethal Congenital Contracture Syndrome 8"	"Epileptic Encephalopathy, Early Infantile, 29"
+"Micrognathia"	0.0	0.0	1.0	0.0	0.0
+"Generalized hypotonia"	0.0	0.0	1.0	1.0	1.0
+"Arthrogryposis multiplex congenita"	0.0	0.0	1.0	1.0	0.0
+"Knee flexion contracture"	0.0	0.0	1.0	0.0	0.0
+"Polyhydramnios"	0.0	0.0	1.0	0.0	0.0
+"Areflexia"	0.0	0.0	1.0	1.0	1.0
+"Facial diplegia"	0.0	0.0	1.0	1.0	0.0
+"Fetal akinesia sequence"	0.0	0.0	1.0	0.0	0.0
+"Oral-pharyngeal dysphagia"	0.0	0.0	1.0	1.0	0.0

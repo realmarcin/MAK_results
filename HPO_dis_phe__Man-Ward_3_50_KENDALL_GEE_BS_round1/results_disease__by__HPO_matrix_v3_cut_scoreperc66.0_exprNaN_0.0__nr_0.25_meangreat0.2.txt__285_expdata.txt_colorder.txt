@@ -1,0 +1,6 @@
+"x"
+"1" "Calcification of the aorta"
+"2" "Supranuclear ophthalmoplegia"
+"3" "Abnormal eye physiology"
+"4" "Abnormality of nervous system physiology"
+"5" "Abnormality of internal carotid artery"

@@ -1,0 +1,7 @@
+"x"
+"1" "Truncal obesity"
+"2" "Cleft upper lip"
+"3" "HP:0000007"
+"4" "Postnatal microcephaly"
+"5" "Downturned corners of mouth"
+"6" "Abnormality of the cerebellar vermis"

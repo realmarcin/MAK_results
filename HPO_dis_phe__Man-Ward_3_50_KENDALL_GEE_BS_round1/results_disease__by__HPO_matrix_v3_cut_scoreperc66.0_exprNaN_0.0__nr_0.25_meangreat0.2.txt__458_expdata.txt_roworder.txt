@@ -1,0 +1,6 @@
+"x"
+"1" "Mitochondrial.Complex.1.Defici"
+"2" "Mitochondrial.Complex.3.Defici"
+"3" "Encephalopathy..Progressive..E"
+"4" "cytochrome.c.oxidase.deficienc"
+"5" "Mitochondrial.complex.II.defic"

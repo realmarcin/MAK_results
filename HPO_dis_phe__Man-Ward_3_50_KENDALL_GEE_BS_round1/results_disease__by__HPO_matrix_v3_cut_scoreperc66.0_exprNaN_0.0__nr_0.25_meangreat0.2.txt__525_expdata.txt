@@ -1,0 +1,13 @@
+	"Sarcoidosis 1"	"Tyrosinemia type I"	"Hardikar Syndrome"	"Severe early-onset pulmonary alveolar proteinosis due to MARS deficiency"	"Lymphedema, Hereditary, 3"	"Dysplastic cortical hyperostosis"	"Orphanet:2414"	"Orphanet:77260"	"Orphanet:79238"	"Orphanet:797"
+"Gastroesophageal reflux"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Hepatomegaly"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Pulmonic stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Growth delay"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Respiratory distress"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Tricuspid regurgitation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Chronic obstructive pulmonary disease"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Cyanosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Ascites"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Cough"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0
+"Hydrops fetalis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Chylopericardium"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

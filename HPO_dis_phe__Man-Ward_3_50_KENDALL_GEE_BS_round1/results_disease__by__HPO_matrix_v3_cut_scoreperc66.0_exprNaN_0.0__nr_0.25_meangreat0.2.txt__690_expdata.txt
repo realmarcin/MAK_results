@@ -1,0 +1,9 @@
+	"OMIM:141749"	"Humeroradial Synostosis"	"Hyperalphalipoproteinemia 1"	"Hyperpigmentation of Eyelids"	"Hypersensitivity Pneumonitis, Familial"	"Moved to 125400"	"Incisors, Long Upper Central"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Humeroradial synostosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Persistence of hemoglobin F"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased circulating high-density lipoprotein levels"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperpigmentation of eyelids"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypersensitivity pneumonitis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the dental root"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Macrodontia of permanent maxillary central incisor"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

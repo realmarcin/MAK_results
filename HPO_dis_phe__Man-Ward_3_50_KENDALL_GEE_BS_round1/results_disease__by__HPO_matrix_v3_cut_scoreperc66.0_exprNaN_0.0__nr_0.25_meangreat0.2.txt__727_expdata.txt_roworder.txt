@@ -1,0 +1,7 @@
+"x"
+"1" "Primary.basilar.invagination"
+"2" "Orphanet.2285"
+"3" "Adenosine.monophosphate.deamin"
+"4" "Thyrotoxic.periodic.paralysis"
+"5" "O.Sullivan.McLeod.syndrome"
+"6" "Orphanet.681"

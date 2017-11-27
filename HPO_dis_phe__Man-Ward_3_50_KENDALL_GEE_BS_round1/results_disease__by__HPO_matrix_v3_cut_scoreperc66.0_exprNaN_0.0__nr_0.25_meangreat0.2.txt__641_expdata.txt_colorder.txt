@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Increased renal tubular phosphate reabsorption"
+"3" "Decreased renal tubular phosphate excretion"
+"4" "Conjunctival whitish salt-like deposits"

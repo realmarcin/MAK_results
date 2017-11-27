@@ -1,0 +1,16 @@
+	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"	"Orphanet:575"
+"Short stature"	0.0	0.0	0.0	1.0
+"Pes cavus"	0.0	0.0	0.0	1.0
+"Abnormality of the genital system"	0.0	0.0	0.0	1.0
+"HP:0100490"	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	1.0
+"Glaucoma"	0.0	0.0	0.0	1.0
+"Renal amyloidosis"	0.0	0.0	0.0	1.0
+"Broad foot"	0.0	0.0	0.0	1.0
+"Ichthyosis"	0.0	0.0	0.0	1.0
+"Progressive sensorineural hearing impairment"	0.0	0.0	0.0	1.0
+"Delayed puberty"	0.0	0.0	0.0	1.0
+"Abnormality of the voice"	0.0	0.0	0.0	1.0
+"Abnormality of the nose"	0.0	0.0	0.0	1.0
+"Abnormality of the palate"	0.0	0.0	0.0	1.0
+"HP:0004299"	0.0	0.0	0.0	1.0

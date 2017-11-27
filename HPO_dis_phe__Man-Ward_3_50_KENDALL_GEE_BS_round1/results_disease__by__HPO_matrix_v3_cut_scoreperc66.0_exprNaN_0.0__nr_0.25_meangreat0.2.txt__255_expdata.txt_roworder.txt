@@ -1,0 +1,7 @@
+"x"
+"1" "SHLTS"
+"2" "Renpenning.syndrome"
+"3" "Microcephaly..short.stature..a"
+"4" "Microcephaly.microcornea.syndr"
+"5" "Zellweger.like.syndrome.withou"
+"6" "X15q24.microdeletion.syndrome"

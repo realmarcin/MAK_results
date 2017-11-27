@@ -1,0 +1,15 @@
+	"Becker muscular dystrophy"	"X-linked scapuloperoneal muscular dystrophy"	"Myopathy with postural muscle atrophy, X-linked"	"Muscular Dystrophy, Duchenne Type"	"Emery-Dreifuss Muscular Dystrophy 1, X-Linked"	"MDC1B"	"autosomal recessive limb-girdle muscular dystrophy type 2I"	"Emery-Dreifuss muscular dystrophy 4, autosomal dominant"	"Emery-Dreifuss muscular dystrophy 5, autosomal dominant"
+"HP:0001419"	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, mild"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Congestive heart failure"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0011463"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Waddling gait"	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"HP:0002878"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Generalized muscle hypertrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Gowers sign"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Hypoventilation"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Diaphragmatic weakness"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Calf muscle pseudohypertrophy"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Sternocleidomastoid amyotrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Pectoralis amyotrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

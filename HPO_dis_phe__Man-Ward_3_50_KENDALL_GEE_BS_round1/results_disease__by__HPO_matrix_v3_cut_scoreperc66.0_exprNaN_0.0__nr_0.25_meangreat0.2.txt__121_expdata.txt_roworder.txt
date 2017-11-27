@@ -1,0 +1,5 @@
+"x"
+"1" "Nemaline.Myopathy.9"
+"2" "Orphanet.435628"
+"3" "Holoprosencephaly.hypokinesia."
+"4" "Cerebrooculofacioskeletal.synd"

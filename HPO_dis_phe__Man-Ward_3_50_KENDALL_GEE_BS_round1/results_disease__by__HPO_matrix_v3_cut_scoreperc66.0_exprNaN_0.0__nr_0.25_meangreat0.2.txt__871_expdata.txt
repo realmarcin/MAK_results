@@ -1,0 +1,17 @@
+	"Warburg micro syndrome 4"	"Orphanet:1396"	"Orphanet:2031"	"Neonatal adrenoleukodystrophy"	"Orphanet:99742"
+"Microcephaly"	0.0	0.0	0.0	0.0	1.0
+"Hepatomegaly"	0.0	0.0	0.0	0.0	1.0
+"Agenesis of corpus callosum"	0.0	0.0	0.0	0.0	1.0
+"Osteoporosis"	0.0	0.0	0.0	0.0	1.0
+"Generalized tonic-clonic seizures"	0.0	0.0	0.0	0.0	1.0
+"Spina bifida"	0.0	0.0	0.0	0.0	1.0
+"Irritability"	0.0	0.0	0.0	0.0	1.0
+"Cleft soft palate"	0.0	0.0	0.0	0.0	1.0
+"Metabolic acidosis"	0.0	0.0	0.0	0.0	1.0
+"Limitation of joint mobility"	0.0	0.0	0.0	0.0	1.0
+"Feeding difficulties"	0.0	0.0	0.0	0.0	1.0
+"Decreased fetal movement"	0.0	0.0	0.0	0.0	1.0
+"Temperature instability"	0.0	0.0	0.0	0.0	1.0
+"Decreased skull ossification"	0.0	0.0	0.0	0.0	1.0
+"Organic aciduria"	0.0	0.0	0.0	0.0	1.0
+"Limb hypertonia"	0.0	0.0	0.0	0.0	1.0

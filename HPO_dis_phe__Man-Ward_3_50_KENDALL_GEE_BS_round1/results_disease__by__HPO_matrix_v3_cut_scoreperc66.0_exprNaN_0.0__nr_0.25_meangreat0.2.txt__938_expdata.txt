@@ -1,0 +1,11 @@
+	"Linear Skin Defects With Multiple Congenital Anomalies 2"	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Orphanet:324422"	"Orphanet:90024"
+"Atrial septal defect"	1.0	0.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	0.0	0.0
+"Tetralogy of Fallot"	1.0	0.0	0.0	0.0	0.0
+"Pulmonary arterial hypertension"	1.0	0.0	0.0	0.0	0.0
+"Wide intermamillary distance"	1.0	0.0	0.0	0.0	0.0
+"Sandal gap"	1.0	0.0	0.0	0.0	0.0
+"Aplasia cutis congenita"	1.0	0.0	0.0	0.0	0.0
+"Ventricular hypertrophy"	1.0	0.0	0.0	0.0	0.0
+"Optic disc pallor"	1.0	0.0	0.0	0.0	0.0
+"HP:0001423"	1.0	0.0	0.0	0.0	0.0

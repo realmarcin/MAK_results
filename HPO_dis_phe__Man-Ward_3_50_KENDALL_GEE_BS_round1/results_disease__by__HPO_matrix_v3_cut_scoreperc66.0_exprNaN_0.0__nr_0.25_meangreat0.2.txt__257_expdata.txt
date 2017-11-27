@@ -1,0 +1,34 @@
+	"Camptodactyly Syndrome, Guadalajara, Type 1"	"Orphanet:1052"	"Orphanet:1327"	"Orphanet:261330"
+"Midface retrusion"	1.0	0.0	1.0	0.0
+"Synophrys"	1.0	0.0	1.0	0.0
+"Pectus carinatum"	1.0	0.0	1.0	0.0
+"Lumbar hyperlordosis"	1.0	0.0	0.0	0.0
+"Short femoral neck"	1.0	0.0	0.0	0.0
+"Bifid uvula"	1.0	0.0	0.0	0.0
+"Dental malocclusion"	1.0	0.0	1.0	0.0
+"Hallux valgus"	1.0	0.0	1.0	0.0
+"Epicanthus"	1.0	1.0	1.0	0.0
+"Melanocytic nevus"	1.0	0.0	1.0	0.0
+"Short metatarsal"	1.0	0.0	0.0	0.0
+"Absent frontal sinuses"	1.0	0.0	0.0	0.0
+"Short toe"	0.0	0.0	1.0	0.0
+"Cubitus valgus"	1.0	0.0	1.0	0.0
+"Narrow chest"	0.0	0.0	1.0	0.0
+"Overfolding of the superior helices"	1.0	0.0	0.0	0.0
+"Horizontal sacrum"	1.0	0.0	0.0	0.0
+"Attached earlobe"	0.0	0.0	1.0	0.0
+"Spina bifida"	0.0	0.0	1.0	0.0
+"Short distal phalanx of finger"	0.0	0.0	1.0	1.0
+"Fibular hypoplasia"	1.0	0.0	0.0	0.0
+"Open bite"	0.0	0.0	1.0	0.0
+"Low-set, posteriorly rotated ears"	0.0	1.0	1.0	0.0
+"Long neck"	1.0	0.0	0.0	0.0
+"Scapular winging"	1.0	0.0	1.0	0.0
+"Small earlobe"	1.0	0.0	0.0	0.0
+"Abnormal form of the vertebral bodies"	0.0	0.0	1.0	0.0
+"Camptodactyly of 2nd-5th fingers"	1.0	0.0	0.0	0.0
+"Absent ethmoidal sinuses"	1.0	0.0	0.0	0.0
+"Tubular metacarpal bones"	1.0	0.0	0.0	0.0
+"Abnormality of dental eruption"	1.0	0.0	1.0	0.0
+"Twelfth rib hypoplasia"	1.0	0.0	0.0	0.0
+"Hypoplastic 5th lumbar vertebrae"	1.0	0.0	0.0	0.0

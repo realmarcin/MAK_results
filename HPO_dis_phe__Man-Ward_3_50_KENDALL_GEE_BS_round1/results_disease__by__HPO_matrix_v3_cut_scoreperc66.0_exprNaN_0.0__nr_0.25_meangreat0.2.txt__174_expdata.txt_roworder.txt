@@ -1,0 +1,5 @@
+"x"
+"1" "Thyroid.Gland.Undifferentiated"
+"2" "Orphanet.97285"
+"3" "Orphanet.1332"
+"4" "Mccune.Albright.Syndrome"

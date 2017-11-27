@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Abnormality of the vertebral column"
+"3" "Wrist pain"
+"4" "HP:0004563"

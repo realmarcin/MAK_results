@@ -1,0 +1,7 @@
+"x"
+"1" "Vulvovaginal.gingival.syndrome"
+"2" "Behcet.s.syndrome"
+"3" "Papular.xanthoma"
+"4" "Orphanet.41"
+"5" "Superficial.pemphigus"
+"6" "Circumscribed.palmoplantar.hyp"

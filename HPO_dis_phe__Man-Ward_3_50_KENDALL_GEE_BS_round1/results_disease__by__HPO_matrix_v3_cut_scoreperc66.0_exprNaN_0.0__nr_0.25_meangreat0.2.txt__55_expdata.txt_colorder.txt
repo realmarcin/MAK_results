@@ -1,0 +1,6 @@
+"x"
+"1" "Retinal capillary hemangioma"
+"2" "Cerebellar hemangioblastoma"
+"3" "Spinal hemangioblastoma"
+"4" "Cerebellar edema"
+"5" "Intracranial cystic lesion"

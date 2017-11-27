@@ -1,0 +1,6 @@
+	"Aortic Arch Interruption, Facial Palsy, and Retinal Coloboma"	"Coloboma of macula"	"Patella, Familial Recurrent Dislocation of"	"Triphalangeal Thumbs and Dislocation of Patella"	"Macular coloboma-cleft palate-hallux valgus syndrome"	"Hypomagnesemia 5, renal, with ocular involvement"	"Widow'S Peak Syndrome"	"Leber Congenital Amaurosis 9"	"Orphanet:209"	"Orphanet:2196"	"Orphanet:287"
+"Macular coloboma"	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Recurrent patellar dislocation"	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Contracture of the distal interphalangeal joint of the 5th finger"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Esophageal diverticulum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Genital hernia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0

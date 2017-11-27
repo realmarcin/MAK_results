@@ -1,0 +1,7 @@
+"x"
+"1" "OMIM.609338"
+"2" "SLEB6"
+"3" "Preterm.premature.rupture.of.m"
+"4" "Macular.Degeneration..Age.Rela"
+"5" "Gallbladder.Disease.4"
+"6" "Age.related.macular.degenerati"

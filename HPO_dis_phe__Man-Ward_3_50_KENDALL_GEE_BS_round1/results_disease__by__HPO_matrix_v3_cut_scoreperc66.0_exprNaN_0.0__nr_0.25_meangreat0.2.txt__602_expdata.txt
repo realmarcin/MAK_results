@@ -1,0 +1,10 @@
+	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"	"Orphanet:900"
+"Chronic otitis media"	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	1.0
+"Angina pectoris"	0.0	0.0	0.0	1.0
+"Chronic obstructive pulmonary disease"	0.0	0.0	0.0	1.0
+"Granulomatosis"	0.0	0.0	0.0	1.0
+"Hemiplegia"	0.0	0.0	0.0	1.0
+"Ureteral stenosis"	0.0	0.0	0.0	1.0
+"Prostatitis"	0.0	0.0	0.0	1.0
+"Abnormality of the hypothalamus-pituitary axis"	0.0	0.0	0.0	1.0

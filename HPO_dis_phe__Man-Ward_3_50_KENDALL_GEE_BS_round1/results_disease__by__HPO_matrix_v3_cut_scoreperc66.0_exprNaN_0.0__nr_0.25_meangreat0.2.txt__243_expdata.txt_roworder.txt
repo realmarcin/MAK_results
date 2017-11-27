@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.84142"
+"2" "Gamstorp.Wohlfart.syndrome"
+"3" "Spinocerebellar.ataxia.dysmorp"
+"4" "SPOAN.syndrome"

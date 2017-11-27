@@ -1,0 +1,8 @@
+"x"
+"1" "OMIM.141749"
+"2" "Humeroradial.Synostosis"
+"3" "Hyperalphalipoproteinemia.1"
+"4" "Hyperpigmentation.of.Eyelids"
+"5" "Hypersensitivity.Pneumonitis.."
+"6" "Moved.to.125400"
+"7" "Incisors..Long.Upper.Central"

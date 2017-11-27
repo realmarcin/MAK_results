@@ -1,0 +1,9 @@
+	"Pyridoxamine 5-Prime-Phosphate Oxidase Deficiency"	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	1.0	0.0	0.0	0.0
+"Premature birth"	1.0	0.0	0.0	0.0
+"HP:0001276"	1.0	0.0	0.0	0.0
+"Unsteady gait"	1.0	0.0	0.0	0.0
+"Anemia"	1.0	0.0	0.0	0.0
+"Hypoglycemia"	1.0	0.0	0.0	0.0
+"Increased serum lactate"	1.0	0.0	0.0	0.0
+"Decreased CSF homovanillic acid"	1.0	0.0	0.0	0.0

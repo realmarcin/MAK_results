@@ -1,0 +1,13 @@
+	"Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, and Cerebral Calcification"	"Perrault Syndrome 3"	"Peroxisome biogenesis disorder 11B"	"Congenital disorder of glycosylation type 1w"	"Congenital disorder of glycosylation type 1x"	"Epileptic Encephalopathy, Early Infantile, 21"	"Seizures, Cortical Blindness, and Microcephaly Syndrome"	"Growth Retardation, Intellectual Developmental Disorder, Hypotonia, and Hepatopathy; GRIDHH"	"OMIM:617389"	"Orphanet:370921"	"Orphanet:370924"
+"Intellectual disability"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Cryptorchidism"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Generalized hypotonia"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Optic atrophy"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Cerebellar atrophy"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Thrombocytopenia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Micropenis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Respiratory distress"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Scrotal hypoplasia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Impaired smooth pursuit"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Feeding difficulties"	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Abnormal glycosylation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

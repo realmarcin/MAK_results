@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Spinal dysplasia"
+"3" "Absent spinous processes of lower thoracic and lumbar vertebrae"
+"4" "Narrow anterio-posterior vertebral body diameter"

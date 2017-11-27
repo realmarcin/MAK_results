@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0003829"
+"2" "Abnormality of the skin"
+"3" "Meningioma"
+"4" "Schwannoma"
+"5" "Spinal cord tumor"
+"6" "HP:0001428"
+"7" "Abnormality of the vertebral column"

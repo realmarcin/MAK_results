@@ -1,0 +1,6 @@
+"x"
+"1" "Shprintzen.syndrome"
+"2" "DiGeorge.syndrome"
+"3" "Craniofacioskeletal.Syndrome"
+"4" "Cerebrocostomandibular.Syndrom"
+"5" "Chromosome.19Q13.11.Deletion.S"

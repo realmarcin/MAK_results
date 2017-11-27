@@ -1,0 +1,13 @@
+	"Cardiac Conduction Defect"	"Sick Sinus Syndrome 2"	"Cardiomyopathy, Familial Hypertrophic, 1"	"dilated cardiomyopathy 1AA"	"hypertrophic cardiomyopathy 16"	"CMH21"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003812"	0.0	0.0	0.0	1.0	0.0	0.0
+"Cardiomyopathy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Left ventricular hypertrophy"	0.0	1.0	0.0	1.0	1.0	1.0
+"Mitral valve prolapse"	0.0	1.0	0.0	0.0	0.0	1.0
+"Aortic regurgitation"	0.0	1.0	0.0	0.0	0.0	0.0
+"Arrhythmia"	1.0	0.0	1.0	0.0	0.0	1.0
+"Endocardial fibroelastosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0003577"	0.0	1.0	0.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	0.0	0.0	0.0	1.0	0.0	0.0
+"Sick sinus syndrome"	0.0	1.0	0.0	0.0	0.0	0.0
+"Left ventricular noncompaction"	0.0	1.0	0.0	1.0	0.0	0.0

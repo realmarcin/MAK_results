@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Abnormality of the vertebral column"
+"3" "Coxa valga"
+"4" "Hypercalcemia"
+"5" "Wrist pain"

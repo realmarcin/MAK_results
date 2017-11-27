@@ -1,0 +1,6 @@
+	"Howel-Evans syndrome"	"Lip, Median Nodule of Upper"	"Lip, Hamartomatous"	"Salivary Duct Calculi"	"Focal Epithelial Hyperplasia, Oral"	"PDDP"
+"HP:0000007"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0
+"Abnormality of the mouth"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the skeletal system"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hamartoma"	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,14 @@
+	"Ohdo Syndrome, X-Linked"	"1q44 microdeletion syndrome"	"Orphanet:251056"	"Orphanet:261112"	"Trisomy 17p"	"Distal 22q11.2 microduplication syndrome"	"Orphanet:46059"
+"Coarse facial features"	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Malar flattening"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Bulbous nose"	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Prominent nose"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hydrocephalus"	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Agenesis of corpus callosum"	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Webbed neck"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Macroglossia"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Low posterior hairline"	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"HP:0001276"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Thick vermilion border"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the antihelix"	0.0	0.0	0.0	1.0	0.0	1.0	0.0

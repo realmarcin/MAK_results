@@ -1,0 +1,6 @@
+"x"
+"1" "Blue sclerae"
+"2" "Wormian bones"
+"3" "Moderately short stature"
+"4" "Flat capital femoral epiphysis"
+"5" "Thenar muscle atrophy"

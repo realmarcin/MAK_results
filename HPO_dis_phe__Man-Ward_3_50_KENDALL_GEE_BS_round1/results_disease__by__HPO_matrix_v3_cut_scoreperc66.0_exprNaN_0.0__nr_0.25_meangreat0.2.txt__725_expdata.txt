@@ -1,0 +1,9 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Keipert syndrome"	"Fg Syndrome 4"	"Steel syndrome"	"Orphanet:3246"	"Orphanet:329329"	"Orphanet:398173"
+"Feeding difficulties in infancy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypertelorism"	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Global developmental delay"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Neonatal hypotonia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Scoliosis"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0001417"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Dislocated radial head"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Prominent forehead"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0

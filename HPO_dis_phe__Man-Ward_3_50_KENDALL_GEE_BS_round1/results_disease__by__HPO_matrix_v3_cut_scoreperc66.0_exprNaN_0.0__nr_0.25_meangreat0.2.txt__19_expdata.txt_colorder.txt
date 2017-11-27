@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Colon cancer"
+"3" "Epidermoid cyst"
+"4" "Desmoid tumors"

@@ -1,0 +1,6 @@
+	"Anterior segment mesenchymal dysgenesis"	"LADD syndrome"	"Bloom syndrome"	"Hennekam Lymphangiectasia-Lymphedema Syndrome 1"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1"	"Peters-Plus Syndrome"	"Pilodental dysplasia-refractive errors syndrome"	"Invasive pneumococcal disease, recurrent isolated, 2"	"Microphthalmia, Syndromic 1"	"Anterior Segment Dysgenesis 3"	"Anterior Segment Dysgenesis 5"	"Lathosterolosis"	"congenital aphakia"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A2"	"Chromosome 17Q12 Duplication Syndrome"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 7"	"Orphanet:250923"	"Orphanet:289"	"Orphanet:709"
+"Peters anomaly"	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Conical incisor"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Exaggerated cupid's bow"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Bilobate gallbladder"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Microtia, second degree"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

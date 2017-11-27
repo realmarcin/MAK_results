@@ -1,0 +1,6 @@
+"x"
+"1" "Split.Hand.With.Obstructive.Ur"
+"2" "Neural.Tube.Defects..Susceptib"
+"3" "Brachydactyly..Type.B1"
+"4" "Pelvis.shoulder.dysplasia"
+"5" "Orphanet.1773"

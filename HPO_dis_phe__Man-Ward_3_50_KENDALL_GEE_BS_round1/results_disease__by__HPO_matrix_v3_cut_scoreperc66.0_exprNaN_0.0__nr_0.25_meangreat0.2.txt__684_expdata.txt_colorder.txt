@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Histidinuria"
+"3" "Rounded middle phalanx of finger"
+"4" "Impaired histidine renal tubular absorption"

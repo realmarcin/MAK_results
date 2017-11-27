@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Anterior scalloping of vertebral bodies"
+"3" "Tapered metacarpals"
+"4" "Tapered phalanx of finger"

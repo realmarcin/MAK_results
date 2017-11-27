@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Talipes equinovarus"
+"3" "Elevated serum creatine phosphokinase"
+"4" "Hypoplasia of the brainstem"
+"5" "Occipital encephalocele"
+"6" "Abnormal myelination"

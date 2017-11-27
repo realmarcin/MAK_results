@@ -1,0 +1,12 @@
+	"Deafness-Craniofacial Syndrome"	"TKCR"	"Wildervanck Syndrome"	"Orphanet:168984"	"Cleft lip/palate-deafness-sacral lipoma syndrome"	"Orphanet:3241"	"Orphanet:3456"	"Orphanet:85283"
+"Facial asymmetry"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Ataxia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Sparse scalp hair"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Depressed nasal ridge"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hip dislocation"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Absent nasal septal cartilage"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Reduced number of teeth"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bilateral cleft lip and palate"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Sacral lipoma"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Lower limb asymmetry"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Severe sensorineural hearing impairment"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

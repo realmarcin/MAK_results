@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.370927"
+"2" "Congenital.Disorder.of.Glycosy"
+"3" "Neurodevelopmental.Disorder.wi"
+"4" "Congenital.disorder.of.glycosy"
+"5" "Poretti.Boltshauser.Syndrome"

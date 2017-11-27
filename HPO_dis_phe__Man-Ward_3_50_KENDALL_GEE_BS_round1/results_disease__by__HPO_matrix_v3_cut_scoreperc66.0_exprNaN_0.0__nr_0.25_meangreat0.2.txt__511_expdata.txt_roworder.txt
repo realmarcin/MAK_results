@@ -1,0 +1,5 @@
+"x"
+"1" "acromelic.frontonasal.dysostos"
+"2" "Congenital.Disorder.of.Glycosy"
+"3" "Lamb.Shaffer.Syndrome"
+"4" "Global.developmental.delay..ab"

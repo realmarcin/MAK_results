@@ -1,0 +1,29 @@
+	"Brachytelephalangy With Characteristic Facies and Kallmann Syndrome"	"Hypertelorism and Tetralogy of Fallot"	"Acitretin/etretinate embryopathy"	"Orphanet:65288"
+"Atrioventricular canal defect"	0.0	0.0	1.0	0.0
+"Talipes equinovarus"	0.0	1.0	0.0	0.0
+"Tetralogy of Fallot"	0.0	1.0	0.0	0.0
+"Bilateral sensorineural hearing impairment"	0.0	0.0	1.0	0.0
+"Premature birth"	0.0	0.0	1.0	0.0
+"Shortening of all distal phalanges of the fingers"	1.0	0.0	0.0	0.0
+"Anosmia"	1.0	0.0	0.0	0.0
+"Hypoplastic nasal septum"	0.0	0.0	1.0	0.0
+"Hypogonadotrophic hypogonadism"	1.0	0.0	0.0	0.0
+"Spina bifida occulta"	0.0	1.0	0.0	0.0
+"Cerebellar hypoplasia"	0.0	0.0	0.0	1.0
+"Median cleft palate"	0.0	0.0	1.0	0.0
+"Third degree atrioventricular block"	0.0	0.0	1.0	0.0
+"Bradycardia"	0.0	0.0	1.0	0.0
+"Antecubital pterygium"	0.0	0.0	1.0	0.0
+"Hypoplasia of the thymus"	0.0	0.0	1.0	0.0
+"Abnormality of the calcaneus"	0.0	0.0	1.0	0.0
+"Tetralogy of Fallot with absent pulmonary valve"	0.0	1.0	0.0	0.0
+"Conotruncal defect"	0.0	0.0	1.0	0.0
+"Neonatal insulin-dependent diabetes mellitus"	0.0	0.0	0.0	1.0
+"Abnormal retinal morphology"	0.0	0.0	1.0	0.0
+"Aplasia/hypoplasia involving bones of the lower limbs"	0.0	0.0	1.0	0.0
+"Aplasia/hypoplasia involving bones of the upper limbs"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the optic nerve"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the maxilla"	0.0	0.0	1.0	0.0
+"Maternal teratogenic exposure"	0.0	0.0	1.0	0.0
+"Neurodevelopmental abnormality"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the pancreas"	0.0	0.0	0.0	1.0

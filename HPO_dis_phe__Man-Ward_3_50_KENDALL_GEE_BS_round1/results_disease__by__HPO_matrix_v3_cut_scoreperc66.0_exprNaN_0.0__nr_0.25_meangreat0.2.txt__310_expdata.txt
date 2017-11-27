@@ -1,0 +1,21 @@
+	"Auriculocondylar Syndrome 1"	"Auriculocondylar Syndrome 2"	"Polyvalvular heart disease syndrome"	"Orphanet:2868"	"Orphanet:3038"
+"Macrocephaly"	1.0	1.0	0.0	0.0	0.0
+"Preauricular skin tag"	1.0	0.0	0.0	0.0	0.0
+"Round face"	1.0	1.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	0.0	0.0	0.0
+"Dental malocclusion"	1.0	1.0	0.0	0.0	0.0
+"Overfolding of the superior helices"	1.0	1.0	0.0	0.0	0.0
+"Snoring"	1.0	1.0	0.0	0.0	0.0
+"Stenosis of the external auditory canal"	1.0	0.0	0.0	0.0	0.0
+"Cupped ear"	1.0	0.0	0.0	0.0	0.0
+"Hypoplastic superior helix"	1.0	1.0	0.0	0.0	0.0
+"Apnea"	1.0	1.0	0.0	0.0	0.0
+"Glossoptosis"	1.0	1.0	0.0	0.0	0.0
+"Anterior open-bite malocclusion"	1.0	0.0	0.0	0.0	0.0
+"Postauricular skin tag"	1.0	0.0	0.0	0.0	0.0
+"Chewing difficulties"	1.0	0.0	0.0	0.0	0.0
+"Mandibular condyle aplasia"	1.0	1.0	0.0	0.0	0.0
+"Mandibular condyle hypoplasia"	1.0	1.0	0.0	0.0	0.0
+"Cleft at the superior portion of the pinna"	1.0	1.0	0.0	0.0	0.0
+"Speech articulation difficulties"	1.0	1.0	0.0	0.0	0.0

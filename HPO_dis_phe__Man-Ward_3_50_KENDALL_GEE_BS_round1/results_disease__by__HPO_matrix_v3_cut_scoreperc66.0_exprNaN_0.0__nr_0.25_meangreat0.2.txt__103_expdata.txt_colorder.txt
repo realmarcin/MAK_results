@@ -1,0 +1,6 @@
+"x"
+"1" "Arthritis"
+"2" "Arthralgia"
+"3" "Autoimmunity"
+"4" "Erythema"
+"5" "Skin ulcer"

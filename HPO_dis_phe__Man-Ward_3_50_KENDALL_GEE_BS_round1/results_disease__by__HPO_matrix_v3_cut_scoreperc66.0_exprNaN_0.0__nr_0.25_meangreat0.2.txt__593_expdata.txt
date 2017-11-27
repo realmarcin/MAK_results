@@ -1,0 +1,14 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Hypotonia, Infantile, With Psychomotor Retardation and Characteristic Facies 3"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Prominent nasal bridge"	0.0	0.0	1.0	0.0
+"Bulbous nose"	0.0	0.0	1.0	0.0
+"Thick vermilion border"	0.0	0.0	1.0	0.0
+"Cerebellar vermis hypoplasia"	0.0	0.0	1.0	0.0
+"Abnormality of the periventricular white matter"	0.0	0.0	1.0	0.0
+"Brain atrophy"	0.0	0.0	1.0	0.0
+"Dysplastic corpus callosum"	0.0	0.0	1.0	0.0
+"Exaggerated cupid's bow"	0.0	0.0	1.0	0.0
+"Small basal ganglia"	0.0	0.0	1.0	0.0
+"Gastrostomy tube feeding in infancy"	0.0	0.0	1.0	0.0
+"Extra-axial cerebrospinal fluid accumulation"	0.0	0.0	1.0	0.0
+"Reduced brain N-acetyl aspartate level by MRS"	0.0	0.0	1.0	0.0

@@ -1,0 +1,12 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Webb-Dattani Syndrome"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Cryptorchidism"	0.0	0.0	1.0	0.0
+"Hydronephrosis"	0.0	0.0	1.0	0.0
+"Vesicoureteral reflux"	0.0	0.0	1.0	0.0
+"Hip dislocation"	0.0	0.0	1.0	0.0
+"Prominent forehead"	0.0	0.0	1.0	0.0
+"Hypernatremia"	0.0	0.0	1.0	0.0
+"Growth hormone deficiency"	0.0	0.0	1.0	0.0
+"Diabetes insipidus"	0.0	0.0	1.0	0.0
+"Neurogenic bladder"	0.0	0.0	1.0	0.0
+"Pituitary hypothyroidism"	0.0	0.0	1.0	0.0

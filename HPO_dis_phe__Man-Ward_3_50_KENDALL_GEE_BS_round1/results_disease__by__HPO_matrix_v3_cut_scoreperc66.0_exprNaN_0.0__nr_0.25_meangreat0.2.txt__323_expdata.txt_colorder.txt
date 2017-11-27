@@ -1,0 +1,8 @@
+"x"
+"1" "Abnormality of the shape of the midface"
+"2" "Abnormality of the sella turcica"
+"3" "Upper limb peromelia"
+"4" "Amelia involving the lower limbs"
+"5" "Abnormality of dentin"
+"6" "Advanced pneumatization of the mastoid process"
+"7" "Rootless teeth"

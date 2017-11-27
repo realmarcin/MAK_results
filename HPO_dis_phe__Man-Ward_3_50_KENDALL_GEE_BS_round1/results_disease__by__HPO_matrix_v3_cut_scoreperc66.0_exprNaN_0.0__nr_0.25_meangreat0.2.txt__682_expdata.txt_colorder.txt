@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Orbital cyst"
+"3" "Macular hyperpigmentation"
+"4" "Morning glory anomaly"

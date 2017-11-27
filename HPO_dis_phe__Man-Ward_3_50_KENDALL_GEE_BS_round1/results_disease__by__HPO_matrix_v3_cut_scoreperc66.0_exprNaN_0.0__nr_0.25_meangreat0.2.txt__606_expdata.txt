@@ -1,0 +1,18 @@
+	"Noonan Syndrome 1"	"Legius Syndrome"	"Noonan syndrome 7"	"Noonan syndrome 10"
+"Hypogonadism"	1.0	0.0	0.0	0.0
+"Brachydactyly"	1.0	0.0	0.0	0.0
+"Radial deviation of finger"	1.0	0.0	0.0	0.0
+"Clinodactyly"	1.0	0.0	0.0	0.0
+"HP:0001425"	1.0	0.0	0.0	0.0
+"Myopia"	1.0	0.0	0.0	0.0
+"Webbed neck"	1.0	0.0	0.0	0.0
+"HP:0008897"	1.0	0.0	0.0	0.0
+"Abnormal bleeding"	1.0	0.0	0.0	0.0
+"Neurofibrosarcoma"	1.0	0.0	0.0	0.0
+"Failure to thrive in infancy"	1.0	0.0	0.0	0.0
+"Cystic hygroma"	1.0	0.0	0.0	0.0
+"Male infertility"	1.0	0.0	0.0	0.0
+"Reduced factor XII activity"	1.0	0.0	0.0	0.0
+"Amegakaryocytic thrombocytopenia"	1.0	0.0	0.0	0.0
+"Reduced factor XIII activity"	1.0	0.0	0.0	0.0
+"Synovitis"	1.0	0.0	0.0	0.0

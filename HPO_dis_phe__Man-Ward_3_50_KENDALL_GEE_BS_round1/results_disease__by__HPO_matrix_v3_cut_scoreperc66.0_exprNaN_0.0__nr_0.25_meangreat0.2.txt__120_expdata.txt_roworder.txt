@@ -1,0 +1,7 @@
+"x"
+"1" "Skeletal.Dysplasia.With.Delaye"
+"2" "Brachydactyly..Type.C"
+"3" "Eiken.syndrome"
+"4" "Autosomal.dominant.multiple.pt"
+"5" "Skeletal.dysplasia.intellectua"
+"6" "Congenital.Contractures.of.the"

@@ -1,0 +1,7 @@
+"x"
+"1" "Ovalocytosis..Southeast.Asian"
+"2" "Ovalocytosis..Hereditary.Hemol"
+"3" "Amme.Complex"
+"4" "Elliptocytosis.1"
+"5" "X6.Phosphogluconolactonase.Def"
+"6" "OMIM.616089"

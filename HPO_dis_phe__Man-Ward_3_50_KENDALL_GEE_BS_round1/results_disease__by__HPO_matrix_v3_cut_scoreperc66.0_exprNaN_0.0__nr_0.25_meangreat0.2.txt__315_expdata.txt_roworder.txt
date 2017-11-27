@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.168549"
+"2" "Spondylometaphyseal.dysplasia."
+"3" "Orphanet.85167"
+"4" "Orphanet.166272"
+"5" "Myotonia.With.Skeletal.Abnorma"

@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the skin"
+"2" "Premature loss of teeth"
+"3" "Gingival recession"
+"4" "Severe periodontitis"

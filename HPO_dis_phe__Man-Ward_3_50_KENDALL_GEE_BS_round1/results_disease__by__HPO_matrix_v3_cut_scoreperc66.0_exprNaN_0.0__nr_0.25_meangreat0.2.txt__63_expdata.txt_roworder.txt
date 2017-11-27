@@ -1,0 +1,7 @@
+"x"
+"1" "GFND1"
+"2" "Glomerulopathy.With.Fibronecti"
+"3" "Orphanet.84090"
+"4" "Orphanet.77297"
+"5" "Orphanet.79087"
+"6" "Orphanet.86818"

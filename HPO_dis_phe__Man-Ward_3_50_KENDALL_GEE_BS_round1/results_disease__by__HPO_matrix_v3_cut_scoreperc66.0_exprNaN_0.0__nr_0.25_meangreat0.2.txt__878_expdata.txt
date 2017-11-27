@@ -1,0 +1,20 @@
+	"Trichohepatoenteric syndrome 1"	"Orphanet:1194"	"Orphanet:1454"	"Orphanet:2971"	"Orphanet:300536"
+"Narrow mouth"	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	0.0	0.0	0.0
+"Tetralogy of Fallot"	1.0	0.0	0.0	0.0	0.0
+"Bifid uvula"	1.0	0.0	0.0	0.0	0.0
+"Microtia"	1.0	0.0	0.0	0.0	0.0
+"Fine hair"	1.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0	0.0
+"Depressed nasal ridge"	1.0	0.0	0.0	0.0	0.0
+"Aortic regurgitation"	1.0	0.0	0.0	0.0	0.0
+"Proptosis"	1.0	0.0	0.0	0.0	0.0
+"Curly hair"	1.0	0.0	0.0	0.0	0.0
+"Underdeveloped supraorbital ridges"	1.0	0.0	0.0	0.0	0.0
+"Increased mean platelet volume"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the pancreas"	1.0	0.0	0.0	0.0	0.0
+"Renal cortical microcysts"	1.0	0.0	0.0	0.0	0.0
+"Intractable diarrhea"	1.0	0.0	0.0	0.0	0.0
+"Large placenta"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of iron homeostasis"	1.0	0.0	0.0	0.0	0.0
+"Galactosuria"	1.0	0.0	0.0	0.0	0.0

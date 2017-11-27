@@ -1,0 +1,6 @@
+"x"
+"1" "Mitochondrial.complex.II.defic"
+"2" "Mitochondrial.Complex.1.Defici"
+"3" "Myopathy.with.lactic.acidosis."
+"4" "Ophthalmoplegic.Neuromuscular."
+"5" "Orphanet.2609"

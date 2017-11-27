@@ -1,0 +1,7 @@
+	"Craniodiaphyseal Dysplasia, Autosomal Dominant"	"Patterson Pseudoleprechaunism Syndrome"	"Gm1-Gangliosidosis, Type 1"	"Sanfilippo syndrome type A"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis II"	"mucopolysaccharidosis IX"
+"Thickened ribs"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Ovoid thoracolumbar vertebrae"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Asymmetric septal hypertrophy"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Dense calvaria"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Heparan sulfate excretion in urine"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cellular metachromasia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0

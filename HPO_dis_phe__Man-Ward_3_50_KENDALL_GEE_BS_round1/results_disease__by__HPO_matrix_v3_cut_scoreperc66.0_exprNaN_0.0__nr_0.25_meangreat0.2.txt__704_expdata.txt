@@ -1,0 +1,16 @@
+	"Macdermot-Winter Syndrome"	"Warburg Micro Syndrome 2"	"Orphanet:1466"	"Distal monosomy 7q36"	"Orphanet:2031"	"Orphanet:2083"	"Neonatal adrenoleukodystrophy"	"Orphanet:99742"
+"Seizures"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Brachydactyly"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Short neck"	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Highly arched eyebrow"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Wide intermamillary distance"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Underdeveloped nasal alae"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Short palpebral fissure"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Dolichocephaly"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Posteriorly rotated ears"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Overfolded helix"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplastic male external genitalia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prominent glabella"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Frontal upsweep of hair"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Thickened nuchal skin fold"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal hair pattern"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

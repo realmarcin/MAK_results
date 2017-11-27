@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.250989"
+"2" "Orphanet.251019"
+"3" "Glass.Syndrome"
+"4" "X.linked.intellectual.disabili"
+"5" "Orphanet.250994"
+"6" "Mental.retardation..autosomal."

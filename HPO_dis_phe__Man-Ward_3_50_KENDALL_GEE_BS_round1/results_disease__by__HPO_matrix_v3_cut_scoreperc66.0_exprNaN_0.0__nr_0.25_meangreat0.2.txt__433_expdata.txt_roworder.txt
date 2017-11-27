@@ -1,0 +1,6 @@
+"x"
+"1" "Retinohepatoendocrinologic.Syn"
+"2" "Orphanet.3087"
+"3" "Hypogonadism.Cataract.Syndrome"
+"4" "Myopathy..Centronuclear..1"
+"5" "Orphanet.3216"

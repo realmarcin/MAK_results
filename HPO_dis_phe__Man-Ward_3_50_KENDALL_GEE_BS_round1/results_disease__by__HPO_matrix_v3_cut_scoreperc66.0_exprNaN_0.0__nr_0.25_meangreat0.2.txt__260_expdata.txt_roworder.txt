@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.1664"
+"2" "Orphanet.1836"
+"3" "Acropectororenal.dysplasia"
+"4" "Orphanet.1590"
+"5" "Symbrachydactyly.of.hands.and."

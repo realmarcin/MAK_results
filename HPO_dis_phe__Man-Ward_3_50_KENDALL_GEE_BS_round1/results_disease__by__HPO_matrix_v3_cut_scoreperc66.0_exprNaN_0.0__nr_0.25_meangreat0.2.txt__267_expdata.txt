@@ -1,0 +1,36 @@
+	"acrocephalosyndactylia"	"Craniosynostosis and dental anomalies"	"Orphanet:85199"	"Orphanet:87"
+"Feeding difficulties in infancy"	0.0	0.0	0.0	1.0
+"Hypertelorism"	1.0	1.0	0.0	1.0
+"Cutaneous finger syndactyly"	1.0	0.0	0.0	0.0
+"Facial asymmetry"	0.0	0.0	0.0	1.0
+"Abnormality of cardiovascular system morphology"	0.0	0.0	0.0	1.0
+"Ventricular septal defect"	1.0	0.0	0.0	0.0
+"Megalencephaly"	1.0	0.0	0.0	0.0
+"Bifid uvula"	1.0	0.0	0.0	1.0
+"Large fontanelles"	1.0	0.0	0.0	1.0
+"Broad forehead"	1.0	0.0	0.0	1.0
+"Chronic otitis media"	1.0	0.0	0.0	0.0
+"Delayed eruption of teeth"	1.0	1.0	0.0	1.0
+"Dental malocclusion"	1.0	0.0	0.0	0.0
+"Acne"	1.0	0.0	0.0	0.0
+"Postaxial hand polydactyly"	1.0	0.0	0.0	0.0
+"Absent septum pellucidum"	1.0	0.0	0.0	1.0
+"Growth abnormality"	1.0	0.0	0.0	0.0
+"Pyloric stenosis"	1.0	0.0	0.0	0.0
+"Esophageal atresia"	1.0	0.0	0.0	1.0
+"Overriding aorta"	1.0	0.0	0.0	0.0
+"Ectopic anus"	1.0	0.0	1.0	1.0
+"Anomalous tracheal cartilage"	1.0	0.0	0.0	0.0
+"Acrobrachycephaly"	1.0	0.0	0.0	1.0
+"Cervical C5/C6 vertebrae fusion"	1.0	0.0	0.0	1.0
+"Synostosis of carpal bones"	1.0	0.0	0.0	0.0
+"Arnold-Chiari type I malformation"	1.0	0.0	0.0	0.0
+"Posterior fossa cyst"	1.0	0.0	0.0	0.0
+"Abnormal morphology of the limbic system"	1.0	0.0	0.0	0.0
+"Broad distal hallux"	1.0	0.0	0.0	0.0
+"Broad distal phalanx of the thumb"	1.0	0.0	0.0	0.0
+"Arachnoid cyst"	1.0	0.0	0.0	0.0
+"Micromelia"	0.0	0.0	0.0	1.0
+"Corneal erosion"	0.0	0.0	0.0	1.0
+"Ovarian neoplasm"	0.0	0.0	0.0	1.0
+"Morphological abnormality of the semicircular canal"	0.0	0.0	0.0	1.0

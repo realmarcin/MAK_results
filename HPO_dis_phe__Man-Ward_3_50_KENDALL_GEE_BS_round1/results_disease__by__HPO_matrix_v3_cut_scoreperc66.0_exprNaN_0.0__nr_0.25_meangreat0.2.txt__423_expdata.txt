@@ -1,0 +1,7 @@
+	"Gastric Cancer, Hereditary Diffuse"	"Polyglandular autoimmune syndrome, type 1"	"Tubulointerstitial nephritis and uveitis syndrome"	"Cap polyposis"	"Autoimmune polyendocrinopathy type 3"	"Autoimmune polyendocrinopathy type 4"	"Autoimmune hypoparathyroidism"
+"Iridocyclitis"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Chronic atrophic gastritis"	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Reversible renal failure"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Acute tubulointerstitial nephritis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Panuveitis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Autoimmune hypoparathyroidism"	0.0	0.0	0.0	0.0	1.0	0.0	1.0

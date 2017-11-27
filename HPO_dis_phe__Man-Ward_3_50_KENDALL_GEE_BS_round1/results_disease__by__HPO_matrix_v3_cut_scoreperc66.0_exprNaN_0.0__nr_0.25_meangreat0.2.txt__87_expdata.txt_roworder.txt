@@ -1,0 +1,7 @@
+"x"
+"1" "renal.hypomagnesemia.3"
+"2" "Hypomagnesemia.5..renal..with."
+"3" "Idiopathic.hypercalciuria"
+"4" "Familial.primary.hypomagnesemi"
+"5" "Orphanet.428"
+"6" "Tubular.renal.disease.cardiomy"

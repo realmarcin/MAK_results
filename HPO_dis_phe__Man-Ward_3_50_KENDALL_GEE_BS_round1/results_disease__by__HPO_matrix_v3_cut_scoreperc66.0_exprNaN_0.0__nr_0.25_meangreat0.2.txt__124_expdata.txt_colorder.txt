@@ -1,0 +1,7 @@
+"x"
+"1" "Gait ataxia"
+"2" "Limb ataxia"
+"3" "Arnold-Chiari type I malformation"
+"4" "Lower limb hyperreflexia"
+"5" "Areflexia of upper limbs"
+"6" "Neck pain"

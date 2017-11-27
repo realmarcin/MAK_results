@@ -1,0 +1,6 @@
+	"fibrodysplasia ossificans progressiva"	"Patterson Pseudoleprechaunism Syndrome"	"Superior Transverse Scapular Ligament, Calcification Of, Familial"	"Orphanet:2762"	"Orphanet:337"
+"Small cervical vertebral bodies"	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the first metatarsal bone"	1.0	0.0	0.0	0.0	1.0
+"Ectopic ossification in muscle tissue"	1.0	0.0	0.0	1.0	1.0
+"Ectopic ossification in ligament tissue"	1.0	0.0	1.0	0.0	1.0
+"Aplasia/Hypoplasia of the phalanges of the hallux"	0.0	0.0	0.0	0.0	1.0

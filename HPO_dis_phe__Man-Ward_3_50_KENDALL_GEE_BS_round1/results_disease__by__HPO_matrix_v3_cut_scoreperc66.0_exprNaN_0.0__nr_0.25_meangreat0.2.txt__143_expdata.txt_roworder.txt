@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.1547"
+"2" "Cryptomicrotia.Brachydactyly.S"
+"3" "chromosome.1q41.q42.deletion.s"
+"4" "Acrofacial.Dysostosis..Cincinn"

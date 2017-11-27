@@ -1,0 +1,7 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Encephalopathy Due to Defective Mitochondrial and Peroxisomal Fission 2; EMPF2"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Dysphagia"	0.0	0.0	1.0	0.0
+"Inability to walk"	0.0	0.0	1.0	0.0
+"Peripheral neuropathy"	0.0	0.0	1.0	0.0
+"Visual impairment"	0.0	0.0	1.0	0.0
+"External ophthalmoplegia"	0.0	0.0	1.0	0.0

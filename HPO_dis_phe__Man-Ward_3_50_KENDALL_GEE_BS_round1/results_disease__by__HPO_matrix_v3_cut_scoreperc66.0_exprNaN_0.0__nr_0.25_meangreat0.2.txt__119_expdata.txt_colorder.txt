@@ -1,0 +1,8 @@
+"x"
+"1" "Short stature"
+"2" "Hip dislocation"
+"3" "Microtia"
+"4" "Micromelia"
+"5" "Atresia of the external auditory canal"
+"6" "Reduced bone mineral density"
+"7" "Abnormality of femur morphology"

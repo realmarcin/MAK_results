@@ -1,0 +1,7 @@
+	"MRXS12"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Hyperphosphatasia with mental retardation syndrome 4"	"Mental retardation, autosomal dominant 24"	"Mental Retardation, Autosomal Recessive 48"
+"Inability to walk"	0.0	0.0	1.0	0.0	1.0
+"Self-mutilation"	0.0	0.0	0.0	0.0	1.0
+"HP:0000007"	0.0	0.0	1.0	0.0	1.0
+"Small hand"	0.0	0.0	0.0	0.0	1.0
+"Waddling gait"	0.0	0.0	0.0	0.0	1.0
+"Kinetic tremor"	0.0	0.0	0.0	0.0	1.0

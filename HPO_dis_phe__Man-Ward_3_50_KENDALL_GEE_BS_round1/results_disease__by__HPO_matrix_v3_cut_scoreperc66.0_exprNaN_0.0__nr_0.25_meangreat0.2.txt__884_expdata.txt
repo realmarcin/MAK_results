@@ -1,0 +1,25 @@
+	"Incisors, Shovel-Shaped"	"Epidermal nevus syndrome"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"Horseshoe kidney"	0.0	1.0	0.0	0.0	0.0
+"Overgrowth"	0.0	1.0	0.0	0.0	0.0
+"Ophthalmoplegia"	0.0	1.0	0.0	0.0	0.0
+"HP:0001596"	0.0	1.0	0.0	0.0	0.0
+"Osteopenia"	0.0	1.0	0.0	0.0	0.0
+"HP:0001442"	0.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	0.0	0.0	0.0
+"Hypopigmentation of the skin"	0.0	1.0	0.0	0.0	0.0
+"Coarctation of aorta"	0.0	1.0	0.0	0.0	0.0
+"Corneal opacity"	0.0	1.0	0.0	0.0	0.0
+"Basal cell carcinoma"	0.0	1.0	0.0	0.0	0.0
+"Recurrent fractures"	0.0	1.0	0.0	0.0	0.0
+"Ichthyosis"	0.0	1.0	0.0	0.0	0.0
+"Coloboma"	0.0	1.0	0.0	0.0	0.0
+"Cranial asymmetry"	0.0	1.0	0.0	0.0	0.0
+"Precocious puberty"	0.0	1.0	0.0	0.0	0.0
+"Hyperphosphaturia"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of finger"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of toe"	0.0	1.0	0.0	0.0	0.0
+"Hypophosphatemic rickets"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of dental morphology"	0.0	1.0	0.0	0.0	0.0
+"Hemimegalencephaly"	0.0	1.0	0.0	0.0	0.0
+"Nevus sebaceous"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of dental color"	0.0	1.0	0.0	0.0	0.0

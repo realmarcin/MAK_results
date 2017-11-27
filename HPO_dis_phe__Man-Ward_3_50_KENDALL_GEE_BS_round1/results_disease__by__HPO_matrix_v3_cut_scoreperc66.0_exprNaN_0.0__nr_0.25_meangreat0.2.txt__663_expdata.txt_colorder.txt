@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Hyperextensibility at wrists"
+"3" "Increased laxity of fingers"
+"4" "Increased laxity of ankles"

@@ -1,0 +1,5 @@
+	"Prolidase deficiency"	"Bloom syndrome"	"Cystic Fibrosis"	"Osteogenesis imperfecta type 10"	"Immunodeficiency, Common Variable, 8, With Autoimmunity"	"Chops Syndrome"	"Familial papillary or follicular thyroid carcinoma"	"Bronchopulmonary dysplasia"	"Orphanet:97290"
+"Papillary thyroid carcinoma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Euthyroid multinodular goiter"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chronic lung disease"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Non-medullary thyroid carcinoma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

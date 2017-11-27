@@ -1,0 +1,7 @@
+"x"
+"1" "Increased pulmonary vascular resistance"
+"2" "Edema of the dorsum of hands"
+"3" "Edema of the dorsum of feet"
+"4" "Ankle swelling"
+"5" "Right ventricular hypertrophy"
+"6" "Abnormal jugular vein morphology"

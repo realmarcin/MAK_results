@@ -1,0 +1,12 @@
+	"Myopathy, Centronuclear, 1"	"Pituitary hormone deficiency, combined 2"	"Short stature-pituitary and cerebellar defects-small sella turcica syndrome"	"Proopiomelanocortin Deficiency"	"Orphanet:3087"	"Orphanet:3216"
+"Short stature"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	0.0	0.0
+"Obesity"	0.0	0.0	0.0	1.0	0.0	0.0
+"Adrenal insufficiency"	0.0	1.0	1.0	1.0	0.0	0.0
+"Cholestasis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Neonatal hypoglycemia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Panhypopituitarism"	0.0	1.0	0.0	0.0	0.0	0.0
+"Red hair"	0.0	0.0	0.0	1.0	0.0	0.0
+"Adrenocorticotropic hormone deficiency"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoglycemic seizures"	0.0	1.0	0.0	1.0	0.0	0.0
+"Prolactin deficiency"	0.0	1.0	0.0	0.0	0.0	0.0

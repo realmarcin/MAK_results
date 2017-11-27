@@ -1,0 +1,15 @@
+	"Late-onset isolated ACTH deficiency"	"Orphanet:411590"	"Orphanet:738"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Anxiety"	0.0	1.0	0.0	0.0	0.0
+"Dementia"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the pinna"	0.0	1.0	0.0	0.0	0.0
+"Congenital sensorineural hearing impairment"	0.0	1.0	0.0	0.0	0.0
+"Peripheral axonal neuropathy"	0.0	1.0	0.0	0.0	0.0
+"Progressive cerebellar ataxia"	0.0	1.0	0.0	0.0	0.0
+"Central diabetes insipidus"	0.0	1.0	0.0	0.0	0.0
+"Respiratory insufficiency"	0.0	1.0	0.0	0.0	0.0
+"Autistic behavior"	0.0	1.0	0.0	0.0	0.0
+"Severe postnatal growth retardation"	0.0	1.0	0.0	0.0	0.0
+"Primary gonadal insufficiency"	0.0	1.0	0.0	0.0	0.0
+"Male hypogonadism"	0.0	1.0	0.0	0.0	0.0
+"Gastrointestinal dysmotility"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the upper urinary tract"	0.0	1.0	0.0	0.0	0.0

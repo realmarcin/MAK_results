@@ -1,0 +1,10 @@
+	"DECIPHER:37"	"DECIPHER:70"	"GMS syndrome"	"Cystic fibrosis-gastritis-megaloblastic anemia syndrome"	"Orphanet:1110"	"Ring chromosome 1"	"Orphanet:2090"	"Orphanet:2575"	"Orphanet:2612"	"Orphanet:2884"	"Orphanet:2885"	"Familial lambdoid synostosis"	"Orphanet:896"
+"Microcephaly"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Feeding difficulties in infancy"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Downslanted palpebral fissures"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hydronephrosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ptosis"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Optic disc hypoplasia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Long philtrum"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal hair pattern"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

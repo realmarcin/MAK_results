@@ -1,0 +1,14 @@
+	"neurodegeneration with brain iron accumulation 3"	"Thiamine Metabolism Dysfunction Syndrome 2 (Biotin- or Thiamine-Responsive Type)"	"Deficiency of aromatic-L-amino-acid decarboxylase"	"Congenital myasthenic syndrome, acetazolamide-responsive"	"Dystonia, Childhood-Onset, with Optic Atrophy and Basal Ganglia Abnormalities; DYTOABG"
+"Inability to walk"	0.0	1.0	0.0	0.0	0.0
+"HP:0003621"	0.0	1.0	0.0	0.0	0.0
+"Dysarthria"	1.0	1.0	0.0	0.0	1.0
+"Paraparesis"	0.0	1.0	0.0	0.0	0.0
+"Fever"	0.0	1.0	0.0	0.0	0.0
+"External ophthalmoplegia"	0.0	1.0	0.0	1.0	0.0
+"Irritability"	0.0	1.0	1.0	0.0	0.0
+"Confusion"	0.0	1.0	0.0	0.0	0.0
+"Mutism"	1.0	1.0	0.0	0.0	0.0
+"Coma"	0.0	1.0	0.0	0.0	0.0
+"Encephalopathy"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the basal ganglia"	0.0	1.0	0.0	0.0	0.0
+"Craniofacial dystonia"	0.0	1.0	0.0	0.0	1.0

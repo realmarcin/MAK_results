@@ -1,0 +1,18 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orphanet:168624"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Toe syndactyly"	1.0	0.0	1.0	1.0	0.0
+"Clinodactyly of the 5th toe"	1.0	0.0	0.0	0.0	0.0
+"Absent distal interphalangeal creases"	0.0	0.0	0.0	1.0	0.0
+"Absent distal phalanges"	0.0	0.0	0.0	1.0	0.0
+"Small thenar eminence"	1.0	0.0	0.0	1.0	0.0
+"Proximal symphalangism of hands"	1.0	0.0	0.0	0.0	0.0
+"Absent dorsal skin creases over affected joints"	1.0	0.0	0.0	0.0	0.0
+"Reduced proximal interphalangeal joint space"	1.0	0.0	0.0	1.0	0.0
+"Small hypothenar eminence"	1.0	0.0	0.0	1.0	0.0
+"Abnormal palmar dermatoglyphics"	0.0	0.0	0.0	1.0	0.0
+"HP:0010103"	0.0	0.0	0.0	1.0	0.0
+"Cutaneous syndactyly between fingers 2 and 5"	0.0	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the distal phalanx of the 5th toe"	0.0	0.0	0.0	1.0	0.0
+"Symphalangism of the 4th finger"	0.0	0.0	0.0	1.0	0.0
+"Symphalangism of the 5th finger"	0.0	0.0	0.0	1.0	0.0
+"Symphalangism affecting the phalanges of the toes"	0.0	0.0	0.0	1.0	0.0

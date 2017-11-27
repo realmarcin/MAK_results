@@ -1,0 +1,5 @@
+	"Progeroid Short Stature With Pigmented Nevi"	"Partial Lipodystrophy, Congenital Cataracts, and Neurodegeneration Syndrome"	"Immunodeficiency 24"	"Orphanet:158687"	"Orphanet:217390"	"Deficiency in anterior pituitary function-variable immunodeficiency syndrome"	"Orphanet:2959"	"Centrifugal lipodystrophy"
+"Esophageal ulceration"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Lack of facial subcutaneous fat"	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Severe viral infections"	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Allergic conjunctivitis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"Karsch-Neugebauer syndrome"	"Orphanet:1852"	"Orphanet:614"	"Orphanet:94090"
+"Split hand"	1.0	0.0	0.0	0.0
+"Split foot"	1.0	0.0	0.0	0.0
+"Cataract"	1.0	0.0	0.0	0.0
+"Hand monodactyly"	1.0	0.0	0.0	0.0
+"Congenital nystagmus"	1.0	0.0	0.0	0.0
+"Retinopathy"	1.0	0.0	0.0	0.0

@@ -1,0 +1,16 @@
+	"DECIPHER:21"	"Waardenburg syndrome type 3"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Ring chromosome 1"	"Hypo- and hypermelanotic cutaneous macules-retarded growth-intellectual disability syndrome"	"Orphanet:2884"	"Orphanet:2885"	"Orphanet:999"
+"Intellectual disability"	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Ataxia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"White eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"White eyelashes"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"White forelock"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Neoplasm of the skin"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Heterochromia iridis"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Aganglionic megacolon"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Hypopigmented skin patches"	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Abnormality of the eyelashes"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Piebaldism"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Poikiloderma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of calvarial morphology"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the eyebrow"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Macule"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0

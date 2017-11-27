@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Hyperkeratosis"
+"3" "Epidermal acanthosis"
+"4" "Acrokeratosis"
+"5" "Ridged nail"
+"6" "Seborrheic dermatitis"

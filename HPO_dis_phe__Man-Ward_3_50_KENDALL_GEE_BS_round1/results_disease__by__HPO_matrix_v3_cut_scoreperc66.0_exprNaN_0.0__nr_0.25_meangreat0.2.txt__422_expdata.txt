@@ -1,0 +1,8 @@
+	"exfoliation syndrome"	"Microspherophakia And/Or Megalocornea, With Ectopia Lentis and With or Without Secondary Glaucoma"	"Tyrosinemia type 2"	"Stromal keratitis"	"Orphanet:94058"
+"Phacodonesis"	1.0	0.0	0.0	0.0	0.0
+"Asymmetry of intraocular pressure"	1.0	0.0	0.0	0.0	0.0
+"Retinal vein occlusion"	1.0	0.0	0.0	0.0	1.0
+"Deep anterior chamber"	0.0	1.0	0.0	1.0	0.0
+"Herpetiform corneal ulceration"	0.0	0.0	1.0	1.0	0.0
+"Iris neovascularization"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of central retinal artery"	0.0	0.0	0.0	0.0	1.0

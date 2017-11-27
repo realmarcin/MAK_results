@@ -1,0 +1,7 @@
+"x"
+"1" "BPPX"
+"2" "Secondary.syringomyelia"
+"3" "Amyotrophic.lateral.sclerosis."
+"4" "cadasil"
+"5" "Leukodystrophy..adult.onset..a"
+"6" "Cerebrotendinous.Xanthomatosis"

@@ -1,0 +1,7 @@
+"x"
+"1" "POROK2"
+"2" "Porokeratosis.punctata.palmari"
+"3" "Porokeratosis..disseminated.su"
+"4" "POROK6"
+"5" "Porokeratosis.7..multiple.type"
+"6" "Porokeratosis.8..Disseminated."

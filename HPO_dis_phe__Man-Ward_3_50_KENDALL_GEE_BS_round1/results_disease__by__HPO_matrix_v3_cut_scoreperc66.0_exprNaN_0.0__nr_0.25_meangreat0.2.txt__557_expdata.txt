@@ -1,0 +1,10 @@
+	"MRXS12"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"	"Cerebellar-facial-dental syndrome"
+"HP:0000007"	0.0	0.0	0.0	1.0
+"Dental malocclusion"	0.0	0.0	0.0	1.0
+"Fine hair"	0.0	0.0	0.0	1.0
+"Taurodontia"	0.0	0.0	0.0	1.0
+"Sparse and thin eyebrow"	0.0	0.0	0.0	1.0
+"Macrodontia of permanent maxillary central incisor"	0.0	0.0	0.0	1.0
+"Laryngomalacia"	0.0	0.0	0.0	1.0
+"Slender long bone"	0.0	0.0	0.0	1.0
+"Laryngeal stridor"	0.0	0.0	0.0	1.0

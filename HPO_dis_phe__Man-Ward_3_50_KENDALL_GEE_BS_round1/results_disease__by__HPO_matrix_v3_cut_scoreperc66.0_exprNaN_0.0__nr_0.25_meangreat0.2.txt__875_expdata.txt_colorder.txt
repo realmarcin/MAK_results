@@ -1,0 +1,6 @@
+"x"
+"1" "Craniofacial hyperostosis"
+"2" "2-3 finger syndactyly"
+"3" "Diaphyseal thickening"
+"4" "Abnormal cortical bone morphology"
+"5" "Curved distal phalanges of the hand"

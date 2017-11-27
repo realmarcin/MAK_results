@@ -1,0 +1,8 @@
+"x"
+"1" "Migraine without aura"
+"2" "Migraine with aura"
+"3" "HP:0001417"
+"4" "Headache"
+"5" "Hemiparesis"
+"6" "Hyperreflexia"
+"7" "Hemiplegia"

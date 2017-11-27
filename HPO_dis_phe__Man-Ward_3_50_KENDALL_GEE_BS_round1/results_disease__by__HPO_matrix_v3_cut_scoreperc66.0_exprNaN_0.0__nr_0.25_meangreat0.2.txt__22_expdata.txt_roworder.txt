@@ -1,0 +1,5 @@
+"x"
+"1" "keratosis.follicularis"
+"2" "Orphanet.218"
+"3" "Peutz.Jeghers.Syndrome"
+"4" "Pseudoxanthoma.Elasticum"

@@ -1,0 +1,25 @@
+	"Ulnar Agenesis and Endocardial Fibroelastosis"	"Mucopolysaccharidosis-plus syndrome"	"Hydrops fetalis"	"Orphanet:158029"	"Orphanet:2781"
+"Coarse facial features"	0.0	1.0	0.0	0.0	0.0
+"Telecanthus"	0.0	1.0	0.0	0.0	0.0
+"Short neck"	0.0	1.0	0.0	0.0	0.0
+"Flexion contracture"	0.0	1.0	0.0	0.0	0.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0	0.0
+"Epicanthus"	0.0	1.0	0.0	0.0	0.0
+"Long eyelashes"	0.0	1.0	0.0	0.0	0.0
+"Wide nose"	0.0	1.0	0.0	0.0	0.0
+"Hirsutism"	0.0	1.0	0.0	0.0	0.0
+"Macroglossia"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the foot"	0.0	1.0	0.0	0.0	0.0
+"Respiratory distress"	0.0	1.0	0.0	0.0	0.0
+"J-shaped sella turcica"	0.0	1.0	0.0	0.0	0.0
+"Coarse hair"	0.0	1.0	0.0	0.0	0.0
+"Anemia"	0.0	1.0	0.0	0.0	0.0
+"Focal segmental glomerulosclerosis"	0.0	1.0	0.0	0.0	0.0
+"Thick vermilion border"	0.0	1.0	0.0	0.0	0.0
+"Acetabular dysplasia"	0.0	1.0	0.0	0.0	0.0
+"Tubular atrophy"	0.0	1.0	0.0	0.0	0.0
+"Flared iliac wings"	0.0	1.0	0.0	0.0	0.0
+"Brain atrophy"	0.0	1.0	0.0	0.0	0.0
+"Dysostosis multiplex"	0.0	1.0	0.0	0.0	0.0
+"Delayed myelination"	0.0	1.0	0.0	0.0	0.0
+"Macrovesicular hepatic steatosis"	0.0	1.0	0.0	0.0	0.0

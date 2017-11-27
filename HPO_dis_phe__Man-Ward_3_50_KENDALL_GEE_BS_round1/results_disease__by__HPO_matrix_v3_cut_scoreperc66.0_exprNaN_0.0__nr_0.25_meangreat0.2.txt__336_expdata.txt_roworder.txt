@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.218"
+"2" "keratosis.follicularis"
+"3" "Orphanet.312"
+"4" "Orphanet.46487"
+"5" "Orphanet.304"
+"6" "Orphanet.79397"

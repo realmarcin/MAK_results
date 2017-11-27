@@ -1,0 +1,9 @@
+	"Spastic paraplegia 5A"	"Distal hereditary motor neuronopathy type 5"	"Charcot-Marie-Tooth Disease, Axonal, Type 2D"	"hereditary spastic paraplegia 29"	"Spastic Paraplegia 44, Autosomal Recessive"
+"Constipation"	0.0	0.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	1.0	0.0	0.0	1.0	1.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0	1.0
+"Spastic paraplegia"	1.0	0.0	0.0	1.0	1.0
+"Slow saccadic eye movements"	0.0	0.0	0.0	0.0	1.0
+"Intention tremor"	0.0	0.0	0.0	0.0	1.0
+"Impaired distal proprioception"	1.0	0.0	0.0	0.0	0.0
+"Hyperintensity of cerebral white matter on MRI"	1.0	0.0	0.0	0.0	0.0

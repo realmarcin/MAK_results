@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "HP:0000007"
+"3" "Diaphyseal sclerosis"
+"4" "Facial hyperostosis"
+"5" "Diaphyseal dysplasia"

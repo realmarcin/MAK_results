@@ -1,0 +1,18 @@
+	"Cleft Palate, Cardiac Defects, and Mental Retardation"	"Wiedemann-Steiner Syndrome"	"Hadziselimovic Syndrome"	"Warsaw Breakage Syndrome"	"Dias-Logan Syndrome; DILOS"
+"High pitched voice"	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	1.0
+"Absent speech"	0.0	0.0	1.0	0.0	0.0
+"2-3 toe syndactyly"	1.0	0.0	0.0	1.0	0.0
+"Single transverse palmar crease"	0.0	0.0	0.0	1.0	0.0
+"HP:0000007"	0.0	0.0	1.0	1.0	0.0
+"Cutis marmorata"	0.0	0.0	0.0	1.0	0.0
+"Tetralogy of Fallot"	0.0	0.0	1.0	1.0	0.0
+"Small face"	0.0	0.0	0.0	1.0	0.0
+"Renal hypoplasia"	0.0	0.0	1.0	0.0	0.0
+"Pulmonary artery atresia"	0.0	0.0	1.0	0.0	0.0
+"Cupped ear"	0.0	0.0	0.0	1.0	1.0
+"Hypoplasia of the cochlea"	0.0	0.0	0.0	1.0	0.0
+"Optic nerve coloboma"	0.0	0.0	0.0	1.0	0.0
+"Ventricular hypertrophy"	0.0	0.0	1.0	0.0	0.0
+"U-Shaped upper lip vermilion"	0.0	0.0	1.0	0.0	0.0
+"Sloping forehead"	0.0	0.0	0.0	1.0	0.0

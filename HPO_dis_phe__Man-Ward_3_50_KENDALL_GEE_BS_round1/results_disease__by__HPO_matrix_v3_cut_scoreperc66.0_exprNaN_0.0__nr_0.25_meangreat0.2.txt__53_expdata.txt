@@ -1,0 +1,44 @@
+	"Cockayne syndrome B"	"Cockayne Syndrome a"	"Indifference to Pain, Congenital, Autosomal Recessive"	"Hereditary sensory and autonomic neuropathy type 5"
+"Microcephaly"	1.0	1.0	0.0	0.0
+"Mandibular prognathia"	1.0	1.0	0.0	0.0
+"Nystagmus"	1.0	1.0	0.0	0.0
+"Abnormality of the pinna"	1.0	1.0	0.0	0.0
+"Dental malocclusion"	1.0	1.0	0.0	0.0
+"Optic atrophy"	1.0	1.0	0.0	0.0
+"Carious teeth"	1.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	1.0	1.0	0.0	0.0
+"Hypertension"	1.0	1.0	0.0	0.0
+"Cutaneous photosensitivity"	1.0	1.0	0.0	0.0
+"Hypermetropia"	1.0	1.0	0.0	0.0
+"Basal ganglia calcification"	1.0	1.0	0.0	0.0
+"Thickened calvaria"	1.0	1.0	0.0	0.0
+"Abnormality of skin pigmentation"	1.0	1.0	0.0	0.0
+"Proteinuria"	1.0	1.0	0.0	0.0
+"Renal insufficiency"	1.0	1.0	0.0	0.0
+"Anhidrosis"	1.0	1.0	1.0	1.0
+"Opacification of the corneal stroma"	1.0	1.0	0.0	0.0
+"Micropenis"	1.0	1.0	0.0	0.0
+"Kyphosis"	1.0	1.0	0.0	0.0
+"Arrhythmia"	1.0	1.0	0.0	0.0
+"Abnormal auditory evoked potentials"	1.0	1.0	0.0	0.0
+"Atypical scarring of skin"	1.0	1.0	0.0	0.0
+"Hypoplastic iliac wing"	1.0	1.0	0.0	0.0
+"Hypoplastic pelvis"	1.0	1.0	0.0	0.0
+"Sparse hair"	1.0	1.0	0.0	0.0
+"Delayed eruption of primary teeth"	1.0	1.0	0.0	0.0
+"Abnormality of visual evoked potentials"	1.0	1.0	0.0	0.0
+"Reduced subcutaneous adipose tissue"	1.0	1.0	0.0	0.0
+"Loss of facial adipose tissue"	1.0	1.0	0.0	0.0
+"Slender nose"	1.0	1.0	0.0	0.0
+"Pigmentary retinopathy"	1.0	1.0	0.0	0.0
+"Decreased lacrimation"	1.0	1.0	0.0	0.0
+"Hypoplasia of teeth"	1.0	1.0	0.0	0.0
+"Limitation of joint mobility"	1.0	1.0	0.0	0.0
+"Normal pressure hydrocephalus"	1.0	1.0	0.0	0.0
+"Patchy demyelination of subcortical white matter"	1.0	1.0	0.0	0.0
+"Increased cellular sensitivity to UV light"	1.0	1.0	0.0	0.0
+"Square pelvis bone"	1.0	1.0	0.0	0.0
+"Peripheral dysmyelination"	1.0	1.0	0.0	0.0
+"Progeroid facial appearance"	1.0	1.0	0.0	0.0
+"Ivory epiphyses of the phalanges of the hand"	1.0	1.0	0.0	0.0
+"Pain insensitivity"	0.0	0.0	1.0	1.0

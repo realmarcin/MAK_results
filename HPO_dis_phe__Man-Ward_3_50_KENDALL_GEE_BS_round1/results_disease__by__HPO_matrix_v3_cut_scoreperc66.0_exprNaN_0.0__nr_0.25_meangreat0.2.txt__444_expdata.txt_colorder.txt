@@ -1,0 +1,6 @@
+"x"
+"1" "Retinal flecks"
+"2" "Bull's eye maculopathy"
+"3" "Retinitis pigmentosa inversa"
+"4" "Fundus albipunctatus"
+"5" "Diffuse retinal cone degeneration"

@@ -1,0 +1,9 @@
+	"Emery-Dreifuss Muscular Dystrophy 2, Autosomal Dominant"	"Mitochondrial Myopathy"	"Emery-Dreifuss Muscular Dystrophy 1, X-Linked"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Mental Retardation), Type B, 6"	"Emery-Dreifuss Muscular Dystrophy 7, Autosomal Dominant"	"Myopathy, myofibrillar, 7"
+"Pectus excavatum"	0.0	0.0	1.0	0.0	0.0	0.0
+"Sudden cardiac death"	1.0	0.0	1.0	0.0	0.0	0.0
+"Elbow flexion contracture"	1.0	0.0	1.0	1.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	0.0	1.0
+"Abnormality of the neck"	0.0	0.0	1.0	0.0	0.0	0.0
+"Primary atrial arrhythmia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Decreased cervical spine flexion due to contractures of posterior cervical muscles"	1.0	0.0	1.0	0.0	0.0	0.0
+"Type 1 muscle fiber atrophy"	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,22 @@
+	"Puerto Rican Infant Hypotonia Syndrome"	"Orphanet:1812"	"Orphanet:2063"	"16p13.11 microdeletion syndrome"	"Orphanet:2645"	"Orphanet:36"
+"Congenital diaphragmatic hernia"	0.0	0.0	1.0	0.0	0.0	1.0
+"Anal atresia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Intellectual disability, severe"	0.0	1.0	0.0	1.0	0.0	1.0
+"Abnormality of the skin"	0.0	0.0	1.0	0.0	0.0	0.0
+"Narrow palate"	1.0	0.0	1.0	0.0	0.0	0.0
+"Plagiocephaly"	0.0	0.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	1.0	0.0	0.0	0.0
+"Premature birth"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hip dysplasia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of fibula morphology"	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormal lung lobation"	0.0	0.0	1.0	0.0	0.0	0.0
+"Reduced number of teeth"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the knee"	0.0	0.0	1.0	0.0	0.0	0.0
+"Multiple unerupted teeth"	0.0	0.0	1.0	0.0	1.0	0.0
+"Crowded maxillary incisors"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of neuronal migration"	0.0	0.0	1.0	1.0	0.0	0.0
+"Lower limb asymmetry"	0.0	0.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the lungs"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the wrist"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of femur morphology"	0.0	0.0	1.0	0.0	0.0	0.0
+"Upper limb asymmetry"	0.0	0.0	1.0	0.0	0.0	0.0

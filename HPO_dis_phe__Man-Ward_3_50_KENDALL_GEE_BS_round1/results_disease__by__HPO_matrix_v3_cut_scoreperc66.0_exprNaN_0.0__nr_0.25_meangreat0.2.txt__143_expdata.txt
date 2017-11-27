@@ -1,0 +1,9 @@
+	"Cryptomicrotia-Brachydactyly Syndrome"	"chromosome 1q41-q42 deletion syndrome"	"Acrofacial Dysostosis, Cincinnati Type"	"Orphanet:1547"
+"Microcephaly"	0.0	1.0	1.0	0.0
+"Telecanthus"	0.0	0.0	0.0	1.0
+"Microtia"	1.0	1.0	1.0	0.0
+"Freckling"	0.0	0.0	0.0	1.0
+"Bifid scrotum"	1.0	0.0	0.0	1.0
+"Chordee"	1.0	0.0	0.0	0.0
+"Brachytelomesophalangy"	1.0	0.0	0.0	1.0
+"Abnormal dermatoglyphics"	0.0	0.0	0.0	1.0

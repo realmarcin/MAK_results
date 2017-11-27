@@ -1,0 +1,12 @@
+	"Congenital contractural arachnodactyly"	"Ehlers-Danlos syndrome, musculocontractural type"	"Cutis Laxa, Autosomal Recessive, Type 1B"	"Orphanet:115"	"Neonatal Marfan syndrome"	"Orphanet:558"	"Orphanet:60030"
+"HP:0100490"	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Arachnodactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Intestinal malrotation"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Duodenal atresia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Arthrogryposis multiplex congenita"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Congenital kyphoscoliosis"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Crumpled ear"	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Slender build"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Tracheoesophageal fistula"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Aortic dilatation"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormally folded helix"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

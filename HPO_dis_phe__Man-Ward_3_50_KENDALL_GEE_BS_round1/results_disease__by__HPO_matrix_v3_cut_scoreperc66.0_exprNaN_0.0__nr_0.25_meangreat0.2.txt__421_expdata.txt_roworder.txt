@@ -1,0 +1,8 @@
+"x"
+"1" "Epiphyseal.Dysplasia..Multiple"
+"2" "Multiple.epiphyseal.dysplasia."
+"3" "Upington.Disease"
+"4" "Widow.S.Peak.Syndrome"
+"5" "Multiple.epiphyseal.dysplasia."
+"6" "Epiphyseal.Dysplasia..Multiple"
+"7" "Aneurysm.osteoarthritis.syndro"

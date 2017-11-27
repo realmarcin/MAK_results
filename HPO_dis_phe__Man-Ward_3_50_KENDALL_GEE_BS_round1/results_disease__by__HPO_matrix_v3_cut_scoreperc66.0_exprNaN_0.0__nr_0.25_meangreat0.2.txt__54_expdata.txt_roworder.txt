@@ -1,0 +1,6 @@
+"x"
+"1" "giant.axonal.neuropathy.2"
+"2" "Charcot.Marie.Tooth.disease.ax"
+"3" "Charcot.Marie.Tooth.disease..t"
+"4" "Charcot.Marie.Tooth.disease.ty"
+"5" "Spinocerebellar.Ataxia..Autoso"

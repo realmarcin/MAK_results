@@ -1,0 +1,7 @@
+"x"
+"1" "Emery.Dreifuss.Muscular.Dystro"
+"2" "Emery.Dreifuss.Muscular.Dystro"
+"3" "Muscular.Dystrophy.Dystroglyca"
+"4" "Myopathy..myofibrillar..7"
+"5" "Mitochondrial.Myopathy"
+"6" "Emery.Dreifuss.Muscular.Dystro"

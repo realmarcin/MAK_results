@@ -1,0 +1,9 @@
+	"Multinucleated Neurons, Anhydramnios, Renal Dysplasia, Cerebellar Hypoplasia, and Hydranencephaly"	"Nephrosis-deafness-urinary tract-digital malformations syndrome"	"Lethal omphalocele-cleft palate syndrome"	"X-linked cleft palate with or without ankyloglossia"	"ACLH"	"Cowden Syndrome 4"	"OMIM:617478"	"Isolated Klippel-Feil syndrome"
+"Cleft palate"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Hearing impairment"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Bifid uvula"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Bifid distal phalanx of the thumb"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Nephrotic syndrome"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short distal phalanx of the thumb"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Partial duplication of the distal phalanx of the hallux"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0010103"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

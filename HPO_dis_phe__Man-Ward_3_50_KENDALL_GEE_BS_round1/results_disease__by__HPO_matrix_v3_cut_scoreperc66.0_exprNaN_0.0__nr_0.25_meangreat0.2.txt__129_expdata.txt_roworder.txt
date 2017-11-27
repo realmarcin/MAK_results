@@ -1,0 +1,6 @@
+"x"
+"1" "Charcot.Marie.Tooth.Disease..T"
+"2" "Charcot.Marie.Tooth.disease.ty"
+"3" "Charcot.Marie.Tooth.Disease..T"
+"4" "ataxia.with.oculomotor.apraxia"
+"5" "Adult.polyglucosan.body.diseas"

@@ -1,0 +1,6 @@
+"x"
+"1" "Short foot"
+"2" "Small hand"
+"3" "Short palm"
+"4" "Truncal obesity"
+"5" "Limited elbow extension"

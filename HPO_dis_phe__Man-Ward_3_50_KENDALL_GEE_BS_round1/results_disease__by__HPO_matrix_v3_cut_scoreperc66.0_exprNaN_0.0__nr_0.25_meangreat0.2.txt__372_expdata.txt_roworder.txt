@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.1465"
+"2" "Orphanet.3246"
+"3" "Coffin.Siris.syndrome.1"
+"4" "Symphalangism.With.Multiple.An"
+"5" "Orphanet.1292"
+"6" "Orphanet.46627"

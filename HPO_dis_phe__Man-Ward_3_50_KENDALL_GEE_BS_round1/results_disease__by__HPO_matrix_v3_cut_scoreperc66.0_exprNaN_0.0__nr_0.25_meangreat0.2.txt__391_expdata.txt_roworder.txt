@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.46627"
+"2" "Char.Syndrome"
+"3" "X2q31.1.microdeletion.syndrome"
+"4" "Oculofaciocardiodental.syndrom"
+"5" "X8p.inverted.duplication.delet"

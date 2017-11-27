@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Lattice corneal dystrophy"
+"3" "Generalized amyloid deposition"
+"4" "Cardiac amyloidosis"

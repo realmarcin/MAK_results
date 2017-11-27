@@ -1,0 +1,9 @@
+	"DECIPHER:21"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Ring chromosome 1"	"Familial lambdoid synostosis"	"Orphanet:999"
+"Intellectual disability"	0.0	0.0	0.0	1.0	0.0
+"Hydrocephalus"	0.0	0.0	0.0	1.0	0.0
+"Stomatocytosis"	0.0	0.0	0.0	1.0	0.0
+"Flat occiput"	0.0	0.0	0.0	1.0	0.0
+"Prominent forehead"	0.0	0.0	0.0	1.0	0.0
+"HP:0001276"	0.0	0.0	0.0	1.0	0.0
+"Dimple chin"	0.0	0.0	0.0	1.0	0.0
+"Round ear"	0.0	0.0	0.0	1.0	0.0

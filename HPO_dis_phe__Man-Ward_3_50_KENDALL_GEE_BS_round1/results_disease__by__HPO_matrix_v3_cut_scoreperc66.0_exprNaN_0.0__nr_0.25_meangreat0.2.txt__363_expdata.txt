@@ -1,0 +1,21 @@
+	"hereditary spastic paraplegia 8"	"Spastic Paraplegia 12, Autosomal Dominant"	"SPG14"	"Spastic Paraplegia 13, Autosomal Dominant"	"SPG36"	"Orphanet:896"
+"Microcephaly"	0.0	0.0	0.0	0.0	0.0	1.0
+"Telecanthus"	0.0	0.0	0.0	0.0	0.0	1.0
+"Atrial septal defect"	0.0	0.0	0.0	0.0	0.0	1.0
+"Downslanted palpebral fissures"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cutaneous finger syndactyly"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0100490"	0.0	0.0	0.0	0.0	0.0	1.0
+"Synostosis of carpal bones"	0.0	0.0	0.0	0.0	0.0	1.0
+"Blepharophimosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Thick eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0003676"	1.0	1.0	1.0	1.0	1.0	0.0
+"Spastic paraplegia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0	1.0	0.0
+"Babinski sign"	1.0	1.0	1.0	1.0	1.0	0.0
+"Acrocyanosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Joint stiffness"	0.0	0.0	0.0	0.0	0.0	1.0
+"Tracheomalacia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Narrow nasal bridge"	0.0	0.0	0.0	0.0	0.0	1.0
+"White hair"	0.0	0.0	0.0	0.0	0.0	1.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	0.0	0.0	1.0
+"Atelectasis"	0.0	0.0	0.0	0.0	0.0	1.0

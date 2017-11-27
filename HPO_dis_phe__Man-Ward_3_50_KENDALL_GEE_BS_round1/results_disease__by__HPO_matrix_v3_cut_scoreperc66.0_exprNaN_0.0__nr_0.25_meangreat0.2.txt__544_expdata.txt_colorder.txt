@@ -1,0 +1,7 @@
+"x"
+"1" "Split hand"
+"2" "Split foot"
+"3" "Cataract"
+"4" "Hand monodactyly"
+"5" "Congenital nystagmus"
+"6" "Retinopathy"

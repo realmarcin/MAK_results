@@ -1,0 +1,10 @@
+	"Pulmonary Fibrosis And/Or Bone Marrow Failure, Telomere-Related, 1"	"Pulmonary Fibrosis And/Or Bone Marrow Failure, Telomere-Related, 2"	"Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4"	"Pulmonary Fibrosis And/Or Bone Marrow Failure, Telomere-Related, 3"
+"Cirrhosis"	1.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0
+"HP:0003581"	1.0	1.0	1.0	1.0
+"HP:0003829"	1.0	1.0	1.0	1.0
+"Premature graying of hair"	1.0	1.0	1.0	0.0
+"Aplastic anemia"	1.0	1.0	0.0	0.0
+"Pulmonary fibrosis"	1.0	1.0	1.0	1.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	0.0
+"Leukemia"	1.0	1.0	0.0	0.0

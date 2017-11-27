@@ -1,0 +1,15 @@
+	"Charcot-Marie-Tooth disease type 5"	"Distal hereditary motor neuronopathy type 7B"	"Charcot-Marie-Tooth disease, dominant intermediate C"	"Macular Degeneration, Age-Related, 3"	"Hereditary sensory and autonomic neuropathy type IC"	"Hereditary sensory neuropathy type 1D"
+"Paresthesia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Nail dysplasia"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0003581"	1.0	1.0	0.0	0.0	0.0	1.0
+"Peripheral axonal neuropathy"	1.0	0.0	0.0	1.0	0.0	1.0
+"Hyperreflexia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Anhidrosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Nail dystrophy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Distal amyotrophy"	1.0	1.0	1.0	1.0	0.0	1.0
+"Distal sensory impairment"	1.0	0.0	1.0	1.0	1.0	1.0
+"Osteomyelitis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Distal sensory loss of all modalities"	0.0	0.0	0.0	0.0	1.0	1.0
+"Skin ulcer"	0.0	0.0	0.0	0.0	1.0	0.0
+"Autoamputation"	0.0	0.0	0.0	0.0	1.0	1.0
+"Dysesthesia"	0.0	0.0	0.0	0.0	1.0	0.0

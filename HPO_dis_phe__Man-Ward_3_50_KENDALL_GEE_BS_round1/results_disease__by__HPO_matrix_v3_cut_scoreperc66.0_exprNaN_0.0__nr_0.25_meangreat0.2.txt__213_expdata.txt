@@ -1,0 +1,18 @@
+	"Chorea, Benign Hereditary"	"Familial dyskinesia and facial myokymia"	"EKD2"	"Striatal Degeneration, Autosomal Dominant 2; ADSD2"
+"Intellectual disability"	0.0	0.0	0.0	1.0
+"Anxiety"	1.0	1.0	0.0	0.0
+"HP:0003812"	1.0	0.0	0.0	0.0
+"HP:0003621"	1.0	1.0	0.0	0.0
+"Dystonia"	0.0	1.0	1.0	0.0
+"Dysarthria"	1.0	1.0	0.0	0.0
+"Hyperreflexia"	0.0	1.0	0.0	0.0
+"Congestive heart failure"	0.0	1.0	0.0	0.0
+"Gait disturbance"	1.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	0.0	1.0	0.0	0.0
+"Chorea"	1.0	1.0	1.0	1.0
+"Resting tremor"	0.0	1.0	0.0	0.0
+"Muscular hypotonia of the trunk"	0.0	1.0	0.0	0.0
+"Dyskinesia"	0.0	1.0	1.0	0.0
+"Limb hypertonia"	0.0	1.0	0.0	0.0
+"Facial myokymia"	0.0	1.0	0.0	0.0
+"Paroxysmal dyskinesia"	0.0	0.0	1.0	0.0

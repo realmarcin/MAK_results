@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Neoplasm of the skin"
+"3" "HP:0003581"
+"4" "Mucinous histiocytosis"

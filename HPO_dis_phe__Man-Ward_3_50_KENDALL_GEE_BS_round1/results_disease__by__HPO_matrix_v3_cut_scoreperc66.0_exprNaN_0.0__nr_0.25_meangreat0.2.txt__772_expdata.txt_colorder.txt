@@ -1,0 +1,6 @@
+"x"
+"1" "Retinal degeneration"
+"2" "Lower limb hyperreflexia"
+"3" "Periorbital edema"
+"4" "Abnormality of the periventricular white matter"
+"5" "Large forehead"

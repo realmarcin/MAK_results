@@ -1,0 +1,6 @@
+"x"
+"1" "Mental.Retardation..Autosomal."
+"2" "Hyperphosphatasia.with.mental."
+"3" "MRXS12"
+"4" "Severe.intellectual.disability"
+"5" "Mental.retardation..autosomal."

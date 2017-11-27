@@ -1,0 +1,19 @@
+	"Noonan Syndrome 3"	"Legius Syndrome"	"Noonan Syndrome-Like Disorder With or Without Juvenile Myelomonocytic Leukemia"	"Noonan syndrome 7"	"LEOPARD syndrome 3"	"Noonan syndrome 8"	"Orphanet:638"
+"Muscular hypotonia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Feeding difficulties in infancy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Short stature"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Frontal bossing"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Dysphagia"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Anteverted nares"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short nose"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the thorax"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperpigmentation of the skin"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Narrow forehead"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Sagittal craniosynostosis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abdominal wall muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Poor suck"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the helix"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Atrial septal dilatation"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Juvenile myelomonocytic leukemia"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the lymphatic system"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

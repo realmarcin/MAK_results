@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.246"
+"2" "Postaxial.Acrofacial.Dysostosi"
+"3" "Orphanet.245"
+"4" "Orphanet.1106"
+"5" "Treacher.Collins.syndrome.1"
+"6" "X14q22q23.microdeletion.syndro"
+"7" "Orphanet.140"

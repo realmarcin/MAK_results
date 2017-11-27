@@ -1,0 +1,11 @@
+	"Prolidase deficiency"	"Ulnar Agenesis and Endocardial Fibroelastosis"	"Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency"	"Orphanet:101028"	"Hydrops fetalis"	"Orphanet:158029"	"Orphanet:2781"
+"Atrial septal defect"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormal facial shape"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Anemia"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the kidney"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Functional respiratory abnormality"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Premature skin wrinkling"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Increased serum bile acid concentration"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Biventricular hypertrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the clitoris"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of glutamine metabolism"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

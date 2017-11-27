@@ -1,0 +1,32 @@
+	"Encephalopathy, Acute, Infection-Induced, Susceptibility To, 3"	"Encephalopathy, Acute, Infection-Induced, Susceptibility To, 4"	"Encephalopathy, Progressive, Early-Onset, With Brain Edema And/Or Leukoencephalopathy"	"Orphanet:136"	"Hyperinsulinism due to HNF4A deficiency"	"Hyperinsulinism due to UCP2 deficiency"	"Autosomal dominant hyperinsulinism due to SUR1 deficiency"	"Autosomal dominant hyperinsulinism due to Kir6.2 deficiency"	"Adult-onset non-insulinoma persistent hyperinsulinemic hypoglycemia"	"Hyperinsulinism due to HNF1A deficiency"	"ABeta amyloidosis, Italian type"	"Orphanet:512"	"Nipah virus disease"
+"Microcephaly"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hepatomegaly"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Large for gestational age"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Diarrhea"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Proteinuria"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pallor"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Vomiting"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Elevated alkaline phosphatase"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperhidrosis"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Tachycardia"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Agitation"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Neonatal hypoglycemia"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Lethargy"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Glycosuria"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Coma"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Drowsiness"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Decreased circulating cortisol level"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypophosphatemic rickets"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive neurologic deterioration"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Pancreatic islet-cell hyperplasia"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Renal Fanconi syndrome"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypoketotic hypoglycemia"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Increased hepatic glycogen content"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperinsulinemic hypoglycemia"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Metabolic ketoacidosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal brain FDG positron emission tomography"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of fatty-acid metabolism"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Secondary growth hormone deficiency"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Vitamin B1 deficiency"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0

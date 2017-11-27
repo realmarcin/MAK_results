@@ -1,0 +1,7 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Combined D-2- and L-2-Hydroxyglutaric Aciduria"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	0.0	1.0	0.0	0.0
+"Hepatomegaly"	0.0	1.0	0.0	0.0
+"Irritability"	0.0	1.0	0.0	0.0
+"Dyspnea"	0.0	1.0	0.0	0.0
+"Stridor"	0.0	1.0	0.0	0.0
+"L-2-hydroxyglutaric aciduria"	0.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Macular.Dystrophy..Retinal..1."
+"2" "Patterned.dystrophy.of.retinal"
+"3" "Stargardt.Disease.3"
+"4" "Macular.Dystrophy..Vitelliform"
+"5" "occult.macular.dystrophy"

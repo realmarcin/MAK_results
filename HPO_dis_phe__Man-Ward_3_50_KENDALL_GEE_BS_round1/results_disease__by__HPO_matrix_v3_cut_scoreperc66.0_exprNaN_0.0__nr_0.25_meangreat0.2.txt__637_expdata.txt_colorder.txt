@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Elongated sella turcica"
+"3" "Crowded carpal bones"
+"4" "Tall lumbar vertebral bodies"

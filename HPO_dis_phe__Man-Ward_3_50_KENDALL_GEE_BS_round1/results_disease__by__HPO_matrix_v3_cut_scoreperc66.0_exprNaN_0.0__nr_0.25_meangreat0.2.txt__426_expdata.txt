@@ -1,0 +1,10 @@
+	"Spastic paraplegia 4, autosomal dominant"	"Spastic paraplegia 5A"	"Distal hereditary motor neuronopathy type 5"	"hereditary spastic paraplegia 9A"	"Charcot-Marie-Tooth Disease, Axonal, Type 2D"	"Spastic Paraplegia 26, Autosomal Recessive"	"Spastic paraplegia 46, autosomal recessive"
+"Dementia"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hearing impairment"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Infertility"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cataract"	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Spastic paraplegia"	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Kyphosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Limb dysmetria"	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Head tremor"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Jerky ocular pursuit movements"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

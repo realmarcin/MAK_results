@@ -1,0 +1,18 @@
+	"Blepharocheilodontic Syndrome 1"	"Wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia"	"Orofacial Cleft 15"	"Orphanet:1200"	"Orphanet:1522"	"Orphanet:1997"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Anal atresia"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Cleft upper lip"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Clinodactyly"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Small nail"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Conductive hearing impairment"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Finger syndactyly"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypodontia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Carious teeth"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Conical tooth"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ectropion of lower eyelids"	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Distichiasis"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Epidermoid cyst"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Bilateral cleft lip and palate"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of vision"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Euryblepharon"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal hair quantity"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

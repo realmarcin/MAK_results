@@ -1,0 +1,13 @@
+	"Radial aplasia-thrombocytopenia syndrome"	"Orphanet:3320"	"Orphanet:85276"	"Orphanet:887"
+"Abnormality of the cardiac septa"	1.0	1.0	1.0	1.0
+"Multicystic kidney dysplasia"	0.0	0.0	0.0	1.0
+"Abnormality of the ribs"	0.0	0.0	0.0	1.0
+"Non-midline cleft lip"	0.0	0.0	0.0	1.0
+"Abnormality of the pancreas"	0.0	0.0	0.0	1.0
+"Abnormality of female internal genitalia"	0.0	0.0	0.0	1.0
+"Vertebral segmentation defect"	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the radius"	0.0	0.0	0.0	1.0
+"Nevus flammeus of the forehead"	1.0	1.0	1.0	0.0
+"Aplasia/Hypoplasia of the lungs"	0.0	0.0	0.0	1.0
+"Abnormality of the sacrum"	0.0	0.0	0.0	1.0
+"Abnormality of the gallbladder"	0.0	0.0	0.0	1.0

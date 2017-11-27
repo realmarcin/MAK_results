@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Posterior polar cataract"
+"3" "Diffuse nuclear cataract"
+"4" "Total cataract"

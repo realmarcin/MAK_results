@@ -1,0 +1,6 @@
+	"Behcet's syndrome"	"Necrotizing Encephalomyelopathy, Subacute, of Leigh, Adult"	"Blau syndrome"	"Alkaptonuria"	"Complement Component C1R/C1S Deficiency"	"Pachydermoperiostosis"	"Autoimmune disease, multisystem, infantile-onset, 1"	"Orphanet:1416"	"Cranio-osteoarthropathy"	"Orphanet:2796"	"KID syndrome"	"Orphanet:534"	"Orphanet:56"	"Orphanet:79087"	"Secondary intestinal lymphangiectasia"
+"Arthralgia"	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Autoimmunity"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Erythema"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Arthritis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Skin ulcer"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

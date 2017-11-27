@@ -1,0 +1,7 @@
+"x"
+"1" "Multicentric.Osteolysis..Nodul"
+"2" "Multicentric.carpo.tarsal.oste"
+"3" "Orphanet.2774"
+"4" "Osteolysis.Syndrome..Recessive"
+"5" "oculocerebrorenal.syndrome"
+"6" "Osteogenesis.Imperfecta..Type."

@@ -1,0 +1,5 @@
+"x"
+"1" "BDA1B"
+"2" "Digital.arthropathy.brachydact"
+"3" "Banki.syndrome"
+"4" "Oslam.Syndrome"

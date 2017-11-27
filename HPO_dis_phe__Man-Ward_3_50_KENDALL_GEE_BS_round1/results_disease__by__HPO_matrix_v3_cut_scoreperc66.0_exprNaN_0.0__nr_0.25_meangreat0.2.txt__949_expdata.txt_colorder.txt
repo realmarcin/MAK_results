@@ -1,0 +1,6 @@
+"x"
+"1" "Anemia"
+"2" "Hand oligodactyly"
+"3" "Neonatal death"
+"4" "Endocardial fibroelastosis"
+"5" "Aplasia of the ulna"

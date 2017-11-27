@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.137"
+"2" "Hyperornithinemia.hyperammonem"
+"3" "Orphanet.352"
+"4" "Dihydrolipoamide.Dehydrogenase"
+"5" "Orphanet.35"
+"6" "Orphanet.67048"

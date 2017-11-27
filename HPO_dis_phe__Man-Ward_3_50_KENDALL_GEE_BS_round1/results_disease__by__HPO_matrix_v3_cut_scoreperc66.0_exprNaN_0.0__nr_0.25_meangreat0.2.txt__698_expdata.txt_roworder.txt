@@ -1,0 +1,7 @@
+"x"
+"1" "Congenital.Disorder.of.Glycosy"
+"2" "Microcephaly.intellectual.disa"
+"3" "Mental.retardation..autosomal."
+"4" "Primary.cutis.verticis.gyrata"
+"5" "Orphanet.799"
+"6" "Adducted.Thumbs.Syndrome"

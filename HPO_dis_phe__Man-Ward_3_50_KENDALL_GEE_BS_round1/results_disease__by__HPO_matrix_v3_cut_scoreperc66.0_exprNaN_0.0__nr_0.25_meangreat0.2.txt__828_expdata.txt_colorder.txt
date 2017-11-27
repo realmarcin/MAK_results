@@ -1,0 +1,7 @@
+"x"
+"1" "Nystagmus"
+"2" "Corneal opacity"
+"3" "Corneal dystrophy"
+"4" "Iris coloboma"
+"5" "Cataract"
+"6" "Microcornea"

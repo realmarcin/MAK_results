@@ -1,0 +1,5 @@
+"x"
+"1" "Obesity"
+"2" "Intellectual disability, borderline"
+"3" "Macroorchidism"
+"4" "Prolactin deficiency"

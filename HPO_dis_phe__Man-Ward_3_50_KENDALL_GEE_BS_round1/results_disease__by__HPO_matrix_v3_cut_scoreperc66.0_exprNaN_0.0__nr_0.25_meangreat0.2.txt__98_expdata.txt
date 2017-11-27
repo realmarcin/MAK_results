@@ -1,0 +1,7 @@
+	"Deafness, Sensorineural, Autosomal-Mitochondrial Type"	"autosomal recessive nonsyndromic deafness 30"	"Deafness, autosomal recessive 25"	"autosomal recessive nonsyndromic deafness 79"	"Deafness, Autosomal Recessive 91"	"autosomal recessive nonsyndromic deafness 76"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0003621"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001427"	1.0	0.0	0.0	0.0	0.0	0.0
+"Progressive hearing impairment"	0.0	1.0	0.0	0.0	1.0	0.0
+"Progressive sensorineural hearing impairment"	1.0	1.0	1.0	1.0	0.0	1.0

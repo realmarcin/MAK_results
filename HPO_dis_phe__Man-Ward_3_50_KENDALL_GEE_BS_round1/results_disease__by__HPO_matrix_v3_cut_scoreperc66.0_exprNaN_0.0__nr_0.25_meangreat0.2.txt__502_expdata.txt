@@ -1,0 +1,18 @@
+	"Orphanet:117"	"Orphanet:2331"	"Orphanet:3287"	"Orphanet:35687"	"Hypocomplementemic urticarial vasculitis"	"Orphanet:397"
+"Neurological speech impairment"	0.0	0.0	1.0	0.0	0.0	0.0
+"Interstitial pulmonary abnormality"	0.0	1.0	0.0	1.0	0.0	0.0
+"Pulmonary arterial hypertension"	0.0	0.0	1.0	0.0	0.0	0.0
+"Dilatation"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abdominal pain"	1.0	1.0	0.0	1.0	1.0	1.0
+"Irritability"	1.0	1.0	0.0	0.0	0.0	0.0
+"Cheilitis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the heart valves"	0.0	1.0	0.0	0.0	1.0	0.0
+"Glossitis"	0.0	1.0	0.0	0.0	0.0	1.0
+"Cholecystitis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal pattern of respiration"	0.0	0.0	1.0	0.0	0.0	0.0
+"Dilatation of the ascending aorta"	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the endocardium"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypertensive crisis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of nail color"	0.0	1.0	0.0	0.0	0.0	0.0
+"Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis"	0.0	1.0	0.0	0.0	0.0	1.0
+"Aseptic leukocyturia"	0.0	1.0	0.0	0.0	0.0	0.0

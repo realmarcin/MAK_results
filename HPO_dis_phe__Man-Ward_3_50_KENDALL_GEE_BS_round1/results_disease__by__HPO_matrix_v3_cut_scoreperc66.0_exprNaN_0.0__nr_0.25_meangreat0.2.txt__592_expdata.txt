@@ -1,0 +1,15 @@
+	"Orphanet:220402"	"Antisynthetase syndrome"	"Orphanet:90290"	"Orphanet:99867"
+"Ptosis"	0.0	0.0	0.0	1.0
+"B lymphocytopenia"	0.0	0.0	0.0	1.0
+"Nephrotic syndrome"	0.0	0.0	0.0	1.0
+"Arthritis"	0.0	0.0	0.0	1.0
+"Diplopia"	0.0	0.0	0.0	1.0
+"HP:0100646"	0.0	0.0	0.0	1.0
+"Fatigable weakness"	0.0	0.0	0.0	1.0
+"Pancytopenia"	0.0	0.0	0.0	1.0
+"Decreased antibody level in blood"	0.0	0.0	0.0	1.0
+"Lymphadenopathy"	0.0	0.0	0.0	1.0
+"Neoplasm of the thymus"	0.0	0.0	0.0	1.0
+"Abnormality of the pleura"	0.0	0.0	0.0	1.0
+"Abnormality of the peritoneum"	0.0	0.0	0.0	1.0
+"Abnormality of the mediastinum"	0.0	0.0	0.0	1.0

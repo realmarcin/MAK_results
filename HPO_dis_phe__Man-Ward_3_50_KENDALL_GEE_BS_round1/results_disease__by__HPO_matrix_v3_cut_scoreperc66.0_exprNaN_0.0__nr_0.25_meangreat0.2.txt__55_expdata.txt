@@ -1,0 +1,6 @@
+	"Von Hippel-Lindau Syndrome"	"Encephalopathy, Progressive, Early-Onset, With Brain Edema And/Or Leukoencephalopathy"	"Orphanet:252054"	"Orphanet:892"
+"Cerebellar hemangioblastoma"	1.0	0.0	1.0	0.0
+"Retinal capillary hemangioma"	1.0	0.0	1.0	1.0
+"Spinal hemangioblastoma"	1.0	0.0	1.0	0.0
+"Intracranial cystic lesion"	0.0	0.0	1.0	0.0
+"Cerebellar edema"	0.0	1.0	1.0	0.0

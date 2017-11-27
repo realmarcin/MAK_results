@@ -1,0 +1,6 @@
+"x"
+"1" "Glycogen.Storage.Disease.4"
+"2" "Arthrogryposis.hyperkeratosis."
+"3" "Pelvic.Hypoplasia.With.Lower.L"
+"4" "Spinal.Muscular.Atrophy.With.C"
+"5" "Spinal.Muscular.Atrophy.with.C"

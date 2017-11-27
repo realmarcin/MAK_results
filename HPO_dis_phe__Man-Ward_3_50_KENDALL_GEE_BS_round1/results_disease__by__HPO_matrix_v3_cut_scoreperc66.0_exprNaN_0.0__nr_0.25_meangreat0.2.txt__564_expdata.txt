@@ -1,0 +1,11 @@
+	"MRXS12"	"Mental Retardation, Autosomal Recessive 5"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"
+"Small for gestational age"	0.0	1.0	0.0	0.0
+"Pes cavus"	0.0	1.0	0.0	0.0
+"Long face"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Eczema"	0.0	1.0	0.0	0.0
+"Dysarthria"	0.0	1.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	1.0	0.0	0.0
+"Narrow face"	0.0	1.0	0.0	0.0
+"Short chin"	0.0	1.0	0.0	0.0
+"Achilles tendon contracture"	0.0	1.0	0.0	0.0

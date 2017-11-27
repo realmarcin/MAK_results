@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Intellectual disability, moderate"
+"3" "Dystonia"
+"4" "Dysarthria"
+"5" "HP:0008897"
+"6" "Progressive hearing impairment"
+"7" "Central hypothyroidism"

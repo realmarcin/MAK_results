@@ -1,0 +1,13 @@
+	"Leber Congenital Amaurosis 1"	"Leber congenital amaurosis 2"	"Isolated cerebellar hypoplasia/agenesis"	"Cerebellar Hypoplasia With Endosteal Sclerosis"	"Laurence-Moon Syndrome"	"Anterior Segment Dysgenesis 5"	"Hemorrhagic destruction of the brain, subependymal calcification, and cataracts"
+"Intellectual disability"	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Photophobia"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Reduced visual acuity"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Keratoconus"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Blindness"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pigmentary retinopathy"	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Cerebellar vermis hypoplasia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Decreased light- and dark-adapted electroretinogram amplitude"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Fundus atrophy"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Eye poking"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyperthreoninuria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperthreoninemia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0

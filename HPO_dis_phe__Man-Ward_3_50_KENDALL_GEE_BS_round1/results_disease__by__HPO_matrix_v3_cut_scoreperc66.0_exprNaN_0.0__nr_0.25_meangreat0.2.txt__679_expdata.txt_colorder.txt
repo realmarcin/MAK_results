@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Short iliac bones"
+"3" "Abnormal bone ossification"
+"4" "Abnormal epiphyseal ossification"

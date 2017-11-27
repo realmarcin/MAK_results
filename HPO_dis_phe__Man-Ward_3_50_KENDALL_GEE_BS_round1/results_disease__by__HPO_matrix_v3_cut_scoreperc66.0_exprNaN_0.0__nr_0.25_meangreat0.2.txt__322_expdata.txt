@@ -1,0 +1,14 @@
+	"scimitar syndrome"	"retinoblastoma"	"Lymphedema, Primary, With Myelodysplasia"	"RAS-associated autoimmune leukoproliferative disorder"	"Orphanet:2924"
+"Recurrent respiratory infections"	1.0	0.0	0.0	1.0	0.0
+"Hepatomegaly"	0.0	0.0	0.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0
+"Splenomegaly"	0.0	0.0	0.0	1.0	0.0
+"Autoimmune thrombocytopenia"	0.0	0.0	0.0	1.0	0.0
+"Hemolytic anemia"	0.0	0.0	0.0	1.0	0.0
+"Lymphoma"	0.0	1.0	0.0	1.0	0.0
+"Leukemia"	0.0	1.0	0.0	1.0	0.0
+"Pancytopenia"	0.0	0.0	1.0	1.0	0.0
+"Monocytosis"	0.0	0.0	0.0	1.0	0.0
+"Lymphoproliferative disorder"	0.0	0.0	0.0	1.0	0.0
+"Follicular hyperplasia"	0.0	0.0	0.0	1.0	0.0
+"Decreased lymphocyte apoptosis"	0.0	0.0	0.0	1.0	0.0

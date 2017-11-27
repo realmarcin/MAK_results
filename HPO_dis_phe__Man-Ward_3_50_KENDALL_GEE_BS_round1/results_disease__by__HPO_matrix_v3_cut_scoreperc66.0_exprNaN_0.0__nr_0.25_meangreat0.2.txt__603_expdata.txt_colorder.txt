@@ -1,0 +1,5 @@
+"x"
+"1" "Tachypnea"
+"2" "Cyanosis"
+"3" "Alveolar proteinosis"
+"4" "Desquamative interstitial pneumonitis"

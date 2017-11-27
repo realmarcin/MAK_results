@@ -1,0 +1,15 @@
+	"Hyperdibasic aminoaciduria type 1"	"Hyperlysinuria With Hyperammonemia"	"Lysine Malabsorption Syndrome"	"Thyroid Dyshormonogenesis 1"	"Deficiency of iodide peroxidase"
+"Intellectual disability"	1.0	1.0	1.0	1.0	0.0
+"Constipation"	0.0	0.0	0.0	1.0	0.0
+"Umbilical hernia"	0.0	0.0	0.0	1.0	0.0
+"Dry skin"	0.0	0.0	0.0	1.0	0.0
+"Macroglossia"	0.0	0.0	0.0	1.0	0.0
+"Lethargy"	0.0	1.0	0.0	1.0	0.0
+"Malabsorption"	1.0	1.0	0.0	0.0	0.0
+"Coma"	0.0	1.0	0.0	0.0	0.0
+"Hyperammonemia"	0.0	1.0	0.0	0.0	0.0
+"Argininuria"	1.0	0.0	0.0	0.0	0.0
+"Hyperlysinuria"	1.0	1.0	1.0	0.0	0.0
+"Ornithinuria"	1.0	0.0	0.0	0.0	0.0
+"Dibasicaminoaciduria"	1.0	1.0	0.0	0.0	0.0
+"Hyperlysinemia"	0.0	1.0	0.0	0.0	0.0

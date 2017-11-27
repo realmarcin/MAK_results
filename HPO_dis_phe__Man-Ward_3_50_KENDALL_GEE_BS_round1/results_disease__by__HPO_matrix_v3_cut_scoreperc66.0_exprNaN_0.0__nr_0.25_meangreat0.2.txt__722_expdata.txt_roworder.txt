@@ -1,0 +1,8 @@
+"x"
+"1" "Multiple.sulfatase.deficiency"
+"2" "Orphanet.585"
+"3" "Gm1.Gangliosidosis..Type.1"
+"4" "Mucolipidosis.2.Alpha.Beta"
+"5" "Hurler.syndrome"
+"6" "Orphanet.584"
+"7" "Orphanet.581"

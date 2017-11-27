@@ -1,0 +1,17 @@
+	"Aicardi Goutieres syndrome 1"	"Tay-Sachs disease AB variant"	"Aicardi Goutieres syndrome 5"	"Orphanet:309246"	"Orphanet:363400"	"Orphanet:909"
+"Feeding difficulties in infancy"	1.0	0.0	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
+"Dry skin"	0.0	0.0	1.0	0.0	0.0	0.0
+"Fever"	1.0	0.0	0.0	0.0	0.0	0.0
+"Arthropathy"	0.0	0.0	1.0	0.0	0.0	0.0
+"Irritability"	0.0	0.0	1.0	0.0	0.0	0.0
+"Scaling skin"	0.0	0.0	1.0	0.0	0.0	0.0
+"Intellectual disability, profound"	1.0	0.0	0.0	0.0	0.0	0.0
+"Acrocyanosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Petechiae"	1.0	0.0	0.0	0.0	0.0	0.0
+"Multiple gastric polyps"	1.0	0.0	0.0	0.0	0.0	0.0
+"Muscular hypotonia of the trunk"	1.0	1.0	1.0	0.0	0.0	0.0
+"Deep white matter hypodensities"	1.0	0.0	1.0	0.0	0.0	0.0
+"Increased CSF interferon alpha"	1.0	0.0	0.0	0.0	0.0	0.0
+"Chilblain lesions"	1.0	0.0	1.0	0.0	0.0	0.0

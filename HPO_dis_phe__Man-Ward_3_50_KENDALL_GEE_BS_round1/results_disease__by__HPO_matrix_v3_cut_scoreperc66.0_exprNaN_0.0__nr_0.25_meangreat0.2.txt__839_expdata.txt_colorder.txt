@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Autism"
+"3" "Toe syndactyly"
+"4" "EEG with centrotemporal focal spike waves"
+"5" "Precocious puberty"

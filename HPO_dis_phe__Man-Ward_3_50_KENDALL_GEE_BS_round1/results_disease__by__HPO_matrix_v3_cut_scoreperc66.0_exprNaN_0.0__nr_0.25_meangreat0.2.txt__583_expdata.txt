@@ -1,0 +1,12 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Ehlers-Danlos Syndrome, Type Vii, Autosomal Dominant"	"Orphanet:90309"
+"Midface retrusion"	0.0	0.0	1.0	0.0
+"Malar flattening"	0.0	0.0	1.0	0.0
+"Hyperextensible skin"	0.0	0.0	1.0	0.0
+"Mild short stature"	0.0	0.0	1.0	0.0
+"Generalized hypotonia"	0.0	0.0	1.0	0.0
+"Premature osteoarthritis"	0.0	0.0	1.0	0.0
+"Kyphosis"	0.0	0.0	1.0	0.0
+"Increased susceptibility to fractures"	0.0	0.0	1.0	0.0
+"Breech presentation"	0.0	0.0	1.0	0.0
+"Delayed gross motor development"	0.0	0.0	1.0	0.0
+"Congenital bilateral hip dislocation"	0.0	0.0	1.0	0.0

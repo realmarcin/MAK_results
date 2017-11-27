@@ -1,0 +1,5 @@
+"x"
+"1" "Recurrent mycobacterial infections"
+"2" "Severe recurrent varicella"
+"3" "Herpes simplex encephalitis"
+"4" "Hypocalcification of dental enamel"

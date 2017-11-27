@@ -1,0 +1,20 @@
+	"Atkin-Flaitz syndrome"	"Clark-Baraitser Syndrome"	"fragile X syndrome"	"syndromic X-linked intellectual disability 5"	"Orphanet:1193"	"Orphanet:908"	"Orphanet:965"
+"Seizures"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Tall stature"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Frontal bossing"	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Joint laxity"	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Tapered finger"	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+"HP:0001417"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Genu recurvatum"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Broad nasal tip"	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Broad palm"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Short palm"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Intellectual disability, mild"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Genu valgum"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Prominent forehead"	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Widely-spaced maxillary central incisors"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Prominent median palatal raphe"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001423"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Maxillary lateral incisor microdontia"	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Heavy supraorbital ridges"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Exaggerated median tongue furrow"	1.0	1.0	0.0	0.0	0.0	0.0	0.0

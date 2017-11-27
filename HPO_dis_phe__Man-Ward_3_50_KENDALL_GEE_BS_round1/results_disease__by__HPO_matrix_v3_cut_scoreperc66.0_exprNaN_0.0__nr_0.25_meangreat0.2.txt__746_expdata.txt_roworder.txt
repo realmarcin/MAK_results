@@ -1,0 +1,7 @@
+"x"
+"1" "Ectodermal.Dysplasia.With.Ment"
+"2" "Enamel.Hypoplasia..Cataracts.."
+"3" "Incisors..Shovel.Shaped"
+"4" "Alopecia.totalis"
+"5" "Pili.bifurcati"
+"6" "Trichodysplasia.amelogenesis.i"

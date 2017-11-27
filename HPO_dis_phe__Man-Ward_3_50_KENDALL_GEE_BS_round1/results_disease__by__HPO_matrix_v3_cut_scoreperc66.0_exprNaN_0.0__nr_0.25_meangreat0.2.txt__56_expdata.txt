@@ -1,0 +1,5 @@
+	"Metatrophic dysplasia"	"pseudoachondroplasia"	"Spondyloepimetaphyseal dysplasia-hypotrichosis syndrome"	"Weaver Syndrome"	"Multiple epiphyseal dysplasia, with severe proximal femoral dysplasia"
+"Halberd-shaped pelvis"	1.0	0.0	0.0	0.0	0.0
+"Flared femoral metaphysis"	1.0	1.0	1.0	1.0	1.0
+"Abnormal enchondral ossification"	1.0	0.0	0.0	0.0	0.0
+"Flared humeral metaphysis"	1.0	0.0	1.0	1.0	0.0

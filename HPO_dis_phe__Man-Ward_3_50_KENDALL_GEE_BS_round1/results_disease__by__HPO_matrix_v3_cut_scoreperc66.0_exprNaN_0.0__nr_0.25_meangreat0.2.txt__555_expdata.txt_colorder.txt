@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Headache"
+"3" "Polycythemia"
+"4" "Opisthotonus"
+"5" "Exertional dyspnea"
+"6" "Cyanosis"
+"7" "Methemoglobinemia"

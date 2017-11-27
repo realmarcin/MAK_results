@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Endopolyploidy on chromosome studies of bone marrow"
+"3" "Reduced activity of N-acetylglucosaminyltransferase II"
+"4" "Macrocytic dyserythropoietic anemia"

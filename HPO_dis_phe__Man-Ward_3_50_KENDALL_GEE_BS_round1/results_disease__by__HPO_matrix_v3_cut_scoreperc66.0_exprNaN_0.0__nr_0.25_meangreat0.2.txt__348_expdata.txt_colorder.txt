@@ -1,0 +1,7 @@
+"x"
+"1" "Juvenile cataract"
+"2" "Anhidrotic ectodermal dysplasia"
+"3" "Pili canaliculi"
+"4" "Decreased number of sweat glands"
+"5" "Uncombable hair"
+"6" "Progressive alopecia"

@@ -1,0 +1,8 @@
+"x"
+"1" "Dextrocardia.With.Unusual.Faci"
+"2" "OMIM.605685"
+"3" "Anophthalmia.plus.syndrome"
+"4" "Dermatoleukodystrophy"
+"5" "Facial.dysmorphism..lens.dislo"
+"6" "Microcephaly.with.mental.retar"
+"7" "Sotos.Syndrome.3..SOTOS3"

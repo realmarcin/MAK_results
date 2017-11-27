@@ -1,0 +1,9 @@
+	"Adenosine Triphosphatase Deficiency, Anemia Due to"	"Ectopia lentis, isolated, autosomal dominant"	"Heinz Body Anemias"	"Hemolytic Poikilocytic Anemia Due to Reduced Ankyrin Binding Sites"	"jaw-winking syndrome"	"Vertebral Fusion, Posterior Lumbosacral, With Blepharoptosis"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Nonspherocytic hemolytic anemia"	1.0	0.0	1.0	1.0	0.0	0.0
+"Elliptocytosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	0.0	1.0	0.0	0.0	1.0
+"Congenital ptosis"	0.0	0.0	0.0	0.0	1.0	1.0
+"Heinz body anemia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Unilateral ptosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Posterior fusion of lumbosacral vertebrae"	0.0	0.0	0.0	0.0	0.0	1.0

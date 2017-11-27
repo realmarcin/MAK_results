@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.2168"
+"2" "Orphanet.99015"
+"3" "Giant.Axonal.Neuropathy.1..Aut"
+"4" "Charcot.Marie.Tooth.disease.X."
+"5" "Cerebellar.ataxia.areflexia.pe"
+"6" "Polyneuropathy..hearing.loss.."

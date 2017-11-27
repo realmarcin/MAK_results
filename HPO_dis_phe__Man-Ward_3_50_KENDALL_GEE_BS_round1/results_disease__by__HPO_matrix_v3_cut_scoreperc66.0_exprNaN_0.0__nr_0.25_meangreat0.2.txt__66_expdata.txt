@@ -1,0 +1,8 @@
+	"Bloom syndrome"	"Hepatic Venoocclusive Disease With Immunodeficiency"	"Riddle Syndrome"	"Orphanet:125"
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Short stature"	0.0	0.0	1.0	1.0
+"Dry skin"	0.0	0.0	1.0	0.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0
+"Mild global developmental delay"	0.0	0.0	1.0	0.0
+"IgG deficiency"	1.0	1.0	1.0	1.0
+"Increased sensitivity to ionizing radiation"	0.0	0.0	1.0	0.0

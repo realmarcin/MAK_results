@@ -1,0 +1,17 @@
+	"Keratosis, Focal Palmoplantar and Gingival"	"PC-K6a"	"Orphanet:1366"	"Orphanet:2309"	"Orphanet:281201"	"Orphanet:79399"
+"Hepatomegaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Carious teeth"	0.0	0.0	0.0	1.0	0.0	0.0
+"Skin plaque"	0.0	0.0	0.0	1.0	0.0	0.0
+"Cataract"	0.0	0.0	1.0	1.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	1.0	0.0	0.0
+"Palmoplantar keratoderma"	0.0	1.0	1.0	1.0	1.0	1.0
+"Anonychia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Nail dystrophy"	0.0	1.0	1.0	1.0	0.0	0.0
+"Abnormal blistering of the skin"	0.0	0.0	0.0	1.0	0.0	1.0
+"Ichthyosis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Oral leukoplakia"	0.0	1.0	0.0	1.0	0.0	1.0
+"Thick nail"	0.0	0.0	0.0	1.0	0.0	0.0
+"Epidermoid cyst"	0.0	1.0	0.0	1.0	0.0	0.0
+"Respiratory insufficiency"	0.0	0.0	0.0	1.0	0.0	1.0
+"Laryngomalacia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of nail color"	0.0	0.0	0.0	1.0	0.0	0.0

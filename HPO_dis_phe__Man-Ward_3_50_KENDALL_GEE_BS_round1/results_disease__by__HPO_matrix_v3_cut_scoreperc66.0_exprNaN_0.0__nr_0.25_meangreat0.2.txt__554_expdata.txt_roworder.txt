@@ -1,0 +1,5 @@
+"x"
+"1" "Spastic.Paraplegia.49..Autosom"
+"2" "Spinocerebellar.Ataxia..Autoso"
+"3" "Spinocerebellar.ataxia..autoso"
+"4" "Spinocerebellar.Ataxia..Autoso"

@@ -1,0 +1,18 @@
+	"trichorhinophalangeal syndrome type I"	"Weaver Syndrome"	"Craniolenticulosutural dysplasia"	"Orphanet:1826"	"Progressive non-infectious anterior vertebral fusion"	"Orphanet:217335"	"Rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation syndrome"	"Orphanet:3447"
+"Hypertelorism"	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Tall stature"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Macrocephaly"	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Accelerated skeletal maturation"	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Pes cavus"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Fine hair"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Large hands"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Retrognathia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Spasticity"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplastic toenails"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Redundant skin"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Thin nail"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormally low-pitched voice"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Deep-set nails"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplasia of penis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the fingernails"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the metaphysis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0

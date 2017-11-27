@@ -1,0 +1,19 @@
+	"Pelvis-shoulder dysplasia"	"Isolated polycystic liver disease"	"Currarino triad"	"Familial caudal dysgenesis"	"Orphanet:2924"
+"Feeding difficulties in infancy"	0.0	0.0	0.0	0.0	1.0
+"Gastroesophageal reflux"	0.0	0.0	0.0	0.0	1.0
+"Multiple renal cysts"	0.0	0.0	0.0	0.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0
+"Abnormality of the nervous system"	0.0	1.0	0.0	0.0	0.0
+"Renal cyst"	0.0	1.0	0.0	0.0	0.0
+"Abdominal distention"	0.0	1.0	1.0	0.0	1.0
+"Dilatation"	0.0	0.0	0.0	0.0	1.0
+"Gastrointestinal hemorrhage"	0.0	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	0.0	1.0
+"Back pain"	1.0	1.0	0.0	1.0	1.0
+"Abnormality of the cardiovascular system"	0.0	1.0	0.0	0.0	0.0
+"Elevated alkaline phosphatase"	0.0	1.0	0.0	0.0	0.0
+"Polycystic liver disease"	0.0	1.0	0.0	0.0	1.0
+"Respiratory insufficiency"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the pancreas"	0.0	0.0	0.0	0.0	1.0
+"Ascites"	0.0	1.0	0.0	0.0	0.0
+"Increased total bilirubin"	0.0	1.0	0.0	0.0	1.0

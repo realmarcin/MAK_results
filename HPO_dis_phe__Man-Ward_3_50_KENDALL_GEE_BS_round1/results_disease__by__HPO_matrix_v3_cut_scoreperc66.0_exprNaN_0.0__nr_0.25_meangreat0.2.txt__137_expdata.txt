@@ -1,0 +1,21 @@
+	"Mental Retardation, Autosomal Dominant 14"	"Mental Retardation, Autosomal Dominant 15"	"Mental Retardation, Autosomal Dominant 16"	"Coffin-Siris syndrome 5"
+"Microcephaly"	0.0	1.0	1.0	1.0
+"Muscular hypotonia"	0.0	0.0	1.0	0.0
+"Delayed speech and language development"	1.0	0.0	0.0	0.0
+"Brachydactyly"	1.0	0.0	0.0	0.0
+"Abnormality of the pinna"	1.0	0.0	0.0	0.0
+"Scoliosis"	0.0	1.0	1.0	0.0
+"Small nail"	1.0	0.0	0.0	0.0
+"Hearing impairment"	0.0	1.0	1.0	0.0
+"Low anterior hairline"	1.0	0.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	1.0	1.0	1.0
+"Thick lower lip vermilion"	1.0	0.0	0.0	1.0
+"Hirsutism"	0.0	1.0	1.0	0.0
+"Delayed eruption of permanent teeth"	0.0	1.0	0.0	0.0
+"Sparse hair"	0.0	1.0	0.0	0.0
+"Dandy-Walker malformation"	0.0	0.0	1.0	1.0
+"Cerebellar hypoplasia"	0.0	1.0	0.0	1.0
+"Recurrent infections"	1.0	0.0	0.0	1.0
+"Thick nasal alae"	0.0	0.0	1.0	1.0
+"Absent fifth fingernail"	1.0	0.0	0.0	0.0
+"Absent fifth toenail"	1.0	0.0	0.0	0.0

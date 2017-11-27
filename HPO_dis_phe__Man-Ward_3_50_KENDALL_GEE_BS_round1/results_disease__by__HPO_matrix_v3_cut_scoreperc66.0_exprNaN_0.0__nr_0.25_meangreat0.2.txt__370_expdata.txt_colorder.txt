@@ -1,0 +1,5 @@
+"x"
+"1" "Chronic lung disease"
+"2" "Papillary thyroid carcinoma"
+"3" "Euthyroid multinodular goiter"
+"4" "Non-medullary thyroid carcinoma"

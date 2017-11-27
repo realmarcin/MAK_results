@@ -1,0 +1,6 @@
+"x"
+"1" "Deafness..Autosomal.Dominant.3"
+"2" "DFNA16"
+"3" "Dentinogenesis.imperfecta.type"
+"4" "Dentinogenesis.imperfecta...Sh"
+"5" "Deafness..Autosomal.Dominant.3"

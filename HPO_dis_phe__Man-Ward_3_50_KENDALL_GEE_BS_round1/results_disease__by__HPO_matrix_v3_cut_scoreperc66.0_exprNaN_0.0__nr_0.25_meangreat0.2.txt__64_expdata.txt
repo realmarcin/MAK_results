@@ -1,0 +1,5 @@
+	"Orphanet:1334"	"Orphanet:1880"	"Orphanet:3287"	"Orphanet:500"	"Orphanet:666"	"Orphanet:758"	"Orphanet:904"
+"Dilatation"	0.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Cerebral ischemia"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Tubulointerstitial abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the endocardium"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

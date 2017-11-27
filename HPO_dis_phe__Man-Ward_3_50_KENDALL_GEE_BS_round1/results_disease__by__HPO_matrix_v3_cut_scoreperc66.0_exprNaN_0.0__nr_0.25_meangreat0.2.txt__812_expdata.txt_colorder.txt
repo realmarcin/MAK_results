@@ -1,0 +1,5 @@
+"x"
+"1" "Lethargy"
+"2" "Macrocytic anemia"
+"3" "Tetraparesis"
+"4" "Paraparesis"

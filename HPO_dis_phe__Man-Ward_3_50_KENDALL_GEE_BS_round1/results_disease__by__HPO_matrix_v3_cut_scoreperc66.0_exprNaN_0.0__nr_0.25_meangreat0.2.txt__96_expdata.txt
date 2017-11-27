@@ -1,0 +1,29 @@
+	"Cockayne syndrome B"	"Cockayne Syndrome a"	"Xeroderma pigmentosum-Cockayne syndrome complex"	"Orphanet:910"
+"Hepatomegaly"	1.0	1.0	0.0	0.0
+"Splenomegaly"	1.0	1.0	0.0	0.0
+"Hypermetropia"	1.0	1.0	0.0	0.0
+"Thickened calvaria"	1.0	1.0	0.0	0.0
+"Polyneuropathy"	1.0	1.0	0.0	0.0
+"Muscle weakness"	1.0	1.0	0.0	0.0
+"Anhidrosis"	1.0	1.0	0.0	0.0
+"Arrhythmia"	1.0	1.0	0.0	0.0
+"Diplopia"	0.0	0.0	1.0	0.0
+"Hypoplastic iliac wing"	1.0	1.0	0.0	0.0
+"Delayed eruption of primary teeth"	1.0	1.0	0.0	0.0
+"Confusion"	0.0	0.0	1.0	0.0
+"Reduced subcutaneous adipose tissue"	1.0	1.0	0.0	0.0
+"Loss of facial adipose tissue"	1.0	1.0	0.0	0.0
+"Slender nose"	1.0	1.0	0.0	0.0
+"Decreased lacrimation"	1.0	1.0	0.0	0.0
+"Limitation of joint mobility"	1.0	1.0	0.0	0.0
+"Patchy demyelination of subcortical white matter"	1.0	1.0	0.0	0.0
+"Square pelvis bone"	1.0	1.0	0.0	0.0
+"Peripheral dysmyelination"	1.0	1.0	0.0	0.0
+"Ivory epiphyses of the phalanges of the hand"	1.0	1.0	0.0	0.0
+"Dry hair"	1.0	1.0	0.0	0.0
+"Poikiloderma"	0.0	0.0	1.0	1.0
+"Arteriosclerosis"	0.0	0.0	1.0	0.0
+"Demyelinating peripheral neuropathy"	0.0	0.0	1.0	0.0
+"Melanoma"	0.0	0.0	1.0	1.0
+"Numerous pigmented freckles"	0.0	0.0	1.0	0.0
+"Abnormality of amino acid metabolism"	0.0	0.0	1.0	0.0

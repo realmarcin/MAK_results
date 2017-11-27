@@ -1,0 +1,12 @@
+	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"	"Orphanet:397"
+"Dilatation of abdominal aorta"	0.0	0.0	0.0	1.0
+"HP:0001596"	0.0	0.0	0.0	1.0
+"Conductive hearing impairment"	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	1.0
+"Visual loss"	0.0	0.0	0.0	1.0
+"Diplopia"	0.0	0.0	0.0	1.0
+"Aortic dissection"	0.0	0.0	0.0	1.0
+"Visual field defect"	0.0	0.0	0.0	1.0
+"Ophthalmoparesis"	0.0	0.0	0.0	1.0
+"Hepatic failure"	0.0	0.0	0.0	1.0
+"Chewing difficulties"	0.0	0.0	0.0	1.0

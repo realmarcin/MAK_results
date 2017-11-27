@@ -1,0 +1,16 @@
+	"Late-onset isolated ACTH deficiency"	"Orphanet:738"	"Orphanet:803"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Anxiety"	0.0	0.0	1.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	1.0	0.0	0.0
+"Spasticity"	0.0	0.0	1.0	0.0	0.0
+"Muscle cramps"	0.0	0.0	1.0	0.0	0.0
+"Amyotrophic lateral sclerosis"	0.0	0.0	1.0	0.0	0.0
+"Dyspnea"	0.0	0.0	1.0	0.0	0.0
+"Generalized muscle weakness"	0.0	0.0	1.0	0.0	0.0
+"Agitation"	0.0	0.0	1.0	0.0	0.0
+"Pain"	0.0	0.0	1.0	0.0	0.0
+"HP:0002878"	0.0	0.0	1.0	0.0	0.0
+"Neurodegeneration"	0.0	0.0	1.0	0.0	0.0
+"Laryngeal obstruction"	0.0	0.0	1.0	0.0	0.0
+"Paralysis"	0.0	0.0	1.0	0.0	0.0
+"Fatigable weakness of swallowing muscles"	0.0	0.0	1.0	0.0	0.0
+"Fatigable weakness of respiratory muscles"	0.0	0.0	1.0	0.0	0.0

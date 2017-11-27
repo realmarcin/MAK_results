@@ -1,0 +1,9 @@
+	"WM1"	"Nose, Anomalous Shape of"	"Lymphoma, Hodgkin, Classic"	"Immunodeficiency With Defective T-Cell Response to Interleukin 1"	"Asthma, susceptibility to"	"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy"
+"HP:0000007"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
+"Lymphoma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Leukemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Impaired lymphocyte transformation with phytohemagglutinin"	1.0	0.0	1.0	0.0	0.0	0.0
+"Polyclonal elevation of IgM"	1.0	0.0	1.0	0.0	0.0	0.0
+"Monoclonal immunoglobulin M proteinemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hodgkin lymphoma"	0.0	0.0	1.0	0.0	0.0	0.0

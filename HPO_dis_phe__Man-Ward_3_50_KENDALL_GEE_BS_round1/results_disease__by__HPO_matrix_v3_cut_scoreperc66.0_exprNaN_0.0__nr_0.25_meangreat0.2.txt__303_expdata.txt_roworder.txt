@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.2672"
+"2" "Severe.X.linked.intellectual.d"
+"3" "Osteoporosis.macrocephaly.blin"
+"4" "X.linked.spasticity.intellectu"

@@ -1,0 +1,5 @@
+"x"
+"1" "Rheumatoid.factor.positive.pol"
+"2" "Rheumatoid.factor.negative.juv"
+"3" "Enthesitis.related.juvenile.id"
+"4" "Oligoarticular.juvenile.idiopa"

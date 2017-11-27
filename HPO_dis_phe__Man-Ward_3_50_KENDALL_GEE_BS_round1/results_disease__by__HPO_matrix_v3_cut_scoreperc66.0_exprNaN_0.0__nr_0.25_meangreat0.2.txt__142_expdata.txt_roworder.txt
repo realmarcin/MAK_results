@@ -1,0 +1,5 @@
+"x"
+"1" "Tibial.aplasia.ectrodactyly.sy"
+"2" "Orphanet.1664"
+"3" "Absent.tibia.polydactyly.syndr"
+"4" "Orphanet.3344"

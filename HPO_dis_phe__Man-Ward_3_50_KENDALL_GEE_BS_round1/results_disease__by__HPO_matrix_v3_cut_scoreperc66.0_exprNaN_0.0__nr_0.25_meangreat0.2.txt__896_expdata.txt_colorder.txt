@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "HP:0001470"
+"3" "Osteochondritis Dissecans"
+"4" "Precocious puberty in males"
+"5" "Abnormality of the proximal tibial epiphysis"

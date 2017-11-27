@@ -1,0 +1,8 @@
+	"Townes syndrome"	"Oculocerebrocutaneous Syndrome"	"Facial Dysmorphism With Multiple Malformations"	"Orphanet:1647"	"Orphanet:1780"
+"Abnormality of the thorax"	0.0	1.0	0.0	0.0	0.0
+"Microphthalmia"	0.0	1.0	0.0	0.0	0.0
+"Orbital cyst"	0.0	1.0	0.0	0.0	0.0
+"Heterotopia"	0.0	1.0	0.0	0.0	0.0
+"Cleft ala nasi"	0.0	1.0	0.0	0.0	0.0
+"Orbital encephalocele"	0.0	1.0	0.0	0.0	0.0
+"Focal dermal aplasia/hypoplasia"	0.0	1.0	0.0	0.0	0.0

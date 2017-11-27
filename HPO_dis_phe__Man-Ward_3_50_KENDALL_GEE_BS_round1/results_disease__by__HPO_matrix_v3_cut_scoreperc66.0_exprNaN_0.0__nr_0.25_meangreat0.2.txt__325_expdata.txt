@@ -1,0 +1,6 @@
+	"Hypotrichosis-Lymphedema-Telangiectasia-Renal Defect Syndrome"	"Mullerian derivatives-lymphangiectasia-polydactyly syndrome"	"Hennekam Lymphangiectasia-Lymphedema Syndrome 1"	"Lymphedema-Hypoparathyroidism Syndrome"	"Cousin syndrome"	"Congenital pulmonary lymphangiectasia"	"Oral-facial-digital syndrome"	"Desmosterolosis"	"OMIM:00OMIM"	"Orphanet:1655"
+"Pulmonary lymphangiectasia"	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Pancreatic lymphangiectasis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Thyroid lymphangiectasia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Alveolar ridge overgrowth"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
+"Pleural lymphangiectasia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

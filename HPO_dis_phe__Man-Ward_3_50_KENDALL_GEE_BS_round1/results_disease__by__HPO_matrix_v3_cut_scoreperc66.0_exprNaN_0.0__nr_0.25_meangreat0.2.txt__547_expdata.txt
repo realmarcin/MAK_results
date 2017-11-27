@@ -1,0 +1,8 @@
+	"Teratoma, Pineal"	"Testicular Germ Cell Tumor"	"Aicardi syndrome"	"Obesity due to leptin receptor gene deficiency"	"Rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation syndrome"	"Duplication of the pituitary gland"	"Orphanet:54595"	"Orphanet:643"
+"Hypoplasia of olfactory tract"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Teratoma"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal hypothalamus morphology"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Abnormality of midbrain morphology"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of joint mobility"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the pituitary gland"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Abnormality of masseter muscle"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"Peroxisome biogenesis disorder 1B"	"Mental Retardation, Enteropathy, Deafness, Peripheral Neuropathy, Ichthyosis, and Keratoderma"	"Multiple mitochondrial dysfunctions syndrome 2"	"Combined Oxidative Phosphorylation Deficiency 11"	"Joubert syndrome 21"	"Neurologic, Endocrine, and Pancreatic Disease, Multisystem, Infantile-Onset"	"Combined oxidative phosphorylation defect type 26"
+"Delayed speech and language development"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Midface retrusion"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Leukodystrophy"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cirrhosis"	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Convex nasal ridge"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal cyst"	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Epiphyseal stippling"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperoxaluria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hepatic fibrosis"	1.0	1.0	0.0	0.0	0.0	1.0	0.0

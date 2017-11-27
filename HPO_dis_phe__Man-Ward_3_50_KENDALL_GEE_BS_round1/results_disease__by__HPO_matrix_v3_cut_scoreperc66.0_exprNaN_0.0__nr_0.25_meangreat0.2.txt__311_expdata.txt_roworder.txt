@@ -1,0 +1,8 @@
+"x"
+"1" "neuronal.ceroid.lipofuscinosis"
+"2" "Ceroid.Lipofuscinosis..Neurona"
+"3" "neuronal.ceroid.lipofuscinosis"
+"4" "Ataxia.With.Myoclonic.Epilepsy"
+"5" "neuronal.ceroid.lipofuscinosis"
+"6" "neuronal.ceroid.lipofuscinosis"
+"7" "Epileptic.Encephalopathy..Earl"

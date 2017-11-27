@@ -1,0 +1,7 @@
+	"Dentinogenesis imperfecta type 2"	"Dentinogenesis imperfecta - Shield's type III"	"DFNA16"	"Deafness, Autosomal Dominant 39, With Dentinogenesis Imperfecta 1"	"Deafness, Autosomal Dominant 3B"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Tinnitus"	0.0	0.0	1.0	1.0	0.0
+"Bilateral sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0
+"Dentinogenesis imperfecta"	1.0	1.0	0.0	1.0	0.0
+"High-frequency hearing impairment"	0.0	0.0	0.0	1.0	0.0
+"Adult onset sensorineural hearing impairment"	0.0	0.0	1.0	0.0	1.0

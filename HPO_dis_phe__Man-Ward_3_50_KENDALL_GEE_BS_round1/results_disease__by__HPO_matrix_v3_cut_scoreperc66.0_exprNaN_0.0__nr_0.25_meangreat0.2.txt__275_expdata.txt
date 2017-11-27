@@ -1,0 +1,11 @@
+	"Retinal cone dystrophy 3A"	"Autosomal recessive optic atrophy, OPA7 type"	"Leber Congenital Amaurosis 16"	"Usher syndrome, type 3B"	"Bosch-Boonstra-Schaaf optic atrophy syndrome"
+"Truncal ataxia"	0.0	0.0	0.0	1.0	0.0
+"Sensorineural hearing impairment"	0.0	1.0	0.0	0.0	0.0
+"Hearing impairment"	0.0	0.0	0.0	1.0	0.0
+"HP:0003828"	0.0	1.0	0.0	0.0	0.0
+"Visual impairment"	0.0	1.0	1.0	1.0	1.0
+"Horizontal nystagmus"	0.0	1.0	0.0	1.0	0.0
+"Hypertrophic cardiomyopathy"	0.0	1.0	0.0	0.0	0.0
+"Central scotoma"	0.0	1.0	0.0	0.0	0.0
+"Delayed gross motor development"	0.0	0.0	0.0	1.0	0.0
+"Optic disc pallor"	0.0	1.0	1.0	1.0	1.0

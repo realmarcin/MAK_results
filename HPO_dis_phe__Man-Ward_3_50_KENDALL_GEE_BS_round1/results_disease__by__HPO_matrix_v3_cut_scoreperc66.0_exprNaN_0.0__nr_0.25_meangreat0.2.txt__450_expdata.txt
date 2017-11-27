@@ -1,0 +1,18 @@
+	"Giant Axonal Neuropathy 1, Autosomal Recessive"	"Charcot-Marie-Tooth disease X-linked dominant 1"	"Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome"	"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract"	"Orphanet:2168"	"Orphanet:99015"
+"Delayed speech and language development"	0.0	0.0	0.0	0.0	1.0	0.0
+"Anxiety"	0.0	0.0	0.0	0.0	1.0	0.0
+"Brisk reflexes"	0.0	0.0	0.0	0.0	1.0	0.0
+"Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0
+"Spastic paraplegia"	1.0	0.0	0.0	0.0	1.0	0.0
+"Bowel incontinence"	0.0	0.0	0.0	0.0	1.0	1.0
+"Blindness"	0.0	0.0	1.0	0.0	1.0	0.0
+"Achilles tendon contracture"	0.0	1.0	0.0	1.0	1.0	0.0
+"Spastic gait"	0.0	0.0	0.0	0.0	1.0	1.0
+"Carnosinuria"	0.0	0.0	0.0	0.0	1.0	0.0
+"Scissor gait"	0.0	0.0	0.0	0.0	1.0	0.0
+"Tip-toe gait"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the cerebrospinal fluid"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of circulating enzyme level"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0012433"	0.0	0.0	0.0	0.0	1.0	0.0
+"Pschomotor retardation"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormal fundus autofluorescence imaging"	0.0	0.0	0.0	0.0	1.0	0.0

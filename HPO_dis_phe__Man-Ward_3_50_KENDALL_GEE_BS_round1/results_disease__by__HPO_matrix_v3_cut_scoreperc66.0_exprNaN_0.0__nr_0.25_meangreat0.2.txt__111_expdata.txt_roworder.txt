@@ -1,0 +1,6 @@
+"x"
+"1" "Colorectal.Cancer..Hereditary."
+"2" "Colorectal.Cancer..Hereditary."
+"3" "Colorectal.Cancer..Susceptibil"
+"4" "Endometrial.Cancer"
+"5" "Hereditary.nonpolyposis.colore"

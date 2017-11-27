@@ -1,0 +1,8 @@
+"x"
+"1" "Headache"
+"2" "Focal seizures"
+"3" "EEG abnormality"
+"4" "Myoclonus"
+"5" "Generalized seizures"
+"6" "Amaurosis fugax"
+"7" "Hand tremor"

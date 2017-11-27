@@ -1,0 +1,6 @@
+"x"
+"1" "Familial.adenomatous.polyposis"
+"2" "Pancreatic.Cancer..Susceptibil"
+"3" "Orphanet.145"
+"4" "Orphanet.524"
+"5" "Orphanet.618"

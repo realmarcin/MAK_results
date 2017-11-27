@@ -1,0 +1,5 @@
+"x"
+"1" "Arthrogryposis..Distal..Type.5"
+"2" "Keratosis.Linearis.With.Ichthy"
+"3" "Orphanet.79395"
+"4" "Orphanet.494"

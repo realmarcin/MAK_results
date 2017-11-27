@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.79456"
+"2" "Mastocytosis"
+"3" "Bullous.diffuse.cutaneous.mast"
+"4" "Pseudoxanthomatous.diffuse.cut"
+"5" "Orphanet.66646"
+"6" "Orphanet.79455"
+"7" "Orphanet.79457"

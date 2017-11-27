@@ -1,0 +1,36 @@
+	"Rubinstein-Taybi Syndrome 1"	"Cohen Syndrome"	"Coffin-Lowry Syndrome"	"Orphanet:3079"
+"Truncal obesity"	1.0	0.0	0.0	0.0
+"Deeply set eye"	1.0	0.0	0.0	0.0
+"Parietal foramina"	1.0	0.0	0.0	0.0
+"Strabismus"	1.0	0.0	0.0	0.0
+"Broad hallux"	1.0	0.0	0.0	0.0
+"Agenesis of corpus callosum"	1.0	0.0	0.0	0.0
+"Nasolacrimal duct obstruction"	1.0	0.0	0.0	0.0
+"Bifid uterus"	1.0	0.0	0.0	0.0
+"Duane anomaly"	1.0	0.0	0.0	0.0
+"Polydactyly"	1.0	0.0	0.0	0.0
+"Hypoplastic iliac wing"	1.0	0.0	0.0	0.0
+"Bimanual synkinesia"	1.0	0.0	0.0	0.0
+"Unsteady gait"	1.0	0.0	0.0	0.0
+"Large foramen magnum"	1.0	0.0	0.0	0.0
+"Abnormality of the cervical spine"	1.0	0.0	0.0	0.0
+"Talon cusp"	1.0	0.0	0.0	0.0
+"Avascular necrosis of the capital femoral epiphysis"	1.0	0.0	0.0	0.0
+"Aganglionic megacolon"	1.0	0.0	0.0	0.0
+"Keloids"	1.0	0.0	0.0	0.0
+"Recurrent upper respiratory tract infections"	1.0	0.0	0.0	0.0
+"Agoraphobia"	1.0	0.0	0.0	0.0
+"Radial deviation of thumb terminal phalanx"	1.0	0.0	0.0	0.0
+"Duplication of phalanx of hallux"	1.0	0.0	0.0	0.0
+"Frontal upsweep of hair"	1.0	0.0	0.0	0.0
+"Tethered cord"	1.0	0.0	0.0	0.0
+"Abnormality of the cornea"	1.0	0.0	0.0	0.0
+"Flared iliac wings"	1.0	0.0	0.0	0.0
+"Deviated nasal septum"	1.0	0.0	0.0	0.0
+"Capillary hemangiomas"	1.0	0.0	0.0	0.0
+"Abnormal number of teeth"	1.0	0.0	0.0	0.0
+"Plantar crease between first and second toes"	1.0	0.0	0.0	0.0
+"Papillary cystadenoma of the epididymis"	1.0	0.0	0.0	0.0
+"Low hanging columella"	1.0	0.0	0.0	0.0
+"Vascular ring"	1.0	0.0	0.0	0.0
+"Impulsivity"	1.0	0.0	0.0	0.0

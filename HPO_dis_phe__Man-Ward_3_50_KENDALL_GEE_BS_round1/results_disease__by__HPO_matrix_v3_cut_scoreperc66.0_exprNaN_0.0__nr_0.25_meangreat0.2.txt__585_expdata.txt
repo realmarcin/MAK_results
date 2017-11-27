@@ -1,0 +1,9 @@
+	"Peho Syndrome"	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	1.0	0.0	0.0	0.0
+"Pachygyria"	1.0	0.0	0.0	0.0
+"Edema"	1.0	0.0	0.0	0.0
+"Peripheral dysmyelination"	1.0	0.0	0.0	0.0
+"Abnormality of the hand"	1.0	0.0	0.0	0.0
+"Developmental stagnation"	1.0	0.0	0.0	0.0
+"Infantile encephalopathy"	1.0	0.0	0.0	0.0
+"Undetectable visual evoked potentials"	1.0	0.0	0.0	0.0

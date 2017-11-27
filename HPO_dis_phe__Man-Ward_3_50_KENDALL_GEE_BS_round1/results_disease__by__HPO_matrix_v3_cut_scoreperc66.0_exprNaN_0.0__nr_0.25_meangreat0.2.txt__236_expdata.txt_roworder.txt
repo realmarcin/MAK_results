@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.251"
+"2" "Orphanet.1822"
+"3" "Spondyloepiphyseal.Dysplasia.."
+"4" "Upington.Disease"
+"5" "Immunodeficiency..X.Linked..Wi"
+"6" "Smith.Mccort.Dysplasia.2"
+"7" "Orphanet.2237"

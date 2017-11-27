@@ -1,0 +1,10 @@
+	"Spinocerebellar Ataxia, Autosomal Recessive, With Axonal Neuropathy"	"Charcot-Marie-Tooth disease axonal type 2L"	"giant axonal neuropathy 2"	"Charcot-Marie-Tooth disease, type 2N"	"Charcot-Marie-Tooth disease type 2P"
+"HP:0000006"	0.0	1.0	1.0	1.0	1.0
+"Cardiomyopathy"	0.0	0.0	1.0	0.0	0.0
+"Peripheral axonal neuropathy"	1.0	1.0	1.0	1.0	0.0
+"Areflexia"	0.0	1.0	1.0	1.0	1.0
+"Distal muscle weakness"	0.0	1.0	1.0	1.0	1.0
+"Impaired distal vibration sensation"	0.0	0.0	1.0	0.0	1.0
+"Decreased amplitude of sensory action potentials"	0.0	1.0	0.0	0.0	0.0
+"EMG: chronic denervation signs"	0.0	1.0	1.0	0.0	0.0
+"Impaired distal tactile sensation"	0.0	0.0	1.0	0.0	0.0

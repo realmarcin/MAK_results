@@ -1,0 +1,14 @@
+	"Hirsutism, Skeletal Dysplasia, and Mental Retardation"	"Metaphyseal chondrodysplasia-retinitis pigmentosa syndrome"	"Subaortic stenosis-short stature syndrome"	"Joubert syndrome 10"
+"Feeding difficulties in infancy"	0.0	0.0	0.0	1.0
+"Epicanthus"	1.0	0.0	1.0	1.0
+"Deep philtrum"	0.0	0.0	0.0	1.0
+"Hirsutism"	1.0	0.0	0.0	1.0
+"Growth delay"	0.0	0.0	1.0	1.0
+"Enlarged cisterna magna"	0.0	0.0	0.0	1.0
+"Intellectual disability, profound"	0.0	0.0	0.0	1.0
+"Rod-cone dystrophy"	0.0	1.0	0.0	1.0
+"Recurrent infections"	0.0	0.0	0.0	1.0
+"Thick vermilion border"	0.0	0.0	0.0	1.0
+"Cerebellar vermis hypoplasia"	0.0	0.0	0.0	1.0
+"Postaxial polydactyly"	0.0	0.0	0.0	1.0
+"Molar tooth sign on MRI"	0.0	0.0	0.0	1.0

@@ -1,0 +1,11 @@
+	"Mental Retardation, X-Linked, Syndromic, Claes-Jensen Type"	"Autosomal recessive primary microcephaly"	"Orphanet:3080"	"Orphanet:59"
+"Intellectual disability, severe"	1.0	1.0	1.0	1.0
+"Broad thumb"	0.0	0.0	1.0	0.0
+"Large hands"	1.0	0.0	1.0	0.0
+"Abnormality of the nail"	0.0	0.0	1.0	0.0
+"Short distal phalanx of finger"	1.0	0.0	1.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	1.0	1.0
+"Hypoplastic superior helix"	0.0	0.0	1.0	0.0
+"Limitation of joint mobility"	0.0	0.0	1.0	0.0
+"Non-midline cleft lip"	0.0	0.0	1.0	0.0
+"Abnormality of the intestine"	0.0	0.0	1.0	0.0

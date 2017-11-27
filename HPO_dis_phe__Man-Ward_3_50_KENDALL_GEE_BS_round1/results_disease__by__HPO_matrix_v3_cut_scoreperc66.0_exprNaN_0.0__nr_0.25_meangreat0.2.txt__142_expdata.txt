@@ -1,0 +1,9 @@
+	"Orphanet:1664"	"Tibial aplasia-ectrodactyly syndrome"	"Orphanet:3344"	"Absent tibia-polydactyly syndrome"
+"Finger syndactyly"	1.0	1.0	0.0	0.0
+"Short femur"	0.0	1.0	0.0	0.0
+"Overfolded helix"	0.0	1.0	0.0	0.0
+"Femoral bowing"	0.0	1.0	1.0	0.0
+"Patellar aplasia"	0.0	1.0	0.0	1.0
+"Popliteal pterygium"	1.0	1.0	0.0	0.0
+"Omphalocele"	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the tibia"	0.0	1.0	0.0	1.0

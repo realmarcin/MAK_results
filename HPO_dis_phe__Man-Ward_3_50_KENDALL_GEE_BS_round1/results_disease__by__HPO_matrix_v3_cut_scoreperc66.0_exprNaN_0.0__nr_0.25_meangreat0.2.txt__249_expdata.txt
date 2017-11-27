@@ -1,0 +1,12 @@
+	"Salt and Pepper Developmental Regression Syndrome"	"Mental Retardation, Enteropathy, Deafness, Peripheral Neuropathy, Ichthyosis, and Keratoderma"	"Microcephaly-Capillary Malformation Syndrome"	"Combined Oxidative Phosphorylation Deficiency 11"	"NGLY1-deficiency"	"Combined oxidative phosphorylation defect type 26"	"Coenzyme Q10 Deficiency, Primary, 8; COQ10D8"
+"Muscular hypotonia"	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Small for gestational age"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Peripheral demyelination"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hearing impairment"	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Renal dysplasia"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"HP:0008897"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Respiratory distress"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Pain"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Elevated serum creatinine"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal renal corticomedullary differentiation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

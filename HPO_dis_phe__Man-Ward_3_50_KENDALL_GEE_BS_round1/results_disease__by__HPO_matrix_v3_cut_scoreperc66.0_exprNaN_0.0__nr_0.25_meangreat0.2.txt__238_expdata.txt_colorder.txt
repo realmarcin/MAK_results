@@ -1,0 +1,8 @@
+"x"
+"1" "Hypodontia"
+"2" "HP:0001425"
+"3" "Lower lip pit"
+"4" "Bifid uvula"
+"5" "HP:0003745"
+"6" "HP:0010982"
+"7" "Abnormal salivary gland morphology"

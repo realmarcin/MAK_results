@@ -1,0 +1,7 @@
+	"malignant mesothelioma"	"synovial sarcoma"	"Paroxysmal Nocturnal Hemoglobinuria 1"	"Alveolar Soft Part Sarcoma"	"myxoid liposarcoma"	"Paroxysmal Nocturnal Hemoglobinuria 2"
+"HP:0001428"	1.0	1.0	1.0	1.0	1.0	1.0
+"Malignant mesothelioma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Synovial sarcoma"	0.0	1.0	0.0	0.0	0.0	0.0
+"Paroxysmal nocturnal hemoglobinuria"	0.0	0.0	1.0	0.0	0.0	1.0
+"Alveolar soft part sarcoma"	0.0	0.0	0.0	1.0	0.0	0.0
+"Myxoid liposarcoma"	0.0	0.0	0.0	0.0	1.0	0.0

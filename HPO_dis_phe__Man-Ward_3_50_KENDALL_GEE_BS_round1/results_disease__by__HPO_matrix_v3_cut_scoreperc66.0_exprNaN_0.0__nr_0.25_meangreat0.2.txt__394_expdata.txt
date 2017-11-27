@@ -1,0 +1,17 @@
+	"16p13.11 microdeletion syndrome"	"Orphanet:2645"	"Distal trisomy 17q"	"Orphanet:36"	"Cono-spondylar dysplasia"
+"Tall stature"	0.0	0.0	0.0	1.0	0.0
+"Intellectual disability, severe"	1.0	0.0	1.0	1.0	1.0
+"Anteverted nares"	1.0	1.0	0.0	0.0	1.0
+"Craniosynostosis"	0.0	1.0	0.0	0.0	0.0
+"Rhizomelia"	0.0	1.0	1.0	0.0	0.0
+"Choanal atresia"	0.0	1.0	0.0	0.0	0.0
+"Postaxial hand polydactyly"	0.0	0.0	0.0	1.0	0.0
+"Severe short stature"	0.0	1.0	1.0	0.0	0.0
+"Triphalangeal thumb"	0.0	0.0	0.0	1.0	0.0
+"Prominent occiput"	0.0	0.0	0.0	1.0	0.0
+"Wide anterior fontanel"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the clavicle"	0.0	1.0	0.0	1.0	0.0
+"Dandy-Walker malformation"	0.0	0.0	0.0	1.0	0.0
+"Failure to thrive in infancy"	0.0	1.0	0.0	0.0	0.0
+"Abnormal form of the vertebral bodies"	0.0	1.0	0.0	0.0	0.0
+"Abnormal bone ossification"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Hypomimic face"
+"2" "IgA deposition in the glomerulus"
+"3" "HP:0011462"
+"4" "Mesangial hypercellularity"
+"5" "Bilateral choanal atresia/stenosis"

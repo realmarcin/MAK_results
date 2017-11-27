@@ -1,0 +1,6 @@
+"x"
+"1" "Autoimmune.lymphoproliferative"
+"2" "Autoimmune.Lymphoproliferative"
+"3" "Duodenal.neuroendocrine.tumor"
+"4" "Jejunal.neuroendocrine.tumor"
+"5" "Ileal.neuroendocrine.tumor"

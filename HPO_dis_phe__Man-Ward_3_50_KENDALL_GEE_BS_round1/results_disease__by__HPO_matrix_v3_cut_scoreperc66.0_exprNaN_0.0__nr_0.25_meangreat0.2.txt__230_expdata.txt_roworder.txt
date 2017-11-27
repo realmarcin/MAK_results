@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.86822"
+"2" "Amyotrophic.lateral.sclerosis."
+"3" "Larsen.Like.Syndrome..Lethal.T"
+"4" "Pyruvate.carboxylase.deficienc"
+"5" "Orphanet.643"

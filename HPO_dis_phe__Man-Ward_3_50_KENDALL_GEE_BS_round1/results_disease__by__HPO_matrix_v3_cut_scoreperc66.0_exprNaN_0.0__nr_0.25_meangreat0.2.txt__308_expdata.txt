@@ -1,0 +1,13 @@
+	"Miller-Dieker Lissencephaly Syndrome"	"3p- syndrome"	"Orphanet:1308"	"Orphanet:1620"	"Fetal trimethadione syndrome"	"Orphanet:2135"	"8p23.1 microdeletion syndrome"	"Trisomy 17p"	"Distal 22q11.2 microduplication syndrome"	"Orphanet:46059"	"12q14 microdeletion syndrome"
+"Atrioventricular canal defect"	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Preauricular pit"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Inguinal hernia"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Triangular face"	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Intrauterine growth retardation"	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0
+"Umbilical hernia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spasticity"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Downturned corners of mouth"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Sacral dimple"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal vestibulo-ocular reflex"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

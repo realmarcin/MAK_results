@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.2323"
+"2" "hypoparathyroidism.retardation"
+"3" "Microcephalic.osteodysplastic."
+"4" "Hall.Riggs.syndrome"
+"5" "Filippi.syndrome"

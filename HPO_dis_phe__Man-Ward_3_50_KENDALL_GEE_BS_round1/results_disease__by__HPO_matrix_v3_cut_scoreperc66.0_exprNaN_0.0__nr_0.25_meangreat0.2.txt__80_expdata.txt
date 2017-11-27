@@ -1,0 +1,10 @@
+	"autosomal dominant microcephaly"	"Orphanet:2013"	"Orphanet:2514"	"Weaver-Williams syndrome"
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Broad hallux"	1.0	0.0	0.0	0.0
+"Broad thumb"	1.0	0.0	0.0	0.0
+"Protruding ear"	1.0	1.0	1.0	1.0
+"Overbite"	1.0	0.0	0.0	0.0
+"Horizontal nystagmus"	1.0	0.0	1.0	0.0
+"Reduced number of teeth"	0.0	0.0	1.0	0.0
+"Sloping forehead"	1.0	0.0	0.0	0.0
+"Alternating esotropia"	1.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "HP:0003676"
+"3" "Dysarthria"
+"4" "Postural tremor"
+"5" "Hand tremor"

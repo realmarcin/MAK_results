@@ -1,0 +1,12 @@
+	"Late-onset isolated ACTH deficiency"	"Orphanet:738"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Anxiety"	0.0	0.0	0.0	0.0
+"Macrocytic anemia"	1.0	0.0	0.0	0.0
+"Pituitary adenoma"	1.0	0.0	0.0	0.0
+"Eosinophilia"	1.0	0.0	0.0	0.0
+"Hepatitis"	1.0	0.0	0.0	0.0
+"Adrenocorticotropic hormone deficiency"	1.0	0.0	0.0	0.0
+"Decreased circulating ACTH level"	1.0	0.0	0.0	0.0
+"Graves disease"	1.0	0.0	0.0	0.0
+"Sepsis"	1.0	0.0	0.0	0.0
+"Low-grade fever"	1.0	0.0	0.0	0.0
+"Adrenocorticotropin deficient adrenal insufficiency"	1.0	0.0	0.0	0.0

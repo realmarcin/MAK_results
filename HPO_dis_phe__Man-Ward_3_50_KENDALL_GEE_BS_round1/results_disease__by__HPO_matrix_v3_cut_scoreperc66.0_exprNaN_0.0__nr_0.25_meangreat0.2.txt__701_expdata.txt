@@ -1,0 +1,18 @@
+	"Leukodystrophy, Hypomyelinating, 7, With or Without Oligodontia And/Or Hypogonadotropic Hypogonadism"	"Neurodegeneration with brain iron accumulation 2b"	"Spinocerebellar Ataxia, Autosomal Recessive 11"	"Hypomyelinating leukodystrophy 8, with or without oligodontia and/or hypogonadotropic hypogonadism"	"Early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome"	"Spinocerebellar ataxia, autosomal recessive 16"	"Leukodystrophy, Hypomyelinating, 9"	"Spinocerebellar Ataxia, Autosomal Recessive 24"
+"Leukodystrophy"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Dysphagia"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Drooling"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003812"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Delayed eruption of teeth"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypodontia"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, mild"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"CNS hypomyelination"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral hypomyelination"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Oligodontia"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Myopia"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Impaired horizontal smooth pursuit"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypogonadotrophic hypogonadism"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Dysmetria"	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Postural tremor"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Delayed puberty"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal upper motor neuron morphology"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

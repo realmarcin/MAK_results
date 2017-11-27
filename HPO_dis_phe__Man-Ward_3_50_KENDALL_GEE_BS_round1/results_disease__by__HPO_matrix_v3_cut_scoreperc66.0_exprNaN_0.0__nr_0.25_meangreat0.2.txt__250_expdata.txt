@@ -1,0 +1,6 @@
+	"Albinism, Ocular, With Sensorineural Deafness"	"Cardiofaciocutaneous syndrome 1"	"Peroxisome Biogenesis Disorder 1A (Zellweger)"	"Peroxisome biogenesis disorder 2a (zellweger)"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 13"	"Anterior Segment Dysgenesis 8; ASGD8"	"Orphanet:1475"
+"Optic nerve dysplasia"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Intrahepatic biliary dysgenesis"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hypoplastic olfactory lobes"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Albuminuria"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Stippled chondral calcification"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

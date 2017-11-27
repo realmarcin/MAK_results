@@ -1,0 +1,21 @@
+	"3MC syndrome 3"	"3MC syndrome 1"	"3MC syndrome 2"	"Orphanet:293843"
+"Hypertelorism"	1.0	1.0	1.0	1.0
+"Limited pronation/supination of forearm"	0.0	0.0	0.0	1.0
+"Joint hypermobility"	0.0	0.0	1.0	0.0
+"Supernumerary nipple"	0.0	1.0	0.0	1.0
+"Radioulnar synostosis"	0.0	1.0	1.0	1.0
+"Hip dislocation"	0.0	0.0	1.0	1.0
+"Epicanthus inversus"	1.0	1.0	1.0	1.0
+"Hyperlordosis"	0.0	0.0	0.0	1.0
+"HP:0008897"	0.0	1.0	1.0	1.0
+"Torticollis"	0.0	0.0	1.0	0.0
+"Diastasis recti"	0.0	0.0	1.0	1.0
+"Depressed nasal tip"	0.0	0.0	1.0	0.0
+"Prominence of the premaxilla"	0.0	0.0	1.0	0.0
+"Caudal appendage"	0.0	1.0	1.0	1.0
+"Hypoplasia of the musculature"	0.0	0.0	1.0	0.0
+"Broad philtrum"	0.0	0.0	1.0	0.0
+"Large fleshy ears"	0.0	0.0	0.0	1.0
+"Prominent coccyx"	0.0	0.0	0.0	1.0
+"Abnormality of the anterior chamber"	0.0	1.0	0.0	1.0
+"Partial abdominal muscle agenesis"	0.0	0.0	1.0	0.0

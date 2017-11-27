@@ -1,0 +1,5 @@
+"x"
+"1" "Hepatic.Adenomas..Familial"
+"2" "Maturity.onset.diabetes.of.the"
+"3" "Maturity.Onset.Diabetes.of.the"
+"4" "Transient.neonatal.diabetes.me"

@@ -1,0 +1,9 @@
+	"ASD1"	"atrial heart septal defect 2"	"Ventricular septal defect 1"	"Ventricular septal defect 3"	"Orphanet:1478"	"Congenital pulmonary valve stenosis"
+"Atrial septal defect"	1.0	1.0	1.0	1.0	1.0	1.0
+"Atrioventricular canal defect"	0.0	1.0	0.0	0.0	0.0	0.0
+"Patent ductus arteriosus"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	0.0	1.0	1.0	1.0	0.0	0.0
+"Ventricular septal defect"	0.0	1.0	1.0	1.0	0.0	0.0
+"Pulmonic stenosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Pulmonary artery stenosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Laryngeal stenosis"	0.0	0.0	0.0	0.0	0.0	1.0

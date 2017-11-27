@@ -1,0 +1,15 @@
+	"Rheumatoid factor-negative juvenile idiopathic arthritis"	"Oligoarticular juvenile idiopathic arthritis"	"Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"	"Enthesitis-related juvenile idiopathic arthritis"
+"Dental malocclusion"	1.0	0.0	1.0	1.0
+"Arthralgia"	1.0	1.0	1.0	0.0
+"Apraxia"	1.0	0.0	0.0	0.0
+"Anterior uveitis"	0.0	0.0	0.0	1.0
+"Sacroiliac arthritis"	0.0	0.0	0.0	1.0
+"Enthesitis"	0.0	0.0	0.0	1.0
+"Polyarticular arthritis"	1.0	0.0	1.0	0.0
+"Elevated erythrocyte sedimentation rate"	1.0	1.0	1.0	1.0
+"Antinuclear antibody positivity"	1.0	1.0	1.0	0.0
+"Juvenile rheumatoid arthritis"	1.0	1.0	1.0	1.0
+"Rheumatoid factor positive"	0.0	0.0	1.0	0.0
+"Elevated C-reactive protein level"	1.0	1.0	1.0	1.0
+"Cartilage destruction"	0.0	0.0	0.0	1.0
+"Abnormality of the temporomandibular joint"	0.0	0.0	1.0	0.0

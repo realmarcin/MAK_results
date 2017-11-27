@@ -1,0 +1,11 @@
+	"Faciothoracogenital Syndrome"	"Postaxial Acrofacial Dysostosis"	"Van den Ende-Gupta syndrome"	"Multiple epiphyseal dysplasia, Lowry type"	"Mandibulofacial Dysostosis With Ptosis, Autosomal Dominant"	"Ectodermal Dysplasia, Sensorineural Hearing Loss, and Distinctive Facial Features"	"Facial Paresis, Hereditary Congenital, 3"	"Orphanet:1106"	"Orphanet:166100"
+"Micrognathia"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Thin upper lip vermilion"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Long philtrum"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Shawl scrotum"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pectus excavatum"	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Small nail"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Smooth philtrum"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Wide intermamillary distance"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prominent scrotal raphe"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glandular hypospadias"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

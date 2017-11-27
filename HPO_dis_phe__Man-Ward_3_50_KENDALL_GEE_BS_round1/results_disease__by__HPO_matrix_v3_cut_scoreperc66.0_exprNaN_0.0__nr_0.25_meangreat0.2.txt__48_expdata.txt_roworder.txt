@@ -1,0 +1,5 @@
+"x"
+"1" "COG4.CDG"
+"2" "peroxisomal.acyl.CoA.oxidase.d"
+"3" "Congenital.disorder.of.glycosy"
+"4" "Congenital.Disorder.of.Glycosy"

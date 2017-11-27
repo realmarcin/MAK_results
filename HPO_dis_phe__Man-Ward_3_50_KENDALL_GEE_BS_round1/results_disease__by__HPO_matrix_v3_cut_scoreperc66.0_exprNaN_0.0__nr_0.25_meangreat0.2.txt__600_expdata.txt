@@ -1,0 +1,11 @@
+	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"	"Orphanet:3452"
+"Sleep disturbance"	0.0	0.0	0.0	1.0
+"Hydrocephalus"	0.0	0.0	0.0	1.0
+"Galactorrhea"	0.0	0.0	0.0	1.0
+"Myoclonus"	0.0	0.0	0.0	1.0
+"Hypothyroidism"	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	1.0
+"Insulin resistance"	0.0	0.0	0.0	1.0
+"Generalized hyperpigmentation"	0.0	0.0	0.0	1.0
+"Cachexia"	0.0	0.0	0.0	1.0
+"Erectile abnormalities"	0.0	0.0	0.0	1.0

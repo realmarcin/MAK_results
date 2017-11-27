@@ -1,0 +1,7 @@
+"x"
+"1" "Argininosuccinate.lyase.defici"
+"2" "Citrullinemia.type.I"
+"3" "Orphanet.23"
+"4" "hyperargininemia"
+"5" "Orotic.Aciduria"
+"6" "Orphanet.30"

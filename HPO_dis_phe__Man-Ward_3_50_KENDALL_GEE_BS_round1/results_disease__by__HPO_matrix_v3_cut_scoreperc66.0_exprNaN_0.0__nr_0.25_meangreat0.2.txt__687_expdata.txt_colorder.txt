@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Pseudohypoaldosteronism"
+"3" "Hyperchloremic metabolic acidosis"
+"4" "Hyperchloremia"

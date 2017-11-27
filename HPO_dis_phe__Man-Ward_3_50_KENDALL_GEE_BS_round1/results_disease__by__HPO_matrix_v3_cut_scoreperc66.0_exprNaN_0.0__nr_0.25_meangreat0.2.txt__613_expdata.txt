@@ -1,0 +1,23 @@
+	"Mowat-Wilson Syndrome"	"Severe microbrachycephaly-intellectual disability-athetoid cerebral palsy syndrome"	"Orphanet:2152"	"Orphanet:66629"
+"Atrial septal defect"	1.0	0.0	0.0	0.0
+"Downslanted palpebral fissures"	1.0	0.0	0.0	0.0
+"Absent speech"	1.0	0.0	0.0	0.0
+"Drooling"	1.0	0.0	0.0	0.0
+"Esotropia"	1.0	0.0	0.0	0.0
+"Generalized hypotonia"	1.0	0.0	0.0	0.0
+"Pulmonic stenosis"	1.0	0.0	0.0	0.0
+"Pulmonary artery stenosis"	1.0	0.0	0.0	0.0
+"Motor delay"	1.0	0.0	0.0	0.0
+"Delayed eruption of teeth"	1.0	0.0	0.0	0.0
+"Happy demeanor"	1.0	0.0	0.0	0.0
+"Abdominal distention"	1.0	0.0	0.0	0.0
+"Widely spaced teeth"	1.0	0.0	0.0	0.0
+"Vomiting"	1.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	1.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	0.0	0.0	0.0
+"Broad eyebrow"	1.0	0.0	0.0	0.0
+"Abnormality of the abdominal wall"	1.0	0.0	0.0	0.0
+"Generalized muscle hypertrophy"	1.0	0.0	0.0	0.0
+"Low hanging columella"	1.0	0.0	0.0	0.0
+"Pulmonary artery sling"	1.0	0.0	0.0	0.0
+"Prominent nasal tip"	1.0	0.0	0.0	0.0

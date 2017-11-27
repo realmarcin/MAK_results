@@ -1,0 +1,17 @@
+	"Severe microbrachycephaly-intellectual disability-athetoid cerebral palsy syndrome"	"Orphanet:2152"	"Xp22.13p22.2 duplication syndrome"	"Orphanet:66629"
+"High pitched voice"	0.0	0.0	1.0	0.0
+"Congenital diaphragmatic hernia"	0.0	0.0	1.0	0.0
+"Downslanted palpebral fissures"	0.0	0.0	1.0	0.0
+"Anxiety"	0.0	0.0	1.0	0.0
+"2-3 toe syndactyly"	0.0	0.0	1.0	0.0
+"High anterior hairline"	0.0	0.0	1.0	0.0
+"Hypermetropia"	0.0	0.0	1.0	0.0
+"Sparse hair"	0.0	0.0	1.0	0.0
+"Small hand"	0.0	0.0	1.0	0.0
+"Attention deficit hyperactivity disorder"	0.0	0.0	1.0	0.0
+"Polycystic ovaries"	0.0	0.0	1.0	0.0
+"Recurrent upper respiratory tract infections"	0.0	0.0	1.0	0.0
+"Slowed slurred speech"	0.0	0.0	1.0	0.0
+"Flared nostrils"	0.0	0.0	1.0	0.0
+"Macroorchidism"	0.0	0.0	1.0	0.0
+"Moderate global developmental delay"	0.0	0.0	1.0	0.0

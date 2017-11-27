@@ -1,0 +1,26 @@
+	"Arima Syndrome"	"Joubert syndrome with ocular defect"	"Orphanet:220497"	"Orphanet:2318"	"Orphanet:475"
+"Seizures"	0.0	1.0	1.0	1.0	1.0
+"Long face"	0.0	1.0	1.0	1.0	1.0
+"Prominent nasal bridge"	0.0	1.0	1.0	1.0	1.0
+"Iris coloboma"	0.0	1.0	1.0	1.0	1.0
+"Intellectual disability, severe"	1.0	0.0	0.0	0.0	0.0
+"HP:0000113"	1.0	0.0	0.0	0.0	0.0
+"Strabismus"	0.0	1.0	1.0	1.0	1.0
+"Hepatomegaly"	1.0	0.0	0.0	0.0	0.0
+"Wide mouth"	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	0.0	0.0
+"Dilated fourth ventricle"	1.0	0.0	0.0	0.0	0.0
+"Dyspnea"	1.0	0.0	0.0	0.0	0.0
+"Hand polydactyly"	0.0	1.0	1.0	1.0	1.0
+"Apnea"	0.0	1.0	1.0	1.0	1.0
+"Aganglionic megacolon"	0.0	1.0	1.0	1.0	1.0
+"Postaxial foot polydactyly"	1.0	0.0	0.0	0.0	0.0
+"Hepatic steatosis"	1.0	0.0	0.0	0.0	0.0
+"Biparietal narrowing"	0.0	1.0	1.0	1.0	1.0
+"Tubular atrophy"	1.0	0.0	0.0	0.0	0.0
+"Heterotopia"	1.0	0.0	0.0	0.0	0.0
+"Renal corticomedullary cysts"	1.0	0.0	0.0	0.0	0.0
+"Tubulointerstitial fibrosis"	1.0	0.0	0.0	0.0	0.0
+"Undetectable electroretinogram"	1.0	0.0	0.0	0.0	0.0
+"Occipital meningocele"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the hypothalamus-pituitary axis"	0.0	1.0	1.0	1.0	1.0

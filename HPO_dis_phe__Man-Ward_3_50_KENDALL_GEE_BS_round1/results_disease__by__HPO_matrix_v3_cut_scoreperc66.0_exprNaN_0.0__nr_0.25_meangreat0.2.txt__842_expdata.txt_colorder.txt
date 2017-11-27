@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Aminoaciduria"
+"3" "Hyperammonemia"
+"4" "Episodic ammonia intoxication"
+"5" "Hypoargininemia"

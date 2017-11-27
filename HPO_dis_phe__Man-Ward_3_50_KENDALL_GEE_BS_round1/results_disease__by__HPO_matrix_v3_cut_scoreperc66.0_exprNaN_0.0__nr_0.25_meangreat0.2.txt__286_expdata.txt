@@ -1,0 +1,6 @@
+	"Alopecia-Contractures-Dwarfism Mental Retardation Syndrome"	"Farber's lipogranulomatosis"	"Orphanet:252183"	"Orphanet:333"	"Orphanet:436174"	"Familial tumoral calcinosis"
+"Thoracic kyphoscoliosis"	1.0	0.0	0.0	0.0	1.0	0.0
+"Generalized hypoplasia of dental enamel"	1.0	0.0	0.0	0.0	0.0	0.0
+"Periarticular subcutaneous nodules"	0.0	1.0	1.0	1.0	1.0	1.0
+"Lipogranulomatosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Calcification of muscles"	0.0	0.0	0.0	0.0	0.0	1.0

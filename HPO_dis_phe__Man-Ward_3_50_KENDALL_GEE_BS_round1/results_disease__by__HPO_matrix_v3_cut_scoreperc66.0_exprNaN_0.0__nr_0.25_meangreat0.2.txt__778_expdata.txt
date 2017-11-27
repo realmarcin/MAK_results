@@ -1,0 +1,6 @@
+	"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked"	"Generalized Epilepsy With Febrile Seizures Plus, Type 2"	"Epileptic Encephalopathy, Early Infantile, 6"	"Schuurs-Hoeijmakers Syndrome"	"Epileptic Encephalopathy, Early Infantile, 19"	"Epileptic Encephalopathy, Early Infantile, 34; EIEE34"	"Chromosome 16p13.2 Deletion Syndrome"	"OMIM:617350"	"Orphanet:137634"	"Orphanet:1713"	"Microtriplication 11q24.1"	"Orphanet:352"	"Orphanet:79239"
+"Generalized tonic-clonic seizures with focal onset"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"EEG with centrotemporal focal spike waves"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Speech apraxia"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Auditory auras"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hemiclonic seizures"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

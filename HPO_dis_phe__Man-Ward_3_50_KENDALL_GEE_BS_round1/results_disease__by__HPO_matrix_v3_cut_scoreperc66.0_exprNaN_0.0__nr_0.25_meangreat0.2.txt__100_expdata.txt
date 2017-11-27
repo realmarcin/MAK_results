@@ -1,0 +1,35 @@
+	"Orphanet:90790"	"Orphanet:90794"	"Orphanet:90795"	"Orphanet:95699"
+"Intellectual disability"	0.0	1.0	0.0	0.0
+"Menstrual irregularities"	0.0	1.0	0.0	0.0
+"Aggressive behavior"	0.0	1.0	0.0	0.0
+"Obesity"	0.0	1.0	0.0	0.0
+"Hypernatriuria"	1.0	1.0	1.0	0.0
+"Hyperaldosteronism"	0.0	0.0	1.0	0.0
+"Decreased circulating renin level"	0.0	0.0	1.0	0.0
+"Stroke"	0.0	0.0	1.0	0.0
+"Vomiting"	1.0	1.0	1.0	0.0
+"Hypercholesterolemia"	1.0	0.0	0.0	0.0
+"Adrenocortical adenoma"	1.0	1.0	0.0	0.0
+"Hypokalemia"	0.0	0.0	1.0	0.0
+"Long penis"	0.0	1.0	1.0	0.0
+"Gynecomastia"	1.0	1.0	1.0	0.0
+"Hyperkalemia"	1.0	1.0	1.0	0.0
+"Hyponatremia"	1.0	1.0	1.0	0.0
+"Feeding difficulties"	1.0	1.0	1.0	0.0
+"Increased circulating androgen level"	0.0	1.0	1.0	0.0
+"Renal salt wasting"	1.0	1.0	1.0	0.0
+"HP:0004319"	1.0	1.0	1.0	0.0
+"Abnormal EKG"	0.0	0.0	1.0	0.0
+"Accelerated bone age after puberty"	0.0	1.0	1.0	0.0
+"Fused labia minora"	0.0	1.0	1.0	0.0
+"Abnormal spermatogenesis"	1.0	1.0	0.0	0.0
+"Adrenal medullary hypoplasia"	0.0	1.0	0.0	0.0
+"Bilateral cryptorchidism"	0.0	0.0	1.0	0.0
+"Female pseudohermaphroditism"	0.0	1.0	0.0	0.0
+"Abnormality of circulating leptin level"	0.0	1.0	0.0	0.0
+"Hypovolemia"	1.0	1.0	1.0	0.0
+"Abnormal scrotal rugation"	0.0	1.0	0.0	0.0
+"Abnormality of prenatal development or birth"	1.0	0.0	1.0	0.0
+"Hypervolemia"	0.0	0.0	1.0	0.0
+"Abnormal circulating aldosterone"	0.0	0.0	1.0	0.0
+"Abnormality of hair growth rate"	0.0	1.0	1.0	0.0

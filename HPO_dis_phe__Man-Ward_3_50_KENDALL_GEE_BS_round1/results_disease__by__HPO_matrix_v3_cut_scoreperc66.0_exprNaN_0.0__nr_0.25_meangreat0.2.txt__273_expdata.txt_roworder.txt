@@ -1,0 +1,5 @@
+"x"
+"1" "Pyle.metaphyseal.dysplasia"
+"2" "Brachyolmia.amelogenesis.imper"
+"3" "Spondyloepiphyseal.Dysplasia.."
+"4" "Myotonia.With.Skeletal.Abnorma"

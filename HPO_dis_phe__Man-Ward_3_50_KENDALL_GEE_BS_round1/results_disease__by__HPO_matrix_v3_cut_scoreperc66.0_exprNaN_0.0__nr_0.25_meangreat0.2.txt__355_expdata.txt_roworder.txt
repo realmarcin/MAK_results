@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.2924"
+"2" "Isolated.polycystic.liver.dise"
+"3" "Pelvis.shoulder.dysplasia"
+"4" "Currarino.triad"
+"5" "Familial.caudal.dysgenesis"

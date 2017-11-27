@@ -1,0 +1,15 @@
+	"Kenny-Caffey Syndrome, Type 2"	"holoprosencephaly 7"	"Chromosome 3Q29 Duplication Syndrome"	"Chromosome 15Q25 Deletion Syndrome"	"Adams-Oliver syndrome 3"	"Chops Syndrome"	"Acrofacial Dysostosis, Cincinnati Type"	"Immunodeficiency 49"
+"Macrocephaly"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Long face"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Downslanted palpebral fissures"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Round face"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Short nose"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Bulbous nose"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pes planus"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Blepharophimosis"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Obesity"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Short palpebral fissure"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Low posterior hairline"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Multiple palmar creases"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Large eyes"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

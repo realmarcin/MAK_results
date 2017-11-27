@@ -1,0 +1,15 @@
+	"DECIPHER:21"	"Absent Eyebrows and Eyelashes With Mental Retardation"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Lowry-MacLean syndrome"	"Ring chromosome 1"	"Orphanet:2985"	"Orphanet:999"
+"Intellectual disability"	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Failure to thrive"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Encephalocele"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Thin skin"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Glaucoma"	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Absent eyelashes"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Absent eyebrow"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Sparse hair"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Sparse and thin eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypotrichosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Cranium bifidum occultum"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Progressive spastic quadriplegia"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Spinalarachnoid cyst"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Narrow nasal tip"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Elevated serum creatine phosphokinase"
+"2" "Arrhythmia"
+"3" "Hypertriglyceridemia"
+"4" "Gait disturbance"
+"5" "Increased circulating low-density lipoprotein levels"

@@ -1,0 +1,6 @@
+"x"
+"1" "Alport.Syndrome..Autosomal.Dom"
+"2" "autosomal.recessive.Alport.syn"
+"3" "X.linked.Alport.syndrome"
+"4" "X.linked.diffuse.leiomyomatosi"
+"5" "Azotemia..Familial"

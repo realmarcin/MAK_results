@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Cardiomyopathy"
+"3" "Left ventricular hypertrophy"
+"4" "Generalized tonic-clonic seizures"
+"5" "Decreased muscle glycogen content"

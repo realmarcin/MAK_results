@@ -1,0 +1,8 @@
+"x"
+"1" "MYP2"
+"2" "MYP3"
+"3" "MYP5"
+"4" "Sinus.Node.Disease.and.Myopia"
+"5" "MYP19"
+"6" "Myopia.21..Autosomal.Dominant"
+"7" "Myopia.25..Autosomal.Dominant."

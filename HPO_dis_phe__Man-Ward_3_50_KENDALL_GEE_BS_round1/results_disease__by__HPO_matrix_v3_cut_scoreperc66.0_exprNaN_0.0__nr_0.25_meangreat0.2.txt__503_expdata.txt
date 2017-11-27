@@ -1,0 +1,35 @@
+	"autosomal dominant chondrodysplasia punctata"	"Singleton-Merten dysplasia"	"Multicentric Osteolysis, Nodulosis, and Arthropathy"	"Orphanet:79133"
+"Abnormality of the thorax"	0.0	0.0	1.0	0.0
+"Talipes equinovarus"	1.0	1.0	0.0	0.0
+"Thickened skin"	0.0	0.0	1.0	0.0
+"Hirsutism"	0.0	0.0	1.0	0.0
+"Kyphoscoliosis"	0.0	0.0	1.0	0.0
+"Vertebral compression fractures"	0.0	0.0	1.0	0.0
+"HP:0003593"	0.0	0.0	1.0	0.0
+"Cataract"	1.0	0.0	0.0	0.0
+"Subcutaneous nodule"	0.0	0.0	1.0	0.0
+"Hypermelanotic macule"	0.0	0.0	1.0	0.0
+"Camptodactyly of toe"	0.0	0.0	1.0	0.0
+"Sparse hair"	1.0	0.0	0.0	1.0
+"Abnormality of the ear"	0.0	0.0	1.0	0.0
+"Coarse hair"	1.0	0.0	0.0	0.0
+"Hypoplasia of the nasal bone"	1.0	0.0	0.0	0.0
+"Hyperkeratosis with erythema"	1.0	0.0	0.0	0.0
+"Moderate postnatal growth retardation"	1.0	0.0	0.0	0.0
+"Vitamin K deficiency"	1.0	0.0	0.0	0.0
+"Gingival overgrowth"	0.0	0.0	1.0	0.0
+"Broad metatarsal"	0.0	0.0	1.0	0.0
+"Delayed closure of the anterior fontanelle"	0.0	0.0	1.0	0.0
+"Antinuclear antibody positivity"	0.0	0.0	1.0	0.0
+"Protrusio acetabuli"	0.0	0.0	1.0	0.0
+"Narrow nasal bridge"	0.0	0.0	1.0	0.0
+"Wrist flexion contracture"	0.0	0.0	1.0	0.0
+"Interphalangeal joint contracture of finger"	0.0	0.0	1.0	0.0
+"Sclerotic cranial sutures"	0.0	0.0	1.0	0.0
+"Widened metacarpal shaft"	0.0	0.0	1.0	0.0
+"Thin metacarpal cortices"	0.0	0.0	1.0	0.0
+"Interphalangeal joint erosions"	0.0	0.0	1.0	0.0
+"Peripheral opacification of the cornea"	0.0	0.0	1.0	0.0
+"Thin metatarsal cortices"	0.0	0.0	1.0	0.0
+"Ankylosis of feet small joints"	0.0	0.0	1.0	0.0
+"Distal tapering of metatarsals"	0.0	0.0	1.0	0.0

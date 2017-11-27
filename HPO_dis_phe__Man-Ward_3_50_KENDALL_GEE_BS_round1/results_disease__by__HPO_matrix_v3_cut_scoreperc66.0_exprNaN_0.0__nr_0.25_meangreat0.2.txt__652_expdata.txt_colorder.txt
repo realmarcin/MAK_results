@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Progressive calcification of costochondral cartilage"
+"3" "Abnormal calcification of the carpal bones"
+"4" "Triangular shaped distal phalanges of the hand"

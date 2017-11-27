@@ -1,0 +1,5 @@
+"x"
+"1" "Congenital.stationary.night.bl"
+"2" "Night.Blindness..Congenital.St"
+"3" "Oguchi.Disease.1"
+"4" "MYP18"

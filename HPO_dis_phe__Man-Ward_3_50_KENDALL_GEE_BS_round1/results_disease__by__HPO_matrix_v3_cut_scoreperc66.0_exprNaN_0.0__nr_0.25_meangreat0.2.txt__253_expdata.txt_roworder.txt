@@ -1,0 +1,5 @@
+"x"
+"1" "Spinal.Muscular.Atrophy..Dista"
+"2" "Myopathy..Areflexia..Respirato"
+"3" "Bethlem.myopathy.1"
+"4" "Autosomal.dominant.congenital."

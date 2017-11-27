@@ -1,0 +1,6 @@
+"x"
+"1" "Diaphragmatic paralysis"
+"2" "Urinary retention"
+"3" "Cranial nerve paralysis"
+"4" "Cerebral palsy"
+"5" "Mydriasis"

@@ -1,0 +1,11 @@
+	"Ataxia-pancytopenia syndrome"	"Spinocerebellar ataxia 2"	"Charcot-Marie-Tooth disease X-linked dominant 1"	"Charcot-Marie-Tooth disease X-linked recessive 5"	"Laryngeal Abductor Paralysis With Cerebellar Ataxia and Motor Neuropathy"	"Partial Lipodystrophy, Congenital Cataracts, and Neurodegeneration Syndrome"	"spinocerebellar ataxia type 18"	"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract"	"Orphanet:2585"	"Orphanet:643"
+"Sensorineural hearing impairment"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0003828"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Polyneuropathy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Dysarthria"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Onion bulb formation"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Segmental peripheral demyelination/remyelination"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0011463"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Rod-cone dystrophy"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Subcapsular cataract"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Sensorimotor neuropathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

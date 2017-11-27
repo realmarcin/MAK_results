@@ -1,0 +1,6 @@
+"x"
+"1" "Klippel.Trenaunay.syndrome"
+"2" "Incisors..Shovel.Shaped"
+"3" "Alopecia.totalis"
+"4" "Pili.bifurcati"
+"5" "Trichodysplasia.amelogenesis.i"

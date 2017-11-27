@@ -1,0 +1,6 @@
+	"Holt-Oram Syndrome"	"IVIC syndrome"	"Radial hypoplasia-triphalangeal thumbs-hypospadias-maxillary diastema syndrome"	"Radial ray hypoplasia-choanal atresia syndrome"	"VATER association"	"achondrogenesis type IA"	"Tarp Syndrome"	"Fanconi anemia, complementation group O"	"Fanconi anemia, complementation group P"	"Rothmund-Thomson syndrome type 2"	"Orphanet:2252"	"Orphanet:233"	"Orphanet:245"	"Orphanet:3015"	"Orphanet:3016"	"Orphanet:3412"
+"Hypoplasia of the radius"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoplasia of the ulna"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Fibular hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short tibia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia of the ulna"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

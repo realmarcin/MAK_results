@@ -1,0 +1,7 @@
+"x"
+"1" "Combined.Inflammatory.and.Immu"
+"2" "Autosomal.dominant.severe.cong"
+"3" "Immunodeficiency.due.to.interl"
+"4" "Neutrophil.Immunodeficiency.Sy"
+"5" "Immunodeficiency.13"
+"6" "Immunodeficiency.36"

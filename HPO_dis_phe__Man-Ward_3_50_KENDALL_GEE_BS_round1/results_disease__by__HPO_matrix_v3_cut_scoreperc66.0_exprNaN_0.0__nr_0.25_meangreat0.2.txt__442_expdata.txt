@@ -1,0 +1,14 @@
+	"X-linked spinocerebellar ataxia type 3"	"Pontocerebellar hypoplasia type 1A"	"Pontocerebellar Hypoplasia, Type 6"	"Lethal neonatal spasticity-epileptic encephalopathy syndrome"	"Encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome"	"mitochondrial complex III deficiency nuclear type 4"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 14"	"Mental Retardation, Autosomal Recessive 49"	"Combined oxidative phosphorylation defect type 26"	"Coenzyme Q10 Deficiency, Primary, 8; COQ10D8"
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Oligohydramnios"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Left ventricular hypertrophy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Muscle weakness"	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Hyperreflexia"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Weak cry"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar hypoplasia"	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Respiratory insufficiency"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Muscular dystrophy"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bradycardia"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the pons"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hyperalaninemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Popliteal.Pterygium.Syndrome"
+"2" "Bartsocas.Papas.syndrome"
+"3" "Orphanet.1300"
+"4" "Orphanet.2554"
+"5" "Orphanet.3107"

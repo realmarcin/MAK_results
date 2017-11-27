@@ -1,0 +1,8 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Chitayat Syndrome; CHYTS"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Anteverted nares"	0.0	0.0	1.0	0.0	0.0
+"Interstitial pulmonary abnormality"	0.0	0.0	1.0	0.0	0.0
+"Generalized hypotonia"	0.0	0.0	1.0	0.0	0.0
+"Bronchomalacia"	0.0	0.0	1.0	0.0	0.0
+"Short columella"	0.0	0.0	1.0	0.0	0.0
+"Tracheomalacia"	0.0	0.0	1.0	0.0	0.0

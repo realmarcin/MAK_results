@@ -1,0 +1,6 @@
+	"Canavan disease"	"Orphanet:13"	"Paternal uniparental disomy of chromosome 1"	"Maternal uniparental disomy of chromosome 1"	"Orphanet:85165"
+"Opisthotonus"	1.0	1.0	0.0	0.0	0.0
+"Delayed closure of the anterior fontanelle"	1.0	0.0	0.0	1.0	0.0
+"Generalized seizures"	1.0	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia involving the central nervous system"	1.0	0.0	0.0	0.0	0.0
+"Brain atrophy"	1.0	0.0	1.0	0.0	1.0

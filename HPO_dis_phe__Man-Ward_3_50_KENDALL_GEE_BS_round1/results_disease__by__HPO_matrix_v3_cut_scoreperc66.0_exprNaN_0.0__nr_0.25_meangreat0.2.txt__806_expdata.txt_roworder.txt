@@ -1,0 +1,7 @@
+"x"
+"1" "WM1"
+"2" "Lymphoma..Hodgkin..Classic"
+"3" "Nose..Anomalous.Shape.of"
+"4" "Immunodeficiency.With.Defectiv"
+"5" "Asthma..susceptibility.to"
+"6" "X46.Xy.Gonadal.Dysgenesis..Par"

@@ -1,0 +1,5 @@
+	"Parietal Foramina With Cleidocranial Dysplasia"	"Currarino triad"	"Disorganization, Mouse, Homolog of"	"Familial caudal dysgenesis"	"Cleft lip/palate-deafness-sacral lipoma syndrome"	"X-linked microcephaly-growth retardation-prognathism-cryptorchidism syndrome"
+"Dermoid cyst"	1.0	0.0	0.0	1.0	0.0	0.0
+"Anterior sacral meningocele"	0.0	1.0	0.0	1.0	0.0	0.0
+"Hemisacrum"	0.0	1.0	0.0	1.0	0.0	0.0
+"Sacral lipoma"	0.0	0.0	1.0	1.0	1.0	1.0

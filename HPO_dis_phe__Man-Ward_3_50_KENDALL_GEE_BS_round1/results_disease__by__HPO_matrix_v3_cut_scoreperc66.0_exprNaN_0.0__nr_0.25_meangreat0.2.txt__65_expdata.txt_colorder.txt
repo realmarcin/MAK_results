@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertelorism"
+"2" "Encephalocele"
+"3" "Bifid nose"
+"4" "Broad nasal tip"
+"5" "Meningocele"
+"6" "Thick nasal alae"

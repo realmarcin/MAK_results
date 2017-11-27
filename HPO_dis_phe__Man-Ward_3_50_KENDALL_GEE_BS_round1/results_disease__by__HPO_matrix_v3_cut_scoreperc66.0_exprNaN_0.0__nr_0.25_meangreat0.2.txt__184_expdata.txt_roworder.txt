@@ -1,0 +1,7 @@
+"x"
+"1" "Reynolds.syndrome"
+"2" "Hypophosphatemic.Rickets.With."
+"3" "Hypocalcemic.vitamin.D.depende"
+"4" "Vitamin.D.Dependent.Rickets..T"
+"5" "Vitamin.d.hydroxylation.defici"
+"6" "Paget.disease.of.bone.6"

@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.2717"
+"2" "Manitoba.Oculotrichoanal.Syndr"
+"3" "Hyperopia..High"
+"4" "Deaf.blind.hypopigmentation.sy"
+"5" "Supernumerary.nostril"
+"6" "Orphanet.168"
+"7" "Ocular.coloboma"

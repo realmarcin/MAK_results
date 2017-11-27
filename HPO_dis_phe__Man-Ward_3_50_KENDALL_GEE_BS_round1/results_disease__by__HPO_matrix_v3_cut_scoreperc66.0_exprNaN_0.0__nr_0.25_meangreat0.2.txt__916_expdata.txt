@@ -1,0 +1,13 @@
+	"Incisors, Shovel-Shaped"	"Klippel-Trenaunay syndrome"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"Lymphedema"	0.0	1.0	0.0	0.0	0.0
+"Syndactyly"	0.0	1.0	0.0	0.0	0.0
+"Hand oligodactyly"	0.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	0.0	0.0	0.0
+"Glaucoma"	0.0	1.0	0.0	0.0	0.0
+"Hand polydactyly"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of blood and blood-forming tissues"	0.0	1.0	0.0	0.0	0.0
+"Hemihypertrophy"	0.0	1.0	0.0	0.0	0.0
+"Macrodactyly"	0.0	1.0	0.0	0.0	0.0
+"Arteriovenous fistula"	0.0	1.0	0.0	0.0	0.0
+"Hyperpigmented nevi and streak"	0.0	1.0	0.0	0.0	0.0
+"Lymphangioma"	0.0	1.0	0.0	0.0	0.0

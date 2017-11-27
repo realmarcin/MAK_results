@@ -1,0 +1,23 @@
+	"Incisors, Shovel-Shaped"	"Ectodermal Dysplasia With Mental Retardation and Syndactyly"	"Enamel Hypoplasia, Cataracts, and Aqueductal Stenosis"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"2-3 toe syndactyly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Wide nasal bridge"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ventriculomegaly"	0.0	1.0	1.0	0.0	0.0	0.0
+"Headache"	0.0	1.0	1.0	0.0	0.0	0.0
+"Dental crowding"	0.0	1.0	1.0	0.0	0.0	0.0
+"Dry skin"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ectodermal dysplasia"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hypoplasia of dental enamel"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypohidrosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"3-4 finger syndactyly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal facial shape"	0.0	1.0	0.0	0.0	0.0	0.0
+"Open mouth"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the ear"	0.0	1.0	0.0	0.0	0.0	0.0
+"Sparse and thin eyebrow"	0.0	1.0	0.0	0.0	0.0	0.0
+"Onychogryposis of toenails"	0.0	1.0	0.0	0.0	0.0	0.0
+"Subcapsular cataract"	0.0	1.0	1.0	0.0	0.0	0.0
+"Shovel-shaped maxillary central incisors"	1.0	1.0	1.0	0.0	0.0	0.0
+"Long palpebral fissure"	0.0	1.0	0.0	0.0	0.0	0.0
+"Aqueductal stenosis"	0.0	1.0	1.0	0.0	0.0	0.0
+"Aplasia cutis congenita of scalp"	0.0	1.0	0.0	0.0	0.0	0.0

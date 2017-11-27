@@ -1,0 +1,6 @@
+"x"
+"1" "Dermatofibrosis.lenticularis.d"
+"2" "Nevus.Anemicus"
+"3" "Elastosis.perforans.serpiginos"
+"4" "VAMAS6"
+"5" "Becker.Nevus.Syndrome"

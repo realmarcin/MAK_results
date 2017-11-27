@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Hyperactivity"
+"3" "Short philtrum"
+"4" "Round face"
+"5" "Stereotypy"
+"6" "Esotropia"

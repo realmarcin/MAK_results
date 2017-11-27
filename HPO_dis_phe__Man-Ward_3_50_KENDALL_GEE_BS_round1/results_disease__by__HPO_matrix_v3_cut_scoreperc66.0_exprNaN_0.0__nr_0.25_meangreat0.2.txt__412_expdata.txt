@@ -1,0 +1,13 @@
+	"Gamstorp-Wohlfart syndrome"	"RRNS"	"Mitochondrial Dna Depletion Syndrome 7 (Hepatocerebral Type)"	"Microcephaly, Seizures, and Developmental Delay"	"infantile cerebellar-retinal degeneration"	"autosomal recessive spinocerebellar ataxia 20"	"Charcot-Marie-Tooth Disease, Axonal, Type 2X"	"Orphanet:84142"
+"Hyperactivity"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Intellectual disability, severe"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Skeletal muscle atrophy"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Severe global developmental delay"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Cerebral cortical atrophy"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Athetosis"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Cortical gyral simplification"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Progressive microcephaly"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Epileptic encephalopathy"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Demyelinating peripheral neuropathy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

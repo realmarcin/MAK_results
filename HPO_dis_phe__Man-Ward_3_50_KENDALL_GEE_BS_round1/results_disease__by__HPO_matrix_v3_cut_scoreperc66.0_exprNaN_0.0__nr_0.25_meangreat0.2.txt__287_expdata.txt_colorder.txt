@@ -1,0 +1,7 @@
+"x"
+"1" "Congenital diaphragmatic hernia"
+"2" "Neonatal death"
+"3" "HP:0000007"
+"4" "Abnormal blistering of the skin"
+"5" "Palmoplantar blistering"
+"6" "Agenesis of the diaphragm"

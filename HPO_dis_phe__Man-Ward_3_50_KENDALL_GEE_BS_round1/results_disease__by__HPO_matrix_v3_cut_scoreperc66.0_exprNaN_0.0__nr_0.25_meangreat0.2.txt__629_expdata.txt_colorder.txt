@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Cartilaginous ossification of nose"
+"3" "Premature fusion of phalangeal epiphyses"
+"4" "Cartilaginous ossification of larynx"

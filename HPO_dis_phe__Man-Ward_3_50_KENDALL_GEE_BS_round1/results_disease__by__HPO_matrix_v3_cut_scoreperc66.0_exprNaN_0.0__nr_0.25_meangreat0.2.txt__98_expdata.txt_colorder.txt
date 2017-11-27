@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Progressive sensorineural hearing impairment"
+"3" "Progressive hearing impairment"
+"4" "Hearing impairment"
+"5" "HP:0003621"
+"6" "HP:0001427"

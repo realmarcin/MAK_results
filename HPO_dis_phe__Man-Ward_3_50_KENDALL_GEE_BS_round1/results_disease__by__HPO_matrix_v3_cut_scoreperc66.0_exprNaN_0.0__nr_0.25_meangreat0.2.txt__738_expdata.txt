@@ -1,0 +1,11 @@
+	"Distal monosomy 17q"	"Orphanet:2092"	"Orphanet:2141"	"Orphanet:2505"	"Humero-radio-ulnar synostosis"	"Orphanet:64755"	"Orphanet:744"	"Orphanet:813"	"Klippel-Tr��naunay syndrome"	"Brachydactyly type E"
+"Macrodactyly"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Lymphangioma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Epibulbar dermoid"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Capillary hemangiomas"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Neoplasm of the lung"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Lower limb asymmetry"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Arteriovenous malformation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Ovarian neoplasm"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Visceral angiomatosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Upper limb asymmetry"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

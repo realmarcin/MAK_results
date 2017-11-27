@@ -1,0 +1,17 @@
+	"Maternally-inherited cardiomyopathy and hearing loss"	"Orphanet:257"	"Orphanet:2743"	"Short stature-deafness-neutrophil dysfunction-dysmorphism syndrome"	"Orphanet:494"
+"Ptosis"	0.0	1.0	1.0	0.0	0.0
+"HP:0001596"	0.0	1.0	0.0	0.0	1.0
+"Papule"	0.0	1.0	0.0	0.0	1.0
+"Fatigue"	1.0	1.0	0.0	0.0	0.0
+"Dermal atrophy"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of dental enamel"	0.0	1.0	0.0	0.0	0.0
+"Hypoplastic fingernail"	0.0	1.0	0.0	0.0	0.0
+"Aphasia"	0.0	1.0	0.0	0.0	0.0
+"Echolalia"	0.0	1.0	0.0	0.0	0.0
+"Mutism"	0.0	1.0	0.0	1.0	0.0
+"Dysphasia"	0.0	1.0	0.0	0.0	0.0
+"Fatigable weakness"	0.0	1.0	0.0	0.0	0.0
+"Hyperconvex fingernails"	0.0	1.0	0.0	0.0	0.0
+"Oculomotor nerve palsy"	0.0	1.0	1.0	0.0	0.0
+"Skin vesicle"	0.0	1.0	0.0	0.0	0.0
+"Muscle flaccidity"	0.0	1.0	0.0	0.0	0.0

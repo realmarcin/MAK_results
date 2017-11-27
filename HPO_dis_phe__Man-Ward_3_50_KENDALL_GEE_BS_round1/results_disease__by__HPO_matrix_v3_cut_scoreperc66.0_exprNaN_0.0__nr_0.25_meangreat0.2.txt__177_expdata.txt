@@ -1,0 +1,12 @@
+	"Isolated thyrotropin-releasing hormone deficiency"	"Cataract, Ataxia, Short Stature, and Mental Retardation"	"Gurrieri Syndrome"	"5q35 microduplication syndrome"
+"Intellectual disability"	1.0	1.0	1.0	1.0
+"Constipation"	1.0	0.0	0.0	0.0
+"Hoarse voice"	1.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	1.0	0.0	1.0	1.0
+"Skeletal dysplasia"	0.0	0.0	1.0	0.0
+"Dry skin"	1.0	0.0	0.0	0.0
+"Muscle weakness"	1.0	1.0	0.0	0.0
+"Hypoplastic iliac wing"	0.0	0.0	1.0	0.0
+"Hypoplastic acetabulae"	0.0	0.0	1.0	0.0
+"Hypothalamic hypothyroidism"	1.0	0.0	0.0	0.0
+"Decreased anterioposterior diameter of lumbar vertebral bodies"	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+	"Frontonasal Dysplasia 1"	"Acrofrontofacionasal dysostosis"	"Frontofacionasal Dysplasia"	"Hartsfield Syndrome"	"Orphanet:1791"	"Orphanet:2985"
+"Cranium bifidum occultum"	1.0	0.0	1.0	0.0	0.0	1.0
+"Frontal cutaneous lipoma"	1.0	0.0	1.0	0.0	0.0	0.0
+"S-shaped palpebral fissures"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the frontal bone"	0.0	0.0	1.0	1.0	0.0	0.0
+"Absent inner eyelashes"	0.0	0.0	1.0	0.0	1.0	0.0

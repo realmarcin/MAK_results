@@ -1,0 +1,7 @@
+	"Obesity due to leptin receptor gene deficiency"	"chromosome 22q13 duplication syndrome"	"Severe early-onset obesity-insulin resistance syndrome due to SH2B1 deficiency"	"Obesity due to SIM1 deficiency"
+"Delayed speech and language development"	0.0	0.0	1.0	0.0
+"Aggressive behavior"	1.0	0.0	1.0	0.0
+"Obesity"	1.0	0.0	1.0	1.0
+"Polyphagia"	1.0	1.0	1.0	1.0
+"Hyperinsulinemia"	0.0	0.0	1.0	1.0
+"No social interaction"	0.0	0.0	1.0	0.0

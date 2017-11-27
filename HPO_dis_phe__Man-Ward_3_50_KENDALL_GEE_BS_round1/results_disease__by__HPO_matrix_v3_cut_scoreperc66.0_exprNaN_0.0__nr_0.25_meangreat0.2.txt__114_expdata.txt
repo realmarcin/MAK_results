@@ -1,0 +1,8 @@
+	"Tooth Agenesis, Selective, 1"	"Book Syndrome"	"Failure of tooth eruption, primary"	"HYPRPP"	"NDNC5"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Hypodontia"	1.0	1.0	1.0	0.0	0.0
+"Premature graying of hair"	0.0	1.0	0.0	0.0	0.0
+"Palmoplantar hyperhidrosis"	0.0	1.0	0.0	1.0	1.0
+"Persistence of primary teeth"	0.0	0.0	1.0	0.0	0.0
+"Failure of eruption of permanent teeth"	0.0	0.0	1.0	0.0	0.0
+"Onycholysis of distal fingernails"	0.0	0.0	0.0	0.0	1.0

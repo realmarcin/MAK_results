@@ -1,0 +1,6 @@
+"x"
+"1" "Polydipsia"
+"2" "Polyuria"
+"3" "Hypokalemia"
+"4" "Tetany"
+"5" "Hypomagnesemia"

@@ -1,0 +1,6 @@
+"x"
+"1" "SPGF2"
+"2" "SCA32"
+"3" "Spermatogenic.Failure.10"
+"4" "Spermatogenic.Failure.11"
+"5" "Spermatogenic.Failure.12"

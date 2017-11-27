@@ -1,0 +1,6 @@
+	"CPI"	"Cri-Du-Chat Syndrome"	"Amelogenesis Imperfecta, Type 3A"	"Amelogenesis imperfecta, type IC"	"Amelogenesis imperfecta, type 1E"	"Hypophosphatemic Rickets, X-Linked Dominant"	"Auriculocondylar Syndrome 1"	"Amelogenesis imperfecta, hypomaturation type, IIA2"	"amelogenesis imperfecta hypomaturation type 2A4"	"amelogenesis imperfecta type 1H"	"Amelogenesis Imperfecta, Hypomaturation Type, Iia6; AI2A6"	"Orphanet:1028"	"Orphanet:1031"	"Orphanet:1946"
+"Amelogenesis imperfecta"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Anterior open-bite malocclusion"	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Anterior open bite"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Hypomineralization of enamel"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Yellow-brown discoloration of the teeth"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0

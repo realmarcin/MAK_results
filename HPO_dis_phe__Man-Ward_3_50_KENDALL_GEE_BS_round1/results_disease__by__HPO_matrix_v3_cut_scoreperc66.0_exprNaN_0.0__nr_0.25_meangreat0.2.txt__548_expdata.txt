@@ -1,0 +1,10 @@
+	"Muscular Dystrophy, Limb-Girdle, Type 2G"	"Myopathy, Distal, With Anterior Tibial Onset"	"Limb-girdle muscular dystrophy, type 2D"	"Congenital muscular dystrophy-dystroglycanopathy without mental retardation, type B4"
+"Foot dorsiflexor weakness"	1.0	0.0	0.0	0.0
+"Rimmed vacuoles"	1.0	0.0	0.0	0.0
+"Areflexia of lower limbs"	1.0	0.0	0.0	0.0
+"Distal lower limb muscle weakness"	1.0	0.0	0.0	0.0
+"Proximal muscle weakness in lower limbs"	1.0	0.0	0.0	0.0
+"Muscular dystrophy"	1.0	0.0	0.0	0.0
+"Distal lower limb amyotrophy"	1.0	0.0	0.0	0.0
+"Proximal upper limb amyotrophy"	1.0	0.0	0.0	0.0
+"Proximal muscle weakness in upper limbs"	1.0	0.0	0.0	0.0

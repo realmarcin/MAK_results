@@ -1,0 +1,9 @@
+	"Behcet's syndrome"	"Papular xanthoma"	"Orphanet:41"	"Superficial pemphigus"	"Circumscribed palmoplantar hypokeratosis"	"Vulvovaginal gingival syndrome"
+"Ridged nail"	0.0	0.0	0.0	0.0	0.0	1.0
+"Erythema"	1.0	0.0	0.0	0.0	0.0	1.0
+"Oral ulcer"	1.0	0.0	0.0	0.0	0.0	1.0
+"Gingivitis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Pain"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of female external genitalia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Food intolerance"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of tumor necrosis factor secretion"	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,15 @@
+	"Hyperprolinemia, Type 1"	"Mental Retardation, X-Linked 102"	"Cerebral Palsy, Spastic Quadriplegic, 1"	"Deficiency of beta-ureidopropionase"	"Pontocerebellar hypoplasia, type 2e"	"Epileptic Encephalopathy, Early Infantile, 34; EIEE34"	"Dyskinesia, seizures, and intellectual developmental disorder"
+"Anal atresia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Neonatal hypotonia"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Inability to walk"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Scoliosis"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Flexion contracture"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Dystonia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bifid scrotum"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Generalized tonic-clonic seizures with focal onset"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Delayed CNS myelination"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Excessive salivation"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Bladder exstrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Status epilepticus"	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Hemiclonic seizures"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

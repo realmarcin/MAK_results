@@ -1,0 +1,26 @@
+	"Bloom syndrome"	"Common variable immunodeficiency 2"	"Hyper-Ige Recurrent Infection Syndrome, Autosomal Recessive"	"Orphanet:125"
+"High pitched voice"	1.0	0.0	0.0	1.0
+"Malar flattening"	1.0	0.0	0.0	1.0
+"Intrauterine growth retardation"	1.0	0.0	0.0	1.0
+"Intellectual disability, mild"	1.0	0.0	0.0	1.0
+"Neoplasm"	0.0	1.0	1.0	0.0
+"Eosinophilia"	0.0	0.0	1.0	0.0
+"Asthma"	0.0	0.0	1.0	0.0
+"HP:0003593"	0.0	0.0	1.0	0.0
+"Eczema"	0.0	0.0	1.0	0.0
+"Cutaneous photosensitivity"	1.0	0.0	0.0	1.0
+"Protruding ear"	1.0	0.0	0.0	1.0
+"Azoospermia"	1.0	0.0	0.0	1.0
+"Dolichocephaly"	1.0	0.0	0.0	1.0
+"HP:0008897"	1.0	0.0	0.0	1.0
+"Narrow face"	1.0	0.0	0.0	1.0
+"Hand polydactyly"	1.0	0.0	0.0	1.0
+"Atopic dermatitis"	0.0	0.0	1.0	0.0
+"Squamous cell carcinoma"	1.0	0.0	0.0	1.0
+"Facial telangiectasia in butterfly midface distribution"	1.0	0.0	0.0	1.0
+"Hemiplegia"	0.0	0.0	1.0	0.0
+"Recurrent sinopulmonary infections"	0.0	0.0	1.0	0.0
+"Spotty hyperpigmentation"	1.0	0.0	0.0	1.0
+"Subarachnoid hemorrhage"	0.0	0.0	1.0	0.0
+"Decreased fertility in females"	1.0	0.0	0.0	1.0
+"Cerebral vasculitis"	0.0	0.0	1.0	0.0

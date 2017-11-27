@@ -1,0 +1,18 @@
+	"Melanosis, Neurocutaneous"	"Mend Syndrome"	"Orphanet:199276"	"Orphanet:2481"
+"Seizures"	1.0	1.0	1.0	1.0
+"Arachnoid cyst"	1.0	0.0	1.0	0.0
+"Thickened skin"	0.0	0.0	0.0	1.0
+"Mental deterioration"	1.0	0.0	0.0	0.0
+"Venous thrombosis"	0.0	0.0	0.0	1.0
+"Abnormality of retinal pigmentation"	0.0	0.0	0.0	1.0
+"Cranial nerve paralysis"	1.0	0.0	0.0	1.0
+"Dandy-Walker malformation"	1.0	1.0	0.0	1.0
+"Death in infancy"	1.0	0.0	0.0	1.0
+"Meningocele"	0.0	0.0	0.0	1.0
+"Generalized hyperpigmentation"	0.0	0.0	0.0	1.0
+"Encephalitis"	0.0	0.0	0.0	1.0
+"Renal hypoplasia/aplasia"	0.0	0.0	0.0	1.0
+"Abnormality of neuronal migration"	0.0	0.0	0.0	1.0
+"Melanoma"	1.0	0.0	0.0	1.0
+"Numerous congenital melanocytic nevi"	1.0	0.0	0.0	1.0
+"Choroid plexus papilloma"	1.0	0.0	0.0	0.0

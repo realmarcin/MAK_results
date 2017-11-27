@@ -1,0 +1,7 @@
+"x"
+"1" "CMM1"
+"2" "Melanoma..Cutaneous.Malignant."
+"3" "Tumor.Predisposition.Syndrome"
+"4" "Melanoma..Cutaneous.Malignant."
+"5" "Melanoma.Astrocytoma.Syndrome"
+"6" "Melanoma..Cutaneous.Malignant."

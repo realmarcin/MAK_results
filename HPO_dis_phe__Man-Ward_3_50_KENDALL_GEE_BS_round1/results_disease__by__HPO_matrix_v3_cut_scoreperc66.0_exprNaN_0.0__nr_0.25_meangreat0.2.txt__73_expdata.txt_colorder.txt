@@ -1,0 +1,6 @@
+"x"
+"1" "Focal seizures with impairment of consciousness or awareness"
+"2" "Focal seizures without impairment of consciousness or awareness"
+"3" "Visual auras"
+"4" "Simple partial occipital seizures"
+"5" "Deja vu"

@@ -1,0 +1,6 @@
+"x"
+"1" "exfoliation.syndrome"
+"2" "Orphanet.94058"
+"3" "Stromal.keratitis"
+"4" "Microspherophakia.And.Or.Megal"
+"5" "Tyrosinemia.type.2"

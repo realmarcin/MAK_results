@@ -1,0 +1,6 @@
+"x"
+"1" "Diffuse axonal swelling"
+"2" "Abnormal cartilage matrix"
+"3" "Neuronal loss in the cerebral cortex"
+"4" "Pallor of dorsal columns of the spinal cord"
+"5" "Small basal ganglia"

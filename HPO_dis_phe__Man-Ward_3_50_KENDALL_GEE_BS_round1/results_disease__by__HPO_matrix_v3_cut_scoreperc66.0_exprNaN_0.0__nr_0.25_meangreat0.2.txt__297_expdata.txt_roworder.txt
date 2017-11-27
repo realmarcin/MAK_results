@@ -1,0 +1,7 @@
+"x"
+"1" "OMIM.300290"
+"2" "Intrauterine.Growth.Retardatio"
+"3" "Meier.Gorlin.syndrome.2"
+"4" "Meier.Gorlin.Syndrome.3"
+"5" "Meier.Gorlin.Syndrome.4"
+"6" "Meier.Gorlin.syndrome.5"

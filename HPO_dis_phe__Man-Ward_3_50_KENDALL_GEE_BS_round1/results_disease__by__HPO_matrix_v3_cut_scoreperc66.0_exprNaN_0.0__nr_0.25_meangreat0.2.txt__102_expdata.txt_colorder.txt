@@ -1,0 +1,6 @@
+"x"
+"1" "Spastic ataxia"
+"2" "Congenital miosis"
+"3" "Loss of Purkinje cells in the cerebellar vermis"
+"4" "Paranoia"
+"5" "Lafora bodies"

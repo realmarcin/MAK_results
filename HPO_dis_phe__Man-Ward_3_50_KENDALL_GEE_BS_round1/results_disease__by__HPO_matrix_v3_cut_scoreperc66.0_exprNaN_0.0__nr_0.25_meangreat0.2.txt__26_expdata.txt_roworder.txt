@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.859"
+"2" "transcobalamin.II.deficiency"
+"3" "Immunodeficiency.with.hyper.Ig"
+"4" "Orphanet.125"

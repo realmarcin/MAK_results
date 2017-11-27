@@ -1,0 +1,10 @@
+	"Lambert syndrome"	"Beemer-Langer syndrome"	"Orphanet:1296"	"Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome"	"Triploidy"
+"Cryptorchidism"	0.0	0.0	0.0	1.0	1.0
+"Preauricular skin tag"	1.0	0.0	1.0	0.0	0.0
+"Inguinal hernia"	1.0	1.0	1.0	1.0	0.0
+"Jaundice"	1.0	0.0	1.0	0.0	0.0
+"Wide mouth"	1.0	0.0	1.0	0.0	1.0
+"Branchial anomaly"	0.0	0.0	1.0	0.0	0.0
+"Failure to thrive in infancy"	0.0	0.0	1.0	0.0	0.0
+"Decreased antibody level in blood"	0.0	0.0	1.0	0.0	0.0
+"Intrahepatic biliary atresia"	1.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Chorioretinal lacunae"
+"3" "Dilated third ventricle"
+"4" "Metastatic angiosarcoma"

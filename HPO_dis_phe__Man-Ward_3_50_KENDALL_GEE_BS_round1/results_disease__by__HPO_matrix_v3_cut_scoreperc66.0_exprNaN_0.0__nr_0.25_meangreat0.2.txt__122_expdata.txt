@@ -1,0 +1,15 @@
+	"Jacobsen syndrome"	"Orphanet:138"	"Orphanet:2308"	"Orphanet:84"
+"Cryptorchidism"	1.0	1.0	1.0	1.0
+"Pes planus"	0.0	0.0	1.0	1.0
+"Pachygyria"	0.0	0.0	1.0	0.0
+"Spina bifida"	0.0	0.0	1.0	1.0
+"Bone marrow hypocellularity"	0.0	0.0	1.0	0.0
+"Trigonocephaly"	1.0	0.0	1.0	0.0
+"Cleft eyelid"	1.0	1.0	1.0	0.0
+"Annular pancreas"	1.0	0.0	1.0	0.0
+"Ectropion"	0.0	0.0	1.0	0.0
+"Broad hallux phalanx"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the earlobes"	0.0	1.0	1.0	0.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	0.0	1.0	0.0
+"Toe clinodactyly"	0.0	0.0	1.0	0.0
+"Broad columella"	0.0	0.0	1.0	0.0

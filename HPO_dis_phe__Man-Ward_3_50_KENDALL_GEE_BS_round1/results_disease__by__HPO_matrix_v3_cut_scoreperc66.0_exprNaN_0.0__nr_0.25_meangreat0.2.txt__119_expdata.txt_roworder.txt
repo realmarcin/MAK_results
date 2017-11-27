@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.1508"
+"2" "Coxoauricular.syndrome"
+"3" "Mesomelic.Dysplasia..Savariray"
+"4" "Orphanet.85170"
+"5" "Orphanet.1318"

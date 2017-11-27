@@ -1,0 +1,18 @@
+	"Adducted Thumbs Syndrome"	"Congenital Disorder of Glycosylation, Type Ic"	"Microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome"	"Mental retardation, autosomal dominant 42"	"Primary cutis verticis gyrata"	"Orphanet:799"
+"Cleft palate"	1.0	0.0	0.0	1.0	0.0	0.0
+"Hydronephrosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Strabismus"	0.0	1.0	1.0	1.0	1.0	1.0
+"Thickened skin"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hemiparesis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Thrombocytopenia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the corpus callosum"	0.0	0.0	0.0	0.0	1.0	1.0
+"Porencephalic cyst"	0.0	0.0	0.0	0.0	0.0	1.0
+"Nevus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Reduced factor XI activity"	0.0	1.0	0.0	0.0	0.0	0.0
+"Impaired smooth pursuit"	0.0	0.0	0.0	1.0	0.0	0.0
+"Immunodeficiency"	0.0	0.0	1.0	0.0	0.0	0.0
+"Reduced antithrombin III activity"	0.0	1.0	0.0	0.0	0.0	0.0
+"Muscular hypotonia of the trunk"	0.0	1.0	1.0	0.0	0.0	0.0
+"Limb hypertonia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the cerebellum"	0.0	0.0	0.0	0.0	1.0	0.0
+"Elevated serum transaminases during infections"	0.0	1.0	0.0	0.0	0.0	0.0

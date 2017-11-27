@@ -1,0 +1,6 @@
+"x"
+"1" "Schopf.Schulz.Passarge.syndrom"
+"2" "Orphanet.50944"
+"3" "Adult.junctional.epidermolysis"
+"4" "Dyskeratosis.congenita..autoso"
+"5" "Ectodermal.Dysplasia.Short.Sta"

@@ -1,0 +1,6 @@
+"x"
+"1" "Inflammatory.skin.and.bowel.di"
+"2" "Papular.xanthoma"
+"3" "Orphanet.41"
+"4" "Superficial.pemphigus"
+"5" "Circumscribed.palmoplantar.hyp"

@@ -1,0 +1,7 @@
+"x"
+"1" "Thyrotoxic.Periodic.Paralysis."
+"2" "Thyrotoxic.periodic.paralysis."
+"3" "Incisors..Shovel.Shaped"
+"4" "Alopecia.totalis"
+"5" "Pili.bifurcati"
+"6" "Trichodysplasia.amelogenesis.i"

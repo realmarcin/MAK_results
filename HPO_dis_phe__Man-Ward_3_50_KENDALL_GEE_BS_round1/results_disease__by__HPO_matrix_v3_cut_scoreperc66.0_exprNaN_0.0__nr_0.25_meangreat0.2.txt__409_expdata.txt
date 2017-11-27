@@ -1,0 +1,16 @@
+	"Greig cephalopolysyndactyly syndrome"	"Malan overgrowth syndrome"	"Tenorio Syndrome"	"5q14.3 microdeletion syndrome"	"Orphanet:2710"
+"Seizures"	1.0	0.0	1.0	1.0	1.0
+"Delayed cranial suture closure"	1.0	0.0	1.0	0.0	0.0
+"Anxiety"	0.0	1.0	1.0	0.0	0.0
+"Thick eyebrow"	0.0	0.0	1.0	1.0	0.0
+"Osteopenia"	0.0	0.0	1.0	0.0	0.0
+"Pneumonia"	0.0	0.0	1.0	0.0	0.0
+"Macroglossia"	0.0	0.0	1.0	0.0	0.0
+"Clumsiness"	0.0	0.0	1.0	0.0	0.0
+"Gait disturbance"	0.0	0.0	1.0	0.0	1.0
+"Raynaud phenomenon"	0.0	0.0	1.0	0.0	0.0
+"Syncope"	0.0	0.0	1.0	0.0	0.0
+"Keratoconjunctivitis sicca"	0.0	0.0	1.0	0.0	0.0
+"Hypertrichosis"	0.0	0.0	1.0	0.0	0.0
+"Cerebral palsy"	0.0	0.0	1.0	0.0	0.0
+"Hypoinsulinemia"	0.0	0.0	1.0	0.0	0.0

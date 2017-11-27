@@ -1,0 +1,7 @@
+"x"
+"1" "Craniosynostosis.intracranial."
+"2" "Lissencephaly.2"
+"3" "Primary.autosomal.recessive.mi"
+"4" "Epilepsy..Photogenic..With.Spa"
+"5" "Saccharopinuria"
+"6" "Spastic.Diplegia.and.Mental.Re"

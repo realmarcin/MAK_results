@@ -1,0 +1,8 @@
+"x"
+"1" "Pes cavus"
+"2" "Hyporeflexia"
+"3" "Distal amyotrophy"
+"4" "Areflexia"
+"5" "Distal muscle weakness"
+"6" "Distal sensory impairment"
+"7" "Heterochromia iridis"

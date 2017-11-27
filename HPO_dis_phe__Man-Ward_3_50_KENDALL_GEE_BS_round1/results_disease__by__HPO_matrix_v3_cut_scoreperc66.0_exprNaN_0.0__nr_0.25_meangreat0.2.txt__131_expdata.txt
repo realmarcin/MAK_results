@@ -1,0 +1,6 @@
+	"DECIPHER:46"	"SHFLD1"	"Ectrodactyly and Ectodermal Dysplasia Without Cleft Lip/Palate"	"Split-Hand and Split-Foot With Hypodontia"	"Split-Hand/Foot Malformation 1"	"Patterson-Stevenson-Fontaine syndrome"	"Karsch-Neugebauer syndrome"	"Split-Hand With Obstructive Uropathy, Spina Bifida, and Diaphragmatic Defects"	"Tetramelic Monodactyly"	"Triphalangeal Thumbs With Brachyectrodactyly"	"Acro-renal-mandibular syndrome"	"Acrorenal Syndrome, Autosomal Recessive"	"Split-hand/foot malformation 1 with sensorineural hearing loss"	"Ectrodactyly-Polydactyly"	"Split-hand/foot malformation 6"	"SHFM2"	"Split-hand/foot malformation 4"	"Brachyphalangy, Polydactyly, and Tibial Aplasia/Hypoplasia"	"Orphanet:1122"	"Orphanet:2008"	"Orphanet:2092"	"Orphanet:958"
+"Split hand"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Split foot"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Aplasia/Hypoplasia of metatarsal bones"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the phalanges of the hand"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the phalanges of the toes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

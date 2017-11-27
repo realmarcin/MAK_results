@@ -1,0 +1,7 @@
+"x"
+"1" "Waardenburg.Syndrome..Type.1"
+"2" "Waardenburg.Syndrome..Type.2A"
+"3" "Waardenburg.Syndrome..Type.4A"
+"4" "Waardenburg.Syndrome..Type.4B"
+"5" "Waardenburg.Syndrome..Type.4C"
+"6" "Orphanet.894"

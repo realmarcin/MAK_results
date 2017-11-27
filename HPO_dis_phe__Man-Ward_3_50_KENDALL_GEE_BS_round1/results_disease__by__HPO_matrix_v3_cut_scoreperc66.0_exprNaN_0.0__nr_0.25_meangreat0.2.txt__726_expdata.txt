@@ -1,0 +1,10 @@
+	"DECIPHER:21"	"Waardenburg syndrome type 3"	"Absent Eyebrows and Eyelashes With Mental Retardation"	"Craniosynostosis-Mental Retardation-Clefting Syndrome"	"Cystic fibrosis-gastritis-megaloblastic anemia syndrome"	"Lowry-MacLean syndrome"	"Ring chromosome 1"	"Orphanet:2321"	"Orphanet:2612"	"Orphanet:999"
+"Intellectual disability"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Seizures"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Craniosynostosis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Lower limb undergrowth"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dry skin"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Renal dysplasia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chorioretinal coloboma"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Forearm undergrowth"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

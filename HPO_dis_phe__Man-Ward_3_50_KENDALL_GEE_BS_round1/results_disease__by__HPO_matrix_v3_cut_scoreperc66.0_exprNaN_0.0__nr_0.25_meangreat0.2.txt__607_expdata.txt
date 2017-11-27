@@ -1,0 +1,8 @@
+	"Dyskeratosis congenita autosomal dominant"	"Dyskeratosis congenita autosomal recessive 1"	"Revesz Syndrome"	"Dyskeratosis congenita X-linked"	"Dyskeratosis Congenita, Autosomal Dominant 2"	"Dyskeratosis Congenita, Autosomal Dominant 3"	"Orphanet:1775"	"Hoyeraal-Hreidarsson syndrome"
+"Palmoplantar hyperkeratosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0003743"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the dentition"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Chronic diarrhea"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Urethral stricture"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

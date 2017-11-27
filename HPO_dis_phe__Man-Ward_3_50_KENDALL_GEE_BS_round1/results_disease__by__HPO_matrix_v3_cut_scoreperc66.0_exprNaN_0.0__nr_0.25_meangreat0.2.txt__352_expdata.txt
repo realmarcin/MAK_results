@@ -1,0 +1,6 @@
+	"retinoblastoma"	"Miller-Dieker Lissencephaly Syndrome"	"Osteogenic Sarcoma"	"Ewing sarcoma"	"chromosome 13q14 deletion syndrome"	"Orphanet:1587"	"Orphanet:251909"	"Orphanet:790"	"Ring chromosome 13"
+"Retinoblastoma"	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Pinealoma"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ewing's sarcoma"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Midline brain calcifications"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Bitemporal hollowing"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

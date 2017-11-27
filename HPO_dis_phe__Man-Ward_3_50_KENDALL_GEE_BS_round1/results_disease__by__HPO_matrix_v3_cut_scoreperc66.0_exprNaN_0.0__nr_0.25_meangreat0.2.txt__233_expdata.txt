@@ -1,0 +1,16 @@
+	"Congenital Disorder of Glycosylation, Type Iy"	"Congenital disorder of glycosylation type 1P"	"Poretti-Boltshauser Syndrome"	"Neurodevelopmental Disorder with Hypotonia, Seizures, and Absent Language; NDHSAL"	"Orphanet:370927"
+"Deeply set eye"	1.0	0.0	0.0	1.0	1.0
+"Macrotia"	1.0	0.0	0.0	1.0	1.0
+"Hypospadias"	1.0	0.0	0.0	0.0	0.0
+"Horseshoe kidney"	0.0	0.0	0.0	0.0	1.0
+"Strabismus"	1.0	1.0	1.0	1.0	1.0
+"Clinodactyly"	1.0	0.0	0.0	0.0	0.0
+"Patent ductus arteriosus"	0.0	0.0	0.0	0.0	1.0
+"Absent septum pellucidum"	0.0	0.0	0.0	0.0	1.0
+"Widely spaced teeth"	1.0	0.0	0.0	0.0	1.0
+"Vomiting"	0.0	1.0	0.0	0.0	1.0
+"Abnormality of the coagulation cascade"	0.0	0.0	0.0	0.0	1.0
+"Joint dislocation"	1.0	0.0	0.0	0.0	1.0
+"Abnormality of coagulation"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the periventricular white matter"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of upper lip vermillion"	0.0	0.0	0.0	0.0	1.0

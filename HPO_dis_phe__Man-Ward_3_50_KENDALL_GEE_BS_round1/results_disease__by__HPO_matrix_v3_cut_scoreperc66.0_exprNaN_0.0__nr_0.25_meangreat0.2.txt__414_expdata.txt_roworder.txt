@@ -1,0 +1,6 @@
+"x"
+"1" "creatine.transporter.deficienc"
+"2" "Orphanet.52503"
+"3" "chromosome.1p36.deletion.syndr"
+"4" "Orphanet.847"
+"5" "Kleefstra.syndrome.due.to.9q34"

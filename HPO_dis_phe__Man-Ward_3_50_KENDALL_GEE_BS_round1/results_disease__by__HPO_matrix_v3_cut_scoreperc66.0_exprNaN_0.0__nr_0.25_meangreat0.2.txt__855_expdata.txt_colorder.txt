@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Photophobia"
+"3" "Corneal opacity"
+"4" "Ectopia lentis"
+"5" "Primary congenital glaucoma"

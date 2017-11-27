@@ -1,0 +1,6 @@
+"x"
+"1" "Perlman.Syndrome"
+"2" "Diaphanospondylodysostosis"
+"3" "Cleft.Lip.Palate.With.Characte"
+"4" "Orphanet.118"
+"5" "Orphanet.2905"

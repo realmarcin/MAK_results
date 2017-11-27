@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.896"
+"2" "hereditary.spastic.paraplegia."
+"3" "Spastic.Paraplegia.12..Autosom"
+"4" "SPG14"
+"5" "Spastic.Paraplegia.13..Autosom"
+"6" "SPG36"

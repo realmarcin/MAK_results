@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Trapezoidal distal femoral condyles"
+"3" "Shortening of the talar neck"
+"4" "Flattening of the talar dome"

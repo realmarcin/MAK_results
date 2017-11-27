@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.363400"
+"2" "Severe.neurodegenerative.syndr"
+"3" "Aicardi.Goutieres.syndrome.1"
+"4" "Niemann.Pick.Disease..Type.C1"
+"5" "Alpha.methylacyl.CoA.racemase."

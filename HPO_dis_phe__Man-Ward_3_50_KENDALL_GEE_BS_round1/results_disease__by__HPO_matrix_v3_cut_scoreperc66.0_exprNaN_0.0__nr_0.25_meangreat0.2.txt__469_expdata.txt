@@ -1,0 +1,30 @@
+	"Cerebrotendinous Xanthomatosis"	"Xeroderma pigmentosum, group G"	"Orphanet:309246"	"Orphanet:363400"	"Orphanet:909"
+"EEG abnormality"	0.0	0.0	0.0	0.0	1.0
+"HP:0000007"	1.0	1.0	0.0	0.0	0.0
+"Peripheral neuropathy"	1.0	0.0	0.0	0.0	1.0
+"Diarrhea"	1.0	0.0	0.0	0.0	1.0
+"Cataract"	1.0	1.0	0.0	0.0	1.0
+"Cholestasis"	0.0	0.0	0.0	0.0	1.0
+"Muscle weakness"	0.0	0.0	0.0	0.0	1.0
+"Pseudobulbar paralysis"	1.0	0.0	0.0	0.0	0.0
+"Hallucinations"	1.0	0.0	0.0	0.0	1.0
+"Delusions"	1.0	0.0	0.0	0.0	0.0
+"Angina pectoris"	1.0	0.0	0.0	0.0	1.0
+"Myocardial infarction"	1.0	0.0	0.0	0.0	1.0
+"Hypercholesterolemia"	0.0	0.0	0.0	0.0	1.0
+"Nephrolithiasis"	0.0	0.0	0.0	0.0	1.0
+"Joint stiffness"	0.0	0.0	0.0	0.0	1.0
+"Joint dislocation"	0.0	0.0	0.0	0.0	1.0
+"Respiratory insufficiency"	1.0	0.0	0.0	0.0	0.0
+"Malabsorption"	0.0	0.0	0.0	0.0	1.0
+"Cholelithiasis"	1.0	0.0	0.0	0.0	0.0
+"Xanthelasma"	1.0	0.0	0.0	0.0	1.0
+"Abnormality of the dentate nucleus"	1.0	0.0	0.0	0.0	0.0
+"Optic disc pallor"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the periventricular white matter"	1.0	0.0	0.0	0.0	1.0
+"Abnormality of cholesterol metabolism"	1.0	0.0	0.0	0.0	0.0
+"EMG: axonal abnormality"	1.0	0.0	0.0	0.0	0.0
+"EEG with generalized slow activity"	1.0	0.0	0.0	0.0	0.0
+"Tendon xanthomatosis"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of central somatosensory evoked potentials"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of vision"	0.0	0.0	0.0	0.0	1.0

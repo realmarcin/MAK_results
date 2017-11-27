@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "IgG deficiency"
+"3" "Short stature"
+"4" "Dry skin"
+"5" "Abnormal facial shape"
+"6" "Mild global developmental delay"
+"7" "Increased sensitivity to ionizing radiation"

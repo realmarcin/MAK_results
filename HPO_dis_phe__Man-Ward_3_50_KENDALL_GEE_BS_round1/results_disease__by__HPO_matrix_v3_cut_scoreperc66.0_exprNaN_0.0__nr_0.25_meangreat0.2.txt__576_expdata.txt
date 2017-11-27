@@ -1,0 +1,11 @@
+	"Legius Syndrome"	"Noonan Syndrome-Like Disorder With or Without Juvenile Myelomonocytic Leukemia"	"Noonan syndrome 7"	"Noonan syndrome 10"
+"Aortic valve stenosis"	0.0	1.0	0.0	0.0
+"Macrotia"	0.0	1.0	0.0	0.0
+"Long philtrum"	0.0	1.0	0.0	0.0
+"Bicuspid aortic valve"	0.0	1.0	0.0	0.0
+"HP:0003812"	0.0	1.0	0.0	0.0
+"Fine hair"	0.0	1.0	0.0	0.0
+"Deep philtrum"	0.0	1.0	0.0	0.0
+"Webbed neck"	0.0	1.0	0.0	0.0
+"Thick vermilion border"	0.0	1.0	0.0	0.0
+"Chylothorax"	0.0	1.0	0.0	0.0

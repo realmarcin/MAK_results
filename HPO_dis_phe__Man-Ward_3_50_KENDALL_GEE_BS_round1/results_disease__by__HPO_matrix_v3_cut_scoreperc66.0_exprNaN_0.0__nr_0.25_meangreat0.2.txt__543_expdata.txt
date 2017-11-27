@@ -1,0 +1,7 @@
+	"Familial partial lipodystrophy, Dunnigan type"	"Lipodystrophy, Congenital Generalized, Type 2"	"Lipodystrophy, Congenital Generalized, Type 1"	"FPLD1"	"Seckel Syndrome 10; SCKL10"	"Orphanet:412"	"Familial chylomicronemia syndrome"	"Acquired generalized lipodystrophy"
+"Increased circulating chylomicron levels"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Acute pancreatitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Lipemia retinalis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Eruptive xanthomas"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Lactescent serum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal emotion/affect behavior"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

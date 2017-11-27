@@ -1,0 +1,34 @@
+	"Schimke immuno-osseous dysplasia"	"Orphanet:1830"	"Orphanet:93314"	"Orphanet:93315"
+"High pitched voice"	1.0	0.0	0.0	0.0
+"Microdontia"	1.0	1.0	0.0	0.0
+"Depressed nasal bridge"	1.0	1.0	1.0	0.0
+"Bulbous nose"	1.0	1.0	0.0	0.0
+"Motor delay"	1.0	0.0	0.0	0.0
+"Melanocytic nevus"	0.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	1.0	1.0	0.0	0.0
+"Fine hair"	1.0	0.0	0.0	0.0
+"Hypertension"	1.0	0.0	0.0	0.0
+"Osteopenia"	1.0	0.0	0.0	0.0
+"Platyspondyly"	1.0	1.0	1.0	0.0
+"Proteinuria"	1.0	1.0	0.0	0.0
+"Nephrotic syndrome"	1.0	1.0	0.0	0.0
+"Renal insufficiency"	1.0	0.0	0.0	0.0
+"Thrombocytopenia"	1.0	1.0	0.0	0.0
+"Neutropenia"	1.0	0.0	0.0	0.0
+"Astigmatism"	1.0	0.0	0.0	0.0
+"Abnormal immunoglobulin level"	1.0	0.0	0.0	0.0
+"Hypermelanotic macule"	1.0	0.0	0.0	0.0
+"Multiple cafe-au-lait spots"	0.0	1.0	0.0	0.0
+"Coarse hair"	1.0	0.0	0.0	0.0
+"Anemia"	1.0	1.0	0.0	0.0
+"Lymphopenia"	1.0	1.0	0.0	0.0
+"Recurrent infections"	1.0	0.0	0.0	0.0
+"Focal segmental glomerulosclerosis"	1.0	0.0	0.0	0.0
+"Glomerulopathy"	0.0	1.0	0.0	0.0
+"Shallow acetabular fossae"	1.0	0.0	0.0	0.0
+"Increased thyroid-stimulating hormone level"	1.0	0.0	0.0	0.0
+"Cellular immunodeficiency"	0.0	1.0	0.0	0.0
+"Transient ischemic attack"	1.0	0.0	0.0	0.0
+"Arteriosclerosis"	1.0	0.0	0.0	0.0
+"Abnormal T cell morphology"	1.0	1.0	0.0	0.0
+"Lateral displacement of the femoral head"	1.0	0.0	0.0	0.0

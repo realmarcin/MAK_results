@@ -1,0 +1,7 @@
+"x"
+"1" "MASS.syndrome"
+"2" "Familial.mitral.valve.prolapse"
+"3" "Mitral.Valve.Prolapse.2"
+"4" "MVP3"
+"5" "Pruritic.urticarial.papules.an"
+"6" "Striae.Distensae..Familial"

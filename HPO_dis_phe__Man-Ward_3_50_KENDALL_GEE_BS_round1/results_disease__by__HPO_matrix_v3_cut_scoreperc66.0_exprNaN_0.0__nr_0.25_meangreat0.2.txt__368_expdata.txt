@@ -1,0 +1,32 @@
+	"Arthrogryposis, Distal, Type 5"	"Keratosis Linearis With Ichthyosis Congenita and Sclerosing Keratoderma"	"Orphanet:494"	"Orphanet:79395"
+"High palate"	1.0	0.0	0.0	0.0
+"Scoliosis"	1.0	0.0	0.0	0.0
+"Clinodactyly"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0
+"Blepharophimosis"	1.0	0.0	0.0	0.0
+"Amniotic constriction ring"	0.0	1.0	1.0	1.0
+"Hypermetropia"	1.0	0.0	0.0	0.0
+"Hyperconvex nail"	0.0	1.0	0.0	0.0
+"Nail dystrophy"	0.0	1.0	0.0	1.0
+"Duane anomaly"	1.0	0.0	0.0	0.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	0.0	0.0
+"Protruding ear"	1.0	0.0	0.0	0.0
+"Astigmatism"	1.0	0.0	0.0	0.0
+"Keratoconus"	1.0	0.0	0.0	0.0
+"Keratoglobus"	1.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	1.0	0.0	0.0	0.0
+"Restrictive ventilatory defect"	1.0	0.0	0.0	0.0
+"Decreased muscle mass"	1.0	0.0	0.0	0.0
+"Firm muscles"	1.0	0.0	0.0	0.0
+"Decreased facial expression"	1.0	0.0	0.0	0.0
+"Distal arthrogryposis"	1.0	0.0	0.0	0.0
+"Absent phalangeal crease"	1.0	0.0	0.0	0.0
+"Decreased palmar creases"	1.0	0.0	0.0	0.0
+"Limited wrist extension"	1.0	0.0	0.0	0.0
+"Ichthyosis"	0.0	1.0	1.0	0.0
+"Honeycomb palmoplantar keratoderma"	0.0	1.0	1.0	1.0
+"Thick nail"	0.0	0.0	0.0	1.0
+"Congenital nonbullous ichthyosiform erythroderma"	0.0	1.0	0.0	1.0
+"Parakeratosis"	0.0	1.0	0.0	0.0
+"Linear arrays of macular hyperkeratoses in flexural areas"	0.0	1.0	0.0	0.0

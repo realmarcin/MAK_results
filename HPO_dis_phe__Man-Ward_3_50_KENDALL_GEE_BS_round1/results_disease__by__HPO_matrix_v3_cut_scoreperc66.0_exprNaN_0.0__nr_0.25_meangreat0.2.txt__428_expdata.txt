@@ -1,0 +1,16 @@
+	"Deafness, Congenital, With Onychodystrophy, Autosomal Dominant"	"Hypokalemic periodic paralysis 1"	"Split-Hand/Foot Malformation 1"	"Fibular Aplasia, Tibial Campomelia, and Oligosyndactyly Syndrome"	"Split-hand/foot malformation 4"	"Heart-hand syndrome, Slovenian type"	"Adams-Oliver Syndrome 6"
+"Intellectual disability"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cleft palate"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Split hand"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Split foot"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Clinodactyly"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Broad hallux"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hand oligodactyly"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Triphalangeal thumb"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"HP:0003829"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Ectrodactyly"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Foot oligodactyly"	0.0	0.0	1.0	1.0	0.0	0.0	1.0

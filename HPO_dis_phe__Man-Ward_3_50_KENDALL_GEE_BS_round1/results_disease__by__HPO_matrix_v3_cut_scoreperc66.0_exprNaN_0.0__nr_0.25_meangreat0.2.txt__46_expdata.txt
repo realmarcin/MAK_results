@@ -1,0 +1,8 @@
+	"Craniorhiny"	"Craniosynostosis 1"	"Craniosynostosis 5, susceptibility to"	"OMIM:617439"
+"Delayed speech and language development"	0.0	0.0	0.0	1.0
+"Anteverted nares"	1.0	0.0	0.0	0.0
+"Craniosynostosis"	1.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Oxycephaly"	1.0	1.0	0.0	0.0
+"Wide nose"	1.0	0.0	0.0	0.0
+"Turricephaly"	1.0	1.0	0.0	0.0

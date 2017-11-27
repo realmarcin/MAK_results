@@ -1,0 +1,6 @@
+	"Immunodeficiency With Defective Leukocyte and Lymphocyte Function and With Response to Histamine-1 Antagonist"	"Pachyonychia congenita type 2"	"ALG3-CDG"	"Dermatitis, Atopic"	"Orphanet:217335"	"Cono-spondylar dysplasia"	"Vulvovaginal gingival syndrome"
+"Facial erythema"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Food intolerance"	0.0	0.0	1.0	1.0	0.0	1.0	1.0
+"Flexural lichenification"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Infra-orbital fold"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of tumor necrosis factor secretion"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

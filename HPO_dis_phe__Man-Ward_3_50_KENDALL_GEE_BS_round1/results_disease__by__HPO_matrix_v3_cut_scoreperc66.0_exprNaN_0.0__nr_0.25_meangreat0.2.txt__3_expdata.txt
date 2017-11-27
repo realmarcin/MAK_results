@@ -1,0 +1,8 @@
+	"OMIM:516001"	"OMIM:516005"	"OMIM:516006"	"OMIM:516020"	"OMIM:516030"	"OMIM:516050"
+"HP:0003674"	1.0	1.0	1.0	1.0	1.0	1.0
+"Papilledema"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001427"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ragged-red muscle fibers"	0.0	0.0	0.0	0.0	0.0	0.0
+"Leber optic atrophy"	1.0	1.0	1.0	1.0	1.0	1.0
+"Sudden loss of visual acuity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Large central visual field defect"	1.0	1.0	1.0	1.0	1.0	1.0

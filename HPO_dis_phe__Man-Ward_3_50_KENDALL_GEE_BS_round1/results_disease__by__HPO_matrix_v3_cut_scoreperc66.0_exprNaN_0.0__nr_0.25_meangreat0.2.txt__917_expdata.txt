@@ -1,0 +1,13 @@
+	"Incisors, Shovel-Shaped"	"Satoyoshi Syndrome"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"Brachydactyly"	0.0	1.0	0.0	0.0	0.0
+"Pes planus"	0.0	1.0	0.0	0.0	0.0
+"Short metacarpal"	0.0	1.0	0.0	0.0	0.0
+"Short metatarsal"	0.0	1.0	0.0	0.0	0.0
+"Osteolytic defects of the phalanges of the hand"	0.0	1.0	0.0	0.0	0.0
+"Genu valgum"	0.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	0.0	0.0	0.0
+"Alopecia universalis"	0.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the uterus"	0.0	1.0	0.0	0.0	0.0
+"Amenorrhea"	0.0	1.0	0.0	0.0	0.0
+"Skeletal muscle hypertrophy"	0.0	1.0	0.0	0.0	0.0
+"Mildly elevated creatine phosphokinase"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of blood and blood-forming tissues"
+"2" "HP:0000006"
+"3" "Abnormality of metabolism/homeostasis"
+"4" "HP:0001417"
+"5" "Cyanosis"

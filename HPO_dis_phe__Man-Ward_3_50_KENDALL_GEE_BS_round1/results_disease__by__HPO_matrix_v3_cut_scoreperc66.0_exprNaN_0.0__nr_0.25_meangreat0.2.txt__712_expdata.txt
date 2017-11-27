@@ -1,0 +1,37 @@
+	"Papillorenal Syndrome"	"Ehlers-Danlos Syndrome, Type Vii, Autosomal Dominant"	"LADD syndrome"	"OMIM:608967"	"OMIM:610380"
+"Renal agenesis"	0.0	0.0	1.0	0.0	0.0
+"Hyperextensible skin"	1.0	1.0	1.0	1.0	1.0
+"Xerostomia"	0.0	0.0	1.0	0.0	0.0
+"Broad hallux"	0.0	0.0	1.0	0.0	0.0
+"Carious teeth"	0.0	0.0	1.0	0.0	0.0
+"Soft skin"	1.0	1.0	0.0	1.0	1.0
+"Nasolacrimal duct obstruction"	0.0	0.0	1.0	0.0	0.0
+"Alacrima"	0.0	0.0	1.0	0.0	0.0
+"Lacrimal gland hypoplasia"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of dental enamel"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the radius"	0.0	0.0	1.0	0.0	0.0
+"Partial duplication of thumb phalanx"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the ulna"	0.0	0.0	1.0	0.0	0.0
+"Cupped ear"	0.0	0.0	1.0	0.0	0.0
+"Absent radius"	0.0	0.0	1.0	0.0	0.0
+"Radial deviation of the 3rd finger"	0.0	0.0	1.0	0.0	0.0
+"Mixed hearing impairment"	0.0	0.0	1.0	0.0	0.0
+"Delayed eruption of primary teeth"	0.0	0.0	1.0	0.0	0.0
+"Recurrent corneal erosions"	0.0	0.0	1.0	0.0	0.0
+"Absent lacrimal punctum"	0.0	0.0	1.0	0.0	0.0
+"Preaxial polydactyly"	0.0	0.0	1.0	0.0	0.0
+"Absence of Stensen duct"	0.0	0.0	1.0	0.0	0.0
+"Dacryocystitis"	0.0	0.0	1.0	0.0	0.0
+"Periorbital fullness"	0.0	0.0	1.0	0.0	0.0
+"Bilateral triphalangeal thumbs"	0.0	0.0	1.0	0.0	0.0
+"Small thenar eminence"	0.0	0.0	1.0	0.0	0.0
+"2-3 finger syndactyly"	0.0	0.0	1.0	0.0	0.0
+"Lacrimal gland aplasia"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the lacrimal puncta"	0.0	0.0	1.0	0.0	0.0
+"Hypoplastic lacrimal duct"	0.0	0.0	1.0	0.0	0.0
+"Coronal hypospadias"	0.0	0.0	1.0	0.0	0.0
+"Absent proximal phalanx of thumb"	0.0	0.0	1.0	0.0	0.0
+"Aplasia of the parotid gland"	0.0	0.0	1.0	0.0	0.0
+"Nephrosclerosis"	0.0	0.0	1.0	0.0	0.0
+"Conical incisor"	0.0	0.0	1.0	0.0	0.0
+"Corneal perforation"	0.0	0.0	1.0	0.0	0.0

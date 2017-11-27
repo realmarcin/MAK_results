@@ -1,0 +1,19 @@
+	"Beare-Stevenson Cutis Gyrata Syndrome"	"Familial partial lipodystrophy, Dunnigan type"	"Orphanet:1555"	"Orphanet:1860"	"Orphanet:2655"	"Orphanet:93274"
+"Acanthosis nigricans"	1.0	1.0	1.0	1.0	1.0	1.0
+"Cloverleaf skull"	1.0	0.0	1.0	1.0	1.0	1.0
+"Hypertriglyceridemia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Polycystic ovaries"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased facial adipose tissue"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased adipose tissue around the neck"	0.0	1.0	0.0	0.0	0.0	0.0
+"Insulin-resistant diabetes mellitus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperinsulinemia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Prominent superficial veins"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hepatic steatosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperglycemia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Loss of subcutaneous adipose tissue in limbs"	0.0	1.0	0.0	0.0	0.0	0.0
+"Labial pseudohypertrophy"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased intramuscular fat"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased intraabdominal fat"	0.0	1.0	0.0	0.0	0.0	0.0
+"Loss of truncal subcutaneous adipose tissue"	0.0	1.0	0.0	0.0	0.0	0.0
+"Lipodystrophy"	0.0	1.0	0.0	0.0	0.0	0.0
+"Enlarged peripheral nerve"	0.0	1.0	0.0	0.0	0.0	0.0

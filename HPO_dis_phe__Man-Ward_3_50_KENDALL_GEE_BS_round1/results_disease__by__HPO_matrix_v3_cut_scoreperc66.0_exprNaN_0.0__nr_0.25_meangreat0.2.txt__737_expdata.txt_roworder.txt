@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.2063"
+"2" "Orphanet.1812"
+"3" "X16p13.11.microdeletion.syndro"
+"4" "Orphanet.2645"
+"5" "Orphanet.36"
+"6" "Puerto.Rican.Infant.Hypotonia."

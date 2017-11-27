@@ -1,0 +1,7 @@
+"x"
+"1" "Primary.autosomal.recessive.mi"
+"2" "Polymicrogyria..Perisylvian..W"
+"3" "MCHCCD"
+"4" "Microcephaly..progressive..wit"
+"5" "Primary.autosomal.recessive.mi"
+"6" "Microcephaly.16..primary..auto"

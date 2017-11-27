@@ -1,0 +1,7 @@
+"x"
+"1" "Chromosome.16p13.2.Deletion.Sy"
+"2" "Mental.Retardation..Autosomal."
+"3" "Hypotonia..Ataxia..and.Delayed"
+"4" "Schuurs.Hoeijmakers.Syndrome"
+"5" "Autosomal.dominant.intellectua"
+"6" "Wiedemann.Steiner.Syndrome"

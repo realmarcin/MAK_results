@@ -1,0 +1,5 @@
+	"Spondyloepiphyseal Dysplasia With Congenital Joint Dislocations"	"Cardiac Valvular Defect, Developmental"	"Anophthalmia-megalocornea-cardiopathy-skeletal anomalies syndrome"	"Orphanet:2556"	"Distal 22q11.2 microduplication syndrome"	"Idiopathic pulmonary arterial hypertension"	"Neonatal Marfan syndrome"	"Orphanet:615"	"Congenital tricuspid stenosis"
+"Tricuspid regurgitation"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Ventricular hypertrophy"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Tricuspid valve prolapse"	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Heart murmur"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0

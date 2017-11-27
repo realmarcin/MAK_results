@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.2985"
+"2" "Absent.Eyebrows.and.Eyelashes."
+"3" "Lowry.MacLean.syndrome"
+"4" "DECIPHER.21"
+"5" "Hypertelorism..Microtia..Facia"
+"6" "Ring.chromosome.1"
+"7" "Orphanet.999"

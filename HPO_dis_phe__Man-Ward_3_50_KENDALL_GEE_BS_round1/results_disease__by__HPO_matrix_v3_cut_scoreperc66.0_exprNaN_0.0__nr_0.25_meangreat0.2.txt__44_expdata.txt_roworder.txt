@@ -1,0 +1,5 @@
+"x"
+"1" "Severe.early.onset.obesity.ins"
+"2" "Obesity.due.to.leptin.receptor"
+"3" "Obesity.due.to.SIM1.deficiency"
+"4" "chromosome.22q13.duplication.s"

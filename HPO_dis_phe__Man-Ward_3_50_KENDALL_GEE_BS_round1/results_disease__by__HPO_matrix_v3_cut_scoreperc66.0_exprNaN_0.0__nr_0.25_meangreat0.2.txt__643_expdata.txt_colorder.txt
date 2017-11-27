@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Discolored lateral incisors"
+"3" "Widely-spaced incisors"
+"4" "Conical mandibular incisor"

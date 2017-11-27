@@ -1,0 +1,5 @@
+"x"
+"1" "Systemic.Lupus.Erythematosus"
+"2" "Autoinflammatory.syndrome..fam"
+"3" "Thrombocytopenia.With.Elevated"
+"4" "Von.Willebrand.Disease..X.Link"

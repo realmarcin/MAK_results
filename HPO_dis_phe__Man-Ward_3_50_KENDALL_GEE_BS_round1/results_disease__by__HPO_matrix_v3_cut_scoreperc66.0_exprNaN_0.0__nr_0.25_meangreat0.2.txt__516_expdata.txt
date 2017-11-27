@@ -1,0 +1,11 @@
+	"Infantile axonal neuropathy"	"Orphanet:3006"	"Orphanet:3454"	"Orphanet:35069"	"Orphanet:506"
+"Impaired pain sensation"	1.0	0.0	0.0	0.0	0.0
+"Ataxia"	1.0	0.0	0.0	0.0	1.0
+"Hypothyroidism"	1.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0	1.0
+"Facial palsy"	1.0	0.0	0.0	0.0	0.0
+"Type I diabetes mellitus"	1.0	0.0	0.0	0.0	0.0
+"Progressive ophthalmoplegia"	0.0	0.0	0.0	0.0	1.0
+"Progressive spastic paraplegia"	0.0	0.0	0.0	0.0	1.0
+"Decreased activity of mitochondrial respiratory chain"	0.0	0.0	0.0	0.0	1.0
+"Hemiplegia/hemiparesis"	1.0	0.0	0.0	0.0	1.0

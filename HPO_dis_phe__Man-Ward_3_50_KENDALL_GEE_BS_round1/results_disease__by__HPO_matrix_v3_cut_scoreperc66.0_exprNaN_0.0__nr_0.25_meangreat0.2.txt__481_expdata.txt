@@ -1,0 +1,32 @@
+	"Arthrogryposis, Distal, Type 5"	"OPEM"	"Diabetes-deafness syndrome maternally transmitted"	"Kearns-Sayre Syndrome"
+"High palate"	1.0	0.0	0.0	0.0
+"Scoliosis"	1.0	0.0	0.0	0.0
+"Clinodactyly"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0
+"Blepharophimosis"	1.0	0.0	0.0	0.0
+"Cardiomyopathy"	0.0	0.0	1.0	1.0
+"Hypermetropia"	1.0	0.0	0.0	0.0
+"Dysarthria"	0.0	0.0	1.0	0.0
+"Duane anomaly"	1.0	0.0	0.0	0.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	0.0	0.0
+"Protruding ear"	1.0	0.0	0.0	0.0
+"Astigmatism"	1.0	0.0	0.0	0.0
+"Keratoconus"	1.0	0.0	0.0	0.0
+"Keratoglobus"	1.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	1.0	0.0	0.0	0.0
+"Restrictive ventilatory defect"	1.0	0.0	0.0	0.0
+"Decreased muscle mass"	1.0	0.0	0.0	0.0
+"Firm muscles"	1.0	0.0	0.0	0.0
+"Decreased facial expression"	1.0	0.0	0.0	0.0
+"Distal arthrogryposis"	1.0	0.0	0.0	0.0
+"Absent phalangeal crease"	1.0	0.0	0.0	0.0
+"Decreased palmar creases"	1.0	0.0	0.0	0.0
+"Limited wrist extension"	1.0	0.0	0.0	0.0
+"Vertigo"	0.0	0.0	1.0	0.0
+"Constriction of peripheral visual field"	0.0	0.0	1.0	0.0
+"Unsteady gait"	0.0	0.0	1.0	0.0
+"Type II diabetes mellitus"	0.0	0.0	1.0	0.0
+"Pigmentary retinal degeneration"	0.0	0.0	1.0	0.0
+"Hyperglycemia"	0.0	0.0	1.0	0.0
+"Retinal degeneration"	0.0	1.0	1.0	0.0

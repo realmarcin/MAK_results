@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly.with.chorioretino"
+"2" "Microcephaly.and.chorioretinop"
+"3" "Cortical.dysplasia..complex..w"
+"4" "MCHCCD"
+"5" "Microcephaly..progressive..wit"
+"6" "Primary.autosomal.recessive.mi"
+"7" "Microcephaly.16..primary..auto"

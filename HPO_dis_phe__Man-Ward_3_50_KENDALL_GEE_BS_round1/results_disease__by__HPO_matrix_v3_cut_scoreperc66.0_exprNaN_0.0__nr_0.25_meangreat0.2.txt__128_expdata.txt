@@ -1,0 +1,11 @@
+	"Lazy Leukocyte Syndrome"	"Familial glucocorticoid deficiency"	"Adrenocortical Unresponsiveness to Acth With Postreceptor Defect"	"Glucocorticoid deficiency 2"	"GCCD3"
+"Seizures"	0.0	1.0	0.0	0.0	0.0
+"Tall stature"	0.0	1.0	0.0	0.0	0.0
+"Accelerated skeletal maturation"	0.0	1.0	0.0	0.0	0.0
+"Failure to thrive"	0.0	1.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0
+"Hyperpigmentation of the skin"	0.0	1.0	1.0	1.0	1.0
+"Coma"	0.0	1.0	0.0	0.0	0.0
+"Decreased circulating cortisol level"	0.0	1.0	0.0	1.0	0.0
+"Recurrent hypoglycemia"	0.0	1.0	0.0	1.0	1.0
+"Increased circulating ACTH level"	0.0	1.0	1.0	1.0	0.0

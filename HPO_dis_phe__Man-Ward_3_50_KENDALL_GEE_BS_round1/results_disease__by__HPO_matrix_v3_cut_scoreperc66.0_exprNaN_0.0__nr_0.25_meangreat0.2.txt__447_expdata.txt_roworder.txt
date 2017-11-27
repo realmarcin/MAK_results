@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.257"
+"2" "Orphanet.2743"
+"3" "Orphanet.494"
+"4" "Maternally.inherited.cardiomyo"
+"5" "Short.stature.deafness.neutrop"

@@ -1,0 +1,13 @@
+	"Deoxyribose-5-Phosphate Aldolase Deficiency"	"Hypertrophia Musculorum Vera"	"Malignant Hyperthermia, Susceptibility To, 2"	"Malignant Hyperthermia, Susceptibility To, 3"	"Scapuloperoneal Syndrome, Neurogenic, Kaeser Type"
+"HP:0001425"	0.0	0.0	1.0	1.0	0.0
+"Hyperphosphatemia"	0.0	0.0	1.0	1.0	0.0
+"Fever"	0.0	0.0	1.0	1.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	1.0	1.0	0.0
+"HP:0001276"	0.0	0.0	0.0	1.0	0.0
+"Malignant hyperthermia"	0.0	0.0	1.0	1.0	0.0
+"Lactic acidosis"	0.0	0.0	1.0	1.0	0.0
+"Hyperkalemia"	0.0	0.0	1.0	1.0	0.0
+"Viral infection-induced rhabdomyolysis"	0.0	0.0	1.0	1.0	0.0
+"Exercise-induced rhabdomyolysis"	0.0	0.0	1.0	1.0	0.0
+"Anesthetic-induced rhabdomylosis"	0.0	0.0	1.0	1.0	0.0
+"Alcohol-induced rhabdomyolysis"	0.0	0.0	1.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Thyroid.hormone.resistance..ge"
+"2" "Iodotyrosyl.coupling.defect"
+"3" "Hypothyroidism..congenital..no"
+"4" "Thyroid.Hormone.Resistance..Se"
+"5" "Thyroid.hormone.resistance..ge"

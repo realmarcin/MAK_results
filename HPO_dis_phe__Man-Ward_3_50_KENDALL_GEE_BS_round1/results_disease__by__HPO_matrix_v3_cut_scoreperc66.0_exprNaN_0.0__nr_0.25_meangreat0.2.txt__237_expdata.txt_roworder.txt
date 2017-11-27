@@ -1,0 +1,7 @@
+"x"
+"1" "Polyposis.of.Gastric.Fundus.Wi"
+"2" "Polyps..Multiple.and.Recurrent"
+"3" "Deafness..Unilateral..With.Del"
+"4" "Deafness..Unilateral"
+"5" "Intussusception"
+"6" "Polyposis..Gastric"

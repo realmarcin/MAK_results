@@ -1,0 +1,5 @@
+"x"
+"1" "gastrointestinal.stromal.tumor"
+"2" "Acromegaloid.facial.appearance"
+"3" "Mastocytosis"
+"4" "Watson.Syndrome"

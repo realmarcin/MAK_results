@@ -1,0 +1,14 @@
+	"Mend Syndrome"	"glycerol kinase deficiency"	"Curry-Jones syndrome"	"Malan overgrowth syndrome"	"2q24 microdeletion syndrome"	"Orphanet:199276"	"20q13.33 microdeletion syndrome"	"Orphanet:261476"	"Monosomy 9q22.3"	"Orphanet:974"
+"Seizures"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Small for gestational age"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Failure to thrive"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Short neck"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Small face"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Growth delay"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of oral frenula"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hand clenching"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Coloboma"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Low-set, posteriorly rotated ears"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"HP:0100807"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Central apnea"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Bullet-shaped distal phalanx of the hallux"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

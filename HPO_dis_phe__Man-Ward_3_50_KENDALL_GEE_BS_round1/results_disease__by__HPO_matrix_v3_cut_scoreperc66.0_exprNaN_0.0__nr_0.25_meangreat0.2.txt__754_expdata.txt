@@ -1,0 +1,10 @@
+	"Dyskeratosis congenita autosomal dominant"	"Dyskeratosis congenita autosomal recessive 1"	"Revesz Syndrome"	"Dyskeratosis congenita X-linked"	"Dyskeratosis Congenita, Autosomal Dominant 2"	"Dyskeratosis Congenita, Autosomal Dominant 3"	"Orphanet:1775"	"Hoyeraal-Hreidarsson syndrome"
+"Ventriculomegaly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Neoplasm"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyporeflexia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cerebral cortical atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hyperpigmentation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Excessive wrinkled skin"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of leukocytes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Generalized hypopigmentation of hair"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

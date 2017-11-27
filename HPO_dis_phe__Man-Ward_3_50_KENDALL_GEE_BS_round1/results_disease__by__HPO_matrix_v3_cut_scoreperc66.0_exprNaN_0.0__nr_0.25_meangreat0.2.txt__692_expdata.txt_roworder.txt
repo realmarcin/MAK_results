@@ -1,0 +1,7 @@
+"x"
+"1" "Familial.partial.lipodystrophy"
+"2" "Beare.Stevenson.Cutis.Gyrata.S"
+"3" "Orphanet.1555"
+"4" "Orphanet.1860"
+"5" "Orphanet.2655"
+"6" "Orphanet.93274"

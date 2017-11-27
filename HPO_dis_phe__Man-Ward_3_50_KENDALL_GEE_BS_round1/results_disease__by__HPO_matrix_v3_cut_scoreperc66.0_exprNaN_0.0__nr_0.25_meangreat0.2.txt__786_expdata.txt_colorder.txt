@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Hallux valgus"
+"3" "Sensory axonal neuropathy"
+"4" "Osteomyelitis"
+"5" "Hyporeflexia of lower limbs"

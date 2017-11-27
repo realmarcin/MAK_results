@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Abnormality of the eye"
+"3" "Goiter"
+"4" "Blepharochalasis"
+"5" "Duplication of the upper lip"

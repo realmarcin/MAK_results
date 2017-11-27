@@ -1,0 +1,8 @@
+"x"
+"1" "Absent toenail"
+"2" "Talipes equinovarus"
+"3" "Intellectual disability, profound"
+"4" "Limited elbow movement"
+"5" "Limitation of knee mobility"
+"6" "Absent fingernail"
+"7" "Bilateral ulnar hypoplasia"

@@ -1,0 +1,5 @@
+"x"
+"1" "Myoclonus..intractable..neonat"
+"2" "Arnold.Chiari.malformation.typ"
+"3" "Syringomyelia..Isolated"
+"4" "Striatal.degeneration..autosom"

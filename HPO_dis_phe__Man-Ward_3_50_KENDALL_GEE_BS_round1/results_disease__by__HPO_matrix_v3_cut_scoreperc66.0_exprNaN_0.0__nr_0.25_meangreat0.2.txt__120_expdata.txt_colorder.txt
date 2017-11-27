@@ -1,0 +1,8 @@
+"x"
+"1" "Short stature"
+"2" "HP:0000006"
+"3" "Skeletal dysplasia"
+"4" "Short 1st metacarpal"
+"5" "Delayed epiphyseal ossification"
+"6" "Delayed ossification of carpal bones"
+"7" "Broad middle phalanx of finger"

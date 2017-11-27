@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.870"
+"2" "Down.Syndrome"
+"3" "Renpenning.syndrome"
+"4" "Witteveen.kolk.syndrome"
+"5" "X.linked.intellectual.disabili"

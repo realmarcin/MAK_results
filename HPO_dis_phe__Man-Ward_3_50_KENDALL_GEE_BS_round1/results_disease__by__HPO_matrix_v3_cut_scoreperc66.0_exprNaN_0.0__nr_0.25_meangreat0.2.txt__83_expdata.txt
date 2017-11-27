@@ -1,0 +1,10 @@
+	"Molybdenum Cofactor Deficiency, Complementation Group a"	"Molybdenum Cofactor Deficiency, Complementation Group B"	"Sulfite oxidase deficiency"	"Deficiency of xanthine oxidase"	"Molybdenum Cofactor Deficiency, Complementation Group C"
+"Increased urinary taurine"	1.0	1.0	0.0	0.0	0.0
+"Xanthine nephrolithiasis"	1.0	1.0	0.0	1.0	0.0
+"Decreased urinary sulfate"	1.0	0.0	1.0	0.0	0.0
+"Reduced xanthine dehydrogenase activity"	1.0	0.0	0.0	1.0	0.0
+"Molybdenum cofactor deficiency"	1.0	1.0	0.0	0.0	1.0
+"Sulfite oxidase deficiency"	1.0	0.0	1.0	0.0	0.0
+"Xanthinuria"	1.0	1.0	0.0	1.0	0.0
+"Increased urinary hypoxanthine"	1.0	1.0	0.0	0.0	0.0
+"Increased urinary sulfite"	1.0	0.0	1.0	0.0	0.0

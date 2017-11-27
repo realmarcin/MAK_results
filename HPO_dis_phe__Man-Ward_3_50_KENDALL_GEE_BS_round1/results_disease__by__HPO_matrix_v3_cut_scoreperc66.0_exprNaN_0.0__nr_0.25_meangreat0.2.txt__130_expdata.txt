@@ -1,0 +1,6 @@
+	"Polydactyly, Postaxial, Type A1"	"Polydactyly, Preaxial 3"	"ACRPS"	"Duane-Radial Ray Syndrome"	"Orphanet:1120"	"Charlie M syndrome"	"Orphanet:2549"	"Orphanet:392"	"Orphanet:84"	"Orphanet:949"	"Orphanet:957"
+"Atrioventricular canal defect"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Triphalangeal thumb"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Spina bifida"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Preaxial polydactyly"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal toenail morphology"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0

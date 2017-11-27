@@ -1,0 +1,5 @@
+"x"
+"1" "Spastic.Paraplegia.9B..Autosom"
+"2" "hereditary.spastic.paraplegia."
+"3" "SPG16"
+"4" "hereditary.spastic.paraplegia."

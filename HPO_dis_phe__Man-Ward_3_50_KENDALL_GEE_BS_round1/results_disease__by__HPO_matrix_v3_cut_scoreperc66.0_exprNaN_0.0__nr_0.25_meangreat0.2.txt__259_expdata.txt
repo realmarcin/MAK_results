@@ -1,0 +1,27 @@
+	"Orphanet:1114"	"Orphanet:2790"	"Orphanet:3152"	"Orphanet:3416"
+"Tall stature"	0.0	0.0	1.0	0.0
+"Mandibular prognathia"	0.0	1.0	0.0	1.0
+"Calvarial skull defect"	1.0	0.0	0.0	0.0
+"Facial palsy"	1.0	1.0	1.0	1.0
+"Aplasia cutis congenita over the scalp vertex"	1.0	0.0	0.0	0.0
+"Increased bone mineral density"	0.0	0.0	1.0	0.0
+"Abnormality of the ribs"	0.0	1.0	0.0	0.0
+"Abnormality of the clavicle"	0.0	0.0	0.0	1.0
+"Craniofacial hyperostosis"	0.0	1.0	1.0	0.0
+"Congenital localized absence of skin"	1.0	0.0	0.0	0.0
+"Prolonged bleeding time"	1.0	0.0	0.0	0.0
+"Abnormality of the nose"	0.0	0.0	1.0	0.0
+"Torus palatinus"	0.0	1.0	0.0	0.0
+"Vertebral body sclerosis"	0.0	1.0	0.0	0.0
+"Clavicular sclerosis"	0.0	1.0	0.0	0.0
+"2-3 finger syndactyly"	0.0	0.0	1.0	0.0
+"Diaphyseal thickening"	0.0	1.0	1.0	1.0
+"Generalized osteosclerosis"	0.0	1.0	0.0	1.0
+"Skin ulcer"	1.0	0.0	0.0	0.0
+"Abnormal form of the vertebral bodies"	0.0	1.0	0.0	0.0
+"Cranial hyperostosis"	0.0	0.0	0.0	1.0
+"Abnormal cortical bone morphology"	0.0	1.0	1.0	1.0
+"Spinal dysraphism"	1.0	0.0	0.0	0.0
+"Fingernail dysplasia"	0.0	0.0	1.0	0.0
+"Abnormality of bone mineral density"	1.0	0.0	0.0	0.0
+"Curved distal phalanges of the hand"	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Miyoshi.myopathy"
+"2" "Distal.anoctaminopathy"
+"3" "Myopathy..Distal..With.Anterio"
+"4" "Muscular.Dystrophy..Limb.Girdl"
+"5" "Muscular.dystrophy..limb.girdl"

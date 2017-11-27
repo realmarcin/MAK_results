@@ -1,0 +1,21 @@
+	"Primary basilar invagination"	"Orphanet:2285"	"Adenosine monophosphate deaminase deficiency"	"Orphanet:681"	"Thyrotoxic periodic paralysis"	"O'Sullivan-McLeod syndrome"
+"Short neck"	1.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003828"	1.0	0.0	0.0	0.0	0.0	0.0
+"Kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Basilar impression"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal vertebral morphology"	0.0	1.0	0.0	0.0	0.0	0.0
+"Muscle cramps"	0.0	0.0	1.0	0.0	1.0	0.0
+"Horner syndrome"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003829"	1.0	0.0	0.0	0.0	0.0	0.0
+"Platybasia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Syringomyelia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Limb muscle weakness"	1.0	0.0	1.0	0.0	0.0	1.0
+"Craniofacial asymmetry"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal cervical myelogram"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the voice"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of eye movement"	0.0	1.0	0.0	0.0	0.0	0.0
+"Exercise-induced myalgia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Exercise-induced muscle fatigue"	0.0	0.0	1.0	1.0	1.0	0.0
+"Hand muscle weakness"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the pharynx"	0.0	1.0	0.0	0.0	0.0	0.0

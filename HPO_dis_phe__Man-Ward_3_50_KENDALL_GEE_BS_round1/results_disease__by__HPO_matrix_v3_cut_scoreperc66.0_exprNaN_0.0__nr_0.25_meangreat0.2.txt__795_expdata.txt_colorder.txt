@@ -1,0 +1,6 @@
+"x"
+"1" "Gait disturbance"
+"2" "Delayed puberty"
+"3" "Hypopigmented skin patches"
+"4" "Hypoplasia of penis"
+"5" "Abnormality of the testis"

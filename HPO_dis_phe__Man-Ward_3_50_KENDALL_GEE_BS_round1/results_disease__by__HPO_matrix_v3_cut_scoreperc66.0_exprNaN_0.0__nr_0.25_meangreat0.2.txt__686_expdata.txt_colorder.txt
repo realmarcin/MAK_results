@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Enuresis"
+"3" "Dagger-shaped pulp calcifications"
+"4" "Abnormal facial expression"

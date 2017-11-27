@@ -1,0 +1,15 @@
+	"Alopecia-Contractures-Dwarfism Mental Retardation Syndrome"	"Rhizomelic Chondrodysplasia Punctata, Type 2"	"Hennekam-Beemer syndrome"	"Warburg Micro Syndrome 1"	"Cerebrooculofacioskeletal syndrome 4"	"Keppen-Lubinsky syndrome"	"Tetraploidy"	"Orphanet:435628"
+"Microcephaly"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Short philtrum"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Flexion contracture"	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Hyperreflexia"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Underdeveloped nasal alae"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Open mouth"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"HP:0001276"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"High, narrow palate"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Progeroid facial appearance"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Spastic tetraparesis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Absence of subcutaneous fat"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Large eyes"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Generalized lipodystrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

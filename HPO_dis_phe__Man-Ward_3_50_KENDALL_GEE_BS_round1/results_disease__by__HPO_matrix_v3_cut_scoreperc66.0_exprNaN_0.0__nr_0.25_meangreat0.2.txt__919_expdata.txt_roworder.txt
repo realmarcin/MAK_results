@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.23"
+"2" "Isolated.cerebellar.hypoplasia"
+"3" "Cerebellar.Hypoplasia.With.End"
+"4" "Anterior.Segment.Dysgenesis.5"
+"5" "Hemorrhagic.destruction.of.the"

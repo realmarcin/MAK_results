@@ -1,0 +1,18 @@
+	"right atrial isomerism"	"Heterotaxy, Visceral, 1, X-Linked"	"Porencephaly-cerebellar hypoplasia-internal malformations syndrome"	"Heterotaxy, Visceral, 7, Autosomal; HTX7"	"Heterotaxy, Visceral, 8, Autosomal; HTX8"
+"HP:0001419"	0.0	1.0	0.0	0.0	0.0
+"Renal agenesis"	0.0	1.0	0.0	0.0	0.0
+"HP:0001417"	0.0	1.0	0.0	0.0	0.0
+"Ventricular septal defect"	1.0	1.0	0.0	0.0	1.0
+"Agenesis of corpus callosum"	1.0	0.0	0.0	0.0	0.0
+"Pulmonary artery atresia"	1.0	0.0	0.0	1.0	1.0
+"Abnormal lung lobation"	1.0	0.0	0.0	0.0	0.0
+"Asplenia"	1.0	1.0	0.0	0.0	0.0
+"Polysplenia"	1.0	1.0	0.0	1.0	0.0
+"Complete atrioventricular canal defect"	1.0	0.0	0.0	0.0	0.0
+"Situs inversus totalis"	1.0	0.0	1.0	1.0	0.0
+"Anomalous pulmonary venous return"	1.0	0.0	0.0	0.0	0.0
+"Right atrial isomerism"	1.0	0.0	0.0	0.0	0.0
+"Common atrium"	1.0	1.0	0.0	1.0	0.0
+"Single ventricle"	0.0	1.0	0.0	0.0	0.0
+"Mitral atresia"	0.0	1.0	0.0	1.0	0.0
+"Posteriorly placed anus"	0.0	1.0	0.0	0.0	0.0

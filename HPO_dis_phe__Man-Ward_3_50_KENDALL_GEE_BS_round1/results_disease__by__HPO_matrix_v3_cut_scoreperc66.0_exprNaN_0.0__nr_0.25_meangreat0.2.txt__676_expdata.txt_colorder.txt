@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Congenital nystagmus"
+"3" "Aplasia cutis congenita of midline scalp vertex"
+"4" "Slow pupillary light response"

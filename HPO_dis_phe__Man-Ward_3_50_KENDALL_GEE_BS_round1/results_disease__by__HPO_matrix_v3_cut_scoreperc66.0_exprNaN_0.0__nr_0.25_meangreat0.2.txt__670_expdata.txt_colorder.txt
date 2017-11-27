@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Premature atrial contractions"
+"3" "Atrial standstill"
+"4" "Atrial cardiomyopathy"

@@ -1,0 +1,12 @@
+	"Spinocerebellar Ataxia, Autosomal Recessive 11"	"Spastic Paraplegia 49, Autosomal Recessive"	"Spinocerebellar ataxia, autosomal recessive 16"	"Spinocerebellar Ataxia, Autosomal Recessive 24"
+"Round face"	0.0	1.0	0.0	0.0
+"Brachycephaly"	0.0	1.0	0.0	0.0
+"Gastroesophageal reflux"	0.0	1.0	0.0	0.0
+"Short neck"	0.0	1.0	0.0	0.0
+"Dental crowding"	0.0	1.0	0.0	0.0
+"Low anterior hairline"	0.0	1.0	0.0	0.0
+"Dysmetria"	0.0	1.0	0.0	0.0
+"Areflexia"	0.0	1.0	0.0	0.0
+"Hypomimic face"	0.0	1.0	0.0	0.0
+"Central apnea"	0.0	1.0	0.0	0.0
+"Broad neck"	0.0	1.0	0.0	0.0

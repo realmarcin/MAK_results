@@ -1,0 +1,7 @@
+"x"
+"1" "Long.QT.syndrome.1"
+"2" "Long.Qt.Syndrome.3"
+"3" "Long.Qt.Syndrome.2"
+"4" "long.QT.syndrome.6"
+"5" "Long.Qt.Syndrome.5"
+"6" "Jervell.and.Lange.Nielsen.synd"

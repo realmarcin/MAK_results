@@ -1,0 +1,16 @@
+	"DECIPHER:21"	"Cystic fibrosis-gastritis-megaloblastic anemia syndrome"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Ring chromosome 1"	"Orphanet:999"
+"Intellectual disability"	0.0	1.0	0.0	0.0	0.0
+"Large earlobe"	0.0	1.0	0.0	0.0	0.0
+"Infertility"	0.0	1.0	0.0	0.0	0.0
+"Biliary cirrhosis"	0.0	1.0	0.0	0.0	0.0
+"Exocrine pancreatic insufficiency"	0.0	1.0	0.0	0.0	0.0
+"Emphysema"	0.0	1.0	0.0	0.0	0.0
+"Hypercalciuria"	0.0	1.0	0.0	0.0	0.0
+"Cor pulmonale"	0.0	1.0	0.0	0.0	0.0
+"Recurrent pneumonia"	0.0	1.0	0.0	0.0	0.0
+"Megaloblastic anemia"	0.0	1.0	0.0	0.0	0.0
+"Folate deficiency"	0.0	1.0	0.0	0.0	0.0
+"Meconium ileus"	0.0	1.0	0.0	0.0	0.0
+"Recurrent bronchopulmonary infections"	0.0	1.0	0.0	0.0	0.0
+"Biliary tract obstruction"	0.0	1.0	0.0	0.0	0.0
+"Microscopic nephrocalcinosis"	0.0	1.0	0.0	0.0	0.0

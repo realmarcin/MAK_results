@@ -1,0 +1,6 @@
+"x"
+"1" "Osteogenesis.Imperfecta..Type."
+"2" "Macroepiphyseal.Dysplasia.With"
+"3" "Geroderma.Osteodysplasticum"
+"4" "Microcephaly..short.stature..a"
+"5" "Orphanet.2078"

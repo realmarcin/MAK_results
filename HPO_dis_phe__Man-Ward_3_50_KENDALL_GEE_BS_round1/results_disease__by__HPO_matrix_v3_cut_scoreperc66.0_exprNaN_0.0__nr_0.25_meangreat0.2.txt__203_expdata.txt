@@ -1,0 +1,15 @@
+	"hereditary spastic paraplegia 17"	"Spastic paraplegia 15"	"Troyer syndrome"	"Distal hereditary motor neuronopathy type 5"	"Charcot-Marie-Tooth Disease, Axonal, Type 2D"	"hereditary spastic paraplegia 11"	"Spastic Paraplegia 26, Autosomal Recessive"	"SPG38"
+"Pes planus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyporeflexia"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"HP:0003674"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Spastic paraplegia"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Distal amyotrophy"	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Hammertoe"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Distal muscle weakness"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Upper limb muscle weakness"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"First dorsal interossei muscle weakness"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Thenar muscle atrophy"	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+"First dorsal interossei muscle atrophy"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Thenar muscle weakness"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Cold-induced hand cramps"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Upper limb amyotrophy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

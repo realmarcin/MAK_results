@@ -1,0 +1,7 @@
+	"Aarskog Syndrome, Autosomal Dominant"	"acrofacial dysostosis, Catania type"	"Hypertelorism, Teebi Type"	"NPLCS"	"Widow'S Peak"	"Acrofrontofacionasal dysostosis"	"Faciodigitogenital Syndrome, Autosomal Recessive"	"Acrofrontofacionasal Dysostosis 2"	"Congenital Disorder of Glycosylation, Type Iic"	"Opitz-Frias syndrome"	"Craniofrontonasal Syndrome"	"Aarskog-Scott Syndrome"	"Widow'S Peak Syndrome"	"Mental Retardation, Microcephaly, Growth Retardation, Joint Contractures, and Facial Dysmorphism"	"Hypertelorism and Other Facial Dysmorphism, Brachydactyly, Genital Abnormalities, Mental Retardation, and Recurrent Inflammatory Episodes"	"Orphanet:1519"	"Orphanet:1520"	"Orphanet:1974"	"Orphanet:2143"
+"Shawl scrotum"	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Widow's peak"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Mild short stature"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Down-sloping shoulders"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Bifid nasal tip"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Long neck"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

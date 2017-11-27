@@ -1,0 +1,5 @@
+"x"
+"1" "Isolated.thyrotropin.releasing"
+"2" "Gurrieri.Syndrome"
+"3" "Cataract..Ataxia..Short.Statur"
+"4" "X5q35.microduplication.syndrom"

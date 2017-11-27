@@ -1,0 +1,5 @@
+"x"
+"1" "Chordoma..Susceptibility.to"
+"2" "OMIM.601884"
+"3" "Cervical.Vertebral.Bridge"
+"4" "Spinal.Intradural.Arachnoid.Cy"

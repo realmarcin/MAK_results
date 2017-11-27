@@ -1,0 +1,7 @@
+	"Hyperimmunoglobulin E syndrome"	"Mesomelia-Synostoses Syndrome"	"Craniosynostosis With Ocular Abnormalities and Hallucal Defects"	"Craniosynostosis 3"	"Kosaki Overgrowth Syndrome"	"Craniosynostosis 6"	"Progeroid and marfanoid aspect-lipodystrophy syndrome"	"Orphanet:2314"
+"Ptosis"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Craniosynostosis"	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Single transverse palmar crease"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Low anterior hairline"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Hallux valgus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

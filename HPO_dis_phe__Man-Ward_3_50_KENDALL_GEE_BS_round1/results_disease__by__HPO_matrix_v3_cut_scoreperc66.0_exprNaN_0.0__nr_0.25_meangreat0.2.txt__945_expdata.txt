@@ -1,0 +1,9 @@
+	"Townes syndrome"	"Facial Dysmorphism With Multiple Malformations"	"Orphanet:1647"	"Orphanet:1780"	"Mycophenolate mofetil embryopathy"
+"Microphthalmia"	0.0	0.0	0.0	0.0	1.0
+"Short palm"	0.0	0.0	0.0	0.0	1.0
+"Intellectual disability, mild"	0.0	0.0	0.0	0.0	1.0
+"Bifid thoracic vertebrae"	0.0	0.0	0.0	0.0	1.0
+"Bifid nose"	0.0	0.0	0.0	0.0	1.0
+"Foot polydactyly"	0.0	0.0	0.0	0.0	1.0
+"Hypoplastic toenails"	0.0	0.0	0.0	0.0	1.0
+"Hydrops fetalis"	0.0	0.0	0.0	0.0	1.0

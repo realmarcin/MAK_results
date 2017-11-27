@@ -1,0 +1,9 @@
+	"Seizures, Benign Familial Neonatal, Autosomal Recessive"	"EIG7"	"EIG3"	"Febrile seizures, familial, 11"	"Epilepsy, familial adult myoclonic, 5"
+"Seizures"	0.0	0.0	1.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"HP:0003812"	0.0	0.0	1.0	0.0	0.0
+"Myoclonus"	0.0	1.0	0.0	0.0	0.0
+"Cutaneous photosensitivity"	0.0	0.0	1.0	0.0	0.0
+"Generalized tonic-clonic seizures"	1.0	1.0	1.0	1.0	1.0
+"Tremor"	0.0	0.0	0.0	0.0	1.0
+"Febrile seizures"	0.0	0.0	0.0	1.0	0.0

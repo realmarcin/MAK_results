@@ -1,0 +1,6 @@
+"x"
+"1" "Triphalangeal thumb"
+"2" "Preaxial polydactyly"
+"3" "Atrioventricular canal defect"
+"4" "Spina bifida"
+"5" "Abnormal toenail morphology"

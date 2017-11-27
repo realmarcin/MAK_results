@@ -1,0 +1,7 @@
+"x"
+"1" "Ulnar.Hypoplasia.With.Mental.R"
+"2" "NDNC9"
+"3" "ECTD5"
+"4" "Dystrophic.epidermolysis.bullo"
+"5" "ECTD8"
+"6" "ECTD6"

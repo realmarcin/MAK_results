@@ -1,0 +1,8 @@
+"x"
+"1" "Abnormality of the thorax"
+"2" "Microphthalmia"
+"3" "Orbital cyst"
+"4" "Heterotopia"
+"5" "Cleft ala nasi"
+"6" "Orbital encephalocele"
+"7" "Focal dermal aplasia/hypoplasia"

@@ -1,0 +1,6 @@
+"x"
+"1" "Focal.cortical.dysplasia.of.Ta"
+"2" "Incisors..Shovel.Shaped"
+"3" "Alopecia.totalis"
+"4" "Pili.bifurcati"
+"5" "Trichodysplasia.amelogenesis.i"

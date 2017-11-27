@@ -1,0 +1,7 @@
+"x"
+"1" "Cutaneous mastocytosis"
+"2" "Dermatographic urticaria"
+"3" "Telangiectasia macularis eruptiva perstans"
+"4" "Anaphylactic shock"
+"5" "Abnormality of the intrahepatic bile duct"
+"6" "Pulmonary carcinoid tumor"

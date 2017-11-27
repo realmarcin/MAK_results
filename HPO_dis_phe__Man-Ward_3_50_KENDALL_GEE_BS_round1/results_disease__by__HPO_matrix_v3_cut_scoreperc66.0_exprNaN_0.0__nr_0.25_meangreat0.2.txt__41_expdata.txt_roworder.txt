@@ -1,0 +1,6 @@
+"x"
+"1" "OMIM.173470"
+"2" "Glanzmann.s.thrombasthenia"
+"3" "von.Willebrand.disease.type.1"
+"4" "Bernard.Soulier.syndrome"
+"5" "Von.Willebrand.Disease..Type.3"

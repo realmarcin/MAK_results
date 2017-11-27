@@ -1,0 +1,8 @@
+"x"
+"1" "Trisomy.17p"
+"2" "Distal.22q11.2.microduplicatio"
+"3" "Orphanet.261112"
+"4" "Ohdo.Syndrome..X.Linked"
+"5" "X1q44.microdeletion.syndrome"
+"6" "Orphanet.251056"
+"7" "Orphanet.46059"

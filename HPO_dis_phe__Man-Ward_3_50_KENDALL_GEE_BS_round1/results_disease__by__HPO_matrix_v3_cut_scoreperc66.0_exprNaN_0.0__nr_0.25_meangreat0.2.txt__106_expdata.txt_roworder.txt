@@ -1,0 +1,5 @@
+"x"
+"1" "Ectodermal.Dysplasia..Trichood"
+"2" "Amenorrhea.Galactorrhea.Syndro"
+"3" "BNAH1"
+"4" "Nipples..Supernumerary"

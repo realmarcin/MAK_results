@@ -1,0 +1,6 @@
+"x"
+"1" "Dysspondyloenchondromatosis"
+"2" "Moved.to.607944"
+"3" "Spondyloenchondrodysplasia.Wit"
+"4" "Spondylometaphyseal.Dysplasia."
+"5" "Myotonia.With.Skeletal.Abnorma"

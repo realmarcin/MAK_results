@@ -1,0 +1,9 @@
+	"Phosphate transport defect"	"Glycogen storage disease due to muscle phosphorylase kinase deficiency"	"Glycogen Storage Disease Ixa1"	"Carnitine Palmitoyltransferase 2 Deficiency, Infantile"	"Glycogen storage disease IXc"	"Hypertriglyceridemia, Transient Infantile"	"Orphanet:371"	"Orphanet:71212"	"Orphanet:98895"
+"Cirrhosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Motor delay"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Splenomegaly"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0003593"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Fasting hypoglycemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bile duct proliferation"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Ketosis"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0

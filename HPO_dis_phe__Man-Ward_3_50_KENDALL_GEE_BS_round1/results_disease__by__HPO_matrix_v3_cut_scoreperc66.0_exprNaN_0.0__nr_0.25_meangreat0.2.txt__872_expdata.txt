@@ -1,0 +1,17 @@
+	"hereditary fructose intolerance syndrome"	"Orphanet:1194"	"Orphanet:1454"	"Orphanet:2971"	"Orphanet:300536"
+"Intellectual disability"	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	0.0	0.0	0.0
+"Hyperuricemia"	1.0	0.0	0.0	0.0	0.0
+"Hypophosphatemia"	1.0	0.0	0.0	0.0	0.0
+"Gastrointestinal hemorrhage"	1.0	0.0	0.0	0.0	0.0
+"Abdominal pain"	1.0	0.0	0.0	0.0	0.0
+"Nausea"	1.0	0.0	0.0	0.0	0.0
+"Glycosuria"	1.0	0.0	0.0	0.0	0.0
+"Coma"	1.0	0.0	0.0	0.0	0.0
+"Malnutrition"	1.0	0.0	0.0	0.0	0.0
+"Hyperphosphaturia"	1.0	0.0	0.0	0.0	0.0
+"Proximal renal tubular acidosis"	1.0	0.0	0.0	0.0	0.0
+"Fructose intolerance"	1.0	0.0	0.0	0.0	0.0
+"Hyperuricosuria"	1.0	0.0	0.0	0.0	0.0
+"Bicarbonaturia"	1.0	0.0	0.0	0.0	0.0
+"Transient aminoaciduria"	1.0	0.0	0.0	0.0	0.0

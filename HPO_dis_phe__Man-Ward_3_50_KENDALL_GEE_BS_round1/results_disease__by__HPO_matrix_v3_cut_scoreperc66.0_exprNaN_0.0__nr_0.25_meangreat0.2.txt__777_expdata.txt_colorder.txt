@@ -1,0 +1,6 @@
+"x"
+"1" "Increased serum lactate"
+"2" "Muscular hypotonia"
+"3" "HP:0001419"
+"4" "CNS demyelination"
+"5" "Neurodegeneration"

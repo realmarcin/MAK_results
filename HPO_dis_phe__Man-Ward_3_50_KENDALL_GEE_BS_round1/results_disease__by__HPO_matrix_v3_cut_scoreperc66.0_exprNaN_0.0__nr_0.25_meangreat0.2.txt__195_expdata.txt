@@ -1,0 +1,9 @@
+	"dyschromatosis symmetrica hereditaria"	"Dyschromatosis universalis"	"BPH"	"Torsion Dystonia With Onset 1N Infancy"	"Familial episodic pain syndrome 1"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"HP:0003593"	1.0	1.0	1.0	1.0	1.0
+"Torsion dystonia"	0.0	0.0	0.0	1.0	0.0
+"Pain"	0.0	0.0	0.0	0.0	1.0
+"Hyperpigmented/hypopigmented macules"	1.0	1.0	0.0	0.0	0.0
+"Pain insensitivity"	0.0	0.0	0.0	0.0	0.0
+"Generalized hyperpigmentation"	0.0	0.0	0.0	0.0	0.0
+"Benign prostatic hyperplasia"	0.0	0.0	1.0	0.0	0.0

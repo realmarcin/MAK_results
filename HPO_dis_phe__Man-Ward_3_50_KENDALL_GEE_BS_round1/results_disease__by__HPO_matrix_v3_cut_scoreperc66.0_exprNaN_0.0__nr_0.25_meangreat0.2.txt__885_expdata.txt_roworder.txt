@@ -1,0 +1,6 @@
+"x"
+"1" "Metabolic.Encephalomyopathic.C"
+"2" "Mitochondrial.Complex.1.Defici"
+"3" "Hsd10.Mitochondrial.Disease"
+"4" "mitochondrial.DNA.depletion.sy"
+"5" "Mitochondrial.Dna.Depletion.Sy"

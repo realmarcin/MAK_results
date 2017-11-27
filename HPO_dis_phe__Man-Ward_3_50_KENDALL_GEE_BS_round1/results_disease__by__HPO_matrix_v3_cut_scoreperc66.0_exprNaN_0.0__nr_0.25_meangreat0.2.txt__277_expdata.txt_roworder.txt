@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual.Developmental.Dis"
+"2" "Mental.Retardation..X.Linked.."
+"3" "Language.delay.and.attention.d"
+"4" "Beta.D.mannosidosis"
+"5" "Mental.Retardation..X.Linked.3"

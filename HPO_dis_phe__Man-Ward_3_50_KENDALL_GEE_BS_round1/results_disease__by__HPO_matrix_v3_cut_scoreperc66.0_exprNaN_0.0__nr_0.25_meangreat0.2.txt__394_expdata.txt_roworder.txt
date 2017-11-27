@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.2645"
+"2" "Orphanet.36"
+"3" "Distal.trisomy.17q"
+"4" "X16p13.11.microdeletion.syndro"
+"5" "Cono.spondylar.dysplasia"

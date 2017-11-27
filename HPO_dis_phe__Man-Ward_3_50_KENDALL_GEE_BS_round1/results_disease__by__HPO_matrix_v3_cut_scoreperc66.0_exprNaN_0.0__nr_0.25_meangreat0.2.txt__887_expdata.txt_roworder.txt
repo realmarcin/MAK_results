@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.33001"
+"2" "Lymphedema..Hereditary..1A"
+"3" "Meige.syndrome"
+"4" "yellow.nail.syndrome"
+"5" "Lymphedema.distichiasis.syndro"

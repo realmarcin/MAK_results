@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.1296"
+"2" "Lambert.syndrome"
+"3" "Hyposmia.nasal.and.ocular.hypo"
+"4" "Triploidy"
+"5" "Beemer.Langer.syndrome"

@@ -1,0 +1,10 @@
+	"Choreoacanthocytosis"	"Parkinsonism-Dystonia, Infantile"	"PCNA-related progressive neurodegenerative photosensitivy syndrome"	"Dyskinesia, Limb and Orofacial, Infantile-Onset"	"Dystonia, Childhood-Onset, with Optic Atrophy and Basal Ganglia Abnormalities; DYTOABG"	"Orphanet:48818"
+"Drooling"	1.0	0.0	0.0	1.0	0.0	0.0
+"Dysarthria"	1.0	0.0	1.0	1.0	1.0	1.0
+"HP:0001276"	0.0	1.0	0.0	0.0	0.0	1.0
+"Unsteady gait"	0.0	0.0	1.0	1.0	0.0	0.0
+"Delayed gross motor development"	0.0	1.0	0.0	0.0	0.0	0.0
+"Feeding difficulties"	0.0	1.0	0.0	1.0	0.0	0.0
+"Frequent falls"	0.0	0.0	0.0	1.0	0.0	0.0
+"Dyskinesia"	0.0	1.0	0.0	1.0	1.0	0.0
+"Hyperkinesis"	0.0	0.0	0.0	1.0	0.0	0.0

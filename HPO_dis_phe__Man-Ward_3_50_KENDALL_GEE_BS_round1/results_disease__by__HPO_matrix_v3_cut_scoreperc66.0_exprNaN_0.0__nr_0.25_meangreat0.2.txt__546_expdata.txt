@@ -1,0 +1,9 @@
+	"Epilepsy, Photogenic, With Spastic Diplegia and Mental Retardation"	"Lissencephaly 2"	"Saccharopinuria"	"Spastic Diplegia and Mental Retardation"	"Primary autosomal recessive microcephaly 3"	"Craniosynostosis-intracranial calcifications syndrome"
+"Microcephaly"	0.0	1.0	0.0	0.0	1.0	1.0
+"Prominent nasal bridge"	0.0	1.0	0.0	0.0	0.0	1.0
+"Craniosynostosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplasia of the maxilla"	0.0	0.0	0.0	0.0	0.0	1.0
+"Basal ganglia calcification"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	0.0	0.0	0.0	1.0
+"Proptosis"	0.0	0.0	0.0	0.0	1.0	1.0
+"Prominent supraorbital ridges"	0.0	0.0	0.0	0.0	0.0	1.0

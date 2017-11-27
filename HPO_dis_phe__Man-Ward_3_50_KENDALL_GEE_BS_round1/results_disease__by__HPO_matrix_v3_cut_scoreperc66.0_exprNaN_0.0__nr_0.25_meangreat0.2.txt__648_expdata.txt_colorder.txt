@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Distal widening of metacarpals"
+"3" "Large sternal ossification centers"
+"4" "Bullet-shaped middle phalanges of the hand"

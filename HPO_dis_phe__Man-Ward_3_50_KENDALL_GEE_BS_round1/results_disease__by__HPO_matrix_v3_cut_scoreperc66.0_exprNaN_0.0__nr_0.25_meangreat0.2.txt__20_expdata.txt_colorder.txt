@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Infertility"
+"3" "Azoospermia"
+"4" "Abnormal sperm morphology"
+"5" "Oligospermia"

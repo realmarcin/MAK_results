@@ -1,0 +1,6 @@
+"x"
+"1" "Epileptic encephalopathy"
+"2" "Chronic constipation"
+"3" "Limb ataxia"
+"4" "Optic disc pallor"
+"5" "Multifocal epileptiform discharges"

@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormality of the skeletal system"
+"2" "Vesicoureteral reflux"
+"3" "Overgrowth"
+"4" "HP:0000006"
+"5" "Raynaud phenomenon"
+"6" "Abnormality of the genitourinary system"

@@ -1,0 +1,10 @@
+	"Neurofibromatosis-Noonan syndrome"	"Legius Syndrome"	"Noonan syndrome 7"	"Noonan syndrome 10"
+"Midface retrusion"	1.0	0.0	0.0	0.0
+"Malar flattening"	1.0	0.0	0.0	0.0
+"Muscle weakness"	1.0	0.0	0.0	0.0
+"Webbed neck"	1.0	0.0	0.0	0.0
+"Secundum atrial septal defect"	1.0	0.0	0.0	0.0
+"Optic glioma"	1.0	0.0	0.0	0.0
+"Lisch nodules"	1.0	0.0	0.0	0.0
+"Inguinal freckling"	1.0	0.0	0.0	0.0
+"Prominent nasolabial fold"	1.0	0.0	0.0	0.0

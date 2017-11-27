@@ -1,0 +1,6 @@
+"x"
+"1" "OMIM.608967"
+"2" "OMIM.610380"
+"3" "Diaphyseal.medullary.stenosis."
+"4" "Ehlers.Danlos.syndrome..type.4"
+"5" "Orphanet.90309"

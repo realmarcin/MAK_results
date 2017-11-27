@@ -1,0 +1,13 @@
+	"Palmoplantar Keratoderma and Congenital Alopecia 1"	"Epidermolysis Bullosa Simplex, Dowling-Meara Type"	"Epidermolysis Bullosa Simplex, Generalized"	"Pachyonychia congenita type 2"	"Odontotrichoungual-Digital-Palmar Syndrome"	"Palmoplantar Keratoderma, Mutilating, With Periorificial Keratotic Plaques"	"Pachyonychia Congenita 4"	"Bazex syndrome"
+"Hoarse voice"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Sparse scalp hair"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Palmoplantar hyperkeratosis"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Palmoplantar hyperhidrosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Sparse and thin eyebrow"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Epidermoid cyst"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Dry hair"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Natal tooth"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Folliculitis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Subungual hyperkeratosis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Steatocystoma multiplex"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,13 @@
+	"Parietal Foramina"	"Congenital stationary night blindness, type 2A"	"Infantile nystagmus, X-linked"	"Osteopetrosis, Autosomal Dominant 1"	"PFM3"	"Parietal Foramina 2"	"Hyperinsulinemic Hypoglycemia, Familial, 4"
+"Seizures"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypertelorism"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Parietal foramina"	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Depressed nasal bridge"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Cleft palate"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cleft upper lip"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Encephalocele"	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Headache"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Symmetrical, oval parietal bone defects"	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Aplasia cutis congenita of scalp"	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Wide nasal ridge"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

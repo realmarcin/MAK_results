@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Conjunctival hyperemia"
+"3" "Abnormal external genitalia"
+"4" "Intestinal lymphedema"
+"5" "Chemosis"

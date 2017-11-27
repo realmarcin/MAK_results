@@ -1,0 +1,9 @@
+	"Heterotopia, periventricular, autosomal recessive"	"D-2-hydroxyglutaric aciduria 2"	"Periventricular Nodular Heterotopia 6"	"hypomyelinating leukodystrophy 12"	"Orphanet:439218"
+"Pallor"	0.0	0.0	0.0	0.0	1.0
+"Apnea"	0.0	0.0	0.0	0.0	1.0
+"Facial erythema"	0.0	0.0	0.0	0.0	1.0
+"Poor gross motor coordination"	0.0	0.0	0.0	0.0	1.0
+"Cerebral edema"	0.0	0.0	0.0	0.0	1.0
+"Epileptic encephalopathy"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the globus pallidus"	0.0	0.0	0.0	0.0	1.0
+"Profound global developmental delay"	0.0	0.0	0.0	0.0	1.0

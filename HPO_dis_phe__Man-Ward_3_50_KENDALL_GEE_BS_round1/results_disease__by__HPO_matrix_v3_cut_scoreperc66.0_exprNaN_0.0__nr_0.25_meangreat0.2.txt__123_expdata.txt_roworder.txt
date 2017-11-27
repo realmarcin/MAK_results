@@ -1,0 +1,5 @@
+"x"
+"1" "Multiple.Endocrine.Neoplasia.T"
+"2" "Late.onset.isolated.ACTH.defic"
+"3" "Orphanet.85138"
+"4" "Acute.adrenal.insufficiency"

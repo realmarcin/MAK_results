@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.171"
+"2" "Cholangiocarcinoma..Susceptibi"
+"3" "Orphanet.3386"
+"4" "Orphanet.99978"
+"5" "Phosphate.transport.defect"

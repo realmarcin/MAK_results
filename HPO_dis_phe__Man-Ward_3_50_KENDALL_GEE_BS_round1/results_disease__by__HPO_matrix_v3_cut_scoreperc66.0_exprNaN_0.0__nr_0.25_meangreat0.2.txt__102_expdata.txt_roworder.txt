@@ -1,0 +1,6 @@
+"x"
+"1" "Epilepsy..progressive.myocloni"
+"2" "SPAX7"
+"3" "Charlevoix.Saguenay.spastic.at"
+"4" "Spinocerebellar.ataxia.42"
+"5" "Orphanet.1182"

@@ -1,0 +1,21 @@
+	"Orphanet:319213"	"Orphanet:319218"	"Viral hemorrhagic fever"	"Orphanet:99824"
+"Seizures"	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	0.0	1.0	1.0
+"Diarrhea"	1.0	1.0	1.0	1.0
+"Conjunctivitis"	0.0	0.0	0.0	1.0
+"Skin rash"	1.0	1.0	1.0	1.0
+"Gastrointestinal hemorrhage"	1.0	1.0	1.0	1.0
+"Subcutaneous nodule"	0.0	0.0	0.0	1.0
+"Pleural effusion"	0.0	0.0	0.0	1.0
+"Migraine"	0.0	0.0	1.0	0.0
+"Vertigo"	0.0	0.0	0.0	1.0
+"Increased intracranial pressure"	0.0	0.0	0.0	1.0
+"Decreased liver function"	0.0	0.0	1.0	0.0
+"Spontaneous abortion"	0.0	0.0	1.0	1.0
+"Palpebral edema"	0.0	0.0	0.0	1.0
+"Lymphadenopathy"	0.0	0.0	0.0	1.0
+"Chemosis"	0.0	1.0	0.0	1.0
+"Subcutaneous hemorrhage"	0.0	0.0	1.0	0.0
+"Recurrent bronchiolitis"	0.0	0.0	1.0	0.0
+"Retrobulbar optic neuritis"	0.0	0.0	1.0	0.0
+"Reduced consciousness/confusion"	0.0	0.0	1.0	0.0

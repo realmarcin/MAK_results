@@ -1,0 +1,13 @@
+	"Nephronophthisis 1"	"Polycystic Kidney Disease 4 With or Without Hepatic Disease"	"Senior-Loken Syndrome 1"	"Short-Rib Thoracic Dysplasia 9 With or Without Polydactyly"	"Nephronophthisis 2"	"Adolescent nephronophthisis"	"Nephronophthisis 4"	"SLSN3"	"Senior-Loken syndrome 4"	"Nephronophthisis 7"	"Nephronophthisis 11"	"Nephronophthisis 18"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypertension"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Growth delay"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Anisocoria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Anemia"	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Polyuria"	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Polydipsia"	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Tubular atrophy"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Renal corticomedullary cysts"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Tubulointerstitial fibrosis"	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Tubular basement membrane disintegration"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hyposthenuria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

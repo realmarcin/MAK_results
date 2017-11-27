@@ -1,0 +1,7 @@
+	"Autosomal dominant severe congenital neutropenia"	"Combined Inflammatory and Immunologic Defect"	"Immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency"	"Neutrophil Immunodeficiency Syndrome"	"Immunodeficiency 13"	"Immunodeficiency 36"
+"HP:0000007"	1.0	1.0	0.0	0.0	0.0	0.0
+"Growth abnormality"	1.0	1.0	0.0	0.0	0.0	0.0
+"Eosinophilia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the lymph nodes"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased IgA level"	0.0	1.0	0.0	0.0	0.0	0.0
+"Reduced delayed hypersensitivity"	0.0	1.0	0.0	0.0	0.0	0.0

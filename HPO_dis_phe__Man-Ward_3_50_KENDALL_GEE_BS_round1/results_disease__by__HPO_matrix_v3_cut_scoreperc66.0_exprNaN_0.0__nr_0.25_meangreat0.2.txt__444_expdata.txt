@@ -1,0 +1,6 @@
+	"Pigmentary retinal dystrophy"	"Familial benign flecked retina"	"Stargardt Disease 1"	"Retinitis Pigmentosa Inversa With Deafness"	"Cone-Rod Dystrophy 7"	"Stargardt Disease 4"	"Bestrophinopathy, Autosomal Recessive"	"retinitis pigmentosa 50"
+"Retinal flecks"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Fundus albipunctatus"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diffuse retinal cone degeneration"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bull's eye maculopathy"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Retinitis pigmentosa inversa"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0

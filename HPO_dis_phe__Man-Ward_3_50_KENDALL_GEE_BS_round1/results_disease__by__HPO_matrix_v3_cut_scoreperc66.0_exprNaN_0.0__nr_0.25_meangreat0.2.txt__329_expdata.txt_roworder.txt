@@ -1,0 +1,7 @@
+"x"
+"1" "hyperargininemia"
+"2" "Orphanet.90"
+"3" "Hyperprolinemia..Type.1"
+"4" "Deficiency.of.beta.ureidopropi"
+"5" "Dyskinesia..seizures..and.inte"
+"6" "Beta.D.mannosidosis"

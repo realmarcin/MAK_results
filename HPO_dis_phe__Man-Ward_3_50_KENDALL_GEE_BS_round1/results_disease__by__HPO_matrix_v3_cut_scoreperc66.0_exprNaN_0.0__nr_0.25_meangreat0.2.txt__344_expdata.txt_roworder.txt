@@ -1,0 +1,6 @@
+"x"
+"1" "Hyperlysinuria.With.Hyperammon"
+"2" "Hyperdibasic.aminoaciduria.typ"
+"3" "Thyroid.Dyshormonogenesis.1"
+"4" "Lysine.Malabsorption.Syndrome"
+"5" "Deficiency.of.iodide.peroxidas"

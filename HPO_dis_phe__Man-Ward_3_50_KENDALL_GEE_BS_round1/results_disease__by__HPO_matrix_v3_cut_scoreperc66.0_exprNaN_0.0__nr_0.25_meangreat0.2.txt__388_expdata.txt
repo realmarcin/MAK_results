@@ -1,0 +1,9 @@
+	"Kenny-Caffey Syndrome, Type 1"	"Dermoid Cysts, Familial Frontonasal"	"Orphanet:1014"	"Orphanet:1551"	"Orphanet:293964"
+"Seizures"	1.0	1.0	0.0	1.0	0.0
+"Hypertelorism"	1.0	1.0	0.0	0.0	0.0
+"Wide nasal bridge"	0.0	1.0	0.0	1.0	0.0
+"Anosmia"	0.0	1.0	0.0	0.0	0.0
+"Papilledema"	0.0	1.0	0.0	0.0	0.0
+"Nasal obstruction"	0.0	1.0	0.0	0.0	0.0
+"Personality changes"	0.0	1.0	0.0	0.0	0.0
+"Deviated nasal septum"	0.0	1.0	0.0	0.0	0.0

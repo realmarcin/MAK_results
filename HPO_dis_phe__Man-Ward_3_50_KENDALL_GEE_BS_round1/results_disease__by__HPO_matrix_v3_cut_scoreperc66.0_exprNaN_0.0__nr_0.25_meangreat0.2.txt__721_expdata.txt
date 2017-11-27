@@ -1,0 +1,17 @@
+	"orofaciodigital syndrome V"	"Dextrocardia With Unusual Facies and Microphthalmia"	"Hypospadias-intellectual disability, Goldblatt type syndrome"	"orofaciodigital syndrome III"	"Male Pseudohermaphroditism/Mental Retardation Syndrome, Verloes Type"	"Epilepsy, progressive myoclonic 3"	"Joubert Syndrome 18"	"Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 4"	"Orofaciodigital syndrome xiv"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Telecanthus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Absent speech"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Intellectual disability, severe"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cleft palate"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Micropenis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0003577"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Increased number of teeth"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Trigonocephaly"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Lobulated tongue"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Bifid tongue"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Postaxial polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Molar tooth sign on MRI"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Hamartoma of tongue"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Aplasia of the epiglottis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

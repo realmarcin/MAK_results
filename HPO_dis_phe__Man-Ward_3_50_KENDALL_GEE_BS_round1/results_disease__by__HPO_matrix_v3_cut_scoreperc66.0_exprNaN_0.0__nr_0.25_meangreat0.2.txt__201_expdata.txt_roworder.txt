@@ -1,0 +1,5 @@
+"x"
+"1" "Spastic.paraplegia.15"
+"2" "hereditary.spastic.paraplegia."
+"3" "Distal.hereditary.motor.neuron"
+"4" "Charcot.Marie.Tooth.Disease..A"

@@ -1,0 +1,6 @@
+"x"
+"1" "Warsaw.Breakage.Syndrome"
+"2" "Hadziselimovic.Syndrome"
+"3" "Cleft.Palate..Cardiac.Defects."
+"4" "Dias.Logan.Syndrome..DILOS"
+"5" "Wiedemann.Steiner.Syndrome"

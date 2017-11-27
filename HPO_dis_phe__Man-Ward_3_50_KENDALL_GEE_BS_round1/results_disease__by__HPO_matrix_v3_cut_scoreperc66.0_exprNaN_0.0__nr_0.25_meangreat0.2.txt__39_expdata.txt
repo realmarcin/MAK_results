@@ -1,0 +1,6 @@
+	"Cervical Vertebral Bridge"	"Spinal Intradural Arachnoid Cysts"	"Chordoma, Susceptibility to"	"OMIM:601884"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Abnormality of the vertebral column"	1.0	1.0	1.0	1.0
+"Abnormality of the head"	0.0	0.0	1.0	0.0
+"Chordoma"	0.0	0.0	1.0	0.0
+"HP:0004563"	0.0	0.0	0.0	1.0

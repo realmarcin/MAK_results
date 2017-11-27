@@ -1,0 +1,8 @@
+"x"
+"1" "Fechtner.Syndrome"
+"2" "Epstein.syndrome"
+"3" "Systemic.Lupus.Erythematosus"
+"4" "PEE1"
+"5" "Sebastian.Syndrome"
+"6" "Thrombocytopenia.With.Elevated"
+"7" "Von.Willebrand.Disease..X.Link"

@@ -1,0 +1,13 @@
+	"Stormorken Syndrome"	"Chondrodysplasia Punctata 1, X-Linked Recessive"	"Orphanet:3204"	"Orphanet:3319"
+"Deeply set eye"	1.0	0.0	1.0	0.0
+"Short stature"	1.0	1.0	1.0	1.0
+"Neurological speech impairment"	0.0	0.0	1.0	0.0
+"Thrombocytopenia"	1.0	0.0	0.0	1.0
+"Ichthyosis"	1.0	1.0	1.0	0.0
+"Abnormality of the musculature"	0.0	0.0	1.0	0.0
+"Miosis"	1.0	0.0	1.0	0.0
+"Anemia"	1.0	0.0	1.0	1.0
+"Asplenia"	1.0	0.0	1.0	0.0
+"Purpura"	0.0	0.0	1.0	0.0
+"Abnormality of coagulation"	0.0	0.0	1.0	0.0
+"Abnormality of thrombocytes"	0.0	0.0	1.0	0.0

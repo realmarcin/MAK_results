@@ -1,0 +1,12 @@
+	"Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, and Cerebral Calcification"	"Perrault Syndrome 3"	"Mental Retardation, Autosomal Recessive 57"	"OMIM:617350"
+"Abnormal pyramidal signs"	0.0	0.0	0.0	1.0
+"Generalized hypotonia"	0.0	0.0	1.0	1.0
+"Polymicrogyria"	0.0	0.0	1.0	0.0
+"Hyperreflexia"	0.0	0.0	1.0	0.0
+"Limb ataxia"	0.0	0.0	0.0	1.0
+"Focal seizures"	0.0	0.0	1.0	0.0
+"Febrile seizures"	0.0	0.0	1.0	1.0
+"Autistic behavior"	0.0	0.0	1.0	0.0
+"Generalized myoclonic seizures"	0.0	0.0	1.0	1.0
+"Atypical absence seizures"	0.0	0.0	0.0	1.0
+"Hemiclonic seizures"	0.0	0.0	0.0	1.0

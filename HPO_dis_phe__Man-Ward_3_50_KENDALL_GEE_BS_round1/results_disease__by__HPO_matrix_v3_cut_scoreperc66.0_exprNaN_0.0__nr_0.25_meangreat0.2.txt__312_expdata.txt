@@ -1,0 +1,20 @@
+	"Spondyloepimetaphyseal Dysplasia, X-Linked, With Mental Deterioration"	"Hydrocephalus-costovertebral dysplasia-Sprengel anomaly syndrome"	"Roifman-Chitayat Syndrome"	"Spondyloepimetaphyseal dysplasia, Faden-Alkuraya type"
+"Low-set ears"	1.0	1.0	0.0	1.0
+"Bulbous nose"	0.0	1.0	0.0	0.0
+"Short femoral neck"	1.0	0.0	0.0	1.0
+"Arachnoid cyst"	0.0	1.0	0.0	0.0
+"Osteopenia"	0.0	0.0	1.0	1.0
+"Arthritis"	0.0	0.0	1.0	0.0
+"Abnormal facial shape"	0.0	0.0	1.0	1.0
+"Sprengel anomaly"	0.0	1.0	0.0	0.0
+"Thoracolumbar scoliosis"	0.0	0.0	0.0	1.0
+"Lacrimal duct stenosis"	0.0	0.0	1.0	0.0
+"Psychosis"	0.0	1.0	0.0	0.0
+"Delayed gross motor development"	0.0	1.0	0.0	0.0
+"Small epiphyses"	1.0	0.0	0.0	1.0
+"Autistic behavior"	0.0	0.0	0.0	1.0
+"Thick vermilion border"	0.0	0.0	0.0	1.0
+"Abnormality of the cerebral white matter"	0.0	1.0	0.0	0.0
+"Proximal femoral epiphysiolysis"	0.0	0.0	0.0	1.0
+"Narrow pelvis bone"	0.0	0.0	0.0	1.0
+"Thin lower lip vermilion"	0.0	0.0	1.0	0.0

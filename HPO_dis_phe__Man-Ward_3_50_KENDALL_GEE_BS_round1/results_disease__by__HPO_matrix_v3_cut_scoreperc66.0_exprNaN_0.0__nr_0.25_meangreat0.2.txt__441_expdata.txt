@@ -1,0 +1,28 @@
+	"Orphanet:1185"	"Brain malformation-congenital heart disease-postaxial polydactyly syndrome"	"Orphanet:75496"	"Orphanet:86818"
+"Aortic valve stenosis"	0.0	0.0	1.0	0.0
+"Hyperextensible skin"	1.0	0.0	1.0	0.0
+"Flexion contracture"	0.0	0.0	1.0	0.0
+"Pes planus"	0.0	0.0	1.0	0.0
+"Genu recurvatum"	1.0	0.0	0.0	0.0
+"Pulmonic stenosis"	0.0	0.0	1.0	0.0
+"Broad forehead"	1.0	0.0	0.0	0.0
+"Osteopenia"	0.0	0.0	1.0	0.0
+"Kyphoscoliosis"	0.0	0.0	1.0	0.0
+"Skeletal dysplasia"	0.0	0.0	1.0	0.0
+"Thin skin"	0.0	0.0	1.0	0.0
+"Sparse scalp hair"	0.0	0.0	1.0	0.0
+"Abnormality of skin pigmentation"	0.0	0.0	1.0	0.0
+"Cutis laxa"	0.0	0.0	1.0	0.0
+"Sparse eyelashes"	0.0	0.0	1.0	0.0
+"Gingivitis"	0.0	0.0	1.0	0.0
+"Coarse hair"	1.0	1.0	0.0	0.0
+"Downturned corners of mouth"	1.0	0.0	0.0	0.0
+"Sparse and thin eyebrow"	0.0	0.0	1.0	0.0
+"Atrophic scars"	0.0	0.0	1.0	0.0
+"Palmoplantar cutis gyrata"	0.0	0.0	1.0	0.0
+"Progeroid facial appearance"	0.0	0.0	1.0	0.0
+"Thick vermilion border"	1.0	0.0	0.0	1.0
+"Lipodystrophy"	0.0	0.0	1.0	0.0
+"Slender long bone"	1.0	0.0	0.0	0.0
+"Testicular torsion"	0.0	0.0	1.0	0.0
+"Abnormality of primary teeth"	0.0	0.0	1.0	0.0

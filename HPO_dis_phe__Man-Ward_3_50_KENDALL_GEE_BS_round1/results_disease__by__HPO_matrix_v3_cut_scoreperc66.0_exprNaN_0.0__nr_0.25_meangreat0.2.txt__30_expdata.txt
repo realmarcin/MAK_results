@@ -1,0 +1,7 @@
+	"PPKP3"	"acrokeratosis verruciformis"	"Psoriasis 2"	"Cole Disease"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Hyperkeratosis"	1.0	1.0	1.0	1.0
+"Acrokeratosis"	1.0	1.0	0.0	0.0
+"Ridged nail"	0.0	1.0	0.0	0.0
+"Epidermal acanthosis"	0.0	1.0	1.0	1.0
+"Seborrheic dermatitis"	0.0	0.0	0.0	0.0

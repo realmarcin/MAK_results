@@ -1,0 +1,10 @@
+	"Legius Syndrome"	"LEOPARD syndrome 3"	"Orphanet:1131"	"Orphanet:638"
+"Seizures"	0.0	1.0	0.0	0.0
+"Short stature"	0.0	1.0	1.0	1.0
+"Neonatal hypotonia"	0.0	1.0	0.0	0.0
+"Tetralogy of Fallot"	0.0	1.0	0.0	0.0
+"Growth delay"	0.0	1.0	0.0	0.0
+"Multiple cafe-au-lait spots"	0.0	1.0	0.0	1.0
+"Numerous nevi"	0.0	1.0	0.0	0.0
+"Abnormality of the mitral valve"	0.0	1.0	1.0	0.0
+"Abnormality of the aortic valve"	0.0	1.0	0.0	0.0

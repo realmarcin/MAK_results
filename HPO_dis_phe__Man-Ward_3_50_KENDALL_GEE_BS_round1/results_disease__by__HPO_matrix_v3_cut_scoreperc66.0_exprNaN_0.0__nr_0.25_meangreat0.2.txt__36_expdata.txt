@@ -1,0 +1,6 @@
+	"Alport Syndrome, Autosomal Dominant"	"Azotemia, Familial"	"autosomal recessive Alport syndrome"	"X-linked Alport syndrome"	"X-linked diffuse leiomyomatosis-Alport syndrome"
+"Lenticonus"	1.0	0.0	0.0	0.0	0.0
+"Azotemia"	1.0	1.0	0.0	0.0	0.0
+"Thickening of the glomerular basement membrane"	1.0	0.0	1.0	1.0	1.0
+"Diffuse glomerular basement membrane lamellation"	1.0	0.0	1.0	1.0	1.0
+"Anterior lenticonus"	0.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,24 @@
+	"Blue Rubber Bleb Nevus"	"Juvenile Polyposis Syndrome"	"Peutz-Jeghers Syndrome"	"Cronkhite-Canada syndrome"	"Orphanet:2930"	"AApoAIV amyloidosis"
+"Abnormality of the liver"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0	0.0	0.0
+"Breast carcinoma"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the mouth"	1.0	0.0	1.0	0.0	0.0	0.0
+"Pathologic fracture"	1.0	0.0	0.0	0.0	0.0	0.0
+"Thrombocytopenia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hemangioma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypermelanotic macule"	1.0	0.0	1.0	0.0	0.0	0.0
+"Iron deficiency anemia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Rectal prolapse"	1.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the respiratory system"	1.0	0.0	0.0	0.0	0.0	0.0
+"Intussusception"	1.0	1.0	1.0	0.0	0.0	0.0
+"Volvulus"	1.0	0.0	0.0	0.0	0.0	0.0
+"Intestinal bleeding"	1.0	0.0	1.0	0.0	0.0	0.0
+"Chronic disseminated intravascular coagulation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar medulloblastoma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Biliary tract abnormality"	0.0	0.0	1.0	0.0	0.0	0.0
+"Gynecomastia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the ureter"	0.0	0.0	1.0	0.0	0.0	0.0
+"Neoplasm of the pancreas"	0.0	0.0	1.0	0.0	0.0	0.0
+"Nasal polyposis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Ovarian cyst"	0.0	0.0	1.0	0.0	0.0	0.0
+"Precocious puberty with Sertoli cell tumor"	0.0	0.0	1.0	0.0	0.0	0.0

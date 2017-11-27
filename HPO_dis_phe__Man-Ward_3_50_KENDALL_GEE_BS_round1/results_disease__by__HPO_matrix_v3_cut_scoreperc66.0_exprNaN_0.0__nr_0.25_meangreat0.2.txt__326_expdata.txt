@@ -1,0 +1,11 @@
+	"Ventriculomegaly With Cystic Kidney Disease"	"Hydrocephalus"	"Hydrocephalus, Nonsyndromic, Autosomal Recessive 2"	"Orphanet:1361"	"Orphanet:79156"
+"HP:0000007"	1.0	1.0	1.0	0.0	0.0
+"Ventricular septal defect"	1.0	0.0	0.0	0.0	0.0
+"Ventriculomegaly"	1.0	1.0	0.0	0.0	0.0
+"Hydrocephalus"	1.0	1.0	0.0	0.0	0.0
+"Renal insufficiency"	1.0	0.0	0.0	0.0	0.0
+"Premature birth"	1.0	0.0	0.0	0.0	0.0
+"Polyhydramnios"	1.0	0.0	0.0	0.0	0.0
+"HP:0003577"	1.0	1.0	1.0	0.0	0.0
+"Renal corticomedullary cysts"	1.0	0.0	0.0	0.0	0.0
+"Postaxial polydactyly"	1.0	0.0	0.0	0.0	0.0

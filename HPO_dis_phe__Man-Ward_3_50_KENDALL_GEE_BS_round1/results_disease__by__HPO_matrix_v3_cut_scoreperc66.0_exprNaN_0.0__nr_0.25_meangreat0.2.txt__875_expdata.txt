@@ -1,0 +1,6 @@
+	"Craniodiaphyseal Dysplasia, Autosomal Dominant"	"Mccune-Albright Syndrome"	"Orphanet:1133"	"Blepharophimosis-radioulnar synostosis syndrome"	"Orphanet:1522"	"Orphanet:1782"	"Orphanet:1826"	"Orphanet:189"	"Orphanet:192"	"Orphanet:2396"	"Orphanet:2588"	"Orphanet:2725"	"Orphanet:2789"	"Orphanet:3068"	"Orphanet:3219"	"Orphanet:577"	"Orphanet:581"	"Orphanet:61"	"Orphanet:910"	"Orphanet:93357"	"Orphanet:965"
+"Craniofacial hyperostosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"2-3 finger syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diaphyseal thickening"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal cortical bone morphology"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Curved distal phalanges of the hand"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

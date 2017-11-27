@@ -1,0 +1,9 @@
+	"Gaba-Transaminase Deficiency"	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	1.0	0.0	0.0	0.0
+"Tall stature"	1.0	0.0	0.0	0.0
+"Leukodystrophy"	1.0	0.0	0.0	0.0
+"Death in childhood"	1.0	0.0	0.0	0.0
+"Agenesis of corpus callosum"	1.0	0.0	0.0	0.0
+"Posterior fossa cyst"	1.0	0.0	0.0	0.0
+"Lethargy"	1.0	0.0	0.0	0.0
+"High-pitched cry"	1.0	0.0	0.0	0.0

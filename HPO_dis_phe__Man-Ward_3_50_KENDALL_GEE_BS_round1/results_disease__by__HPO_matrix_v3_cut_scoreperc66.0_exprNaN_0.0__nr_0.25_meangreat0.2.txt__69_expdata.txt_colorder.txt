@@ -1,0 +1,5 @@
+"x"
+"1" "Joint contracture of the hand"
+"2" "Camptodactyly"
+"3" "Radial deviation of finger"
+"4" "Clinodactyly"

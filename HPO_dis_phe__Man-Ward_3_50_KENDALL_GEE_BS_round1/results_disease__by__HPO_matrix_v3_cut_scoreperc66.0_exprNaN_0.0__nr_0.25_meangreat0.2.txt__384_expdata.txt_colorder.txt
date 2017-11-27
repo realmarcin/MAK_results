@@ -1,0 +1,7 @@
+"x"
+"1" "Cholangiocarcinoma"
+"2" "Abnormal large intestine physiology"
+"3" "Elevated alkaline phosphatase of hepatic origin"
+"4" "Dilated superficial abdominal veins"
+"5" "Adenocarcinoma of the large intestine"
+"6" "Neoplasm of the gallbladder"

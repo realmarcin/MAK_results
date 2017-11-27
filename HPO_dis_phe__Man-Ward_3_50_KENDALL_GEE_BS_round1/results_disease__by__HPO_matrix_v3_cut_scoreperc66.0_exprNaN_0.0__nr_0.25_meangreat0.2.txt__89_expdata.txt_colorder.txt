@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Craniosynostosis"
+"3" "Ptosis"
+"4" "Low anterior hairline"
+"5" "Single transverse palmar crease"
+"6" "Hallux valgus"

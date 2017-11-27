@@ -1,0 +1,5 @@
+"x"
+"1" "Lethargy"
+"2" "Sudden death"
+"3" "Pigmentary retinopathy"
+"4" "Decreased activity of 3-hydroxyacyl-CoA dehydrogenase"

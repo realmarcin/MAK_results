@@ -1,0 +1,6 @@
+"x"
+"1" "Desmoid.disease..hereditary"
+"2" "Lynch.Syndrome.1"
+"3" "Epidermoid.Cysts"
+"4" "Lynch.2.Syndrome"
+"5" "Polyposis.Syndrome..Hereditary"

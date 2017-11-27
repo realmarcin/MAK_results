@@ -1,0 +1,21 @@
+	"creatine transporter deficiency"	"chromosome 1p36 deletion syndrome"	"Orphanet:52503"	"Orphanet:847"	"Kleefstra syndrome due to 9q34 microdeletion"
+"Seizures"	1.0	1.0	1.0	1.0	0.0
+"Hypermetropia"	1.0	1.0	0.0	0.0	0.0
+"Dystonia"	1.0	0.0	1.0	0.0	0.0
+"Spasticity"	1.0	0.0	0.0	0.0	0.0
+"Vomiting"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	0.0	0.0	0.0	0.0
+"Mask-like facies"	0.0	0.0	1.0	0.0	0.0
+"HP:0001276"	0.0	0.0	1.0	0.0	0.0
+"Chorea"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of creatine metabolism"	0.0	0.0	1.0	0.0	0.0
+"Redundant skin"	0.0	0.0	1.0	0.0	0.0
+"Athetosis"	0.0	0.0	1.0	0.0	0.0
+"Aganglionic megacolon"	1.0	0.0	1.0	1.0	0.0
+"Myopathic facies"	1.0	0.0	0.0	0.0	0.0
+"Cachexia"	0.0	0.0	1.0	0.0	0.0
+"Delayed myelination"	1.0	0.0	0.0	0.0	0.0
+"Impaired social interactions"	1.0	1.0	0.0	0.0	0.0
+"Ileus"	1.0	0.0	1.0	0.0	0.0
+"Poor hand-eye coordination"	1.0	0.0	0.0	0.0	0.0
+"Underfolded superior helices"	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Cerebral calcification"
+"3" "Renal phosphate wasting"
+"4" "Premature anterior fontanel closure"
+"5" "Renal hypophosphatemia"

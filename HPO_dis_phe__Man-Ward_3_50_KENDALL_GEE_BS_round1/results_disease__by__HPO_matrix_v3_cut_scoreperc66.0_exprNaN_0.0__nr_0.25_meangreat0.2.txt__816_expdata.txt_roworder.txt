@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.3424"
+"2" "Velofacioskeletal.Syndrome"
+"3" "Orphanet.166277"
+"4" "Symphalangism.With.Multiple.An"
+"5" "Frontonasal.Dysplasia.With.Ala"
+"6" "Orphanet.3246"
+"7" "Orphanet.398173"

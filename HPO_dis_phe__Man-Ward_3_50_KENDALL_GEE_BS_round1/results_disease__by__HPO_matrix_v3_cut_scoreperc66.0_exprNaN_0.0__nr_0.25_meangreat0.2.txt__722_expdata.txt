@@ -1,0 +1,21 @@
+	"Gm1-Gangliosidosis, Type 1"	"Mucolipidosis 2 Alpha/Beta"	"Multiple sulfatase deficiency"	"Hurler syndrome"	"Orphanet:581"	"Orphanet:584"	"Orphanet:585"
+"Coarse facial features"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Neonatal hypotonia"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Peripheral demyelination"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Ventriculomegaly"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Broad hallux"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Broad thumb"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Flat face"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"HP:0008479"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Smooth philtrum"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Increased CSF protein"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Ichthyosis"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Lower limb hyperreflexia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"CNS demyelination"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Periorbital edema"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Broad hallux phalanx"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the periventricular white matter"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Retinal degeneration"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Large forehead"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Rapid neurologic deterioration"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Abnormality of peripheral nerve conduction"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

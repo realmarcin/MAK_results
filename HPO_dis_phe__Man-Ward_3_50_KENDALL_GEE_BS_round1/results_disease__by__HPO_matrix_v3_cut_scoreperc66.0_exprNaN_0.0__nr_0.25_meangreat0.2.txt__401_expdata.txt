@@ -1,0 +1,15 @@
+	"Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy"	"Masa Syndrome"	"Orphanet:136"	"Orphanet:25"	"Orphanet:2672"	"Orphanet:2770"	"Orphanet:820"
+"Cutis marmorata"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypertension"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Nephropathy"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Spasticity"	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Hemiparesis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Tremor"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Migraine"	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Memory impairment"	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Chorea"	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Aphasia"	0.0	1.0	1.0	0.0	1.0	0.0	1.0
+"Antiphospholipid antibody positivity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Arterial stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Thromboembolic stroke"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Amaurosis fugax"	0.0	0.0	1.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Lip..Hamartomatous"
+"2" "PDDP"
+"3" "Howel.Evans.syndrome"
+"4" "Lip..Median.Nodule.of.Upper"
+"5" "Salivary.Duct.Calculi"
+"6" "Focal.Epithelial.Hyperplasia.."

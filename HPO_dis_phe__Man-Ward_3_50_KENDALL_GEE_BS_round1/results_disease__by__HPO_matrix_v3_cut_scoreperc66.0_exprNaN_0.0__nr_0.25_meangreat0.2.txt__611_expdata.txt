@@ -1,0 +1,20 @@
+	"Orphanet:217266"	"Orphanet:3411"	"Orphanet:37202"	"Pudendal neuralgia"
+"Constipation"	0.0	0.0	0.0	1.0
+"Paresthesia"	0.0	0.0	0.0	1.0
+"Chronic pain"	0.0	1.0	0.0	0.0
+"Impotence"	0.0	0.0	0.0	1.0
+"Premature birth"	0.0	1.0	0.0	0.0
+"Back pain"	0.0	0.0	0.0	1.0
+"Fever"	0.0	1.0	0.0	0.0
+"Dysuria"	0.0	0.0	0.0	1.0
+"Breech presentation"	0.0	1.0	0.0	0.0
+"Dysmenorrhea"	0.0	1.0	0.0	0.0
+"Uterus didelphys"	0.0	1.0	0.0	0.0
+"Partial vaginal septum"	0.0	1.0	0.0	0.0
+"Hydrocolpos"	0.0	1.0	0.0	0.0
+"Episodic abdominal pain"	0.0	0.0	0.0	1.0
+"Abdominal colic"	0.0	0.0	0.0	1.0
+"Metrorrhagia"	0.0	1.0	0.0	0.0
+"Abnormality of the uterine cervix"	0.0	1.0	0.0	0.0
+"Scrotal pain"	0.0	0.0	0.0	1.0
+"Vulvodynia"	0.0	0.0	0.0	1.0

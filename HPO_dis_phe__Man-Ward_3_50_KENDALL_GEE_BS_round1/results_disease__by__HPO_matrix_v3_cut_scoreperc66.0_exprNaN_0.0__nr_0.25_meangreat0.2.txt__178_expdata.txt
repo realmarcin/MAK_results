@@ -1,0 +1,12 @@
+	"Mental retardation and microcephaly with pontine and cerebellar hypoplasia"	"Warburg Micro Syndrome 2"	"Orphanet:163937"	"Orphanet:99742"
+"Seizures"	1.0	0.0	1.0	0.0
+"Absent speech"	1.0	0.0	1.0	0.0
+"Failure to thrive"	0.0	0.0	1.0	0.0
+"Long philtrum"	1.0	0.0	1.0	0.0
+"Broad forehead"	0.0	0.0	1.0	0.0
+"Intellectual disability, moderate"	1.0	0.0	1.0	0.0
+"Myopia"	0.0	0.0	1.0	0.0
+"Optic nerve hypoplasia"	1.0	0.0	1.0	0.0
+"Gait disturbance"	0.0	0.0	1.0	0.0
+"Rigidity"	0.0	0.0	1.0	0.0
+"Cerebellar hypoplasia"	1.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+	"Deafness, Sensorineural, With Peripheral Neuropathy and Arterial Disease"	"Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, and Stroke-Like Episodes"	"Deafness, Autosomal Dominant 20"	"Orphanet:436174"	"Orphanet:73272"
+"Bilateral sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0
+"Concave nasal ridge"	1.0	0.0	0.0	0.0	1.0
+"Low-frequency hearing loss"	0.0	0.0	0.0	0.0	0.0
+"Progressive sensorineural hearing impairment"	0.0	1.0	1.0	1.0	0.0
+"Prelingual sensorineural hearing impairment"	0.0	0.0	0.0	1.0	1.0

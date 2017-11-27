@@ -1,0 +1,23 @@
+	"Hermansky-Pudlak Syndrome 1"	"Hermansky-Pudlak syndrome 4"	"Orphanet:79430"	"Orphanet:79431"	"Orphanet:79434"
+"Nystagmus"	1.0	0.0	1.0	1.0	1.0
+"Melanocytic nevus"	1.0	0.0	1.0	0.0	1.0
+"Hyperkeratosis"	0.0	0.0	1.0	1.0	0.0
+"Cardiomyopathy"	1.0	0.0	1.0	0.0	0.0
+"Long eyelashes"	0.0	0.0	1.0	0.0	0.0
+"Fatigue"	0.0	0.0	1.0	0.0	0.0
+"Cataract"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of dental enamel"	0.0	0.0	1.0	0.0	0.0
+"Renal insufficiency"	1.0	0.0	1.0	0.0	0.0
+"Neutropenia"	0.0	0.0	1.0	0.0	0.0
+"Gastrointestinal hemorrhage"	0.0	0.0	1.0	0.0	0.0
+"Abdominal pain"	1.0	0.0	1.0	0.0	0.0
+"Dyspnea"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of visual evoked potentials"	0.0	0.0	1.0	1.0	0.0
+"Pulmonary fibrosis"	1.0	1.0	1.0	0.0	0.0
+"Malabsorption"	0.0	0.0	1.0	0.0	0.0
+"Weight loss"	0.0	0.0	1.0	0.0	0.0
+"Amblyopia"	0.0	0.0	1.0	0.0	0.0
+"Immunodeficiency"	0.0	0.0	1.0	0.0	0.0
+"Anorexia"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of thrombocytes"	0.0	0.0	1.0	0.0	0.0
+"Menometrorrhagia"	0.0	0.0	1.0	0.0	0.0

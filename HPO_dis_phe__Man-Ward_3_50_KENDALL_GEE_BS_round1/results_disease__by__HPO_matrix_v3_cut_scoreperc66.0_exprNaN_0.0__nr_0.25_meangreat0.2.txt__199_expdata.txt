@@ -1,0 +1,13 @@
+	"Hypomandibular faciocranial dysostosis"	"Osteogenesis Imperfecta, Type 12"	"Nemaline Myopathy 9"	"Orphanet:1790"
+"Midface retrusion"	0.0	1.0	0.0	1.0
+"Malar flattening"	1.0	1.0	0.0	0.0
+"Micrognathia"	1.0	1.0	1.0	0.0
+"Narrow mouth"	0.0	1.0	0.0	1.0
+"Abnormality of cardiovascular system morphology"	0.0	1.0	0.0	0.0
+"Pectus carinatum"	0.0	1.0	0.0	0.0
+"Motor delay"	0.0	1.0	1.0	0.0
+"Delayed eruption of teeth"	0.0	1.0	0.0	0.0
+"Wormian bones"	0.0	1.0	0.0	0.0
+"Prominent forehead"	0.0	1.0	0.0	0.0
+"Prominent supraorbital ridges"	0.0	1.0	0.0	0.0
+"Generalized osteoporosis"	0.0	1.0	0.0	0.0

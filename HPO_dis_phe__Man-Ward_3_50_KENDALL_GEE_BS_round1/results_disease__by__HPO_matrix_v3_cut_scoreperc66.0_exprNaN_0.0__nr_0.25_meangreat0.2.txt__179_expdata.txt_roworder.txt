@@ -1,0 +1,7 @@
+"x"
+"1" "Meckel.Syndrome..Type.6"
+"2" "Meckel.Syndrome..Type.4"
+"3" "Meckel.Syndrome..Type.5"
+"4" "Meckel.Syndrome..Type.3"
+"5" "Meckel.Syndrome..Type.2"
+"6" "OMIM.607261"

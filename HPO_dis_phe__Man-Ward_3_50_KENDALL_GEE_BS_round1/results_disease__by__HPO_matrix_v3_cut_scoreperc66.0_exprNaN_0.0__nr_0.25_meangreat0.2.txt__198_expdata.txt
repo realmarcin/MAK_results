@@ -1,0 +1,9 @@
+	"hereditary spastic paraplegia 23"	"SPG16"	"hereditary spastic paraplegia 62"	"Spastic Paraplegia 9B, Autosomal Recessive"
+"Microcephaly"	1.0	0.0	0.0	1.0
+"Cataract"	0.0	0.0	0.0	1.0
+"Spastic paraplegia"	1.0	1.0	0.0	1.0
+"Pseudobulbar paralysis"	0.0	0.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	0.0	1.0
+"Tetraplegia"	0.0	1.0	0.0	1.0
+"Foot dorsiflexor weakness"	0.0	0.0	0.0	1.0
+"Urinary retention"	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"3-Methylglutaconic Aciduria With Cataracts, Neurologic Involvement, and Neutropenia"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Muscular hypotonia"	0.0	0.0	1.0	0.0
+"Neutropenia"	0.0	0.0	1.0	0.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0
+"Abnormality of extrapyramidal motor function"	0.0	0.0	1.0	0.0
+"Recurrent infections"	0.0	0.0	1.0	0.0

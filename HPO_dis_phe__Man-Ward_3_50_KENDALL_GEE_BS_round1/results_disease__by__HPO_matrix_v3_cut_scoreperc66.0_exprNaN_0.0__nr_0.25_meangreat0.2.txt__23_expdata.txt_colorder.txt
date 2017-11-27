@@ -1,0 +1,6 @@
+"x"
+"1" "Hypoplastic labia majora"
+"2" "Ankyloblepharon"
+"3" "Popliteal pterygium"
+"4" "Clitoral hypoplasia"
+"5" "Hypoplastic labia minora"

@@ -1,0 +1,6 @@
+	"Doyne honeycomb retinal dystrophy"	"Macular Dystrophy, Retinal, 1, North Carolina Type"	"age related macular degeneration 2"	"Reticular dystrophy of the retinal pigment epithelium"	"Obesity"	"Nasopharyngeal carcinoma"	"Macular Degeneration, Age-Related, 3"	"OMIM:609338"	"Macular Degeneration, Age-Related, 4"	"isolated microphthalmia 5"	"Age-related macular degeneration 11"	"CACD3"
+"HP:0010982"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Age-related macular degeneration"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Decreased resting energy expenditure"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Neoplasia of the nasopharynx"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0012273"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,11 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Keipert syndrome"	"Diamond-Blackfan anemia 8"	"Frontonasal Dysplasia 2"	"Orphanet:1200"	"Orphanet:1529"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Short nose"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Macrocytic anemia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the cardiac septa"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Neutropenia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Short palpebral fissure"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Thick upper lip vermilion"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Increased mean corpuscular volume"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the palate"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bilateral choanal atresia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,15 @@
+	"Townes syndrome"	"Facial Dysmorphism With Multiple Malformations"	"Orphanet:1647"	"Orphanet:1780"	"Orphanet:42775"
+"Microphthalmia"	0.0	0.0	0.0	0.0	1.0
+"Glaucoma"	0.0	0.0	0.0	0.0	1.0
+"Cerebral arteriovenous malformation"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the sternum"	0.0	0.0	0.0	0.0	1.0
+"Retinal vascular malformation"	0.0	0.0	0.0	0.0	1.0
+"Aortic root dilatation"	0.0	0.0	0.0	0.0	1.0
+"Amblyopia"	0.0	0.0	0.0	0.0	1.0
+"Heterochromia iridis"	0.0	0.0	0.0	0.0	1.0
+"Lens coloboma"	0.0	0.0	0.0	0.0	1.0
+"Capillary hemangiomas"	0.0	0.0	0.0	0.0	1.0
+"Ectopic thyroid"	0.0	0.0	0.0	0.0	1.0
+"Abnormal cerebral artery morphology"	0.0	0.0	0.0	0.0	1.0
+"Visceral angiomatosis"	0.0	0.0	0.0	0.0	1.0
+"Abnormal carotid artery morphology"	0.0	0.0	0.0	0.0	1.0

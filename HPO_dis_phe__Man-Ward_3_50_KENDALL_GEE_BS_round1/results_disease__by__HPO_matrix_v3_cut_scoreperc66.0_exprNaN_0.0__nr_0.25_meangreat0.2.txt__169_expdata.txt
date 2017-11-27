@@ -1,0 +1,5 @@
+	"Bannayan-Riley-Ruvalcaba Syndrome"	"Megalodactyly"	"Orphanet:2346"	"Hemihyperplasia-multiple lipomatosis syndrome"	"Orphanet:744"	"Orphanet:805"	"Orphanet:963"
+"Intussusception"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Macrodactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hamartomatous polyposis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Visceral angiomatosis"	0.0	0.0	1.0	0.0	1.0	0.0	0.0

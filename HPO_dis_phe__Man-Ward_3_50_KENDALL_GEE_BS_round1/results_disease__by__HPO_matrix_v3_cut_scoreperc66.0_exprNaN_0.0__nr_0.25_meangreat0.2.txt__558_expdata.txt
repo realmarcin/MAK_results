@@ -1,0 +1,9 @@
+	"MRXS12"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"	"Corpus Callosum, Agenesis Of, With Facial Anomalies and Cerebellar Ataxia"
+"Anteverted nares"	0.0	0.0	0.0	1.0
+"HP:0000007"	0.0	0.0	0.0	1.0
+"Ataxia"	0.0	0.0	0.0	1.0
+"Protruding ear"	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the corpus callosum"	0.0	0.0	0.0	1.0
+"Cerebellar vermis hypoplasia"	0.0	0.0	0.0	1.0
+"Congenital microcephaly"	0.0	0.0	0.0	1.0
+"Upper eyelid edema"	0.0	0.0	0.0	1.0

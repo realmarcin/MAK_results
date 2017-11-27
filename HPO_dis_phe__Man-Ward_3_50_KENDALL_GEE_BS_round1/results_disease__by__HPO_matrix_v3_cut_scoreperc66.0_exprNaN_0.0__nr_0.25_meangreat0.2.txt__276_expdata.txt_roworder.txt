@@ -1,0 +1,6 @@
+"x"
+"1" "Spondyloepimetaphyseal.dysplas"
+"2" "Spondyloepiphyseal.Dysplasia.C"
+"3" "Schimke.immuno.osseous.dysplas"
+"4" "Smith.Mccort.Dysplasia.1"
+"5" "Orphanet.93315"

@@ -1,0 +1,7 @@
+"x"
+"1" "Cerebral.Palsy..Spastic.Quadri"
+"2" "Cerebral.Palsy..Spastic.Quadri"
+"3" "Mental.Retardation..Autosomal."
+"4" "Epileptic.Encephalopathy..Earl"
+"5" "Mental.Retardation..X.Linked.3"
+"6" "Autism..Susceptibility.To..X.L"

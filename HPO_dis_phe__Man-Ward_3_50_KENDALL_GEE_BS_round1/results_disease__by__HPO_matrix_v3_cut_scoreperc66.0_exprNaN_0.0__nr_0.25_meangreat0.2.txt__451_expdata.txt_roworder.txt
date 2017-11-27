@@ -1,0 +1,7 @@
+"x"
+"1" "Muenke.syndrome"
+"2" "Craniosynostosis.and.dental.an"
+"3" "Pfeiffer.syndrome"
+"4" "Sakati.Nyhan.syndrome"
+"5" "Robinow.Sorauf.Syndrome"
+"6" "Orphanet.93262"

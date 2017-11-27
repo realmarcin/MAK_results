@@ -1,0 +1,6 @@
+"x"
+"1" "Neuroectodermal.melanolysosoma"
+"2" "Griscelli.syndrome.type.2"
+"3" "Griscelli.syndrome.type.1"
+"4" "Cerebral.Palsy..Spastic.Quadri"
+"5" "Intellectual.Developmental.Dis"

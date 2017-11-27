@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Absent ethmoidal sinuses"
+"3" "Tubular metacarpal bones"
+"4" "Twelfth rib hypoplasia"

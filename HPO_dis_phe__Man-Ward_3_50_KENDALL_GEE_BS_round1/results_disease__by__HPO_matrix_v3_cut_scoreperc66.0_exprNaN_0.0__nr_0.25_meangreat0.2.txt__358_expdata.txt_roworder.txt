@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.478"
+"2" "Hypogonadotropic.hypogonadism."
+"3" "Orphanet.2410"
+"4" "Orphanet.243"

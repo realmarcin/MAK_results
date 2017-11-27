@@ -1,0 +1,18 @@
+	"Insulin-Like Growth Factor I, Resistance to"	"Orphanet:217346"	"Orphanet:2500"	"Orphanet:2637"	"Orphanet:2850"
+"Microcephaly"	1.0	1.0	0.0	1.0	1.0
+"Delayed speech and language development"	1.0	1.0	0.0	0.0	0.0
+"Long face"	0.0	1.0	0.0	0.0	0.0
+"Congenital hip dislocation"	0.0	1.0	0.0	0.0	0.0
+"Toe syndactyly"	0.0	1.0	0.0	0.0	0.0
+"Hearing impairment"	0.0	1.0	0.0	0.0	1.0
+"Fine hair"	0.0	1.0	1.0	1.0	0.0
+"Thin skin"	0.0	1.0	1.0	0.0	0.0
+"Nail dysplasia"	0.0	1.0	0.0	0.0	0.0
+"Microcornea"	0.0	1.0	0.0	0.0	0.0
+"Bifid scrotum"	0.0	1.0	0.0	0.0	0.0
+"Aplasia cutis congenita"	0.0	1.0	0.0	0.0	0.0
+"Feeding difficulties"	0.0	1.0	0.0	0.0	0.0
+"Sparse lateral eyebrow"	0.0	1.0	0.0	0.0	0.0
+"Single median maxillary incisor"	0.0	1.0	0.0	0.0	0.0
+"Toe clinodactyly"	0.0	1.0	0.0	0.0	0.0
+"Sparse or absent eyelashes"	0.0	1.0	0.0	0.0	0.0

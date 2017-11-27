@@ -1,0 +1,6 @@
+"x"
+"1" "Insulin.Like.Growth.Factor.I.."
+"2" "Insulin.Like.Growth.Factor.1.D"
+"3" "Microcephalic.Primordial.Dwarf"
+"4" "Orphanet.73273"
+"5" "Filippi.syndrome"

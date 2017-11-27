@@ -1,0 +1,21 @@
+	"Diastrophic Dysplasia"	"Temtamy Preaxial Brachydactyly Syndrome"	"Cold-induced sweating syndrome 2"	"Otofaciocervical Syndrome 2"
+"Microdontia"	0.0	1.0	0.0	0.0
+"Brachydactyly"	0.0	1.0	0.0	0.0
+"Cleft palate"	1.0	1.0	0.0	0.0
+"Synophrys"	0.0	1.0	0.0	0.0
+"Syndactyly"	0.0	1.0	0.0	0.0
+"Clinodactyly"	0.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Radioulnar synostosis"	0.0	1.0	0.0	0.0
+"Optic atrophy"	0.0	1.0	0.0	0.0
+"Short metacarpal"	0.0	1.0	0.0	0.0
+"Short metatarsal"	0.0	1.0	0.0	0.0
+"Highly arched eyebrow"	0.0	1.0	0.0	0.0
+"Deep philtrum"	0.0	1.0	0.0	0.0
+"Bilateral sensorineural hearing impairment"	0.0	1.0	0.0	0.0
+"Hitchhiker thumb"	1.0	1.0	0.0	0.0
+"Tarsal synostosis"	0.0	1.0	0.0	0.0
+"Carpal synostosis"	0.0	1.0	0.0	0.0
+"Talon cusp"	0.0	1.0	0.0	0.0
+"Diastema"	0.0	1.0	0.0	0.0
+"Blue sclerae"	0.0	1.0	0.0	1.0

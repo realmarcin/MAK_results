@@ -1,0 +1,5 @@
+"x"
+"1" "Weak cry"
+"2" "Bulbar palsy"
+"3" "Poor suck"
+"4" "Intermittent episodes of respiratory insufficiency due to muscle weakness"

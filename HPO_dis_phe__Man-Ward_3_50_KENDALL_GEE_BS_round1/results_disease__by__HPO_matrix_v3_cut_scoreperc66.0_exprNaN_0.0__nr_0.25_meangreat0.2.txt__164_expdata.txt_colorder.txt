@@ -1,0 +1,6 @@
+"x"
+"1" "Hypotrichosis"
+"2" "HP:0000006"
+"3" "Aplasia/Hypoplasia of the eyebrow"
+"4" "Sparse or absent eyelashes"
+"5" "Absent axillary hair"

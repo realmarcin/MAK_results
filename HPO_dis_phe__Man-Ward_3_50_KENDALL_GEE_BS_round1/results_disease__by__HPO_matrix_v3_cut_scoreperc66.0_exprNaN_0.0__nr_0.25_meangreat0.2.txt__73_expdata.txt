@@ -1,0 +1,6 @@
+	"Myoclonic Epilepsy of Lafora"	"Epilepsy, Familial Temporal Lobe, 1"	"ETL2"	"ETL3"	"ETL4"
+"Focal seizures with impairment of consciousness or awareness"	0.0	1.0	1.0	1.0	1.0
+"Visual auras"	1.0	0.0	0.0	0.0	1.0
+"Simple partial occipital seizures"	1.0	0.0	0.0	0.0	0.0
+"Focal seizures without impairment of consciousness or awareness"	0.0	1.0	1.0	1.0	1.0
+"Deja vu"	0.0	0.0	0.0	1.0	0.0

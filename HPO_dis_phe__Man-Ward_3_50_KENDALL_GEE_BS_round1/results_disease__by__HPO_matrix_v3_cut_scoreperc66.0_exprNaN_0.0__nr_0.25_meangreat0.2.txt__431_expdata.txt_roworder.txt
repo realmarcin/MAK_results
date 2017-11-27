@@ -1,0 +1,8 @@
+"x"
+"1" "Denys.Drash.syndrome"
+"2" "Orphanet.347"
+"3" "Frasier.syndrome"
+"4" "Orphanet.220"
+"5" "Focal.Segmental.Glomeruloscler"
+"6" "Focal.Segmental.Glomeruloscler"
+"7" "Focal.Segmental.Glomeruloscler"

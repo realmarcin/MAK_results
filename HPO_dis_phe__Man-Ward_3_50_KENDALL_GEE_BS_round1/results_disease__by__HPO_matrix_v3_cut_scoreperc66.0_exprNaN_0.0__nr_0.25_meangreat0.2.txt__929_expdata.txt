@@ -1,0 +1,10 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Frontonasal Dysplasia 2"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Parietal foramina"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	1.0	0.0	0.0
+"HP:0001596"	0.0	0.0	1.0	0.0	0.0
+"Hypohidrosis"	0.0	0.0	1.0	0.0	0.0
+"Sparse and thin eyebrow"	0.0	0.0	1.0	0.0	0.0
+"Decreased lacrimation"	0.0	0.0	1.0	0.0	0.0
+"Bifid nasal tip"	0.0	0.0	1.0	0.0	0.0
+"Cerebellar vermis hypoplasia"	0.0	0.0	1.0	0.0	0.0

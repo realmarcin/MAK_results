@@ -1,0 +1,15 @@
+	"Xq27.3q28 duplication syndrome"	"Developmental malformations-deafness-dystonia syndrome"	"Peroxisome Biogenesis Disorder 14B"	"X-linked intellectual disability, Cilliers type"	"Growth hormone insensitivity syndrome"	"Orphanet:2315"	"Orphanet:261483"	"Orphanet:633"	"Orphanet:73272"
+"Hypogonadism"	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Truncal obesity"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Short stature"	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Everted lower lip vermilion"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hearing impairment"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Large fontanelles"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Delayed eruption of teeth"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0
+"Fine hair"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal facial shape"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Hypercholesterolemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Hypoglycemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Insulin resistance"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Diabetes insipidus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoplasia of penis"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0

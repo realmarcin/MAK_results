@@ -1,0 +1,6 @@
+	"Oromandibular-limb hypogenesis spectrum"	"Miller-Dieker Lissencephaly Syndrome"	"Blepharophimosis-intellectual disability syndrome, Ohdo type"	"Carey-Fineman-Ziter Syndrome"	"Ohdo Syndrome, X-Linked"	"Lathosterolosis"	"3p- syndrome"	"Pentasomy X"	"Orphanet:1308"	"Orphanet:1358"	"Orphanet:1620"	"Orphanet:1727"	"Fetal trimethadione syndrome"	"Orphanet:2077"	"Orphanet:2135"	"1q44 microdeletion syndrome"	"Orphanet:251056"	"8p23.1 microdeletion syndrome"	"Orphanet:261112"	"Trisomy 17p"	"Distal 22q11.2 microduplication syndrome"	"Orphanet:46059"	"Orphanet:570"	"Orphanet:783"	"12q14 microdeletion syndrome"
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Radioulnar synostosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short foot"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Small hand"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Delayed puberty"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

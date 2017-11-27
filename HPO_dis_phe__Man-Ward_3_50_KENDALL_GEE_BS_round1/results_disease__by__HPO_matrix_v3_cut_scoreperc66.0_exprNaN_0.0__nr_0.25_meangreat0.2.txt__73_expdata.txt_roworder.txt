@@ -1,0 +1,6 @@
+"x"
+"1" "ETL3"
+"2" "ETL4"
+"3" "Myoclonic.Epilepsy.of.Lafora"
+"4" "Epilepsy..Familial.Temporal.Lo"
+"5" "ETL2"

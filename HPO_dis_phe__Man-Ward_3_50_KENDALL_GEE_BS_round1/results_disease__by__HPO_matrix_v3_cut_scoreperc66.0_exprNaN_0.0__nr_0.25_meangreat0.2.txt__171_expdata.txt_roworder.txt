@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.2574"
+"2" "Moynahan.syndrome"
+"3" "Epilepsy.microcephaly.skeletal"
+"4" "Mental.retardation.49..X.linke"

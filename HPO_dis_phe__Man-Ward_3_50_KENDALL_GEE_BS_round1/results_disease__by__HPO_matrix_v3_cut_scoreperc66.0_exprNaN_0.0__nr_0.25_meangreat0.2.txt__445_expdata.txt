@@ -1,0 +1,9 @@
+	"Orphanet:117"	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"	"Orphanet:91138"
+"Abdominal pain"	1.0	0.0	0.0	0.0	1.0
+"Cryoglobulinemia"	0.0	0.0	0.0	1.0	1.0
+"Keratoconjunctivitis sicca"	1.0	0.0	0.0	0.0	1.0
+"Petechiae"	0.0	0.0	0.0	0.0	1.0
+"Sensorimotor neuropathy"	0.0	0.0	0.0	0.0	1.0
+"Viral hepatitis"	0.0	0.0	0.0	0.0	1.0
+"Circulating immune complexes"	0.0	0.0	0.0	0.0	1.0
+"Mononeuropathy"	0.0	0.0	0.0	0.0	1.0

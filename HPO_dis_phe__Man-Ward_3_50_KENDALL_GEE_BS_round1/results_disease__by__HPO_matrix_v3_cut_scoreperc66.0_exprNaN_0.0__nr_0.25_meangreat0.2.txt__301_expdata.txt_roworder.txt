@@ -1,0 +1,7 @@
+"x"
+"1" "Autosomal.dominant.spondylocos"
+"2" "Orphanet.2311"
+"3" "Orphanet.1436"
+"4" "Orphanet.52047"
+"5" "Mosaic.trisomy.8"
+"6" "Orphanet.3015"

@@ -1,0 +1,23 @@
+	"Ulnar Agenesis and Endocardial Fibroelastosis"	"Hydrops fetalis"	"Orphanet:158029"	"Orphanet:2781"	"Orphanet:355"
+"Muscular hypotonia"	0.0	0.0	0.0	0.0	1.0
+"Feeding difficulties in infancy"	0.0	0.0	0.0	0.0	1.0
+"Depressivity"	0.0	0.0	0.0	0.0	1.0
+"Ventriculomegaly"	0.0	0.0	0.0	0.0	1.0
+"Arthralgia"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of skin pigmentation"	0.0	0.0	0.0	0.0	1.0
+"Generalized tonic-clonic seizures"	0.0	0.0	0.0	0.0	1.0
+"Corneal opacity"	0.0	0.0	0.0	0.0	1.0
+"Arthrogryposis multiplex congenita"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of extrapyramidal motor function"	0.0	0.0	0.0	0.0	1.0
+"Ichthyosis"	0.0	0.0	0.0	0.0	1.0
+"Anemia"	0.0	0.0	0.0	0.0	1.0
+"Joint stiffness"	0.0	0.0	0.0	0.0	1.0
+"Pulmonary fibrosis"	0.0	0.0	0.0	0.0	1.0
+"Death in infancy"	0.0	0.0	0.0	0.0	1.0
+"Hepatitis"	0.0	0.0	0.0	0.0	1.0
+"Developmental regression"	0.0	0.0	0.0	0.0	1.0
+"Cherry red spot of the macula"	0.0	0.0	0.0	0.0	1.0
+"Abnormal macular morphology"	0.0	0.0	0.0	0.0	1.0
+"Elevated C-reactive protein level"	0.0	0.0	0.0	0.0	1.0
+"Hemiplegia/hemiparesis"	0.0	0.0	0.0	0.0	1.0
+"Abnormal pericardium morphology"	0.0	0.0	0.0	0.0	1.0

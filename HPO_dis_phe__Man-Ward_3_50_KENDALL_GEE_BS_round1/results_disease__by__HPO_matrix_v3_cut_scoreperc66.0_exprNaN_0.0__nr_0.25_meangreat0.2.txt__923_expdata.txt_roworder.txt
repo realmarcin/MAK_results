@@ -1,0 +1,6 @@
+"x"
+"1" "Juvenile.nephropathic.cystinos"
+"2" "Frasier.syndrome"
+"3" "Denys.Drash.syndrome"
+"4" "Polycystic.Kidney.Disease.2"
+"5" "Cfhr5.Deficiency"

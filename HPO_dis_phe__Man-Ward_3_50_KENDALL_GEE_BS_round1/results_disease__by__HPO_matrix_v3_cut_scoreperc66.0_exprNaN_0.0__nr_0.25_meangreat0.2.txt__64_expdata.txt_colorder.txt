@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the endocardium"
+"2" "Dilatation"
+"3" "Cerebral ischemia"
+"4" "Tubulointerstitial abnormality"

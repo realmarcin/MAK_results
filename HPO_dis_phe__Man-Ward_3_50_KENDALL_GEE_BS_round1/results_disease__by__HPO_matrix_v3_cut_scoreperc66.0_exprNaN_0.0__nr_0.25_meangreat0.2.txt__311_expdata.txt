@@ -1,0 +1,14 @@
+	"neuronal ceroid lipofuscinosis 4B"	"neuronal ceroid lipofuscinosis 3"	"Ceroid Lipofuscinosis, Neuronal, 4A, Autosomal Recessive"	"Ataxia With Myoclonic Epilepsy and Presenile Dementia"	"neuronal ceroid lipofuscinosis 1"	"neuronal ceroid lipofuscinosis 5"	"Epileptic Encephalopathy, Early Infantile, 32"
+"Depressivity"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Dementia"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Parkinsonism"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003581"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003678"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of extrapyramidal motor function"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Leukoencephalopathy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Visual hallucinations"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Auditory hallucinations"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Rectilinear intracellular accumulation of autofluorescent lipopigment storage material"	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Granular osmiophilic deposits (GROD) in cells"	1.0	0.0	1.0	0.0	0.0	0.0	0.0

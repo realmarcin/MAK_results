@@ -1,0 +1,14 @@
+	"MRXS12"	"Spondyloepiphyseal Dysplasia Tarda With Characteristic Facies"	"Mental Retardation, Autosomal Recessive 5"	"Mental retardation, autosomal dominant 24"
+"Brachycephaly"	1.0	0.0	0.0	0.0
+"Global developmental delay"	0.0	1.0	1.0	1.0
+"HP:0001417"	1.0	0.0	0.0	0.0
+"Thick lower lip vermilion"	1.0	1.0	0.0	1.0
+"Poor eye contact"	0.0	0.0	0.0	1.0
+"HP:0008897"	1.0	0.0	1.0	0.0
+"Aphasia"	1.0	0.0	0.0	0.0
+"Recurrent infections"	1.0	0.0	0.0	1.0
+"Sacral dimple"	0.0	0.0	0.0	1.0
+"Thick upper lip vermilion"	1.0	1.0	1.0	0.0
+"Mood swings"	0.0	0.0	0.0	1.0
+"Square face"	1.0	0.0	0.0	0.0
+"Horizontal eyebrow"	0.0	0.0	0.0	1.0

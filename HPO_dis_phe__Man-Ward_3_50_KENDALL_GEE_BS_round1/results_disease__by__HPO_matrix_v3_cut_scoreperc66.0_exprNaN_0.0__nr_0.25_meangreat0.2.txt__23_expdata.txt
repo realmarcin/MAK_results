@@ -1,0 +1,6 @@
+	"Popliteal Pterygium Syndrome"	"Bartsocas-Papas syndrome"	"Orphanet:1300"	"Orphanet:2554"	"Orphanet:3107"
+"Ankyloblepharon"	1.0	1.0	1.0	0.0	0.0
+"Hypoplastic labia majora"	1.0	1.0	1.0	1.0	1.0
+"Popliteal pterygium"	1.0	1.0	1.0	0.0	0.0
+"Clitoral hypoplasia"	0.0	0.0	0.0	1.0	1.0
+"Hypoplastic labia minora"	0.0	0.0	0.0	1.0	1.0

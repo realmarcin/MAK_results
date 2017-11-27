@@ -1,0 +1,11 @@
+	"Platelet Disorder, Undefined"	"Storage Pool Platelet Disease"	"platelet-type bleeding disorder 16"	"Thrombocytopenia With Elevated Serum Iga and Renal Disease"	"Von Willebrand Disease, X-Linked Form"	"Familial platelet disorder with associated myeloid malignancy"	"BDPLT12"
+"HP:0000006"	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Myelodysplasia"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Lymphoma"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Neuroblastoma"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Acute monocytic leukemia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Acute leukemia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Acute myeloid leukemia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Impaired platelet aggregation"	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Hematological neoplasm"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased mean platelet volume"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

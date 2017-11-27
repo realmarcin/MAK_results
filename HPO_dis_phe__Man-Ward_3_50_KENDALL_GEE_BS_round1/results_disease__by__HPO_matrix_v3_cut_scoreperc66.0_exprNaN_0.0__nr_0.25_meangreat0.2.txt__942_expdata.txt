@@ -1,0 +1,12 @@
+	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Orphanet:324422"	"Orphanet:85328"	"Orphanet:90024"
+"Global developmental delay"	0.0	0.0	0.0	1.0	0.0
+"Tapered finger"	0.0	0.0	0.0	1.0	0.0
+"Hyperreflexia"	0.0	0.0	0.0	1.0	0.0
+"Female infertility"	0.0	0.0	0.0	1.0	0.0
+"HP:0001276"	0.0	0.0	0.0	1.0	0.0
+"Hypotelorism"	0.0	0.0	0.0	1.0	0.0
+"Holoprosencephaly"	0.0	0.0	0.0	1.0	0.0
+"Ankle contracture"	0.0	0.0	0.0	1.0	0.0
+"Macroorchidism"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the fingernails"	0.0	0.0	0.0	1.0	0.0
+"Absent nares"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormality of the pinna"
+"2" "HP:0000007"
+"3" "Periorbital fullness"
+"4" "Hypsarrhythmia"
+"5" "Cortical visual impairment"
+"6" "Epileptic encephalopathy"

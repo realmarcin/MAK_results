@@ -1,0 +1,5 @@
+"x"
+"1" "Thyroid hormone receptor defect"
+"2" "Increased T3/T4 ratio"
+"3" "Increased serum free triiodothyronine"
+"4" "Compensated hypothyroidism"

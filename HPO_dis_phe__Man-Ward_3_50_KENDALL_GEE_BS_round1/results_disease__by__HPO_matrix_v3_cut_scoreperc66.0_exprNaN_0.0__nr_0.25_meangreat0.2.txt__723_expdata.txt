@@ -1,0 +1,6 @@
+	"Ataxia With Fasciculations"	"Muscular Atrophy, Ataxia, Retinitis Pigmentosa, and Diabetes Mellitus"	"Myoclonus-cerebellar ataxia-deafness syndrome"	"Nystagmus, Hereditary Vertical"	"Optic Atrophy With Demyelinating Disease of Cns"	"Piebald Trait With Neurologic Defects"	"Posterior Column Ataxia"	"Spinocerebellar Ataxia With Rigidity and Peripheral Neuropathy"	"Gordon Holmes Syndrome"	"Kuru, Susceptibility to"	"Spinocerebellar Ataxia, X-Linked 2"	"spinocerebellar ataxia type 30"	"Familial cortical myoclonus"	"Myoclonic-atonic epilepsy"	"Orphanet:1180"	"Orphanet:1186"	"Orphanet:14"	"Muscular atrophy-ataxia-retinitis pigmentosa-diabetes mellitus syndrome"	"Orphanet:3350"	"Familial or sporadic hemiplegic migraine"	"Hypomyelination-hypogonadotropic hypogonadism-hypodontia syndrome"	"Orphanet:88644"	"Ravine syndrome"
+"Peripheral demyelination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hemiparesis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"CNS demyelination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Optic neuritis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

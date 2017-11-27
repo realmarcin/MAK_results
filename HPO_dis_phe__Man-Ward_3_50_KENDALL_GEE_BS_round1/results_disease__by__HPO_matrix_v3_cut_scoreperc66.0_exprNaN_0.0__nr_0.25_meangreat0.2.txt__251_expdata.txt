@@ -1,0 +1,11 @@
+	"Niemann-Pick disease type A"	"Immunodeficiency 47"	"Lymphedema, Hereditary, 3"	"Orphanet:2033"
+"HP:0001419"	0.0	1.0	0.0	0.0
+"Hepatomegaly"	1.0	1.0	0.0	1.0
+"Recurrent bacterial infections"	0.0	1.0	0.0	0.0
+"Hypermetropia"	0.0	1.0	0.0	0.0
+"Cerebral calcification"	0.0	0.0	0.0	1.0
+"Reduced tendon reflexes"	0.0	0.0	0.0	1.0
+"Prolonged neonatal jaundice"	1.0	1.0	0.0	0.0
+"Urticaria"	0.0	0.0	0.0	1.0
+"Limitation of joint mobility"	0.0	0.0	0.0	1.0
+"Decreased antibody level in blood"	0.0	1.0	0.0	1.0

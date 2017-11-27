@@ -1,0 +1,24 @@
+	"Terminal Osseous Dysplasia"	"Orphanet:1516"	"Orphanet:163649"	"Orphanet:93333"
+"Deeply set eye"	0.0	0.0	0.0	1.0
+"Low-set ears"	1.0	1.0	0.0	1.0
+"Abnormality of the pinna"	0.0	0.0	0.0	1.0
+"Humeroradial synostosis"	0.0	0.0	0.0	1.0
+"Abnormality of oral frenula"	1.0	0.0	0.0	0.0
+"Abnormality of skin pigmentation"	1.0	0.0	0.0	0.0
+"Hypoplastic ilia"	0.0	0.0	0.0	1.0
+"Elbow flexion contracture"	0.0	0.0	0.0	1.0
+"Short femur"	0.0	0.0	0.0	1.0
+"Stenosis of the external auditory canal"	0.0	1.0	0.0	1.0
+"Mesomelic arm shortening"	1.0	0.0	0.0	0.0
+"Hypoplastic scapulae"	0.0	0.0	0.0	1.0
+"Camptodactyly of toe"	1.0	0.0	0.0	0.0
+"Redundant neck skin"	0.0	0.0	0.0	1.0
+"Abnormal hand bone ossification"	1.0	0.0	0.0	0.0
+"Abnormal foot bone ossification"	1.0	0.0	0.0	0.0
+"Multiple joint contractures"	1.0	0.0	0.0	0.0
+"Fibroma"	1.0	0.0	0.0	0.0
+"Mesomelic leg shortening"	1.0	0.0	0.0	1.0
+"Toe clinodactyly"	1.0	0.0	0.0	0.0
+"Localized skin lesion"	1.0	0.0	0.0	0.0
+"Abnormality of the skull base"	0.0	0.0	1.0	1.0
+"Abnormality of the joint spaces of the elbow"	0.0	0.0	0.0	1.0

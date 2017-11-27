@@ -1,0 +1,12 @@
+	"Brachydactyly, Type A2"	"Rubinstein-Taybi Syndrome 1"	"Stapes ankylosis with broad thumb and toes"	"Rubinstein-Taybi syndrome due to 16p13.3 microdeletion"
+"Broad hallux"	1.0	1.0	1.0	1.0
+"Medially deviated second toe"	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the middle phalanx of the 5th finger"	1.0	0.0	0.0	0.0
+"Triangular shaped middle phalanx of the 5th finger"	1.0	0.0	0.0	0.0
+"Bracket epiphysis of the middle phalanx of the 5th finger"	1.0	0.0	0.0	0.0
+"Ulnar deviation of the 2nd finger"	1.0	0.0	0.0	0.0
+"Bracket epiphysis of the middle phalanx of the 2nd finger"	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the middle phalanx of the 2nd finger"	1.0	0.0	0.0	0.0
+"Triangular shaped middle phalanx of the 2nd finger"	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the middle phalanges of the toes"	1.0	0.0	0.0	0.0
+"Low hanging columella"	0.0	1.0	1.0	1.0

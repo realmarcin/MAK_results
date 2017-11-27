@@ -1,0 +1,5 @@
+"x"
+"1" "Neoplasm"
+"2" "HP:0000006"
+"3" "HP:0001417"
+"4" "Abnormality of metabolism/homeostasis"

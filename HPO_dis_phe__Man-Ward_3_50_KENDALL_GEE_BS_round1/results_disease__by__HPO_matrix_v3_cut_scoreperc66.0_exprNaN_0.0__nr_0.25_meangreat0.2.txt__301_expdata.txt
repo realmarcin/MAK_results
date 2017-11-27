@@ -1,0 +1,13 @@
+	"Orphanet:1436"	"Autosomal dominant spondylocostal dysostosis"	"Orphanet:2311"	"Orphanet:3015"	"Orphanet:52047"	"Mosaic trisomy 8"
+"Macrocephaly"	0.0	1.0	1.0	0.0	0.0	0.0
+"Short stature"	1.0	0.0	1.0	0.0	1.0	1.0
+"Recurrent respiratory infections"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	0.0	1.0	0.0	0.0	0.0	1.0
+"Severe short stature"	0.0	1.0	0.0	1.0	0.0	0.0
+"Prominent occiput"	0.0	1.0	1.0	0.0	0.0	0.0
+"Upslanted palpebral fissure"	0.0	1.0	0.0	0.0	0.0	0.0
+"Spina bifida occulta"	0.0	1.0	1.0	0.0	0.0	0.0
+"Missing ribs"	0.0	1.0	0.0	0.0	1.0	0.0
+"Abnormality of female internal genitalia"	0.0	1.0	1.0	0.0	0.0	0.0
+"Short thorax"	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the sacrum"	1.0	1.0	0.0	0.0	0.0	0.0

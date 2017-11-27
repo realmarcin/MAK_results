@@ -1,0 +1,22 @@
+	"Blue Rubber Bleb Nevus"	"Peutz-Jeghers Syndrome"	"Orphanet:2930"	"AApoAIV amyloidosis"
+"Seizures"	0.0	0.0	1.0	0.0
+"Macrocephaly"	0.0	0.0	1.0	0.0
+"Tapered finger"	0.0	0.0	1.0	0.0
+"Lymphedema"	0.0	0.0	1.0	0.0
+"Hepatomegaly"	0.0	0.0	1.0	0.0
+"Splenomegaly"	0.0	0.0	1.0	0.0
+"Diarrhea"	0.0	0.0	1.0	0.0
+"Fatigue"	0.0	0.0	1.0	0.0
+"Dystrophic fingernails"	0.0	0.0	1.0	0.0
+"Patchy alopecia"	0.0	0.0	1.0	0.0
+"Sparse body hair"	0.0	0.0	1.0	0.0
+"Anemia"	0.0	0.0	1.0	0.0
+"Hypoplastic toenails"	0.0	0.0	1.0	0.0
+"Stomach cancer"	0.0	0.0	1.0	0.0
+"Furrowed tongue"	0.0	0.0	1.0	0.0
+"Generalized hyperpigmentation"	0.0	0.0	1.0	0.0
+"Abnormality of the vasculature"	0.0	0.0	1.0	0.0
+"Intestinal polyposis"	0.0	0.0	1.0	0.0
+"Decreased taste sensation"	0.0	0.0	1.0	0.0
+"Dystrophic toenail"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	0.0	1.0	0.0

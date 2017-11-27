@@ -1,0 +1,9 @@
+	"WM1"	"Nose, Anomalous Shape of"	"Immunodeficiency With Defective T-Cell Response to Interleukin 1"	"Peeling skin syndrome"	"Asthma, susceptibility to"	"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy"	"Epidermolysis Bullosa Simplex With Pyloric Atresia"	"Congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome"
+"HP:0000007"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Increased IgE level"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Onycholysis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Pruritus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Erythema"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Scaling skin"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"HP:0003577"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Brittle hair"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

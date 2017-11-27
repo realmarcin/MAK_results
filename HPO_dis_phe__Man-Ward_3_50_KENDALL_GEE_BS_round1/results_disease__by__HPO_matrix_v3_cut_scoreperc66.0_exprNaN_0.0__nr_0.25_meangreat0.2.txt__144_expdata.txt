@@ -1,0 +1,9 @@
+	"Singleton-Merten dysplasia"	"Infantile hypophosphatasia"	"Orphanet:2774"	"Orphanet:2840"
+"Gait disturbance"	0.0	0.0	1.0	1.0
+"Hip dislocation"	1.0	0.0	0.0	1.0
+"Hypoplastic pelvis"	0.0	0.0	0.0	1.0
+"Spina bifida occulta"	0.0	0.0	0.0	1.0
+"Blue sclerae"	0.0	1.0	0.0	1.0
+"Limitation of joint mobility"	0.0	0.0	1.0	1.0
+"Slender long bone"	0.0	0.0	1.0	1.0
+"Sacrococcygeal pilonidal abnormality"	0.0	0.0	0.0	1.0

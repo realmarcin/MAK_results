@@ -1,0 +1,5 @@
+"x"
+"1" "Joubert.syndrome.10"
+"2" "Hirsutism..Skeletal.Dysplasia."
+"3" "Subaortic.stenosis.short.statu"
+"4" "Metaphyseal.chondrodysplasia.r"

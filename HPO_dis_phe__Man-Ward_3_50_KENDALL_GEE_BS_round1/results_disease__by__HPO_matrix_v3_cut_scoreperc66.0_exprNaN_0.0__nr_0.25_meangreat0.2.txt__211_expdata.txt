@@ -1,0 +1,22 @@
+	"branchiooculofacial syndrome"	"Coffin-Siris syndrome 1"	"Jacobsen syndrome"	"Orphanet:1297"
+"Microdontia"	0.0	0.0	0.0	1.0
+"Cryptorchidism"	1.0	1.0	1.0	0.0
+"Broad nasal tip"	1.0	1.0	0.0	1.0
+"Nasolacrimal duct obstruction"	1.0	0.0	1.0	1.0
+"Dermal atrophy"	1.0	0.0	0.0	0.0
+"Premature graying of hair"	1.0	0.0	0.0	1.0
+"Lower lip pit"	1.0	0.0	0.0	0.0
+"Small forehead"	1.0	0.0	0.0	0.0
+"Short nasal septum"	1.0	0.0	0.0	0.0
+"Atypical scarring of skin"	1.0	0.0	0.0	1.0
+"Aplasia cutis congenita"	1.0	0.0	0.0	0.0
+"White forelock"	1.0	0.0	0.0	0.0
+"Agenesis of cerebellar vermis"	1.0	0.0	0.0	0.0
+"Postauricular pit"	1.0	0.0	0.0	1.0
+"Fusion of middle ear ossicles"	1.0	0.0	0.0	0.0
+"Hypoplastic superior helix"	1.0	0.0	0.0	0.0
+"Supraauricular pit"	1.0	0.0	0.0	1.0
+"Ectopic thymus tissue"	1.0	0.0	0.0	0.0
+"Hamartoma"	1.0	0.0	0.0	0.0
+"Fingernail dysplasia"	0.0	0.0	0.0	1.0
+"Upper lip pit"	0.0	0.0	0.0	1.0

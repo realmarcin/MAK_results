@@ -1,0 +1,13 @@
+	"DECIPHER:81"	"DOORS syndrome"	"Skeletal Dysplasia and Progressive Central Nervous System Degeneration, Lethal"	"Diabetes mellitus, neonatal, with congenital hypothyroidism"	"Faciocardiomelic Syndrome"	"Encephalomyopathy, Mitochondrial, Due to Voltage-Dependent Anion Channel Deficiency"	"Short Stature With Microcephaly and Distinctive Facies"	"Roifman syndrome"
+"Telecanthus"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Brachydactyly"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Anteverted nares"	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Severe short stature"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Anisopoikilocytosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Proptosis"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Anemia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Sparse and thin eyebrow"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Recurrent infections"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Spotty hypopigmentation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0011927"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0001883"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "dyschromatosis.symmetrica.here"
+"2" "Dyschromatosis.universalis"
+"3" "BPH"
+"4" "Torsion.Dystonia.With.Onset.1N"
+"5" "Familial.episodic.pain.syndrom"

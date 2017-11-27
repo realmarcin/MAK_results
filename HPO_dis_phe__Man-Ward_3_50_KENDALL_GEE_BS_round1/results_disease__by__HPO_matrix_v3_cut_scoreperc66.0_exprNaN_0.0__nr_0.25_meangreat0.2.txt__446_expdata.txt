@@ -1,0 +1,11 @@
+	"Spinal Muscular Atrophy, Type 3"	"intermediate spinal muscular atrophy"	"Spinal Muscular Atrophy, Type 4"	"Glycogen storage disease due to muscle phosphorylase kinase deficiency"	"Glycogen Storage Disease Ixa1"	"Orphanet:371"	"Orphanet:71212"	"Orphanet:98895"
+"Recurrent respiratory infections"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyporeflexia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Degeneration of anterior horn cells"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Areflexia of lower limbs"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Spinal muscular atrophy"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Tongue fasciculations"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hand tremor"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"EMG abnormality"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Limb fasciculations"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

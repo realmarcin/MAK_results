@@ -1,0 +1,7 @@
+"x"
+"1" "Donnai.Barrow.Syndrome"
+"2" "Orphanet.2143"
+"3" "Deafness.with.labyrinthine.apl"
+"4" "Mental.retardation..stereotypi"
+"5" "Orphanet.324422"
+"6" "Orphanet.90024"

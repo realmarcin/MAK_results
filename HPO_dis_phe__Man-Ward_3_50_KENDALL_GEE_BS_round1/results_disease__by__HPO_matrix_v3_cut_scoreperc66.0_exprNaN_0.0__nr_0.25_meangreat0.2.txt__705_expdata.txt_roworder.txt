@@ -1,0 +1,7 @@
+"x"
+"1" "Baratela.Scott.Syndrome"
+"2" "Achondroplasia"
+"3" "Acrofacial.Dysostosis..Palagon"
+"4" "Otofacioosseous.Gonadal.Syndro"
+"5" "Pelger.Huet.Anomaly"
+"6" "Growth.restriction..severe..wi"

@@ -1,0 +1,6 @@
+"x"
+"1" "Platyspondyly"
+"2" "Hypoplastic ilia"
+"3" "Trismus"
+"4" "Coxa valga"
+"5" "Stiff neck"

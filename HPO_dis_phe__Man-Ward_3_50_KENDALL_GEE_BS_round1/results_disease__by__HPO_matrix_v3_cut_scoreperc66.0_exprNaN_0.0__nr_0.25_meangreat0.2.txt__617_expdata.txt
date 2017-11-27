@@ -1,0 +1,23 @@
+	"Spastic Paraplegia 50, Autosomal Recessive"	"Spastic paraplegia 51, autosomal recessive"	"Spastic Paraplegia 47, Autosomal Recessive"	"hereditary spastic paraplegia 52"
+"Hypertelorism"	0.0	0.0	0.0	1.0
+"Mandibular prognathia"	1.0	0.0	0.0	0.0
+"Pointed chin"	0.0	1.0	0.0	0.0
+"Nystagmus"	0.0	1.0	0.0	0.0
+"Downslanted palpebral fissures"	0.0	1.0	0.0	0.0
+"Prominent nose"	0.0	0.0	0.0	1.0
+"Strabismus"	1.0	0.0	0.0	0.0
+"Long nose"	0.0	1.0	0.0	0.0
+"Gliosis"	1.0	0.0	0.0	0.0
+"Cerebral cortical atrophy"	0.0	1.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	0.0
+"Adducted thumb"	1.0	0.0	0.0	0.0
+"Decreased muscle mass"	0.0	1.0	0.0	0.0
+"Narrow face"	0.0	1.0	0.0	0.0
+"Focal seizures"	0.0	0.0	0.0	1.0
+"Febrile seizures"	0.0	0.0	0.0	1.0
+"Thick vermilion border"	0.0	0.0	0.0	1.0
+"Prominent antihelix"	0.0	1.0	0.0	0.0
+"Pseudobulbar signs"	1.0	0.0	0.0	0.0
+"Muscular hypotonia of the trunk"	0.0	0.0	0.0	1.0
+"Loss of ability to walk"	0.0	0.0	0.0	1.0
+"Wide nasal ridge"	1.0	0.0	0.0	0.0

@@ -1,0 +1,27 @@
+	"Gamma-A-Globulin, Defect 1N Assembly of"	"Spondylocostal dysostosis-anal and genitourinary malformations syndrome"	"Orphanet:244"	"Orphanet:94095"
+"Hypertelorism"	0.0	1.0	0.0	0.0
+"Cryptorchidism"	0.0	0.0	0.0	1.0
+"Anal atresia"	0.0	1.0	0.0	1.0
+"Inguinal hernia"	0.0	1.0	0.0	0.0
+"Hydronephrosis"	0.0	1.0	0.0	1.0
+"Scoliosis"	0.0	1.0	0.0	1.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Oligohydramnios"	0.0	1.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	0.0	1.0
+"Skeletal dysplasia"	0.0	0.0	0.0	1.0
+"Abdominal distention"	0.0	1.0	0.0	0.0
+"Narrow chest"	0.0	0.0	0.0	1.0
+"11 pairs of ribs"	0.0	0.0	0.0	1.0
+"Polyhydramnios"	0.0	0.0	0.0	1.0
+"Short ribs"	0.0	1.0	0.0	0.0
+"Vertebral fusion"	0.0	0.0	0.0	1.0
+"Dolichocephaly"	0.0	1.0	0.0	0.0
+"Thin ribs"	0.0	1.0	0.0	0.0
+"Aplasia of the uterus"	0.0	1.0	0.0	1.0
+"Pulmonary hypoplasia"	0.0	1.0	0.0	0.0
+"Aplasia of the vagina"	0.0	1.0	0.0	0.0
+"Single umbilical artery"	0.0	1.0	0.0	0.0
+"Supernumerary vertebrae"	0.0	1.0	0.0	0.0
+"Absent external genitalia"	0.0	1.0	0.0	1.0
+"Urethral atresia"	0.0	1.0	0.0	1.0
+"Persistent cloaca"	0.0	0.0	0.0	1.0

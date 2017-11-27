@@ -1,0 +1,8 @@
+	"Charcot-Marie-Tooth Disease, Axonal, Type 2A1"	"Charcot-Marie-Tooth Disease and Deafness"	"Dejerine-Sottas disease"	"Roussy-LC)vy syndrome"	"Neuropathy, Hereditary Motor and Sensory, Type 6A"	"Charcot-Marie-Tooth Disease, Type 4B2"	"Charcot-Marie-Tooth Disease, Axonal, Type 2B1"	"DNM2-related intermediate Charcot-Marie-Tooth neuropathy"	"Charcot-Marie-Tooth disease dominant intermediate A"	"Charcot-Marie-Tooth Disease, Axonal, Type 2F"	"Charcot-Marie-Tooth Disease, Axonal, Type 2I"	"Charcot-Marie-Tooth Disease, Axonal, Type 2E"	"Moved to 614436"	"Charcot-Marie-Tooth disease axonal type 2L"	"Neurologic Waardenburg-Shah syndrome"	"Charcot-Marie-Tooth Disease, Axonal, Autosomal Dominant, Type 2A2A"	"Charcot-Marie-Tooth disease type 2P"	"Waardenburg-Shah syndrome"
+"Pes cavus"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Hyporeflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Distal amyotrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Areflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Distal muscle weakness"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Distal sensory impairment"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Heterochromia iridis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

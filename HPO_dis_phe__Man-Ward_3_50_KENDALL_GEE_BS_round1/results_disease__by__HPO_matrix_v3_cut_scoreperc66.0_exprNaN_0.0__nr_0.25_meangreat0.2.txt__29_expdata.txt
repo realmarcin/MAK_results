@@ -1,0 +1,5 @@
+	"POROK2"	"Porokeratosis punctata palmaris et plantaris"	"Porokeratosis, disseminated superficial actinic 1"	"POROK6"	"Porokeratosis 7, multiple types"	"Porokeratosis 8, Disseminated Superficial Actinic Type"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Porokeratosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Palmar telangiectasia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Plantar telangiectasia"	1.0	0.0	0.0	0.0	0.0	0.0

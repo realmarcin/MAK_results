@@ -1,0 +1,8 @@
+	"Amyotrophic Dystonic Paraplegia"	"Hydrocephalus, Normal-Pressure"	"Mental Retardation, X-Linked, Syndromic, Christianson Type"	"Fragile 10 Tremor/Ataxia Syndrome"	"Spastic Paraplegia 10, Autosomal Dominant"	"HDL3"	"Spastic Paraplegia 12, Autosomal Dominant"	"Spastic Paraplegia, Ataxia, and Mental Retardation"	"Orphanet:2704"	"Orphanet:59"
+"Urinary incontinence"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Bowel incontinence"	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Urinary bladder sphincter dysfunction"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Lower limb muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Urinary urgency"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Impaired vibration sensation in the lower limbs"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Spastic gait"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0

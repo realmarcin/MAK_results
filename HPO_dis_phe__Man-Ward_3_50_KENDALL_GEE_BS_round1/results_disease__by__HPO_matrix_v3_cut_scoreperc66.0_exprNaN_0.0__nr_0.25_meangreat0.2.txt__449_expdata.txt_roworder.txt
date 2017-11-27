@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.3019"
+"2" "Ramon.syndrome"
+"3" "Orphanet.3219"
+"4" "Intellectual.disability.dysmor"
+"5" "syndromic.X.linked.intellectua"
+"6" "Zimmermann.Laband.syndrome.2"
+"7" "Orphanet.2027"

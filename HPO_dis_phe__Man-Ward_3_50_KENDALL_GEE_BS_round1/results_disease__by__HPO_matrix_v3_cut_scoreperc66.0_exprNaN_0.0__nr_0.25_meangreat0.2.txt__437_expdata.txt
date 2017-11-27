@@ -1,0 +1,11 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Ehlers-Danlos syndrome due to tenascin-X deficiency"	"Orphanet:230839"	"Orphanet:90309"
+"Vesicoureteral reflux"	0.0	0.0	1.0	0.0	0.0
+"Hyperextensible skin"	0.0	0.0	1.0	1.0	0.0
+"Arthralgia"	0.0	0.0	1.0	1.0	0.0
+"Proximal muscle weakness"	1.0	0.0	1.0	1.0	0.0
+"Hiatus hernia"	0.0	0.0	1.0	0.0	0.0
+"Bicornuate uterus"	0.0	0.0	1.0	0.0	0.0
+"Muscle fiber splitting"	0.0	0.0	1.0	0.0	0.0
+"Proximal amyotrophy"	0.0	0.0	1.0	0.0	0.0
+"Ambiguous genitalia, female"	0.0	0.0	1.0	0.0	0.0
+"Increased connective tissue"	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Widow's peak"
+"2" "Shawl scrotum"
+"3" "Down-sloping shoulders"
+"4" "Mild short stature"
+"5" "Long neck"
+"6" "Bifid nasal tip"

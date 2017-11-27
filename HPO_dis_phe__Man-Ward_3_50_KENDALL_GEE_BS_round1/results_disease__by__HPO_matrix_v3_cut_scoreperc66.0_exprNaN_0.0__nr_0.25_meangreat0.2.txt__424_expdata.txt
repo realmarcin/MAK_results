@@ -1,0 +1,8 @@
+	"Acid Phosphatase Deficiency"	"Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, and Cerebral Calcification"	"Chromosomal Instability With Tissue-Specific Radiosensitivity"	"Perrault Syndrome 3"
+"Generalized hypotonia"	1.0	0.0	1.0	0.0
+"Neoplasm"	0.0	0.0	1.0	0.0
+"Opisthotonus"	1.0	0.0	0.0	0.0
+"Vomiting"	1.0	0.0	0.0	0.0
+"Abnormal bleeding"	1.0	0.0	0.0	0.0
+"Abnormality of chromosome stability"	0.0	0.0	1.0	0.0
+"Increased sensitivity to ionizing radiation"	0.0	0.0	1.0	0.0

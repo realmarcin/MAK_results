@@ -1,0 +1,13 @@
+	"Gastrocutaneous syndrome"	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orphanet:2069"	"Orphanet:3246"	"Orphanet:398173"	"Osteopenia-myopia-hearing loss-intellectual disability-facial dysmorphism syndrome"
+"Hypertelorism"	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Cafe-au-lait spot"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Synophrys"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Strabismus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Melanocytic nevus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Multiple lentigines"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Myopia"	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Peptic ulcer"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Multiple cafe-au-lait spots"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hiatus hernia"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Coronary artery disease"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

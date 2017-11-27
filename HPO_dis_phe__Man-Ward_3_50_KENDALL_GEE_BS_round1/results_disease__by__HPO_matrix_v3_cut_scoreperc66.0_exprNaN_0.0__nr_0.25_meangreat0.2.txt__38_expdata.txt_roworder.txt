@@ -1,0 +1,5 @@
+"x"
+"1" "Charcot.Marie.Tooth.Peroneal.M"
+"2" "Friedreich.Ataxia.and.Congenit"
+"3" "FRDA2"
+"4" "Parkinson.Dementia.Syndrome"

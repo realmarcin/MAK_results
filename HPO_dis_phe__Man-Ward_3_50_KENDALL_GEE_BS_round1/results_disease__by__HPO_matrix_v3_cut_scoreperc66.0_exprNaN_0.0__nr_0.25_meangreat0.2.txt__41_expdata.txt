@@ -1,0 +1,9 @@
+	"OMIM:173470"	"von Willebrand disease type 1"	"Bernard Soulier syndrome"	"Glanzmann's thrombasthenia"	"Von Willebrand Disease, Type 3"
+"Epistaxis"	1.0	1.0	1.0	1.0	1.0
+"Menorrhagia"	1.0	1.0	1.0	1.0	1.0
+"Purpura"	1.0	0.0	1.0	1.0	0.0
+"Impaired platelet aggregation"	1.0	1.0	0.0	1.0	1.0
+"Abnormality of coagulation"	1.0	0.0	0.0	0.0	0.0
+"Decreased platelet glycoprotein IIb-IIIa"	1.0	0.0	0.0	1.0	0.0
+"Neonatal alloimmune thrombocytopenia"	1.0	0.0	0.0	0.0	0.0
+"Post-transfusion thrombocytopenia"	1.0	0.0	0.0	0.0	0.0

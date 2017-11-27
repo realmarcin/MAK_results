@@ -1,0 +1,8 @@
+"x"
+"1" "Deficiency.of.beta.ureidopropi"
+"2" "Epileptic.Encephalopathy..Earl"
+"3" "Pontocerebellar.hypoplasia..ty"
+"4" "Cerebral.Palsy..Spastic.Quadri"
+"5" "Hyperprolinemia..Type.1"
+"6" "Dyskinesia..seizures..and.inte"
+"7" "Mental.Retardation..X.Linked.1"

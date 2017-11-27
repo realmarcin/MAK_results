@@ -1,0 +1,14 @@
+	"Orphanet:1451"	"Orphanet:29207"	"Orphanet:3287"	"Orphanet:33226"	"Orphanet:340"
+"Hyperkeratosis"	0.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	1.0	0.0	0.0	0.0
+"Dystrophic fingernails"	0.0	1.0	0.0	0.0	0.0
+"Myopia"	0.0	0.0	0.0	0.0	1.0
+"Intracranial hemorrhage"	0.0	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	1.0	0.0	0.0	1.0
+"Inflammation of the large intestine"	0.0	1.0	0.0	0.0	0.0
+"Enthesitis"	0.0	1.0	0.0	0.0	0.0
+"Recurrent urinary tract infections"	0.0	1.0	0.0	0.0	0.0
+"Hypoproteinemia"	0.0	0.0	0.0	0.0	1.0
+"Atelectasis"	0.0	0.0	0.0	0.0	1.0
+"Tubulointerstitial abnormality"	0.0	0.0	0.0	0.0	1.0
+"Subconjunctival hemorrhage"	0.0	0.0	0.0	0.0	1.0

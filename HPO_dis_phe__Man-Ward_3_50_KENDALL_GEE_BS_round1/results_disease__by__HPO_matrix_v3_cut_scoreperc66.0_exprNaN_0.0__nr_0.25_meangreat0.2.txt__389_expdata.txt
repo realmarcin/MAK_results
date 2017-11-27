@@ -1,0 +1,13 @@
+	"Copper Deficiency, Familial Benign"	"Kenny-Caffey Syndrome, Type 1"	"Orphanet:1014"	"Orphanet:1551"	"Orphanet:293964"
+"Seizures"	1.0	1.0	0.0	1.0	0.0
+"Short stature"	0.0	0.0	0.0	1.0	0.0
+"Acne"	0.0	0.0	0.0	1.0	0.0
+"Deep philtrum"	0.0	0.0	0.0	1.0	0.0
+"Seborrheic dermatitis"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the skeletal system"	1.0	0.0	0.0	0.0	0.0
+"Curly hair"	1.0	0.0	0.0	0.0	0.0
+"Anemia"	1.0	1.0	0.0	1.0	0.0
+"Early balding"	1.0	0.0	0.0	1.0	0.0
+"Hypocupremia"	1.0	0.0	0.0	1.0	0.0
+"Diaphyseal thickening"	0.0	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the fovea"	0.0	0.0	0.0	1.0	0.0

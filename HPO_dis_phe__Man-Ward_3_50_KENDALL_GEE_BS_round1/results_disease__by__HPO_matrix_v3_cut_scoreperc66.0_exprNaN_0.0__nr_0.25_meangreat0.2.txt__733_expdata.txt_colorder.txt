@@ -1,0 +1,6 @@
+"x"
+"1" "Micrognathia"
+"2" "Cafe-au-lait spot"
+"3" "HP:0001419"
+"4" "Joint hypermobility"
+"5" "Decreased body weight"

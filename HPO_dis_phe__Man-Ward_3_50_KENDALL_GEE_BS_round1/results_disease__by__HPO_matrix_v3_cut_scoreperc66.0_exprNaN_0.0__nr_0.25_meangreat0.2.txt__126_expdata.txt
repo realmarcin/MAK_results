@@ -1,0 +1,9 @@
+	"DURS1"	"Duane-Radial Ray Syndrome"	"Duane Retraction Syndrome 3 With or Without Deafness"	"Orphanet:1358"	"Orphanet:251909"
+"Congenital strabismus"	1.0	1.0	0.0	0.0	0.0
+"Impaired ocular adduction"	1.0	1.0	1.0	0.0	0.0
+"Impaired convergence"	1.0	1.0	0.0	0.0	1.0
+"Impaired ocular abduction"	1.0	1.0	1.0	1.0	0.0
+"Palpebral fissure narrowing on adduction"	1.0	1.0	0.0	0.0	0.0
+"Slit-like opening of the exterior auditory meatus"	0.0	1.0	0.0	0.0	0.0
+"Pectoralis hypoplasia"	0.0	1.0	0.0	0.0	0.0
+"Upper limb muscle hypoplasia"	0.0	1.0	0.0	0.0	0.0

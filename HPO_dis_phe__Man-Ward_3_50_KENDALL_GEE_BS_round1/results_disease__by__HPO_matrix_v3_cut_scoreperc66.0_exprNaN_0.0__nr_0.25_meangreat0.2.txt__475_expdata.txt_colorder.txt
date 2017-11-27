@@ -1,0 +1,7 @@
+"x"
+"1" "Inability to walk"
+"2" "HP:0000007"
+"3" "Self-mutilation"
+"4" "Small hand"
+"5" "Waddling gait"
+"6" "Kinetic tremor"

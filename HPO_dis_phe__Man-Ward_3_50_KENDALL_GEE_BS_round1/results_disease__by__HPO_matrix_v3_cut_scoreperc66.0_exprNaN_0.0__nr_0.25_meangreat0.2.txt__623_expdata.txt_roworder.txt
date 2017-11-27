@@ -1,0 +1,5 @@
+"x"
+"1" "Rubinstein.Taybi.Syndrome.1"
+"2" "Cohen.Syndrome"
+"3" "Coffin.Lowry.Syndrome"
+"4" "Orphanet.3079"

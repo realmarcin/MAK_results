@@ -1,0 +1,8 @@
+	"Bernard-Soulier Syndrome, Type A2, Autosomal Dominant"	"Thrombocytopenia, X-Linked, With or Without Dyserythropoietic Anemia"	"factor VIII deficiency"	"Hereditary factor IX deficiency disease"	"X-linked thrombocytopenia with normal platelets"	"Beta-thalassemia-X-linked thrombocytopenia syndrome"	"Thrombocytopenia 5"	"Orphanet:3002"
+"HP:0001419"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Acanthocytosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bruising susceptibility"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Petechiae"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Anemia of inadequate production"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Poikilocytosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital thrombocytopenia"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0

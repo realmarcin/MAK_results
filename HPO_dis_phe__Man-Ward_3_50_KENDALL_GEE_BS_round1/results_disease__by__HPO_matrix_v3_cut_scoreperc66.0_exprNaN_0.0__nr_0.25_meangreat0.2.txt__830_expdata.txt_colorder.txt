@@ -1,0 +1,6 @@
+"x"
+"1" "Hypertension"
+"2" "Stomatocytosis"
+"3" "Reticulocytosis"
+"4" "Episodic hemolytic anemia"
+"5" "Increased mean corpuscular volume"

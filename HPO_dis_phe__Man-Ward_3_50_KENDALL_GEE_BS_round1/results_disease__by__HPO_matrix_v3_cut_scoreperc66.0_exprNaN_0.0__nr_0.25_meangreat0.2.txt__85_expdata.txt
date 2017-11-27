@@ -1,0 +1,8 @@
+	"cadasil"	"Schwannomatosis 1"	"Meningioma, Familial, Susceptibility to"	"Schwannomatosis 2"
+"Abnormality of the skin"	1.0	1.0	0.0	0.0
+"Meningioma"	0.0	1.0	1.0	0.0
+"HP:0001428"	0.0	1.0	0.0	0.0
+"HP:0003829"	0.0	1.0	1.0	1.0
+"Abnormality of the vertebral column"	0.0	1.0	0.0	0.0
+"Schwannoma"	0.0	1.0	0.0	1.0
+"Spinal cord tumor"	0.0	1.0	0.0	1.0

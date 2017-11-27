@@ -1,0 +1,16 @@
+	"DECIPHER:21"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Ring chromosome 1"	"Orphanet:2612"	"Orphanet:999"
+"Intellectual disability"	0.0	0.0	0.0	1.0	0.0
+"EEG abnormality"	0.0	0.0	0.0	1.0	0.0
+"Iris coloboma"	0.0	0.0	0.0	1.0	0.0
+"Genu recurvatum"	0.0	0.0	0.0	1.0	0.0
+"Hyperreflexia"	0.0	0.0	0.0	1.0	0.0
+"Cavernous hemangioma"	0.0	0.0	0.0	1.0	0.0
+"Cerebral calcification"	0.0	0.0	0.0	1.0	0.0
+"Porencephalic cyst"	0.0	0.0	0.0	1.0	0.0
+"Reduced tendon reflexes"	0.0	0.0	0.0	1.0	0.0
+"Dandy-Walker malformation"	0.0	0.0	0.0	1.0	0.0
+"Adenoma sebaceum"	0.0	0.0	0.0	1.0	0.0
+"Vertebral segmentation defect"	0.0	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the cerebellum"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of vision"	0.0	0.0	0.0	1.0	0.0
+"Asymmetric growth"	0.0	0.0	0.0	1.0	0.0

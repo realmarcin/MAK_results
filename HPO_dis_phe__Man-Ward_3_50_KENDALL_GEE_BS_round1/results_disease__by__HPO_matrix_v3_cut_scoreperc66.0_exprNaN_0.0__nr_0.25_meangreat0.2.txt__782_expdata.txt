@@ -1,0 +1,8 @@
+	"Genito-palato-cardiac syndrome"	"Multinucleated Neurons, Anhydramnios, Renal Dysplasia, Cerebellar Hypoplasia, and Hydranencephaly"	"Nephrosis-deafness-urinary tract-digital malformations syndrome"	"ACLH"	"Cowden Syndrome 4"	"OMIM:617478"
+"Cleft palate"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypospadias"	1.0	0.0	0.0	0.0	0.0	0.0
+"Renal cyst"	1.0	0.0	0.0	0.0	0.0	1.0
+"Right aortic arch"	1.0	0.0	0.0	0.0	0.0	1.0
+"Double outlet right ventricle"	1.0	0.0	0.0	0.0	0.0	0.0
+"Transposition of the great arteries"	1.0	0.0	0.0	0.0	0.0	0.0
+"Gonadal dysgenesis, male"	1.0	0.0	0.0	0.0	0.0	0.0

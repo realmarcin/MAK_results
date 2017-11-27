@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Hypodontia"
+"3" "Palmoplantar hyperhidrosis"
+"4" "Premature graying of hair"
+"5" "Persistence of primary teeth"
+"6" "Failure of eruption of permanent teeth"
+"7" "Onycholysis of distal fingernails"

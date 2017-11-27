@@ -1,0 +1,10 @@
+	"Skeletal Defects, Genital Hypoplasia, and Mental Retardation"	"Orphanet:1765"	"Orphanet:1972"	"Madelung deformity"
+"Microdontia"	0.0	1.0	0.0	0.0
+"Behavioral abnormality"	0.0	1.0	0.0	0.0
+"Strabismus"	1.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	1.0	1.0	0.0
+"Proteinuria"	0.0	1.0	0.0	0.0
+"Hematuria"	0.0	1.0	0.0	0.0
+"Nephropathy"	0.0	1.0	0.0	1.0
+"Corneal opacity"	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the radius"	1.0	1.0	0.0	0.0

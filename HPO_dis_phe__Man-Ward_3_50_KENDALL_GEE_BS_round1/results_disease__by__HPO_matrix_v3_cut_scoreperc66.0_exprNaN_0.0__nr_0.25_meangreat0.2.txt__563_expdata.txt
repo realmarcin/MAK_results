@@ -1,0 +1,7 @@
+	"branchiooculofacial syndrome"	"Van der Woude syndrome"	"Popliteal Pterygium Syndrome"	"Cornelia De Lange Syndrome 1"	"Disorganization, Mouse, Homolog of"	"Mental Retardation, X-Linked, Syndromic, Claes-Jensen Type"	"Chondrodysplasia Punctata 1, X-Linked Recessive"	"Agonadism, 46,Xy, With Mental Retardation, Short Stature, Retarded Bone Age, and Multiple Extragenital Malformations"	"Orphanet:1297"	"Orphanet:888"
+"Lower lip pit"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Postauricular pit"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Malrotation of colon"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Duplication of internal organs"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Supraauricular pit"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Branchial anomaly"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

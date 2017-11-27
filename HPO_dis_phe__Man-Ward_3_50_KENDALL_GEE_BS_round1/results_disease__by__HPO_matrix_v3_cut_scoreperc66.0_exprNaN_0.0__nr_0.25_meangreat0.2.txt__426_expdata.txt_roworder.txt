@@ -1,0 +1,8 @@
+"x"
+"1" "Spastic.paraplegia.46..autosom"
+"2" "Spastic.paraplegia.5A"
+"3" "Spastic.paraplegia.4..autosoma"
+"4" "hereditary.spastic.paraplegia."
+"5" "Spastic.Paraplegia.26..Autosom"
+"6" "Distal.hereditary.motor.neuron"
+"7" "Charcot.Marie.Tooth.Disease..A"

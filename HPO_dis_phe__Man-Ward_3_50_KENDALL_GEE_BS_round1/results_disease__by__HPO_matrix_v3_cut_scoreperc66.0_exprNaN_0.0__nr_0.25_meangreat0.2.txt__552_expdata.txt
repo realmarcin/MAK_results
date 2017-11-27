@@ -1,0 +1,12 @@
+	"DECIPHER:47"	"Hyperimmunoglobulin D with periodic fever"	"Congenital bronchobiliary fistula"	"Orphanet:56"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Headache"	0.0	1.0	0.0	0.0
+"Skin rash"	0.0	1.0	0.0	0.0
+"Vomiting"	0.0	1.0	0.0	0.0
+"Vertigo"	0.0	1.0	0.0	0.0
+"Hypermelanotic macule"	0.0	1.0	0.0	0.0
+"Nyctalopia"	0.0	1.0	0.0	0.0
+"Rod-cone dystrophy"	0.0	1.0	0.0	0.0
+"Elevated erythrocyte sedimentation rate"	0.0	1.0	0.0	0.0
+"Increased IgA level"	0.0	1.0	0.0	0.0
+"Optic disc pallor"	0.0	1.0	0.0	0.0

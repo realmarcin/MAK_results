@@ -1,0 +1,6 @@
+"x"
+"1" "Autosomal.recessive.optic.atro"
+"2" "Usher.syndrome..type.3B"
+"3" "Leber.Congenital.Amaurosis.16"
+"4" "Bosch.Boonstra.Schaaf.optic.at"
+"5" "Retinal.cone.dystrophy.3A"

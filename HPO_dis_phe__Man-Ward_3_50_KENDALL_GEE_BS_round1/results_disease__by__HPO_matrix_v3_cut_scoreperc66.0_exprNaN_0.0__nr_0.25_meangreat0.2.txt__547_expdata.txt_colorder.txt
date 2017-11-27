@@ -1,0 +1,8 @@
+"x"
+"1" "Teratoma"
+"2" "Abnormal hypothalamus morphology"
+"3" "Abnormality of midbrain morphology"
+"4" "Abnormality of the pituitary gland"
+"5" "Hypoplasia of olfactory tract"
+"6" "Abnormality of joint mobility"
+"7" "Abnormality of masseter muscle"

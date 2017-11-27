@@ -1,0 +1,5 @@
+"x"
+"1" "MRX95"
+"2" "Mental.Retardation..Autosomal."
+"3" "Chromosome.Xp11.22.Duplication"
+"4" "Mental.Retardation..Autosomal."

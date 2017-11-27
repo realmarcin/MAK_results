@@ -1,0 +1,6 @@
+"x"
+"1" "Megalocornea.Mental.Retardatio"
+"2" "Orphanet.2479"
+"3" "Craniofacial.dysmorphism..skel"
+"4" "Cardiac.anomalies.developmenta"
+"5" "Sifrim.Hitz.Weiss.syndrome"

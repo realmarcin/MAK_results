@@ -1,0 +1,7 @@
+	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Early infantile epileptic encephalopathy 18"	"Orphanet:324422"	"Orphanet:90024"
+"EEG abnormality"	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0
+"Hyporeflexia"	0.0	0.0	1.0	0.0	0.0
+"Focal seizures"	0.0	0.0	1.0	0.0	0.0
+"Thick corpus callosum"	0.0	0.0	1.0	0.0	0.0
+"Absence seizures"	0.0	0.0	1.0	0.0	0.0

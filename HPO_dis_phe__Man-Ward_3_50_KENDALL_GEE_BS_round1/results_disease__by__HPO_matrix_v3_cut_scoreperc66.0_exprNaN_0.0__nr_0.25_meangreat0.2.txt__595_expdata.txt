@@ -1,0 +1,10 @@
+	"Severe microbrachycephaly-intellectual disability-athetoid cerebral palsy syndrome"	"Orphanet:2152"	"Orphanet:251038"	"Orphanet:66629"
+"Aniridia"	0.0	0.0	1.0	0.0
+"Downslanted palpebral fissures"	0.0	0.0	1.0	0.0
+"Toe syndactyly"	0.0	0.0	1.0	0.0
+"Ectopic anus"	0.0	0.0	1.0	0.0
+"Deep philtrum"	0.0	0.0	1.0	0.0
+"Abnormality of the dentition"	0.0	0.0	1.0	0.0
+"Camptodactyly of toe"	0.0	0.0	1.0	0.0
+"Biparietal narrowing"	0.0	0.0	1.0	0.0
+"Sclerocornea"	0.0	0.0	1.0	0.0

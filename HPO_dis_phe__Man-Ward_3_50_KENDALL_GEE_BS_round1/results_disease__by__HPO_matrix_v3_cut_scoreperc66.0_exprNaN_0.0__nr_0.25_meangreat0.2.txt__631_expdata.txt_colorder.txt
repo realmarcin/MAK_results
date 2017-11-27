@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Grammar-specific speech disorder"
+"3" "Alexia"
+"4" "Spoken Word Recognition Deficit"

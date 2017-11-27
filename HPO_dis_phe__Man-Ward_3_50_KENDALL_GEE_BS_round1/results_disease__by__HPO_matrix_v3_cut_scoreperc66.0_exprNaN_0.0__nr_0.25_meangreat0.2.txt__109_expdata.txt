@@ -1,0 +1,12 @@
+	"SHLTS"	"Witteveen-kolk syndrome"	"Mosaic variegated aneuploidy syndrome 2"	"Orphanet:1052"	"Orphanet:261211"
+"Cafe-au-lait spot"	0.0	1.0	1.0	0.0	0.0
+"Epicanthus"	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability, mild"	0.0	1.0	1.0	0.0	0.0
+"Sleep apnea"	0.0	0.0	1.0	0.0	1.0
+"Coarctation of aorta"	0.0	0.0	1.0	1.0	0.0
+"Duodenal atresia"	0.0	0.0	1.0	1.0	0.0
+"Subvalvular aortic stenosis"	0.0	0.0	1.0	1.0	0.0
+"Dolichocephaly"	1.0	0.0	1.0	0.0	0.0
+"Growth hormone deficiency"	0.0	1.0	1.0	0.0	0.0
+"Epidermoid cyst"	0.0	0.0	1.0	0.0	0.0
+"Abnormal lung lobation"	0.0	0.0	1.0	1.0	0.0

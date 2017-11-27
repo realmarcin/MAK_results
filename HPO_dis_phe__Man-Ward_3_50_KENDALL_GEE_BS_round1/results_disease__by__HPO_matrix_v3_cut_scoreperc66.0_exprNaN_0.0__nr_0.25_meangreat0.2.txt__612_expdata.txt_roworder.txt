@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.2930"
+"2" "Blue.Rubber.Bleb.Nevus"
+"3" "Peutz.Jeghers.Syndrome"
+"4" "AApoAIV.amyloidosis"

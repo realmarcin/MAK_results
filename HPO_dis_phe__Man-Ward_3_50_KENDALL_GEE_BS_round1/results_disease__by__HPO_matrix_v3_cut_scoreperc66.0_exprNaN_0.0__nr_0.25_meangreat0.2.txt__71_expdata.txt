@@ -1,0 +1,35 @@
+	"Cowden syndrome 1"	"Cowden syndrome 5"	"Cowden syndrome 6"	"Orphanet:201"
+"High palate"	1.0	1.0	1.0	1.0
+"Hypoplasia of the maxilla"	1.0	1.0	1.0	0.0
+"Pectus excavatum"	1.0	1.0	1.0	1.0
+"Hearing impairment"	1.0	1.0	1.0	1.0
+"Meningioma"	1.0	1.0	1.0	1.0
+"Breast carcinoma"	1.0	1.0	1.0	1.0
+"Melanocytic nevus"	0.0	0.0	0.0	1.0
+"Papule"	0.0	0.0	0.0	1.0
+"Cataract"	1.0	1.0	1.0	1.0
+"Cognitive impairment"	0.0	0.0	0.0	1.0
+"Palmoplantar keratoderma"	0.0	0.0	0.0	1.0
+"Subcutaneous nodule"	0.0	0.0	0.0	1.0
+"Goiter"	1.0	1.0	1.0	1.0
+"Multiple cafe-au-lait spots"	0.0	0.0	0.0	1.0
+"Renal cell carcinoma"	0.0	0.0	0.0	1.0
+"Cavernous hemangioma"	0.0	0.0	0.0	1.0
+"Adenoma sebaceum"	0.0	0.0	0.0	1.0
+"Generalized hyperkeratosis"	0.0	0.0	0.0	1.0
+"Furrowed tongue"	1.0	1.0	1.0	1.0
+"Gynecomastia"	1.0	1.0	1.0	1.0
+"Hypopigmented skin patches"	0.0	0.0	0.0	1.0
+"Cellular immunodeficiency"	0.0	0.0	0.0	1.0
+"Lipoma"	0.0	0.0	0.0	1.0
+"Hamartomatous polyposis"	1.0	1.0	1.0	1.0
+"Bone cyst"	0.0	0.0	0.0	1.0
+"Enlarged polycystic ovaries"	0.0	0.0	0.0	1.0
+"Follicular thyroid carcinoma"	0.0	0.0	0.0	1.0
+"Melanoma"	0.0	0.0	0.0	1.0
+"Endometrial carcinoma"	0.0	0.0	0.0	1.0
+"Colorectal polyposis"	0.0	0.0	0.0	1.0
+"Mucosal telangiectasiae"	0.0	0.0	0.0	1.0
+"Abnormality of the penis"	0.0	0.0	0.0	1.0
+"Papilloma"	0.0	0.0	0.0	1.0
+"Conjunctival hamartoma"	0.0	0.0	0.0	1.0

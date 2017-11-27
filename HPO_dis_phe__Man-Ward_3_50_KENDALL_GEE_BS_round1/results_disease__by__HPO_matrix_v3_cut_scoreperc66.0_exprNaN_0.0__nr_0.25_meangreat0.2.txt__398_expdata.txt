@@ -1,0 +1,13 @@
+	"Chromosome 18Q Deletion Syndrome"	"Phelan-Mcdermid Syndrome"	"Mental retardation, autosomal dominant 34"	"Yuan-Harel-Lupski Syndrome"	"3p25.3 microdeletion syndrome"	"Orphanet:48652"	"X small rings"
+"Global developmental delay"	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Oligohydramnios"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Generalized tonic-clonic seizures"	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Widely spaced teeth"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Broad-based gait"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Curly hair"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Coarse hair"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bilateral ptosis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Myopathic facies"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cortical visual impairment"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Muscular hypotonia of the trunk"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bruxism"	0.0	1.0	1.0	0.0	0.0	1.0	0.0

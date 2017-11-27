@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Irregular tarsal bones"
+"3" "Focal lissencephaly"
+"4" "Widened sacrosciatic notch"

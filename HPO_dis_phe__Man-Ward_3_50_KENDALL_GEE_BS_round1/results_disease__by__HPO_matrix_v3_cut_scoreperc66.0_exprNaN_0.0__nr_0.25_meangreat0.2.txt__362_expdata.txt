@@ -1,0 +1,18 @@
+	"cadasil"	"Metachromatic Leukodystrophy, Adult-Onset, With Normal Arylsulfatase a"	"Pruritus, Hereditary Localized"	"dystonia 23"
+"Seizures"	1.0	0.0	0.0	0.0
+"Behavioral abnormality"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	0.0	1.0
+"Peripheral neuropathy"	1.0	0.0	0.0	0.0
+"Stroke"	1.0	0.0	0.0	0.0
+"Urinary incontinence"	1.0	1.0	0.0	0.0
+"Pseudobulbar paralysis"	1.0	0.0	0.0	0.0
+"Visual loss"	1.0	0.0	0.0	0.0
+"Abnormal electroretinogram"	1.0	0.0	0.0	0.0
+"Migraine"	1.0	0.0	0.0	0.0
+"Gait disturbance"	1.0	0.0	0.0	1.0
+"Abnormality of visual evoked potentials"	1.0	0.0	0.0	0.0
+"Leukoencephalopathy"	1.0	0.0	0.0	0.0
+"Varicose veins"	1.0	0.0	0.0	0.0
+"Subcortical dementia"	1.0	0.0	0.0	0.0
+"Recurrent subcortical infarcts"	1.0	0.0	0.0	0.0
+"Nonarteritic anterior ischemic optic neuropathy"	1.0	0.0	0.0	0.0

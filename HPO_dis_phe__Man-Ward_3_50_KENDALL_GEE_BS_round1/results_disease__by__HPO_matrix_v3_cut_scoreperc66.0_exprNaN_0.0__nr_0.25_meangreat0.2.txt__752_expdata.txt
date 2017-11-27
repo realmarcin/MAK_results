@@ -1,0 +1,10 @@
+	"OMIM:609338"	"SLEB6"	"Preterm premature rupture of membranes"	"Macular Degeneration, Age-Related, 4"	"Gallbladder Disease 4"	"Age-related macular degeneration 11"
+"HP:0010982"	1.0	1.0	1.0	1.0	1.0	1.0
+"Systemic lupus erythematosus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Cholelithiasis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Vitiligo"	0.0	0.0	0.0	0.0	0.0	0.0
+"Age-related macular degeneration"	0.0	0.0	0.0	1.0	0.0	1.0
+"Acute lymphoblastic leukemia"	0.0	0.0	0.0	0.0	0.0	0.0
+"Premature rupture of membranes"	0.0	0.0	1.0	0.0	0.0	0.0
+"Neoplasia of the nasopharynx"	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0012273"	1.0	0.0	0.0	0.0	0.0	0.0

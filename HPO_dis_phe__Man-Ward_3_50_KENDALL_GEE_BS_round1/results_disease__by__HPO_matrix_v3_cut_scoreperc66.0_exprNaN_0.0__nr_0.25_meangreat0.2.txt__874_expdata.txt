@@ -1,0 +1,19 @@
+	"DECIPHER:21"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Ring chromosome 1"	"Orphanet:99812"	"Orphanet:999"
+"Intellectual disability"	0.0	0.0	0.0	1.0	0.0
+"Brachycephaly"	0.0	0.0	0.0	1.0	0.0
+"Hepatomegaly"	0.0	0.0	0.0	1.0	0.0
+"Low anterior hairline"	0.0	0.0	0.0	1.0	0.0
+"Severe combined immunodeficiency"	0.0	0.0	0.0	1.0	0.0
+"Erythema"	0.0	0.0	0.0	1.0	0.0
+"Lymphoma"	0.0	0.0	0.0	1.0	0.0
+"Leukocytosis"	0.0	0.0	0.0	1.0	0.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	1.0	0.0
+"Thin vermilion border"	0.0	0.0	0.0	1.0	0.0
+"Malabsorption"	0.0	0.0	0.0	1.0	0.0
+"Acute leukemia"	0.0	0.0	0.0	1.0	0.0
+"Pancytopenia"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of chromosome stability"	0.0	0.0	0.0	1.0	0.0
+"Lymphadenopathy"	0.0	0.0	0.0	1.0	0.0
+"Hypoplasia of penis"	0.0	0.0	0.0	1.0	0.0
+"Large beaked nose"	0.0	0.0	0.0	1.0	0.0
+"Telangiectasia of the skin"	0.0	0.0	0.0	1.0	0.0

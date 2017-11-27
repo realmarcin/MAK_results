@@ -1,0 +1,6 @@
+"x"
+"1" "Malignant.Hyperthermia..Suscep"
+"2" "Malignant.Hyperthermia..Suscep"
+"3" "Deoxyribose.5.Phosphate.Aldola"
+"4" "Hypertrophia.Musculorum.Vera"
+"5" "Scapuloperoneal.Syndrome..Neur"

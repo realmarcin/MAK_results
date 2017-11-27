@@ -1,0 +1,6 @@
+"x"
+"1" "Aceruloplasminemia"
+"2" "Orphanet.48818"
+"3" "Orphanet.58"
+"4" "Dystonia..Dopa.Responsive"
+"5" "X.linked.parkinsonism.spastici"

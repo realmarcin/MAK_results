@@ -1,0 +1,17 @@
+	"Gordon syndrome"	"Digitotalar dysmorphism"	"Camptodactyly-taurinuria syndrome"	"Orphanet:178382"
+"Cutaneous finger syndactyly"	1.0	0.0	0.0	0.0
+"Short neck"	1.0	0.0	0.0	0.0
+"Ophthalmoplegia"	1.0	0.0	0.0	0.0
+"Pectus excavatum"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0
+"Lumbar hyperlordosis"	1.0	0.0	0.0	0.0
+"Bifid uvula"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0
+"Short phalanx of finger"	1.0	0.0	0.0	0.0
+"Kyphoscoliosis"	1.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	1.0	0.0	0.0	0.0
+"Decreased muscle mass"	1.0	0.0	0.0	0.0
+"Down-sloping shoulders"	1.0	0.0	0.0	0.0
+"Thoracolumbar scoliosis"	1.0	0.0	0.0	0.0
+"Submucous cleft hard palate"	1.0	0.0	0.0	0.0
+"Overlapping toe"	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Cochlear degeneration"
+"3" "Slowed slurred speech"
+"4" "Focal motor seizures"

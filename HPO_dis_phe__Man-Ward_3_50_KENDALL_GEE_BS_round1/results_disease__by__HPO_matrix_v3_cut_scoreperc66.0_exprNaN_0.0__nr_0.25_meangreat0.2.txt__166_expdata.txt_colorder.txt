@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperextensible skin"
+"2" "Bifid uvula"
+"3" "Dilatation of ascending aorta"
+"4" "Generalized arterial tortuosity"
+"5" "Ascending aortic dissection"
+"6" "Dermal translucency"

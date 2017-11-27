@@ -1,0 +1,29 @@
+	"Down Syndrome"	"Renpenning syndrome"	"Witteveen-kolk syndrome"	"Orphanet:870"	"X-linked intellectual disability, Golabi-Ito-Hall type"
+"Anal atresia"	1.0	1.0	0.0	1.0	0.0
+"Protruding tongue"	1.0	0.0	0.0	1.0	0.0
+"Joint laxity"	1.0	0.0	1.0	1.0	0.0
+"Short neck"	0.0	0.0	0.0	1.0	0.0
+"Conductive hearing impairment"	1.0	0.0	0.0	1.0	0.0
+"Narrow palate"	0.0	0.0	0.0	1.0	0.0
+"Epicanthus"	1.0	1.0	1.0	1.0	1.0
+"Broad palm"	1.0	0.0	0.0	0.0	0.0
+"Alzheimer disease"	1.0	0.0	0.0	0.0	0.0
+"Macroglossia"	1.0	0.0	0.0	1.0	1.0
+"Gait disturbance"	0.0	0.0	0.0	1.0	0.0
+"Short middle phalanx of the 5th finger"	1.0	0.0	0.0	0.0	0.0
+"Prematurely aged appearance"	0.0	0.0	0.0	1.0	0.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	1.0	0.0
+"Hypotrichosis"	0.0	0.0	0.0	1.0	0.0
+"Decreased fertility"	0.0	0.0	0.0	1.0	0.0
+"Myeloproliferative disorder"	1.0	0.0	0.0	0.0	0.0
+"Aganglionic megacolon"	1.0	0.0	0.0	1.0	0.0
+"Duodenal stenosis"	1.0	0.0	0.0	0.0	0.0
+"Thickened nuchal skin fold"	1.0	0.0	0.0	1.0	0.0
+"Brushfield spots"	1.0	0.0	0.0	0.0	0.0
+"Complete atrioventricular canal defect"	1.0	0.0	0.0	0.0	0.0
+"Atlantoaxial instability"	1.0	0.0	0.0	0.0	0.0
+"Acute megakaryocytic leukemia"	1.0	0.0	0.0	1.0	0.0
+"Renal hypoplasia/aplasia"	0.0	0.0	0.0	1.0	0.0
+"Round ear"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the fontanelles or cranial sutures"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the lymphatic system"	0.0	0.0	0.0	1.0	0.0

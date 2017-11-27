@@ -1,0 +1,6 @@
+"x"
+"1" "W.syndrome"
+"2" "Orphanet.2804"
+"3" "Meester.Loeys.Syndrome"
+"4" "Mental.Retardation..X.Linked.."
+"5" "Orphanet.2256"

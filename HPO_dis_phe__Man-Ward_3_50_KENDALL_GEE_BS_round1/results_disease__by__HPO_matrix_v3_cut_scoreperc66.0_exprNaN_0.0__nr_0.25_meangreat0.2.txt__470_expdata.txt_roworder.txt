@@ -1,0 +1,7 @@
+"x"
+"1" "Momo.Syndrome"
+"2" "Chromosome.5P13.Duplication.Sy"
+"3" "Chromosome.9P.Deletion.Syndrom"
+"4" "acromelic.frontonasal.dysostos"
+"5" "Orphanet.66625"
+"6" "Orphanet.98791"

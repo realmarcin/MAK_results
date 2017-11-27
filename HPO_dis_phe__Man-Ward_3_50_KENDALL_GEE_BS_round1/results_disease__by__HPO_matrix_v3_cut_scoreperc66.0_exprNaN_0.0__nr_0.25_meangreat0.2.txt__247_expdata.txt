@@ -1,0 +1,18 @@
+	"Beta-D-mannosidosis"	"syndromic X-linked intellectual disability type 10"	"Mental Retardation, X-Linked 102"	"Dyskinesia, seizures, and intellectual developmental disorder"
+"Intellectual disability"	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	0.0	0.0	0.0
+"Cleft palate"	0.0	0.0	1.0	0.0
+"Cleft upper lip"	0.0	0.0	1.0	0.0
+"Ventriculomegaly"	0.0	0.0	1.0	0.0
+"Hearing impairment"	1.0	0.0	1.0	0.0
+"Broad-based gait"	0.0	1.0	1.0	0.0
+"Abnormal facial shape"	1.0	0.0	1.0	0.0
+"Decreased body weight"	0.0	0.0	1.0	0.0
+"Recurrent infections"	1.0	0.0	0.0	0.0
+"Precocious puberty"	0.0	0.0	1.0	0.0
+"Angiokeratoma"	1.0	0.0	0.0	0.0
+"Dyskinesia"	0.0	0.0	1.0	1.0
+"Tortuosity of conjunctival vessels"	1.0	0.0	0.0	0.0
+"Demyelinating peripheral neuropathy"	1.0	0.0	0.0	0.0
+"Increased urinary disaccharide excretion"	1.0	0.0	0.0	0.0
+"HP:0001423"	0.0	0.0	1.0	0.0

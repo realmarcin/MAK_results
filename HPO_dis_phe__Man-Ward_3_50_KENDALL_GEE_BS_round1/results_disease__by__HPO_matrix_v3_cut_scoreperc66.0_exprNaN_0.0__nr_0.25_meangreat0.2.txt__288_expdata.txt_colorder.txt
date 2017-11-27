@@ -1,0 +1,7 @@
+"x"
+"1" "Fractures of the long bones"
+"2" "Patchy osteosclerosis"
+"3" "Osteomyelitis leading to amputation due to slow healing fractures"
+"4" "Diaphyseal cortical sclerosis"
+"5" "Presenile cataracts"
+"6" "Stenosis of the medullary cavity of the long bones"

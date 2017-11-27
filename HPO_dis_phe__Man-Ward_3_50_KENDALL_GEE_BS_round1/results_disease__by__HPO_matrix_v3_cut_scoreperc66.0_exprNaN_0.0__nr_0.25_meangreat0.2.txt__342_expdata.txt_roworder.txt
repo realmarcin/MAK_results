@@ -1,0 +1,8 @@
+"x"
+"1" "Cerebral.Amyloid.Angiopathy..A"
+"2" "Familial.cervical.artery.disse"
+"3" "Cerebral.Amyloid.Angiopathy..I"
+"4" "Cerebral.Amyloid.Angiopathy..I"
+"5" "Alzheimer.Disease.4"
+"6" "ABeta.amyloidosis..Dutch.type"
+"7" "Orphanet.100008"

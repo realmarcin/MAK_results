@@ -1,0 +1,12 @@
+	"Arthrogryposis-hyperkeratosis syndrome, lethal form"	"Glycogen Storage Disease 4"	"Pelvic Hypoplasia With Lower-Limb Arthrogryposis"	"Spinal Muscular Atrophy With Congenital Bone Fractures 1"	"Spinal Muscular Atrophy with Congenital Bone Fractures 2; SMABF2"
+"Failure to thrive"	0.0	1.0	0.0	0.0	0.0
+"Cirrhosis"	0.0	1.0	0.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	1.0	0.0	0.0	0.0
+"Reduced tendon reflexes"	0.0	1.0	0.0	0.0	0.0
+"Hepatosplenomegaly"	0.0	1.0	0.0	0.0	0.0
+"Tubulointerstitial fibrosis"	0.0	1.0	0.0	0.0	0.0
+"Ascites"	0.0	1.0	0.0	0.0	0.0
+"Hepatic failure"	0.0	1.0	0.0	0.0	0.0
+"Portal hypertension"	0.0	1.0	0.0	0.0	0.0
+"Hydrops fetalis"	0.0	1.0	0.0	0.0	0.0
+"Esophageal varix"	0.0	1.0	0.0	0.0	0.0

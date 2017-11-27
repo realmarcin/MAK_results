@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.436174"
+"2" "Orphanet.73272"
+"3" "Deafness..Sensorineural..With."
+"4" "Mitochondrial.Myopathy..Enceph"
+"5" "Deafness..Autosomal.Dominant.2"

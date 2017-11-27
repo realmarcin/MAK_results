@@ -1,0 +1,6 @@
+	"Porphyria, Acute Intermittent"	"Glycogen Storage Disease 2"	"fatal familial insomnia"	"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 1"	"myofibrillar myopathy 6"	"Myopathy, Areflexia, Respiratory Distress, and Dysphagia, Early-Onset"	"Spastic Paraplegia 9B, Autosomal Recessive"	"Orphanet:100100"	"Orphanet:1328"	"Orphanet:231568"	"Polycystic ovaries-urethral sphincter dysfunction syndrome"	"Orphanet:303"	"Thymus Epithelial Neoplasm"	"Bronchopulmonary dysplasia"	"Thyrotoxic periodic paralysis"	"Orphanet:868"	"Orphanet:99868"
+"Cranial nerve paralysis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Urinary retention"	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Cerebral palsy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diaphragmatic paralysis"	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0
+"Mydriasis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

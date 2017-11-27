@@ -1,0 +1,6 @@
+	"Upington Disease"	"Widow'S Peak Syndrome"	"Multiple epiphyseal dysplasia 2"	"Epiphyseal Dysplasia, Multiple, 5"	"Multiple epiphyseal dysplasia, with severe proximal femoral dysplasia"	"Aneurysm-osteoarthritis syndrome"	"Epiphyseal Dysplasia, Multiple, 6"
+"Heberden's node"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Arthralgia of the hip"	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+"Knee osteoarthritis"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Schmorl's node"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Flat distal femoral epiphysis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0

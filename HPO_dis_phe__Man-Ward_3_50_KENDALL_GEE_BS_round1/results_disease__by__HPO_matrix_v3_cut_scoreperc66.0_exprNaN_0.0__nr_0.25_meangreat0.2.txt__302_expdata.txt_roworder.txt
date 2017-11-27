@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.2673"
+"2" "Imperforate.oropharynx.costo.v"
+"3" "Orphanet.284160"
+"4" "Potocki.Shaffer.syndrome"
+"5" "Orphanet.1252"

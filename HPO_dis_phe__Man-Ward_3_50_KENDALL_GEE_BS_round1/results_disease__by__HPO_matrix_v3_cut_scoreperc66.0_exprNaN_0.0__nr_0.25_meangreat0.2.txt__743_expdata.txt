@@ -1,0 +1,12 @@
+	"Spastic Paraplegia 35, Autosomal Recessive"	"Spinocerebellar Ataxia, Autosomal Recessive 11"	"Spinocerebellar Ataxia, Autosomal Recessive 13"	"Spinocerebellar ataxia, autosomal recessive 16"	"Spastic paraplegia 75, autosomal recessive"	"Spinocerebellar Ataxia, Autosomal Recessive 24"
+"Neonatal hypotonia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Ventriculomegaly"	0.0	0.0	1.0	0.0	1.0	0.0
+"Hypermetropia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Glaucoma"	0.0	0.0	0.0	0.0	1.0	0.0
+"Astigmatism"	0.0	0.0	0.0	0.0	1.0	0.0
+"Spastic paraparesis"	1.0	0.0	0.0	0.0	1.0	0.0
+"Dysmetria"	1.0	0.0	1.0	0.0	1.0	0.0
+"Areflexia of lower limbs"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hyporeflexia of lower limbs"	0.0	0.0	0.0	0.0	1.0	0.0
+"Corpus callosum atrophy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Spastic dysarthria"	0.0	0.0	0.0	0.0	1.0	0.0

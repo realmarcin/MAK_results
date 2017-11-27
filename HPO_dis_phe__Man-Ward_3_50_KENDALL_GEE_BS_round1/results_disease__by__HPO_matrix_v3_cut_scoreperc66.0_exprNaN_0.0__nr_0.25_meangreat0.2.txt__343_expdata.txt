@@ -1,0 +1,6 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Cerebral Sarcoma"	"Orphanet:206484"	"Orphanet:31112"	"Orphanet:314473"	"Ovarian fibrothecoma"	"Orphanet:33001"
+"Fibrosarcoma"	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Diffuse leiomyomatosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Gonadal calcification"	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Mesenteric cyst"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the endometrium"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

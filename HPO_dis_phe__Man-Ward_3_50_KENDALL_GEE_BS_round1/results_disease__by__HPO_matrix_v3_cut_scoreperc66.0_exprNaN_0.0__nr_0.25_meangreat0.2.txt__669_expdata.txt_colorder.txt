@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Curved linear dimple below the lower lip"
+"3" "Cervical spine hypermobility"
+"4" "Proximal finger joint hyperextensibility"

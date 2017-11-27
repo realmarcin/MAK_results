@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Intermittent generalized erythematous papular rash"
+"3" "Nongranulomatous uveitis"
+"4" "Tendonitis"

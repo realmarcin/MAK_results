@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "HP:0000007"
+"3" "Delayed CNS myelination"
+"4" "Global brain atrophy"
+"5" "Pericardial effusion"
+"6" "Hepatosplenomegaly"
+"7" "Inverted nipples"

@@ -1,0 +1,22 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Keipert syndrome"	"Orphanet:2662"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	1.0	0.0	0.0
+"Behavioral abnormality"	0.0	0.0	0.0	1.0	0.0	0.0
+"Ptosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hoarse voice"	0.0	0.0	1.0	1.0	0.0	0.0
+"Pulmonic stenosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Broad hallux"	0.0	0.0	1.0	0.0	0.0	0.0
+"Broad thumb"	0.0	0.0	1.0	1.0	0.0	0.0
+"Short phalanx of finger"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the nail"	0.0	0.0	1.0	0.0	0.0	0.0
+"Short toe"	0.0	0.0	1.0	0.0	0.0	0.0
+"Broad distal phalanx of finger"	0.0	0.0	1.0	1.0	0.0	0.0
+"Short distal phalanx of finger"	0.0	0.0	0.0	1.0	0.0	0.0
+"Short hallux"	0.0	0.0	0.0	1.0	0.0	0.0
+"Short 3rd metacarpal"	0.0	0.0	1.0	0.0	0.0	0.0
+"Low hanging columella"	0.0	0.0	1.0	0.0	0.0	0.0
+"Enlarged epiphyses"	0.0	0.0	1.0	0.0	0.0	0.0
+"Aplastic/hypoplastic toenail"	0.0	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the distal phalanges of the toes"	0.0	0.0	0.0	1.0	0.0	0.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	1.0	0.0	0.0
+"Exaggerated cupid's bow"	0.0	0.0	1.0	1.0	0.0	0.0
+"Rounded epiphyses"	0.0	0.0	1.0	0.0	0.0	0.0

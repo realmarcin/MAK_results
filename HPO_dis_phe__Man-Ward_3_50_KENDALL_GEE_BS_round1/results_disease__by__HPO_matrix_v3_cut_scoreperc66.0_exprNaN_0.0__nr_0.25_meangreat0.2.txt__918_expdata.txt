@@ -1,0 +1,13 @@
+	"Autoinflammation, Antibody Deficiency, and Immune Dysregulation, Plcg2-Associated"	"Papular xanthoma"	"Orphanet:41"	"Superficial pemphigus"	"Circumscribed palmoplantar hypokeratosis"
+"IgA deficiency"	1.0	0.0	0.0	0.0	0.0
+"IgM deficiency"	1.0	0.0	0.0	0.0	0.0
+"Arthralgia"	1.0	0.0	0.0	0.0	0.0
+"Cataract"	1.0	0.0	0.0	0.0	0.0
+"Erythema"	1.0	0.0	0.0	0.0	0.0
+"Corneal erosion"	1.0	0.0	0.0	0.0	0.0
+"Interstitial pneumonitis"	1.0	0.0	0.0	0.0	0.0
+"Recurrent infections"	1.0	0.0	0.0	0.0	0.0
+"Ulcerative colitis"	1.0	0.0	0.0	0.0	0.0
+"Cellulitis"	1.0	0.0	0.0	0.0	0.0
+"Bronchiolitis"	1.0	0.0	0.0	0.0	0.0
+"Immune dysregulation"	1.0	0.0	0.0	0.0	0.0

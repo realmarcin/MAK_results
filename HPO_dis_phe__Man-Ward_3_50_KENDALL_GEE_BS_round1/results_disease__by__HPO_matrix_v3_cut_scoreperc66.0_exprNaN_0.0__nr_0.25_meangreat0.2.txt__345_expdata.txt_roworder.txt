@@ -1,0 +1,6 @@
+"x"
+"1" "chromosome.19p13.13.deletion.s"
+"2" "syndromic.X.linked.intellectua"
+"3" "Orphanet.100924"
+"4" "Autism..Susceptibility.To..18"
+"5" "X5q14.3.microdeletion.syndrome"

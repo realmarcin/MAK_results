@@ -1,0 +1,14 @@
+	"Intellectual disability-dysmorphism-hypogonadism-diabetes mellitus syndrome"	"Ramon syndrome"	"syndromic X-linked intellectual disability 5"	"Zimmermann-Laband syndrome 2"	"Orphanet:2027"	"Orphanet:3019"	"Orphanet:3219"
+"Seizures"	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Failure to thrive"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Sensorineural hearing impairment"	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Diabetes mellitus"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Full cheeks"	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Conductive hearing impairment"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Narrow palate"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Hyperkeratosis"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of dental enamel"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of retinal pigmentation"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Osteolysis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the anterior chamber"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Telangiectasia of the skin"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

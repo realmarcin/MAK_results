@@ -1,0 +1,12 @@
+	"Symbrachydactyly of hands and feet"	"Orphanet:1590"	"Orphanet:1664"	"Orphanet:1836"	"Acropectororenal dysplasia"
+"Encephalocele"	0.0	1.0	1.0	0.0	1.0
+"Finger syndactyly"	0.0	0.0	1.0	0.0	1.0
+"Intestinal malrotation"	0.0	0.0	1.0	0.0	0.0
+"Cubitus valgus"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the ribs"	0.0	0.0	1.0	1.0	0.0
+"Neoplasm of the skin"	0.0	0.0	1.0	0.0	0.0
+"Dumbbell-shaped humerus"	0.0	0.0	0.0	1.0	0.0
+"Vertebral segmentation defect"	1.0	0.0	1.0	1.0	1.0
+"Urogenital fistula"	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the ankles"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the urethra"	0.0	0.0	1.0	0.0	0.0

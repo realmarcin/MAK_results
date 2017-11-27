@@ -1,0 +1,6 @@
+"x"
+"1" "Juvenile.retinoschisis"
+"2" "Orphanet.49382"
+"3" "Asymmetric.Short.Stature.Syndr"
+"4" "Pigmented.paravenous.retinocho"
+"5" "Persistent.placoid.maculopathy"

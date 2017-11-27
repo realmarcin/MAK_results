@@ -1,0 +1,6 @@
+"x"
+"1" "Increased hemoglobin"
+"2" "Increased hematocrit"
+"3" "Increased red blood cell mass"
+"4" "Plethora"
+"5" "Peripheral thrombosis"

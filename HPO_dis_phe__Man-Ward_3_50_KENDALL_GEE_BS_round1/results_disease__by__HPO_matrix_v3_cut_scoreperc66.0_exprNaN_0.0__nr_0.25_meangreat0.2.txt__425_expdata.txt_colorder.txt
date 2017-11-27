@@ -1,0 +1,8 @@
+"x"
+"1" "Small foramen magnum"
+"2" "Lethal short-limbed short stature"
+"3" "Short sacroiliac notch"
+"4" "Small abnormally formed scapulae"
+"5" "Wide-cupped costochondral junctions"
+"6" "Trident hand"
+"7" "Lumbar kyphosis in infancy"

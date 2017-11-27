@@ -1,0 +1,9 @@
+	"peroxisomal acyl-CoA oxidase deficiency"	"COG4-CDG"	"Congenital disorder of glycosylation type 2L"	"Congenital Disorder of Glycosylation, Type Iip"
+"Absent speech"	0.0	1.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Elevated alkaline phosphatase"	0.0	1.0	0.0	1.0
+"Irritability"	1.0	1.0	0.0	0.0
+"Chronic diarrhea"	0.0	1.0	1.0	0.0
+"Elevated hepatic transaminases"	1.0	1.0	1.0	1.0
+"Recurrent infection of the gastrointestinal tract"	0.0	1.0	0.0	0.0
+"Thick hair"	0.0	1.0	0.0	0.0

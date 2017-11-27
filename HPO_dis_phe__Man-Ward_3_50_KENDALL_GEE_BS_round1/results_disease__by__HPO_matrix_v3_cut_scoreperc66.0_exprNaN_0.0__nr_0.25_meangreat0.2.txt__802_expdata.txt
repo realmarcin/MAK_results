@@ -1,0 +1,16 @@
+	"Microcephaly with chorioretinopathy, autosomal recessive"	"MCHCCD"	"Microcephaly, progressive, with seizures and cerebral and cerebellar atrophy"	"Cortical dysplasia, complex, with other brain malformations 6"	"Primary autosomal recessive microcephaly 13"	"Microcephaly and chorioretinopathy, autosomal recessive, 2"	"Microcephaly 16, primary, autosomal recessive"
+"Microphthalmia"	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Pachygyria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Visual impairment"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Cataract"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of skin pigmentation"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Microcornea"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Retinal detachment"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of retinal pigmentation"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003577"	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Retinal dystrophy"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chorioretinal dysplasia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Optic disc pallor"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Macular atrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Retinopathy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Retinal fold"	1.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,16 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"sclerosteosis 1"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Nystagmus"	0.0	0.0	1.0	0.0	0.0
+"Overgrowth"	0.0	0.0	1.0	0.0	0.0
+"Dental malocclusion"	0.0	0.0	1.0	0.0	0.0
+"Visual loss"	0.0	0.0	1.0	0.0	0.0
+"Sudden death"	0.0	0.0	1.0	0.0	0.0
+"Broad ribs"	0.0	0.0	1.0	0.0	0.0
+"Constriction of peripheral visual field"	0.0	0.0	1.0	0.0	0.0
+"2-3 finger syndactyly"	0.0	0.0	1.0	0.0	0.0
+"Broad clavicles"	0.0	0.0	1.0	0.0	0.0
+"Sclerotic vertebral endplates"	0.0	0.0	1.0	0.0	0.0
+"Sclerotic scapulae"	0.0	0.0	1.0	0.0	0.0
+"Deviation of finger"	0.0	0.0	1.0	0.0	0.0
+"Cortically dense long tubular bones"	0.0	0.0	1.0	0.0	0.0
+"Facial palsy secondary to cranial hyperostosis"	0.0	0.0	1.0	0.0	0.0

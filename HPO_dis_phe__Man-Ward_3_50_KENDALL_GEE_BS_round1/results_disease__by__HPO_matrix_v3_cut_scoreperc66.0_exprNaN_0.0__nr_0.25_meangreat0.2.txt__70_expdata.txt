@@ -1,0 +1,15 @@
+	"Hemochromatosis type 1"	"Complex lethal osteochondrodysplasia"	"Orphanet:2414"	"Orphanet:314473"	"Ovarian fibrothecoma"	"Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome"	"GRFoma"	"PPoma"	"Pancreatic Glucagonoma"	"Orphanet:97282"	"Orphanet:97283"
+"Growth hormone excess"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Prolactin excess"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Pituitary adenoma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Pleural effusion"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Subcutaneous lipoma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Parathyroid adenoma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Increased circulating cortisol level"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Primary hyperparathyroidism"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Intrahepatic cholestasis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Neoplasm of the pancreas"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Ascites"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Episodic abdominal pain"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Intermittent jaundice"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Extrahepatic cholestasis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0

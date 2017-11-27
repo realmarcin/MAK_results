@@ -1,0 +1,9 @@
+	"Pseudohypoaldosteronism, type 2"	"Pseudohypoaldosteronism type 2B"	"Pseudohypoaldosteronism type 2C"	"Pseudohypoaldosteronism type 2D"	"Pseudohypoaldosteronism type 2E"
+"HP:0000007"	0.0	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Hypertension"	1.0	1.0	1.0	1.0	1.0
+"Metabolic acidosis"	0.0	0.0	1.0	0.0	1.0
+"Hyperkalemia"	1.0	1.0	1.0	1.0	1.0
+"Pseudohypoaldosteronism"	1.0	1.0	1.0	1.0	1.0
+"Hyperchloremic metabolic acidosis"	0.0	1.0	1.0	1.0	1.0
+"Hyperchloremia"	0.0	1.0	1.0	1.0	1.0

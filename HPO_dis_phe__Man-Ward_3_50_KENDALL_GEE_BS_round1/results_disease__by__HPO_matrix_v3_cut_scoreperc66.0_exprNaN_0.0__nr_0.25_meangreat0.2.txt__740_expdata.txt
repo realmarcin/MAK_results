@@ -1,0 +1,9 @@
+	"Heterotopia, periventricular, autosomal recessive"	"Epileptic Encephalopathy, Early Infantile, 4"	"D-2-hydroxyglutaric aciduria 2"	"Periventricular Nodular Heterotopia 6"	"Epileptic encephalopathy, early infantile, 30"	"hypomyelinating leukodystrophy 12"
+"Generalized tonic-clonic seizures"	0.0	1.0	0.0	0.0	1.0	0.0
+"Tremor"	0.0	1.0	0.0	0.0	0.0	0.0
+"Spastic paraplegia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Impaired horizontal smooth pursuit"	0.0	1.0	0.0	0.0	0.0	0.0
+"Respiratory distress"	0.0	0.0	0.0	0.0	1.0	0.0
+"Generalized myoclonic seizures"	0.0	1.0	0.0	0.0	1.0	0.0
+"Infantile encephalopathy"	0.0	1.0	0.0	0.0	0.0	0.0
+"Epileptic encephalopathy"	0.0	1.0	0.0	0.0	1.0	0.0

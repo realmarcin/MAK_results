@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Metopic suture patent to nasal root"
+"3" "Wide distal femoral metaphysis"
+"4" "Increased density of long bones"

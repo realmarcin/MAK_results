@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Disseminated intravascular coagulation"
+"3" "Recurrent deep vein thrombosis"
+"4" "Post-angioplasty coronary artery restenosis"

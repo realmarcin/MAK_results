@@ -1,0 +1,8 @@
+"x"
+"1" "Retinal vein occlusion"
+"2" "Deep anterior chamber"
+"3" "Herpetiform corneal ulceration"
+"4" "Phacodonesis"
+"5" "Asymmetry of intraocular pressure"
+"6" "Iris neovascularization"
+"7" "Abnormality of central retinal artery"

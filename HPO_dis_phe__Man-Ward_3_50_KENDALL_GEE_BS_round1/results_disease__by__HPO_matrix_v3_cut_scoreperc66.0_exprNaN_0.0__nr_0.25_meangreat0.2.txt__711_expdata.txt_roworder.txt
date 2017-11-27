@@ -1,0 +1,7 @@
+"x"
+"1" "Blue.Rubber.Bleb.Nevus"
+"2" "Peutz.Jeghers.Syndrome"
+"3" "Juvenile.Polyposis.Syndrome"
+"4" "Cronkhite.Canada.syndrome"
+"5" "Orphanet.2930"
+"6" "AApoAIV.amyloidosis"

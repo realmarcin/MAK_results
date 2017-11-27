@@ -1,0 +1,8 @@
+"x"
+"1" "Nail.patella.syndrome"
+"2" "Orphanet.2614"
+"3" "Cornelia.De.Lange.Syndrome.1"
+"4" "Poland.Syndrome"
+"5" "Oculoauricular.Syndrome"
+"6" "Anterior.Segment.Dysgenesis.8."
+"7" "Orphanet.171844"

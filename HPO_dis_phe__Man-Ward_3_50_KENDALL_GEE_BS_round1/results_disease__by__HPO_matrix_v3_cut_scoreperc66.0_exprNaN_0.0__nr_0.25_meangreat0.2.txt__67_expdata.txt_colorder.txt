@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormal toenail morphology"
+"2" "Abnormality of the fingernails"
+"3" "Aortic valve stenosis"
+"4" "Pulmonic stenosis"

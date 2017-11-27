@@ -1,0 +1,26 @@
+	"Bethlem myopathy 1"	"Autosomal dominant congenital benign spinal muscular atrophy"	"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 1"	"Myopathy, Areflexia, Respiratory Distress, and Dysphagia, Early-Onset"
+"Seizures"	0.0	0.0	0.0	1.0
+"Small for gestational age"	0.0	0.0	1.0	0.0
+"Neonatal hypotonia"	1.0	0.0	0.0	1.0
+"Failure to thrive"	0.0	0.0	1.0	1.0
+"Constipation"	0.0	0.0	1.0	0.0
+"Cleft palate"	0.0	0.0	0.0	1.0
+"HP:0100490"	1.0	0.0	1.0	1.0
+"Pectus excavatum"	0.0	0.0	0.0	1.0
+"HP:0000006"	1.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	0.0	1.0	0.0
+"Premature birth"	0.0	0.0	1.0	0.0
+"Restrictive ventilatory defect"	0.0	0.0	0.0	1.0
+"Respiratory distress"	0.0	0.0	0.0	1.0
+"HP:0003577"	0.0	0.0	0.0	1.0
+"Weak cry"	0.0	0.0	1.0	0.0
+"HP:0002878"	0.0	0.0	1.0	1.0
+"Decreased fetal movement"	1.0	1.0	1.0	1.0
+"Inspiratory stridor"	0.0	0.0	1.0	0.0
+"Tachypnea"	0.0	0.0	1.0	0.0
+"Peripheral axonal degeneration"	0.0	0.0	1.0	0.0
+"Diaphragmatic eventration"	0.0	0.0	1.0	0.0
+"Poor head control"	0.0	0.0	0.0	1.0
+"Diaphragmatic paralysis"	0.0	0.0	1.0	1.0
+"Ventilator dependence with inability to wean"	0.0	0.0	1.0	0.0
+"Denervation of the diaphragm"	0.0	0.0	1.0	0.0

@@ -1,0 +1,17 @@
+	"Epidermolysis Bullosa, Late-Onset Localized Junctional, With Mental Retardation"	"Cowden Syndrome 4"	"Oromandibular-limb hypogenesis syndrome"	"Orphanet:398189"
+"Mandibular prognathia"	1.0	0.0	1.0	0.0
+"Renal neoplasm"	0.0	1.0	0.0	0.0
+"Short philtrum"	1.0	0.0	0.0	0.0
+"Cleft palate"	1.0	0.0	1.0	1.0
+"HP:0003584"	1.0	0.0	0.0	0.0
+"Abnormality of the dentition"	1.0	0.0	1.0	0.0
+"Hamartoma"	0.0	1.0	0.0	0.0
+"Thick upper lip vermilion"	1.0	0.0	0.0	0.0
+"Lens subluxation"	1.0	0.0	0.0	0.0
+"Abnormal toenail morphology"	0.0	0.0	1.0	0.0
+"Dystrophic toenail"	1.0	0.0	0.0	0.0
+"Deviation of finger"	0.0	0.0	1.0	0.0
+"Abnormality of the gingiva"	0.0	1.0	1.0	0.0
+"Trichilemmoma"	0.0	1.0	0.0	0.0
+"Abnormality of buccal mucosa"	0.0	1.0	0.0	1.0
+"HP:0010295"	0.0	0.0	1.0	0.0

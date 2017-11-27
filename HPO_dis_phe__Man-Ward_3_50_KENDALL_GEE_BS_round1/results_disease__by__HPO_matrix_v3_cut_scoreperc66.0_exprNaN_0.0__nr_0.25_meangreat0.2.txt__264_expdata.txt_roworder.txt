@@ -1,0 +1,5 @@
+"x"
+"1" "DYTCA"
+"2" "DYT17"
+"3" "neuronal.ceroid.lipofuscinosis"
+"4" "Epileptic.Encephalopathy..Earl"

@@ -1,0 +1,7 @@
+"x"
+"1" "Chronic atrophic gastritis"
+"2" "Iridocyclitis"
+"3" "Autoimmune hypoparathyroidism"
+"4" "Reversible renal failure"
+"5" "Acute tubulointerstitial nephritis"
+"6" "Panuveitis"

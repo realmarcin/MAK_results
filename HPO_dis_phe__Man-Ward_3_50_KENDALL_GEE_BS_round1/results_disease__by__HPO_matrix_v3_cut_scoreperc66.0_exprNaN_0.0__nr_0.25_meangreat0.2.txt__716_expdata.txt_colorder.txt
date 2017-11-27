@@ -1,0 +1,6 @@
+"x"
+"1" "Irritability"
+"2" "Cerebral edema"
+"3" "Respiratory alkalosis"
+"4" "Episodic ammonia intoxication"
+"5" "Protein avoidance"

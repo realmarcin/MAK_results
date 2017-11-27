@@ -1,0 +1,7 @@
+"x"
+"1" "OMIM.311030"
+"2" "Adamantinoma.of.Long.Bones"
+"3" "Cancer..Familial..With.1N.Vitr"
+"4" "OMIM.176873"
+"5" "OMIM.194533"
+"6" "OMIM.311040"

@@ -1,0 +1,8 @@
+"x"
+"1" "Limb.girdle.muscular.dystrophy"
+"2" "Limb.girdle.muscular.dystrophy"
+"3" "Muscular.Dystrophy.Dystroglyca"
+"4" "Limb.girdle.muscular.dystrophy"
+"5" "Limb.girdle.muscular.dystrophy"
+"6" "autosomal.recessive.limb.girdl"
+"7" "Muscular.dystrophy..limb.girdl"

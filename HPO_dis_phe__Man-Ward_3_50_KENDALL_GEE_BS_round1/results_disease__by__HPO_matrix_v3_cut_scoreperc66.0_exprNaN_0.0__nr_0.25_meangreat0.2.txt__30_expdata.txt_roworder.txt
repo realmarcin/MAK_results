@@ -1,0 +1,5 @@
+"x"
+"1" "acrokeratosis.verruciformis"
+"2" "PPKP3"
+"3" "Psoriasis.2"
+"4" "Cole.Disease"

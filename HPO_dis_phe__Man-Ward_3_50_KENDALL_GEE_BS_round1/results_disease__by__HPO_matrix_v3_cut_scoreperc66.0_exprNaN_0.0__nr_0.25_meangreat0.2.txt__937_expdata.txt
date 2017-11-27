@@ -1,0 +1,10 @@
+	"Lennox-Gastaut syndrome"	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Orphanet:324422"	"Orphanet:90024"
+"Global developmental delay"	1.0	0.0	0.0	0.0	0.0
+"Dysphagia"	1.0	0.0	0.0	0.0	0.0
+"Gastroesophageal reflux"	1.0	0.0	0.0	0.0	0.0
+"Recurrent respiratory infections"	1.0	0.0	0.0	0.0	0.0
+"HP:0003676"	1.0	0.0	0.0	0.0	0.0
+"Enlarged cisterna magna"	1.0	0.0	0.0	0.0	0.0
+"Gingival overgrowth"	1.0	0.0	0.0	0.0	0.0
+"Generalized myoclonic seizures"	1.0	0.0	0.0	0.0	0.0
+"Frontotemporal cerebral atrophy"	1.0	0.0	0.0	0.0	0.0

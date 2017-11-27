@@ -1,0 +1,13 @@
+	"hyperargininemia"	"Hyperprolinemia, Type 1"	"Beta-D-mannosidosis"	"Deficiency of beta-ureidopropionase"	"Dyskinesia, seizures, and intellectual developmental disorder"	"Orphanet:90"
+"EEG abnormality"	0.0	1.0	0.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	0.0	1.0	1.0	1.0
+"Behavioral abnormality"	0.0	0.0	0.0	0.0	0.0	1.0
+"Neurological speech impairment"	0.0	0.0	1.0	1.0	0.0	1.0
+"Vomiting"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0008897"	1.0	0.0	0.0	0.0	0.0	0.0
+"Anorexia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Progressive spastic quadriplegia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hyperammonemia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Oroticaciduria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Diaminoaciduria"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hemiplegia/hemiparesis"	0.0	0.0	0.0	0.0	0.0	1.0

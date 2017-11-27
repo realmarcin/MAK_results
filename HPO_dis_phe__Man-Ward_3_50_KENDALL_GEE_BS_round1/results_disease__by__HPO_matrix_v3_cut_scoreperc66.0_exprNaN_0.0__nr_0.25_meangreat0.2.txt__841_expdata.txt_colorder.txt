@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Increased serum lactate"
+"3" "Fasting hypoglycemia"
+"4" "Ketosis"
+"5" "Postprandial hyperglycemia"

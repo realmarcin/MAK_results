@@ -1,0 +1,7 @@
+	"campomelic dysplasia"	"mucopolysaccharidosis II"	"Lethal Short-Limb Skeletal Dysplasia, Al Gazali Type"	"Kleefstra syndrome"	"Meier-Gorlin Syndrome 6"	"Orphanet:140"	"Bronchopulmonary dysplasia"
+"Tracheobronchomalacia"	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Shortening of all phalanges of the toes"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Anterior tibial bowing"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Poorly ossified cervical vertebrae"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Shortening of all phalanges of fingers"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Shortening of all metacarpals"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

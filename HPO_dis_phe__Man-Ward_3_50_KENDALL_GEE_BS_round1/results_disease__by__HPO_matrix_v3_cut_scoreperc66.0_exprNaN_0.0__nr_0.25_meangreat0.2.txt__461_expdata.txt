@@ -1,0 +1,11 @@
+	"Mitochondrial myopathy-lactic acidosis-deafness syndrome"	"Pyruvate carboxylase deficiency"	"Combined oxidative phosphorylation defect type 14"	"Combined oxidative phosphorylation defect type 17"	"Combined Oxidative Phosphorylation Deficiency 18"	"Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome"	"Combined Oxidative Phosphorylation Deficiency 23"
+"Intellectual disability"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Delayed speech and language development"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Macrocytic anemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Intellectual disability, mild"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Visual impairment"	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Tremor"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Dysmetria"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Increased serum lactate"	1.0	1.0	1.0	0.0	1.0	0.0	1.0

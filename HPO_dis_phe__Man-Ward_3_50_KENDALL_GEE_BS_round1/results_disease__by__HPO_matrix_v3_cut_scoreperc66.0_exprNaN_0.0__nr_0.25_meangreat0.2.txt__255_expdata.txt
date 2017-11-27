@@ -1,0 +1,12 @@
+	"SHLTS"	"Renpenning syndrome"	"Microcephaly, short stature, and impaired glucose metabolism 2"	"Microcephaly-microcornea syndrome, Seemanova type"	"Zellweger-like syndrome without peroxisomal anomalies"	"15q24 microdeletion syndrome"
+"Everted lower lip vermilion"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001419"	1.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, severe"	1.0	0.0	1.0	1.0	1.0	0.0
+"Abnormal pyramidal signs"	1.0	0.0	0.0	0.0	0.0	0.0
+"Epicanthus"	1.0	1.0	1.0	1.0	1.0	1.0
+"Kyphoscoliosis"	1.0	0.0	1.0	0.0	0.0	0.0
+"Cerebellar atrophy"	1.0	0.0	0.0	0.0	0.0	0.0
+"Small hand"	1.0	0.0	0.0	0.0	0.0	1.0
+"Reduced subcutaneous adipose tissue"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bifid nasal tip"	1.0	0.0	0.0	0.0	0.0	0.0
+"Decreased testicular size"	1.0	1.0	0.0	0.0	0.0	0.0

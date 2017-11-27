@@ -1,0 +1,7 @@
+"x"
+"1" "Deafness..Sensorineural..Autos"
+"2" "autosomal.recessive.nonsyndrom"
+"3" "Deafness..autosomal.recessive."
+"4" "autosomal.recessive.nonsyndrom"
+"5" "Deafness..Autosomal.Recessive."
+"6" "autosomal.recessive.nonsyndrom"

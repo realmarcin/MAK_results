@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertrichotic.osteochondrodys"
+"2" "Gaucher.disease..atypical..due"
+"3" "Intermediate.osteopetrosis"
+"4" "Craniometaphyseal.Dysplasia..A"
+"5" "Gaucher.Disease..Type.1"
+"6" "Orphanet.50811"

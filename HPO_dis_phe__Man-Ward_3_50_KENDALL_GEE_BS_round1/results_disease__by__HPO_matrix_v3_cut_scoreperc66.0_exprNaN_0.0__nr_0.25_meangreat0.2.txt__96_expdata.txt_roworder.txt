@@ -1,0 +1,5 @@
+"x"
+"1" "Cockayne.syndrome.B"
+"2" "Cockayne.Syndrome.a"
+"3" "Xeroderma.pigmentosum.Cockayne"
+"4" "Orphanet.910"

@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "Iris coloboma"
+"3" "Hydrocephalus"
+"4" "Preaxial hand polydactyly"
+"5" "Abnormality of the endocrine system"

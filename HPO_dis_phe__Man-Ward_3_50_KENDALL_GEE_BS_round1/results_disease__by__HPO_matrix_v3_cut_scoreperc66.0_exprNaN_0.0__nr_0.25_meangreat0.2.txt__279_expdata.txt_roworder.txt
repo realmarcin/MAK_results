@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.314795"
+"2" "Kniest.Like.Dysplasia.With.Pur"
+"3" "Brachydactyly..Type.C"
+"4" "Orphanet.93388"

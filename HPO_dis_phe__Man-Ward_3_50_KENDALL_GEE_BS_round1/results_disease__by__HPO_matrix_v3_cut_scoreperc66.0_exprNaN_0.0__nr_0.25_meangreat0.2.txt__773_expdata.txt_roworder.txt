@@ -1,0 +1,7 @@
+"x"
+"1" "Proprotein.convertase.1.3.defi"
+"2" "Satoyoshi.Syndrome"
+"3" "Incisors..Shovel.Shaped"
+"4" "Alopecia.totalis"
+"5" "Pili.bifurcati"
+"6" "Trichodysplasia.amelogenesis.i"

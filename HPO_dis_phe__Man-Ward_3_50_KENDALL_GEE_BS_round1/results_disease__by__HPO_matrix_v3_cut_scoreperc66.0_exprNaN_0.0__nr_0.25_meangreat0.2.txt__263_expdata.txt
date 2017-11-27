@@ -1,0 +1,9 @@
+	"Wt Limb-Blood Syndrome"	"Thrombocytopenia With Elevated Serum Iga and Renal Disease"	"Von Willebrand Disease, X-Linked Form"	"Radioulnar synostosis with amegakaryocytic thrombocytopenia 2"
+"Sensorineural hearing impairment"	1.0	0.0	0.0	1.0
+"Limited pronation/supination of forearm"	0.0	0.0	0.0	1.0
+"HP:0000006"	1.0	0.0	0.0	1.0
+"Radioulnar synostosis"	1.0	0.0	0.0	1.0
+"Neutropenia"	0.0	0.0	0.0	1.0
+"Hydrocele testis"	0.0	0.0	0.0	1.0
+"Overlapping fingers"	0.0	0.0	0.0	1.0
+"Congenital thrombocytopenia"	0.0	0.0	0.0	1.0

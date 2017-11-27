@@ -1,0 +1,6 @@
+"x"
+"1" "Chest pain"
+"2" "Feeding difficulties in infancy"
+"3" "Nausea and vomiting"
+"4" "Clinodactyly of the 5th toe"
+"5" "Esophageal carcinoma"

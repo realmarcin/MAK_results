@@ -1,0 +1,18 @@
+	"Toriello-Lacassie-Droste syndrome"	"Orphanet:1185"	"20p12.3 microdeletion syndrome"	"Orphanet:3339"	"Orphanet:75496"
+"Macrocephaly"	1.0	1.0	1.0	1.0	1.0
+"Failure to thrive"	0.0	0.0	0.0	1.0	0.0
+"Hypospadias"	0.0	0.0	0.0	1.0	0.0
+"Strabismus"	1.0	0.0	0.0	1.0	0.0
+"Agenesis of corpus callosum"	0.0	0.0	0.0	1.0	0.0
+"Absent septum pellucidum"	0.0	0.0	0.0	1.0	0.0
+"Short palm"	0.0	0.0	0.0	1.0	0.0
+"Growth delay"	1.0	0.0	0.0	1.0	0.0
+"Proptosis"	1.0	1.0	0.0	1.0	0.0
+"Aganglionic megacolon"	0.0	0.0	0.0	1.0	0.0
+"Cleft eyelid"	1.0	0.0	0.0	1.0	0.0
+"Laryngeal hypoplasia"	0.0	0.0	0.0	1.0	0.0
+"Generalized hyperpigmentation"	0.0	0.0	0.0	1.0	0.0
+"Epibulbar dermoid"	1.0	0.0	0.0	1.0	0.0
+"Epispadias"	0.0	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the skin"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the bladder"	0.0	0.0	0.0	1.0	0.0

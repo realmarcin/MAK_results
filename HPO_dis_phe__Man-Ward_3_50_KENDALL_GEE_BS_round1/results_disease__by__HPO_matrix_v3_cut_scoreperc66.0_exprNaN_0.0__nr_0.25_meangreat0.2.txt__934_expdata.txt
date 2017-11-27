@@ -1,0 +1,11 @@
+	"Cataract-aberrant oral frenula-growth delay syndrome"	"Disproportionate Short Stature With Ptosis and Valvular Heart Lesions"	"Schilbach-Rott Syndrome"	"Frontoocular Syndrome"	"Orphanet:2868"
+"Prominent nasal bridge"	0.0	0.0	0.0	1.0	0.0
+"Low-set ears"	0.0	0.0	0.0	1.0	0.0
+"Coronal craniosynostosis"	0.0	0.0	0.0	1.0	0.0
+"Underdeveloped supraorbital ridges"	0.0	0.0	0.0	1.0	0.0
+"Nevus flammeus"	0.0	0.0	0.0	1.0	0.0
+"Trigonocephaly"	0.0	0.0	0.0	1.0	0.0
+"Inverted nipples"	0.0	0.0	0.0	1.0	0.0
+"Capillary hemangiomas"	0.0	0.0	0.0	1.0	0.0
+"Glabellar hemangioma"	0.0	0.0	0.0	1.0	0.0
+"Narrow philtrum"	0.0	0.0	0.0	1.0	0.0

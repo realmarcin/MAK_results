@@ -1,0 +1,7 @@
+"x"
+"1" "Tyrosinemia.type.I"
+"2" "Orphanet.797"
+"3" "Reynolds.syndrome"
+"4" "Orphanet.507"
+"5" "Orphanet.848"
+"6" "Orphanet.905"

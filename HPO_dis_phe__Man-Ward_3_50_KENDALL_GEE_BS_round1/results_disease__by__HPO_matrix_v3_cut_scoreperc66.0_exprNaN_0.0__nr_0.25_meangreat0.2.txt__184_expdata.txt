@@ -1,0 +1,11 @@
+	"Hypophosphatemic Rickets With Hypercalciuria, Hereditary"	"Hypocalcemic vitamin D-dependent rickets"	"Vitamin D-Dependent Rickets, Type 2A"	"Vitamin d hydroxylation-deficient rickets, type 1b"	"Reynolds syndrome"	"Paget disease of bone 6"
+"Elevated alkaline phosphatase"	1.0	1.0	1.0	1.0	1.0	1.0
+"Raynaud phenomenon"	0.0	0.0	0.0	0.0	1.0	0.0
+"Recurrent fractures"	1.0	1.0	1.0	1.0	0.0	1.0
+"Bone pain"	1.0	1.0	1.0	1.0	0.0	1.0
+"Palmar telangiectasia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Scleroderma"	0.0	0.0	0.0	0.0	1.0	0.0
+"Calcinosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Sclerodactyly"	0.0	0.0	0.0	0.0	1.0	0.0
+"Lip telangiectasia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Calcinosis cutis"	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Thickening of the glomerular basement membrane"
+"2" "Diffuse glomerular basement membrane lamellation"
+"3" "Anterior lenticonus"
+"4" "Azotemia"
+"5" "Lenticonus"

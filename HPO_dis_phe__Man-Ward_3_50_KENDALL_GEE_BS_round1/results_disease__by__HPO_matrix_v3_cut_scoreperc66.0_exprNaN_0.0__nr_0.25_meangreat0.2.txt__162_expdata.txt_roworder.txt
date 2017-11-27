@@ -1,0 +1,6 @@
+"x"
+"1" "Juvenile.retinoschisis"
+"2" "Retinoschisis..Autosomal.Domin"
+"3" "enhanced.S.cone.syndrome"
+"4" "Baraitser.Winter.cerebrofronto"
+"5" "Orphanet.792"

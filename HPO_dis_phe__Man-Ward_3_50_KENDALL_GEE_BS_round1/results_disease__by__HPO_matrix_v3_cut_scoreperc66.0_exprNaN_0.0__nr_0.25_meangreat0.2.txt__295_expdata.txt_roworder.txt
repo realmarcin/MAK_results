@@ -1,0 +1,6 @@
+"x"
+"1" "Craniosynostosis.With.Anomalie"
+"2" "Autosomal.recessive.hypophosph"
+"3" "Craniosynostosis.fibular.aplas"
+"4" "Summitt.Syndrome"
+"5" "Radiohumeral.fusions.with.othe"

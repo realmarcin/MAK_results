@@ -1,0 +1,7 @@
+"x"
+"1" "Heinz.Body.Anemias"
+"2" "Hemolytic.Poikilocytic.Anemia."
+"3" "Vertebral.Fusion..Posterior.Lu"
+"4" "jaw.winking.syndrome"
+"5" "Adenosine.Triphosphatase.Defic"
+"6" "Ectopia.lentis..isolated..auto"

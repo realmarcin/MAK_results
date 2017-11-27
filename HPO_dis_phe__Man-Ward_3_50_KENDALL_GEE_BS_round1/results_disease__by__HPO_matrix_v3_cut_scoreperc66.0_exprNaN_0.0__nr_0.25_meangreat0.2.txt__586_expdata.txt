@@ -1,0 +1,7 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Mental retardation, autosomal recessive 42"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Short stature"	0.0	0.0	1.0	0.0
+"Short neck"	0.0	0.0	1.0	0.0
+"Wide mouth"	0.0	0.0	1.0	0.0
+"Abnormality of the dentition"	0.0	0.0	1.0	0.0
+"Retinal dystrophy"	0.0	0.0	1.0	0.0

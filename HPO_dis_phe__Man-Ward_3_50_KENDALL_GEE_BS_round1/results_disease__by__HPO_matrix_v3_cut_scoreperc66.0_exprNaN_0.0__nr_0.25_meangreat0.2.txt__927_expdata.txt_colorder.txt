@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertelorism"
+"2" "Anteverted nares"
+"3" "Interstitial pulmonary abnormality"
+"4" "Generalized hypotonia"
+"5" "Bronchomalacia"
+"6" "Short columella"
+"7" "Tracheomalacia"

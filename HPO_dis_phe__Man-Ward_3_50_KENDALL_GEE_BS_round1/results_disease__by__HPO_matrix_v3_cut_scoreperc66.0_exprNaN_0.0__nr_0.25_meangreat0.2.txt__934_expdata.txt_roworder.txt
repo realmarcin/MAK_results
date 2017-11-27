@@ -1,0 +1,6 @@
+"x"
+"1" "Frontoocular.Syndrome"
+"2" "Cataract.aberrant.oral.frenula"
+"3" "Disproportionate.Short.Stature"
+"4" "Schilbach.Rott.Syndrome"
+"5" "Orphanet.2868"

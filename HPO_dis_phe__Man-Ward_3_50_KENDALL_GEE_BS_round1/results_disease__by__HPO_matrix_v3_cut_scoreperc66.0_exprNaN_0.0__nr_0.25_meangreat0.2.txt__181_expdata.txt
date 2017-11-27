@@ -1,0 +1,14 @@
+	"Orphanet:1005"	"Sporadic fetal brain disruption sequence"	"Orphanet:2570"	"Tetraploidy"
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Preauricular skin tag"	0.0	0.0	0.0	1.0
+"Hydronephrosis"	0.0	0.0	0.0	1.0
+"Convex nasal ridge"	0.0	0.0	0.0	1.0
+"Arnold-Chiari malformation"	0.0	0.0	0.0	1.0
+"Abnormality of chromosome segregation"	0.0	0.0	0.0	1.0
+"Biparietal narrowing"	1.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the thymus"	0.0	1.0	0.0	1.0
+"Renal hypoplasia/aplasia"	0.0	0.0	1.0	1.0
+"Radial club hand"	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the lungs"	0.0	0.0	1.0	1.0
+"Hypoplasia of the ear cartilage"	0.0	0.0	0.0	1.0
+"HP:0008056"	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+	"Cutis laxa, autosomal dominant 1"	"Orphanet:1231"	"Orphanet:1807"	"Orphanet:191"	"Orphanet:2078"	"Orphanet:2658"	"Orphanet:2963"	"Orphanet:3342"	"Orphanet:69"	"Orphanet:904"
+"Myocardial infarction"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Redundant skin"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Prematurely aged appearance"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Aplasia/Hypoplasia of the skin"	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Abnormal hair pattern"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

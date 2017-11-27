@@ -1,0 +1,9 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Ehlers-Danlos Syndrome, Beasley-Cohen Type"	"Orphanet:90309"
+"Hyperextensible skin"	0.0	0.0	1.0	0.0
+"Hearing impairment"	0.0	0.0	1.0	0.0
+"Decreased muscle mass"	0.0	0.0	1.0	0.0
+"Hip dislocation"	0.0	0.0	1.0	0.0
+"Narrow face"	0.0	0.0	1.0	0.0
+"Bilateral microphthalmos"	0.0	0.0	1.0	0.0
+"Narrow palpebral fissure"	0.0	0.0	1.0	0.0
+"Excessive skin wrinkling on dorsum of hands and fingers"	0.0	0.0	1.0	0.0

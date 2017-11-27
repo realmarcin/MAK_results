@@ -1,0 +1,5 @@
+"x"
+"1" "Schimke.immuno.osseous.dysplas"
+"2" "Orphanet.1830"
+"3" "Orphanet.93314"
+"4" "Orphanet.93315"

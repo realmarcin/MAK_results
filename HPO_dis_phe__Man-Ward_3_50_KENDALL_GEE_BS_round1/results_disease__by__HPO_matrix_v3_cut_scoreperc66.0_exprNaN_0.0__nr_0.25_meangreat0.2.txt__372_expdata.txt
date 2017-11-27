@@ -1,0 +1,7 @@
+	"Coffin-Siris syndrome 1"	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Orphanet:1292"	"Orphanet:1465"	"Orphanet:3246"	"Orphanet:46627"
+"Hypoplastic fifth fingernail"	1.0	0.0	1.0	1.0	0.0	0.0
+"Reduced proximal interphalangeal joint space"	0.0	1.0	0.0	0.0	1.0	0.0
+"Hypoplastic fifth toenail"	0.0	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the distal phalanx of the 5th finger"	0.0	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the distal phalanx of the 5th toe"	0.0	0.0	0.0	1.0	1.0	0.0
+"Symphalangism of the 5th finger"	0.0	0.0	0.0	0.0	1.0	1.0

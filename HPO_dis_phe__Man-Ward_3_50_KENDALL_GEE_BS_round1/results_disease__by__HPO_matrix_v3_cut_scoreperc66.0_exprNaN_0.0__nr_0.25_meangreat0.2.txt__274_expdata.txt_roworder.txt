@@ -1,0 +1,6 @@
+"x"
+"1" "Sialidosis.type.1"
+"2" "Sialidosis.type.2"
+"3" "glycoproteinosis"
+"4" "Orphanet.354"
+"5" "Multiple.sulfatase.deficiency"

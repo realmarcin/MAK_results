@@ -1,0 +1,24 @@
+	"syndromic X-linked intellectual disability 94"	"chromosome 19p13.13 deletion syndrome"	"Autism, Susceptibility To, 18"	"Orphanet:100924"	"5q14.3 microdeletion syndrome"
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Autism"	1.0	0.0	1.0	0.0	0.0
+"Brachycephaly"	1.0	0.0	0.0	0.0	0.0
+"Constipation"	0.0	1.0	1.0	1.0	0.0
+"Intellectual disability, severe"	1.0	1.0	0.0	0.0	1.0
+"Sleep disturbance"	0.0	0.0	1.0	0.0	0.0
+"Diarrhea"	0.0	1.0	0.0	1.0	0.0
+"Hyporeflexia"	1.0	0.0	0.0	0.0	0.0
+"Polyneuropathy"	0.0	0.0	0.0	1.0	0.0
+"Vomiting"	0.0	1.0	0.0	0.0	0.0
+"Abdominal pain"	0.0	1.0	0.0	1.0	0.0
+"Optic nerve hypoplasia"	0.0	1.0	0.0	0.0	1.0
+"Agenesis of cerebellar vermis"	0.0	0.0	0.0	0.0	1.0
+"Psychosis"	0.0	0.0	0.0	1.0	0.0
+"Distal muscle weakness"	1.0	0.0	0.0	0.0	0.0
+"Sensory neuropathy"	0.0	0.0	0.0	1.0	0.0
+"Prominent supraorbital ridges"	1.0	0.0	1.0	0.0	0.0
+"Slender build"	1.0	0.0	0.0	0.0	0.0
+"Motor axonal neuropathy"	0.0	0.0	0.0	1.0	0.0
+"Sloping forehead"	0.0	1.0	0.0	0.0	0.0
+"Inverted nipples"	0.0	1.0	0.0	0.0	0.0
+"Frontal cortical atrophy"	0.0	0.0	0.0	0.0	1.0
+"HP:0025352"	0.0	0.0	1.0	0.0	0.0

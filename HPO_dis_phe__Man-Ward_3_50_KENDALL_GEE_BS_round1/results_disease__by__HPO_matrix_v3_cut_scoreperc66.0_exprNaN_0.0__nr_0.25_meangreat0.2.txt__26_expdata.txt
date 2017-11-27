@@ -1,0 +1,9 @@
+	"transcobalamin II deficiency"	"Immunodeficiency with hyper IgM type 1"	"Orphanet:125"	"Orphanet:859"
+"IgA deficiency"	1.0	1.0	1.0	1.0
+"Thrombocytopenia"	0.0	1.0	0.0	1.0
+"IgG deficiency"	1.0	1.0	1.0	1.0
+"Pancytopenia"	1.0	0.0	0.0	1.0
+"Acute kidney injury"	0.0	0.0	0.0	1.0
+"Abnormality of chromosome stability"	0.0	0.0	1.0	1.0
+"Methylmalonic aciduria"	1.0	0.0	0.0	1.0
+"Megaloblastic bone marrow"	1.0	0.0	0.0	1.0

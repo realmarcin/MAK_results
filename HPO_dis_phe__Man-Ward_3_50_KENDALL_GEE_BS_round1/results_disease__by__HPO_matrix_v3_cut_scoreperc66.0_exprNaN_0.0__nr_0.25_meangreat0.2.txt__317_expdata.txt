@@ -1,0 +1,9 @@
+	"Macular Dystrophy, Retinal, 1, North Carolina Type"	"Patterned dystrophy of retinal pigment epithelium"	"Stargardt Disease 3"	"Macular Dystrophy, Vitelliform, 3"	"occult macular dystrophy"
+"Generalized aminoaciduria"	1.0	0.0	0.0	0.0	0.0
+"Macular dystrophy"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of macular pigmentation"	1.0	0.0	0.0	0.0	0.0
+"Drusen"	1.0	0.0	0.0	0.0	0.0
+"Peripheral retinal atrophy"	1.0	0.0	0.0	0.0	0.0
+"Metamorphopsia"	0.0	1.0	0.0	1.0	0.0
+"Macular flecks"	0.0	0.0	1.0	0.0	0.0
+"Occult macular dystrophy"	0.0	0.0	0.0	0.0	1.0

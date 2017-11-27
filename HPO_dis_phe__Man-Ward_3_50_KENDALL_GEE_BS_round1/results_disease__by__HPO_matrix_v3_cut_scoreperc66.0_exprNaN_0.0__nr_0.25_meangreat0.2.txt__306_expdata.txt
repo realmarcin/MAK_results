@@ -1,0 +1,11 @@
+	"Subaortic stenosis-short stature syndrome"	"Potocki-Shaffer syndrome"	"Chromosome 4Q32.1-Q32.2 Triplication Syndrome"	"Chromosome 8Q21.11 Deletion Syndrome"	"Orphanet:1516"	"Orphanet:163649"	"Orphanet:163966"	"Orphanet:1807"	"Orphanet:2536"	"Orphanet:284160"	"Orphanet:52022"	"Orphanet:93267"
+"Short philtrum"	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Round face"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Full cheeks"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Syndactyly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"High forehead"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Epicanthus"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Opacification of the corneal stroma"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Camptodactyly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short palpebral fissure"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Downturned corners of mouth"	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0

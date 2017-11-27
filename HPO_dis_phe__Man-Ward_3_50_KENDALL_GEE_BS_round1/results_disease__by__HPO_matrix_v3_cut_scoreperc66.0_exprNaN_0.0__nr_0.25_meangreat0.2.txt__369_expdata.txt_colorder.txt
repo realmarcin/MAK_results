@@ -1,0 +1,7 @@
+"x"
+"1" "Aplasia/Hypoplasia of the clavicles"
+"2" "Pilomatrixoma"
+"3" "Abnormal number of permanent teeth"
+"4" "Juxtaductal coarctation of the aorta"
+"5" "Small toe"
+"6" "Glue ear"

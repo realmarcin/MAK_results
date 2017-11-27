@@ -1,0 +1,5 @@
+"x"
+"1" "Mental.Retardation..Autosomal."
+"2" "OMIM.617350"
+"3" "Berry.Aneurysm..Cirrhosis..Pul"
+"4" "Perrault.Syndrome.3"

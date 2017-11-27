@@ -1,0 +1,16 @@
+	"Stomatin-Deficient Cryohydrocytosis With Neurologic Defects"	"Aicardi-Goutieres Syndrome 7"	"Cerebellar atrophy, visual impairment, and psychomotor retardation"	"OMIM:617393"
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Hepatomegaly"	1.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	1.0	0.0	0.0
+"Splenomegaly"	1.0	1.0	0.0	0.0
+"Basal ganglia calcification"	0.0	1.0	0.0	0.0
+"Nephrotic syndrome"	0.0	1.0	0.0	0.0
+"Dystonia"	0.0	1.0	1.0	0.0
+"Thrombocytopenia"	0.0	1.0	0.0	0.0
+"HP:0003829"	0.0	1.0	0.0	0.0
+"Irritability"	0.0	1.0	0.0	1.0
+"Increased antibody level in blood"	0.0	1.0	0.0	0.0
+"Atopic dermatitis"	0.0	1.0	0.0	0.0
+"Vasculitis"	0.0	1.0	0.0	0.0
+"Abnormality of eye movement"	0.0	1.0	0.0	0.0
+"Spastic tetraparesis"	0.0	1.0	0.0	0.0

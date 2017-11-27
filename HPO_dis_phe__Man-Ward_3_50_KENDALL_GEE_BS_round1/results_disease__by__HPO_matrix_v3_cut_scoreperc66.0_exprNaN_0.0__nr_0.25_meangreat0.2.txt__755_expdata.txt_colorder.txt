@@ -1,0 +1,6 @@
+"x"
+"1" "Hyperuricemia"
+"2" "Abnormality of the face"
+"3" "Abnormality of the neck"
+"4" "Maternal diabetes"
+"5" "Chronic lactic acidosis"

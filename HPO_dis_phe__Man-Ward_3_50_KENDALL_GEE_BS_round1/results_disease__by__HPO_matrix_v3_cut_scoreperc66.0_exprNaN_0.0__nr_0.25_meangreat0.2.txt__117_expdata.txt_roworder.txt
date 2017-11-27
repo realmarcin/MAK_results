@@ -1,0 +1,5 @@
+"x"
+"1" "Paraplegia.intellectual.disabi"
+"2" "X.linked.immunoneurologic.diso"
+"3" "X.linked.dystonia.parkinsonism"
+"4" "Orphanet.431329"

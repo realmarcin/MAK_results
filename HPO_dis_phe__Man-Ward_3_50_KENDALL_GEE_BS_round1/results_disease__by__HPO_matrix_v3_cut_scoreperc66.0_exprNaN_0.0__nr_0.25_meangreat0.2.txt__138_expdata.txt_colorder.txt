@@ -1,0 +1,8 @@
+"x"
+"1" "Bruising susceptibility"
+"2" "Petechiae"
+"3" "HP:0001419"
+"4" "Congenital thrombocytopenia"
+"5" "Acanthocytosis"
+"6" "Anemia of inadequate production"
+"7" "Poikilocytosis"

@@ -1,0 +1,13 @@
+	"DECIPHER:47"	"Sitosterolemia"	"Congenital bronchobiliary fistula"	"Orphanet:56"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Stomatocytosis"	0.0	1.0	0.0	0.0
+"Coronary atherosclerosis"	0.0	1.0	0.0	0.0
+"Reticulocytosis"	0.0	1.0	0.0	0.0
+"Chronic hemolytic anemia"	0.0	1.0	0.0	0.0
+"Abnormal bleeding"	0.0	1.0	0.0	0.0
+"Hypercholesterolemia"	0.0	1.0	0.0	0.0
+"Giant platelets"	0.0	1.0	0.0	0.0
+"Abnormality of the integument"	0.0	1.0	0.0	0.0
+"Impaired platelet aggregation"	0.0	1.0	0.0	0.0
+"Episodic hemolytic anemia"	0.0	1.0	0.0	0.0
+"Hyperapobetalipoproteinemia"	0.0	1.0	0.0	0.0

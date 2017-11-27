@@ -1,0 +1,9 @@
+	"Neurofibromatosis, Type Iii, Mixed Central and Peripheral"	"Seckel Syndrome 2"	"Orphanet:2495"	"Orphanet:252183"
+"Paraspinal neurofibromas"	1.0	0.0	0.0	1.0
+"Few cafe-au-lait spots"	1.0	1.0	0.0	0.0
+"Palmar neurofibromas"	1.0	0.0	0.0	1.0
+"Neoplasm of the posterior pituitary"	0.0	0.0	1.0	0.0
+"Focal T2 hypointense thalamic lesion"	0.0	0.0	1.0	0.0
+"Ear pain"	0.0	0.0	1.0	0.0
+"Abnormality on pulmonary function testing"	0.0	0.0	1.0	0.0
+"Intracranial meningioma"	0.0	0.0	1.0	0.0

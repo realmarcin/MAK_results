@@ -1,0 +1,23 @@
+	"Multiple benign circumferential skin creases on limbs"	"Skin Creases, Congenital Symmetric Circumferential, 2; CSCSC2"	"Polyvalvular heart disease syndrome"	"Orphanet:2868"	"Orphanet:3038"
+"Seizures"	0.0	1.0	0.0	0.0	0.0
+"Microdontia"	0.0	1.0	0.0	0.0	0.0
+"Brachycephaly"	1.0	0.0	0.0	0.0	0.0
+"Short neck"	1.0	1.0	0.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	0.0
+"Pes planus"	0.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	0.0	0.0	0.0
+"Microphthalmia"	1.0	1.0	0.0	0.0	0.0
+"Generalized hypotonia"	1.0	1.0	0.0	0.0	0.0
+"Motor delay"	1.0	1.0	0.0	0.0	0.0
+"Flat face"	1.0	1.0	0.0	0.0	0.0
+"Carious teeth"	0.0	1.0	0.0	0.0	0.0
+"Hypoplastic nipples"	1.0	0.0	0.0	0.0	0.0
+"Wide intermamillary distance"	1.0	1.0	0.0	0.0	0.0
+"Microcornea"	1.0	1.0	0.0	0.0	0.0
+"Cerebellar vermis atrophy"	1.0	0.0	0.0	0.0	0.0
+"Scrotal hypoplasia"	0.0	1.0	0.0	0.0	0.0
+"Dandy-Walker malformation"	1.0	0.0	0.0	0.0	0.0
+"Periorbital fullness"	1.0	0.0	0.0	0.0	0.0
+"Localized neuroblastoma"	1.0	0.0	0.0	0.0	0.0
+"HP:0100807"	1.0	0.0	0.0	0.0	0.0
+"Broad neck"	0.0	1.0	0.0	0.0	0.0

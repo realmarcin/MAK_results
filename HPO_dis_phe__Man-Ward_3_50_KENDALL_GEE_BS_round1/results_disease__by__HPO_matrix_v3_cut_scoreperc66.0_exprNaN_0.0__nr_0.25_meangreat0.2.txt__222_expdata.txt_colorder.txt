@@ -1,0 +1,6 @@
+"x"
+"1" "Ventricular fibrillation"
+"2" "Sudden cardiac death"
+"3" "Syncope"
+"4" "Prolonged QT interval"
+"5" "Torsade de pointes"

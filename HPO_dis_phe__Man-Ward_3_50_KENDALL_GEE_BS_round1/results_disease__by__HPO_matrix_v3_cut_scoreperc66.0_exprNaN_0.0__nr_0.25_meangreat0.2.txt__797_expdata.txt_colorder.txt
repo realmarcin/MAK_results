@@ -1,0 +1,6 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "Frequent falls"
+"3" "Toe walking"
+"4" "Decreased serum testosterone level"
+"5" "Dyskinesia"

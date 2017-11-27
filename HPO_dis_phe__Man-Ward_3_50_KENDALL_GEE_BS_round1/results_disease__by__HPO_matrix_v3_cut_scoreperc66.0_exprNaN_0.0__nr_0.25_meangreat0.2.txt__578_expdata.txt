@@ -1,0 +1,11 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Orphanet:230839"	"Orphanet:90309"
+"Hyperextensible skin"	0.0	0.0	1.0	0.0
+"Fatigue"	0.0	0.0	1.0	0.0
+"Stroke"	0.0	0.0	1.0	0.0
+"Gastrointestinal hemorrhage"	0.0	0.0	1.0	0.0
+"Arrhythmia"	0.0	0.0	1.0	0.0
+"Sensory neuropathy"	0.0	0.0	1.0	0.0
+"Spina bifida occulta"	0.0	0.0	1.0	0.0
+"Myalgia"	0.0	0.0	1.0	0.0
+"Precocious atherosclerosis"	0.0	0.0	1.0	0.0
+"Adrenal hypoplasia"	0.0	0.0	1.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Abnormal sperm morphology"
+"3" "Hyperplasia of the Leydig cells"
+"4" "Bilateral breast hypoplasia"

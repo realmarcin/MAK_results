@@ -1,0 +1,9 @@
+	"Undritz Anomaly"	"Ureter, Bifid or Double"	"ureter cancer"	"Urolithiasis, Uric Acid, Autosomal Dominant"	"Uterine Anomalies"	"Woronets Trait"	"NNO1"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Bicornuate uterus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Bilateral microphthalmos"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypersegmentation of neutrophil nuclei"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ureteral duplication"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Neoplasm of the ureter"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Uric acid urolithiasis independent of gout"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Red blood cell keratocytosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

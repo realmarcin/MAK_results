@@ -1,0 +1,22 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orofacial Cleft 15"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Cryptorchidism"	0.0	0.0	1.0	0.0	0.0
+"Low-set ears"	0.0	0.0	1.0	0.0	1.0
+"Bulbous nose"	0.0	0.0	1.0	0.0	0.0
+"High anterior hairline"	0.0	0.0	1.0	0.0	0.0
+"Lop ear"	0.0	0.0	0.0	0.0	1.0
+"Single transverse palmar crease"	0.0	0.0	1.0	0.0	0.0
+"Curved linear dimple below the lower lip"	0.0	0.0	0.0	0.0	1.0
+"Protruding ear"	0.0	0.0	1.0	0.0	0.0
+"Horizontal nystagmus"	0.0	0.0	0.0	0.0	1.0
+"Absent earlobe"	0.0	0.0	0.0	0.0	1.0
+"Trichiasis"	0.0	0.0	0.0	0.0	1.0
+"Sparse eyebrow"	0.0	0.0	1.0	0.0	1.0
+"Small earlobe"	0.0	0.0	0.0	0.0	1.0
+"Generalized hypertrichosis"	0.0	0.0	0.0	0.0	1.0
+"Palate fistula"	0.0	0.0	1.0	0.0	0.0
+"Hyponasal speech"	0.0	0.0	1.0	0.0	0.0
+"Bilateral cleft lip"	0.0	0.0	1.0	0.0	0.0
+"Bilateral cleft palate"	0.0	0.0	1.0	0.0	0.0
+"Agenesis of lateral incisor"	0.0	0.0	1.0	0.0	0.0
+"Bitemporal forceps marks"	0.0	0.0	0.0	0.0	1.0

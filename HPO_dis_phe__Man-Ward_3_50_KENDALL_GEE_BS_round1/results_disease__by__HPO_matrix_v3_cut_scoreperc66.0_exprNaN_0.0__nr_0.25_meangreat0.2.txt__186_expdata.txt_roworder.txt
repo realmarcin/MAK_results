@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.264200"
+"2" "Microphthalmia..Syndromic.6"
+"3" "Recombinant.8.syndrome"
+"4" "Oculofaciocardiodental.syndrom"
+"5" "Stevenson.Carey.Syndrome"

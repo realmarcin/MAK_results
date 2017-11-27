@@ -1,0 +1,18 @@
+	"Cataract-aberrant oral frenula-growth delay syndrome"	"Schilbach-Rott Syndrome"	"chromosome 16p13.3 duplication syndrome"	"Skin Creases, Congenital Symmetric Circumferential, 2; CSCSC2"	"Polyvalvular heart disease syndrome"	"Orphanet:2868"	"Orphanet:3038"
+"Midface retrusion"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Pes cavus"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Malar flattening"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Long face"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Short nose"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bulbous nose"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Tapered finger"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"HP:0003812"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Short phalanx of finger"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003745"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Short toe"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Camptodactyly"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Protruding ear"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hip dislocation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Proximal placement of thumb"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Autistic behavior"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

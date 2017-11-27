@@ -1,0 +1,8 @@
+	"Amyotrophic Lateral Sclerosis 2, Juvenile"	"Amyotrophic Lateral Sclerosis 5, Juvenile"	"Amyotrophic lateral sclerosis type 4"	"Primary Lateral Sclerosis, Juvenile"	"PLSA1"	"Spinocerebellar Ataxia 35"	"Amyotrophic Lateral Sclerosis 16, Juvenile"	"spinocerebellar ataxia type 40"	"hereditary spastic paraplegia 73"	"Orphanet:247604"	"Juvenile amyotrophic lateral sclerosis"
+"Pes cavus"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Degeneration of anterior horn cells"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0040078"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Clonus"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diffuse axonal swelling"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pallor of dorsal columns of the spinal cord"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

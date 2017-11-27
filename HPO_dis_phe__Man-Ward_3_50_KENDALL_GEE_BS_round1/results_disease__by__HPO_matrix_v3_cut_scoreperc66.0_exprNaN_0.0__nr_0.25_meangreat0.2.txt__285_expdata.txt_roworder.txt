@@ -1,0 +1,7 @@
+"x"
+"1" "Homozygous.familial.hyperchole"
+"2" "Gaucher.disease.ophthalmoplegi"
+"3" "Orphanet.2072"
+"4" "Arteriosclerosis..Severe.Juven"
+"5" "Aortic.Valve.Disease.2"
+"6" "Storm.Syndrome"

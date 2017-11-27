@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.3080"
+"2" "Mental.Retardation..X.Linked.."
+"3" "Autosomal.recessive.primary.mi"
+"4" "Orphanet.59"

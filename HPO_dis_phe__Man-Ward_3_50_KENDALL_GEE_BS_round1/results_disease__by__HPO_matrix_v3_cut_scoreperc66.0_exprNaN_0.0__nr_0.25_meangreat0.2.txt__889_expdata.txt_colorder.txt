@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0003577"
+"2" "Hypertelorism"
+"3" "Renal agenesis"
+"4" "Bulbous nose"
+"5" "Thick vermilion border"

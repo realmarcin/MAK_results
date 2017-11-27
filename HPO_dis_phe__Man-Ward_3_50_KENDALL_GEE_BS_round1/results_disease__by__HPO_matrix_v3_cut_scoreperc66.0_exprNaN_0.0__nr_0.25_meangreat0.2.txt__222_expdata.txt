@@ -1,0 +1,6 @@
+	"Familial progressive cardiac conduction defect"	"PFHB2"	"Sick Sinus Syndrome 2"	"Linear skin defects with multiple congenital anomalies 3"	"Brugada Syndrome 1"	"Idiopathic ventricular fibrillation, non Brugada type"	"Arrhythmogenic right ventricular cardiomyopathy, type 8"	"Cardiomyopathy, Familial Hypertrophic, 8"	"Familial hypertrophic cardiomyopathy 10"	"Arrhythmogenic right ventricular cardiomyopathy, type 9"	"Short Qt Syndrome 2"	"Arrhythmogenic Right Ventricular Dysplasia, Familial, 11"	"Brugada Syndrome 2"	"Brugada syndrome 3"	"Brugada syndrome 5"	"Ventricular fibrillation, paroxysmal familial, 2"	"Brugada syndrome 6"	"hypertrophic cardiomyopathy 13"	"Orphanet:3286"	"Orphanet:51083"	"Thyrotoxic periodic paralysis"
+"Sudden cardiac death"	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Syncope"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Ventricular fibrillation"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Prolonged QT interval"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Torsade de pointes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

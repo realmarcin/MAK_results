@@ -1,0 +1,8 @@
+"x"
+"1" "Familial.hyperaldosteronism.ty"
+"2" "Orphanet.369929"
+"3" "Hyperaldosteronism..familial.."
+"4" "Pigmented.Nodular.Adrenocortic"
+"5" "Orphanet.189439"
+"6" "Catecholamine.producing.tumor"
+"7" "Orphanet.786"

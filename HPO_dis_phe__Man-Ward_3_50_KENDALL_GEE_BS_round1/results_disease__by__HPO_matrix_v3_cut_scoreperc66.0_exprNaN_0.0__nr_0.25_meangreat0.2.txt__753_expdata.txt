@@ -1,0 +1,7 @@
+	"Multiple epiphyseal dysplasia type 1"	"Spondyloepiphyseal Dysplasia Congenita"	"cloacal exstrophy"	"mucopolysaccharidosis IX"	"Orphanet:140976"	"Sirenomelia"	"Orphanet:3412"	"Orphanet:67041"	"Orphanet:79106"	"Orphanet:90154"	"Orphanet:90290"	"Rare circulatory system disease"
+"Limited hip movement"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Limited elbow flexion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Absence of the sacrum"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Increased fibular diameter"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the acetabulum"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the fingertips"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0

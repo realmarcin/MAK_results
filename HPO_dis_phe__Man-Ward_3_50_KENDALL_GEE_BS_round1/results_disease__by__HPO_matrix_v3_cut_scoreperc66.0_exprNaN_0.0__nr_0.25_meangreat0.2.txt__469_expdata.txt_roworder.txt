@@ -1,0 +1,6 @@
+"x"
+"1" "Cerebrotendinous.Xanthomatosis"
+"2" "Orphanet.909"
+"3" "Xeroderma.pigmentosum..group.G"
+"4" "Orphanet.309246"
+"5" "Orphanet.363400"

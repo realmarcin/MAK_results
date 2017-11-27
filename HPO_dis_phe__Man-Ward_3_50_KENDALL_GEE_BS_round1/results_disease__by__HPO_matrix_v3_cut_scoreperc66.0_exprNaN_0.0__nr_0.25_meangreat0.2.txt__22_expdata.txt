@@ -1,0 +1,6 @@
+	"keratosis follicularis"	"Peutz-Jeghers Syndrome"	"Pseudoxanthoma Elasticum"	"Orphanet:218"
+"Acrokeratosis"	1.0	0.0	0.0	1.0
+"Abnormality of the mouth"	0.0	1.0	1.0	0.0
+"Plantar pits"	1.0	0.0	0.0	1.0
+"Hypermelanotic macule"	1.0	1.0	1.0	1.0
+"Subungual hyperkeratotic fragments"	1.0	0.0	0.0	1.0

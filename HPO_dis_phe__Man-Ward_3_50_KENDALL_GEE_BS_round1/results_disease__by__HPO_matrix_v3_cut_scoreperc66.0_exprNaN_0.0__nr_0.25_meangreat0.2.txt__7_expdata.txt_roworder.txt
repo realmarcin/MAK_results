@@ -1,0 +1,6 @@
+"x"
+"1" "Chronic.granulomatous.disease."
+"2" "Granulomatous.Disease..Chronic"
+"3" "Chronic.granulomatous.disease."
+"4" "Chronic.granulomatous.disease."
+"5" "Complement.Component.C1R.C1S.D"

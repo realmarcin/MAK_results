@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Malabsorption of Vitamin B12"
+"3" "Absence of intrinsic factor"
+"4" "Megaloblastic erythroid hyperplasia"

@@ -1,0 +1,8 @@
+	"OMIM:400003"	"OMIM:410000"	"Spermatogenic Failure, Y-Linked, 2"	"gonadoblastoma"	"OMIM:426000"	"OMIM:475000"
+"Growth abnormality"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the immune system"	0.0	0.0	0.0	0.0	1.0	0.0
+"Azoospermia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the dentition"	0.0	1.0	0.0	0.0	0.0	0.0
+"Gonadoblastoma"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0001450"	1.0	1.0	1.0	1.0	1.0	1.0

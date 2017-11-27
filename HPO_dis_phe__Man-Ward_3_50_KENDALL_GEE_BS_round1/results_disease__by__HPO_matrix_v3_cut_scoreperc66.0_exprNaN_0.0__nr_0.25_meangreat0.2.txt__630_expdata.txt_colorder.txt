@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Enlarged metacarpal epiphyses"
+"3" "Distal ulnar epiphyseal stippling"
+"4" "Enlarged epiphyses of the phalanges of the hand"

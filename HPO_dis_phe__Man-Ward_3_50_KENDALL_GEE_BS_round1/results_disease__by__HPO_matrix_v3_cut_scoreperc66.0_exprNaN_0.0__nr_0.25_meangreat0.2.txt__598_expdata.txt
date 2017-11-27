@@ -1,0 +1,17 @@
+	"Epiphyseal dysplasia, multiple, with myopia and conductive deafness"	"Stickler syndrome, type 4"	"Orphanet:166011"	"Orphanet:560"
+"Frontal bossing"	0.0	0.0	0.0	1.0
+"Nystagmus"	0.0	0.0	0.0	1.0
+"Brachycephaly"	0.0	0.0	0.0	1.0
+"Cleft palate"	0.0	0.0	0.0	1.0
+"High palate"	0.0	0.0	0.0	1.0
+"Wide nasal bridge"	0.0	0.0	0.0	1.0
+"Visual impairment"	0.0	0.0	0.0	1.0
+"Hypohidrosis"	0.0	0.0	0.0	1.0
+"Sparse eyelashes"	0.0	0.0	0.0	1.0
+"Retinal detachment"	0.0	0.0	0.0	1.0
+"Abnormality of the dentition"	0.0	0.0	0.0	1.0
+"Cerebral calcification"	0.0	0.0	0.0	1.0
+"Hypoplastic frontal sinuses"	0.0	0.0	0.0	1.0
+"Sparse and thin eyebrow"	0.0	0.0	0.0	1.0
+"Hypotrichosis"	0.0	0.0	0.0	1.0
+"HP:0010669"	0.0	0.0	0.0	1.0

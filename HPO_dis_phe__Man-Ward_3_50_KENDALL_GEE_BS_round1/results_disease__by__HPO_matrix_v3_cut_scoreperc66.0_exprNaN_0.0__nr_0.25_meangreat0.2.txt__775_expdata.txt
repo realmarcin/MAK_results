@@ -1,0 +1,13 @@
+	"Cerebral Dysgenesis, Neuropathy, Ichthyosis, and Palmoplantar Keratoderma Syndrome"	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Chromosome 4Q21 Deletion Syndrome"	"Methylmalonate Semialdehyde Dehydrogenase Deficiency"	"Mental Retardation, Autosomal Dominant 38"	"Joubert Syndrome 26"	"Orphanet:217385"	"Orphanet:324422"	"Orphanet:90024"
+"Muscular hypotonia"	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Tall stature"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Frontal bossing"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Narrow mouth"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Inguinal hernia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"High palate"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Short neck"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Congenital hip dislocation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ventriculomegaly"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Clinodactyly of the 5th finger"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of penis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

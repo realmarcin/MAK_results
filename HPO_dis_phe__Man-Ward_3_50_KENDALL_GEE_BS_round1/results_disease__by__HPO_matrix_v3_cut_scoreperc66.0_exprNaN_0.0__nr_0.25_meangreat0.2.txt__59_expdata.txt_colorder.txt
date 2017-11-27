@@ -1,0 +1,6 @@
+"x"
+"1" "Elliptocytosis"
+"2" "HP:0000006"
+"3" "Hemolytic anemia"
+"4" "Intellectual disability"
+"5" "Midface retrusion"

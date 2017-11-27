@@ -1,0 +1,7 @@
+	"Dysplasia epiphysealis hemimelica"	"Palmaris Longus Muscle, Absence of"	"Peyronie's disease"	"Raynaud disease"	"Toe, Fifth, Number of Phalanges 1N"	"Toe, Misshapen"	"VUR1"	"Thalidomide Susceptibility"	"Pachydermodactyly, Familial"
+"Vesicoureteral reflux"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Overgrowth"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Raynaud phenomenon"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the skeletal system"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the genitourinary system"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

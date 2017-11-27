@@ -1,0 +1,5 @@
+"x"
+"1" "Congenital.disorder.of.glycosy"
+"2" "Epileptic.Encephalopathy..Earl"
+"3" "Microcephaly.thin.corpus.callo"
+"4" "Orphanet.2836"

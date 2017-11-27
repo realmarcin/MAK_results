@@ -1,0 +1,15 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, classic type"	"Ehlers-Danlos syndrome, type 4"	"Orphanet:90309"
+"Lop ear"	0.0	1.0	0.0	0.0
+"Hyperextensible skin"	0.0	1.0	0.0	0.0
+"Infantile muscular hypotonia"	0.0	1.0	0.0	0.0
+"Epicanthus"	0.0	1.0	0.0	0.0
+"Hyperextensibility of the finger joints"	0.0	1.0	0.0	0.0
+"Ectopia lentis"	0.0	1.0	0.0	0.0
+"Aortic root dilatation"	0.0	1.0	0.0	0.0
+"Narrow maxilla"	0.0	1.0	0.0	0.0
+"Premature birth following premature rupture of fetal membranes"	0.0	1.0	0.0	0.0
+"Bowel diverticulosis"	0.0	1.0	0.0	0.0
+"Irregularly spaced teeth"	0.0	1.0	0.0	0.0
+"Hyperextensibility at elbow"	0.0	1.0	0.0	0.0
+"Hyperextensibility of the knee"	0.0	1.0	0.0	0.0
+"Subcutaneous spheroids"	0.0	1.0	0.0	0.0

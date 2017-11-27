@@ -1,0 +1,26 @@
+	"cytochrome-c oxidase deficiency disease"	"Mitochondrial Complex 1 Deficiency"	"Mitochondrial complex II deficiency"	"Mitochondrial Complex 3 Deficiency, Nuclear Type 8"	"Encephalopathy, Progressive, Early-Onset, With Brain Edema And/Or Leukoencephalopathy"
+"Leukodystrophy"	0.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	0.0	1.0	0.0
+"Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0
+"Brisk reflexes"	0.0	0.0	0.0	1.0	0.0
+"Growth delay"	0.0	1.0	0.0	0.0	0.0
+"Tetraparesis"	0.0	0.0	0.0	0.0	1.0
+"HP:0003678"	0.0	0.0	0.0	1.0	1.0
+"Exotropia"	0.0	0.0	0.0	1.0	0.0
+"Vomiting"	0.0	1.0	0.0	0.0	0.0
+"Blindness"	0.0	1.0	0.0	0.0	0.0
+"External ophthalmoplegia"	0.0	0.0	0.0	1.0	0.0
+"Anemia"	1.0	0.0	0.0	1.0	0.0
+"Death in infancy"	0.0	0.0	0.0	0.0	1.0
+"Lethargy"	0.0	1.0	0.0	1.0	0.0
+"Coma"	0.0	1.0	0.0	0.0	1.0
+"Spastic tetraparesis"	0.0	0.0	0.0	1.0	0.0
+"Progressive macrocephaly"	0.0	1.0	0.0	0.0	0.0
+"Optic disc pallor"	0.0	1.0	0.0	1.0	0.0
+"Hepatic failure"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the periventricular white matter"	0.0	0.0	0.0	1.0	0.0
+"Cerebral edema"	0.0	1.0	0.0	0.0	1.0
+"Brain atrophy"	0.0	0.0	0.0	0.0	1.0
+"Acute necrotizing encephalopathy"	0.0	1.0	0.0	0.0	0.0
+"Skin erosion"	0.0	0.0	0.0	0.0	1.0
+"Cerebellar edema"	0.0	0.0	0.0	0.0	1.0

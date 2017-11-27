@@ -1,0 +1,22 @@
+	"episodic ataxia type 1"	"Telangiectasia, Hereditary Hemorrhagic, of Rendu, Osler, and Weber"	"Hereditary hemorrhagic telangiectasia type 2"	"HHT4"
+"HP:0003828"	1.0	0.0	0.0	0.0
+"HP:0003621"	1.0	0.0	0.0	0.0
+"Hyperreflexia"	1.0	0.0	0.0	0.0
+"Cerebral arteriovenous malformation"	0.0	1.0	1.0	1.0
+"Babinski sign"	1.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	0.0	0.0
+"Cyanosis"	0.0	1.0	1.0	1.0
+"Abnormality of the hand"	1.0	0.0	0.0	0.0
+"Spastic gait"	1.0	0.0	0.0	0.0
+"Pulmonary arteriovenous malformation"	0.0	1.0	1.0	1.0
+"Ischemic stroke"	0.0	1.0	1.0	1.0
+"Spontaneous, recurrent epistaxis"	0.0	1.0	1.0	1.0
+"Lip telangiectasia"	0.0	1.0	1.0	1.0
+"Tongue telangiectasia"	0.0	1.0	1.0	1.0
+"Nasal mucosa telangiectasia"	0.0	1.0	1.0	1.0
+"Conjunctival telangiectasia"	0.0	1.0	1.0	1.0
+"Right-to-left shunt"	0.0	1.0	1.0	1.0
+"Subarachnoid hemorrhage"	0.0	1.0	1.0	1.0
+"Transient ischemic attack"	0.0	1.0	1.0	1.0
+"Spinal arteriovenous malformation"	0.0	1.0	1.0	1.0
+"Palate telangiectasia"	0.0	1.0	1.0	1.0

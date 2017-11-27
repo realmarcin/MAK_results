@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0010982"
+"2" "Age-related macular degeneration"
+"3" "Decreased resting energy expenditure"
+"4" "Neoplasia of the nasopharynx"
+"5" "HP:0012273"

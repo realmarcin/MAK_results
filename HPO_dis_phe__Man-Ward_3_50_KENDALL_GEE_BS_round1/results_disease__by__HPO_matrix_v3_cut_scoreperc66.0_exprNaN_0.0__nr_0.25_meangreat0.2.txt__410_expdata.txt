@@ -1,0 +1,12 @@
+	"Angelman syndrome"	"Mental Retardation, X-Linked 91"	"6q16 deletion syndrome"	"14q12 microdeletion syndrome"	"16p13.11 microdeletion syndrome"	"Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome"	"Orphanet:85276"	"Orphanet:85282"	"Orphanet:85293"
+"Round face"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Intellectual disability, severe"	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Diabetes mellitus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Full cheeks"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Large earlobe"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Growth delay"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Obesity"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"HP:0001276"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Agitation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Downturned corners of mouth"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Thick vermilion border"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

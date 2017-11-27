@@ -1,0 +1,9 @@
+	"Hypertryptophanemia, Familial"	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Orphanet:324422"	"Orphanet:90024"
+"Depressivity"	1.0	0.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	0.0	0.0
+"HP:0100490"	1.0	0.0	0.0	0.0	0.0
+"Generalized joint laxity"	1.0	0.0	0.0	0.0	0.0
+"Emotional lability"	1.0	0.0	0.0	0.0	0.0
+"Tryptophanuria"	1.0	0.0	0.0	0.0	0.0
+"Stuttering"	1.0	0.0	0.0	0.0	0.0
+"Hypersexuality"	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+	"Pleoconial Myopathy With Salt Craving"	"Nephronophthisis 2"	"Seizures, Sensorineural Deafness, Ataxia, Mental Retardation, and Electrolyte Imbalance"	"Familial hypoaldosteronism"	"Thyrotoxic periodic paralysis"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Androgen insufficiency"	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Salt craving"	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Hyperkalemic metabolic acidosis"	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Decreased urinary potassium"	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Acute respiratory tract infection"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

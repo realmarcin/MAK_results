@@ -1,0 +1,31 @@
+	"Severe microbrachycephaly-intellectual disability-athetoid cerebral palsy syndrome"	"Orphanet:1299"	"Orphanet:2152"	"Orphanet:66629"
+"Downslanted palpebral fissures"	0.0	1.0	0.0	0.0
+"Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
+"Flat face"	0.0	1.0	0.0	0.0
+"Carious teeth"	0.0	1.0	0.0	0.0
+"Highly arched eyebrow"	0.0	1.0	0.0	0.0
+"Premature loss of teeth"	0.0	1.0	0.0	0.0
+"Absent nipple"	0.0	1.0	0.0	0.0
+"Thickened calvaria"	0.0	1.0	0.0	0.0
+"Micropenis"	0.0	1.0	0.0	0.0
+"Proptosis"	0.0	1.0	0.0	0.0
+"Attached earlobe"	0.0	1.0	0.0	0.0
+"Blepharochalasis"	0.0	1.0	0.0	0.0
+"Mixed hearing impairment"	0.0	1.0	0.0	0.0
+"Anteriorly placed anus"	0.0	1.0	0.0	0.0
+"Thoracolumbar kyphoscoliosis"	0.0	1.0	0.0	0.0
+"Cleft eyelid"	0.0	1.0	0.0	0.0
+"Bladder exstrophy"	0.0	1.0	0.0	0.0
+"Penoscrotal hypospadias"	0.0	1.0	0.0	0.0
+"Abnormality of the vertebral spinous processes"	0.0	1.0	0.0	0.0
+"Periorbital wrinkles"	0.0	1.0	0.0	0.0
+"Ureteral stenosis"	0.0	1.0	0.0	0.0
+"Absent external genitalia"	0.0	1.0	0.0	0.0
+"Unilateral cleft palate"	0.0	1.0	0.0	0.0
+"Abnormality of the shape of the midface"	0.0	1.0	0.0	0.0
+"Abnormality of the sella turcica"	0.0	1.0	0.0	0.0
+"Upper limb peromelia"	0.0	1.0	0.0	0.0
+"Amelia involving the lower limbs"	0.0	1.0	0.0	0.0
+"Abnormality of dentin"	0.0	1.0	0.0	0.0
+"Advanced pneumatization of the mastoid process"	0.0	1.0	0.0	0.0
+"Rootless teeth"	0.0	1.0	0.0	0.0

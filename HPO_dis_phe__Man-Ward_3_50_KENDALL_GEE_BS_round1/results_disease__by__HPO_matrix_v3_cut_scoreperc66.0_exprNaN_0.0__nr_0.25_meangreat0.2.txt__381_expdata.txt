@@ -1,0 +1,12 @@
+	"RRNS"	"ataxia with oculomotor apraxia type 2"	"Neuropathy, Hereditary Sensory and Autonomic, Type 2B"	"infantile cerebellar-retinal degeneration"	"Charcot-Marie-Tooth Disease, Type 4B3"	"Orphanet:84142"
+"Microcephaly"	0.0	0.0	0.0	0.0	1.0	0.0
+"Strabismus"	1.0	1.0	0.0	1.0	1.0	0.0
+"Syndactyly"	0.0	0.0	0.0	0.0	1.0	0.0
+"Pes planus"	1.0	0.0	0.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
+"Osteolytic defects of the phalanges of the hand"	0.0	0.0	1.0	0.0	0.0	0.0
+"Urinary incontinence"	0.0	0.0	1.0	0.0	1.0	0.0
+"Osteomyelitis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Episodic hyperhidrosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Acral ulceration leading to autoamputation of digits"	0.0	0.0	1.0	0.0	0.0	0.0
+"Brain atrophy"	0.0	0.0	0.0	0.0	1.0	0.0

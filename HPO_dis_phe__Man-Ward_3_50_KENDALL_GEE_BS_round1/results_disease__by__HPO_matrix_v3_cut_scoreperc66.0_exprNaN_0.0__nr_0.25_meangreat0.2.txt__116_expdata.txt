@@ -1,0 +1,8 @@
+	"Amelogenesis Imperfecta, Type 3A"	"Hemifacial hypertrophy"	"Malocclusion Due to Protuberant Upper Front Teeth"	"Torticollis"	"Obesity, hyperphagia, and developmental delay"
+"Facial asymmetry"	0.0	1.0	0.0	1.0	1.0
+"Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Dental malocclusion"	1.0	1.0	1.0	0.0	0.0
+"Amelogenesis imperfecta"	1.0	0.0	0.0	0.0	0.0
+"Torticollis"	0.0	0.0	0.0	1.0	0.0
+"Anterior open bite"	1.0	0.0	0.0	0.0	0.0

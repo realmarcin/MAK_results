@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "HP:0100490"
+"3" "Abnormality of the thorax"
+"4" "Retroperitoneal fibrosis"
+"5" "Sclerosing cholangitis"

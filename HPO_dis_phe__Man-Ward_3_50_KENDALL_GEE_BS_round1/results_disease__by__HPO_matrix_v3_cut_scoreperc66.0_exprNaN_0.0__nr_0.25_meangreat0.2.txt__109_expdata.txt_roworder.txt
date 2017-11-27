@@ -1,0 +1,6 @@
+"x"
+"1" "Mosaic.variegated.aneuploidy.s"
+"2" "Orphanet.1052"
+"3" "Witteveen.kolk.syndrome"
+"4" "SHLTS"
+"5" "Orphanet.261211"

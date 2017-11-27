@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Intellectual disability, moderate"
+"3" "Motor delay"
+"4" "Delayed speech and language development"
+"5" "Microcephaly"
+"6" "Growth delay"

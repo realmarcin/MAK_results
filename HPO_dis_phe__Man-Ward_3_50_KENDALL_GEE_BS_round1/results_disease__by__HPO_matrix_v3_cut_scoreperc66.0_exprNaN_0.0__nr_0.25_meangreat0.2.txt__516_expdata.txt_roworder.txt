@@ -1,0 +1,6 @@
+"x"
+"1" "Infantile.axonal.neuropathy"
+"2" "Orphanet.506"
+"3" "Orphanet.3006"
+"4" "Orphanet.3454"
+"5" "Orphanet.35069"

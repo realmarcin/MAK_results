@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormal mitochondria in muscle tissue"
+"2" "Decreased activity of mitochondrial complex II"
+"3" "Acute necrotizing encephalopathy"
+"4" "Stress/infection-induced lactic acidosis"
+"5" "Progressive leukoencephalopathy"

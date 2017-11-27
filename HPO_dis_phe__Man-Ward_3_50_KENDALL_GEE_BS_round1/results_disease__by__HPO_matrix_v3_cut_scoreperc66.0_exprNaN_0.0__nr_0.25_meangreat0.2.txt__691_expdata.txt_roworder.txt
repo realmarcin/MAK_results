@@ -1,0 +1,8 @@
+"x"
+"1" "Undritz.Anomaly"
+"2" "Ureter..Bifid.or.Double"
+"3" "ureter.cancer"
+"4" "Urolithiasis..Uric.Acid..Autos"
+"5" "Uterine.Anomalies"
+"6" "Woronets.Trait"
+"7" "NNO1"

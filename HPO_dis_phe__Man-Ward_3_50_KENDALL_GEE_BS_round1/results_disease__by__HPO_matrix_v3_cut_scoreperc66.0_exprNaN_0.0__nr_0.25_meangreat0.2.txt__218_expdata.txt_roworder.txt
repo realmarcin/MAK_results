@@ -1,0 +1,7 @@
+"x"
+"1" "Anophthalmos.with.limb.anomali"
+"2" "Orphanet.1106"
+"3" "Nager.syndrome"
+"4" "Kyphomelic.dysplasia"
+"5" "Cousin.syndrome"
+"6" "Postaxial.Acrofacial.Dysostosi"

@@ -1,0 +1,9 @@
+	"MRXS12"	"Hyperphosphatasia with mental retardation syndrome 2"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"
+"Atrial septal defect"	0.0	1.0	0.0	0.0
+"Anal atresia"	0.0	1.0	0.0	0.0
+"Vesicoureteral reflux"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Shortening of all distal phalanges of the fingers"	0.0	1.0	0.0	0.0
+"Anal stenosis"	0.0	1.0	0.0	0.0
+"Long palpebral fissure"	0.0	1.0	0.0	0.0
+"Anterior plagiocephaly"	0.0	1.0	0.0	0.0

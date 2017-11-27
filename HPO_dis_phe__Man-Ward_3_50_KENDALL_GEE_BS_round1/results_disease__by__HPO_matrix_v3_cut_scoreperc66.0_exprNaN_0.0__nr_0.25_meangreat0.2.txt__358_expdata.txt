@@ -1,0 +1,30 @@
+	"Hypogonadotropic hypogonadism-retinitis pigmentosa syndrome"	"Orphanet:2410"	"Orphanet:243"	"Orphanet:478"
+"Muscular hypotonia"	0.0	0.0	0.0	1.0
+"Nystagmus"	0.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	0.0	0.0	0.0	1.0
+"Ptosis"	0.0	0.0	0.0	1.0
+"Renal agenesis"	0.0	0.0	0.0	1.0
+"Pes planus"	0.0	0.0	0.0	1.0
+"Visual impairment"	0.0	0.0	0.0	1.0
+"Cataract"	0.0	1.0	0.0	0.0
+"Dysarthria"	0.0	0.0	0.0	1.0
+"Muscle weakness"	0.0	0.0	0.0	1.0
+"Tremor"	0.0	0.0	0.0	1.0
+"Paraplegia"	0.0	0.0	0.0	1.0
+"Anosmia"	0.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	0.0	1.0
+"Recurrent fractures"	1.0	1.0	0.0	1.0
+"Ichthyosis"	0.0	0.0	0.0	1.0
+"Bimanual synkinesia"	0.0	0.0	0.0	1.0
+"Abnormality of color vision"	0.0	0.0	0.0	1.0
+"Rod-cone dystrophy"	1.0	0.0	0.0	0.0
+"Decreased fertility"	1.0	1.0	1.0	1.0
+"Reduced number of teeth"	0.0	0.0	0.0	1.0
+"Hyposmia"	0.0	0.0	0.0	1.0
+"Reduced bone mineral density"	0.0	0.0	0.0	1.0
+"Anterior hypopituitarism"	0.0	0.0	0.0	1.0
+"Prolactin deficiency"	1.0	0.0	0.0	0.0
+"Hypothalamic gonadotropin-releasing hormone deficiency"	1.0	0.0	0.0	1.0
+"Dyspareunia"	0.0	0.0	0.0	1.0
+"Secondary growth hormone deficiency"	1.0	1.0	0.0	0.0
+"Erectile abnormalities"	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.306"
+"2" "Orphanet.79299"
+"3" "Orphanet.263458"
+"4" "Orphanet.97279"
+"5" "Spontaneous.periodic.hypotherm"
+"6" "HFA"

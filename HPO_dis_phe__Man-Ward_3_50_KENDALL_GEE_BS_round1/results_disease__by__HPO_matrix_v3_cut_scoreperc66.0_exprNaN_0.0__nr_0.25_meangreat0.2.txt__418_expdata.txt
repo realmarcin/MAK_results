@@ -1,0 +1,26 @@
+	"Aicardi Goutieres syndrome 1"	"Niemann-Pick Disease, Type C1"	"Alpha-methylacyl-CoA racemase deficiency"	"Severe neurodegenerative syndrome with lipodystrophy"	"Orphanet:363400"
+"Coarse facial features"	0.0	0.0	0.0	0.0	1.0
+"Hyperactivity"	0.0	0.0	0.0	1.0	1.0
+"Gait ataxia"	0.0	0.0	0.0	0.0	1.0
+"Sleep disturbance"	0.0	0.0	0.0	0.0	1.0
+"Cirrhosis"	0.0	0.0	0.0	0.0	1.0
+"Acanthosis nigricans"	0.0	0.0	0.0	0.0	1.0
+"Hypertension"	0.0	0.0	0.0	0.0	1.0
+"Brisk reflexes"	0.0	0.0	0.0	0.0	1.0
+"Spasticity"	1.0	1.0	1.0	1.0	1.0
+"Tetraparesis"	0.0	0.0	0.0	1.0	1.0
+"Neuronal loss in central nervous system"	0.0	1.0	0.0	1.0	1.0
+"Hypertriglyceridemia"	0.0	0.0	0.0	1.0	1.0
+"Myopathy"	0.0	0.0	0.0	0.0	1.0
+"Insulin resistance"	0.0	0.0	0.0	0.0	1.0
+"Limb dystonia"	0.0	0.0	0.0	0.0	1.0
+"Reduced subcutaneous adipose tissue"	0.0	0.0	0.0	0.0	1.0
+"Hyperinsulinemia"	0.0	0.0	0.0	0.0	1.0
+"Hepatic steatosis"	0.0	0.0	0.0	0.0	1.0
+"Progressive encephalopathy"	1.0	0.0	0.0	0.0	1.0
+"Progressive psychomotor deterioration"	0.0	0.0	0.0	0.0	1.0
+"Status epilepticus"	0.0	0.0	1.0	0.0	1.0
+"Poor motor coordination"	0.0	0.0	0.0	0.0	1.0
+"Generalized hirsutism"	0.0	0.0	0.0	0.0	1.0
+"Generalized lipodystrophy"	0.0	0.0	0.0	0.0	1.0
+"Reduced intraabdominal adipose tissue"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,9 @@
+	"Incisors, Shovel-Shaped"	"Focal cortical dysplasia of Taylor"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"Cortical dysplasia"	0.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	1.0	0.0	0.0	0.0
+"HP:0003581"	0.0	1.0	0.0	0.0	0.0
+"Hemiparesis"	0.0	1.0	0.0	0.0	0.0
+"Focal seizures with impairment of consciousness or awareness"	0.0	1.0	0.0	0.0	0.0
+"Astrocytosis"	0.0	1.0	0.0	0.0	0.0
+"Focal white matter lesions"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.3204"
+"2" "Stormorken.Syndrome"
+"3" "Orphanet.3319"
+"4" "Chondrodysplasia.Punctata.1..X"

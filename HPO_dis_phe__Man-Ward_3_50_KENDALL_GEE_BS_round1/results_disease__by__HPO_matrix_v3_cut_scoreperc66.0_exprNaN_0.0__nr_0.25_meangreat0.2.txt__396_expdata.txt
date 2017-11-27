@@ -1,0 +1,12 @@
+	"Systemic Lupus Erythematosus"	"Fechtner Syndrome"	"Epstein syndrome"	"PEE1"	"Thrombocytopenia With Elevated Serum Iga and Renal Disease"	"Von Willebrand Disease, X-Linked Form"	"Sebastian Syndrome"
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Bilateral sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cataract"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Proteinuria"	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hematuria"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Stage 5 chronic kidney disease"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Congenital cataract"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Nephritis"	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Microscopic hematuria"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"High-frequency sensorineural hearing impairment"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Leukocyte inclusion bodies"	0.0	1.0	0.0	0.0	0.0	0.0	1.0

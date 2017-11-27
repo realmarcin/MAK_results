@@ -1,0 +1,7 @@
+"x"
+"1" "Genito.palato.cardiac.syndrome"
+"2" "OMIM.617478"
+"3" "Multinucleated.Neurons..Anhydr"
+"4" "Nephrosis.deafness.urinary.tra"
+"5" "ACLH"
+"6" "Cowden.Syndrome.4"

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Abnormality of the epiphyses of the elbow"
+"3" "Large carpal bones"
+"4" "Bridged palmar crease"

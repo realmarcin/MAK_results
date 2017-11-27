@@ -1,0 +1,8 @@
+"x"
+"1" "Acute.adrenal.insufficiency"
+"2" "Orphanet.85138"
+"3" "Pleoconial.Myopathy.With.Salt."
+"4" "Nephronophthisis.2"
+"5" "Seizures..Sensorineural.Deafne"
+"6" "Familial.hypoaldosteronism"
+"7" "Thyrotoxic.periodic.paralysis"

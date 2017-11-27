@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.1713"
+"2" "Potocki.Lupski.Syndrome"
+"3" "Orphanet.3166"
+"4" "sialuria"
+"5" "Mental.Retardation..X.Linked.."
+"6" "Chromosome.10Q22.3.Q23.2.Delet"

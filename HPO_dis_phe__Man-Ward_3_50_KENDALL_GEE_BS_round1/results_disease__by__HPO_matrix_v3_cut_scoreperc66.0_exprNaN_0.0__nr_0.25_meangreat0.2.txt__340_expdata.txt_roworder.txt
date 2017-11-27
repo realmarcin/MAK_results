@@ -1,0 +1,6 @@
+"x"
+"1" "Homozygous.familial.hyperchole"
+"2" "Orphanet.881"
+"3" "Monosomy.X"
+"4" "Mosaic.monosomy.X"
+"5" "Turner.syndrome.due.to.structu"

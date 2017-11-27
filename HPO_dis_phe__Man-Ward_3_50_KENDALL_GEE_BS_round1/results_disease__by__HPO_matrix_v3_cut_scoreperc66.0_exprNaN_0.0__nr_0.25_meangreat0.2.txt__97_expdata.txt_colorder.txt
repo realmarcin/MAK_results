@@ -1,0 +1,7 @@
+"x"
+"1" "Insulin-resistant diabetes mellitus at puberty"
+"2" "Prominent umbilicus"
+"3" "Cystic angiomatosis of bone"
+"4" "Labial hypertrophy"
+"5" "Generalized muscular appearance from birth"
+"6" "Reduced intrathoracic adipose tissue"

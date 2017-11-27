@@ -1,0 +1,7 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"OMIM:608967"	"OMIM:610380"	"Orphanet:90309"
+"Hyperextensible skin"	0.0	0.0	1.0	1.0	0.0
+"Bifid uvula"	0.0	0.0	1.0	1.0	0.0
+"Dilatation of ascending aorta"	0.0	0.0	1.0	1.0	0.0
+"Generalized arterial tortuosity"	0.0	0.0	1.0	1.0	0.0
+"Ascending aortic dissection"	0.0	0.0	1.0	1.0	0.0
+"Dermal translucency"	0.0	0.0	1.0	1.0	0.0

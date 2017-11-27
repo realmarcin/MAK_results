@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Severe expressive language delay"
+"3" "Lumbosacral hirsutism"
+"4" "HP:0100391"

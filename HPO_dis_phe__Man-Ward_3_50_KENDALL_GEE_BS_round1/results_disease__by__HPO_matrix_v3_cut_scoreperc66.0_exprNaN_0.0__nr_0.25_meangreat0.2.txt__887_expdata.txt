@@ -1,0 +1,23 @@
+	"Lymphedema, Hereditary, 1A"	"Meige syndrome"	"yellow nail syndrome"	"Lymphedema-distichiasis syndrome"	"Orphanet:33001"
+"Diabetes mellitus"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the nail"	1.0	0.0	0.0	0.0	0.0
+"Cataract"	0.0	0.0	0.0	0.0	1.0
+"Proteinuria"	0.0	0.0	0.0	0.0	1.0
+"Muscle weakness"	0.0	0.0	0.0	0.0	1.0
+"Webbed neck"	0.0	0.0	0.0	0.0	1.0
+"Hemangioma"	1.0	0.0	0.0	0.0	0.0
+"Recurrent urinary tract infections"	0.0	0.0	0.0	0.0	1.0
+"Fibrosarcoma"	0.0	0.0	0.0	0.0	1.0
+"HP:0003577"	1.0	0.0	0.0	0.0	0.0
+"Corneal erosion"	0.0	0.0	0.0	0.0	1.0
+"Tubulointerstitial nephritis"	0.0	0.0	0.0	0.0	1.0
+"Hydrocele testis"	1.0	0.0	0.0	0.0	0.0
+"Glomerulopathy"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the amniotic fluid"	1.0	0.0	0.0	0.0	0.0
+"Nonimmune hydrops fetalis"	1.0	0.0	0.0	0.0	0.0
+"Hyperkeratosis over edematous areas"	1.0	0.0	0.0	0.0	0.0
+"Ectropion"	0.0	0.0	0.0	0.0	1.0
+"Renal duplication"	0.0	0.0	0.0	0.0	1.0
+"Recurrent skin infections"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the pulmonary vasculature"	0.0	0.0	0.0	0.0	1.0
+"Spinalarachnoid cyst"	0.0	0.0	0.0	0.0	1.0

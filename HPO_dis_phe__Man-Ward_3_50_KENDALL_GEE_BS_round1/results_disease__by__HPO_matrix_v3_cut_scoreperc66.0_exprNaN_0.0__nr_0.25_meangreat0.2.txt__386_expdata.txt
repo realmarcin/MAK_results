@@ -1,0 +1,6 @@
+	"Craniofacial Dysostosis With Diaphyseal Hyperplasia"	"Crouzon Syndrome"	"Hallermann-Streiff syndrome"	"Potocki-Shaffer syndrome"	"Acroosteolysis-keloid-like lesions-premature aging syndrome"	"Orphanet:1798"	"Craniofacial conodysplasia"	"Orphanet:85184"
+"Craniofacial dysostosis"	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Massively thickened long bone cortices"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Thin calvarium"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+"HP:0004782"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Decreased number of sternal ossification centers"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

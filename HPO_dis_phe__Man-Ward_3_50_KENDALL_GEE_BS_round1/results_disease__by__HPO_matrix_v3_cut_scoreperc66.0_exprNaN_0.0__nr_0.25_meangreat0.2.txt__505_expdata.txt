@@ -1,0 +1,10 @@
+	"Wolfram-like syndrome, autosomal dominant"	"Late-onset isolated ACTH deficiency"	"Orphanet:3198"	"Orphanet:36397"	"Orphanet:411590"	"Orphanet:738"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Autism"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Anxiety"	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Diabetes mellitus"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Hearing impairment"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Optic atrophy"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Glaucoma"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Psychosis"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Schizophrenia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glucose intolerance"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

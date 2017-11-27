@@ -1,0 +1,21 @@
+	"Cockayne Syndrome a"	"Moved to 216400"	"Hydrocephalus, Normal-Pressure"	"Frontotemporal dementia, ubiquitin-positive"
+"Dementia"	1.0	1.0	1.0	0.0
+"Parkinsonism"	0.0	0.0	0.0	1.0
+"Hallucinations"	0.0	0.0	0.0	1.0
+"Apathy"	0.0	0.0	0.0	1.0
+"Frontotemporal dementia"	0.0	0.0	0.0	1.0
+"Gliosis"	0.0	0.0	0.0	1.0
+"Apraxia"	0.0	0.0	0.0	1.0
+"Neuronal loss in central nervous system"	0.0	0.0	0.0	1.0
+"Memory impairment"	0.0	0.0	0.0	1.0
+"Personality changes"	0.0	0.0	0.0	1.0
+"Aphasia"	0.0	0.0	0.0	1.0
+"Mutism"	0.0	0.0	0.0	1.0
+"Normal pressure hydrocephalus"	1.0	1.0	1.0	0.0
+"Perseveration"	0.0	0.0	0.0	1.0
+"Dysphasia"	0.0	0.0	0.0	1.0
+"Hyperorality"	0.0	0.0	0.0	1.0
+"Disinhibition"	0.0	0.0	0.0	1.0
+"Hypersexuality"	0.0	0.0	0.0	1.0
+"Progressive language deterioration"	0.0	0.0	0.0	1.0
+"Repetitive compulsive behavior"	0.0	0.0	0.0	1.0

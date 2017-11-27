@@ -1,0 +1,8 @@
+	"Nemaline myopathy 5"	"Moved to 255320"	"Nemaline Myopathy 7"	"Charcot-Marie-Tooth disease type 2R"	"Ullrich Congenital Muscular Dystrophy 2"
+"Muscular hypotonia"	0.0	1.0	1.0	0.0	0.0
+"Joint hypermobility"	0.0	0.0	1.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	0.0
+"Muscle weakness"	0.0	0.0	1.0	1.0	0.0
+"Gait disturbance"	0.0	0.0	1.0	0.0	0.0
+"Delayed gross motor development"	1.0	0.0	1.0	0.0	0.0
+"Minicore myopathy"	0.0	0.0	1.0	0.0	0.0

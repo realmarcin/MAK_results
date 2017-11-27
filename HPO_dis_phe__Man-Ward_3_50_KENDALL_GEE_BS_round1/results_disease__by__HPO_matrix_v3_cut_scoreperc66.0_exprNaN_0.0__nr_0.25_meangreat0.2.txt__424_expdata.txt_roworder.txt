@@ -1,0 +1,5 @@
+"x"
+"1" "Acid.Phosphatase.Deficiency"
+"2" "Chromosomal.Instability.With.T"
+"3" "Berry.Aneurysm..Cirrhosis..Pul"
+"4" "Perrault.Syndrome.3"

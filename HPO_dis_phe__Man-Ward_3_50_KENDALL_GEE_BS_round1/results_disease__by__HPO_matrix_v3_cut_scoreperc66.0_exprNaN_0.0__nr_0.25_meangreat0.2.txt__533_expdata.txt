@@ -1,0 +1,14 @@
+	"Hereditary neurocutaneous malformation"	"Enchondromatosis, Multiple, Ollier Type"	"Pheochromocytoma"	"Pheochromocytoma--Islet Cell Tumor Syndrome"	"Maffucci syndrome"	"Orphanet:1062"
+"Seizures"	0.0	0.0	0.0	0.0	0.0	1.0
+"Pathologic fracture"	0.0	0.0	0.0	0.0	1.0	0.0
+"Neoplasm"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hematuria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hemiparesis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hemangioma"	1.0	1.0	1.0	0.0	1.0	1.0
+"Gastrointestinal hemorrhage"	1.0	0.0	0.0	0.0	0.0	0.0
+"Horner syndrome"	1.0	0.0	0.0	0.0	0.0	1.0
+"Congenital cataract"	0.0	0.0	1.0	0.0	0.0	0.0
+"Chondrosarcoma"	0.0	1.0	0.0	0.0	1.0	0.0
+"Multiple enchondromatosis"	0.0	1.0	0.0	0.0	1.0	0.0
+"Renal artery stenosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of long bone morphology"	0.0	1.0	0.0	0.0	0.0	0.0

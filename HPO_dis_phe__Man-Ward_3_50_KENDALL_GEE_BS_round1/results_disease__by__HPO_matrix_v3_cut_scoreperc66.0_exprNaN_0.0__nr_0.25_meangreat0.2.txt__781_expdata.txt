@@ -1,0 +1,7 @@
+	"Albinism, Ocular, With Sensorineural Deafness"	"Sandhoff Disease"	"X-linked recessive ocular albinism"	"Albinism, Ocular, With Late-Onset Sensorineural Deafness"	"Orphanet:54"	"Orphanet:740"	"Orphanet:904"
+"Giant melanosomes in melanocytes"	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Recurrent systemic pyogenic infections"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive peripheral neuropathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Gallbladder dysfunction"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Nystagmus-induced head nodding"	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Depigmented fundus"	0.0	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Cockayne.syndrome.B"
+"2" "Cockayne.Syndrome.a"
+"3" "Indifference.to.Pain..Congenit"
+"4" "Hereditary.sensory.and.autonom"

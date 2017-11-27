@@ -1,0 +1,8 @@
+"x"
+"1" "Renal cyst"
+"2" "Right aortic arch"
+"3" "Cleft palate"
+"4" "Hypospadias"
+"5" "Double outlet right ventricle"
+"6" "Transposition of the great arteries"
+"7" "Gonadal dysgenesis, male"

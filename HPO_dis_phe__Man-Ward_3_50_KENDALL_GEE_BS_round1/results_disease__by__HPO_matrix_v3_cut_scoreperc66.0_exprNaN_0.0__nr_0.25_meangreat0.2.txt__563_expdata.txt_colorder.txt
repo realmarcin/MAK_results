@@ -1,0 +1,7 @@
+"x"
+"1" "Lower lip pit"
+"2" "Malrotation of colon"
+"3" "Duplication of internal organs"
+"4" "Postauricular pit"
+"5" "Supraauricular pit"
+"6" "Branchial anomaly"

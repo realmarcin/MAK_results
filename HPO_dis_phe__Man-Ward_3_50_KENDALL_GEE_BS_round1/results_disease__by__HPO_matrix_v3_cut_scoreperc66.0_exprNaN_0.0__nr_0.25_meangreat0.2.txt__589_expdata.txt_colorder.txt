@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Muscular hypotonia"
+"3" "Neutropenia"
+"4" "Abnormal facial shape"
+"5" "Abnormality of extrapyramidal motor function"
+"6" "Recurrent infections"

@@ -1,0 +1,6 @@
+"x"
+"1" "Exostoses.With.Anetodermia.and"
+"2" "Orphanet.1962"
+"3" "Polyposis..Intestinal..With.Mu"
+"4" "Multiple.Exostoses.With.Spasti"
+"5" "EXT3"

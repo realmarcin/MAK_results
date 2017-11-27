@@ -1,0 +1,5 @@
+"x"
+"1" "Dent.disease.type.1"
+"2" "Hypophosphatemic.rickets..X.li"
+"3" "Hypocalcemic.vitamin.D.depende"
+"4" "Vitamin.d.hydroxylation.defici"

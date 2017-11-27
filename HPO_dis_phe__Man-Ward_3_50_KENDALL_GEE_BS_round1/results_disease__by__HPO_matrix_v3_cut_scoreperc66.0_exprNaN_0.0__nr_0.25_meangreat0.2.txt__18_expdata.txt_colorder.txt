@@ -1,0 +1,6 @@
+"x"
+"1" "Skin dimple over apex of long bone angulation"
+"2" "Rachitic rosary"
+"3" "Phosphoethanolaminuria"
+"4" "Elevated urine pyrophosphate"
+"5" "Elevated plasma pyrophosphate"

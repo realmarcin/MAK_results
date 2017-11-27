@@ -1,0 +1,14 @@
+	"Pfeiffer syndrome"	"Radial aplasia-thrombocytopenia syndrome"	"Orphanet:3168"	"Orphanet:3320"	"Orphanet:3447"	"Orphanet:392"	"Orphanet:503"	"Orphanet:710"	"Orphanet:794"	"Orphanet:957"
+"Broad thumb"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Finger syndactyly"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Oval face"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Back pain"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chess-pawn distal phalanges"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Broad metatarsal"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Slender build"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Intervertebral disc degeneration"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Large tarsal bones"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Large iliac wings"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bulbous tips of toes"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the proximal phalanges of the hand"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the proximal phalanx of the hallux"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

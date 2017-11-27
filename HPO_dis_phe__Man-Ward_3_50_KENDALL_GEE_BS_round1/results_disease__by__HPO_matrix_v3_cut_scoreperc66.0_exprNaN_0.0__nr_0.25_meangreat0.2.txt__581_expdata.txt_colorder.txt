@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Dysphagia"
+"3" "Inability to walk"
+"4" "Peripheral neuropathy"
+"5" "Visual impairment"
+"6" "External ophthalmoplegia"

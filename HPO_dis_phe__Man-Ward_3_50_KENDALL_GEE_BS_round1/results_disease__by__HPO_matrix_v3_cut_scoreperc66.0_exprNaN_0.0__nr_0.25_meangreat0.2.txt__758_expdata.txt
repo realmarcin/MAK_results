@@ -1,0 +1,10 @@
+	"Basal Ganglia Calcification, Idiopathic, Childhood-Onset"	"Mental Retardation, X-Linked, Syndromic, Christianson Type"	"CFTDX"	"Kabuki Syndrome 2"	"Mental Retardation, X-Linked 102"	"Coffin-Lowry Syndrome"	"Spondyloocular Syndrome"	"Microcephaly, Growth Retardation, Cataract, Hearing Loss, and Unusual Appearance"	"Progeroid features-hepatocellular carcinoma predisposition syndrome"	"Mental retardation, autosomal dominant 33"	"Rhizomelic Chondrodysplasia Punctata, Type 5"	"Mirage Syndrome"	"Orphanet:258"	"Orphanet:324422"
+"Adrenal insufficiency"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Tetraplegia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased body weight"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Congenital cataract"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Posterior subcapsular cataract"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Amblyopia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Sensorimotor neuropathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Global brain atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0001423"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

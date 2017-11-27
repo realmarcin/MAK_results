@@ -1,0 +1,11 @@
+	"Epilepsy, Photogenic, With Spastic Diplegia and Mental Retardation"	"Saccharopinuria"	"Spastic Diplegia and Mental Retardation"	"Cocoon Syndrome"
+"Microcephaly"	0.0	0.0	0.0	1.0
+"Protruding tongue"	0.0	0.0	0.0	1.0
+"Lower limb undergrowth"	0.0	0.0	0.0	1.0
+"Thin skin"	0.0	0.0	0.0	1.0
+"Omphalocele"	0.0	0.0	0.0	1.0
+"Anotia"	0.0	0.0	0.0	1.0
+"Upper limb undergrowth"	0.0	0.0	0.0	1.0
+"Mandibular aplasia"	0.0	0.0	0.0	1.0
+"Aplasia of the sweat glands"	0.0	0.0	0.0	1.0
+"Absent external genitalia"	0.0	0.0	0.0	1.0

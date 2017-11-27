@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.2069"
+"2" "Gastrocutaneous.syndrome"
+"3" "Osteopenia.myopia.hearing.loss"
+"4" "Symphalangism.With.Multiple.An"
+"5" "Frontonasal.Dysplasia.With.Ala"
+"6" "Orphanet.3246"
+"7" "Orphanet.398173"

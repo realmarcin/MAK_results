@@ -1,0 +1,16 @@
+	"Atherosclerosis, Premature, With Deafness, Nephropathy, Diabetes Mellitus, Photomyoclonus, and Degenerative Neurologic Disease"	"Fabry Disease"	"Partial acquired lipodystrophy"	"Alagille syndrome due to a NOTCH2 point mutation"	"APLDC3"	"Orphanet:225"
+"Diabetes mellitus"	1.0	0.0	1.0	0.0	0.0	0.0
+"HP:0003812"	0.0	0.0	1.0	1.0	1.0	0.0
+"HP:0003621"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hirsutism"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	0.0	1.0	0.0	1.0	0.0
+"Proteinuria"	1.0	1.0	1.0	1.0	1.0	1.0
+"Recurrent infections"	0.0	0.0	1.0	0.0	1.0	0.0
+"Membranoproliferative glomerulonephritis"	0.0	0.0	1.0	0.0	1.0	0.0
+"Polycystic ovaries"	0.0	0.0	1.0	0.0	0.0	0.0
+"Loss of truncal subcutaneous adipose tissue"	0.0	0.0	1.0	0.0	0.0	0.0
+"Lipodystrophy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Decreased serum complement C3"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of lipid metabolism"	0.0	0.0	1.0	0.0	0.0	1.0
+"Progressive loss of facial adipose tissue"	0.0	0.0	1.0	0.0	1.0	0.0
+"Loss of subcutaneous adipose tissue from upper limbs"	0.0	0.0	1.0	0.0	0.0	0.0

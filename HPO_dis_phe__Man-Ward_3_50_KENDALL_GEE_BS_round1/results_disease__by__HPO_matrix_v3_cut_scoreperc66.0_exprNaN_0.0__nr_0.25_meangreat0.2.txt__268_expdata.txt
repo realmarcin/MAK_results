@@ -1,0 +1,28 @@
+	"Oculocerebrofacial syndrome, Kaufman type"	"Orphanet:2511"	"Orphanet:2707"	"Orphanet:870"
+"Microdontia"	0.0	0.0	1.0	1.0
+"Preauricular skin tag"	1.0	0.0	1.0	0.0
+"Constipation"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	1.0	1.0
+"Optic atrophy"	0.0	0.0	1.0	0.0
+"Carious teeth"	1.0	0.0	0.0	0.0
+"Long foot"	0.0	0.0	1.0	0.0
+"Specific learning disability"	0.0	1.0	1.0	0.0
+"Ovoid vertebral bodies"	1.0	0.0	0.0	0.0
+"Wide mouth"	1.0	0.0	1.0	0.0
+"Myopia"	1.0	0.0	1.0	1.0
+"Flat occiput"	0.0	1.0	1.0	0.0
+"Metatarsus adductus"	1.0	0.0	0.0	0.0
+"Respiratory distress"	0.0	0.0	1.0	0.0
+"Absent eyebrow"	0.0	0.0	1.0	0.0
+"Choroideremia"	0.0	0.0	1.0	0.0
+"Bell-shaped thorax"	1.0	0.0	0.0	0.0
+"Neonatal respiratory distress"	1.0	0.0	0.0	0.0
+"Diastema"	1.0	0.0	0.0	0.0
+"HP:0002878"	0.0	0.0	1.0	0.0
+"Clitoral hypertrophy"	1.0	0.0	1.0	0.0
+"Optic disc pallor"	1.0	0.0	0.0	0.0
+"Narrow palm"	1.0	0.0	0.0	0.0
+"HP:0001135"	0.0	0.0	1.0	0.0
+"Thin eyebrow"	0.0	0.0	1.0	0.0
+"Laryngeal stridor"	1.0	0.0	0.0	0.0
+"Muscle flaccidity"	0.0	0.0	1.0	0.0

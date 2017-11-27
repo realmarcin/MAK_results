@@ -1,0 +1,12 @@
+	"Tremor, Nystagmus, and Duodenal Ulcer"	"ETM2"	"Paraganglioma and Gastric Stromal Sarcoma"	"Tremor, Hereditary Essential, and Idiopathic Normal Pressure Hydrocephalus"
+"Macrocephaly"	0.0	0.0	0.0	1.0
+"Nystagmus"	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	0.0	1.0
+"Ventriculomegaly"	0.0	0.0	0.0	1.0
+"Tremor"	1.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	0.0	1.0
+"Duodenal ulcer"	1.0	0.0	0.0	0.0
+"Normal pressure hydrocephalus"	0.0	0.0	0.0	1.0
+"Upper limb postural tremor"	0.0	1.0	0.0	0.0
+"Abnormality of the cerebellum"	1.0	0.0	0.0	0.0
+"Kinetic tremor"	1.0	1.0	0.0	1.0

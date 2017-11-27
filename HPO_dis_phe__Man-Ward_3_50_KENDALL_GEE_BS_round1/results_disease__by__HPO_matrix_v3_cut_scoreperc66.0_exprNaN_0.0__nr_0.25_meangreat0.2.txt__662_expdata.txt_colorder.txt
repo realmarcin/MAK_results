@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Bony paranasal bossing"
+"3" "Club-shaped distal femur"
+"4" "Patchy sclerosis of finger phalanx"

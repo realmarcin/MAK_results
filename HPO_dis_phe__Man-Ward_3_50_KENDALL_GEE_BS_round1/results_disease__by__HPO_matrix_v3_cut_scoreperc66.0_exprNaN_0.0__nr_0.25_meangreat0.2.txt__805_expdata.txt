@@ -1,0 +1,14 @@
+	"Hemangiomatosis, Cutaneous, With Associated Features"	"Hydrocephalus, Tall Stature, Joint Laxity, and Kyphoscoliosis"	"Anophthalmia plus syndrome"	"Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs"	"Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant"	"Retinal dystrophy, juvenile cataracts, and short stature syndrome"	"Orphanet:1947"
+"Intellectual disability"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"EEG abnormality"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Mental deterioration"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Clumsiness"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"HP:0003677"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Focal seizures with impairment of consciousness or awareness"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Irritability"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Progressive visual loss"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Psychosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Increased neuronal autofluorescent lipopigment"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Curvilinear intracellular accumulation of autofluorescent lipopigment storage material"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Developmental regression"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Restlessness"	0.0	0.0	0.0	0.0	1.0	0.0	1.0

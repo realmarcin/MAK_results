@@ -1,0 +1,24 @@
+	"Townes syndrome"	"Orphanet:107"	"Orphanet:1308"	"Orphanet:261265"	"Thomas syndrome"
+"Preauricular pit"	1.0	0.0	0.0	0.0	0.0
+"2-3 toe syndactyly"	1.0	0.0	0.0	0.0	0.0
+"Rectoperineal fistula"	1.0	0.0	0.0	0.0	0.0
+"Broad thumb"	1.0	0.0	0.0	0.0	0.0
+"Short metatarsal"	1.0	0.0	0.0	0.0	0.0
+"Partial duplication of thumb phalanx"	1.0	0.0	0.0	0.0	0.0
+"Rectovaginal fistula"	1.0	0.0	0.0	0.0	0.0
+"Multicystic kidney dysplasia"	1.0	1.0	1.0	1.0	1.0
+"Bifid scrotum"	1.0	0.0	0.0	0.0	0.0
+"Bifid uterus"	1.0	0.0	0.0	0.0	0.0
+"Metatarsal synostosis"	1.0	0.0	0.0	0.0	0.0
+"Clinodactyly of the 5th toe"	1.0	0.0	0.0	0.0	0.0
+"Overfolding of the superior helices"	1.0	0.0	0.0	0.0	0.0
+"3-4 finger syndactyly"	1.0	0.0	0.0	0.0	0.0
+"Pseudoepiphyses of second metacarpal"	1.0	0.0	0.0	0.0	0.0
+"3-4 toe syndactyly"	1.0	0.0	0.0	0.0	0.0
+"Duane anomaly"	1.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the 3rd toe"	1.0	0.0	0.0	0.0	0.0
+"Urethral valve"	1.0	0.0	0.0	0.0	0.0
+"2-4 finger syndactyly"	1.0	0.0	0.0	0.0	0.0
+"Satyr ear"	1.0	0.0	0.0	0.0	0.0
+"Stahl ear"	1.0	0.0	0.0	0.0	0.0
+"Renal hypoplasia/aplasia"	0.0	1.0	1.0	1.0	1.0

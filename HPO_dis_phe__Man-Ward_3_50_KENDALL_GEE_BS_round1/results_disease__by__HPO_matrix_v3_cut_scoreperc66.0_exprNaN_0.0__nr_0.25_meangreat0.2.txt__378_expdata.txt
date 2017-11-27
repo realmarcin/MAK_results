@@ -1,0 +1,15 @@
+	"DECIPHER:47"	"Alkaptonuria"	"Congenital bronchobiliary fistula"	"Orphanet:56"
+"Abnormality of the urinary system"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Growth abnormality"	0.0	1.0	0.0	0.0
+"Kyphosis"	0.0	1.0	0.0	0.0
+"Back pain"	0.0	1.0	0.0	0.0
+"Vertebral fusion"	0.0	1.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	1.0	0.0	0.0
+"Aortic valve calcification"	0.0	1.0	0.0	1.0
+"Abnormality of the ear"	0.0	1.0	0.0	0.0
+"Aortic dilatation"	0.0	1.0	0.0	0.0
+"Mitral valve calcification"	0.0	1.0	0.0	1.0
+"Thickened Achilles tendon"	0.0	1.0	0.0	1.0
+"Pigmentation of the sclera"	0.0	1.0	0.0	0.0
+"Intervertebral disc degeneration"	0.0	1.0	0.0	0.0

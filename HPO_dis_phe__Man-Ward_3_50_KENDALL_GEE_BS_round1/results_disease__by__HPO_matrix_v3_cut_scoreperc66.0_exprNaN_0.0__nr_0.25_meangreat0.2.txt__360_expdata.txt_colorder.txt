@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0012376"
+"2" "Hypoplastic radial head"
+"3" "Absence of pectoralis minor muscle"
+"4" "Thickening of the lateral border of the scapula"
+"5" "Iliac horns"
+"6" "Hypoplasia of first ribs"

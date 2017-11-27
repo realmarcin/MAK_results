@@ -1,0 +1,12 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Ehlers-Danlos syndrome, periodontitis type"	"Orphanet:90309"
+"Tall stature"	0.0	0.0	1.0	0.0
+"Hoarse voice"	0.0	0.0	1.0	0.0
+"Arachnodactyly"	0.0	0.0	1.0	0.0
+"Hyperextensible skin"	0.0	0.0	1.0	0.0
+"Generalized joint laxity"	0.0	0.0	1.0	0.0
+"Autoimmunity"	0.0	0.0	1.0	0.0
+"Palmoplantar cutis laxa"	0.0	0.0	1.0	0.0
+"Gingival bleeding"	0.0	0.0	1.0	0.0
+"Recurrent infections"	0.0	0.0	1.0	0.0
+"Gingival recession"	0.0	0.0	1.0	0.0
+"Alveolar bone loss around teeth"	0.0	0.0	1.0	0.0

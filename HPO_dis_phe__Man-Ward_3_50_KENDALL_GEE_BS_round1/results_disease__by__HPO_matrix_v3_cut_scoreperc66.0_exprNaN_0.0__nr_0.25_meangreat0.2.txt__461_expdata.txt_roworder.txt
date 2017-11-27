@@ -1,0 +1,8 @@
+"x"
+"1" "Combined.Oxidative.Phosphoryla"
+"2" "Combined.Oxidative.Phosphoryla"
+"3" "Mitochondrial.myopathy.lactic."
+"4" "Pyruvate.carboxylase.deficienc"
+"5" "Combined.oxidative.phosphoryla"
+"6" "Combined.oxidative.phosphoryla"
+"7" "Congenital.sideroblastic.anemi"

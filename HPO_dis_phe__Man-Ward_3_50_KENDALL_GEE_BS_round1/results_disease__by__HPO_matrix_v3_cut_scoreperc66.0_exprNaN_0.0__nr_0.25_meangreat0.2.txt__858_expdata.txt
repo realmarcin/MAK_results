@@ -1,0 +1,14 @@
+	"Isolated cerebellar hypoplasia/agenesis"	"Cerebellar Hypoplasia With Endosteal Sclerosis"	"Xeroderma pigmentosum, group F"	"Anterior Segment Dysgenesis 5"	"Hemorrhagic destruction of the brain, subependymal calcification, and cataracts"
+"Intellectual disability"	0.0	0.0	1.0	0.0	0.0
+"Deeply set eye"	0.0	0.0	1.0	0.0	0.0
+"Dementia"	0.0	0.0	1.0	0.0	0.0
+"Scoliosis"	0.0	0.0	1.0	0.0	0.0
+"Flexion contracture"	0.0	0.0	1.0	0.0	0.0
+"Hearing impairment"	0.0	0.0	1.0	0.0	0.0
+"Papule"	0.0	0.0	1.0	0.0	0.0
+"Cutaneous photosensitivity"	0.0	0.0	1.0	0.0	0.0
+"Decreased body weight"	0.0	0.0	1.0	0.0	0.0
+"Neoplasm of the skin"	0.0	0.0	1.0	0.0	0.0
+"Defective DNA repair after ultraviolet radiation damage"	0.0	0.0	1.0	0.0	0.0
+"Brain atrophy"	0.0	0.0	1.0	0.0	0.0
+"Numerous pigmented freckles"	0.0	0.0	1.0	0.0	0.0

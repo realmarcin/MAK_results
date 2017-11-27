@@ -1,0 +1,16 @@
+	"Mitochondrial Dna Depletion Syndrome 9 (Encephalomyopathic Type With Methylmalonic Aciduria)"	"Thoracic dysplasia-hydrocephalus syndrome"	"Orphanet:1065"	"Orphanet:1861"
+"Aniridia"	0.0	0.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Conductive hearing impairment"	0.0	0.0	0.0	1.0
+"Depressed nasal ridge"	0.0	0.0	0.0	1.0
+"Narrow chest"	0.0	1.0	0.0	1.0
+"Short ribs"	0.0	1.0	0.0	0.0
+"Mask-like facies"	0.0	0.0	1.0	0.0
+"Communicating hydrocephalus"	0.0	1.0	0.0	1.0
+"HP:0002878"	1.0	1.0	0.0	1.0
+"HP:0009826"	0.0	1.0	0.0	1.0
+"Scanning speech"	0.0	0.0	1.0	0.0
+"Thoracic dysplasia"	0.0	1.0	0.0	0.0
+"Hearing abnormality"	0.0	0.0	1.0	0.0
+"Abnormality of the pulmonary artery"	0.0	0.0	1.0	0.0
+"Abnormality of the metaphysis"	0.0	0.0	0.0	1.0

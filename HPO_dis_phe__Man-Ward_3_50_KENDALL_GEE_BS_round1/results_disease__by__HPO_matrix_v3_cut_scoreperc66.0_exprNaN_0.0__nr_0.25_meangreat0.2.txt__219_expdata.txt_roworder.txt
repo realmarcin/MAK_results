@@ -1,0 +1,5 @@
+"x"
+"1" "Tremor..Hereditary.Essential.."
+"2" "Tremor..Nystagmus..and.Duodena"
+"3" "ETM2"
+"4" "Paraganglioma.and.Gastric.Stro"

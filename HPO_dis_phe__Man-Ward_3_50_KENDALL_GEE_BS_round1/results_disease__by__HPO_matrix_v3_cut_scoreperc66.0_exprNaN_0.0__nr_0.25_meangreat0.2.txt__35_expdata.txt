@@ -1,0 +1,9 @@
+	"cataract 35"	"cataract 18"	"Leber Congenital Amaurosis 6"	"Leber Congenital Amaurosis 7"	"Leber Congenital Amaurosis 8"	"cataract 36"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Photophobia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Visual impairment"	0.0	0.0	0.0	1.0	1.0	0.0
+"Cataract"	1.0	1.0	1.0	1.0	1.0	1.0
+"Keratoconus"	0.0	0.0	1.0	1.0	1.0	0.0
+"Undetectable electroretinogram"	0.0	0.0	1.0	1.0	1.0	0.0
+"Pendular nystagmus"	0.0	0.0	1.0	1.0	1.0	0.0
+"High-grade hypermetropia"	0.0	0.0	1.0	0.0	1.0	0.0

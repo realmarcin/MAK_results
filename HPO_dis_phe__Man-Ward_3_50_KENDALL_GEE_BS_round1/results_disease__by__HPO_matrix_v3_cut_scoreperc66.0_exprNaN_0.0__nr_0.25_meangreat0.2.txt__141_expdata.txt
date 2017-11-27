@@ -1,0 +1,9 @@
+	"Hepatic Adenomas, Familial"	"Maturity-onset diabetes of the young, type 3"	"Transient neonatal diabetes mellitus 2"	"Maturity-Onset Diabetes of the Young, Type 11"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"HP:0003593"	0.0	1.0	0.0	0.0
+"Obesity"	0.0	0.0	0.0	1.0
+"Maturity-onset diabetes of the young"	1.0	1.0	0.0	1.0
+"Polycystic ovaries"	1.0	0.0	0.0	0.0
+"Hepatocellular adenoma"	1.0	0.0	0.0	0.0
+"Hyperglycemia"	0.0	1.0	0.0	0.0
+"Overweight"	0.0	0.0	0.0	1.0

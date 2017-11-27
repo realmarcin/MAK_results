@@ -1,0 +1,8 @@
+	"Deafness, Unilateral"	"Intussusception"	"Polyposis, Gastric"	"Polyposis of Gastric Fundus Without Polyposis Coli"	"Polyps, Multiple and Recurrent Inflammatory Fibroid, Gastrointestinal"	"Deafness, Unilateral, With Delayed Endolymphatic Hydrops"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Edema"	0.0	0.0	0.0	0.0	0.0	1.0
+"Intussusception"	0.0	1.0	0.0	0.0	1.0	0.0
+"Unilateral deafness"	1.0	0.0	0.0	0.0	0.0	1.0
+"Intestinal polyposis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Multiple gastric polyps"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the gastric mucosa"	0.0	0.0	0.0	1.0	0.0	0.0

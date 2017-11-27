@@ -1,0 +1,22 @@
+	"acromelic frontonasal dysostosis"	"Congenital Disorder of Glycosylation, Type Iq"	"Lamb-Shaffer Syndrome"	"Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies"
+"Hypertelorism"	1.0	1.0	0.0	0.0
+"Syndactyly"	1.0	0.0	0.0	0.0
+"Polymicrogyria"	0.0	1.0	0.0	0.0
+"Upper airway obstruction"	1.0	0.0	0.0	0.0
+"Broad nasal tip"	1.0	0.0	0.0	0.0
+"Hyperkeratosis"	0.0	1.0	0.0	0.0
+"Eczema"	0.0	1.0	0.0	0.0
+"Abnormality of skin pigmentation"	0.0	1.0	0.0	0.0
+"Large sella turcica"	1.0	0.0	0.0	0.0
+"Visual loss"	0.0	1.0	0.0	0.0
+"Bifid nose"	1.0	0.0	0.0	0.0
+"Ichthyosis"	0.0	1.0	0.0	0.0
+"Elevated hepatic transaminases"	0.0	1.0	0.0	0.0
+"Thick nail"	1.0	0.0	0.0	0.0
+"Hypertrichosis"	0.0	1.0	0.0	0.0
+"Reduced antithrombin III activity"	0.0	1.0	0.0	0.0
+"Type I transferrin isoform profile"	0.0	1.0	0.0	0.0
+"Choroid plexus cyst"	1.0	0.0	0.0	0.0
+"Retrocerebellar cyst"	1.0	0.0	0.0	0.0
+"Vertical clivus"	1.0	0.0	0.0	0.0
+"Hypopituitarism"	1.0	0.0	0.0	0.0

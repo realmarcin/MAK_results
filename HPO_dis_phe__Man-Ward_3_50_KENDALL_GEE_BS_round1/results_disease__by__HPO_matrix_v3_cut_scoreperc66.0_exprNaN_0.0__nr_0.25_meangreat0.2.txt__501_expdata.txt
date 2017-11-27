@@ -1,0 +1,18 @@
+	"Kapur-Toriello syndrome"	"Neu-Laxova syndrome 1"	"NEK9-related lethal skeletal dysplasia"	"Orphanet:2671"	"Orphanet:3103"	"Orphanet:3378"
+"Micrognathia"	0.0	1.0	1.0	1.0	1.0	0.0
+"Preauricular skin tag"	1.0	0.0	0.0	0.0	0.0	1.0
+"Constipation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Intellectual disability, severe"	1.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the urinary system"	1.0	0.0	0.0	0.0	0.0	0.0
+"Polymicrogyria"	1.0	0.0	0.0	1.0	0.0	0.0
+"Conductive hearing impairment"	1.0	0.0	0.0	0.0	0.0	0.0
+"Short thumb"	1.0	0.0	0.0	0.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	0.0	0.0	0.0
+"Clinodactyly of the 5th toe"	1.0	0.0	0.0	0.0	0.0	0.0
+"Joint contracture of the hand"	1.0	1.0	0.0	0.0	0.0	0.0
+"Bilateral single transverse palmar creases"	1.0	0.0	0.0	0.0	1.0	1.0
+"Low posterior hairline"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplastic labia majora"	1.0	0.0	0.0	0.0	0.0	0.0
+"Low hanging columella"	1.0	0.0	0.0	0.0	0.0	0.0
+"Iridoretinal coloboma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Overlapping fingers"	1.0	0.0	1.0	0.0	0.0	0.0

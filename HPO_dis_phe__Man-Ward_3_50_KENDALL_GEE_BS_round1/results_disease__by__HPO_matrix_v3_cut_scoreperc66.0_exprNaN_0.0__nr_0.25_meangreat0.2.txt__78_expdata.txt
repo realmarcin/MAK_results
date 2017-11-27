@@ -1,0 +1,5 @@
+	"Oromandibular-limb hypogenesis spectrum"	"Chondrodysplasia, Grebe Type"	"Fraser syndrome"	"Fuhrmann syndrome"	"autosomal recessive Robinow syndrome"	"Phocomelia, Schinzel type"	"Split-hand/foot malformation 4"	"Chondrodysplasia acromesomelic with genital anomalies"	"Orphanet:1112"	"Orphanet:2098"	"Orphanet:570"
+"Aplasia/Hypoplasia involving the metacarpal bones"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Aplasia/Hypoplasia of metatarsal bones"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the phalanges of the hand"	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the phalanges of the toes"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0

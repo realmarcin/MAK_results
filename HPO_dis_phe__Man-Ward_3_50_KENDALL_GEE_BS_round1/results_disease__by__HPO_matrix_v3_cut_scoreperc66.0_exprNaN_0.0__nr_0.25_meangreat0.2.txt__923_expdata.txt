@@ -1,0 +1,9 @@
+	"Frasier syndrome"	"Denys-Drash syndrome"	"Juvenile nephropathic cystinosis"	"Polycystic Kidney Disease 2"	"Cfhr5 Deficiency"
+"Growth abnormality"	0.0	0.0	1.0	0.0	0.0
+"HP:0003621"	0.0	0.0	1.0	0.0	0.0
+"Proteinuria"	0.0	0.0	1.0	0.0	0.0
+"Rickets"	0.0	0.0	1.0	0.0	0.0
+"Retinopathy"	0.0	0.0	1.0	0.0	0.0
+"Retinal pigment epithelial mottling"	0.0	0.0	1.0	0.0	0.0
+"Corneal crystals"	0.0	0.0	1.0	0.0	0.0
+"Elevated intracellular cystine"	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"Waardenburg Syndrome, Type 1"	"Waardenburg Syndrome, Type 2A"	"Waardenburg Syndrome, Type 4A"	"Waardenburg Syndrome, Type 4B"	"Waardenburg Syndrome, Type 4C"	"Orphanet:894"
+"White eyebrow"	1.0	1.0	1.0	1.0	1.0	1.0
+"White eyelashes"	1.0	1.0	1.0	1.0	1.0	1.0
+"Premature graying of hair"	1.0	1.0	1.0	1.0	1.0	1.0
+"White forelock"	1.0	1.0	1.0	1.0	1.0	1.0
+"Heterochromia iridis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Absent brainstem auditory responses"	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysmyelinating leukodystrophy"	0.0	0.0	0.0	0.0	0.0	0.0
+"Long-segment aganglionic megacolon"	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the semicircular canal"	0.0	0.0	0.0	0.0	0.0	0.0
+"Dilated vestibule of the inner ear"	0.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia of the semicircular canal"	0.0	0.0	0.0	0.0	0.0	0.0

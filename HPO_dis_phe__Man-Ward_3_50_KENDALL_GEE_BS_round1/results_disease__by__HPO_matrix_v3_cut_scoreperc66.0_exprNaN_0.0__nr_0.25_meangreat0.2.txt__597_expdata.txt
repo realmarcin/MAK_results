@@ -1,0 +1,9 @@
+	"Orphanet:1451"	"Orphanet:3099"	"Orphanet:3287"	"Orphanet:33226"
+"Fasciculations"	0.0	1.0	0.0	0.0
+"Abdominal pain"	0.0	1.0	0.0	0.0
+"Chorea"	0.0	1.0	0.0	0.0
+"Dyslexia"	0.0	1.0	0.0	0.0
+"Dysgraphia"	0.0	1.0	0.0	0.0
+"Abnormality of the mitral valve"	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the abdominal wall musculature"	0.0	1.0	0.0	0.0
+"Hemiballismus"	0.0	1.0	0.0	0.0

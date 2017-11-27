@@ -1,0 +1,8 @@
+"x"
+"1" "Ceroid.Lipofuscinosis..Neurona"
+"2" "Orphanet.1947"
+"3" "Hemangiomatosis..Cutaneous..Wi"
+"4" "Hydrocephalus..Tall.Stature..J"
+"5" "Anophthalmia.plus.syndrome"
+"6" "Facial.dysmorphism..lens.dislo"
+"7" "Retinal.dystrophy..juvenile.ca"

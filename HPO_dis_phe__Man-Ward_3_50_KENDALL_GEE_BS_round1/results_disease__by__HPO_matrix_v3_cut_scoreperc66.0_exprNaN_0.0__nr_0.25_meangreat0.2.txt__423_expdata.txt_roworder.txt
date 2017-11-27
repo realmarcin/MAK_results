@@ -1,0 +1,8 @@
+"x"
+"1" "Tubulointerstitial.nephritis.a"
+"2" "Autoimmune.polyendocrinopathy."
+"3" "Autoimmune.polyendocrinopathy."
+"4" "Gastric.Cancer..Hereditary.Dif"
+"5" "Polyglandular.autoimmune.syndr"
+"6" "Cap.polyposis"
+"7" "Autoimmune.hypoparathyroidism"

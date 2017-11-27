@@ -1,0 +1,6 @@
+"x"
+"1" "Gait disturbance"
+"2" "Hypertrophic cardiomyopathy"
+"3" "Dilated cardiomyopathy"
+"4" "Cardiorespiratory arrest"
+"5" "Muscle flaccidity"

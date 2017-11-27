@@ -1,0 +1,5 @@
+"x"
+"1" "MRXS12"
+"2" "Mental.retardation..autosomal."
+"3" "Spondyloepiphyseal.Dysplasia.T"
+"4" "Mental.Retardation..Autosomal."

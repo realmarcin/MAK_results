@@ -1,0 +1,7 @@
+"x"
+"1" "OMIM.141900"
+"2" "Sickle.Cell.Anemia"
+"3" "Heinz.Body.Anemias"
+"4" "Hemolytic.Poikilocytic.Anemia."
+"5" "OMIM.141800"
+"6" "Priapism..Familial.Idiopathic"

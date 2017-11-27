@@ -1,0 +1,8 @@
+	"Deficiency of steroid 11-beta-monooxygenase"	"Apparent Mineralocorticoid Excess"	"Orphanet:189439"	"Severe early-onset obesity-insulin resistance syndrome due to SH2B1 deficiency"	"Pseudohypoaldosteronism type 2"	"Orphanet:90044"
+"Short stature"	1.0	1.0	1.0	1.0	1.0	0.0
+"Hypertension"	1.0	1.0	1.0	0.0	1.0	1.0
+"Abnormality of dental enamel"	0.0	0.0	0.0	0.0	1.0	0.0
+"Muscle weakness"	0.0	0.0	1.0	0.0	1.0	0.0
+"Hyperkalemia"	0.0	0.0	0.0	0.0	1.0	1.0
+"Periodic paralysis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Nausea and vomiting"	0.0	0.0	0.0	0.0	1.0	0.0

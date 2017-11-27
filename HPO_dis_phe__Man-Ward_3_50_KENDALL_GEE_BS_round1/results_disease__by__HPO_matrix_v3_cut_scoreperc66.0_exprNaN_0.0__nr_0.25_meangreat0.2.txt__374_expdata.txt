@@ -1,0 +1,13 @@
+	"Adenylosuccinase Deficiency"	"Bifunctional peroxisomal enzyme deficiency"	"Bone fragility with contractures, arterial rupture, and deafness"	"Primary microcephaly-epilepsy-permanent neonatal diabetes syndrome"	"Immunodeficiency 26 With or Without Neurologic Abnormalities"	"Tetrasomy 5p"
+"Hypogonadism"	0.0	0.0	0.0	1.0	0.0	0.0
+"Neonatal hypotonia"	0.0	1.0	0.0	1.0	0.0	1.0
+"Recurrent respiratory infections"	0.0	0.0	0.0	1.0	0.0	1.0
+"Anteverted nares"	1.0	0.0	1.0	1.0	0.0	1.0
+"Jaundice"	0.0	0.0	0.0	1.0	0.0	0.0
+"Pathologic fracture"	0.0	0.0	1.0	1.0	0.0	0.0
+"Brisk reflexes"	1.0	0.0	0.0	1.0	0.0	0.0
+"Elevated hepatic transaminases"	0.0	1.0	0.0	1.0	0.0	0.0
+"Scrotal hypoplasia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Cortical gyral simplification"	0.0	0.0	0.0	1.0	1.0	0.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	1.0	0.0	0.0
+"Microalbuminuria"	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Parietal.Foramina"
+"2" "Parietal.Foramina.2"
+"3" "PFM3"
+"4" "Osteopetrosis..Autosomal.Domin"
+"5" "Congenital.stationary.night.bl"
+"6" "Infantile.nystagmus..X.linked"
+"7" "Hyperinsulinemic.Hypoglycemia."

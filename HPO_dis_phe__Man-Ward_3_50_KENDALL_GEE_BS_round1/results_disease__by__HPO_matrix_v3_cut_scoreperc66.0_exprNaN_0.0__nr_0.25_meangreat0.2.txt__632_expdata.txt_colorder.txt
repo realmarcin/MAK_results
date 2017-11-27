@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Thoracic platyspondyly"
+"3" "Distal tapering femur"
+"4" "Multinucleated giant chondrocytes in epiphyseal cartilage"

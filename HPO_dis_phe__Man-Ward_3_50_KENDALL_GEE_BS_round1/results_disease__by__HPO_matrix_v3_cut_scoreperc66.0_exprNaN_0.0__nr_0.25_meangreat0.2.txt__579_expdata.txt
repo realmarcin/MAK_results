@@ -1,0 +1,14 @@
+	"MRXS12"	"Goldberg-Shprintzen Syndrome"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"
+"Bulbous nose"	0.0	1.0	0.0	0.0
+"Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
+"Clinodactyly"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Pachygyria"	0.0	1.0	0.0	0.0
+"Polymicrogyria"	0.0	1.0	0.0	0.0
+"Wide intermamillary distance"	0.0	1.0	0.0	0.0
+"Corneal erosion"	0.0	1.0	0.0	0.0
+"Blue sclerae"	0.0	1.0	0.0	0.0
+"Aganglionic megacolon"	0.0	1.0	0.0	0.0
+"Corneal ulceration"	0.0	1.0	0.0	0.0
+"Hypoplasia of the brainstem"	0.0	1.0	0.0	0.0
+"Megalocornea"	0.0	1.0	0.0	0.0

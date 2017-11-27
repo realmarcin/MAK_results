@@ -1,0 +1,5 @@
+"x"
+"1" "X49.XXXXY.syndrome"
+"2" "X48.XXXY.syndrome"
+"3" "Orphanet.10"
+"4" "Kleefstra.syndrome.due.to.9q34"

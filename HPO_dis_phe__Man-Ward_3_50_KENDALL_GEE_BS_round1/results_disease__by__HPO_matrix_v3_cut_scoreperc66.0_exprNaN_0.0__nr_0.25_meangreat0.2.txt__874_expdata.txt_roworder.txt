@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.99812"
+"2" "DECIPHER.21"
+"3" "Hypertelorism..Microtia..Facia"
+"4" "Ring.chromosome.1"
+"5" "Orphanet.999"

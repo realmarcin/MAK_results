@@ -1,0 +1,5 @@
+"x"
+"1" "Spermatogenic.failure.16"
+"2" "Spermatogenic.Failure.6"
+"3" "SPGF1"
+"4" "Spermatogenic.Failure.9"

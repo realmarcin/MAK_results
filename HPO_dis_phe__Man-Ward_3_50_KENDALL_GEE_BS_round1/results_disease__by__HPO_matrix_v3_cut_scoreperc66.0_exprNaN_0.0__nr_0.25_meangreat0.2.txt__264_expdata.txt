@@ -1,0 +1,9 @@
+	"neuronal ceroid lipofuscinosis 4B"	"DYTCA"	"DYT17"	"Epileptic Encephalopathy, Early Infantile, 32"
+"Dysphagia"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	0.0
+"Brisk reflexes"	0.0	1.0	0.0	0.0
+"Progressive cerebellar ataxia"	0.0	1.0	0.0	0.0
+"Gaze-evoked horizontal nystagmus"	0.0	1.0	0.0	0.0
+"Torticollis"	0.0	1.0	1.0	0.0
+"Dysphonia"	0.0	1.0	1.0	0.0
+"Craniofacial dystonia"	0.0	1.0	0.0	0.0

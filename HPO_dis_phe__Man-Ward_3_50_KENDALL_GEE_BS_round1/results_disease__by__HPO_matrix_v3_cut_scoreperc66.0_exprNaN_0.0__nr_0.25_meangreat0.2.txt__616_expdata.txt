@@ -1,0 +1,28 @@
+	"Developmental malformations-deafness-dystonia syndrome"	"Peroxisome Biogenesis Disorder 14B"	"Orphanet:2959"	"Orphanet:633"
+"Decrease in T cell count"	0.0	0.0	1.0	0.0
+"Short stature"	0.0	0.0	1.0	0.0
+"Gastroesophageal reflux"	0.0	0.0	1.0	0.0
+"Bifid uvula"	0.0	0.0	1.0	0.0
+"Dental malocclusion"	0.0	0.0	1.0	0.0
+"Paresthesia"	0.0	0.0	1.0	0.0
+"Insomnia"	0.0	0.0	1.0	0.0
+"Selective tooth agenesis"	0.0	0.0	1.0	0.0
+"Short distal phalanx of finger"	0.0	0.0	1.0	0.0
+"Progressive visual loss"	0.0	0.0	1.0	0.0
+"Band keratopathy"	0.0	0.0	1.0	0.0
+"Progressive sensorineural hearing impairment"	0.0	0.0	1.0	0.0
+"Microcytic anemia"	0.0	0.0	1.0	0.0
+"Neoplasm of the pancreas"	0.0	0.0	1.0	0.0
+"Insulin-resistant diabetes mellitus"	0.0	0.0	1.0	0.0
+"Hepatic steatosis"	0.0	0.0	1.0	0.0
+"Fragile teeth"	0.0	0.0	1.0	0.0
+"Generalized osteoporosis"	0.0	0.0	1.0	0.0
+"Multiple joint contractures"	0.0	0.0	1.0	0.0
+"Episodic vomiting"	0.0	0.0	1.0	0.0
+"Bird-like facies"	0.0	0.0	1.0	0.0
+"Decreased serum estradiol"	0.0	0.0	1.0	0.0
+"Hyperpigmented nevi"	0.0	0.0	1.0	0.0
+"Supraventricular arrhythmia"	0.0	0.0	1.0	0.0
+"Abnormality of thalamus morphology"	0.0	0.0	1.0	0.0
+"Central sleep apnea"	0.0	0.0	1.0	0.0
+"Abnormal muscle tone"	0.0	0.0	1.0	0.0

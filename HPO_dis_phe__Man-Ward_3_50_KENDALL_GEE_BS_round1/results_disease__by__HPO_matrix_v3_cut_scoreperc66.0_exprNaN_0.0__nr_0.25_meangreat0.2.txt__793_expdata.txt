@@ -1,0 +1,12 @@
+	"MCHCCD"	"Microcephaly, progressive, with seizures and cerebral and cerebellar atrophy"	"Primary autosomal recessive microcephaly 13"	"Primary autosomal recessive microcephaly 15"	"Polymicrogyria, Perisylvian, With Cerebellar Hypoplasia and Arthrogryposis"	"Microcephaly 16, primary, autosomal recessive"
+"Absent speech"	1.0	0.0	0.0	1.0	0.0	0.0
+"Intellectual disability, severe"	0.0	0.0	0.0	1.0	0.0	0.0
+"Talipes equinovarus"	0.0	0.0	0.0	1.0	1.0	0.0
+"Dolichocephaly"	0.0	0.0	0.0	0.0	1.0	0.0
+"Upslanted palpebral fissure"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0003577"	0.0	0.0	0.0	1.0	1.0	0.0
+"Spastic tetraparesis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Spastic gait"	0.0	0.0	0.0	1.0	0.0	0.0
+"Cerebellar dysplasia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Overlapping fingers"	0.0	0.0	0.0	0.0	1.0	0.0
+"Externally rotated hips"	0.0	0.0	0.0	0.0	1.0	0.0

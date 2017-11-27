@@ -1,0 +1,8 @@
+	"Multicentric carpo-tarsal osteolysis with or without nephropathy"	"Multicentric Osteolysis, Nodulosis, and Arthropathy"	"Osteolysis Syndrome, Recessive"	"oculocerebrorenal syndrome"	"Osteogenesis Imperfecta, Type 17"	"Orphanet:2774"
+"Wrist swelling"	1.0	0.0	0.0	1.0	0.0	1.0
+"Metatarsal osteolysis"	1.0	1.0	0.0	0.0	0.0	0.0
+"Carpal osteolysis"	1.0	1.0	0.0	0.0	0.0	1.0
+"Metacarpal osteolysis"	1.0	1.0	1.0	0.0	0.0	1.0
+"Osteolysis involving tarsal bones"	1.0	1.0	0.0	0.0	0.0	0.0
+"Interphalangeal joint contracture of finger"	0.0	1.0	0.0	0.0	0.0	0.0
+"Thin metacarpal cortices"	0.0	1.0	0.0	0.0	1.0	0.0

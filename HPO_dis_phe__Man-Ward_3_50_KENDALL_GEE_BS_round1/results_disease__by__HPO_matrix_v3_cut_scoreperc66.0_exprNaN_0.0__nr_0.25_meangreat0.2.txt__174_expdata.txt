@@ -1,0 +1,21 @@
+	"Mccune-Albright Syndrome"	"Orphanet:1332"	"Thyroid Gland Undifferentiated (Anaplastic) Carcinoma"	"Orphanet:97285"
+"Dysphagia"	0.0	1.0	1.0	1.0
+"Hoarse voice"	0.0	0.0	1.0	1.0
+"Upper airway obstruction"	0.0	0.0	1.0	1.0
+"Hypothyroidism"	0.0	0.0	0.0	1.0
+"Lymphoma"	0.0	0.0	0.0	1.0
+"Goiter"	0.0	0.0	0.0	1.0
+"Respiratory distress"	0.0	0.0	1.0	1.0
+"Pain"	0.0	0.0	1.0	1.0
+"Hemoptysis"	0.0	0.0	1.0	0.0
+"Laryngotracheal stenosis"	0.0	0.0	1.0	0.0
+"Hashimoto thyroiditis"	0.0	0.0	0.0	1.0
+"Tracheoesophageal fistula"	0.0	0.0	1.0	0.0
+"Hyperthyroidism"	1.0	0.0	0.0	1.0
+"Vocal cord paralysis"	0.0	0.0	1.0	0.0
+"Stridor"	0.0	0.0	1.0	1.0
+"Cough"	0.0	0.0	1.0	0.0
+"Lymphadenopathy"	0.0	1.0	1.0	1.0
+"Broad neck"	0.0	0.0	1.0	1.0
+"Anaplastic thyroid carcinoma"	0.0	0.0	1.0	0.0
+"Abnormality of muscle morphology"	0.0	0.0	1.0	0.0

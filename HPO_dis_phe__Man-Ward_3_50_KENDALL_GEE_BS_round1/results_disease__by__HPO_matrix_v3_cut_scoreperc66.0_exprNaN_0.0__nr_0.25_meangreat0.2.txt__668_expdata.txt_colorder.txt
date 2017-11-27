@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Hamstring contractures"
+"3" "Plantar flexion contractures"
+"4" "Adductor longus contractures"

@@ -1,0 +1,7 @@
+	"Arnold-Chiari malformation type I"	"Syringomyelia, Isolated"	"Friedreich Ataxia 1"	"Marinesco-SjC6gren syndrome"	"Cerebellar ataxia infantile with progressive external ophthalmoplegia"	"Spinocerebellar Ataxia 13"	"ataxia with oculomotor apraxia type 2"	"Spinocerebellar Ataxia 20"	"Childhood-onset autosomal recessive slowly progressive spinocerebellar ataxia"	"Spinocerebellar ataxia, autosomal recessive 12"	"CANVAS"	"Leukoencephalopathy with ataxia"	"spinocerebellar ataxia type 38"	"Spinocerebellar ataxia 43"	"Spinocerebellar Ataxia, Autosomal Recessive 24"	"Orphanet:268882"
+"Gait ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Arnold-Chiari type I malformation"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Limb ataxia"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Lower limb hyperreflexia"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Areflexia of upper limbs"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Neck pain"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

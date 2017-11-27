@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.97279"
+"2" "Mercury.poisoning"
+"3" "Spontaneous.periodic.hypotherm"
+"4" "Orphanet.1014"
+"5" "Orphanet.293964"

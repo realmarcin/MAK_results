@@ -1,0 +1,6 @@
+"x"
+"1" "Bilateral sensorineural hearing impairment"
+"2" "Progressive sensorineural hearing impairment"
+"3" "Concave nasal ridge"
+"4" "Prelingual sensorineural hearing impairment"
+"5" "Low-frequency hearing loss"

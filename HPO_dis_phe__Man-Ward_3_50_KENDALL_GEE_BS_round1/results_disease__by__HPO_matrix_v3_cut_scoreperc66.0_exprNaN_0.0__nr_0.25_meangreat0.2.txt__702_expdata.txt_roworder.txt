@@ -1,0 +1,7 @@
+"x"
+"1" "Pituitary.hormone.deficiency.."
+"2" "Proopiomelanocortin.Deficiency"
+"3" "Short.stature.pituitary.and.ce"
+"4" "Myopathy..Centronuclear..1"
+"5" "Orphanet.3087"
+"6" "Orphanet.3216"

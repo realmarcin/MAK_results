@@ -1,0 +1,5 @@
+	"gastric mucosal hypertrophy"	"Alpha-Methylacetoacetic Aciduria"	"Succinyl-CoA:3-ketoacid CoA transferase deficiency"	"Pancreatic Insufficiency, Combined Exocrine"	"Medium Chain 3-Ketoacyl-Coa Thiolase Deficiency"	"EOE1"	"EOE2"	"Orphanet:83620"
+"Failure to thrive"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Dysphagia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Esophagitis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Epigastric pain"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0

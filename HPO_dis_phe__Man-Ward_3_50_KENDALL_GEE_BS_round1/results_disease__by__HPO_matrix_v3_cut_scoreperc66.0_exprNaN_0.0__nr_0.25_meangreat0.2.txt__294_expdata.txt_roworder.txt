@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.1008"
+"2" "Alopecia.epilepsy.pyorrhea.int"
+"3" "Orphanet.1014"
+"4" "Orphanet.293964"

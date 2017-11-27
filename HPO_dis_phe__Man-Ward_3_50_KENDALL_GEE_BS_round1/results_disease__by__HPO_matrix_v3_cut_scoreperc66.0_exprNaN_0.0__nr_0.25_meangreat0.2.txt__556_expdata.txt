@@ -1,0 +1,11 @@
+	"Macrocephaly"	"MRXS12"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"
+"Pointed chin"	1.0	0.0	0.0	0.0
+"Depressivity"	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	0.0	0.0
+"Megalencephaly"	1.0	0.0	0.0	0.0
+"Broad forehead"	1.0	0.0	0.0	0.0
+"Astigmatism"	1.0	0.0	0.0	0.0
+"Abnormality of the musculature"	1.0	0.0	0.0	0.0
+"Patellar subluxation"	1.0	0.0	0.0	0.0
+"Scaphocephaly"	1.0	0.0	0.0	0.0
+"Adrenal medullary hypoplasia"	1.0	0.0	0.0	0.0

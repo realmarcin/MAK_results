@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Impaired gluconeogenesis"
+"3" "Reduced muscle carnitine level"
+"4" "Decreased carnitine level in liver"

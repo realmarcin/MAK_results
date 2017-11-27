@@ -1,0 +1,8 @@
+	"Coxoauricular syndrome"	"Mesomelic Dysplasia, Savarirayan Type"	"Orphanet:1318"	"Orphanet:1508"	"Orphanet:85170"
+"Short stature"	1.0	1.0	0.0	1.0	1.0
+"Microtia"	1.0	0.0	0.0	1.0	0.0
+"Atresia of the external auditory canal"	0.0	0.0	0.0	1.0	0.0
+"Hip dislocation"	1.0	1.0	0.0	1.0	1.0
+"Micromelia"	0.0	0.0	1.0	1.0	0.0
+"Reduced bone mineral density"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of femur morphology"	0.0	0.0	0.0	1.0	0.0

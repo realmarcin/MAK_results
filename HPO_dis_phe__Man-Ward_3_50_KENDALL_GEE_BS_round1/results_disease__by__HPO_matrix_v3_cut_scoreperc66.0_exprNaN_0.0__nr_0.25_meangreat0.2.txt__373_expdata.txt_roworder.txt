@@ -1,0 +1,5 @@
+"x"
+"1" "Methionine.Malabsorption.Syndr"
+"2" "Glutamate.Formiminotransferase"
+"3" "Orphanet.1361"
+"4" "Orphanet.79156"

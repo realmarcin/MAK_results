@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0001952"
+"2" "Hypertriglyceridemia"
+"3" "Increased circulating very-low-density lipoprotein levels"
+"4" "Atheroeruptive xanthoma"
+"5" "Precocious atherosclerosis"
+"6" "HP:0001425"

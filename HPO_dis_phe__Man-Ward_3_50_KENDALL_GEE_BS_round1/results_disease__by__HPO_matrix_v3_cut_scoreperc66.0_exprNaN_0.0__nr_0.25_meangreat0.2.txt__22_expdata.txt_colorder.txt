@@ -1,0 +1,6 @@
+"x"
+"1" "Hypermelanotic macule"
+"2" "Acrokeratosis"
+"3" "Abnormality of the mouth"
+"4" "Plantar pits"
+"5" "Subungual hyperkeratotic fragments"

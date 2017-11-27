@@ -1,0 +1,16 @@
+	"Primary autosomal recessive microcephaly 2"	"Polymicrogyria due to TUBB2B mutation"	"Cortical dysplasia, complex, with other brain malformations 5"	"Lissencephaly 6, with microcephaly"
+"Seizures"	1.0	1.0	1.0	1.0
+"Delayed speech and language development"	1.0	0.0	0.0	0.0
+"Hyperactivity"	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	0.0	1.0
+"Aggressive behavior"	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	1.0
+"Hemiparesis"	1.0	1.0	0.0	0.0
+"Hyperreflexia"	1.0	0.0	0.0	1.0
+"Partial agenesis of the corpus callosum"	0.0	0.0	0.0	1.0
+"Sloping forehead"	1.0	0.0	0.0	1.0
+"Cortical gyral simplification"	1.0	0.0	1.0	1.0
+"Decreased fetal movement"	1.0	0.0	0.0	0.0
+"Schizencephaly"	1.0	0.0	0.0	0.0
+"Impulsivity"	1.0	0.0	0.0	0.0
+"Limb hypertonia"	0.0	0.0	0.0	1.0

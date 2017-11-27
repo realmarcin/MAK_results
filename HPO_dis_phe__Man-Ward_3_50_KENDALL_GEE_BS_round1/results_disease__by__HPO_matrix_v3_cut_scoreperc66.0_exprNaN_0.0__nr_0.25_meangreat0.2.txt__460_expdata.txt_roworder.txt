@@ -1,0 +1,8 @@
+"x"
+"1" "Familial.platelet.disorder.wit"
+"2" "Platelet.Disorder..Undefined"
+"3" "Storage.Pool.Platelet.Disease"
+"4" "platelet.type.bleeding.disorde"
+"5" "BDPLT12"
+"6" "Thrombocytopenia.With.Elevated"
+"7" "Von.Willebrand.Disease..X.Link"

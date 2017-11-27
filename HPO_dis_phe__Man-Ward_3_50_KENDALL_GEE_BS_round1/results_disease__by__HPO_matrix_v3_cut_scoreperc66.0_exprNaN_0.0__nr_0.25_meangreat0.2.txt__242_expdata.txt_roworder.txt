@@ -1,0 +1,6 @@
+"x"
+"1" "Lethal.Congenital.Contracture."
+"2" "Lethal.Congenital.Contracture."
+"3" "Epileptic.Encephalopathy..Earl"
+"4" "Berry.Aneurysm..Cirrhosis..Pul"
+"5" "Perrault.Syndrome.3"

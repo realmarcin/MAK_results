@@ -1,0 +1,12 @@
+	"Pseudohypoparathyroidism, Type 1A"	"Melanocytic Nevus Syndrome, Congenital"	"Molybdenum Cofactor Deficiency, Complementation Group a"	"3-Methylglutaconic aciduria type 2"	"Pseudohypoparathyroidism type 1C"	"Pseudopseudohypoparathyroidism"	"Chromosome 8Q21.11 Deletion Syndrome"	"6q16 deletion syndrome"	"Trisomy 20p"	"Orphanet:284160"	"Orphanet:79443"	"Orphanet:79444"	"Orphanet:94089"
+"Round face"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Full cheeks"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Spastic tetraparesis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Aldehyde oxidase deficiency"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased urinary sulfate"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Reduced xanthine dehydrogenase activity"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Absent urinary urothione"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Sulfite oxidase deficiency"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased urinary urate"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased urinary sulfite"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased urinary thiosulfate"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,22 @@
+	"Aarskog Syndrome, Autosomal Dominant"	"Prader-Willi syndrome"	"Omphalocele syndrome, Shprintzen-Goldberg type"	"Sener Syndrome"	"Orphanet:3164"
+"Hypertelorism"	1.0	0.0	0.0	1.0	0.0
+"Anal atresia"	1.0	0.0	1.0	0.0	1.0
+"Lumbar hyperlordosis"	0.0	0.0	1.0	0.0	0.0
+"Eczema"	0.0	0.0	0.0	1.0	0.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0	0.0
+"Polyhydramnios"	0.0	0.0	0.0	1.0	0.0
+"Short columella"	0.0	0.0	1.0	0.0	1.0
+"Delayed eruption of permanent teeth"	0.0	0.0	0.0	1.0	0.0
+"Anteriorly placed anus"	0.0	0.0	0.0	1.0	0.0
+"Neonatal respiratory distress"	0.0	0.0	1.0	0.0	1.0
+"Chronic diarrhea"	0.0	0.0	0.0	1.0	1.0
+"Downturned corners of mouth"	0.0	1.0	0.0	0.0	1.0
+"Natal tooth"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the eyelashes"	0.0	0.0	0.0	0.0	1.0
+"Laryngeal hypoplasia"	0.0	0.0	1.0	0.0	1.0
+"Hypoplasia of the pharynx"	0.0	0.0	1.0	0.0	1.0
+"Flared nostrils"	0.0	0.0	1.0	0.0	0.0
+"Single umbilical artery"	0.0	0.0	1.0	0.0	0.0
+"Anteroposteriorly shortened larynx"	0.0	0.0	1.0	0.0	1.0
+"Entropion"	0.0	0.0	0.0	1.0	0.0
+"Perivascular spaces"	0.0	0.0	0.0	1.0	0.0

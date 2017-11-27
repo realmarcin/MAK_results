@@ -1,0 +1,11 @@
+	"Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, and Cerebral Calcification"	"Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy, and Cataracts"	"Perrault Syndrome 3"	"Peroxisome biogenesis disorder 11B"
+"Generalized hypotonia"	0.0	1.0	0.0	1.0
+"Cardiomyopathy"	0.0	1.0	0.0	0.0
+"Cataract"	0.0	1.0	0.0	1.0
+"Visual loss"	0.0	0.0	0.0	1.0
+"Progressive muscle weakness"	0.0	0.0	0.0	1.0
+"Corpus callosum atrophy"	0.0	1.0	0.0	0.0
+"Respiratory tract infection"	0.0	0.0	0.0	1.0
+"Congenital encephalopathy"	0.0	1.0	0.0	0.0
+"Necrotizing myopathy"	0.0	1.0	0.0	0.0
+"Central hypotonia"	0.0	0.0	0.0	1.0

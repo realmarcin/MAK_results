@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormal enzyme/coenzyme activity"
+"2" "Pancreatic calcification"
+"3" "Pancreatic pseudocyst"
+"4" "Chronic pancreatitis"
+"5" "Insulin-dependent but ketosis-resistant diabetes"
+"6" "Splanchnic vein thrombosis"

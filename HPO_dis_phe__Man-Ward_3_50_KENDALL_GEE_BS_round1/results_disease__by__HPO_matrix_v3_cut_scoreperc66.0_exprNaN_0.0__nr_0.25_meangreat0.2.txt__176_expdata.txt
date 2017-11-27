@@ -1,0 +1,16 @@
+	"Autosomal dominant multiple pterygium syndrome"	"Arthrogryposis, Distal, Type 5D"	"Congenital Contractures of the Limbs and Face, Hypotonia, and Developmental Delay"	"Orphanet:1147"	"Orphanet:75840"
+"Short stature"	1.0	1.0	0.0	1.0	0.0
+"Round face"	0.0	1.0	0.0	0.0	0.0
+"Craniosynostosis"	1.0	0.0	0.0	0.0	0.0
+"Generalized hypotonia"	0.0	0.0	1.0	0.0	1.0
+"Adducted thumb"	0.0	1.0	1.0	1.0	1.0
+"Calcaneovalgus deformity"	0.0	1.0	0.0	0.0	0.0
+"Elbow flexion contracture"	1.0	1.0	1.0	0.0	1.0
+"Hip contracture"	1.0	0.0	1.0	0.0	0.0
+"Knee flexion contracture"	1.0	0.0	1.0	0.0	1.0
+"Camptodactyly"	1.0	1.0	1.0	0.0	0.0
+"Vertebral fusion"	1.0	0.0	0.0	0.0	0.0
+"Hypoplastic labia majora"	0.0	1.0	0.0	0.0	0.0
+"Spondylolisthesis"	1.0	0.0	0.0	0.0	0.0
+"Furrowed tongue"	0.0	1.0	0.0	0.0	0.0
+"Multiple pterygia"	1.0	0.0	0.0	0.0	0.0

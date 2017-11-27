@@ -1,0 +1,7 @@
+"x"
+"1" "Dyskinesia..Limb.and.Orofacial"
+"2" "Parkinsonism.Dystonia..Infanti"
+"3" "Choreoacanthocytosis"
+"4" "PCNA.related.progressive.neuro"
+"5" "Dystonia..Childhood.Onset..wit"
+"6" "Orphanet.48818"

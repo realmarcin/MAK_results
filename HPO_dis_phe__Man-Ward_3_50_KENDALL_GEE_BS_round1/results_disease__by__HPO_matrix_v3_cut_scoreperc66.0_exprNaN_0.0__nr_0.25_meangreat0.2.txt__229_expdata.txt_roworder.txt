@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.2382"
+"2" "Pachygyria.With.Mental.Retarda"
+"3" "Hypotonia..Infantile..With.Psy"
+"4" "BPPX"
+"5" "OMIM.617350"

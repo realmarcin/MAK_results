@@ -1,0 +1,14 @@
+	"Orphanet:1188"	"Orphanet:2289"	"Orphanet:3006"	"Orphanet:3454"	"Orphanet:35069"	"Hereditary continuous muscle fiber activity"
+"Congenital diaphragmatic hernia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Dementia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ophthalmoplegia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ataxia"	1.0	1.0	0.0	0.0	0.0	1.0
+"Dysarthria"	0.0	1.0	0.0	0.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	1.0
+"Type 1 muscle fiber predominance"	0.0	0.0	0.0	0.0	0.0	1.0
+"Spina bifida occulta"	0.0	1.0	0.0	0.0	0.0	0.0
+"Slurred speech"	0.0	0.0	0.0	0.0	0.0	1.0
+"Spastic gait"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal form of the vertebral bodies"	0.0	1.0	0.0	0.0	0.0	0.0
+"EMG abnormality"	1.0	1.0	0.0	0.0	0.0	1.0
+"Abnormality of the pharynx"	0.0	1.0	0.0	0.0	0.0	0.0

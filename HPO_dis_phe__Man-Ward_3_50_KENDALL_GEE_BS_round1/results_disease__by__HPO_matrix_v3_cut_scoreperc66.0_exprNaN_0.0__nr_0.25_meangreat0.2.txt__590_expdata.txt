@@ -1,0 +1,8 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Congenital microcephaly-severe encephalopathy-progressive cerebral atrophy syndrome"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	0.0	1.0	0.0	0.0
+"Cortical dysplasia"	0.0	1.0	0.0	0.0
+"Large hands"	0.0	1.0	0.0	0.0
+"Long foot"	0.0	1.0	0.0	0.0
+"Exaggerated startle response"	0.0	1.0	0.0	0.0
+"Cortical gyral simplification"	0.0	1.0	0.0	0.0
+"Hypoplasia of the pons"	0.0	1.0	0.0	0.0

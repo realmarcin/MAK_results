@@ -1,0 +1,32 @@
+	"Leprechaunism syndrome"	"X-linked acrogigantism due to Xq26 microduplication"	"Orphanet:528"	"Orphanet:64"
+"Tall stature"	0.0	1.0	0.0	0.0
+"Deeply set eye"	0.0	0.0	0.0	1.0
+"Autism"	0.0	0.0	0.0	1.0
+"Round face"	0.0	0.0	0.0	1.0
+"Depressivity"	0.0	0.0	0.0	1.0
+"Vesicoureteral reflux"	0.0	0.0	0.0	1.0
+"Chronic otitis media"	0.0	0.0	0.0	1.0
+"Large hands"	1.0	1.0	1.0	0.0
+"Long foot"	1.0	1.0	0.0	0.0
+"Pituitary adenoma"	0.0	1.0	0.0	0.0
+"Splenomegaly"	0.0	0.0	0.0	1.0
+"Cataract"	0.0	0.0	0.0	1.0
+"Nephrocalcinosis"	0.0	0.0	0.0	1.0
+"Sleep apnea"	0.0	1.0	0.0	0.0
+"Snoring"	0.0	1.0	0.0	0.0
+"Progressive visual loss"	0.0	0.0	0.0	1.0
+"Pulmonary fibrosis"	0.0	0.0	0.0	1.0
+"Respiratory insufficiency"	0.0	0.0	0.0	1.0
+"Renovascular hypertension"	0.0	0.0	0.0	1.0
+"Obsessive-compulsive behavior"	0.0	0.0	0.0	1.0
+"Decreased testicular size"	0.0	0.0	0.0	1.0
+"Polyphagia"	0.0	1.0	0.0	0.0
+"Abnormality of female external genitalia"	0.0	0.0	0.0	1.0
+"Portal hypertension"	0.0	0.0	0.0	1.0
+"Male hypogonadism"	0.0	0.0	0.0	1.0
+"HP:0001423"	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the cerebellum"	0.0	0.0	0.0	1.0
+"HP:0000532"	0.0	0.0	0.0	1.0
+"Chronic hepatic failure"	0.0	0.0	0.0	1.0
+"Abnormality of the urethra"	0.0	0.0	0.0	1.0
+"Abnormality of adipose tissue"	0.0	0.0	0.0	1.0

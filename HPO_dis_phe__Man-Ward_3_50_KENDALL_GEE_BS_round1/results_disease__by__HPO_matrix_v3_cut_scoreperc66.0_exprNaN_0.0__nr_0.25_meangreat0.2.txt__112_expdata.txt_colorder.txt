@@ -1,0 +1,6 @@
+"x"
+"1" "Oroticaciduria"
+"2" "HP:0003623"
+"3" "Trichorrhexis nodosa"
+"4" "Cerebral edema"
+"5" "Dry hair"

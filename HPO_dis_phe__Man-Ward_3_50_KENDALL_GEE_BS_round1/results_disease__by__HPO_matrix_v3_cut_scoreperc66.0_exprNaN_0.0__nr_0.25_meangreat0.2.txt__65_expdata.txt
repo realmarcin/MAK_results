@@ -1,0 +1,7 @@
+	"Frontonasal Dysplasia 2"	"Orphanet:1827"	"Frontal encephalocele"	"Bifid nose"
+"Hypertelorism"	1.0	1.0	1.0	1.0
+"Encephalocele"	1.0	1.0	1.0	0.0
+"Broad nasal tip"	0.0	1.0	0.0	0.0
+"Bifid nose"	0.0	1.0	0.0	1.0
+"Meningocele"	0.0	1.0	0.0	0.0
+"Thick nasal alae"	0.0	1.0	0.0	0.0

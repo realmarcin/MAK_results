@@ -1,0 +1,25 @@
+	"Mental Retardation, X-Linked, With Craniofacial Dysmorphism"	"Meester-Loeys Syndrome"	"W syndrome"	"Orphanet:2256"	"Orphanet:2804"
+"Frontal bossing"	1.0	1.0	1.0	1.0	0.0
+"Pes cavus"	0.0	0.0	1.0	0.0	1.0
+"Radial bowing"	0.0	0.0	1.0	0.0	1.0
+"HP:0001417"	1.0	1.0	1.0	0.0	0.0
+"Pes planus"	0.0	1.0	1.0	0.0	1.0
+"Radial deviation of finger"	0.0	0.0	1.0	0.0	0.0
+"Clinodactyly"	0.0	0.0	1.0	0.0	1.0
+"Acne"	0.0	0.0	0.0	0.0	1.0
+"Generalized tonic-clonic seizures"	0.0	0.0	0.0	0.0	1.0
+"Cubitus valgus"	0.0	0.0	1.0	0.0	1.0
+"Spasticity"	0.0	0.0	1.0	0.0	1.0
+"Hypoplasia of the ulna"	0.0	0.0	1.0	1.0	1.0
+"Joint contracture of the hand"	0.0	0.0	1.0	0.0	0.0
+"Camptodactyly"	0.0	1.0	1.0	0.0	1.0
+"Elbow dislocation"	0.0	0.0	0.0	0.0	1.0
+"Metatarsus adductus"	0.0	0.0	1.0	0.0	1.0
+"Submucous cleft hard palate"	0.0	0.0	1.0	0.0	1.0
+"Alternating esotropia"	0.0	0.0	1.0	0.0	1.0
+"Frontal upsweep of hair"	0.0	0.0	1.0	0.0	0.0
+"Agenesis of central incisor"	0.0	0.0	1.0	0.0	0.0
+"Agenesis of maxillary central incisor"	0.0	0.0	1.0	0.0	1.0
+"Broad uvula"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of the scalp hair"	0.0	0.0	0.0	0.0	1.0
+"Upper lip pit"	0.0	0.0	0.0	0.0	1.0

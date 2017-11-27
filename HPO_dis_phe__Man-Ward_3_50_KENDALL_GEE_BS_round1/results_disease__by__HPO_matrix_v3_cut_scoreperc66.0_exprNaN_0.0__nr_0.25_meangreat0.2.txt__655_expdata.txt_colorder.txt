@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Absent proximal finger flexion creases"
+"3" "Prominent protruding coccyx"
+"4" "Anterior rounding of vertebral bodies"

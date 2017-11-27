@@ -1,0 +1,10 @@
+	"Galactorrhea"	"Genitourinary Tract Anomalies"	"Adenomyosis"	"Orphanet:2456"
+"Abnormality of the thorax"	1.0	0.0	0.0	0.0
+"HP:0001417"	0.0	1.0	0.0	0.0
+"HP:0000007"	1.0	0.0	0.0	0.0
+"Supernumerary nipple"	0.0	0.0	0.0	1.0
+"Galactorrhea"	1.0	0.0	0.0	0.0
+"Neonatal death"	0.0	1.0	0.0	0.0
+"Abnormal bleeding"	0.0	0.0	1.0	0.0
+"Abnormality of the genitourinary system"	1.0	1.0	1.0	1.0
+"Dysmenorrhea"	0.0	0.0	1.0	0.0

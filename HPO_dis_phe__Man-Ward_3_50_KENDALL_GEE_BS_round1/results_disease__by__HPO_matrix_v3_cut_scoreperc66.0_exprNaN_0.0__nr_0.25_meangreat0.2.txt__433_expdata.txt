@@ -1,0 +1,13 @@
+	"Myopathy, Centronuclear, 1"	"Hypogonadism-Cataract Syndrome"	"Retinohepatoendocrinologic Syndrome"	"Orphanet:3087"	"Orphanet:3216"
+"HP:0000007"	0.0	1.0	1.0	0.0	0.0
+"Infertility"	0.0	1.0	1.0	1.0	0.0
+"Abnormality of skin pigmentation"	0.0	0.0	1.0	0.0	0.0
+"Pallor"	0.0	0.0	1.0	0.0	0.0
+"Decreased liver function"	0.0	0.0	0.0	1.0	0.0
+"Maturity-onset diabetes of the young"	0.0	0.0	1.0	1.0	0.0
+"Dyschromatopsia"	0.0	0.0	0.0	1.0	0.0
+"Optic disc pallor"	0.0	0.0	1.0	1.0	0.0
+"Monochromacy"	0.0	0.0	1.0	0.0	0.0
+"Degenerative liver disease"	0.0	0.0	1.0	0.0	0.0
+"Progressive cone degeneration"	0.0	0.0	1.0	0.0	0.0
+"Recurrent spontaneous abortion"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of the mouth"
+"2" "HP:0000006"
+"3" "HP:0000007"
+"4" "Abnormality of the skeletal system"
+"5" "Hamartoma"

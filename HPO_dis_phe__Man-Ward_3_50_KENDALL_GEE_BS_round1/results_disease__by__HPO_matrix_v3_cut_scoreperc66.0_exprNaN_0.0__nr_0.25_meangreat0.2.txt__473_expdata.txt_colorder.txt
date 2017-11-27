@@ -1,0 +1,7 @@
+"x"
+"1" "Microcephaly"
+"2" "Delayed speech and language development"
+"3" "Carious teeth"
+"4" "Hypoplasia of dental enamel"
+"5" "Palmoplantar hyperkeratosis"
+"6" "Hypohidrosis"

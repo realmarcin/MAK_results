@@ -1,0 +1,12 @@
+	"campomelic dysplasia"	"Chondrodysplasia punctata, tibial-metacarpal type"	"Nager syndrome"	"Treacher Collins syndrome 1"	"Ectodermal Dysplasia, Sensorineural Hearing Loss, and Distinctive Facial Features"	"Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate"	"Diamond-Blackfan Anemia 10"	"Orphanet:140"	"Orphanet:1427"	"Orphanet:245"	"Orphanet:246"
+"Feeding difficulties in infancy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Micrognathia"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Strabismus"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Abnormality of the skin"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ventricular septal defect"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Depressed nasal ridge"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Kyphosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Hyperlordosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Joint stiffness"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the lacrimal duct"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the metaphysis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

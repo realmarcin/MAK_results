@@ -1,0 +1,10 @@
+	"Glutamate Formiminotransferase Deficiency"	"Methionine Malabsorption Syndrome"	"Orphanet:1361"	"Orphanet:79156"
+"HP:0000007"	1.0	1.0	0.0	0.0
+"Blue irides"	0.0	1.0	0.0	0.0
+"Diarrhea"	0.0	1.0	0.0	0.0
+"Growth delay"	1.0	0.0	0.0	0.0
+"Megaloblastic anemia"	1.0	0.0	0.0	0.0
+"Hypersegmentation of neutrophil nuclei"	1.0	0.0	0.0	0.0
+"Tachypnea"	0.0	1.0	0.0	0.0
+"White hair"	0.0	1.0	0.0	0.0
+"Positive ferric chloride test"	1.0	1.0	0.0	0.0

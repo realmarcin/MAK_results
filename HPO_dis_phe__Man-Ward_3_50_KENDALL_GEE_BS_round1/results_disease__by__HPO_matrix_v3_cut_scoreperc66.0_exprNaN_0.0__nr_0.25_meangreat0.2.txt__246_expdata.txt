@@ -1,0 +1,14 @@
+	"Schopf-Schulz-Passarge syndrome"	"Adult junctional epidermolysis bullosa"	"Dyskeratosis congenita, autosomal recessive, 3"	"Ectodermal Dysplasia/Short Stature Syndrome"	"Orphanet:50944"
+"HP:0000007"	1.0	1.0	1.0	1.0	0.0
+"Hypodontia"	1.0	1.0	0.0	1.0	1.0
+"Ridged nail"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0
+"Onycholysis"	1.0	0.0	0.0	0.0	0.0
+"Basal cell carcinoma"	1.0	0.0	0.0	0.0	1.0
+"Squamous cell carcinoma"	1.0	0.0	1.0	0.0	1.0
+"Premature loss of primary teeth"	0.0	0.0	0.0	0.0	1.0
+"Facial telangiectasia"	0.0	0.0	0.0	0.0	1.0
+"Bird-like facies"	1.0	0.0	0.0	0.0	1.0
+"Narrow nail"	1.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	0.0	0.0	0.0	1.0
+"Ovarian neoplasm"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "isolated.microphthalmia.5"
+"2" "Orphanet.827"
+"3" "Retinoschisis.of.Fovea"
+"4" "isolated.microphthalmia.6"
+"5" "Nanophthalmos.4"

@@ -1,0 +1,11 @@
+	"Mental Retardation, X-Linked 30"	"Autism, Susceptibility To, X-Linked 4"	"Cerebral Palsy, Spastic Quadriplegic, 1"	"Mental Retardation, Autosomal Recessive 44"	"Epileptic Encephalopathy, Early Infantile, 34; EIEE34"	"Cerebral Palsy, Spastic Quadriplegic, 3"
+"Global developmental delay"	0.0	0.0	1.0	1.0	1.0	1.0
+"Dysphagia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal pyramidal signs"	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0003828"	1.0	1.0	0.0	1.0	0.0	1.0
+"HP:0001425"	0.0	0.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	1.0	0.0	1.0
+"Supranuclear gaze palsy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Babinski sign"	0.0	0.0	1.0	0.0	0.0	0.0
+"Spastic diplegia"	0.0	0.0	1.0	0.0	0.0	1.0
+"Cerebral palsy"	0.0	0.0	1.0	0.0	0.0	0.0

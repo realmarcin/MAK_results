@@ -1,0 +1,8 @@
+	"Isolated cerebellar hypoplasia/agenesis"	"Cerebellar Hypoplasia With Endosteal Sclerosis"	"Anterior Segment Dysgenesis 5"	"Hemorrhagic destruction of the brain, subependymal calcification, and cataracts"	"Polyendocrine-polyneuropathy syndrome"
+"Intellectual disability"	0.0	0.0	0.0	0.0	1.0
+"Intellectual disability, moderate"	0.0	0.0	0.0	0.0	1.0
+"Dystonia"	0.0	0.0	0.0	0.0	1.0
+"Dysarthria"	0.0	0.0	0.0	0.0	1.0
+"HP:0008897"	0.0	0.0	0.0	0.0	1.0
+"Progressive hearing impairment"	0.0	0.0	0.0	0.0	1.0
+"Central hypothyroidism"	0.0	0.0	0.0	0.0	1.0

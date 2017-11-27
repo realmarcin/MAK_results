@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Type B brachydactyly"
+"3" "Coloboma"
+"4" "Absent distal phalanges"
+"5" "Bifid thumb distal phalanx"

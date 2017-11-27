@@ -1,0 +1,11 @@
+	"Charcot-Marie-Tooth Disease, Type 4A"	"Charcot-Marie-Tooth disease type 4E"	"Charcot-Marie-Tooth disease type 4G"	"Spinocerebellar Ataxia, Autosomal Recessive, With Axonal Neuropathy"	"Charcot-Marie-Tooth disease axonal type 2K"	"Charcot-Marie-Tooth Disease, Recessive Intermediate a"	"Charcot-Marie-Tooth Disease, Type 4H"	"Charcot-Marie-Tooth disease dominant intermediate E"	"Charcot-Marie-Tooth disease type 4F"	"Orphanet:3115"
+"Neonatal hypotonia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Peripheral neuropathy"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003676"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the cranial nerves"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the foot"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003577"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Distal muscle weakness"	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the hand"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Peripheral hypomyelination"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Axonal regeneration"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

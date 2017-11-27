@@ -1,0 +1,6 @@
+"x"
+"1" "Peters anomaly"
+"2" "Conical incisor"
+"3" "Exaggerated cupid's bow"
+"4" "Bilobate gallbladder"
+"5" "Microtia, second degree"

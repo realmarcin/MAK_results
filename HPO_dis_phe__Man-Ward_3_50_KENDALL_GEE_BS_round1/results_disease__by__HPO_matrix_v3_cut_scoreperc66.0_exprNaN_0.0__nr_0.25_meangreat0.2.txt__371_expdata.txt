@@ -1,0 +1,7 @@
+	"Jakob-Creutzfeldt disease"	"Mast syndrome"	"Pallidal Degeneration, Progressive, With Retinitis Pigmentosa"	"OPEM"	"Megalencephalic leukoencephalopathy with subcortical cysts 1"	"Orphanet:282166"
+"Loss of facial expression"	1.0	0.0	0.0	0.0	0.0	1.0
+"Akinetic mutism"	0.0	1.0	0.0	0.0	0.0	1.0
+"Progressive extrapyramidal muscular rigidity"	0.0	0.0	1.0	0.0	0.0	1.0
+"Abnormal pupillary function"	0.0	0.0	0.0	1.0	0.0	1.0
+"Focal T2 hyperintense basal ganglia lesion"	0.0	0.0	0.0	0.0	0.0	1.0
+"Diffuse spongiform leukoencephalopathy"	0.0	0.0	0.0	0.0	1.0	1.0

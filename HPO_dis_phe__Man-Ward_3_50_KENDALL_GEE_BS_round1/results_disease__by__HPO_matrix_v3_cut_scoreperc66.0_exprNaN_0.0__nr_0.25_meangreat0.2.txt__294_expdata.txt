@@ -1,0 +1,10 @@
+	"Alopecia-epilepsy-pyorrhea-intellectual disability syndrome"	"Orphanet:1008"	"Orphanet:1014"	"Orphanet:293964"
+"Seizures"	1.0	1.0	0.0	0.0
+"Melanocytic nevus"	0.0	1.0	0.0	0.0
+"Sparse scalp hair"	0.0	1.0	0.0	0.0
+"Alopecia universalis"	1.0	1.0	0.0	0.0
+"Periodontitis"	1.0	1.0	0.0	0.0
+"Congenital alopecia totalis"	1.0	0.0	0.0	0.0
+"Sparse body hair"	0.0	1.0	0.0	0.0
+"Gingivitis"	0.0	1.0	0.0	0.0
+"Abnormality of the eyelashes"	0.0	1.0	0.0	0.0

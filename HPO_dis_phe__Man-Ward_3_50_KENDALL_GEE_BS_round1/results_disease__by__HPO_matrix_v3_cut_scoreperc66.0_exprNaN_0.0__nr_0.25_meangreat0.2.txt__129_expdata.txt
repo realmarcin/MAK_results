@@ -1,0 +1,12 @@
+	"Adult polyglucosan body disease"	"Charcot-Marie-Tooth Disease, Type 4D"	"ataxia with oculomotor apraxia type 2"	"Charcot-Marie-Tooth disease type 4J"	"Charcot-Marie-Tooth Disease, Type 4B3"
+"Hyporeflexia"	0.0	1.0	1.0	1.0	0.0
+"Gait disturbance"	1.0	1.0	0.0	1.0	1.0
+"Abnormal auditory evoked potentials"	0.0	1.0	0.0	0.0	0.0
+"Distal muscle weakness"	0.0	1.0	1.0	1.0	0.0
+"Onion bulb formation"	0.0	1.0	0.0	1.0	1.0
+"Segmental peripheral demyelination/remyelination"	0.0	1.0	0.0	0.0	0.0
+"Axonal loss"	0.0	1.0	0.0	1.0	0.0
+"Decreased nerve conduction velocity"	0.0	1.0	0.0	1.0	1.0
+"Abnormality of visual evoked potentials"	0.0	1.0	0.0	0.0	0.0
+"Talipes cavus equinovarus"	0.0	1.0	0.0	0.0	0.0
+"Intraaxonal accumulation of curvilinear autofluorescent lipopigment storage material"	0.0	1.0	0.0	0.0	0.0

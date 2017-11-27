@@ -1,0 +1,9 @@
+	"Orphanet:101078"	"Orphanet:1397"	"Orphanet:166"	"Gemignani syndrome"
+"Sleep disturbance"	1.0	0.0	0.0	0.0
+"Gait disturbance"	1.0	0.0	1.0	0.0
+"Distal muscle weakness"	1.0	0.0	0.0	0.0
+"Decreased nerve conduction velocity"	1.0	0.0	1.0	0.0
+"Laryngomalacia"	0.0	0.0	1.0	0.0
+"Sensorimotor neuropathy"	1.0	0.0	0.0	0.0
+"Paralysis"	0.0	0.0	1.0	0.0
+"Abnormality of the pharynx"	0.0	0.0	1.0	0.0

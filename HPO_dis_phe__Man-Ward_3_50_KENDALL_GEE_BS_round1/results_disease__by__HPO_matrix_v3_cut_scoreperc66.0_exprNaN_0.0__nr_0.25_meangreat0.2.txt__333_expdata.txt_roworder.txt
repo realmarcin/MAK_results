@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.3339"
+"2" "Toriello.Lacassie.Droste.syndr"
+"3" "Orphanet.1185"
+"4" "X20p12.3.microdeletion.syndrom"
+"5" "Orphanet.75496"

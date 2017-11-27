@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertension"
+"2" "Adrenal hyperplasia"
+"3" "Hyperaldosteronism"
+"4" "Polydipsia"
+"5" "Metabolic acidosis"
+"6" "Polyuria"
+"7" "Hypercalciuria"

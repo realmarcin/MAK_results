@@ -1,0 +1,18 @@
+	"Spondylometaphyseal Dysplasia, Algerian Type"	"Myotonia With Skeletal Abnormalities and Mental Retardation"	"Moved to 607944"	"Spondyloenchondrodysplasia With Immune Dysregulation"	"Dysspondyloenchondromatosis"
+"Intellectual disability"	0.0	0.0	1.0	0.0	1.0
+"Generalized joint laxity"	0.0	0.0	0.0	0.0	1.0
+"Lumbar hyperlordosis"	1.0	0.0	1.0	1.0	0.0
+"Platyspondyly"	1.0	0.0	1.0	1.0	1.0
+"Cerebral calcification"	0.0	0.0	1.0	0.0	1.0
+"Pretibial blistering"	0.0	0.0	0.0	0.0	1.0
+"Exostoses"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of fibula morphology"	0.0	0.0	0.0	0.0	1.0
+"Multiple enchondromatosis"	0.0	0.0	0.0	0.0	1.0
+"Progressive spastic quadriplegia"	0.0	0.0	1.0	1.0	0.0
+"Vertebral segmentation defect"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of radial metaphyses"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of ulnar metaphysis"	0.0	0.0	1.0	0.0	1.0
+"Metaphyseal enchondromatosis"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of the tibial metaphysis"	0.0	0.0	1.0	0.0	0.0
+"Skin erosion"	0.0	0.0	0.0	0.0	1.0
+"Lower limb asymmetry"	0.0	0.0	0.0	0.0	1.0

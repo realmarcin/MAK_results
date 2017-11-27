@@ -1,0 +1,6 @@
+"x"
+"1" "Brain atrophy"
+"2" "Opisthotonus"
+"3" "Delayed closure of the anterior fontanelle"
+"4" "Generalized seizures"
+"5" "Aplasia/Hypoplasia involving the central nervous system"

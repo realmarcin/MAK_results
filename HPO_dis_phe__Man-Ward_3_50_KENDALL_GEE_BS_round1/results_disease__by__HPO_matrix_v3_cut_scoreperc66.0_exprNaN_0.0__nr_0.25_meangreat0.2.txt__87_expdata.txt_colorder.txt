@@ -1,0 +1,5 @@
+"x"
+"1" "Hypermagnesiuria"
+"2" "Renal calcium wasting"
+"3" "Renal magnesium wasting"
+"4" "Hypocitraturia"

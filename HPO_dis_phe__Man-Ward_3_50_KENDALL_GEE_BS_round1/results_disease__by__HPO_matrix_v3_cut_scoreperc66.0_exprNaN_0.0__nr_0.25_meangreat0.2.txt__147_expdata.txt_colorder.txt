@@ -1,0 +1,7 @@
+"x"
+"1" "Complete duplication of thumb phalanx"
+"2" "Chromosomal breakage induced by crosslinking agents"
+"3" "Reticulocytopenia"
+"4" "Anemic pallor"
+"5" "Deficient excision of UV-induced pyrimidine dimers in DNA"
+"6" "Prolonged G2 phase of cell cycle"

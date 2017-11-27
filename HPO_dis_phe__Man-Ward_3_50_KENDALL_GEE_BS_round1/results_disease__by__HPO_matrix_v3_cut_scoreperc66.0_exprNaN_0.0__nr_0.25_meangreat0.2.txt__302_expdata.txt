@@ -1,0 +1,16 @@
+	"Potocki-Shaffer syndrome"	"Orphanet:1252"	"Orphanet:2673"	"Imperforate oropharynx-costo vetebral anomalies syndrome"	"Orphanet:284160"
+"Muscular hypotonia"	1.0	0.0	1.0	0.0	1.0
+"Plagiocephaly"	0.0	0.0	1.0	0.0	0.0
+"Epicanthus"	1.0	1.0	1.0	1.0	1.0
+"Triphalangeal thumb"	0.0	0.0	1.0	0.0	0.0
+"Atresia of the external auditory canal"	0.0	0.0	1.0	0.0	0.0
+"Unilateral renal agenesis"	0.0	0.0	1.0	0.0	0.0
+"Corneal dystrophy"	0.0	0.0	1.0	0.0	0.0
+"External ear malformation"	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the philtrum"	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the metacarpal bones"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of oral mucosa"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the distal phalanx of finger"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the premaxilla"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the tragus"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the antitragus"	0.0	0.0	1.0	1.0	0.0

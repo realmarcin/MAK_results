@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0003677"
+"2" "High pitched voice"
+"3" "Abnormal pyramidal signs"
+"4" "Palatal myoclonus"
+"5" "Dysphonia"
+"6" "Hypermetric saccades"

@@ -1,0 +1,10 @@
+	"Moynahan syndrome"	"Mental retardation 49, X-linked"	"Epilepsy-microcephaly-skeletal dysplasia syndrome"	"Orphanet:2574"
+"Seizures"	1.0	0.0	1.0	1.0
+"Hypogonadism"	0.0	0.0	0.0	1.0
+"Short stature"	0.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	0.0	0.0	0.0	1.0
+"HP:0000007"	1.0	0.0	1.0	0.0
+"HP:0001596"	1.0	0.0	0.0	1.0
+"Hyperkeratosis"	0.0	0.0	0.0	1.0
+"Sparse hair"	1.0	0.0	0.0	1.0
+"Cachexia"	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "HP:0003581"
+"3" "Elevated serum creatine phosphokinase"
+"4" "Myalgia"
+"5" "Increased muscle glycogen content"

@@ -1,0 +1,11 @@
+	"Beta-D-mannosidosis"	"Mental Retardation, X-Linked 30"	"Mental Retardation, X-Linked, Associated With Fragile Site Fraxe"	"Intellectual Developmental Disorder With Cardiac Arrhythmia"	"Language delay and attention deficit-hyperactivity disorder/cognitive impairment with or without cardiac arrhythmia"
+"Delayed speech and language development"	0.0	1.0	1.0	1.0	1.0
+"Prominent nasal bridge"	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	0.0	1.0	1.0
+"Epicanthus"	0.0	0.0	1.0	0.0	0.0
+"Abnormal electroretinogram"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	0.0	1.0	0.0	0.0
+"Obsessive-compulsive behavior"	0.0	0.0	1.0	0.0	0.0
+"Sick sinus syndrome"	0.0	0.0	0.0	1.0	1.0
+"Bradycardia"	0.0	0.0	0.0	1.0	1.0
+"Retinal degeneration"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,10 @@
+	"Cone-Rod Dystrophy, X-Linked, 3"	"Night Blindness, Congenital Stationary, Type 1C"	"Orphanet:1661"	"Orphanet:178333"
+"Nystagmus"	1.0	1.0	0.0	1.0
+"Dry skin"	0.0	1.0	0.0	0.0
+"Eczema"	0.0	1.0	0.0	0.0
+"Hypopigmentation of the fundus"	0.0	0.0	0.0	1.0
+"Astigmatism"	1.0	0.0	0.0	1.0
+"Abnormal electroretinogram"	0.0	1.0	0.0	1.0
+"Abnormality of color vision"	1.0	0.0	0.0	1.0
+"Congenital stationary night blindness"	0.0	1.0	0.0	0.0
+"Difficulty adjusting from light to dark"	0.0	0.0	0.0	1.0

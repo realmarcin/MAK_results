@@ -1,0 +1,5 @@
+"x"
+"1" "Duodenal.neuroendocrine.tumor"
+"2" "Jejunal.neuroendocrine.tumor"
+"3" "Ileal.neuroendocrine.tumor"
+"4" "Xanthoma.disseminatum"

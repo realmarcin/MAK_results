@@ -1,0 +1,12 @@
+	"Arnold-Chiari malformation type I"	"dystonia 12"	"Syringomyelia, Isolated"	"Striatal degeneration, autosomal dominant 1"	"Progressive External Ophthalmoplegia With Mitochondrial Dna Deletions, Autosomal Dominant 5"	"Spinocerebellar ataxia 42"	"Myoclonus, intractable, neonatal"
+"Depressivity"	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Anxiety"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Dysphagia"	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Ptosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Hearing impairment"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hyporeflexia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Glaucoma"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Exercise intolerance"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Progressive external ophthalmoplegia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Multiple mitochondrial DNA deletions"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Increased muscle fatiguability"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

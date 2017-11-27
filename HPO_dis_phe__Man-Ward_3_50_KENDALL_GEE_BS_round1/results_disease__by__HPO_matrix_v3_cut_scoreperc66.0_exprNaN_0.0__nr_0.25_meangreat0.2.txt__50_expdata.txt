@@ -1,0 +1,6 @@
+	"Behcet's syndrome"	"Bruton-type agammaglobulinemia"	"Isolated Growth Hormone Deficiency, Type 3"	"Immunodeficiency with hyper IgM type 5"	"Bullous impetigo"
+"Epididymitis"	1.0	1.0	1.0	1.0	0.0
+"Prostatitis"	0.0	1.0	1.0	0.0	0.0
+"Enteroviral hepatitis"	0.0	1.0	1.0	0.0	0.0
+"Septic arthritis"	0.0	1.0	1.0	0.0	1.0
+"Enteroviral dermatomyositis syndrome"	0.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Iridescent posterior subcapsular cataract"
+"3" "Insulin insensitivity"
+"4" "Reduced insulin like growth factor binding protein acid labile subunit level"

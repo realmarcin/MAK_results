@@ -1,0 +1,5 @@
+"x"
+"1" "Mental.Retardation..X.Linked.1"
+"2" "Beta.D.mannosidosis"
+"3" "syndromic.X.linked.intellectua"
+"4" "Dyskinesia..seizures..and.inte"

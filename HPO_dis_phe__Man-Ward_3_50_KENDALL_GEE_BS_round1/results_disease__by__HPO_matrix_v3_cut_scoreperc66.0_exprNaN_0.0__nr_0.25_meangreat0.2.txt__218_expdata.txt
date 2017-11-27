@@ -1,0 +1,17 @@
+	"Nager syndrome"	"Anophthalmos with limb anomalies"	"Kyphomelic dysplasia"	"Cousin syndrome"	"Postaxial Acrofacial Dysostosis"	"Orphanet:1106"
+"Micrognathia"	1.0	0.0	1.0	1.0	1.0	1.0
+"Cleft upper lip"	1.0	1.0	1.0	0.0	1.0	1.0
+"Single transverse palmar crease"	0.0	1.0	0.0	0.0	0.0	0.0
+"Toe syndactyly"	1.0	1.0	0.0	1.0	0.0	1.0
+"Postaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0	1.0
+"Hand oligodactyly"	0.0	1.0	0.0	0.0	0.0	1.0
+"Retrognathia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the hair"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the cardiovascular system"	0.0	1.0	0.0	0.0	0.0	0.0
+"Anophthalmia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Prominent forehead"	0.0	1.0	0.0	0.0	0.0	1.0
+"Postaxial foot polydactyly"	0.0	1.0	0.0	0.0	0.0	1.0
+"Foot oligodactyly"	1.0	1.0	0.0	0.0	0.0	1.0
+"Flared nostrils"	0.0	1.0	0.0	0.0	0.0	0.0
+"Fused fourth and fifth metacarpals"	0.0	1.0	0.0	0.0	0.0	0.0
+"Camptodactyly of 2nd-5th fingers"	0.0	1.0	0.0	0.0	0.0	1.0

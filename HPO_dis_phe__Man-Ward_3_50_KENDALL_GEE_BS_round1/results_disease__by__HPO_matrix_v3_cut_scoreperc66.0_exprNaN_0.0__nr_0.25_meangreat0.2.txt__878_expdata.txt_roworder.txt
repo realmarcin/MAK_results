@@ -1,0 +1,6 @@
+"x"
+"1" "Trichohepatoenteric.syndrome.1"
+"2" "Orphanet.1194"
+"3" "Orphanet.1454"
+"4" "Orphanet.2971"
+"5" "Orphanet.300536"

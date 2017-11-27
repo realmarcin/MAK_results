@@ -1,0 +1,5 @@
+"x"
+"1" "Severe viral infections"
+"2" "Lack of facial subcutaneous fat"
+"3" "Esophageal ulceration"
+"4" "Allergic conjunctivitis"

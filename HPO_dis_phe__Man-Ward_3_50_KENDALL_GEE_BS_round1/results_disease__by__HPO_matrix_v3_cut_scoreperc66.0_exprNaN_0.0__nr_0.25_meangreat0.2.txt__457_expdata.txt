@@ -1,0 +1,12 @@
+	"Craniometaphyseal Dysplasia, Autosomal Dominant"	"Craniometaphyseal dysplasia, autosomal recessive type"	"Frontonasal Dysplasia 2"	"Frontonasal dysplasia-severe microphthalmia-severe facial clefting syndrome"	"sclerosteosis 2"	"Orphanet:1522"	"Orphanet:168624"	"Osteosclerosis-developmental delay-craniosynostosis syndrome"	"Orphanet:2662"	"Isolated brachycephaly"	"Osteopenia-myopia-hearing loss-intellectual disability-facial dysmorphism syndrome"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Brachycephaly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Craniosynostosis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Broad forehead"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"High forehead"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Visual impairment"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Thickened calvaria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Facial palsy"	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Increased bone mineral density"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Mild global developmental delay"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Broad jaw"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Muscular dystrophy"
+"2" "Rigidity"
+"3" "Apnea"
+"4" "Weak cry"
+"5" "HP:0002878"

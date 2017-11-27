@@ -1,0 +1,6 @@
+"x"
+"1" "Macular coloboma"
+"2" "Recurrent patellar dislocation"
+"3" "Genital hernia"
+"4" "Contracture of the distal interphalangeal joint of the 5th finger"
+"5" "Esophageal diverticulum"

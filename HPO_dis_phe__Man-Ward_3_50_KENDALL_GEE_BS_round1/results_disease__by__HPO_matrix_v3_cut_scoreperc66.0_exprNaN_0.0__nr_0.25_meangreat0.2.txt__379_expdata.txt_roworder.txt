@@ -1,0 +1,8 @@
+"x"
+"1" "MPD3"
+"2" "Moved.to.605820"
+"3" "Distal.myopathy..Welander.type"
+"4" "Nonaka.myopathy"
+"5" "Tibial.muscular.dystrophy"
+"6" "Vacuolar.Neuromyopathy"
+"7" "autosomal.dominant.limb.girdle"

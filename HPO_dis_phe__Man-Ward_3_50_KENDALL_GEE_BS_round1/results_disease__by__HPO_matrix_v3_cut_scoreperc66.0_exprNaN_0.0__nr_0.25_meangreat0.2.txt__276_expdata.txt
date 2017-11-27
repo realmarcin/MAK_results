@@ -1,0 +1,11 @@
+	"Spondyloepiphyseal Dysplasia Congenita"	"Spondyloepimetaphyseal dysplasia Strudwick type"	"Schimke immuno-osseous dysplasia"	"Smith-Mccort Dysplasia 1"	"Orphanet:93315"
+"Severe short stature"	0.0	1.0	0.0	0.0	0.0
+"Anterior rib cupping"	0.0	1.0	0.0	0.0	0.0
+"Platyspondyly"	1.0	1.0	1.0	1.0	0.0
+"Club-shaped proximal femur"	0.0	1.0	0.0	0.0	0.0
+"Delayed pubic bone ossification"	1.0	1.0	0.0	0.0	0.0
+"Protuberant abdomen"	0.0	1.0	1.0	0.0	0.0
+"Hypoplastic pubic bone"	0.0	1.0	0.0	0.0	0.0
+"Metaphyseal irregularity"	0.0	1.0	0.0	1.0	1.0
+"C1-C2 subluxation"	0.0	1.0	0.0	0.0	0.0
+"Metaphyseal dappling"	0.0	1.0	0.0	0.0	0.0

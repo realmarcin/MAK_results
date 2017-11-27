@@ -1,0 +1,21 @@
+	"Asymmetric Short Stature Syndrome"	"Pigmented paravenous retinochoroidal atrophy"	"Juvenile retinoschisis"	"Orphanet:49382"	"Persistent placoid maculopathy"
+"Photophobia"	0.0	0.0	0.0	1.0	0.0
+"Visual impairment"	0.0	0.0	0.0	1.0	0.0
+"Exotropia"	0.0	0.0	0.0	1.0	0.0
+"Retinal detachment"	0.0	0.0	1.0	0.0	0.0
+"Abnormal electroretinogram"	0.0	0.0	0.0	1.0	0.0
+"Progressive visual loss"	0.0	0.0	1.0	0.0	0.0
+"Central scotoma"	0.0	0.0	0.0	1.0	0.0
+"Vitreous hemorrhage"	0.0	0.0	1.0	0.0	0.0
+"Dyschromatopsia"	0.0	0.0	0.0	1.0	0.0
+"Macular atrophy"	0.0	0.0	1.0	0.0	0.0
+"Retinal atrophy"	0.0	0.0	1.0	0.0	0.0
+"Attenuation of retinal blood vessels"	0.0	0.0	0.0	1.0	0.0
+"Retinoschisis"	0.0	0.0	1.0	0.0	0.0
+"Pendular nystagmus"	0.0	0.0	0.0	1.0	0.0
+"HP:0001423"	0.0	0.0	1.0	0.0	0.0
+"Blue cone monochromacy"	0.0	0.0	0.0	1.0	0.0
+"Cystic retinal degeneration"	0.0	0.0	1.0	0.0	0.0
+"Electronegative electroretinogram"	0.0	0.0	1.0	0.0	0.0
+"Mizuo phenomenon"	0.0	0.0	1.0	0.0	0.0
+"Granular macular appearance"	0.0	0.0	0.0	1.0	0.0

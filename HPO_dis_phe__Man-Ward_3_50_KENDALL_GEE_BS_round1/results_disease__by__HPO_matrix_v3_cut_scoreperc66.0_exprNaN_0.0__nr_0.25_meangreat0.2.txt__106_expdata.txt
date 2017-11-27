@@ -1,0 +1,9 @@
+	"Amenorrhea-Galactorrhea Syndrome"	"BNAH1"	"Ectodermal Dysplasia, Trichoodontoonychial Type"	"Nipples, Supernumerary"
+"Abnormality of the thorax"	1.0	0.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Hypodontia"	0.0	0.0	1.0	0.0
+"Ectodermal dysplasia"	0.0	0.0	1.0	0.0
+"Absent nipple"	0.0	1.0	1.0	0.0
+"Hypotrichosis"	0.0	0.0	1.0	0.0
+"Irregular hyperpigmentation of back"	0.0	0.0	1.0	0.0
+"Mild neurosensory hearing impairment"	0.0	0.0	1.0	0.0

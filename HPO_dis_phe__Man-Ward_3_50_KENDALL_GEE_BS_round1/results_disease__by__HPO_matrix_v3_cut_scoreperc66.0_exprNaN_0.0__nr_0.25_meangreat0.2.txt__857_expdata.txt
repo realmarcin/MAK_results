@@ -1,0 +1,5 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orphanet:1522"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Skeletal dysplasia"	0.0	0.0	1.0	0.0	0.0
+"Osteopetrosis"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the metaphysis"	0.0	0.0	1.0	0.0	0.0

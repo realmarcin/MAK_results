@@ -1,0 +1,5 @@
+"x"
+"1" "Orphanet.560"
+"2" "Epiphyseal.dysplasia..multiple"
+"3" "Stickler.syndrome..type.4"
+"4" "Orphanet.166011"

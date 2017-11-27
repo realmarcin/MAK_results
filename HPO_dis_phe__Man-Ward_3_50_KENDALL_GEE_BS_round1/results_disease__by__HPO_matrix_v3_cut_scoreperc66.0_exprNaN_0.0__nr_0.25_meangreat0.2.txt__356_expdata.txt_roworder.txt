@@ -1,0 +1,8 @@
+"x"
+"1" "X6.pyruvoyl.tetrahydropterin.s"
+"2" "GTP.cyclohydrolase.I.deficienc"
+"3" "Dihydropteridine.reductase.def"
+"4" "Mental.Retardation..X.Linked.."
+"5" "Pyruvate.dehydrogenase.E1.alph"
+"6" "Glut1.Deficiency.Syndrome.2"
+"7" "Leucine.induced.hypoglycemia"

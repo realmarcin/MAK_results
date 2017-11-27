@@ -1,0 +1,13 @@
+	"X-linked intellectual disability with marfanoid habitus"	"Glass Syndrome"	"Mental retardation, autosomal dominant 44"	"Orphanet:250989"	"Orphanet:250994"	"Orphanet:251019"
+"Intellectual disability"	1.0	1.0	0.0	1.0	1.0	0.0
+"Narrow mouth"	0.0	1.0	0.0	0.0	0.0	1.0
+"Inguinal hernia"	0.0	1.0	0.0	1.0	0.0	0.0
+"Sleep disturbance"	0.0	0.0	0.0	1.0	0.0	1.0
+"Long philtrum"	0.0	0.0	0.0	1.0	0.0	1.0
+"Bulbous nose"	0.0	1.0	0.0	1.0	0.0	0.0
+"Talipes equinovarus"	0.0	1.0	0.0	1.0	1.0	1.0
+"Broad thumb"	1.0	0.0	0.0	1.0	0.0	1.0
+"Agenesis of corpus callosum"	1.0	0.0	0.0	1.0	0.0	0.0
+"Oligodontia"	0.0	1.0	0.0	0.0	0.0	1.0
+"Sparse hair"	0.0	1.0	0.0	0.0	0.0	1.0
+"Broad hallux phalanx"	0.0	0.0	0.0	1.0	0.0	1.0

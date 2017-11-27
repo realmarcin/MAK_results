@@ -1,0 +1,14 @@
+	"Brachydactyly, Type B1"	"Pelvis-shoulder dysplasia"	"Neural Tube Defects, Susceptibility to"	"Split-Hand With Obstructive Uropathy, Spina Bifida, and Diaphragmatic Defects"	"Orphanet:1773"
+"Split hand"	0.0	0.0	0.0	1.0	0.0
+"Split foot"	0.0	0.0	0.0	1.0	0.0
+"Cutaneous finger syndactyly"	1.0	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0
+"Hydrocephalus"	0.0	0.0	1.0	1.0	0.0
+"Thoracolumbar scoliosis"	1.0	0.0	0.0	1.0	0.0
+"Spina bifida occulta"	0.0	1.0	1.0	1.0	1.0
+"Multiple lipomas"	0.0	0.0	1.0	0.0	0.0
+"Anencephaly"	0.0	0.0	1.0	0.0	0.0
+"Myelomeningocele"	0.0	0.0	1.0	1.0	1.0
+"Asymmetry of spinal facet joints"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the diaphragm"	0.0	0.0	0.0	1.0	0.0
+"Ureteral atresia"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,23 @@
+	"Eyebrows, Duplication Of, With Stretchable Skin and Syndactyly"	"Agonadism, 46,Xy, With Mental Retardation, Short Stature, Retarded Bone Age, and Multiple Extragenital Malformations"	"Cervical Ribs, Sprengel Anomaly, Anal Atresia, and Urethral Obstruction"	"Anterior Chamber Cleavage Disorder, Cerebellar Hypoplasia, Hypothyroidism, and Tracheal Stenosis"	"Cold-induced sweating syndrome 2"	"Epidermolysis Bullosa Simplex With Pyloric Atresia"
+"Intellectual disability"	0.0	1.0	0.0	0.0	0.0	0.0
+"Deeply set eye"	0.0	1.0	0.0	0.0	0.0	1.0
+"High palate"	0.0	1.0	0.0	0.0	1.0	0.0
+"Renal agenesis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the pinna"	0.0	1.0	0.0	0.0	0.0	0.0
+"Short neck"	0.0	1.0	0.0	1.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Toe syndactyly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypodontia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Long eyelashes"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal facial shape"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the uterus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Thoracolumbar scoliosis"	0.0	1.0	1.0	0.0	1.0	0.0
+"Malrotation of colon"	0.0	1.0	0.0	0.0	0.0	0.0
+"Omphalocele"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hypotelorism"	0.0	1.0	0.0	0.0	0.0	0.0
+"Acetabular dysplasia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Inverted nipples"	0.0	1.0	0.0	0.0	0.0	0.0
+"Marked delay in bone age"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abdominal obesity"	0.0	1.0	0.0	0.0	0.0	0.0
+"Toe clinodactyly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Absent gonadal tissue"	0.0	1.0	0.0	0.0	0.0	0.0

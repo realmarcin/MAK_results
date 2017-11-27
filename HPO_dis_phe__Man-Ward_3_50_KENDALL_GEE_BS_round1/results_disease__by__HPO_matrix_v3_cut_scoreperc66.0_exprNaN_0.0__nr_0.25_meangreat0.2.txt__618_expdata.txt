@@ -1,0 +1,30 @@
+	"Johanson-Blizzard syndrome"	"Developmental malformations-deafness-dystonia syndrome"	"Peroxisome Biogenesis Disorder 14B"	"Orphanet:633"
+"Hypocalcemia"	1.0	0.0	0.0	0.0
+"Short stature"	1.0	0.0	0.0	0.0
+"Atrial septal defect"	1.0	0.0	0.0	0.0
+"Death in childhood"	1.0	0.0	0.0	0.0
+"Joint laxity"	1.0	0.0	0.0	0.0
+"Strabismus"	1.0	0.0	0.0	0.0
+"Calvarial skull defect"	1.0	0.0	0.0	0.0
+"Ventricular septal defect"	1.0	0.0	0.0	0.0
+"Convex nasal ridge"	1.0	0.0	0.0	0.0
+"Sparse scalp hair"	1.0	0.0	0.0	0.0
+"Fair hair"	1.0	0.0	0.0	0.0
+"Hypoplastic nipples"	1.0	0.0	0.0	0.0
+"Hypothyroidism"	1.0	0.0	0.0	0.0
+"Cholestasis"	1.0	0.0	0.0	0.0
+"Rectovaginal fistula"	1.0	0.0	0.0	0.0
+"Septate vagina"	1.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	1.0	0.0	0.0	0.0
+"Anasarca"	1.0	0.0	0.0	0.0
+"Increased circulating very-low-density lipoprotein levels"	1.0	0.0	0.0	0.0
+"Clitoral hypertrophy"	1.0	0.0	0.0	0.0
+"Colonic diverticula"	1.0	0.0	0.0	0.0
+"Aplasia cutis congenita of scalp"	1.0	0.0	0.0	0.0
+"Frontal upsweep of hair"	1.0	0.0	0.0	0.0
+"Hepatic failure"	1.0	0.0	0.0	0.0
+"Agenesis of permanent teeth"	1.0	0.0	0.0	0.0
+"Situs inversus totalis"	1.0	0.0	0.0	0.0
+"Hypoplasia of the primary teeth"	1.0	0.0	0.0	0.0
+"Midline skin dimples over anterior/posterior fontanelles"	1.0	0.0	0.0	0.0
+"Urethrovaginal fistula"	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+	"Storm Syndrome"	"Arteriosclerosis, Severe Juvenile"	"Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome"	"Aortic Valve Disease 2"	"Orphanet:2072"	"Homozygous familial hypercholesterolemia"
+"Supranuclear ophthalmoplegia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Calcification of the aorta"	0.0	1.0	1.0	1.0	1.0	1.0
+"Abnormal eye physiology"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of nervous system physiology"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of internal carotid artery"	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,10 @@
+	"Trigonocephaly 1"	"holoprosencephaly 5"	"holoprosencephaly 7"	"Chromosome 3Q29 Duplication Syndrome"	"Holoprosencephaly 11"	"Isolated trigonocephaly"
+"Microcephaly"	1.0	1.0	0.0	1.0	1.0	0.0
+"Synophrys"	1.0	1.0	0.0	0.0	1.0	1.0
+"Wide nasal bridge"	0.0	0.0	0.0	1.0	0.0	1.0
+"Prominent supraorbital ridges"	0.0	0.0	0.0	0.0	0.0	1.0
+"Omphalocele"	1.0	0.0	1.0	0.0	0.0	1.0
+"Long penis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Trigonocephaly"	1.0	1.0	0.0	0.0	0.0	1.0
+"Meckel diverticulum"	1.0	0.0	0.0	0.0	0.0	0.0
+"Lumbar hemivertebrae"	1.0	0.0	0.0	0.0	0.0	0.0

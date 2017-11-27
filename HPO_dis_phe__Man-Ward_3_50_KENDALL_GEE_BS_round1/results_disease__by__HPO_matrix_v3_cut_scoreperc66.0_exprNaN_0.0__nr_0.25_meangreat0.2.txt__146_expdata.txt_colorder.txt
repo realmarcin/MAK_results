@@ -1,0 +1,8 @@
+"x"
+"1" "Short stature"
+"2" "Hypertension"
+"3" "Muscle weakness"
+"4" "Hyperkalemia"
+"5" "Abnormality of dental enamel"
+"6" "Periodic paralysis"
+"7" "Nausea and vomiting"

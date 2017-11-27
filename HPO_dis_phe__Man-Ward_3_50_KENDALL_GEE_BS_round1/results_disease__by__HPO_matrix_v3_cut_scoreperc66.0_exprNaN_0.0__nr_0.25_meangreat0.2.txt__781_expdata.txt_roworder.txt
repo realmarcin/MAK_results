@@ -1,0 +1,8 @@
+"x"
+"1" "X.linked.recessive.ocular.albi"
+"2" "Albinism..Ocular..With.Late.On"
+"3" "Albinism..Ocular..With.Sensori"
+"4" "Orphanet.54"
+"5" "Orphanet.904"
+"6" "Sandhoff.Disease"
+"7" "Orphanet.740"

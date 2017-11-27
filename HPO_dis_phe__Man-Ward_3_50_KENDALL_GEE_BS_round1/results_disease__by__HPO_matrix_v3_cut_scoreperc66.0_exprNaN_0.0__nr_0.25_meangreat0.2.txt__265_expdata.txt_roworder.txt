@@ -1,0 +1,5 @@
+"x"
+"1" "Isolated.Growth.Hormone.Defici"
+"2" "Dwarfism..Levi.Type"
+"3" "Isolated.Growth.Hormone.Defici"
+"4" "Chondrodysplasia.Calcificans.M"

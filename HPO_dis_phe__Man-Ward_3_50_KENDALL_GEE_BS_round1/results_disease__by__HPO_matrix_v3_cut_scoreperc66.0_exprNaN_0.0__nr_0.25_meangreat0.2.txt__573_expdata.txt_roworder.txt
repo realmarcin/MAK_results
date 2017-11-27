@@ -1,0 +1,5 @@
+"x"
+"1" "Amastia..Bilateral..With.Urete"
+"2" "Polyvalvular.heart.disease.syn"
+"3" "Orphanet.2868"
+"4" "Orphanet.3038"

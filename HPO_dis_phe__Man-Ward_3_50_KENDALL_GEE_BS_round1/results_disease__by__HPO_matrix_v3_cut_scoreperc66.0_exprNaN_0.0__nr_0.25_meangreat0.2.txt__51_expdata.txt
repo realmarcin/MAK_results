@@ -1,0 +1,29 @@
+	"Orphanet:10"	"Kleefstra syndrome due to 9q34 microdeletion"	"48,XXXY syndrome"	"49,XXXXY syndrome"
+"Seizures"	1.0	0.0	1.0	1.0
+"Delayed eruption of teeth"	1.0	0.0	1.0	1.0
+"Radioulnar synostosis"	1.0	0.0	1.0	1.0
+"Carious teeth"	1.0	0.0	1.0	1.0
+"Intellectual disability, mild"	0.0	0.0	1.0	0.0
+"Infertility"	1.0	0.0	1.0	1.0
+"Asthma"	1.0	0.0	1.0	1.0
+"Abnormality of dental enamel"	1.0	0.0	1.0	1.0
+"Venous thrombosis"	0.0	0.0	1.0	1.0
+"Renal dysplasia"	0.0	0.0	1.0	1.0
+"Azoospermia"	1.0	0.0	1.0	1.0
+"Elbow dislocation"	1.0	0.0	1.0	1.0
+"Coxa valga"	0.0	0.0	1.0	1.0
+"Hip dislocation"	0.0	0.0	1.0	1.0
+"Down-sloping shoulders"	0.0	0.0	1.0	1.0
+"Open bite"	1.0	0.0	1.0	1.0
+"Overfriendliness"	0.0	0.0	0.0	1.0
+"Schizophrenia"	0.0	0.0	1.0	0.0
+"Type II diabetes mellitus"	1.0	0.0	1.0	1.0
+"Pulmonary embolism"	0.0	0.0	1.0	1.0
+"Holoprosencephaly"	0.0	0.0	0.0	1.0
+"Language impairment"	0.0	0.0	1.0	1.0
+"Arrhinencephaly"	0.0	0.0	0.0	1.0
+"Low frustration tolerance"	0.0	0.0	0.0	1.0
+"Shyness"	0.0	0.0	0.0	1.0
+"Abnormality of epiphysis morphology"	0.0	0.0	1.0	1.0
+"HP:0012433"	0.0	0.0	1.0	0.0
+"Abnormal aggressive, impulsive or violent behavior"	0.0	0.0	1.0	0.0

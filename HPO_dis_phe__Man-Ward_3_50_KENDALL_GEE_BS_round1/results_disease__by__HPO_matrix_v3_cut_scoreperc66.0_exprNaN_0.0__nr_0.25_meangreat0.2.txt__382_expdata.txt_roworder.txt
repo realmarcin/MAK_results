@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.2309"
+"2" "PC.K6a"
+"3" "Orphanet.79399"
+"4" "Orphanet.1366"
+"5" "Orphanet.281201"
+"6" "Keratosis..Focal.Palmoplantar."

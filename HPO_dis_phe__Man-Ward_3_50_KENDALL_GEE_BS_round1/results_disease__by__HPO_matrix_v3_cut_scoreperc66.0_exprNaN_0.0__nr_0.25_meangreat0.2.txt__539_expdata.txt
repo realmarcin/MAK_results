@@ -1,0 +1,20 @@
+	"Orphanet:3006"	"Orphanet:3454"	"Orphanet:35069"	"Orphanet:512"	"Orphanet:702"
+"Recurrent respiratory infections"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the urinary system"	0.0	0.0	0.0	0.0	1.0
+"Genu recurvatum"	0.0	0.0	0.0	1.0	0.0
+"Ataxia"	0.0	0.0	0.0	1.0	1.0
+"Peripheral neuropathy"	0.0	0.0	0.0	1.0	1.0
+"Choreoathetosis"	0.0	0.0	0.0	0.0	1.0
+"Dystonia"	0.0	0.0	0.0	0.0	1.0
+"Spasticity"	0.0	0.0	0.0	1.0	1.0
+"Muscle weakness"	0.0	0.0	0.0	1.0	0.0
+"Bowel incontinence"	0.0	0.0	0.0	0.0	1.0
+"Premature birth"	0.0	0.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	0.0	1.0	1.0
+"Abnormality of visual evoked potentials"	0.0	0.0	0.0	0.0	1.0
+"Joint stiffness"	0.0	0.0	0.0	1.0	1.0
+"Coma"	0.0	0.0	0.0	1.0	0.0
+"Aganglionic megacolon"	0.0	0.0	0.0	1.0	0.0
+"Failure to thrive in infancy"	0.0	0.0	0.0	0.0	1.0
+"Arteriovenous malformation"	0.0	0.0	0.0	0.0	1.0
+"Amaurosis fugax"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Hereditary.sensory.neuropathy."
+"2" "Hereditary.sensory.and.autonom"
+"3" "Charcot.Marie.Tooth.disease.ty"
+"4" "Macular.Degeneration..Age.Rela"
+"5" "Distal.hereditary.motor.neuron"
+"6" "Charcot.Marie.Tooth.disease..d"

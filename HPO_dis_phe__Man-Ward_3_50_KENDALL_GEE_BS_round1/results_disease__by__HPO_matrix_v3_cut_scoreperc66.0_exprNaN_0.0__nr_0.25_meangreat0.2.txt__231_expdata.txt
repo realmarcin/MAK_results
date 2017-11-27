@@ -1,0 +1,11 @@
+	"Miyoshi myopathy"	"Myopathy, Distal, With Anterior Tibial Onset"	"Muscular Dystrophy, Limb-Girdle, Type 2J"	"Distal anoctaminopathy"	"Muscular dystrophy, limb-girdle, type 2r"
+"HP:0003581"	1.0	0.0	0.0	1.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	0.0
+"Distal amyotrophy"	1.0	1.0	0.0	0.0	0.0
+"Distal muscle weakness"	1.0	1.0	1.0	1.0	0.0
+"Lower limb muscle weakness"	1.0	0.0	0.0	0.0	0.0
+"Deposits immunoreactive to beta-amyloid protein"	1.0	0.0	0.0	0.0	0.0
+"Decreased Achilles reflex"	1.0	0.0	0.0	0.0	0.0
+"Muscle fibrillation"	1.0	0.0	0.0	0.0	0.0
+"Decreased/absent ankle reflexes"	1.0	0.0	0.0	0.0	0.0
+"Quadriceps muscle atrophy"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,17 @@
+	"autosomal dominant limb-girdle muscular dystrophy type 1B"	"Tibial muscular dystrophy"	"Moved to 605820"	"Vacuolar Neuromyopathy"	"Distal myopathy, Welander type"	"Nonaka myopathy"	"MPD3"
+"Split hand"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0000007"	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Clumsiness"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Joint contracture of the hand"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Proximal muscle weakness"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Distal amyotrophy"	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Limb-girdle muscle weakness"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the foot"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Distal muscle weakness"	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Steppage gait"	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Rimmed vacuoles"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Mildly elevated creatine phosphokinase"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Deposits immunoreactive to beta-amyloid protein"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Limb-girdle muscle atrophy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Late-onset proximal muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

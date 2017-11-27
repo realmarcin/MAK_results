@@ -1,0 +1,8 @@
+	"Ulnar Hypoplasia With Mental Retardation"	"ECTD8"	"NDNC9"	"ECTD5"	"ECTD6"	"Dystrophic epidermolysis bullosa, nails only"
+"Talipes equinovarus"	1.0	0.0	0.0	0.0	0.0	0.0
+"Intellectual disability, profound"	1.0	0.0	0.0	0.0	0.0	0.0
+"Limited elbow movement"	1.0	0.0	0.0	0.0	0.0	0.0
+"Limitation of knee mobility"	1.0	0.0	0.0	0.0	0.0	0.0
+"Absent toenail"	1.0	0.0	1.0	1.0	0.0	1.0
+"Absent fingernail"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bilateral ulnar hypoplasia"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,20 @@
+	"Myotonia With Skeletal Abnormalities and Mental Retardation"	"Spondylometaphyseal dysplasia axial"	"Orphanet:166272"	"Orphanet:168549"	"Orphanet:85167"
+"Frontal bossing"	0.0	0.0	1.0	1.0	0.0
+"Telecanthus"	0.0	0.0	0.0	1.0	0.0
+"Downslanted palpebral fissures"	0.0	0.0	0.0	1.0	0.0
+"Short nose"	0.0	0.0	1.0	1.0	0.0
+"Rhizomelia"	0.0	0.0	0.0	1.0	1.0
+"Short femoral neck"	0.0	1.0	0.0	0.0	0.0
+"Optic atrophy"	0.0	1.0	0.0	1.0	0.0
+"Platyspondyly"	0.0	1.0	1.0	1.0	1.0
+"Photophobia"	0.0	0.0	0.0	1.0	1.0
+"Visual impairment"	0.0	0.0	0.0	1.0	0.0
+"Astigmatism"	0.0	0.0	0.0	1.0	1.0
+"Proptosis"	0.0	0.0	0.0	1.0	0.0
+"Proximal femoral metaphyseal irregularity"	0.0	1.0	0.0	1.0	0.0
+"Thoracic hypoplasia"	0.0	1.0	0.0	1.0	0.0
+"Rod-cone dystrophy"	0.0	1.0	0.0	1.0	0.0
+"Recurrent pneumonia"	0.0	1.0	0.0	0.0	0.0
+"Narrow greater sacrosciatic notches"	0.0	1.0	0.0	0.0	0.0
+"Cupped ribs"	0.0	0.0	0.0	1.0	0.0
+"Irregular iliac crest"	0.0	0.0	0.0	1.0	0.0

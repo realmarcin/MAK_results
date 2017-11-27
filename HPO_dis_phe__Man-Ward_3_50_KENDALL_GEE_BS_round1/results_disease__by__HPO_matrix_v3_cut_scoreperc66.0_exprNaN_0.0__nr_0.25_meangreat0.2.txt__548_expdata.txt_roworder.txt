@@ -1,0 +1,5 @@
+"x"
+"1" "Muscular.Dystrophy..Limb.Girdl"
+"2" "Myopathy..Distal..With.Anterio"
+"3" "Limb.girdle.muscular.dystrophy"
+"4" "Congenital.muscular.dystrophy."

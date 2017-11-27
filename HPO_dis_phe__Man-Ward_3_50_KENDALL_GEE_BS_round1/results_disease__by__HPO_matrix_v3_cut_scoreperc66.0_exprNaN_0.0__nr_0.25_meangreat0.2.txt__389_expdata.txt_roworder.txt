@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.1551"
+"2" "Copper.Deficiency..Familial.Be"
+"3" "Kenny.Caffey.Syndrome..Type.1"
+"4" "Orphanet.1014"
+"5" "Orphanet.293964"

@@ -1,0 +1,13 @@
+	"Syndromic X-linked mental retardation, Cabezas type"	"Mental Retardation, X-Linked 103"	"Kleefstra syndrome"	"Orphanet:1001"	"2q23.1 microdeletion syndrome"	"Orphanet:2896"	"Orphanet:819"	"Orphanet:847"	"Kleefstra syndrome due to 9q34 microdeletion"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Everted lower lip vermilion"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+"Anteverted nares"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Protruding tongue"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Flat face"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Apathy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Macroglossia"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Tracheobronchomalacia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Persistence of primary teeth"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Natal tooth"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"U-Shaped upper lip vermilion"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Conotruncal defect"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

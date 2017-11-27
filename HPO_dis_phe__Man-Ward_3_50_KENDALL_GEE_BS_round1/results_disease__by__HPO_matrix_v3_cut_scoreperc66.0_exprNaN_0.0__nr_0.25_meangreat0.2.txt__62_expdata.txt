@@ -1,0 +1,6 @@
+	"Mannosidosis, Alpha B, Lysosomal"	"Mucolipidosis type IV"	"Orphanet:354"	"Orphanet:578"
+"Developmental stagnation"	0.0	1.0	0.0	1.0
+"Spinocerebellar tract disease in lower limbs"	1.0	0.0	0.0	0.0
+"Progressive retinal degeneration"	1.0	1.0	0.0	0.0
+"Abnormality of ganglioside metabolism"	0.0	1.0	1.0	1.0
+"Abnormality of mucopolysaccharide metabolism"	0.0	1.0	0.0	1.0

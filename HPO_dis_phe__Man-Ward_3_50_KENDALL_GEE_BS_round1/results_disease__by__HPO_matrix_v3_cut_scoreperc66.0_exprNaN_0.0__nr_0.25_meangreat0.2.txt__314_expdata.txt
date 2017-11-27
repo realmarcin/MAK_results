@@ -1,0 +1,15 @@
+	"Blepharophimosis-radioulnar synostosis syndrome"	"Orphanet:2163"	"6p22 microdeletion syndrome"	"Orphanet:3339"	"Muscle-eye-brain disease"
+"Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0
+"Facial asymmetry"	1.0	1.0	0.0	0.0	0.0
+"Craniosynostosis"	0.0	1.0	0.0	0.0	0.0
+"HP:0008479"	0.0	1.0	0.0	0.0	0.0
+"Elbow dislocation"	1.0	0.0	0.0	0.0	0.0
+"Coxa valga"	0.0	1.0	0.0	0.0	0.0
+"Short distal phalanx of finger"	1.0	1.0	0.0	0.0	0.0
+"Short palpebral fissure"	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the clavicle"	1.0	0.0	0.0	0.0	0.0
+"Craniofacial hyperostosis"	1.0	0.0	0.0	0.0	0.0
+"Joint stiffness"	1.0	0.0	0.0	0.0	0.0
+"Hypotelorism"	0.0	1.0	1.0	0.0	0.0
+"Holoprosencephaly"	0.0	1.0	0.0	0.0	1.0
+"Abnormal form of the vertebral bodies"	1.0	0.0	0.0	0.0	0.0

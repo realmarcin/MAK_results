@@ -1,0 +1,9 @@
+	"Orphanet:117"	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"
+"Acne"	1.0	0.0	0.0	0.0
+"Cataract"	1.0	0.0	0.0	0.0
+"Hemiparesis"	1.0	0.0	0.0	0.0
+"Abdominal pain"	1.0	0.0	0.0	0.0
+"Oral ulcer"	1.0	0.0	0.0	0.0
+"Mitral regurgitation"	1.0	0.0	0.0	0.0
+"Confusion"	1.0	0.0	0.0	0.0
+"Pulmonary embolism"	1.0	0.0	0.0	0.0

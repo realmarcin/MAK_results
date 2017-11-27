@@ -1,0 +1,5 @@
+"x"
+"1" "Multicentric.Osteolysis..Nodul"
+"2" "autosomal.dominant.chondrodysp"
+"3" "Singleton.Merten.dysplasia"
+"4" "Orphanet.79133"

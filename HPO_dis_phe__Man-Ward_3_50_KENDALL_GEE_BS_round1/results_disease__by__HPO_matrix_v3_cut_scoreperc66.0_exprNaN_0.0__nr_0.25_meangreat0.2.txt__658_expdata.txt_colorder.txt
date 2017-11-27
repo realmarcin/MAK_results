@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Bifid thoracic vertebrae"
+"3" "Hypoplastic coccygeal vertebrae"
+"4" "Hypoplastic sacral vertebrae"

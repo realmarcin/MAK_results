@@ -1,0 +1,5 @@
+"x"
+"1" "OMIM.210750"
+"2" "Occipital.Hair..White.Lock.of"
+"3" "Hairy.Nose.Tip"
+"4" "Pili.gemini"

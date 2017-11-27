@@ -1,0 +1,12 @@
+	"Cerebrotendinous Xanthomatosis"	"Megalencephaly With Dysmyelination"	"3-Methylglutaconic Aciduria, Type 1"	"Megalencephalic leukoencephalopathy with subcortical cysts 1"	"Aicardi-Goutieres Syndrome 4"	"Leukoencephalopathy, cystic, without megalencephaly"	"Megalencephalic leukoencephalopathy with subcortical cysts 2a"	"2,4-Dienoyl-CoA reductase deficiency"	"Orphanet:309246"	"Orphanet:363400"	"Orphanet:909"
+"Macrocephaly"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Ventriculomegaly"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Motor delay"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Megalencephaly"	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, mild"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar atrophy"	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003677"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Progressive neurologic deterioration"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Diffuse spongiform leukoencephalopathy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diffuse swelling of cerebral white matter"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Joubert syndrome 14"	"Orphanet:324422"	"Orphanet:90024"
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0
+"Encephalocele"	0.0	0.0	1.0	0.0	0.0
+"Hydrocephalus"	0.0	0.0	1.0	0.0	0.0
+"Hypertension"	0.0	0.0	1.0	0.0	0.0
+"Growth delay"	0.0	0.0	1.0	0.0	0.0
+"Irritability"	0.0	0.0	1.0	0.0	0.0
+"Open mouth"	0.0	0.0	1.0	0.0	0.0
+"Morning glory anomaly"	0.0	0.0	1.0	0.0	0.0
+"Dandy-Walker malformation"	0.0	0.0	1.0	0.0	0.0

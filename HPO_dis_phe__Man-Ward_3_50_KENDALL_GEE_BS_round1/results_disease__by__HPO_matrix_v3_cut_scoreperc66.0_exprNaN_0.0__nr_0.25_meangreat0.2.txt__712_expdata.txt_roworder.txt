@@ -1,0 +1,6 @@
+"x"
+"1" "LADD.syndrome"
+"2" "Papillorenal.Syndrome"
+"3" "Ehlers.Danlos.Syndrome..Type.V"
+"4" "OMIM.608967"
+"5" "OMIM.610380"

@@ -1,0 +1,6 @@
+"x"
+"1" "Optic nerve dysplasia"
+"2" "Intrahepatic biliary dysgenesis"
+"3" "Stippled chondral calcification"
+"4" "Hypoplastic olfactory lobes"
+"5" "Albuminuria"

@@ -1,0 +1,8 @@
+	"MYP2"	"Sinus Node Disease and Myopia"	"MYP3"	"MYP5"	"MYP19"	"Myopia 21, Autosomal Dominant"	"Myopia 25, Autosomal Dominant; MYP25"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the nervous system"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001425"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Retinal detachment"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Sick sinus syndrome"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Lattice retinal degeneration"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Severe Myopia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

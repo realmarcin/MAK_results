@@ -1,0 +1,14 @@
+	"Primary autosomal recessive microcephaly 5"	"Cortical Dysplasia, Complex, With Other Brain Malformations 8"	"Lissencephaly 4"	"MCHCCD"	"Microcephaly, progressive, with seizures and cerebral and cerebellar atrophy"	"Cortical dysplasia, complex, with other brain malformations 6"	"Primary autosomal recessive microcephaly 13"	"Microcephaly 16, primary, autosomal recessive"	"Mental Retardation, Autosomal Recessive 53; MRT53"
+"Delayed speech and language development"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"HP:0000006"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Polymicrogyria"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Cortical dysplasia"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Ataxia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Hyporeflexia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Optic nerve hypoplasia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003577"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Intellectual disability, profound"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Retinal dysplasia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Severe muscular hypotonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Colpocephaly"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"EEG with focal spikes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

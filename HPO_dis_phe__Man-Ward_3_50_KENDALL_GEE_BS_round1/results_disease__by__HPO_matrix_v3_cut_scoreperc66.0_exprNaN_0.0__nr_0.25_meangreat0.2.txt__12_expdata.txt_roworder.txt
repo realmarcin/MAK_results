@@ -1,0 +1,7 @@
+"x"
+"1" "familial.erythrocytosis.1"
+"2" "Erythrocytosis..familial..2"
+"3" "polycythemia.vera"
+"4" "Erythrocytosis..familial..3"
+"5" "Erythrocytosis..familial..4"
+"6" "Anemia..X.Linked..With.or.With"

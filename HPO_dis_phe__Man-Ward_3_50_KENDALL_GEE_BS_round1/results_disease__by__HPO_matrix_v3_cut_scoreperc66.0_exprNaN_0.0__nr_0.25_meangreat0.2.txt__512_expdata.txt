@@ -1,0 +1,24 @@
+	"Orphanet:1014"	"Orphanet:293964"	"Spontaneous periodic hypothermia"	"Mercury poisoning"	"Orphanet:97279"
+"Seizures"	0.0	0.0	1.0	1.0	1.0
+"Anxiety"	0.0	0.0	0.0	0.0	1.0
+"Pituitary prolactin cell adenoma"	0.0	0.0	0.0	0.0	1.0
+"Paresthesia"	0.0	0.0	0.0	0.0	1.0
+"Insomnia"	0.0	0.0	0.0	1.0	1.0
+"Tremor"	0.0	0.0	1.0	1.0	1.0
+"Hyperhidrosis"	0.0	0.0	1.0	0.0	1.0
+"Palpitations"	0.0	0.0	0.0	0.0	1.0
+"Generalized muscle weakness"	0.0	0.0	0.0	1.0	1.0
+"Fluctuations in consciousness"	0.0	0.0	0.0	0.0	1.0
+"Lethargy"	0.0	0.0	0.0	0.0	1.0
+"Zollinger-Ellison syndrome"	0.0	0.0	0.0	0.0	1.0
+"Primary hyperparathyroidism"	0.0	0.0	0.0	0.0	1.0
+"Polyphagia"	0.0	0.0	0.0	0.0	1.0
+"Abnormal rapid eye movement sleep"	0.0	0.0	0.0	0.0	1.0
+"Increased body weight"	0.0	0.0	0.0	0.0	1.0
+"Reactive hypoglycemia"	0.0	0.0	0.0	0.0	1.0
+"Neuroendocrine neoplasm"	0.0	0.0	0.0	0.0	1.0
+"Hearing abnormality"	0.0	0.0	0.0	0.0	1.0
+"Transient global amnesia"	0.0	0.0	0.0	0.0	1.0
+"Neoplasm of the adrenal gland"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the pancreatic islet cells"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of pain sensation"	0.0	0.0	0.0	0.0	1.0

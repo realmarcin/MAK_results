@@ -1,0 +1,18 @@
+	"Brachydactyly, Type C"	"Kniest-Like Dysplasia With Pursed Lips and Ectopia Lentis"	"Orphanet:314795"	"Orphanet:93388"
+"Short stature"	1.0	1.0	1.0	1.0
+"Madelung deformity"	1.0	0.0	1.0	0.0
+"Flexion contracture"	0.0	1.0	0.0	0.0
+"Lower limb undergrowth"	0.0	0.0	1.0	0.0
+"Short foot"	0.0	0.0	1.0	1.0
+"Deep philtrum"	0.0	1.0	0.0	0.0
+"Genu valgum"	0.0	0.0	1.0	0.0
+"Platyspondyly"	0.0	1.0	0.0	0.0
+"Tibial bowing"	0.0	1.0	1.0	0.0
+"Cervical kyphosis"	0.0	1.0	0.0	0.0
+"Ectopia lentis"	0.0	1.0	0.0	0.0
+"Femoral bowing"	0.0	1.0	0.0	0.0
+"Skeletal muscle hypertrophy"	0.0	0.0	1.0	0.0
+"Episodic ketoacidosis"	0.0	0.0	1.0	0.0
+"Forearm undergrowth"	0.0	0.0	1.0	0.0
+"Absent ossification of capital femoral epiphysis"	0.0	1.0	0.0	0.0
+"Ulnar radial head dislocation"	0.0	0.0	1.0	0.0

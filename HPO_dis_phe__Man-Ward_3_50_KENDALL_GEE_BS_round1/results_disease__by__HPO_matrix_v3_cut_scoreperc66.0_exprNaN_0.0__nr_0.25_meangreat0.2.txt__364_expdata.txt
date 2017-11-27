@@ -1,0 +1,25 @@
+	"Microcephalic osteodysplastic primordial dwarfism type 2"	"Hall-Riggs syndrome"	"hypoparathyroidism-retardation-dysmorphism syndrome"	"Filippi syndrome"	"Orphanet:2323"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0
+"Hypocalcemia"	0.0	0.0	0.0	0.0	1.0
+"Frontal bossing"	0.0	0.0	1.0	0.0	0.0
+"Depressed nasal bridge"	0.0	1.0	1.0	0.0	1.0
+"Bifid uvula"	0.0	0.0	1.0	0.0	0.0
+"Spinal canal stenosis"	0.0	0.0	0.0	0.0	1.0
+"Recurrent bacterial infections"	0.0	0.0	1.0	0.0	0.0
+"Hyperphosphatemia"	0.0	0.0	1.0	0.0	1.0
+"Corneal opacity"	0.0	0.0	0.0	0.0	1.0
+"Astigmatism"	0.0	0.0	0.0	0.0	1.0
+"Myopathy"	0.0	0.0	0.0	0.0	1.0
+"Patchy osteosclerosis"	0.0	0.0	1.0	0.0	1.0
+"HP:0008897"	1.0	0.0	1.0	1.0	1.0
+"Prominent forehead"	0.0	0.0	1.0	0.0	0.0
+"External ear malformation"	0.0	0.0	0.0	0.0	1.0
+"Growth hormone deficiency"	0.0	0.0	1.0	0.0	0.0
+"Tetany"	0.0	0.0	1.0	0.0	0.0
+"Cellular immunodeficiency"	0.0	0.0	0.0	0.0	1.0
+"Delayed myelination"	0.0	0.0	1.0	0.0	0.0
+"Hypocalcemic seizures"	0.0	0.0	1.0	0.0	0.0
+"Congenital hypoparathyroidism"	0.0	0.0	1.0	0.0	1.0
+"Severe intrauterine growth retardation"	0.0	0.0	1.0	0.0	1.0
+"Intestinal obstruction"	0.0	0.0	0.0	0.0	1.0
+"HP:0008056"	0.0	0.0	0.0	0.0	1.0

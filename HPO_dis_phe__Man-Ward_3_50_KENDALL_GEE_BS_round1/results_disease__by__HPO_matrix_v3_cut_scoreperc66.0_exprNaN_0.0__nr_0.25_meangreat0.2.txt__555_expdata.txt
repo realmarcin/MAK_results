@@ -1,0 +1,8 @@
+	"Methemoglobinemia Due to Deficiency of Methemoglobin Reductase"	"MRXS12"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"
+"HP:0000007"	1.0	0.0	0.0	0.0
+"Headache"	1.0	0.0	0.0	0.0
+"Polycythemia"	1.0	0.0	0.0	0.0
+"Opisthotonus"	1.0	0.0	0.0	0.0
+"Exertional dyspnea"	1.0	0.0	0.0	0.0
+"Cyanosis"	1.0	0.0	0.0	0.0
+"Methemoglobinemia"	1.0	0.0	0.0	0.0

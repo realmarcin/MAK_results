@@ -1,0 +1,17 @@
+	"Ulnar Agenesis and Endocardial Fibroelastosis"	"Transaldolase deficiency"	"Hydrops fetalis"	"Orphanet:158029"	"Orphanet:2781"
+"Small for gestational age"	0.0	1.0	0.0	0.0	0.0
+"Short philtrum"	0.0	1.0	0.0	0.0	0.0
+"Triangular face"	0.0	1.0	0.0	0.0	0.0
+"Low-set ears"	0.0	1.0	0.0	0.0	0.0
+"Ventricular septal defect"	0.0	1.0	0.0	0.0	0.0
+"Deep philtrum"	0.0	1.0	0.0	0.0	0.0
+"Wide mouth"	0.0	1.0	0.0	0.0	0.0
+"Wide anterior fontanel"	0.0	1.0	0.0	0.0	0.0
+"Micronodular cirrhosis"	0.0	1.0	0.0	0.0	0.0
+"Anemia"	0.0	1.0	0.0	0.0	0.0
+"Decreased liver function"	0.0	1.0	0.0	0.0	0.0
+"Thin vermilion border"	0.0	1.0	0.0	0.0	0.0
+"Clitoral hypertrophy"	0.0	1.0	0.0	0.0	0.0
+"Hepatic fibrosis"	0.0	1.0	0.0	0.0	0.0
+"Poor suck"	0.0	1.0	0.0	0.0	0.0
+"Patent foramen ovale"	0.0	1.0	0.0	0.0	0.0

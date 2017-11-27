@@ -1,0 +1,23 @@
+	"Orphanet:221"	"Polymyositis"	"Orphanet:779"	"Orphanet:801"	"Orphanet:90291"	"Orphanet:99867"
+"Feeding difficulties in infancy"	1.0	0.0	0.0	1.0	1.0	0.0
+"Narrow mouth"	0.0	0.0	0.0	1.0	1.0	0.0
+"Papule"	1.0	0.0	0.0	1.0	1.0	0.0
+"Hyperkeratosis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	0.0	1.0	1.0	0.0
+"Autoimmunity"	1.0	1.0	0.0	1.0	1.0	0.0
+"Bowel incontinence"	0.0	0.0	0.0	1.0	1.0	0.0
+"Migraine"	0.0	0.0	0.0	0.0	1.0	0.0
+"Myocardial infarction"	1.0	1.0	0.0	1.0	0.0	0.0
+"Atypical scarring of skin"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypertrophic cardiomyopathy"	0.0	1.0	0.0	1.0	0.0	0.0
+"Chondrocalcinosis"	1.0	1.0	0.0	1.0	1.0	0.0
+"Acrocyanosis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Pulmonary fibrosis"	1.0	1.0	0.0	1.0	1.0	0.0
+"Osteomyelitis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Gastroparesis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Cachexia"	0.0	0.0	0.0	1.0	1.0	0.0
+"Tendon rupture"	0.0	0.0	0.0	0.0	1.0	0.0
+"Myocardial fibrosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Gangrene"	1.0	0.0	0.0	1.0	1.0	0.0
+"Erectile abnormalities"	0.0	0.0	0.0	1.0	1.0	0.0
+"Tetralogy of Fallot with atrioventricular canal defect"	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+	"Mitochondrial Complex 1 Deficiency"	"Mitochondrial complex II deficiency"	"Myopathy with lactic acidosis, hereditary"	"Ophthalmoplegic Neuromuscular Disorder With Abnormal Mitochondria"	"Orphanet:2609"
+"Acute necrotizing encephalopathy"	1.0	0.0	0.0	0.0	0.0
+"Abnormal mitochondria in muscle tissue"	1.0	1.0	0.0	1.0	1.0
+"Stress/infection-induced lactic acidosis"	0.0	1.0	0.0	0.0	0.0
+"Progressive leukoencephalopathy"	0.0	1.0	0.0	0.0	0.0
+"Decreased activity of mitochondrial complex II"	0.0	1.0	1.0	0.0	0.0

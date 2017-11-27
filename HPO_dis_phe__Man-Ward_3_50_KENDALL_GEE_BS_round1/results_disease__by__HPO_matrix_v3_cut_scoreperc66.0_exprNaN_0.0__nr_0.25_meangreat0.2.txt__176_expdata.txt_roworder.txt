@@ -1,0 +1,6 @@
+"x"
+"1" "Autosomal.dominant.multiple.pt"
+"2" "Arthrogryposis..Distal..Type.5"
+"3" "Congenital.Contractures.of.the"
+"4" "Orphanet.75840"
+"5" "Orphanet.1147"

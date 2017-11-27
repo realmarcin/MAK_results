@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Right aortic arch"
+"3" "Ectopia of the spleen"
+"4" "HP:0010773"

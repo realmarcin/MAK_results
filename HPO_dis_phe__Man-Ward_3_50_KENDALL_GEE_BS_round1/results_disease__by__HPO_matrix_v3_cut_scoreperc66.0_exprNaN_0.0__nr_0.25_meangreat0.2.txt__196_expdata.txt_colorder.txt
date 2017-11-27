@@ -1,0 +1,5 @@
+"x"
+"1" "Loss of consciousness"
+"2" "Iron deficiency anemia"
+"3" "Interstitial pneumonitis"
+"4" "Episodic vomiting"

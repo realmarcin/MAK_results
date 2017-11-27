@@ -1,0 +1,16 @@
+	"Moebius syndrome-axonal neuropathy-hypogonadotropic hypogonadism syndrome"	"20p12.3 microdeletion syndrome"	"Orphanet:3339"	"Trisomy X"	"Orphanet:75496"	"X-linked intellectual disability, Stevenson type"	"Orphanet:86818"	"Distal monosomy 19p13.3"
+"Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Tall stature"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Microdontia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Tapered finger"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Intellectual disability, moderate"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Large hands"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Long foot"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Thick eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Areflexia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Thick nasal alae"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Palpebral edema"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Feeding difficulties"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Thickened helices"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Broad columella"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

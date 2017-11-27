@@ -1,0 +1,5 @@
+	"Sarcoidosis 1"	"Orphanet:1332"	"Orphanet:1666"	"NK-cell enteropathy"	"Orphanet:797"
+"Enlarged lacrimal glands"	1.0	0.0	0.0	0.0	1.0
+"Abnormal liver parenchyma morphology"	0.0	1.0	0.0	0.0	1.0
+"Abnormal reproductive system morphology"	0.0	0.0	1.0	0.0	1.0
+"Increase in T cell count"	0.0	0.0	0.0	1.0	1.0

@@ -1,0 +1,9 @@
+	"Inflammatory skin and bowel disease, neonatal 1"	"Papular xanthoma"	"Orphanet:41"	"Superficial pemphigus"	"Circumscribed palmoplantar hypokeratosis"
+"Eosinophilia"	1.0	0.0	0.0	0.0	0.0
+"Erythema"	1.0	0.0	0.0	0.0	0.0
+"Blepharitis"	1.0	0.0	0.0	0.0	0.0
+"Erythroderma"	1.0	0.0	0.0	0.0	0.0
+"Thick nail"	1.0	0.0	0.0	0.0	0.0
+"Hematochezia"	1.0	0.0	0.0	0.0	0.0
+"Paronychia"	1.0	0.0	0.0	0.0	0.0
+"Villous atrophy"	1.0	0.0	0.0	0.0	0.0

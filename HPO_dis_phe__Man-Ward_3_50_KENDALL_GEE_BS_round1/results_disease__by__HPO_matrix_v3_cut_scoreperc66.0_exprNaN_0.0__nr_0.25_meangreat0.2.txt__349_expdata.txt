@@ -1,0 +1,13 @@
+	"Myopathy, Centronuclear, 1"	"Conductive deafness-malformed external ear syndrome"	"Orphanet:3087"	"Orphanet:3216"
+"Preauricular skin tag"	0.0	0.0	0.0	1.0
+"Global developmental delay"	0.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	0.0	0.0	0.0	1.0
+"High palate"	0.0	0.0	0.0	1.0
+"Low-set ears"	0.0	1.0	0.0	1.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Conductive hearing impairment"	0.0	1.0	0.0	1.0
+"Microtia"	0.0	0.0	0.0	1.0
+"Stenosis of the external auditory canal"	0.0	0.0	0.0	1.0
+"Overfolded helix"	0.0	0.0	0.0	1.0
+"Abnormality of the middle ear ossicles"	0.0	1.0	0.0	1.0
+"HP:0004299"	0.0	0.0	0.0	1.0

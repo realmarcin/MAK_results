@@ -1,0 +1,10 @@
+	"Orphanet:1451"	"Orphanet:183"	"Orphanet:3287"	"Orphanet:33226"
+"Gastroesophageal reflux"	0.0	1.0	0.0	0.0
+"Eosinophilia"	0.0	1.0	0.0	0.0
+"Asthma"	0.0	1.0	0.0	0.0
+"Abdominal pain"	0.0	1.0	0.0	0.0
+"Tubulointerstitial nephritis"	0.0	1.0	0.0	0.0
+"Hypopigmented skin patches"	0.0	1.0	0.0	0.0
+"Nasal polyposis"	0.0	1.0	0.0	0.0
+"Transient ischemic attack"	0.0	1.0	0.0	0.0
+"Central nervous system degeneration"	0.0	1.0	0.0	0.0

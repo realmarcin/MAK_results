@@ -1,0 +1,32 @@
+	"BZX"	"Orphanet:113"	"Orphanet:1896"	"Orphanet:238468"
+"Sensorineural hearing impairment"	0.0	0.0	1.0	0.0
+"Hypospadias"	0.0	0.0	1.0	0.0
+"Hydronephrosis"	0.0	0.0	1.0	0.0
+"Vesicoureteral reflux"	0.0	0.0	1.0	0.0
+"Choanal atresia"	0.0	0.0	1.0	0.0
+"Thick eyebrow"	0.0	0.0	1.0	0.0
+"HP:0007513"	0.0	0.0	1.0	0.0
+"Taurodontia"	0.0	0.0	1.0	0.0
+"Subcutaneous nodule"	0.0	1.0	0.0	0.0
+"Milia"	1.0	1.0	0.0	0.0
+"Basal cell carcinoma"	1.0	1.0	0.0	0.0
+"Lymphoma"	0.0	0.0	1.0	0.0
+"Proximal placement of thumb"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the breasts"	0.0	0.0	1.0	0.0
+"Coarse hair"	1.0	1.0	1.0	0.0
+"Abnormality of the clavicle"	0.0	1.0	0.0	0.0
+"Corneal erosion"	0.0	0.0	1.0	0.0
+"Keratitis"	0.0	0.0	1.0	0.0
+"External ear malformation"	0.0	0.0	1.0	0.0
+"Growth hormone deficiency"	0.0	0.0	1.0	0.0
+"HP:0004782"	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the thumb"	0.0	0.0	1.0	0.0
+"Abnormality of finger"	0.0	1.0	0.0	0.0
+"Lacrimation abnormality"	0.0	0.0	1.0	0.0
+"Abnormality of the middle ear"	0.0	0.0	1.0	0.0
+"Trichorrhexis nodosa"	1.0	1.0	0.0	1.0
+"Hypoplasia of the thymus"	0.0	0.0	1.0	0.0
+"Renal hypoplasia/aplasia"	0.0	0.0	1.0	0.0
+"Urethral atresia"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the skin"	0.0	0.0	1.0	0.0
+"Hypoplasia of the ear cartilage"	0.0	1.0	0.0	0.0

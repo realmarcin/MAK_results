@@ -1,0 +1,8 @@
+"x"
+"1" "Craniosynostosis"
+"2" "HP:0000006"
+"3" "Oxycephaly"
+"4" "Turricephaly"
+"5" "Delayed speech and language development"
+"6" "Anteverted nares"
+"7" "Wide nose"

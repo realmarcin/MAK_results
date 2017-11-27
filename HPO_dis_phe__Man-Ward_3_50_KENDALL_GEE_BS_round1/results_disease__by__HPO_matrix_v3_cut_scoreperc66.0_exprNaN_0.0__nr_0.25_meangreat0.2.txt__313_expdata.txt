@@ -1,0 +1,15 @@
+	"Dystonia, Dopa-Responsive"	"X-linked parkinsonism-spasticity syndrome"	"Aceruloplasminemia"	"Orphanet:48818"	"Orphanet:58"
+"Diabetes mellitus"	0.0	0.0	1.0	1.0	1.0
+"Hypothyroidism"	0.0	0.0	0.0	1.0	1.0
+"Dysarthria"	0.0	0.0	1.0	1.0	1.0
+"Congestive heart failure"	0.0	0.0	0.0	1.0	0.0
+"Torticollis"	1.0	0.0	1.0	1.0	0.0
+"Anemia"	0.0	0.0	1.0	0.0	0.0
+"Scanning speech"	0.0	0.0	1.0	0.0	0.0
+"Increased serum ferritin"	0.0	0.0	1.0	1.0	0.0
+"Refractory anemia"	0.0	0.0	0.0	1.0	0.0
+"Cogwheel rigidity"	0.0	1.0	1.0	0.0	0.0
+"Aceruloplasminemia"	0.0	0.0	1.0	0.0	0.0
+"Decreased serum iron"	0.0	0.0	1.0	0.0	0.0
+"Decreased serum ceruloplasmin"	0.0	0.0	0.0	1.0	0.0
+"Elevated hepatic iron concentration"	0.0	0.0	0.0	1.0	0.0

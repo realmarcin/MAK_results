@@ -1,0 +1,5 @@
+	"Bannayan-Riley-Ruvalcaba Syndrome"	"Cohen Syndrome"	"Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1"	"Megalencephalic leukoencephalopathy with subcortical cysts 1"	"Hypertrichosis, Hyperkeratosis, Mental Retardation, and Distinctive Facial Features"	"Megalencephalic leukoencephalopathy with subcortical cysts 2a"	"Megalencephalic Leukoencephalopathy With Subcortical Cysts 2B, Remitting, With or Without Mental Retardation"	"Early infantile epileptic encephalopathy 18"	"Macrocephaly, Dysmorphic Facies, and Psychomotor Retardation; MDFPMR"	"Orphanet:2850"
+"Megalencephaly"	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Thick corpus callosum"	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Diffuse swelling of cerebral white matter"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Short corpus callosum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0

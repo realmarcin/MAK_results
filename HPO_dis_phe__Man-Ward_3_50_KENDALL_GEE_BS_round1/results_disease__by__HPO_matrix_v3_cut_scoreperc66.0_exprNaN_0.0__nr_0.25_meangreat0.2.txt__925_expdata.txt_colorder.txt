@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertelorism"
+"2" "Osteopenia"
+"3" "Hypoplasia of dental enamel"
+"4" "Abnormal facial shape"
+"5" "Down-sloping shoulders"
+"6" "Recurrent fractures"
+"7" "External ear malformation"

@@ -1,0 +1,21 @@
+	"Cerebrocostomandibular Syndrome"	"DiGeorge syndrome"	"Shprintzen syndrome"	"Craniofacioskeletal Syndrome"	"Chromosome 19Q13.11 Deletion Syndrome, Distal"
+"Muscular hypotonia"	0.0	0.0	1.0	0.0	0.0
+"Nasal speech"	1.0	1.0	1.0	0.0	0.0
+"Hypocalcemia"	0.0	1.0	1.0	1.0	0.0
+"Cleft palate"	0.0	1.0	1.0	1.0	0.0
+"Bulbous nose"	0.0	0.0	1.0	0.0	0.0
+"Specific learning disability"	0.0	1.0	1.0	0.0	0.0
+"Right aortic arch with mirror image branching"	0.0	1.0	1.0	0.0	0.0
+"Pierre-Robin sequence"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the endocrine system"	0.0	0.0	1.0	0.0	0.0
+"Open mouth"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the ear"	0.0	0.0	1.0	0.0	0.0
+"Posterior embryotoxon"	0.0	1.0	1.0	0.0	0.0
+"Paranoia"	0.0	0.0	1.0	0.0	0.0
+"Velopharyngeal insufficiency"	0.0	0.0	1.0	0.0	0.0
+"Recurrent infections"	0.0	1.0	1.0	0.0	1.0
+"Abnormality of the hand"	0.0	0.0	1.0	0.0	0.0
+"Impaired T cell function"	0.0	1.0	1.0	0.0	0.0
+"Mood swings"	0.0	0.0	1.0	0.0	0.0
+"Unilateral primary pulmonary dysgenesis"	0.0	0.0	1.0	0.0	0.0
+"Retinal vascular tortuosity"	0.0	0.0	1.0	0.0	0.0

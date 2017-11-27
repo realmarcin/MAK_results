@@ -1,0 +1,12 @@
+	"DECIPHER:21"	"Hypertelorism, Microtia, Facial Clefting Syndrome"	"Mental Retardation, X-Linked 61"	"MMEP syndrome"	"Ring chromosome 1"	"Orphanet:2612"	"Orphanet:3434"	"Orphanet:99812"	"Orphanet:999"
+"Intellectual disability"	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Cryptorchidism"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Median cleft lip"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Split foot"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Microphthalmia"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Ventricular septal defect"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Visual impairment"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Triphalangeal thumb"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Microcornea"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Widely-spaced maxillary central incisors"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Premature skin wrinkling"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

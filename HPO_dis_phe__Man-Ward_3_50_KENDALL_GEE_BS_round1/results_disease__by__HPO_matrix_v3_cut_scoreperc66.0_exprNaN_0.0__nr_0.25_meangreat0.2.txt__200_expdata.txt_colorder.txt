@@ -1,0 +1,5 @@
+"x"
+"1" "Pseudobulbar paralysis"
+"2" "Increased CSF protein"
+"3" "Dyslexia"
+"4" "HP:0001423"

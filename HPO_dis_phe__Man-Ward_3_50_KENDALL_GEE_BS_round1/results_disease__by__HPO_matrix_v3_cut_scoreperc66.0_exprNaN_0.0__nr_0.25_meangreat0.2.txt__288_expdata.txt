@@ -1,0 +1,7 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Osteopetrosis autosomal dominant type 2"	"Paget Disease of Bone 3"	"hypoparathyroidism-retardation-dysmorphism syndrome"	"Paget Disease of Bone 2, Early-Onset"	"Orphanet:2323"
+"Fractures of the long bones"	1.0	1.0	1.0	0.0	1.0	0.0
+"Osteomyelitis leading to amputation due to slow healing fractures"	1.0	0.0	0.0	0.0	0.0	0.0
+"Diaphyseal cortical sclerosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Patchy osteosclerosis"	1.0	0.0	1.0	1.0	0.0	1.0
+"Presenile cataracts"	1.0	0.0	0.0	0.0	0.0	0.0
+"Stenosis of the medullary cavity of the long bones"	1.0	0.0	0.0	0.0	0.0	0.0

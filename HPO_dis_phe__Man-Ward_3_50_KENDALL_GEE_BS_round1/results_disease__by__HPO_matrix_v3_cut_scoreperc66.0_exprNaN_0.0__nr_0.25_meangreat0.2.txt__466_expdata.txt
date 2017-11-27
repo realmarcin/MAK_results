@@ -1,0 +1,22 @@
+	"Donnai-Barrow Syndrome"	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Orphanet:2143"	"Orphanet:324422"	"Orphanet:90024"
+"Congenital diaphragmatic hernia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Iris coloboma"	1.0	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	1.0	0.0	0.0
+"Broad nasal tip"	1.0	0.0	0.0	0.0	0.0	0.0
+"Umbilical hernia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Intestinal malrotation"	1.0	0.0	0.0	1.0	0.0	0.0
+"Retinal detachment"	1.0	0.0	0.0	1.0	0.0	0.0
+"Proptosis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Wide anterior fontanel"	1.0	0.0	0.0	1.0	0.0	0.0
+"Progressive visual loss"	1.0	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the corpus callosum"	1.0	0.0	0.0	1.0	0.0	0.0
+"Partial agenesis of the corpus callosum"	1.0	0.0	0.0	0.0	0.0	0.0
+"Retinal dystrophy"	1.0	0.0	0.0	1.0	0.0	0.0
+"Omphalocele"	1.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the iris"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bicornuate uterus"	1.0	0.0	0.0	1.0	0.0	0.0
+"Severe Myopia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Infra-orbital crease"	1.0	0.0	0.0	0.0	0.0	0.0
+"Low-molecular-weight proteinuria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Non-acidotic proximal tubulopathy"	1.0	0.0	0.0	0.0	0.0	0.0
+"Diaphragmatic eventration"	1.0	0.0	0.0	0.0	0.0	0.0

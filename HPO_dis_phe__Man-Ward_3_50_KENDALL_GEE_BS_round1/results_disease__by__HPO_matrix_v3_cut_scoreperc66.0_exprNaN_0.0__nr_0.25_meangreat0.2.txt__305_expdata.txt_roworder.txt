@@ -1,0 +1,7 @@
+"x"
+"1" "Partial.acquired.lipodystrophy"
+"2" "APLDC3"
+"3" "Atherosclerosis..Premature..Wi"
+"4" "Fabry.Disease"
+"5" "Alagille.syndrome.due.to.a.NOT"
+"6" "Orphanet.225"

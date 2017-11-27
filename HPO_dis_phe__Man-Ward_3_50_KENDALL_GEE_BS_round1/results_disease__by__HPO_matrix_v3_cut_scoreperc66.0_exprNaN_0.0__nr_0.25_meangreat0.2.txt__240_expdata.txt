@@ -1,0 +1,13 @@
+	"Treacher Collins syndrome 1"	"Postaxial Acrofacial Dysostosis"	"14q22q23 microdeletion syndrome"	"Orphanet:1106"	"Orphanet:140"	"Orphanet:245"	"Orphanet:246"
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0100490"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Supernumerary nipple"	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Finger syndactyly"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Hypoplasia of the ulna"	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Cupped ear"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Ectropion of lower eyelids"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Low-set, posteriorly rotated ears"	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Abnormal dermatoglyphics"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Non-midline cleft lip"	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Cleft eyelid"	0.0	1.0	0.0	0.0	0.0	0.0	1.0

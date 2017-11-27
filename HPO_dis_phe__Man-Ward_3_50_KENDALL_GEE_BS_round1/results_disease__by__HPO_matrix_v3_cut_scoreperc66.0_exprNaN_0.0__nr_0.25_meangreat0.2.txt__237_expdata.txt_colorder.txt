@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Intussusception"
+"3" "Unilateral deafness"
+"4" "Multiple gastric polyps"
+"5" "Edema"
+"6" "Intestinal polyposis"
+"7" "Abnormality of the gastric mucosa"

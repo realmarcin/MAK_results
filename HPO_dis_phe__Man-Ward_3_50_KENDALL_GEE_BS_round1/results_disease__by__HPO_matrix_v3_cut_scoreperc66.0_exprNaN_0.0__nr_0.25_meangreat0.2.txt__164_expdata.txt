@@ -1,0 +1,6 @@
+	"Woolly hair-hypotrichosis-everted lower lip-outstanding ears syndrome"	"hypotrichosis 11"	"hypotrichosis 12"	"hypotrichosis 13"	"Diffuse palmoplantar keratoderma-acrocyanosis syndrome"	"Orphanet:86923"
+"HP:0000006"	0.0	1.0	1.0	1.0	0.0	0.0
+"Hypotrichosis"	1.0	1.0	1.0	1.0	0.0	0.0
+"Absent axillary hair"	0.0	1.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	1.0	1.0	0.0	0.0	0.0
+"Sparse or absent eyelashes"	0.0	1.0	1.0	0.0	0.0	0.0

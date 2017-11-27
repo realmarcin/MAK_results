@@ -1,0 +1,8 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Neoplasm"
+"3" "Opisthotonus"
+"4" "Vomiting"
+"5" "Abnormal bleeding"
+"6" "Abnormality of chromosome stability"
+"7" "Increased sensitivity to ionizing radiation"

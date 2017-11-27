@@ -1,0 +1,11 @@
+	"Syringomyelia, Isolated"	"Arnold-Chiari malformation type II"	"Striatal degeneration, autosomal dominant 1"	"Myoclonus, intractable, neonatal"
+"Microcephaly"	0.0	0.0	0.0	1.0
+"Dysphagia"	0.0	1.0	0.0	1.0
+"Generalized hypotonia"	0.0	1.0	0.0	1.0
+"HP:0003577"	0.0	0.0	0.0	1.0
+"Athetosis"	0.0	0.0	0.0	1.0
+"Feeding difficulties"	0.0	1.0	0.0	1.0
+"Cortical visual impairment"	0.0	0.0	0.0	1.0
+"Developmental stagnation"	0.0	0.0	0.0	1.0
+"Delayed myelination"	0.0	0.0	0.0	1.0
+"Progressive leukoencephalopathy"	0.0	0.0	0.0	1.0

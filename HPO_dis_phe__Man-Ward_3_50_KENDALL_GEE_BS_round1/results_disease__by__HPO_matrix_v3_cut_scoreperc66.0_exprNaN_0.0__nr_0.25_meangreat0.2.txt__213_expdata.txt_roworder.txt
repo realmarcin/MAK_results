@@ -1,0 +1,5 @@
+"x"
+"1" "Familial.dyskinesia.and.facial"
+"2" "Chorea..Benign.Hereditary"
+"3" "EKD2"
+"4" "Striatal.Degeneration..Autosom"

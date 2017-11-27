@@ -1,0 +1,7 @@
+"x"
+"1" "Mitochondrial.Trifunctional.Pr"
+"2" "Orphanet.71212"
+"3" "Glycogen.storage.disease.due.t"
+"4" "Glycogen.Storage.Disease.Ixa1"
+"5" "Orphanet.371"
+"6" "Orphanet.98895"

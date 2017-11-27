@@ -1,0 +1,10 @@
+	"Incisors, Shovel-Shaped"	"Thrombocytopenia, Paris-Trousseau Type"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"Micrognathia"	0.0	1.0	0.0	0.0	0.0
+"Ptosis"	0.0	1.0	0.0	0.0	0.0
+"Radial deviation of finger"	0.0	1.0	0.0	0.0	0.0
+"Clinodactyly"	0.0	1.0	0.0	0.0	0.0
+"Pyloric stenosis"	0.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	0.0	0.0	0.0
+"Thrombocytopenia"	0.0	1.0	0.0	0.0	0.0
+"Prolonged bleeding time"	0.0	1.0	0.0	0.0	0.0
+"Trigonocephaly"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"Orphanet:1451"	"Orphanet:3287"	"Orphanet:33226"	"Hypocomplementemic urticarial vasculitis"
+"Recurrent bacterial infections"	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	1.0
+"Reduced tendon reflexes"	0.0	0.0	0.0	1.0
+"Emphysema"	0.0	0.0	0.0	1.0
+"Irregular hyperpigmentation"	0.0	0.0	0.0	1.0
+"Complement deficiency"	0.0	0.0	0.0	1.0
+"Cerebral palsy"	0.0	0.0	0.0	1.0
+"Obstructive lung disease"	0.0	0.0	0.0	1.0
+"Small vessel vasculitis"	0.0	0.0	0.0	1.0

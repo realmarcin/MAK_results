@@ -1,0 +1,5 @@
+"x"
+"1" "Epistaxis"
+"2" "Abnormality of thrombocytes"
+"3" "Reduced prothrombin consumption"
+"4" "Absence of alpha granules"

@@ -1,0 +1,11 @@
+	"Heterotopia, periventricular, autosomal recessive"	"D-2-hydroxyglutaric aciduria 2"	"Periventricular Nodular Heterotopia 6"	"hypomyelinating leukodystrophy 12"
+"Constipation"	0.0	0.0	0.0	1.0
+"Dysautonomia"	0.0	0.0	0.0	1.0
+"Hearing impairment"	0.0	0.0	0.0	1.0
+"Optic atrophy"	0.0	0.0	0.0	1.0
+"Reduced visual acuity"	0.0	0.0	0.0	1.0
+"Focal seizures with impairment of consciousness or awareness"	0.0	0.0	0.0	1.0
+"Neurogenic bladder"	0.0	0.0	0.0	1.0
+"Temperature instability"	0.0	0.0	0.0	1.0
+"Developmental stagnation"	0.0	0.0	0.0	1.0
+"Epileptic encephalopathy"	0.0	0.0	0.0	0.0

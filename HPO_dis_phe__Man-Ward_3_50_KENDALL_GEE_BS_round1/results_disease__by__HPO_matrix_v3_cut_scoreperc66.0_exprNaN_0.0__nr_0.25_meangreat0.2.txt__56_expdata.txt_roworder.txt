@@ -1,0 +1,6 @@
+"x"
+"1" "Metatrophic.dysplasia"
+"2" "Spondyloepimetaphyseal.dysplas"
+"3" "Weaver.Syndrome"
+"4" "pseudoachondroplasia"
+"5" "Multiple.epiphyseal.dysplasia."

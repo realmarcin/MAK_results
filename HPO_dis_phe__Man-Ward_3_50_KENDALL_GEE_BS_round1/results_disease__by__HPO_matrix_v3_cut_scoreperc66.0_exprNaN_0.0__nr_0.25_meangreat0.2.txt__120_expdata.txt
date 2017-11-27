@@ -1,0 +1,8 @@
+	"Brachydactyly, Type C"	"Autosomal dominant multiple pterygium syndrome"	"Skeletal Dysplasia With Delayed Epiphyseal and Carpal Bone Ossification"	"Skeletal dysplasia-intellectual disability syndrome"	"Eiken syndrome"	"Congenital Contractures of the Limbs and Face, Hypotonia, and Developmental Delay"
+"Short stature"	1.0	1.0	1.0	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0	0.0	1.0
+"Skeletal dysplasia"	0.0	0.0	1.0	1.0	1.0	0.0
+"Delayed ossification of carpal bones"	0.0	0.0	1.0	0.0	0.0	0.0
+"Short 1st metacarpal"	1.0	0.0	1.0	0.0	0.0	0.0
+"Delayed epiphyseal ossification"	0.0	0.0	1.0	0.0	1.0	0.0
+"Broad middle phalanx of finger"	0.0	0.0	1.0	0.0	0.0	0.0

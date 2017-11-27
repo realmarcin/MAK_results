@@ -1,0 +1,5 @@
+"x"
+"1" "Temtamy.Preaxial.Brachydactyly"
+"2" "Diastrophic.Dysplasia"
+"3" "Otofaciocervical.Syndrome.2"
+"4" "Cold.induced.sweating.syndrome"

@@ -1,0 +1,12 @@
+	"Behcet's syndrome"	"Papular xanthoma"	"Orphanet:41"	"Superficial pemphigus"	"Circumscribed palmoplantar hypokeratosis"
+"Alopecia areata"	1.0	0.0	0.0	0.0	0.0
+"Erythema"	1.0	0.0	0.0	0.0	0.0
+"Arthritis"	1.0	0.0	0.0	0.0	0.0
+"Iritis"	1.0	0.0	0.0	0.0	0.0
+"Epididymitis"	1.0	0.0	0.0	0.0	0.0
+"Irritability"	1.0	0.0	0.0	0.0	0.0
+"Iridocyclitis"	1.0	0.0	0.0	0.0	0.0
+"Superficial thrombophlebitis"	1.0	0.0	0.0	0.0	0.0
+"Genital ulcers"	1.0	0.0	0.0	0.0	0.0
+"Chorioretinitis"	1.0	0.0	0.0	0.0	0.0
+"Raynaud phenomenon"	1.0	0.0	0.0	0.0	0.0

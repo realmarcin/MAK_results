@@ -1,0 +1,10 @@
+	"neuronal ceroid lipofuscinosis 3"	"neuronal ceroid lipofuscinosis 2"	"Bietti crystalline corneoretinal dystrophy"	"neuronal ceroid lipofuscinosis 1"	"neuronal ceroid lipofuscinosis 5"	"choroideremia"	"Choroideremia-deafness-obesity syndrome"	"Juvenile retinoschisis"	"Ceroid lipofuscinosis neuronal 6"	"Cone dystrophy 3"	"neuronal ceroid lipofuscinosis 9"	"Retinitis Pigmentosa 38"	"Cone-Rod Dystrophy 16"	"Exudative vitreoretinopathy 6"	"Orphanet:1947"
+"Clumsiness"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Progressive visual loss"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Chorioretinal atrophy"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Increased neuronal autofluorescent lipopigment"	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Macular atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Decreased light- and dark-adapted electroretinogram amplitude"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Undetectable electroretinogram"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Retinal degeneration"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Beaten bronze macular sheen"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

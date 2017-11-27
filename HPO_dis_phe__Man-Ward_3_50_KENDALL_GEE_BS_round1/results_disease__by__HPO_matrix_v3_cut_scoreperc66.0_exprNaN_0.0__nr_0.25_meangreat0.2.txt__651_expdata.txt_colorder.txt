@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Polysyndactyly of hallux"
+"3" "Disproportionate shortening of the tibia"
+"4" "Postaxial polysyndactyly of foot"

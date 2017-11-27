@@ -1,0 +1,8 @@
+"x"
+"1" "Coenzyme.Q10.Deficiency..Prima"
+"2" "NGLY1.deficiency"
+"3" "Microcephaly.Capillary.Malform"
+"4" "Combined.Oxidative.Phosphoryla"
+"5" "Salt.and.Pepper.Developmental."
+"6" "Mental.Retardation..Enteropath"
+"7" "Combined.oxidative.phosphoryla"

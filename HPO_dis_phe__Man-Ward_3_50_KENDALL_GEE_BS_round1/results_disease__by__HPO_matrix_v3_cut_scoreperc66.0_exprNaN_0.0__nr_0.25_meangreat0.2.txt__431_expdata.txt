@@ -1,0 +1,21 @@
+	"Frasier syndrome"	"Denys-Drash syndrome"	"Focal Segmental Glomerulosclerosis 1"	"Focal Segmental Glomerulosclerosis 7"	"Focal Segmental Glomerulosclerosis 8"	"Orphanet:220"	"Orphanet:347"
+"Congenital diaphragmatic hernia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001428"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Diffuse mesangial sclerosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Proteinuria"	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Increased circulating gonadotropin level"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Nephroblastoma"	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Gonadoblastoma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Male pseudohermaphroditism"	1.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Focal segmental glomerulosclerosis"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Gonadal dysgenesis"	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Ovarian gonadoblastoma"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Primary amenorrhea"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypergonadotropic hypogonadism"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Streak ovary"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Ambiguous genitalia, male"	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Ambiguous genitalia, female"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Gonadal tissue inappropriate for external genitalia or chromosomal sex"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"True hermaphroditism"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Decreased serum estradiol"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Gonadal dysgenesis with female appearance, male"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

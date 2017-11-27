@@ -1,0 +1,10 @@
+	"3-Methylglutaconic Aciduria, Type 1"	"HDL3"	"2,4-Dienoyl-CoA reductase deficiency"	"Orphanet:309246"	"Orphanet:363400"	"Orphanet:909"
+"Short attention span"	1.0	0.0	0.0	0.0	0.0	0.0
+"Failure to thrive"	1.0	0.0	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	1.0	0.0	0.0
+"Urinary incontinence"	1.0	1.0	0.0	0.0	0.0	0.0
+"Febrile seizures"	1.0	0.0	0.0	0.0	0.0	0.0
+"Metabolic acidosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"3-Methylglutaconic aciduria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Spastic tetraplegia"	1.0	0.0	0.0	0.0	0.0	0.0

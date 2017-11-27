@@ -1,0 +1,15 @@
+	"Geroderma Osteodysplasticum"	"Macroepiphyseal Dysplasia With Osteoporosis, Wrinkled Skin, and Aged Appearance"	"Microcephaly, short stature, and impaired glucose metabolism 1"	"Osteogenesis Imperfecta, Type 17"	"Orphanet:2078"
+"Muscular hypotonia"	0.0	0.0	0.0	1.0	1.0
+"Delayed speech and language development"	1.0	0.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	0.0
+"Motor delay"	0.0	0.0	1.0	1.0	0.0
+"Soft skin"	0.0	0.0	0.0	1.0	0.0
+"Muscle weakness"	0.0	0.0	0.0	1.0	0.0
+"Decreased muscle mass"	0.0	1.0	0.0	1.0	0.0
+"Coarse hair"	0.0	1.0	0.0	0.0	0.0
+"Reduced subcutaneous adipose tissue"	0.0	1.0	0.0	0.0	0.0
+"Epiphyseal dysplasia"	0.0	1.0	0.0	0.0	0.0
+"Enlarged joints"	0.0	1.0	0.0	0.0	0.0
+"Complex palmar dermatoglyphic pattern"	0.0	1.0	0.0	0.0	0.0
+"Thin metacarpal cortices"	0.0	0.0	0.0	1.0	0.0
+"Intraventricular hemorrhage"	0.0	0.0	0.0	1.0	0.0

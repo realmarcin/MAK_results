@@ -1,0 +1,7 @@
+"x"
+"1" "X3.Methylglutaconic.Aciduria.."
+"2" "HDL3"
+"3" "X2.4.Dienoyl.CoA.reductase.def"
+"4" "Orphanet.309246"
+"5" "Orphanet.363400"
+"6" "Orphanet.909"

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Cervical instability"
+"3" "Hypoplasia of the odontoid process"
+"4" "Atlantoaxial instability"
+"5" "Dystopic os odontoideum"

@@ -1,0 +1,10 @@
+	"Dystonia, Dopa-Responsive"	"Segawa Syndrome, Autosomal Recessive"	"Thiamine Metabolism Dysfunction Syndrome 2 (Biotin- or Thiamine-Responsive Type)"	"Deficiency of aromatic-L-amino-acid decarboxylase"
+"Gait ataxia"	1.0	1.0	1.0	0.0
+"Talipes equinovarus"	1.0	0.0	0.0	0.0
+"HP:0001425"	1.0	0.0	0.0	0.0
+"Dysarthria"	0.0	0.0	1.0	0.0
+"Mask-like facies"	0.0	1.0	0.0	0.0
+"Parkinsonism with favorable response to dopaminergic medication"	1.0	1.0	0.0	0.0
+"Transient hyperphenylalaninemia"	1.0	0.0	0.0	0.0
+"HP:0002375"	0.0	1.0	0.0	0.0
+"Decreased CSF homovanillic acid"	0.0	1.0	0.0	1.0

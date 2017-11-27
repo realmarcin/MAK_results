@@ -1,0 +1,5 @@
+	"Orphanet:1334"	"Charlie M syndrome"	"Choroidal atrophy-alopecia syndrome"	"Orphanet:1515"	"Hidrotic ectodermal dysplasia, Halal type"	"Palmoplantar keratoderma-spastic paralysis syndrome"	"Orphanet:2261"	"Orphanet:231568"	"Leukonychia totalis"	"Autosomal recessive hypohidrotic ectodermal dysplasia"	"Orphanet:949"	"Orphanet:963"
+"Aortic valve stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pulmonic stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal toenail morphology"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the fingernails"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

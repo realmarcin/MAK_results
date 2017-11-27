@@ -1,0 +1,10 @@
+	"Metaphyseal Chondrodysplasia, Schmid Type"	"osteogenesis imperfecta type 1"	"Hypophosphatemic Rickets With Hypercalciuria, Hereditary"	"Mannosidosis, Alpha B, Lysosomal"	"cartilage-hair hypoplasia"	"Hypocalcemic vitamin D-dependent rickets"	"Vitamin D-Dependent Rickets, Type 2A"	"Dent disease type 1"	"Hypophosphatemic rickets, X-linked recessive"	"Vitamin d hydroxylation-deficient rickets, type 1b"	"VDDR2B"	"Bruck syndrome 2"	"Renal-hepatic-pancreatic dysplasia 2"	"Short-Rib Thoracic Dysplasia 8 With or Without Polydactyly"	"Acrofacial Dysostosis, Cincinnati Type"	"Orphanet:1860"	"Autosomal dominant myopia-midfacial retrusion-sensorineural hearing loss-rhizomelic dysplasia syndrome"	"Orphanet:666"	"Orphanet:83"
+"Radial bowing"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Tibial bowing"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ulnar bowing"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Femoral bowing"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Delayed epiphyseal ossification"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Rickets"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Thin bony cortex"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Sparse bone trabeculae"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bulging epiphyses"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

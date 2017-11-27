@@ -1,0 +1,19 @@
+	"Achondroplasia"	"Pelger-Huet Anomaly"	"Baratela-Scott Syndrome"	"Acrofacial Dysostosis, Palagonia Type"	"Otofacioosseous-Gonadal Syndrome"	"Growth restriction, severe, with distinctive facies"
+"Truncal obesity"	0.0	0.0	1.0	0.0	0.0	0.0
+"Delayed speech and language development"	0.0	0.0	1.0	0.0	0.0	0.0
+"High pitched voice"	0.0	0.0	1.0	0.0	0.0	0.0
+"Malar flattening"	1.0	0.0	1.0	1.0	1.0	0.0
+"HP:0001419"	0.0	0.0	1.0	0.0	0.0	1.0
+"Cutaneous finger syndactyly"	0.0	0.0	1.0	1.0	0.0	0.0
+"Inguinal hernia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Synophrys"	0.0	0.0	1.0	0.0	0.0	0.0
+"Mild short stature"	0.0	1.0	1.0	0.0	0.0	0.0
+"Short femoral neck"	1.0	0.0	1.0	0.0	0.0	0.0
+"Dental crowding"	0.0	0.0	1.0	0.0	0.0	0.0
+"Chronic otitis media"	0.0	0.0	1.0	0.0	0.0	0.0
+"Astigmatism"	0.0	0.0	1.0	0.0	0.0	0.0
+"Flat acetabular roof"	0.0	0.0	1.0	0.0	0.0	0.0
+"Low posterior hairline"	0.0	0.0	1.0	0.0	0.0	0.0
+"Thoracic hypoplasia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Radial head subluxation"	0.0	0.0	1.0	0.0	0.0	0.0
+"Birth length less than 3rd percentile"	0.0	0.0	1.0	0.0	0.0	0.0

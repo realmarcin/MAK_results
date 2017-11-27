@@ -1,0 +1,8 @@
+"x"
+"1" "Split.Hand.Foot.Malformation.1"
+"2" "Split.hand.foot.malformation.4"
+"3" "Fibular.Aplasia..Tibial.Campom"
+"4" "Deafness..Congenital..With.Ony"
+"5" "Hypokalemic.periodic.paralysis"
+"6" "Heart.hand.syndrome..Slovenian"
+"7" "Adams.Oliver.Syndrome.6"

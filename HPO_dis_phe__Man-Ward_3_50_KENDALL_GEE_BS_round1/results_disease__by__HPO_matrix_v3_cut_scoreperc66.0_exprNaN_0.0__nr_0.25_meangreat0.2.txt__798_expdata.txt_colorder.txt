@@ -1,0 +1,6 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "Hyperactivity"
+"3" "Urinary hesitancy"
+"4" "Neonatal hyperbilirubinemia"
+"5" "Nocturia"

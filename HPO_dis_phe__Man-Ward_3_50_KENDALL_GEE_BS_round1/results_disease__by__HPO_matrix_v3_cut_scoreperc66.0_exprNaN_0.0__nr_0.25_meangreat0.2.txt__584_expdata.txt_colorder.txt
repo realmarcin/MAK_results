@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Hepatomegaly"
+"3" "Irritability"
+"4" "Dyspnea"
+"5" "Stridor"
+"6" "L-2-hydroxyglutaric aciduria"

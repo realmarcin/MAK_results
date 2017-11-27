@@ -1,0 +1,7 @@
+"x"
+"1" "Trigonocephaly.1"
+"2" "Isolated.trigonocephaly"
+"3" "holoprosencephaly.5"
+"4" "Chromosome.3Q29.Duplication.Sy"
+"5" "Holoprosencephaly.11"
+"6" "holoprosencephaly.7"

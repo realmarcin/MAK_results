@@ -1,0 +1,9 @@
+	"Renal-Hepatic-Pancreatic Dysplasia 1"	"Focal segmental glomerulosclerosis 4, susceptibility to"	"Joubert syndrome 20"	"Renal-hepatic-pancreatic dysplasia 2"
+"HP:0000007"	1.0	0.0	1.0	1.0
+"Talipes equinovarus"	0.0	0.0	0.0	1.0
+"Stillbirth"	0.0	0.0	0.0	1.0
+"Femoral bowing"	0.0	0.0	0.0	1.0
+"HP:0003577"	0.0	0.0	1.0	1.0
+"Truncus arteriosus"	0.0	0.0	0.0	1.0
+"Cystic renal dysplasia"	0.0	0.0	0.0	1.0
+"Asplenia"	1.0	0.0	0.0	1.0

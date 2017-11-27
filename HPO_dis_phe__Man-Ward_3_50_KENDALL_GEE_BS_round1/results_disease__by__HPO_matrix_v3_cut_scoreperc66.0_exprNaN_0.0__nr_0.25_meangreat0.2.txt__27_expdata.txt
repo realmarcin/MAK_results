@@ -1,0 +1,40 @@
+	"Duodenal neuroendocrine tumor"	"Jejunal neuroendocrine tumor"	"Ileal neuroendocrine tumor"	"Xanthoma disseminatum"
+"Hydronephrosis"	1.0	1.0	1.0	0.0
+"Pulmonic stenosis"	1.0	1.0	1.0	0.0
+"Growth hormone excess"	1.0	0.0	0.0	0.0
+"Edema"	1.0	1.0	1.0	0.0
+"Iron deficiency anemia"	1.0	1.0	1.0	0.0
+"Intestinal carcinoid"	1.0	0.0	0.0	0.0
+"Palpitations"	1.0	1.0	1.0	0.0
+"Nausea"	1.0	1.0	1.0	0.0
+"Elevated hepatic transaminases"	1.0	1.0	1.0	0.0
+"Zollinger-Ellison syndrome"	1.0	1.0	1.0	0.0
+"Insulinoma"	1.0	0.0	0.0	0.0
+"Glucagonoma"	1.0	0.0	0.0	0.0
+"Increased hematocrit"	1.0	0.0	0.0	0.0
+"Weight loss"	0.0	1.0	1.0	0.0
+"Tricuspid stenosis"	1.0	1.0	1.0	0.0
+"Chronic fatigue"	0.0	1.0	1.0	0.0
+"Hypotension"	1.0	1.0	1.0	0.0
+"Melena"	1.0	0.0	0.0	0.0
+"Elevated serum acid phosphatase"	1.0	1.0	1.0	0.0
+"Small intestine carcinoid"	0.0	1.0	1.0	0.0
+"Hepatic failure"	1.0	1.0	1.0	0.0
+"Right ventricular failure"	1.0	1.0	1.0	0.0
+"Hematemesis"	1.0	0.0	0.0	0.0
+"Paraganglioma"	1.0	0.0	0.0	0.0
+"Increased circulating ACTH level"	1.0	0.0	0.0	0.0
+"Increased serum serotonin"	0.0	1.0	1.0	0.0
+"Intrahepatic cholestasis with episodic jaundice"	1.0	0.0	0.0	0.0
+"Lymphadenopathy"	1.0	1.0	1.0	0.0
+"Episodic vomiting"	1.0	1.0	1.0	0.0
+"Intermittent diarrhea"	1.0	1.0	1.0	0.0
+"Episodic abdominal pain"	1.0	1.0	1.0	0.0
+"Functional intestinal obstruction"	1.0	1.0	1.0	0.0
+"Arterial occlusion"	0.0	1.0	1.0	0.0
+"Dermatological manifestations of systemic disorders"	1.0	1.0	1.0	0.0
+"Abnormality of the bronchi"	1.0	1.0	1.0	1.0
+"Extrahepatic cholestasis"	1.0	1.0	1.0	0.0
+"Cardiogenic shock"	1.0	1.0	1.0	0.0
+"Intestinal fistula"	1.0	1.0	1.0	0.0
+"Abnormal bowel sounds"	0.0	1.0	1.0	0.0

@@ -1,0 +1,28 @@
+	"Craniofacial dysmorphism, skeletal anomalies, and mental retardation syndrome"	"Megalocornea-Mental Retardation Syndrome"	"Cardiac anomalies-developmental delay-facial dysmorphism syndrome"	"Sifrim-Hitz-Weiss syndrome"	"Orphanet:2479"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0
+"EEG abnormality"	0.0	0.0	0.0	0.0	1.0
+"Round face"	0.0	1.0	1.0	0.0	0.0
+"Dysphagia"	0.0	1.0	0.0	0.0	0.0
+"Arachnodactyly"	0.0	1.0	0.0	0.0	0.0
+"Genu recurvatum"	0.0	1.0	0.0	0.0	0.0
+"Genu varum"	0.0	0.0	0.0	0.0	1.0
+"Bifid uvula"	0.0	1.0	0.0	0.0	0.0
+"Low anterior hairline"	1.0	1.0	0.0	0.0	0.0
+"Osteopenia"	0.0	1.0	0.0	0.0	1.0
+"Genu valgum"	0.0	1.0	0.0	0.0	0.0
+"Hypothyroidism"	0.0	0.0	0.0	0.0	1.0
+"Kyphosis"	0.0	0.0	0.0	0.0	1.0
+"Cupped ear"	0.0	1.0	0.0	1.0	0.0
+"Poor coordination"	0.0	1.0	0.0	0.0	0.0
+"Hypercholesterolemia"	0.0	1.0	0.0	0.0	1.0
+"Hypoplasia of the iris"	0.0	1.0	0.0	0.0	1.0
+"Megalocornea"	0.0	1.0	0.0	0.0	1.0
+"Delayed CNS myelination"	0.0	1.0	0.0	0.0	0.0
+"Pes valgus"	0.0	1.0	0.0	0.0	0.0
+"Large fleshy ears"	0.0	1.0	0.0	0.0	0.0
+"Primary hypothyroidism"	0.0	1.0	0.0	0.0	0.0
+"Joint hyperflexibility"	0.0	0.0	0.0	0.0	1.0
+"Iridodonesis"	0.0	1.0	0.0	0.0	1.0
+"Abnormality of the anterior chamber"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of immune system physiology"	0.0	0.0	0.0	0.0	1.0
+"Metatarsus valgus"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,13 @@
+	"Recombinant 8 syndrome"	"Oculofaciocardiodental syndrome"	"Microphthalmia, Syndromic 6"	"Stevenson-Carey Syndrome"	"Orphanet:264200"
+"Global developmental delay"	1.0	0.0	1.0	1.0	1.0
+"Renal hypoplasia"	0.0	0.0	1.0	0.0	1.0
+"Short 4th metacarpal"	0.0	0.0	0.0	0.0	1.0
+"Cupped ear"	0.0	0.0	0.0	0.0	1.0
+"Short 5th metacarpal"	0.0	0.0	0.0	0.0	1.0
+"Posteriorly rotated ears"	1.0	1.0	1.0	1.0	1.0
+"Anophthalmia"	0.0	1.0	1.0	0.0	1.0
+"Adrenal hypoplasia"	0.0	0.0	1.0	0.0	1.0
+"Diabetes insipidus"	0.0	0.0	0.0	0.0	1.0
+"Decreased fetal movement"	0.0	0.0	0.0	0.0	1.0
+"Optic nerve aplasia"	0.0	0.0	0.0	0.0	1.0
+"Anterior pituitary hypoplasia"	0.0	0.0	0.0	0.0	1.0

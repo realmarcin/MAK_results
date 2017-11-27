@@ -1,0 +1,5 @@
+"x"
+"1" "Telangiectasia..Hereditary.Hem"
+"2" "Hereditary.hemorrhagic.telangi"
+"3" "HHT4"
+"4" "episodic.ataxia.type.1"

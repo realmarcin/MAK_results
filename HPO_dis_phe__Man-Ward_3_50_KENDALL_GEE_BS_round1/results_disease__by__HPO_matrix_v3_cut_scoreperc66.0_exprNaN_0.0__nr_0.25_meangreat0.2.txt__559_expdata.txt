@@ -1,0 +1,12 @@
+	"Neurodegeneration with brain iron accumulation 2b"	"Spinocerebellar Ataxia, Autosomal Recessive 11"	"Spinocerebellar ataxia, autosomal recessive 16"	"Spinocerebellar Ataxia, Autosomal Recessive 24"
+"Short attention span"	1.0	0.0	0.0	0.0
+"Hyperactivity"	1.0	0.0	0.0	0.0
+"Neurofibrillary tangles"	1.0	0.0	0.0	0.0
+"Bradykinesia"	1.0	0.0	0.0	0.0
+"Dysmetria"	1.0	0.0	0.0	0.0
+"Talipes calcaneovalgus"	1.0	0.0	0.0	0.0
+"HP:0011463"	1.0	0.0	0.0	0.0
+"Chorea"	1.0	0.0	0.0	0.0
+"Emotional lability"	1.0	0.0	0.0	0.0
+"Feeding difficulties"	1.0	0.0	0.0	0.0
+"Impulsivity"	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Growth abnormality"
+"3" "Eosinophilia"
+"4" "Abnormality of the lymph nodes"
+"5" "Increased IgA level"
+"6" "Reduced delayed hypersensitivity"

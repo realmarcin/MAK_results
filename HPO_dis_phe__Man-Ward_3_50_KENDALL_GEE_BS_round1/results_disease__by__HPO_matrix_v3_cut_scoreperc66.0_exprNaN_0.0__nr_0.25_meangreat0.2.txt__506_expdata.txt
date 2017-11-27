@@ -1,0 +1,14 @@
+	"Hereditary coproporphyria"	"Late-onset isolated ACTH deficiency"	"Orphanet:738"	"Orphanet:79273"	"Orphanet:79473"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Anxiety"	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Thin skin"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Cutaneous photosensitivity"	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Irritability"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypermelanotic macule"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormal blistering of the skin"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Confusion"	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Visual hallucinations"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Auditory hallucinations"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypertrichosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypopigmented skin patches"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Motor polyneuropathy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Scarring"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

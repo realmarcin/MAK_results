@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Hypertrichosis"
+"3" "Porphyrinuria"
+"4" "Abnormality of male external genitalia"

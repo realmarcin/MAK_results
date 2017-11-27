@@ -1,0 +1,8 @@
+"x"
+"1" "Leber.Congenital.Amaurosis.1"
+"2" "Leber.congenital.amaurosis.2"
+"3" "Laurence.Moon.Syndrome"
+"4" "Isolated.cerebellar.hypoplasia"
+"5" "Cerebellar.Hypoplasia.With.End"
+"6" "Anterior.Segment.Dysgenesis.5"
+"7" "Hemorrhagic.destruction.of.the"

@@ -1,0 +1,8 @@
+"x"
+"1" "High palate"
+"2" "Scoliosis"
+"3" "HP:0003828"
+"4" "Respiratory insufficiency"
+"5" "Fetal akinesia sequence"
+"6" "Muscle weakness"
+"7" "Breech presentation"

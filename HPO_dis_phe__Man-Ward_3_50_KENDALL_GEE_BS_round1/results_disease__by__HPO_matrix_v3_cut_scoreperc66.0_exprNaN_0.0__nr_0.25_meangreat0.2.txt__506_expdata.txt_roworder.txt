@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.79273"
+"2" "Orphanet.79473"
+"3" "Hereditary.coproporphyria"
+"4" "Orphanet.738"
+"5" "Late.onset.isolated.ACTH.defic"
+"6" "Orphanet.85138"
+"7" "Acute.adrenal.insufficiency"

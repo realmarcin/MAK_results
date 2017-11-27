@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.282166"
+"2" "Jakob.Creutzfeldt.disease"
+"3" "Mast.syndrome"
+"4" "Pallidal.Degeneration..Progres"
+"5" "OPEM"
+"6" "Megalencephalic.leukoencephalo"

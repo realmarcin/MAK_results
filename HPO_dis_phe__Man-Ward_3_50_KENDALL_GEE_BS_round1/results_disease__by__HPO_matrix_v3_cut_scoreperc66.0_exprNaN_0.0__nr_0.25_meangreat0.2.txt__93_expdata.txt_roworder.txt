@@ -1,0 +1,5 @@
+"x"
+"1" "X3MC.syndrome.2"
+"2" "Orphanet.293843"
+"3" "X3MC.syndrome.1"
+"4" "X3MC.syndrome.3"

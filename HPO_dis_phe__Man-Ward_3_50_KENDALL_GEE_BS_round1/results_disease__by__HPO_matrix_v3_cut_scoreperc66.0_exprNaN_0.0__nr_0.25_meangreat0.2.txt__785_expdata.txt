@@ -1,0 +1,15 @@
+	"Myopathy, Tubular Aggregate, 1"	"Mitochondrial Myopathy"	"Emery-Dreifuss Muscular Dystrophy 1, X-Linked"	"Mitochondrial Myopathy With Diabetes"	"muscular dystrophy-dystroglycanopathy type B5"	"Emery-Dreifuss Muscular Dystrophy 7, Autosomal Dominant"	"Myopathy, Tubular Aggregate, 2"	"Orphanet:365"
+"Seizures"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Muscular hypotonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"EEG abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Dysphagia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Myopathy"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Generalized muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Atrioventricular block"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Emphysema"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Dysphasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abdominal wall muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"EMG abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

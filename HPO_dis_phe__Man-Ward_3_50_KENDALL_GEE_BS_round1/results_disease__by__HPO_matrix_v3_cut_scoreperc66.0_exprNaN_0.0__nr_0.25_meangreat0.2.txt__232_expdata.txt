@@ -1,0 +1,6 @@
+	"Amyotrophic Lateral Sclerosis 2, Juvenile"	"Fraser syndrome"	"Primary Lateral Sclerosis, Juvenile"	"PLSA1"	"Spastic paraplegia 75, autosomal recessive"	"Orphanet:1839"	"Orphanet:2388"	"Orphanet:247604"	"Orphanet:2547"	"Orphanet:282166"	"Orphanet:29073"	"Orphanet:293168"	"Juvenile amyotrophic lateral sclerosis"	"Orphanet:3339"	"Penile agenesis"
+"Abnormal upper motor neuron morphology"	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Difficulty in tongue movements"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pseudobulbar behavioral symptoms"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Spastic dysarthria"	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the bladder"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0

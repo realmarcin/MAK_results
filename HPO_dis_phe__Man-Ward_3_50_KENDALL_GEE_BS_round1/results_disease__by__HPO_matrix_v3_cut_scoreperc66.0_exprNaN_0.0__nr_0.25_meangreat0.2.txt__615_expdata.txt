@@ -1,0 +1,19 @@
+	"Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome"	"Dihydrolipoamide Dehydrogenase Deficiency"	"Orphanet:137"	"Orphanet:35"	"Orphanet:352"	"Orphanet:67048"
+"Peripheral neuropathy"	0.0	0.0	1.0	0.0	0.0	0.0
+"Broad forehead"	0.0	0.0	1.0	0.0	0.0	0.0
+"Wide intermamillary distance"	0.0	0.0	1.0	0.0	0.0	0.0
+"Nephropathy"	0.0	0.0	1.0	0.0	0.0	0.0
+"Cerebral cortical atrophy"	1.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of retinal pigmentation"	0.0	0.0	1.0	0.0	0.0	0.0
+"Decreased liver function"	1.0	1.0	1.0	0.0	0.0	1.0
+"Lethargy"	1.0	1.0	0.0	0.0	1.0	0.0
+"Hypergonadotropic hypogonadism"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of coagulation"	0.0	0.0	1.0	0.0	1.0	0.0
+"Ascites"	0.0	0.0	1.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the nipples"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormal subcutaneous fat tissue distribution"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the intestine"	0.0	0.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the cerebellum"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of vision"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of immune system physiology"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormal pericardium morphology"	0.0	0.0	1.0	0.0	0.0	0.0

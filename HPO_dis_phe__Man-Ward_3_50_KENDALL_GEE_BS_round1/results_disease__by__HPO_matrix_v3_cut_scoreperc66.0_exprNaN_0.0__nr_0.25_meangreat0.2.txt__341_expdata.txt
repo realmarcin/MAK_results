@@ -1,0 +1,19 @@
+	"sialuria"	"Mental Retardation, X-Linked, Syndromic 33"	"Potocki-Lupski Syndrome"	"Chromosome 10Q22.3-Q23.2 Deletion Syndrome"	"Orphanet:1713"	"Orphanet:3166"
+"Small for gestational age"	0.0	0.0	1.0	0.0	0.0	0.0
+"EEG abnormality"	0.0	0.0	1.0	0.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of cardiovascular system morphology"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormal renal morphology"	0.0	0.0	1.0	0.0	0.0	0.0
+"Dysarthria"	0.0	0.0	0.0	0.0	1.0	0.0
+"Sleep apnea"	1.0	0.0	1.0	0.0	1.0	1.0
+"Abnormality of the cardiovascular system"	0.0	0.0	1.0	0.0	0.0	0.0
+"Open bite"	0.0	0.0	0.0	0.0	1.0	0.0
+"Expressive language delay"	0.0	0.0	1.0	1.0	1.0	1.0
+"Echolalia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Dysphasia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Oral-pharyngeal dysphagia"	0.0	1.0	1.0	0.0	1.0	0.0
+"Abnormality of dental morphology"	0.0	0.0	0.0	0.0	1.0	0.0
+"Poor fine motor coordination"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypocholesterolemia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Delayed myelination"	0.0	0.0	1.0	0.0	0.0	0.0
+"Speech apraxia"	0.0	0.0	0.0	0.0	1.0	0.0

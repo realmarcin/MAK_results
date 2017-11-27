@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.439218"
+"2" "Heterotopia..periventricular.."
+"3" "D.2.hydroxyglutaric.aciduria.2"
+"4" "Periventricular.Nodular.Hetero"
+"5" "hypomyelinating.leukodystrophy"

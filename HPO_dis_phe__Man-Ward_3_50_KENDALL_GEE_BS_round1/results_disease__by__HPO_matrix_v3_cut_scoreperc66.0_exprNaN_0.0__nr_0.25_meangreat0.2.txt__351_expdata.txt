@@ -1,0 +1,17 @@
+	"Ebstein anomaly"	"Atrial Fibrillation, Familial, 15"	"chronic atrial and intestinal dysrhythmia"	"Orphanet:1880"
+"Atrial septal defect"	1.0	0.0	0.0	1.0
+"Patent ductus arteriosus"	0.0	0.0	0.0	1.0
+"Fatigue"	0.0	0.0	0.0	1.0
+"Premature birth"	0.0	0.0	0.0	1.0
+"Congestive heart failure"	0.0	0.0	0.0	1.0
+"Arterial thrombosis"	0.0	0.0	0.0	1.0
+"Sudden cardiac death"	1.0	0.0	0.0	1.0
+"Atrial standstill"	1.0	0.0	0.0	0.0
+"Right bundle branch block"	1.0	0.0	0.0	1.0
+"Chest pain"	0.0	0.0	0.0	1.0
+"Respiratory insufficiency"	0.0	0.0	0.0	1.0
+"Ventricular preexcitation"	1.0	0.0	0.0	0.0
+"Ebstein's anomaly of the tricuspid valve"	1.0	0.0	0.0	1.0
+"Cerebral ischemia"	0.0	0.0	0.0	1.0
+"Abnormality of the endocardium"	0.0	0.0	0.0	1.0
+"Imperforate tricuspid valve"	0.0	0.0	0.0	1.0

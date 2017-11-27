@@ -1,0 +1,10 @@
+	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Joubert Syndrome 26"	"Orphanet:324422"	"Orphanet:90024"
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0
+"Cleft palate"	0.0	0.0	1.0	0.0	0.0
+"Micropenis"	0.0	0.0	1.0	0.0	0.0
+"Cerebellar hypoplasia"	0.0	0.0	1.0	0.0	0.0
+"Panhypopituitarism"	0.0	0.0	1.0	0.0	0.0
+"Recurrent upper respiratory tract infections"	0.0	0.0	1.0	0.0	0.0
+"Inferior vermis hypoplasia"	0.0	0.0	1.0	0.0	0.0
+"Cleft lip"	0.0	0.0	1.0	0.0	0.0
+"Central hypothyroidism"	0.0	0.0	1.0	0.0	0.0

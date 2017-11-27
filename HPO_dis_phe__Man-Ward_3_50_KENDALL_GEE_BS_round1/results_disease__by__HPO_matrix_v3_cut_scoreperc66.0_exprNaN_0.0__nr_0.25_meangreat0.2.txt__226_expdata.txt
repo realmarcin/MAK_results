@@ -1,0 +1,19 @@
+	"Familial hemiplegic migraine type 1"	"episodic ataxia type 1"	"FAME1"	"Familial hemiplegic migraine type 2"	"Epilepsy, Familial Adult Myoclonic, 2"	"FAME3"	"FAME4"	"episodic ataxia type 8"
+"Intellectual disability"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Myoclonus"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Generalized tonic-clonic seizures"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"HP:0003581"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Tremor"	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+"HP:0003680"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Focal seizures"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0011463"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Difficulty walking"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Blepharospasm"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"EEG with photoparoxysmal response"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Generalized myoclonic seizures"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Giant somatosensory evoked potentials"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"EEG with irregular generalized spike and wave complexes"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Enhancement of the C-reflex"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Jerk-locked premyoclonus spikes"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0

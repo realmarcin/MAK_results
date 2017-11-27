@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Abnormality of the nail"
+"3" "Meningitis"
+"4" "Chronic oral candidiasis"
+"5" "Onychomycosis"

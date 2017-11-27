@@ -1,0 +1,15 @@
+	"Nager syndrome"	"Treacher Collins syndrome 1"	"Treacher Collins Syndrome 3"	"Mandibulofacial dysostosis with mental deficiency"	"14q22q23 microdeletion syndrome"	"Orphanet:245"
+"Micrognathia"	1.0	1.0	1.0	0.0	1.0	1.0
+"Ptosis"	0.0	1.0	0.0	0.0	1.0	1.0
+"Skeletal dysplasia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Wide mouth"	1.0	1.0	0.0	0.0	0.0	1.0
+"Triphalangeal thumb"	1.0	0.0	0.0	0.0	0.0	1.0
+"Unilateral renal agenesis"	1.0	0.0	0.0	0.0	0.0	1.0
+"Phocomelia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Lower eyelid coloboma"	1.0	1.0	1.0	1.0	0.0	1.0
+"Sparse lower eyelashes"	1.0	1.0	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the thumb"	1.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the lower limb"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal nasal morphology"	0.0	0.0	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0010669"	0.0	0.0	0.0	0.0	0.0	1.0

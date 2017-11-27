@@ -1,0 +1,33 @@
+	"Gorlin syndrome"	"Orphanet:2536"	"Orphanet:2745"	"Imperforate oropharynx-costo vetebral anomalies syndrome"
+"Hypospadias"	0.0	0.0	1.0	0.0
+"Cleft upper lip"	1.0	0.0	0.0	0.0
+"Motor delay"	1.0	0.0	0.0	0.0
+"HP:0003828"	1.0	0.0	0.0	0.0
+"Hypodontia"	0.0	0.0	1.0	0.0
+"HP:0001425"	1.0	0.0	0.0	0.0
+"Absent frontal sinuses"	0.0	1.0	0.0	0.0
+"Prominent metopic ridge"	0.0	0.0	1.0	0.0
+"Palmoplantar keratoderma"	0.0	1.0	0.0	0.0
+"Broad face"	1.0	0.0	0.0	0.0
+"Abnormality of the sternum"	1.0	0.0	0.0	0.0
+"Bifid ribs"	1.0	0.0	0.0	0.0
+"Sprengel anomaly"	1.0	0.0	0.0	0.0
+"Milia"	1.0	0.0	0.0	0.0
+"Orbital cyst"	1.0	0.0	0.0	0.0
+"Medulloblastoma"	1.0	0.0	0.0	0.0
+"Irregular ossification of hand bones"	1.0	0.0	0.0	0.0
+"Hamartomatous stomach polyps"	1.0	0.0	0.0	0.0
+"Bridged sella turcica"	1.0	0.0	0.0	0.0
+"Calcification of falx cerebri"	1.0	0.0	0.0	0.0
+"Supernumerary ribs"	1.0	0.0	0.0	0.0
+"Short distal phalanx of the thumb"	1.0	0.0	0.0	0.0
+"Cardiac rhabdomyoma"	1.0	0.0	0.0	0.0
+"Short 4th metacarpal"	1.0	0.0	0.0	0.0
+"Polydactyly"	1.0	0.0	0.0	0.0
+"Odontogenic keratocysts of the jaw"	1.0	0.0	0.0	0.0
+"Skin tags"	1.0	0.0	0.0	0.0
+"Cardiac fibroma"	1.0	0.0	0.0	0.0
+"Ovarian fibroma"	1.0	0.0	0.0	0.0
+"Ovarian carcinoma"	1.0	0.0	0.0	0.0
+"Torus palatinus"	0.0	1.0	0.0	0.0
+"Abnormality of the pharynx"	0.0	0.0	1.0	1.0

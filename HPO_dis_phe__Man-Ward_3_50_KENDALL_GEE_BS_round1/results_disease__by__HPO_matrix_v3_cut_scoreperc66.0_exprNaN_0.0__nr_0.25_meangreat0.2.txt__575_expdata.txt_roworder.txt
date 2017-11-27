@@ -1,0 +1,5 @@
+"x"
+"1" "Gordon.syndrome"
+"2" "Digitotalar.dysmorphism"
+"3" "Camptodactyly.taurinuria.syndr"
+"4" "Orphanet.178382"

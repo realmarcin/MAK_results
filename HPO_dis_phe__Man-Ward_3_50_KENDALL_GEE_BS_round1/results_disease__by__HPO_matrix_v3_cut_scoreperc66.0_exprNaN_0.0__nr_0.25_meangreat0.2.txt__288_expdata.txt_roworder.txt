@@ -1,0 +1,7 @@
+"x"
+"1" "Diaphyseal.medullary.stenosis."
+"2" "Paget.Disease.of.Bone.3"
+"3" "Osteopetrosis.autosomal.domina"
+"4" "hypoparathyroidism.retardation"
+"5" "Paget.Disease.of.Bone.2..Early"
+"6" "Orphanet.2323"

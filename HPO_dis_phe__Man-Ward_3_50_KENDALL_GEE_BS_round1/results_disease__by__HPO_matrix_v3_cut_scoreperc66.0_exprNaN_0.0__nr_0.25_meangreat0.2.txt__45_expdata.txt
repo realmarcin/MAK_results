@@ -1,0 +1,17 @@
+	"autosomal dominant Robinow syndrome 1"	"autosomal recessive Robinow syndrome"	"autosomal dominant Robinow syndrome 2"	"autosomal dominant Robinow syndrome 3"	"Orphanet:1507"	"Orphanet:3107"
+"Intellectual disability"	1.0	1.0	0.0	0.0	1.0	1.0
+"Downslanted palpebral fissures"	1.0	1.0	0.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	0.0	0.0	0.0	1.0
+"Inguinal hernia"	1.0	1.0	0.0	0.0	1.0	1.0
+"Hydronephrosis"	1.0	1.0	0.0	0.0	1.0	0.0
+"Oral cleft"	1.0	0.0	0.0	0.0	1.0	0.0
+"Pectus excavatum"	1.0	1.0	0.0	0.0	1.0	1.0
+"Short palm"	1.0	1.0	0.0	0.0	0.0	1.0
+"Retrognathia"	1.0	1.0	0.0	0.0	0.0	1.0
+"Posteriorly rotated ears"	1.0	1.0	0.0	0.0	0.0	1.0
+"Hypoplastic labia majora"	1.0	1.0	0.0	0.0	0.0	1.0
+"Nevus flammeus"	1.0	1.0	0.0	0.0	1.0	0.0
+"Rib fusion"	0.0	1.0	0.0	0.0	1.0	0.0
+"Clitoral hypoplasia"	1.0	1.0	0.0	0.0	0.0	1.0
+"Long palpebral fissure"	1.0	1.0	0.0	0.0	1.0	1.0
+"Bifid tongue"	1.0	1.0	0.0	0.0	1.0	1.0

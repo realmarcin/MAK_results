@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Facial asymmetry"
+"3" "Dental malocclusion"
+"4" "Hypoplasia of the maxilla"
+"5" "Amelogenesis imperfecta"
+"6" "Torticollis"
+"7" "Anterior open bite"

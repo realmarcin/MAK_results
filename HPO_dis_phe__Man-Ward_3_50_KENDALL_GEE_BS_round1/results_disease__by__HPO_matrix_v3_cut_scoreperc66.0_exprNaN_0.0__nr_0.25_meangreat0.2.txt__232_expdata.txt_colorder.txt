@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of the bladder"
+"2" "Spastic dysarthria"
+"3" "Abnormal upper motor neuron morphology"
+"4" "Pseudobulbar behavioral symptoms"
+"5" "Difficulty in tongue movements"

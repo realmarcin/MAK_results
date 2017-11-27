@@ -1,0 +1,7 @@
+"x"
+"1" "Neoplasm of the colon"
+"2" "Neoplasm of the rectum"
+"3" "Esophageal neoplasm"
+"4" "Melanonychia"
+"5" "Abnormal pigmentation of the oral mucosa"
+"6" "Neoplasm of the nose"

@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Secretory IgA deficiency"
+"3" "Chronic intestinal candidiasis"
+"4" "Dysplastic aortic valve"

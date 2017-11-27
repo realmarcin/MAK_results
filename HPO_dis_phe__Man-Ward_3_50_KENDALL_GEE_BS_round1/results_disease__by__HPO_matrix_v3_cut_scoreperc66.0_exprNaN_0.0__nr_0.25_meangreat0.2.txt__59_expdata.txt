@@ -1,0 +1,6 @@
+	"Ovalocytosis, Southeast Asian"	"Ovalocytosis, Hereditary Hemolytic, With Defective Erythropoiesis"	"6-Phosphogluconolactonase Deficiency"	"Amme Complex"	"Elliptocytosis 1"	"OMIM:616089"
+"Intellectual disability"	0.0	0.0	0.0	1.0	0.0	0.0
+"Midface retrusion"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0	1.0	0.0
+"Hemolytic anemia"	1.0	1.0	1.0	0.0	1.0	0.0
+"Elliptocytosis"	1.0	1.0	0.0	1.0	1.0	1.0

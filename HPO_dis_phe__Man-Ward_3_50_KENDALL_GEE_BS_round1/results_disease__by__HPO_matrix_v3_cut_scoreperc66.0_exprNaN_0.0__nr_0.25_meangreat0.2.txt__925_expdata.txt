@@ -1,0 +1,8 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Orphanet:3246"	"Orphanet:398173"	"Osteopenia-myopia-hearing loss-intellectual disability-facial dysmorphism syndrome"
+"Hypertelorism"	0.0	0.0	0.0	0.0	1.0
+"Osteopenia"	0.0	0.0	0.0	0.0	1.0
+"Hypoplasia of dental enamel"	0.0	0.0	0.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	0.0	0.0	1.0
+"Down-sloping shoulders"	0.0	0.0	0.0	0.0	1.0
+"Recurrent fractures"	0.0	0.0	0.0	0.0	1.0
+"External ear malformation"	0.0	0.0	0.0	0.0	1.0

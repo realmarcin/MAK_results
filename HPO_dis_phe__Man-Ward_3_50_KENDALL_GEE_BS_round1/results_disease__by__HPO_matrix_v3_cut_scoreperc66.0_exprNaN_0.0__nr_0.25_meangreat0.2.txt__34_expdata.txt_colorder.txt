@@ -1,0 +1,5 @@
+"x"
+"1" "Preaxial foot polydactyly"
+"2" "Preaxial hand polydactyly"
+"3" "Postaxial hand polydactyly"
+"4" "Postaxial foot polydactyly"

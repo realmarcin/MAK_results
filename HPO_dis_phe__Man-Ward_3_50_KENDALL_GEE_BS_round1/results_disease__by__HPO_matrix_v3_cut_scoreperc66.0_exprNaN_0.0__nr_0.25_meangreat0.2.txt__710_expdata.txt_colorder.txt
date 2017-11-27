@@ -1,0 +1,5 @@
+"x"
+"1" "Distal muscle weakness"
+"2" "Gait ataxia"
+"3" "Abnormality of the immune system"
+"4" "Upper limb postural tremor"

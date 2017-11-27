@@ -1,0 +1,25 @@
+	"Peroxisome Biogenesis Disorder 1A (Zellweger)"	"Peroxisome biogenesis disorder 2a (zellweger)"	"Mullerian derivatives-lymphangiectasia-polydactyly syndrome"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Orphanet:1655"	"Orphanet:912"
+"Seizures"	1.0	1.0	0.0	1.0	0.0	1.0
+"Feeding difficulties in infancy"	0.0	0.0	0.0	1.0	0.0	1.0
+"Macrocephaly"	1.0	0.0	0.0	0.0	0.0	1.0
+"Nystagmus"	1.0	0.0	0.0	0.0	0.0	1.0
+"Failure to thrive"	1.0	1.0	0.0	1.0	0.0	1.0
+"Sensorineural hearing impairment"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hypospadias"	1.0	0.0	0.0	0.0	0.0	1.0
+"Wide nasal bridge"	0.0	0.0	1.0	0.0	0.0	1.0
+"Lymphedema"	0.0	0.0	1.0	0.0	0.0	0.0
+"Polymicrogyria"	1.0	0.0	0.0	1.0	0.0	1.0
+"Jaundice"	0.0	1.0	0.0	1.0	0.0	1.0
+"Flat face"	1.0	0.0	0.0	1.0	0.0	1.0
+"High forehead"	1.0	1.0	0.0	1.0	0.0	1.0
+"Epicanthus"	1.0	1.0	0.0	1.0	0.0	1.0
+"Cataract"	1.0	1.0	0.0	1.0	0.0	1.0
+"Glaucoma"	1.0	0.0	0.0	0.0	0.0	1.0
+"Proptosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	0.0	0.0	0.0	1.0
+"Epiphyseal stippling"	1.0	0.0	0.0	1.0	0.0	1.0
+"Death in infancy"	0.0	0.0	1.0	0.0	0.0	1.0
+"Clitoral hypertrophy"	1.0	1.0	0.0	1.0	0.0	1.0
+"Thickened nuchal skin fold"	0.0	0.0	1.0	0.0	0.0	1.0
+"Brushfield spots"	1.0	1.0	0.0	1.0	0.0	1.0
+"Thyroid lymphangiectasia"	0.0	0.0	1.0	0.0	0.0	0.0

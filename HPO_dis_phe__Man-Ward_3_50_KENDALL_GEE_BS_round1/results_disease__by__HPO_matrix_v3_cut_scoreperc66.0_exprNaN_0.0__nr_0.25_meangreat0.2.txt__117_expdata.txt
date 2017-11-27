@@ -1,0 +1,8 @@
+	"X-linked immunoneurologic disorder"	"Paraplegia-intellectual disability-hyperkeratosis syndrome"	"X-linked dystonia-parkinsonism"	"Orphanet:431329"
+"Pes cavus"	0.0	1.0	0.0	0.0
+"HP:0001419"	0.0	1.0	1.0	0.0
+"High palate"	0.0	1.0	0.0	0.0
+"Brisk reflexes"	1.0	1.0	0.0	0.0
+"Palmoplantar hyperkeratosis"	0.0	1.0	0.0	0.0
+"Tremor"	0.0	1.0	1.0	0.0
+"Spastic paraplegia"	1.0	1.0	0.0	1.0

@@ -1,0 +1,5 @@
+	"X-linked mendelian susceptibility to mycobacterial diseases due to CYBB deficiency"	"Varicella, Severe Recurrent"	"Immunodeficiency 35"	"Susceptibility to viral and mycobacterial infections"	"Immunodeficiency 28"	"Immunodeficiency 30"	"Autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency"	"Immunodeficiency 38 With Basal Ganglia Calcification"	"Combined immunodeficiency due to CRAC channel dysfunction"
+"Severe recurrent varicella"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Recurrent mycobacterial infections"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Herpes simplex encephalitis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypocalcification of dental enamel"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

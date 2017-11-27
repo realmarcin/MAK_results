@@ -1,0 +1,5 @@
+"x"
+"1" "Aicardi.Goutieres.Syndrome.7"
+"2" "Stomatin.Deficient.Cryohydrocy"
+"3" "Cerebellar.atrophy..visual.imp"
+"4" "OMIM.617393"

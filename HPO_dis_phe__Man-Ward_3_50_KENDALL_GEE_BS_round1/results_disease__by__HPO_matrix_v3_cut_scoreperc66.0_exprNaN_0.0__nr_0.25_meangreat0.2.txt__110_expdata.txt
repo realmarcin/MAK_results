@@ -1,0 +1,24 @@
+	"Autoimmune lymphoproliferative syndrome"	"Autoimmune Lymphoproliferative Syndrome, Type 2A"	"Duodenal neuroendocrine tumor"	"Jejunal neuroendocrine tumor"	"Ileal neuroendocrine tumor"
+"Eosinophilia"	1.0	1.0	0.0	0.0	0.0
+"Autoimmune hemolytic anemia"	1.0	1.0	0.0	0.0	0.0
+"Autoimmune thrombocytopenia"	1.0	1.0	0.0	0.0	0.0
+"Iron deficiency anemia"	1.0	1.0	1.0	1.0	1.0
+"Vasculitis"	1.0	1.0	0.0	0.0	0.0
+"Urticaria"	1.0	1.0	0.0	0.0	0.0
+"Increased IgG level"	1.0	1.0	0.0	0.0	0.0
+"Antinuclear antibody positivity"	1.0	1.0	0.0	0.0	0.0
+"Antiphospholipid antibody positivity"	1.0	1.0	0.0	0.0	0.0
+"Platelet antibody positive"	1.0	1.0	0.0	0.0	0.0
+"Reduced delayed hypersensitivity"	1.0	1.0	0.0	0.0	0.0
+"Episodic vomiting"	0.0	0.0	1.0	1.0	1.0
+"Increased IgM level"	1.0	1.0	0.0	0.0	0.0
+"Coombs-positive hemolytic anemia"	1.0	1.0	0.0	0.0	0.0
+"Autoimmune neutropenia"	1.0	1.0	0.0	0.0	0.0
+"Follicular hyperplasia"	1.0	1.0	0.0	0.0	0.0
+"Chronic noninfectious lymphadenopathy"	1.0	1.0	0.0	0.0	0.0
+"Decreased lymphocyte apoptosis"	1.0	1.0	0.0	0.0	0.0
+"Elevated proportion of CD4-negative, CD8-negative, alpha-beta regulatory T cells"	1.0	1.0	0.0	0.0	0.0
+"Increased proportion of HLA DR+ and CD57+ T cells"	1.0	1.0	0.0	0.0	0.0
+"Rheumatoid factor positive"	1.0	1.0	0.0	0.0	0.0
+"Smooth muscle antibody positivity"	1.0	1.0	0.0	0.0	0.0
+"Antineutrophil antibody positivity"	1.0	1.0	0.0	0.0	0.0

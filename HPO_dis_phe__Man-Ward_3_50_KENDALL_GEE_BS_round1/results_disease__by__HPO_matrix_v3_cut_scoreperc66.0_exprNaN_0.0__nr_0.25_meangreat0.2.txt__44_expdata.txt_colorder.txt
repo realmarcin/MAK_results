@@ -1,0 +1,7 @@
+"x"
+"1" "Polyphagia"
+"2" "Obesity"
+"3" "Aggressive behavior"
+"4" "Hyperinsulinemia"
+"5" "Delayed speech and language development"
+"6" "No social interaction"

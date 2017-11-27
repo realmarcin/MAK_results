@@ -1,0 +1,5 @@
+"x"
+"1" "Brachydactyly..Type.A2"
+"2" "Rubinstein.Taybi.Syndrome.1"
+"3" "Stapes.ankylosis.with.broad.th"
+"4" "Rubinstein.Taybi.syndrome.due."

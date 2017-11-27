@@ -1,0 +1,15 @@
+	"Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome 2"	"Spinocerebellar Ataxia, Autosomal Recessive 11"	"Spinocerebellar ataxia, autosomal recessive 16"	"Spinocerebellar Ataxia, Autosomal Recessive 24"
+"Coarse facial features"	1.0	0.0	0.0	0.0
+"Intellectual disability, severe"	1.0	0.0	0.0	0.0
+"Short palm"	1.0	0.0	0.0	0.0
+"Short foot"	1.0	0.0	0.0	0.0
+"Hirsutism"	1.0	0.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	0.0
+"Abnormality of the neck"	1.0	0.0	0.0	0.0
+"Dysmetria"	1.0	0.0	0.0	0.0
+"Atrophy of the dentate nucleus"	1.0	0.0	0.0	0.0
+"Small hand"	1.0	0.0	0.0	0.0
+"Thoracic scoliosis"	1.0	0.0	0.0	0.0
+"Thoracic kyphosis"	1.0	0.0	0.0	0.0
+"Global brain atrophy"	1.0	0.0	0.0	0.0
+"Aplasia of the inferior half of the cerebellar vermis"	1.0	0.0	0.0	0.0

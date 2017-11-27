@@ -1,0 +1,11 @@
+	"Deafness-Craniofacial Syndrome"	"Varicose Veins"	"TKCR"	"Wildervanck Syndrome"	"Orphanet:168984"	"Cleft lip/palate-deafness-sacral lipoma syndrome"	"Orphanet:3241"	"Orphanet:3456"	"Orphanet:85283"
+"Cryptorchidism"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Facial asymmetry"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Melanocytic nevus"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal dysplasia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Oligospermia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Torticollis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Varicose veins"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Nephritis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Keloids"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Unilateral renal atrophy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Marfanoid.Habitus.With.Microce"
+"2" "Sotos.Syndrome.3..SOTOS3"
+"3" "Encephalopathy.due.to.beta.mer"
+"4" "Branchioskeletogenital.syndrom"
+"5" "Hydroxykynureninuria"
+"6" "Epilepsy..early.onset..vitamin"

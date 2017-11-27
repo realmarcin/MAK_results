@@ -1,0 +1,8 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "HP:0001419"
+"3" "Brisk reflexes"
+"4" "Tremor"
+"5" "Pes cavus"
+"6" "High palate"
+"7" "Palmoplantar hyperkeratosis"

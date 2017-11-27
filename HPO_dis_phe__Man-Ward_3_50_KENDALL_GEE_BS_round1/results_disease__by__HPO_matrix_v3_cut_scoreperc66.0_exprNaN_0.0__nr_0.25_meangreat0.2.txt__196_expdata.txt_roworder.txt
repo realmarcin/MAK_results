@@ -1,0 +1,7 @@
+"x"
+"1" "Mercury.poisoning"
+"2" "Breath.Holding.Spells"
+"3" "Congenital.disorder.of.glycosy"
+"4" "Orphanet.156"
+"5" "Congenital.fibrinogen.deficien"
+"6" "Wyburn.Mason.syndrome"

@@ -1,0 +1,14 @@
+	"Townes syndrome"	"Facial Dysmorphism With Multiple Malformations"	"Encephalocraniocutaneous lipomatosis"	"Orphanet:1647"	"Orphanet:1780"
+"Microphthalmia"	0.0	0.0	1.0	0.0	0.0
+"Cortical dysplasia"	0.0	0.0	1.0	0.0	0.0
+"Arachnoid cyst"	0.0	0.0	1.0	0.0	0.0
+"HP:0001442"	0.0	0.0	1.0	0.0	0.0
+"Subvalvular aortic stenosis"	0.0	0.0	1.0	0.0	0.0
+"Peripheral pulmonary artery stenosis"	0.0	0.0	1.0	0.0	0.0
+"Subcutaneous lipoma"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the iris"	0.0	0.0	1.0	0.0	0.0
+"Lipoma"	0.0	0.0	1.0	0.0	0.0
+"Pelvic kidney"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the anterior chamber"	0.0	0.0	1.0	0.0	0.0
+"Linear hyperpigmentation"	0.0	0.0	1.0	0.0	0.0
+"Lipomas of the central neryous system"	0.0	0.0	1.0	0.0	0.0

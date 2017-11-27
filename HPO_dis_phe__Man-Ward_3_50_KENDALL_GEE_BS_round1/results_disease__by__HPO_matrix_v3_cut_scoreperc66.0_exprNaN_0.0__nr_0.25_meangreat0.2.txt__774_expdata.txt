@@ -1,0 +1,21 @@
+	"Craniometaphyseal Dysplasia, Autosomal Dominant"	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Craniometaphyseal dysplasia, autosomal recessive type"	"Orphanet:3246"	"Orphanet:398173"
+"Coarse facial features"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypertelorism"	1.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the thorax"	0.0	0.0	0.0	1.0	0.0	0.0
+"Flared metaphysis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the vertebral column"	1.0	0.0	0.0	0.0	0.0	0.0
+"Delayed eruption of permanent teeth"	0.0	0.0	0.0	1.0	0.0	0.0
+"Mixed hearing impairment"	1.0	0.0	0.0	1.0	0.0	0.0
+"Misalignment of teeth"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the nasopharynx"	1.0	0.0	0.0	1.0	0.0	0.0
+"Nasal obstruction"	1.0	0.0	0.0	1.0	0.0	0.0
+"Sclerosis of skull base"	1.0	0.0	0.0	0.0	0.0	0.0
+"Metaphyseal widening"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bony paranasal bossing"	1.0	0.0	0.0	1.0	0.0	0.0
+"Erlenmeyer flask deformity of the femurs"	1.0	0.0	0.0	0.0	0.0	0.0
+"Calvarial osteosclerosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Club-shaped distal femur"	1.0	0.0	0.0	1.0	0.0	0.0
+"Metaphyseal dysplasia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Broad alveolar ridges"	0.0	0.0	0.0	1.0	0.0	0.0
+"Facial hyperostosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Patchy sclerosis of finger phalanx"	0.0	0.0	0.0	1.0	0.0	0.0

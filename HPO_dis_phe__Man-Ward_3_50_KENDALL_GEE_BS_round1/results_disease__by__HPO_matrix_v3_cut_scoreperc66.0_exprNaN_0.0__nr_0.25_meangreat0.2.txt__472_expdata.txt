@@ -1,0 +1,7 @@
+	"Fraser-Like Syndrome"	"Rudiger Syndrome"	"Martinez-Frias Syndrome"	"15q overgrowth syndrome"	"Orphanet:93302"
+"Contracture of the proximal interphalangeal joint of the 2nd finger"	1.0	0.0	0.0	1.0	0.0
+"Ureterovesical stenosis"	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the coccyx"	0.0	0.0	0.0	1.0	0.0
+"Contracture of the proximal interphalangeal joint of the 3rd finger"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the falx cerebri"	0.0	0.0	0.0	1.0	1.0
+"Absent foot"	0.0	0.0	0.0	0.0	0.0

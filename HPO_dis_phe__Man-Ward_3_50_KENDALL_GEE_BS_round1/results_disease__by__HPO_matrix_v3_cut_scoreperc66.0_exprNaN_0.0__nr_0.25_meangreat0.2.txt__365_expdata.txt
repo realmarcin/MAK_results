@@ -1,0 +1,14 @@
+	"Wiedemann-Steiner Syndrome"	"Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome"	"Intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome"	"Palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome"	"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart"	"Tokita-Kim Syndrome; TOKIMS"	"Shashi-Pena Syndrome; SHAPNS"
+"Frontal bossing"	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Horseshoe kidney"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Craniosynostosis"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of cardiovascular system morphology"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Flexion contracture"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Ventriculomegaly"	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Arachnoid cyst"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Optic atrophy"	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Hemivertebrae"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the ribs"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Developmental regression"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Cortical visual impairment"	0.0	1.0	1.0	0.0	0.0	1.0	0.0

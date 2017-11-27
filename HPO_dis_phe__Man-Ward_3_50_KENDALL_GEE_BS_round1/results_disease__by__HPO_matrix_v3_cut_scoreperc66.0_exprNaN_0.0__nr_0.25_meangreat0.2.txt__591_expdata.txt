@@ -1,0 +1,13 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Encephalopathy, progressive, early-onset, with brain atrophy and thin corpus callosum"	"Orphanet:2836"
+"Seizures"	0.0	0.0	1.0	0.0
+"Hypertelorism"	0.0	0.0	1.0	0.0
+"Constipation"	0.0	0.0	1.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	1.0	0.0
+"CNS hypomyelination"	0.0	0.0	1.0	0.0
+"Muscle weakness"	0.0	0.0	1.0	0.0
+"Gliosis"	0.0	0.0	1.0	0.0
+"Widely spaced teeth"	0.0	0.0	1.0	0.0
+"Upslanted palpebral fissure"	0.0	0.0	1.0	0.0
+"Sparse eyebrow"	0.0	0.0	1.0	0.0
+"Tongue fasciculations"	0.0	0.0	1.0	0.0
+"Diffuse cerebral atrophy"	0.0	0.0	1.0	0.0

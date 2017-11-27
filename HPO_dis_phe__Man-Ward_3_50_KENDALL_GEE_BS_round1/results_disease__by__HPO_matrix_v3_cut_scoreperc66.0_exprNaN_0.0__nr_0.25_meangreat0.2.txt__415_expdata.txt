@@ -1,0 +1,12 @@
+	"Adult onset ataxia with oculomotor apraxia"	"Perrault Syndrome 1"	"Adult polyglucosan body disease"	"Knobloch syndrome"	"Congenital cataracts-facial dysmorphism-neuropathy syndrome"	"Ataxia-Telangiectasia-Like Disorder 1"	"ataxia with oculomotor apraxia type 2"	"Charcot-Marie-Tooth disease type 4J"	"Peroxisome Biogenesis Disorder 8B"	"Charcot-Marie-Tooth Disease, Axonal, Type 2X"	"Orphanet:84142"
+"Decreased motor nerve conduction velocity"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Kyphoscoliosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Cerebral atrophy"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Distal arthrogryposis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Congenital cataract"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chorea"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Ankle contracture"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Peripheral axonal degeneration"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Peripheral hypomyelination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0

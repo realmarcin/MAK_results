@@ -1,0 +1,22 @@
+	"HFA"	"Orphanet:263458"	"Spontaneous periodic hypothermia"	"Orphanet:306"	"Orphanet:79299"	"Orphanet:97279"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Deeply set eye"	1.0	0.0	0.0	1.0	0.0	0.0
+"Myoclonus"	0.0	0.0	0.0	1.0	0.0	0.0
+"Fatigue"	0.0	1.0	1.0	1.0	1.0	1.0
+"Choreoathetosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0
+"Migraine"	1.0	0.0	0.0	1.0	0.0	0.0
+"Insulin resistance"	0.0	1.0	0.0	0.0	0.0	0.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Coma"	0.0	1.0	0.0	0.0	1.0	1.0
+"Abnormality of the autonomic nervous system"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hand tremor"	0.0	0.0	0.0	0.0	1.0	0.0
+"Recurrent hypoglycemia"	0.0	1.0	0.0	0.0	1.0	1.0
+"Dyskinesia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hyperinsulinemic hypoglycemia"	0.0	1.0	0.0	0.0	1.0	1.0
+"Fasting hyperinsulinemia"	0.0	1.0	0.0	0.0	1.0	1.0
+"Abnormality of vision"	0.0	0.0	0.0	1.0	0.0	1.0
+"Dysesthesia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Nausea and vomiting"	0.0	0.0	1.0	1.0	0.0	0.0
+"Reduced consciousness/confusion"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormal C-peptide level"	0.0	1.0	0.0	0.0	1.0	0.0

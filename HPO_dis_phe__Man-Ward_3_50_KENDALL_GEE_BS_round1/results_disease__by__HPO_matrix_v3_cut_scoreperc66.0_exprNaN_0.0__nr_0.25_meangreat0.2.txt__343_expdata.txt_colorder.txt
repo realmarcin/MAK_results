@@ -1,0 +1,6 @@
+"x"
+"1" "Fibrosarcoma"
+"2" "Gonadal calcification"
+"3" "Diffuse leiomyomatosis"
+"4" "Mesenteric cyst"
+"5" "Abnormality of the endometrium"

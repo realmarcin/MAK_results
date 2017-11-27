@@ -1,0 +1,7 @@
+	"MRXS12"	"Severe intellectual disability-progressive spastic diplegia syndrome"	"Mental retardation, autosomal dominant 24"	"Epileptic Encephalopathy, Early Infantile, 23"
+"Abnormality of the pinna"	0.0	0.0	0.0	1.0
+"HP:0000007"	0.0	0.0	0.0	1.0
+"Periorbital fullness"	0.0	0.0	0.0	1.0
+"Hypsarrhythmia"	0.0	0.0	0.0	1.0
+"Cortical visual impairment"	0.0	0.0	0.0	1.0
+"Epileptic encephalopathy"	0.0	0.0	0.0	1.0

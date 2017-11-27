@@ -1,0 +1,7 @@
+	"Citrullinemia, Type Ii, Adult-Onset"	"Orphanet:171"	"Orphanet:405"	"Benign recurrent intrahepatic cholestasis"
+"Hepatocellular carcinoma"	1.0	1.0	0.0	1.0
+"Pancreatitis"	1.0	1.0	1.0	1.0
+"Hypocalcemic seizures"	0.0	0.0	1.0	0.0
+"Renal hypophosphatemia"	0.0	0.0	1.0	0.0
+"Reduced ratio of renal calcium clearance to creatinine clearance"	0.0	0.0	1.0	0.0
+"Hypomagnesiuria"	0.0	0.0	1.0	0.0

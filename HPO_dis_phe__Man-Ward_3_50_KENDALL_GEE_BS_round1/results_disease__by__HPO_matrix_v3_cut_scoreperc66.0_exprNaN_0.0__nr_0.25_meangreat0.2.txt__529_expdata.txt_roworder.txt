@@ -1,0 +1,8 @@
+"x"
+"1" "Dermatitis..Atopic"
+"2" "Vulvovaginal.gingival.syndrome"
+"3" "ALG3.CDG"
+"4" "Orphanet.217335"
+"5" "Cono.spondylar.dysplasia"
+"6" "Immunodeficiency.With.Defectiv"
+"7" "Pachyonychia.congenita.type.2"

@@ -1,0 +1,23 @@
+	"Tyrosinemia type I"	"Reynolds syndrome"	"Orphanet:507"	"Orphanet:797"	"Orphanet:848"	"Orphanet:905"
+"Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Nephrocalcinosis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Renal insufficiency"	1.0	0.0	0.0	1.0	0.0	0.0
+"Gastrointestinal hemorrhage"	1.0	1.0	0.0	0.0	0.0	0.0
+"Hepatocellular carcinoma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal bleeding"	1.0	0.0	1.0	0.0	0.0	0.0
+"Hypertrophic cardiomyopathy"	1.0	0.0	0.0	0.0	1.0	0.0
+"Hypoglycemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the abdominal wall"	1.0	0.0	0.0	0.0	0.0	0.0
+"Enlarged kidney"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypertyrosinemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypophosphatemic rickets"	1.0	0.0	0.0	0.0	0.0	0.0
+"Periodic paralysis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Glomerulosclerosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Paralytic ileus"	1.0	0.0	0.0	0.0	0.0	0.0
+"Elevated urinary delta-aminolevulinic acid"	1.0	0.0	0.0	0.0	0.0	0.0
+"Elevated alpha-fetoprotein"	1.0	0.0	0.0	0.0	0.0	0.0
+"Pancreatic islet-cell hyperplasia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Renal Fanconi syndrome"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypermethioninemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Acute hepatic failure"	1.0	0.0	0.0	0.0	0.0	1.0
+"Episodic peripheral neuropathy"	1.0	0.0	0.0	0.0	0.0	0.0

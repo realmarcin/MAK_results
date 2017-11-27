@@ -1,0 +1,18 @@
+	"Pearson syndrome"	"Orphanet:2169"	"Duchenne and Becker muscular dystrophy"	"Orphanet:480"	"Orphanet:699"	"Proximal spinal muscular atrophy"	"Orphanet:977"
+"Muscular hypotonia"	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Small for gestational age"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Delayed skeletal maturation"	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+"Abnormality of skin pigmentation"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Exocrine pancreatic insufficiency"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Anemia"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"HP:0001427"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Type I diabetes mellitus"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Malabsorption"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal hemoglobin"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Reduced bone mineral density"	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Pancreatic fibrosis"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Renal Fanconi syndrome"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"3-Methylglutaric aciduria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Refractory sideroblastic anemia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Complex organic aciduria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0

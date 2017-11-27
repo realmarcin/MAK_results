@@ -1,0 +1,8 @@
+	"Orofacial cleft 10"	"Orphanet:116"	"Orphanet:1299"	"Duplication of the pituitary gland"
+"Abnormality of the shape of the midface"	0.0	1.0	1.0	0.0
+"Abnormality of the sella turcica"	0.0	0.0	1.0	1.0
+"Upper limb peromelia"	0.0	0.0	1.0	0.0
+"Amelia involving the lower limbs"	0.0	0.0	1.0	0.0
+"Abnormality of dentin"	0.0	0.0	1.0	0.0
+"Advanced pneumatization of the mastoid process"	0.0	0.0	1.0	0.0
+"Rootless teeth"	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.699"
+"2" "Pearson.syndrome"
+"3" "Orphanet.977"
+"4" "Orphanet.2169"
+"5" "Orphanet.480"
+"6" "Proximal.spinal.muscular.atrop"
+"7" "Duchenne.and.Becker.muscular.d"

@@ -1,0 +1,7 @@
+	"Spermatogenic Failure 6"	"SPGF1"	"Spermatogenic Failure 9"	"Spermatogenic failure 16"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Infertility"	1.0	1.0	0.0	1.0
+"Globozoospermia"	1.0	0.0	1.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	1.0	0.0	0.0
+"Reduced sperm motility"	0.0	0.0	0.0	1.0
+"Acephalic spermatozoa"	0.0	0.0	0.0	1.0

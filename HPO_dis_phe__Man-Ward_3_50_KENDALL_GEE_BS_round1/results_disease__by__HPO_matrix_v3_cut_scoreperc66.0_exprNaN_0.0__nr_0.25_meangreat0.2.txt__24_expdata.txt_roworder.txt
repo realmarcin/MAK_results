@@ -1,0 +1,8 @@
+"x"
+"1" "Friedreich.Ataxia.and.Congenit"
+"2" "Charcot.Marie.Tooth.Peroneal.M"
+"3" "FRDA2"
+"4" "Friedreich.Ataxia.1"
+"5" "neuronal.ceroid.lipofuscinosis"
+"6" "Combined.Oxidative.Phosphoryla"
+"7" "Neonatal.Marfan.syndrome"

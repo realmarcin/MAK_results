@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.99742"
+"2" "Warburg.micro.syndrome.4"
+"3" "Orphanet.1396"
+"4" "Orphanet.2031"
+"5" "Neonatal.adrenoleukodystrophy"

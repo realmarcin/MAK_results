@@ -1,0 +1,6 @@
+	"Hughes-Stovin syndrome"	"Orphanet:612"	"Orphanet:99976"	"Orphanet:99977"
+"Feeding difficulties in infancy"	0.0	1.0	1.0	1.0
+"Clinodactyly of the 5th toe"	0.0	0.0	1.0	1.0
+"Chest pain"	1.0	1.0	1.0	1.0
+"Esophageal carcinoma"	0.0	0.0	1.0	1.0
+"Nausea and vomiting"	1.0	0.0	1.0	1.0

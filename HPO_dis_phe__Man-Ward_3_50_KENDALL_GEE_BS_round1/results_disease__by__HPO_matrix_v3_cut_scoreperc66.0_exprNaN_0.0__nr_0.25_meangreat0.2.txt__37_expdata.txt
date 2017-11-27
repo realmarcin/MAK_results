@@ -1,0 +1,10 @@
+	"OMOD2"	"Omodysplasia 1"	"Orphanet:93271"	"Orphanet:93328"
+"Cryptorchidism"	1.0	1.0	1.0	1.0
+"Long philtrum"	1.0	1.0	1.0	1.0
+"Dislocated radial head"	1.0	0.0	0.0	0.0
+"Short humerus"	1.0	1.0	0.0	1.0
+"Short 1st metacarpal"	1.0	0.0	0.0	1.0
+"Bifid nasal tip"	1.0	0.0	0.0	0.0
+"Rhizomelic arm shortening"	1.0	0.0	0.0	0.0
+"Hypoplastic distal humeri"	1.0	1.0	0.0	0.0
+"Limited elbow flexion/extension"	1.0	1.0	0.0	0.0

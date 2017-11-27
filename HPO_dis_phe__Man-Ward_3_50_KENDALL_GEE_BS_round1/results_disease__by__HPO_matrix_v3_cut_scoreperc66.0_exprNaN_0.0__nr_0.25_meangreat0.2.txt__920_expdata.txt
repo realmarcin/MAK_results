@@ -1,0 +1,10 @@
+	"Isolated cerebellar hypoplasia/agenesis"	"Cerebellar Hypoplasia With Endosteal Sclerosis"	"Mental Retardation Syndrome, Mietens-Weber Type"	"Anterior Segment Dysgenesis 5"	"Hemorrhagic destruction of the brain, subependymal calcification, and cataracts"
+"Intellectual disability"	0.0	0.0	1.0	0.0	0.0
+"Pes planus"	0.0	0.0	1.0	0.0	0.0
+"Narrow nose"	0.0	0.0	1.0	0.0	0.0
+"Dislocated radial head"	0.0	0.0	1.0	0.0	0.0
+"Intellectual disability, mild"	0.0	0.0	1.0	0.0	0.0
+"Elbow flexion contracture"	0.0	0.0	1.0	0.0	0.0
+"Severe postnatal growth retardation"	0.0	0.0	1.0	0.0	0.0
+"Forearm undergrowth"	0.0	0.0	1.0	0.0	0.0
+"Absent proximal radial epiphyses"	0.0	0.0	1.0	0.0	0.0

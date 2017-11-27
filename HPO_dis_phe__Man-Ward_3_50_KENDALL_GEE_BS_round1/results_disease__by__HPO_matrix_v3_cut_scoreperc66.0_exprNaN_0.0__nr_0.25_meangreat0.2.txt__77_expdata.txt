@@ -1,0 +1,13 @@
+	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma"	"Ehlers-Danlos syndrome, type 4"	"Orphanet:90309"	"Ehlers-Danlos syndrome type 2"
+"Congenital diaphragmatic hernia"	0.0	0.0	1.0	1.0
+"Hyperextensible skin"	0.0	0.0	0.0	1.0
+"Pectus carinatum"	0.0	0.0	1.0	1.0
+"Hypertension"	0.0	0.0	1.0	1.0
+"Retinal detachment"	0.0	0.0	1.0	1.0
+"Recurrent urinary tract infections"	0.0	0.0	1.0	1.0
+"Varicose veins"	0.0	0.0	1.0	1.0
+"Peritonitis"	0.0	0.0	1.0	1.0
+"Aortic dissection"	0.0	0.0	1.0	1.0
+"Aortic dilatation"	0.0	0.0	1.0	1.0
+"Femoral hernia"	0.0	0.0	1.0	1.0
+"Abnormality of the oral cavity"	0.0	0.0	1.0	1.0

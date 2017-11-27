@@ -1,0 +1,24 @@
+	"Dermatopathia pigmentosa reticularis"	"Cowden syndrome 1"	"Cowden syndrome 5"	"Cowden syndrome 6"
+"Meningioma"	0.0	1.0	1.0	1.0
+"Breast carcinoma"	0.0	1.0	1.0	1.0
+"Alopecia of scalp"	1.0	0.0	0.0	0.0
+"Adermatoglyphia"	1.0	0.0	0.0	0.0
+"Palmoplantar hyperkeratosis"	1.0	1.0	1.0	1.0
+"Skin tags"	0.0	1.0	1.0	1.0
+"Transitional cell carcinoma of the bladder"	0.0	1.0	1.0	1.0
+"Goiter"	0.0	1.0	1.0	1.0
+"Abnormality of the conjunctiva"	1.0	0.0	0.0	0.0
+"Hypohidrosis or hyperhidrosis"	1.0	0.0	0.0	0.0
+"Reticular hyperpigmentation"	1.0	0.0	0.0	0.0
+"Reticulate pigmentation of oral mucosa"	1.0	0.0	0.0	0.0
+"Varicocele"	0.0	1.0	1.0	1.0
+"Furrowed tongue"	0.0	1.0	1.0	1.0
+"Hydrocele testis"	0.0	1.0	1.0	1.0
+"Hyperthyroidism"	0.0	1.0	1.0	1.0
+"Colonic diverticula"	0.0	1.0	1.0	1.0
+"Ovarian cyst"	0.0	1.0	1.0	1.0
+"Thyroid adenoma"	0.0	1.0	1.0	1.0
+"Angioid streaks of the retina"	0.0	1.0	1.0	1.0
+"Progressive macrocephaly"	0.0	1.0	1.0	1.0
+"Fibroadenoma of the breast"	0.0	1.0	1.0	1.0
+"HP:0100646"	0.0	1.0	1.0	1.0

@@ -1,0 +1,28 @@
+	"glycoproteinosis"	"Multiple sulfatase deficiency"	"Orphanet:354"	"Sialidosis type 1"	"Sialidosis type 2"
+"Coarse facial features"	1.0	1.0	1.0	1.0	1.0
+"EEG abnormality"	0.0	0.0	0.0	1.0	0.0
+"Ataxia"	0.0	1.0	1.0	1.0	1.0
+"Hyperkeratosis"	0.0	0.0	0.0	1.0	0.0
+"Myoclonus"	1.0	0.0	0.0	1.0	0.0
+"Osteoporosis"	0.0	0.0	0.0	0.0	1.0
+"Skeletal muscle atrophy"	1.0	0.0	0.0	1.0	1.0
+"Proteinuria"	1.0	0.0	0.0	0.0	0.0
+"Nephropathy"	0.0	0.0	0.0	0.0	1.0
+"Muscle weakness"	1.0	0.0	0.0	1.0	1.0
+"Tremor"	0.0	0.0	1.0	1.0	1.0
+"Gait disturbance"	0.0	0.0	0.0	1.0	0.0
+"Dyspnea"	0.0	0.0	0.0	0.0	1.0
+"Progressive visual loss"	1.0	0.0	0.0	1.0	0.0
+"Dysmetria"	1.0	0.0	0.0	0.0	0.0
+"Decreased nerve conduction velocity"	0.0	0.0	0.0	1.0	0.0
+"Aminoaciduria"	0.0	0.0	0.0	1.0	0.0
+"Edema of the lower limbs"	0.0	0.0	0.0	0.0	1.0
+"Dysphonia"	0.0	0.0	0.0	0.0	1.0
+"Facial edema"	1.0	0.0	0.0	0.0	0.0
+"Slurred speech"	1.0	0.0	0.0	1.0	0.0
+"Bone-marrow foam cells"	1.0	0.0	0.0	0.0	0.0
+"Increased urinary O-linked sialopeptides"	1.0	0.0	0.0	1.0	0.0
+"Urinary excretion of sialylated oligosaccharides"	1.0	0.0	0.0	1.0	0.0
+"Short thorax"	0.0	0.0	0.0	1.0	1.0
+"Abnormal macular morphology"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of bone marrow cell morphology"	0.0	0.0	0.0	0.0	1.0

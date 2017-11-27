@@ -1,0 +1,8 @@
+"x"
+"1" "Mental.retardation..autosomal."
+"2" "Phelan.Mcdermid.Syndrome"
+"3" "X.small.rings"
+"4" "Yuan.Harel.Lupski.Syndrome"
+"5" "Orphanet.48652"
+"6" "Chromosome.18Q.Deletion.Syndro"
+"7" "X3p25.3.microdeletion.syndrome"

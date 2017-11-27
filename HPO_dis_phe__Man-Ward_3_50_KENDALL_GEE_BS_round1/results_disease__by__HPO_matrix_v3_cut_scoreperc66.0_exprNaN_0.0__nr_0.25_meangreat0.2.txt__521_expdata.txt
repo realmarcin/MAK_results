@@ -1,0 +1,15 @@
+	"Spondyloepiphyseal Dysplasia Congenita"	"Orphanet:1830"	"Orphanet:239"	"Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia"	"Orphanet:582"	"Orphanet:93315"	"Spondyloepimetaphyseal dysplasia with joint laxity"	"Orphanet:94068"
+"Intellectual disability"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Autism"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Neurological speech impairment"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Spinal canal stenosis"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Skeletal dysplasia"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Platyspondyly"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Hip dislocation"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Joint stiffness"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Attention deficit hyperactivity disorder"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Shoulder dislocation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Sloping forehead"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the wrist"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the ilium"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

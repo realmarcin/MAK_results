@@ -1,0 +1,10 @@
+	"Glycogen storage disease due to muscle phosphorylase kinase deficiency"	"Glycogen Storage Disease Ixa1"	"Mitochondrial Trifunctional Protein Deficiency"	"Orphanet:371"	"Orphanet:71212"	"Orphanet:98895"
+"Small for gestational age"	0.0	0.0	1.0	0.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0000007"	0.0	0.0	1.0	0.0	0.0	0.0
+"Peripheral neuropathy"	0.0	0.0	1.0	0.0	1.0	0.0
+"Generalized muscle weakness"	0.0	0.0	1.0	0.0	0.0	0.0
+"Pigmentary retinopathy"	0.0	0.0	1.0	0.0	1.0	0.0
+"HP:0002878"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the amniotic fluid"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hydrops fetalis"	0.0	0.0	1.0	0.0	0.0	0.0

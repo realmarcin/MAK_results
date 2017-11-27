@@ -1,0 +1,8 @@
+	"Symphalangism With Multiple Anomalies of Hands and Feet"	"Frontonasal Dysplasia With Alar Clefts"	"Frontonasal dysplasia-severe microphthalmia-severe facial clefting syndrome"	"Orphanet:3246"	"Orphanet:398173"
+"Hypertelorism"	0.0	0.0	1.0	0.0	0.0
+"Microphthalmia"	0.0	0.0	1.0	0.0	0.0
+"Absent eyebrow"	0.0	0.0	1.0	0.0	0.0
+"Low-set, posteriorly rotated ears"	0.0	0.0	1.0	0.0	0.0
+"Upper eyelid coloboma"	0.0	0.0	1.0	0.0	0.0
+"Prominent glabella"	0.0	0.0	1.0	0.0	0.0
+"Facial cleft"	0.0	0.0	1.0	0.0	0.0

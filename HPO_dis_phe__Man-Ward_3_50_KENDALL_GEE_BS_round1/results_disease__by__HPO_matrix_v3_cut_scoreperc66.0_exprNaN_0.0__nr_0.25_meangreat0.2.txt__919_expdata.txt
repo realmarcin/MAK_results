@@ -1,0 +1,10 @@
+	"Isolated cerebellar hypoplasia/agenesis"	"Cerebellar Hypoplasia With Endosteal Sclerosis"	"Anterior Segment Dysgenesis 5"	"Hemorrhagic destruction of the brain, subependymal calcification, and cataracts"	"Orphanet:23"
+"Intellectual disability"	0.0	0.0	0.0	0.0	1.0
+"EEG abnormality"	0.0	0.0	0.0	0.0	1.0
+"Aminoaciduria"	0.0	0.0	0.0	0.0	1.0
+"Trichorrhexis nodosa"	0.0	0.0	0.0	0.0	1.0
+"Hyperammonemia"	0.0	0.0	0.0	0.0	1.0
+"Oroticaciduria"	0.0	0.0	0.0	0.0	1.0
+"Hyperglutaminemia"	0.0	0.0	0.0	0.0	1.0
+"Hypoargininemia"	0.0	0.0	0.0	0.0	1.0
+"Abnormal hair quantity"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "HP:0001417"
+"3" "Glomerulonephritis"
+"4" "Increased IgA level"

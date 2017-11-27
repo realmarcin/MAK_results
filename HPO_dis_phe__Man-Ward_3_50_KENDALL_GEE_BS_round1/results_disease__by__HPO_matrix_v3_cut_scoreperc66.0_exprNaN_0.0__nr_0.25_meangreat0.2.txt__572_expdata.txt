@@ -1,0 +1,9 @@
+	"Epileptic Encephalopathy, Early Infantile, 12"	"Congenital disorder of glycosylation type 1u"	"Microcephaly-thin corpus callosum-intellectual disability syndrome"	"Orphanet:2836"
+"Seizures"	0.0	1.0	0.0	0.0
+"High palate"	0.0	1.0	0.0	0.0
+"Strabismus"	0.0	1.0	0.0	0.0
+"Death in infancy"	0.0	1.0	0.0	0.0
+"Hypotelorism"	0.0	1.0	0.0	0.0
+"Myopathic facies"	0.0	1.0	0.0	0.0
+"Primitive reflex"	0.0	1.0	0.0	0.0
+"Congenital contracture"	0.0	1.0	0.0	0.0

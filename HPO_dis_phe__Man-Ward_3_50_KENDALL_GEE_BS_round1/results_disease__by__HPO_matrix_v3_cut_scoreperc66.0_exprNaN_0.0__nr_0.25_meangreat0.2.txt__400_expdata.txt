@@ -1,0 +1,13 @@
+	"Glycogen Storage Disease 2"	"Mitochondrial Myopathy"	"Becker muscular dystrophy"	"Muscular Dystrophy, Duchenne Type"	"Mitochondrial Myopathy With Diabetes"	"Mitochondrial Myopathy, Infantile, Transient"	"MDC1B"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Mental Retardation), Type B, 6"	"Emery-Dreifuss Muscular Dystrophy 7, Autosomal Dominant"
+"Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Motor delay"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Ataxia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Dysarthria"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Muscle weakness"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001427"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Ragged-red muscle fibers"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Mitochondrial myopathy"	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Decreased activity of mitochondrial complex IV"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Weakness of orbicularis oculi muscle"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

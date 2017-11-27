@@ -1,0 +1,11 @@
+	"Late-onset isolated ACTH deficiency"	"Orphanet:36397"	"Orphanet:738"	"Orphanet:85138"	"Acute adrenal insufficiency"
+"Anxiety"	0.0	1.0	0.0	0.0	0.0
+"Headache"	0.0	1.0	0.0	0.0	0.0
+"Arthritis"	0.0	1.0	0.0	0.0	0.0
+"Subcutaneous nodule"	0.0	1.0	0.0	0.0	0.0
+"Memory impairment"	0.0	1.0	0.0	0.0	0.0
+"Bruising susceptibility"	0.0	1.0	0.0	0.0	0.0
+"Sparse pubic hair"	0.0	1.0	0.0	0.0	0.0
+"Developmental regression"	0.0	1.0	0.0	0.0	0.0
+"Recurrent skin infections"	0.0	1.0	0.0	0.0	0.0
+"Telangiectasia of the skin"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Chronic lymphatic leukemia"
+"2" "Lymphoma"
+"3" "HP:0000006"
+"4" "Rheumatoid arthritis"
+"5" "Abnormality of metabolism/homeostasis"
+"6" "T-cell acute lymphoblastic leukemias"

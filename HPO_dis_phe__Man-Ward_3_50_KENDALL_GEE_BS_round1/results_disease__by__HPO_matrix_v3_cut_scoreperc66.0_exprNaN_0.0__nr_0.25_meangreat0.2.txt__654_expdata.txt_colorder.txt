@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Phenylpyruvic acidemia"
+"3" "Reduced phenylalanine hydroxylase activity"
+"4" "Maternal hyperphenylalaninemia"

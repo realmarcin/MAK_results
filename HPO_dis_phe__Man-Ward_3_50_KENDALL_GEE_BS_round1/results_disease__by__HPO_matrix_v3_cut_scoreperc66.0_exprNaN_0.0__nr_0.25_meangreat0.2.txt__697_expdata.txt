@@ -1,0 +1,20 @@
+	"Wiedemann-Steiner Syndrome"	"Schuurs-Hoeijmakers Syndrome"	"Mental Retardation, Autosomal Dominant 26"	"Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome"	"Chromosome 16p13.2 Deletion Syndrome"	"Hypotonia, Ataxia, and Delayed Development Syndrome; HADDS"
+"Muscular hypotonia"	0.0	0.0	0.0	1.0	1.0	0.0
+"Delayed cranial suture closure"	0.0	0.0	0.0	0.0	1.0	0.0
+"Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0
+"Large fontanelles"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hallux valgus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Apraxia"	0.0	0.0	0.0	0.0	1.0	1.0
+"Micropenis"	0.0	0.0	0.0	0.0	1.0	1.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0	1.0	0.0
+"Arthrogryposis multiplex congenita"	0.0	0.0	1.0	0.0	0.0	0.0
+"Decreased palmar creases"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0001276"	0.0	0.0	1.0	0.0	0.0	0.0
+"Wide nasal base"	0.0	0.0	1.0	0.0	0.0	0.0
+"Perseveration"	0.0	0.0	0.0	0.0	1.0	0.0
+"Thick vermilion border"	0.0	0.0	1.0	0.0	0.0	0.0
+"Premature adrenarche"	0.0	0.0	0.0	0.0	1.0	0.0
+"Cerebral palsy"	0.0	0.0	1.0	0.0	0.0	0.0
+"Prominent nasal tip"	0.0	0.0	1.0	0.0	0.0	0.0
+"Speech apraxia"	0.0	1.0	0.0	0.0	1.0	0.0
+"Central sleep apnea"	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,15 @@
+	"Aicardi Goutieres syndrome 1"	"Aicardi-Goutieres Syndrome 3"	"Aicardi-Goutieres Syndrome 4"	"Coats plus syndrome"	"Leukoencephalopathy, cystic, without megalencephaly"	"Aicardi Goutieres syndrome 5"	"Orphanet:309246"	"Orphanet:363400"	"Orphanet:909"
+"Hypoplasia of the corpus callosum"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Death in childhood"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Low-set ears"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hydrocephalus"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Convex nasal ridge"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Severe global developmental delay"	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Thrombocytopenia"	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Elevated hepatic transaminases"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Feeding difficulties"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hepatosplenomegaly"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Delayed myelination"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive microcephaly"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"CSF lymphocytic pleiocytosis"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0

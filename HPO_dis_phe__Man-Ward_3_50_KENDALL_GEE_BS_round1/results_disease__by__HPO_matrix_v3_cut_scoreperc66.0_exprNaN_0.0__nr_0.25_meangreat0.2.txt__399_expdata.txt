@@ -1,0 +1,10 @@
+	"Incisors, Shovel-Shaped"	"Thyrotoxic Periodic Paralysis, Susceptibility To, 1"	"Thyrotoxic periodic paralysis 2"	"Alopecia totalis"	"Pili bifurcati"	"Trichodysplasia-amelogenesis imperfecta syndrome"
+"HP:0001425"	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0003745"	0.0	1.0	1.0	0.0	0.0	0.0
+"Muscle weakness"	0.0	1.0	1.0	0.0	0.0	0.0
+"Goiter"	0.0	1.0	1.0	0.0	0.0	0.0
+"Palpitations"	0.0	1.0	1.0	0.0	0.0	0.0
+"Rhabdomyolysis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypokalemia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperthyroidism"	0.0	1.0	1.0	0.0	0.0	0.0
+"Periodic paralysis"	0.0	1.0	1.0	0.0	0.0	0.0

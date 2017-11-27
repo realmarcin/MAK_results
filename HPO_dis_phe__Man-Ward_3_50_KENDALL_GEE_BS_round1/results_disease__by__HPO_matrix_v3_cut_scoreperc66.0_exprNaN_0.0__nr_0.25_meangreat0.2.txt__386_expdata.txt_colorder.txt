@@ -1,0 +1,6 @@
+"x"
+"1" "Craniofacial dysostosis"
+"2" "Thin calvarium"
+"3" "Massively thickened long bone cortices"
+"4" "HP:0004782"
+"5" "Decreased number of sternal ossification centers"

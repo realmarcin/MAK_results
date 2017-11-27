@@ -1,0 +1,13 @@
+	"ataxia telangiectasia"	"Cerebrotendinous Xanthomatosis"	"Aicardi-Goutieres Syndrome 4"	"Coats plus syndrome"	"Cerebroretinal Microangiopathy With Calcifications and Cysts 2"	"Orphanet:309246"	"Orphanet:363400"	"Orphanet:909"
+"Short stature"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Osteopenia"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Osteoporosis"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Gastrointestinal hemorrhage"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Premature graying of hair"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0008897"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Retinal telangiectasia"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Pancytopenia"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Portal hypertension"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Esophageal varix"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

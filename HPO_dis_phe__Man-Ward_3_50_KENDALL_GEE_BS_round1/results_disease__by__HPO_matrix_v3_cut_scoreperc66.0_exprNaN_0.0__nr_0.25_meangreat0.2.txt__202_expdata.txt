@@ -1,0 +1,19 @@
+	"Wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia"	"Orphanet:166277"	"Orphanet:168624"	"Frontal encephalocele"
+"Hypertelorism"	1.0	1.0	1.0	1.0
+"Limited elbow extension"	1.0	0.0	0.0	0.0
+"Wormian bones"	1.0	1.0	0.0	0.0
+"Pathologic fracture"	0.0	1.0	0.0	0.0
+"Dolichocephaly"	1.0	1.0	1.0	1.0
+"Thin ribs"	1.0	0.0	0.0	0.0
+"Increased susceptibility to fractures"	1.0	0.0	0.0	0.0
+"Dentinogenesis imperfecta"	1.0	1.0	0.0	0.0
+"Delayed closure of the anterior fontanelle"	1.0	0.0	0.0	0.0
+"Limitation of joint mobility"	0.0	1.0	0.0	0.0
+"Periorbital fullness"	1.0	1.0	0.0	0.0
+"Asymmetry of the thorax"	1.0	0.0	0.0	0.0
+"Upper limb undergrowth"	0.0	1.0	0.0	0.0
+"Toe clinodactyly"	0.0	1.0	0.0	0.0
+"Abnormal cortical bone morphology"	0.0	1.0	0.0	0.0
+"Epiphyseal streaking"	1.0	0.0	0.0	0.0
+"Clinodactyly of the 3rd toe"	1.0	0.0	0.0	0.0
+"Clinodactyly of the 4th toe"	1.0	0.0	0.0	0.0

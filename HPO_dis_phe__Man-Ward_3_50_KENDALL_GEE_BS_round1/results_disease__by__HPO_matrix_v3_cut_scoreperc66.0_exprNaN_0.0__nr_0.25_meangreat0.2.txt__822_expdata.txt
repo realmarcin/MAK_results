@@ -1,0 +1,10 @@
+	"Popliteal Pterygium Syndrome"	"Aase-Smith Syndrome 1"	"Constricting Bands, Congenital"	"Multinucleated Neurons, Anhydramnios, Renal Dysplasia, Cerebellar Hypoplasia, and Hydranencephaly"	"Nephrosis-deafness-urinary tract-digital malformations syndrome"	"Bartsocas-Papas syndrome"	"ACLH"	"Meckel syndrome type 8"	"Cowden Syndrome 4"	"OMIM:617478"	"Dysraphism-cleft lip/palate-limb reduction defects syndrome"	"Orphanet:2516"	"Orphanet:916"
+"Cleft palate"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Syndactyly"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Talipes equinovarus"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Encephalocele"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal lung lobation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Gastroschisis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Bladder exstrophy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ectopia cordis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

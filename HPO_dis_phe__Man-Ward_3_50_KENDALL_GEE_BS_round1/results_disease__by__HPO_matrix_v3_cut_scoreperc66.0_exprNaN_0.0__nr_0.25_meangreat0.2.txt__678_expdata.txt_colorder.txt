@@ -1,0 +1,5 @@
+"x"
+"1" "Intellectual disability"
+"2" "Fetal distress"
+"3" "Abnormal liver function tests during pregnancy"
+"4" "Increased serum bile acid concentration during pregnancy"

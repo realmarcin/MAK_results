@@ -1,0 +1,7 @@
+"x"
+"1" "Epileptic.Encephalopathy..Earl"
+"2" "Epileptic.encephalopathy..earl"
+"3" "Heterotopia..periventricular.."
+"4" "D.2.hydroxyglutaric.aciduria.2"
+"5" "Periventricular.Nodular.Hetero"
+"6" "hypomyelinating.leukodystrophy"

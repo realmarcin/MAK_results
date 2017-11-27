@@ -1,0 +1,6 @@
+	"MYP18"	"Congenital stationary night blindness, type 1B"	"Oguchi Disease 1"	"Night Blindness, Congenital Stationary, Type 1F"
+"Strabismus"	0.0	0.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Myopia"	1.0	1.0	0.0	1.0
+"Congenital stationary night blindness"	0.0	1.0	1.0	1.0
+"Hemeralopia"	0.0	1.0	1.0	0.0

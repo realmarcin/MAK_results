@@ -1,0 +1,7 @@
+	"DECIPHER:92"	"Epilepsy, Photogenic, With Spastic Diplegia and Mental Retardation"	"Saccharopinuria"	"Spastic Diplegia and Mental Retardation"	"Shaheen Syndrome"
+"Microcephaly"	1.0	0.0	0.0	0.0	1.0
+"Delayed speech and language development"	1.0	0.0	0.0	0.0	1.0
+"Carious teeth"	0.0	0.0	0.0	0.0	1.0
+"Hypoplasia of dental enamel"	0.0	0.0	0.0	0.0	1.0
+"Palmoplantar hyperkeratosis"	0.0	0.0	0.0	0.0	1.0
+"Hypohidrosis"	0.0	0.0	0.0	0.0	1.0

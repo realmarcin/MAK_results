@@ -1,0 +1,18 @@
+	"GTP cyclohydrolase I deficiency"	"Leucine-induced hypoglycemia"	"Dihydropteridine reductase deficiency"	"6-pyruvoyl-tetrahydropterin synthase deficiency"	"Mental Retardation, X-Linked, Syndromic 13"	"Pyruvate dehydrogenase E1-alpha deficiency"	"Glut1 Deficiency Syndrome 2"
+"Small for gestational age"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Dystonia"	1.0	0.0	1.0	1.0	0.0	1.0	1.0
+"Parkinsonism"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Excessive daytime somnolence"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bradykinesia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Irritability"	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+"HP:0001276"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cerebral calcification"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Episodic fever"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Progressive neurologic deterioration"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Poor suck"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Excessive salivation"	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Hyperkinesis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Limb hypertonia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperphenylalaninemia"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Severe muscular hypotonia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,17 @@
+	"Deafness with labyrinthine aplasia, microtia, and microdontia"	"Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations"	"Thauvin-robinet-faivre syndrome"	"Orphanet:324422"	"Orphanet:90024"
+"Round face"	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0
+"Overgrowth"	0.0	0.0	1.0	0.0	0.0
+"Long hallux"	0.0	0.0	1.0	0.0	0.0
+"Large hands"	0.0	0.0	1.0	0.0	0.0
+"Long foot"	0.0	0.0	1.0	0.0	0.0
+"Large for gestational age"	0.0	0.0	1.0	0.0	0.0
+"Mitral valve prolapse"	0.0	0.0	1.0	0.0	0.0
+"Macroglossia"	0.0	0.0	1.0	0.0	0.0
+"Renal dysplasia"	0.0	0.0	1.0	0.0	0.0
+"Bowing of the legs"	0.0	0.0	1.0	0.0	0.0
+"Renal malrotation"	0.0	0.0	1.0	0.0	0.0
+"Nephroblastoma"	0.0	0.0	1.0	0.0	0.0
+"Varicose veins"	0.0	0.0	1.0	0.0	0.0
+"Thick vermilion border"	0.0	0.0	1.0	0.0	0.0
+"Bifid ureter"	0.0	0.0	1.0	0.0	0.0

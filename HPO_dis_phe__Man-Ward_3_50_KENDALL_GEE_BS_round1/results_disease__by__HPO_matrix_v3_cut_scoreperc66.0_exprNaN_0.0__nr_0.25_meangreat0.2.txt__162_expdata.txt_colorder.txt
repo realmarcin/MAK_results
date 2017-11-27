@@ -1,0 +1,5 @@
+"x"
+"1" "Retinoschisis"
+"2" "Cystic retinal degeneration"
+"3" "Electronegative electroretinogram"
+"4" "Mizuo phenomenon"
