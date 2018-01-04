@@ -1,0 +1,7 @@
+"x"
+"1" "Cone-shaped capital femoral epiphysis"
+"2" "Widened subarachnoid space"
+"3" "Fibular overgrowth"
+"4" "Dysplasia of the femoral head"
+"5" "Peg-like central prominence of distal tibial metaphyses"
+"6" "Cone-shaped epiphysis of the 1st metacarpal"

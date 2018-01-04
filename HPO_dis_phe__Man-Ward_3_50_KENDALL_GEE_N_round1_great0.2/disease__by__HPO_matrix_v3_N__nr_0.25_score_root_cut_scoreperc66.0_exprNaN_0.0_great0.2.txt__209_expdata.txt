@@ -1,0 +1,26 @@
+	"Peroxisome Biogenesis Disorder 1A (Zellweger)"	"Peroxisome biogenesis disorder 2a (zellweger)"	"Mullerian derivatives-lymphangiectasia-polydactyly syndrome"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Orphanet:1655"	"Orphanet:912"
+"Hypocalcemia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Midface retrusion"	0.0	0.0	1.0	0.0	1.0	0.0
+"Downslanted palpebral fissures"	0.0	0.0	1.0	0.0	1.0	0.0
+"Thin upper lip vermilion"	0.0	0.0	1.0	0.0	1.0	0.0
+"Inguinal hernia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Short neck"	0.0	0.0	1.0	0.0	1.0	0.0
+"Ventriculomegaly"	0.0	0.0	1.0	0.0	1.0	0.0
+"Vaginal atresia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Postaxial hand polydactyly"	0.0	0.0	1.0	0.0	1.0	0.0
+"Broad nasal tip"	0.0	0.0	0.0	0.0	1.0	0.0
+"Smooth philtrum"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abdominal distention"	0.0	0.0	1.0	0.0	1.0	0.0
+"Narrow chest"	0.0	0.0	1.0	0.0	1.0	0.0
+"Micropenis"	0.0	0.0	1.0	0.0	1.0	0.0
+"Polyhydramnios"	0.0	0.0	1.0	0.0	1.0	0.0
+"Hypoproteinemia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Pulmonary lymphangiectasia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Hypertrichosis"	0.0	0.0	1.0	0.0	1.0	0.0
+"Ascites"	0.0	0.0	1.0	0.0	1.0	0.0
+"Protein-losing enteropathy"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the uterus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Large eyes"	0.0	0.0	0.0	0.0	1.0	0.0
+"Pancreatic lymphangiectasis"	0.0	0.0	1.0	0.0	1.0	0.0
+"Alveolar ridge overgrowth"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the fallopian tube"	0.0	0.0	0.0	0.0	1.0	0.0

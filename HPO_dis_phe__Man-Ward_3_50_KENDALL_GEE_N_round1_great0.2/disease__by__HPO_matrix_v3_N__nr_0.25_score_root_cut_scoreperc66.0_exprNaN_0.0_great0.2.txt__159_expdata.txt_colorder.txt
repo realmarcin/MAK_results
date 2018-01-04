@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0001428"
+"2" "Paroxysmal nocturnal hemoglobinuria"
+"3" "Malignant mesothelioma"
+"4" "Synovial sarcoma"
+"5" "Alveolar soft part sarcoma"
+"6" "Myxoid liposarcoma"

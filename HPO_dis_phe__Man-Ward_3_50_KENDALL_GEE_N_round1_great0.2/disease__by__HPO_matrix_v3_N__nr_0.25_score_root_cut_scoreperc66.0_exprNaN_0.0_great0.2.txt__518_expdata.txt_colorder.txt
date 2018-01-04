@@ -1,0 +1,6 @@
+"x"
+"1" "Reduced visual acuity"
+"2" "Patent ductus arteriosus"
+"3" "Peripheral retinal atrophy"
+"4" "Absent foveal reflex"
+"5" "Comedonal acne"

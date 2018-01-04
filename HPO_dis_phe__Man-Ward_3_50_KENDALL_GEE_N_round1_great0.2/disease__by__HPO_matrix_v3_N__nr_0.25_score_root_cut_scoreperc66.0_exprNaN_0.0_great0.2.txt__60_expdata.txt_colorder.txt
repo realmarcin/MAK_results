@@ -1,0 +1,4 @@
+"x"
+"1" "Disseminated intravascular coagulation"
+"2" "Recurrent deep vein thrombosis"
+"3" "Post-angioplasty coronary artery restenosis"

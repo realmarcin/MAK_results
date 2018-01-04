@@ -1,0 +1,4 @@
+	"amelogenesis imperfecta type 1G"	"Ochoa syndrome"	"Mental Retardation, X-Linked 90"	"Adolescent nephronophthisis"	"SLSN3"	"Seizures, Sensorineural Deafness, Ataxia, Mental Retardation, and Electrolyte Imbalance"	"Urofacial Syndrome 2"	"Rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation syndrome"	"Intellectual disability-seizures-macrocephaly-obesity syndrome"	"Hinman syndrome"	"Orphanet:93598"	"Orphanet:96121"
+"Enuresis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Dagger-shaped pulp calcifications"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal facial expression"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

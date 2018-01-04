@@ -1,0 +1,4 @@
+"x"
+"1" "Abnormality of the vertebral column"
+"2" "Wrist pain"
+"3" "HP:0004563"

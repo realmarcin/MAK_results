@@ -1,0 +1,8 @@
+"x"
+"1" "Hyperuricemia"
+"2" "HP:0000006"
+"3" "Abnormality of the skin"
+"4" "Renal insufficiency"
+"5" "Multiple glomerular cysts"
+"6" "Chronic lactic acidosis"
+"7" "Abnormality of the renal tubule"

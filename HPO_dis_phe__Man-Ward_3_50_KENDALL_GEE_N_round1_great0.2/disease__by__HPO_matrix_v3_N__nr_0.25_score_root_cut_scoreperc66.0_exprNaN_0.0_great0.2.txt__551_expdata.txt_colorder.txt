@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Bifid uvula"
+"3" "Retrognathia"
+"4" "Submucous cleft hard palate"
+"5" "Abnormality of retinal pigmentation"

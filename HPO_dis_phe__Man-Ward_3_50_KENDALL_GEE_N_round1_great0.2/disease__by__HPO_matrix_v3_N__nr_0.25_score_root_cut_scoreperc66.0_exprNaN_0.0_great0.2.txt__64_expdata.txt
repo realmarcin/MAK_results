@@ -1,0 +1,7 @@
+	"Colorectal Cancer, Susceptibility To, 10"	"Hereditary nonpolyposis colorectal cancer type 8"	"Colorectal Cancer, Hereditary Nonpolyposis, Type 6"	"Colorectal Cancer, Hereditary Nonpolyposis, Type 4"	"Colorectal Cancer, Hereditary Nonpolyposis, Type 5"	"Colorectal Cancer, Hereditary Nonpolyposis, Type 7"
+"HP:0000006"	1.0	0.0	1.0	1.0	1.0	1.0
+"HP:0003829"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hereditary nonpolyposis colorectal carcinoma"	0.0	1.0	1.0	1.0	1.0	1.0
+"Endometrial carcinoma"	1.0	0.0	0.0	1.0	1.0	0.0
+"Colorectal polyposis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Ovarian neoplasm"	0.0	0.0	0.0	1.0	0.0	0.0

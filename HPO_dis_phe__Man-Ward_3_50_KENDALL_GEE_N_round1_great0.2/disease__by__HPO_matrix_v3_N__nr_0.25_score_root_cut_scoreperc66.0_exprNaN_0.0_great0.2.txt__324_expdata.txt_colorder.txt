@@ -1,0 +1,5 @@
+"x"
+"1" "Cleft palate"
+"2" "Seizures"
+"3" "Hypoplasia of the corpus callosum"
+"4" "Preaxial hand polydactyly"

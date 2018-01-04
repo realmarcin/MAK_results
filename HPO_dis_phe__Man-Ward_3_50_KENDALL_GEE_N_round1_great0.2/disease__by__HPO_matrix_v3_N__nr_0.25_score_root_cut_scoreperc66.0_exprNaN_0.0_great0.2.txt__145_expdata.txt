@@ -1,0 +1,8 @@
+	"Pfeiffer syndrome"	"Radial aplasia-thrombocytopenia syndrome"	"Orphanet:1507"	"Orphanet:1517"	"Orphanet:1520"	"Orphanet:168624"	"Orphanet:2152"	"Orphanet:2211"	"Orphanet:2249"	"Orphanet:2308"	"Orphanet:250989"	"2q31.1 microdeletion syndrome"	"Orphanet:251019"	"8p23.1 microdeletion syndrome"	"20p12.3 microdeletion syndrome"	"Orphanet:2662"	"Orphanet:3320"	"Orphanet:3447"	"Orphanet:380"	"Orphanet:392"	"Orphanet:503"	"Orphanet:585"	"Orphanet:710"	"Orphanet:783"	"Orphanet:794"	"Orphanet:857"	"Pfeiffer syndrome type 1"	"Pfeiffer syndrome type 2"	"Pfeiffer syndrome type 3"	"Brachydactyly type B"	"Brachydactyly type A5"	"Orphanet:957"
+"Preaxial hand polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Broad thumb"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Postaxial hand polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Finger syndactyly"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Preaxial foot polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Postaxial foot polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Broad hallux phalanx"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0

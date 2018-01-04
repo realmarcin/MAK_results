@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Short femoral neck"
+"3" "Bowing of the legs"
+"4" "Metaphyseal widening"
+"5" "Metaphyseal irregularity"

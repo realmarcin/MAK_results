@@ -1,0 +1,5 @@
+"x"
+"1" "Nystagmus"
+"2" "Abnormal iris pigmentation"
+"3" "Aplasia/Hypoplasia of the macula"
+"4" "Abnormal foveal morphology on macular OCT"

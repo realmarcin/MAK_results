@@ -1,0 +1,5 @@
+"x"
+"1" "Microcephaly"
+"2" "Azoospermia"
+"3" "Male hypogonadism"
+"4" "2-4 toe syndactyly"

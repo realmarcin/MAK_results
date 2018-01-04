@@ -1,0 +1,7 @@
+"x"
+"1" "Facial erythema"
+"2" "Food intolerance"
+"3" "Perifollicular fibrosis"
+"4" "Flexural lichenification"
+"5" "Infra-orbital fold"
+"6" "Abnormality of tumor necrosis factor secretion"

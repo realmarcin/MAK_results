@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperdibasic.aminoaciduria.typ"
+"2" "cystinuria"
+"3" "Hyperlysinuria.With.Hyperammon"
+"4" "Seizures.intellectual.disabili"
+"5" "Lysine.Malabsorption.Syndrome"
+"6" "Saccharopinuria"

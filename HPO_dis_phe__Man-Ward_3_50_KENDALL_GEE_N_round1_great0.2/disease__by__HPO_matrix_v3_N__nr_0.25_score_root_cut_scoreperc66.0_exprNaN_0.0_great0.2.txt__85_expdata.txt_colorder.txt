@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Infertility"
+"3" "Globozoospermia"
+"4" "Menstrual irregularities"
+"5" "Reduced sperm motility"
+"6" "Prolactin deficiency"
+"7" "Acephalic spermatozoa"

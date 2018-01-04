@@ -1,0 +1,51 @@
+	"Familial Cold Autoinflammatory Syndrome 1"	"Familial mediterranean fever, autosomal dominant"	"TNF receptor-associated periodic fever syndrome (TRAPS)"	"Familial amyloid nephropathy with urticaria AND deafness"	"Familial Mediterranean Fever"	"Familial Cold Autoinflammatory Syndrome 2"	"Yao Syndrome"	"Orphanet:32960"
+"Sensorineural hearing impairment"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hepatomegaly"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Xerostomia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the skin"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+"HP:0003812"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hearing impairment"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003621"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Splenomegaly"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Diarrhea"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Asthma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0003593"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Arthralgia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Conjunctivitis"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"HP:0001426"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Proteinuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Nephrotic syndrome"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Renal insufficiency"	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Edema"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Skin rash"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Amyloidosis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abdominal pain"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Arthritis"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Renal amyloidosis"	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Hepatic amyloidosis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Oral ulcer"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Leukocytosis"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Episodic fever"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Myalgia"	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0
+"Nephrolithiasis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Progressive sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Urticaria"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Keratoconjunctivitis sicca"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Pleuritis"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Peritonitis"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Polyarticular arthritis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chest pain"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Muscle stiffness"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Weight loss"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Elevated erythrocyte sedimentation rate"	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Conjunctival hyperemia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Periorbital edema"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Ventricular hypertrophy"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Pericarditis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Recurrent aphthous stomatitis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Meningitis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Inflammatory abnormality of the skin"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Elevated C-reactive protein level"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0

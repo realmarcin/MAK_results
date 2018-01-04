@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Xerostomia"
+"3" "Lacrimal gland hypoplasia"
+"4" "Absent lacrimal punctum"
+"5" "Lacrimal gland aplasia"

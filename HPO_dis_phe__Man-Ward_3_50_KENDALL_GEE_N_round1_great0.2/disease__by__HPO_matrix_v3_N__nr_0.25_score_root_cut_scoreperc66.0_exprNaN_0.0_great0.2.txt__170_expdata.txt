@@ -1,0 +1,7 @@
+	"Diamond-Blackfan Anemia 1"	"Anonychia-Onychodystrophy With Hypoplasia or Absence of Distal Phalanges"	"Hemifacial Microsomia With Radial Defects"	"Fanconi anemia, complementation group C"	"Fanconi Anemia, Complementation Group D2"	"Fanconi Anemia, Complementation Group a"	"Rhizomelic Syndrome"	"transcobalamin II deficiency"	"Fanconi Anemia, Complementation Group E"	"Fanconi anemia, complementation group D1"	"Fanconi Anemia, Complementation Group 1"	"Fanconi Anemia, Complementation Group J"	"Diamond-Blackfan Anemia 3"	"Diamond-Blackfan Anemia 4"	"Diamond-Blackfan Anemia 5"	"Diamond-Blackfan Anemia 10"	"Diamond-Blackfan anemia 12"	"Orphanet:300298"	"Orphanet:3103"	"Microphthalmia, Lenz type"	"Rhombencephalosynapsis"
+"Reticulocytopenia"	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Complete duplication of thumb phalanx"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Anemic pallor"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Deficient excision of UV-induced pyrimidine dimers in DNA"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prolonged G2 phase of cell cycle"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chromosomal breakage induced by crosslinking agents"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

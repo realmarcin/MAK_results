@@ -1,0 +1,7 @@
+	"Cylindromatosis, familial"	"Histiocytosis, Progressive Mucinous"	"POROK1"	"Trichoepitheliomas, Multiple Desmoplastic"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"HP:0003596"	0.0	0.0	1.0	0.0
+"Neoplasm of the skin"	1.0	1.0	1.0	1.0
+"Mucinous histiocytosis"	0.0	1.0	0.0	0.0
+"Abnormality of chromosome stability"	0.0	0.0	1.0	0.0
+"Porokeratosis"	0.0	0.0	1.0	0.0

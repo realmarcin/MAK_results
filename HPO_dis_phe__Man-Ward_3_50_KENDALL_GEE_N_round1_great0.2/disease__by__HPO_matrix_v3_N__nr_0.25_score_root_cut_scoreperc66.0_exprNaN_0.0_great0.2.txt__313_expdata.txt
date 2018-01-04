@@ -1,0 +1,7 @@
+	"Immunodeficiency With Defective Leukocyte and Lymphocyte Function and With Response to Histamine-1 Antagonist"	"WM1"	"Lymphoma, Hodgkin, Classic"	"cartilage-hair hypoplasia"	"Lipodystrophy, Generalized, With Mental Retardation, Deafness, Short Stature, and Slender Bones"	"Orphanet:175"	"Hydrocephalus-obesity-hypogonadism syndrome"	"Orphanet:2232"	"Orphanet:2834"	"Orphanet:50811"
+"Impaired lymphocyte transformation with phytohemagglutinin"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Susceptibility to chickenpox"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Flaring of lower rib cage"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Sparse facial hair"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Slender long bones with narrow diaphyses"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Disharmonious carpal bone"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

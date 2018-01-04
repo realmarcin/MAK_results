@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Optic nerve hypoplasia"
+"3" "Scoliosis"
+"4" "Spina bifida occulta"
+"5" "Congenital absence of gluteal muscles"

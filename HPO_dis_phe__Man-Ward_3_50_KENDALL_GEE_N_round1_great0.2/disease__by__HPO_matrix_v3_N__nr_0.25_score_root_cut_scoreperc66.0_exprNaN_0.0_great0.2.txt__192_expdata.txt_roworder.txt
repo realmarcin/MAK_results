@@ -1,0 +1,8 @@
+"x"
+"1" "Craniolenticulosutural.dysplas"
+"2" "Orphanet.50814"
+"3" "Nance.Horan.Syndrome"
+"4" "Widow.S.Peak.Syndrome"
+"5" "Orphanet.2780"
+"6" "Orphanet.79106"
+"7" "Orphanet.85170"

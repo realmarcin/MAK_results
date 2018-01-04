@@ -1,0 +1,6 @@
+"x"
+"1" "Platyspondyly"
+"2" "Short philtrum"
+"3" "Prominent nasal bridge"
+"4" "Sensorineural hearing impairment"
+"5" "Abnormal facial shape"

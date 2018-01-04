@@ -1,0 +1,43 @@
+	"Peroxisome Biogenesis Disorder 1A (Zellweger)"	"Peroxisome biogenesis disorder 2a (zellweger)"	"Mullerian derivatives-lymphangiectasia-polydactyly syndrome"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Orphanet:1655"	"Orphanet:2856"	"Orphanet:912"
+"Seizures"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Feeding difficulties in infancy"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Macrocephaly"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Malar flattening"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Nystagmus"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cryptorchidism"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Micrognathia"	1.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Round face"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Failure to thrive"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"High palate"	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Hypospadias"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hydronephrosis"	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Wide nasal bridge"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Lymphedema"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Ventricular septal defect"	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Polymicrogyria"	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Jaundice"	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Flat face"	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"High forehead"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Epicanthus"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Splenomegaly"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Cataract"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Flat occiput"	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Glaucoma"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Proptosis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Epiphyseal stippling"	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Death in infancy"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Redundant neck skin"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Clitoral hypertrophy"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Hepatosplenomegaly"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Hepatic failure"	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Thickened nuchal skin fold"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Brushfield spots"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Renal cortical microcysts"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Thyroid lymphangiectasia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

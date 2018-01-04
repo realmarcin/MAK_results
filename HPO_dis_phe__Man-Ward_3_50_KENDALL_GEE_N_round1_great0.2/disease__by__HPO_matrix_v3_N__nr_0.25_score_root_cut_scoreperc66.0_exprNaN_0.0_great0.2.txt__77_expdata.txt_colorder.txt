@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Hypermelanotic macule"
+"3" "Squamous cell carcinoma"
+"4" "Neoplasm"
+"5" "Edema"
+"6" "Cheilitis"

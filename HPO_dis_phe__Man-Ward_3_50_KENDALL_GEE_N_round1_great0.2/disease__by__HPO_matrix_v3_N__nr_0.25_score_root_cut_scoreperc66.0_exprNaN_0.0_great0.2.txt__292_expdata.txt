@@ -1,0 +1,14 @@
+	"OMIM:138300"	"OMIM:225450"	"Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia Due to"	"Uridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia Due to"	"Pyropoikilocytosis, Hereditary"	"Spherocytosis type 3"	"Adenylate Kinase Deficiency, Hemolytic Anemia Due to"	"Spherocytosis, Type 5"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hemolytic anemia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Polyneuropathy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Myopathy"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Elliptocytosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pyropoikilocytosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hemoglobinuria"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Atypical elliptocytosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Late-onset spinocerebellar degeneration"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Glyoxalase deficiency"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glutathione synthetase deficiency"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Microspherocytosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "Micrognathia"
+"3" "Convex nasal ridge"
+"4" "Kyphoscoliosis"
+"5" "Ectopic kidney"

@@ -1,0 +1,23 @@
+	"Doughnut Lesions of Skull, Familial"	"Paget Disease of Bone 3"	"OMIM:171720"	"PDB4"	"amyotrophic lateral sclerosis type 20"	"Paget disease of bone 6"
+"HP:0000006"	1.0	1.0	0.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	1.0	0.0	1.0	0.0	0.0
+"Left ventricular hypertrophy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Nephrocalcinosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0003581"	0.0	0.0	0.0	0.0	0.0	1.0
+"Amyotrophic lateral sclerosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Osteosarcoma"	0.0	1.0	0.0	0.0	0.0	0.0
+"Elevated alkaline phosphatase"	1.0	1.0	1.0	1.0	1.0	1.0
+"Myopathy"	0.0	0.0	0.0	0.0	0.0	0.0
+"Proximal muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0
+"Recurrent fractures"	1.0	0.0	0.0	0.0	0.0	1.0
+"Fractures of the long bones"	0.0	1.0	0.0	0.0	0.0	0.0
+"Patchy osteosclerosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Bone pain"	0.0	1.0	0.0	1.0	0.0	1.0
+"Osteoarthritis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Coronary artery disease"	0.0	0.0	0.0	0.0	0.0	1.0
+"Rimmed vacuoles"	0.0	0.0	0.0	0.0	1.0	0.0
+"Muscular dystrophy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Mildly elevated creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	0.0
+"Limb-girdle muscular dystrophy"	0.0	0.0	0.0	0.0	0.0	0.0
+"Muscle fiber inclusion bodies"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the abdominal musculature"	0.0	0.0	0.0	0.0	0.0	0.0

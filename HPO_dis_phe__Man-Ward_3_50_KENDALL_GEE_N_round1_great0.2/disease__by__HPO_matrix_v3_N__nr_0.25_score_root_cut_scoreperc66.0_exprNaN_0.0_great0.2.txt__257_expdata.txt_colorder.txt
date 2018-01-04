@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Capillary hemangiomas"
+"3" "Arteriovenous fistula"
+"4" "Arteriovenous malformation"

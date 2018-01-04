@@ -1,0 +1,34 @@
+	"Familial abdominal aortic aneurysm 1"	"Fanconi anemia, complementation group C"	"Fanconi Anemia, Complementation Group D2"	"Fanconi Anemia, Complementation Group a"	"Fanconi Anemia, Complementation Group E"
+"Microcephaly"	0.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	0.0	1.0	1.0	1.0	1.0
+"Small for gestational age"	0.0	1.0	1.0	1.0	1.0
+"Cafe-au-lait spot"	0.0	1.0	1.0	1.0	1.0
+"Abnormal heart morphology"	0.0	1.0	1.0	1.0	1.0
+"Short stature"	0.0	1.0	1.0	1.0	1.0
+"Cryptorchidism"	0.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	0.0	0.0	0.0	1.0
+"Horseshoe kidney"	0.0	1.0	1.0	1.0	1.0
+"Renal agenesis"	0.0	1.0	1.0	1.0	1.0
+"Strabismus"	0.0	1.0	1.0	1.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0
+"Microphthalmia"	0.0	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	1.0	1.0	1.0	1.0
+"Short thumb"	0.0	1.0	1.0	1.0	1.0
+"Abnormality of skin pigmentation"	0.0	1.0	1.0	1.0	1.0
+"Thrombocytopenia"	0.0	1.0	1.0	1.0	1.0
+"Neutropenia"	0.0	1.0	1.0	1.0	1.0
+"Reticulocytopenia"	0.0	1.0	1.0	1.0	1.0
+"Absent thumb"	0.0	1.0	1.0	1.0	1.0
+"Complete duplication of thumb phalanx"	0.0	1.0	1.0	1.0	1.0
+"Bruising susceptibility"	0.0	1.0	1.0	1.0	1.0
+"Absent radius"	0.0	1.0	1.0	1.0	1.0
+"Ectopic kidney"	0.0	1.0	1.0	1.0	1.0
+"Anemia"	0.0	1.0	1.0	1.0	1.0
+"Duplicated collecting system"	0.0	1.0	1.0	1.0	1.0
+"Leukemia"	0.0	1.0	1.0	1.0	1.0
+"Hypergonadotropic hypogonadism"	0.0	1.0	1.0	1.0	1.0
+"Pancytopenia"	0.0	1.0	1.0	1.0	1.0
+"Anemic pallor"	0.0	1.0	1.0	1.0	1.0
+"Deficient excision of UV-induced pyrimidine dimers in DNA"	0.0	1.0	1.0	1.0	1.0
+"Prolonged G2 phase of cell cycle"	0.0	1.0	1.0	1.0	1.0
+"Chromosomal breakage induced by crosslinking agents"	0.0	1.0	1.0	1.0	1.0

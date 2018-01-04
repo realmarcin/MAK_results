@@ -1,0 +1,6 @@
+"x"
+"1" "Micrognathia"
+"2" "Radioulnar synostosis"
+"3" "Short foot"
+"4" "Small hand"
+"5" "Delayed puberty"

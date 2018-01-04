@@ -1,0 +1,5 @@
+"x"
+"1" "Global developmental delay"
+"2" "Absent speech"
+"3" "Mood swings"
+"4" "Involuntary movements"

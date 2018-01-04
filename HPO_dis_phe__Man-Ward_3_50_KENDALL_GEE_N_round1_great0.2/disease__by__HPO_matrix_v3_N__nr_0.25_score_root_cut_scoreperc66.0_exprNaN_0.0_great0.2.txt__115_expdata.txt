@@ -1,0 +1,8 @@
+	"Elastosis perforans serpiginosa"	"Nevus Anemicus"	"Dermatofibrosis lenticularis disseminata"	"VAMAS6"	"Becker Nevus Syndrome"
+"Osteopoikilosis"	0.0	0.0	1.0	0.0	0.0
+"Hoarse voice"	0.0	0.0	1.0	0.0	0.0
+"Flexion contracture"	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0	0.0
+"Joint stiffness"	0.0	0.0	1.0	0.0	0.0
+"Nevus"	1.0	1.0	1.0	1.0	1.0
+"Nevus anemicus"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"Argininosuccinate lyase deficiency"	"Citrullinemia type I"	"Carbamoyl Phosphate Synthetase 1 Deficiency, Hyperammonemia Due to"	"Ornithine carbamoyltransferase deficiency"	"Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency"	"Orphanet:147"	"Orphanet:23"
+"Respiratory alkalosis"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Episodic ammonia intoxication"	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Protein avoidance"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hyperglutaminemia"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Hypoargininemia"	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Low plasma citrulline"	0.0	0.0	1.0	1.0	0.0	0.0	0.0

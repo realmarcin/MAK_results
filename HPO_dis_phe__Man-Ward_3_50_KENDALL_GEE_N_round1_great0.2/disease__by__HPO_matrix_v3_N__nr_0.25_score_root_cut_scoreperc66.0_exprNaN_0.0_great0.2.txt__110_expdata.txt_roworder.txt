@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.2252"
+"2" "Radial.hypoplasia.triphalangea"
+"3" "HYSP3"
+"4" "Spina.bifida.hypospadias.syndr"
+"5" "Orphanet.440"

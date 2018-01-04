@@ -1,0 +1,7 @@
+"x"
+"1" "Limited hip movement"
+"2" "Limited elbow flexion"
+"3" "Absence of the sacrum"
+"4" "Abnormality of the acetabulum"
+"5" "Abnormality of the fingertips"
+"6" "Increased fibular diameter"

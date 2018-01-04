@@ -1,0 +1,7 @@
+"x"
+"1" "Paget.disease.of.bone.6"
+"2" "Paget.Disease.of.Bone.3"
+"3" "amyotrophic.lateral.sclerosis."
+"4" "PDB4"
+"5" "Doughnut.Lesions.of.Skull..Fam"
+"6" "OMIM.171720"

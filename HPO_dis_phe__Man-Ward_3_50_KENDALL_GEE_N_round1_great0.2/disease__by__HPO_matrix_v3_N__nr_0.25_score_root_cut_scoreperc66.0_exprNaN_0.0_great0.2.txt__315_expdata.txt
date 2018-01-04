@@ -1,0 +1,13 @@
+	"Palmoplantar Keratoderma, Bothnian Type"	"hypotrichosis 11"	"hypotrichosis 12"	"hypotrichosis 13"	"Epidermolysis Bullosa Simplex, Generalized, With Scarring and Hair Loss"	"Diffuse palmoplantar keratoderma-acrocyanosis syndrome"	"Orphanet:86923"
+"Everted lower lip vermilion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Sparse body hair"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Protruding ear"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperkeratosis with erythema"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypotrichosis"	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Absent axillary hair"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Woolly hair"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Dystrophic toenail"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Diffuse palmoplantar keratoderma"	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Sparse or absent eyelashes"	0.0	1.0	1.0	0.0	0.0	0.0	0.0

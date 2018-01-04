@@ -1,0 +1,12 @@
+	"Migraine With or Without Aura, Susceptibility To, 1"	"Migraine With or Without Aura, Susceptibility To, 3"	"migraine without aura"	"Migraine With or Without Aura, Susceptibility To, 5"	"Migraine With or Without Aura, Susceptibility To, 6"	"Migraine With or Without Aura, Susceptibility To, 10"	"Migraine With or Without Aura, Susceptibility To, 11"	"MGR12"
+"HP:0001417"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Headache"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Photophobia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hemiparesis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hyperreflexia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Vomiting"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Nausea"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hemiplegia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Migraine without aura"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Phonophobia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

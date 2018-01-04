@@ -1,0 +1,7 @@
+"x"
+"1" "malignant.mesothelioma"
+"2" "synovial.sarcoma"
+"3" "Paroxysmal.Nocturnal.Hemoglobi"
+"4" "Alveolar.Soft.Part.Sarcoma"
+"5" "myxoid.liposarcoma"
+"6" "Paroxysmal.Nocturnal.Hemoglobi"

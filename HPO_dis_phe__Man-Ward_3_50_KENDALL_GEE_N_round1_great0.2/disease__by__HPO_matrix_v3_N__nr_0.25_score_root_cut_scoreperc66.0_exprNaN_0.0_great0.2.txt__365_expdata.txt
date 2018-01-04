@@ -1,0 +1,33 @@
+	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1"	"Muscle eye brain disease"	"Fukuyama congenital muscular dystrophy"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A2"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies type A5"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 6"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 7"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 10"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 13"
+"Anal atresia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Hypoplasia of the corpus callosum"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Intellectual disability, severe"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cleft palate"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cleft upper lip"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ventriculomegaly"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003812"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Agenesis of corpus callosum"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Posterior fossa cyst"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Buphthalmos"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Microtia"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0001425"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Optic nerve hypoplasia"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Atresia of the external auditory canal"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Peters anomaly"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Renal dysplasia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Blindness"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Aplasia/Hypoplasia of the corpus callosum"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplastic male external genitalia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dandy-Walker malformation"	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Excessive daytime sleepiness"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Occipital encephalocele"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Megalocornea"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Persistent pupillary membrane"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Retinal dysplasia"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Retinal atrophy"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital contracture"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital muscular dystrophy"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Meningoencephalocele"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Thick cerebral cortex"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Type II lissencephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

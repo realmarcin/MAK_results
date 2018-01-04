@@ -1,0 +1,13 @@
+	"Emphysema, Hereditary Pulmonary"	"COPD"	"Orphanet:1221"	"Orphanet:1928"	"Hearing loss-familial salivary gland insensitivity to aldosterone syndrome"	"Orphanet:482"
+"Sensorineural hearing impairment"	0.0	0.0	0.0	0.0	1.0	0.0
+"Thick lower lip vermilion"	0.0	0.0	1.0	0.0	0.0	0.0
+"Eosinophilia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Increased IgE level"	0.0	0.0	0.0	0.0	0.0	1.0
+"Respiratory distress"	0.0	0.0	0.0	1.0	0.0	0.0
+"Squamous cell carcinoma"	0.0	0.0	1.0	0.0	0.0	0.0
+"Emphysema"	1.0	0.0	0.0	1.0	0.0	0.0
+"Chronic bronchitis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyponatremia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Follicular hyperplasia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of immune system physiology"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormal salivary gland morphology"	0.0	0.0	1.0	0.0	1.0	1.0

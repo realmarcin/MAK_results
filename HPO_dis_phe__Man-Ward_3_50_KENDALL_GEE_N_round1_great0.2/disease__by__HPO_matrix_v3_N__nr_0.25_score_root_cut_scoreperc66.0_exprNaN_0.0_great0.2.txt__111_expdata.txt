@@ -1,0 +1,7 @@
+	"Cystic Angiomatosis of Bone, Diffuse"	"Lipodystrophy, Congenital Generalized, Type 2"	"Aarskog-Scott Syndrome"	"Lipodystrophy, Congenital Generalized, Type 1"	"Lipodystrophy, Congenital Generalized, Type 4"	"Orphanet:280356"	"Orphanet:740"	"Paternal uniparental disomy of chromosome 6"
+"Cystic angiomatosis of bone"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Labial hypertrophy"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Insulin-resistant diabetes mellitus at puberty"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Prominent umbilicus"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Generalized muscular appearance from birth"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Reduced intrathoracic adipose tissue"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0

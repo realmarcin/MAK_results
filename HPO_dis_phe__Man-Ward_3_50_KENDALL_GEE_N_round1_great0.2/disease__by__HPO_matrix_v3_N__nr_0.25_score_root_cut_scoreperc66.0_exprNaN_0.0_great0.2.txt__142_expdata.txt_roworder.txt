@@ -1,0 +1,5 @@
+"x"
+"1" "Spondyloepimetaphyseal.Dysplas"
+"2" "Czech.dysplasia.metatarsal.typ"
+"3" "X46.XY.sex.reversal..type.3"
+"4" "Orphanet.503"

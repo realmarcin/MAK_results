@@ -1,0 +1,7 @@
+"x"
+"1" "Inferior lens subluxation"
+"2" "Zonular cataract"
+"3" "Photopsia"
+"4" "Choroidal melanoma"
+"5" "Ciliary body melanoma"
+"6" "Abnormal visual accommodation"

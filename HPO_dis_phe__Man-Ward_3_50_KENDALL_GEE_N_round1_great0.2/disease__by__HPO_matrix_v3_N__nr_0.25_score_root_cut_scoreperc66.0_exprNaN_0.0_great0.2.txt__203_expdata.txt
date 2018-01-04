@@ -1,0 +1,5 @@
+	"Alagille syndrome 1"	"Familial multinodular goiter"	"Prolidase deficiency"	"Familial adenomatous polyposis 1"	"Thyroid Cancer, Nonmedullary, 2"	"Thyroid Cancer, Nonmedullary, 1"	"Bloom syndrome"	"Cystic Fibrosis"	"NMTC3"	"Cowden syndrome 2"	"Osteogenesis imperfecta type 10"	"Immunodeficiency, Common Variable, 8, With Autoimmunity"	"Chops Syndrome"	"Thyroid cancer, nonmedullary, 4"	"Thyroid Cancer, Nonmedullary, 5"	"Cowden Syndrome 7"	"Familial papillary or follicular thyroid carcinoma"	"Bronchopulmonary dysplasia"	"Orphanet:97290"
+"Papillary thyroid carcinoma"	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+"Euthyroid multinodular goiter"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Chronic lung disease"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Non-medullary thyroid carcinoma"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Hypertelorism"
+"2" "Skeletal dysplasia"
+"3" "Osteopetrosis"
+"4" "Abnormality of the metaphysis"

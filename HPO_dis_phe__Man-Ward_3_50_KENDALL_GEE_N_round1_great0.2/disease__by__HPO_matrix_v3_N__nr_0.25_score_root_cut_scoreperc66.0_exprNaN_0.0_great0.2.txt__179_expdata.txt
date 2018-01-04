@@ -1,0 +1,12 @@
+	"Mental Retardation, Autosomal Dominant 14"	"Mental Retardation, Autosomal Dominant 15"	"Mental Retardation, Autosomal Dominant 16"	"Coffin-Siris syndrome 5"
+"Short philtrum"	0.0	0.0	0.0	1.0
+"Atrial septal defect"	0.0	0.0	0.0	1.0
+"Thin upper lip vermilion"	0.0	0.0	0.0	1.0
+"Absent speech"	0.0	0.0	0.0	1.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	0.0	1.0
+"Arachnodactyly"	0.0	0.0	0.0	1.0
+"Long eyelashes"	1.0	1.0	1.0	1.0
+"Sandal gap"	0.0	0.0	0.0	1.0
+"Short distal phalanx of finger"	0.0	0.0	0.0	1.0
+"Hypoplastic toenails"	0.0	0.0	0.0	1.0
+"Dystrophic toenail"	0.0	0.0	0.0	1.0

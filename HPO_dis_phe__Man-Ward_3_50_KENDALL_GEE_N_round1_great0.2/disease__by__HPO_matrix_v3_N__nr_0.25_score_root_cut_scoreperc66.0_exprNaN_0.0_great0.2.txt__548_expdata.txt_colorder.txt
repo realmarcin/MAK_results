@@ -1,0 +1,5 @@
+"x"
+"1" "Lethargy"
+"2" "Progressive cerebellar ataxia"
+"3" "Spastic tetraparesis"
+"4" "Abnormality of the basal ganglia"

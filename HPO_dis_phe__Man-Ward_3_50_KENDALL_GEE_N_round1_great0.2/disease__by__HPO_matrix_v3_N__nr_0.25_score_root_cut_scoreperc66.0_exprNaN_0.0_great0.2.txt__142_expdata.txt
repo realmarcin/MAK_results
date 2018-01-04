@@ -1,0 +1,9 @@
+	"Spondyloepimetaphyseal Dysplasia With Joint Laxity, Type 2"	"Czech dysplasia metatarsal type"	"46,XY sex reversal, type 3"	"Orphanet:503"
+"Large joint dislocations"	1.0	0.0	0.0	1.0
+"Streaky metaphyseal sclerosis"	1.0	0.0	1.0	0.0
+"Long proximal phalanx of finger"	1.0	0.0	0.0	0.0
+"Caudal interpedicular narrowing"	1.0	0.0	0.0	0.0
+"Narrow femoral neck"	1.0	1.0	0.0	0.0
+"Slender distal phalanx of finger"	1.0	0.0	0.0	0.0
+"Slender proximal phalanx of finger"	1.0	0.0	0.0	0.0
+"Long distal phalanx of finger"	1.0	0.0	0.0	0.0

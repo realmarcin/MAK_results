@@ -1,0 +1,6 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Absent speech"
+"3" "Pectus excavatum"
+"4" "Kyphoscoliosis"
+"5" "Abnormality of movement"

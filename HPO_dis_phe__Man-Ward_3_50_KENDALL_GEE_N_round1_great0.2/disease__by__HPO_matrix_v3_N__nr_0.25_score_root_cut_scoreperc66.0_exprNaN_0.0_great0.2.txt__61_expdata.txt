@@ -1,0 +1,4 @@
+	"Amyloidosis, Finnish Type"	"ACys amyloidosis"	"Familial primary localized cutaneous amyloidosis"	"Lattice corneal dystrophy Type I"	"Corneal Dystrophy, Avellino Type"	"Lattice corneal dystrophy type 3A"
+"Lattice corneal dystrophy"	1.0	0.0	1.0	1.0	1.0	1.0
+"Generalized amyloid deposition"	1.0	1.0	0.0	0.0	0.0	0.0
+"Cardiac amyloidosis"	1.0	0.0	0.0	0.0	0.0	0.0

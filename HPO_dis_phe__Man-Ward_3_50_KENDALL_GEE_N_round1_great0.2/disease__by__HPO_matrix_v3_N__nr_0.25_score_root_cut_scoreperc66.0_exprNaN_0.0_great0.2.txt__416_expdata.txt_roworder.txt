@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.1221"
+"2" "Orphanet.482"
+"3" "Orphanet.1928"
+"4" "Hearing.loss.familial.salivary"
+"5" "Emphysema..Hereditary.Pulmonar"
+"6" "COPD"

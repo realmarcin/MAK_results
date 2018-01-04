@@ -1,0 +1,31 @@
+	"Cramps, Familial Adolescent"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1"	"Muscle eye brain disease"	"Fukuyama congenital muscular dystrophy"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A2"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies type A5"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 6"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 7"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 13"
+"Microcephaly"	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Seizures"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Death in childhood"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Microphthalmia"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Pachygyria"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Polymicrogyria"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Hydrocephalus"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Motor delay"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Left ventricular hypertrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyporeflexia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cataract"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Myopia"	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Retinal detachment"	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Corneal opacity"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003577"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Intellectual disability, profound"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Coloboma"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Cerebellar hypoplasia"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Respiratory insufficiency"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the brainstem"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Muscular dystrophy"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the cerebral white matter"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar dysplasia"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the pons"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Severe muscular hypotonia"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0
+"Type II lissencephaly"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cerebellar cyst"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0

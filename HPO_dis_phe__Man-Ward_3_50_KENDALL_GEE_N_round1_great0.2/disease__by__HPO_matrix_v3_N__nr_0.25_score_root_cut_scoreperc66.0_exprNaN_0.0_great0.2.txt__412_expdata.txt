@@ -1,0 +1,17 @@
+	"Deficiency of butyryl-CoA dehydrogenase"	"Sulfite oxidase deficiency"	"Polymicrogyria, Bilateral Frontoparietal"	"Stomatin-Deficient Cryohydrocytosis With Neurologic Defects"	"Congenital disorder of glycosylation type 1F"	"Leukodystrophy, hypomyelinating, 4"	"Mental Retardation, Autosomal Dominant 9"	"Pontocerebellar Hypoplasia, Type 1B"	"pontocerebellar hypoplasia type 8"	"Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 14"	"Aicardi-Goutieres Syndrome 7"	"Leukodystrophy, hypomyelinating, 11"	"Joubert syndrome 24"	"Cerebellar atrophy, visual impairment, and psychomotor retardation"	"Epileptic encephalopathy, early infantile, 37"	"Hypermanganesemia with Dystonia 2; HMNDYT2"	"Epileptic encephalopathy, early infantile, 42"	"Tokita-Kim Syndrome; TOKIMS"	"Harel-Yoon syndrome"	"Spastic Paraplegia, Intellectual Disability, Nystagmus, and Obesity;"	"OMIM:617370"	"OMIM:617393"	"Orphanet:79476"
+"Delayed speech and language development"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Deeply set eye"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Micrognathia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoplasia of the corpus callosum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Scoliosis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Talipes equinovarus"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Esotropia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Optic atrophy"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Hypermetropia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Myopia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003676"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Postnatal microcephaly"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Astigmatism"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Cortical visual impairment"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Limb hypertonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

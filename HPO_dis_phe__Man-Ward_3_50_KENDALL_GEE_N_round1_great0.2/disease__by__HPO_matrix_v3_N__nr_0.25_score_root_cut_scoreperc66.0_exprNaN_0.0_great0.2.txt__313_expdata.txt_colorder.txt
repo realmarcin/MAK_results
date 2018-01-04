@@ -1,0 +1,7 @@
+"x"
+"1" "Impaired lymphocyte transformation with phytohemagglutinin"
+"2" "Sparse facial hair"
+"3" "Slender long bones with narrow diaphyses"
+"4" "Flaring of lower rib cage"
+"5" "Susceptibility to chickenpox"
+"6" "Disharmonious carpal bone"

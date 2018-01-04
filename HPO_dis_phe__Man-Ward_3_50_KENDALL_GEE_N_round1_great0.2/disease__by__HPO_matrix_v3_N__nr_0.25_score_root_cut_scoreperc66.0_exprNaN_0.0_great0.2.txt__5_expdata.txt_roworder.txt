@@ -1,0 +1,6 @@
+"x"
+"1" "Granulomatous.Disease..Chronic"
+"2" "Chronic.granulomatous.disease."
+"3" "Chronic.granulomatous.disease."
+"4" "Chronic.granulomatous.disease."
+"5" "Familial.abdominal.aortic.aneu"

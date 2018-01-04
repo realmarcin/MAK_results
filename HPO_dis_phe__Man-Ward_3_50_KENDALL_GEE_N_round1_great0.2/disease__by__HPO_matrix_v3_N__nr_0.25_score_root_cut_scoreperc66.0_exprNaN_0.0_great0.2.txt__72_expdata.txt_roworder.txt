@@ -1,0 +1,6 @@
+"x"
+"1" "Methylmalonic.acidemia.with.ho"
+"2" "Homocystinuria.without.methylm"
+"3" "Orphanet.79284"
+"4" "Orphanet.79283"
+"5" "Orphanet.79282"

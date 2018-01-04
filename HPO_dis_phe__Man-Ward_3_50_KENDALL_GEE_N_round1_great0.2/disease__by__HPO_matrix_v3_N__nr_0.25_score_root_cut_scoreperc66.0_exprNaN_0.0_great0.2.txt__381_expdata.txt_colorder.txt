@@ -1,0 +1,6 @@
+"x"
+"1" "Hyposmia"
+"2" "Parkinsonism with favorable response to dopaminergic medication"
+"3" "Head tremor"
+"4" "Abnormal motor neuron morphology"
+"5" "Transient hyperphenylalaninemia"

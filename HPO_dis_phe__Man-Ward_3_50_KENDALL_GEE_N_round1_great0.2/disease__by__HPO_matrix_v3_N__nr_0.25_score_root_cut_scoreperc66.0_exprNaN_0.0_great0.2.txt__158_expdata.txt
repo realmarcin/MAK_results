@@ -1,0 +1,7 @@
+	"Orofaciodigital syndrome type 2"	"Central Incisors, Absence of"	"W syndrome"	"Pseudopili Annulati"	"Orphanet:1297"	"Orphanet:2804"
+"Agenesis of central incisor"	1.0	1.0	1.0	0.0	0.0	0.0
+"Partial duplication of the phalanges of the hallux"	1.0	0.0	0.0	0.0	0.0	0.0
+"Agenesis of maxillary central incisor"	0.0	0.0	1.0	0.0	0.0	1.0
+"Broad uvula"	0.0	0.0	1.0	0.0	0.0	1.0
+"Abnormality of the scalp hair"	0.0	0.0	0.0	1.0	0.0	1.0
+"Upper lip pit"	0.0	0.0	0.0	0.0	1.0	1.0

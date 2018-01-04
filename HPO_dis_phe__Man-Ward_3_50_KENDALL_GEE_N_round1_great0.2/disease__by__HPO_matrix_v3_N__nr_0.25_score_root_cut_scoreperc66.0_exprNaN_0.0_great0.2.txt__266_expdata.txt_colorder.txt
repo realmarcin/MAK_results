@@ -1,0 +1,5 @@
+"x"
+"1" "Nystagmus"
+"2" "Nuclear cataract"
+"3" "Band keratopathy"
+"4" "Abnormality of corneal endothelium"

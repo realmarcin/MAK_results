@@ -1,0 +1,7 @@
+	"Megaepiphyseal Dwarfism"	"cataract 14 multiple types"	"OMIM:617433"	"Orphanet:39044"
+"Inferior lens subluxation"	1.0	0.0	0.0	1.0
+"Zonular cataract"	0.0	1.0	0.0	1.0
+"Photopsia"	0.0	0.0	1.0	1.0
+"Choroidal melanoma"	0.0	0.0	0.0	1.0
+"Ciliary body melanoma"	0.0	0.0	0.0	1.0
+"Abnormal visual accommodation"	0.0	0.0	0.0	1.0

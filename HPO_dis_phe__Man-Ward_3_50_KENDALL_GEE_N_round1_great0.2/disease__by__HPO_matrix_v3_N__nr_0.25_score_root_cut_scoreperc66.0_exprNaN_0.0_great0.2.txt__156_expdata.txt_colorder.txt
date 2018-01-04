@@ -1,0 +1,7 @@
+"x"
+"1" "Wide proximal femoral metaphysis"
+"2" "Delayed patellar ossification"
+"3" "Abnormality of the skull base"
+"4" "Hemiatrophy of upper limb"
+"5" "Abnormality of cranial sutures"
+"6" "Abnormality of the joint spaces of the elbow"

@@ -1,0 +1,7 @@
+"x"
+"1" "Agenesis of central incisor"
+"2" "Agenesis of maxillary central incisor"
+"3" "Broad uvula"
+"4" "Abnormality of the scalp hair"
+"5" "Upper lip pit"
+"6" "Partial duplication of the phalanges of the hallux"

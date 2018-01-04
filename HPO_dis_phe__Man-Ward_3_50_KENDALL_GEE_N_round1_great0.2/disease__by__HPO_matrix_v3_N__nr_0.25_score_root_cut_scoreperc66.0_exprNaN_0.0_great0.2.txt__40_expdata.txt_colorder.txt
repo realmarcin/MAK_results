@@ -1,0 +1,7 @@
+"x"
+"1" "Multiple exostoses"
+"2" "HP:0000006"
+"3" "Dermal atrophy"
+"4" "Type E brachydactyly"
+"5" "Intestinal polyposis"
+"6" "Macule"

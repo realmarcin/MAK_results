@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Insulin resistance"
+"3" "Autoimmunity"
+"4" "Ketoacidosis"
+"5" "Beta-cell dysfunction"

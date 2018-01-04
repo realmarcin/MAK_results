@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Sensorineural hearing impairment"
+"3" "Opisthotonus"
+"4" "Aminoaciduria"
+"5" "Nonketotic hyperglycinemia"

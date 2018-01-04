@@ -1,0 +1,7 @@
+	"Hip dysplasia, beukes type"	"Spondyloepimetaphyseal Dysplasia With Joint Laxity, Type 2"	"Orphanet:163649"	"Orphanet:90289"	"Orphanet:93333"
+"Wide proximal femoral metaphysis"	1.0	0.0	1.0	0.0	0.0
+"Delayed patellar ossification"	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the skull base"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of cranial sutures"	0.0	0.0	1.0	0.0	0.0
+"Hemiatrophy of upper limb"	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the joint spaces of the elbow"	0.0	0.0	0.0	0.0	1.0

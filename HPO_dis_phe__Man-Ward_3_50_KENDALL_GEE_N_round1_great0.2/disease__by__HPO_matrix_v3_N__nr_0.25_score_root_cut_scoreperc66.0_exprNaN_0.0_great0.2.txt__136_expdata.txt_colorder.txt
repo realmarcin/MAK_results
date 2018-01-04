@@ -1,0 +1,8 @@
+"x"
+"1" "Abnormality of the mouth"
+"2" "HP:0000006"
+"3" "Abnormality of the skeletal system"
+"4" "Hamartoma"
+"5" "Parakeratosis"
+"6" "Diffuse palmoplantar hyperkeratosis"
+"7" "Esophageal carcinoma"

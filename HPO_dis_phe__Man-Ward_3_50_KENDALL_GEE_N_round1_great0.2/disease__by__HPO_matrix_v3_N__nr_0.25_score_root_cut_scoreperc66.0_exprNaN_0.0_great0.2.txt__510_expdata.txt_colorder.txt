@@ -1,0 +1,6 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Hypertrophic cardiomyopathy"
+"3" "Bradycardia"
+"4" "Myocardial fibrosis"
+"5" "Myocarditis"

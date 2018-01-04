@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Aniridia"
+"3" "Downslanted palpebral fissures"
+"4" "Inguinal hernia"
+"5" "Lacticaciduria"

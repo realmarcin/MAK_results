@@ -1,0 +1,28 @@
+	"Anonychia with flexural pigmentation"	"Tooth Agenesis, Selective, 4"	"Onychogryposis, Pedal, With Keratosis Plantaris and Coarse Hair"	"Woolly hair, autosomal dominant"	"Pili torti"	"Tooth agenesis, selective, 8"
+"Microdontia"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0000007"	0.0	1.0	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Dry skin"	1.0	1.0	0.0	0.0	0.0	1.0
+"HP:0003745"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypoplasia of dental enamel"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of dental enamel"	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypohidrosis"	0.0	0.0	0.0	0.0	0.0	0.0
+"Seborrheic dermatitis"	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the hair"	0.0	0.0	0.0	0.0	0.0	0.0
+"Onycholysis"	0.0	0.0	0.0	0.0	0.0	0.0
+"Marked delay in eruption of permanent teeth"	0.0	0.0	0.0	0.0	0.0	0.0
+"Axillary and groin hyperpigmentation and hypopigmentation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Slow-growing hair"	0.0	0.0	0.0	1.0	0.0	0.0
+"Sparse hair"	0.0	1.0	1.0	0.0	0.0	1.0
+"Coarse hair"	0.0	0.0	1.0	1.0	1.0	0.0
+"Brittle hair"	0.0	0.0	0.0	0.0	1.0	0.0
+"Onychogryposis of toenails"	0.0	0.0	1.0	0.0	0.0	0.0
+"Dry hair"	0.0	0.0	1.0	1.0	1.0	0.0
+"Pili torti"	0.0	0.0	0.0	0.0	1.0	0.0
+"Reduced number of teeth"	0.0	1.0	0.0	0.0	0.0	0.0
+"Peg-shaped maxillary lateral incisors"	0.0	1.0	0.0	0.0	0.0	0.0
+"Short eyelashes"	0.0	1.0	0.0	0.0	0.0	0.0
+"Sparse eyebrow"	0.0	1.0	0.0	0.0	0.0	1.0
+"Plantar hyperkeratosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Woolly hair"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes"	0.0	0.0	0.0	0.0	1.0	0.0

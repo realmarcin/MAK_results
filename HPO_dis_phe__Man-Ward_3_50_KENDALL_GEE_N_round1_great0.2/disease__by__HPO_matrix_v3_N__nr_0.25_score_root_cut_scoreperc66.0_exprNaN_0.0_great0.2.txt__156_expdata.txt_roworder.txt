@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.163649"
+"2" "Orphanet.93333"
+"3" "Hip.dysplasia..beukes.type"
+"4" "Spondyloepimetaphyseal.Dysplas"
+"5" "Orphanet.90289"

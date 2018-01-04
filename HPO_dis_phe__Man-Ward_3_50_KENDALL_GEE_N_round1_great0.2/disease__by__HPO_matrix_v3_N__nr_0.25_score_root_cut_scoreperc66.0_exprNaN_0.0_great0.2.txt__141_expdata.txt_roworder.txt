@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.1652"
+"2" "Dent.disease.type.1"
+"3" "Hypophosphatemic.rickets..X.li"
+"4" "Hypophosphatemic.Rickets.With."
+"5" "Vitamin.D.Dependent.Rickets..T"
+"6" "Vitamin.d.hydroxylation.defici"

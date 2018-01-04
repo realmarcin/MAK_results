@@ -1,0 +1,6 @@
+"x"
+"1" "Amelogenesis imperfecta"
+"2" "Anterior open-bite malocclusion"
+"3" "Anterior open bite"
+"4" "Yellow-brown discoloration of the teeth"
+"5" "Hypomineralization of enamel"

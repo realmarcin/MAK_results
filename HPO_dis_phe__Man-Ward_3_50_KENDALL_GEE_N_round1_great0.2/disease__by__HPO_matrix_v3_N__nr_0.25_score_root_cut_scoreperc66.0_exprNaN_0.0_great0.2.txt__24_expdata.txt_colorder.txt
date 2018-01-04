@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Eosinophilia"
+"3" "HP:0003593"
+"4" "HP:0003745"
+"5" "Malignant eosinophil proliferation"
+"6" "Hyperpigmented streaks"

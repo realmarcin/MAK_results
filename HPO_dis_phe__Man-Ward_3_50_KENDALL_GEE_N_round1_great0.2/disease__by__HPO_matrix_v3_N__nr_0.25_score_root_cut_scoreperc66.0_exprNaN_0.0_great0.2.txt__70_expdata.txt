@@ -1,0 +1,4 @@
+	"Anterior segment mesenchymal dysgenesis"	"Cataract-aberrant oral frenula-growth delay syndrome"	"Cataract 30, Multiple Types"	"Cataract 6, Multiple Types"	"Cerebral Amyloid Angiopathy, Itm2B-Related, 2"	"Cataract 16, Multiple Types"	"retinitis pigmentosa 74"
+"Posterior polar cataract"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Diffuse nuclear cataract"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Total cataract"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

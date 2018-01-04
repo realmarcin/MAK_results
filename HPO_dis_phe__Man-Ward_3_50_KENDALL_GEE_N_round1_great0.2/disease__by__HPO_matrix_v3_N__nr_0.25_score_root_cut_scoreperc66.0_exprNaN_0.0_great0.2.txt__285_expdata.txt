@@ -1,0 +1,7 @@
+	"Orphanet:144"	"Orphanet:2198"	"Orphanet:2526"	"Orphanet:276152"	"Orphanet:2869"	"Hereditary acrokeratotic poikiloderma, Weary type"	"Orphanet:424016"	"Orphanet:424019"	"Orphanet:44890"	"Orphanet:524"	"Malakoplakia"	"Orphanet:63"
+"Neoplasm of the rectum"	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Esophageal neoplasm"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Melanonychia"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Neoplasm of the nose"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Neoplasm of the colon"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Abnormal pigmentation of the oral mucosa"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

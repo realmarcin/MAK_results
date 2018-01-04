@@ -1,0 +1,5 @@
+	"Retinoschisis, Autosomal Dominant"	"enhanced S-cone syndrome"	"Juvenile retinoschisis"	"Retinal Cone Dystrophy 4"	"Baraitser-Winter cerebrofrontofacial syndrome"	"Orphanet:792"
+"Retinoschisis"	1.0	1.0	1.0	0.0	1.0	1.0
+"Cystic retinal degeneration"	0.0	0.0	1.0	0.0	0.0	0.0
+"Electronegative electroretinogram"	0.0	0.0	1.0	1.0	0.0	0.0
+"Mizuo phenomenon"	0.0	0.0	1.0	0.0	0.0	0.0

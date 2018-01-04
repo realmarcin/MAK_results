@@ -1,0 +1,6 @@
+"x"
+"1" "EIG3"
+"2" "Seizures..Benign.Familial.Neon"
+"3" "Epilepsy..familial.adult.myocl"
+"4" "Febrile.seizures..familial..11"
+"5" "EIG7"

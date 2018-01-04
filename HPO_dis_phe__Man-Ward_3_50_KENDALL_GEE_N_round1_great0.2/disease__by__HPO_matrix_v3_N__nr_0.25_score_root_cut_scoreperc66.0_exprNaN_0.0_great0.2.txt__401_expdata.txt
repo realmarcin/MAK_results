@@ -1,0 +1,26 @@
+	"Orphanet:168558"	"Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency"	"Orphanet:90791"	"Orphanet:90794"	"Orphanet:90795"	"Orphanet:95699"
+"Menstrual irregularities"	0.0	0.0	0.0	1.0	0.0	0.0
+"Aggressive behavior"	0.0	0.0	0.0	1.0	0.0	0.0
+"Obesity"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hyperaldosteronism"	0.0	0.0	0.0	0.0	1.0	0.0
+"Decreased circulating renin level"	0.0	0.0	0.0	0.0	1.0	0.0
+"Stroke"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypercholesterolemia"	0.0	0.0	0.0	0.0	0.0	0.0
+"Adrenocortical adenoma"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypokalemia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Long penis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Increased circulating androgen level"	0.0	0.0	0.0	1.0	1.0	0.0
+"Abnormal EKG"	0.0	0.0	0.0	0.0	1.0	0.0
+"Accelerated bone age after puberty"	0.0	0.0	0.0	1.0	1.0	0.0
+"Fused labia minora"	0.0	0.0	0.0	1.0	1.0	0.0
+"Abnormal spermatogenesis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Adrenal medullary hypoplasia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Bilateral cryptorchidism"	0.0	0.0	0.0	0.0	1.0	0.0
+"Female pseudohermaphroditism"	0.0	0.0	0.0	1.0	0.0	0.0
+"Adrenocorticotropic hormone excess"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of circulating leptin level"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal scrotal rugation"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of prenatal development or birth"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypervolemia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormal circulating aldosterone"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of hair growth rate"	0.0	0.0	0.0	1.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Ketoacidosis"
+"2" "Limb joint contracture"
+"3" "Adrenocortical hypoplasia"
+"4" "Type 1 fibers relatively smaller than type 2 fibers"
+"5" "Beta-cell dysfunction"
+"6" "Increased urinary glycerol"

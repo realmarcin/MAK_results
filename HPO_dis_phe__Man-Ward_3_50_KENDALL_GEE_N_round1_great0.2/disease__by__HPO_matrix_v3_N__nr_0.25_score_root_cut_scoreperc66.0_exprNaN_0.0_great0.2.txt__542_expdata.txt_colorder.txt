@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Short stature"
+"3" "EEG abnormality"
+"4" "Hyperlysinuria"
+"5" "Histidinuria"

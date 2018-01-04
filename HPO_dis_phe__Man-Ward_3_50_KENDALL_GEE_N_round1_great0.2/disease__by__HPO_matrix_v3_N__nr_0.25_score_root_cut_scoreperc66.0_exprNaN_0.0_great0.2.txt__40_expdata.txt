@@ -1,0 +1,7 @@
+	"Exostoses With Anetodermia and Brachydactyly, Type E"	"Multiple Exostoses With Spastic Tetraparesis"	"Polyposis, Intestinal, With Multiple Exostoses"	"EXT3"	"Orphanet:1962"
+"Multiple exostoses"	1.0	1.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0
+"Dermal atrophy"	1.0	0.0	0.0	0.0	1.0
+"Type E brachydactyly"	1.0	0.0	0.0	0.0	1.0
+"Intestinal polyposis"	0.0	0.0	1.0	0.0	0.0
+"Macule"	0.0	0.0	0.0	0.0	1.0

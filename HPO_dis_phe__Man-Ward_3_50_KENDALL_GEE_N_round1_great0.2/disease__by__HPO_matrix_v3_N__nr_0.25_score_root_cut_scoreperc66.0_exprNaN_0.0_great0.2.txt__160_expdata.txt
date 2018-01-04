@@ -1,0 +1,7 @@
+	"Adamantinoma of Long Bones"	"Cancer, Familial, With 1N Vitro Radioresistance"	"NPCA2"	"cutaneous Paget's disease"	"OMIM:176873"	"OMIM:194533"	"OMIM:311030"	"OMIM:311040"	"Cervical Cancer"
+"HP:0001417"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Neoplasm"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of metabolism/homeostasis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the cervical spine"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Eczematoid dermatitis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

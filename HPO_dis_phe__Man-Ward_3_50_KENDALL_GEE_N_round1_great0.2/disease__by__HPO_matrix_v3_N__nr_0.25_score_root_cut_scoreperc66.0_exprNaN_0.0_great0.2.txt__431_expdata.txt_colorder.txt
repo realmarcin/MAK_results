@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Pyloric stenosis"
+"3" "Failure to thrive"
+"4" "Projectile vomiting"
+"5" "Hypochloremic metabolic alkalosis"

@@ -1,0 +1,7 @@
+	"Spondyloepimetaphyseal Dysplasia, X-Linked, With Mental Deterioration"	"Spondyloepimetaphyseal dysplasia, Shohat type"	"Acrocapitofemoral Dysplasia"	"Even-Plus Syndrome"	"Rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation syndrome"
+"Peg-like central prominence of distal tibial metaphyses"	1.0	0.0	0.0	0.0	0.0
+"Cone-shaped capital femoral epiphysis"	1.0	0.0	1.0	0.0	0.0
+"Widened subarachnoid space"	1.0	0.0	0.0	0.0	1.0
+"Fibular overgrowth"	0.0	1.0	1.0	0.0	0.0
+"Cone-shaped epiphysis of the 1st metacarpal"	0.0	0.0	1.0	0.0	0.0
+"Dysplasia of the femoral head"	0.0	0.0	1.0	1.0	0.0

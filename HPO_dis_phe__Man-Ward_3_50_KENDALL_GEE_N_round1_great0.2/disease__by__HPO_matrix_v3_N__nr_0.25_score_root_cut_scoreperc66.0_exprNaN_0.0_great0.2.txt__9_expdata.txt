@@ -1,0 +1,4 @@
+	"autosomal recessive nonsyndromic deafness 12"	"autosomal recessive nonsyndromic deafness 40"	"Deafness, autosomal recessive 39"	"autosomal recessive nonsyndromic deafness 62"	"Deafness, autosomal recessive 49"	"autosomal recessive nonsyndromic deafness 44"	"DFNB71"	"Deafness, autosomal recessive 104"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prelingual sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

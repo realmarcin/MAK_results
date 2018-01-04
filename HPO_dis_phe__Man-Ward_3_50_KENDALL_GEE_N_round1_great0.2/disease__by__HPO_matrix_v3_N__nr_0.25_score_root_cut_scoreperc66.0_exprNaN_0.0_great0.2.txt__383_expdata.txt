@@ -1,0 +1,19 @@
+	"Congenital cataract-ichthyosis syndrome"	"Cyanosis and Hepatic Disease"	"Palmoplantar Keratoderma, Norrbotten Recessive Type"	"Sjogren-Larsson-Like Ichthyosis Without Cns or Eye Involvement"	"Ichthyosis, Congenital, Autosomal Recessive 4A"	"Primary hypertrophic osteoarthropathy, autosomal recessive 2"	"Autosomal recessive congenital ichthyosis 10"
+"Aortic valve stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the nervous system"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hyperkeratosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Periostosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Arthralgia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of abdomen morphology"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Palmoplantar keratoderma"	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Clubbing"	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Dyspnea"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypergranulosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cyanosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hepatitis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Leukonychia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Cor pulmonale"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital ichthyosiform erythroderma"	1.0	0.0	0.0	1.0	1.0	0.0	1.0
+"Ectropion"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Lymphoid interstitial pneumonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0

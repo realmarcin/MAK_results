@@ -1,0 +1,7 @@
+	"Revesz Syndrome"	"Orphanet:1520"	"Atypical hemolytic-uremic syndrome"	"Orphanet:2215"	"Orphanet:2228"	"Orphanet:2251"	"Orphanet:232"	"Orphanet:2703"	"Orphanet:2849"	"Orphanet:3107"	"Orphanet:37"	"Orphanet:464"	"Orphanet:54057"	"Orphanet:543"	"Orphanet:559"	"Orphanet:668"	"Thrombocytopenia with congenital dyserythropoietic anemia"	"Orphanet:899"
+"Ridged fingernail"	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal lactate dehydrogenase activity"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Prominence of the zygomatic bone"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal aldolase level"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Onychogryposis of fingernail"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal levels of creatine kinase in blood"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0

@@ -1,0 +1,5 @@
+	"DECIPHER:76"	"Dermatofibrosis lenticularis disseminata"	"Dacryocystitis-osteopoikilosis syndrome"	"Myopathy, Lactic Acidosis, and Sideroblastic Anemia 1"	"Myopathy, Myosin Storage, Autosomal Dominant"	"Orphanet:1306"	"Orphanet:1562"	"Melorheostosis with osteopoikilosis"	"Orphanet:2598"	"12q14 microdeletion syndrome"
+"Osteopoikilosis"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Generalized limb muscle atrophy"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Connective tissue nevi"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Complete duplication of the distal phalanges of the hand"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

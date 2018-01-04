@@ -1,0 +1,8 @@
+"x"
+"1" "campomelic.dysplasia"
+"2" "Lethal.Short.Limb.Skeletal.Dys"
+"3" "Orphanet.140"
+"4" "mucopolysaccharidosis.II"
+"5" "Kleefstra.syndrome"
+"6" "Meier.Gorlin.Syndrome.6"
+"7" "Bronchopulmonary.dysplasia"

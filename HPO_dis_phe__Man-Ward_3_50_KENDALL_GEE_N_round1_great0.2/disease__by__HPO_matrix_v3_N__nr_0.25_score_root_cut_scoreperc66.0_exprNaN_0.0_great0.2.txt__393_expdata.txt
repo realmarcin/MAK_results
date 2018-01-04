@@ -1,0 +1,8 @@
+	"Amyotrophic Lateral Sclerosis 5, Juvenile"	"Amyotrophic lateral sclerosis type 4"	"Primary Lateral Sclerosis, Juvenile"	"PLSA1"	"Spinocerebellar Ataxia 35"	"Amyotrophic Lateral Sclerosis 16, Juvenile"	"spinocerebellar ataxia type 40"	"hereditary spastic paraplegia 73"	"Orphanet:247604"	"Juvenile amyotrophic lateral sclerosis"
+"Cerebellar atrophy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Dysmetria"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Torticollis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Incoordination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Neck muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the orbital region"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

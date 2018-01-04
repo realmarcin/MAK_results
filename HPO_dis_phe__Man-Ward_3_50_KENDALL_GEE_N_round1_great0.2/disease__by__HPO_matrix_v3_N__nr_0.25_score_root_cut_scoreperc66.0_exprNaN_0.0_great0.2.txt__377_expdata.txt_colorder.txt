@@ -1,0 +1,5 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Constipation"
+"3" "Inability to walk"
+"4" "Supernumerary nipple"

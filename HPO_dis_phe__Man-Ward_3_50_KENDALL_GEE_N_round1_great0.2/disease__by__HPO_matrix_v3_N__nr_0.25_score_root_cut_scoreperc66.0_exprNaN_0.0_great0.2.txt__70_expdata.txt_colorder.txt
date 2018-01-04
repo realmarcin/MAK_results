@@ -1,0 +1,4 @@
+"x"
+"1" "Posterior polar cataract"
+"2" "Diffuse nuclear cataract"
+"3" "Total cataract"

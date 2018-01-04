@@ -1,0 +1,6 @@
+"x"
+"1" "Androgen insufficiency"
+"2" "Salt craving"
+"3" "Decreased urinary potassium"
+"4" "Hyperkalemic metabolic acidosis"
+"5" "Acute respiratory tract infection"

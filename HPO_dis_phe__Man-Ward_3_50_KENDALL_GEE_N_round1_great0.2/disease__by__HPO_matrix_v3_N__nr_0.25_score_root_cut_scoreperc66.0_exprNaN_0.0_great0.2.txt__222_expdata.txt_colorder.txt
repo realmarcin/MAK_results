@@ -1,0 +1,6 @@
+"x"
+"1" "Cerebral amyloid angiopathy"
+"2" "Abnormality of connective tissue"
+"3" "Recurrent cerebral hemorrhage"
+"4" "Tortuous cerebral arteries"
+"5" "Carotid artery dissection"

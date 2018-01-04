@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "Delayed speech and language development"
+"3" "Lissencephaly"
+"4" "Megalencephaly"
+"5" "Increased head circumference"

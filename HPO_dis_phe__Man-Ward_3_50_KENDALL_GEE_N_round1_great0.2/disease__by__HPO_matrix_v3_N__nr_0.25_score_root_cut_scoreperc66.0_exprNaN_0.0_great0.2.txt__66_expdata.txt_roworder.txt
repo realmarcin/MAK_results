@@ -1,0 +1,5 @@
+"x"
+"1" "Epidermolysis.bullosa.simplex."
+"2" "Recurrent.Neisseria.infections"
+"3" "Pachyonychia.Congenita..Autoso"
+"4" "Immunodeficiency.44"

@@ -1,0 +1,6 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Congenital sensorineural hearing impairment"
+"3" "Hypoplasia of the uterus"
+"4" "Primary amenorrhea"
+"5" "Hypergonadotropic hypogonadism"

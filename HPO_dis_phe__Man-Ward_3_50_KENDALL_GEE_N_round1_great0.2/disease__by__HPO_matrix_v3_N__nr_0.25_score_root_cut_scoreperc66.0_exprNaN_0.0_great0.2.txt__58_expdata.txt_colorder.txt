@@ -1,0 +1,7 @@
+"x"
+"1" "Congenital fibrosis of extraocular muscles"
+"2" "Compensatory chin elevation"
+"3" "Restrictive external ophthalmoplegia"
+"4" "Levator palpebrae superioris atrophy"
+"5" "Superior rectus atrophy"
+"6" "Nonprogressive restrictive external ophthalmoplegia"

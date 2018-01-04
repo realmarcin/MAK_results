@@ -1,0 +1,6 @@
+	"DWS"	"Dandy-Walker Malformation With Mental Retardation, Macrocephaly, Myopia, and Brachytelephalangy"	"Dandy-Walker Malformation With Postaxial Polydactyly"
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0
+"Elevated imprint of the transverse sinuses"	1.0	1.0	1.0
+"Thinning and bulging of the posterior fossa bones"	1.0	1.0	1.0
+"Posterior fossa cyst at the fourth ventricle"	1.0	1.0	1.0
+"Partial absence of cerebellar vermis"	1.0	1.0	1.0

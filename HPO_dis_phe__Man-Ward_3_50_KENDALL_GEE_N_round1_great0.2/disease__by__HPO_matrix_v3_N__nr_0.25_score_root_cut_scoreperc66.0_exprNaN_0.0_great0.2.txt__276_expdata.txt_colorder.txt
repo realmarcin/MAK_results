@@ -1,0 +1,8 @@
+"x"
+"1" "Bone marrow hypocellularity"
+"2" "Palmoplantar hyperkeratosis"
+"3" "HP:0003743"
+"4" "Abnormality of the dentition"
+"5" "Dilated cardiomyopathy"
+"6" "Chronic diarrhea"
+"7" "Urethral stricture"

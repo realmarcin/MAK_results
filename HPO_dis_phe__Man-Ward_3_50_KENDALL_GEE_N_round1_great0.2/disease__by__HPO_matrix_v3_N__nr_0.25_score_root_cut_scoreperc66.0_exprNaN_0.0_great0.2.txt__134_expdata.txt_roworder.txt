@@ -1,0 +1,7 @@
+"x"
+"1" "Tremor.of.Intention..Ataxia..a"
+"2" "Book.Syndrome"
+"3" "Failure.of.tooth.eruption..pri"
+"4" "Tooth.Agenesis..Selective..1"
+"5" "Graying.of.Hair..Precocious"
+"6" "HYPRPP"

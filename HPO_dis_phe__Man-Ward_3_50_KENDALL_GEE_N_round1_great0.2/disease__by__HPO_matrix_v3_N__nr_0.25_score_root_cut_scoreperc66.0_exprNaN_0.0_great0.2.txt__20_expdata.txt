@@ -1,0 +1,6 @@
+	"familial erythrocytosis 1"	"polycythemia vera"	"Erythrocytosis, familial, 2"	"Anemia, X-Linked, With or Without Neutropenia And/Or Platelet Abnormalities"	"Erythrocytosis, familial, 3"	"Erythrocytosis, familial, 4"	"TEMPI syndrome"
+"Plethora"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased red blood cell mass"	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Increased hematocrit"	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Increased hemoglobin"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Peripheral thrombosis"	1.0	0.0	1.0	0.0	0.0	0.0	0.0

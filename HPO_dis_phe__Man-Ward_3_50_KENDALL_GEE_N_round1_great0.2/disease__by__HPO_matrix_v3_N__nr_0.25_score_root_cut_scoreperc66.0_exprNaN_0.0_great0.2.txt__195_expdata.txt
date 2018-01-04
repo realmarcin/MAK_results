@@ -1,0 +1,7 @@
+	"Deafness With Anhidrotic Ectodermal Dysplasia"	"Rapp-Hodgkin ectodermal dysplasia syndrome"	"Uncombable hair syndrome"	"Tricho-retino-dento-digital syndrome"	"Cataract Hutterite type"	"Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant"	"Trichohepatoenteric syndrome 2"	"Uncombable Hair Syndrome 2; UHS2"	"Uncombable hair syndrome 3"	"Orphanet:1264"	"Orphanet:2909"	"Intellectual disability-polydactyly-uncombable hair syndrome"	"Orphanet:643"
+"Anhidrotic ectodermal dysplasia"	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pili canaliculi"	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Progressive alopecia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased number of sweat glands"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Uncombable hair"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Juvenile cataract"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0

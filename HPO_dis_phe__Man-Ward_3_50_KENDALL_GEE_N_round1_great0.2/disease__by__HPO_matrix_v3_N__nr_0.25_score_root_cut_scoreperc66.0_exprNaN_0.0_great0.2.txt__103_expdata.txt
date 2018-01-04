@@ -1,0 +1,45 @@
+	"Orphanet:319213"	"Orphanet:319218"	"Viral hemorrhagic fever"	"Orphanet:99745"	"Orphanet:99748"	"Orphanet:99824"	"Orphanet:99826"	"Orphanet:99827"	"Orphanet:99828"
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Jaundice"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Headache"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Diarrhea"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Arthralgia"	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+"Fatigue"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Proteinuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hematuria"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Renal insufficiency"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral hemorrhage"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Skin rash"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Pruritus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Thrombocytopenia"	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Gastrointestinal hemorrhage"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Abdominal pain"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Fever"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Restrictive ventilatory defect"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bruising susceptibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Dyspnea"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Elevated hepatic transaminases"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Myalgia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Gingival bleeding"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Lethargy"	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
+"Epistaxis"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Chest pain"	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Hypoproteinemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Weight loss"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypotension"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Pancreatitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hepatic steatosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Leukopenia"	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Petechiae"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Cardiac arrest"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Ascites"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cough"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Uveitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Cardiorespiratory arrest"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Acute hepatic failure"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Recurrent pharyngitis"	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Nausea and vomiting"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Macule"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Metrorrhagia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Menometrorrhagia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Subconjunctival hemorrhage"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

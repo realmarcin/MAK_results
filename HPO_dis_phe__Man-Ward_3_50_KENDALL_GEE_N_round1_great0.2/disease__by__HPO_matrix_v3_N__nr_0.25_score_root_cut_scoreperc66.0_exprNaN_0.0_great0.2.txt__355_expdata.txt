@@ -1,0 +1,8 @@
+	"Tracheobronchopathia osteochondroplastica"	"X-linked centronuclear myopathy"	"Panbronchiolitis, Diffuse"	"Orphanet:122"	"Pulmonary fibrosis-hepatic hyperplasia-bone marrow hypoplasia syndrome"	"Orphanet:3097"	"Orphanet:596"	"Bronchopulmonary dysplasia"	"Solar urticaria"
+"Wheezing"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Foam cells"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Respiratory failure requiring assisted ventilation"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Rales"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Rhonchi"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pulmonary sequestration"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Hyperoxemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

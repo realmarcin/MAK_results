@@ -1,0 +1,7 @@
+"x"
+"1" "Ectopic ossification in muscle tissue"
+"2" "Ectopic ossification in ligament tissue"
+"3" "Small cervical vertebral bodies"
+"4" "Abnormality of the first metatarsal bone"
+"5" "Progressive cervical vertebral spine fusion"
+"6" "Ectopic ossification in tendon tissue"

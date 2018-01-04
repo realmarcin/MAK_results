@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Preaxial polydactyly"
+"3" "Abnormality of earlobe"
+"4" "Dysplastic distal thumb phalanges with a central hole"
+"5" "1-5 toe syndactyly"

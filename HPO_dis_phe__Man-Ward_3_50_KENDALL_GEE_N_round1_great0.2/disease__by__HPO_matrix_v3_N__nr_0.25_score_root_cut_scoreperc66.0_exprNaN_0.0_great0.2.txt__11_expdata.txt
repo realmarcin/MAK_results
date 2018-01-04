@@ -1,0 +1,41 @@
+	"Familial abdominal aortic aneurysm 1"	"Cowden syndrome 1"	"Cowden syndrome 5"	"Cowden syndrome 6"
+"Intellectual disability"	0.0	0.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0	1.0
+"Micrognathia"	0.0	1.0	1.0	1.0
+"Narrow mouth"	0.0	1.0	1.0	1.0
+"High palate"	0.0	1.0	1.0	1.0
+"Scoliosis"	0.0	1.0	1.0	1.0
+"Hypoplasia of the maxilla"	0.0	1.0	1.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0
+"Pectus excavatum"	0.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	1.0	1.0	1.0
+"Meningioma"	0.0	1.0	1.0	1.0
+"Breast carcinoma"	0.0	1.0	1.0	1.0
+"Acrokeratosis"	0.0	1.0	0.0	0.0
+"Intellectual disability, mild"	0.0	1.0	1.0	1.0
+"Cataract"	0.0	1.0	1.0	1.0
+"Hypothyroidism"	0.0	1.0	1.0	1.0
+"Palmoplantar hyperkeratosis"	0.0	1.0	1.0	1.0
+"Myopia"	0.0	1.0	1.0	1.0
+"HP:0003581"	0.0	1.0	1.0	1.0
+"Kyphosis"	0.0	1.0	1.0	1.0
+"Abnormality of the cardiovascular system"	0.0	0.0	1.0	1.0
+"Skin tags"	0.0	1.0	1.0	1.0
+"Transitional cell carcinoma of the bladder"	0.0	1.0	1.0	1.0
+"Goiter"	0.0	1.0	1.0	1.0
+"Intention tremor"	0.0	1.0	1.0	1.0
+"Subcutaneous lipoma"	0.0	1.0	1.0	1.0
+"Varicocele"	0.0	1.0	1.0	1.0
+"Furrowed tongue"	0.0	1.0	1.0	1.0
+"Hydrocele testis"	0.0	1.0	1.0	1.0
+"Gynecomastia"	0.0	1.0	1.0	1.0
+"Hyperthyroidism"	0.0	1.0	1.0	1.0
+"Hamartomatous polyposis"	0.0	1.0	1.0	1.0
+"Colonic diverticula"	0.0	1.0	1.0	1.0
+"Ovarian cyst"	0.0	1.0	1.0	1.0
+"Thyroid adenoma"	0.0	1.0	1.0	1.0
+"Angioid streaks of the retina"	0.0	1.0	1.0	1.0
+"Abnormality of the vasculature"	0.0	1.0	0.0	0.0
+"Progressive macrocephaly"	0.0	1.0	1.0	1.0
+"Fibroadenoma of the breast"	0.0	1.0	1.0	1.0
+"HP:0100646"	0.0	1.0	1.0	1.0

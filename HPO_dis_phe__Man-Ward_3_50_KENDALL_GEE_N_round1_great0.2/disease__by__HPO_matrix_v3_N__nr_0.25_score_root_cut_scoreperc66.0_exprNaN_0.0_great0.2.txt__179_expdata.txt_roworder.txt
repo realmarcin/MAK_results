@@ -1,0 +1,5 @@
+"x"
+"1" "Coffin.Siris.syndrome.5"
+"2" "Mental.Retardation..Autosomal."
+"3" "Mental.Retardation..Autosomal."
+"4" "Mental.Retardation..Autosomal."

@@ -1,0 +1,7 @@
+"x"
+"1" "Fibromuscular.Dysplasia"
+"2" "Hypoalphalipoproteinemia"
+"3" "Hyperlipidemia..Familial.Combi"
+"4" "hyperlipoproteinemia.type.V"
+"5" "ATHS"
+"6" "Familial.hypoalphalipoproteine"

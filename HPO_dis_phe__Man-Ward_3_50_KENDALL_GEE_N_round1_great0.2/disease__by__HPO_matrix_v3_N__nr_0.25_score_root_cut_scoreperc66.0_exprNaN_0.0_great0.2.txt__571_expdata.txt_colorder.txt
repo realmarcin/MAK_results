@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Pulmonary fibrosis"
+"3" "Premature graying of hair"
+"4" "Bone marrow hypocellularity"
+"5" "Cirrhosis"
+"6" "Aplastic anemia"
+"7" "Leukemia"

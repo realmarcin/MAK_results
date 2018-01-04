@@ -1,0 +1,5 @@
+	"Spondyloepiphyseal Dysplasia, Myopia, and Sensorineural Deafness"	"Upington Disease"	"Immunodeficiency, X-Linked, With Deficiency of 115,000 Dalton Surface Glycoprotein"	"Smith-Mccort Dysplasia 2"	"Orphanet:1822"	"Orphanet:2237"	"Orphanet:251"	"Orphanet:90650"
+"Flattened femoral head"	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Abnormality of T cell physiology"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the femoral neck"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the tarsal bones"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

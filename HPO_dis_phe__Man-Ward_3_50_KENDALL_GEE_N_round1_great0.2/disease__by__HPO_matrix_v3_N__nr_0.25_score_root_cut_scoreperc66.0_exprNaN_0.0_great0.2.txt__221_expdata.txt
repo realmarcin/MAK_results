@@ -1,0 +1,7 @@
+	"Angioedema, Hereditary, Type 1"	"Meige syndrome"	"Melkersson-Rosenthal syndrome"	"Vibratory Angioedema"	"Fountain Syndrome"	"Netherton syndrome"	"glycoproteinosis"	"Angioedema Induced by Ace Inhibitors, Susceptibility to"	"Hereditary angioedema type 3"	"Lymphedema, Hereditary, 3"	"Hydrops fetalis, nonimmune, and/or atrial septal defect, susceptibility to"	"Hereditary angioedema type 1"	"Drug rash with eosinophilia and systemic symptoms"	"Hypocomplementemic urticarial vasculitis"	"Orphanet:658"	"Orphanet:761"	"Orphanet:86822"	"Orphanet:91378"	"Acquired angioedema"	"Solar urticaria"	"Orphanet:98292"
+"Intestinal edema"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Pharyngeal edema"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Laryngeal edema"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Angioedema"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Facial edema"	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Episodic upper airway obstruction"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

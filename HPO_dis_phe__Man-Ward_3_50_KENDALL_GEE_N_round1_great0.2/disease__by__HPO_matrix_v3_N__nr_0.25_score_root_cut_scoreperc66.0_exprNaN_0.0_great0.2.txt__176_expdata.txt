@@ -1,0 +1,10 @@
+	"ASD1"	"atrial heart septal defect 2"	"Atrial Septal Defect 5"	"Atrial Septal Defect 6"	"Ventricular septal defect 1"	"Ventricular septal defect 3"	"Atrial septal defect 8"	"Orphanet:1478"
+"Atrial septal defect"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Atrioventricular canal defect"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Patent ductus arteriosus"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Ventricular septal defect"	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Pulmonic stenosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Pulmonary artery stenosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Atrial fibrillation"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bradycardia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

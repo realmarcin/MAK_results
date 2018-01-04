@@ -1,0 +1,7 @@
+"x"
+"1" "Prolonged bleeding after surgery"
+"2" "Impaired collagen-induced platelet aggregation"
+"3" "Impaired epinephrine-induced platelet aggregation"
+"4" "Impaired ADP-induced platelet aggregation"
+"5" "Post-partum hemorrhage"
+"6" "Abnormality of the umbilical cord"

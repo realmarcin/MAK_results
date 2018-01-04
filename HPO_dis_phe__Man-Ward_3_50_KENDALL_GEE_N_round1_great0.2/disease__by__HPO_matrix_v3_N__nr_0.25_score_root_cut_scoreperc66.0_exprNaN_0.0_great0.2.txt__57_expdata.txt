@@ -1,0 +1,12 @@
+	"Orphanet:231226"	"Beta-thalassemia associated with another hemoglobin anomaly"	"Delta-beta-thalassemia"	"Hemoglobin C-beta-thalassemia syndrome"	"Orphanet:846"
+"Jaundice"	1.0	0.0	0.0	0.0	1.0
+"Splenomegaly"	1.0	1.0	0.0	1.0	1.0
+"Hemolytic anemia"	0.0	1.0	0.0	0.0	1.0
+"Cognitive impairment"	0.0	0.0	0.0	0.0	1.0
+"Myelodysplasia"	0.0	0.0	0.0	0.0	1.0
+"Cholelithiasis"	0.0	0.0	0.0	0.0	1.0
+"Microcytic anemia"	1.0	1.0	1.0	1.0	1.0
+"Abnormal hemoglobin"	1.0	1.0	1.0	1.0	1.0
+"Hypersplenism"	0.0	1.0	0.0	0.0	1.0
+"Hydrops fetalis"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of immune system physiology"	0.0	0.0	0.0	0.0	1.0

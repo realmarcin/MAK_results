@@ -1,0 +1,6 @@
+"x"
+"1" "Heinz body anemia"
+"2" "Priapism"
+"3" "Impaired renal concentrating ability"
+"4" "Increased red cell sickling tendency"
+"5" "Macrocytic hemolytic disease"

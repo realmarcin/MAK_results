@@ -1,0 +1,4 @@
+"x"
+"1" "Hypertrichosis"
+"2" "Porphyrinuria"
+"3" "Abnormality of male external genitalia"

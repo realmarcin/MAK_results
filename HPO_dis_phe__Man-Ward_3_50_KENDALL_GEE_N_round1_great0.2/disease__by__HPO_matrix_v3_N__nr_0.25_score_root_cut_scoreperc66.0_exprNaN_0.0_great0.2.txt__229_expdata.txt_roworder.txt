@@ -1,0 +1,8 @@
+"x"
+"1" "OMIM.400003"
+"2" "X46.XX.sex.reversal..type.1"
+"3" "gonadoblastoma"
+"4" "Spermatogenic.Failure..Y.Linke"
+"5" "OMIM.426000"
+"6" "OMIM.475000"
+"7" "OMIM.470000"

@@ -1,0 +1,15 @@
+	"Osteoporosis"	"hypophosphatemic nephrolithiasis/osteoporosis 1"	"hypophosphatemic nephrolithiasis/osteoporosis 2"	"Bone mineral density quantitative trait locus 15"	"Hypogonadotropic Hypogonadism 18 With or Without Anosmia"	"hypogonadotropic hypogonadism 19 with or without anosmia"	"hypogonadotropic hypogonadism 21 with or without anosmia"
+"Hypogonadism"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Osteopenia"	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Osteoporosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypophosphatemia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Anosmia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the dentition"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Increased susceptibility to fractures"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Nephrolithiasis"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Delayed puberty"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypercalciuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyperphosphaturia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Renal phosphate wasting"	0.0	1.0	1.0	0.0	0.0	0.0	0.0

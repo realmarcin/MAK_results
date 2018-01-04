@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "HP:0001419"
+"3" "Feeding difficulties"
+"4" "Fine hair"
+"5" "Poor speech"

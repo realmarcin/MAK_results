@@ -1,0 +1,7 @@
+	"Basal Ganglia Calcification, Idiopathic, Childhood-Onset"	"3-methylcrotonyl CoA carboxylase 2 deficiency"	"IDDM"	"isovaleric acidemia"	"Congenital myopathy with fiber type disproportion"	"Corpus Callosum, Agenesis Of, With Abnormal Genitalia"	"CFTDX"	"glycerol kinase deficiency"	"permanent neonatal diabetes mellitus"	"diabetic ketoacidosis"	"Pontocerebellar hypoplasia type 2D"	"Combined malonic and methylmalonic acidemia"	"Mitochondrial Complex 3 Deficiency, Nuclear Type 6"	"Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency"	"Monocarboxylate Transporter 1 Deficiency"	"Orphanet:1667"	"Orphanet:261476"	"Isolated glycerol kinase deficiency"	"ACTH-independent Cushing syndrome"
+"Limb joint contracture"	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ketoacidosis"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Increased urinary glycerol"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Type 1 fibers relatively smaller than type 2 fibers"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Adrenocortical hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Beta-cell dysfunction"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

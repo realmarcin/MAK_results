@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Confusion"
+"3" "Polyphagia"
+"4" "Vivid hallucinations"
+"5" "Episodic hypersomnia"

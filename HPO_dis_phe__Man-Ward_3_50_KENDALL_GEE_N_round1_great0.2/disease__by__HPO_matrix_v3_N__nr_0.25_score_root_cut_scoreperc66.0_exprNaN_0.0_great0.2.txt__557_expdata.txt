@@ -1,0 +1,12 @@
+	"OMIM:100650"	"Chlorpropamide-Alcohol Flushing"	"Morquio Syndrome C"	"Mucopolysaccharidoses, Unclassified Types"	"ADDWOC"	"Alcohol Sensitivity, Acute"	"Pigmented Nodular Adrenocortical Disease, Primary, 4"	"Muscular hypertrophy-hepatomegaly-polyhydramnios syndrome"
+"HP:0000006"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Facial flushing after alcohol intake"	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Delayed oxidation of acetaldehyde"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Shoe-shaped sella turcica"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Progressive joint destruction"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Atretic occipital cephalocele"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Macrocephaly at birth"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Dorsocervical fat pad"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Moon facies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Delayed thelarche"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar malformation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,10 @@
+	"PPKP3"	"acrokeratosis verruciformis"	"CARP"	"Psoriasis 2"	"Vohwinkel Syndrome, Variant Form"	"PPKP1B"	"Cole Disease"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperkeratosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Acrokeratosis"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Ridged nail"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Epidermal acanthosis"	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Psoriasiform dermatitis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypergranulosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Parakeratosis"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Orthokeratosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

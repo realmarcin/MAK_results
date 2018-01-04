@@ -1,0 +1,6 @@
+	"Pigmentary retinal dystrophy"	"RCD1"	"Craniofacial dysmorphism, skeletal anomalies, and mental retardation syndrome"	"Familial benign flecked retina"	"Stargardt Disease 1"	"Cone-Rod Dystrophy 7"	"Stargardt Disease 4"	"Cone-Rod Dystrophy 11"	"Bestrophinopathy, Autosomal Recessive"	"retinitis pigmentosa 50"	"Macular Dystrophy With Central Cone Involvement"
+"Retinal flecks"	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Fundus albipunctatus"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diffuse retinal cone degeneration"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bull's eye maculopathy"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Retinitis pigmentosa inversa"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

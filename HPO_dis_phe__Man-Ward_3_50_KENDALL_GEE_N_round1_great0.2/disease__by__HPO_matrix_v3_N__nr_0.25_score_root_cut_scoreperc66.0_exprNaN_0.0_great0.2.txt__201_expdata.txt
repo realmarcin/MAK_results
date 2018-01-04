@@ -1,0 +1,9 @@
+	"Deafness, Unilateral"	"Intussusception"	"NDNC2"	"Polyposis, Gastric"	"Polyposis of Gastric Fundus Without Polyposis Coli"	"Polyps, Multiple and Recurrent Inflammatory Fibroid, Gastrointestinal"	"nonsyndromic congenital nail disorder 7"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Intussusception"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Concave nail"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Unilateral deafness"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Intestinal polyposis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Multiple gastric polyps"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the gastric mucosa"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Platonychia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

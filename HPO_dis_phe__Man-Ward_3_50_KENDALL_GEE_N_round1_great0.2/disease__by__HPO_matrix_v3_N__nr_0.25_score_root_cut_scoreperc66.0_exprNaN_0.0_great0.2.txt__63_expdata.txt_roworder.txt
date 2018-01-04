@@ -1,0 +1,4 @@
+"x"
+"1" "Frontometaphyseal.dysplasia"
+"2" "Andersen.Tawil.syndrome"
+"3" "Orphanet.268882"

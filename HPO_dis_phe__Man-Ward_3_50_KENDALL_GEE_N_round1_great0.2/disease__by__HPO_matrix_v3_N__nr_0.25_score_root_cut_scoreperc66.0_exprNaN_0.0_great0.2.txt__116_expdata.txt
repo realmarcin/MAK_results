@@ -1,0 +1,10 @@
+	"Spondyloepiphyseal Dysplasia Tarda, Autosomal Dominant"	"Mucopolysaccharidosis, Type 4A"	"Mucopolysaccharidosis type 4B"	"mucopolysaccharidosis IX"	"anauxetic dysplasia 1"	"Orphanet:582"
+"Cervical subluxation"	1.0	1.0	1.0	0.0	1.0	0.0
+"Grayish enamel"	0.0	1.0	1.0	0.0	0.0	1.0
+"Flaring of rib cage"	0.0	1.0	1.0	0.0	0.0	0.0
+"Pointed proximal second through fifth metacarpals"	0.0	1.0	1.0	0.0	0.0	0.0
+"Epiphyseal deformities of tubular bones"	0.0	1.0	1.0	0.0	0.0	0.0
+"Constricted iliac wings"	0.0	1.0	1.0	0.0	0.0	0.0
+"Keratan sulfate excretion in urine"	0.0	1.0	1.0	1.0	0.0	0.0
+"Chondroitin sulfate excretion in urine"	0.0	1.0	0.0	0.0	0.0	0.0
+"Large elbow"	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,9 @@
+	"Mental Retardation, X-Linked, With Cerebellar Hypoplasia and Distinctive Facial Appearance"	"Mental retardation, syndromic 14, X-linked"	"X-linked intellectual disability with marfanoid habitus"	"Chromosome 3Q29 Deletion Syndrome"	"Glass Syndrome"	"Mental Retardation, Autosomal Dominant 29"	"Macrocephaly, Dysmorphic Facies, and Psychomotor Retardation; MDFPMR"	"Mental retardation, autosomal dominant 44"	"Orphanet:137831"	"Fetal trimethadione syndrome"	"Orphanet:199318"	"Orphanet:238446"	"Orphanet:250989"	"Orphanet:250994"	"Orphanet:254351"	"Orphanet:261197"	"16p11.2p12.2 microduplication syndrome"	"16p13.11 microduplication syndrome"	"Orphanet:276413"	"Developmental and speech delay due to SOX5 deficiency"	"Orphanet:60040"	"Orphanet:65286"	"Orphanet:776"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Atrial septal defect"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Craniosynostosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pes planus"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Ventricular septal defect"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Tetralogy of Fallot"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Coarctation of aorta"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Transposition of the great arteries"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

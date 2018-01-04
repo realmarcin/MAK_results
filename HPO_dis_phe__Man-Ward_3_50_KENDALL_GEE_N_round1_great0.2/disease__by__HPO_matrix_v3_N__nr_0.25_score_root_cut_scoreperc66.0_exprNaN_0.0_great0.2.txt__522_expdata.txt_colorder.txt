@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Excessive daytime somnolence"
+"3" "Increased urinary taurine"
+"4" "Neonatal respiratory distress"
+"5" "Hyperbetaalaninemia"

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Hypotension"
+"3" "Urinary urgency"
+"4" "Abnormality of the autonomic nervous system"
+"5" "Metachromatic leukodystrophy variant"

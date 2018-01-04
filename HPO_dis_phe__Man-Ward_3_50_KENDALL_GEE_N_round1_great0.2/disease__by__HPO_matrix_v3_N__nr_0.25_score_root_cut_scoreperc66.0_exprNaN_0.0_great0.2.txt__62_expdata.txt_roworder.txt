@@ -1,0 +1,7 @@
+"x"
+"1" "Photomyoclonus..Diabetes.Melli"
+"2" "Opticocochleodentate.Degenerat"
+"3" "SCAR3"
+"4" "Deafness..autosomal.dominant.9"
+"5" "Orphanet.3233"
+"6" "Atypical.juvenile.parkinsonism"

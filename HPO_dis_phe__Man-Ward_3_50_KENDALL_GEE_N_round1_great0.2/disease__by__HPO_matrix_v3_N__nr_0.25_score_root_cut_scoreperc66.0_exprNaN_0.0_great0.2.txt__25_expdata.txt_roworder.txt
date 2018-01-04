@@ -1,0 +1,4 @@
+"x"
+"1" "Heparin.Cofactor.2.Deficiency"
+"2" "THPH9"
+"3" "Thrombophilia..histidine.rich."

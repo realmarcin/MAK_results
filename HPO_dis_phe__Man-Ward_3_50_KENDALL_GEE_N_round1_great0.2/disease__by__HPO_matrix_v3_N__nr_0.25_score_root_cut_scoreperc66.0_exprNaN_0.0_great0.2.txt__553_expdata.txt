@@ -1,0 +1,7 @@
+	"Gray Platelet Syndrome"	"Noonan Syndrome 1"	"Platelet Responsiveness to Adrenaline, Depressed"	"Platelet Signal Processing Defect"	"Quebec platelet disorder"	"Wolfram Syndrome 2"	"platelet-type bleeding disorder 8"	"Factor xiii, a subunit, deficiency of"	"Factor xiii, b subunit, deficiency of"	"Hermansky-Pudlak Syndrome 6"	"Orphanet:327"	"Acquired hemophilia"	"Orphanet:98879"
+"Impaired collagen-induced platelet aggregation"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Impaired epinephrine-induced platelet aggregation"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Impaired ADP-induced platelet aggregation"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Prolonged bleeding after surgery"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Abnormality of the umbilical cord"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Post-partum hemorrhage"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Hepatomegaly"
+"2" "Narrow chest"
+"3" "Abnormality of the thyroid gland"
+"4" "Abnormality of calcium-phosphate metabolism"
+"5" "Abnormality of the metaphysis"

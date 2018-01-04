@@ -1,0 +1,7 @@
+	"OMIM:159555"	"Acute Undifferentiated Leukemia"	"Adult idiopathic neutropenia"
+"HP:0000006"	1.0	1.0	1.0
+"Acute monocytic leukemia"	1.0	0.0	0.0
+"Acute myelomonocytic leukemia"	1.0	0.0	0.0
+"Acute myeloid leukemia"	1.0	1.0	1.0
+"Biphenotypic acute leukaemia"	1.0	0.0	0.0
+"Acute lymphoblastic leukemia"	1.0	0.0	0.0

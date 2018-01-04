@@ -1,0 +1,6 @@
+	"Lattice corneal dystrophy Type III"	"Ocular coloboma, autosomal recessive"	"OPA6"	"Foveal hypoplasia 2"	"Retinal cone dystrophy 3A"	"Senior-Loken Syndrome 6"	"Congenital stationary night blindness, type 2B"	"Retinal Cone Dystrophy 4"	"Autosomal recessive optic atrophy, OPA7 type"	"Cone dystrophy 4"	"Leber Congenital Amaurosis 16"	"Usher syndrome, type 3B"	"Night Blindness, Congenital Stationary, Type 1E"	"Microphthalmia, isolated, with coloboma 9"	"Progressive retinal dystrophy due to retinol transport defect"	"Myopia 23, autosomal recessive"	"Bosch-Boonstra-Schaaf optic atrophy syndrome"	"Cone-Rod Dystrophy 20"	"Retinal Dystrophy and Obesity"	"Optic Atrophy 9"	"Microcephaly and chorioretinopathy, autosomal recessive, 3"
+"Reduced visual acuity"	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoplasia of the fovea"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Posterior embryotoxon"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Axenfeld anomaly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Alternating esotropia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

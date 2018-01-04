@@ -1,0 +1,9 @@
+	"Pachyonychia Congenita, Autosomal Recessive"	"Epidermolysis bullosa simplex, autosomal recessive"	"Recurrent Neisseria infections due to factor D deficiency"	"Immunodeficiency 44"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"HP:0003828"	0.0	1.0	1.0	1.0
+"Ridged nail"	0.0	1.0	0.0	0.0
+"Recurrent bacterial infections"	0.0	0.0	1.0	0.0
+"HP:0003577"	0.0	1.0	0.0	0.0
+"Thick nail"	1.0	1.0	0.0	0.0
+"Subungual hyperkeratosis"	1.0	0.0	0.0	0.0
+"Complement deficiency"	0.0	0.0	1.0	0.0

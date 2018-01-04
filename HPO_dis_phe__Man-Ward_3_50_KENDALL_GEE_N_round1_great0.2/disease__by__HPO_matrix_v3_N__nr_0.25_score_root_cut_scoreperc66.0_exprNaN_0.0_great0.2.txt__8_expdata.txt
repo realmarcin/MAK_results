@@ -1,0 +1,4 @@
+	"Darwinian Tubercle of Pinna"	"Ear Antitragus, Tag at Base of"	"Ear Folding"	"Ear Malformation"	"Ear Without Helix"	"Exchondrosis of Pinna, Posterior"	"OMIM:159300"	"Ossified Ear Cartilages"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Specific learning disability"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the ear"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

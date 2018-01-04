@@ -1,0 +1,6 @@
+	"Dysmyelination With Jaundice"	"Hyperbilirubinemia, Transient Familial Neonatal"	"Cerebral Palsy, Spastic Quadriplegic, 1"	"Cerebral Palsy, Ataxic, Autosomal Recessive"	"Cerebral Palsy, Spastic Quadriplegic, 2"	"Spastic Paraplegia 50, Autosomal Recessive"	"hereditary spastic paraplegia 52"	"Primary Aldosteronism, Seizures, and Neurologic Abnormalities"	"Mental Retardation, Autosomal Dominant 26"	"Tenorio Syndrome"	"Orphanet:101330"	"Orphanet:1766"	"Orphanet:2406"	"Orphanet:2796"	"Orphanet:2940"	"Orphanet:369929"	"Orphanet:439167"	"Wyburn-Mason syndrome"	"Orphanet:682"	"Orphanet:738"	"Orphanet:765"	"Orphanet:770"	"Orphanet:93474"	"Orphanet:963"
+"Cranial nerve paralysis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Urinary retention"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral palsy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Diaphragmatic paralysis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Mydriasis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

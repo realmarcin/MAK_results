@@ -1,0 +1,8 @@
+"x"
+"1" "Hyperreflexia"
+"2" "Pes cavus"
+"3" "Degeneration of anterior horn cells"
+"4" "HP:0040078"
+"5" "Clonus"
+"6" "Diffuse axonal swelling"
+"7" "Pallor of dorsal columns of the spinal cord"

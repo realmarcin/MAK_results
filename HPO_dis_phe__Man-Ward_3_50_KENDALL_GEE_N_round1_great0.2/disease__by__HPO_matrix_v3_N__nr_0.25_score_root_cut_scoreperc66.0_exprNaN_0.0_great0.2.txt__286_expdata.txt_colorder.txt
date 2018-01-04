@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Laryngomalacia"
+"3" "Abnormality of the trachea"
+"4" "Congenital laryngeal stridor"

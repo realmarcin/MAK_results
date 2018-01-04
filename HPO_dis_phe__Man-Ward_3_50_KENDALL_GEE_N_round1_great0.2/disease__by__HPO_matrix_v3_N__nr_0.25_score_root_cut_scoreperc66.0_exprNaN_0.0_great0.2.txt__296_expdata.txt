@@ -1,0 +1,19 @@
+	"Afibrinogenemia, congenital"	"Antithrombin, Familial Hemorrhagic Diathesis Due to"	"Athrombia, Essential"	"Combined deficiency of factor V and factor VIII, 1"	"Factor 5 and Factor Viii, Combined Deficiency Of, With Normal Protein C and Protein C Inhibitor"	"Scott Syndrome"	"Vitamin K-Dependent Clotting Factors, Combined Deficiency Of, 2"	"Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cutis laxa"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal bleeding"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Epistaxis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Reduced factor VIII activity"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Reduced factor VII activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Reduced factor IX activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Atherosclerosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Angioid streaks of the retina"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Impaired platelet aggregation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Reduced prothrombin consumption"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypofibrinogenemia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Splenic rupture"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Impaired platelet adhesion"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Reduced factor V activity"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Reduced factor X activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Factor X activation deficiency"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Reduced prothrombin activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

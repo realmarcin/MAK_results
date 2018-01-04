@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Furrowed tongue"
+"3" "Intellectual disability"
+"4" "Geographic tongue"
+"5" "Progressive ophthalmoplegia"

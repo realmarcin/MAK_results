@@ -1,0 +1,6 @@
+"x"
+"1" "Reduced visual acuity"
+"2" "Hypoplasia of the fovea"
+"3" "Posterior embryotoxon"
+"4" "Axenfeld anomaly"
+"5" "Alternating esotropia"

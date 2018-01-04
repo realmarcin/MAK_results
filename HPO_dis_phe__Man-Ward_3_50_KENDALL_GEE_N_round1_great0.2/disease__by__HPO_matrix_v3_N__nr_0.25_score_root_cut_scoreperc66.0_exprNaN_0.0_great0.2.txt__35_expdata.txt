@@ -1,0 +1,12 @@
+	"Paragangliomas 4"	"Chemodectoma, Intraabdominal, With Cutaneous Angiolipomas"	"Jugulotympanic Paraganglioma"	"Paragangliomas 2"	"Paragangliomas 3"	"Orphanet:1359"	"Pituitary dermoid and epidermoid cysts"
+"Episodic paroxysmal anxiety"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Recurrent paroxysmal headache"	1.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Hypertension associated with pheochromocytoma"	1.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Glomus jugular tumor"	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Extraadrenal pheochromocytoma"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Adrenal pheochromocytoma"	1.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Pulsatile tinnitus"	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Chemodectoma"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Loss of voice"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Elevated circulating catecholamine level"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Glomus tympanicum paraganglioma"	0.0	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "Peripheral neuropathy"
+"3" "Sensory axonal neuropathy"
+"4" "Pes valgus"

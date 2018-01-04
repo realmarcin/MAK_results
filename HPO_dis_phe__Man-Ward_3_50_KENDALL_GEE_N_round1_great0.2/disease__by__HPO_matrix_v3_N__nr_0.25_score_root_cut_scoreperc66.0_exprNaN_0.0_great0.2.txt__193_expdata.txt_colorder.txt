@@ -1,0 +1,8 @@
+"x"
+"1" "Cranium bifidum occultum"
+"2" "Frontal cutaneous lipoma"
+"3" "S-shaped palpebral fissures"
+"4" "Hypoplasia of the frontal bone"
+"5" "Absent inner eyelashes"
+"6" "Lipoma of corpus callosum"
+"7" "Anterior basal encephalocele"

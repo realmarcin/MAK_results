@@ -1,0 +1,7 @@
+"x"
+"1" "Dk.Phocomelia.Syndrome"
+"2" "Galactorrhea"
+"3" "Genitourinary.Tract.Anomalies"
+"4" "Adenomyosis"
+"5" "Hydatidiform.Mole..Recurrent.."
+"6" "Gonadal.Agenesis"

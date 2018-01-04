@@ -1,0 +1,6 @@
+"x"
+"1" "Epileptic encephalopathy"
+"2" "Motor delay"
+"3" "Torticollis"
+"4" "Autistic behavior"
+"5" "Language impairment"

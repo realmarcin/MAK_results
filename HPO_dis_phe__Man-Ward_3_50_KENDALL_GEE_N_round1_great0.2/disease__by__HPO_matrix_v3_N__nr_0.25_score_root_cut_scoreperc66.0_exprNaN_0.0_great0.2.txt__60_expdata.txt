@@ -1,0 +1,4 @@
+	"newborn respiratory distress syndrome"	"Heparin Cofactor 2 Deficiency"	"Thrombophilia due to protein S deficiency, autosomal recessive"	"Autoinflammation With Infantile Enterocolitis"	"Orphanet:108"	"Colchicine poisoning"
+"Disseminated intravascular coagulation"	1.0	1.0	1.0	1.0	1.0	1.0
+"Recurrent deep vein thrombosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Post-angioplasty coronary artery restenosis"	0.0	1.0	0.0	0.0	0.0	0.0

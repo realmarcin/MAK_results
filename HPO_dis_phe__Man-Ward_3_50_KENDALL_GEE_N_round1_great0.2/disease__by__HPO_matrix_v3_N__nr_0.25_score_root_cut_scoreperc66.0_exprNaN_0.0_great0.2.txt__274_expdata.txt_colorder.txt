@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000007"
+"2" "Cerebral cortical atrophy"
+"3" "Developmental stagnation"
+"4" "Decerebrate rigidity"

@@ -1,0 +1,6 @@
+"x"
+"1" "Failure to thrive"
+"2" "Hypertension"
+"3" "Goiter"
+"4" "Hyperthyroidism"
+"5" "Glutaric aciduria"

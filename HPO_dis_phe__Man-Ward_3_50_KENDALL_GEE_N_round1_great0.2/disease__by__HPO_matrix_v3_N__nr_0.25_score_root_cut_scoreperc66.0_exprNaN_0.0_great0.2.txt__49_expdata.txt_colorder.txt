@@ -1,0 +1,8 @@
+"x"
+"1" "Portal hypertension"
+"2" "HP:0000007"
+"3" "HP:0003676"
+"4" "Biliary cirrhosis"
+"5" "Hepatocellular carcinoma"
+"6" "Intrahepatic cholestasis"
+"7" "Hepatic failure"

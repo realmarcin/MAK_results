@@ -1,0 +1,6 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "Telecanthus"
+"3" "Dysphagia"
+"4" "Constipation"
+"5" "Optic nerve hypoplasia"

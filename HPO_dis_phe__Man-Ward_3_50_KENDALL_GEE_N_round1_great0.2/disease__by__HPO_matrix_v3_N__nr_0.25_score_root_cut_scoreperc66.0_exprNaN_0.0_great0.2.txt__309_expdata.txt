@@ -1,0 +1,8 @@
+	"Adult onset ataxia with oculomotor apraxia"	"Charcot-Marie-Tooth Disease, Type 4A"	"Charcot-Marie-Tooth disease type 4C"	"Congenital cataracts-facial dysmorphism-neuropathy syndrome"	"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 1"	"DNM2-related intermediate Charcot-Marie-Tooth neuropathy"	"Charcot-Marie-Tooth disease dominant intermediate A"	"Charcot-Marie-Tooth disease type 2P"	"Charcot-Marie-Tooth disease type 4F"
+"Peripheral axonal degeneration"	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Basal lamina 'onion bulb' formation"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Prolonged brainstem auditory evoked potentials"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Segmental peripheral demyelination"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormal pupillary light reflex"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ventilator dependence with inability to wean"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Denervation of the diaphragm"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"Lynch Syndrome 1"	"Epidermoid Cysts"	"Desmoid disease, hereditary"	"Lynch 2 Syndrome"	"Polyposis Syndrome, Hereditary Mixed, 2"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Colon cancer"	1.0	0.0	1.0	1.0	1.0
+"Epidermoid cyst"	0.0	1.0	1.0	0.0	0.0
+"Adenomatous colonic polyposis"	0.0	0.0	0.0	0.0	1.0
+"Hyperplastic colonic polyposis"	0.0	0.0	0.0	0.0	1.0
+"Juvenile colonic polyposis"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,9 @@
+	"Leukemia, Chronic Lymphocytic, Susceptibility To, 2"	"OMIM:109560"	"OMIM:114835"	"Chronic lymphocytic leukemia"	"OMIM:151441"	"Malignant lymphoma, non-Hodgkin"	"FL1"
+"HP:0000006"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0001428"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Rheumatoid arthritis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Chronic lymphatic leukemia"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Lymphoma"	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Abnormality of metabolism/homeostasis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0001444"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Cellular immunodeficiency"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

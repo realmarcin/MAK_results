@@ -1,0 +1,6 @@
+"x"
+"1" "Failure to thrive"
+"2" "Vitamin K deficiency"
+"3" "Rickets"
+"4" "Pruritus"
+"5" "Increased serum bile acid concentration"

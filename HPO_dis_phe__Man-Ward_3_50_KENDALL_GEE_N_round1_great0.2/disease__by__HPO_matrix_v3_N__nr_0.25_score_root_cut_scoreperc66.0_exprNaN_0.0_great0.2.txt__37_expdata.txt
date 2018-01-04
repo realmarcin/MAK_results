@@ -1,0 +1,7 @@
+	"Cataract, zonular"	"Hereditary hyperferritinemia with congenital cataracts"	"Cataract 23, multiple types"	"Hemochromatosis, Type 5"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Anterior polar cataract"	1.0	0.0	0.0	0.0
+"Nuclear cataract"	1.0	0.0	0.0	0.0
+"Pulverulent cataract"	1.0	1.0	0.0	0.0
+"Lamellar cataract"	1.0	0.0	1.0	0.0
+"Increased serum ferritin"	0.0	1.0	0.0	1.0

@@ -1,0 +1,29 @@
+	"Orphanet:168558"	"Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency"	"Orphanet:90791"	"Orphanet:90794"	"Orphanet:90795"	"Orphanet:95699"
+"Tall stature"	0.0	0.0	0.0	0.0	1.0	1.0
+"Accelerated skeletal maturation"	0.0	0.0	1.0	0.0	0.0	1.0
+"Acne"	0.0	0.0	1.0	1.0	0.0	1.0
+"Hypertension"	0.0	0.0	0.0	1.0	1.0	1.0
+"Hirsutism"	0.0	0.0	1.0	1.0	1.0	1.0
+"Adrenogenital syndrome"	0.0	0.0	1.0	1.0	1.0	1.0
+"Bifid scrotum"	0.0	0.0	1.0	0.0	0.0	1.0
+"Hypoplasia of the vagina"	0.0	0.0	0.0	0.0	1.0	1.0
+"Aortic root dilatation"	0.0	0.0	0.0	1.0	1.0	1.0
+"Insulin resistance"	0.0	0.0	1.0	1.0	0.0	0.0
+"Glucose intolerance"	0.0	0.0	1.0	0.0	0.0	0.0
+"Generalized hyperpigmentation"	0.0	0.0	1.0	1.0	1.0	1.0
+"Premature adrenarche"	0.0	0.0	1.0	1.0	1.0	1.0
+"Enlarged polycystic ovaries"	0.0	0.0	1.0	1.0	1.0	1.0
+"Ambiguous genitalia, female"	0.0	0.0	1.0	1.0	1.0	1.0
+"Congenital adrenal hyperplasia"	0.0	0.0	1.0	1.0	1.0	1.0
+"Maternal virilization in pregnancy"	0.0	0.0	0.0	1.0	0.0	1.0
+"Decreased fertility in females"	0.0	0.0	1.0	1.0	1.0	1.0
+"Androgen insufficiency"	0.0	0.0	1.0	0.0	0.0	1.0
+"Perineal hypospadias"	0.0	0.0	1.0	0.0	0.0	1.0
+"Abnormal oral glucose tolerance"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the menstrual cycle"	0.0	0.0	1.0	0.0	1.0	1.0
+"Abnormal sex determination"	0.0	0.0	1.0	0.0	0.0	1.0
+"Decreased fertility in males"	0.0	0.0	1.0	1.0	1.0	1.0
+"Hyperpigmented genitalia"	0.0	0.0	1.0	1.0	1.0	1.0
+"Abnormality of the labia majora"	0.0	0.0	1.0	0.0	1.0	1.0
+"Ectopic adrenal gland"	0.0	0.0	1.0	1.0	1.0	1.0
+"Female sexual dysfunction"	0.0	0.0	0.0	1.0	1.0	1.0

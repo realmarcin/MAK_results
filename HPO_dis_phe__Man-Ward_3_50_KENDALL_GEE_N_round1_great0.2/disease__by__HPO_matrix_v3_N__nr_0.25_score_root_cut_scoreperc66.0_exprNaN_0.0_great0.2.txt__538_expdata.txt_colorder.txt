@@ -1,0 +1,5 @@
+"x"
+"1" "Global developmental delay"
+"2" "Abnormal salivary gland morphology"
+"3" "Abnormality of Krebs cycle metabolism"
+"4" "Abnormal urine alpha-ketoglutarate concentration"

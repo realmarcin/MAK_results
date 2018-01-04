@@ -1,0 +1,4 @@
+	"OMIM:125260"	"E11S"	"Globulin Anomaly Involving Beta (2A)-Globulin"	"Immune Suppression"	"OMIM:173850"	"OMIM:178635"	"Ragweed Sensitivity"	"Schistosoma Mansoni Infection, Susceptibility/Resistance to"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the immune system"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the coagulation cascade"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

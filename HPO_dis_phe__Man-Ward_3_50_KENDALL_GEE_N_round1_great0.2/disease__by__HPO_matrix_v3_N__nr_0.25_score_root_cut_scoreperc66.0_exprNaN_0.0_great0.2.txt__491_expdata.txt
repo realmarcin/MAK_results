@@ -1,0 +1,10 @@
+	"Achondroplasia"	"Spondylometaphyseal Dysplasia, Algerian Type"	"Thanatophoric dysplasia type 1"	"Thanatophoric dysplasia, type 2"	"Lethal Kniest-like dysplasia"	"Atelosteogenesis type II"	"Spondyloepiphyseal Dysplasia Tarda With Mental Retardation"	"Simpson-Golabi-Behmel syndrome"	"Cutis Laxa, Autosomal Dominant 3"	"Orphanet:140"	"Orphanet:1860"	"Orphanet:42775"
+"Small foramen magnum"	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Trident hand"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spinal stenosis with reduced interpedicular distance"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lumbar kyphosis in infancy"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Flattened moderately deformed vertebrae"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Short sacroiliac notch"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Wide-cupped costochondral junctions"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Small abnormally formed scapulae"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Lethal short-limbed short stature"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+	"acrocephalosyndactylia"	"Cerebrocostomandibular Syndrome"	"BDA1B"	"Klippel-Feil Syndrome 3, Autosomal Dominant"	"Orphanet:87"
+"Anomalous tracheal cartilage"	1.0	1.0	0.0	0.0	0.0
+"Acrobrachycephaly"	1.0	0.0	0.0	0.0	1.0
+"Cervical C5/C6 vertebrae fusion"	1.0	0.0	0.0	1.0	1.0
+"Abnormal morphology of the limbic system"	1.0	0.0	0.0	0.0	0.0
+"Broad distal hallux"	1.0	0.0	1.0	0.0	0.0
+"Anomalous rib insertion to vertebrae"	0.0	1.0	0.0	0.0	0.0

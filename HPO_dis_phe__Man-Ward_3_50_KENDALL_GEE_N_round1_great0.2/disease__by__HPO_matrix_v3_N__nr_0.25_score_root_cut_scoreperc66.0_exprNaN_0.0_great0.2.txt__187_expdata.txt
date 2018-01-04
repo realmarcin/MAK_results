@@ -1,0 +1,6 @@
+	"GFND1"	"Epstein syndrome"	"Autosomal dominant progressive nephropathy with hypertension"	"Hydroxyprolinemia"	"Thrombotic Thrombocytopenic Purpura, Congenital"	"Dent disease type 1"	"X-linked Alport syndrome"	"Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis"	"Nephrolithiasis, X-Linked Recessive, With Renal Failure"	"Infundibulopelvic stenosis-multicystic kidney syndrome"	"Glomerulopathy With Fibronectin Deposits 2"	"Congenital primary megaureter"	"Orphanet:77297"	"Orphanet:79087"	"Orphanet:84090"	"Orphanet:86818"
+"Microscopic hematuria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Lobular glomerulopathy"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glomerulopathy"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Generalized distal tubular acidosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Mesangial abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

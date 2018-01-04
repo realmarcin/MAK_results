@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.282166"
+"2" "Mast.syndrome"
+"3" "Pallidal.Degeneration..Progres"
+"4" "OPEM"
+"5" "Encephalopathy..Ethylmalonic"
+"6" "Megalencephalic.leukoencephalo"
+"7" "Chromosome.17Q11.2.Deletion.Sy"

@@ -1,0 +1,27 @@
+	"Dyskeratosis congenita autosomal dominant"	"Dyskeratosis congenita autosomal recessive 1"	"Revesz Syndrome"	"Dyskeratosis congenita X-linked"	"Dyskeratosis Congenita, Autosomal Dominant 2"	"Dyskeratosis Congenita, Autosomal Dominant 3"	"Orphanet:1775"
+"Microcephaly"	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Intellectual disability"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Delayed speech and language development"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Microdontia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cryptorchidism"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Small nail"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003812"	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Osteoporosis"	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Hyperpigmentation of the skin"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Nasolacrimal duct obstruction"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Dry skin"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Sparse scalp hair"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Dermal atrophy"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Nail dysplasia"	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Sparse eyelashes"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Increased lacrimation"	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Pulmonary fibrosis"	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Immunodeficiency"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Leukopenia"	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Hepatic fibrosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Retinopathy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Esophageal stricture"	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Pterygium of nails"	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Reticulated skin pigmentation"	0.0	0.0	0.0	1.0	1.0	1.0	0.0

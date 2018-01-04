@@ -1,0 +1,15 @@
+	"MAFD1"	"Myoclonic Epilepsy, Hartung Type"	"ENFL2"	"Advanced Sleep Phase Syndrome, Familial, 1"	"BFNS3"	"EJM4"	"Epilepsy, Nocturnal Frontal Lobe, 5"	"Advanced Sleep Phase Syndrome, Familial, 3"	"Seizures, Benign Familial Infantile, 5; BFIS5"
+"Intellectual disability"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Depressivity"	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Aggressive behavior"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0003593"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Generalized tonic-clonic seizures"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Sleep-wake cycle disturbance"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Focal seizures"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Psychosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Focal clonic seizures"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Mania"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Personality disorder"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Status epilepticus"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0

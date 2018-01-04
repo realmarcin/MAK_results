@@ -1,0 +1,6 @@
+"x"
+"1" "Cleft palate"
+"2" "Epicanthus"
+"3" "Abnormal facial shape"
+"4" "Severe short stature"
+"5" "Inferior lens subluxation"

@@ -1,0 +1,7 @@
+"x"
+"1" "Global developmental delay"
+"2" "Truncal ataxia"
+"3" "Broad-based gait"
+"4" "Cerebral dysmyelination"
+"5" "Frontoparietal polymicrogyria"
+"6" "Polymicrogyria, anterior to posterior gradient"

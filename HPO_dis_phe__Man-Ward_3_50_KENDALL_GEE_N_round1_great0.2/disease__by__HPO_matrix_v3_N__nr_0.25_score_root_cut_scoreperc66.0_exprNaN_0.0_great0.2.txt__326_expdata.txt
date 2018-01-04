@@ -1,0 +1,9 @@
+	"Brachyolmia Type 3"	"Nail-patella syndrome"	"Spondyloepiphyseal Dysplasia Tarda, Autosomal Dominant"	"BCYM1A"	"BCYM1B"	"Van den Ende-Gupta syndrome"	"Orphanet:85170"
+"Childhood-onset short-trunk short stature"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Glenoid fossa hypoplasia"	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Increased urinary disaccharide excretion"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Flattened proximal radial epiphyses"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Squared-off platyspondyly"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Broad tibial metaphyses"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Precocious costochondral ossification"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Flared radial metaphysis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

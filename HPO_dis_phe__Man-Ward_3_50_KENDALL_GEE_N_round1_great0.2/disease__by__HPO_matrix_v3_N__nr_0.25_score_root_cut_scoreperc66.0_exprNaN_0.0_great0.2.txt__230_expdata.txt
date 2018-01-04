@@ -1,0 +1,7 @@
+	"Dyskeratosis congenita autosomal dominant"	"Dyskeratosis congenita autosomal recessive 1"	"Revesz Syndrome"	"Dyskeratosis congenita X-linked"	"Dyskeratosis Congenita, Autosomal Dominant 2"	"Dyskeratosis Congenita, Autosomal Dominant 3"	"Hoyeraal-Hreidarsson syndrome"
+"Specific learning disability"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Reticular hyperpigmentation"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lymphopenia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Interstitial pneumonitis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Squamous cell carcinoma of the skin"	1.0	0.0	0.0	0.0	0.0	0.0	0.0

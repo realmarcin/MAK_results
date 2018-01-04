@@ -1,0 +1,6 @@
+	"Nephropathic cystinosis"	"Infantile hypophosphatasia"	"Hypophosphatasia, Childhood"	"Hypophosphatemic Rickets and Hyperparathyroidism"	"Orphanet:436"	"Orphanet:89936"
+"Rachitic rosary"	1.0	1.0	1.0	1.0	0.0	1.0
+"Skin dimple over apex of long bone angulation"	0.0	1.0	1.0	0.0	1.0	0.0
+"Phosphoethanolaminuria"	0.0	1.0	1.0	0.0	0.0	0.0
+"Elevated urine pyrophosphate"	0.0	1.0	1.0	0.0	0.0	0.0
+"Elevated plasma pyrophosphate"	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Factor.11.Deficiency"
+"2" "Factor.7.and.Factor.Viii..Comb"
+"3" "Venous.Malformations..Multiple"
+"4" "Factor.8.Deficiency"
+"5" "Factor.8.and.Factor.Ix..Combin"
+"6" "Factor.9.and.Factor.Xi..Combin"

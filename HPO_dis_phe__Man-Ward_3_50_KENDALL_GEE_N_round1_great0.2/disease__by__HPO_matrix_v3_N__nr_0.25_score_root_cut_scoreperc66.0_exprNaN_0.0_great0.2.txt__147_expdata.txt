@@ -1,0 +1,6 @@
+	"Heinz Body Anemias"	"Hemolytic Poikilocytic Anemia Due to Reduced Ankyrin Binding Sites"	"OMIM:141800"	"OMIM:141900"	"Priapism, Familial Idiopathic"	"amelogenesis imperfecta type 1G"	"Sickle Cell Anemia"
+"Heinz body anemia"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Impaired renal concentrating ability"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Macrocytic hemolytic disease"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Increased red cell sickling tendency"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Priapism"	0.0	0.0	0.0	1.0	1.0	0.0	1.0

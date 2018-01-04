@@ -1,0 +1,8 @@
+"x"
+"1" "Hypoplastic fifth fingernail"
+"2" "Hypoplastic fifth toenail"
+"3" "Reduced proximal interphalangeal joint space"
+"4" "Aplasia/Hypoplasia of the distal phalanx of the 5th toe"
+"5" "Symphalangism of the 4th finger"
+"6" "Symphalangism of the 5th finger"
+"7" "Symphalangism affecting the phalanges of the toes"

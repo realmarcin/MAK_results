@@ -1,0 +1,6 @@
+"x"
+"1" "SCZD1"
+"2" "Schizophrenia"
+"3" "SCZD10"
+"4" "SCZD3"
+"5" "Schizophrenia.15"

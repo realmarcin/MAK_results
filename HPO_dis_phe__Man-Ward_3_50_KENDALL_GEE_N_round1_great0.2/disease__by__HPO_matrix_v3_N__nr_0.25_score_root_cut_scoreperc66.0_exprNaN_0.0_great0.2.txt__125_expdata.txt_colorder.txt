@@ -1,0 +1,7 @@
+"x"
+"1" "Uterine leiomyosarcoma"
+"2" "Cutaneous leiomyoma"
+"3" "Vaginal neoplasm"
+"4" "Multiple cutaneous leiomyomas"
+"5" "Cutaneous leiomyosarcoma"
+"6" "Papillary renal cell carcinoma type 2"

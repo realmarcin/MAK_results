@@ -1,0 +1,14 @@
+	"Neuronopathy, Distal Hereditary Motor, Type 7A"	"Neuropathy, Hereditary Sensorimotor, With Upper Motor Neuron, Visual Pathway and Autonomic Disturbance"	"Distal hereditary motor neuropathy type 1"	"Charcot-Marie-Tooth disease type 5"	"Distal hereditary motor neuropathy, Jerash type"	"Distal hereditary motor neuronopathy type 7B"	"Charcot-Marie-Tooth disease type 1D"	"Charcot-Marie-Tooth disease, dominant intermediate C"	"Macular Degeneration, Age-Related, 3"	"amyotrophic lateral sclerosis type 9"	"Hereditary sensory and autonomic neuropathy type IC"	"Hereditary sensory neuropathy type 1D"	"Peripheral Neuropathy, Myopathy, Hoarseness, and Hearing Loss"
+"Paresthesia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Nail dysplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0003581"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Peripheral axonal neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Hyperreflexia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Anhidrosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Nail dystrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Distal amyotrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Distal sensory impairment"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Osteomyelitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Distal sensory loss of all modalities"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Autoamputation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Dysesthesia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

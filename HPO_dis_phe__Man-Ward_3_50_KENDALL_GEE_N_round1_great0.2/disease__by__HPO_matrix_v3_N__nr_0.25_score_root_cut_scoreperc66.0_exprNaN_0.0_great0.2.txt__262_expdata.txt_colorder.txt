@@ -1,0 +1,7 @@
+"x"
+"1" "Severe viral infections"
+"2" "Lack of facial subcutaneous fat"
+"3" "Abnormality of thalamus morphology"
+"4" "Fragile teeth"
+"5" "Allergic conjunctivitis"
+"6" "Abnormal muscle tone"

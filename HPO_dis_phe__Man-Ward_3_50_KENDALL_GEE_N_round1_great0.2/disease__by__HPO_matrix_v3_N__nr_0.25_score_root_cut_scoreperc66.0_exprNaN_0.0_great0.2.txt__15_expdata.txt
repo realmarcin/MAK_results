@@ -1,0 +1,43 @@
+	"Familial abdominal aortic aneurysm 1"	"autosomal dominant Robinow syndrome 1"	"autosomal recessive Robinow syndrome"	"autosomal dominant Robinow syndrome 2"	"autosomal dominant Robinow syndrome 3"	"Orphanet:1507"	"Orphanet:3107"
+"Intellectual disability"	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Hypertelorism"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Macrocephaly"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Frontal bossing"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Midface retrusion"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Micrognathia"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Downslanted palpebral fissures"	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Depressed nasal bridge"	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Inguinal hernia"	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Anteverted nares"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Short nose"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hydronephrosis"	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Long philtrum"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Low-set ears"	0.0	1.0	1.0	0.0	1.0	0.0	1.0
+"Wide nasal bridge"	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Short neck"	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Scoliosis"	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Oral cleft"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pectus excavatum"	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Ventricular septal defect"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Hearing impairment"	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Epicanthus"	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Short palm"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Long eyelashes"	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Umbilical hernia"	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Retrognathia"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Kyphosis"	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Proptosis"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Posteriorly rotated ears"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Upslanted palpebral fissure"	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Hypoplastic labia majora"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Gingival overgrowth"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Downturned corners of mouth"	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Blue sclerae"	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Nevus flammeus"	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Rib fusion"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Clitoral hypoplasia"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Long palpebral fissure"	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Bifid tongue"	0.0	1.0	1.0	0.0	0.0	1.0	1.0

@@ -1,0 +1,8 @@
+	"Goiter, Multinodular, Cystic Renal Disease, and Digital Anomalies"	"Syndactyly-Polydactyly-Earlobe Syndrome"	"Craniosynostosis With Anomalies of the Cranial Base and Digits"	"Hirschsprung Disease With Ulnar Polydactyly, Polysyndactyly of Big Toes, and Ventricular Septal Defect"	"Lambotte Syndrome"	"Tibia, Absence or Hypoplasia Of, With Polydactyly, Retrocerebellar Arachnoid Cyst, and Other Anomalies"	"Preaxial Hallucal Polydactyly"	"Orphanet:1540"	"Orphanet:1988"	"Orphanet:2091"	"Orphanet:380"	"Orphanet:93403"
+"Toe syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Preaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Broad thumb"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Postaxial hand polydactyly"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Preaxial foot polydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Postaxial foot polydactyly"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Broad hallux phalanx"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0

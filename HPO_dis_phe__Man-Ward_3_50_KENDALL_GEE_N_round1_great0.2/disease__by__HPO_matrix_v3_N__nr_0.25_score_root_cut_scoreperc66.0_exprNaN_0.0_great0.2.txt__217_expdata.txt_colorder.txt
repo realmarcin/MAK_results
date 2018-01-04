@@ -1,0 +1,5 @@
+"x"
+"1" "Glomerulonephritis"
+"2" "Pyoderma"
+"3" "Plasmacytosis"
+"4" "Pyoderma gangrenosum"

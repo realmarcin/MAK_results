@@ -1,0 +1,6 @@
+"x"
+"1" "Dysarthria"
+"2" "Hemiparesis"
+"3" "Episodic ataxia"
+"4" "Progressive sensorineural hearing impairment"
+"5" "Episodic generalized hypotonia"

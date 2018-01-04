@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.252054"
+"2" "Von.Hippel.Lindau.Syndrome"
+"3" "acrocallosal.syndrome"
+"4" "Orphanet.54595"
+"5" "Orphanet.73256"
+"6" "Orphanet.892"

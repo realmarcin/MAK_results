@@ -1,0 +1,19 @@
+	"Diffuse cutaneous systemic sclerosis"	"Orphanet:220402"	"Orphanet:221"	"Polymyositis"	"Orphanet:779"	"Orphanet:801"	"Orphanet:809"	"Antisynthetase syndrome"	"Orphanet:90290"	"Orphanet:90291"	"Orphanet:93672"
+"Muscular hypotonia"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Recurrent respiratory infections"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Interstitial pulmonary abnormality"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Breast carcinoma"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Neoplasm"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Pruritus"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Aortic regurgitation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Fever"	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Proximal muscle weakness"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Vasculitis"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Myalgia"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Pulmonary fibrosis"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Dysphonia"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Respiratory insufficiency"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Weight loss"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"EMG abnormality"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Myocarditis"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

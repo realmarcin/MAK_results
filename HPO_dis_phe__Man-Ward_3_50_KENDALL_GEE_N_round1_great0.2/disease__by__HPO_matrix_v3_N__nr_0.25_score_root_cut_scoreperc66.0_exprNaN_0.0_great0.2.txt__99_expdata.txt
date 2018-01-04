@@ -1,0 +1,10 @@
+	"Gastroschisis"	"Colonic atresia"	"Orphanet:1198"	"Orphanet:2368"
+"Abdominal distention"	0.0	1.0	1.0	0.0
+"Peptic ulcer"	0.0	0.0	1.0	0.0
+"Omphalocele"	0.0	0.0	1.0	0.0
+"Gastroschisis"	1.0	0.0	1.0	1.0
+"Duodenal stenosis"	0.0	0.0	1.0	0.0
+"Intestinal atresia"	0.0	0.0	0.0	1.0
+"Abdominal situs inversus"	0.0	0.0	1.0	0.0
+"Colonic atresia"	0.0	1.0	1.0	0.0
+"Abnormality of mesentery morphology"	0.0	0.0	1.0	1.0

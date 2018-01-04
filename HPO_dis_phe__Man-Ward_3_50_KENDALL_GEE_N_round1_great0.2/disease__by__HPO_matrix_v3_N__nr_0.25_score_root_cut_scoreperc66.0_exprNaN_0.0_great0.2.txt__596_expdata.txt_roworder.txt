@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.881"
+"2" "Orphanet.85328"
+"3" "Ring.chromosome.Y"
+"4" "Blepharophimosis..Ptosis..and."
+"5" "Progesterone.Resistance"
+"6" "Oocyte.Maturation.Defect..OOMD"

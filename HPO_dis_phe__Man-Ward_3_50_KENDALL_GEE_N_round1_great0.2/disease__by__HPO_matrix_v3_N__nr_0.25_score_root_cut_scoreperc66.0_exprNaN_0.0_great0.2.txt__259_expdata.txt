@@ -1,0 +1,9 @@
+	"Joubert syndrome 1"	"Arima Syndrome"	"Joubert Syndrome 2"	"Joubert Syndrome 3"	"Joubert syndrome 4"	"Joubert syndrome 5"	"Joubert Syndrome 6"	"Joubert Syndrome 7"	"Krabbe Disease, Atypical, Due to Saposin a Deficiency"	"Spastic Paraplegia 49, Autosomal Recessive"	"Joubert syndrome 21"	"Achondroplasia, Severe, With Developmental Delay and Acanthosis Nigricans"	"2q24 microdeletion syndrome"	"Diethylstilbestrol syndrome"	"Orphanet:3463"	"20q11.2 microdeletion syndrome"	"Orphanet:475"	"Orphanet:67048"	"Bronchopulmonary dysplasia"	"Orphanet:71277"	"47,XYY syndrome"
+"Abnormality of saccadic eye movements"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysgenesis of the cerebellar vermis"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Brainstem dysplasia"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Neonatal breathing dysregulation"	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Central apnea"	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Episodic tachypnea"	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Elongated superior cerebellar peduncle"	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Enlarged fossa interpeduncularis"	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

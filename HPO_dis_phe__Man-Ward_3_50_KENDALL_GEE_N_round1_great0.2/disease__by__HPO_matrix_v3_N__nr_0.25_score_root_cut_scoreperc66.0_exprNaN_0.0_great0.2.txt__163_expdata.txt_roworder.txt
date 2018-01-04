@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.1507"
+"2" "Orphanet.3107"
+"3" "autosomal.dominant.Robinow.syn"
+"4" "autosomal.recessive.Robinow.sy"
+"5" "autosomal.dominant.Robinow.syn"
+"6" "autosomal.dominant.Robinow.syn"

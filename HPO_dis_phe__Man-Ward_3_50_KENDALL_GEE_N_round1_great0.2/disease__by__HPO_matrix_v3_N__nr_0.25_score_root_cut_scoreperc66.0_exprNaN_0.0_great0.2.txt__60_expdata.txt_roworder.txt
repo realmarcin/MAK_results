@@ -1,0 +1,7 @@
+"x"
+"1" "Heparin.Cofactor.2.Deficiency"
+"2" "newborn.respiratory.distress.s"
+"3" "Thrombophilia.due.to.protein.S"
+"4" "Autoinflammation.With.Infantil"
+"5" "Orphanet.108"
+"6" "Colchicine.poisoning"

@@ -1,0 +1,8 @@
+	"Lattice Degeneration of Retina Leading to Retinal Detachment"	"MYP2"	"Retinal Detachment"	"Sinus Node Disease and Myopia"	"OMIM:312530"	"MYP3"	"MYP5"	"MYP19"	"Myopia 21, Autosomal Dominant"	"Myopia 25, Autosomal Dominant; MYP25"
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the nervous system"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001425"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Retinal detachment"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Sick sinus syndrome"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lattice retinal degeneration"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Severe Myopia"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0

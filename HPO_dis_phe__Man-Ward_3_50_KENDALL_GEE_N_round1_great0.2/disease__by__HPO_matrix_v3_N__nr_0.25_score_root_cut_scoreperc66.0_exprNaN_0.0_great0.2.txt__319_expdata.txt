@@ -1,0 +1,20 @@
+	"Fibular hypoplasia and complex brachydactyly"	"Rhizomelic Chondrodysplasia Punctata, Type 3"	"Rhizomelic Dysplasia, Patterson-Lowry Type"	"Asphyxiating thoracic dystrophy 2"	"Spondyloepimetaphyseal Dysplasia, Aggrecan Type"	"Short-Rib Thoracic Dysplasia 5 With or Without Polydactyly"	"Orphanet:171866"	"Orphanet:2831"
+"Mandibular prognathia"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Malar flattening"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Joint laxity"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Hoarse voice"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Low-set ears"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Short neck"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Lumbar hyperlordosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Rhizomelia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Broad thumb"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the nail"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Short finger"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Mesomelia"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Barrel-shaped chest"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Posteriorly rotated ears"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Relative macrocephaly"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Functional respiratory abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Low-set, posteriorly rotated ears"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Spondyloepimetaphyseal dysplasia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Absent nasal bridge"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0

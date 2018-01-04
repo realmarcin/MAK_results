@@ -1,0 +1,7 @@
+"x"
+"1" "Distal muscle weakness"
+"2" "Abnormal lower motor neuron morphology"
+"3" "Facial palsy"
+"4" "Lower limb muscle weakness"
+"5" "Hand muscle atrophy"
+"6" "Hand muscle weakness"

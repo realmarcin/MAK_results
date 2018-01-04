@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Midface retrusion"
+"3" "Downslanted palpebral fissures"
+"4" "Hyperlordosis"
+"5" "Low-set, posteriorly rotated ears"

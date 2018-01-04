@@ -1,0 +1,45 @@
+	"Tn Polyagglutination Syndrome"	"Diffuse cutaneous systemic sclerosis"	"Orphanet:220402"	"Orphanet:221"	"Polymyositis"	"Orphanet:779"	"Orphanet:801"	"Orphanet:809"	"Antisynthetase syndrome"	"Orphanet:90290"	"Orphanet:90291"	"Orphanet:93672"
+"Seizures"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Dysphagia"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0
+"Constipation"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Gastroesophageal reflux"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Cirrhosis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hepatomegaly"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Xerostomia"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"HP:0001596"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Pulmonary arterial hypertension"	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Peripheral neuropathy"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Hemolytic anemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Arthralgia"	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Fatigue"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Dry skin"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Cutaneous photosensitivity"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Autoimmunity"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Nephropathy"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Skin rash"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Muscle weakness"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Gastrointestinal hemorrhage"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Erythema"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Arthritis"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Arrhythmia"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Angina pectoris"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Restrictive ventilatory defect"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Dyspnea"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Myalgia"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Pulmonary fibrosis"	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Joint dislocation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Keratoconjunctivitis sicca"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Limitation of joint mobility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Chest pain"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Elevated erythrocyte sedimentation rate"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Hypopigmented skin patches"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pericarditis"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Myositis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Osteolysis"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Cough"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Calcinosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Skin ulcer"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Lack of skin elasticity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Mucosal telangiectasiae"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Telangiectasia of the skin"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0

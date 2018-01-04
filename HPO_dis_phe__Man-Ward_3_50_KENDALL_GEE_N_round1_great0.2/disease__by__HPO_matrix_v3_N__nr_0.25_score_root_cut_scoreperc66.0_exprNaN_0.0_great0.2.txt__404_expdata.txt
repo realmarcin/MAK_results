@@ -1,0 +1,9 @@
+	"Albinism, Ocular, With Sensorineural Deafness"	"Chediak-Higashi syndrome"	"Metachromatic leukodystrophy, adult form"	"Sandhoff Disease"	"X-linked recessive ocular albinism"	"Albinism, Ocular, With Late-Onset Sensorineural Deafness"	"Orphanet:31150"	"Orphanet:54"	"Orphanet:904"	"Orphanet:97283"
+"Giant melanosomes in melanocytes"	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Recurrent systemic pyogenic infections"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive peripheral neuropathy"	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Impaired thermal sensitivity"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Nystagmus-induced head nodding"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Depigmented fundus"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Orange discoloured tonsils"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Carotid artery stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

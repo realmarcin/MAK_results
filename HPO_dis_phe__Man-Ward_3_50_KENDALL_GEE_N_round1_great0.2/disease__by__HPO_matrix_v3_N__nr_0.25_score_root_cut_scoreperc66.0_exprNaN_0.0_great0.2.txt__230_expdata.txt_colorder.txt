@@ -1,0 +1,7 @@
+"x"
+"1" "Bone marrow hypocellularity"
+"2" "Specific learning disability"
+"3" "Reticular hyperpigmentation"
+"4" "Lymphopenia"
+"5" "Interstitial pneumonitis"
+"6" "Squamous cell carcinoma of the skin"

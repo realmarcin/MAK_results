@@ -1,0 +1,11 @@
+	"Maturity-Onset Diabetes of the Young, Type 1"	"Maturity-Onset Diabetes of the Young, Type 2"	"Hepatic Adenomas, Familial"	"Maturity-onset diabetes of the young, type 3"	"Maturity-Onset Diabetes of the Young, Type 4"	"Maturity-Onset Diabetes of the Young, Type 6"	"Maturity-onset diabetes of the young, type 7"	"Maturity-onset diabetes of the young, type 9"	"Maturity-Onset Diabetes of the Young, Type 10"	"Maturity-Onset Diabetes of the Young, Type 11"	"Maturity-onset diabetes of the young, type 13"	"Maturity-onset diabetes of the young, type 14"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003593"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Obesity"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Maturity-onset diabetes of the young"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Polycystic ovaries"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hepatocellular adenoma"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperglycemia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Overweight"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Transient neonatal diabetes mellitus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

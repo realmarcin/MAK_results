@@ -1,0 +1,6 @@
+	"Smith-Magenis syndrome"	"Autosomal recessive hypohidrotic ectodermal dysplasia syndrome"	"Ectodermal Dysplasia, Hypohidrotic, With Hypothyroidism and Agenesis of the Corpus Callosum"	"Ectodermal Dysplasia, Hypohidrotic, With Hypothyroidism and Ciliary Dyskinesia"	"Eyebrows, Duplication Of, With Stretchable Skin and Syndactyly"	"Ogden syndrome"	"Ectodermal Dysplasia 1, Hypohidrotic, X-Linked"	"Gaucher disease, perinatal lethal"	"Ectodermal Dysplasia 11A, Hypohidrotic/Hair/Tooth Type, Autosomal Dominant"	"Ectodermal Dysplasia 11B, Hypohidrotic/Hair/Tooth Type, Autosomal Recessive"	"Orphanet:181"
+"Everted upper lip vermilion"	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Periorbital wrinkles"	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Periorbital hyperpigmentation"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypohidrotic ectodermal dysplasia"	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Hypoplastic-absent sebaceous glands"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

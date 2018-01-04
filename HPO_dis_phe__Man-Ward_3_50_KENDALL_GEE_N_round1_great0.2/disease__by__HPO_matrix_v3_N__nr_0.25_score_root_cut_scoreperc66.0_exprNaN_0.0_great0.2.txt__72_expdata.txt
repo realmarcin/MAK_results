@@ -1,0 +1,29 @@
+	"Methylmalonic acidemia with homocystinuria"	"Homocystinuria without methylmalonic aciduria"	"Orphanet:79282"	"Orphanet:79283"	"Orphanet:79284"
+"Microcephaly"	1.0	0.0	1.0	0.0	0.0
+"Intellectual disability"	1.0	0.0	0.0	1.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	0.0	0.0	1.0
+"Feeding difficulties in infancy"	0.0	0.0	0.0	0.0	1.0
+"Nystagmus"	0.0	1.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	1.0	0.0	1.0	0.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	1.0
+"Dementia"	0.0	1.0	0.0	0.0	0.0
+"Behavioral abnormality"	1.0	0.0	0.0	1.0	0.0
+"Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	0.0
+"Hydrocephalus"	1.0	0.0	1.0	0.0	0.0
+"Ataxia"	0.0	1.0	0.0	0.0	1.0
+"Fatigue"	1.0	0.0	1.0	1.0	0.0
+"Visual impairment"	0.0	1.0	0.0	0.0	0.0
+"Skin rash"	1.0	0.0	0.0	0.0	1.0
+"Pallor"	0.0	0.0	1.0	1.0	0.0
+"Cerebral cortical atrophy"	0.0	1.0	0.0	0.0	0.0
+"Vomiting"	0.0	1.0	0.0	0.0	0.0
+"Gait disturbance"	1.0	0.0	0.0	1.0	0.0
+"Psychosis"	0.0	1.0	0.0	0.0	1.0
+"Lethargy"	1.0	1.0	1.0	1.0	1.0
+"Amblyopia"	1.0	0.0	0.0	0.0	0.0
+"Feeding difficulties"	1.0	0.0	0.0	0.0	0.0
+"Retinopathy"	1.0	0.0	1.0	0.0	0.0
+"Developmental regression"	0.0	0.0	0.0	0.0	1.0
+"Stomatitis"	0.0	0.0	0.0	0.0	1.0
+"Megaloblastic bone marrow"	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Asymmetric septal hypertrophy"
+"2" "Thickened ribs"
+"3" "Heparan sulfate excretion in urine"
+"4" "Ovoid thoracolumbar vertebrae"
+"5" "Dense calvaria"
+"6" "Cellular metachromasia"

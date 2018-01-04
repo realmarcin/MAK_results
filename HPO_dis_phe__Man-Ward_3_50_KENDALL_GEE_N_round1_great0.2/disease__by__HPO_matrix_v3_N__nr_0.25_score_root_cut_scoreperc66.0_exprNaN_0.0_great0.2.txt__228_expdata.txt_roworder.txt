@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.2382"
+"2" "Pachygyria.With.Mental.Retarda"
+"3" "Classic.homocystinuria"
+"4" "BPPX"
+"5" "McLeod.neuroacanthocytosis.syn"
+"6" "Epilepsy..Nocturnal.Frontal.Lo"
+"7" "OMIM.617350"

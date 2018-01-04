@@ -1,0 +1,6 @@
+"x"
+"1" "Platyspondyly"
+"2" "Abnormality of pelvic girdle bone morphology"
+"3" "Hypoplasia of the ulna"
+"4" "Type E brachydactyly"
+"5" "Abnormality of vertebral epiphysis morphology"

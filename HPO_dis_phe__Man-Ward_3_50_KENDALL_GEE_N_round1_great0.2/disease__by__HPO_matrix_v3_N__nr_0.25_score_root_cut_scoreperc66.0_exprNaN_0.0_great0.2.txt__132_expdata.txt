@@ -1,0 +1,6 @@
+	"hypogonadotropic hypogonadism 23 with or without anosmia"	"Pleoconial Myopathy With Salt Craving"	"Seizures, Sensorineural Deafness, Ataxia, Mental Retardation, and Electrolyte Imbalance"	"Familial hypoaldosteronism"	"Thyrotoxic periodic paralysis"	"Orphanet:85138"	"Orphanet:90791"	"Acute adrenal insufficiency"	"Orphanet:95699"
+"Androgen insufficiency"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Salt craving"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Hyperkalemic metabolic acidosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Decreased urinary potassium"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Acute respiratory tract infection"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

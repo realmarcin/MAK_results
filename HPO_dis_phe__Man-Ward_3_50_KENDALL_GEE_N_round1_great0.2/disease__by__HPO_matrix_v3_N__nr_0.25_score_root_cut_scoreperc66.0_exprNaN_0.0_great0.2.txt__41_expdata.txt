@@ -1,0 +1,5 @@
+	"OMIM:131460"	"Levator-Medial Rectus Synkinesis"	"OMIM:159410"	"Myelinated Optic Nerve Fibers"	"Ocular Cicatricial Pemphigoid"	"Pupil, Egg-Shaped"	"OMIM:179618"	"OMIM:227240"	"Setting-Sun Phenomenon, Familial Benign"	"Iris Pigment Epithelium Anomalies"	"Tented Eyebrows"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Abnormality of the eye"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the hair"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0040150"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
