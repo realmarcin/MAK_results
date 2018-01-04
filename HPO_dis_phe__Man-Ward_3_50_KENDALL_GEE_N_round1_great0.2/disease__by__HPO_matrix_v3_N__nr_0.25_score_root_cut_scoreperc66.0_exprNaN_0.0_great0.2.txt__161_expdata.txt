@@ -1,0 +1,7 @@
+	"neurodegeneration with brain iron accumulation 5"	"Frontotemporal Dementia, Chromosome 3-Linked"	"Classic progressive supranuclear palsy syndrome"	"Spinocerebellar Ataxia 12"	"spinocerebellar ataxia type 17"	"PSNP2"	"Dystonia 16"	"dystonia 23"	"Parkinson disease 20, early-onset"	"Dystonia 28, Childhood-Onset"
+"Eyelid apraxia"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Frontal release signs"	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Frontolimbic dementia"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Granulovacuolar degeneration"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Axial dystonia"	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Retrocollis"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0

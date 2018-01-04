@@ -1,0 +1,49 @@
+	"Peroxisome biogenesis disorder 3A"	"Peroxisome biogenesis disorder 4a (zellweger)"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Peroxisome Biogenesis Disorder 6A (Zellweger)"	"Peroxisome Biogenesis Disorder 7A (Zellweger)"	"Peroxisome biogenesis disorder 8A"	"Peroxisome biogenesis disorder 10A"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Feeding difficulties in infancy"	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Hypertelorism"	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Nystagmus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Micrognathia"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Downslanted palpebral fissures"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Depressed nasal bridge"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"High palate"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"HP:0000113"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Triangular face"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Long philtrum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Low-set ears"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Wide nasal bridge"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prominent nose"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Talipes equinovarus"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Ventricular septal defect"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Jaundice"	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Flat face"	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Large fontanelles"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Broad forehead"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"High forehead"	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Abnormality of the eye"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal cyst"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Severe global developmental delay"	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Cataract"	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Flat occiput"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Epicanthus inversus"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Dolichocephaly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Posteriorly rotated ears"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Upslanted palpebral fissure"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Glossoptosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Areflexia"	1.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Epiphyseal stippling"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Delayed closure of the anterior fontanelle"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Death in infancy"	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"HP:0002878"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Feeding difficulties"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Decreased fetal movement"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Severe muscular hypotonia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of neuronal migration"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prominent epicanthal folds"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Generalized neonatal hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Central hypotonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the nasal bridge"	0.0	0.0	0.0	0.0	0.0	0.0	0.0

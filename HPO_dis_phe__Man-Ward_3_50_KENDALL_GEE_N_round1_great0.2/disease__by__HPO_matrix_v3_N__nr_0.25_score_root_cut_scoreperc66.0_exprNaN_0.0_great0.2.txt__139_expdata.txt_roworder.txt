@@ -1,0 +1,8 @@
+"x"
+"1" "Dyskeratosis.congenita.autosom"
+"2" "Dyskeratosis.congenita.X.linke"
+"3" "Dyskeratosis.Congenita..Autoso"
+"4" "Dyskeratosis.Congenita..Autoso"
+"5" "Dyskeratosis.congenita.autosom"
+"6" "Orphanet.1775"
+"7" "Revesz.Syndrome"

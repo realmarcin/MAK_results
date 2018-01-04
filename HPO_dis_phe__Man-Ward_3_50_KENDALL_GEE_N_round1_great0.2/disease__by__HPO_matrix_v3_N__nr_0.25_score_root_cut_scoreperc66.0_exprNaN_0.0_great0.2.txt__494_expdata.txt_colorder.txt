@@ -1,0 +1,6 @@
+"x"
+"1" "Distal muscle weakness"
+"2" "HP:0001419"
+"3" "Intellectual disability"
+"4" "EMG: axonal abnormality"
+"5" "Decreased nerve conduction velocity"

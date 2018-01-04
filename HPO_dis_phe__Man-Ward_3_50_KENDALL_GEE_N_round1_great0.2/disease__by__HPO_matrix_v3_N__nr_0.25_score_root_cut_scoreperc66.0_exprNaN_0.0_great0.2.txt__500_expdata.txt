@@ -1,0 +1,23 @@
+	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1"	"Fukuyama congenital muscular dystrophy"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A2"	"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies type A5"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 6"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 7"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11"	"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 13"
+"Atrial septal defect"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Strabismus"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Scoliosis"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Flexion contracture"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Generalized hypotonia"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Pulmonic stenosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Encephalocele"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Optic atrophy"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003593"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypermetropia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Muscle weakness"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Areflexia"	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Holoprosencephaly"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Calf muscle hypertrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Exaggerated startle response"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spinal rigidity"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Transposition of the great arteries"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Myocardial fibrosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Type II lissencephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0007348"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

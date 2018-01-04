@@ -1,0 +1,7 @@
+"x"
+"1" "Hypopituitarism"
+"2" "Malignant neoplasm of the central nervous system"
+"3" "Anaplastic thyroid carcinoma"
+"4" "Abnormality of muscle morphology"
+"5" "Pituitary gonadotropic cell adenoma"
+"6" "Pituitary thyrotropic cell adenoma"

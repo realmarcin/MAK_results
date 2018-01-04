@@ -1,0 +1,6 @@
+	"dystonia 12"	"Keratoconus 1"	"IGAN1"	"Pulmonary nodular lymphoid hyperplasia"	"Spastic Paraplegia, Sensorineural Deafness, Mental Retardation, and Progressive Nephropathy"	"Familial angiolipomatosis"	"autosomal recessive early-onset Parkinson disease 15"	"Mental retardation, X-linked, syndromic, Hedera type"	"GPDS1"	"Deafness, autosomal dominant 9"	"Hemochromatosis, Type 2A"	"Deafness, Autosomal Dominant 20"	"neurodegeneration with brain iron accumulation 3"	"Mental retardation, autosomal recessive 3"	"Burn-McKeown syndrome"	"dilated cardiomyopathy 2A"	"IGAN2"	"DYT21"	"Spastic Paraplegia 49, Autosomal Recessive"	"Iga Nephropathy, Susceptibility To, 3"	"Brain dopamine-serotonin vesicular transport disease"	"Atypical juvenile parkinsonism"
+"Hypomimic face"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"HP:0011462"	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"IgA deposition in the glomerulus"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Bilateral choanal atresia/stenosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Mesangial hypercellularity"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

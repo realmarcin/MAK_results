@@ -1,0 +1,7 @@
+"x"
+"1" "High iliac wings"
+"2" "Posterior Y-sutural cataract"
+"3" "Posterior wedging of vertebral bodies"
+"4" "Screwdriver-shaped incisors"
+"5" "Forehead hyperpigmentation"
+"6" "Punctate cataract"

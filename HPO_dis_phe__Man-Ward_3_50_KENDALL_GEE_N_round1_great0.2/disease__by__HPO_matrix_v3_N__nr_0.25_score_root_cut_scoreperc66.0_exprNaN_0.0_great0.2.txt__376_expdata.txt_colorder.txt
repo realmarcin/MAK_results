@@ -1,0 +1,5 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Macrocephaly"
+"3" "Decreased nerve conduction velocity"
+"4" "Ureterocele"

@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Colon cancer"
+"3" "Epidermoid cyst"
+"4" "Adenomatous colonic polyposis"
+"5" "Hyperplastic colonic polyposis"
+"6" "Juvenile colonic polyposis"

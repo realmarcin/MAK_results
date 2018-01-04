@@ -1,0 +1,9 @@
+	"OMIM:400003"	"46,XX sex reversal, type 1"	"Spermatogenic Failure, Y-Linked, 2"	"gonadoblastoma"	"OMIM:426000"	"OMIM:470000"	"OMIM:475000"
+"Growth abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the immune system"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Azoospermia"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Sex reversal"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Gonadoblastoma"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"True hermaphroditism"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001450"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

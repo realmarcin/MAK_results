@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Dilatation of ascending aorta"
+"3" "Premature coronary artery disease"
+"4" "Ascending aortic dissection"

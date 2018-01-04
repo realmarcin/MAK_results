@@ -1,0 +1,8 @@
+"x"
+"1" "Cataract.30..Multiple.Types"
+"2" "Cataract.6..Multiple.Types"
+"3" "Anterior.segment.mesenchymal.d"
+"4" "Cataract.aberrant.oral.frenula"
+"5" "Cerebral.Amyloid.Angiopathy..I"
+"6" "Cataract.16..Multiple.Types"
+"7" "retinitis.pigmentosa.74"

@@ -1,0 +1,11 @@
+	"Thyroid hormone resistance, generalized, autosomal recessive"	"Pancreatic triacylglycerol lipase deficiency"	"Pancreatic Agenesis 2"	"Osteogenesis Imperfecta, Type 16"
+"Small for gestational age"	1.0	0.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hearing impairment"	1.0	0.0	0.0	1.0
+"Proptosis"	1.0	0.0	0.0	0.0
+"Goiter"	1.0	0.0	0.0	0.0
+"HP:0003577"	0.0	0.0	0.0	1.0
+"Epiphyseal stippling"	1.0	0.0	0.0	0.0
+"Thyroid hormone receptor defect"	1.0	0.0	0.0	0.0
+"Beaded ribs"	0.0	0.0	0.0	1.0
+"Steatorrhea"	0.0	1.0	1.0	0.0

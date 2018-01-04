@@ -1,0 +1,6 @@
+	"Timothy Syndrome"	"Sick Sinus Syndrome 1"	"long QT syndrome 9"	"Lipodystrophy, Congenital Generalized, Type 4"	"Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 14"	"Long Qt Syndrome 14"	"long QT syndrome 15"	"45,X/46,XY mixed gonadal dysgenesis"	"Orphanet:2151"	"Orphanet:251274"	"Autoimmune hypoparathyroidism"	"Orphanet:373"	"Orphanet:71212"	"Orphanet:740"	"Orphanet:79443"	"Orphanet:79444"	"Orphanet:94089"	"Orphanet:94090"	"Monosomy X"	"Mosaic monosomy X"	"Turner syndrome due to structural X chromosome anomalies"
+"Sudden cardiac death"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Syncope"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ventricular fibrillation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Prolonged QT interval"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Torsade de pointes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

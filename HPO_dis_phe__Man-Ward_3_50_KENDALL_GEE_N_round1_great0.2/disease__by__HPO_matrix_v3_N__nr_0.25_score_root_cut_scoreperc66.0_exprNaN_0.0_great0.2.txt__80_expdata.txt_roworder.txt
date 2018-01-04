@@ -1,0 +1,8 @@
+"x"
+"1" "acrokeratosis.verruciformis"
+"2" "Psoriasis.2"
+"3" "Vohwinkel.Syndrome..Variant.Fo"
+"4" "Cole.Disease"
+"5" "PPKP3"
+"6" "CARP"
+"7" "PPKP1B"

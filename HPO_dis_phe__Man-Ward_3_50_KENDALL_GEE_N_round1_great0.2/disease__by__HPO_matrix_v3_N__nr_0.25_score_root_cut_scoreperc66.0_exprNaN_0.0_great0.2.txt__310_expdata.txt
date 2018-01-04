@@ -1,0 +1,10 @@
+	"Coumarin Resistance"	"Flood Factor Deficiency"	"Giant Neutrophil Leukocytes"	"OMIM:142335"	"OMIM:142470"	"Leukocyte Nuclear Appendages, Hereditary Prevalence of"	"Rheumatoid Arthritis"	"Sulfhemoglobinemia, Congenital"	"OMIM:305435"	"Hemopoietic Proliferation"	"OMIM:425000"	"OMIM:430000"	"Macrocytosis, Familial"	"OMIM:609070"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Abnormality of the nervous system"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the immune system"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Rheumatoid arthritis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the respiratory system"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Vasculitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of blood and blood-forming tissues"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cyanosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

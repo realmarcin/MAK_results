@@ -1,0 +1,7 @@
+"x"
+"1" "Angioedema"
+"2" "Facial edema"
+"3" "Intestinal edema"
+"4" "Laryngeal edema"
+"5" "Pharyngeal edema"
+"6" "Episodic upper airway obstruction"

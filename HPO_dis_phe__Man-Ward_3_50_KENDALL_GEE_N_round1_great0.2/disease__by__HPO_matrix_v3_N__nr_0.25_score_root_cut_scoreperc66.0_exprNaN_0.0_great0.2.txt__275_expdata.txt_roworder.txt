@@ -1,0 +1,8 @@
+"x"
+"1" "Orphanet.3246"
+"2" "Orphanet.1465"
+"3" "Coffin.Siris.syndrome.1"
+"4" "Symphalangism.With.Multiple.An"
+"5" "Mental.Retardation..Autosomal."
+"6" "Orphanet.1292"
+"7" "Orphanet.2438"

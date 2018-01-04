@@ -1,0 +1,7 @@
+	"Vibratory Urticaria"	"Orthostatic Hypotensive Disorder, Streeten Type"	"Immunodeficiency With Defective Leukocyte and Lymphocyte Function and With Response to Histamine-1 Antagonist"	"Pachyonychia congenita type 2"	"Palmoplantar Keratoderma and Congenital Alopecia 2"	"ACTH-secreting pituitary adenoma"	"Keratosis follicularis spinulosa decalvans"	"ALG3-CDG"	"Dermatitis, Atopic"	"KFSD"	"TEMPI syndrome"	"Cono-spondylar dysplasia"	"Orphanet:439218"	"Vulvovaginal gingival syndrome"
+"Facial erythema"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Perifollicular fibrosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Food intolerance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Flexural lichenification"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Infra-orbital fold"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of tumor necrosis factor secretion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

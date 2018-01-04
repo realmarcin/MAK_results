@@ -1,0 +1,8 @@
+"x"
+"1" "Fibrosis.of.Extraocular.Muscle"
+"2" "Fibrosis.of.extraocular.muscle"
+"3" "Tukel.Syndrome"
+"4" "Fibrosis.of.Extraocular.Muscle"
+"5" "Ptosis..Hereditary.Congenital."
+"6" "CFEOM3C"
+"7" "Polymicrogyria.due.to.TUBB2B.m"

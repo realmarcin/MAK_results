@@ -1,0 +1,4 @@
+"x"
+"1" "Lattice corneal dystrophy"
+"2" "Generalized amyloid deposition"
+"3" "Cardiac amyloidosis"

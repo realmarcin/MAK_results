@@ -1,0 +1,5 @@
+"x"
+"1" "Cowden.syndrome.1"
+"2" "Cowden.syndrome.5"
+"3" "Cowden.syndrome.6"
+"4" "Familial.abdominal.aortic.aneu"

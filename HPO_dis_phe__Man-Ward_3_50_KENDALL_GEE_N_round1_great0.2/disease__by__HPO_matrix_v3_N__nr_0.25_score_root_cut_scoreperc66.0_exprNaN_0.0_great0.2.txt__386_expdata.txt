@@ -1,0 +1,20 @@
+	"Hypercholesterolemia, Familial"	"Hyperlipoproteinemia, Type Ii, and Deafness"	"OMIM:144400"	"Hypercholesterolemia, autosomal dominant, 3"	"Hypertension, Early-Onset, Autosomal Dominant, With Severe Exacerbation 1N Pregnancy"	"AOMS1"	"Abdominal Obesity-Metabolic Syndrome Quantitative Trait Locus 2"	"Coronary Artery Disease, Autosomal Dominant, 1"	"Coronary Artery Disease, Autosomal Dominant 2"	"Abdominal Obesity-Metabolic Syndrome 3"	"Hyperaldosteronism, Familial, Type IV; HALD4"
+"Truncal obesity"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Diabetes mellitus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the skin"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypertension"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Osteoporosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Stroke"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypertriglyceridemia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Sudden cardiac death"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Myocardial infarction"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Hypercholesterolemia"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Coronary artery disease"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased circulating low-density lipoprotein levels"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glucose intolerance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Gout"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Corneal arcus"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Xanthelasma"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Atheromatosis"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

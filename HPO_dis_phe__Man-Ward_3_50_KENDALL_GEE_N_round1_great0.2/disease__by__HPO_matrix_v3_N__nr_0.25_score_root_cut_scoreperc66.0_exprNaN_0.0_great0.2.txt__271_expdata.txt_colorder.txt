@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000007"
+"2" "Coarctation of aorta"
+"3" "Secundum atrial septal defect"
+"4" "Perimembranous ventricular septal defect"

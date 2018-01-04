@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Telecanthus"
+"3" "Cryptorchidism"
+"4" "Ptosis"
+"5" "Adducted thumb"
+"6" "Knee flexion contracture"
+"7" "Open mouth"

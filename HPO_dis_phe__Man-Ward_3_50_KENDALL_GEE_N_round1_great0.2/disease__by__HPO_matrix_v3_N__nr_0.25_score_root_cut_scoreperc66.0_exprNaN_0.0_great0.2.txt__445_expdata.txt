@@ -1,0 +1,18 @@
+	"Usher syndrome type 1G"	"Horizontal gaze palsy with progressive scoliosis"	"Deafness, autosomal recessive 37"	"autosomal recessive nonsyndromic deafness 63"	"Usher Syndrome, Type 1J"	"USH1K"	"Sacral Agenesis With Vertebral Anomalies"	"Deafness, Autosomal Recessive 102"	"Fibrosis of Extraocular Muscles, Congenital, 5"	"DOCK2 deficiency"	"Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"
+"Sensorineural hearing impairment"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Motor delay"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal vertebral morphology"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Congenital sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bilateral sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Vestibular dysfunction"	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Thoracolumbar scoliosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypertrophic cardiomyopathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0003577"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoplasia of the nasal bone"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Rod-cone dystrophy"	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0010984"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital stationary night blindness"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive ophthalmoplegia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Horizontal supranuclear gaze palsy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Profound hearing impairment"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

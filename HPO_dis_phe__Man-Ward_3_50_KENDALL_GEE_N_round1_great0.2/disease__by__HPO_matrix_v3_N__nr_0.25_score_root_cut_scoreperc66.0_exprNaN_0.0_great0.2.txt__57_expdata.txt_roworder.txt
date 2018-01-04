@@ -1,0 +1,6 @@
+"x"
+"1" "Orphanet.846"
+"2" "Beta.thalassemia.associated.wi"
+"3" "Orphanet.231226"
+"4" "Hemoglobin.C.beta.thalassemia."
+"5" "Delta.beta.thalassemia"

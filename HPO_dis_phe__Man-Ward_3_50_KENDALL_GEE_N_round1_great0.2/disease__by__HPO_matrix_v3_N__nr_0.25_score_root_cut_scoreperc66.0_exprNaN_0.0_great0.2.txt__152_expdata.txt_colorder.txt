@@ -1,0 +1,7 @@
+"x"
+"1" "Sacral lipoma"
+"2" "Dermoid cyst"
+"3" "Anterior sacral meningocele"
+"4" "Hemisacrum"
+"5" "Presacral teratoma"
+"6" "Anal fistula"

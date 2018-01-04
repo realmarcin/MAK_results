@@ -1,0 +1,6 @@
+"x"
+"1" "Distal muscle weakness"
+"2" "Myelin outfoldings"
+"3" "Cold-induced muscle cramps"
+"4" "HP:0003587"
+"5" "Tonic pupil"

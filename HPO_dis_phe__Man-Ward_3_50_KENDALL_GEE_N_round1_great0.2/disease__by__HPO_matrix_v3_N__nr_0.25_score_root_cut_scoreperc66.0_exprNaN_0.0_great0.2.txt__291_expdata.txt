@@ -1,0 +1,13 @@
+	"Camptodactyly of fingers"	"Hypertaurinuric Cardiomyopathy"	"Hyper-beta-alaninemia"	"Molybdenum Cofactor Deficiency, Complementation Group a"	"Molybdenum Cofactor Deficiency, Complementation Group B"	"Deficiency of xanthine oxidase"	"Molybdenum Cofactor Deficiency, Complementation Group C"	"Camptodactyly-taurinuria syndrome"
+"Increased urinary taurine"	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Xanthine nephrolithiasis"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Aldehyde oxidase deficiency"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Reduced xanthine dehydrogenase activity"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Molybdenum cofactor deficiency"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Absent urinary urothione"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Sulfite oxidase deficiency"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Xanthinuria"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Increased urinary hypoxanthine"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Decreased urinary urate"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased urinary sulfite"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased urinary thiosulfate"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

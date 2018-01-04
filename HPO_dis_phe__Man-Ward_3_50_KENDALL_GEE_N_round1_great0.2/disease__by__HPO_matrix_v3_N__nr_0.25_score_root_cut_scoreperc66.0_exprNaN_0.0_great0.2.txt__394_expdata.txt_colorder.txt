@@ -1,0 +1,6 @@
+"x"
+"1" "Visual impairment"
+"2" "Microcephaly"
+"3" "Abnormal facial shape"
+"4" "HP:0003577"
+"5" "Chorioretinal dysplasia"

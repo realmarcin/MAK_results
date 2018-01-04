@@ -1,0 +1,15 @@
+	"autosomal dominant Robinow syndrome 1"	"autosomal recessive Robinow syndrome"	"autosomal dominant Robinow syndrome 2"	"autosomal dominant Robinow syndrome 3"	"Orphanet:1507"	"Orphanet:3107"
+"Short philtrum"	0.0	0.0	0.0	0.0	1.0	1.0
+"Ptosis"	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0100490"	0.0	0.0	0.0	0.0	1.0	1.0
+"Pectus carinatum"	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0001596"	0.0	0.0	0.0	0.0	1.0	1.0
+"Clinodactyly of the 5th finger"	0.0	0.0	0.0	0.0	1.0	1.0
+"Finger syndactyly"	0.0	0.0	0.0	0.0	1.0	1.0
+"Hypodontia"	0.0	0.0	0.0	0.0	1.0	1.0
+"Elbow dislocation"	0.0	0.0	0.0	0.0	1.0	1.0
+"Open bite"	0.0	0.0	0.0	0.0	1.0	1.0
+"Increased number of teeth"	0.0	0.0	0.0	0.0	1.0	1.0
+"Sacral dimple"	0.0	0.0	0.0	0.0	1.0	1.0
+"Hypoplasia of penis"	0.0	0.0	0.0	0.0	1.0	1.0
+"Fingernail dysplasia"	0.0	0.0	0.0	0.0	1.0	1.0

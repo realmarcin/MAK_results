@@ -1,0 +1,8 @@
+	"Spermatogenic Failure 6"	"Prolactin Deficiency, Isolated"	"Spermatogenic Failure 9"	"Oocyte Maturation Defect 1"	"Spermatogenic failure 16"	"Spermatogenic failure 17"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Menstrual irregularities"	0.0	1.0	0.0	0.0	0.0	0.0
+"Infertility"	1.0	1.0	0.0	1.0	1.0	1.0
+"Globozoospermia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Reduced sperm motility"	0.0	0.0	0.0	0.0	1.0	0.0
+"Prolactin deficiency"	0.0	1.0	0.0	0.0	0.0	0.0
+"Acephalic spermatozoa"	0.0	0.0	0.0	0.0	1.0	0.0

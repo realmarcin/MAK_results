@@ -1,0 +1,4 @@
+"x"
+"1" "HP:0000006"
+"2" "Abnormality of the ear"
+"3" "Specific learning disability"

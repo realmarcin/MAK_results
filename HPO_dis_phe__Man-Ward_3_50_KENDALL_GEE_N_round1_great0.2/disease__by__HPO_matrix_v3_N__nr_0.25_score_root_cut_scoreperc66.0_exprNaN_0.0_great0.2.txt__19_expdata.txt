@@ -1,0 +1,30 @@
+	"Familial abdominal aortic aneurysm 1"	"multiple endocrine neoplasia type 1"	"Orphanet:276152"	"Orphanet:652"	"Orphanet:913"	"GRFoma"	"PPoma"	"Pancreatic Glucagonoma"	"Orphanet:97282"	"Orphanet:97283"
+"Constipation"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Hepatomegaly"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Growth hormone excess"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Prolactin excess"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Pituitary adenoma"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Diarrhea"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Gastrointestinal hemorrhage"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+"Increased circulating gonadotropin level"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the thyroid gland"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Subcutaneous lipoma"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Parathyroid adenoma"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Hypercalcemia"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Increased circulating cortisol level"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Adrenocortical adenoma"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Poor appetite"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Weight loss"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Primary hyperparathyroidism"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Intrahepatic cholestasis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Neoplasm of the pancreas"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Ascites"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Anorexia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Episodic abdominal pain"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Intermittent jaundice"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Intestinal obstruction"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Extrahepatic cholestasis"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Nausea and vomiting"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Neoplasm of the small intestine"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Lack of bowel sounds"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0

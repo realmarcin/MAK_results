@@ -1,0 +1,8 @@
+"x"
+"1" "Nevus"
+"2" "HP:0000006"
+"3" "Osteopoikilosis"
+"4" "Hoarse voice"
+"5" "Flexion contracture"
+"6" "Joint stiffness"
+"7" "Nevus anemicus"

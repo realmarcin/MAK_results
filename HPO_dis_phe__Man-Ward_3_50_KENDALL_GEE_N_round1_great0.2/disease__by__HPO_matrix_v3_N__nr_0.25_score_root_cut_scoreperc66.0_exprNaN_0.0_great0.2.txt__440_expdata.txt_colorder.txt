@@ -1,0 +1,6 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "Bilateral sensorineural hearing impairment"
+"3" "Nephropathy"
+"4" "Focal segmental glomerulosclerosis"
+"5" "IgA deposition in the glomerulus"

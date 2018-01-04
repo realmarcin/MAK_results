@@ -1,0 +1,20 @@
+	"Familial abdominal aortic aneurysm 1"	"Oromandibular-limb hypogenesis spectrum"	"Blepharophimosis-intellectual disability syndrome, Ohdo type"	"Carey-Fineman-Ziter Syndrome"	"Ohdo Syndrome, X-Linked"	"Lathosterolosis"	"3p- syndrome"	"Pentasomy X"	"Orphanet:1308"	"Orphanet:1358"	"Orphanet:1620"	"Orphanet:1727"	"Fetal trimethadione syndrome"	"Orphanet:2077"	"Orphanet:2135"	"1q44 microdeletion syndrome"	"Orphanet:251056"	"8p23.1 microdeletion syndrome"	"Orphanet:261112"	"Trisomy 17p"	"Distal 22q11.2 microduplication syndrome"	"Orphanet:46059"	"Orphanet:570"	"Orphanet:783"	"12q14 microdeletion syndrome"
+"Microcephaly"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Intellectual disability"	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Seizures"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Muscular hypotonia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Hypertelorism"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Short stature"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+"Cryptorchidism"	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Micrognathia"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Downslanted palpebral fissures"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+"Global developmental delay"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Cleft palate"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+"High palate"	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Low-set ears"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Wide nasal bridge"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Strabismus"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Clinodactyly of the 5th finger"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Epicanthus"	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Upslanted palpebral fissure"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0

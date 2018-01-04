@@ -1,0 +1,7 @@
+"x"
+"1" "Pili.torti"
+"2" "Tooth.Agenesis..Selective..4"
+"3" "Onychogryposis..Pedal..With.Ke"
+"4" "Woolly.hair..autosomal.dominan"
+"5" "Tooth.agenesis..selective..8"
+"6" "Anonychia.with.flexural.pigmen"

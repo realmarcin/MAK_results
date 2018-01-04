@@ -1,0 +1,8 @@
+"x"
+"1" "hypophosphatemic.nephrolithias"
+"2" "hypophosphatemic.nephrolithias"
+"3" "Hypogonadotropic.Hypogonadism."
+"4" "hypogonadotropic.hypogonadism."
+"5" "hypogonadotropic.hypogonadism."
+"6" "Osteoporosis"
+"7" "Bone.mineral.density.quantitat"

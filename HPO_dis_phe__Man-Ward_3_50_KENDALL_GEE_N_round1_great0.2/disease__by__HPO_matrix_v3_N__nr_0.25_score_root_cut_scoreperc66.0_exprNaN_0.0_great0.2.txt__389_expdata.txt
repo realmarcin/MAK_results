@@ -1,0 +1,9 @@
+	"DECIPHER:15"	"Neurofibromatosis, Type 1"	"Neurofibromatosis, Familial Spinal"	"Neurofibromatosis-Pheochromocytoma-Duodenal Carcinoid Syndrome"	"Neurofibromatosis, Type Iii, Mixed Central and Peripheral"	"Neurofibromatosis, Type Iv, of Riccardi"	"Pheochromocytoma--Islet Cell Tumor Syndrome"	"Tuberous Sclerosis 1"	"Watson Syndrome"	"Turcot syndrome"	"Neurofibromatosis-Noonan syndrome"	"gastrointestinal stromal tumor"	"Legius Syndrome"	"Tuberous sclerosis 2"	"Chromosome 17Q11.2 Deletion Syndrome, 1.4-Mb"	"Orphanet:2495"	"Orphanet:252183"	"Orphanet:636"
+"Axillary freckling"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Plexiform neurofibroma"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Optic glioma"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Spinal neurofibromas"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Tibial pseudoarthrosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lisch nodules"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Inguinal freckling"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Neurofibrosarcoma"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

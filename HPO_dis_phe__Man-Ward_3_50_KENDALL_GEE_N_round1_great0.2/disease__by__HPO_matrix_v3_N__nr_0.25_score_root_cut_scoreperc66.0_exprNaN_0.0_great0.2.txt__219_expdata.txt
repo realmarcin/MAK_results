@@ -1,0 +1,27 @@
+	"Hereditary neurocutaneous malformation"	"Enchondromatosis, Multiple, Ollier Type"	"Pheochromocytoma"	"Pheochromocytoma--Islet Cell Tumor Syndrome"	"Maffucci syndrome"	"Orphanet:1062"
+"Seizures"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cafe-au-lait spot"	0.0	0.0	1.0	1.0	0.0	0.0
+"HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0
+"Pathologic fracture"	0.0	0.0	0.0	0.0	1.0	0.0
+"Neoplasm"	0.0	0.0	1.0	0.0	0.0	0.0
+"Proteinuria"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hematuria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral hemorrhage"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hemiparesis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Congestive heart failure"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hemangioma"	1.0	1.0	1.0	0.0	1.0	1.0
+"Gastrointestinal hemorrhage"	1.0	0.0	0.0	0.0	0.0	0.0
+"Horner syndrome"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hyperhidrosis"	0.0	0.0	1.0	1.0	0.0	0.0
+"Tachycardia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Congenital cataract"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypercalcemia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Multiple enchondromatosis"	0.0	1.0	0.0	0.0	1.0	0.0
+"Pheochromocytoma"	0.0	0.0	1.0	1.0	0.0	0.0
+"Axillary freckling"	0.0	0.0	0.0	1.0	0.0	0.0
+"Renal artery stenosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of long bone morphology"	0.0	1.0	0.0	0.0	0.0	0.0
+"Episodic hypertension"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hypertensive retinopathy"	0.0	0.0	1.0	1.0	0.0	0.0
+"Elevated urinary norepinephrine"	0.0	0.0	1.0	1.0	0.0	0.0
+"Positive regitine blocking test"	0.0	0.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+	"Congenital stationary night blindness, type 1B"	"Oguchi Disease 1"	"Oguchi disease 2"	"Night Blindness, Congenital Stationary, Type 1D"	"Night Blindness, Congenital Stationary, Type 1F"	"congenital stationary night blindness 1G"
+"Strabismus"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Myopia"	1.0	0.0	0.0	0.0	1.0	0.0
+"Congenital stationary night blindness"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hemeralopia"	1.0	1.0	0.0	0.0	0.0	0.0

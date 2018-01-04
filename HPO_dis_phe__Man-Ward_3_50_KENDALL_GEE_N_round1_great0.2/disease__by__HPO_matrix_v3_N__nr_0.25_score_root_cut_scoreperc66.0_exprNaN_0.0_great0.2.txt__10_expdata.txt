@@ -1,0 +1,35 @@
+	"Orphanet:932"	"Orphanet:93296"	"Orphanet:93298"	"Orphanet:93299"
+"Macrocephaly"	1.0	1.0	1.0	1.0
+"Frontal bossing"	1.0	1.0	1.0	1.0
+"Micrognathia"	1.0	1.0	1.0	1.0
+"Inguinal hernia"	1.0	0.0	0.0	0.0
+"Anteverted nares"	1.0	1.0	1.0	1.0
+"Short nose"	1.0	1.0	1.0	1.0
+"Disproportionate short-limb short stature"	0.0	1.0	0.0	0.0
+"Long philtrum"	1.0	1.0	1.0	1.0
+"Short neck"	1.0	1.0	1.0	1.0
+"Abnormality of cardiovascular system morphology"	1.0	1.0	1.0	1.0
+"Talipes equinovarus"	0.0	0.0	1.0	0.0
+"Flat face"	1.0	1.0	1.0	1.0
+"Postaxial hand polydactyly"	0.0	1.0	0.0	0.0
+"Short palm"	0.0	0.0	0.0	1.0
+"Short foot"	0.0	0.0	1.0	1.0
+"Umbilical hernia"	1.0	1.0	1.0	1.0
+"Skeletal dysplasia"	1.0	0.0	0.0	0.0
+"Abdominal distention"	0.0	1.0	0.0	1.0
+"Narrow chest"	1.0	1.0	1.0	1.0
+"Polyhydramnios"	1.0	1.0	1.0	1.0
+"Recurrent fractures"	0.0	0.0	0.0	1.0
+"Abnormality of the ribs"	0.0	0.0	1.0	0.0
+"Micromelia"	1.0	1.0	1.0	1.0
+"Disproportionate short stature"	0.0	0.0	1.0	0.0
+"Lethal skeletal dysplasia"	0.0	1.0	1.0	1.0
+"Abnormal enchondral ossification"	1.0	1.0	1.0	1.0
+"Cystic hygroma"	1.0	1.0	1.0	1.0
+"Femoral hernia"	0.0	1.0	1.0	1.0
+"Thickened nuchal skin fold"	1.0	1.0	1.0	1.0
+"Hydrops fetalis"	1.0	1.0	1.0	1.0
+"Short thorax"	1.0	0.0	1.0	1.0
+"Multiple rib fractures"	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the lungs"	1.0	1.0	1.0	1.0
+"Abnormality of bone mineral density"	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Prolactin.Deficiency..Isolated"
+"2" "Spermatogenic.failure.16"
+"3" "Spermatogenic.Failure.6"
+"4" "Spermatogenic.Failure.9"
+"5" "Oocyte.Maturation.Defect.1"
+"6" "Spermatogenic.failure.17"

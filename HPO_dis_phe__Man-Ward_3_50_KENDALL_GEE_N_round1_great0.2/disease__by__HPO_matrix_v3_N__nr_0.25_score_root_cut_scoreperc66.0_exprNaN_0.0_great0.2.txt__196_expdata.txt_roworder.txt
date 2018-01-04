@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.300385"
+"2" "Thyroid.Gland.Undifferentiated"
+"3" "acromelic.frontonasal.dysostos"
+"4" "Culler.Jones.Syndrome"
+"5" "Orphanet.140976"
+"6" "Atypical.teratoid.rhabdoid.tum"

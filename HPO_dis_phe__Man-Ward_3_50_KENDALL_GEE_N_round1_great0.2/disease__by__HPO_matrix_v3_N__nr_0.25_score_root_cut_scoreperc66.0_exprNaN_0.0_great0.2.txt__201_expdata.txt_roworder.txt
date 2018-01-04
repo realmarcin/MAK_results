@@ -1,0 +1,8 @@
+"x"
+"1" "Polyposis.of.Gastric.Fundus.Wi"
+"2" "Polyps..Multiple.and.Recurrent"
+"3" "nonsyndromic.congenital.nail.d"
+"4" "Deafness..Unilateral"
+"5" "Intussusception"
+"6" "NDNC2"
+"7" "Polyposis..Gastric"

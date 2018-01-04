@@ -1,0 +1,7 @@
+	"Eosinophilia, Familial"	"Myeloproliferative Disorder, Chronic, With Eosinophilia"	"LWNH"
+"HP:0000006"	1.0	1.0	1.0
+"Eosinophilia"	1.0	1.0	1.0
+"HP:0003593"	0.0	0.0	1.0
+"HP:0003745"	0.0	0.0	1.0
+"Malignant eosinophil proliferation"	0.0	1.0	0.0
+"Hyperpigmented streaks"	0.0	0.0	1.0

@@ -1,0 +1,15 @@
+	"Holoprosencephaly 2"	"Toriello-Carey syndrome"	"HPE1"	"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1"	"Warburg Micro Syndrome 1"	"Primary autosomal recessive microcephaly 5"	"Gaba-Transaminase Deficiency"	"Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome"	"Orphanet:1493"	"Orphanet:238750"
+"Pachygyria"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Polymicrogyria"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hydrocephalus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Agenesis of corpus callosum"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Buphthalmos"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Intellectual disability, profound"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dandy-Walker malformation"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoplasia of the brainstem"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Retinal dysplasia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Retinal atrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar dysplasia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Type II lissencephaly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebellar cyst"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

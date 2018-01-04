@@ -1,0 +1,5 @@
+"x"
+"1" "POROK1"
+"2" "Histiocytosis..Progressive.Muc"
+"3" "Cylindromatosis..familial"
+"4" "Trichoepitheliomas..Multiple.D"

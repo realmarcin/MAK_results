@@ -1,0 +1,5 @@
+	"Diabetes Insipidus, Nephrogenic, Autosomal"	"Visceral Myopathy"	"Diabetes Insipidus, Nephrogenic, X-Linked"	"Glucose-galactose malabsorption"	"Hartsfield Syndrome"	"Erythroderma, congenital, with palmoplantar keratoderma, hypotrichosis, and hyper-ige"	"Webb-Dattani Syndrome"	"Orphanet:223"	"Orphanet:2241"	"Familial visceral myopathy"	"Orphanet:977"
+"Megacystis"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Unexplained fevers"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypertonic dehydration"	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypernatremia"	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0

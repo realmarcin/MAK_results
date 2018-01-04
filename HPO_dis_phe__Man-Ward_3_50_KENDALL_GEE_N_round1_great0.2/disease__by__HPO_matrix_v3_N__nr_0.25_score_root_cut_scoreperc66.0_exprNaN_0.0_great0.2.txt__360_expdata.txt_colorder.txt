@@ -1,0 +1,6 @@
+"x"
+"1" "Ataxia"
+"2" "Peripheral demyelination"
+"3" "Hemiparesis"
+"4" "CNS demyelination"
+"5" "Optic neuritis"

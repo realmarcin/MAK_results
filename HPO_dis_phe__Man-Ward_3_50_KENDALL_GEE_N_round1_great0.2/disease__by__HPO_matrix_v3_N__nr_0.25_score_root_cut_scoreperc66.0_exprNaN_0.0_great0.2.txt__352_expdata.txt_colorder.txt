@@ -1,0 +1,5 @@
+"x"
+"1" "Distal muscle weakness"
+"2" "Absent Achilles reflex"
+"3" "Hyperactive patellar reflex"
+"4" "Hyperreflexia in upper limbs"

@@ -1,0 +1,6 @@
+"x"
+"1" "Increased serum lactate"
+"2" "Periventricular leukomalacia"
+"3" "Proximal renal tubular acidosis"
+"4" "Clonus"
+"5" "Neuronal loss in the cerebral cortex"

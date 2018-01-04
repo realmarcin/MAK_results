@@ -1,0 +1,8 @@
+"x"
+"1" "BCYM1B"
+"2" "Orphanet.85170"
+"3" "BCYM1A"
+"4" "Brachyolmia.Type.3"
+"5" "Nail.patella.syndrome"
+"6" "Spondyloepiphyseal.Dysplasia.T"
+"7" "Van.den.Ende.Gupta.syndrome"

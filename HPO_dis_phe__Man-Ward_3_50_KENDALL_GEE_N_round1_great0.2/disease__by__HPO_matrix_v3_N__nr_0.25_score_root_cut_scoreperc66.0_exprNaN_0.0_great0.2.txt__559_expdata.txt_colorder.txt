@@ -1,0 +1,7 @@
+"x"
+"1" "Global developmental delay"
+"2" "Hyperkeratosis"
+"3" "Dry skin"
+"4" "Erythroderma"
+"5" "Scaling skin"
+"6" "Abnormality of the coagulation cascade"

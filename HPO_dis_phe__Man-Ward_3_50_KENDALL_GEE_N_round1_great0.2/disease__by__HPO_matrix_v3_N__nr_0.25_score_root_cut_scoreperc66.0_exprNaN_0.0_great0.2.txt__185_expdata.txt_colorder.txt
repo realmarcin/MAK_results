@@ -1,0 +1,5 @@
+"x"
+"1" "Cleft soft palate"
+"2" "Bicoronal synostosis"
+"3" "Unicoronal synostosis"
+"4" "Aplasia/Hypoplasia of the ribs"

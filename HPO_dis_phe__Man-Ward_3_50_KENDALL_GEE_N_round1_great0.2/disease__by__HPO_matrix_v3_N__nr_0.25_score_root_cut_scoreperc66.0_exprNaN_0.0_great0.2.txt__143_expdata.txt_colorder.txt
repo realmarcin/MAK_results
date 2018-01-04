@@ -1,0 +1,5 @@
+"x"
+"1" "Flattened femoral head"
+"2" "Abnormality of T cell physiology"
+"3" "Abnormality of the tarsal bones"
+"4" "Abnormality of the femoral neck"

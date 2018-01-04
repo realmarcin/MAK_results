@@ -1,0 +1,9 @@
+	"MRT10"	"MRT11"	"MRT19"	"MRT24"	"MRT25"	"MRT28"
+"Microcephaly"	0.0	0.0	0.0	1.0	0.0	1.0
+"Delayed speech and language development"	0.0	0.0	0.0	1.0	1.0	1.0
+"Anxiety"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Motor delay"	1.0	0.0	1.0	1.0	1.0	1.0
+"Intellectual disability, moderate"	1.0	1.0	1.0	1.0	1.0	1.0
+"Growth delay"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the foot"	0.0	0.0	1.0	0.0	0.0	0.0

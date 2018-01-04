@@ -1,0 +1,7 @@
+"x"
+"1" "Webbed neck"
+"2" "Hyperextensible skin"
+"3" "Hyperkeratosis"
+"4" "Left ventricular hypertrophy"
+"5" "Palmoplantar cutis laxa"
+"6" "Relative macrocephaly"

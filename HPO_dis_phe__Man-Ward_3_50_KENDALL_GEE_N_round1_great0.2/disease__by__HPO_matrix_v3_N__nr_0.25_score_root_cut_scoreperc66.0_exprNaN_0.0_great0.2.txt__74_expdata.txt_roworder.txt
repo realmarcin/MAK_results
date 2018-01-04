@@ -1,0 +1,5 @@
+"x"
+"1" "Thyroid.hormone.resistance..ge"
+"2" "Osteogenesis.Imperfecta..Type."
+"3" "Pancreatic.Agenesis.2"
+"4" "Pancreatic.triacylglycerol.lip"

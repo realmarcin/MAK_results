@@ -1,0 +1,7 @@
+	"Spinocerebellar ataxia 31"	"spinocerebellar ataxia type 15"	"Spinocerebellar Ataxia 19"	"Spinocerebellar Ataxia 20"	"spinocerebellar ataxia type 26"	"spinocerebellar ataxia type 27"	"Spinocerebellar Ataxia 23"	"spinocerebellar ataxia type 28"	"Spinocerebellar Ataxia 36"	"CANVAS"	"spinocerebellar ataxia type 38"	"Spinocerebellar ataxia 43"
+"High pitched voice"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal pyramidal signs"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Limb ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Palatal myoclonus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysphonia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypermetric saccades"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

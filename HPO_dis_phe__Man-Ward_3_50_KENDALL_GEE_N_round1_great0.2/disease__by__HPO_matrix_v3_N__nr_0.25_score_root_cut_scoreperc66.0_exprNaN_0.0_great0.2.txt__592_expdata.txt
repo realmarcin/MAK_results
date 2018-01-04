@@ -1,0 +1,8 @@
+	"Growth Retardation, Small and Puffy Hands and Feet, and Eczema"	"Hydrocephalus, Normal-Pressure"	"3-Methylglutaconic Aciduria, Type 4"	"Oculocerebral Hypopigmentation Syndrome of Preus"	"Pellagra-Like Syndrome"	"Thumb, Hypoplastic, With Choroid Coloboma, Poorly Developed Antihelix, and Deafness"	"Intrauterine Growth Retardation With Increased Mitomycin C Sensitivity"	"Mental retardation, autosomal recessive 2"	"Fanconi Anemia, Complementation Group J"	"Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency"	"Microcephaly, Growth Retardation, Cataract, Hearing Loss, and Unusual Appearance"	"Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome"	"Deficiency of phosphoserine phosphatase"	"Occipital pachygyria and polymicrogyria"	"Dyskeratosis congenita, autosomal recessive, 5"	"Joubert syndrome 22"	"Dyskeratosis Congenita, Autosomal Recessive 6"	"Joubert syndrome 23"	"Dyskeratosis Congenita, Autosomal Dominant 6"	"Orphanet:2489"
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Coloboma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Abnormality of eye movement"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Tachypnea"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Cerebellar dysplasia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Dysplastic corpus callosum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

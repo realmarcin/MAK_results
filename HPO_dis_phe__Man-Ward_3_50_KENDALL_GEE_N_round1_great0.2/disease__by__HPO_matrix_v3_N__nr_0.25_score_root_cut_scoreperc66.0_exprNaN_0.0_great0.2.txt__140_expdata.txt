@@ -1,0 +1,41 @@
+	"Mitochondrial complex III deficiency"	"cytochrome-c oxidase deficiency disease"	"Leigh syndrome, French Canadian type"	"Mitochondrial Complex 1 Deficiency"	"Mitochondrial complex II deficiency"	"Leigh syndrome"	"Hsd10 Mitochondrial Disease"	"Combined Oxidative Phosphorylation Deficiency 6"	"mitochondrial DNA depletion syndrome 2"	"Combined Oxidative Phosphorylation Deficiency 3"	"Mitochondrial Dna Depletion Syndrome 5 (Encephalomyopathic With or Without Methylmalonic Aciduria)"	"Combined Oxidative Phosphorylation Deficiency 7"	"Combined Oxidative Phosphorylation Deficiency 12"	"Combined oxidative phosphorylation defect type 15"	"Mitochondrial Complex 3 Deficiency, Nuclear Type 8"	"Metabolic Encephalomyopathic Crises, Recurrent, With Rhabdomyolysis, Cardiac Arrhythmias, and Neurodegeneration"	"Encephalopathy, Progressive, Early-Onset, With Brain Edema And/Or Leukoencephalopathy"	"Combined oxidative phosphorylation deficiency 31"
+"Intellectual disability"	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Delayed speech and language development"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Short stature"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Nystagmus"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Neonatal hypotonia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ptosis"	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Strabismus"	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Ophthalmoplegia"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003812"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Optic atrophy"	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003593"	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Visual impairment"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003676"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Dystonia"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Dysarthria"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Tremor"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Gliosis"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Areflexia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Distal sensory impairment"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased serum lactate"	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Lactic acidosis"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Leukoencephalopathy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"CNS demyelination"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pigmentary retinopathy"	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypertrichosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Paralytic ileus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hepatocellular necrosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Developmental regression"	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Increased CSF lactate"	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Abnormal pattern of respiration"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

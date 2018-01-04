@@ -1,0 +1,11 @@
+	"Mast syndrome"	"Pallidal Degeneration, Progressive, With Retinitis Pigmentosa"	"OPEM"	"Encephalopathy, Ethylmalonic"	"Megalencephalic leukoencephalopathy with subcortical cysts 1"	"Chromosome 17Q11.2 Deletion Syndrome, 1.4-Mb"	"Orphanet:282166"
+"Loss of facial expression"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Akinetic mutism"	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Progressive extrapyramidal muscular rigidity"	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal pupillary function"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Focal T2 hyperintense basal ganglia lesion"	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Diffuse spongiform leukoencephalopathy"	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"EEG with persistent abnormal rhythmic activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Spastic hemiparesis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Poor visual behavior for age"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Amyloidosis of peripheral nerves"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

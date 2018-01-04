@@ -1,0 +1,11 @@
+	"Hypophosphatemic Rickets With Hypercalciuria, Hereditary"	"Hypocalcemic vitamin D-dependent rickets"	"Vitamin D-Dependent Rickets, Type 2A"	"Dent disease type 1"	"Hypophosphatemic rickets, X-linked recessive"	"Hypophosphatemic Rickets, X-Linked Dominant"	"Vitamin d hydroxylation-deficient rickets, type 1b"	"VDDR2B"	"SPG24"	"Orphanet:1652"	"Orphanet:280062"	"Orphanet:289176"	"Orphanet:3344"	"Orphanet:85165"	"Rare circulatory system disease"
+"Deformed rib cage"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Bulging of the costochondral junction"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Sparse bone trabeculae"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Bulging epiphyses"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Enlargement of the wrists"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Enlargement of the ankles"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Increased serum 1,25-dihydroxyvitamin D3"	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Difficulty standing"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Fibular bowing"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Subperiosteal bone resorption"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

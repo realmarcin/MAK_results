@@ -1,0 +1,6 @@
+"x"
+"1" "Erlenmeyer flask deformity of the femurs"
+"2" "Congenital, generalized hypertrichosis"
+"3" "Double eyebrow"
+"4" "Increased cerebral lipofuscin"
+"5" "Dense metaphyseal bands"

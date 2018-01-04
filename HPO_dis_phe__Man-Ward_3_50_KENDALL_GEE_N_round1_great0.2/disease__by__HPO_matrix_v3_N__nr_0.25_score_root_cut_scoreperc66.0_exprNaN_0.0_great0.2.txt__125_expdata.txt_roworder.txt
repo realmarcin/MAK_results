@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.523"
+"2" "Hereditary.leiomyomatosis.and."
+"3" "Carcinoma.of.colon"
+"4" "Fumaric.aciduria"
+"5" "Orphanet.1052"
+"6" "Diethylstilbestrol.syndrome"

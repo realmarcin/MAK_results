@@ -1,0 +1,5 @@
+"x"
+"1" "Failure to thrive"
+"2" "Small for gestational age"
+"3" "Villous atrophy"
+"4" "Intractable diarrhea"

@@ -1,0 +1,8 @@
+	"Focal Epithelial Hyperplasia of the Oral Mucosa"	"Howel-Evans syndrome"	"Lip, Median Nodule of Upper"	"Lip, Hamartomatous"	"Salivary Duct Calculi"	"OMIM:189300"	"PDDP"
+"HP:0000006"	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Abnormality of the mouth"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the skeletal system"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hamartoma"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Parakeratosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Diffuse palmoplantar hyperkeratosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Esophageal carcinoma"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Erythema"
+"3" "Hypermelanotic macule"
+"4" "Telangiectasia macularis eruptiva perstans"
+"5" "Cutaneous mastocytosis"

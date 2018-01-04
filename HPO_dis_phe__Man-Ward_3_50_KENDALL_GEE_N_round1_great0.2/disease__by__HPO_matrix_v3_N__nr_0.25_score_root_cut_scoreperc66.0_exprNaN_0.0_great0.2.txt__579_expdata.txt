@@ -1,0 +1,9 @@
+	"Adiposis Dolorosa"	"Hereditary coproporphyria"	"PAND1"	"Porphyria, Acute Intermittent"	"Stiff-Person syndrome"	"Wolfram-like syndrome, autosomal dominant"	"Late-onset isolated ACTH deficiency"	"Familial Alzheimer-like prion disease"	"Orphanet:3198"	"Orphanet:36397"	"Orphanet:411590"	"Orphanet:738"	"Orphanet:770"	"Orphanet:79273"	"Orphanet:79276"	"Orphanet:79473"	"Orphanet:803"	"Acute adrenal insufficiency"
+"Autism"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Anxiety"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Diabetes mellitus"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Optic atrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glaucoma"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Psychosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Schizophrenia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glucose intolerance"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Everted upper lip vermilion"
+"2" "Hypohidrotic ectodermal dysplasia"
+"3" "Periorbital wrinkles"
+"4" "Periorbital hyperpigmentation"
+"5" "Hypoplastic-absent sebaceous glands"

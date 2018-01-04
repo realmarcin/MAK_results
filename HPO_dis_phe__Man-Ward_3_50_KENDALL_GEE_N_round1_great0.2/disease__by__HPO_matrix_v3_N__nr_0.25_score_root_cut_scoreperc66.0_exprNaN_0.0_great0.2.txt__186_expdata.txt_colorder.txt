@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0001470"
+"2" "Osteochondritis Dissecans"
+"3" "Precocious puberty in males"
+"4" "Abnormality of the proximal tibial epiphysis"

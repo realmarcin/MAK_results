@@ -1,0 +1,11 @@
+	"OMIM:130190"	"Electroencephalographic Peculiarity: 14 and 6 Per Sec. Positive Spike Phenomenon"	"Electroencephalographic Peculiarity: Fronto-Precentral Beta Wave Groups"	"Electroencephalographic Peculiarity: Occipital Slow Beta Waves"	"Epilepsy, Benign Occipital"	"Epilepsy, Reading"	"Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid and Prion Pathology"	"Epilepsy, nocturnal frontal lobe, type 3"	"Epilepsy, Nocturnal Frontal Lobe, 4"	"familial temporal lobe epilepsy 5"
+"Seizures"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"EEG abnormality"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Neurofibrillary tangles"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Behavioral abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001425"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0003621"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Alzheimer disease"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of neuronal migration"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral cortex with spongiform changes"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

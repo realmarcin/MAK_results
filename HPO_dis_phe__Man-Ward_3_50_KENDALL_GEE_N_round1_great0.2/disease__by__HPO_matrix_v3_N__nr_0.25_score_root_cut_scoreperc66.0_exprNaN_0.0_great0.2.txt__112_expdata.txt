@@ -1,0 +1,5 @@
+	"Thyroid Hormone Resistance, Selective Pituitary"	"Thyroid hormone resistance, generalized, autosomal dominant"	"Thyroid hormone resistance, generalized, autosomal recessive"	"Pendred's syndrome"	"Iodotyrosyl coupling defect"	"Hypothyroidism, congenital, nongoitrous, 6"
+"Thyroid hormone receptor defect"	1.0	1.0	1.0	0.0	0.0	1.0
+"Increased serum free triiodothyronine"	0.0	1.0	0.0	0.0	0.0	0.0
+"Compensated hypothyroidism"	0.0	0.0	0.0	1.0	1.0	0.0
+"Increased T3/T4 ratio"	0.0	0.0	0.0	0.0	1.0	1.0

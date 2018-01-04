@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Multiple impacted teeth"
+"3" "Misalignment of teeth"
+"4" "Cementoma"

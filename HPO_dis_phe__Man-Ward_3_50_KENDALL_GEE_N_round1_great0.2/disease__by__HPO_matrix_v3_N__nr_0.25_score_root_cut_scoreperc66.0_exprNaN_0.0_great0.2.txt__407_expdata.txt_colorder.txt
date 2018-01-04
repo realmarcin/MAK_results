@@ -1,0 +1,6 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Scoliosis"
+"3" "Visual impairment"
+"4" "Hypertrichosis"
+"5" "Cerebral cortical atrophy"

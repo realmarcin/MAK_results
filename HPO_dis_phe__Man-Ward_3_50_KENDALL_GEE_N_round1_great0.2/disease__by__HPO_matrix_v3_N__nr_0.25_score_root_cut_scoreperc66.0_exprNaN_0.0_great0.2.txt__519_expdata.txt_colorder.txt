@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Hemangioma"
+"3" "Ventricular arrhythmia"
+"4" "Microangiopathic hemolytic anemia"
+"5" "Hyperkalemia"

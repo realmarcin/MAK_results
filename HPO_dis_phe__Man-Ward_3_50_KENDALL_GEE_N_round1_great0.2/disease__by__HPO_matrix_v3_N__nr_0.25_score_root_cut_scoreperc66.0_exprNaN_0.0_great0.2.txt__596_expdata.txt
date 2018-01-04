@@ -1,0 +1,36 @@
+	"Blepharophimosis, Ptosis, and Epicanthus Inversus"	"Progesterone Resistance"	"Oocyte Maturation Defect; OOMD"	"Ring chromosome Y"	"Orphanet:85328"	"Orphanet:881"
+"Aortic valve stenosis"	0.0	0.0	0.0	0.0	0.0	0.0
+"Lymphedema"	0.0	0.0	0.0	0.0	0.0	1.0
+"Bicuspid aortic valve"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplastic left heart"	0.0	0.0	0.0	0.0	0.0	1.0
+"Obesity"	0.0	0.0	0.0	1.0	1.0	1.0
+"Cubitus valgus"	0.0	0.0	0.0	0.0	0.0	1.0
+"Webbed neck"	0.0	0.0	0.0	0.0	0.0	1.0
+"Coarctation of aorta"	0.0	0.0	0.0	0.0	0.0	1.0
+"Inflammation of the large intestine"	0.0	0.0	0.0	0.0	0.0	1.0
+"Short 4th metacarpal"	0.0	0.0	0.0	0.0	0.0	1.0
+"Biliary cirrhosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Female infertility"	1.0	1.0	1.0	1.0	1.0	1.0
+"Short 5th metacarpal"	0.0	0.0	0.0	0.0	0.0	1.0
+"Atypical scarring of skin"	0.0	0.0	0.0	0.0	0.0	1.0
+"Low posterior hairline"	0.0	0.0	0.0	0.0	0.0	1.0
+"Short sternum"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplastic toenails"	0.0	0.0	0.0	0.0	0.0	1.0
+"External ear malformation"	0.0	0.0	0.0	0.0	0.0	1.0
+"Dilatation of the aortic arch"	0.0	0.0	0.0	0.0	0.0	1.0
+"Aortic dissection"	0.0	0.0	0.0	0.0	0.0	1.0
+"Celiac disease"	0.0	0.0	0.0	0.0	0.0	1.0
+"Glucose intolerance"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hashimoto thyroiditis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Vitiligo"	0.0	0.0	0.0	0.0	0.0	1.0
+"Failure to thrive in infancy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Inverted nipples"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cystic hygroma"	0.0	0.0	0.0	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the nipples"	0.0	0.0	0.0	0.0	0.0	1.0
+"Thickened nuchal skin fold"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperconvex fingernails"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cholestatic liver disease"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperlipidemia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Broad neck"	0.0	0.0	0.0	0.0	0.0	1.0
+"Arterial dissection"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the fingernails"	0.0	0.0	0.0	0.0	1.0	1.0

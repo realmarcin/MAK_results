@@ -1,0 +1,6 @@
+	"Cerebrocortical Degeneration of Infancy"	"Gm1-Gangliosidosis, Type 2"	"Mucolipidosis type IV"	"Peho Syndrome"	"Striatonigral Degeneration, Infantile"	"hypomyelinating leukodystrophy 12"	"Myoclonus, intractable, neonatal"	"Orphanet:354"	"Short stature-advanced bone age-early-onset osteoarthritis syndrome"	"Orphanet:578"
+"Developmental stagnation"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Spinocerebellar tract disease in lower limbs"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive retinal degeneration"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of ganglioside metabolism"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Abnormality of mucopolysaccharide metabolism"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

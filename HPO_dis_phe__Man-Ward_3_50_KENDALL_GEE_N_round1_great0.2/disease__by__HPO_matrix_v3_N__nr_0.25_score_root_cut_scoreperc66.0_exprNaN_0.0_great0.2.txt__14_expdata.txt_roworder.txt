@@ -1,0 +1,8 @@
+"x"
+"1" "Argininosuccinate.lyase.defici"
+"2" "Citrullinemia.type.I"
+"3" "Carbamoyl.Phosphate.Synthetase"
+"4" "Ornithine.carbamoyltransferase"
+"5" "Orphanet.147"
+"6" "Orphanet.23"
+"7" "Hyperammonemic.encephalopathy."

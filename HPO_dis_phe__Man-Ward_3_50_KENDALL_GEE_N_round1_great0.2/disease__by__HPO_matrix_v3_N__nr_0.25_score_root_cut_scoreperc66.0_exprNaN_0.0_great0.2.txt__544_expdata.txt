@@ -1,0 +1,11 @@
+	"Arnold-Chiari malformation type I"	"paroxysmal nonkinesigenic dyskinesia 1"	"dystonia 12"	"Odontoma-Dysphagia Syndrome"	"Arnold-Chiari malformation type II"	"Dystonia 2, torsion, autosomal recessive"	"fatal familial insomnia"	"Cataract, Congenital, With Mental Impairment and Dentate Gyrus Atrophy"	"Striatal degeneration, autosomal dominant 1"	"Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 3"	"Progressive External Ophthalmoplegia With Mitochondrial Dna Deletions, Autosomal Dominant 5"	"spinocerebellar ataxia type 37"	"Spinocerebellar ataxia 42"	"Myoclonus, intractable, neonatal"	"Orphanet:228169"	"Orphanet:268882"	"Orphanet:2724"
+"Depressivity"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Anxiety"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysphagia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Ptosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hyporeflexia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glaucoma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Exercise intolerance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive external ophthalmoplegia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Multiple mitochondrial DNA deletions"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased muscle fatiguability"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

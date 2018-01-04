@@ -1,0 +1,8 @@
+"x"
+"1" "Peripheral axonal degeneration"
+"2" "Basal lamina 'onion bulb' formation"
+"3" "Segmental peripheral demyelination"
+"4" "Prolonged brainstem auditory evoked potentials"
+"5" "Abnormal pupillary light reflex"
+"6" "Ventilator dependence with inability to wean"
+"7" "Denervation of the diaphragm"

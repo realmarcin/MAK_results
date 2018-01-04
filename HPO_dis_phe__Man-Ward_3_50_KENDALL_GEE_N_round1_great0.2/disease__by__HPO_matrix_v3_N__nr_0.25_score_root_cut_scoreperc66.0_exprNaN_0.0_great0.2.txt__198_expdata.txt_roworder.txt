@@ -1,0 +1,7 @@
+"x"
+"1" "Tropical.Calcific.Pancreatitis"
+"2" "Orphanet.676"
+"3" "Pancreatitis..Hereditary"
+"4" "Deoxyribose.5.Phosphate.Aldola"
+"5" "Nephronophthisis.like.nephropa"
+"6" "Orphanet.243343"

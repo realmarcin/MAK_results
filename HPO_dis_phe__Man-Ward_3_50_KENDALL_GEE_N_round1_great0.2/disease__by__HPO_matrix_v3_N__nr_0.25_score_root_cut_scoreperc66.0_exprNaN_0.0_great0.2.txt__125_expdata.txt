@@ -1,0 +1,7 @@
+	"Carcinoma of colon"	"Hereditary leiomyomatosis and renal cell cancer"	"Fumaric aciduria"	"Orphanet:1052"	"Diethylstilbestrol syndrome"	"Orphanet:523"
+"Uterine leiomyosarcoma"	1.0	1.0	0.0	0.0	0.0	1.0
+"Cutaneous leiomyosarcoma"	0.0	1.0	0.0	0.0	0.0	0.0
+"Multiple cutaneous leiomyomas"	0.0	1.0	0.0	0.0	0.0	1.0
+"Cutaneous leiomyoma"	0.0	1.0	1.0	0.0	0.0	1.0
+"Vaginal neoplasm"	0.0	0.0	0.0	1.0	1.0	1.0
+"Papillary renal cell carcinoma type 2"	0.0	0.0	0.0	0.0	0.0	1.0

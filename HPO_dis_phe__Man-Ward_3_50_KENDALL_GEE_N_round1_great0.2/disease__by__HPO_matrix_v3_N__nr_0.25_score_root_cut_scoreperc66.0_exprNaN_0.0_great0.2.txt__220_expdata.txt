@@ -1,0 +1,15 @@
+	"Ankyloblepharon Filiforme Adnatum and Cleft Palate"	"Van der Woude syndrome"	"OFC1"	"Gastric Cancer, Hereditary Diffuse"	"Radius, Aplasia Of, With Cleft Lip/Palate"	"Van der Woude syndrome 2"	"Orofacial cleft 5"	"Orphanet:888"
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cleft upper lip"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Bifid uvula"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypodontia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0001425"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003745"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ankyloblepharon"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0010982"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lower lip pit"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Anodontia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Chronic atrophic gastritis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Stomach cancer"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal salivary gland morphology"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

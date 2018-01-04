@@ -1,0 +1,4 @@
+	"Photomyoclonus, Diabetes Mellitus, Deafness, Nephropathy, and Cerebral Dysfunction"	"Opticocochleodentate Degeneration"	"SCAR3"	"Deafness, autosomal dominant 9"	"Orphanet:3233"	"Atypical juvenile parkinsonism"
+"Cochlear degeneration"	1.0	1.0	1.0	1.0	1.0	0.0
+"Slowed slurred speech"	1.0	0.0	0.0	0.0	0.0	1.0
+"Focal motor seizures"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.1310"
+"2" "Caffey.disease"
+"3" "Chronic.infantile.neurological"
+"4" "cyclic.hematopoiesis"
+"5" "Periodic.Fever..Menstrual.Cycl"
+"6" "Malignant.Hyperthermia..Suscep"

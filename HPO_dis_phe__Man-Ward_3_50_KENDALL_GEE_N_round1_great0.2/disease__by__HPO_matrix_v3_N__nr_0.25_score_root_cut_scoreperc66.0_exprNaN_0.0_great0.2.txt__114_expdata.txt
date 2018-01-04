@@ -1,0 +1,15 @@
+	"Familial partial lipodystrophy, Dunnigan type"	"Lipodystrophy, Congenital Generalized, Type 2"	"PPARG-related familial partial lipodystrophy"	"Lipodystrophy, Congenital Generalized, Type 1"	"FPLD1"	"NAFLD1"	"Lipodystrophy, Congenital Generalized, Type 4"	"Lipodystrophy, Familial Partial, Type 4"	"Orphanet:228429"	"Orphanet:2348"	"Orphanet:280356"	"Orphanet:435651"	"Orphanet:435660"	"Obesity due to melanocortin 4 receptor deficiency"	"Orphanet:79083"	"Orphanet:79084"	"AKT2-related familial partial lipodystrophy"	"Orphanet:881"	"Primary lipodystrophy"	"Monosomy X"	"Mosaic monosomy X"	"Turner syndrome due to structural X chromosome anomalies"
+"Scoliosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Cirrhosis"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Hypertension"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Delayed skeletal maturation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Osteopenia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Osteoporosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Secondary amenorrhea"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Elevated hepatic transaminases"	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Type II diabetes mellitus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Primary amenorrhea"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Hyperinsulinemia"	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Hepatic steatosis"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Prolonged QT interval"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Hyperlipidemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,25 @@
+	"Caffey disease"	"cyclic hematopoiesis"	"Malignant Hyperthermia, Susceptibility To, 5"	"Chronic infantile neurological, cutaneous and articular syndrome"	"Periodic Fever, Menstrual Cycle-Dependent"	"Orphanet:1310"
+"Feeding difficulties in infancy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Frontal bossing"	0.0	0.0	0.0	1.0	0.0	0.0
+"Behavioral abnormality"	0.0	0.0	0.0	0.0	0.0	1.0
+"Facial asymmetry"	0.0	0.0	0.0	0.0	0.0	1.0
+"Scoliosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
+"Calvarial hyperostosis"	1.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the mouth"	0.0	1.0	0.0	0.0	0.0	0.0
+"Growth delay"	0.0	0.0	0.0	1.0	0.0	0.0
+"Adrenal hyperplasia"	0.0	0.0	0.0	0.0	0.0	0.0
+"Fever"	1.0	1.0	1.0	1.0	1.0	1.0
+"Migraine"	0.0	0.0	0.0	0.0	1.0	0.0
+"Proptosis"	0.0	0.0	0.0	1.0	0.0	1.0
+"Tibial bowing"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cortical irregularity"	1.0	0.0	0.0	0.0	0.0	1.0
+"Periosteal thickening of long tubular bones"	1.0	0.0	0.0	0.0	0.0	1.0
+"Increased antibody level in blood"	0.0	0.0	0.0	0.0	0.0	1.0
+"Progressive sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0	0.0
+"Cortical thickening of long bone diaphyses"	0.0	0.0	0.0	0.0	0.0	1.0
+"Respiratory insufficiency"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cyclic neutropenia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Cellulitis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Recurrent spontaneous abortion"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hyperesthesia"	0.0	0.0	0.0	0.0	0.0	1.0

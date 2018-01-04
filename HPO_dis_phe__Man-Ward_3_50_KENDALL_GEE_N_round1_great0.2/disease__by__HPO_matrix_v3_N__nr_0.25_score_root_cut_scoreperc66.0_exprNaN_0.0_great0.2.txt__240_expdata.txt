@@ -1,0 +1,48 @@
+	"autosomal dominant Robinow syndrome 1"	"autosomal recessive Robinow syndrome"	"autosomal dominant Robinow syndrome 2"	"autosomal dominant Robinow syndrome 3"	"Orphanet:1507"	"Orphanet:2024"	"Orphanet:3107"
+"Delayed cranial suture closure"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Short stature"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Malar flattening"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Thin upper lip vermilion"	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"High palate"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Radial deviation of finger"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Clinodactyly"	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Conductive hearing impairment"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Rhizomelia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dental crowding"	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Broad thumb"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Flat face"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Narrow palate"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"High forehead"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Delayed eruption of teeth"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dental malocclusion"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Thickened calvaria"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Nail dysplasia"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Macroglossia"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Micropenis"	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Increased bone mineral density"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Vertebral fusion"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Delayed eruption of permanent teeth"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Short middle phalanx of the 5th finger"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Broad toe"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Mesomelia"	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Wide anterior fontanel"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Thoracolumbar scoliosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplastic sacrum"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003577"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Short hard palate"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Gingival overgrowth"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Missing ribs"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Small hand"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia involving the metacarpal bones"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Triangular mouth"	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Renal duplication"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Right ventricular outlet obstruction"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Bifid distal phalanx of toe"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Duplication of the distal phalanx of hand"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0011927"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Thoracic hemivertebrae"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Absent uvula"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

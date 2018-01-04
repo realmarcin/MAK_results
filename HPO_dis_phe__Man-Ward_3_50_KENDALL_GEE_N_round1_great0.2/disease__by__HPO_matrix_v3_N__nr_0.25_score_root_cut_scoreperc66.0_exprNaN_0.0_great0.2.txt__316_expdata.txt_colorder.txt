@@ -1,0 +1,7 @@
+"x"
+"1" "Acute pancreatitis"
+"2" "Lipemia retinalis"
+"3" "Eruptive xanthomas"
+"4" "Increased circulating chylomicron levels"
+"5" "Lactescent serum"
+"6" "Abnormal emotion/affect behavior"

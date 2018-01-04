@@ -1,0 +1,5 @@
+"x"
+"1" "Failure to thrive"
+"2" "Microcephaly"
+"3" "Abnormality of neuronal migration"
+"4" "Congenital intracerebral calcification"

@@ -1,0 +1,7 @@
+	"Pilomatrixoma"	"Orphanet:1662"	"Orphanet:276399"	"Tetrasomy 9p"	"Orphanet:90153"	"Orphanet:90154"
+"Pilomatrixoma"	1.0	0.0	1.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the clavicles"	0.0	1.0	0.0	1.0	1.0	1.0
+"Abnormality of the spinal cord"	0.0	0.0	0.0	1.0	0.0	0.0
+"Juxtaductal coarctation of the aorta"	0.0	0.0	0.0	1.0	0.0	0.0
+"Small toe"	0.0	0.0	0.0	1.0	0.0	0.0
+"Glue ear"	0.0	0.0	0.0	1.0	0.0	0.0

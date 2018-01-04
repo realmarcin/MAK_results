@@ -1,0 +1,7 @@
+"x"
+"1" "DECIPHER.20"
+"2" "MRX95"
+"3" "Mental.Retardation..Autosomal."
+"4" "Mental.Retardation..Autosomal."
+"5" "Chromosome.Xp11.22.Duplication"
+"6" "DECIPHER.85"

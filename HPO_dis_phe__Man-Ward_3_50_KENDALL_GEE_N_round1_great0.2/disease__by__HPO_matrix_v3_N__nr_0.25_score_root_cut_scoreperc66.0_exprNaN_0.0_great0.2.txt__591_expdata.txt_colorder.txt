@@ -1,0 +1,6 @@
+"x"
+"1" "Glomerulopathy"
+"2" "Microscopic hematuria"
+"3" "Lobular glomerulopathy"
+"4" "Generalized distal tubular acidosis"
+"5" "Mesangial abnormality"

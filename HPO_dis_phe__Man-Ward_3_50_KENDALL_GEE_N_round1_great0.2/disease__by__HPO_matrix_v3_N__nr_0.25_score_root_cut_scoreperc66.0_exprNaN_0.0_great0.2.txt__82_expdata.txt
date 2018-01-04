@@ -1,0 +1,31 @@
+	"Dyskeratosis congenita autosomal dominant"	"Dyskeratosis congenita autosomal recessive 1"	"Dyskeratosis congenita X-linked"	"Fanconi Anemia, Complementation Group F"	"Dyskeratosis Congenita, Autosomal Dominant 2"	"Dyskeratosis Congenita, Autosomal Dominant 3"	"Orphanet:1775"	"Hoyeraal-Hreidarsson syndrome"
+"Short stature"	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Failure to thrive"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Cirrhosis"	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"HP:0001596"	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Hearing impairment"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Ataxia"	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Carious teeth"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Intrauterine growth retardation"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Ridged nail"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Premature loss of teeth"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Nail pits"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cataract"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Thrombocytopenia"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Myelodysplasia"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Blepharitis"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Nail dystrophy"	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Premature graying of hair"	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"HP:0001276"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Sparse hair"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hyperhidrosis"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Cerebral calcification"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Cerebellar hypoplasia"	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
+"Oral leukoplakia"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Aseptic necrosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of coagulation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Urethral stenosis"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0

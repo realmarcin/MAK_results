@@ -1,0 +1,7 @@
+"x"
+"1" "X46.XX.disorder.of.sex.develop"
+"2" "Meckel.syndrome..type.9"
+"3" "Hepatic.fibrosis.renal.cysts.i"
+"4" "Meckel.Syndrome..Type.10"
+"5" "Meckel.syndrome..type.11"
+"6" "Congenital.adrenal.hyperplasia"

@@ -1,0 +1,7 @@
+	"Cheilitis glandularis"	"Malignant tumor of esophagus"	"Hairy Palms and Soles"	"Kaposi Sarcoma, Susceptibility to"	"Lentiginosis, Inherited Patterned"	"Lichen Sclerosus Et Atrophicus"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Neoplasm"	0.0	0.0	0.0	1.0	0.0	0.0
+"Edema"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypermelanotic macule"	0.0	0.0	1.0	1.0	1.0	0.0
+"Squamous cell carcinoma"	1.0	1.0	0.0	0.0	0.0	1.0
+"Cheilitis"	1.0	0.0	0.0	0.0	0.0	0.0

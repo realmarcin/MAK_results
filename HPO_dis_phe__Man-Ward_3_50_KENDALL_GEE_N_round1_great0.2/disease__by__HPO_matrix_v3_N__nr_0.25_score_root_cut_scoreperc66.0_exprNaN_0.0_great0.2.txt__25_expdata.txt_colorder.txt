@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Hypercoagulability"
+"3" "Recurrent deep vein thrombosis"
+"4" "Disseminated intravascular coagulation"
+"5" "Post-angioplasty coronary artery restenosis"
+"6" "Recurrent thromboembolism"

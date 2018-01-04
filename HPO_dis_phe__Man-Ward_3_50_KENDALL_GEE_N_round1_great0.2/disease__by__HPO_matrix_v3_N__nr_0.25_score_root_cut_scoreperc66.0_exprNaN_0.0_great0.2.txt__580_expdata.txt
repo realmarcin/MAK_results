@@ -1,0 +1,15 @@
+	"Lissencephaly type 1 due to doublecortin gene mutation"	"Primary autosomal recessive microcephaly 2"	"Lissencephaly 1"	"Polymicrogyria due to TUBB2B mutation"	"Lissencephaly 3"	"Cortical dysplasia, complex, with other brain malformations 1"	"Cortical dysplasia, complex, with other brain malformations 2"	"Cortical Dysplasia, Complex, With Other Brain Malformations 3"	"Cortical Dysplasia, Complex, With Other Brain Malformations 4"	"Cortical dysplasia, complex, with other brain malformations 5"	"Lissencephaly 6, with microcephaly"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Delayed speech and language development"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperactivity"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Aggressive behavior"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hemiparesis"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperreflexia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Partial agenesis of the corpus callosum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Sloping forehead"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cortical gyral simplification"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Decreased fetal movement"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Schizencephaly"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Impulsivity"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Limb hypertonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

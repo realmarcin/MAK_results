@@ -1,0 +1,12 @@
+	"Nager syndrome"	"Nail-patella syndrome"	"Poland Syndrome"	"Schinzel-Giedion syndrome"	"Oculoauricular Syndrome"	"Anterior Segment Dysgenesis 8; ASGD8"	"Orphanet:171844"	"Orphanet:2614"
+"Hypoplasia of first ribs"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Absence of pectoralis minor muscle"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Elongated radius"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Disproportionate prominence of the femoral medial condyle"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Thickening of the lateral border of the scapula"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Iliac horns"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Lester's sign"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Biceps aplasia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Triceps aplasia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Quadriceps aplasia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0012376"	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0

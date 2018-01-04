@@ -1,0 +1,9 @@
+	"OMIM:136820"	"Hypermetabolism Due to Defect 1N Mitochondria"	"Sodium-Potassium-Atpase Activity of Red Cell"	"OMIM:300033"	"Calvarial Hyperostosis"	"Fingerprint Body Myopathy"	"OMIM:309860"	"OMIM:311790"	"OMIM:314900"	"OMIM:490000"	"OMIM:600635"	"Neural tube defects, folate-sensitive"	"Orphanet:163"
+"HP:0001417"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Calvarial hyperostosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Myopathy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Leukemia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital goiter"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Chronic recurrent multifocal osteomyelitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spinal dysraphism"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

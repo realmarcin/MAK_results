@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Coloboma"
+"3" "Cerebellar dysplasia"
+"4" "Polydactyly"
+"5" "Abnormality of eye movement"
+"6" "Tachypnea"
+"7" "Dysplastic corpus callosum"

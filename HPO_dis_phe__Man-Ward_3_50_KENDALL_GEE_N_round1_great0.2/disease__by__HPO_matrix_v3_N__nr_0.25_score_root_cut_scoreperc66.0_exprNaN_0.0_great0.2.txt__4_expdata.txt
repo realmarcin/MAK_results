@@ -1,0 +1,6 @@
+	"Autism"	"Autism, Susceptibility To, X-Linked 1"	"Asperger Syndrome, X-Linked, Susceptibility To, 1"	"Autism, Susceptibility To, X-Linked 2"	"Autism, Susceptibility To, X-Linked 3"	"Asperger syndrome X-linked 2"	"AUTS8"	"AUTS3"	"ASPG2"	"Chromosome 15Q11-Q13 Duplication Syndrome"	"ASPG1"	"Orphanet:881"	"Monosomy X"	"Mosaic monosomy X"	"Turner syndrome due to structural X chromosome anomalies"
+"Lack of spontaneous play"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Restrictive behavior"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Impaired ability to form peer relationships"	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Inflexible adherence to routines or rituals"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Impaired use of nonverbal behaviors"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

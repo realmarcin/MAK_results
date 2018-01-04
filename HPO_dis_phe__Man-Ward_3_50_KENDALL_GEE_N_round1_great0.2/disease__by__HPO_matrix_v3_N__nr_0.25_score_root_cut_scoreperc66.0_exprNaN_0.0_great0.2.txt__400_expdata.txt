@@ -1,0 +1,49 @@
+	"Amyotrophic Lateral Sclerosis 2, Juvenile"	"Amyotrophic Lateral Sclerosis 5, Juvenile"	"Amyotrophic lateral sclerosis type 4"	"Primary Lateral Sclerosis, Juvenile"	"PLSA1"	"Spinocerebellar Ataxia 35"	"Amyotrophic Lateral Sclerosis 16, Juvenile"	"Spastic Paraplegia 72, Autosomal Recessive"	"spinocerebellar ataxia type 40"	"hereditary spastic paraplegia 73"	"Orphanet:247604"
+"Dysphagia"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal pyramidal signs"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0000006"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"HP:0003621"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0003581"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Spasticity"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Dysarthria"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Spastic paraplegia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Fasciculations"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Amyotrophic lateral sclerosis"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal lower motor neuron morphology"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Cerebral cortical atrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Broad-based gait"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0003677"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Decreased muscle mass"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Saccadic smooth pursuit"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Gait disturbance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysdiadochokinesis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Babinski sign"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Proximal muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Distal amyotrophy"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the foot"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Spastic paraparesis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Intention tremor"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Distal muscle weakness"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0011463"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Sensory neuropathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Unsteady gait"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Spastic tetraparesis"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Respiratory insufficiency due to muscle weakness"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spastic gait"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Abnormal upper motor neuron morphology"	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0
+"Gait imbalance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Bulbar signs"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Difficulty in tongue movements"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pseudobulbar behavioral symptoms"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Spastic dysarthria"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Spasticity of facial muscles"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spasticity of pharyngeal muscles"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"EMG abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Loss of speech"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Pontocerebellar atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the bladder"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

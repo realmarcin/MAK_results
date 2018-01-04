@@ -1,0 +1,8 @@
+"x"
+"1" "Wheezing"
+"2" "Respiratory failure requiring assisted ventilation"
+"3" "Pulmonary sequestration"
+"4" "Rales"
+"5" "Foam cells"
+"6" "Rhonchi"
+"7" "Hyperoxemia"

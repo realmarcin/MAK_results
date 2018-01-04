@@ -1,0 +1,6 @@
+"x"
+"1" "Global developmental delay"
+"2" "Pachygyria"
+"3" "Polymicrogyria"
+"4" "Postaxial hand polydactyly"
+"5" "Dysmetria"

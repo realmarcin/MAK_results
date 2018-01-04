@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0001417"
+"2" "Generalized myoclonic seizures"
+"3" "Microcephaly"
+"4" "Spastic diplegia"
+"5" "Olivopontocerebellar hypoplasia"

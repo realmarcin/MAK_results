@@ -1,0 +1,7 @@
+	"Andersen Tawil syndrome"	"Frontometaphyseal dysplasia"	"Orphanet:268882"
+"Antegonial notching of mandible"	1.0	1.0	0.0
+"Anteriorly placed odontoid process"	0.0	1.0	1.0
+"Partial fusion of carpals"	0.0	1.0	0.0
+"Increased density of long bone diaphyses"	0.0	1.0	0.0
+"Coat hanger sign of ribs"	0.0	1.0	0.0
+"Partial fusion of tarsals"	0.0	1.0	0.0

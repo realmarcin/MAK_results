@@ -1,0 +1,50 @@
+	"Spastic Paraplegia 50, Autosomal Recessive"	"Spastic paraplegia 51, autosomal recessive"	"Spastic Paraplegia 47, Autosomal Recessive"	"hereditary spastic paraplegia 52"	"Primary autosomal recessive microcephaly 8"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	0.0	0.0
+"Coarse facial features"	1.0	1.0	1.0	1.0	0.0
+"Hypertelorism"	0.0	0.0	0.0	1.0	0.0
+"Mandibular prognathia"	1.0	0.0	0.0	0.0	0.0
+"Pointed chin"	0.0	1.0	0.0	0.0	0.0
+"Short stature"	0.0	1.0	1.0	1.0	0.0
+"Short philtrum"	1.0	1.0	1.0	1.0	0.0
+"Nystagmus"	0.0	1.0	0.0	0.0	0.0
+"Downslanted palpebral fissures"	0.0	1.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	0.0
+"Neonatal hypotonia"	1.0	1.0	1.0	0.0	0.0
+"Drooling"	1.0	1.0	0.0	0.0	0.0
+"Intellectual disability, severe"	1.0	1.0	1.0	1.0	1.0
+"High palate"	1.0	0.0	1.0	1.0	0.0
+"Bulbous nose"	1.0	1.0	1.0	1.0	0.0
+"Wide nasal bridge"	0.0	1.0	1.0	1.0	0.0
+"Prominent nose"	0.0	0.0	0.0	1.0	0.0
+"Strabismus"	1.0	0.0	0.0	0.0	0.0
+"Flexion contracture"	0.0	1.0	1.0	1.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Talipes equinovarus"	1.0	1.0	1.0	1.0	0.0
+"Ventriculomegaly"	1.0	1.0	1.0	0.0	0.0
+"Long nose"	0.0	1.0	0.0	0.0	0.0
+"Wide mouth"	1.0	1.0	1.0	1.0	0.0
+"Cerebellar atrophy"	1.0	1.0	0.0	0.0	0.0
+"Spastic paraplegia"	1.0	1.0	1.0	1.0	0.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0	0.0
+"Gliosis"	1.0	0.0	0.0	0.0	0.0
+"Cerebral cortical atrophy"	0.0	1.0	0.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	0.0	0.0
+"Adducted thumb"	1.0	0.0	0.0	0.0	0.0
+"Decreased muscle mass"	0.0	1.0	0.0	0.0	0.0
+"Babinski sign"	1.0	1.0	1.0	1.0	0.0
+"Narrow face"	0.0	1.0	0.0	0.0	0.0
+"Narrow forehead"	1.0	1.0	1.0	0.0	0.0
+"HP:0003577"	1.0	1.0	1.0	1.0	1.0
+"Focal seizures"	0.0	0.0	0.0	1.0	0.0
+"Febrile seizures"	0.0	0.0	0.0	1.0	0.0
+"Thick vermilion border"	0.0	0.0	0.0	1.0	0.0
+"Prominent antihelix"	0.0	1.0	0.0	0.0	0.0
+"Pseudobulbar signs"	1.0	0.0	0.0	0.0	0.0
+"Spastic tetraplegia"	1.0	1.0	0.0	0.0	0.0
+"Facial hypotonia"	0.0	1.0	0.0	1.0	0.0
+"Muscular hypotonia of the trunk"	0.0	0.0	0.0	1.0	0.0
+"Cerebral palsy"	1.0	0.0	0.0	1.0	0.0
+"Loss of ability to walk"	0.0	0.0	0.0	1.0	0.0
+"Wide nasal ridge"	1.0	0.0	0.0	0.0	0.0

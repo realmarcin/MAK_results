@@ -1,0 +1,46 @@
+	"Asymmetric Short Stature Syndrome"	"Growth Factors, Combined Defect of"	"Mandibuloacral Dysplasia With Type a Lipodystrophy"	"Mandibuloacral dysplasia with type B lipodystrophy"	"Nestor-Guillermo Progeria Syndrome"	"Mandibular hypoplasia-deafness-progeroid syndrome"	"Orphanet:1979"	"Mandibuloacral dysplasia"	"Orphanet:740"	"Atypical Werner syndrome"	"Orphanet:90153"	"Orphanet:90154"
+"Hypogonadism"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Short stature"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Narrow mouth"	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Failure to thrive"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Scoliosis"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Flexion contracture"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Pes planus"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001596"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Dental crowding"	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Convex nasal ridge"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Hypertension"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Osteoporosis"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Thin skin"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Dermal atrophy"	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Cataract"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of skin pigmentation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Absent eyelashes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Palmoplantar keratoderma"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypertriglyceridemia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Proptosis"	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"Premature graying of hair"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Hyperlipoproteinemia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Type I diabetes mellitus"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Insulin resistance"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+"Joint stiffness"	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Sparse and thin eyebrow"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Thin vermilion border"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Delayed puberty"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+"Reduced subcutaneous adipose tissue"	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Limitation of joint mobility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Progeroid facial appearance"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Hepatic steatosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Atherosclerosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Plantar hyperkeratosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Reduced bone mineral density"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cachexia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Craniofacial disproportion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Lack of skin elasticity"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Lipoatrophy"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Generalized lipodystrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Sinus tachycardia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the skin"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the upper limb"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

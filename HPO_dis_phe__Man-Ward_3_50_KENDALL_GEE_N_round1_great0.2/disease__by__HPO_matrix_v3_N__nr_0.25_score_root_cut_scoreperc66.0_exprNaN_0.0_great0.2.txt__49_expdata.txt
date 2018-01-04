@@ -1,0 +1,8 @@
+	"Hereditary North American Indian childhood cirrhosis"	"Cholestasis, Progressive Familial Intrahepatic, 4"	"Nodular regenerative hyperplasia of the liver"
+"HP:0000007"	1.0	1.0	0.0
+"HP:0003676"	0.0	1.0	0.0
+"Biliary cirrhosis"	1.0	0.0	0.0
+"Hepatocellular carcinoma"	0.0	1.0	0.0
+"Intrahepatic cholestasis"	0.0	1.0	0.0
+"Hepatic failure"	0.0	1.0	0.0
+"Portal hypertension"	1.0	1.0	1.0

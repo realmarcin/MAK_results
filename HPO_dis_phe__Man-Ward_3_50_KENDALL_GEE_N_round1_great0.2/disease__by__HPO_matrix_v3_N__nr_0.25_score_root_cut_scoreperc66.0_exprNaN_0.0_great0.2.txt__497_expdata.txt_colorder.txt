@@ -1,0 +1,6 @@
+"x"
+"1" "Gait disturbance"
+"2" "Ventriculomegaly"
+"3" "Spastic paraplegia"
+"4" "Saccadic smooth pursuit"
+"5" "Aplasia/Hypoplasia of the corpus callosum"

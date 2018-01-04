@@ -1,0 +1,7 @@
+	"Familial Expansile Osteolysis"	"Progeroid Short Stature With Pigmented Nevi"	"Partial Lipodystrophy, Congenital Cataracts, and Neurodegeneration Syndrome"	"Leukoencephalopathy-dystonia-motor neuropathy syndrome"	"Immunodeficiency 24"	"Orphanet:217390"	"Deficiency in anterior pituitary function-variable immunodeficiency syndrome"	"Orphanet:2959"	"3p25.3 microdeletion syndrome"	"Centrifugal lipodystrophy"
+"Fragile teeth"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Lack of facial subcutaneous fat"	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Severe viral infections"	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Allergic conjunctivitis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of thalamus morphology"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Abnormal muscle tone"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

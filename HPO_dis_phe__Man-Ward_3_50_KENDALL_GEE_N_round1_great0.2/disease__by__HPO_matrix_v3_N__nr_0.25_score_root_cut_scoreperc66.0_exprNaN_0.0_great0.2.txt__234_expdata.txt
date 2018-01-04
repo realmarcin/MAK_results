@@ -1,0 +1,24 @@
+	"arrhythmogenic right ventricular dysplasia 1"	"arrhythmogenic right ventricular dysplasia 2"	"arrhythmogenic right ventricular dysplasia 3"	"arrhythmogenic right ventricular dysplasia 4"	"Arrhythmogenic Right Ventricular Dysplasia, Familial, 5"	"arrhythmogenic right ventricular dysplasia 6"	"Arrhythmogenic right ventricular cardiomyopathy, type 8"	"Arrhythmogenic right ventricular cardiomyopathy, type 9"	"Arrhythmogenic right ventricular cardiomyopathy, type 10"	"Arrhythmogenic Right Ventricular Dysplasia, Familial, 11"	"arrhythmogenic right ventricular dysplasia 12"	"Brugada syndrome 3"
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001425"	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Congestive heart failure"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Dilatation"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Palmoplantar keratoderma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Sudden cardiac death"	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Ventricular arrhythmia"	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Right ventricular cardiomyopathy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Syncope"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Dyspnea"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Palpitations"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Ventricular extrasystoles"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Chest pain"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ventricular fibrillation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Prolonged QRS complex"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Woolly hair"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Ventricular tachycardia"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Effort-induced polymorphic ventricular tachycardias"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dilatation of the ventricular cavity"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"T-wave inversion in the right precordial leads"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Focal necrosis of right ventricular muscle cells"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

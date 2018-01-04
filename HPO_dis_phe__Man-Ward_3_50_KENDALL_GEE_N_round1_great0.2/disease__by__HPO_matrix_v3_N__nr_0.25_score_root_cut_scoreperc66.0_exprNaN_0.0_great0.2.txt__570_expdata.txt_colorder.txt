@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Short stature"
+"3" "Short neck"
+"4" "Wide mouth"
+"5" "Abnormality of the dentition"
+"6" "Retinal dystrophy"

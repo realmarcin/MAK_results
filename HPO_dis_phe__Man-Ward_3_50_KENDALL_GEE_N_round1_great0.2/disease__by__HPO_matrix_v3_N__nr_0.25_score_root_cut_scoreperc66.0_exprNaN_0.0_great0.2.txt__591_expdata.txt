@@ -1,0 +1,6 @@
+	"Lipoprotein glomerulopathy"	"Orphanet:117"	"Orphanet:1764"	"Orphanet:183"	"Orphanet:1830"	"Orphanet:191"	"Orphanet:225"	"Orphanet:2348"	"Orphanet:247691"	"Orphanet:2614"	"Orphanet:2668"	"Orphanet:2715"	"Orphanet:303"	"Orphanet:324"	"Orphanet:33001"	"Orphanet:347"	"Bullous impetigo"	"Hypocomplementemic urticarial vasculitis"	"Orphanet:375"	"Orphanet:528"	"Orphanet:550"	"Orphanet:63"	"Orphanet:64"	"Orphanet:658"	"Orphanet:69"	"Microscopic polyangiitis"	"Orphanet:728"	"Orphanet:739"	"Orphanet:761"	"Orphanet:900"	"Orphanet:906"	"Orphanet:91138"	"Orphanet:93111"
+"Microscopic hematuria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lobular glomerulopathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Glomerulopathy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized distal tubular acidosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Mesangial abnormality"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

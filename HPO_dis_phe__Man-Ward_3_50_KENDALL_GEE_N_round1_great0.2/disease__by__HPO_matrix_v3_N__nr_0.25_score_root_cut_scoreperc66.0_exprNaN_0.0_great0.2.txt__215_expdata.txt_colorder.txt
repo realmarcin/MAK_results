@@ -1,0 +1,7 @@
+"x"
+"1" "Tubular atrophy"
+"2" "Tubulointerstitial fibrosis"
+"3" "Renal corticomedullary cysts"
+"4" "Tubular basement membrane disintegration"
+"5" "Renal cortical atrophy"
+"6" "Impaired renal uric acid clearance"

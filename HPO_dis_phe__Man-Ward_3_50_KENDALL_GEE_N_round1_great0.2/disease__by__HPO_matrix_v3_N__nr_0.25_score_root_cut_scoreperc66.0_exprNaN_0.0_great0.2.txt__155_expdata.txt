@@ -1,0 +1,6 @@
+	"Larsen-Like Syndrome, Lethal Type"	"Amyotrophic lateral sclerosis type 4"	"Spondyloepimetaphyseal dysplasia Genevieve type"	"Hypotonia, Infantile, With Psychomotor Retardation and Characteristic Facies 3"	"Orphanet:643"	"Orphanet:86822"
+"Abnormal cartilage matrix"	1.0	0.0	0.0	0.0	0.0	1.0
+"Neuronal loss in the cerebral cortex"	0.0	0.0	0.0	0.0	0.0	1.0
+"Diffuse axonal swelling"	0.0	1.0	0.0	0.0	1.0	1.0
+"Pallor of dorsal columns of the spinal cord"	0.0	1.0	0.0	0.0	0.0	0.0
+"Small basal ganglia"	0.0	0.0	1.0	1.0	0.0	1.0

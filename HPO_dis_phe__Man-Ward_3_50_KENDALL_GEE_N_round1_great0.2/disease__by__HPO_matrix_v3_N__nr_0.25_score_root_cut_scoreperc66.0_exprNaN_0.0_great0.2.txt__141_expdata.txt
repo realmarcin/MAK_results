@@ -1,0 +1,31 @@
+	"Hypophosphatemic Rickets With Hypercalciuria, Hereditary"	"Vitamin D-Dependent Rickets, Type 2A"	"Dent disease type 1"	"Hypophosphatemic rickets, X-linked recessive"	"Vitamin d hydroxylation-deficient rickets, type 1b"	"Orphanet:1652"
+"Muscular hypotonia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Short stature"	0.0	0.0	1.0	1.0	0.0	0.0
+"HP:0001419"	0.0	0.0	1.0	1.0	0.0	0.0
+"HP:0003812"	0.0	0.0	1.0	1.0	0.0	0.0
+"Intellectual disability, mild"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cataract"	0.0	0.0	0.0	0.0	0.0	1.0
+"Nephrocalcinosis"	0.0	0.0	1.0	1.0	0.0	1.0
+"Hematuria"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abdominal pain"	0.0	0.0	0.0	0.0	0.0	1.0
+"Osteomalacia"	0.0	0.0	1.0	1.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	1.0
+"Nephrolithiasis"	0.0	0.0	1.0	1.0	0.0	1.0
+"Chronic kidney disease"	0.0	0.0	1.0	1.0	0.0	1.0
+"Aminoaciduria"	0.0	0.0	1.0	0.0	0.0	1.0
+"Mild global developmental delay"	0.0	0.0	0.0	0.0	0.0	1.0
+"Glycosuria"	0.0	0.0	1.0	0.0	0.0	1.0
+"Focal segmental glomerulosclerosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Microscopic hematuria"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypercalciuria"	1.0	0.0	1.0	1.0	0.0	1.0
+"Hyperphosphaturia"	0.0	0.0	1.0	0.0	0.0	1.0
+"Tubular atrophy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Tubulointerstitial fibrosis"	0.0	0.0	0.0	0.0	0.0	1.0
+"Renal phosphate wasting"	1.0	0.0	1.0	1.0	0.0	1.0
+"Proximal tubulopathy"	0.0	0.0	1.0	1.0	0.0	0.0
+"Low-molecular-weight proteinuria"	0.0	0.0	1.0	1.0	0.0	1.0
+"Non-acidotic proximal tubulopathy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperuricosuria"	0.0	0.0	0.0	0.0	0.0	1.0
+"Renal hypophosphatemia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Enlargement of the ankles"	1.0	1.0	1.0	1.0	1.0	1.0
+"Increased serum 1,25-dihydroxyvitamin D3"	1.0	1.0	1.0	1.0	0.0	1.0

@@ -1,0 +1,7 @@
+	"Dermographism, Familial"	"Mastocytosis"	"Hennekam-Beemer syndrome"	"Hereditary angioedema type 1"	"Orphanet:186"	"Orphanet:276152"	"Bullous diffuse cutaneous mastocytosis"	"Pseudoxanthomatous diffuse cutaneous mastocytosis"	"Congenital fibrinogen deficiency"	"Orphanet:66646"	"Orphanet:79455"	"Orphanet:79456"	"Orphanet:79457"	"Solar urticaria"	"Orphanet:98850"
+"Dermatographic urticaria"	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Telangiectasia macularis eruptiva perstans"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cutaneous mastocytosis"	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Abnormality of the intrahepatic bile duct"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pulmonary carcinoid tumor"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Anaphylactic shock"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0

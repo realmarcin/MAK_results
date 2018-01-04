@@ -1,0 +1,10 @@
+	"Chromosome 18Q Deletion Syndrome"	"Orphanet:1600"	"Orphanet:3455"
+"Absence of the pulmonary valve"	1.0	1.0	0.0
+"Dysplastic pulmonary valve"	1.0	1.0	1.0
+"Atlantoaxial abnormality"	0.0	1.0	1.0
+"Left aortic arch with right descending aorta and right ductus arteriosus"	0.0	1.0	0.0
+"Left-to-right shunt"	0.0	1.0	0.0
+"Increased serum estradiol"	0.0	0.0	1.0
+"Lagopthalmos"	0.0	0.0	1.0
+"Wide penis"	0.0	0.0	1.0
+"Congenital malformation of the left heart"	0.0	0.0	1.0

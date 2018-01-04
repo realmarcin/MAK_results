@@ -1,0 +1,10 @@
+	"Perlman Syndrome"	"Cleft Lip/Palate With Characteristic Facies, Intestinal Malrotation, and Lethal Congenital Heart Disease"	"Lathosterolosis"	"Diaphanospondylodysostosis"	"Orphanet:118"	"Orphanet:2905"
+"Visceromegaly"	1.0	1.0	0.0	0.0	0.0	1.0
+"Hypoplasia of the abdominal wall musculature"	1.0	0.0	0.0	0.0	1.0	0.0
+"Nephroblastomatosis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Nephrogenic rest"	1.0	0.0	0.0	1.0	0.0	0.0
+"Lumbosacral meningocele"	0.0	0.0	1.0	1.0	0.0	0.0
+"Absent in utero rib ossification"	0.0	0.0	0.0	1.0	0.0	0.0
+"Absent in utero ossification of vertebral bodies"	0.0	0.0	0.0	1.0	0.0	0.0
+"Unossified sacrum"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal liver lobulation"	0.0	0.0	0.0	1.0	0.0	0.0

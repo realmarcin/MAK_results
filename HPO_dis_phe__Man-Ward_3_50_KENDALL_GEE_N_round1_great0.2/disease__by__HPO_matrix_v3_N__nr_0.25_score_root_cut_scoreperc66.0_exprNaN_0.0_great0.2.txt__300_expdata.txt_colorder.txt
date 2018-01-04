@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000007"
+"2" "Broad philtrum"
+"3" "Spondyloepiphyseal dysplasia"
+"4" "Flattened knee epiphyses"

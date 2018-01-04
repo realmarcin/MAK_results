@@ -1,0 +1,11 @@
+	"Familial mitral valve prolapse"	"Pruritic urticarial papules and plaques of pregnancy"	"Striae Distensae, Familial"	"MASS syndrome"	"Mitral Valve Prolapse 2"	"MVP3"
+"Pectus excavatum"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Mitral valve prolapse"	1.0	0.0	0.0	1.0	1.0	1.0
+"Disproportionate tall stature"	1.0	0.0	0.0	1.0	0.0	0.0
+"High, narrow palate"	1.0	0.0	0.0	0.0	0.0	0.0
+"Striae distensae"	1.0	1.0	1.0	1.0	0.0	0.0
+"Mitral regurgitation"	1.0	0.0	0.0	0.0	1.0	1.0
+"HP:0003831"	0.0	0.0	0.0	0.0	1.0	1.0
+"Aortic dilatation"	0.0	0.0	0.0	1.0	0.0	0.0
+"Reversed usual vertebral column curves"	1.0	0.0	0.0	0.0	0.0	0.0

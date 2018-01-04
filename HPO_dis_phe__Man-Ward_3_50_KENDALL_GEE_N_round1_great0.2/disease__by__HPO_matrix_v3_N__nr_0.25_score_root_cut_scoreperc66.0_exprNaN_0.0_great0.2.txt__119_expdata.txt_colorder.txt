@@ -1,0 +1,7 @@
+"x"
+"1" "Cervical C5/C6 vertebrae fusion"
+"2" "Anomalous tracheal cartilage"
+"3" "Acrobrachycephaly"
+"4" "Broad distal hallux"
+"5" "Abnormal morphology of the limbic system"
+"6" "Anomalous rib insertion to vertebrae"

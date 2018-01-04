@@ -1,0 +1,12 @@
+	"Atypical hemolytic-uremic syndrome 2"	"Atypical hemolytic-uremic syndrome with I factor anomaly"	"Atypical hemolytic-uremic syndrome 4"	"Atypical hemolytic-uremic syndrome 5"	"Atypical hemolytic-uremic syndrome 6"
+"HP:0000007"	1.0	0.0	0.0	0.0	0.0
+"Hypertension"	1.0	1.0	1.0	1.0	1.0
+"Proteinuria"	1.0	1.0	1.0	1.0	1.0
+"Hematuria"	1.0	1.0	1.0	1.0	1.0
+"Thrombocytopenia"	1.0	1.0	1.0	1.0	1.0
+"Elevated serum creatinine"	1.0	1.0	1.0	1.0	1.0
+"Microangiopathic hemolytic anemia"	1.0	1.0	1.0	1.0	1.0
+"Acute kidney injury"	1.0	1.0	1.0	1.0	1.0
+"Increased blood urea nitrogen"	1.0	1.0	1.0	1.0	1.0
+"Hemolytic-uremic syndrome"	1.0	1.0	1.0	1.0	1.0
+"Anuria"	1.0	1.0	1.0	1.0	1.0

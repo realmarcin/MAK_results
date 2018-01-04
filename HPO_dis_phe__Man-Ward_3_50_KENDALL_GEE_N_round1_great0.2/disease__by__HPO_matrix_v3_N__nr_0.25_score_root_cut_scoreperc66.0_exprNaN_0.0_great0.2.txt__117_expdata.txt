@@ -1,0 +1,7 @@
+	"Craniodiaphyseal Dysplasia, Autosomal Dominant"	"Cardiomyopathy, Familial Hypertrophic, 1"	"Cardiomyopathy Associated With Myopathy and Sudden Death"	"Gm1-Gangliosidosis, Type 1"	"Sanfilippo syndrome type A"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis II"	"Cardiomyopathy, Familial Hypertrophic, 6"	"mucopolysaccharidosis IX"	"Familial hypertrophic cardiomyopathy 10"	"hypertrophic cardiomyopathy 16"	"Cardiomyopathy, Familial Hypertrophic, 19"
+"Thickened ribs"	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Ovoid thoracolumbar vertebrae"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Asymmetric septal hypertrophy"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0
+"Dense calvaria"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Heparan sulfate excretion in urine"	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Cellular metachromasia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

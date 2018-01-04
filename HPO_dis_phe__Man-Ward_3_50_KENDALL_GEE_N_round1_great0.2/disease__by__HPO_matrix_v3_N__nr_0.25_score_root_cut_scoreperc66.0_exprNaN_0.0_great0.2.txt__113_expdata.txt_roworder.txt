@@ -1,0 +1,8 @@
+"x"
+"1" "dyschromatosis.symmetrica.here"
+"2" "Dyschromatosis.universalis"
+"3" "Indifference.to.Pain..Congenit"
+"4" "OMIM.155800"
+"5" "BPH"
+"6" "Torsion.Dystonia.With.Onset.1N"
+"7" "Familial.episodic.pain.syndrom"

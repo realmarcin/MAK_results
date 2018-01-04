@@ -1,0 +1,28 @@
+	"Hepatic fibrosis-renal cysts-intellectual disability syndrome"	"46,XX disorder of sex development-skeletal anomalies syndrome"	"Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency"	"Meckel Syndrome, Type 10"	"Meckel syndrome, type 9"	"Meckel syndrome, type 11"
+"Abnormality of the urinary system"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000113"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Oligohydramnios"	0.0	0.0	0.0	0.0	0.0	1.0
+"Talipes equinovarus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Small nail"	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal cyst"	0.0	0.0	0.0	1.0	0.0	0.0
+"Multicystic kidney dysplasia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Camptodactyly"	0.0	0.0	0.0	0.0	0.0	0.0
+"Polydactyly"	0.0	0.0	0.0	0.0	0.0	1.0
+"Agenesis of cerebellar vermis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Sacral dimple"	0.0	0.0	0.0	1.0	0.0	0.0
+"Primary amenorrhea"	0.0	1.0	0.0	0.0	0.0	0.0
+"Clitoral hypertrophy"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0009826"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the posterior cranial fossa"	0.0	0.0	0.0	0.0	1.0	0.0
+"Occipital encephalocele"	1.0	0.0	0.0	1.0	1.0	1.0
+"Anencephaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Ambiguous genitalia"	0.0	1.0	1.0	0.0	1.0	0.0
+"Congenital adrenal hyperplasia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Periportal fibrosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Postaxial polydactyly"	1.0	0.0	0.0	1.0	0.0	0.0
+"Cutaneous syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0
+"Short mandibular condyles"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ulnar radial head dislocation"	0.0	1.0	0.0	0.0	0.0	0.0
+"Toenail dysplasia"	0.0	0.0	0.0	0.0	0.0	0.0

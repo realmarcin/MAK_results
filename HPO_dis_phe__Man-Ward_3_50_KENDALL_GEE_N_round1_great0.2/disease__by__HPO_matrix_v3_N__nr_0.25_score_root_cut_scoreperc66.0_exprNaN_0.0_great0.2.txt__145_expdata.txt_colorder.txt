@@ -1,0 +1,8 @@
+"x"
+"1" "Broad thumb"
+"2" "Finger syndactyly"
+"3" "Broad hallux phalanx"
+"4" "Preaxial hand polydactyly"
+"5" "Postaxial hand polydactyly"
+"6" "Preaxial foot polydactyly"
+"7" "Postaxial foot polydactyly"

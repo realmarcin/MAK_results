@@ -1,0 +1,7 @@
+"x"
+"1" "Kaposi.Sarcoma..Susceptibility"
+"2" "Cheilitis.glandularis"
+"3" "Malignant.tumor.of.esophagus"
+"4" "Hairy.Palms.and.Soles"
+"5" "Lentiginosis..Inherited.Patter"
+"6" "Lichen.Sclerosus.Et.Atrophicus"

@@ -1,0 +1,7 @@
+	"Nance-Horan Syndrome"	"Widow'S Peak Syndrome"	"Craniolenticulosutural dysplasia"	"Orphanet:2780"	"Orphanet:50814"	"Orphanet:79106"	"Orphanet:85170"
+"Screwdriver-shaped incisors"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Posterior Y-sutural cataract"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"High iliac wings"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Forehead hyperpigmentation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Punctate cataract"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Posterior wedging of vertebral bodies"	0.0	0.0	1.0	0.0	1.0	0.0	0.0

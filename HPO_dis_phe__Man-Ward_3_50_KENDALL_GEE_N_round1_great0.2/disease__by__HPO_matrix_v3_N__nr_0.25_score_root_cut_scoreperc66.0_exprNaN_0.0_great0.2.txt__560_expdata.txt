@@ -1,0 +1,17 @@
+	"neuronal ceroid lipofuscinosis 3"	"Ceroid Lipofuscinosis, Neuronal, 4A, Autosomal Recessive"	"neuronal ceroid lipofuscinosis 2"	"Ataxia With Myoclonic Epilepsy and Presenile Dementia"	"CPD2"	"myoclonic cerebellar dyssynergia"	"Ichthyosis, Hepatosplenomegaly, and Cerebellar Degeneration"	"Unverricht-Lundborg syndrome"	"neuronal ceroid lipofuscinosis 1"	"neuronal ceroid lipofuscinosis 5"	"Olivopontocerebellar Atrophy Ii, Autosomal Recessive"	"Polymyoclonus, Infantile"	"Thyrocerebrorenal syndrome"	"Ceroid lipofuscinosis neuronal 8"	"Ceroid lipofuscinosis neuronal 6"	"neuronal ceroid lipofuscinosis 9"	"Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant"	"Gaucher disease, atypical, due to saposin C deficiency"	"Mental Retardation, Autosomal Recessive 6"	"DYTCA"	"Coenzyme Q10 Deficiency, Primary, 4"	"DYT17"	"guanidinoacetate methyltransferase deficiency"	"Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 3"	"Epilepsy, progressive myoclonic 6"	"Epileptic Encephalopathy, Early Infantile, 32"
+"Delayed speech and language development"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Nystagmus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Cerebellar atrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral atrophy"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Clumsiness"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysdiadochokinesis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Progressive visual loss"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysmetria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased neuronal autofluorescent lipopigment"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Curvilinear intracellular accumulation of autofluorescent lipopigment storage material"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Fingerprint intracellular accumulation of autofluorescent lipopigment storage material"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Developmental regression"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Retinal degeneration"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal nervous system electrophysiology"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Motor deterioration"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

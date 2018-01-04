@@ -1,0 +1,6 @@
+	"Classic homocystinuria"	"BPPX"	"McLeod neuroacanthocytosis syndrome"	"Pachygyria With Mental Retardation, Seizures, and Arachnoid Cysts"	"Epilepsy, Nocturnal Frontal Lobe, 5"	"OMIM:617350"	"Orphanet:2382"
+"Personality disorder"	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Atypical absence seizures"	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Profound static encephalopathy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Appendicular hypotonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"EEG with focal sharp slow waves"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Mucopolysaccharidosis..Type.4A"
+"2" "Mucopolysaccharidosis.type.4B"
+"3" "Spondyloepiphyseal.Dysplasia.T"
+"4" "mucopolysaccharidosis.IX"
+"5" "anauxetic.dysplasia.1"
+"6" "Orphanet.582"

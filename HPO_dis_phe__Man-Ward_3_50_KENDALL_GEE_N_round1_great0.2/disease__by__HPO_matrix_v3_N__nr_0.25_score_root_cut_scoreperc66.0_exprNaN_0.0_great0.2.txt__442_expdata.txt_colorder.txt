@@ -1,0 +1,6 @@
+"x"
+"1" "Nystagmus"
+"2" "Optic disc hypoplasia"
+"3" "Strabismus"
+"4" "Nyctalopia"
+"5" "Severe Myopia"

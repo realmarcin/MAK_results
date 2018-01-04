@@ -1,0 +1,10 @@
+	"Familial abdominal aortic aneurysm 1"	"LEOPARD syndrome 1"	"Noonan Syndrome 1"	"X-linked mandibulofacial dysostosis"	"Neurofibromatosis-Noonan syndrome"	"Noonan Syndrome-Like Disorder With Loose Anagen Hair 1"	"Noonan Syndrome 3"	"Noonan syndrome 4"	"Noonan syndrome 5"	"LEOPARD syndrome 2"	"Noonan Syndrome-Like Disorder With or Without Juvenile Myelomonocytic Leukemia"	"Noonan syndrome 7"	"LEOPARD syndrome 3"	"Noonan syndrome 8"	"Noonan syndrome 9"	"Noonan syndrome 10"	"OMIM:617506"	"Orphanet:1131"	"Orphanet:500"	"Orphanet:638"
+"Hypertelorism"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Short stature"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Downslanted palpebral fissures"	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Ptosis"	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Short neck"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Pulmonic stenosis"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Webbed neck"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0

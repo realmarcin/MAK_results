@@ -1,0 +1,20 @@
+	"Neurogenic arthrogryposis multiplex congenita"	"Cardiomyopathy Associated With Myopathy and Sudden Death"	"Carnitine Deficiency, Myopathic"	"arthrogryposis due to muscular dystrophy"	"Myopathy Due to Malate-Aspartate Shuttle Defect"	"Myopathy With Giant Abnormal Mitochondria"	"Congenital myopathy"	"Deficiency of xanthine oxidase"	"ACACAD"	"Orphanet:603"
+"Hydronephrosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Generalized hypotonia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Growth delay"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Myopathy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Proximal muscle weakness"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Pyelonephritis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Asymmetric septal hypertrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased plasma carnitine"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital contracture"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Reduced muscle carnitine level"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital muscular dystrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Xanthine nephrolithiasis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Reduced xanthine dehydrogenase activity"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Xanthinuria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Limb-girdle muscle atrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

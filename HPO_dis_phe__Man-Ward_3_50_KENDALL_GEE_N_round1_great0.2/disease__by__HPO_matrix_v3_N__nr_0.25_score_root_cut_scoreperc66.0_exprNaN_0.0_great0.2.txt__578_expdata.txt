@@ -1,0 +1,7 @@
+	"LEOPARD syndrome 1"	"X-linked mandibulofacial dysostosis"	"Neurofibromatosis-Noonan syndrome"	"Noonan Syndrome-Like Disorder With Loose Anagen Hair 1"	"Noonan Syndrome 3"	"Noonan syndrome 4"	"Legius Syndrome"	"Noonan syndrome 5"	"LEOPARD syndrome 2"	"Noonan Syndrome-Like Disorder With or Without Juvenile Myelomonocytic Leukemia"	"Noonan syndrome 7"	"LEOPARD syndrome 3"	"Noonan syndrome 8"	"Noonan syndrome 9"	"Noonan syndrome 10"	"OMIM:617506"	"Orphanet:1131"	"Orphanet:500"	"Orphanet:638"
+"Hyperextensible skin"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hyperkeratosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Left ventricular hypertrophy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Webbed neck"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Palmoplantar cutis laxa"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Relative macrocephaly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

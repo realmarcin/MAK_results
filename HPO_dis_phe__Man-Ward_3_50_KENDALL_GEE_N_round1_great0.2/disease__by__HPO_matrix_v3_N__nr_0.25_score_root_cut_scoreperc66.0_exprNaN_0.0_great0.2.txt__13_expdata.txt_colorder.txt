@@ -1,0 +1,7 @@
+"x"
+"1" "Increased serum beta-hexosaminidase"
+"2" "Increased serum iduronate sulfatase activity"
+"3" "Deficiency of N-acetylglucosamine-1-phosphotransferase"
+"4" "Varus deformity of humeral neck"
+"5" "Lower thoracic interpediculate narrowness"
+"6" "Bullet-shaped phalanges of the hand"

@@ -1,0 +1,7 @@
+"x"
+"1" "Respiratory alkalosis"
+"2" "Episodic ammonia intoxication"
+"3" "Hypoargininemia"
+"4" "Protein avoidance"
+"5" "Hyperglutaminemia"
+"6" "Low plasma citrulline"

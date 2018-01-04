@@ -1,0 +1,4 @@
+	"Pseudohypoaldosteronism, type 2"	"Deficiency of UDPglucose-hexose-1-phosphate uridylyltransferase"	"autosomal recessive pseudohypoaldosteronism type 1"	"Diarrhea 4, malabsorptive, congenital"	"Renal Tubular Acidosis, Distal, With Hemolytic Anemia"	"Pseudohypoaldosteronism type 2B"	"Pseudohypoaldosteronism type 2C"	"Pseudohypoaldosteronism type 2D"	"Pseudohypoaldosteronism type 2E"	"Orphanet:411629"	"Orphanet:83620"
+"Pseudohypoaldosteronism"	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Hyperchloremic metabolic acidosis"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperchloremia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0

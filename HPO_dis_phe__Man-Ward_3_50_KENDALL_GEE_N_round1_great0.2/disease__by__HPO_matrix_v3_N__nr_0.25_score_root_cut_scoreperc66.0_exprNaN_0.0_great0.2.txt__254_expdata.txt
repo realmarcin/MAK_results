@@ -1,0 +1,7 @@
+	"Cone-Rod Dystrophy, X-Linked, 3"	"isolated microphthalmia 5"	"retinitis pigmentosa 51"	"isolated microphthalmia 6"	"Retinitis Pigmentosa 58"	"retinitis pigmentosa 40"	"Nanophthalmos 4"	"Orphanet:827"
+"Foveoschisis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal light- and dark-adapted electroretinogram"	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the fovea"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Optic disc drusen"	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Scleral thickening"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Yellow/white lesions of the macula"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

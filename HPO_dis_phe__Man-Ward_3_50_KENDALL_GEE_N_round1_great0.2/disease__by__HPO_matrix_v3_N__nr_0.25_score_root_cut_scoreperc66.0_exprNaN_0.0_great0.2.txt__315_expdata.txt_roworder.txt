@@ -1,0 +1,8 @@
+"x"
+"1" "hypotrichosis.11"
+"2" "hypotrichosis.12"
+"3" "Epidermolysis.Bullosa.Simplex."
+"4" "hypotrichosis.13"
+"5" "Palmoplantar.Keratoderma..Both"
+"6" "Orphanet.86923"
+"7" "Diffuse.palmoplantar.keratoder"

@@ -1,0 +1,4 @@
+"x"
+"1" "Porokeratosis"
+"2" "Spinous keratoses of palms and soles"
+"3" "Rectourethral fistula"

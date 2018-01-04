@@ -1,0 +1,5 @@
+	"Cerebrocostomandibular Syndrome"	"Cleft Soft Palate"	"Treacher Collins syndrome 1"	"Cleft Palate, Deafness, and Oligodontia"	"Baller-Gerold syndrome"	"Craniosynostosis, Boston type"	"Cree Mental Retardation Syndrome"	"Chromosome 17Q12 Duplication Syndrome"	"Ehlers-Danlos syndrome with progressive kyphoscoliosis, myopathy, and hearing loss"	"Short-Rib Thoracic Dysplasia 13 With or Without Polydactyly"	"Pfeiffer syndrome type 1"	"Orphanet:99742"
+"Cleft soft palate"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Bicoronal synostosis"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Unicoronal synostosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the ribs"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

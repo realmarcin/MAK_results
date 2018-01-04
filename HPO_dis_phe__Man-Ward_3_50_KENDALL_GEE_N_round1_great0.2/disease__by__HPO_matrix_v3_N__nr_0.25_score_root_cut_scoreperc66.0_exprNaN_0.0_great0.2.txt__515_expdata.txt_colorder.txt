@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "Macrocephaly"
+"3" "Protruding tongue"
+"4" "Macroglossia"
+"5" "Difficulty walking"

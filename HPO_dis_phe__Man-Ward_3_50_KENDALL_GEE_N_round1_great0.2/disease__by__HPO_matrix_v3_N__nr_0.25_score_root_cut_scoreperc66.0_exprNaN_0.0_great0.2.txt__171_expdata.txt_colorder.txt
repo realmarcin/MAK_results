@@ -1,0 +1,5 @@
+"x"
+"1" "Osteopoikilosis"
+"2" "Generalized limb muscle atrophy"
+"3" "Connective tissue nevi"
+"4" "Complete duplication of the distal phalanges of the hand"

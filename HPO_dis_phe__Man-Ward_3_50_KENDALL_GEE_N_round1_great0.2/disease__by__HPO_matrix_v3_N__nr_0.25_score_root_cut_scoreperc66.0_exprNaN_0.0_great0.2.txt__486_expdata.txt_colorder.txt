@@ -1,0 +1,6 @@
+"x"
+"1" "Short stature"
+"2" "Cafe-au-lait spot"
+"3" "Anal atresia"
+"4" "Failure to thrive"
+"5" "T-cell acute lymphoblastic leukemias"

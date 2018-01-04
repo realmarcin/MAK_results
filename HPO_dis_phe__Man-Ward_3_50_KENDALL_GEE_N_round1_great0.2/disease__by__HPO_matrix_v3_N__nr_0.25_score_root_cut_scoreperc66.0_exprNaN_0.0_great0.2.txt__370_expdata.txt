@@ -1,0 +1,6 @@
+	"DECIPHER:51"	"DECIPHER:66"	"DECIPHER:72"	"Biemond syndrome type 2"	"Fountain Syndrome"	"Microcephaly 1, Primary, Autosomal Recessive"	"Microcephaly-cervical spine fusion anomalies syndrome"	"Oculopalatocerebral Syndrome"	"Sj��gren-Larsson syndrome"	"Isolated thyrotropin-releasing hormone deficiency"	"MRX45"	"MRX84"	"Cataract, Ataxia, Short Stature, and Mental Retardation"	"MRX92"	"Mental Retardation, X-Linked 99"	"Mental Retardation, X-Linked 12"	"Methylmalonic Acidemia and Homocysteinemia, Cblx Type"	"Gurrieri Syndrome"	"Nijmegen Breakage Syndrome-Like Disorder"	"Nephronophthisis-like nephropathy 1"	"Seckel Syndrome 6"	"Seckel syndrome 8"	"Mental retardation, autosomal recessive 43"	"5q35 microduplication syndrome"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Iris coloboma"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hydrocephalus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Preaxial hand polydactyly"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the endocrine system"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

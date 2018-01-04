@@ -1,0 +1,8 @@
+	"Split-hand/foot malformation 6"	"Neu-Laxova syndrome 1"	"Orphanet:1001"	"Orphanet:1112"	"Orphanet:1115"	"Orphanet:1234"	"Orphanet:1300"	"Orphanet:1319"	"Orphanet:1512"	"Orphanet:1556"	"Orphanet:1896"	"Orphanet:2008"	"Orphanet:2052"	"Orphanet:2092"	"Orphanet:217346"	"Orphanet:261272"	"Orphanet:264200"	"Orphanet:303"	"Orphanet:3253"	"Orphanet:380"	"Orphanet:60040"	"Orphanet:64754"	"Syndrome with brachydactyly"	"Visceral neuropathy-brain anomalies-facial dysmorphism-developmental delay syndrome"	"Orphanet:93402"	"Orphanet:978"
+"Toe syndactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Preaxial hand polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Broad thumb"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Finger syndactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Preaxial foot polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Postaxial foot polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Broad hallux phalanx"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

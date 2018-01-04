@@ -1,0 +1,7 @@
+	"Mucolipidosis 2 Alpha/Beta"	"Pseudo-Hurler polydystrophy"	"Mucolipidosis III Gamma"
+"Deficiency of N-acetylglucosamine-1-phosphotransferase"	1.0	1.0	0.0
+"Increased serum beta-hexosaminidase"	1.0	1.0	1.0
+"Increased serum iduronate sulfatase activity"	1.0	1.0	1.0
+"Varus deformity of humeral neck"	1.0	0.0	0.0
+"Lower thoracic interpediculate narrowness"	1.0	0.0	0.0
+"Bullet-shaped phalanges of the hand"	1.0	0.0	0.0

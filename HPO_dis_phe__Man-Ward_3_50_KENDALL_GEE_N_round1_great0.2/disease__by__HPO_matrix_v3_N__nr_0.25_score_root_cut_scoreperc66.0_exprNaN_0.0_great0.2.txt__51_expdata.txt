@@ -1,0 +1,5 @@
+	"OMIM:116850"	"OMIM:139400"	"OMIM:157200"	"Ringed Hair"	"FMDF"	"OMIM:210750"	"Occipital Hair, White Lock of"	"Pili gemini"
+"HP:0001417"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0000007"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the hair"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

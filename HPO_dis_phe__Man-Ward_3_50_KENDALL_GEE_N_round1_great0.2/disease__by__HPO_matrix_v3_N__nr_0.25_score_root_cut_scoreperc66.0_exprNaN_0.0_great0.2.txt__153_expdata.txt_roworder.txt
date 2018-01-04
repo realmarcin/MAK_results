@@ -1,0 +1,7 @@
+"x"
+"1" "Epidermolysis.Bullosa.With.Dia"
+"2" "DIH2"
+"3" "Hernia..Anterior.Diaphragmatic"
+"4" "Congenital.diaphragmatic.herni"
+"5" "Diaphragmatic.Hernia.3"
+"6" "Orphanet.2140"

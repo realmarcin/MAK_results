@@ -1,0 +1,10 @@
+	"Behcet's syndrome"	"Gastric Cancer, Hereditary Diffuse"	"Sarcoidosis 1"	"Polyglandular autoimmune syndrome, type 1"	"Cap polyposis"	"Autoimmune polyendocrinopathy type 3"	"Autoimmune polyendocrinopathy type 4"	"Autoimmune hypoparathyroidism"	"Oligoarticular juvenile idiopathic arthritis"	"Orphanet:90340"
+"Iridocyclitis"	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0
+"Chronic atrophic gastritis"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Exaggerated cellular immune processes"	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Acute tubulointerstitial nephritis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Panuveitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Non-caseating epithelioid cell granulomatosis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the spleen"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Anterior pituitary dysgenesis"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Autoimmune hypoparathyroidism"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0

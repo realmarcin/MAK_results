@@ -1,0 +1,11 @@
+	"Oromandibular-limb hypogenesis spectrum"	"Pilonidal Sinus"	"Chondrodysplasia, Grebe Type"	"Fraser syndrome"	"Fuhrmann syndrome"	"Arima Syndrome"	"autosomal recessive Robinow syndrome"	"Phocomelia, Schinzel type"	"Split-hand/foot malformation 4"	"Chondrodysplasia acromesomelic with genital anomalies"	"Orphanet:1112"	"Orphanet:2098"	"Orphanet:570"
+"Aplasia/Hypoplasia involving the metacarpal bones"	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Aplasia/Hypoplasia of metatarsal bones"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the phalanges of the hand"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Occipital meningocele"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the pubic bone"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Anteriorly displaced genitalia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia involving the carpal bones"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the tarsal bones"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplastic pubic bones"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the phalanges of the toes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0

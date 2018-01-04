@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Thumbs hypoplastic with bulbous tips"
+"3" "Clinodactyly of the 2nd toe"
+"4" "Type A2 brachydactyly"
+"5" "Absent middle phalanx of 2nd finger"

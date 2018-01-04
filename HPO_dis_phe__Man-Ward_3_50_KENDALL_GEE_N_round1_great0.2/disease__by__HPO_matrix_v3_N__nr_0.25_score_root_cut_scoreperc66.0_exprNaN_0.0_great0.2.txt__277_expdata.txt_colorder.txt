@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Anterior atlanto-occipital dislocation"
+"3" "Cervical vertebral facet hypoplasia"
+"4" "Cervical vertebral dysplasia"

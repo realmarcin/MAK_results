@@ -1,0 +1,11 @@
+	"DECIPHER:42"	"Cat-eye syndrome"	"Pai syndrome"	"Mowat-Wilson Syndrome"	"Cubitus Valgus With Mental Retardation and Unusual Facies"	"Corpus Callosum, Agenesis Of, With Mental Retardation, Ocular Coloboma, and Micrognathia"	"Severe microbrachycephaly-intellectual disability-athetoid cerebral palsy syndrome"	"Orphanet:1299"	"Ring chromosome 10"	"Orphanet:195"	"Orphanet:1993"	"Orphanet:251038"	"Symptomatic form of Coffin-Lowry syndrome in female carriers"	"Xp22.13p22.2 duplication syndrome"	"Mevalonic aciduria"	"Infantile spasms-broad thumbs syndrome"	"White matter hypoplasia-corpus callosum agenesis-intellectual disability syndrome"	"Orphanet:52055"	"Orphanet:66629"	"Orphanet:85280"
+"Truncal obesity"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Deeply set eye"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Short philtrum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Intellectual disability, moderate"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Melanocytic nevus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Cubitus valgus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Bilateral single transverse palmar creases"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Downturned corners of mouth"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

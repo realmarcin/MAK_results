@@ -1,0 +1,12 @@
+	"Marshall Syndrome"	"Telangiectasia, Hereditary Hemorrhagic, of Rendu, Osler, and Weber"	"von Willebrand disease type 1"	"Tel Hashomer camptodactyly syndrome"	"Melanosis, Neurocutaneous"	"Aarskog-Scott Syndrome"	"Hypogonadism, Male"	"Pseudohermaphroditism, Incomplete Male, Type 1"	"Hereditary hemorrhagic telangiectasia type 2"	"Acrocapitofemoral Dysplasia"	"Orphanet:2481"	"Orphanet:881"	"Monosomy X"	"Mosaic monosomy X"	"Turner syndrome due to structural X chromosome anomalies"
+"Irregular proximal tibial epiphyses"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Dermatoglyphic ridges abnormal"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Numerous congenital melanocytic nevi"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Neck pterygia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Increased upper to lower segment ratio"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"High urinary gonadotropin level"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Enlargement of the distal femoral epiphysis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0
+"Hypermobility of toe joints"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Splayed toes"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Delayed social development"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Abnormal morphology of forearm bone"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Failure to thrive"
+"2" "Rhabdomyolysis"
+"3" "Myoglobinuria"
+"4" "Neonatal death"
+"5" "Decreased liver function"

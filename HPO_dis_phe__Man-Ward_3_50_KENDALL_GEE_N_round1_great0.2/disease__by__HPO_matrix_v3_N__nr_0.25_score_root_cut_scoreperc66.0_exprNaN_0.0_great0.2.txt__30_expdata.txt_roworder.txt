@@ -1,0 +1,6 @@
+"x"
+"1" "Mental.Retardation..Autosomal."
+"2" "Mental.Retardation..Autosomal."
+"3" "Mental.Retardation..Autosomal."
+"4" "Coffin.Siris.syndrome.5"
+"5" "Familial.abdominal.aortic.aneu"

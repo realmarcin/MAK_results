@@ -1,0 +1,7 @@
+"x"
+"1" "Orphanet.95699"
+"2" "Orphanet.90791"
+"3" "Orphanet.90794"
+"4" "Orphanet.90795"
+"5" "Orphanet.168558"
+"6" "Inherited.isolated.adrenal.ins"

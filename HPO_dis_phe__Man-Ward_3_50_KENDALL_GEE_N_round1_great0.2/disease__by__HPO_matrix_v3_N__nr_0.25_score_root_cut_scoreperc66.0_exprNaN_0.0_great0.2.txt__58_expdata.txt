@@ -1,0 +1,7 @@
+	"Fibrosis of Extraocular Muscles, Congenital, 1"	"Ptosis, Hereditary Congenital 2"	"Fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement"	"Fibrosis of Extraocular Muscles, Congenital, 2"	"CFEOM3C"	"Tukel Syndrome"	"Polymicrogyria due to TUBB2B mutation"
+"Compensatory chin elevation"	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"Congenital fibrosis of extraocular muscles"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Restrictive external ophthalmoplegia"	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Levator palpebrae superioris atrophy"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Superior rectus atrophy"	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Nonprogressive restrictive external ophthalmoplegia"	0.0	0.0	1.0	0.0	0.0	1.0	0.0

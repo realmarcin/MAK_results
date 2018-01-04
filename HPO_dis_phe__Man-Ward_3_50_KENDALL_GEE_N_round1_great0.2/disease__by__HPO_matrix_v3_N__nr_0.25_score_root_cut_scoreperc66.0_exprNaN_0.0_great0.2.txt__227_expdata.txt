@@ -1,0 +1,19 @@
+	"Ulnar Hypoplasia With Mental Retardation"	"ECTD8"	"NDNC9"	"ECTD5"	"ECTD6"	"Dystrophic epidermolysis bullosa, nails only"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
+"Talipes equinovarus"	1.0	0.0	0.0	0.0	0.0	0.0
+"Sparse scalp hair"	0.0	1.0	0.0	1.0	0.0	0.0
+"Dystrophic fingernails"	0.0	1.0	0.0	1.0	0.0	0.0
+"Intellectual disability, profound"	1.0	0.0	0.0	0.0	0.0	0.0
+"Limited elbow movement"	1.0	0.0	0.0	0.0	0.0	0.0
+"Macrodontia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Irregular dentition"	0.0	1.0	0.0	0.0	0.0	0.0
+"Agenesis of permanent teeth"	0.0	1.0	0.0	0.0	0.0	0.0
+"Limitation of knee mobility"	1.0	0.0	0.0	0.0	0.0	0.0
+"Absent toenail"	1.0	0.0	1.0	1.0	0.0	1.0
+"Dystrophic toenail"	0.0	1.0	0.0	0.0	1.0	1.0
+"Aplasia/Hypoplasia of the eyebrow"	0.0	1.0	0.0	0.0	0.0	0.0
+"Absent fingernail"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bilateral ulnar hypoplasia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hair-nail ectodermal dysplasia"	0.0	1.0	0.0	1.0	1.0	0.0
+"Sparse or absent eyelashes"	0.0	1.0	0.0	0.0	0.0	0.0
+"Thin toenail"	0.0	0.0	0.0	0.0	1.0	0.0

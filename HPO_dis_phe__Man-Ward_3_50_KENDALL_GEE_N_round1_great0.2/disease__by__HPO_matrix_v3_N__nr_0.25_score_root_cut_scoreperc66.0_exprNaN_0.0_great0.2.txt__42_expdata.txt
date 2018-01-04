@@ -1,0 +1,5 @@
+	"cystinuria"	"Hyperdibasic aminoaciduria type 1"	"Seizures-intellectual disability due to hydroxylysinuria syndrome"	"Hyperlysinuria With Hyperammonemia"	"Lysine Malabsorption Syndrome"	"Saccharopinuria"
+"Argininuria"	1.0	1.0	0.0	0.0	0.0	0.0
+"Hyperlysinuria"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ornithinuria"	1.0	1.0	0.0	0.0	0.0	0.0
+"Dibasicaminoaciduria"	0.0	1.0	0.0	1.0	0.0	0.0

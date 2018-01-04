@@ -1,0 +1,7 @@
+	"Congenital diaphragmatic hernia"	"DIH2"	"Epidermolysis Bullosa With Diaphragmatic Hernia"	"Hernia, Anterior Diaphragmatic"	"Diaphragmatic Hernia 3"	"Orphanet:2140"
+"Congenital diaphragmatic hernia"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0000007"	0.0	0.0	1.0	0.0	0.0	0.0
+"Neonatal death"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormal blistering of the skin"	0.0	0.0	1.0	0.0	0.0	0.0
+"Palmoplantar blistering"	0.0	0.0	1.0	0.0	0.0	0.0
+"Agenesis of the diaphragm"	0.0	1.0	0.0	0.0	0.0	0.0

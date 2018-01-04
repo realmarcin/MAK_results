@@ -1,0 +1,7 @@
+"x"
+"1" "Spastic paraplegia"
+"2" "Pes cavus"
+"3" "Scoliosis"
+"4" "Kyphosis"
+"5" "Upper limb spasticity"
+"6" "Absent speech"

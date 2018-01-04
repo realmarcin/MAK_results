@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormal upper motor neuron morphology"
+"2" "Spastic dysarthria"
+"3" "Pseudobulbar behavioral symptoms"
+"4" "Difficulty in tongue movements"
+"5" "Spasticity of facial muscles"
+"6" "Spasticity of pharyngeal muscles"

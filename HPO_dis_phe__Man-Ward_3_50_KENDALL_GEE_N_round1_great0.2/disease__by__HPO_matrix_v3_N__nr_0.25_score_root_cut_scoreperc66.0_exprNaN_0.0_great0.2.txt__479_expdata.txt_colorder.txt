@@ -1,0 +1,8 @@
+"x"
+"1" "Retinoblastoma"
+"2" "Retinal calcification"
+"3" "Pinealoma"
+"4" "Ewing's sarcoma"
+"5" "Abnormality of the medullary cavity of the long bones"
+"6" "Midline brain calcifications"
+"7" "Bitemporal hollowing"

@@ -1,0 +1,43 @@
+	"Familial abdominal aortic aneurysm 1"	"Mental Retardation, Autosomal Dominant 14"	"Mental Retardation, Autosomal Dominant 15"	"Mental Retardation, Autosomal Dominant 16"	"Coffin-Siris syndrome 5"
+"Microcephaly"	0.0	0.0	1.0	1.0	1.0
+"Intellectual disability"	0.0	1.0	1.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	0.0	0.0	0.0	1.0	0.0
+"Coarse facial features"	0.0	1.0	1.0	1.0	1.0
+"Delayed speech and language development"	0.0	1.0	0.0	0.0	0.0
+"Short stature"	0.0	1.0	1.0	1.0	1.0
+"Brachydactyly"	0.0	1.0	0.0	0.0	0.0
+"Global developmental delay"	0.0	1.0	1.0	1.0	1.0
+"Depressed nasal bridge"	0.0	1.0	1.0	1.0	1.0
+"Anteverted nares"	0.0	1.0	1.0	1.0	0.0
+"Abnormality of the pinna"	0.0	1.0	0.0	0.0	0.0
+"Scoliosis"	0.0	0.0	1.0	1.0	0.0
+"Abnormality of cardiovascular system morphology"	0.0	1.0	1.0	1.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	0.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	1.0	1.0	0.0
+"Small nail"	0.0	1.0	0.0	0.0	0.0
+"Hearing impairment"	0.0	0.0	1.0	1.0	0.0
+"Low anterior hairline"	0.0	1.0	0.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	1.0	1.0	1.0
+"Thick lower lip vermilion"	0.0	1.0	0.0	0.0	1.0
+"Long eyelashes"	0.0	1.0	1.0	1.0	1.0
+"Delayed skeletal maturation"	0.0	1.0	1.0	1.0	0.0
+"Wide nose"	0.0	1.0	1.0	1.0	1.0
+"Thick eyebrow"	0.0	1.0	1.0	1.0	1.0
+"Hirsutism"	0.0	0.0	1.0	1.0	0.0
+"Wide mouth"	0.0	1.0	1.0	1.0	1.0
+"Sparse scalp hair"	0.0	1.0	1.0	1.0	1.0
+"Visual impairment"	0.0	1.0	1.0	1.0	0.0
+"Macroglossia"	0.0	1.0	1.0	1.0	0.0
+"Aplasia/Hypoplasia of the distal phalanges of the hand"	0.0	1.0	1.0	1.0	0.0
+"Delayed eruption of permanent teeth"	0.0	0.0	1.0	0.0	0.0
+"Sparse hair"	0.0	0.0	1.0	0.0	0.0
+"Dandy-Walker malformation"	0.0	0.0	0.0	1.0	1.0
+"Recurrent infections"	0.0	1.0	0.0	0.0	1.0
+"Thick nasal alae"	0.0	0.0	0.0	1.0	1.0
+"Feeding difficulties"	0.0	1.0	1.0	1.0	1.0
+"Hypertrichosis"	0.0	1.0	1.0	1.0	0.0
+"Abnormality of the corpus callosum"	0.0	1.0	1.0	1.0	0.0
+"Absent fifth fingernail"	0.0	1.0	0.0	0.0	0.0
+"Absent fifth toenail"	0.0	1.0	0.0	0.0	0.0

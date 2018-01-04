@@ -1,0 +1,12 @@
+	"Achalasia, Familial Esophageal"	"Diverticulosis, Small-Intestinal"	"Sjogren's syndrome"
+"HP:0000007"	1.0	1.0	1.0
+"Xerostomia"	1.0	0.0	1.0
+"Autoimmunity"	0.0	0.0	1.0
+"Rheumatoid arthritis"	1.0	1.0	1.0
+"Abnormality of metabolism/homeostasis"	0.0	0.0	1.0
+"Tubulointerstitial nephritis"	0.0	0.0	1.0
+"Keratoconjunctivitis sicca"	1.0	0.0	1.0
+"Jejunal diverticula"	0.0	1.0	0.0
+"Jejunoileal diverticula"	0.0	1.0	0.0
+"Duodenal diverticula"	0.0	1.0	0.0
+"Ulcerative colitis"	0.0	1.0	0.0

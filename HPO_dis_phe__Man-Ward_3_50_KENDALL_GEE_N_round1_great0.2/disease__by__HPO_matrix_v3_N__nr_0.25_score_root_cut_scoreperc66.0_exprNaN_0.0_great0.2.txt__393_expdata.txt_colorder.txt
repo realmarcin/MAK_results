@@ -1,0 +1,8 @@
+"x"
+"1" "Hyperreflexia"
+"2" "Cerebellar atrophy"
+"3" "Dysmetria"
+"4" "Torticollis"
+"5" "Incoordination"
+"6" "Neck muscle weakness"
+"7" "Abnormality of the orbital region"

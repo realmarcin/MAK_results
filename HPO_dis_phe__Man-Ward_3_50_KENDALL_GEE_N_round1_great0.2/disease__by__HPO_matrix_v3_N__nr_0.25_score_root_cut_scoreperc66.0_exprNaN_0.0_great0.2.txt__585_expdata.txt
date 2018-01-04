@@ -1,0 +1,10 @@
+	"FRNS"	"Teratoma, Pineal"	"Testicular Germ Cell Tumor"	"Aicardi syndrome"	"Obesity due to leptin receptor gene deficiency"	"Orphanet:140"	"Orphanet:1791"	"Duplication of the pituitary gland"	"Orphanet:54595"	"Orphanet:643"
+"Hypoplasia of olfactory tract"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Hypoplasia of the optic tract"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Absent left hemidiaphragm"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Teratoma"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormal hypothalamus morphology"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Abnormality of midbrain morphology"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of joint mobility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the pituitary gland"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Abnormality of masseter muscle"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

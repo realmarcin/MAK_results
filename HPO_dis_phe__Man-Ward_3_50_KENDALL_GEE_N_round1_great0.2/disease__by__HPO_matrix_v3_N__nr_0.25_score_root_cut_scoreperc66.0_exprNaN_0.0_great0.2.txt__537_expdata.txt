@@ -1,0 +1,15 @@
+	"DURS1"	"Incisors, Lower Central, Absence of"	"Lethal faciocardiomelic dysplasia"	"Richieri Costa Pereira syndrome"	"X-linked spondyloepimetaphyseal dysplasia"	"Duane-Radial Ray Syndrome"	"Duane Retraction Syndrome 3 With or Without Deafness"	"Orphanet:1358"	"Orphanet:251909"
+"Congenital strabismus"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Impaired ocular adduction"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Impaired convergence"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Impaired ocular abduction"	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Palpebral fissure narrowing on adduction"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Radial deviation of the hand"	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the aryepiglottic fold"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia of the epiglottis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cleft lower alveolar ridge"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cleft mandible"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Tibial deviation of toes"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Slit-like opening of the exterior auditory meatus"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Pectoralis hypoplasia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Upper limb muscle hypoplasia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Periarticular subcutaneous nodules"
+"2" "Thoracic kyphoscoliosis"
+"3" "Generalized hypoplasia of dental enamel"
+"4" "Lipogranulomatosis"
+"5" "Calcification of muscles"

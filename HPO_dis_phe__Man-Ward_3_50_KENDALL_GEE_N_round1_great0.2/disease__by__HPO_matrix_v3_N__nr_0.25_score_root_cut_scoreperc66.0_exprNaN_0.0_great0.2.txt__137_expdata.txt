@@ -1,0 +1,16 @@
+	"46,XY sex reversal, type 4"	"46,Xy Sex Reversal 5"	"46,XY sex reversal, type 6"	"46,Xy Sex Reversal 9"	"46,Xy Sex Reversal 10"
+"HP:0000007"	0.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Hirsutism"	0.0	0.0	1.0	0.0	0.0
+"Sparse axillary hair"	0.0	0.0	1.0	0.0	0.0
+"Micropenis"	0.0	0.0	0.0	0.0	1.0
+"Sex reversal"	1.0	1.0	1.0	1.0	1.0
+"Dysgerminoma"	0.0	0.0	1.0	0.0	1.0
+"Chordee"	0.0	0.0	1.0	0.0	0.0
+"Gonadoblastoma"	0.0	0.0	1.0	0.0	1.0
+"Autistic behavior"	0.0	0.0	0.0	1.0	0.0
+"Decreased testicular size"	0.0	0.0	0.0	0.0	1.0
+"Clitoral hypertrophy"	0.0	0.0	1.0	0.0	0.0
+"Elevated circulating follicle stimulating hormone level"	0.0	1.0	0.0	0.0	0.0
+"Ambiguous genitalia"	0.0	0.0	0.0	1.0	1.0
+"Fused labia minora"	0.0	0.0	0.0	1.0	0.0

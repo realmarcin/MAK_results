@@ -1,0 +1,5 @@
+"x"
+"1" "Distal muscle weakness"
+"2" "CNS hypomyelination"
+"3" "HP:0003678"
+"4" "Inability to walk by childhood/adolescence"

@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Neoplasm of the skin"
+"3" "HP:0003596"
+"4" "Mucinous histiocytosis"
+"5" "Abnormality of chromosome stability"
+"6" "Porokeratosis"

@@ -1,0 +1,15 @@
+	"Dwarfism, Levi Type"	"Isolated Growth Hormone Deficiency, Type 2"	"Chondrodysplasia Calcificans Metaphysealis"	"Cleidocranial Dysplasia, Recessive Form"	"Dwarfism, Proportionate, With Hip Dislocation"	"Isolated Growth Hormone Deficiency, Type 1A"	"Syndesmodysplasic Dwarfism"	"Mseleni Joint Disease"
+"Small for gestational age"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the face"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0000007"	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Severe short stature"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the immune system"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hip dislocation"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Respiratory distress"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypoglycemia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Joint stiffness"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Growth hormone deficiency"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Metaphyseal chondrodysplasia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pituitary dwarfism"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0008155"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

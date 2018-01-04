@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Pulverulent cataract"
+"3" "Lamellar cataract"
+"4" "Increased serum ferritin"
+"5" "Anterior polar cataract"
+"6" "Nuclear cataract"

@@ -1,0 +1,8 @@
+"x"
+"1" "De.Sanctis.Cacchione.Syndrome"
+"2" "Xeroderma.Pigmentosum..Complem"
+"3" "Xeroderma.Pigmentosum..Complem"
+"4" "Xeroderma.Pigmentosum..Complem"
+"5" "Xeroderma.pigmentosum..group.E"
+"6" "Xeroderma.pigmentosum..variant"
+"7" "Ocular.cystinosis"

@@ -1,0 +1,42 @@
+	"OMIM:300290"	"Meier-Gorlin syndrome 2"	"Meier-Gorlin Syndrome 3"	"Meier-Gorlin Syndrome 4"	"Meier-Gorlin syndrome 5"	"Intrauterine Growth Retardation, Metaphyseal Dysplasia, Adrenal Hypoplasia Congenita, and Genital Anomalies"	"Orphanet:2489"
+"Microcephaly"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"High pitched voice"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cryptorchidism"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Micrognathia"	0.0	1.0	0.0	1.0	1.0	0.0	0.0
+"Narrow mouth"	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Failure to thrive"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Gastroesophageal reflux"	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+"Triangular face"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Long philtrum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Low-set ears"	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+"Joint hypermobility"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the maxilla"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Genu recurvatum"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Motor delay"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Microtia"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Bronchomalacia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Intrauterine growth retardation"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Thick lower lip vermilion"	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Smooth philtrum"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Prominent metopic ridge"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Breast hypoplasia"	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the patella"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Micropenis"	1.0	0.0	1.0	0.0	1.0	1.0	0.0
+"Underdeveloped nasal alae"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Irregular femoral epiphysis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Elbow dislocation"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Dolichocephaly"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Patellar aplasia"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+"Hypoplastic labia majora"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Emphysema"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Mild global developmental delay"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the capital femoral epiphysis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Feeding difficulties"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Tracheomalacia"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Clitoral hypertrophy"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Slender long bone"	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Lateral clavicle hook"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Small earlobe"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Birth length less than 3rd percentile"	0.0	1.0	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,34 @@
+	"Charcot-Marie-Tooth Disease, Recessive Intermediate B"	"Charcot-Marie-Tooth disease type 2P"	"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 5"	"Spinal Muscular Atrophy, Jokela Type"	"Charcot-Marie-Tooth disease dominant intermediate F"	"Charcot-Marie-Tooth Disease, Recessive Intermediate D"	"Charcot-Marie-Tooth Disease, Axonal, Type 2S"	"Charcot-Marie-Tooth Disease, Axonal, Type 2U"	"Charcot-Marie-Tooth disease, axonal, type 2w"	"Charcot-Marie-Tooth disease, axonal, type 2y"	"Charcot-Marie-Tooth Disease, Axonal, Type 2T"
+"Pes cavus"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Scoliosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Pes planus"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+"Talipes equinovarus"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0000006"	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+"Hyporeflexia"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+"HP:0003676"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0003581"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Tremor"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Peripheral axonal neuropathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Fasciculations"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003677"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Proximal muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Absent Achilles reflex"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Areflexia"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Hammertoe"	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Distal sensory impairment"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Steppage gait"	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Onion bulb formation"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Foot dorsiflexor weakness"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Unsteady gait"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Difficulty walking"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Dysphonia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Calf muscle hypertrophy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spinal muscular atrophy"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0040078"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Vestibular Schwannoma"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Axonal regeneration"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

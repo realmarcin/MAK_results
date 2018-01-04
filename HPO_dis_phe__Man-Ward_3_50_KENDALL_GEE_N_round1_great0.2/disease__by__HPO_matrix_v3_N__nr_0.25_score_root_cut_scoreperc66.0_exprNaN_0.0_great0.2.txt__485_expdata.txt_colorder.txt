@@ -1,0 +1,6 @@
+"x"
+"1" "Short stature"
+"2" "Hypodontia"
+"3" "Hyperkeratosis"
+"4" "Abnormality of skin pigmentation"
+"5" "Retinal dystrophy"

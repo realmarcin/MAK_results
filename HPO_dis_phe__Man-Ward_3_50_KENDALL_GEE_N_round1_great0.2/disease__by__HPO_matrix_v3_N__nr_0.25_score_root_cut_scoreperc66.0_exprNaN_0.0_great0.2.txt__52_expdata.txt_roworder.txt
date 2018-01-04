@@ -1,0 +1,7 @@
+"x"
+"1" "Infantile.hypophosphatasia"
+"2" "Hypophosphatasia..Childhood"
+"3" "Nephropathic.cystinosis"
+"4" "Hypophosphatemic.Rickets.and.H"
+"5" "Orphanet.436"
+"6" "Orphanet.89936"

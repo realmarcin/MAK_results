@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "High palate"
+"3" "Narrow chest"
+"4" "Upslanted palpebral fissure"
+"5" "Enuresis"

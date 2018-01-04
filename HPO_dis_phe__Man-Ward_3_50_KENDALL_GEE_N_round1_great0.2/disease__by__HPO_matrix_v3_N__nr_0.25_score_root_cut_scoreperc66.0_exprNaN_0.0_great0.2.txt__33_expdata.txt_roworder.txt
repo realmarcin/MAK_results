@@ -1,0 +1,4 @@
+"x"
+"1" "Sjogren.s.syndrome"
+"2" "Diverticulosis..Small.Intestin"
+"3" "Achalasia..Familial.Esophageal"

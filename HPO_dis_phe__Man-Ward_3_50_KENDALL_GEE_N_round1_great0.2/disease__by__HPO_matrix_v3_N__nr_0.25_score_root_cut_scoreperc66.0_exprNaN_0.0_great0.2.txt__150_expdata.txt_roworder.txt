@@ -1,0 +1,7 @@
+"x"
+"1" "Mitochondrial.complex.II.defic"
+"2" "Mitochondrial.Complex.1.Defici"
+"3" "Ophthalmoplegic.Neuromuscular."
+"4" "Leukoencephalopathy..progressi"
+"5" "Myoclonus..intractable..neonat"
+"6" "Orphanet.2609"

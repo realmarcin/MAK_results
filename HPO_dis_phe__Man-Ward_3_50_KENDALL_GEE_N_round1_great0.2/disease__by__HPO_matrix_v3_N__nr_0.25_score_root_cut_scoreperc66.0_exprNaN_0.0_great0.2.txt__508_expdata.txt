@@ -1,0 +1,11 @@
+	"Corneal Hypesthesia With Retinal Abnormalities, Sensorineural Deafness, Unusual Facies, Persistent Ductus Arteriosus, and Mental Retardation"	"Congenital trigeminal anesthesia"	"Corneal Dystrophy, Fuchs Endothelial, 1"	"LADD syndrome"	"Microspherophakia And/Or Megalocornea, With Ectopia Lentis and With or Without Secondary Glaucoma"	"Tyrosinemia type 2"	"Pontine Tegmental Cap Dysplasia"	"Stromal keratitis"	"Acanthamoeba keratitis"	"Orphanet:94058"
+"Decreased corneal sensation"	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Descemet Membrane Folds"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Corneal stromal edema"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+"Corneal perforation"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+"Asymmetry of intraocular pressure"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Retinal vein occlusion"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Deep anterior chamber"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Herpetiform corneal ulceration"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Iris neovascularization"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of central retinal artery"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

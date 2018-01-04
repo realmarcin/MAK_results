@@ -1,0 +1,9 @@
+	"neuronal ceroid lipofuscinosis 3"	"Friedreich Ataxia 1"	"Friedreich Ataxia and Congenital Glaucoma"	"Pineal hyperplasia AND diabetes mellitus syndrome"	"Charcot-Marie-Tooth Peroneal Muscular Atrophy and Friedreich Ataxia, Combined"	"FRDA2"	"Insulin-resistance syndrome type B"	"Neonatal Marfan syndrome"	"Familial infantile gigantism"
+"Abnormal echocardiogram"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Decreased pyruvate carboxylase activity"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Mitochondrial malic enzyme reduced"	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Muscular subvalvular aortic stenosis"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Diabetic ketoacidosis"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Abnormality of the spinocerebellar tracts"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the dorsal column of the spinal cord"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the medulla oblongata"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0

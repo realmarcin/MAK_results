@@ -1,0 +1,5 @@
+	"renal hypomagnesemia 2"	"Cranioectodermal Dysplasia 1"	"Hypomagnesemia 5, renal, with ocular involvement"	"renal hypomagnesemia 3"	"Gitelman syndrome"	"Familial primary hypomagnesemia with normocalciuria and normocalcemia"	"Orphanet:428"	"Tubular renal disease-cardiomyopathy syndrome"
+"Renal magnesium wasting"	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hypermagnesiuria"	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Renal calcium wasting"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Hypocitraturia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

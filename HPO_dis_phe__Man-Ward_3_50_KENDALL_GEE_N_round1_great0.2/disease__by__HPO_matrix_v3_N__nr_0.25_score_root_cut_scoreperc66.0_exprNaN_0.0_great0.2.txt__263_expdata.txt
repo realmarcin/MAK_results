@@ -1,0 +1,6 @@
+	"obstructive sleep apnea"	"Mitochondrial myopathy-lactic acidosis-deafness syndrome"	"Epilepsy, Familial Temporal Lobe, 1"	"Epileptic Encephalopathy, Early Infantile, 6"	"Focal cortical dysplasia of Taylor"	"ETL2"	"Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant"	"ETL3"	"ETL4"	"Polymicrogyria, Bilateral Temporooccipital"	"chromosome 17q12 deletion syndrome"	"Generalized epilepsy with febrile seizures plus, type 9"	"Mental Retardation, Autosomal Recessive 47"	"familial temporal lobe epilepsy 8"	"hypomyelinating leukodystrophy 12"	"Orphanet:1947"	"Orphanet:33069"	"Orphanet:369929"
+"Focal seizures with impairment of consciousness or awareness"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Visual auras"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Simple partial occipital seizures"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Focal seizures without impairment of consciousness or awareness"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Deja vu"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

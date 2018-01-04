@@ -1,0 +1,11 @@
+	"Spastic Paraplegia 50, Autosomal Recessive"	"Spastic paraplegia 51, autosomal recessive"	"Spastic Paraplegia 47, Autosomal Recessive"	"hereditary spastic paraplegia 52"
+"Delayed speech and language development"	0.0	0.0	1.0	0.0
+"Bulbous nose"	1.0	1.0	1.0	1.0
+"Pes planus"	0.0	0.0	1.0	0.0
+"Genu recurvatum"	0.0	0.0	1.0	0.0
+"Dystonia"	0.0	0.0	1.0	0.0
+"Dysarthria"	0.0	0.0	1.0	0.0
+"HP:0003677"	0.0	0.0	1.0	0.0
+"Waddling gait"	0.0	0.0	1.0	0.0
+"Acetabular dysplasia"	0.0	0.0	1.0	0.0
+"Abnormality of the periventricular white matter"	0.0	0.0	1.0	0.0

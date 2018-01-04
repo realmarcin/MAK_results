@@ -1,0 +1,27 @@
+	"Familial abdominal aortic aneurysm 1"	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Negative"	"Chronic granulomatous disease, autosomal recessive cytochrome b-positive, type 1"	"Chronic granulomatous disease, autosomal recessive cytochrome b-positive, type 2"	"Chronic granulomatous disease, X-linked"
+"HP:0001419"	0.0	0.0	0.0	0.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	0.0
+"HP:0003621"	0.0	1.0	1.0	1.0	1.0
+"Splenomegaly"	0.0	1.0	1.0	1.0	1.0
+"Rectal abscess"	0.0	1.0	1.0	1.0	1.0
+"Eczematoid dermatitis"	0.0	1.0	1.0	1.0	1.0
+"Granulomatosis"	0.0	1.0	1.0	1.0	1.0
+"Osteomyelitis"	0.0	1.0	1.0	1.0	1.0
+"Recurrent Staphylococcus aureus infections"	0.0	1.0	1.0	1.0	1.0
+"Recurrent bacterial skin infections"	0.0	1.0	1.0	1.0	1.0
+"Recurrent pneumonia"	0.0	1.0	1.0	1.0	1.0
+"Lymphadenopathy"	0.0	1.0	1.0	1.0	1.0
+"Discoid lupus rash"	0.0	1.0	1.0	1.0	1.0
+"Absence of bactericidal oxidative 'respiratory burst' in phagocytes"	0.0	1.0	1.0	1.0	1.0
+"Recurrent Aspergillus infections"	0.0	1.0	1.0	1.0	1.0
+"Recurrent E. coli infections"	0.0	1.0	1.0	1.0	1.0
+"Recurrent Serratia marcescens infections"	0.0	1.0	1.0	1.0	1.0
+"Recurrent Klebsiella infections"	0.0	1.0	1.0	1.0	1.0
+"Lymphadenitis"	0.0	1.0	1.0	1.0	1.0
+"Recurrent Burkholderia cepacia infections"	0.0	1.0	1.0	1.0	1.0
+"Negative nitroblue tetrazolium reduction test"	0.0	1.0	1.0	1.0	1.0
+"Decreased activity of NADPH oxidase"	0.0	1.0	1.0	1.0	1.0
+"Deficiency or absence of cytochrome b(-245)"	0.0	1.0	0.0	0.0	1.0
+"Liver abscess"	0.0	1.0	1.0	1.0	1.0
+"Cellulitis"	0.0	1.0	1.0	1.0	1.0

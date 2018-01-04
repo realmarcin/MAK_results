@@ -1,0 +1,7 @@
+"x"
+"1" "Leber.Congenital.Amaurosis.6"
+"2" "Leber.Congenital.Amaurosis.7"
+"3" "Leber.Congenital.Amaurosis.8"
+"4" "cataract.35"
+"5" "cataract.18"
+"6" "cataract.36"

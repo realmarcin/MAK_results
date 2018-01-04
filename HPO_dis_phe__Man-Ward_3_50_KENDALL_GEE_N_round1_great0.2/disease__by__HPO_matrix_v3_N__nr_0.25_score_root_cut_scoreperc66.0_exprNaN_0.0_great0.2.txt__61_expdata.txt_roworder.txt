@@ -1,0 +1,7 @@
+"x"
+"1" "Amyloidosis..Finnish.Type"
+"2" "ACys.amyloidosis"
+"3" "Familial.primary.localized.cut"
+"4" "Lattice.corneal.dystrophy.Type"
+"5" "Corneal.Dystrophy..Avellino.Ty"
+"6" "Lattice.corneal.dystrophy.type"

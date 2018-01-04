@@ -1,0 +1,7 @@
+"x"
+"1" "Pheochromocytoma"
+"2" "Pheochromocytoma..Islet.Cell.T"
+"3" "Hereditary.neurocutaneous.malf"
+"4" "Enchondromatosis..Multiple..Ol"
+"5" "Maffucci.syndrome"
+"6" "Orphanet.1062"

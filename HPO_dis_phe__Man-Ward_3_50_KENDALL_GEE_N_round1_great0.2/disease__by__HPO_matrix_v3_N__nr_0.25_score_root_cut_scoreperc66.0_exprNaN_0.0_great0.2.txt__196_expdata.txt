@@ -1,0 +1,7 @@
+	"acromelic frontonasal dysostosis"	"Culler-Jones Syndrome"	"Orphanet:140976"	"Thyroid Gland Undifferentiated (Anaplastic) Carcinoma"	"Orphanet:300385"	"Atypical teratoid rhabdoid tumor"
+"Hypopituitarism"	1.0	1.0	1.0	0.0	1.0	0.0
+"Anaplastic thyroid carcinoma"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of muscle morphology"	0.0	0.0	0.0	1.0	0.0	0.0
+"Malignant neoplasm of the central nervous system"	0.0	0.0	0.0	1.0	1.0	1.0
+"Pituitary gonadotropic cell adenoma"	0.0	0.0	0.0	0.0	1.0	0.0
+"Pituitary thyrotropic cell adenoma"	0.0	0.0	0.0	0.0	1.0	0.0

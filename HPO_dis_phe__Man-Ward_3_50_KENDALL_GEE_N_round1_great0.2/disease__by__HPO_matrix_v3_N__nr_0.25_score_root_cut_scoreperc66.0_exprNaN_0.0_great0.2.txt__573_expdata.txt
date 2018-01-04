@@ -1,0 +1,9 @@
+	"Essential hypertension"	"Nephrogenic syndrome of inappropriate antidiuresis"	"fragile X syndrome"	"Bartter disease type 4a"	"OMIM:608622"	"Bartter Syndrome, Type 4B"	"Chorea, Childhood-Onset, with Psychomotor Retardation; COCPMR"	"Orphanet:908"
+"Elevated systolic blood pressure"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Elevated mean arterial pressure"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Elevated diastolic blood pressure"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormal head movements"	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Folate-dependent fragile site at Xq28"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Congenital macroorchidism"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Global glomerulosclerosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypokalemic hypochloremic metabolic alkalosis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0

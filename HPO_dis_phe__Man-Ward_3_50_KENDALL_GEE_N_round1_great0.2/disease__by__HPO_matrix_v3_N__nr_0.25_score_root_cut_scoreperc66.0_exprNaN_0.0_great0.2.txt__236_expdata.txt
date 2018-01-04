@@ -1,0 +1,46 @@
+	"Hyperchlorhidrosis, Isolated"	"Pseudohypoaldosteronism, Type I, Autosomal Dominant"	"Corticosterone methyloxidase type 1 deficiency"	"autosomal recessive pseudohypoaldosteronism type 1"	"Adrenal Hypoplasia, Congenital"	"Corticosterone methyloxidase type 2 deficiency"	"Hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome"	"Glucocorticoid Deficiency 4 With or Without Mineralocorticoid Deficiency"	"Familial hypoaldosteronism"
+"Feeding difficulties in infancy"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cryptorchidism"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"HP:0001419"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Recurrent respiratory infections"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"HP:0003812"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Diarrhea"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Growth delay"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"HP:0003593"	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Hyperpigmentation of the skin"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperaldosteronism"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Vomiting"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Azoospermia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Oligospermia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypogonadotrophic hypogonadism"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Orthostatic hypotension"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Episodic fever"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0003623"	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Metabolic acidosis"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Hypoglycemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Lethargy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Delayed puberty"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperkalemia"	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Dehydration"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hyponatremia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Feeding difficulties"	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+"Pseudohypoaldosteronism"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hypotension"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Precocious puberty"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Adrenal hypoplasia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Decreased circulating cortisol level"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Congenital hypothyroidism"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Muscular dystrophy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Renal salt wasting"	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0004319"	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Hyperactive renin-angiotensin system"	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Increased circulating renin level"	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Proximal renal tubular acidosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoglycemic coma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Absence of pubertal development"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Nausea and vomiting"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypovolemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Decreased urinary potassium"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

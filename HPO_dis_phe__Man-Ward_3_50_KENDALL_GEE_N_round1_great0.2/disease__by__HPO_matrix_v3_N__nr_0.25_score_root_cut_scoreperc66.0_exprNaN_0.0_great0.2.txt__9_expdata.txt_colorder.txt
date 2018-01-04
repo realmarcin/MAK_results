@@ -1,0 +1,4 @@
+"x"
+"1" "HP:0000007"
+"2" "Prelingual sensorineural hearing impairment"
+"3" "Abnormality of the eye"

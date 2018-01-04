@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Abnormality of the vertebral column"
+"3" "Arachnoid cyst"
+"4" "Paraplegia"
+"5" "Abnormality of the head"
+"6" "Chordoma"

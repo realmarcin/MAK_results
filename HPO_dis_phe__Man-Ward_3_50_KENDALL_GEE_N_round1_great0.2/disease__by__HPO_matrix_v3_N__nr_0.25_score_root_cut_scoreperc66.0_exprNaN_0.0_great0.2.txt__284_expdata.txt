@@ -1,0 +1,14 @@
+	"Hyperaldosteronism, familial, type I"	"Hypokalemic periodic paralysis 1"	"Pseudohypoaldosteronism, Type I, Autosomal Dominant"	"Diarrhea 1, Secretory Chloride, Congenital"	"Hypokalemic Alkalosis, Familial, With Specific Renal Tubulopathy"	"Bartter syndrome, type 2, antenatal"	"Gitelman syndrome"	"autosomal recessive pseudohypoaldosteronism type 1"	"Bartter syndrome, type 5, antenatal, transient"	"Bartter disease type 1"	"Bartter disease type 4a"	"Bartter Syndrome, Type 3"	"Seizures, Sensorineural Deafness, Ataxia, Mental Retardation, and Electrolyte Imbalance"	"Bartter Syndrome, Type 4B"	"Familial hyperaldosteronism type III"	"Adrenal Insufficiency, Congenital, With 46,Xy Sex Reversal, Partial or Complete"	"Orphanet:1848"	"Primary unilateral adrenal hyperplasia"	"Adrenocortical carcinoma with pure aldosterone hypersecretion"	"Orphanet:369929"	"Orphanet:534"	"Orphanet:71211"	"Tubular renal disease-cardiomyopathy syndrome"	"Orphanet:90793"	"Orphanet:90795"
+"Hyperaldosteronism"	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Hypokalemia"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Hyperactive renin-angiotensin system"	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypochloremia"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Increased serum prostaglandin E2"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal juxtaglomerular cell hypertrophy/hyperplasia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal potassium wasting"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Fetal polyuria"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypokalemic metabolic alkalosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Low-to-normal blood pressure"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperchloriduria"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased urinary potassium"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperprostaglandinuria"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

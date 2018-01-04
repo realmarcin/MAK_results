@@ -1,0 +1,8 @@
+	"SPGF2"	"SCA32"	"Spermatogenic Failure 10"	"Spermatogenic Failure 11"	"Spermatogenic Failure 12"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Ataxia"	0.0	1.0	0.0	0.0	0.0
+"Infertility"	0.0	1.0	1.0	1.0	1.0
+"Cerebellar atrophy"	0.0	1.0	0.0	0.0	0.0
+"Azoospermia"	1.0	1.0	0.0	0.0	1.0
+"Testicular atrophy"	0.0	1.0	0.0	0.0	0.0
+"Abnormal sperm morphology"	0.0	0.0	1.0	1.0	0.0

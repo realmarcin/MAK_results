@@ -1,0 +1,8 @@
+"x"
+"1" "Hyperinsulinism.due.to.HNF4A.d"
+"2" "Hyperinsulinism.due.to.HNF1A.d"
+"3" "Autosomal.dominant.hyperinsuli"
+"4" "Autosomal.dominant.hyperinsuli"
+"5" "Hyperinsulinism.due.to.UCP2.de"
+"6" "Adult.onset.non.insulinoma.per"
+"7" "Familial.abdominal.aortic.aneu"

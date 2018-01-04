@@ -1,0 +1,7 @@
+"x"
+"1" "Currarino.triad"
+"2" "Familial.caudal.dysgenesis"
+"3" "Parietal.Foramina.With.Cleidoc"
+"4" "Disorganization..Mouse..Homolo"
+"5" "Cleft.lip.palate.deafness.sacr"
+"6" "X.linked.microcephaly.growth.r"

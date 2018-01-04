@@ -1,0 +1,7 @@
+"x"
+"1" "Frontofacionasal.Dysplasia"
+"2" "Frontonasal.Dysplasia.1"
+"3" "Acrofrontofacionasal.dysostosi"
+"4" "Hartsfield.Syndrome"
+"5" "Orphanet.1791"
+"6" "Orphanet.2985"

@@ -1,0 +1,9 @@
+	"HYSP3"	"Radial hypoplasia-triphalangeal thumbs-hypospadias-maxillary diastema syndrome"	"Orphanet:2252"	"Spina bifida-hypospadias syndrome"	"Orphanet:440"
+"Mandibular prognathia"	0.0	0.0	1.0	0.0	0.0
+"Hypospadias"	1.0	1.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the radius"	0.0	1.0	1.0	0.0	0.0
+"Micromelia"	0.0	0.0	1.0	0.0	0.0
+"Abnormal dermatoglyphics"	0.0	0.0	1.0	0.0	0.0
+"Diastema"	0.0	1.0	0.0	0.0	0.0
+"Nonopposable triphalangeal thumb"	0.0	1.0	1.0	0.0	0.0

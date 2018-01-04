@@ -1,0 +1,9 @@
+	"Machado-Joseph disease"	"Spinocerebellar ataxia 1"	"spinocerebellar ataxia type 7"	"Arteriosclerosis, Severe Juvenile"	"Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome"	"Aortic Valve Disease 2"	"Orphanet:2072"	"Homozygous familial hypercholesterolemia"	"Orphanet:683"
+"Supranuclear ophthalmoplegia"	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+"Calcific mitral stenosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Calcification of the aorta"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Calcific aortic valve stenosis"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Slowed horizontal saccades"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Hypometric horizontal saccades"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of nervous system physiology"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of internal carotid artery"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

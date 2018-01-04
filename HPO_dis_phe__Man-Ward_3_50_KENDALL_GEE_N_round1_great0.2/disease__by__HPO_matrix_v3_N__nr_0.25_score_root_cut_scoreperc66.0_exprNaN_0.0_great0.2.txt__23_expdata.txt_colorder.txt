@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Acute myeloid leukemia"
+"3" "Acute monocytic leukemia"
+"4" "Acute myelomonocytic leukemia"
+"5" "Biphenotypic acute leukaemia"
+"6" "Acute lymphoblastic leukemia"

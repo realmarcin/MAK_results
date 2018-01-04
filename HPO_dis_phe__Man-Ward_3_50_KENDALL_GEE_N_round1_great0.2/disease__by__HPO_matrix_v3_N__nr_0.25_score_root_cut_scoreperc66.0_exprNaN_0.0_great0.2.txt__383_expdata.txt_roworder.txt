@@ -1,0 +1,8 @@
+"x"
+"1" "Ichthyosis..Congenital..Autoso"
+"2" "Cyanosis.and.Hepatic.Disease"
+"3" "Primary.hypertrophic.osteoarth"
+"4" "Autosomal.recessive.congenital"
+"5" "Sjogren.Larsson.Like.Ichthyosi"
+"6" "Congenital.cataract.ichthyosis"
+"7" "Palmoplantar.Keratoderma..Norr"

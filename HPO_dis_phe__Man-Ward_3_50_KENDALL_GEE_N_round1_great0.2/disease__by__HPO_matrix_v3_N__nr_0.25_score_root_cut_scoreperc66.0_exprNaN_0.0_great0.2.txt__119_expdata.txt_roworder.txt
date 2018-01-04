@@ -1,0 +1,6 @@
+"x"
+"1" "acrocephalosyndactylia"
+"2" "Cerebrocostomandibular.Syndrom"
+"3" "Orphanet.87"
+"4" "BDA1B"
+"5" "Klippel.Feil.Syndrome.3..Autos"

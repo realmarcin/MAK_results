@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000007"
+"2" "Increased variability in muscle fiber diameter"
+"3" "Rimmed vacuoles"
+"4" "Waddling gait"

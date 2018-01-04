@@ -1,0 +1,8 @@
+"x"
+"1" "Dyskeratosis.congenita.autosom"
+"2" "Dyskeratosis.congenita.autosom"
+"3" "Revesz.Syndrome"
+"4" "Dyskeratosis.congenita.X.linke"
+"5" "Dyskeratosis.Congenita..Autoso"
+"6" "Dyskeratosis.Congenita..Autoso"
+"7" "Hoyeraal.Hreidarsson.syndrome"

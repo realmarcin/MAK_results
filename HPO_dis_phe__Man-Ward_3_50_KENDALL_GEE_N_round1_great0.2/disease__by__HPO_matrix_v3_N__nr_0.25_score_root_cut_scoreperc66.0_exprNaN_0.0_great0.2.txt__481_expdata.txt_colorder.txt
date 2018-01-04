@@ -1,0 +1,8 @@
+"x"
+"1" "Limb ataxia"
+"2" "Agenesis of corpus callosum"
+"3" "Neuronal loss in central nervous system"
+"4" "Dysmetria"
+"5" "CNS demyelination"
+"6" "Impaired vibration sensation in the lower limbs"
+"7" "Sensorimotor neuropathy"

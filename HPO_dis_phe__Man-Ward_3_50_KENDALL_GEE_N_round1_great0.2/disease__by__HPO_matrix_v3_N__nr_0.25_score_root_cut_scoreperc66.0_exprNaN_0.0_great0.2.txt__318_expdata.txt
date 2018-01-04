@@ -1,0 +1,19 @@
+	"ATHS"	"Fibromuscular Dysplasia"	"Hyperlipidemia, Familial Combined"	"hyperlipoproteinemia type V"	"Familial hypoalphalipoproteinemia"	"Hypoalphalipoproteinemia"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
+"Stroke"	0.0	1.0	0.0	0.0	0.0	0.0
+"Corneal opacity"	0.0	0.0	0.0	0.0	0.0	1.0
+"Angina pectoris"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypertriglyceridemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Sudden cardiac death"	0.0	0.0	0.0	0.0	0.0	1.0
+"Myocardial infarction"	1.0	1.0	1.0	0.0	0.0	1.0
+"Aortic dissection"	0.0	1.0	0.0	0.0	0.0	0.0
+"Intermittent claudication"	0.0	1.0	0.0	0.0	0.0	0.0
+"Arterial fibromuscular dysplasia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Renovascular hypertension"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased circulating low-density lipoprotein levels"	0.0	0.0	1.0	0.0	0.0	0.0
+"Increased circulating very-low-density lipoprotein levels"	0.0	0.0	1.0	1.0	0.0	0.0
+"Xanthelasma"	0.0	0.0	1.0	0.0	0.0	1.0
+"Decreased circulating low-density lipoprotein levels"	0.0	0.0	0.0	1.0	0.0	0.0
+"Increased circulating chylomicron levels"	0.0	0.0	0.0	1.0	0.0	0.0
+"Transient ischemic attack"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of lipid metabolism"	0.0	0.0	0.0	0.0	0.0	1.0

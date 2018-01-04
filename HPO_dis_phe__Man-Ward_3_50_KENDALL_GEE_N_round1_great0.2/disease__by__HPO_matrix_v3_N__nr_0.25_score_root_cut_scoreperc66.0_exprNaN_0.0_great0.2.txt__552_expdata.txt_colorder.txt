@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Malar flattening"
+"3" "Bulbous nose"
+"4" "Arachnodactyly"
+"5" "Death in infancy"

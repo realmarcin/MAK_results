@@ -1,0 +1,33 @@
+	"Peroxisome Biogenesis Disorder 1A (Zellweger)"	"Peroxisome biogenesis disorder 2a (zellweger)"	"Mullerian derivatives-lymphangiectasia-polydactyly syndrome"	"Peroxisome biogenesis disorder 5a (zellweger)"	"Orphanet:1655"	"Orphanet:912"
+"Intellectual disability"	0.0	1.0	0.0	1.0	0.0	0.0
+"Abnormal heart morphology"	0.0	1.0	0.0	1.0	0.0	0.0
+"Death in childhood"	0.0	1.0	0.0	0.0	0.0	0.0
+"Cleft palate"	0.0	1.0	1.0	1.0	0.0	0.0
+"HP:0000113"	0.0	1.0	0.0	0.0	0.0	0.0
+"Single transverse palmar crease"	1.0	1.0	0.0	1.0	0.0	0.0
+"Talipes equinovarus"	1.0	1.0	0.0	1.0	0.0	0.0
+"Large fontanelles"	0.0	1.0	0.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	1.0	0.0	1.0	0.0	0.0
+"Renal cyst"	0.0	0.0	0.0	1.0	0.0	0.0
+"Optic nerve dysplasia"	0.0	1.0	0.0	1.0	0.0	0.0
+"Cubitus valgus"	1.0	1.0	0.0	1.0	0.0	0.0
+"Opacification of the corneal stroma"	1.0	1.0	0.0	1.0	0.0	0.0
+"Joint contracture of the hand"	0.0	1.0	0.0	0.0	0.0	0.0
+"Camptodactyly"	0.0	1.0	0.0	1.0	0.0	0.0
+"Metatarsus adductus"	1.0	1.0	0.0	1.0	0.0	0.0
+"Dolichocephaly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Apnea"	0.0	1.0	0.0	0.0	0.0	0.0
+"Areflexia"	1.0	1.0	0.0	1.0	0.0	0.0
+"Turricephaly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Aminoaciduria"	1.0	1.0	0.0	0.0	0.0	0.0
+"Pigmentary retinopathy"	1.0	1.0	0.0	1.0	0.0	0.0
+"Palpebral edema"	0.0	1.0	0.0	1.0	0.0	0.0
+"Abnormality of the mitochondrion"	0.0	1.0	0.0	0.0	0.0	0.0
+"Poor suck"	0.0	1.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the thymus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Elevated long chain fatty acids"	1.0	1.0	0.0	0.0	0.0	0.0
+"Intrahepatic biliary dysgenesis"	1.0	1.0	0.0	1.0	0.0	0.0
+"Abnormality of the helix"	1.0	1.0	0.0	1.0	0.0	0.0
+"Stippled chondral calcification"	0.0	1.0	0.0	1.0	0.0	0.0
+"Generalized neonatal hypotonia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Macrogyria"	0.0	0.0	0.0	1.0	0.0	0.0

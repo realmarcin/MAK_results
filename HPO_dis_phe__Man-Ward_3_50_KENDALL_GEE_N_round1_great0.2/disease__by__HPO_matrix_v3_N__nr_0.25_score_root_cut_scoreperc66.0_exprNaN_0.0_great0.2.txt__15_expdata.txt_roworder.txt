@@ -1,0 +1,8 @@
+"x"
+"1" "autosomal.dominant.Robinow.syn"
+"2" "Orphanet.3107"
+"3" "Orphanet.1507"
+"4" "autosomal.recessive.Robinow.sy"
+"5" "autosomal.dominant.Robinow.syn"
+"6" "autosomal.dominant.Robinow.syn"
+"7" "Familial.abdominal.aortic.aneu"

@@ -1,0 +1,7 @@
+"x"
+"1" "X15q.overgrowth.syndrome"
+"2" "Ring.chromosome.13"
+"3" "Fraser.Like.Syndrome"
+"4" "Rudiger.Syndrome"
+"5" "Martinez.Frias.Syndrome"
+"6" "Orphanet.93302"

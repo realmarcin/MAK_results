@@ -1,0 +1,40 @@
+	"Familial abdominal aortic aneurysm 1"	"Duodenal neuroendocrine tumor"	"Jejunal neuroendocrine tumor"	"Ileal neuroendocrine tumor"
+"Hydronephrosis"	0.0	1.0	1.0	1.0
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0	0.0
+"Pulmonic stenosis"	0.0	1.0	1.0	1.0
+"Growth hormone excess"	0.0	1.0	0.0	0.0
+"Edema"	0.0	1.0	1.0	1.0
+"Iron deficiency anemia"	0.0	1.0	1.0	1.0
+"Intestinal carcinoid"	0.0	1.0	0.0	0.0
+"Palpitations"	0.0	1.0	1.0	1.0
+"Nausea"	0.0	1.0	1.0	1.0
+"Elevated hepatic transaminases"	0.0	1.0	1.0	1.0
+"Zollinger-Ellison syndrome"	0.0	1.0	1.0	1.0
+"Insulinoma"	0.0	1.0	0.0	0.0
+"Glucagonoma"	0.0	1.0	0.0	0.0
+"Increased hematocrit"	0.0	1.0	0.0	0.0
+"Tricuspid stenosis"	0.0	1.0	1.0	1.0
+"Chronic fatigue"	0.0	0.0	1.0	1.0
+"Hypotension"	0.0	1.0	1.0	1.0
+"Melena"	0.0	1.0	0.0	0.0
+"Elevated serum acid phosphatase"	0.0	1.0	1.0	1.0
+"Small intestine carcinoid"	0.0	0.0	1.0	1.0
+"Hepatic failure"	0.0	1.0	1.0	1.0
+"Right ventricular failure"	0.0	1.0	1.0	1.0
+"Hematemesis"	0.0	1.0	0.0	0.0
+"Paraganglioma"	0.0	1.0	0.0	0.0
+"Increased circulating ACTH level"	0.0	1.0	0.0	0.0
+"Increased serum serotonin"	0.0	0.0	1.0	1.0
+"Intrahepatic cholestasis with episodic jaundice"	0.0	1.0	0.0	0.0
+"Lymphadenopathy"	0.0	1.0	1.0	1.0
+"Episodic vomiting"	0.0	1.0	1.0	1.0
+"Intermittent diarrhea"	0.0	1.0	1.0	1.0
+"Episodic abdominal pain"	0.0	1.0	1.0	1.0
+"Functional intestinal obstruction"	0.0	1.0	1.0	1.0
+"Arterial occlusion"	0.0	0.0	1.0	1.0
+"Dermatological manifestations of systemic disorders"	0.0	1.0	1.0	1.0
+"Abnormality of the bronchi"	0.0	1.0	1.0	1.0
+"Extrahepatic cholestasis"	0.0	1.0	1.0	1.0
+"Cardiogenic shock"	0.0	1.0	1.0	1.0
+"Intestinal fistula"	0.0	1.0	1.0	1.0
+"Abnormal bowel sounds"	0.0	0.0	1.0	1.0

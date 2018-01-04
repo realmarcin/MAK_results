@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Bowing of the legs"
+"3" "Abnormality of tibia morphology"
+"4" "Tibial torsion"

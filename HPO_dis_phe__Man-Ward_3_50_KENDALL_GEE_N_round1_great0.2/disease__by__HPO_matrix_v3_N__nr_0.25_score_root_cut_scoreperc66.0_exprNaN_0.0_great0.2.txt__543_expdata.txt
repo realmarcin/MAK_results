@@ -1,0 +1,18 @@
+	"OMIM:300087"	"Gestational trophoblastic neoplasm"	"Orphanet:98880"	"Invasive Hydatidiform Mole"	"Orphanet:99927"	"Orphanet:99928"
+"Infertility"	0.0	0.0	0.0	0.0	0.0	0.0
+"Cerebral hemorrhage"	0.0	0.0	1.0	0.0	0.0	0.0
+"Amenorrhea"	0.0	0.0	0.0	0.0	0.0	1.0
+"Anemia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Joint swelling"	0.0	0.0	1.0	0.0	0.0	0.0
+"Gingival bleeding"	0.0	0.0	1.0	0.0	0.0	0.0
+"Epistaxis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the lymph nodes"	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of chromosome segregation"	0.0	0.0	0.0	0.0	0.0	0.0
+"Spontaneous abortion"	1.0	1.0	1.0	0.0	1.0	1.0
+"Hyperthyroidism"	0.0	0.0	0.0	0.0	1.0	0.0
+"Preeclampsia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Nausea and vomiting"	0.0	0.0	0.0	0.0	1.0	0.0
+"Metrorrhagia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Menometrorrhagia"	0.0	1.0	1.0	1.0	1.0	0.0
+"Enlarged uterus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Low maternal serum chorionic gonadotropin"	0.0	0.0	0.0	0.0	0.0	1.0

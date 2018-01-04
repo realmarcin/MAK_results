@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the eye"
+"2" "HP:0000006"
+"3" "Abnormality of the hair"
+"4" "HP:0040150"

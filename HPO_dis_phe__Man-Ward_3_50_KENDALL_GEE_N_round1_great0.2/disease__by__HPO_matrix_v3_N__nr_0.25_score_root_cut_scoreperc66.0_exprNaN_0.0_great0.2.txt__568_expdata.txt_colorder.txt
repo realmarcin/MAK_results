@@ -1,0 +1,5 @@
+"x"
+"1" "Epistaxis"
+"2" "Short nose"
+"3" "Short distal phalanx of finger"
+"4" "Epiphyseal stippling"

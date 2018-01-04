@@ -1,0 +1,11 @@
+	"Microcephalic Osteodysplastic Primordial Dwarfism, Type 1"	"Martsolf syndrome"	"Cranioectodermal Dysplasia 1"	"Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects"	"Larsen-Like Syndrome, Lethal Type"
+"Enlarged metaphyses"	1.0	0.0	0.0	1.0	0.0
+"Cleft vertebral arch"	1.0	0.0	0.0	0.0	0.0
+"Absent knee epiphyses"	1.0	0.0	0.0	0.0	0.0
+"Slender ulna"	0.0	1.0	0.0	0.0	0.0
+"Prominent antitragus"	0.0	1.0	0.0	1.0	0.0
+"Broad fingertip"	0.0	1.0	0.0	0.0	0.0
+"Broad distal phalanges of all fingers"	0.0	0.0	1.0	1.0	0.0
+"Bilateral elbow dislocations"	0.0	0.0	0.0	1.0	0.0
+"Metacarpophalangeal joint hyperextensibility"	0.0	0.0	0.0	1.0	0.0
+"Multiple joint dislocation"	0.0	0.0	0.0	1.0	1.0

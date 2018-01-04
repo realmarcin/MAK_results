@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Dentinogenesis imperfecta"
+"3" "Tinnitus"
+"4" "Adult onset sensorineural hearing impairment"
+"5" "Bilateral sensorineural hearing impairment"
+"6" "Shell teeth"
+"7" "High-frequency hearing impairment"

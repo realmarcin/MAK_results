@@ -1,0 +1,5 @@
+"x"
+"1" "Platyspondyly"
+"2" "Global developmental delay"
+"3" "Thin ribs"
+"4" "Hypoplasia of the pons"

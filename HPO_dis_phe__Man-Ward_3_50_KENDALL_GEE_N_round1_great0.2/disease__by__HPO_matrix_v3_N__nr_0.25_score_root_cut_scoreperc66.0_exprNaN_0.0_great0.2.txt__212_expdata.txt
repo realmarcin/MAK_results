@@ -1,0 +1,13 @@
+	"Classic homocystinuria"	"Homocysteinemia due to MTHFR deficiency"	"Homocystinuria-Megaloblastic anemia due to defect in cobalamin metabolism, cblE complementation type"	"Mitochondrial Dna Depletion Syndrome 9 (Encephalomyopathic Type With Methylmalonic Aciduria)"	"Homocystinuria-Megaloblastic Anemia, Cblg Complementation Type"	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"methylmalonic acidemia cb1A type"	"Methylmalonic Aciduria, Cblb Type"	"Methylmalonyl-CoA epimerase deficiency"	"transcobalamin II deficiency"	"METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, cblF TYPE"	"Methylmalonic acidemia with homocystinuria"	"Methylmalonic Aciduria and Homocystinuria, Cbld Type"	"Methylmalonic Acidemia and Homocysteinemia, Cblx Type"	"Mitochondrial Dna Depletion Syndrome 5 (Encephalomyopathic With or Without Methylmalonic Aciduria)"	"methylmalonic acidemia due to transcobalamin receptor defect"	"Combined malonic and methylmalonic acidemia"	"Methylmalonic acidemia with homocystinuria, type cblJ"	"Orphanet:1159"	"Orphanet:1933"	"Orphanet:2169"	"Orphanet:859"
+"Megaloblastic anemia"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cystathioninuria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Homocystinuria"	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperhomocystinemia"	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Decreased methylcobalamin"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Decreased methionine synthase activity"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypomethioninemia"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Methylmalonic aciduria"	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0
+"Methylmalonic acidemia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+"Decreased adenosylcobalamin"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Decreased methylmalonyl-CoA mutase activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Cystathioninemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

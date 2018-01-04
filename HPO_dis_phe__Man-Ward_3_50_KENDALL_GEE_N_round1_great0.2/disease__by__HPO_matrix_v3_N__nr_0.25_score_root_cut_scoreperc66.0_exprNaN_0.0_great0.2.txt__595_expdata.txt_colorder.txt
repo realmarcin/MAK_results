@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Coarse facial features"
+"3" "Broad palm"
+"4" "Short palm"
+"5" "Thick lower lip vermilion"
+"6" "Broad distal phalanx of finger"
+"7" "Facial edema"

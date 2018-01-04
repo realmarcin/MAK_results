@@ -1,0 +1,6 @@
+"x"
+"1" "Acrocapitofemoral.Dysplasia"
+"2" "Spondyloepimetaphyseal.Dysplas"
+"3" "Spondyloepimetaphyseal.dysplas"
+"4" "Even.Plus.Syndrome"
+"5" "Rapid.onset.childhood.obesity."

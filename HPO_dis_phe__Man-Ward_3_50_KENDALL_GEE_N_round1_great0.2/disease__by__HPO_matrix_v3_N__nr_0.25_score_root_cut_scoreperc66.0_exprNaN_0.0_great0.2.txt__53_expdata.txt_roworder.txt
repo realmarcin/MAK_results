@@ -1,0 +1,7 @@
+"x"
+"1" "Bruton.type.agammaglobulinemia"
+"2" "Isolated.Growth.Hormone.Defici"
+"3" "Behcet.s.syndrome"
+"4" "Immunodeficiency.with.hyper.Ig"
+"5" "Bullous.impetigo"
+"6" "Orphanet.56"

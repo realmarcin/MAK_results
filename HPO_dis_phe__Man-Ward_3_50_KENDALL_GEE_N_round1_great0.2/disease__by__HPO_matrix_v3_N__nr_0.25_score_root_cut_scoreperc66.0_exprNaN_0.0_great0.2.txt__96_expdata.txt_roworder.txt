@@ -1,0 +1,5 @@
+"x"
+"1" "Glomerulocystic.kidney.disease"
+"2" "Lactic.Acidosis..Chronic.Adult"
+"3" "Uric.Acid.Concentration..Serum"
+"4" "OMIM.191540"
