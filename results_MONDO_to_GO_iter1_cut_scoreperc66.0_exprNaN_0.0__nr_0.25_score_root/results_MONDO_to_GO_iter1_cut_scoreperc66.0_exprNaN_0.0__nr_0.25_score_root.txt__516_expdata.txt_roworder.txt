@@ -1,0 +1,6 @@
+"x"
+"1" "autosomal.dominant.pseudohypoaldosteronism.type.1"
+"2" "Pseudohyperaldosteronism.type.2"
+"3" "PPARG.related.familial.partial.lipodystrophy"
+"4" "dilated.cardiomyopathy.2B"
+"5" "cholestasis..progressive.familial.intrahepatic..5..PFIC5"

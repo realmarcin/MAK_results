@@ -1,0 +1,8 @@
+	combined immunodeficiency with skin granulomas	"severe combined immunodeficiency, autosomal recessive, T cell-negative, b cell-negative, Nk cell-positive"	Omenn syndrome	Moyamoya disease 2	combined immunodeficiency due to partial RAG1 deficiency	myoclonic dystonia 26
+identical protein binding	1.0	1.0	1.0	0.0	1.0	1.0
+protein complex binding	0.0	0.0	0.0	0.0	0.0	1.0
+protein homooligomerization	0.0	0.0	0.0	1.0	0.0	1.0
+protein autoubiquitination	1.0	1.0	1.0	1.0	1.0	0.0
+positive regulation of cilium assembly	0.0	0.0	0.0	0.0	0.0	1.0
+endoplasmic reticulum calcium ion homeostasis	0.0	0.0	0.0	0.0	0.0	1.0
+cullin family protein binding	0.0	0.0	0.0	0.0	0.0	1.0

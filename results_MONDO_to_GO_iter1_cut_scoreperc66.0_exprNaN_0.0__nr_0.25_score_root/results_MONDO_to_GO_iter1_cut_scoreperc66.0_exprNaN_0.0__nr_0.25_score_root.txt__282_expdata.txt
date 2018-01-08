@@ -1,0 +1,9 @@
+	"prostate cancer, hereditary, 1"	microcephalic primordial dwarfism due to ZNF335 deficiency	cerebellar-facial-dental syndrome	Okur-Chung neurodevelopmental syndrome; OCNDS	"mental retardation, autosomal recessive 56; MRT56"
+regulation of mRNA stability	1.0	0.0	1.0	0.0	1.0
+negative regulation of protein homodimerization activity	0.0	0.0	1.0	0.0	0.0
+DNA-templated transcriptional preinitiation complex assembly	0.0	0.0	1.0	0.0	0.0
+TFIIIB-type transcription factor activity	0.0	0.0	1.0	0.0	0.0
+regulation of transcription from RNA polymerase III promoter	0.0	0.0	1.0	1.0	0.0
+transposon integration	0.0	0.0	1.0	0.0	0.0
+RNA polymerase III core binding	0.0	0.0	1.0	0.0	0.0
+DNA-templated transcriptional open complex formation	0.0	0.0	1.0	0.0	0.0

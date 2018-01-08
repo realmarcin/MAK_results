@@ -1,0 +1,6 @@
+"x"
+"1" "retinitis.pigmentosa.10"
+"2" "myopathy.with.abnormal.lipid.metabolism"
+"3" "Leber.congenital.amaurosis.11"
+"4" "pyruvate.carboxylase.deficiency.disease"
+"5" "X3.Methylcrotonyl.Coa.carboxylase.2.deficiency"

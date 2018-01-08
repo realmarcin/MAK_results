@@ -1,0 +1,12 @@
+	mitochondrial myopathy with lactic acidosis	PLIN1-related familial partial lipodystrophy	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Adams-Oliver syndrome 4	polyglucosan body myopathy 1 with or without immunodeficiency
+cell death	1.0	0.0	0.0	0.0	0.0
+arachidonic acid secretion	1.0	0.0	0.0	0.0	0.0
+lysophospholipase activity	1.0	0.0	0.0	0.0	0.0
+peroxisome	1.0	0.0	0.0	0.0	0.0
+linoleic acid metabolic process	1.0	0.0	0.0	0.0	0.0
+prostaglandin biosynthetic process	1.0	0.0	0.0	0.0	0.0
+calcium-independent phospholipase A2 activity	1.0	0.0	0.0	0.0	0.0
+peroxisomal membrane	1.0	0.0	0.0	0.0	0.0
+phosphatidylcholine catabolic process	1.0	0.0	0.0	0.0	0.0
+arachidonic acid metabolic process	1.0	0.0	0.0	0.0	0.0
+phosphatidylethanolamine catabolic process	1.0	0.0	0.0	0.0	0.0

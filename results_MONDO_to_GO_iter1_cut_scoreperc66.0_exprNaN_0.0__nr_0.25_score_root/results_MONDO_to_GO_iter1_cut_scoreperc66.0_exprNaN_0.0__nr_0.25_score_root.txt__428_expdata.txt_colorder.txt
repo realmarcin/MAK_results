@@ -1,0 +1,5 @@
+"x"
+"1" "negative regulation of signal transduction"
+"2" "mitogen-activated protein kinase kinase binding"
+"3" "MAP kinase kinase kinase activity"
+"4" "signal transducer activity, downstream of receptor"

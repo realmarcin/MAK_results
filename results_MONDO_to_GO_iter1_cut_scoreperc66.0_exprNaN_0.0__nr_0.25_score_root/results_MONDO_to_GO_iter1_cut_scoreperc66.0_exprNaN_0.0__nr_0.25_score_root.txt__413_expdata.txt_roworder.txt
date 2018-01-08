@@ -1,0 +1,7 @@
+"x"
+"1" "congenital.central.hypoventilation.syndrome"
+"2" "Hirschsprung.disease.ganglioneuroblastoma.syndrome"
+"3" "fibrosis.of.extraocular.muscles..congenital..2"
+"4" "epilepsy..progressive.myoclonic..1B"
+"5" "hypogonadotropic.hypogonadism.16.with.or.without.anosmia"
+"6" "mental.retardation..autosomal.dominant.27"

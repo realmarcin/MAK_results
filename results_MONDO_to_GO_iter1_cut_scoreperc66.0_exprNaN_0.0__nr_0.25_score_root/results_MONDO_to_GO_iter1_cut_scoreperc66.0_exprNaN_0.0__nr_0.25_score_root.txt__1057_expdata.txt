@@ -1,0 +1,16 @@
+	epidermolytic hyperkeratosis	epidermolytic palmoplantar keratoderma	ichthyosis hystrix of Curth-Macklin	"palmoplantar keratoderma, nonepidermolytic"	annular epidermolytic ichthyosis	keratosis palmoplantaris striata 3
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+fin regeneration	1.0	1.0	1.0	1.0	1.0	1.0
+biological_process	1.0	1.0	1.0	1.0	1.0	1.0
+nucleoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+basal part of cell	0.0	0.0	0.0	0.0	0.0	0.0
+intermediate filament	1.0	1.0	1.0	1.0	1.0	1.0
+intermediate filament bundle assembly	0.0	0.0	0.0	0.0	0.0	0.0
+structural molecule activity	1.0	1.0	1.0	1.0	1.0	1.0
+hair cycle	0.0	0.0	0.0	0.0	0.0	0.0
+"complement activation, lectin pathway"	1.0	1.0	1.0	1.0	1.0	1.0
+cornified envelope	1.0	1.0	1.0	1.0	1.0	1.0
+keratin filament	1.0	1.0	1.0	1.0	1.0	1.0
+nuclear matrix	1.0	1.0	1.0	1.0	1.0	1.0
+structural constituent of epidermis	1.0	1.0	1.0	1.0	1.0	1.0
+keratin filament binding	0.0	0.0	0.0	0.0	0.0	0.0

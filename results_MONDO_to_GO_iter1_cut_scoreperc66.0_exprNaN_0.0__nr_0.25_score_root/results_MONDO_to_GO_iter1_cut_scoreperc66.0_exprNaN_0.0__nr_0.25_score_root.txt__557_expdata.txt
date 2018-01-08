@@ -1,0 +1,9 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	hereditary spastic paraplegia 48	autosomal dominant aplasia and myelodysplasia	"nephrotic syndrome, type 11; NPHS11"
+nucleus	0.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0	0.0
+cellular response to DNA damage stimulus	0.0	1.0	1.0	0.0	1.0
+protein transport	0.0	0.0	1.0	0.0	1.0
+DNA repair	0.0	0.0	1.0	0.0	0.0
+double-strand break repair via homologous recombination	0.0	0.0	1.0	0.0	0.0
+nuclear speck	0.0	1.0	1.0	0.0	0.0
+AP-5 adaptor complex	0.0	0.0	1.0	0.0	0.0

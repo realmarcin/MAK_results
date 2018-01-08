@@ -1,0 +1,5 @@
+"x"
+"1" "hereditary.motor.and.sensory.neuropathy..Okinawa.type"
+"2" "hereditary.spastic.paraplegia.57"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

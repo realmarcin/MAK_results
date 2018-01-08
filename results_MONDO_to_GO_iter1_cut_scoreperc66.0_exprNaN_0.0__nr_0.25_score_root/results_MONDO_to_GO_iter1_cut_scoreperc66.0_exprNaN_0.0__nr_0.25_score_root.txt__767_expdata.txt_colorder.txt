@@ -1,0 +1,8 @@
+"x"
+"1" "ATP binding"
+"2" "plasma membrane"
+"3" "membrane"
+"4" "zinc ion binding"
+"5" "protein homooligomerization"
+"6" "intracellular"
+"7" "ion channel activity"

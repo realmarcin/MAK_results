@@ -1,0 +1,5 @@
+"x"
+"1" "immunodeficiency.50..IMD50"
+"2" "Finnish.type.amyloidosis"
+"3" "hypogonadotropic.hypogonadism.17.with.or.without.anosmia"
+"4" "Acth.Independent.macronodular.adrenal.hyperplasia.2"

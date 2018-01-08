@@ -1,0 +1,7 @@
+"x"
+"1" "hypogonadotropic.hypogonadism.24.without.anosmia"
+"2" "hypogonadotropic.hypogonadism.23.with.or.without.anosmia"
+"3" "isolated.thyroid.stimulating.hormone.deficiency"
+"4" "transcobalamin.II.deficiency"
+"5" "osteogenesis.imperfecta.type.7"
+"6" "hypogonadotropic.hypogonadism.10.with.or.without.anosmia"

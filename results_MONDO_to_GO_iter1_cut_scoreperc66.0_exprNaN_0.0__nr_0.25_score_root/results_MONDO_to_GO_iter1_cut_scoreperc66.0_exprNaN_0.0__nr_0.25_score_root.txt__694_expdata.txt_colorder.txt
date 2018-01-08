@@ -1,0 +1,8 @@
+"x"
+"1" "phosphatase activity"
+"2" "dephosphorylation"
+"3" "developmental process involved in reproduction"
+"4" "protein tyrosine phosphatase activity"
+"5" "protein dephosphorylation"
+"6" "peptidyl-tyrosine dephosphorylation"
+"7" "phosphoprotein phosphatase activity"

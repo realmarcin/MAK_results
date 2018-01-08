@@ -1,0 +1,4 @@
+"x"
+"1" "mitochondrial respiratory chain complex assembly"
+"2" "mitochondrial promoter sequence-specific DNA binding"
+"3" "transcription initiation from mitochondrial promoter"

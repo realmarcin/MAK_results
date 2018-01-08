@@ -1,0 +1,18 @@
+	tuberous sclerosis 1	lymphangioleiomyomatosis	"46,Xy sex reversal 6"	cardiofaciocutaneous syndrome 3	cardiofaciocutaneous syndrome 4
+phosphorylation	0.0	0.0	0.0	1.0	1.0
+kinase activity	0.0	0.0	0.0	1.0	1.0
+transferase activity	0.0	0.0	0.0	1.0	1.0
+response to antibiotic	0.0	0.0	0.0	1.0	1.0
+microtubule	0.0	0.0	0.0	1.0	1.0
+protein serine/threonine kinase activity	0.0	0.0	0.0	1.0	1.0
+actin filament organization	0.0	0.0	0.0	1.0	1.0
+osmosensory signaling pathway	0.0	0.0	0.0	1.0	1.0
+cytoplasmic stress granule	0.0	0.0	0.0	1.0	1.0
+MAP-kinase scaffold activity	0.0	0.0	0.0	1.0	1.0
+"regulation of transposition, RNA-mediated"	0.0	0.0	0.0	1.0	1.0
+activation of MAPK activity involved in conjugation with cellular fusion	0.0	0.0	0.0	1.0	1.0
+activation of MAPK activity involved in osmosensory signaling pathway	0.0	0.0	0.0	1.0	1.0
+hyperosmotic response	0.0	0.0	0.0	1.0	1.0
+MAPK cascade involved in cell wall organization or biogenesis	0.0	0.0	0.0	1.0	1.0
+MAPK import into nucleus involved in osmosensory signaling pathway	0.0	0.0	0.0	1.0	1.0
+MAPK cascade involved in conjugation with cellular fusion	0.0	0.0	0.0	1.0	1.0

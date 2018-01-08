@@ -1,0 +1,7 @@
+"x"
+"1" "bilateral.striopallidodentate.calcinosis"
+"2" "familial.meningioma"
+"3" "dermatofibrosarcoma.protuberans"
+"4" "basal.ganglia.calcification..idiopathic..5"
+"5" "platelet.type.bleeding.disorder.9"
+"6" "palmoplantar.keratoderma..Nagashima.type"

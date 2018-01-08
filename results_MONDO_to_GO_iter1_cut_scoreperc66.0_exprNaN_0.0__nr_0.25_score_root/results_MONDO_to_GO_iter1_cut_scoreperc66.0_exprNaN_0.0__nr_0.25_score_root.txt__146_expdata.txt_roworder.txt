@@ -1,0 +1,6 @@
+"x"
+"1" "microcephaly.6..primary..autosomal.recessive"
+"2" "Seckel.syndrome.4"
+"3" "retinitis.pigmentosa.1"
+"4" "microcephaly.7..primary..autosomal.recessive"
+"5" "orofaciodigital.syndrome.type.14"

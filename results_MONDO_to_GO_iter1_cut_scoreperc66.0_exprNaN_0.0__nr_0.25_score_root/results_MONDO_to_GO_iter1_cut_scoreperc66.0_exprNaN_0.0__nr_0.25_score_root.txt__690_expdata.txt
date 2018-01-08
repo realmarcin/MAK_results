@@ -1,0 +1,6 @@
+	prune belly syndome	primary failure of tooth eruption	"metaphyseal chondrodysplasia, Jansen type"	myoclonic dystonia 11	chondrodysplasia blomstrand type	Eiken syndrome	isolated growth hormone deficiency type ib
+signal transducer activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+adenylate cyclase-activating G-protein coupled receptor signaling pathway	0.0	1.0	1.0	0.0	1.0	1.0	1.0

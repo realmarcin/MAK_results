@@ -1,0 +1,9 @@
+	hypogonadotropic hypogonadism 23 with or without anosmia	hypogonadotropic hypogonadism 24 without anosmia	isolated thyroid-stimulating hormone deficiency	transcobalamin II deficiency	osteogenesis imperfecta type 7	hypogonadotropic hypogonadism 10 with or without anosmia
+regulation of osteoclast differentiation	0.0	1.0	0.0	0.0	0.0	0.0
+extracellular space	1.0	1.0	1.0	1.0	1.0	0.0
+extracellular region	1.0	1.0	1.0	1.0	1.0	1.0
+ovarian follicle development	0.0	1.0	0.0	0.0	0.0	0.0
+Sertoli cell proliferation	0.0	1.0	0.0	0.0	0.0	0.0
+follicle-stimulating hormone signaling pathway	0.0	1.0	0.0	0.0	0.0	0.0
+positive regulation of bone resorption	0.0	1.0	0.0	0.0	0.0	0.0
+follicle-stimulating hormone activity	0.0	1.0	0.0	0.0	0.0	0.0

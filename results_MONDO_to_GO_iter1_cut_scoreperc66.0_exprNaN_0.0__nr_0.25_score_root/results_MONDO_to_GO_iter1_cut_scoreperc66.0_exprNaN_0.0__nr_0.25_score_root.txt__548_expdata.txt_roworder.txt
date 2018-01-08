@@ -1,0 +1,7 @@
+"x"
+"1" "cone.rod.dystrophy.13"
+"2" "Leber.congenital.amaurosis.6"
+"3" "retinitis.pigmentosa.1"
+"4" "Usher.syndrome.type.3A"
+"5" "occult.macular.dystrophy"
+"6" "retinitis.pigmentosa.61"

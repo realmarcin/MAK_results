@@ -1,0 +1,10 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	Ritscher-Schinzel syndrome 2	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia
+cellular copper ion homeostasis	0.0	1.0	0.0	0.0
+protein transport	0.0	1.0	0.0	0.0
+Golgi to plasma membrane transport	0.0	1.0	0.0	0.0
+negative regulation of I-kappaB kinase/NF-kappaB signaling	0.0	1.0	0.0	0.0
+positive regulation of I-kappaB kinase/NF-kappaB signaling	0.0	1.0	0.0	0.0
+regulation of plasma lipoprotein particle levels	0.0	1.0	0.0	0.0
+positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	0.0	1.0	0.0	0.0
+cytoplasmic sequestering of NF-kappaB	0.0	1.0	0.0	0.0
+cullin family protein binding	0.0	1.0	0.0	0.0

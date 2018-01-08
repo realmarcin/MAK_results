@@ -1,0 +1,7 @@
+"x"
+"1" "cAMP catabolic process"
+"2" "regulation of protein kinase A signaling"
+"3" "cGMP catabolic process"
+"4" "cGMP-stimulated cyclic-nucleotide phosphodiesterase activity"
+"5" "cyclic-nucleotide phosphodiesterase activity"
+"6" "regulation of cAMP-mediated signaling"

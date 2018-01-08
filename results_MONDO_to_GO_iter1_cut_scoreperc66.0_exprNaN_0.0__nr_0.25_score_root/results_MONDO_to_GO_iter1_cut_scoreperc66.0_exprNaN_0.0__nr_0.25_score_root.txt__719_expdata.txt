@@ -1,0 +1,9 @@
+	"anemia, congenital dyserythropoietic, type Ia"	Bartter disease type 5	hypomyelinating leukodystrophy 5	three M syndrome 3	"microcephalic primordial dwarfism, Alazami type"	orofaciodigital syndrome XV
+negative regulation of transcription from RNA polymerase II promoter	0.0	0.0	0.0	0.0	1.0	0.0
+molecular_function	1.0	1.0	1.0	1.0	1.0	1.0
+cardiac muscle tissue regeneration	0.0	0.0	0.0	0.0	1.0	0.0
+RNA processing	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of G1/S transition of mitotic cell cycle	0.0	0.0	0.0	0.0	1.0	0.0
+regulation of cardiac muscle cell proliferation	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of chromatin binding	0.0	0.0	0.0	0.0	1.0	0.0
+germ cell proliferation	0.0	0.0	0.0	0.0	1.0	0.0

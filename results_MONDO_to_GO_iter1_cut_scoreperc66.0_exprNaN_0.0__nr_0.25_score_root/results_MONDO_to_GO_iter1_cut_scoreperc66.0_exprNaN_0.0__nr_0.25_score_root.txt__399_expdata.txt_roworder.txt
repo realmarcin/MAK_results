@@ -1,0 +1,6 @@
+"x"
+"1" "Borjeson.Forssman.Lehmann.syndrome"
+"2" "craniosynostosis.4"
+"3" "torsion.dystonia.6"
+"4" "Chitayat.syndrome..CHYTS"
+"5" "syndromic.X.linked.intellectual.disability.Claes.Jensen.type"

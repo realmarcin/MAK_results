@@ -1,0 +1,10 @@
+	progressive pseudorheumatoid arthropathy of childhood	Keutel syndrome	Diaphanospondylodysostosis	familial retinal arterial macroaneurysm
+protein binding	1.0	0.0	1.0	1.0
+cell-cell signaling	1.0	0.0	0.0	0.0
+dorsal/ventral pattern formation	1.0	0.0	1.0	0.0
+proteinaceous extracellular matrix	1.0	0.0	1.0	0.0
+extracellular region	1.0	1.0	1.0	1.0
+BMP signaling pathway	1.0	0.0	0.0	0.0
+negative regulation of cell death	1.0	0.0	0.0	0.0
+negative regulation of Wnt signaling pathway	1.0	0.0	0.0	0.0
+negative regulation of BMP signaling pathway	1.0	0.0	1.0	0.0

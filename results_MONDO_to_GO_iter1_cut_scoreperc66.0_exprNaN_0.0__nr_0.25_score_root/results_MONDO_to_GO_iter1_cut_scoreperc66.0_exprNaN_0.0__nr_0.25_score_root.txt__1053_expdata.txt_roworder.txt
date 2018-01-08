@@ -1,0 +1,7 @@
+"x"
+"1" "parietal.foramina.2"
+"2" "frontonasal.dysplasia.with.alopecia.and.genital.anomaly"
+"3" "craniosynostosis.5..susceptibility.to"
+"4" "craniofacial.deafness.hand.syndrome"
+"5" "Waardenburg.syndrome.type.3"
+"6" "Waardenburg.syndrome.type.1"

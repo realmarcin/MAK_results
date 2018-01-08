@@ -1,0 +1,8 @@
+	thrombophilia due to activated protein C resistance	congenital factor V deficiency	aceruloplasminemia	"pregnancy loss, recurrent, susceptibility to, 1"
+hindlimb morphogenesis	0.0	0.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0
+response to bacterium	1.0	1.0	0.0	1.0
+cellular iron ion homeostasis	1.0	1.0	1.0	1.0
+copper ion binding	1.0	1.0	1.0	1.0
+ferroxidase activity	1.0	1.0	1.0	1.0
+copper ion transport	1.0	1.0	1.0	1.0

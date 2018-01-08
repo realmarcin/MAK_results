@@ -1,0 +1,8 @@
+	"cutis laxa, autosomal dominant 1"	supravalvular aortic stenosis (disease)	Williams syndrome	autosomal dominant nonsyndromic deafness 12	autosomal recessive nonsyndromic deafness 21
+protein binding	1.0	1.0	1.0	1.0	1.0
+proteinaceous extracellular matrix	1.0	1.0	1.0	1.0	1.0
+extracellular matrix structural constituent	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0
+transcription corepressor activity	0.0	0.0	0.0	0.0	0.0
+elastic fiber	1.0	1.0	1.0	0.0	0.0

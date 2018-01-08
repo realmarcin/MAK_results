@@ -1,0 +1,5 @@
+"x"
+"1" "mitochondrial.DNA.depletion.syndrome.15..hepatocerebral.type.."
+"2" "CODAS.syndrome"
+"3" "combined.oxidative.phosphorylation.defect.type.8"
+"4" "leukoencephalopathy..progressive..with.ovarian.failure"

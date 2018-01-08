@@ -1,0 +1,15 @@
+	microcytic anemia with liver iron overload	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome	hereditary spastic paraplegia 75	"spastic paraplegia, intellectual disability, nystagmus, and obesity;"
+negative regulation of neuron differentiation	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of neuron projection development	0.0	0.0	0.0	0.0	1.0	0.0
+myelin sheath	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of astrocyte differentiation	0.0	0.0	0.0	0.0	1.0	0.0
+carbohydrate binding	0.0	0.0	0.0	0.0	1.0	0.0
+cell-cell adhesion via plasma-membrane adhesion molecules	0.0	0.0	0.0	0.0	1.0	0.0
+compact myelin	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of axon extension	0.0	0.0	0.0	0.0	1.0	0.0
+mesaxon	0.0	0.0	0.0	0.0	1.0	0.0
+Schmidt-Lanterman incisure	0.0	0.0	0.0	0.0	1.0	0.0
+sialic acid binding	0.0	0.0	0.0	0.0	1.0	0.0
+myelin sheath adaxonal region	0.0	0.0	0.0	0.0	1.0	0.0
+paranode region of axon	0.0	0.0	0.0	0.0	1.0	0.0
+ganglioside GT1b binding	0.0	0.0	0.0	0.0	1.0	0.0

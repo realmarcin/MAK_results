@@ -1,0 +1,7 @@
+"x"
+"1" "DNA binding transcription factor activity"
+"2" "nucleus"
+"3" "sequence-specific DNA binding"
+"4" "primitive erythrocyte differentiation"
+"5" "tricarboxylic acid cycle"
+"6" "regulation of phospholipid catabolic process"

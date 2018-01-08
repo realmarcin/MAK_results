@@ -1,0 +1,6 @@
+	absence of fingerprints-congenital milia syndrome	isolated congenital adermatoglyphia	X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome	advanced sleep phase syndrome 1	childhood onset epileptic encephalopathy	"atrial fibrillation, familial, 15"
+heterochromatin assembly involved in chromatin silencing	1.0	1.0	0.0	0.0	0.0	1.0
+histone H3 deacetylation	1.0	1.0	0.0	1.0	0.0	0.0
+nucleosome positioning	1.0	1.0	0.0	0.0	1.0	1.0
+nuclear replication fork	1.0	1.0	0.0	0.0	0.0	0.0
+nucleosome mobilization	1.0	1.0	1.0	0.0	1.0	0.0

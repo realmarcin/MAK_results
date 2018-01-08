@@ -1,0 +1,6 @@
+	glaucoma 3A	GLC3B	Peters anomaly (disease)	"drug metabolism, poor, Cyp2D6-related"	"Efavirenz, poor metabolism of"	anterior segment dysgenesis 6; ASGD6
+xenobiotic metabolic process	1.0	1.0	1.0	0.0	1.0	1.0
+aromatase activity	1.0	1.0	1.0	1.0	1.0	1.0
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen"	1.0	1.0	1.0	1.0	1.0	1.0
+membrane lipid catabolic process	1.0	1.0	1.0	0.0	0.0	1.0
+arachidonic acid metabolic process	1.0	1.0	1.0	1.0	0.0	1.0

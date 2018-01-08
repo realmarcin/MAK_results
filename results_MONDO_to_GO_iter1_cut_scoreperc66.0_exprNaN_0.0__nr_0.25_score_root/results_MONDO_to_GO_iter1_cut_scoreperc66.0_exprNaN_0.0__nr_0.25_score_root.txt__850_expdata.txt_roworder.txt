@@ -1,0 +1,7 @@
+"x"
+"1" "Parkinson.disease..late.onset"
+"2" "hyperinsulinism.hyperammonemia.syndrome"
+"3" "succinic.semialdehyde.dehydrogenase.deficiency"
+"4" "neural.tube.defects..folate.Sensitive"
+"5" "dihydropyrimidine.dehydrogenase.deficiency"
+"6" "xanthinuria.type.I"

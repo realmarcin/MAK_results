@@ -1,0 +1,4 @@
+"x"
+"1" "negative regulation of ion transmembrane transport"
+"2" "ion transmembrane transporter activity"
+"3" "fructose transport"

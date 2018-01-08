@@ -1,0 +1,6 @@
+"x"
+"1" "bacteremia..susceptibility.to..2"
+"2" "congenital.stationary.night.blindness.1A"
+"3" "osteoarthritis.susceptibility.3"
+"4" "congenital.stromal.corneal.dystrophy"
+"5" "hypogonadotropic.hypogonadism.21.with.or.without.anosmia"

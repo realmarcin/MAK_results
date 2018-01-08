@@ -1,0 +1,5 @@
+"x"
+"1" "Pelizaeus.Merzbacher.disease"
+"2" "hereditary.spastic.paraplegia.2"
+"3" "leukocyte.adhesion.deficiency.1"
+"4" "amelogenesis.imperfecta.type.1H"

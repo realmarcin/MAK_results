@@ -1,0 +1,7 @@
+"x"
+"1" "mental.retardation..autosomal.recessive.53..MRT53"
+"2" "Morvan.syndrome"
+"3" "hyperphosphatasia.with.mental.retardation.syndrome.1"
+"4" "Smith.Lemli.Opitz.syndrome"
+"5" "DPM3.CDG"
+"6" "complex.lethal.osteochondrodysplasia"

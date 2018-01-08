@@ -1,0 +1,6 @@
+"x"
+"1" "actin filament severing"
+"2" "barbed-end actin filament capping"
+"3" "actin filament depolymerization"
+"4" "actin filament fragmentation"
+"5" "positive regulation of actin filament depolymerization"

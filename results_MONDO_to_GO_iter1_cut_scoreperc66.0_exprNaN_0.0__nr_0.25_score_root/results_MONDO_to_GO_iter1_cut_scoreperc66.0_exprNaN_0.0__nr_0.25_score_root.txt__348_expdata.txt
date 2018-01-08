@@ -1,0 +1,4 @@
+	brachydactyly type A1	KBG syndrome	tetraamelia-multiple malformations syndrome	syndromic X-linked intellectual disability Hedera type	X-linked parkinsonism-spasticity syndrome	Matthew-wood syndrome	acrocapitofemoral dysplasia	posterior column ataxia-retinitis pigmentosa syndrome	craniofacial dysplasia-osteopenia syndrome	lethal occipital encephalocele-skeletal dysplasia syndrome	neuronal ceroid lipofuscinosis 11
+negative regulation of T cell differentiation in thymus	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of immature T cell proliferation in thymus	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+head morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0

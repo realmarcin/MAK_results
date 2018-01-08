@@ -1,0 +1,5 @@
+"x"
+"1" "iridogoniodysgenesis"
+"2" "Axenfeld.Rieger.syndrome.type.3"
+"3" "Camptosynpolydactyly..complex"
+"4" "Mesoaxial.synostotic.syndactyly.with.phalangeal.reduction"

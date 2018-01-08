@@ -1,0 +1,8 @@
+"x"
+"1" "ATP binding"
+"2" "translation"
+"3" "ligase activity"
+"4" "tRNA aminoacylation for protein translation"
+"5" "aminoacyl-tRNA ligase activity"
+"6" "mitochondrial translation"
+"7" "mitochondrial small ribosomal subunit"

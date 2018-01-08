@@ -1,0 +1,7 @@
+"x"
+"1" "non.spherocytic.hemolytic.anemia.due.to.hexokinase.deficiency"
+"2" "Charcot.Marie.tooth.disease.type.4G"
+"3" "glycogen.storage.disease.VII"
+"4" "Nasu.Hakola.disease"
+"5" "hemochromatosis.type.2B"
+"6" "hemolytic.anemia.due.to.glucophosphate.isomerase.deficiency"

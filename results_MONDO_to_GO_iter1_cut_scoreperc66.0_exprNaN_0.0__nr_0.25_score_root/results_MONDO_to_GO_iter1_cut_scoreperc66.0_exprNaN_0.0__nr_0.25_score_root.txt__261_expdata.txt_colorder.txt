@@ -1,0 +1,6 @@
+"x"
+"1" "amyloid precursor protein metabolic process"
+"2" "sulfation"
+"3" "Golgi cisterna membrane"
+"4" "acetylgalactosaminyltransferase activity"
+"5" "UDP-N-acetylgalactosamine metabolic process"

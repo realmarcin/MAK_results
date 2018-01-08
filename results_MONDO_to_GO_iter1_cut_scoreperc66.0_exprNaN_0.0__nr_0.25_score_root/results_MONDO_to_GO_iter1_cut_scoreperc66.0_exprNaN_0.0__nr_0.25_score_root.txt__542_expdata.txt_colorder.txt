@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "regulation of transcription, DNA-templated"
+"3" "transcription, DNA-templated"
+"4" "DNA binding transcription factor activity"
+"5" "RNA polymerase II regulatory region sequence-specific DNA binding"
+"6" "positive regulation of transcription from RNA polymerase II promoter"
+"7" "intracellular"

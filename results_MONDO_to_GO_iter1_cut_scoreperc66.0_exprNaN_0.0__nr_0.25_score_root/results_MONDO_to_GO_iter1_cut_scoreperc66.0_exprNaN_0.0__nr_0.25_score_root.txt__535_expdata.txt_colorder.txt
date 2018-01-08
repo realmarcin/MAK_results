@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "cytoplasmic vesicle"
+"3" "perinuclear region of cytoplasm"
+"4" "metal ion binding"
+"5" "endosome"
+"6" "K63-linked polyubiquitin modification-dependent protein binding"
+"7" "vesicle-mediated transport"

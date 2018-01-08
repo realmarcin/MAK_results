@@ -1,0 +1,17 @@
+	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	X-linked retinoschisis	EAST syndrome
+oligodendrocyte development	0.0	0.0	0.0	1.0
+regulation of sensory perception of pain	0.0	0.0	0.0	1.0
+potassium ion homeostasis	0.0	0.0	0.0	1.0
+regulation of long-term neuronal synaptic plasticity	0.0	0.0	0.0	1.0
+locomotory behavior	0.0	0.0	0.0	1.0
+astrocyte projection	0.0	0.0	0.0	1.0
+microvillus	0.0	0.0	0.0	1.0
+swimming	0.0	0.0	0.0	1.0
+adult walking behavior	0.0	0.0	0.0	1.0
+potassium ion transmembrane transport	0.0	0.0	0.0	1.0
+larval locomotory behavior	0.0	0.0	0.0	1.0
+membrane hyperpolarization	0.0	0.0	0.0	1.0
+locomotion	0.0	0.0	0.0	1.0
+glutamate reuptake	0.0	0.0	0.0	1.0
+L-glutamate import	0.0	0.0	0.0	1.0
+regulation of resting membrane potential	0.0	0.0	0.0	1.0

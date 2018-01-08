@@ -1,0 +1,9 @@
+	syndromic X-linked intellectual disability 14	leukoencephalopathy with vanishing white matter	"mental retardation, autosomal recessive 2"	sudden infant death-dysgenesis of the testes syndrome	combined oxidative phosphorylation defect type 15
+embryonic pectoral fin morphogenesis	0.0	0.0	1.0	0.0	0.0
+otic vesicle morphogenesis	0.0	0.0	1.0	0.0	0.0
+negative regulation of protein homooligomerization	0.0	0.0	1.0	0.0	0.0
+Cul4A-RING E3 ubiquitin ligase complex	0.0	0.0	1.0	0.0	0.0
+limb development	0.0	0.0	1.0	0.0	0.0
+ubiquitin ligase complex	0.0	0.0	1.0	0.0	0.0
+negative regulation of ion transmembrane transport	0.0	0.0	1.0	0.0	0.0
+positive regulation of protein homodimerization activity	0.0	0.0	1.0	0.0	0.0

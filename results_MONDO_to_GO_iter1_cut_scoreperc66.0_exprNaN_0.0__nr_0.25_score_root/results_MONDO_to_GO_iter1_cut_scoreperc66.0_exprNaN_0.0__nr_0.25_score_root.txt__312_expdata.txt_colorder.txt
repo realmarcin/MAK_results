@@ -1,0 +1,7 @@
+"x"
+"1" "extrinsic component of external side of plasma membrane"
+"2" "negative regulation of cell-substrate adhesion"
+"3" "mononuclear cell migration"
+"4" "modification by host of symbiont morphology or physiology via secreted substance"
+"5" "interaction with symbiont via secreted substance involved in symbiotic interaction"
+"6" "positive regulation of fibrinolysis"

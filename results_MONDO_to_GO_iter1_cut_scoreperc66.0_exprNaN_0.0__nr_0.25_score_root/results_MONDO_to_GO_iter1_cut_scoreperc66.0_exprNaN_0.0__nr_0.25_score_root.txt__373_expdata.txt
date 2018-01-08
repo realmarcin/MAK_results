@@ -1,0 +1,9 @@
+	"mental retardation, X-linked 58"	hemochromatosis type 2A	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	autosomal recessive congenital ichthyosis 6	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+BMP signaling pathway	0.0	1.0	0.0	0.0	0.0
+notochord development	0.0	1.0	0.0	0.0	0.0
+somite development	0.0	1.0	0.0	0.0	0.0
+anchored component of plasma membrane	0.0	1.0	0.0	0.0	0.0
+coreceptor activity	0.0	1.0	0.0	0.0	0.0
+BMP receptor activity	0.0	1.0	0.0	0.0	0.0

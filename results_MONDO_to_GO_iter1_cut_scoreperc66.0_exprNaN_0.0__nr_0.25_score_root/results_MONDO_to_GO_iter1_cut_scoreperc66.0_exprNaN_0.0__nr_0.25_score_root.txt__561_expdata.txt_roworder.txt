@@ -1,0 +1,7 @@
+"x"
+"1" "mycobacterium.tuberculosis..susceptibility.to"
+"2" "idiopathic.aplastic.anemia"
+"3" "susceptibility.to.HIV.infection"
+"4" "hepatitis.c.virus..susceptibility.to"
+"5" "tuberous.sclerosis.2"
+"6" "psoriatic.arthritis"

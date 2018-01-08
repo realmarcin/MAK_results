@@ -1,0 +1,6 @@
+"x"
+"1" "NDE1.related.microhydranencephaly"
+"2" "lissencephaly.4"
+"3" "microcephaly.13..primary..autosomal.recessive"
+"4" "microcephaly.4..primary..autosomal.recessive"
+"5" "chronic.atrial.and.intestinal.dysrhythmia"

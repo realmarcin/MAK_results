@@ -1,0 +1,6 @@
+"x"
+"1" "collagen trimer"
+"2" "extracellular region"
+"3" "molecular_function"
+"4" "complement activation, classical pathway"
+"5" "protein homotrimerization"

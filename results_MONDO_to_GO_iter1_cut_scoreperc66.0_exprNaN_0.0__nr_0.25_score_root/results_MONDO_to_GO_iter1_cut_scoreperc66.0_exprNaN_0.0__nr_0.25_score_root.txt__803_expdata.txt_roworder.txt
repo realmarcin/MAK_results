@@ -1,0 +1,7 @@
+"x"
+"1" "mitochondrial.DNA.depletion.syndrome.1"
+"2" "sensory.ataxic.neuropathy.dysarthria.ophthalmoparesis.syndrome"
+"3" "Sanfilippo.syndrome.type.A"
+"4" "hereditary.motor.and.sensory.neuropathy..Okinawa.type"
+"5" "telangiectasia..hereditary.hemorrhagic..type.5"
+"6" "hereditary.spastic.paraplegia.57"

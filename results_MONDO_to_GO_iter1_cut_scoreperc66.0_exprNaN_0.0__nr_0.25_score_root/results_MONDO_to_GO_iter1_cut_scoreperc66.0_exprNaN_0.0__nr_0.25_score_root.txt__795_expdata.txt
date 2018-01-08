@@ -1,0 +1,8 @@
+	"hepatic adenomas, familial"	congenital bile acid synthesis defect 2	maturity-onset diabetes of the young type 3	familial hypercholanemia	type 1 diabetes mellitus 20
+protein binding	1.0	0.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	0.0	1.0	0.0	1.0
+"transcription, DNA-templated"	1.0	0.0	1.0	0.0	1.0
+transcription cofactor binding	1.0	0.0	1.0	0.0	1.0
+bile acid biosynthetic process	1.0	1.0	1.0	1.0	1.0

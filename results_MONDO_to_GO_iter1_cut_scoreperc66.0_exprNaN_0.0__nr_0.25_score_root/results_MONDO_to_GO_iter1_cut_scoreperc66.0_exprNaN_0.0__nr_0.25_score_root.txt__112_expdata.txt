@@ -1,0 +1,8 @@
+	thyroid dyshormonogenesis 6	holoprosencephaly 9	postaxial polydactyly-anterior pituitary anomalies-facial dysmorphism syndrome	craniosynostosis 6
+adenohypophysis morphogenesis	1.0	1.0	1.0	0.0
+spinal cord ventral commissure morphogenesis	0.0	1.0	1.0	0.0
+ventral midline development	0.0	1.0	1.0	0.0
+cell proliferation in hindbrain	0.0	1.0	1.0	1.0
+mammary gland duct morphogenesis	0.0	1.0	1.0	0.0
+cerebellar cortex morphogenesis	0.0	1.0	1.0	0.0
+tube development	0.0	1.0	1.0	0.0

@@ -1,0 +1,11 @@
+	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	autosomal recessive severe congenital neutropenia due to JAGN1 deficiency	congenital myasthenic syndrome 18
+membrane	1.0	1.0	1.0	1.0
+transport	1.0	0.0	1.0	1.0
+neutrophil mediated immunity	0.0	0.0	1.0	0.0
+protein transport	1.0	1.0	1.0	1.0
+defense response to fungus	0.0	0.0	1.0	0.0
+vesicle-mediated transport	0.0	0.0	1.0	0.0
+neutrophil differentiation	0.0	0.0	1.0	0.0
+neutrophil migration	0.0	0.0	1.0	0.0
+negative regulation of insulin secretion involved in cellular response to glucose stimulus	0.0	0.0	1.0	0.0
+granulocyte colony-stimulating factor signaling pathway	0.0	0.0	1.0	0.0

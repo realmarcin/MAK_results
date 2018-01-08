@@ -1,0 +1,12 @@
+	congenital myasthenic syndrome 10	amyotrophic lateral sclerosis type 15	bradyopsia	"cone-rod synaptic disorder, congenital nonprogressive"	Joubert syndrome 22
+cytoplasmic vesicle	0.0	1.0	0.0	0.0	1.0
+cytoplasm	0.0	1.0	1.0	1.0	1.0
+response to stimulus	0.0	0.0	1.0	0.0	1.0
+kidney development	0.0	0.0	0.0	0.0	1.0
+eye development	0.0	0.0	0.0	0.0	1.0
+visual perception	0.0	0.0	1.0	1.0	1.0
+"3',5'-cyclic-nucleotide phosphodiesterase activity"	0.0	0.0	0.0	0.0	1.0
+phototransduction	0.0	0.0	0.0	1.0	1.0
+"3',5'-cyclic-GMP phosphodiesterase activity"	0.0	0.0	0.0	0.0	1.0
+Rab GTPase binding	0.0	0.0	0.0	0.0	1.0
+GTPase inhibitor activity	0.0	0.0	0.0	0.0	1.0

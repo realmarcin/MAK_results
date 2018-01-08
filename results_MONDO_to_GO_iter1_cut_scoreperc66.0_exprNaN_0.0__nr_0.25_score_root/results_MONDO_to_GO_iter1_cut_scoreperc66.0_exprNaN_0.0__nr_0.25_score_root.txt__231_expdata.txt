@@ -1,0 +1,12 @@
+	Ehlers-Danlos syndrome due to tenascin-X deficiency	Steel syndrome	autosomal dominant nonsyndromic deafness 56	vesicoureteral reflux 8
+regulation of cell proliferation	1.0	0.0	1.0	1.0
+extracellular matrix	1.0	0.0	1.0	1.0
+axon guidance	1.0	0.0	1.0	1.0
+neural crest cell migration	1.0	0.0	1.0	1.0
+optic nerve development	1.0	0.0	1.0	1.0
+mesoderm development	1.0	0.0	1.0	1.0
+negative regulation of axon extension	1.0	0.0	1.0	1.0
+axonal fasciculation	1.0	0.0	1.0	1.0
+positive regulation of axon regeneration	1.0	0.0	1.0	1.0
+positive regulation of synaptic growth at neuromuscular junction	1.0	0.0	1.0	1.0
+axon regeneration at neuromuscular junction	1.0	0.0	1.0	1.0

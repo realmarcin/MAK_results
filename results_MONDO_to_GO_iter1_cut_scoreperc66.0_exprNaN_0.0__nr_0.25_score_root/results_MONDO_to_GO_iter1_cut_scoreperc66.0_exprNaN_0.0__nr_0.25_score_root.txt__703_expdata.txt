@@ -1,0 +1,14 @@
+	gamma-glutamylcysteine synthetase deficiency	Proteasome disability syndrome	"myocardial infarction, susceptibility to"	porphyria due to ALA dehydratase deficiency
+glutamate-cysteine ligase complex	1.0	0.0	1.0	0.0
+cysteine metabolic process	1.0	0.0	1.0	0.0
+L-ascorbic acid metabolic process	1.0	0.0	1.0	0.0
+glutamate-cysteine ligase activity	1.0	0.0	1.0	0.0
+response to nitrosative stress	1.0	0.0	1.0	0.0
+regulation of mitochondrial depolarization	1.0	0.0	1.0	0.0
+negative regulation of hepatic stellate cell activation	1.0	0.0	1.0	0.0
+proteasome core complex	0.0	1.0	1.0	1.0
+threonine-type endopeptidase activity	0.0	1.0	1.0	0.0
+spermatoproteasome complex	0.0	1.0	0.0	0.0
+proteasome storage granule	0.0	1.0	1.0	0.0
+proteasomal ubiquitin-independent protein catabolic process	0.0	1.0	1.0	0.0
+"proteasome core complex, beta-subunit complex"	0.0	1.0	0.0	0.0

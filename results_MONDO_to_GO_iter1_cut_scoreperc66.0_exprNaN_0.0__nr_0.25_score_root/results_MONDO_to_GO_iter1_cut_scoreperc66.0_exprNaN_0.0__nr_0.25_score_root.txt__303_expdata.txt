@@ -1,0 +1,9 @@
+	selective pituitary resistance to thyroid hormone	"thyroid hormone resistance, generalized, autosomal dominant"	"thyroid hormone resistance, generalized, autosomal recessive"	"cholestasis, progressive familial intrahepatic, 5; PFIC5"	Shashi-Pena syndrome; SHAPNS
+inner ear development	1.0	1.0	1.0	0.0	0.0
+nuclear chromatin	1.0	1.0	1.0	0.0	1.0
+thyroid hormone binding	1.0	1.0	1.0	0.0	0.0
+steroid hormone receptor activity	1.0	1.0	1.0	1.0	0.0
+"transcription factor activity, RNA polymerase II transcription factor binding"	1.0	1.0	1.0	0.0	0.0
+retinal cone cell development	1.0	1.0	1.0	0.0	0.0
+thyroid hormone receptor activity	1.0	1.0	1.0	1.0	0.0
+thyroid hormone mediated signaling pathway	1.0	1.0	1.0	0.0	0.0

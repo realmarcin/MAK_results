@@ -1,0 +1,7 @@
+	leukocyte adhesion deficiency 1	Pelizaeus-Merzbacher disease	hereditary spastic paraplegia 2	amelogenesis imperfecta type 1H
+plasma membrane	1.0	1.0	1.0	0.0
+integral component of membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+positive regulation of gene expression	0.0	1.0	1.0	0.0
+inflammatory response	1.0	1.0	1.0	1.0
+integrin-mediated signaling pathway	1.0	1.0	1.0	1.0

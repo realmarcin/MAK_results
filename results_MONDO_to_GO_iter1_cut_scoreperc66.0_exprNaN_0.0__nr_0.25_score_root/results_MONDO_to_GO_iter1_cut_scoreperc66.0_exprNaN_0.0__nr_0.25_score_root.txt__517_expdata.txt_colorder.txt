@@ -1,0 +1,7 @@
+"x"
+"1" "enzyme inhibitor activity"
+"2" "regulation of complement activation, classical pathway"
+"3" "cytokine production"
+"4" "regulation of chondrocyte differentiation"
+"5" "positive regulation of cell development"
+"6" "cytotoxic T cell differentiation"

@@ -1,0 +1,8 @@
+	myoclonic dystonia 11	oculocutaneous albinism type 2	oculocutaneous albinism type 3	neuronal ceroid lipofuscinosis 1	Lesch-Nyhan syndrome	hypoxanthine guanine phosphoribosyltransferase partial deficiency	oculocutaneous albinism type 4	"melanoma, cutaneous malignant, susceptibility to, 5"	adenine phosphoribosyltransferase deficiency
+negative regulation of hydrogen peroxide biosynthetic process	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+long-term memory	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+grooming behavior	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+melanin biosynthetic process	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+L-cystine transmembrane transporter activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of reactive oxygen species biosynthetic process	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+L-cystine transport	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

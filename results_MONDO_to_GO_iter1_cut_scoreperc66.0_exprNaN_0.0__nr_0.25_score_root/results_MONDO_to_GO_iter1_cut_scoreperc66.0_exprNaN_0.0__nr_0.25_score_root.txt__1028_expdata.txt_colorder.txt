@@ -1,0 +1,6 @@
+"x"
+"1" "mitochondrion"
+"2" "fatty acid metabolic process"
+"3" "lipid metabolic process"
+"4" "mitochondrial inner membrane"
+"5" "mitochondrial matrix"

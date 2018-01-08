@@ -1,0 +1,11 @@
+	xeroderma pigmentosum group F	Cerebrooculofacioskeletal syndrome 4	XFE progeroid syndrome	Fanconi anemia complementation group Q
+DNA repair	1.0	1.0	1.0	1.0
+single-stranded DNA binding	1.0	1.0	1.0	1.0
+double-strand break repair	0.0	0.0	0.0	0.0
+double-strand break repair via homologous recombination	1.0	0.0	1.0	1.0
+nucleotide-excision repair	0.0	0.0	0.0	0.0
+endodeoxyribonuclease activity	1.0	0.0	1.0	1.0
+nuclease activity	1.0	0.0	1.0	1.0
+resolution of meiotic recombination intermediates	1.0	0.0	1.0	1.0
+3' overhang single-stranded DNA endodeoxyribonuclease activity	1.0	1.0	1.0	1.0
+nucleotide-excision repair involved in interstrand cross-link repair	1.0	0.0	1.0	1.0

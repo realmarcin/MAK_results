@@ -1,0 +1,7 @@
+"x"
+"1" "extracellular space"
+"2" "hydrolase activity"
+"3" "protein maturation"
+"4" "proteolysis"
+"5" "N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity"
+"6" "protein deglycosylation"

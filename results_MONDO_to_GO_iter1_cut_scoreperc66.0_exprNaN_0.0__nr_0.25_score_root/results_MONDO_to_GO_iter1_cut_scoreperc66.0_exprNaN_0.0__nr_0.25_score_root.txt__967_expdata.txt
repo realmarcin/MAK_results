@@ -1,0 +1,7 @@
+	paroxysmal nocturnal hemoglobinuria 1	multiple congenital anomalies-hypotonia-seizures syndrome 2	hypercoagulability syndrome due to glycosylphosphatidylinositol deficiency	multiple congenital anomalies-hypotonia-seizures syndrome 1	hyperphosphatasia with mental retardation syndrome 3	hyperphosphatasia with mental retardation syndrome 2	multiple congenital anomalies-hypotonia-seizures syndrome 3	paroxysmal nocturnal hemoglobinuria 2	hyperphosphatasia with mental retardation syndrome 4	"mental retardation, autosomal recessive 42"	hyperphosphatasia with mental retardation syndrome 5	"epileptic encephalopathy, early infantile, 38; EIEE38"
+post-embryonic development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+integral component of endoplasmic reticulum membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+GPI anchor biosynthetic process	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+N-acetylglucosaminylphosphatidylinositol deacetylase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of triglyceride lipase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CP2 mannose-ethanolamine phosphotransferase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+	anophthalmia/microphthalmia-esophageal atresia syndrome	colobomatous optic disc-macular atrophy-chorioretinopathy syndrome	rhabdoid tumor predisposition syndrome 2	"mental retardation, autosomal dominant 16"	hypomyelinating leukodystrophy 12
+retinal pigment epithelium development	0.0	0.0	1.0	1.0	1.0
+"transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific DNA binding"	1.0	1.0	0.0	0.0	0.0
+neural retina development	1.0	1.0	1.0	1.0	1.0
+cell proliferation involved in compound eye morphogenesis	1.0	1.0	0.0	0.0	0.0

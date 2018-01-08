@@ -1,0 +1,13 @@
+	acrodysostosis 1 with or without hormone resistance	"Carney complex, type 1"	"thyroid cancer, nonmedullary, 1"	familial atrial myxoma	"Phosphoenolpyruvate carboxykinase deficiency, cytosolic"	"pigmented nodular adrenocortical disease, primary, 1"
+protein kinase activity	0.0	0.0	0.0	0.0	0.0	0.0
+phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+nucleotide binding	1.0	1.0	1.0	1.0	1.0	1.0
+protein autophosphorylation	0.0	0.0	0.0	0.0	0.0	0.0
+protein tyrosine kinase activity	0.0	0.0	0.0	0.0	0.0	0.0
+kinase activity	1.0	1.0	1.0	1.0	1.0	1.0
+peptidyl-tyrosine phosphorylation	0.0	0.0	0.0	0.0	0.0	0.0
+transmembrane receptor protein tyrosine kinase activity	0.0	0.0	0.0	0.0	0.0	0.0
+transferase activity	1.0	1.0	1.0	1.0	1.0	1.0
+protein phosphorylation	0.0	0.0	0.0	0.0	0.0	0.0
+protein serine/threonine kinase activity	0.0	0.0	0.0	0.0	0.0	0.0
+transmembrane receptor protein tyrosine kinase signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "palmitoyltransferase activity"
+"2" "protein palmitoylation"
+"3" "protein-cysteine S-palmitoyltransferase activity"
+"4" "intrinsic component of Golgi membrane"
+"5" "endoplasmic reticulum palmitoyltransferase complex"
+"6" "Ras palmitoyltransferase activity"
+"7" "palmitoyltransferase complex"

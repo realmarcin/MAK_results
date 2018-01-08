@@ -1,0 +1,8 @@
+"x"
+"1" "protein tyrosine phosphatase activity"
+"2" "protein dephosphorylation"
+"3" "phosphoprotein phosphatase activity"
+"4" "phosphatase activity"
+"5" "dephosphorylation"
+"6" "peptidyl-tyrosine dephosphorylation"
+"7" "regulation of fibroblast growth factor receptor signaling pathway"

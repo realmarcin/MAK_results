@@ -1,0 +1,7 @@
+"x"
+"1" "heme binding"
+"2" "neuronal cell body"
+"3" "oxidation-reduction process"
+"4" "oxidoreductase activity"
+"5" "monooxygenase activity"
+"6" "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"

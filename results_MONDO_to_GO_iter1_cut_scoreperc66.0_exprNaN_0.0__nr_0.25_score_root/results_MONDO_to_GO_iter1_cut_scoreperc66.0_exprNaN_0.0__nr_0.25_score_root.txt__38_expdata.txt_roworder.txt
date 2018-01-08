@@ -1,0 +1,4 @@
+"x"
+"1" "autosomal.recessive.nonsyndromic.deafness.61"
+"2" "mental.retardation..autosomal.recessive.2"
+"3" "growth.and.developmental.delay.hypotonia.vision.impairment.lactic.acidosis.syndrome"

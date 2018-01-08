@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "molecular_function"
+"4" "smoothened signaling pathway"
+"5" "cognition"
+"6" "thalamus development"
+"7" "social behavior"

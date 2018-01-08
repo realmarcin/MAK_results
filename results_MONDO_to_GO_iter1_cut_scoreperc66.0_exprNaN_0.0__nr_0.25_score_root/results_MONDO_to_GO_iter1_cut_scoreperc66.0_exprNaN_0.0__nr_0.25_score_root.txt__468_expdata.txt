@@ -1,0 +1,10 @@
+	absence deformity of leg-cataract syndrome	mast syndrome	"mental retardation, X-linked, syndromic, Bain type; MRXSB"	spinocerebellar ataxia type 35	three M syndrome 3
+plasma membrane	0.0	0.0	0.0	0.0	1.0
+cytoskeleton	0.0	0.0	0.0	0.0	1.0
+cytosol	1.0	1.0	1.0	0.0	1.0
+molecular_function	0.0	0.0	0.0	0.0	1.0
+microtubule cytoskeleton organization	0.0	0.0	0.0	0.0	1.0
+centrosome	0.0	0.0	0.0	0.0	1.0
+regulation of mitotic nuclear division	0.0	0.0	0.0	0.0	1.0
+negative regulation of phosphatase activity	0.0	0.0	0.0	0.0	1.0
+3M complex	0.0	0.0	0.0	0.0	1.0

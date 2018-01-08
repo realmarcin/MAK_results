@@ -1,0 +1,7 @@
+	"porokeratosis 3, disseminated superficial actinic type"	Hyperimmunoglobulinemia d with periodic fever	Richieri Costa-Pereira syndrome	mevalonic aciduria	constitutional megaloblastic anemia with severe neurologic disease
+mRNA binding	1.0	1.0	1.0	1.0	1.0
+mevalonate kinase activity	1.0	1.0	0.0	1.0	0.0
+sequence-specific mRNA binding	1.0	1.0	0.0	1.0	1.0
+negative regulation of translation	1.0	1.0	1.0	1.0	1.0
+histidyl-tRNA aminoacylation	0.0	0.0	0.0	0.0	0.0
+histidine-tRNA ligase activity	0.0	0.0	0.0	0.0	0.0

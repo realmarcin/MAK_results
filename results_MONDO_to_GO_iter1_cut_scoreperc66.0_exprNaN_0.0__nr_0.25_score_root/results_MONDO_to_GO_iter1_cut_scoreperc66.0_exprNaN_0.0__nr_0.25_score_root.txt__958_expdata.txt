@@ -1,0 +1,5 @@
+	Antley-Bixler syndrome with genital anomalies and Disordered steroidogenesis	Antley-Bixler syndrome	hyperargininemia	argininosuccinic aciduria	citrullinemia type I	methemoglobinemia due to deficiency of methemoglobin reductase	autosomal recessive early-onset Parkinson disease 15	"myoglobinuria, acute recurrent, autosomal recessive"	lethal restrictive dermopathy	Troyer syndrome	cerebrovascular disorder	mandibuloacral dysplasia with type B lipodystrophy	congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency
+lysosome	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mitochondrion	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0
+lipid metabolic process	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+mitochondrial outer membrane	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0

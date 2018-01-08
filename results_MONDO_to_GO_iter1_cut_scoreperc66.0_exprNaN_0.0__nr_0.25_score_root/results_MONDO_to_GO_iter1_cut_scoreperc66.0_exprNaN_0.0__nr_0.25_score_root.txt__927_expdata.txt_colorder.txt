@@ -1,0 +1,8 @@
+"x"
+"1" "integrin-mediated signaling pathway"
+"2" "cell junction"
+"3" "integrin binding"
+"4" "external side of plasma membrane"
+"5" "cell adhesion mediated by integrin"
+"6" "transforming growth factor-beta secretion"
+"7" "integrin alphav-beta6 complex"

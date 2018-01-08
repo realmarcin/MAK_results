@@ -1,0 +1,6 @@
+"x"
+"1" "cyclic.hematopoiesis"
+"2" "autosomal.dominant.severe.congenital.neutropenia"
+"3" "Hirschsprung.disease..cardiac.defects..and.autonomic.dysfunction"
+"4" "hereditary.pediatric.BehC.et.like.disease"
+"5" "hereditary.thrombophilia.due.to.congenital.histidine.rich..poly.L..glycoprotein.deficiency"

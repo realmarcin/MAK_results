@@ -1,0 +1,7 @@
+"x"
+"1" "palmoplantar.keratoderma..mutilating..with.periorificial.keratotic.plaques"
+"2" "isolated.focal.non.epidermolytic.palmoplantar.keratoderma"
+"3" "isolated.anhidrosis.with.normal.sweat.glands"
+"4" "catecholaminergic.polymorphic.ventricular.tachycardia.1"
+"5" "polycystic.kidney.disease.2"
+"6" "catecholaminergic.polymorphic.ventricular.tachycardia.2"

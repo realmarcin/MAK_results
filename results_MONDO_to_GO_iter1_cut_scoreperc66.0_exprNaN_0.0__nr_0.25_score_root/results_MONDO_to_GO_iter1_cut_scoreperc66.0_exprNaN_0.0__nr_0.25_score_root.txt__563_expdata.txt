@@ -1,0 +1,5 @@
+	Tourette syndrome	isolated growth hormone deficiency type II	"protoporphyria, erythropoietic"	isolated growth hormone deficiency type IA	short stature due to growth hormone qualitative anomaly	oculocutaneous albinism type 4	Bothnia retinal dystrophy	Newfoundland cone-rod dystrophy	Oguchi disease-2	congenital stationary night blindness 1G
+protein K48-linked ubiquitination	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+sperm entry	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+response to light stimulus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+photoperiodism	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

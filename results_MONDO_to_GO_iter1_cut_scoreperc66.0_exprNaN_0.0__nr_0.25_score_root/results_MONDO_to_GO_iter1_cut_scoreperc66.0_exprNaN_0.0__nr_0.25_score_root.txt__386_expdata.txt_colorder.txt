@@ -1,0 +1,8 @@
+"x"
+"1" "ER to Golgi ceramide transport"
+"2" "intracellular sterol transport"
+"3" "intracellular cholesterol transport"
+"4" "fungal-type vacuole lumen"
+"5" "intermembrane ceramide transfer activity"
+"6" "regulation of plasma membrane sterol distribution"
+"7" "regulation of intracellular cholesterol transport"

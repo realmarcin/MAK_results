@@ -1,0 +1,7 @@
+"x"
+"1" "cirrhosis.dystonia.polycythemia.hypermanganesemia.syndrome"
+"2" "microcytic.anemia.with.liver.iron.overload"
+"3" "atransferrinemia"
+"4" "agenesis.of.the.corpus.callosum.with.peripheral.neuropathy"
+"5" "spastic.tetraplegia.thin.corpus.callosum.progressive.postnatal.microcephaly.syndrome"
+"6" "spastic.paraplegia..intellectual.disability..nystagmus..and.obesity."

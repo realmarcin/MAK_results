@@ -1,0 +1,12 @@
+	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	X-linked retinoschisis	foveal hypoplasia-optic nerve decussation defect-anterior segment dysgenesis syndrome	spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome
+symporter activity	0.0	0.0	0.0	0.0	1.0
+L-alanine transport	0.0	0.0	0.0	0.0	1.0
+neutral amino acid transmembrane transporter activity	0.0	0.0	0.0	0.0	1.0
+L-alanine transmembrane transporter activity	0.0	0.0	0.0	0.0	1.0
+proline transport	0.0	0.0	0.0	0.0	1.0
+L-proline transmembrane transporter activity	0.0	0.0	0.0	0.0	1.0
+chloride channel activity	0.0	0.0	0.0	0.0	1.0
+L-threonine transmembrane transporter activity	0.0	0.0	0.0	0.0	1.0
+L-hydroxyproline transmembrane transporter activity	0.0	0.0	0.0	0.0	1.0
+hydroxyproline transport	0.0	0.0	0.0	0.0	1.0
+threonine transport	0.0	0.0	0.0	0.0	1.0

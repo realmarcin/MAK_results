@@ -1,0 +1,6 @@
+"x"
+"1" "mental.retardation..autosomal.dominant.39"
+"2" "agnathia.otocephaly.complex"
+"3" "Athabaskan.brainstem.dysgenesis.syndrome"
+"4" "Rett.syndrome..congenital.variant"
+"5" "Smith.Magenis.syndrome"

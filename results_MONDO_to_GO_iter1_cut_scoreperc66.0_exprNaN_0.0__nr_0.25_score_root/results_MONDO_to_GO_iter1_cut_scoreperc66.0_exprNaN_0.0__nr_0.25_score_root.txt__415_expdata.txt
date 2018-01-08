@@ -1,0 +1,12 @@
+	acromelic frontonasal dysostosis	left ventricular noncompaction 1	hyper-IgM syndrome type 2	"congenital heart defects, multiple types, 2"
+cellular response to lipopolysaccharide	0.0	0.0	1.0	0.0
+isotype switching	0.0	0.0	1.0	0.0
+somatic hypermutation of immunoglobulin genes	0.0	0.0	1.0	0.0
+negative regulation of methylation-dependent chromatin silencing	0.0	0.0	1.0	0.0
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines"	0.0	0.0	1.0	0.0
+cytidine deamination	0.0	0.0	1.0	0.0
+regulation of DNA stability	0.0	0.0	1.0	0.0
+cytidine deaminase activity	0.0	0.0	1.0	0.0
+somatic diversification of immunoglobulins	0.0	0.0	1.0	0.0
+somatic cell DNA recombination	0.0	0.0	1.0	0.0
+DNA demethylation	0.0	0.0	1.0	0.0

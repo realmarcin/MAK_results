@@ -1,0 +1,8 @@
+"x"
+"1" "vesicle-mediated transport"
+"2" "intracellular protein transport"
+"3" "membrane coat"
+"4" "clathrin adaptor complex"
+"5" "protein targeting"
+"6" "protein targeting to lysosome"
+"7" "Golgi to endosome transport"

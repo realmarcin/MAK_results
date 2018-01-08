@@ -1,0 +1,5 @@
+"x"
+"1" "combined.immunodeficiency.due.to.DOCK8.deficiency"
+"2" "mental.retardation..autosomal.dominant.2"
+"3" "autosomal.recessive.lower.motor.neuron.disease.with.childhood.onset"
+"4" "Charcot.Marie.tooth.disease.recessive.intermediate.c"

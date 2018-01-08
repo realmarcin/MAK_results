@@ -1,0 +1,10 @@
+	familial amyloid neuropathy	carpal tunnel syndrome	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+protein complex	1.0	1.0	0.0	0.0
+protein heterodimerization activity	1.0	1.0	0.0	0.0
+extracellular space	1.0	1.0	1.0	0.0
+extracellular exosome	1.0	1.0	0.0	0.0
+retinol metabolic process	1.0	1.0	0.0	0.0
+hormone activity	1.0	1.0	0.0	0.0
+thyroid hormone transport	1.0	1.0	0.0	0.0
+hormone binding	1.0	1.0	0.0	0.0
+thyroid hormone binding	1.0	1.0	0.0	0.0

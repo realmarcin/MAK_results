@@ -1,0 +1,7 @@
+"x"
+"1" "brachydactyly.type.A2"
+"2" "hemochromatosis.type.1"
+"3" "Holt.Oram.syndrome"
+"4" "Naxos.disease"
+"5" "arrhythmogenic.right.ventricular.dysplasia.12"
+"6" "Loeys.Dietz.syndrome.4"

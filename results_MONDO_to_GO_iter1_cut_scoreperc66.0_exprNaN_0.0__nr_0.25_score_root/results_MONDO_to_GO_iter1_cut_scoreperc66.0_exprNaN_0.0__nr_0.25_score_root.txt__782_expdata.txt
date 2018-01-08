@@ -1,0 +1,7 @@
+	primary ciliary dyskinesia 5	congenital myasthenic syndrome 4C	congenital myasthenic syndrome 12	Legius syndrome	"ectodermal dysplasia 12, hypohidrotic/hair/tooth/nail type; ECTD12"
+multicellular organism development	1.0	0.0	0.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0	1.0
+acetylcholine-gated cation-selective channel activity	0.0	1.0	0.0	0.0	0.0
+acetylcholine binding	0.0	1.0	0.0	0.0	0.0
+acetylcholine receptor activity	0.0	1.0	0.0	0.0	0.0
+glucosamine biosynthetic process	0.0	1.0	1.0	0.0	0.0

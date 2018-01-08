@@ -1,0 +1,7 @@
+"x"
+"1" "familial.multinodular.goiter"
+"2" "pleuropulmonary.blastoma"
+"3" "dyschromatosis.symmetrica.hereditaria"
+"4" "Aicardi.Goutieres.syndrome.6"
+"5" "thrombocytopenia.absent.radius.syndrome"
+"6" "autosomal.systemic.lupus.erythematosus"

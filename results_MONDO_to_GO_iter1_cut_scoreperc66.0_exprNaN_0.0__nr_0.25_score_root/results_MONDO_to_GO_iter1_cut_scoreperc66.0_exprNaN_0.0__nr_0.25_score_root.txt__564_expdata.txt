@@ -1,0 +1,10 @@
+	sialuria	GNE myopathy	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+kinase activity	1.0	1.0	0.0	0.0	0.0
+chordate embryonic development	1.0	1.0	0.0	0.0	0.0
+muscle fiber development	1.0	1.0	0.0	0.0	0.0
+"hydrolase activity, hydrolyzing O-glycosyl compounds"	1.0	1.0	0.0	0.0	0.0
+N-acylmannosamine kinase activity	1.0	1.0	0.0	0.0	0.0
+N-acetylneuraminate metabolic process	1.0	1.0	0.0	0.0	0.0
+UDP-N-acetylglucosamine 2-epimerase activity	1.0	1.0	0.0	0.0	0.0
+UDP-N-acetylglucosamine metabolic process	1.0	1.0	0.0	0.0	0.0
+locomotion	1.0	1.0	0.0	0.0	0.0

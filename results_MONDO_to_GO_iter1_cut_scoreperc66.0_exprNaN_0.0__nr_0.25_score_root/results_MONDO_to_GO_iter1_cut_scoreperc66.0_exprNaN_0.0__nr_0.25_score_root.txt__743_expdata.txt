@@ -1,0 +1,6 @@
+	branchiootorenal syndrome 1	hypoparathyroidism-deafness-renal disease syndrome	Otofaciocervical syndrome	Pendred syndrome	autosomal recessive nonsyndromic deafness 4	branchiootic syndrome 1
+inner ear morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+otic vesicle development	1.0	1.0	1.0	1.0	1.0	1.0
+cellular response to BMP stimulus	0.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1.0	0.0	1.0	0.0	0.0	1.0
+otic vesicle morphogenesis	1.0	0.0	1.0	1.0	1.0	1.0

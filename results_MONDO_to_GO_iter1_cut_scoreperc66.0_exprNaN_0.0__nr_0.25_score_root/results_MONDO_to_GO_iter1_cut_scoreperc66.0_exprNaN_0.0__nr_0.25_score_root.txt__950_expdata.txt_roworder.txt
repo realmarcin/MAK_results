@@ -1,0 +1,6 @@
+"x"
+"1" "mycobacterium.tuberculosis..susceptibility.to"
+"2" "Buruli.ulcer..susceptibility.to"
+"3" "Hypermanganesemia.with.dystonia.2..HMNDYT2"
+"4" "spastic.ataxia.1"
+"5" "leprosy..susceptibility.to..5"

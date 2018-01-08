@@ -1,0 +1,6 @@
+	"mental retardation, X-linked 30"	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1	BCC1	capillary malformation-arteriovenous malformation syndrome	Parkes Weber syndrome
+phosphotyrosine residue binding	0.0	1.0	1.0	1.0	1.0
+regulation of actin filament polymerization	1.0	1.0	1.0	1.0	1.0
+GTPase binding	1.0	0.0	1.0	1.0	1.0
+Rac GTPase binding	1.0	0.0	0.0	0.0	0.0
+protein kinase B binding	0.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "asphyxiating.thoracic.dystrophy.5"
+"2" "cranioectodermal.dysplasia.4"
+"3" "Senior.Loken.syndrome.8"
+"4" "Senior.Loken.syndrome.5"

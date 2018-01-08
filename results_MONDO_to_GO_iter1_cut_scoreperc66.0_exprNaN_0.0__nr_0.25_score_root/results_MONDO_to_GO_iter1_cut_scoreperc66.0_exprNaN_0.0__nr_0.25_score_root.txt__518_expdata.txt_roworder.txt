@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.myasthenic.syndrome.11"
+"2" "mental.retardation..X.linked.90"
+"3" "autosomal.recessive.nonsyndromic.deafness.93"
+"4" "congenital.myasthenic.syndrome.10"
+"5" "spinocerebellar.ataxia.type.23"

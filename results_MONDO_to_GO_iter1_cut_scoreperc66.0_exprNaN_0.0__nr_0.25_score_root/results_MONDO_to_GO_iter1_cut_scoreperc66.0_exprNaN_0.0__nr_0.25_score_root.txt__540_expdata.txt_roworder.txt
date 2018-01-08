@@ -1,0 +1,7 @@
+"x"
+"1" "episodic.kinesigenic.dyskinesia.1"
+"2" "Free.sialic.acid.storage.disease..infantile.form"
+"3" "autosomal.recessive.nonsyndromic.deafness.9"
+"4" "Salla.disease"
+"5" "spinocerebellar.ataxia.type.21"
+"6" "epileptic.encephalopathy..early.infantile..37..EIEE37"

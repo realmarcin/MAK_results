@@ -1,0 +1,5 @@
+	cytochrome-c oxidase deficiency disease	X-linked distal spinal muscular atrophy type 3	Ritscher-Schinzel syndrome 2	occipital horn syndrome	Menkes disease	"cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 1"	myopia 6	cardiomyopathy-hypotonia-lactic acidosis syndrome
+late endosome membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular copper ion homeostasis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+copper ion binding	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+copper ion transport	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0

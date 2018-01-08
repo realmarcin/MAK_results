@@ -1,0 +1,7 @@
+	nemaline myopathy 3	X-linked centronuclear myopathy	"aortic aneurysm, familial thoracic 6"	hypertrophic cardiomyopathy 11	atrial heart septal defect 5	dilated cardiomyopathy 1R	multisystemic smooth muscle dysfunction syndrome	Moyamoya disease 5	autosomal recessive nonsyndromic deafness 104	progressive scapulohumeroperoneal distal myopathy
+lamellipodium	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+filopodium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+actin filament	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+actin cytoskeleton	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+filamentous actin	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mesenchyme migration	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Waardenburg.syndrome.type.4A"
+"2" "Hirschsprung.disease..susceptibility.to..2"
+"3" "ABCD.syndrome"
+"4" "spondylocostal.dysostosis.5"
+"5" "wilms.tumor.6..WT6"

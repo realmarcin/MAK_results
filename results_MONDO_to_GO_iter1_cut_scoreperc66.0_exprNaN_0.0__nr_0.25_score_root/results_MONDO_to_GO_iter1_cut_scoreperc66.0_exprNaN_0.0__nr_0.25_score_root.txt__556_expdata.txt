@@ -1,0 +1,13 @@
+	Riley-Day syndrome	facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation	"trichothiodystrophy 6, nonphotosensitive; TTD6"	"mental retardation, autosomal recessive 58; MRT58"
+nucleus	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0
+transport	1.0	0.0	0.0	1.0
+oxidoreductase activity	1.0	0.0	0.0	0.0
+protein transport	1.0	0.0	0.0	1.0
+RNA polymerase II core binding	1.0	1.0	1.0	1.0
+tRNA binding	1.0	0.0	0.0	0.0
+"2 iron, 2 sulfur cluster binding"	1.0	0.0	0.0	0.0
+enteric nervous system development	1.0	0.0	0.0	0.0
+Elongator holoenzyme complex	1.0	0.0	0.0	1.0
+tRNA wobble uridine modification	1.0	0.0	0.0	1.0

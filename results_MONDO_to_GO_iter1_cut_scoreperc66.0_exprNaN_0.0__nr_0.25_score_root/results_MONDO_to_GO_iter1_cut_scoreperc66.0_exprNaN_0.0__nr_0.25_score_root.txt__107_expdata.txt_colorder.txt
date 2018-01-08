@@ -1,0 +1,7 @@
+"x"
+"1" "somatic recombination of immunoglobulin gene segments"
+"2" "uracil DNA N-glycosylase activity"
+"3" "base-excision repair, AP site formation via deaminated base removal"
+"4" "G/U mismatch-specific uracil-DNA glycosylase activity"
+"5" "ribosomal small subunit binding"
+"6" "hydrolase activity, hydrolyzing N-glycosyl compounds"

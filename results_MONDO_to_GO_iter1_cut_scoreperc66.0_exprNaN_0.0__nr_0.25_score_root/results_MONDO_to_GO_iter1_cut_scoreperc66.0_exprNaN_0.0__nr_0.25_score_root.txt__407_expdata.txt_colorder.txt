@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "RNA polymerase II proximal promoter sequence-specific DNA binding"
+"3" "RNA polymerase II distal enhancer sequence-specific DNA binding"
+"4" "nucleosomal DNA binding"
+"5" "ATP-dependent chromatin remodeling"
+"6" "ATP binding"
+"7" "fin regeneration"

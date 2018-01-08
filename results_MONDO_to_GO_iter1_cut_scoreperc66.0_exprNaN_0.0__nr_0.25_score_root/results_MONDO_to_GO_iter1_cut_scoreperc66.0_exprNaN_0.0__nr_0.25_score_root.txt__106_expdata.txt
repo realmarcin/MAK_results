@@ -1,0 +1,8 @@
+	metabolic myopathy due to lactate transporter defect	Allan-Herndon-Dudley syndrome	exercise-induced hyperinsulinism	juvenile cataract-microcornea-renal glucosuria syndrome	ketoacidosis due to monocarboxylate transporter-1 deficiency
+amino acid transmembrane export from vacuole	1.0	1.0	1.0	1.0	1.0
+riboflavin transmembrane transporter activity	1.0	1.0	1.0	1.0	1.0
+riboflavin transport	1.0	1.0	1.0	1.0	1.0
+monocarboxylic acid transmembrane transporter activity	1.0	1.0	1.0	1.0	1.0
+monocarboxylic acid transport	1.0	0.0	1.0	1.0	1.0
+integral component of fungal-type vacuolar membrane	1.0	1.0	1.0	1.0	1.0
+creatine transmembrane transport	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "secretion of lysosomal enzymes"
+"2" "UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity"
+"3" "positive regulation of B cell activation"
+"4" "positive regulation of natural killer cell activation"
+"5" "transferase activity, transferring phosphorus-containing groups"

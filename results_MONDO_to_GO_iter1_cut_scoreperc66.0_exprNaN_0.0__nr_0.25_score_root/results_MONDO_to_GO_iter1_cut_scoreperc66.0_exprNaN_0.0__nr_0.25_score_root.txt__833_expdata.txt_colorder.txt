@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "membrane"
+"3" "cytoskeleton"
+"4" "skeletal muscle fiber development"
+"5" "ubiquitin-protein transferase activity"
+"6" "protein ubiquitination"
+"7" "sarcomere organization"

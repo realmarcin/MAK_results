@@ -1,0 +1,5 @@
+	"Ehlers-Danlos syndrome, type 6"	Bruck syndrome 2	connective tissue disorder due to lysyl hydroxylase-3 deficiency	"arthrogryposis, renal dysfunction, and cholestasis 2"
+peptidyl-lysine hydroxylation	1.0	1.0	1.0	1.0
+procollagen-lysine 5-dioxygenase activity	1.0	1.0	1.0	0.0
+hydroxylysine biosynthetic process	1.0	1.0	1.0	0.0
+procollagen glucosyltransferase activity	0.0	0.0	1.0	0.0

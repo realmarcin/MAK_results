@@ -1,0 +1,5 @@
+"x"
+"1" "cerebral cortex tangential migration"
+"2" "globus pallidus development"
+"3" "transcriptional repressor activity, RNA polymerase II distal enhancer sequence-specific binding"
+"4" "cerebral cortex GABAergic interneuron migration"

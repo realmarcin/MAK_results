@@ -1,0 +1,7 @@
+	Prader-Willi syndrome	microcytic anemia with liver iron overload	"sarcoidosis, susceptibility to, 2"	narcolepsy 7	"epileptic encephalopathy, early infantile, 49; EIEE49"
+integral component of membrane	1.0	1.0	1.0	1.0	0.0
+membrane	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	0.0	1.0	1.0	0.0
+biological_process	1.0	0.0	1.0	1.0	0.0
+cellular_component	1.0	0.0	1.0	1.0	0.0
+retromer complex	1.0	1.0	0.0	0.0	1.0

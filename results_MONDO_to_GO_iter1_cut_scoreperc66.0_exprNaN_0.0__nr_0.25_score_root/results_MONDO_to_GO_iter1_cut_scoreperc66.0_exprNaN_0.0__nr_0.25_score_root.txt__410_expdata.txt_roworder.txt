@@ -1,0 +1,6 @@
+"x"
+"1" "arrhythmogenic.right.ventricular.dysplasia.1"
+"2" "Loeys.Dietz.syndrome.4"
+"3" "Rienhoff.syndrome"
+"4" "Camurati.Engelmann.disease"
+"5" "cystic.fibrosis"

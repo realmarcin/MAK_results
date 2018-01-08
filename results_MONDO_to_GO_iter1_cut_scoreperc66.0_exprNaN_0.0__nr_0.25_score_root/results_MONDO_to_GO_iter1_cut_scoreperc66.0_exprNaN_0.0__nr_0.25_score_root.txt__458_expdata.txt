@@ -1,0 +1,4 @@
+	hereditary breast carcinoma	"migraine with or without aura, susceptibility to, 1"	"Klippel-Feil syndrome 2, autosomal recessive"	Wiedemann-Steiner syndrome	"myocardial infarction, susceptibility to"	seborrhea-like dermatitis with psoriasiform elements	extraskeletal myxoid chondrosarcoma	estrogen resistance syndrome	childhood onset epileptic encephalopathy
+transcription coactivator binding	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+core promoter sequence-specific DNA binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+promoter-specific chromatin binding	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0

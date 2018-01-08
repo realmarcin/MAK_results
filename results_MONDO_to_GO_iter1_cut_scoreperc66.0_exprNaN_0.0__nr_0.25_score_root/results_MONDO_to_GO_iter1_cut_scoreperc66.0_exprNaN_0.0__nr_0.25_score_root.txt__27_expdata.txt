@@ -1,0 +1,8 @@
+	"mental retardation, X-linked 91"	syndromic X-linked intellectual disability Raymond type	Usher syndrome type 1G
+palmitoyltransferase activity	1.0	1.0	1.0
+protein palmitoylation	1.0	1.0	1.0
+protein-cysteine S-palmitoyltransferase activity	1.0	1.0	1.0
+intrinsic component of Golgi membrane	0.0	1.0	0.0
+endoplasmic reticulum palmitoyltransferase complex	0.0	1.0	0.0
+Ras palmitoyltransferase activity	0.0	1.0	0.0
+palmitoyltransferase complex	0.0	1.0	0.0

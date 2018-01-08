@@ -1,0 +1,7 @@
+"x"
+"1" "psoriatic.arthritis"
+"2" "leprosy..susceptibility.to..4"
+"3" "predisposition.to.invasive.fungal.disease.due.to.CARD9.deficiency"
+"4" "autoimmune.lymphoproliferative.syndrome.type.2B"
+"5" "FADD.related.immunodeficiency"
+"6" "herpes.simplex.encephalitis..susceptibility.to..3"

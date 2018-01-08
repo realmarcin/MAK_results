@@ -1,0 +1,6 @@
+"x"
+"1" "oculocutaneous.albinism.type.2"
+"2" "melanoma..cutaneous.malignant..susceptibility.to..5"
+"3" "Bruck.syndrome.1"
+"4" "osteogenesis.imperfecta.type.11"
+"5" "Ehlers.Danlos.syndrome..kyphoscoliotic.and.deafness.type"

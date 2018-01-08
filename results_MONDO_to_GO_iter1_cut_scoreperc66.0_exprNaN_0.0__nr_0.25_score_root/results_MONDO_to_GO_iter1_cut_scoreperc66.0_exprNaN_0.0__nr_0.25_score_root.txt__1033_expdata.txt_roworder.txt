@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.diarrhea.5.with.tufting.enteropathy"
+"2" "colorectal.cancer..hereditary.nonpolyposis..type.8"
+"3" "thrombocythemia.2"
+"4" "congenital.amegakaryocytic.thrombocytopenia"

@@ -1,0 +1,8 @@
+"x"
+"1" "cholesterol metabolic process"
+"2" "cholesterol homeostasis"
+"3" "lipoprotein metabolic process"
+"4" "apolipoprotein binding"
+"5" "sprouting angiogenesis"
+"6" "rough endoplasmic reticulum"
+"7" "vesicle"

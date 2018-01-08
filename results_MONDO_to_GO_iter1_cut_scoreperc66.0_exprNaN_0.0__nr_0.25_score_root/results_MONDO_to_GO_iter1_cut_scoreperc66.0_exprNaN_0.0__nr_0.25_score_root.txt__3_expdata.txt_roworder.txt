@@ -1,0 +1,4 @@
+"x"
+"1" "lactose.intolerance..disease."
+"2" "primary.immunodeficiency.with.natural.killer.cell.deficiency.and.adrenal.insufficiency"
+"3" "autosomal.dominant.nonsyndromic.deafness.70"

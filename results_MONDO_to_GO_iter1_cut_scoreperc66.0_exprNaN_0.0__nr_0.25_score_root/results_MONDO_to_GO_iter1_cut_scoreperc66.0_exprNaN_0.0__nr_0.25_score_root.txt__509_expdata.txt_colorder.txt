@@ -1,0 +1,8 @@
+"x"
+"1" "serine-type endopeptidase activity"
+"2" "peptidase activity"
+"3" "proteolysis"
+"4" "proteolysis involved in cellular protein catabolic process"
+"5" "serine-type peptidase activity"
+"6" "extracellular matrix disassembly"
+"7" "other organism cell membrane"

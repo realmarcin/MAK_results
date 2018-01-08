@@ -1,0 +1,8 @@
+"x"
+"1" "G-protein coupled receptor activity"
+"2" "G-protein coupled receptor signaling pathway"
+"3" "tissue regeneration"
+"4" "positive chemotaxis"
+"5" "neural crest cell migration involved in sympathetic nervous system development"
+"6" "chemokine receptor activity"
+"7" "G-protein coupled chemoattractant receptor activity"

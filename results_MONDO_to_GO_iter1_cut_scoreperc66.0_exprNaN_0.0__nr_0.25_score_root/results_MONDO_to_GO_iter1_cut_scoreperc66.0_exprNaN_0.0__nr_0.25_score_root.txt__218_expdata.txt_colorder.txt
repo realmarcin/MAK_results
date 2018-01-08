@@ -1,0 +1,5 @@
+"x"
+"1" "negative regulation of stem cell differentiation"
+"2" "negative regulation of glycolytic process"
+"3" "positive regulation of gene silencing by miRNA"
+"4" "positive regulation of vascular endothelial cell proliferation"

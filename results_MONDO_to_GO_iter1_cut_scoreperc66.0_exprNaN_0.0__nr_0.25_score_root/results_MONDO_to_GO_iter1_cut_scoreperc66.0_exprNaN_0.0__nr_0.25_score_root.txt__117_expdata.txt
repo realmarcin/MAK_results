@@ -1,0 +1,6 @@
+	glutathione synthetase deficiency without 5-oxoprolinuria	glutathione synthetase deficiency with 5-oxoprolinuria	methylmalonic aciduria and homocystinuria type cblC	hypotonia-failure to thrive-microcephaly syndrome
+glutathione biosynthetic process	1.0	1.0	0.0	0.0
+glutathione synthase activity	1.0	1.0	0.0	0.0
+glutathione binding	1.0	1.0	1.0	1.0
+cobalamin biosynthetic process	0.0	0.0	1.0	0.0
+cyanocobalamin reductase (cyanide-eliminating) activity	0.0	0.0	1.0	0.0

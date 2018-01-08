@@ -1,0 +1,6 @@
+"x"
+"1" "exostoses..multiple..type.2"
+"2" "Spondylo.ocular.syndrome"
+"3" "seizures.scoliosis.macrocephaly.syndrome"
+"4" "larsen.like.syndrome..B3GAT3.type"
+"5" "Desbuquois.dysplasia.2"

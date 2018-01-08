@@ -1,0 +1,7 @@
+	acrodermatitis enteropathica	deafness dystonia syndrome	Jensen syndrome	"myopia 24, autosomal dominant"	SLC39A8-CDG	Hypermanganesemia with dystonia 2; HMNDYT2
+metal ion transport	1.0	0.0	0.0	1.0	1.0	1.0
+zinc II ion transmembrane import	1.0	0.0	0.0	1.0	1.0	1.0
+metal ion transmembrane transporter activity	1.0	1.0	1.0	1.0	1.0	1.0
+cellular response to zinc ion starvation	1.0	0.0	0.0	1.0	0.0	0.0
+ferrous iron transmembrane transporter activity	0.0	0.0	0.0	0.0	0.0	1.0
+manganese ion homeostasis	0.0	0.0	0.0	0.0	0.0	1.0

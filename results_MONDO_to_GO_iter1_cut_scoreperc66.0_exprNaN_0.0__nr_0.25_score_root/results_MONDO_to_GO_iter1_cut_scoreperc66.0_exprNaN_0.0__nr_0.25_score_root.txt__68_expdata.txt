@@ -1,0 +1,8 @@
+	Lesch-Nyhan syndrome	hypoxanthine guanine phosphoribosyltransferase partial deficiency	hypermethioninemia due to adenosine kinase deficiency	adenine phosphoribosyltransferase deficiency
+adenine metabolic process	1.0	1.0	0.0	1.0
+positive regulation of dopamine metabolic process	1.0	1.0	0.0	0.0
+purine ribonucleoside salvage	1.0	1.0	1.0	1.0
+guanine phosphoribosyltransferase activity	1.0	1.0	0.0	0.0
+GMP catabolic process	1.0	1.0	0.0	0.0
+hypoxanthine metabolic process	1.0	1.0	0.0	0.0
+hypoxanthine phosphoribosyltransferase activity	1.0	1.0	0.0	0.0

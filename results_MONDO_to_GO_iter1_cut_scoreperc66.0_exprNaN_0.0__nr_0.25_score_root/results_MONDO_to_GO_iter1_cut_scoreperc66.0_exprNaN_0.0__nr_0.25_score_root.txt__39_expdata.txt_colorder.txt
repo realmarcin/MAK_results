@@ -1,0 +1,6 @@
+"x"
+"1" "termination of RNA polymerase I transcription"
+"2" "transcription initiation from RNA polymerase I promoter"
+"3" "rRNA primary transcript binding"
+"4" "hormone-sensitive lipase activity"
+"5" "diacylglycerol catabolic process"

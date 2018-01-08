@@ -1,0 +1,7 @@
+"x"
+"1" "neuronal cell body"
+"2" "sensory perception of sound"
+"3" "membrane"
+"4" "metal ion binding"
+"5" "cellular iron ion homeostasis"
+"6" "polyamine import"

@@ -1,0 +1,6 @@
+"x"
+"1" "thyroid.dyshormonogenesis.4"
+"2" "acne.inversa..familial..1"
+"3" "hypogonadotropic.hypogonadism.18.with.or.without.anosmia"
+"4" "autosomal.dominant.nonsyndromic.deafness.66"
+"5" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"

@@ -1,0 +1,6 @@
+"x"
+"1" "cell adhesion mediated by integrin"
+"2" "positive regulation of keratinocyte migration"
+"3" "positive regulation of macrophage fusion"
+"4" "transforming growth factor-beta secretion"
+"5" "integrin alphav-beta6 complex"

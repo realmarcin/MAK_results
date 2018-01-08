@@ -1,0 +1,8 @@
+	aggressive periodontitis	hypoplasminogenemia	Papillon-Lefevre disease	Haim-Munk syndrome
+serine-type endopeptidase activity	1.0	1.0	1.0	1.0
+peptidase activity	1.0	1.0	1.0	1.0
+serine-type peptidase activity	0.0	1.0	0.0	0.0
+proteolysis	1.0	1.0	1.0	1.0
+proteolysis involved in cellular protein catabolic process	1.0	1.0	1.0	1.0
+extracellular matrix disassembly	0.0	1.0	0.0	0.0
+other organism cell membrane	0.0	1.0	0.0	0.0

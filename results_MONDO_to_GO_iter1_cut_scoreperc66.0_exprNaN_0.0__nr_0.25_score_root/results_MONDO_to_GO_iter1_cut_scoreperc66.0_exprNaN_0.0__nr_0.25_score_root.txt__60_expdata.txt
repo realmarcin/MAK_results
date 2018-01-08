@@ -1,0 +1,6 @@
+	nemaline myopathy 2	platelet-type bleeding disorder 15	autosomal recessive nonsyndromic deafness 102
+regulation of actin filament length	1.0	0.0	1.0
+actin crosslink formation	0.0	1.0	1.0
+actin polymerization-dependent cell motility	0.0	0.0	1.0
+NMDA selective glutamate receptor complex	0.0	0.0	1.0
+Rac protein signal transduction	0.0	0.0	1.0

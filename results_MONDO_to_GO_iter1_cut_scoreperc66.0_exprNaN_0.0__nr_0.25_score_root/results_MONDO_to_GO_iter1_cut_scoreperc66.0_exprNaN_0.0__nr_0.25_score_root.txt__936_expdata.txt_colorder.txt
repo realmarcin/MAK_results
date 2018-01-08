@@ -1,0 +1,8 @@
+"x"
+"1" "membrane"
+"2" "molecular_function"
+"3" "external side of plasma membrane"
+"4" "B cell activation"
+"5" "epidermal growth factor receptor binding"
+"6" "MHC class II protein complex binding"
+"7" "endoplasmic reticulum"

@@ -1,0 +1,5 @@
+	xeroderma pigmentosum group G	congenital cataracts-facial dysmorphism-neuropathy syndrome	Cerebrooculofacioskeletal syndrome 3
+"DNA-directed RNA polymerase II, holoenzyme"	1.0	1.0	1.0
+"nucleotide-excision repair, DNA incision, 3'-to lesion"	1.0	0.0	1.0
+nucleotide-excision repair factor 3 complex	1.0	0.0	1.0
+holo TFIIH complex	1.0	0.0	1.0

@@ -1,0 +1,11 @@
+	glycerol kinase deficiency	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+kinase activity	1.0	0.0	0.0	0.0
+response to ethanol	1.0	0.0	0.0	0.0
+glycerol metabolic process	1.0	0.0	0.0	0.0
+triglyceride metabolic process	1.0	0.0	0.0	0.0
+glycerol-3-phosphate metabolic process	1.0	0.0	0.0	0.0
+glycerol catabolic process	1.0	0.0	0.0	0.0
+histone binding	1.0	0.0	0.0	0.0
+regulation of fatty acid metabolic process	1.0	0.0	0.0	0.0
+glycerol kinase activity	1.0	0.0	0.0	0.0
+glycerol-3-phosphate biosynthetic process	1.0	0.0	0.0	0.0

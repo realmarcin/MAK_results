@@ -1,0 +1,8 @@
+"x"
+"1" "protein binding"
+"2" "proteinaceous extracellular matrix"
+"3" "extracellular matrix structural constituent"
+"4" "molecular_function"
+"5" "extracellular region"
+"6" "elastic fiber"
+"7" "transcription corepressor activity"

@@ -1,0 +1,8 @@
+	Noonan syndrome-like disorder with juvenile myelomonocytic leukemia	"mental retardation, anterior maxillary Protrusion, and strabismus"	brittle cornea syndrome 2	Charcot-Marie-tooth disease axonal type 2P	peroxisome biogenesis disorder 5A (Zellweger)	peroxisome biogenesis disorder 5B
+embryonic cranial skeleton morphogenesis	0.0	0.0	1.0	0.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0	1.0	1.0
+embryonic viscerocranium morphogenesis	0.0	0.0	1.0	0.0	0.0	0.0
+embryonic neurocranium morphogenesis	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of canonical Wnt signaling pathway	0.0	0.0	1.0	0.0	0.0	0.0
+transcription regulatory region sequence-specific DNA binding	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of non-canonical Wnt signaling pathway	0.0	0.0	1.0	0.0	0.0	0.0

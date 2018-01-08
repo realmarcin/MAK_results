@@ -1,0 +1,6 @@
+"x"
+"1" "Rubinstein.Taybi.syndrome.due.to.CREBBP.mutations"
+"2" "Rubinstein.Taybi.syndrome.due.to.EP300.haploinsufficiency"
+"3" "autosomal.recessive.congenital.ichthyosis.1"
+"4" "spinal.muscular.atrophy.with.congenital.bone.fractures.1"
+"5" "muscular.dystrophy..congenital..Davignon.Chauveau.type..MDCDC"

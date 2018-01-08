@@ -1,0 +1,7 @@
+	"citrullinemia, type Ii, adult-onset"	autosomal dominant nonsyndromic deafness 25	neonatal intrahepatic cholestasis due to citrin deficiency	foveal hypoplasia-optic nerve decussation defect-anterior segment dysgenesis syndrome	"epileptic encephalopathy, early infantile, 3"	epileptic encephalopathy with global cerebral demyelination
+amino acid transport	1.0	0.0	1.0	1.0	1.0	1.0
+L-glutamate transport	1.0	1.0	1.0	0.0	1.0	1.0
+L-aspartate transmembrane transport	1.0	0.0	1.0	1.0	1.0	1.0
+L-glutamate transmembrane transport	1.0	0.0	1.0	1.0	1.0	1.0
+L-glutamate transmembrane transporter activity	1.0	1.0	1.0	1.0	1.0	1.0
+L-aspartate transmembrane transporter activity	1.0	0.0	1.0	1.0	1.0	1.0

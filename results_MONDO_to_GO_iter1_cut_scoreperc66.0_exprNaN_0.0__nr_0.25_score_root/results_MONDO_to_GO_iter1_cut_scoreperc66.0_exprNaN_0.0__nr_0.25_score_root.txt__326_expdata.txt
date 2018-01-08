@@ -1,0 +1,7 @@
+	Alagille syndrome due to a JAG1 point mutation	autosomal dominant Opitz G/BBB syndrome	Tessier number 4 facial cleft
+face morphogenesis	1.0	1.0	1.0
+cranial skeletal system development	1.0	1.0	1.0
+cellular response to growth factor stimulus	0.0	0.0	0.0
+negative regulation of microtubule depolymerization	0.0	1.0	1.0
+frontonasal suture morphogenesis	0.0	1.0	1.0
+negative regulation of actin filament depolymerization	0.0	1.0	1.0

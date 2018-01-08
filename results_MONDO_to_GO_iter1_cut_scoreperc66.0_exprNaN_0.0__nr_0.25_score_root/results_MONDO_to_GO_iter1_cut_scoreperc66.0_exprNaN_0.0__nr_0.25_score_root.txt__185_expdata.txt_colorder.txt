@@ -1,0 +1,6 @@
+"x"
+"1" "LINC complex"
+"2" "cytoskeletal anchoring at nuclear membrane"
+"3" "negative regulation of clathrin-dependent endocytosis"
+"4" "optomotor response"
+"5" "negative regulation of caveolin-mediated endocytosis"

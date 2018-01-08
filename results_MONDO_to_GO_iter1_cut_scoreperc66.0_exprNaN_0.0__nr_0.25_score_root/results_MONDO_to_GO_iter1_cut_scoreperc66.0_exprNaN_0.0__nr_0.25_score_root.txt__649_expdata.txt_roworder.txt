@@ -1,0 +1,6 @@
+"x"
+"1" "cataract.46.juvenile.onset"
+"2" "melorheostosis"
+"3" "Buschke.Ollendorff.syndrome"
+"4" "autosomal.recessive.distal.spinal.muscular.atrophy.2"
+"5" "amyotrophic.lateral.sclerosis.type.16"

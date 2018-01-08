@@ -1,0 +1,5 @@
+	prostate cancer	Cornelia de Lange syndrome 2	retinitis pigmentosa 11	band heterotopia of brain	Chudley-McCullough syndrome	"microcephaly 2, primary, autosomal recessive, with or without cortical malformations"	"microcephaly 3, primary, autosomal recessive"	Cornelia de Lange syndrome 3	"microcephalic primordial dwarfism, Dauber type"	hypotrichosis 11	retinitis pigmentosa with or without situs inversus	nephronophthisis 20
+blood vessel lumenization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of endothelial cell migration	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+vacuole organization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mitotic spindle pole	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "inflammatory.bowel.disease.10"
+"2" "frontotemporal.dementia.and.or.amyotrophic.lateral.sclerosis.1"
+"3" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"
+"4" "autosomal.dominant.aplasia.and.myelodysplasia"

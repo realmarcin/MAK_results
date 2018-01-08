@@ -1,0 +1,6 @@
+	"Klippel-Feil syndrome 1, autosomal dominant"	porencephaly 1	retinal arterial tortuosity (disease)	retinoblastoma	small cell lung carcinoma	"multicentric osteolysis, Nodulosis, and arthropathy"	X-linked Alport syndrome	autosomal dominant nonsyndromic deafness 15	COL4A1-related familial vascular leukoencephalopathy	"acromesomelic dysplasia, Demirhan type"	holoprosencephaly 5	autosomal recessive nonsyndromic deafness 44	vesicoureteral reflux 2	autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome	isolated microphthalmia 4	intracerebral hemorrhage	cobblestone lissencephaly without muscular or ocular involvement	Leber congenital amaurosis 17	ataxia-intellectual disability-oculomotor apraxia-cerebellar cysts syndrome	brachydactyly type A1D
+morphogenesis of an epithelium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of cell proliferation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cell proliferation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of DNA replication	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+retinal ganglion cell axon guidance	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

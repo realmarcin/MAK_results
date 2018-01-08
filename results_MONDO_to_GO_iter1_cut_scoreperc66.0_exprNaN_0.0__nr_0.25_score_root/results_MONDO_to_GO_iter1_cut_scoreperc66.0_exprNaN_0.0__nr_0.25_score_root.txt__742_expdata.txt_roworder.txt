@@ -1,0 +1,7 @@
+"x"
+"1" "Waldenstrom.macroglobulinemia"
+"2" "pyogenic.bacterial.infections.due.to.MyD88.deficiency"
+"3" "immunodeficiency.centromeric.instability.facial.anomalies.syndrome.3"
+"4" "Fanconi.anemia.complementation.group.a"
+"5" "Charcot.Marie.tooth.disease.type.4D"
+"6" "susceptibility.to.infection.due.to.TYK2.deficiency"

@@ -1,0 +1,8 @@
+"x"
+"1" "molecular_function"
+"2" "mitochondrion"
+"3" "mitochondrial intermembrane space"
+"4" "aerobic respiration"
+"5" "mitochondrion organization"
+"6" "oxidative phosphorylation"
+"7" "negative regulation of ATP citrate synthase activity"

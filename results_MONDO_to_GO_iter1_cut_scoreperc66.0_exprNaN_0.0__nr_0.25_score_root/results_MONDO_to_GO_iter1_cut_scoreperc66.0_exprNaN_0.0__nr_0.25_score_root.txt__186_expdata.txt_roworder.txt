@@ -1,0 +1,7 @@
+"x"
+"1" "phosphoribosylpyrophosphate.synthetase.superactivity"
+"2" "Arts.syndrome"
+"3" "Charcot.Marie.tooth.disease.X.linked.recessive.5"
+"4" "Adenylosuccinate.lyase.deficiency"
+"5" "adenine.phosphoribosyltransferase.deficiency"
+"6" "myopathy..distal..5..MPD5"

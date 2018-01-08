@@ -1,0 +1,9 @@
+	permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome	"microphthalmia, isolated, with coloboma 3"	isolated microphthalmia 2	pancreatic agenesis 2
+E-box binding	1.0	0.0	0.0	1.0
+generation of neurons	1.0	0.0	0.0	1.0
+exocrine pancreas development	1.0	0.0	0.0	1.0
+embryo development	1.0	0.0	0.0	1.0
+retinoic acid receptor signaling pathway	1.0	0.0	0.0	1.0
+tissue development	1.0	0.0	0.0	1.0
+regulation of neural retina development	1.0	1.0	1.0	1.0
+amacrine cell differentiation	1.0	0.0	0.0	1.0

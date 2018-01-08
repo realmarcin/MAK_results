@@ -1,0 +1,8 @@
+	Apert syndrome	Crouzon syndrome	Beare-Stevenson cutis gyrata syndrome	Hartsfield-Bixler-Demyer syndrome
+fibroblast growth factor-activated receptor activity	1.0	1.0	1.0	1.0
+fibroblast growth factor receptor signaling pathway	1.0	1.0	1.0	1.0
+midbrain development	1.0	1.0	1.0	1.0
+determination of liver left/right asymmetry	1.0	1.0	1.0	0.0
+cell proliferation in midbrain	1.0	1.0	1.0	0.0
+determination of left/right asymmetry in lateral mesoderm	1.0	1.0	1.0	0.0
+determination of pancreatic left/right asymmetry	1.0	1.0	1.0	0.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Carney.Stratakis.syndrome"
+"2" "paragangliomas.4"
+"3" "Cowden.syndrome.2"

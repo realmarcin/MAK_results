@@ -1,0 +1,7 @@
+	colorectal adenocarcinoma	"essential hypertension, genetic"	familial expansile osteolysis	"Paget disease of bone 2, early-onset"	inflammatory bowel disease 14	"systemic lupus erythematosus, susceptibility to, 10"	autosomal recessive osteopetrosis 7	hereditary thrombocytopenia with early-onset myelofibrosis
+response to interleukin-1	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+response to peptidoglycan	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+Toll signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+interleukin-1 receptor binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+MyD88-dependent toll-like receptor signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+type I interferon biosynthetic process	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

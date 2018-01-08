@@ -1,0 +1,6 @@
+	ankyloblepharon-ectodermal defects-cleft lip/palate syndrome	branchiooculofacial syndrome	Rapp-Hodgkin syndrome	limb-mammary syndrome	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3"	split hand-foot malformation 4
+embryonic forelimb morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+MDM2/MDM4 family protein binding	1.0	0.0	1.0	1.0	1.0	1.0
+epidermis morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+sympathetic nervous system development	1.0	1.0	1.0	1.0	1.0	1.0
+cognition	0.0	0.0	0.0	0.0	0.0	0.0

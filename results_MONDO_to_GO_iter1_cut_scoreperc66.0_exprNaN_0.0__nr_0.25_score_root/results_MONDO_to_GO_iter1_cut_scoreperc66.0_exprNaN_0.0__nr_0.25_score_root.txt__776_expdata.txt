@@ -1,0 +1,11 @@
+	familial porphyria cutanea tarda	variegate porphyria	"Microvascular complications of diabetes, susceptibility to, 7"
+mitochondrion	0.0	1.0	0.0
+oxidation-reduction process	0.0	1.0	0.0
+oxidoreductase activity	0.0	1.0	0.0
+beta-2-microglobulin binding	1.0	1.0	1.0
+mitochondrial inner membrane	0.0	1.0	0.0
+mitochondrial membrane	0.0	1.0	0.0
+integral component of mitochondrial inner membrane	0.0	1.0	0.0
+intrinsic component of mitochondrial inner membrane	0.0	1.0	0.0
+oxygen-dependent protoporphyrinogen oxidase activity	0.0	1.0	0.0
+protoporphyrinogen IX metabolic process	0.0	1.0	0.0

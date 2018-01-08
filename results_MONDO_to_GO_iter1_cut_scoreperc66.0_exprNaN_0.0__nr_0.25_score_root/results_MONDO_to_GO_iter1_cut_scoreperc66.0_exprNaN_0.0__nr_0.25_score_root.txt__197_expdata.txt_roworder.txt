@@ -1,0 +1,8 @@
+"x"
+"1" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.partial.IRF8.deficiency"
+"2" "Monocyte.and.dendritic.cell.deficiency..autosomal.recessive"
+"3" "Alzheimer.disease.type.1"
+"4" "lysinuric.protein.intolerance"
+"5" "recurrent.infection.due.to.specific.granule.deficiency"
+"6" "cerebral.amyloid.angiopathy..App.related"
+"7" "SLEB6"

@@ -1,0 +1,8 @@
+	hypophosphatemic nephrolithiasis/osteoporosis 2	autosomal recessive nonsyndromic deafness 104	Takenouchi-Kosaki syndrome; TKS	"Iga nephropathy, susceptibility to, 3; IGAN3"
+apical part of cell	1.0	0.0	1.0	0.0
+regulation of protein kinase activity	1.0	0.0	1.0	0.0
+nuclear migration	1.0	0.0	1.0	0.0
+positive regulation of filopodium assembly	0.0	1.0	1.0	0.0
+cell periphery	1.0	0.0	1.0	0.0
+cellular protein localization	1.0	0.0	1.0	0.0
+establishment of Golgi localization	1.0	0.0	1.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Neu.Laxova.syndrome.1"
+"2" "PHGDH.deficiency"
+"3" "syndromic.X.linked.intellectual.disability.type.10"
+"4" "HSD10.disease"

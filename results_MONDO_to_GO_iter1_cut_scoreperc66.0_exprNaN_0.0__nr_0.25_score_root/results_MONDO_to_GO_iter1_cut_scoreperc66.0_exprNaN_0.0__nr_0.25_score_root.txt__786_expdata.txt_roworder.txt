@@ -1,0 +1,7 @@
+"x"
+"1" "SCZD6"
+"2" "growth.delay.due.to.insulin.like.growth.factor.type.1.deficiency"
+"3" "growth.delay.due.to.insulin.like.growth.factor.i.resistance"
+"4" "schizophrenia.9"
+"5" "hereditary.sensory.and.autonomic.neuropathy.type.5"
+"6" "caudal.duplication"

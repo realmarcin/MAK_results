@@ -1,0 +1,7 @@
+	craniofrontonasal syndrome	Horizontal gaze palsy with progressive scoliosis	vesicoureteral reflux 2	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency
+integral component of membrane	1.0	1.0	1.0	0.0
+membrane	1.0	1.0	1.0	0.0
+protein binding	1.0	1.0	1.0	0.0
+axon guidance	1.0	1.0	1.0	0.0
+axon midline choice point recognition	0.0	1.0	1.0	0.0
+Roundabout signaling pathway	0.0	1.0	1.0	0.0

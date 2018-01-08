@@ -1,0 +1,4 @@
+	"favism, susceptibility to"	"anemia, nonspherocytic hemolytic, due to G6Pd deficiency"	cortisone reductase deficiency 1
+"pentose-phosphate shunt, oxidative branch"	1.0	1.0	1.0
+glucose-6-phosphate dehydrogenase activity	1.0	1.0	1.0
+glucose 1-dehydrogenase [NAD(P)] activity	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "abetalipoproteinemia"
+"2" "metabolic.syndrome.X"
+"3" "hereditary.spastic.paraplegia.18"
+"4" "congenital.adrenal.insufficiency"
+"5" "LIPE.related.familial.partial.lipodystrophy"

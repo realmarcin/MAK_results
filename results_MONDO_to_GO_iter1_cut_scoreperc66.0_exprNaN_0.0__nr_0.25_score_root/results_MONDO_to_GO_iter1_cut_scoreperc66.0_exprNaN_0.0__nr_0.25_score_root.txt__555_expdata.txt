@@ -1,0 +1,10 @@
+	COPD	Heme oxygenase 1 deficiency	neurodegeneration with brain iron accumulation 4	hereditary spastic paraplegia 43
+integral component of membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+apoptotic process	1.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0
+cytosol	1.0	1.0	1.0	1.0
+cellular_component	1.0	1.0	1.0	1.0
+response to oxidative stress	1.0	1.0	1.0	1.0
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1.0	1.0	0.0	0.0
+erythrocyte homeostasis	1.0	1.0	0.0	0.0

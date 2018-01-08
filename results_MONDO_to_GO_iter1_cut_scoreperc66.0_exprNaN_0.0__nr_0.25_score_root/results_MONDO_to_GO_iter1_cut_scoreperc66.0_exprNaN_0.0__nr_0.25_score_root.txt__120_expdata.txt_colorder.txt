@@ -1,0 +1,5 @@
+"x"
+"1" "endodeoxyribonuclease activity"
+"2" "four-way junction DNA binding"
+"3" "Holliday junction resolvase complex"
+"4" "crossover junction endodeoxyribonuclease activity"

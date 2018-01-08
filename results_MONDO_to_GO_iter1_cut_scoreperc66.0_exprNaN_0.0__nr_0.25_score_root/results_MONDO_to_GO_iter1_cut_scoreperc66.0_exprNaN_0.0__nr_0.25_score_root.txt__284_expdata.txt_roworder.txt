@@ -1,0 +1,5 @@
+"x"
+"1" "attention.deficit.hyperactivity.disorder"
+"2" "tremor..hereditary.essential..1"
+"3" "prune.belly.syndome"
+"4" "cone.rod.dystrophy.10"

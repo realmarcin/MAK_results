@@ -1,0 +1,7 @@
+	brachydactyly-arterial hypertension syndrome	congenital stationary night blindness autosomal dominant 2	"stroke, susceptibility to, 1"	autosomal dominant striatal neurodegeneration type 1	retinitis pigmentosa 40	retinitis pigmentosa 43	"pigmented nodular adrenocortical disease, primary, 3"	acrodysostosis 2 with or without hormone resistance
+"3',5'-cyclic-nucleotide phosphodiesterase activity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+phosphoric diester hydrolase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"3',5'-cyclic-GMP phosphodiesterase activity"	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+cGMP binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+transmembrane transporter complex	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cyclic nucleotide metabolic process	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

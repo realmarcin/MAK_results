@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "metal ion binding"
+"3" "RNA binding"
+"4" "nucleic acid binding"
+"5" "cell projection"
+"6" "negative regulation of transcription from RNA polymerase II promoter"
+"7" "translation"

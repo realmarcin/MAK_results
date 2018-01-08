@@ -1,0 +1,21 @@
+	hypotrichosis 4	alopecia universalis	atrichia with papular lesions	mitochondrial complex III deficiency nuclear type 2
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	0.0
+DNA binding	1.0	1.0	1.0	0.0
+"negative regulation of transcription, DNA-templated"	1.0	1.0	1.0	0.0
+negative regulation of DNA binding transcription factor activity	1.0	1.0	1.0	0.0
+"transcription, DNA-templated"	1.0	1.0	1.0	0.0
+metal ion binding	1.0	1.0	1.0	0.0
+chromatin	1.0	1.0	1.0	0.0
+nucleoplasm	1.0	1.0	1.0	0.0
+oxidoreductase activity	1.0	1.0	1.0	0.0
+transcription corepressor activity	1.0	1.0	1.0	0.0
+protein heterooligomerization	1.0	1.0	1.0	0.0
+transcription regulatory region sequence-specific DNA binding	1.0	1.0	1.0	0.0
+nuclear body	1.0	1.0	1.0	0.0
+histone H3-K9 demethylation	1.0	1.0	1.0	0.0
+thyroid hormone receptor binding	1.0	1.0	1.0	0.0
+histone deacetylase binding	1.0	1.0	1.0	0.0
+vitamin D receptor binding	1.0	1.0	1.0	0.0
+histone deacetylase complex	1.0	1.0	1.0	0.0
+chromatin DNA binding	1.0	1.0	1.0	0.0
+histone demethylase activity (H3-K9 specific)	1.0	1.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "iridogoniodysgenesis..type.2"
+"2" "Axenfeld.Rieger.syndrome.type.1"
+"3" "ring.dermoid.of.cornea"
+"4" "Peters.anomaly..disease."
+"5" "craniosynostosis.1"
+"6" "Robinow.Sorauf.syndrome"
+"7" "neurodegenerative.syndrome.due.to.cerebral.folate.transport.deficiency"

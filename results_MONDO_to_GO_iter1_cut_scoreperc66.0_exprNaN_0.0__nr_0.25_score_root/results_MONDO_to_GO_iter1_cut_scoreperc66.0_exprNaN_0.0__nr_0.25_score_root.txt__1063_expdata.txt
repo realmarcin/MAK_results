@@ -1,0 +1,24 @@
+	acromelic frontonasal dysostosis	autosomal recessive early-onset Parkinson disease 7	"chondrodysplasia with joint dislocations, gPAPP type"	nucleoside diphosphate-linked Moiety X Motif 15 deficiency; NUDT15D
+plasma membrane	0.0	1.0	0.0	0.0
+membrane raft	0.0	1.0	0.0	0.0
+glucose homeostasis	0.0	1.0	0.0	0.0
+regulation of neuron apoptotic process	0.0	1.0	0.0	0.0
+mRNA binding	0.0	1.0	0.0	0.0
+response to oxidative stress	0.0	1.0	0.0	0.0
+inflammatory response	0.0	1.0	0.0	0.0
+DNA repair	0.0	1.0	0.0	0.0
+protein stabilization	0.0	1.0	0.0	0.0
+peptidase activity	0.0	1.0	0.0	0.0
+negative regulation of cell death	0.0	1.0	0.0	0.0
+autophagy	0.0	1.0	0.0	0.0
+RNA binding	0.0	1.0	0.0	0.0
+cellular response to oxidative stress	0.0	1.0	0.0	0.0
+single fertilization	0.0	1.0	0.0	0.0
+cellular response to hydrogen peroxide	0.0	1.0	0.0	0.0
+insulin secretion	0.0	1.0	0.0	0.0
+negative regulation of reactive oxygen species biosynthetic process	0.0	1.0	0.0	0.0
+mitochondrial respiratory chain complex I	0.0	1.0	0.0	0.0
+"guanine deglycation, glyoxal removal"	0.0	1.0	0.0	0.0
+guanine deglycation	0.0	1.0	0.0	0.0
+"guanine deglycation, methylglyoxal removal"	0.0	1.0	0.0	0.0
+positive regulation of oxidative phosphorylation uncoupler activity	0.0	1.0	0.0	0.0

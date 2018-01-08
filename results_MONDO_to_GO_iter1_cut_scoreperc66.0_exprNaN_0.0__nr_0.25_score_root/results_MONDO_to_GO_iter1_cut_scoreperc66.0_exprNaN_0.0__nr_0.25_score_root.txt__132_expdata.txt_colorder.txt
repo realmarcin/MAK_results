@@ -1,0 +1,7 @@
+"x"
+"1" "L-phenylalanine catabolic process"
+"2" "tyrosine catabolic process"
+"3" "aromatic amino acid family metabolic process"
+"4" "L-phenylalanine:2-oxoglutarate aminotransferase activity"
+"5" "aromatic amino acid family catabolic process"
+"6" "L-tyrosine:2-oxoglutarate aminotransferase activity"

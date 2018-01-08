@@ -1,0 +1,6 @@
+"x"
+"1" "signal transduction"
+"2" "regulation of transcription, DNA-templated"
+"3" "receptor activity"
+"4" "coreceptor activity"
+"5" "inhibin binding"

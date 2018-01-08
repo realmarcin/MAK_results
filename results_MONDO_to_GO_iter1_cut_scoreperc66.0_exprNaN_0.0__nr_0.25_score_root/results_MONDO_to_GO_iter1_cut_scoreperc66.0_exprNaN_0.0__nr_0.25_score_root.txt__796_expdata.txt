@@ -1,0 +1,7 @@
+	branchiootorenal syndrome 1	phaeochromocytoma	autosomal dominant nonsyndromic deafness 23	radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome	branchiootic syndrome 3	"deafness with labyrinthine aplasia, microtia, and microdontia"	"Hirschsprung disease, susceptibility to, 3"
+negative regulation of osteoblast differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mesenchymal cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+organ induction	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+middle ear morphogenesis	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+negative regulation of endodermal cell fate specification	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of ureteric bud formation	1.0	1.0	1.0	0.0	1.0	0.0	1.0

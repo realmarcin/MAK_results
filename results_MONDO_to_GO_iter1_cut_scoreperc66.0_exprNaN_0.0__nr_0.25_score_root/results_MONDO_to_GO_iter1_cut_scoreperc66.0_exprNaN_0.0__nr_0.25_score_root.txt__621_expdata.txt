@@ -1,0 +1,9 @@
+	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	mucocutaneous lymph node syndrome	childhood encephalopathy due to thiamine pyrophosphokinase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+phosphorylation	0.0	1.0	1.0	0.0	0.0
+nucleotide binding	0.0	1.0	1.0	1.0	0.0
+cytoplasm	0.0	1.0	1.0	1.0	1.0
+kinase activity	0.0	1.0	1.0	0.0	0.0
+ATP binding	0.0	1.0	1.0	1.0	0.0
+thiamine diphosphokinase activity	0.0	0.0	1.0	0.0	0.0
+thiamine diphosphate biosynthetic process	0.0	0.0	1.0	0.0	0.0
+thiamine metabolic process	0.0	0.0	1.0	0.0	0.0

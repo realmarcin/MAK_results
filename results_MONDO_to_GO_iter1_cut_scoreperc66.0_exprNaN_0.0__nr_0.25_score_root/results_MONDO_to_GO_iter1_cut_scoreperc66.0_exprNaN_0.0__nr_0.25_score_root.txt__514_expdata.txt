@@ -1,0 +1,6 @@
+	"glaucoma 1, open angle, a"	esophageal atresia/tracheoesophageal fistula	CHARGE syndrome	juvenile myelomonocytic leukemia	hypogonadotropic hypogonadism 5 with or without anosmia
+peripheral nervous system development	0.0	0.0	0.0	1.0	0.0
+atrioventricular canal development	0.0	1.0	1.0	1.0	1.0
+genitalia development	0.0	1.0	1.0	1.0	1.0
+myelination in peripheral nervous system	1.0	1.0	1.0	1.0	1.0
+negative regulation of cell-matrix adhesion	1.0	0.0	1.0	1.0	0.0

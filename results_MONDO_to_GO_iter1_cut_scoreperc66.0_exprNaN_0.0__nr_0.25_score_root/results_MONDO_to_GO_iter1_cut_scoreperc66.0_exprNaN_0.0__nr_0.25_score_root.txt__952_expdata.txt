@@ -1,0 +1,6 @@
+	nonsyndromic congenital nail disorder 3	congenital afibrinogenemia	autosomal recessive limb-girdle muscular dystrophy type 2A	"mental retardation, X-linked 41"	"citrullinemia, type Ii, adult-onset"	neonatal intrahepatic cholestasis due to citrin deficiency	ALG2-CDG	cone-rod dystrophy 9	epileptic encephalopathy with global cerebral demyelination	"pregnancy loss, recurrent, susceptibility to, 3"	"epileptic encephalopathy, early infantile, 24"	familial dysfibrinogenemia	congenital myasthenic syndrome 14	spinocerebellar ataxia type 41
+cell morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of protein secretion	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+structural constituent of muscle	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of catalytic activity	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+response to calcium ion	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,9 @@
+	cyclic hematopoiesis	autosomal dominant severe congenital neutropenia	hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	"Hirschsprung disease, cardiac defects, and autonomic dysfunction"	hereditary pediatric BehC'et-like disease
+hydrolase activity	1.0	1.0	0.0	1.0	1.0
+extracellular exosome	1.0	1.0	0.0	1.0	1.0
+secretory granule	1.0	1.0	0.0	1.0	0.0
+peptidase activity	1.0	1.0	0.0	1.0	1.0
+endopeptidase activity	1.0	1.0	0.0	1.0	0.0
+protease binding	1.0	1.0	0.0	0.0	1.0
+proteolysis	1.0	1.0	0.0	1.0	1.0
+defense response to fungus	1.0	1.0	1.0	0.0	0.0

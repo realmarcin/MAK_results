@@ -1,0 +1,20 @@
+	growth hormone secreting pituitary adenoma	Albright's hereditary osteodystrophy	amelogenesis imperfecta type 1A	hypocalcified amelogenesis imperfecta	multiple endocrine neoplasia type 1	Sorsby's fundus dystrophy	osteoarthritis susceptibility 2	progressive osseous heteroplasia	Kindler syndrome	polyostotic fibrous dysplasia	hereditary spastic paraplegia 4	Wolff-Parkinson-white syndrome (disease)	Cenani-Lenz syndactyly syndrome	Cushing syndrome due to macronodular adrenal hyperplasia	"cutis laxa, autosomal recessive, type 1A"	hypertrichotic osteochondrodysplasia Cantu type	primary ciliary dyskinesia 1	pseudohypoparathyroidism type 1B	pseudohypoparathyroidism type 1C	pseudopseudohypoparathyroidism
+signal transducer activity	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+signal transduction	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+nucleotide binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+Golgi apparatus	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+corticotropin-releasing hormone receptor 1 binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+adenylate cyclase-activating dopamine receptor signaling pathway	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+sensory perception of chemical stimulus	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+heterotrimeric G-protein complex	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+mu-type opioid receptor binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+D1 dopamine receptor binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+ionotropic glutamate receptor binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+sarcolemma	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+G-protein beta/gamma-subunit complex binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+GTPase activity	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+insulin-like growth factor receptor binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+GTP binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+beta-2 adrenergic receptor binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+guanyl nucleotide binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	exfoliation syndrome	"asthma, nasal polyps, and Aspirin intolerance"	autosomal recessive limb-girdle muscular dystrophy type 2W	"aortic aneurysm, familial thoracic 10; AAT10"
+protein-lysine 6-oxidase activity	1.0	0.0	0.0	1.0
+peptidyl-lysine oxidation	1.0	0.0	0.0	1.0
+"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor"	1.0	0.0	0.0	1.0
+positive regulation of integrin-mediated signaling pathway	1.0	0.0	1.0	1.0
+negative regulation of T-helper 17 cell lineage commitment	1.0	1.0	0.0	1.0
+fibronectin fibril organization	1.0	0.0	0.0	1.0

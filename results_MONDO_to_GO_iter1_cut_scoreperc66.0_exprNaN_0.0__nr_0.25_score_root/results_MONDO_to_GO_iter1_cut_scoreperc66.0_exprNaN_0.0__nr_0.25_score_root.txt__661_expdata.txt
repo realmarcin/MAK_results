@@ -1,0 +1,7 @@
+	familial male-limited precocious puberty	46 XX gonadal dysgenesis	"leydig cell hypoplasia, type 1"	ovarian hyperstimulation syndrome	Fanconi anemia complementation group j	spermatogenic failure 11
+spermatogenesis	1.0	1.0	1.0	1.0	1.0	0.0
+female gonad development	1.0	1.0	1.0	1.0	0.0	0.0
+male gonad development	1.0	1.0	1.0	1.0	1.0	1.0
+sex determination	0.0	0.0	0.0	0.0	0.0	0.0
+spermatid development	0.0	1.0	0.0	1.0	1.0	1.0
+follicle-stimulating hormone receptor activity	1.0	1.0	1.0	1.0	0.0	0.0

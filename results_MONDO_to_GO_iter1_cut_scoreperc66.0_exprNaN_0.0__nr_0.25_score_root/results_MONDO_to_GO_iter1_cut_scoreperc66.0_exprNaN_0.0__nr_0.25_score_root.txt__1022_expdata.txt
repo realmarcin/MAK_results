@@ -1,0 +1,14 @@
+	spinocerebellar ataxia type 2	syndromic X-linked intellectual disability 14	leukoencephalopathy with vanishing white matter	"mental retardation, autosomal recessive 2"	sudden infant death-dysgenesis of the testes syndrome	combined oxidative phosphorylation defect type 15
+trans-Golgi network	1.0	0.0	0.0	0.0	0.0	0.0
+RNA binding	1.0	0.0	0.0	0.0	0.0	0.0
+cerebellar Purkinje cell differentiation	1.0	0.0	0.0	0.0	0.0	0.0
+neuromuscular process	1.0	0.0	0.0	0.0	0.0	0.0
+protein C-terminus binding	1.0	0.0	0.0	0.0	0.0	0.0
+homeostasis of number of cells	1.0	0.0	0.0	0.0	0.0	0.0
+neuron projection morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of translation	1.0	0.0	0.0	0.0	0.0	0.0
+maintenance of rDNA	1.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of receptor internalization	1.0	0.0	0.0	0.0	0.0	0.0
+regulation of cytoplasmic mRNA processing body assembly	1.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of multicellular organism growth	1.0	0.0	0.0	0.0	0.0	0.0
+epidermal growth factor receptor binding	1.0	0.0	0.0	0.0	0.0	0.0

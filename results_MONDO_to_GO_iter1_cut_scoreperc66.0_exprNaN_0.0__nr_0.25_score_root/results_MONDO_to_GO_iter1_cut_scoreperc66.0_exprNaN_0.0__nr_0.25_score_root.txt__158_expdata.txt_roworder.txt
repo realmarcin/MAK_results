@@ -1,0 +1,5 @@
+"x"
+"1" "aortic.aneurysm..familial.thoracic.8"
+"2" "congenital.plasminogen.activator.inhibitor.type.1.deficiency"
+"3" "Adams.Oliver.syndrome.3"
+"4" "familial.temporal.lobe.epilepsy.8"

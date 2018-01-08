@@ -1,0 +1,16 @@
+	"acrofacial dysostosis, Weyers type"	heart defect-tongue hamartoma-polysyndactyly syndrome	Ellis-van Creveld syndrome	Bardet-Biedl syndrome 15
+cilium assembly	0.0	1.0	0.0	1.0
+embryonic organ development	0.0	1.0	0.0	1.0
+cell projection organization	0.0	1.0	0.0	1.0
+digestive system development	0.0	1.0	0.0	1.0
+regulation of establishment of cell polarity	0.0	1.0	0.0	1.0
+cardiovascular system development	0.0	1.0	0.0	1.0
+establishment of protein localization	0.0	1.0	0.0	1.0
+respiratory system development	0.0	1.0	0.0	1.0
+cilium organization	0.0	1.0	0.0	1.0
+auditory receptor cell morphogenesis	0.0	1.0	0.0	1.0
+regulation of focal adhesion assembly	0.0	1.0	0.0	1.0
+glomerular visceral epithelial cell migration	0.0	1.0	0.0	1.0
+axonemal basal plate	0.0	1.0	0.0	1.0
+regulation of ruffle assembly	0.0	1.0	0.0	1.0
+regulation of fibroblast migration	0.0	1.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of triglyceride biosynthetic process"
+"2" "very-low-density lipoprotein particle assembly"
+"3" "long-chain fatty-acyl-CoA metabolic process"
+"4" "positive regulation of fatty acid oxidation"
+"5" "fatty-acyl-CoA reductase (alcohol-forming) activity"
+"6" "wax biosynthetic process"

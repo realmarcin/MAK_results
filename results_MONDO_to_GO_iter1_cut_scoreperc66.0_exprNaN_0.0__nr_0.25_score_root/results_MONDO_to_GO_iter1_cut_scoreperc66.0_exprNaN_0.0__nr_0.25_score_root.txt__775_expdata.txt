@@ -1,0 +1,13 @@
+	achondrogenesis type IA	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18
+bone development	1.0	0.0	0.0	0.0
+ventricular septum development	1.0	0.0	0.0	0.0
+chondrocyte differentiation involved in endochondral bone morphogenesis	1.0	0.0	0.0	0.0
+nuclear speck	1.0	0.0	0.0	0.0
+protein glycosylation	1.0	0.0	0.0	0.0
+GTPase binding	1.0	0.0	0.0	0.0
+inner ear receptor cell stereocilium organization	1.0	0.0	0.0	0.0
+cis-Golgi network	1.0	0.0	0.0	0.0
+Golgi lumen	1.0	0.0	0.0	0.0
+outer acrosomal membrane	1.0	0.0	0.0	0.0
+acrosomal membrane	1.0	0.0	0.0	0.0
+inner acrosomal membrane	1.0	0.0	0.0	0.0

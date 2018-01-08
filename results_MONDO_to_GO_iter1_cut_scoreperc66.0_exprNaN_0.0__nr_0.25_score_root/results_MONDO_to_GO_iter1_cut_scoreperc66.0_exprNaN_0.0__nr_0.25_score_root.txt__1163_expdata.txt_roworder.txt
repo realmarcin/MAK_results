@@ -1,0 +1,7 @@
+"x"
+"1" "renal.coloboma.syndrome"
+"2" "renal.agenesis..disease."
+"3" "generalized.resistance.to.thyroid.hormone"
+"4" "focal.segmental.glomerulosclerosis.7"
+"5" "autosomal.dominant.nonsyndromic.deafness.10"
+"6" "dilated.cardiomyopathy.1J"

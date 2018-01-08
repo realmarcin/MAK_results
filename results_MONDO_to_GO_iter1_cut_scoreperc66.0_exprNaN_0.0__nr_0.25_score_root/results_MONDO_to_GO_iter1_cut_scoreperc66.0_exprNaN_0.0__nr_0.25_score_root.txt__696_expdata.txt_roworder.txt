@@ -1,0 +1,7 @@
+"x"
+"1" "absence.of.fingerprints.congenital.milia.syndrome"
+"2" "isolated.congenital.adermatoglyphia"
+"3" "Meier.Gorlin.syndrome.1"
+"4" "immunodeficiency.centromeric.instability.facial.anomalies.syndrome.4"
+"5" "Schimke.immuno.osseous.dysplasia"
+"6" "Meier.Gorlin.syndrome.3"

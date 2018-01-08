@@ -1,0 +1,5 @@
+	Sengers syndrome	retinitis pigmentosa 26	cataract 38	immunoglobulin-mediated membranoproliferative glomerulonephritis	progressive encephalopathy with leukodystrophy due to DECR deficiency
+lipid phosphorylation	1.0	0.0	1.0	1.0	0.0
+diacylglycerol kinase activity	1.0	0.0	1.0	1.0	0.0
+glycerolipid metabolic process	1.0	0.0	1.0	0.0	0.0
+NAD+ kinase activity	1.0	1.0	1.0	1.0	1.0

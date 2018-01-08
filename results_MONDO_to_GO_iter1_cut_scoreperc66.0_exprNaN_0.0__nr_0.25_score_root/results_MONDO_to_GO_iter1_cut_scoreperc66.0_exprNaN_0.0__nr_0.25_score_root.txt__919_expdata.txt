@@ -1,0 +1,11 @@
+	neurodegeneration with brain iron accumulation 2a	mitochondrial DNA depletion syndrome 1	neurodegeneration with brain iron accumulation 2b	autosomal recessive Parkinson disease 14	DOCK2 deficiency
+signal transducer activity	0.0	0.0	0.0	0.0	0.0
+signal transduction	0.0	0.0	0.0	0.0	0.0
+G-protein coupled receptor activity	0.0	0.0	0.0	0.0	0.0
+G-protein coupled receptor signaling pathway	0.0	0.0	0.0	0.0	0.0
+cytosol	1.0	1.0	1.0	1.0	0.0
+metabolic process	1.0	1.0	1.0	1.0	0.0
+mitochondrion	1.0	1.0	1.0	1.0	1.0
+cytokine-mediated signaling pathway	0.0	0.0	0.0	0.0	0.0
+negative regulation of cell migration	0.0	0.0	0.0	0.0	0.0
+chemotaxis	1.0	1.0	1.0	1.0	1.0

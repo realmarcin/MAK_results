@@ -1,0 +1,7 @@
+"x"
+"1" "DNA-methyltransferase activity"
+"2" "DNA (cytosine-5-)-methyltransferase activity"
+"3" "DNA methylation on cytosine"
+"4" "DNA methylation involved in embryo development"
+"5" "C-5 methylation of cytosine"
+"6" "DNA methylation on cytosine within a CG sequence"

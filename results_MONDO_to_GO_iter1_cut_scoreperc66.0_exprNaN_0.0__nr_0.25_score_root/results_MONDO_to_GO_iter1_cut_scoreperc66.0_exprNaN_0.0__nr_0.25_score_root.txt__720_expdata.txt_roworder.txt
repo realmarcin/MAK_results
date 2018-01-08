@@ -1,0 +1,5 @@
+"x"
+"1" "papillary.renal.cell.carcinoma"
+"2" "Osteofibrous.dysplasia"
+"3" "autosomal.recessive.nonsyndromic.deafness.97"
+"4" "hereditary.sensory.and.autonomic.neuropathy.type.4"

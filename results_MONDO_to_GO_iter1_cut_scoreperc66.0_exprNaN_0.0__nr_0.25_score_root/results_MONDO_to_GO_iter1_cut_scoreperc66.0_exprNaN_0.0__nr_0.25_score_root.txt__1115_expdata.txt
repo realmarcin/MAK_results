@@ -1,0 +1,21 @@
+	PLIN1-related familial partial lipodystrophy	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Adams-Oliver syndrome 4	polyglucosan body myopathy 1 with or without immunodeficiency	spinocerebellar ataxia type 38
+neuronal cell body	0.0	0.0	0.0	0.0	1.0
+post-Golgi vesicle-mediated transport	0.0	0.0	0.0	0.0	1.0
+positive regulation of fatty acid biosynthetic process	0.0	0.0	0.0	0.0	1.0
+vesicle-mediated transport	0.0	0.0	0.0	0.0	1.0
+fatty acid biosynthetic process	0.0	0.0	0.0	0.0	1.0
+long-chain fatty acid biosynthetic process	0.0	0.0	0.0	0.0	1.0
+late endosome to vacuole transport via multivesicular body sorting pathway	0.0	0.0	0.0	0.0	1.0
+very long-chain fatty acid biosynthetic process	0.0	0.0	0.0	0.0	1.0
+fatty acid elongation	0.0	0.0	0.0	0.0	1.0
+3-oxo-arachidoyl-CoA synthase activity	0.0	0.0	0.0	0.0	1.0
+3-oxo-cerotoyl-CoA synthase activity	0.0	0.0	0.0	0.0	1.0
+dendritic tree	0.0	0.0	0.0	0.0	1.0
+"fatty acid elongation, unsaturated fatty acid"	0.0	0.0	0.0	0.0	1.0
+long-chain fatty-acyl-CoA biosynthetic process	0.0	0.0	0.0	0.0	1.0
+fatty acid elongase activity	0.0	0.0	0.0	0.0	1.0
+"fatty acid elongation, monounsaturated fatty acid"	0.0	0.0	0.0	0.0	1.0
+"fatty acid elongation, saturated fatty acid"	0.0	0.0	0.0	0.0	1.0
+3-oxo-lignoceronyl-CoA synthase activity	0.0	0.0	0.0	0.0	1.0
+unsaturated fatty acid biosynthetic process	0.0	0.0	0.0	0.0	1.0
+"fatty acid elongation, polyunsaturated fatty acid"	0.0	0.0	0.0	0.0	1.0

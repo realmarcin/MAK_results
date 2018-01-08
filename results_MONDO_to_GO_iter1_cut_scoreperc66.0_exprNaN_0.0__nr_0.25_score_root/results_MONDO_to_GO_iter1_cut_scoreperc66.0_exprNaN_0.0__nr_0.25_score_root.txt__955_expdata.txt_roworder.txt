@@ -1,0 +1,6 @@
+"x"
+"1" "Amelocerebrohypohidrotic.syndrome"
+"2" "polyendocrine.polyneuropathy.syndrome"
+"3" "autosomal.recessive.osteopetrosis.8"
+"4" "hypomyelinating.leukodystrophy.13"
+"5" "arthrogryposis..renal.dysfunction..and.cholestasis.2"

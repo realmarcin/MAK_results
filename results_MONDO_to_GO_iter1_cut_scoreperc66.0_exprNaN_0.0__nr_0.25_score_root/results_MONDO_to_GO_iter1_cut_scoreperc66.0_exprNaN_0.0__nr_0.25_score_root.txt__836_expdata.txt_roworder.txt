@@ -1,0 +1,7 @@
+"x"
+"1" "androgen.insensitivity.syndrome"
+"2" "hypospadias.1..X.linked"
+"3" "partial.androgen.insensitivity.syndrome"
+"4" "Kennedy.s.disease"
+"5" "psoriatic.arthritis"
+"6" "leprosy..susceptibility.to..4"

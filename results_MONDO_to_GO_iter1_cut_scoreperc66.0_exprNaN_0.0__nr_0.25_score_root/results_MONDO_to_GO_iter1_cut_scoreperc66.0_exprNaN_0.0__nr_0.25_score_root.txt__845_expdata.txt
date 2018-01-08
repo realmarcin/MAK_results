@@ -1,0 +1,7 @@
+	FRAXE intellectual disability	THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome	autosomal systemic lupus erythematosus	"prostate cancer, hereditary, 2"	combined oxidative phosphorylation defect type 17	platelet-type bleeding disorder 20	Tokita-Kim syndrome; TOKIMS
+microtubule cytoskeleton organization	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+RNA binding	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+mitotic cytokinesis	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+head development	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"regulation of mRNA splicing, via spliceosome"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+RS domain binding	0.0	0.0	0.0	0.0	0.0	0.0	1.0

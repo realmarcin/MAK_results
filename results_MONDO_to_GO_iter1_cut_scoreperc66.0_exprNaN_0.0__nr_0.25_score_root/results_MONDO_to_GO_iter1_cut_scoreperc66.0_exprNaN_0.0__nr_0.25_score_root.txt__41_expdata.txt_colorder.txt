@@ -1,0 +1,8 @@
+"x"
+"1" "postsynaptic neurotransmitter receptor diffusion trapping"
+"2" "molybdenum incorporation into molybdenum-molybdopterin complex"
+"3" "glycine receptor clustering"
+"4" "molybdopterin molybdotransferase activity"
+"5" "gamma-aminobutyric acid receptor clustering"
+"6" "postsynaptic specialization"
+"7" "nitrate reductase activity"

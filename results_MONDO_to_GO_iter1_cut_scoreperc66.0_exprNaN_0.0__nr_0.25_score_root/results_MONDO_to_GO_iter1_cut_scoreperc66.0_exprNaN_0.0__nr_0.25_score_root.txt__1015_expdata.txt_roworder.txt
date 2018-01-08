@@ -1,0 +1,5 @@
+"x"
+"1" "hypotrichosis.4"
+"2" "alopecia.universalis"
+"3" "atrichia.with.papular.lesions"
+"4" "mitochondrial.complex.III.deficiency.nuclear.type.2"

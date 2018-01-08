@@ -1,0 +1,6 @@
+"x"
+"1" "phosphate ion binding"
+"2" "integral component of cell outer membrane"
+"3" "phosphate ion transport"
+"4" "sodium:inorganic phosphate symporter activity"
+"5" "response to mercury ion"

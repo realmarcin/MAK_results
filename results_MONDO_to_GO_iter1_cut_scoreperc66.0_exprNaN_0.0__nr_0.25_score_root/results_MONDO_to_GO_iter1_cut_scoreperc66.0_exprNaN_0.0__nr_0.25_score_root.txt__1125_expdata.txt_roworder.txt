@@ -1,0 +1,7 @@
+"x"
+"1" "Fechtner.syndrome"
+"2" "Epstein.syndrome"
+"3" "May.Hegglin.anomaly"
+"4" "macrothrombocytopenia.and.progressive.sensorineural.deafness"
+"5" "autosomal.dominant.nonsyndromic.deafness.17"
+"6" "Sebastian.syndrome"

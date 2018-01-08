@@ -1,0 +1,7 @@
+	spondyloepiphyseal dysplasia with congenital joint dislocations	macular corneal dystrophy	pseudo-Hurler polydystrophy	SLC35A2-CDG	"Ehlers-Danlos syndrome, musculocontractural type"	SLC35A1-CDG	Amish infantile epilepsy syndrome	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 10"	autism spectrum disorder-epilepsy-arthrogryposis syndrome	peeling skin syndrome type a
+"transferase activity, transferring glycosyl groups"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+protein N-linked glycosylation via asparagine	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+oligosaccharide metabolic process	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+glycosphingolipid biosynthetic process	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"lactosylceramide alpha-2,3-sialyltransferase activity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+sialyltransferase activity	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

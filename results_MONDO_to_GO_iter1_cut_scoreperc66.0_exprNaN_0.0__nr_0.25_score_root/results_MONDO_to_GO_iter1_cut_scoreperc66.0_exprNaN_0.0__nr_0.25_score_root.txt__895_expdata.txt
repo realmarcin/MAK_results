@@ -1,0 +1,7 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	Carey-Fineman-Ziter  syndrome	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"	severe congenital hypochromic anemia with ringed sideroblasts	hereditary spastic paraplegia 61
+retina morphogenesis in camera-type eye	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+endoplasmic reticulum tubular network membrane organization	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Sec61 translocon complex	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+cotranslational protein targeting to membrane	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of L-glutamate transport	0.0	0.0	0.0	0.0	0.0	0.0	1.0

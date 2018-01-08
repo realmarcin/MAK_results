@@ -1,0 +1,5 @@
+"x"
+"1" "essential.hypertension..genetic"
+"2" "renal.tubular.dysgenesis.of.genetic.origin"
+"3" "SLEB6"
+"4" "autoimmune.lymphoproliferative.syndrome.type.3"

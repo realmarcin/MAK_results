@@ -1,0 +1,7 @@
+	Hereditary Progressive Chorea Without Dementia	"thyroid cancer, nonmedullary, 1"	Curry-Jones syndrome	brain-lung-thyroid syndrome	asphyxiating thoracic dystrophy 4	nephronophthisis 12
+forebrain development	1.0	1.0	1.0	1.0	0.0	0.0
+axon guidance	1.0	1.0	1.0	1.0	0.0	0.0
+neuron fate commitment	1.0	1.0	1.0	1.0	0.0	0.0
+forebrain dorsal/ventral pattern formation	1.0	1.0	1.0	1.0	1.0	1.0
+diencephalon development	1.0	1.0	1.0	1.0	0.0	0.0
+telencephalon development	1.0	1.0	1.0	1.0	0.0	0.0

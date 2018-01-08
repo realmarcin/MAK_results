@@ -1,0 +1,11 @@
+	Desbuquois dysplasia 1	polycystic kidney disease 3	"spondylocostal dysostosis 3, autosomal recessive"	"mental retardation, autosomal recessive 15"
+calcium ion binding	1.0	0.0	0.0	1.0
+extracellular vesicle	0.0	0.0	1.0	1.0
+N-glycan processing	0.0	1.0	0.0	1.0
+trimming of terminal mannose on B branch	0.0	0.0	0.0	1.0
+endoplasmic reticulum quality control compartment	0.0	0.0	0.0	1.0
+protein deglycosylation involved in glycoprotein catabolic process	0.0	0.0	0.0	1.0
+endoplasmic reticulum mannose trimming	0.0	0.0	0.0	1.0
+"protein alpha-1,2-demannosylation"	0.0	0.0	0.0	1.0
+"mannosyl-oligosaccharide 1,2-alpha-mannosidase activity"	0.0	0.0	0.0	1.0
+mannose trimming involved in glycoprotein ERAD pathway	0.0	0.0	0.0	1.0

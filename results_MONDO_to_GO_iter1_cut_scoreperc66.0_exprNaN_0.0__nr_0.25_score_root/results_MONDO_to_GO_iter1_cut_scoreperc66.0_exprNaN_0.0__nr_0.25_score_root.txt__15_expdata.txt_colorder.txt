@@ -1,0 +1,7 @@
+"x"
+"1" "UDP-N-acetylglucosamine biosynthetic process"
+"2" "fungal-type cell wall chitin biosynthetic process"
+"3" "glucosamine biosynthetic process"
+"4" "carbohydrate derivative biosynthetic process"
+"5" "glutamine-fructose-6-phosphate transaminase (isomerizing) activity"
+"6" "carbohydrate derivative metabolic process"

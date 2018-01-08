@@ -1,0 +1,7 @@
+	familial cerebral cavernous malformation	cerebral cavernous malformation 2	arrhythmogenic right ventricular dysplasia 9	myofibrillar myopathy 4	left ventricular noncompaction 7
+protein binding	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	0.0	1.0	1.0
+cytoskeleton	1.0	0.0	0.0	1.0	1.0
+in utero embryonic development	0.0	1.0	0.0	0.0	1.0
+blood vessel development	1.0	1.0	0.0	0.0	1.0
+heart development	1.0	1.0	1.0	1.0	1.0

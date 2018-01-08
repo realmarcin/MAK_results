@@ -1,0 +1,4 @@
+"x"
+"1" "Preimplantation.embryonic.lethality.2..PREMBL2"
+"2" "rheumatoid.arthritis"
+"3" "Uncombable.hair.syndrome"

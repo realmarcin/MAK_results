@@ -1,0 +1,6 @@
+	conotruncal heart malformations	lethal occipital encephalocele-skeletal dysplasia syndrome	"facial paresis, hereditary congenital, 3"	focal facial dermal dysplasia type IV
+atrial cardiac muscle cell development	1.0	0.0	0.0	1.0
+retinoic acid 4-hydroxylase activity	0.0	1.0	0.0	1.0
+rhombomere 4 morphogenesis	0.0	1.0	1.0	1.0
+retinoic acid catabolic process	0.0	1.0	0.0	1.0
+organelle fusion	0.0	0.0	0.0	1.0

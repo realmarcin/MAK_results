@@ -1,0 +1,6 @@
+	isolated polycystic liver disease	cataract 31 multiple types	neurodegenerative syndrome due to cerebral folate transport deficiency	autosomal dominant aplasia and myelodysplasia	polycystic liver disease 2; PCLD2	"hyperuricemic nephropathy, familial juvenile, 4; HNFJ4"
+cytosol to ER transport	1.0	0.0	0.0	0.0	1.0	0.0
+Sec62/Sec63 complex	1.0	0.0	0.0	0.0	1.0	0.0
+SRP-dependent cotranslational protein targeting to membrane	1.0	0.0	0.0	1.0	1.0	1.0
+posttranslational protein targeting to endoplasmic reticulum membrane	1.0	1.0	1.0	0.0	1.0	1.0
+"posttranslational protein targeting to membrane, translocation"	1.0	0.0	0.0	0.0	1.0	1.0

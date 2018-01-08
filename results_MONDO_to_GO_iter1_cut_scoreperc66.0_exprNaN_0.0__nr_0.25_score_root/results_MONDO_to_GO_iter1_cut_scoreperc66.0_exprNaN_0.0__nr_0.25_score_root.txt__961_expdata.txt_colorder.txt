@@ -1,0 +1,6 @@
+"x"
+"1" "negative regulation of DNA binding transcription factor activity"
+"2" "transcription corepressor activity"
+"3" "intracellular"
+"4" "beta-catenin binding"
+"5" "histone deacetylase binding"

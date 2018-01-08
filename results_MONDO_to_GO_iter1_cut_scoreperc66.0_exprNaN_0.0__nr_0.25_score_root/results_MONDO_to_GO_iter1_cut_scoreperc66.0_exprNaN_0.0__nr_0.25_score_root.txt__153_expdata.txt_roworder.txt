@@ -1,0 +1,5 @@
+"x"
+"1" "autism..susceptibility.to..19"
+"2" "cataract.36"
+"3" "mental.retardation..autosomal.recessive.5"
+"4" "Al.Raqad.syndrome"

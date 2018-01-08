@@ -1,0 +1,4 @@
+"x"
+"1" "procollagen-proline 4-dioxygenase activity"
+"2" "peptidyl-proline hydroxylation to 4-hydroxy-L-proline"
+"3" "procollagen-proline 4-dioxygenase complex"

@@ -1,0 +1,6 @@
+"x"
+"1" "Charcot.Marie.tooth.disease.type.4B2"
+"2" "Charcot.Marie.tooth.disease.type.4B3"
+"3" "Dent.disease.type.2"
+"4" "oculocerebrorenal.syndrome"
+"5" "intellectual.disability.macrocephaly.hypotonia.behavioral.abnormalities.syndrome"

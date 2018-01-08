@@ -1,0 +1,5 @@
+	adult syndrome	ankyloblepharon-ectodermal defects-cleft lip/palate syndrome	Rapp-Hodgkin syndrome	Subependymoma	"adrenocortical carcinoma, hereditary"	bone osteosarcoma	familial pancreatic carcinoma	choroid plexus papilloma	limb-mammary syndrome	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3"	split hand-foot malformation 4	"nasopharyngeal carcinoma, susceptibility to, 1"	"basal cell carcinoma, susceptibility to, 7"
+identical protein binding	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"negative regulation of transcription, DNA-templated"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+cellular response to DNA damage stimulus	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+mitotic G1 DNA damage checkpoint	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

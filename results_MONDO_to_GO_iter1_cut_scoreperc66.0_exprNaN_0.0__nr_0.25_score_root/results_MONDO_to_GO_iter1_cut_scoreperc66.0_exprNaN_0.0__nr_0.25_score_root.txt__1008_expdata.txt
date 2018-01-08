@@ -1,0 +1,16 @@
+	temtamy preaxial brachydactyly syndrome	PLIN1-related familial partial lipodystrophy	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Adams-Oliver syndrome 4	polyglucosan body myopathy 1 with or without immunodeficiency
+bone morphogenesis	1.0	0.0	0.0	0.0	0.0
+cartilage development	1.0	0.0	0.0	0.0	0.0
+heart morphogenesis	1.0	0.0	0.0	0.0	0.0
+proximal/distal pattern formation	1.0	0.0	0.0	0.0	0.0
+cartilage morphogenesis	1.0	0.0	0.0	0.0	0.0
+pectoral fin development	1.0	0.0	0.0	0.0	0.0
+semicircular canal formation	1.0	0.0	0.0	0.0	0.0
+negative regulation of ossification	1.0	0.0	0.0	0.0	0.0
+chondrocyte development	1.0	0.0	0.0	0.0	0.0
+chondroitin sulfate proteoglycan biosynthetic process	1.0	0.0	0.0	0.0	0.0
+chondroitin sulfate biosynthetic process	1.0	0.0	0.0	0.0	0.0
+glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	1.0	0.0	0.0	0.0	0.0
+Golgi cisterna membrane	1.0	0.0	0.0	0.0	0.0
+acetylgalactosaminyltransferase activity	1.0	0.0	0.0	0.0	0.0
+N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	1.0	0.0	0.0	0.0	0.0

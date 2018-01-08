@@ -1,0 +1,7 @@
+"x"
+"1" "cerebral.palsy..spastic.quadriplegic..1"
+"2" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"
+"3" "methylcobalamin.deficiency.type.cblG"
+"4" "congenital.myasthenic.syndrome.6"
+"5" "aromatic.L.amino.acid.decarboxylase.deficiency"
+"6" "Charcot.Marie.tooth.disease.axonal.type.2CC"

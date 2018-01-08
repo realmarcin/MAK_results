@@ -1,0 +1,5 @@
+	adult hypophosphatasia	infantile hypophosphatasia	childhood hypophosphatasia	Cayman type cerebellar ataxia
+developmental process involved in reproduction	1.0	1.0	1.0	0.0
+extracellular membrane-bounded organelle	1.0	1.0	1.0	0.0
+alkaline phosphatase activity	1.0	1.0	1.0	0.0
+pyrophosphatase activity	1.0	1.0	1.0	1.0

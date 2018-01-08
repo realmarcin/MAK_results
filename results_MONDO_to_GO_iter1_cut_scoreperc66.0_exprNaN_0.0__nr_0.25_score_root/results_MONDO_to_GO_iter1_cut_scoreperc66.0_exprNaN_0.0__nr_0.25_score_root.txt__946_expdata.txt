@@ -1,0 +1,10 @@
+	neurofibromatosis type 1	"neurofibromatosis, familial spinal"	Watson syndrome	neurofibromatosis-Noonan syndrome	"mental retardation, autosomal dominant 5"	ataxia with oculomotor apraxia type 3
+SH3 domain binding	0.0	0.0	0.0	0.0	1.0	0.0
+pattern specification process	0.0	0.0	0.0	0.0	1.0	0.0
+phosphatidylinositol 3-kinase signaling	1.0	1.0	1.0	1.0	0.0	1.0
+regulation of synapse structure or activity	0.0	0.0	0.0	0.0	1.0	0.0
+dendrite development	0.0	0.0	0.0	0.0	1.0	0.0
+swimming behavior	0.0	0.0	0.0	0.0	1.0	0.0
+brain morphogenesis	0.0	0.0	0.0	0.0	1.0	0.0
+regulation of synaptic plasticity	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of axonogenesis	0.0	0.0	0.0	0.0	1.0	0.0

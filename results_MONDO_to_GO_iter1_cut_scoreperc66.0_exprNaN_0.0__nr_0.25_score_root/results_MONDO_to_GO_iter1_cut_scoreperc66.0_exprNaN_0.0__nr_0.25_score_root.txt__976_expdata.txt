@@ -1,0 +1,5 @@
+	myoclonic dystonia 11	pigmented paravenous retinochoroidal atrophy	hypoplasminogenemia	rhizomelic chondrodysplasia punctata type 2	chylomicron retention disease	autosomal recessive limb-girdle muscular dystrophy type 2C	PEHO syndrome	retinitis pigmentosa 12	craniosynostosis 4	autosomal recessive limb-girdle muscular dystrophy type 2F	Desmosterolosis	autosomal recessive limb-girdle muscular dystrophy type 2E	dilated cardiomyopathy 1L	autosomal recessive limb-girdle muscular dystrophy type 2D	Leber congenital amaurosis 8	"congenital heart defects, multiple types, 4"	microcephaly and chorioretinopathy 2	Chitayat syndrome; CHYTS
+dystrophin-associated glycoprotein complex	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+membrane organization	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+sarcoglycan complex	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+muscle attachment	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

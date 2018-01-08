@@ -1,0 +1,7 @@
+"x"
+"1" "asphyxiating.thoracic.dystrophy.4"
+"2" "nephronophthisis.12"
+"3" "asphyxiating.thoracic.dystrophy.5"
+"4" "cranioectodermal.dysplasia.4"
+"5" "Senior.Loken.syndrome.8"
+"6" "axial.spondylometaphyseal.dysplasia"

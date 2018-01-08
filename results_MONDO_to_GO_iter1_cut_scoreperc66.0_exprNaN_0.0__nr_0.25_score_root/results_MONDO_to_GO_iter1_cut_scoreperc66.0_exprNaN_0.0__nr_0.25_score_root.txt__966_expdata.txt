@@ -1,0 +1,12 @@
+	microcytic anemia with liver iron overload	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome	Dehydrated hereditary stomatocytosis 2; DHS2	"spastic paraplegia, intellectual disability, nystagmus, and obesity;"
+saliva secretion	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of T cell receptor signaling pathway	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of protein secretion	0.0	0.0	0.0	0.0	1.0	0.0
+anion transport	0.0	0.0	0.0	0.0	1.0	0.0
+protein phosphatase binding	0.0	0.0	0.0	0.0	1.0	0.0
+phospholipid translocation	0.0	0.0	0.0	0.0	1.0	0.0
+potassium ion export	0.0	0.0	0.0	0.0	1.0	0.0
+stabilization of membrane potential	0.0	0.0	0.0	0.0	1.0	0.0
+calcium-activated potassium channel activity	0.0	0.0	0.0	0.0	1.0	0.0
+Intermediate conductance calcium-activated potassium channel activity	0.0	0.0	0.0	0.0	1.0	0.0
+small conductance calcium-activated potassium channel activity	0.0	0.0	0.0	0.0	1.0	0.0

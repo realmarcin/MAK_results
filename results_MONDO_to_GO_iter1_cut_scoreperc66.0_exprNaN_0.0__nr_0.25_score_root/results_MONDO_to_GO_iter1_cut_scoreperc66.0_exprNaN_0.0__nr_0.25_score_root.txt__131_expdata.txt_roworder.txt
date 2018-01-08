@@ -1,0 +1,6 @@
+"x"
+"1" "MEND.syndrome"
+"2" "X.linked.chondrodysplasia.punctata"
+"3" "autosomal.recessive.distal.spinal.muscular.atrophy.2"
+"4" "amyotrophic.lateral.sclerosis.type.16"
+"5" "congenital.adrenal.hyperplasia.due.to.3.beta.hydroxysteroid.dehydrogenase.deficiency"

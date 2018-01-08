@@ -1,0 +1,4 @@
+"x"
+"1" "protein targeting to Golgi"
+"2" "vesicle localization"
+"3" "Golgi ribbon formation"

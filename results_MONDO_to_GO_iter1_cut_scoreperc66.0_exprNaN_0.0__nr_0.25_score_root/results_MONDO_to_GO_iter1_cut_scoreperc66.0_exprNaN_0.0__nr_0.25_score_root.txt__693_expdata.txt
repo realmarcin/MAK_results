@@ -1,0 +1,10 @@
+	"microphthalmia, syndromic 2"	"microphthalmia, syndromic 1"	spinocerebellar ataxia type 11	orofaciodigital syndrome type 14
+cilium assembly	0.0	0.0	1.0	1.0
+neural tube closure	0.0	0.0	0.0	0.0
+embryonic digit morphogenesis	0.0	0.0	1.0	1.0
+spinal cord development	0.0	0.0	0.0	0.0
+ciliary basal body	0.0	0.0	1.0	1.0
+mesoderm development	0.0	0.0	0.0	0.0
+neural tube development	1.0	1.0	1.0	1.0
+regulation of smoothened signaling pathway	0.0	0.0	1.0	1.0
+centriole	0.0	0.0	1.0	1.0

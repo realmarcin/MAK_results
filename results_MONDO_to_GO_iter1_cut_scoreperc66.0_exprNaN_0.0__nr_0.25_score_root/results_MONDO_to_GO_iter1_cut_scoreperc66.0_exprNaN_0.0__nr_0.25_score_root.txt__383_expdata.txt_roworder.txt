@@ -1,0 +1,7 @@
+"x"
+"1" "oculotrichoanal.syndrome"
+"2" "BNAR.syndrome"
+"3" "trigonocephaly.2"
+"4" "Ehlers.Danlos.syndrome..classic.type"
+"5" "Keutel.syndrome"
+"6" "familial.retinal.arterial.macroaneurysm"

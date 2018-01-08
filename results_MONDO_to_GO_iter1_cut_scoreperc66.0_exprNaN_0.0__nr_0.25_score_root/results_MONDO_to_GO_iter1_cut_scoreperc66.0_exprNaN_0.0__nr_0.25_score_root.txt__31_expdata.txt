@@ -1,0 +1,6 @@
+	congenital disorder of glycosylation type 1E	DPM3-CDG	congenital muscular dystrophy with intellectual disability and severe epilepsy
+GDP-mannose metabolic process	1.0	0.0	0.0
+dolichol-phosphate-mannose synthase complex	1.0	1.0	0.0
+dolichyl-phosphate beta-D-mannosyltransferase activity	1.0	1.0	1.0
+protein mannosylation	1.0	0.0	0.0
+alcohol binding	1.0	0.0	0.0

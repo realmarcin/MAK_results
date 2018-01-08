@@ -1,0 +1,9 @@
+	congenital vertical talus	radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome	congenital malabsorptive diarrhea 4	"myopathy, centronuclear, 3"
+nucleus	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	0.0
+multicellular organism development	1.0	1.0	1.0	1.0
+proximal/distal pattern formation	1.0	1.0	0.0	0.0
+anterior/posterior pattern specification	1.0	1.0	0.0	0.0
+single fertilization	1.0	1.0	0.0	0.0

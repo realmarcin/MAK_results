@@ -1,0 +1,7 @@
+"x"
+"1" "dentatorubral.pallidoluysian.atrophy"
+"2" "primary.intraosseous.venous.malformation"
+"3" "autosomal.dominant.nonsyndromic.deafness.64"
+"4" "autism.spectrum.disorder.due.to.AUTS2.deficiency"
+"5" "cataract.43"
+"6" "microcephaly..short.stature..and.impaired.glucose.metabolism.2..MSSGM2"

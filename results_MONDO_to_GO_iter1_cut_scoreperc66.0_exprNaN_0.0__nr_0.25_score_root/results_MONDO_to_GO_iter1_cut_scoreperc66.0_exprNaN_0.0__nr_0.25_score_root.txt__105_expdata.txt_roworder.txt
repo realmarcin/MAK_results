@@ -1,0 +1,4 @@
+"x"
+"1" "Dehydrated.hereditary.stomatocytosis.2..DHS2"
+"2" "prune.belly.syndome"
+"3" "adenosine.deaminase.deficiency"

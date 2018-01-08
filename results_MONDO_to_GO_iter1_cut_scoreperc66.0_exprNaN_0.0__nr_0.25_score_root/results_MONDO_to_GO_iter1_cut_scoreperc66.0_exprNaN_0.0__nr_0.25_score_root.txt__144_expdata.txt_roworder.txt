@@ -1,0 +1,6 @@
+"x"
+"1" "transaldolase.deficiency"
+"2" "short.stature..developmental.delay..and.congenital.heart.defects."
+"3" "Ribose.5.P.isomerase.deficiency"
+"4" "hemolytic.anemia.due.to.glucophosphate.isomerase.deficiency"
+"5" "fructose.1.6.bisphosphatase.deficiency"

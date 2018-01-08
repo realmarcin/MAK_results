@@ -1,0 +1,8 @@
+	cystinuria (disease)	glycogen storage disease due to glycogen branching enzyme deficiency	adult polyglucosan body disease	sialuria	GNE myopathy	MOGS-CDG	hereditary spastic paraplegia 46
+lysosome	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+hydrolase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+metabolic process	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+catalytic activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrion	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"hydrolase activity, acting on glycosyl bonds"	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"hydrolase activity, hydrolyzing O-glycosyl compounds"	0.0	1.0	1.0	1.0	1.0	0.0	1.0

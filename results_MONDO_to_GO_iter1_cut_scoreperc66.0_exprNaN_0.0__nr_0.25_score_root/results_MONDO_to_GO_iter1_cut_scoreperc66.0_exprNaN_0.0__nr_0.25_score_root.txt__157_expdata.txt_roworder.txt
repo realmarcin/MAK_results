@@ -1,0 +1,7 @@
+"x"
+"1" "isolated.polycystic.liver.disease"
+"2" "polycystic.liver.disease.2..PCLD2"
+"3" "hyperuricemic.nephropathy..familial.juvenile..4..HNFJ4"
+"4" "cataract.31.multiple.types"
+"5" "neurodegenerative.syndrome.due.to.cerebral.folate.transport.deficiency"
+"6" "autosomal.dominant.aplasia.and.myelodysplasia"

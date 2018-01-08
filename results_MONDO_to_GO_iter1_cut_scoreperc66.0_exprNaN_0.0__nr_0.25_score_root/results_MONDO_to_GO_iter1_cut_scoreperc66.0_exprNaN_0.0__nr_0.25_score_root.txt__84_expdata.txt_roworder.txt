@@ -1,0 +1,6 @@
+"x"
+"1" "atelosteogenesis.type.i"
+"2" "atelosteogenesis.type.III"
+"3" "Boomerang.dysplasia"
+"4" "larsen.syndrome"
+"5" "spondylocarpotarsal.synostosis.syndrome"

@@ -1,0 +1,6 @@
+"x"
+"1" "thiamine.responsive.megaloblastic.anemia.syndrome"
+"2" "biotin.responsive.basal.ganglia.disease"
+"3" "Amish.lethal.microcephaly"
+"4" "progressive.demyelinating.neuropathy.with.bilateral.striatal.necrosis"
+"5" "familial.isolated.deficiency.of.vitamin.E"

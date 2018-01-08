@@ -1,0 +1,6 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	Carey-Fineman-Ziter  syndrome	neuronal ceroid lipofuscinosis 5	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"	severe congenital hypochromic anemia with ringed sideroblasts
+"retrograde transport, endosome to Golgi"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+signal peptide processing	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+positive regulation of GTP binding	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+glycosylation	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+vacuolar lumen	0.0	0.0	0.0	1.0	0.0	0.0	0.0

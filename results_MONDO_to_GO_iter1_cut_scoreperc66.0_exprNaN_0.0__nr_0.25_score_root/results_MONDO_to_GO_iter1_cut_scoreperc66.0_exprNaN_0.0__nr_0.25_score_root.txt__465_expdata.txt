@@ -1,0 +1,5 @@
+	cyclic hematopoiesis	autosomal dominant severe congenital neutropenia	CK syndrome	child syndrome	Lathosterolosis	"herpes simplex encephalitis, susceptibility to, 3"	congenital diarrhea 7 with exudative enteropathy	hereditary thrombocytopenia with early-onset myelofibrosis
+response to yeast	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+defense response to fungus	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+leukocyte migration involved in inflammatory response	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of immune response	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

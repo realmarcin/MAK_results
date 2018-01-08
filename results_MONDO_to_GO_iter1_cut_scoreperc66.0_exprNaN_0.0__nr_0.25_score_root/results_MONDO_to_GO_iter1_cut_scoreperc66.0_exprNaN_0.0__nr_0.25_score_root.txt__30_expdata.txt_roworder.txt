@@ -1,0 +1,4 @@
+"x"
+"1" "cyclic.hematopoiesis"
+"2" "autosomal.dominant.severe.congenital.neutropenia"
+"3" "amyloidosis..primary.localized.cutaneous..2"

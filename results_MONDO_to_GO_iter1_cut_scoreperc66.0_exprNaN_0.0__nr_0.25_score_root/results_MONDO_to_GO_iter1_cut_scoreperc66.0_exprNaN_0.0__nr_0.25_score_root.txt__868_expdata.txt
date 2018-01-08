@@ -1,0 +1,6 @@
+	osteoarthritis susceptibility 1	hypothyroidism due to TSH receptor mutations	Athabaskan brainstem dysgenesis syndrome	familial gestational hyperthyroidism	van der Woude syndrome 2	autosomal recessive nonsyndromic deafness 30	familial hyperthyroidism due to mutations in TSH receptor	Barrett esophagus
+anatomical structure formation involved in morphogenesis	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+hindbrain development	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+central nervous system neuron differentiation	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+cochlea morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+motor neuron axon guidance	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

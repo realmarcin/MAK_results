@@ -1,0 +1,12 @@
+	Richieri Costa-Pereira syndrome	thrombocytopenia-absent radius syndrome	"dyskeratosis congenita, autosomal recessive 6"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	platelet-type bleeding disorder 20
+hemopoiesis	0.0	0.0	1.0	1.0	0.0
+positive regulation of telomerase activity	0.0	0.0	1.0	1.0	0.0
+cation binding	0.0	0.0	1.0	1.0	0.0
+mRNA catabolic process	0.0	0.0	1.0	1.0	1.0
+positive regulation of telomere maintenance via telomerase	0.0	0.0	1.0	1.0	0.0
+"RNA phosphodiester bond hydrolysis, exonucleolytic"	0.0	0.0	1.0	1.0	0.0
+poly(A)-specific ribonuclease activity	0.0	0.0	1.0	1.0	0.0
+telomerase RNA stabilization	0.0	0.0	1.0	1.0	0.0
+ncRNA deadenylation	0.0	0.0	1.0	1.0	0.0
+regulation of telomerase RNA localization to Cajal body	0.0	0.0	1.0	1.0	0.0
+nuclear-transcribed mRNA poly(A) tail shortening	0.0	0.0	1.0	1.0	0.0

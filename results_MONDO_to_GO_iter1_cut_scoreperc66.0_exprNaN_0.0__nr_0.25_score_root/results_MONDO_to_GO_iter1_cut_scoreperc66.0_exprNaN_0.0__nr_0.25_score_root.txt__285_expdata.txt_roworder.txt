@@ -1,0 +1,7 @@
+"x"
+"1" "growth.delay.due.to.insulin.like.growth.factor.i.resistance"
+"2" "diabetes.mellitus..Noninsulin.dependent"
+"3" "growth.delay.due.to.insulin.like.growth.factor.type.1.deficiency"
+"4" "mental.retardation..autosomal.recessive.6"
+"5" "cirrhosis.dystonia.polycythemia.hypermanganesemia.syndrome"
+"6" "autoimmune.lymphoproliferative.syndrome.type.3"

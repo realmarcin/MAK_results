@@ -1,0 +1,7 @@
+	spondyloepiphyseal dysplasia with congenital joint dislocations	macular corneal dystrophy	pseudo-Hurler polydystrophy	"spondyloepimetaphyseal dysplasia with joint laxity, type 1, With or without fractures"	SLC35A2-CDG	"Ehlers-Danlos syndrome, musculocontractural type"	SLC35A1-CDG	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 10"	"Ehlers-Danlos syndrome, progeroid type, 2"	autism spectrum disorder-epilepsy-arthrogryposis syndrome	peeling skin syndrome type a
+"transferase activity, transferring glycosyl groups"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+galactosyltransferase activity	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Golgi medial cisterna	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+UDP-galactosyltransferase activity	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+galactosylxylosylprotein 3-beta-galactosyltransferase activity	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

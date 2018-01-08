@@ -1,0 +1,10 @@
+	autosomal dominant nonsyndromic deafness 12	autosomal recessive nonsyndromic deafness 21	retinitis pigmentosa 56	"macular dystrophy, vitelliform, 5"
+integral component of membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+receptor complex	0.0	0.0	1.0	1.0
+heparin binding	0.0	0.0	1.0	1.0
+proteinaceous extracellular matrix	1.0	1.0	1.0	1.0
+extracellular matrix structural constituent	1.0	1.0	1.0	1.0
+visual perception	0.0	0.0	1.0	1.0
+hyaluronic acid binding	0.0	0.0	1.0	1.0
+interphotoreceptor matrix	0.0	0.0	1.0	1.0

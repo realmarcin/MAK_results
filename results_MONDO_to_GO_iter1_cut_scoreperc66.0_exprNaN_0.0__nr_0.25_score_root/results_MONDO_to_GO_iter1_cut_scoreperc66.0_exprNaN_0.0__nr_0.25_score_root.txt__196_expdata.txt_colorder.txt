@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "cellular response to DNA damage stimulus"
+"3" "DNA repair"
+"4" "nucleotide binding"
+"5" "ATP binding"
+"6" "DNA binding"
+"7" "ubiquitin-protein transferase activity"

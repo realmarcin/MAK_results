@@ -1,0 +1,6 @@
+"x"
+"1" "spastic.tetraplegia.thin.corpus.callosum.progressive.postnatal.microcephaly.syndrome"
+"2" "atransferrinemia"
+"3" "agenesis.of.the.corpus.callosum.with.peripheral.neuropathy"
+"4" "X.linked.retinoschisis"
+"5" "foveal.hypoplasia.optic.nerve.decussation.defect.anterior.segment.dysgenesis.syndrome"

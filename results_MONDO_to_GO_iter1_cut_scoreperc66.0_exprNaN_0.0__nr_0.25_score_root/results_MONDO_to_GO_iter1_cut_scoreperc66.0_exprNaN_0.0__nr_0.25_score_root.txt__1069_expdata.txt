@@ -1,0 +1,19 @@
+	combined immunodeficiency with skin granulomas	"severe combined immunodeficiency, autosomal recessive, T cell-negative, b cell-negative, Nk cell-positive"	severe combined immunodeficiency with sensitivity to ionizing radiation	Omenn syndrome	combined immunodeficiency due to partial RAG1 deficiency
+regulation of T cell differentiation	1.0	1.0	0.0	1.0	1.0
+negative regulation of thymocyte apoptotic process	1.0	1.0	0.0	1.0	1.0
+positive regulation of T cell differentiation	1.0	1.0	0.0	1.0	1.0
+metabolic process	1.0	1.0	0.0	1.0	1.0
+catalytic activity	1.0	1.0	0.0	1.0	1.0
+magnesium ion binding	1.0	1.0	0.0	1.0	1.0
+sequence-specific DNA binding	1.0	1.0	0.0	1.0	1.0
+visual learning	1.0	1.0	0.0	1.0	1.0
+T cell differentiation in thymus	1.0	1.0	0.0	1.0	1.0
+thymus development	1.0	1.0	0.0	1.0	1.0
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.0	1.0	0.0	1.0	1.0
+protein-DNA complex assembly	1.0	1.0	0.0	1.0	1.0
+T cell homeostasis	1.0	1.0	0.0	1.0	1.0
+regulation of behavioral fear response	1.0	1.0	0.0	1.0	1.0
+DNA recombinase complex	1.0	1.0	0.0	1.0	1.0
+negative regulation of T cell apoptotic process	1.0	1.0	0.0	1.0	1.0
+pre-B cell allelic exclusion	1.0	1.0	0.0	1.0	1.0
+histone monoubiquitination	1.0	1.0	0.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Hypermanganesemia.with.dystonia.2..HMNDYT2"
+"2" "acrodermatitis.enteropathica"
+"3" "myopia.24..autosomal.dominant"
+"4" "SLC39A8.CDG"
+"5" "deafness.dystonia.syndrome"
+"6" "Jensen.syndrome"

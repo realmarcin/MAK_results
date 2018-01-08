@@ -1,0 +1,8 @@
+	lymphedema-posterior choanal atresia syndrome	"nephrotic syndrome, type 6"	hypogonadotropic hypogonadism 19 with or without anosmia
+protein tyrosine phosphatase activity	1.0	1.0	1.0
+protein dephosphorylation	1.0	1.0	1.0
+peptidyl-tyrosine dephosphorylation	0.0	1.0	1.0
+phosphoprotein phosphatase activity	1.0	1.0	1.0
+regulation of fibroblast growth factor receptor signaling pathway	0.0	1.0	1.0
+phosphatase activity	1.0	1.0	1.0
+dephosphorylation	1.0	1.0	1.0

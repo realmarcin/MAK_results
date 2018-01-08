@@ -1,0 +1,5 @@
+	hepatocellular carcinoma	autosomal dominant childhood-onset proximal spinal muscular atrophy without contractures	"hydrocephalus, nonsyndromic, autosomal recessive 1"	Galloway-Mowat syndrome	PEHO syndrome	caudal duplication	Charcot-Marie-tooth disease axonal type 2O	"mental retardation, autosomal dominant 13"	hereditary sensory and autonomic neuropathy type 6	complex cortical dysplasia with other brain malformations 4	epidermolysis bullosa simplex due to BP230 deficiency	short-rib thoracic dysplasia 10 with or without polydactyly	short stature with microcephaly and distinctive facies	spinocerebellar ataxia type 40	retinitis pigmentosa 71
+cytoplasmic microtubule organization	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+extracellular vesicle	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+sodium:iodide symporter activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of postsynaptic density protein 95 clustering	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

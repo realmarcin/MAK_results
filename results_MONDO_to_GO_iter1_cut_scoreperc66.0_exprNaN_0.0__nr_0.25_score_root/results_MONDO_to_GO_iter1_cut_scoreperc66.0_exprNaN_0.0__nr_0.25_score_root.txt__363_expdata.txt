@@ -1,0 +1,8 @@
+	peroxisome biogenesis disorder 2B	peroxisome biogenesis disorder 2A (Zellweger)	peroxisome biogenesis disorder 7A (Zellweger)	peroxisome biogenesis disorder 7B	rhizomelic chondrodysplasia punctata type 5
+protein transport	1.0	1.0	1.0	1.0	1.0
+protein C-terminus binding	1.0	1.0	1.0	1.0	1.0
+peroxisome	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum organization	1.0	1.0	0.0	0.0	1.0
+protein import into peroxisome membrane	1.0	1.0	1.0	1.0	1.0
+protein import into peroxisome matrix	1.0	1.0	1.0	1.0	1.0
+peroxisome matrix targeting signal-1 binding	1.0	1.0	0.0	0.0	1.0

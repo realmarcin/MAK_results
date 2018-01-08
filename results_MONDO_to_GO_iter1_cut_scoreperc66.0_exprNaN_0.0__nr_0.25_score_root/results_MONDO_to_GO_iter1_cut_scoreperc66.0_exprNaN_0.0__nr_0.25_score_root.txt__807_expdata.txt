@@ -1,0 +1,11 @@
+	mal de Meleda	amyotrophic lateral sclerosis type 9	primary CD59 deficiency	hemochromatosis type 2B	Mannose-Binding protein deficiency
+negative regulation of fibroblast growth factor production	0.0	0.0	1.0	0.0	0.0
+defense response to Gram-positive bacterium	1.0	1.0	1.0	1.0	1.0
+complement binding	0.0	0.0	1.0	0.0	0.0
+negative regulation of complement activation	0.0	0.0	1.0	0.0	0.0
+negative regulation of angiogenesis	0.0	0.0	1.0	0.0	0.0
+compact myelin	0.0	0.0	1.0	0.0	0.0
+negative regulation of cytolysis	0.0	0.0	1.0	0.0	0.0
+anchored component of membrane	0.0	0.0	1.0	0.0	0.0
+anchored component of external side of plasma membrane	0.0	0.0	1.0	0.0	0.0
+negative regulation of vascular endothelial growth factor receptor signaling pathway	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,4 @@
+	Ritscher-Schinzel syndrome 1	hereditary spastic paraplegia 8	"mental retardation, autosomal recessive 43"	Parkinson disease 21
+WASH complex	1.0	1.0	1.0	1.0
+spindle assembly involved in meiosis	1.0	1.0	0.0	0.0
+polar body extrusion after meiotic divisions	1.0	1.0	0.0	0.0

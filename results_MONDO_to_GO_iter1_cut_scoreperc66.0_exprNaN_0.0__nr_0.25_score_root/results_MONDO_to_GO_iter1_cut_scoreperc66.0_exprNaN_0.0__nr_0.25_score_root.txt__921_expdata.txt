@@ -1,0 +1,7 @@
+	citrullinemia type I	"hyperinsulinemic hypoglycemia, familial, 2"	"diabetes mellitus, transient neonatal, 3"	Brugada syndrome 5	"atrial fibrillation, familial, 13"	maturity-onset diabetes of the young type 13	"mental retardation, autosomal dominant 38"	"epileptic encephalopathy, early infantile, 33"
+negative regulation of cell growth	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+neuronal cell body	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+dendrite	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+axon	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+myelin sheath	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+T-tubule	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "molecular_function"
+"2" "nucleus"
+"3" "biological_process"
+"4" "mRNA processing"
+"5" "tRNA processing"
+"6" "tRNA-intron endonuclease activity"
+"7" "tRNA splicing, via endonucleolytic cleavage and ligation"

@@ -1,0 +1,6 @@
+	hereditary thrombocytopenia with normal platelets-hematological cancer predisposition syndrome	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	susceptibility to HIV infection	"hepatitis c virus, susceptibility to"	"hepatitis b virus, susceptibility to"	inflammatory bowel disease 25	tuberous sclerosis 2	immunodeficiency 28
+positive regulation of exosomal secretion	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+positive regulation of MHC class II biosynthetic process	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+"positive regulation of synaptic transmission, cholinergic"	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+negative regulation of interleukin-17 production	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+endothelial to hematopoietic transition	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

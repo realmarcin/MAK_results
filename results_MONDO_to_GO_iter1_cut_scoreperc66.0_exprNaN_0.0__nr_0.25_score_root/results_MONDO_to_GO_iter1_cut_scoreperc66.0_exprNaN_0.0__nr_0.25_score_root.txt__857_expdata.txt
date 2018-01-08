@@ -1,0 +1,6 @@
+	episodic ataxia type 1	congenital vertical talus	Sandhoff disease	Matthew-wood syndrome	spinocerebellar ataxia type 27	Charcot-Marie-tooth disease axonal type 2N	"epileptic encephalopathy, early infantile, 29"	"epileptic encephalopathy, early infantile, 47; EIEE47"
+adult locomotory behavior	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+neuromuscular process controlling balance	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+regulation of membrane potential	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+neuromuscular process	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+female genitalia development	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

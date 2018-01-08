@@ -1,0 +1,8 @@
+"x"
+"1" "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+"2" "thymine catabolic process"
+"3" "purine nucleobase catabolic process"
+"4" "dihydrouracil dehydrogenase (NAD+) activity"
+"5" "dihydropyrimidine dehydrogenase (NADP+) activity"
+"6" "thymidine catabolic process"
+"7" "beta-alanine biosynthetic process"

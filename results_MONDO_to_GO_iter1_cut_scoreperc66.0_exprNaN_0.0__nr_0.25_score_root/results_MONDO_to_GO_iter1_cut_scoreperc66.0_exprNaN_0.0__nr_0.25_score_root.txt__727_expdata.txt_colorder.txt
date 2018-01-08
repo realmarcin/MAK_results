@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "cortisol metabolic process"
+"4" "regulation of blood volume by renal aldosterone"
+"5" "female pregnancy"
+"6" "multicellular organismal response to stress"
+"7" "glucocorticoid metabolic process"

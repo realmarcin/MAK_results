@@ -1,0 +1,7 @@
+"x"
+"1" "juvenile.rheumatoid.arthritis"
+"2" "arteriovenous.malformations.of.the.brain"
+"3" "Kaposi.sarcoma..susceptibility.to"
+"4" "pulmonary.capillary.hemangiomatosis"
+"5" "inflammatory.bowel.disease.1"
+"6" "FADD.related.immunodeficiency"

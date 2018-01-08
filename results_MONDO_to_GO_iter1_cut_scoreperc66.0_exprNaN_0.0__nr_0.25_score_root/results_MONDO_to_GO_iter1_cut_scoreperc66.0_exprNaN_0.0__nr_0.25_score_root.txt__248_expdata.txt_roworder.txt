@@ -1,0 +1,8 @@
+"x"
+"1" "familial.cold.autoinflammatory.syndrome.1"
+"2" "Muckle.Wells.syndrome"
+"3" "CINCA.syndrome"
+"4" "acute.promyelocytic.leukemia"
+"5" "immune.dysregulation.polyendocrinopathy.enteropathy.X.linked.syndrome"
+"6" "X.linked.hyper.IgM.syndrome"
+"7" "immunodeficiency.18"

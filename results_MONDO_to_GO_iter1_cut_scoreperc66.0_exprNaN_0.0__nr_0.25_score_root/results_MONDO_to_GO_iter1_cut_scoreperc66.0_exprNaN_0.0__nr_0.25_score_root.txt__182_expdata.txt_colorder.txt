@@ -1,0 +1,7 @@
+"x"
+"1" "transcription initiation from RNA polymerase II promoter"
+"2" "endothelial cell activation"
+"3" "regulation of vascular endothelial growth factor signaling pathway"
+"4" "transcription factor activity, TFIIB-class binding"
+"5" "transcription factor activity, sequence-specific DNA binding, RNA polymerase recruiting"
+"6" "beta-catenin-TCF complex"

@@ -1,0 +1,4 @@
+	"renal cell carcinoma, Xp11-associated"	mucopolysaccharidosis type 9	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	susceptibility to HIV infection	"hepatitis c virus, susceptibility to"	tuberous sclerosis 2	platelet-type bleeding disorder 9	cataract 15 multiple types	hereditary thrombocytopenia with early-onset myelofibrosis
+positive regulation of epithelial cell migration	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+negative regulation of epithelial cell differentiation	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+positive regulation of cell adhesion	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "primary.open.angle.glaucoma"
+"2" "amyotrophic.lateral.sclerosis.type.12"
+"3" "cerebellar.ataxia..mental.retardation..and.Dysequilibrium.syndrome.2"
+"4" "celiac.disease..susceptibility.to..4"
+"5" "Hermansky.Pudlak.syndrome.4"

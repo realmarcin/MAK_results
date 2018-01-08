@@ -1,0 +1,5 @@
+"x"
+"1" "renal.hepatic.pancreatic.dysplasia.1"
+"2" "NPHP3.related.Meckel.like.syndrome"
+"3" "nephronophthisis.3"
+"4" "primary.ciliary.dyskinesia.7"

@@ -1,0 +1,11 @@
+	3-methylglutaconic aciduria type 1	mitochondrial trifunctional protein deficiency	long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	mitochondrial short-chain Enoyl-Coa hydratase 1 deficiency
+extracellular matrix	0.0	1.0	1.0	0.0
+protein complex binding	0.0	1.0	1.0	0.0
+oxidoreductase activity	0.0	1.0	1.0	0.0
+NAD binding	0.0	1.0	1.0	0.0
+response to bacterium	0.0	1.0	1.0	0.0
+response to insulin	0.0	1.0	1.0	0.0
+enoyl-CoA hydratase activity	1.0	1.0	1.0	1.0
+mitochondrial fatty acid beta-oxidation multienzyme complex	0.0	1.0	1.0	0.0
+acetyl-CoA C-acyltransferase activity	0.0	1.0	1.0	0.0
+long-chain-3-hydroxyacyl-CoA dehydrogenase activity	0.0	1.0	1.0	0.0

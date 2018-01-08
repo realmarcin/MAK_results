@@ -1,0 +1,8 @@
+	congenital ptosis (disease)	woolly hair-palmoplantar keratoderma syndrome	Shashi-Pena syndrome; SHAPNS
+nucleus	1.0	0.0	0.0
+protein dimerization activity	1.0	0.0	0.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0
+DNA binding	1.0	0.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0
+metal ion binding	1.0	0.0	0.0
+zinc ion binding	1.0	0.0	0.0

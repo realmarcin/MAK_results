@@ -1,0 +1,4 @@
+"x"
+"1" "nephrotic.syndrome..type.6"
+"2" "hypogonadotropic.hypogonadism.19.with.or.without.anosmia"
+"3" "lymphedema.posterior.choanal.atresia.syndrome"

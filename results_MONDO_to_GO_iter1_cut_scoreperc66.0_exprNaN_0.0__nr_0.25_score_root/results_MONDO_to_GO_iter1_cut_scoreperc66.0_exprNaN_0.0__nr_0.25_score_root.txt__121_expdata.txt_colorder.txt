@@ -1,0 +1,7 @@
+"x"
+"1" "protein N-linked glycosylation via asparagine"
+"2" "dolichyl-diphosphooligosaccharide-protein glycotransferase activity"
+"3" "oligosaccharyltransferase complex"
+"4" "post-translational protein modification"
+"5" "oligosaccharyl transferase activity"
+"6" "co-translational protein modification"

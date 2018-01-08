@@ -1,0 +1,6 @@
+"x"
+"1" "bilateral.microtia.deafness.cleft.palate.syndrome"
+"2" "Athabaskan.brainstem.dysgenesis.syndrome"
+"3" "chromosome.2q32.q33.deletion.syndrome"
+"4" "leukemia..acute.lymphoblastic..susceptibility.to..3"
+"5" "Smith.Magenis.syndrome"

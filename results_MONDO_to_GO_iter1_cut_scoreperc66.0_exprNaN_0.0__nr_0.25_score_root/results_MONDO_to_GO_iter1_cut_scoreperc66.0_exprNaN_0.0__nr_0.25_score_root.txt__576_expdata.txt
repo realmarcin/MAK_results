@@ -1,0 +1,6 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	Carey-Fineman-Ziter  syndrome	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0	1.0
+extracellular exosome	1.0	1.0	1.0	1.0	1.0
+myoblast fusion involved in skeletal muscle regeneration	0.0	0.0	1.0	0.0	0.0
+plasma membrane fusion	0.0	0.0	1.0	0.0	0.0

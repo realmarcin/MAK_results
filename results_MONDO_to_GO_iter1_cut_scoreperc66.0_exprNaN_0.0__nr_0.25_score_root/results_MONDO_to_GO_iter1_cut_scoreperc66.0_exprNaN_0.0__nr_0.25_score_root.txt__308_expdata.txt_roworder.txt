@@ -1,0 +1,6 @@
+"x"
+"1" "Crigler.Najjar.syndrome.type.1"
+"2" "transient.familial.neonatal.hyperbilirubinemia"
+"3" "Crigler.Najjar.syndrome.type.2"
+"4" "muscular.dystrophy.dystroglycanopathy.type.B6"
+"5" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.A..6"

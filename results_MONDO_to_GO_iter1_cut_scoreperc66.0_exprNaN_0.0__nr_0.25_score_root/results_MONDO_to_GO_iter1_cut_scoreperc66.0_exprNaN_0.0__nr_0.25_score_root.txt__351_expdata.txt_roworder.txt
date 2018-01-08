@@ -1,0 +1,5 @@
+"x"
+"1" "cataract.intellectual.disability.hypogonadism.syndrome"
+"2" "Warburg.micro.syndrome.2"
+"3" "familial.amyloid.neuropathy"
+"4" "carpal.tunnel.syndrome"

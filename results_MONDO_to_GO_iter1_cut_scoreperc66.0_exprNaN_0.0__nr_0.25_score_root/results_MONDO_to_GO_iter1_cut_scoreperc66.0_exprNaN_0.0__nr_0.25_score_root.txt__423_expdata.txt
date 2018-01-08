@@ -1,0 +1,5 @@
+	renal cysts and diabetes syndrome	nail-patella syndrome	Curry-Jones syndrome
+hindbrain development	1.0	1.0	1.0
+semicircular canal morphogenesis	1.0	1.0	1.0
+cerebellum morphogenesis	0.0	1.0	1.0
+otolith morphogenesis	1.0	1.0	1.0

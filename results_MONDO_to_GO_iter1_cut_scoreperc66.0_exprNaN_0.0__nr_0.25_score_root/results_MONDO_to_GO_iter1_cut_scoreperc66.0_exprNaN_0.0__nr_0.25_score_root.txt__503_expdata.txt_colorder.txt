@@ -1,0 +1,4 @@
+"x"
+"1" "metallopeptidase activity"
+"2" "peptide metabolic process"
+"3" "exopeptidase activity"

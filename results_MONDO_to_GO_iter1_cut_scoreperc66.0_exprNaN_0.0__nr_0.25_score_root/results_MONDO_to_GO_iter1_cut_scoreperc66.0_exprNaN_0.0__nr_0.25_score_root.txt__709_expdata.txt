@@ -1,0 +1,11 @@
+	Borjeson-Forssman-Lehmann syndrome	"blepharophimosis-intellectual disability syndrome, SBBYS type"	Genitopatellar syndrome	autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome
+nucleus	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0
+metal ion binding	1.0	1.0	1.0	1.0
+scaffold protein binding	1.0	0.0	0.0	0.0
+kinetochore	1.0	0.0	0.0	0.0
+phosphoprotein binding	1.0	0.0	0.0	0.0
+tubulin binding	1.0	0.0	0.0	0.0
+ribonucleoprotein complex binding	1.0	0.0	0.0	0.0

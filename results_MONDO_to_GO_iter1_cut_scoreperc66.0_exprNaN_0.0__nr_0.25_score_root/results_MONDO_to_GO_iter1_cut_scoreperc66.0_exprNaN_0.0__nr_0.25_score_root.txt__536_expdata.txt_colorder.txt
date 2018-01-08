@@ -1,0 +1,7 @@
+"x"
+"1" "3',5'-cyclic-nucleotide phosphodiesterase activity"
+"2" "phosphoric diester hydrolase activity"
+"3" "3',5'-cyclic-GMP phosphodiesterase activity"
+"4" "cGMP binding"
+"5" "transmembrane transporter complex"
+"6" "cyclic nucleotide metabolic process"

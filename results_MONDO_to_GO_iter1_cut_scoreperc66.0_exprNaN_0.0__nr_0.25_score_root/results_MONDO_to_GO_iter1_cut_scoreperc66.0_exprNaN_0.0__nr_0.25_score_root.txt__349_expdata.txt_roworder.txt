@@ -1,0 +1,8 @@
+"x"
+"1" "campomelic.dysplasia"
+"2" "X46.Xy.sex.reversal.10"
+"3" "X46.Xy.sex.reversal.2"
+"4" "X.linked.adrenal.hypoplasia.congenita"
+"5" "brachyolmia.amelogenesis.imperfecta.syndrome"
+"6" "isolated.microphthalmia.8"
+"7" "lamb.Shaffer.syndrome..LAMSHF"

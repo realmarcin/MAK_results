@@ -1,0 +1,6 @@
+"x"
+"1" "cataract.40"
+"2" "Nance.Horan.syndrome"
+"3" "immunodeficiency.27A"
+"4" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"
+"5" "autosomal.dominant.mendelian.susceptibility.to.mycobacterial.diseases.due.to.partial.IFNgammaR1.deficiency"

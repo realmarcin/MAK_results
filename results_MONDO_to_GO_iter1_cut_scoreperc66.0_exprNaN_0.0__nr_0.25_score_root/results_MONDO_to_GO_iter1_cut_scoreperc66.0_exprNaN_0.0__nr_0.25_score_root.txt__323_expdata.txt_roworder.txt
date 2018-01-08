@@ -1,0 +1,5 @@
+"x"
+"1" "complement.component.4b.deficiency"
+"2" "complement.component.4a.deficiency"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

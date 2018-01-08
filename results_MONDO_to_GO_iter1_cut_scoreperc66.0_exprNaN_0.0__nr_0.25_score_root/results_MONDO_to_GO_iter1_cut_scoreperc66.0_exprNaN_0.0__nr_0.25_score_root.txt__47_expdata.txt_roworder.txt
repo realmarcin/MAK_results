@@ -1,0 +1,4 @@
+"x"
+"1" "short.Qt.syndrome.type.1"
+"2" "long.QT.syndrome.2"
+"3" "Brunner.syndrome"

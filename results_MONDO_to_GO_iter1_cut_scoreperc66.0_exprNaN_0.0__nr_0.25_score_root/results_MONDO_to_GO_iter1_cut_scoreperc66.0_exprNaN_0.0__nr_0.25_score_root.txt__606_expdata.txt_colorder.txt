@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "hydrolase activity"
+"3" "calcium ion binding"
+"4" "vasculature development"
+"5" "protein citrullination"
+"6" "protein-arginine deiminase activity"
+"7" "histone citrullination"

@@ -1,0 +1,9 @@
+	"hereditary motor and sensory neuropathy, Okinawa type"	"palmoplantar keratoderma, Nagashima type"	hereditary spastic paraplegia 57	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+signal transducer activity	1.0	0.0	1.0	0.0
+protein binding	1.0	0.0	1.0	0.0
+identical protein binding	1.0	0.0	1.0	0.0
+extracellular exosome	1.0	0.0	1.0	0.0
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1.0	0.0	1.0	0.0
+endoplasmic reticulum exit site	1.0	0.0	1.0	0.0
+ER to Golgi vesicle-mediated transport	1.0	0.0	1.0	0.0
+COPII vesicle coating	1.0	0.0	1.0	0.0

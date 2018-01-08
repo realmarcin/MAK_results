@@ -1,0 +1,6 @@
+	Blepharo-cheilo-odontic syndrome	gelatinous drop-like corneal dystrophy	premature ovarian failure 2A	congenital diarrhea 5 with tufting enteropathy	"colorectal cancer, hereditary nonpolyposis, type 8"
+cell-cell adhesion	1.0	1.0	0.0	1.0	1.0
+cell-cell adhesion involved in gastrulation	1.0	0.0	0.0	0.0	0.0
+epiboly involved in gastrulation with mouth forming second	1.0	1.0	1.0	1.0	1.0
+negative regulation of cell-cell adhesion mediated by cadherin	0.0	0.0	0.0	1.0	1.0
+cadherin binding involved in cell-cell adhesion	0.0	0.0	0.0	1.0	1.0

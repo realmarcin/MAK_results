@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.dyserythropoietic.anemia.type.IV"
+"2" "Alazami.Yuan.syndrome..ALYUS"
+"3" "vitamin.d.dependent.rickets..type.2A"
+"4" "premature.ovarian.failure.6"

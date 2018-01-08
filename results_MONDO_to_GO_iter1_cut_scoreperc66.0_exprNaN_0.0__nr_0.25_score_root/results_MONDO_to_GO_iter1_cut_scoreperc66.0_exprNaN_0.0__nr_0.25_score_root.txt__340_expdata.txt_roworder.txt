@@ -1,0 +1,6 @@
+"x"
+"1" "Dias.Logan.syndrome..DILOS"
+"2" "DYX2"
+"3" "helicobacter.pylori.infection..susceptibility.to"
+"4" "neurodevelopmental.disorder.craniofacial.dysmorphism.cardiac.defect.hip.dysplasia.syndrome.due.to.a.point.mutation"
+"5" "DOCK2.deficiency"

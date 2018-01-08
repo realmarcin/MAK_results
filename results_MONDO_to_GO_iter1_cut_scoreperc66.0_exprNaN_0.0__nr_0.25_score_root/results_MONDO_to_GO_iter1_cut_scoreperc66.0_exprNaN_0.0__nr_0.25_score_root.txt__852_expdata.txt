@@ -1,0 +1,6 @@
+	type 1 diabetes mellitus 2	Beckwith-Wiedemann syndrome	Silver-Russell syndrome	isolated thyrotropin-releasing hormone deficiency	permanent neonatal diabetes mellitus	obesity due to pro-opiomelanocortin deficiency	maturity-onset diabetes of the young type 10	hyperproinsulinemia	familial temporal lobe epilepsy 8	"growth restriction, severe, with distinctive facies"
+secretory granule	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of neurogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+hormone activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+response to peptide hormone	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+neuroblast proliferation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

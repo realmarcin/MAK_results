@@ -1,0 +1,6 @@
+"x"
+"1" "intramolecular transferase activity, phosphotransferases"
+"2" "regulation of pentose-phosphate shunt"
+"3" "phosphoglycerate mutase activity"
+"4" "bisphosphoglycerate mutase activity"
+"5" "2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity"

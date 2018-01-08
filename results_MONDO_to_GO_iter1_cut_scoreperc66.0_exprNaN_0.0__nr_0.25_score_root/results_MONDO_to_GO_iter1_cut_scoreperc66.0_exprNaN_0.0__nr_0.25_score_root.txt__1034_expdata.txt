@@ -1,0 +1,17 @@
+	hereditary breast carcinoma	colorectal adenocarcinoma	"diabetes mellitus, Noninsulin-dependent"	schizophrenia (disease)	"malaria, susceptibility to"
+positive regulation of mitochondrial membrane potential	1.0	1.0	1.0	1.0	0.0
+regulation of glycogen biosynthetic process	1.0	1.0	1.0	1.0	0.0
+regulation of myelination	1.0	1.0	1.0	1.0	0.0
+glycogen biosynthetic process	1.0	1.0	1.0	1.0	0.0
+negative regulation of plasma membrane long-chain fatty acid transport	1.0	1.0	1.0	1.0	0.0
+peripheral nervous system myelin maintenance	1.0	1.0	1.0	1.0	0.0
+insulin receptor signaling pathway	1.0	1.0	1.0	1.0	0.0
+glucose transport	1.0	1.0	1.0	1.0	0.0
+carbohydrate transport	1.0	1.0	1.0	1.0	0.0
+positive regulation of protein localization to plasma membrane	1.0	1.0	1.0	1.0	0.0
+positive regulation of glucose metabolic process	1.0	1.0	1.0	1.0	0.0
+negative regulation of JNK cascade	1.0	1.0	1.0	1.0	0.0
+positive regulation of glycogen biosynthetic process	1.0	1.0	1.0	1.0	0.0
+glycogen metabolic process	1.0	1.0	1.0	1.0	0.0
+14-3-3 protein binding	1.0	1.0	1.0	1.0	0.0
+positive regulation of glucose import	1.0	1.0	1.0	1.0	0.0

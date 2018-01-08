@@ -1,0 +1,6 @@
+"x"
+"1" "glycosaminoglycan catabolic process"
+"2" "chemical homeostasis"
+"3" "coated vesicle"
+"4" "dermatan sulfate catabolic process"
+"5" "L-iduronidase activity"

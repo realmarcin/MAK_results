@@ -1,0 +1,8 @@
+"x"
+"1" "malaria..susceptibility.to"
+"2" "migraine.with.or.without.aura..susceptibility.to..1"
+"3" "congenital.central.hypoventilation.syndrome"
+"4" "asthma..susceptibility.to"
+"5" "Question.mark.ears..isolated"
+"6" "Auriculocondylar.syndrome.3"
+"7" "Hirschsprung.disease..susceptibility.to..4"

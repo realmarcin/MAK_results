@@ -1,0 +1,10 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13
+cell projection	0.0	0.0	0.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0
+cytoskeleton	1.0	1.0	1.0	1.0
+cilium assembly	1.0	1.0	0.0	1.0
+extracellular space	0.0	0.0	0.0	1.0
+extracellular region	0.0	0.0	0.0	1.0
+somatic motor neuron differentiation	0.0	0.0	0.0	1.0
+dorsal/ventral neural tube patterning	0.0	0.0	0.0	1.0
+central nervous system interneuron axonogenesis	0.0	0.0	0.0	1.0

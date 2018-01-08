@@ -1,0 +1,9 @@
+	Aicardi-Goutieres syndrome 4	cystic leukoencephalopathy without megalencephaly	Trichohepatoenteric syndrome 2	Singleton-Merten syndrome 2	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal recessive 2"	platelet-type bleeding disorder 20
+magnesium ion binding	0.0	0.0	0.0	0.0	1.0	0.0
+nucleic acid binding	1.0	0.0	1.0	1.0	1.0	0.0
+nucleic acid phosphodiester bond hydrolysis	1.0	1.0	0.0	0.0	1.0	0.0
+mitochondrial DNA replication	0.0	0.0	0.0	0.0	1.0	0.0
+RNA catabolic process	1.0	1.0	1.0	0.0	1.0	0.0
+RNA-DNA hybrid ribonuclease activity	1.0	0.0	0.0	0.0	1.0	0.0
+"RNA phosphodiester bond hydrolysis, endonucleolytic"	1.0	1.0	0.0	0.0	1.0	1.0
+"DNA replication, removal of RNA primer"	1.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,5 @@
+	Fanconi anemia complementation group O	"breast-ovarian cancer, familial, susceptibility to, 3"	"melanoma, cutaneous malignant, susceptibility to, 6"	"breast-ovarian cancer, familial, susceptibility to, 4"	mirror movements 2	Fanconi anemia complementation group r
+four-way junction DNA binding	0.0	0.0	1.0	1.0	0.0	0.0
+crossover junction endodeoxyribonuclease activity	0.0	0.0	1.0	0.0	0.0	0.0
+endodeoxyribonuclease activity	1.0	1.0	1.0	1.0	1.0	1.0
+Holliday junction resolvase complex	1.0	1.0	0.0	0.0	0.0	0.0

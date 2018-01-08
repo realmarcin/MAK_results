@@ -1,0 +1,16 @@
+	hyperammonemia due to N-acetylglutamate synthase deficiency	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+kinase activity	1.0	0.0	0.0	0.0
+protein dimerization activity	1.0	0.0	0.0	0.0
+oxidation-reduction process	1.0	0.0	0.0	0.0
+oxidoreductase activity	1.0	0.0	0.0	0.0
+NAD binding	1.0	0.0	0.0	0.0
+arginine binding	1.0	0.0	0.0	0.0
+"transferase activity, transferring acyl groups"	1.0	0.0	0.0	0.0
+urea cycle	1.0	0.0	0.0	0.0
+arginine biosynthetic process	1.0	0.0	0.0	0.0
+ornithine biosynthetic process	1.0	0.0	0.0	0.0
+glutamate metabolic process	1.0	0.0	0.0	0.0
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	1.0	0.0	0.0	0.0
+acetylglutamate kinase activity	1.0	0.0	0.0	0.0
+N-acetyl-gamma-glutamyl-phosphate reductase activity	1.0	0.0	0.0	0.0
+acetyl-CoA:L-glutamate N-acetyltransferase activity	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Bardet.Biedl.syndrome.18"
+"2" "primary.ciliary.dyskinesia.2"
+"3" "congenital.myopathy.with.internal.nuclei.and.atypical.cores"
+"4" "primary.ciliary.dyskinesia.22"
+"5" "nephronophthisis.18"
+"6" "primary.ciliary.dyskinesia.18"

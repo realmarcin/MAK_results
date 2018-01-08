@@ -1,0 +1,6 @@
+"x"
+"1" "Geroderma.osteodysplastica"
+"2" "mental.retardation..X.linked..syndromic..Bain.type..MRXSB"
+"3" "absence.deformity.of.leg.cataract.syndrome"
+"4" "mast.syndrome"
+"5" "spinocerebellar.ataxia.type.35"

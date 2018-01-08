@@ -1,0 +1,5 @@
+"x"
+"1" "proline metabolic process"
+"2" "proline catabolic process to glutamate"
+"3" "proline dehydrogenase activity"
+"4" "proline catabolic process"

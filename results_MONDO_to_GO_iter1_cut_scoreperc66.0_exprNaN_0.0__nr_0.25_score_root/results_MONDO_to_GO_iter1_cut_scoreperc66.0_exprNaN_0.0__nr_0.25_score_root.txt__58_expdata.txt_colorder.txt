@@ -1,0 +1,6 @@
+"x"
+"1" "neurexin family protein binding"
+"2" "synaptic vesicle endocytosis"
+"3" "postsynaptic membrane assembly"
+"4" "brainstem development"
+"5" "territorial aggressive behavior"

@@ -1,0 +1,6 @@
+"x"
+"1" "dolichyl-phosphate beta-D-mannosyltransferase activity"
+"2" "dolichol-phosphate-mannose synthase complex"
+"3" "GDP-mannose metabolic process"
+"4" "protein mannosylation"
+"5" "alcohol binding"

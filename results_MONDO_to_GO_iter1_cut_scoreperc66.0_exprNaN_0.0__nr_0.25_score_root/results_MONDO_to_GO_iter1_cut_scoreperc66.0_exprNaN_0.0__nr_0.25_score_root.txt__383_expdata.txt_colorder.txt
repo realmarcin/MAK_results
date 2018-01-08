@@ -1,0 +1,7 @@
+"x"
+"1" "extracellular region"
+"2" "proteinaceous extracellular matrix"
+"3" "metal ion binding"
+"4" "fin morphogenesis"
+"5" "fin development"
+"6" "cell-matrix adhesion"

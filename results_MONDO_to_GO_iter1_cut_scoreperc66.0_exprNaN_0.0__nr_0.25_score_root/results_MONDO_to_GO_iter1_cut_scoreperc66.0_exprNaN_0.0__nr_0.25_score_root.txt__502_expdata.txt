@@ -1,0 +1,10 @@
+	congenital secretory sodium diarrhea 3	"mental retardation, X-linked 58"	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	autosomal recessive congenital ichthyosis 6	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly
+negative regulation of cell-cell adhesion	1.0	0.0	0.0	0.0	0.0
+neural tube closure	1.0	0.0	0.0	0.0	0.0
+negative regulation of peptidase activity	1.0	0.0	0.0	0.0	0.0
+serine-type endopeptidase inhibitor activity	1.0	0.0	0.0	0.0	0.0
+peptidase inhibitor activity	1.0	0.0	0.0	0.0	0.0
+basement membrane organization	1.0	0.0	0.0	0.0	0.0
+negative regulation of cell motility	1.0	0.0	0.0	0.0	0.0
+establishment or maintenance of cell polarity	1.0	0.0	0.0	0.0	0.0
+epithelial cell morphogenesis involved in placental branching	1.0	0.0	0.0	0.0	0.0

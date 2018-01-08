@@ -1,0 +1,5 @@
+"x"
+"1" "high.myopia.sensorineural.deafness.syndrome"
+"2" "atransferrinemia"
+"3" "agenesis.of.the.corpus.callosum.with.peripheral.neuropathy"
+"4" "X.linked.retinoschisis"

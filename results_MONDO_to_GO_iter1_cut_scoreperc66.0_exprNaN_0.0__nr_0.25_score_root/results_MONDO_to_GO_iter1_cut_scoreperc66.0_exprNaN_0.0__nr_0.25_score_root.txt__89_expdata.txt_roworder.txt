@@ -1,0 +1,6 @@
+"x"
+"1" "inclusion.body.myopathy.with.early.onset.Paget.disease.With.or.without.frontotemporal.dementia.3"
+"2" "amyotrophic.lateral.sclerosis.type.20"
+"3" "autosomal.dominant.limb.girdle.muscular.dystrophy.type.1G"
+"4" "distal.myopathy..Welander.type"
+"5" "ANE.syndrome"

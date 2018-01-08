@@ -1,0 +1,5 @@
+"x"
+"1" "isolated.growth.hormone.deficiency.type.II"
+"2" "isolated.growth.hormone.deficiency.type.IA"
+"3" "short.stature.due.to.growth.hormone.qualitative.anomaly"
+"4" "osteogenesis.imperfecta.type.6"

@@ -1,0 +1,15 @@
+	cystinuria (disease)	lysinuric protein intolerance	schizophrenia 18
+maltose metabolic process	1.0	0.0	0.0
+L-amino acid transmembrane transporter activity	1.0	1.0	0.0
+sucrose alpha-glucosidase activity	1.0	0.0	0.0
+cysteine transport	1.0	1.0	1.0
+disaccharide catabolic process	1.0	0.0	0.0
+L-methionine transmembrane transporter activity	1.0	1.0	0.0
+maltose catabolic process	1.0	0.0	0.0
+"glucan 1,4-alpha-maltotriohydrolase activity"	1.0	0.0	0.0
+L-methionine secondary active transmembrane transporter activity	1.0	1.0	0.0
+sucrose catabolic process	1.0	0.0	0.0
+methionine import	1.0	1.0	0.0
+sulfur amino acid transport	1.0	1.0	0.0
+methionine transport	1.0	1.0	0.0
+regulation of arginine metabolic process	0.0	1.0	0.0

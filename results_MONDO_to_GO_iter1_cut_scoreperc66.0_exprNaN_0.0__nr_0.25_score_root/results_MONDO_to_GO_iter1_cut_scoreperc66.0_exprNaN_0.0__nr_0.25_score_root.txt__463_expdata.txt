@@ -1,0 +1,6 @@
+	"hypercholesterolemia, familial"	hypogonadotropic hypogonadism 7 with or without anosmia	cerebrovascular disorder	platelet-type bleeding disorder 10	"myocardial infarction, susceptibility to"	"coronary heart disease, susceptibility to, 7"	"malaria, susceptibility to"
+low-density lipoprotein receptor activity	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+positive regulation of macrophage derived foam cell differentiation	0.0	0.0	1.0	1.0	0.0	1.0	1.0
+apoptotic cell clearance	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+positive regulation of cell-matrix adhesion	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+positive regulation of interleukin-12 production	0.0	0.0	0.0	1.0	1.0	1.0	1.0

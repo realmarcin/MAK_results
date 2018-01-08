@@ -1,0 +1,4 @@
+	Jawad syndrome	Seckel syndrome 2	Grn-related frontotemporal lobar degeneration with Tdp43 inclusions	neuronal ceroid lipofuscinosis 11
+G2 DNA damage checkpoint	1.0	1.0	0.0	0.0
+DNA double-strand break processing involved in repair via single-strand annealing	1.0	1.0	0.0	0.0
+blastocyst hatching	1.0	1.0	1.0	1.0

@@ -1,0 +1,11 @@
+	trichomegaly	autosomal dominant hypophosphatemic rickets	hypogonadotropic hypogonadism 20 with or without anosmia
+positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway	0.0	1.0	0.0
+regulation of bone mineralization	0.0	1.0	0.0
+negative regulation of bone mineralization	0.0	1.0	0.0
+cellular phosphate ion homeostasis	0.0	1.0	0.0
+phosphate ion homeostasis	0.0	1.0	0.0
+fibroblast growth factor receptor binding	1.0	1.0	1.0
+negative regulation of hormone secretion	0.0	1.0	0.0
+positive regulation of vitamin D 24-hydroxylase activity	0.0	1.0	0.0
+vitamin D catabolic process	0.0	1.0	0.0
+regulation of phosphate transport	0.0	1.0	0.0

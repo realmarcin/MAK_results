@@ -1,0 +1,7 @@
+"x"
+"1" "transcription factor activity, core RNA polymerase binding"
+"2" "double-strand break repair via break-induced replication"
+"3" "3'-5' DNA helicase activity"
+"4" "replication fork protection complex"
+"5" "mitotic DNA replication preinitiation complex assembly"
+"6" "CMG complex"

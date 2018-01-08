@@ -1,0 +1,6 @@
+"x"
+"1" "larsen.like.syndrome..B3GAT3.type"
+"2" "spondyloepiphyseal.dysplasia.with.congenital.joint.dislocations"
+"3" "macular.corneal.dystrophy"
+"4" "peeling.skin.syndrome.type.a"
+"5" "cystathioninuria..disease."

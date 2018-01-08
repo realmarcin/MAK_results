@@ -1,0 +1,5 @@
+"x"
+"1" "capillary.malformation.arteriovenous.malformation.syndrome"
+"2" "Parkes.Weber.syndrome"
+"3" "choroideremia"
+"4" "pituitary.hormone.deficiency..combined..2"

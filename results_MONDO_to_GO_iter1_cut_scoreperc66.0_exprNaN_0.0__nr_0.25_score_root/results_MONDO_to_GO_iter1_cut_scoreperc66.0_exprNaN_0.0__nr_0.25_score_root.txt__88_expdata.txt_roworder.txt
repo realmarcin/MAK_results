@@ -1,0 +1,5 @@
+"x"
+"1" "familial.visceral.amyloidosis"
+"2" "hypoproteinemia..Hypercatabolic"
+"3" "MHC.class.i.deficiency"
+"4" "myocardial.infarction..susceptibility.to"

@@ -1,0 +1,8 @@
+"x"
+"1" "protein binding"
+"2" "cytoplasm"
+"3" "cytoskeleton"
+"4" "skeletal muscle tissue development"
+"5" "locomotory behavior"
+"6" "Z disc"
+"7" "muscle alpha-actinin binding"

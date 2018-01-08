@@ -1,0 +1,5 @@
+	Alzheimer disease type 1	myeloperoxidase deficiency	congenital cataract microcornea with corneal opacity	thyroid dyshormonogenesis 2A	thyroid dyshormonogenesis 6	acatalasia
+hydrogen peroxide catabolic process	1.0	1.0	1.0	1.0	0.0	1.0
+peroxidase activity	1.0	1.0	1.0	1.0	1.0	1.0
+iodide peroxidase activity	0.0	0.0	0.0	1.0	0.0	0.0
+hydrogen peroxide biosynthetic process	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,9 @@
+	immunodeficiency-centromeric instability-facial anomalies syndrome 1	choroideremia	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome	hereditary sensory neuropathy-deafness-dementia syndrome	pancreatic agenesis 2
+"regulation of transcription, DNA-templated"	0.0	0.0	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	0.0	0.0	1.0	1.0	1.0	1.0
+retina morphogenesis in camera-type eye	1.0	1.0	1.0	1.0	1.0	1.0
+retina layer formation	1.0	1.0	1.0	1.0	1.0	1.0
+exocrine pancreas development	1.0	0.0	1.0	1.0	1.0	1.0
+"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific DNA binding"	0.0	0.0	0.0	0.0	0.0	0.0
+pancreas development	0.0	0.0	1.0	1.0	1.0	1.0
+RNA polymerase II repressing transcription factor binding	0.0	0.0	0.0	0.0	0.0	0.0

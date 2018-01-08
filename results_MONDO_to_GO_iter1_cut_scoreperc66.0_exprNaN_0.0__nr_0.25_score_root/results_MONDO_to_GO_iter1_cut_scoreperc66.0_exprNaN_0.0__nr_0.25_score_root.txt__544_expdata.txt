@@ -1,0 +1,11 @@
+	renal-hepatic-pancreatic dysplasia 1	NPHP3-related Meckel-like syndrome	nephronophthisis 3	nephronophthisis 4	Senior-Loken syndrome 4
+lung development	1.0	1.0	1.0	0.0	0.0
+extracellular matrix organization	1.0	1.0	1.0	0.0	0.0
+atrial septum development	1.0	1.0	1.0	0.0	0.0
+maintenance of animal organ identity	1.0	1.0	1.0	0.0	0.0
+ureter development	1.0	1.0	1.0	0.0	0.0
+kidney morphogenesis	1.0	1.0	1.0	0.0	0.0
+regulation of cAMP metabolic process	1.0	1.0	1.0	0.0	0.0
+determination of intestine left/right asymmetry	1.0	1.0	1.0	0.0	0.0
+ciliary inversin compartment	1.0	1.0	1.0	0.0	0.0
+determination of stomach left/right asymmetry	1.0	1.0	1.0	0.0	0.0

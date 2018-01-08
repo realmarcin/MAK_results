@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of fibroblast proliferation"
+"2" "defense response to virus"
+"3" "response to virus"
+"4" "humoral immune response"
+"5" "adaptive immune response"
+"6" "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"

@@ -1,0 +1,10 @@
+	3-methylglutaconic aciduria type 1	"carnitine palmitoyl transferase II deficiency, myopathic form"	"carnitine palmitoyl transferase II deficiency, severe infantile form"	"carnitine palmitoyl transferase II deficiency, neonatal form"	"encephalopathy, acute, infection-induced, susceptibility to, 4"
+transferase activity	0.0	1.0	1.0	1.0	1.0
+nucleolus	0.0	1.0	1.0	1.0	1.0
+transport	0.0	1.0	1.0	1.0	1.0
+nucleoplasm	0.0	1.0	1.0	1.0	1.0
+lipid metabolic process	0.0	1.0	1.0	1.0	1.0
+fatty acid metabolic process	0.0	1.0	1.0	1.0	1.0
+mitochondrial inner membrane	0.0	1.0	1.0	1.0	1.0
+"transferase activity, transferring acyl groups"	0.0	1.0	1.0	1.0	1.0
+carnitine O-palmitoyltransferase activity	0.0	1.0	1.0	1.0	1.0

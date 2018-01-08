@@ -1,0 +1,8 @@
+"x"
+"1" "plasma membrane"
+"2" "membrane"
+"3" "signal transduction"
+"4" "G-protein coupled receptor signaling pathway"
+"5" "negative regulation of apoptotic process"
+"6" "G-protein coupled receptor activity"
+"7" "signal transducer activity"

@@ -1,0 +1,5 @@
+"x"
+"1" "non.acquired.combined.pituitary.hormone.deficiency.with.spine.abnormalities"
+"2" "short.stature.pituitary.and.cerebellar.defects.small.sella.turcica.syndrome"
+"3" "congenital.malabsorptive.diarrhea.4"
+"4" "Smith.Magenis.syndrome"

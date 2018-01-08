@@ -1,0 +1,8 @@
+"x"
+"1" "aspartylglucosaminuria"
+"2" "Machado.Joseph.disease"
+"3" "atypical.hemolytic.uremic.syndrome.with.thrombomodulin.anomaly"
+"4" "hereditary.thrombophilia.due.to.congenital.histidine.rich..poly.L..glycoprotein.deficiency"
+"5" "thrombomodulin.related.bleeding.disorder"
+"6" "autosomal.recessive.nonsyndromic.deafness.70"
+"7" "drug.metabolism..poor..Cyp2C19.related"

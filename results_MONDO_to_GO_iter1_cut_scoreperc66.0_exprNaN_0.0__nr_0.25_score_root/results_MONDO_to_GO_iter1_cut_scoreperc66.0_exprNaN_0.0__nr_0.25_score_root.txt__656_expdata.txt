@@ -1,0 +1,7 @@
+	"myopathy, centronuclear, 2"	Charlevoix-Saguenay spastic ataxia	autosomal dominant Parkinson disease 4	Aicardi-Goutieres syndrome 3	normophosphatemic familial tumoral calcinosis	primary ciliary dyskinesia 10	"neuronopathy, distal hereditary motor, type 2C"	Mirage syndrome; MIRAGE
+molecular_function	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+response to retinoic acid	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+response to organic substance	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+ciliary basal body	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+axonemal dynein complex assembly	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+cilium-dependent cell motility	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

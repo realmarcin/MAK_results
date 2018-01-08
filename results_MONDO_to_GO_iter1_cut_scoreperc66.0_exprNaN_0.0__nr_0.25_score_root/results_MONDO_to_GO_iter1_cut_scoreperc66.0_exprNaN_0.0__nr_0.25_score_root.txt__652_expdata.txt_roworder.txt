@@ -1,0 +1,5 @@
+"x"
+"1" "spastic.ataxia.1"
+"2" "CEDNIK.syndrome"
+"3" "congenital.myasthenic.syndrome.18"
+"4" "epileptic.encephalopathy..early.infantile..21"

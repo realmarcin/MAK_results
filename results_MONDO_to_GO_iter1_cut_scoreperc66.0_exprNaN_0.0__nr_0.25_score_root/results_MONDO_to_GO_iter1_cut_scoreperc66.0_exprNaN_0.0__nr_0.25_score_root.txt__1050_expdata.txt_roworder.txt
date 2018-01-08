@@ -1,0 +1,6 @@
+"x"
+"1" "hypercholesterolemia..familial"
+"2" "Laron.syndrome"
+"3" "Laron.syndrome.with.immunodeficiency"
+"4" "essential.hypertension..genetic"
+"5" "familial.hypercholanemia"

@@ -1,0 +1,4 @@
+	"essential hypertension, genetic"	obesity due to prohormone convertase i deficiency	"Hirschsprung disease, cardiac defects, and autonomic dysfunction"	preeclampsia/eclampsia 5	peeling skin syndrome type a
+peptide hormone processing	1.0	1.0	1.0	1.0	1.0
+peptide biosynthetic process	0.0	1.0	0.0	0.0	0.0
+regulation of systemic arterial blood pressure by atrial natriuretic peptide	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,15 @@
+	"glaucoma 1, open angle, a"	Glomuvenous malformation	isolated spina bifida	schizophrenia 9	Kostmann syndrome	familial cortical myoclonus
+lamellipodium	0.0	0.0	0.0	0.0	1.0	0.0
+mitochondrion	1.0	0.0	0.0	1.0	1.0	1.0
+transcription factor complex	0.0	0.0	0.0	0.0	1.0	0.0
+mitochondrial outer membrane	1.0	0.0	0.0	0.0	1.0	0.0
+interleukin-1 binding	0.0	0.0	0.0	0.0	1.0	0.0
+sarcoplasmic reticulum	0.0	0.0	0.0	0.0	1.0	1.0
+actin cytoskeleton	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of actin cytoskeleton reorganization	0.0	0.0	0.0	0.0	1.0	0.0
+mitochondrial intermembrane space	1.0	0.0	0.0	0.0	1.0	0.0
+regulation of actin filament polymerization	0.0	0.0	0.0	0.0	1.0	0.0
+cell surface receptor signaling pathway	0.0	1.0	0.0	0.0	1.0	0.0
+clathrin-coated vesicle	0.0	0.0	0.0	0.0	1.0	0.0
+cellular response to cytokine stimulus	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of granulocyte differentiation	0.0	0.0	0.0	0.0	1.0	0.0

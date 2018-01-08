@@ -1,0 +1,7 @@
+"x"
+"1" "nucleus"
+"2" "negative regulation of transcription from RNA polymerase II promoter"
+"3" "regulation of transcription, DNA-templated"
+"4" "negative regulation of transcription, DNA-templated"
+"5" "transcription, DNA-templated"
+"6" "DNA binding transcription factor activity"

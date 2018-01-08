@@ -1,0 +1,4 @@
+"x"
+"1" "mitochondrial.DNA.depletion.syndrome.9"
+"2" "mitochondrial.DNA.depletion.syndrome..encephalomyopathic.form.with.methylmalonic.aciduria"
+"3" "Oxoglutaricaciduria"

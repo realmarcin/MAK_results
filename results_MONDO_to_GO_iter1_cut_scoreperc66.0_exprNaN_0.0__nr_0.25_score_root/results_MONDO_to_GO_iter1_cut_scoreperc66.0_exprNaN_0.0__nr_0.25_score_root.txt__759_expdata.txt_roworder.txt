@@ -1,0 +1,8 @@
+"x"
+"1" "glycogen.storage.disease.due.to.glycogen.branching.enzyme.deficiency"
+"2" "adult.polyglucosan.body.disease"
+"3" "hereditary.spastic.paraplegia.46"
+"4" "cystinuria..disease."
+"5" "sialuria"
+"6" "GNE.myopathy"
+"7" "MOGS.CDG"

@@ -1,0 +1,7 @@
+	familial cold autoinflammatory syndrome 1	"essential hypertension, genetic"	Muckle-Wells syndrome	obesity (disease)	immunodeficiency due to CD25 deficiency	CINCA syndrome	familial cold autoinflammatory syndrome 2	chromosome 15q13.3 microdeletion syndrome	"leukemia, acute lymphocytic, susceptibility to, 1"
+negative regulation of tumor necrosis factor production	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+negative regulation of inflammatory response	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of NF-kappaB transcription factor activity	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+positive regulation of MHC class I biosynthetic process	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+interleukin-2 binding	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of interleukin-1 beta production	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0

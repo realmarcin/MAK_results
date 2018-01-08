@@ -1,0 +1,6 @@
+"x"
+"1" "Neu.Laxova.syndrome.1"
+"2" "PHGDH.deficiency"
+"3" "PSPH.deficiency"
+"4" "PSAT.deficiency"
+"5" "Neu.Laxova.syndrome.2"

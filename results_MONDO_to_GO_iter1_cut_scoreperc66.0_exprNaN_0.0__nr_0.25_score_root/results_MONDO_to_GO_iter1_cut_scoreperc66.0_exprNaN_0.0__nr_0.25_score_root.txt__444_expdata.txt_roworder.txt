@@ -1,0 +1,6 @@
+"x"
+"1" "Fanconi.anemia.complementation.group.T"
+"2" "Fanconi.anemia.complementation.group.L"
+"3" "autosomal.recessive.early.onset.Parkinson.disease.15"
+"4" "glaucoma.1..open.angle..f"
+"5" "pseudohypoaldosteronism.type.2E"

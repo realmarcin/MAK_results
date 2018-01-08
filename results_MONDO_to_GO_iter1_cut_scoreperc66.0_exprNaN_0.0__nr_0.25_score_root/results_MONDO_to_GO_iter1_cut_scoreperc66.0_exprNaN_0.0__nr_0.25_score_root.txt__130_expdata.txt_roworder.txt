@@ -1,0 +1,6 @@
+"x"
+"1" "pontocerebellar.hypoplasia.type.1B"
+"2" "pontocerebellar.hypoplasia..type.1C"
+"3" "Perlman.syndrome"
+"4" "combined.oxidative.phosphorylation.defect.type.13"
+"5" "autosomal.recessive.nonsyndromic.deafness.70"

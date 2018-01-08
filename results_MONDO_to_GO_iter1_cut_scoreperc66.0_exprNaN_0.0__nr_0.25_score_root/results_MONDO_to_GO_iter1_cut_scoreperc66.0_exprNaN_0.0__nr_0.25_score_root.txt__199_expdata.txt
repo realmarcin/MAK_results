@@ -1,0 +1,4 @@
+	hepatocellular carcinoma	rhizomelic chondrodysplasia punctata type 2	papillary renal cell carcinoma	Osteofibrous dysplasia	"nephrotic syndrome, type 6"	autosomal recessive nonsyndromic deafness 97
+cerebellum morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+hepatocyte growth factor receptor signaling pathway	1.0	0.0	1.0	1.0	0.0	1.0
+semaphorin receptor activity	1.0	0.0	1.0	1.0	0.0	1.0

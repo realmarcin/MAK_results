@@ -1,0 +1,5 @@
+	hypoparathyroidism-deafness-renal disease syndrome	major affective disorder 7	"candidiasis, familial, 5"	Adams-Oliver syndrome 3	"candidiasis, familial, 9"	autosomal dominant nonsyndromic deafness 70
+cellular response to interleukin-4	1.0	1.0	0.0	0.0	0.0	1.0
+interleukin-4 secretion	1.0	0.0	0.0	1.0	0.0	0.0
+granulocyte chemotaxis	0.0	0.0	1.0	0.0	1.0	0.0
+fibroblast activation	0.0	0.0	1.0	0.0	0.0	0.0

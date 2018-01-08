@@ -1,0 +1,5 @@
+"x"
+"1" "Ritscher.Schinzel.syndrome.1"
+"2" "hereditary.spastic.paraplegia.8"
+"3" "mental.retardation..autosomal.recessive.43"
+"4" "Parkinson.disease.21"

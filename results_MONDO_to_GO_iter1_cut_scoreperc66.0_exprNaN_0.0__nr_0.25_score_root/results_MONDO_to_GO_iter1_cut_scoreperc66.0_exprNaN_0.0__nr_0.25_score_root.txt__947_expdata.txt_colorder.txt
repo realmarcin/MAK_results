@@ -1,0 +1,7 @@
+"x"
+"1" "synapse"
+"2" "dendrite"
+"3" "terminal bouton"
+"4" "axon"
+"5" "exocytosis"
+"6" "synaptic cleft"

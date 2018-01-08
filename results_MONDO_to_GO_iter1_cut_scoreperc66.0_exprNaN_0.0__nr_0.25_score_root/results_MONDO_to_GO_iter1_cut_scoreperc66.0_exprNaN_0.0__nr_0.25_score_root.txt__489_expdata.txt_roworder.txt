@@ -1,0 +1,6 @@
+"x"
+"1" "spinocerebellar.ataxia.type.17"
+"2" "Grange.syndrome"
+"3" "tooth.agenesis..selective..3"
+"4" "insomnia..disease."
+"5" "pontocerebellar.hypoplasia.type.8"

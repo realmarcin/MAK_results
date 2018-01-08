@@ -1,0 +1,4 @@
+"x"
+"1" "cystic.leukoencephalopathy.without.megalencephaly"
+"2" "platelet.type.bleeding.disorder.20"
+"3" "neuronal.ceroid.lipofuscinosis.5"

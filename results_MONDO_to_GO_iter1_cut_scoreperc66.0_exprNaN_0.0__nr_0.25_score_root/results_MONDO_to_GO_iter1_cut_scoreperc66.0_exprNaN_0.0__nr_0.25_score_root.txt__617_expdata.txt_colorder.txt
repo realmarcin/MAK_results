@@ -1,0 +1,7 @@
+"x"
+"1" "peripheral nervous system neuron development"
+"2" "transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding"
+"3" "generation of neurons"
+"4" "epithelial cell differentiation"
+"5" "neurogenesis"
+"6" "cellular response to 3,3',5-triiodo-L-thyronine"

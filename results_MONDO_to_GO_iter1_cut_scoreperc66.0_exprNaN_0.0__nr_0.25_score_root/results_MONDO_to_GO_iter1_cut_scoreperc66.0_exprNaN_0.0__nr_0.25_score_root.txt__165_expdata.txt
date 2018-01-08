@@ -1,0 +1,11 @@
+	"mental retardation, X-linked 99"	"mental retardation, X-linked 99, syndromic, female-restricted; MRXS99F"	"Parkinson disease 5, autosomal dominant, susceptibility to"	early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome
+cytoplasm	1.0	1.0	1.0	1.0
+hydrolase activity	1.0	1.0	1.0	1.0
+peptidase activity	1.0	1.0	1.0	1.0
+proteolysis	1.0	1.0	1.0	1.0
+ubiquitin-dependent protein catabolic process	1.0	1.0	1.0	1.0
+ligase activity	0.0	0.0	1.0	1.0
+protein deubiquitination	1.0	1.0	1.0	1.0
+thiol-dependent ubiquitin-specific protease activity	0.0	0.0	1.0	1.0
+thiol-dependent ubiquitinyl hydrolase activity	1.0	1.0	1.0	1.0
+ubiquitin recycling	0.0	0.0	1.0	1.0

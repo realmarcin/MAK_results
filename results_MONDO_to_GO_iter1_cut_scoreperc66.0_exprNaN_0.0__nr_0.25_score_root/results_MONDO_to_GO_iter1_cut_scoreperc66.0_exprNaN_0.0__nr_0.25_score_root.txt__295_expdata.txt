@@ -1,0 +1,8 @@
+	ALG2-CDG	DK1-CDG	ALG11-CDG	congenital myasthenic syndrome 14	"congenital disorder of glycosylation, type Iaa; CDG1AA"
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum membrane	1.0	1.0	1.0	1.0	1.0
+protein glycosylation	1.0	1.0	1.0	1.0	1.0
+protein glycosylation in endoplasmic reticulum	1.0	0.0	1.0	1.0	0.0

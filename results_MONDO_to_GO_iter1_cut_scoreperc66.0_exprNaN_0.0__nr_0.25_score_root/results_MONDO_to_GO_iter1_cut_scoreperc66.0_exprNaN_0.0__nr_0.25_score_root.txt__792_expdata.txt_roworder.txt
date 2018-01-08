@@ -1,0 +1,6 @@
+"x"
+"1" "craniofacial.dysplasia.osteopenia.syndrome"
+"2" "radio.ulnar.synostosis.amegakaryocytic.thrombocytopenia.syndrome"
+"3" "Hirschsprung.disease.ganglioneuroblastoma.syndrome"
+"4" "microphthalmia..syndromic.11"
+"5" "Smith.Magenis.syndrome"

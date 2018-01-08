@@ -1,0 +1,4 @@
+"x"
+"1" "outer dynein arm"
+"2" "dynein heavy chain binding"
+"3" "axonemal dynein complex"

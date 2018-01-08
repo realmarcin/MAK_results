@@ -1,0 +1,10 @@
+	"cholestasis, intrahepatic, of pregnancy, 1"	progressive familial intrahepatic cholestasis type 1	benign recurrent intrahepatic cholestasis type 1
+phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	0.0	0.0	0.0
+aminophospholipid transport	1.0	1.0	1.0
+mating projection tip membrane	1.0	1.0	1.0
+Golgi vesicle budding	1.0	1.0	1.0
+response to pheromone involved in conjugation with cellular fusion	1.0	1.0	1.0
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	1.0	1.0	1.0
+Lem3p-Dnf1p complex	1.0	1.0	1.0
+aminophospholipid transmembrane transporter activity	1.0	1.0	1.0
+ATP hydrolysis coupled ion transmembrane transport	1.0	1.0	1.0

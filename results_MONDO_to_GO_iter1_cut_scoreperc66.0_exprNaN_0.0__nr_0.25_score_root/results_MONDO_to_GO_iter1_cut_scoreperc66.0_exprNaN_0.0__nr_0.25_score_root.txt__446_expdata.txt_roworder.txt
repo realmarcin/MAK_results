@@ -1,0 +1,7 @@
+"x"
+"1" "Usher.syndrome.type.1"
+"2" "Usher.syndrome.type.1C"
+"3" "autosomal.recessive.nonsyndromic.deafness.18A"
+"4" "retinitis.pigmentosa.61"
+"5" "sinoatrial.node.dysfunction.and.deafness"
+"6" "aldosterone.producing.adenoma.with.seizures.and.neurological.abnormalities"

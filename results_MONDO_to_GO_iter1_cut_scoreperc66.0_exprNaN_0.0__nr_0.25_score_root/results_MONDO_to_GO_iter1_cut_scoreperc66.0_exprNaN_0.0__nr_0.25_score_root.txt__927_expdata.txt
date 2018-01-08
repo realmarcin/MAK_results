@@ -1,0 +1,8 @@
+	leukocyte adhesion deficiency 1	junctional epidermolysis bullosa with pyloric atresia	Pelizaeus-Merzbacher disease	hereditary spastic paraplegia 2	immunodeficiency 25	combined immunodeficiency due to CD3gamma deficiency	immunodeficiency 19	amelogenesis imperfecta type 1H
+cell junction	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+integrin binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+external side of plasma membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+integrin-mediated signaling pathway	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+cell adhesion mediated by integrin	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+transforming growth factor-beta secretion	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+integrin alphav-beta6 complex	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

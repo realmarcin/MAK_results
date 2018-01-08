@@ -1,0 +1,16 @@
+	Fechtner syndrome	Epstein syndrome	May-Hegglin anomaly	macrothrombocytopenia and progressive sensorineural deafness	autosomal dominant nonsyndromic deafness 17	Sebastian syndrome
+integrin-mediated signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0
+integrin complex	1.0	1.0	1.0	1.0	1.0	1.0
+lateral line system development	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of embryonic development	0.0	0.0	0.0	0.0	0.0	0.0
+neuregulin binding	0.0	0.0	0.0	0.0	0.0	0.0
+insulin-like growth factor I binding	0.0	0.0	0.0	0.0	0.0	0.0
+hemidesmosome assembly	0.0	0.0	0.0	0.0	0.0	0.0
+actin filament bundle distribution	1.0	1.0	1.0	1.0	1.0	1.0
+angiogenesis involved in wound healing	0.0	0.0	0.0	0.0	0.0	0.0
+cell-substrate junction assembly	0.0	0.0	0.0	0.0	0.0	0.0
+fibrinogen binding	0.0	0.0	0.0	0.0	0.0	0.0
+system development	0.0	0.0	0.0	0.0	0.0	0.0
+basement membrane assembly	0.0	0.0	0.0	0.0	0.0	0.0
+transforming growth factor-beta secretion	0.0	0.0	0.0	0.0	0.0	0.0
+integrin alphav-beta6 complex	0.0	0.0	0.0	0.0	0.0	0.0

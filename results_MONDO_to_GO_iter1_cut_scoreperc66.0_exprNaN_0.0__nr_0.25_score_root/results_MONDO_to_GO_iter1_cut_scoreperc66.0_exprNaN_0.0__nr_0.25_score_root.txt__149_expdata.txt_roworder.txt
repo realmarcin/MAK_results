@@ -1,0 +1,5 @@
+"x"
+"1" "primary.hyperoxaluria.type.1"
+"2" "primary.hyperoxaluria.type.3"
+"3" "Phosphohydroxylysinuria"
+"4" "postnatal.microcephaly.infantile.hypotonia.spastic.diplegia.dysarthria.intellectual.disability.syndrome"

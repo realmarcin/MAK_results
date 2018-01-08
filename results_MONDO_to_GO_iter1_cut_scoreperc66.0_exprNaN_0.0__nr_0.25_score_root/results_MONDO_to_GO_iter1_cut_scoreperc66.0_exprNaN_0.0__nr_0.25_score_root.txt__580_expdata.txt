@@ -1,0 +1,7 @@
+	combined oxidative phosphorylation defect type 8	Perrault syndrome 4	"leukoencephalopathy, progressive, with ovarian failure"	combined oxidative phosphorylation defect type 20	cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome	combined oxidative phosphorylation defect type 23	"hydrops, lactic acidosis, and sideroblastic anemia"	"growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy; GRIDHH"
+tRNA modification	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+cellular response to leucine starvation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to leucine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+aminoacyl-tRNA editing activity	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0
+regulation of translational fidelity	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0
+positive regulation of TORC1 signaling	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

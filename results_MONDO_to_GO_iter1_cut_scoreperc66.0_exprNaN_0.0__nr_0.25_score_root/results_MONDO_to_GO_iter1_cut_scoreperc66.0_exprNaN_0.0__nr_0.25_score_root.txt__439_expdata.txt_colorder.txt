@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of hair follicle development"
+"2" "cortical actin cytoskeleton organization"
+"3" "regulation of establishment of endothelial barrier"
+"4" "negative regulation of bicellular tight junction assembly"
+"5" "negative regulation of myosin-light-chain-phosphatase activity"
+"6" "positive regulation of NIK/NF-kappaB signaling"

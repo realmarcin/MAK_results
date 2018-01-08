@@ -1,0 +1,7 @@
+	hepatocellular carcinoma	"migraine with or without aura, susceptibility to, 1"	lung cancer	"asthma, susceptibility to"	autoimmune lymphoproliferative syndrome type 1	autoimmune lymphoproliferative syndrome type 2B
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1.0	1.0	1.0	1.0	1.0	1.0
+tumor necrosis factor receptor binding	1.0	1.0	1.0	1.0	1.0	1.0
+extrinsic apoptotic signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0
+extrinsic apoptotic signaling pathway via death domain receptors	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of cell size	0.0	0.0	0.0	0.0	0.0	0.0
+apoptotic signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0

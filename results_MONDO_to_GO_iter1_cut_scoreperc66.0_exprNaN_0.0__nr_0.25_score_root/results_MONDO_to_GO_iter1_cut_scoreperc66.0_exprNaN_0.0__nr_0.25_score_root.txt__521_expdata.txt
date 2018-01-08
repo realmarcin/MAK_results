@@ -1,0 +1,8 @@
+	familial glucocorticoid deficiency	oculocutaneous albinism type 2	congenital stationary night blindness 1B	"melanoma, cutaneous malignant, susceptibility to, 5"	nonsyndromic congenital nail disorder 10
+signal transducer activity	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor activity	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum membrane	0.0	1.0	1.0	0.0	0.0
+ubiquitin protein ligase binding	0.0	1.0	0.0	1.0	1.0
+positive regulation of cAMP biosynthetic process	1.0	1.0	0.0	1.0	0.0
+melanocortin receptor activity	1.0	1.0	0.0	1.0	0.0

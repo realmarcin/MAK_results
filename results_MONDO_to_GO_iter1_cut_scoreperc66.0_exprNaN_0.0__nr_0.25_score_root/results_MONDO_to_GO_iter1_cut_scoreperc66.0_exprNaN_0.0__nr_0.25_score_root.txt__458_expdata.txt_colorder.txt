@@ -1,0 +1,4 @@
+"x"
+"1" "core promoter sequence-specific DNA binding"
+"2" "transcription coactivator binding"
+"3" "promoter-specific chromatin binding"

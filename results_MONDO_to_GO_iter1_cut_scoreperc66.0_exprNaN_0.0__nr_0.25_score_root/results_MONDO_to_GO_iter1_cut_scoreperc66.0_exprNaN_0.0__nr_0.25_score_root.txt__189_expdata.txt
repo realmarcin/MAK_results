@@ -1,0 +1,7 @@
+	brachydactyly-arterial hypertension syndrome	46 XX gonadal dysgenesis	ovarian hyperstimulation syndrome	"pigmented nodular adrenocortical disease, primary, 2"	"dyskinesia, limb and orofacial, infantile-onset; IOLOD"	"striatal degeneration, autosomal dominant 2; ADSD2"
+cAMP catabolic process	1.0	0.0	0.0	1.0	1.0	1.0
+regulation of protein kinase A signaling	0.0	1.0	1.0	0.0	1.0	1.0
+cGMP catabolic process	0.0	0.0	0.0	1.0	1.0	1.0
+cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	0.0	0.0	0.0	1.0	1.0	1.0
+cyclic-nucleotide phosphodiesterase activity	0.0	0.0	0.0	1.0	1.0	1.0
+regulation of cAMP-mediated signaling	0.0	0.0	0.0	0.0	1.0	1.0

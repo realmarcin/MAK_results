@@ -1,0 +1,7 @@
+"x"
+"1" "spermatogenic.failure.10"
+"2" "amyotrophic.neuralgia"
+"3" "pyogenic.arthritis.pyoderma.gangrenosum.acne.syndrome"
+"4" "autosomal.dominant.nonsyndromic.deafness.67"
+"5" "dentatorubral.pallidoluysian.atrophy"
+"6" "elliptocytosis.1"

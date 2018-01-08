@@ -1,0 +1,5 @@
+"x"
+"1" "synaptic vesicle membrane"
+"2" "apical part of cell"
+"3" "clathrin binding"
+"4" "endocytosis"

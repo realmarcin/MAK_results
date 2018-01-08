@@ -1,0 +1,6 @@
+"x"
+"1" "membrane coat"
+"2" "Golgi to vacuole transport"
+"3" "AP-3 adaptor complex"
+"4" "positive regulation of NK T cell differentiation"
+"5" "clathrin-coated vesicle membrane"

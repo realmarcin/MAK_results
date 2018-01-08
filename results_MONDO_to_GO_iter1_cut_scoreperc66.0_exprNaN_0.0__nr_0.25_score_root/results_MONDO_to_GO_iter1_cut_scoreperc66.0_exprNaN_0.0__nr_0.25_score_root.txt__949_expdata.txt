@@ -1,0 +1,7 @@
+	prostate cancer	HELLP syndrome	X-linked severe congenital neutropenia	X-linked thrombocytopenia with normal platelets	cerebrovascular disorder	elliptocytosis 1	Wiskott-Aldrich syndrome 2	"cerebral palsy, spastic quadriplegic, 3; CPSQ3"
+actin binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+calmodulin binding	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0
+actin filament-based movement	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0
+cellular bud neck contractile ring	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Z disc	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+stress fiber	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

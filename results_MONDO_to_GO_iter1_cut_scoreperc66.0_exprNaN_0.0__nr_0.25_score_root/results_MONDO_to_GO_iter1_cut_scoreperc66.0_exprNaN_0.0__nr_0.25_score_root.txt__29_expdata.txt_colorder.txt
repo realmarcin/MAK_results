@@ -1,0 +1,7 @@
+"x"
+"1" "3-oxo-5-alpha-steroid 4-dehydrogenase activity"
+"2" "cholestenone 5-alpha-reductase activity"
+"3" "dolichol biosynthetic process"
+"4" "polyprenol catabolic process"
+"5" "sterol 5-alpha reductase activity"
+"6" "steroid catabolic process"

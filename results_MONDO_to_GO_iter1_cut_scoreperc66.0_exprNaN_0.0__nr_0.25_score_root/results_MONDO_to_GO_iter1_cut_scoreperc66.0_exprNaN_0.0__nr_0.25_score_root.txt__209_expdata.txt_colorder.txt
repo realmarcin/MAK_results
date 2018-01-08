@@ -1,0 +1,6 @@
+"x"
+"1" "coenzyme A biosynthetic process"
+"2" "regulation of fatty acid metabolic process"
+"3" "pantothenate kinase activity"
+"4" "glycerol kinase activity"
+"5" "glycerol-3-phosphate biosynthetic process"

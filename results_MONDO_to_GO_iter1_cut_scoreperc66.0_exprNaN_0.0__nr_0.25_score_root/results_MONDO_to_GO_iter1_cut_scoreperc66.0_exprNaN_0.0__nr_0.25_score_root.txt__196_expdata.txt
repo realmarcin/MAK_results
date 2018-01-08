@@ -1,0 +1,8 @@
+	xeroderma pigmentosum group E	"46,XX ovarian dysgenesis-short stature syndrome"	Fanconi anemia complementation group T
+nucleotide binding	0.0	1.0	1.0
+ATP binding	0.0	1.0	1.0
+nucleus	1.0	1.0	1.0
+DNA binding	1.0	1.0	0.0
+cellular response to DNA damage stimulus	1.0	1.0	1.0
+DNA repair	1.0	1.0	1.0
+ubiquitin-protein transferase activity	1.0	0.0	1.0

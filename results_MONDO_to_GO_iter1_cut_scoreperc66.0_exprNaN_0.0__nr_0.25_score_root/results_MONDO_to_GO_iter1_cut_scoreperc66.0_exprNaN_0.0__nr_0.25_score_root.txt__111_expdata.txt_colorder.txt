@@ -1,0 +1,7 @@
+"x"
+"1" "homocysteine catabolic process"
+"2" "S-adenosylmethionine cycle"
+"3" "aquacobalamin reductase activity"
+"4" "aquacobalamin reductase (NADPH) activity"
+"5" "oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor"
+"6" "[methionine synthase] reductase activity"

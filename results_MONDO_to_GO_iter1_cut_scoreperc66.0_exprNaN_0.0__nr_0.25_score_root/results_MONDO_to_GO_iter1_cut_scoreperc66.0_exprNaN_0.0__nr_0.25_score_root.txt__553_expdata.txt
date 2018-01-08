@@ -1,0 +1,8 @@
+	"metaphyseal chondrodysplasia, Spahr type"	Winchester syndrome	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked"	ichthyosis follicularis-alopecia-photophobia syndrome	"keratosis follicularis spinulosa decalvans, X-linked"	"spondyloepimetaphyseal dysplasia, Missouri type"
+cartilage development	1.0	1.0	1.0	1.0	1.0	1.0
+lipid metabolic process	0.0	0.0	1.0	1.0	1.0	0.0
+positive regulation of DNA binding transcription factor activity	0.0	0.0	1.0	1.0	1.0	0.0
+metalloendopeptidase activity	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	0.0	0.0	1.0	1.0	1.0	0.0
+ATF6-mediated unfolded protein response	0.0	0.0	1.0	1.0	1.0	0.0
+membrane protein intracellular domain proteolysis	0.0	0.0	1.0	1.0	1.0	0.0

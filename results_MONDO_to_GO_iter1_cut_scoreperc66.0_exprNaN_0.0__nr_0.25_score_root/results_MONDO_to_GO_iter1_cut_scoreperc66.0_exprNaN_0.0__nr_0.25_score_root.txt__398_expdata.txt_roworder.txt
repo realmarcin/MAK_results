@@ -1,0 +1,8 @@
+"x"
+"1" "Landau.Kleffner.syndrome"
+"2" "epilepsy..childhood.absence..susceptibility.to..2"
+"3" "generalized.epilepsy.with.febrile.seizures.plus..type.3"
+"4" "mental.retardation..autosomal.dominant.6"
+"5" "mental.retardation..autosomal.dominant.8"
+"6" "epileptic.encephalopathy..early.infantile..27"
+"7" "epileptic.encephalopathy..early.infantile..46..EIEE46"

@@ -1,0 +1,8 @@
+	clubfoot	"iridogoniodysgenesis, type 2"	Axenfeld-Rieger syndrome type 1	ring dermoid of cornea	brachydactyly-elbow wrist dysplasia syndrome	Peters anomaly (disease)
+embryonic hindlimb morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+embryonic digit morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0
+"transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding"	1.0	1.0	1.0	1.0	1.0	1.0
+transcription factor complex	1.0	1.0	1.0	1.0	1.0	1.0
+pituitary gland development	1.0	1.0	1.0	1.0	1.0	1.0
+RNA polymerase II transcription factor binding	1.0	1.0	1.0	1.0	1.0	1.0
+vascular smooth muscle cell differentiation	0.0	1.0	1.0	1.0	0.0	1.0

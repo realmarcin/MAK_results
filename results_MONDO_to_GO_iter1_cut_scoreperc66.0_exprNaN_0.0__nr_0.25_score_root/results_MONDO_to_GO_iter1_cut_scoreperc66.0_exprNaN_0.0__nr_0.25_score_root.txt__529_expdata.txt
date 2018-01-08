@@ -1,0 +1,8 @@
+	autoimmune lymphoproliferative syndrome type 1	"severe combined immunodeficiency, autosomal recessive, T cell-negative, b cell-positive, Nk cell-positive"	"hepatitis c virus, susceptibility to"	TCR-alpha-beta-positive T-cell deficiency	severe combined immunodeficiency due to DNA-PKcs deficiency
+positive regulation of B cell proliferation	0.0	1.0	1.0	0.0	0.0
+T cell proliferation	0.0	1.0	1.0	0.0	0.0
+leukocyte cell-cell adhesion	0.0	1.0	1.0	0.0	0.0
+negative regulation of peptidyl-tyrosine phosphorylation	0.0	1.0	1.0	0.0	0.0
+bone marrow development	0.0	1.0	1.0	0.0	0.0
+immunoglobulin production	1.0	1.0	0.0	1.0	1.0
+negative regulation of T cell mediated cytotoxicity	0.0	1.0	1.0	0.0	0.0

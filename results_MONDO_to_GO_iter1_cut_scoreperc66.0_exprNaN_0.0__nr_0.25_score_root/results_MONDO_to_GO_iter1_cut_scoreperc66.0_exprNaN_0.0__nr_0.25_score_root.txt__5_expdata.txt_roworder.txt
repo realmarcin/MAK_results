@@ -1,0 +1,4 @@
+"x"
+"1" "DPAGT1.CDG"
+"2" "congenital.myasthenic.syndrome.13"
+"3" "ALG13.CDG"

@@ -1,0 +1,7 @@
+"x"
+"1" "Hereditary.Progressive.Chorea.Without.Dementia"
+"2" "brain.lung.thyroid.syndrome"
+"3" "Shashi.Pena.syndrome..SHAPNS"
+"4" "familial.temporal.lobe.epilepsy.8"
+"5" "Parkinson.disease.11..autosomal.dominant..susceptibility.to"
+"6" "chorea..childhood.onset..with.psychomotor.retardation..COCPMR"

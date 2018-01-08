@@ -1,0 +1,9 @@
+	Machado-Joseph disease	neuronal ceroid lipofuscinosis 2	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	thrombomodulin-related bleeding disorder
+central nervous system development	0.0	1.0	0.0	0.0	0.0
+peptide catabolic process	0.0	1.0	0.0	0.0	0.0
+tripeptidyl-peptidase activity	0.0	1.0	0.0	0.0	0.0
+neuromuscular process controlling balance	0.0	1.0	0.0	0.0	0.0
+neurogenesis	0.0	1.0	0.0	0.0	0.0
+bone resorption	0.0	1.0	0.0	0.0	0.0
+peptide binding	0.0	1.0	0.0	0.0	0.0
+lysosome organization	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Schimke.immuno.osseous.dysplasia"
+"2" "Fanconi.anemia.complementation.group.j"
+"3" "Meier.Gorlin.syndrome.2"
+"4" "Meier.Gorlin.syndrome.3"
+"5" "Meier.Gorlin.syndrome.7..MGORS7"
+"6" "Fanconi.anemia.complementation.group.U"

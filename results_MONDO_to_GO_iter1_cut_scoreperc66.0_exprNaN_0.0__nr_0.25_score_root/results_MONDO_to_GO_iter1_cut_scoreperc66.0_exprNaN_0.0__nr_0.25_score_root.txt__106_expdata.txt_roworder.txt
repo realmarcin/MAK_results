@@ -1,0 +1,6 @@
+"x"
+"1" "juvenile.cataract.microcornea.renal.glucosuria.syndrome"
+"2" "metabolic.myopathy.due.to.lactate.transporter.defect"
+"3" "exercise.induced.hyperinsulinism"
+"4" "ketoacidosis.due.to.monocarboxylate.transporter.1.deficiency"
+"5" "Allan.Herndon.Dudley.syndrome"

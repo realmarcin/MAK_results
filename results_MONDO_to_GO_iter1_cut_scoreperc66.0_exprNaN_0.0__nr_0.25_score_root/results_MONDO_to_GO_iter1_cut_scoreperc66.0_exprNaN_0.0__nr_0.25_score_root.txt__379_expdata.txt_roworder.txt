@@ -1,0 +1,7 @@
+"x"
+"1" "dyskeratosis.congenita..autosomal.recessive.5"
+"2" "pulmonary.fibrosis.and.or.bone.marrow.failure..Telomere.related..3"
+"3" "PCNA.related.progressive.neurodegenerative.photosensitivy.syndrome"
+"4" "Baller.Gerold.syndrome"
+"5" "rapadilino.syndrome"
+"6" "Rothmund.Thomson.syndrome"

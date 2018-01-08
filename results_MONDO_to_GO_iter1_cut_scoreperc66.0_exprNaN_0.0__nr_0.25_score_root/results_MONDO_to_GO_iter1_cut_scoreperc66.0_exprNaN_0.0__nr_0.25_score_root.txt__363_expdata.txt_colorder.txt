@@ -1,0 +1,8 @@
+"x"
+"1" "protein transport"
+"2" "protein C-terminus binding"
+"3" "peroxisome"
+"4" "protein import into peroxisome membrane"
+"5" "protein import into peroxisome matrix"
+"6" "endoplasmic reticulum organization"
+"7" "peroxisome matrix targeting signal-1 binding"

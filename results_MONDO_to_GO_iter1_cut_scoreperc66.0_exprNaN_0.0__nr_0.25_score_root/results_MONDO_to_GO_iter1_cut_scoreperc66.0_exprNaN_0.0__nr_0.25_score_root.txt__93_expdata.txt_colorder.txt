@@ -1,0 +1,8 @@
+"x"
+"1" "zinc ion homeostasis"
+"2" "regulation of glucosylceramidase activity"
+"3" "regulation of lysosomal protein catabolic process"
+"4" "cellular response to manganese ion"
+"5" "regulation of autophagosome size"
+"6" "peptidyl-aspartic acid autophosphorylation"
+"7" "integral component of lysosomal membrane"

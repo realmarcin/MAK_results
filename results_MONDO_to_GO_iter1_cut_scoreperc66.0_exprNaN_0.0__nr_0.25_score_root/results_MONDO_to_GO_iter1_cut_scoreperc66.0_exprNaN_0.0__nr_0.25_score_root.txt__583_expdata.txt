@@ -1,0 +1,9 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	congenital myasthenic syndrome 6	methylmalonic aciduria and homocystinuria type cblC	"cerebral palsy, spastic quadriplegic, 1"
+cytoplasm	0.0	1.0	1.0	1.0
+mitochondrion	1.0	1.0	1.0	1.0
+embryonic viscerocranium morphogenesis	0.0	0.0	1.0	0.0
+demethylase activity	0.0	0.0	1.0	0.0
+demethylation	0.0	0.0	1.0	0.0
+glutathione binding	0.0	0.0	1.0	0.0
+cobalamin biosynthetic process	0.0	0.0	1.0	0.0
+cyanocobalamin reductase (cyanide-eliminating) activity	0.0	0.0	1.0	0.0

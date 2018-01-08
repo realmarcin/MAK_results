@@ -1,0 +1,7 @@
+	paroxysmal nonkinesigenic dyskinesia 1	acromelic frontonasal dysostosis	left ventricular noncompaction 1	"congenital heart defects, multiple types, 2"
+negative regulation of neurotransmitter secretion	1.0	0.0	0.0	0.0
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	1.0	0.0	0.0	0.0
+neuromuscular process controlling posture	1.0	0.0	0.0	0.0
+regulation of dopamine metabolic process	1.0	0.0	0.0	0.0
+"regulation of synaptic transmission, dopaminergic"	1.0	0.0	0.0	0.0
+hydroxyacylglutathione hydrolase activity	1.0	0.0	0.0	0.0

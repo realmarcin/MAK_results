@@ -1,0 +1,8 @@
+	Buschke-Ollendorff syndrome	cataract 46 juvenile-onset	MEND syndrome	X-linked chondrodysplasia punctata	trimethylaminuria (disease)
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+monooxygenase activity	0.0	0.0	0.0	0.0	1.0
+amino acid binding	0.0	0.0	0.0	0.0	1.0
+"N,N-dimethylaniline monooxygenase activity"	0.0	0.0	0.0	0.0	1.0
+drug metabolic process	0.0	0.0	0.0	0.0	1.0
+trimethylamine monooxygenase activity	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+	"autosomal recessive cutis laxa type 2, classic type"	autosomal recessive osteopetrosis 1	"renal tubular acidosis, distal, with progressive nerve deafness"	Wrinkly skin syndrome	"renal tubular acidosis, distal, autosomal recessive"
+"proton-transporting ATPase activity, rotational mechanism"	1.0	1.0	1.0	1.0	1.0
+cellular protein complex assembly	1.0	1.0	0.0	1.0	1.0
+vacuolar proton-transporting V-type ATPase complex assembly	1.0	1.0	0.0	1.0	1.0
+"proton-transporting V-type ATPase, V0 domain"	1.0	1.0	0.0	1.0	1.0
+polyphosphate metabolic process	1.0	1.0	0.0	1.0	1.0
+"vacuolar proton-transporting V-type ATPase, V0 domain"	1.0	1.0	0.0	1.0	1.0
+ATP synthesis coupled proton transport	1.0	1.0	0.0	1.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "mast cell activation"
+"2" "IgG receptor activity"
+"3" "negative regulation of immunoglobulin production"
+"4" "IgG binding"
+"5" "cellular response to molecule of bacterial origin"

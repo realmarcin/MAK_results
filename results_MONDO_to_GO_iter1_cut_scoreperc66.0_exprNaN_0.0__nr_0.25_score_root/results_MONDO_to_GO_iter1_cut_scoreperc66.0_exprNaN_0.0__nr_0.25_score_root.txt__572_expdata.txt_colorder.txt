@@ -1,0 +1,8 @@
+"x"
+"1" "positive regulation of cytosolic calcium ion concentration"
+"2" "regulation of cell migration"
+"3" "negative regulation of angiogenesis"
+"4" "negative regulation of cell migration"
+"5" "positive regulation of monocyte chemotaxis"
+"6" "negative regulation of axon extension"
+"7" "positive regulation of immune complex clearance by monocytes and macrophages"

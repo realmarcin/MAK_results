@@ -1,0 +1,10 @@
+	cone-rod dystrophy 7	pontocerebellar hypoplasia type 3	"generalized epilepsy with febrile seizures plus, type 9"	retinitis pigmentosa 77; RP77
+regulation of exocytosis	1.0	1.0	1.0	0.0
+spontaneous neurotransmitter secretion	1.0	0.0	1.0	0.0
+positive regulation of inhibitory postsynaptic potential	1.0	0.0	0.0	0.0
+presynaptic active zone cytoplasmic component	1.0	1.0	0.0	0.0
+positive regulation of synaptic vesicle priming	1.0	0.0	0.0	0.0
+cone cell pedicle	0.0	1.0	0.0	0.0
+cytoskeleton of presynaptic active zone	0.0	1.0	0.0	0.0
+synaptic vesicle targeting	0.0	1.0	0.0	0.0
+rod spherule	0.0	1.0	0.0	1.0

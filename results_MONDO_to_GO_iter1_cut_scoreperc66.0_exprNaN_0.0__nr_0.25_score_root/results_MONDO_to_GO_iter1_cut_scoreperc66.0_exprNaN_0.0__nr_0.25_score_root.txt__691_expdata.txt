@@ -1,0 +1,9 @@
+	cerebellar ataxia-hypogonadism syndrome	Johanson-Blizzard syndrome	giant axonal neuropathy 1	syndromic X-linked intellectual disability Nascimento type	Fanconi anemia complementation group f	myoclonic dystonia 26
+protein catabolic process	0.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of TOR signaling	0.0	1.0	0.0	0.0	0.0	0.0
+leucine binding	0.0	1.0	0.0	0.0	0.0	0.0
+MUB1-RAD6-UBR2 ubiquitin ligase complex	0.0	1.0	0.0	0.0	0.0	0.0
+ubiquitin-dependent protein catabolic process via the N-end rule pathway	0.0	1.0	0.0	0.0	0.0	0.0
+cellular response to leucine	0.0	1.0	0.0	0.0	0.0	0.0
+cytoplasm protein quality control by the ubiquitin-proteasome system	0.0	1.0	0.0	0.0	0.0	0.0
+"proteasome regulatory particle, base subcomplex"	0.0	1.0	0.0	0.0	0.0	0.0

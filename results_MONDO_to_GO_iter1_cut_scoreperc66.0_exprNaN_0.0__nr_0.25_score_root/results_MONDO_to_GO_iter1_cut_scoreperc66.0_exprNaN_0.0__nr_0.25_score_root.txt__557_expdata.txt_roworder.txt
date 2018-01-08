@@ -1,0 +1,6 @@
+"x"
+"1" "hereditary.spastic.paraplegia.48"
+"2" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"
+"3" "nephrotic.syndrome..type.11..NPHS11"
+"4" "autosomal.dominant.aplasia.and.myelodysplasia"
+"5" "frontotemporal.dementia.and.or.amyotrophic.lateral.sclerosis.1"

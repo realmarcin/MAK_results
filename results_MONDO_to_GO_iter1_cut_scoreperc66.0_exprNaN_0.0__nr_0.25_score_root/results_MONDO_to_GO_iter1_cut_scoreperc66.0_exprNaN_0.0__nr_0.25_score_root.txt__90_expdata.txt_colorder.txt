@@ -1,0 +1,4 @@
+"x"
+"1" "cobalamin binding"
+"2" "cobalamin metabolic process"
+"3" "cob(I)yrinic acid a,c-diamide adenosyltransferase activity"

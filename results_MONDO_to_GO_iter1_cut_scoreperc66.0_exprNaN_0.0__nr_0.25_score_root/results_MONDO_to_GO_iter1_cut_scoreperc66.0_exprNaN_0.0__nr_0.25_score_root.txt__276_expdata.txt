@@ -1,0 +1,7 @@
+	Pallister-hall syndrome	"polydactyly, postaxial, type A1"	polysyndactyly	Greig cephalopolysyndactyly syndrome	hypothalamic hamartomas	"skeletal defects, genital hypoplasia, and mental retardation"
+regulation of neurogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+DNA binding transcription factor activity	1.0	1.0	1.0	1.0	1.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0	1.0	1.0
+anterior/posterior pattern specification	1.0	1.0	1.0	1.0	1.0	0.0
+embryonic organ development	1.0	1.0	1.0	1.0	1.0	0.0
+mediator complex	1.0	1.0	1.0	1.0	1.0	0.0

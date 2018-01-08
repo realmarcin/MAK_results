@@ -1,0 +1,8 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	Marinesco-SjC6gren syndrome	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	"hyperuricemic nephropathy, familial juvenile, 4; HNFJ4"
+intracellular ribonucleoprotein complex	0.0	0.0	0.0	1.0	0.0
+SRP-dependent cotranslational protein targeting to membrane	0.0	0.0	0.0	1.0	1.0
+ribosome binding	0.0	0.0	0.0	1.0	1.0
+"SRP-dependent cotranslational protein targeting to membrane, translocation"	0.0	1.0	0.0	1.0	1.0
+7S RNA binding	0.0	0.0	0.0	1.0	0.0
+signal recognition particle	0.0	0.0	0.0	1.0	0.0
+"signal recognition particle, endoplasmic reticulum targeting"	0.0	0.0	0.0	1.0	0.0

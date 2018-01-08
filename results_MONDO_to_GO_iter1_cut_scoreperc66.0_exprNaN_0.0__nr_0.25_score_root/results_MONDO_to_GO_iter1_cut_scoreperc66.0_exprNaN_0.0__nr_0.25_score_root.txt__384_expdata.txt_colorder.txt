@@ -1,0 +1,4 @@
+"x"
+"1" "positive regulation of cell adhesion"
+"2" "positive regulation of epithelial cell migration"
+"3" "negative regulation of epithelial cell differentiation"

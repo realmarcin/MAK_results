@@ -1,0 +1,4 @@
+"x"
+"1" "thrombocytopenia.2"
+"2" "Microvascular.complications.of.diabetes..susceptibility.to..6"
+"3" "spermatogenic.failure..Y.linked..2"

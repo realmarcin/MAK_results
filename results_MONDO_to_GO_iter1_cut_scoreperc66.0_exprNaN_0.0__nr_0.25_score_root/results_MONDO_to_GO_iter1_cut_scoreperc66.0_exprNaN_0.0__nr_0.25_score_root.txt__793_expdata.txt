@@ -1,0 +1,10 @@
+	colorectal adenocarcinoma	conotruncal heart malformations	"heterotaxy, visceral, 2, autosomal"	Loeys-Dietz syndrome 4	hereditary thrombocytopenia with early-onset myelofibrosis
+foramen ovale closure	0.0	0.0	0.0	0.0	0.0
+connexin binding	1.0	0.0	0.0	0.0	1.0
+negative regulation of glomerular filtration	0.0	0.0	0.0	0.0	0.0
+atrial septum morphogenesis	0.0	1.0	1.0	1.0	0.0
+atrial ventricular junction remodeling	0.0	0.0	0.0	0.0	0.0
+disordered domain specific binding	0.0	0.0	0.0	0.0	0.0
+regulation of atrial cardiac muscle cell action potential	0.0	0.0	0.0	0.0	0.0
+pulmonary valve formation	0.0	0.0	0.0	0.0	0.0
+negative regulation of telomerase activity	1.0	1.0	0.0	0.0	1.0

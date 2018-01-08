@@ -1,0 +1,8 @@
+"x"
+"1" "middle ear morphogenesis"
+"2" "cerebellar Purkinje cell layer development"
+"3" "retinal rod cell development"
+"4" "inner ear receptor cell development"
+"5" "locomotor rhythm"
+"6" "lysosome organization"
+"7" "alpha-N-acetylglucosaminidase activity"

@@ -1,0 +1,7 @@
+"x"
+"1" "young.adult.onset.distal.hereditary.motor.neuropathy"
+"2" "Charcot.Marie.tooth.disease.axonal.type.2T"
+"3" "autosomal.dominant.limb.girdle.muscular.dystrophy.type.1D..DNAJB6."
+"4" "X3.methylglutaconic.aciduria.type.5"
+"5" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2Y"
+"6" "hyperphosphatasia.with.mental.retardation.syndrome.4"

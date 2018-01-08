@@ -1,0 +1,6 @@
+	nephronophthisis 4	Senior-Loken syndrome 4	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13	Bardet-Biedl syndrome 10
+pronephros morphogenesis	1.0	1.0	0.0	0.0	0.0
+axis elongation	1.0	1.0	0.0	0.0	0.0
+"positive regulation of Wnt signaling pathway, planar cell polarity pathway"	1.0	1.0	0.0	0.0	0.0
+positive regulation of bicellular tight junction assembly	1.0	1.0	0.0	0.0	0.0
+ribbon synapse	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "acetyl-CoA biosynthetic process"
+"2" "isoleucine catabolic process"
+"3" "ketone body catabolic process"
+"4" "propionyl-CoA biosynthetic process"
+"5" "carbon-carbon lyase activity"
+"6" "acetyl-CoA catabolic process"
+"7" "ligase activity, forming carbon-carbon bonds"

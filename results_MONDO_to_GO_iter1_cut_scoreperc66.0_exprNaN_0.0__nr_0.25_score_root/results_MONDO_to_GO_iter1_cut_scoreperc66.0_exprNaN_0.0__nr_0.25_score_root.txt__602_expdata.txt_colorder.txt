@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of T cell differentiation in thymus"
+"2" "lymphocyte differentiation"
+"3" "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"4" "positive regulation of B cell differentiation"
+"5" "positive regulation of lymphocyte differentiation"
+"6" "interleukin-2 binding"

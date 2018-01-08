@@ -1,0 +1,5 @@
+"x"
+"1" "gap junction assembly"
+"2" "cell body"
+"3" "astrocyte projection"
+"4" "lateral plasma membrane"

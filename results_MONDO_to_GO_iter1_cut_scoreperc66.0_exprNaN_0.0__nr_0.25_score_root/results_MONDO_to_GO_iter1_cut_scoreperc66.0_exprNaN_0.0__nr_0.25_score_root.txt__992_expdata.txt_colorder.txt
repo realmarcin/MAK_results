@@ -1,0 +1,5 @@
+"x"
+"1" "neuron projection maintenance"
+"2" "cellular sodium ion homeostasis"
+"3" "sodium:potassium-exchanging ATPase activity"
+"4" "sodium:potassium-exchanging ATPase complex"

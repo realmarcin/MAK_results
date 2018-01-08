@@ -1,0 +1,5 @@
+"x"
+"1" "pontocerebellar.hypoplasia.type.3"
+"2" "cone.rod.dystrophy.7"
+"3" "generalized.epilepsy.with.febrile.seizures.plus..type.9"
+"4" "retinitis.pigmentosa.77..RP77"

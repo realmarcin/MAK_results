@@ -1,0 +1,8 @@
+"x"
+"1" "establishment of planar polarity"
+"2" "inner ear receptor cell stereocilium organization"
+"3" "left/right pattern formation"
+"4" "embryonic digit morphogenesis"
+"5" "hair follicle development"
+"6" "protein kinase activity"
+"7" "pattern specification process"

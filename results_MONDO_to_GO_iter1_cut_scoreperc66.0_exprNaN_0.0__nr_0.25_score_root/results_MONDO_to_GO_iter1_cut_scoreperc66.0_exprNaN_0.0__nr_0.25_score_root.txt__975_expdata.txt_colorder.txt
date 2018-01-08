@@ -1,0 +1,6 @@
+"x"
+"1" "chordate embryonic development"
+"2" "developmental growth"
+"3" "nuclear envelope"
+"4" "lipid droplet"
+"5" "protein oligomerization"

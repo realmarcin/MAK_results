@@ -1,0 +1,8 @@
+"x"
+"1" "hypotrichosis.lymphedema.telangiectasia.renal.defect.syndrome"
+"2" "hypotrichosis.lymphedema.telangiectasia.syndrome"
+"3" "vesicoureteral.reflux.3"
+"4" "posterior.polymorphous.corneal.dystrophy.1"
+"5" "Job.s.syndrome"
+"6" "leukemia..acute.lymphocytic..susceptibility.to..1"
+"7" "STAT3.related.early.onset.multisystem.autoimmune.disease"

@@ -1,0 +1,5 @@
+"x"
+"1" "cellular response to interleukin-4"
+"2" "interleukin-4 secretion"
+"3" "granulocyte chemotaxis"
+"4" "fibroblast activation"

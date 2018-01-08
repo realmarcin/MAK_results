@@ -1,0 +1,5 @@
+	"Carney complex, type 1"	hydrolethalus syndrome 1	Baraitser-Winter syndrome 1	familial atrial myxoma	developmental malformations-deafness-dystonia syndrome	spinocerebellar ataxia type 23	"pigmented nodular adrenocortical disease, primary, 1"	"cerebral palsy, spastic quadriplegic, 2"
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+nucleotide binding	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0

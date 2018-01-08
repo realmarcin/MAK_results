@@ -1,0 +1,7 @@
+"x"
+"1" "phosphorylation"
+"2" "kinase activity"
+"3" "nucleobase-containing compound metabolic process"
+"4" "mitochondrion"
+"5" "cellular_component"
+"6" "nucleoside kinase activity"

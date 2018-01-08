@@ -1,0 +1,9 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	glycogen storage disease III	Tay-Sachs disease AB variant	"autoimmune disease, susceptibility to, 6"
+hydrolase activity	1.0	1.0	1.0	1.0	1.0
+response to hormone	0.0	0.0	1.0	0.0	0.0
+polysaccharide binding	0.0	0.0	1.0	0.0	0.0
+response to glucocorticoid	0.0	0.0	1.0	0.0	0.0
+glycogen debranching enzyme activity	0.0	0.0	1.0	0.0	0.0
+polyubiquitin modification-dependent protein binding	0.0	0.0	1.0	0.0	0.0
+4-alpha-glucanotransferase activity	0.0	0.0	1.0	0.0	0.0
+"amylo-alpha-1,6-glucosidase activity"	0.0	0.0	1.0	0.0	0.0

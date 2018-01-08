@@ -1,0 +1,5 @@
+"x"
+"1" "nucleoside kinase activity"
+"2" "dGTP metabolic process"
+"3" "purine deoxyribonucleoside metabolic process"
+"4" "deoxyguanosine kinase activity"

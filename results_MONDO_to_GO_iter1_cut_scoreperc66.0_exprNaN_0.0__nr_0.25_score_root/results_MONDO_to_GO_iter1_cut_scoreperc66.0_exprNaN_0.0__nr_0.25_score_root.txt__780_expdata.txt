@@ -1,0 +1,7 @@
+	hepatocellular carcinoma	"desmoid disease, hereditary"	familial adenomatous polyposis 1	hyper-IgM syndrome type 5	autosomal dominant nonsyndromic deafness 28	gastric cancer	nail and teeth abnormalities-marginal palmoplantar keratoderma-oral hyperpigmentation syndrome	immunodeficiency-centromeric instability-facial anomalies syndrome 4
+negative regulation of histone acetylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of histone H3-K4 methylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of DNA methylation	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of gene expression by genetic imprinting	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of histone H3-K9 methylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of histone H3-K4 methylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

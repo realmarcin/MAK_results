@@ -1,0 +1,8 @@
+"x"
+"1" "RNA polymerase II transcription coactivator activity"
+"2" "RNA polymerase II activating transcription factor binding"
+"3" "transcriptional repressor activity, RNA polymerase II transcription factor binding"
+"4" "vascular smooth muscle cell differentiation"
+"5" "pulmonary vein morphogenesis"
+"6" "toxin metabolic process"
+"7" "xenobiotic metabolic process"

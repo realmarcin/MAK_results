@@ -1,0 +1,7 @@
+	"X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection and neoplasia"	"mental retardation, autosomal recessive 7"	"arthrogryposis, renal dysfunction, and cholestasis 2"	STT3A-CDG	STT3B-CDG
+protein N-linked glycosylation via asparagine	1.0	1.0	0.0	1.0	1.0
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity	1.0	1.0	0.0	1.0	1.0
+oligosaccharyltransferase complex	1.0	1.0	0.0	1.0	1.0
+post-translational protein modification	0.0	0.0	1.0	1.0	1.0
+oligosaccharyl transferase activity	0.0	0.0	0.0	1.0	1.0
+co-translational protein modification	0.0	0.0	0.0	1.0	1.0

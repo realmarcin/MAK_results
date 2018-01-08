@@ -1,0 +1,10 @@
+	complement component 4b deficiency	complement component 4a deficiency	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+synapse	1.0	1.0	0.0	0.0
+extracellular space	1.0	1.0	1.0	0.0
+extracellular exosome	1.0	1.0	0.0	0.0
+dendrite	1.0	1.0	0.0	0.0
+complement binding	1.0	1.0	0.0	0.0
+carbohydrate binding	1.0	1.0	0.0	0.0
+immunoglobulin mediated immune response	1.0	1.0	0.0	0.0
+complement component C1q binding	1.0	1.0	0.0	0.0
+other organism cell	1.0	1.0	0.0	0.0

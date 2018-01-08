@@ -1,0 +1,8 @@
+"x"
+"1" "cytosol"
+"2" "molecular_function"
+"3" "cytoplasm"
+"4" "protein domain specific binding"
+"5" "nuclear speck"
+"6" "proton-transporting ATP synthase complex assembly"
+"7" "mitochondrial proton-transporting ATP synthase complex assembly"

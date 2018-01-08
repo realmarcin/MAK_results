@@ -1,0 +1,5 @@
+"x"
+"1" "galactokinase.deficiency"
+"2" "X3.hydroxy.3.methylglutaryl.CoA.synthase.deficiency"
+"3" "porokeratosis.9..multiple.types..POROK9"
+"4" "POROK7"

@@ -1,0 +1,4 @@
+"x"
+"1" "defense response to bacterium"
+"2" "response to bacterium"
+"3" "negative regulation of growth of symbiont in host"

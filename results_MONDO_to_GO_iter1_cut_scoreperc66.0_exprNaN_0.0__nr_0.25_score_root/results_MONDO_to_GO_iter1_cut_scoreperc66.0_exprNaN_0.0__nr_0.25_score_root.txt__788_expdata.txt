@@ -1,0 +1,7 @@
+	polydactyly of a triphalangeal thumb	syndactyly type 4	"tibia, hypoplasia or aplasia of, with polydactyly"	acheiropody	Fuhrmann syndrome	"phocomelia, Schinzel type"	lumbar disc degeneration
+cartilage development	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+embryonic hindlimb morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+proteinaceous extracellular matrix	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+skeletal system morphogenesis	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+cartilage condensation	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+positive regulation of synapse assembly	0.0	0.0	0.0	0.0	1.0	1.0	1.0

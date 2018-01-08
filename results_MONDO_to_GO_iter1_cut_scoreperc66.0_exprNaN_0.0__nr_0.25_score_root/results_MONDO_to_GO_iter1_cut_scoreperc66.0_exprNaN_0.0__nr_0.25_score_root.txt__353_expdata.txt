@@ -1,0 +1,7 @@
+	RFT1-CDG	hereditary spastic paraplegia 42	congenital cataract-hearing loss-severe developmental delay syndrome	"mental retardation, autosomal recessive 42"	"microcephaly 15, primary, autosomal recessive"
+integral component of plasma membrane	0.0	1.0	1.0	0.0	1.0
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0	1.0
+transport	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,10 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	inflammatory bowel disease 10	autosomal dominant aplasia and myelodysplasia
+axoneme	0.0	0.0	1.0	0.0
+autophagy	1.0	0.0	1.0	0.0
+autophagosome	1.0	0.0	1.0	0.0
+protein localization to phagophore assembly site	0.0	0.0	1.0	0.0
+GTPase binding	0.0	0.0	1.0	0.0
+protein lipidation involved in autophagosome assembly	0.0	0.0	1.0	0.0
+autophagosome membrane	0.0	0.0	1.0	0.0
+negative stranded viral RNA replication	0.0	0.0	1.0	0.0
+xenophagy	0.0	0.0	1.0	0.0

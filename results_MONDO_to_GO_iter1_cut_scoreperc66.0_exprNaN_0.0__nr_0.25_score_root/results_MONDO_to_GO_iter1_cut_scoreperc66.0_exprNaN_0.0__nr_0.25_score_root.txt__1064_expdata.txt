@@ -1,0 +1,12 @@
+	"microcephaly with or without chorioretinopathy, lymphedema, or mental retardation"	amyotrophic neuralgia	paraplegia-brachydactyly-cone-shaped epiphysis syndrome	"plantar lipomatosis, unusual facies, and developmental delay"	spermatogenic failure 10	advanced sleep phase syndrome 2	complex cortical dysplasia with other brain malformations 3	complex cortical dysplasia with other brain malformations 4	"mental retardation, autosomal dominant 41; MRD41"
+fat pad development	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+spindle microtubule	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+white fat cell differentiation	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of stress-activated MAPK cascade	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+regulation of triglyceride metabolic process	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of chromatin silencing at telomere	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+histone deacetylation	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+Rpd3L-Expanded complex	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+Set3 complex	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of nucleic acid-templated transcription	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of meiotic nuclear division	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0

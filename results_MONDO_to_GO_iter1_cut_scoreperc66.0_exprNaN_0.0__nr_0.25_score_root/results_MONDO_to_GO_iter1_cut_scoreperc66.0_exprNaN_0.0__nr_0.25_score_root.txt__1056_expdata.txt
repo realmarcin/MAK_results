@@ -1,0 +1,15 @@
+	"autosomal recessive cutis laxa type 2, classic type"	gamma-glutamyl transpeptidase deficiency	autosomal recessive osteopetrosis 1	Wrinkly skin syndrome	"renal tubular acidosis, distal, autosomal recessive"	congenital neutropenia-myelofibrosis-nephromegaly syndrome
+vacuolar acidification	1.0	0.0	1.0	1.0	1.0	1.0
+xenobiotic metabolic process	0.0	1.0	0.0	0.0	0.0	0.0
+glutamate metabolic process	0.0	1.0	0.0	0.0	0.0	0.0
+cysteine biosynthetic process	0.0	1.0	0.0	0.0	0.0	0.0
+glutathione biosynthetic process	0.0	1.0	0.0	0.0	0.0	0.0
+"transferase activity, transferring amino-acyl groups"	0.0	1.0	0.0	0.0	0.0	0.0
+leukotriene D4 biosynthetic process	0.0	1.0	0.0	0.0	0.0	0.0
+glutathione hydrolase activity	0.0	1.0	0.0	0.0	0.0	0.0
+glutathione catabolic process	0.0	1.0	0.0	0.0	0.0	0.0
+leukotriene-C(4) hydrolase	0.0	1.0	0.0	0.0	0.0	0.0
+zymogen activation	0.0	1.0	0.0	0.0	0.0	0.0
+regulation of immune system process	0.0	1.0	0.0	0.0	0.0	0.0
+peptidyltransferase activity	0.0	1.0	0.0	0.0	0.0	0.0
+peptide modification	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,11 @@
+	3-methylglutaconic aciduria type 1	peroxisomal acyl-CoA oxidase deficiency	mitochondrial short-chain Enoyl-Coa hydratase 1 deficiency	congenital bile acid synthesis defect 6
+oxidation-reduction process	0.0	1.0	0.0	1.0
+oxidoreductase activity	0.0	1.0	0.0	1.0
+intracellular membrane-bounded organelle	0.0	1.0	0.0	1.0
+FAD binding	0.0	1.0	0.0	1.0
+fatty acid binding	0.0	1.0	0.0	1.0
+fatty acid beta-oxidation	1.0	1.0	1.0	1.0
+positive regulation of response to oxidative stress	0.0	0.0	0.0	1.0
+acyl-CoA oxidase activity	0.0	1.0	0.0	1.0
+fatty acid beta-oxidation using acyl-CoA oxidase	0.0	1.0	0.0	1.0
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase activity"	0.0	0.0	0.0	1.0

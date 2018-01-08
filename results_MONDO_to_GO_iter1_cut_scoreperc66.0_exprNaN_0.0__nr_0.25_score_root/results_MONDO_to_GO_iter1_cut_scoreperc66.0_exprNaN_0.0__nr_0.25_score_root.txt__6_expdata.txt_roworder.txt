@@ -1,0 +1,4 @@
+"x"
+"1" "neuronopathy..distal.hereditary.motor..type.5A"
+"2" "Charcot.Marie.tooth.disease.type.2D"
+"3" "progressive.external.ophthalmoplegia.with.mitochondrial.Dna.deletions..autosomal.dominant.4"

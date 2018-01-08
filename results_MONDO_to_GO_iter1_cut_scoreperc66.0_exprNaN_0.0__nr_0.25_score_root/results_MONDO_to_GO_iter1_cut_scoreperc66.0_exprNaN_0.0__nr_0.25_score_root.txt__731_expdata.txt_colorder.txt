@@ -1,0 +1,8 @@
+"x"
+"1" "lipid catabolic process"
+"2" "phospholipase activity"
+"3" "visual learning"
+"4" "phosphatidylethanolamine metabolic process"
+"5" "COPII-coated ER to Golgi transport vesicle"
+"6" "ER to Golgi vesicle-mediated transport"
+"7" "sperm mitochondrion organization"

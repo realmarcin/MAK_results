@@ -1,0 +1,6 @@
+"x"
+"1" "Carey.Fineman.Ziter..syndrome"
+"2" "sarcoidosis..susceptibility.to..1"
+"3" "gelatinous.drop.like.corneal.dystrophy"
+"4" "Imerslund.Grasbeck.syndrome"
+"5" "immunodeficiency..common.variable..5"

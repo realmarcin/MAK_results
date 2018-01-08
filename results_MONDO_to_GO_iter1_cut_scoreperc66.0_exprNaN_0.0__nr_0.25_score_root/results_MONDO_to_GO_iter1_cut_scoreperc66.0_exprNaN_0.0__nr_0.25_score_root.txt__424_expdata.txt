@@ -1,0 +1,9 @@
+	"myopathy, centronuclear, 2"	Charlevoix-Saguenay spastic ataxia	normophosphatemic familial tumoral calcinosis	"neuronopathy, distal hereditary motor, type 2C"	woolly hair-palmoplantar keratoderma syndrome	Mirage syndrome; MIRAGE
+apoptotic process	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of cell proliferation	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of intracellular estrogen receptor signaling pathway	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of G1/S transition of mitotic cell cycle	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of stress fiber assembly	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of programmed cell death	0.0	0.0	0.0	0.0	1.0	0.0
+glomerular basement membrane development	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of vitamin D receptor signaling pathway	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+	primary hyperoxaluria type 1	primary hyperoxaluria type 3	Phosphohydroxylysinuria	postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome
+L-alanine catabolic process	1.0	0.0	0.0	1.0
+serine-pyruvate transaminase activity	1.0	0.0	0.0	0.0
+L-cysteine catabolic process	1.0	0.0	0.0	0.0
+glyoxylate metabolic process	1.0	1.0	0.0	0.0
+glyoxylate catabolic process	1.0	1.0	0.0	0.0
+alanine-glyoxylate transaminase activity	1.0	0.0	1.0	0.0
+oxalic acid secretion	1.0	0.0	0.0	0.0

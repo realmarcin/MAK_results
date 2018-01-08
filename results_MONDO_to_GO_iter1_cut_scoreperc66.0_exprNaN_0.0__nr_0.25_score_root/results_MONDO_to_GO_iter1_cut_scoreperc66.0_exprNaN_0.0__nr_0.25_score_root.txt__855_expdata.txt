@@ -1,0 +1,6 @@
+	"iridogoniodysgenesis, type 2"	Axenfeld-Rieger syndrome type 1	ring dermoid of cornea	"vitamin d-dependent rickets, type 2A"	Peters anomaly (disease)	premature ovarian failure 6
+DNA binding transcription factor activity	1.0	1.0	1.0	1.0	1.0	0.0
+vasculogenesis	1.0	1.0	1.0	0.0	1.0	0.0
+anatomical structure morphogenesis	1.0	1.0	1.0	0.0	1.0	0.0
+sequence-specific DNA binding	1.0	1.0	1.0	0.0	1.0	1.0
+vascular smooth muscle cell differentiation	1.0	1.0	1.0	0.0	1.0	0.0

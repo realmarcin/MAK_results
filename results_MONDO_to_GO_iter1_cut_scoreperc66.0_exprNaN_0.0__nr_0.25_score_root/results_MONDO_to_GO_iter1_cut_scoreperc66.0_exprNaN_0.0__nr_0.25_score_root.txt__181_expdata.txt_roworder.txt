@@ -1,0 +1,7 @@
+"x"
+"1" "isolated.microphthalmia.8"
+"2" "Sjogren.Larsson.syndrome"
+"3" "alcohol.sensitivity..acute"
+"4" "hyperprolinemia.type.2"
+"5" "pyridoxine.dependent.epilepsy"
+"6" "dihydropteridine.reductase.deficiency"

@@ -1,0 +1,6 @@
+"x"
+"1" "phosphatidylinositol phospholipase C activity"
+"2" "phosphatidylinositol biosynthetic process"
+"3" "protein localization to kinetochore"
+"4" "condensed nuclear chromosome kinetochore"
+"5" "phospholipid catabolic process"

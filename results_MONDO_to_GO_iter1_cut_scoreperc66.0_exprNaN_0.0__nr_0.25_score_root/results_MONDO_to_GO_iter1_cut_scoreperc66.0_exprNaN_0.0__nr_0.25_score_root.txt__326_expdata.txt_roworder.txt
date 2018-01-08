@@ -1,0 +1,4 @@
+"x"
+"1" "autosomal.dominant.Opitz.G.BBB.syndrome"
+"2" "Tessier.number.4.facial.cleft"
+"3" "Alagille.syndrome.due.to.a.JAG1.point.mutation"

@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of dendrite development"
+"2" "negative regulation of branching morphogenesis of a nerve"
+"3" "regulation of dendrite development"
+"4" "negative regulation of collateral sprouting"
+"5" "negative regulation of neuron remodeling"
+"6" "negative regulation of dendrite extension"

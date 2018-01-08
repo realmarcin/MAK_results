@@ -1,0 +1,5 @@
+"x"
+"1" "protein kinase C binding"
+"2" "positive regulation of I-kappaB phosphorylation"
+"3" "negative regulation of fatty acid beta-oxidation"
+"4" "glycogen cell differentiation involved in embryonic placenta development"

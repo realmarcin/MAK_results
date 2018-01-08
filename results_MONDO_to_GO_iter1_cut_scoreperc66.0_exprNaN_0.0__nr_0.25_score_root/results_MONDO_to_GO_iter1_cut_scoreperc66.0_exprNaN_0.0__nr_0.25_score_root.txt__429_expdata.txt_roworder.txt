@@ -1,0 +1,5 @@
+"x"
+"1" "nephronophthisis.20"
+"2" "microcephaly.2..primary..autosomal.recessive..with.or.without.cortical.malformations"
+"3" "facioscapulohumeral.muscular.dystrophy.1"
+"4" "Shwachman.Diamond.syndrome"

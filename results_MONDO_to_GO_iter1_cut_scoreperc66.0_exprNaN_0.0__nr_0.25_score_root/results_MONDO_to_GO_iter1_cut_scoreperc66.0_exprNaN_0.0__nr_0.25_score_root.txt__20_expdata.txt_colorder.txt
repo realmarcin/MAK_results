@@ -1,0 +1,6 @@
+"x"
+"1" "tRNA 3'-end processing"
+"2" "3'-tRNA processing endoribonuclease activity"
+"3" "tRNA 3'-trailer cleavage, endonucleolytic"
+"4" "mitochondrial tRNA 3'-trailer cleavage, endonucleolytic"
+"5" "tRNA-specific ribonuclease activity"

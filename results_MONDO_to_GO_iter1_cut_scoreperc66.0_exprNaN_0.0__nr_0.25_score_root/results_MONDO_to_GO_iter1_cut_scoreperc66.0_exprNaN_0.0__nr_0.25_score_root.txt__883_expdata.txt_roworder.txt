@@ -1,0 +1,6 @@
+"x"
+"1" "estrogen.resistance.syndrome"
+"2" "Camurati.Engelmann.disease"
+"3" "Rienhoff.syndrome"
+"4" "osteogenesis.imperfecta.type.8"
+"5" "Harel.Yoon.syndrome..HAYOS"

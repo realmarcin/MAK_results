@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "monooxygenase activity"
+"4" "amino acid binding"
+"5" "N,N-dimethylaniline monooxygenase activity"
+"6" "drug metabolic process"
+"7" "trimethylamine monooxygenase activity"

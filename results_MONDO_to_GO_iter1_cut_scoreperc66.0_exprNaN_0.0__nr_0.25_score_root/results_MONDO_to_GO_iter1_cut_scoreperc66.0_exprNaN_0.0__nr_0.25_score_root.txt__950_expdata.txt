@@ -1,0 +1,15 @@
+	spastic ataxia 1	"mycobacterium tuberculosis, susceptibility to"	"Buruli ulcer, susceptibility to"	"leprosy, susceptibility to, 5"	Hypermanganesemia with dystonia 2; HMNDYT2
+phagocytic vesicle membrane	0.0	1.0	1.0	0.0	0.0
+positive regulation of dendritic cell antigen processing and presentation	0.0	1.0	1.0	0.0	0.0
+nitrite transport	0.0	1.0	1.0	0.0	0.0
+L-arginine import	0.0	1.0	1.0	0.0	0.0
+MHC class II biosynthetic process	0.0	1.0	1.0	0.0	0.0
+interleukin-2 production	0.0	1.0	1.0	0.0	0.0
+metal ion:proton antiporter activity	0.0	1.0	1.0	0.0	0.0
+cellular cadmium ion homeostasis	0.0	1.0	1.0	0.0	0.0
+interleukin-3 production	0.0	1.0	1.0	0.0	0.0
+T cell proliferation involved in immune response	0.0	1.0	1.0	0.0	0.0
+divalent metal ion export	0.0	1.0	1.0	0.0	0.0
+transition metal ion transmembrane transporter activity	0.0	1.0	1.0	0.0	0.0
+manganese ion transmembrane transporter activity	0.0	1.0	1.0	0.0	1.0
+T cell cytokine production	0.0	1.0	1.0	0.0	0.0

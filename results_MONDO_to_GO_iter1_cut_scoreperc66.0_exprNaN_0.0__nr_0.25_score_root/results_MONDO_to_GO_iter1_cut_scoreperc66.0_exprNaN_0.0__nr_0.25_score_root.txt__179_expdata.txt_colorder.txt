@@ -1,0 +1,6 @@
+"x"
+"1" "negative regulation of blood coagulation"
+"2" "positive regulation of establishment of endothelial barrier"
+"3" "oligopeptidase activity"
+"4" "regulation of circulating fibrinogen levels"
+"5" "negative regulation of coagulation"

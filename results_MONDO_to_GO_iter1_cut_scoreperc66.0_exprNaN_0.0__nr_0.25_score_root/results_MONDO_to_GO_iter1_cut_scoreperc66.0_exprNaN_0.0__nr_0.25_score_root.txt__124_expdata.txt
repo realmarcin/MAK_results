@@ -1,0 +1,13 @@
+	platelet-type bleeding disorder 10	"coronary heart disease, susceptibility to, 7"	"malaria, susceptibility to"
+phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	0.0	0.0	0.0
+cellular response to diacyl bacterial lipopeptide	1.0	1.0	1.0
+response to fatty acid	1.0	1.0	1.0
+thrombospondin receptor activity	1.0	1.0	1.0
+lipoteichoic acid receptor activity	1.0	1.0	1.0
+response to prostaglandin	1.0	1.0	1.0
+response to linoleic acid	1.0	1.0	1.0
+response to vitamin B3	1.0	1.0	1.0
+plasma lipoprotein particle clearance	1.0	1.0	1.0
+cholesterol import	1.0	1.0	1.0
+positive regulation of NLRP3 inflammasome complex assembly	1.0	1.0	1.0
+positive regulation of triglyceride metabolic process	1.0	1.0	1.0

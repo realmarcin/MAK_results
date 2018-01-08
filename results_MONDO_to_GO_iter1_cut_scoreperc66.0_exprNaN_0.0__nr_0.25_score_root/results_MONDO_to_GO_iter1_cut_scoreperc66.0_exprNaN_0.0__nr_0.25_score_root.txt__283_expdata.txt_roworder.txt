@@ -1,0 +1,7 @@
+"x"
+"1" "chromosome.15q13.3.microdeletion.syndrome"
+"2" "syndromic.X.linked.intellectual.disability.94"
+"3" "Cayman.type.cerebellar.ataxia"
+"4" "periventricular.heterotopia.with.microcephaly..autosomal.recessive"
+"5" "hypogonadotropic.hypogonadism.13.with.or.without.anosmia"
+"6" "hypogonadotropic.hypogonadism.16.with.or.without.anosmia"

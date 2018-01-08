@@ -1,0 +1,7 @@
+"x"
+"1" "embryonic viscerocranium morphogenesis"
+"2" "Wnt-protein binding"
+"3" "Wnt signaling pathway involved in dorsal/ventral axis specification"
+"4" "metal ion binding"
+"5" "anterior/posterior pattern specification"
+"6" "smoothened signaling pathway"

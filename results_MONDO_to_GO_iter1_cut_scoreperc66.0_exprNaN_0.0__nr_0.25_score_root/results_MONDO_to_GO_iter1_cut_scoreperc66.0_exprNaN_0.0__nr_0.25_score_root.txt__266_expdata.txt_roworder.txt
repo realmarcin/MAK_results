@@ -1,0 +1,7 @@
+"x"
+"1" "catecholaminergic.polymorphic.ventricular.tachycardia.1"
+"2" "catecholaminergic.polymorphic.ventricular.tachycardia.5"
+"3" "Charcot.Marie.tooth.disease.axonal.type.2K"
+"4" "hypertrophic.cardiomyopathy.17"
+"5" "proximal.myopathy.with.extrapyramidal.signs"
+"6" "heterotaxy..visceral..8..autosomal..HTX8"

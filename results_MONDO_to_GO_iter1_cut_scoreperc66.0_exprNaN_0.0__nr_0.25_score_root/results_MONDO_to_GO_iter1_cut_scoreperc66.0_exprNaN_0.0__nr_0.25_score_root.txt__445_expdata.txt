@@ -1,0 +1,8 @@
+	Noonan syndrome-like disorder with juvenile myelomonocytic leukemia	"mental retardation, anterior maxillary Protrusion, and strabismus"	Charcot-Marie-tooth disease axonal type 2P	peroxisome biogenesis disorder 5A (Zellweger)	peroxisome biogenesis disorder 5B
+metal ion binding	1.0	1.0	1.0	1.0	1.0
+neuron development	0.0	0.0	1.0	0.0	0.0
+ubiquitin protein ligase activity	1.0	0.0	1.0	1.0	1.0
+hematopoietic stem cell differentiation	0.0	0.0	1.0	0.0	0.0
+ubiquitin-dependent endocytosis	0.0	0.0	1.0	0.0	0.0
+positive regulation of xenophagy	0.0	0.0	1.0	0.0	0.0
+positive regulation of autophagosome assembly	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	stapes ankylosis with broad thumbs and toes	proximal symphalangism (disease)	multiple synostoses syndrome 1	tarsal-carpal coalition syndrome	Nance-Horan syndrome	brachydactyly type B2
+Golgi apparatus	1.0	1.0	1.0	1.0	1.0	1.0
+cell differentiation	1.0	1.0	1.0	1.0	1.0	1.0
+protein complex	1.0	1.0	1.0	1.0	0.0	1.0
+protein complex binding	1.0	1.0	1.0	1.0	0.0	1.0
+positive regulation of cell migration	0.0	0.0	0.0	0.0	0.0	0.0
+fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	1.0	1.0	1.0	1.0	0.0	1.0

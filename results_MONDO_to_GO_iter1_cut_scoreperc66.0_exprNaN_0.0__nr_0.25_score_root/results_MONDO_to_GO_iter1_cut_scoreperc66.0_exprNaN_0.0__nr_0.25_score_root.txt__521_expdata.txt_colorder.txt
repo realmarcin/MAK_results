@@ -1,0 +1,8 @@
+"x"
+"1" "signal transducer activity"
+"2" "G-protein coupled receptor activity"
+"3" "G-protein coupled receptor signaling pathway"
+"4" "ubiquitin protein ligase binding"
+"5" "positive regulation of cAMP biosynthetic process"
+"6" "melanocortin receptor activity"
+"7" "endoplasmic reticulum membrane"
