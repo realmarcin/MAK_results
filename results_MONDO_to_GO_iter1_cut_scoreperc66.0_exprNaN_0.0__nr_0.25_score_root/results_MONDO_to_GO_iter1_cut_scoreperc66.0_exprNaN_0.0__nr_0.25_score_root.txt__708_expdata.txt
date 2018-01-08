@@ -1,0 +1,9 @@
+	X-linked hyper-IgM syndrome	juvenile rheumatoid arthritis	primary CD59 deficiency	multiple synostoses syndrome 3	IL21-related infantile inflammatory bowel disease
+positive regulation of B cell proliferation	1.0	1.0	0.0	0.0	1.0
+extracellular space	1.0	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0
+immune response	1.0	1.0	0.0	0.0	1.0
+cytokine activity	1.0	1.0	0.0	0.0	1.0
+positive regulation of T cell proliferation	1.0	0.0	1.0	0.0	1.0
+positive regulation of interleukin-10 production	1.0	0.0	0.0	0.0	1.0
+cytokine receptor binding	0.0	1.0	0.0	0.0	1.0

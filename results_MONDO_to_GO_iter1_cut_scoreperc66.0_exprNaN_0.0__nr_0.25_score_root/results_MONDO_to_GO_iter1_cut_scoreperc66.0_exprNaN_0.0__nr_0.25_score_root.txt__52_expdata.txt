@@ -1,0 +1,8 @@
+	autosomal recessive congenital ichthyosis 2	"asthma, susceptibility to"	autosomal recessive congenital ichthyosis 3
+peroxisome proliferator activated receptor signaling pathway	1.0	0.0	1.0
+hepoxilin A3 synthase activity	1.0	0.0	1.0
+lipoxygenase pathway	1.0	1.0	1.0
+positive regulation of mucus secretion	1.0	0.0	0.0
+linoleate 9S-lipoxygenase activity	1.0	0.0	0.0
+hepoxilin biosynthetic process	1.0	0.0	1.0
+linoleate 13S-lipoxygenase activity	1.0	0.0	1.0

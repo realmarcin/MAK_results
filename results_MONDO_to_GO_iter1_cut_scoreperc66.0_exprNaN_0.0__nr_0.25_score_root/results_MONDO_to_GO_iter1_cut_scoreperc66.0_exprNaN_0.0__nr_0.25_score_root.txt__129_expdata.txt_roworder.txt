@@ -1,0 +1,6 @@
+"x"
+"1" "mycobacterium.tuberculosis..susceptibility.to"
+"2" "inflammatory.bowel.disease.19"
+"3" "GEFSP6"
+"4" "ectodermal.dysplasia..anhidrotic..with.T.cell.immunodeficiency..autosomal.dominant"
+"5" "inflammatory.bowel.disease.10"

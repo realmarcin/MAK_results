@@ -1,0 +1,7 @@
+	branchiootorenal syndrome 1	"migraine with or without aura, susceptibility to, 1"	Otofaciocervical syndrome	WHIM syndrome	branchiootic syndrome 1	susceptibility to HIV infection	syndromic microphthalmia type 5	"pituitary hormone deficiency, combined, 6"
+animal organ morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cell fate commitment	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+exocrine pancreas development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+posterior lateral line neuromast primordium migration	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0
+retinoic acid receptor signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+receptor ligand activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

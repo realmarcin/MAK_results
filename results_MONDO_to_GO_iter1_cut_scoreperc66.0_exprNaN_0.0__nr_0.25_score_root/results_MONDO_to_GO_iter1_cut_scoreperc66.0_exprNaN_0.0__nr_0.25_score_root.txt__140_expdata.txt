@@ -1,0 +1,8 @@
+	MALT lymphoma	pityriasis rubra pilaris	psoriasis 2	FL1	immunodeficiency 37
+apoptotic process	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+regulation of apoptotic process	1.0	1.0	1.0	1.0	1.0
+positive regulation of NF-kappaB transcription factor activity	1.0	1.0	1.0	1.0	1.0
+T cell receptor complex	1.0	0.0	0.0	1.0	1.0
+CBM complex	1.0	0.0	0.0	1.0	1.0
+lipopolysaccharide receptor complex	1.0	0.0	0.0	1.0	1.0

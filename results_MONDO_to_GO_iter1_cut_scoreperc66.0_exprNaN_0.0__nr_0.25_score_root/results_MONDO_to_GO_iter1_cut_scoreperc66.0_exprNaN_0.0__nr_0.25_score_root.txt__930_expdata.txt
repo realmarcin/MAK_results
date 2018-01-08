@@ -1,0 +1,7 @@
+	campomelic dysplasia	"Ehlers-Danlos syndrome, classic type"	"exostoses, multiple, type 2"	osteoporosis	"congenital nephrotic syndrome, Finnish type"	acute promyelocytic leukemia	"46,Xy sex reversal 10"	seizures-scoliosis-macrocephaly syndrome
+axonogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+extracellular matrix organization	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+response to mechanical stimulus	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+pectoral fin development	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+alpha-actinin binding	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+vitamin D response element binding	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

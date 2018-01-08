@@ -1,0 +1,8 @@
+	PCWH syndrome	Waardenburg syndrome type 2E	Waardenburg syndrome type 4C	Cornelia de Lange syndrome 4
+cranial skeletal system development	1.0	1.0	1.0	0.0
+pigmentation	1.0	1.0	1.0	0.0
+semicircular canal morphogenesis	1.0	1.0	1.0	0.0
+otolith development	1.0	1.0	1.0	0.0
+promoter-specific chromatin binding	1.0	1.0	1.0	0.0
+enteric nervous system development	1.0	1.0	1.0	1.0
+positive regulation of gliogenesis	1.0	1.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.A..14"
+"2" "muscular.dystrophy.dystroglycanopathy..congenital.with.mental.retardation...type.B..14"
+"3" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2T"
+"4" "amyotrophic.neuralgia"
+"5" "spermatogenic.failure.10"

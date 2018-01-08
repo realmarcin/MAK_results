@@ -1,0 +1,7 @@
+"x"
+"1" "LADD.syndrome"
+"2" "aplasia.of.lacrimal.and.salivary.glands"
+"3" "Bamforth.Lazarus.syndrome"
+"4" "tooth.agenesis..selective..3"
+"5" "mental.retardation..autosomal.dominant.27"
+"6" "thyroid.cancer..nonmedullary..4"

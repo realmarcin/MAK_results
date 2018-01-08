@@ -1,0 +1,4 @@
+"x"
+"1" "hyperprolinemia.type.1"
+"2" "schizophrenia.4"
+"3" "hyperprolinemia.type.2"

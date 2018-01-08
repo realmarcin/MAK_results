@@ -1,0 +1,7 @@
+"x"
+"1" "short.stature.auditory.canal.atresia.mandibular.hypoplasia.skeletal.anomalies.syndrome"
+"2" "Currarino.triad"
+"3" "non.acquired.combined.pituitary.hormone.deficiency.with.spine.abnormalities"
+"4" "facial.paresis..hereditary.congenital..3"
+"5" "frontonasal.dysplasia.severe.microphthalmia.severe.facial.clefting.syndrome"
+"6" "Smith.Magenis.syndrome"

@@ -1,0 +1,6 @@
+"x"
+"1" "late endosome"
+"2" "early endosome"
+"3" "endosome"
+"4" "endocytosis"
+"5" "recycling endosome"

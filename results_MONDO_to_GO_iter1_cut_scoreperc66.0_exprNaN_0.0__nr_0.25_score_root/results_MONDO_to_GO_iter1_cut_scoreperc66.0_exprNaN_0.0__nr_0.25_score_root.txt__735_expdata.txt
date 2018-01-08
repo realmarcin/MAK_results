@@ -1,0 +1,6 @@
+	"essential hypertension, genetic"	"Ige responsiveness, atopic"	"ventricular tachycardia, familial"	Netherton syndrome	X-linked hyper-IgM syndrome	X-linked retinoschisis	susceptibility to HIV infection	major affective disorder 7	intellectual disability-severe speech delay-mild dysmorphism syndrome	"epileptic encephalopathy, early infantile, 12"	congenital myasthenic syndrome 8
+sialic acid binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+oligosaccharide binding	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+hematopoietic stem cell migration to bone marrow	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of immunoglobulin production	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+G-protein coupled acetylcholine receptor signaling pathway	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

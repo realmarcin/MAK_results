@@ -1,0 +1,5 @@
+"x"
+"1" "stem cell differentiation"
+"2" "nucleus"
+"3" "regulation of transcription, DNA-templated"
+"4" "transcription, DNA-templated"

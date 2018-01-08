@@ -1,0 +1,4 @@
+"x"
+"1" "interleukin-23 binding"
+"2" "interleukin-23 receptor activity"
+"3" "interleukin-12 receptor activity"

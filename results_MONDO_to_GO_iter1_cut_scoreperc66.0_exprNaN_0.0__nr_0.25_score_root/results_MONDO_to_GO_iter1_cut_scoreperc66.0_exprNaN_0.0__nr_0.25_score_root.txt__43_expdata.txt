@@ -1,0 +1,8 @@
+	dystonia 5	GTP cyclohydrolase i deficiency	"neural tube defects, folate-Sensitive"
+"7,8-dihydroneopterin 3'-triphosphate biosynthetic process"	1.0	1.0	0.0
+folic acid-containing compound biosynthetic process	1.0	1.0	0.0
+pteridine-containing compound biosynthetic process	1.0	1.0	0.0
+regulation of lung blood pressure	1.0	1.0	0.0
+regulation of serotonin biosynthetic process	1.0	1.0	0.0
+GTP cyclohydrolase I activity	1.0	1.0	0.0
+folic acid biosynthetic process	1.0	1.0	1.0

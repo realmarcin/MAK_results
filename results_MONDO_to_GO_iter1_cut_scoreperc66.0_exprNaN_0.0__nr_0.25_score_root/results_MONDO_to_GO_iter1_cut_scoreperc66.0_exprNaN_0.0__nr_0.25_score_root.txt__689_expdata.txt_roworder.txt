@@ -1,0 +1,6 @@
+"x"
+"1" "H.syndrome"
+"2" "autosomal.recessive.cutis.laxa.type.2..classic.type"
+"3" "autosomal.recessive.osteopetrosis.1"
+"4" "Wrinkly.skin.syndrome"
+"5" "renal.tubular.acidosis..distal..autosomal.recessive"

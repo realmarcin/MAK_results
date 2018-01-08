@@ -1,0 +1,7 @@
+"x"
+"1" "stem cell population maintenance"
+"2" "protein dimerization activity"
+"3" "cytokine-mediated signaling pathway"
+"4" "protein import into nucleus"
+"5" "cellular response to cytokine stimulus"
+"6" "glucocorticoid receptor binding"

@@ -1,0 +1,8 @@
+"x"
+"1" "ubiquitin-protein transferase activity"
+"2" "ubiquitin protein ligase binding"
+"3" "cytoplasm"
+"4" "nucleus"
+"5" "ubiquitin protein ligase activity"
+"6" "chromatin binding"
+"7" "protein autoubiquitination"

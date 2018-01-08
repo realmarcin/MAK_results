@@ -1,0 +1,8 @@
+"x"
+"1" "protein kinase activity"
+"2" "phosphorylation"
+"3" "kinase activity"
+"4" "ATP binding"
+"5" "transferase activity"
+"6" "protein phosphorylation"
+"7" "protein serine/threonine kinase activity"

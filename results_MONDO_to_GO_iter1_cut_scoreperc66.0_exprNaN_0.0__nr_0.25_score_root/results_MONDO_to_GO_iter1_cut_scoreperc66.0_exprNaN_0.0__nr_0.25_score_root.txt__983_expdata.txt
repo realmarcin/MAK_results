@@ -1,0 +1,14 @@
+	uveal coloboma-cleft lip and palate-intellectual disability	intellectual disability-severe speech delay-mild dysmorphism syndrome	left ventricular noncompaction 8	Dias-Logan syndrome; DILOS	immunodeficiency 49; IMD49
+sarcomere organization	0.0	1.0	0.0	0.0	0.0
+cardiovascular system development	0.0	1.0	0.0	0.0	0.0
+negative regulation of cell growth involved in cardiac muscle cell development	0.0	1.0	0.0	0.0	0.0
+immunoglobulin V(D)J recombination	0.0	1.0	0.0	0.0	0.0
+lung secretory cell differentiation	0.0	1.0	0.0	0.0	0.0
+negative regulation of lung goblet cell differentiation	0.0	1.0	0.0	0.0	0.0
+regulation of lung goblet cell differentiation	0.0	1.0	0.0	0.0	0.0
+positive regulation of hydrogen peroxide-induced cell death	0.0	1.0	0.0	0.0	0.0
+T follicular helper cell differentiation	0.0	1.0	0.0	0.0	0.0
+regulation of cardiac muscle cell proliferation	0.0	1.0	0.0	0.0	0.0
+pre-B cell differentiation	0.0	1.0	0.0	0.0	0.0
+cellular response to ionomycin	0.0	1.0	0.0	0.0	0.0
+interleukin-21 secretion	0.0	1.0	0.0	0.0	0.0

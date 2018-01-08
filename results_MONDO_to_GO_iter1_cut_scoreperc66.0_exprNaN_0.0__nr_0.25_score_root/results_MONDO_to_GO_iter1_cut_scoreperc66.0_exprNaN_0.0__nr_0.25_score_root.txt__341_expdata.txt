@@ -1,0 +1,11 @@
+	neuronal ceroid lipofuscinosis 3	"Free sialic acid storage disease, infantile form"	Salla disease	retinitis pigmentosa 68
+cell junction	0.0	1.0	1.0	0.0
+integral component of plasma membrane	0.0	1.0	1.0	0.0
+synapse	0.0	1.0	1.0	0.0
+cytosol	0.0	1.0	1.0	0.0
+transmembrane transporter activity	0.0	1.0	1.0	0.0
+amino acid transport	1.0	1.0	1.0	1.0
+symporter activity	0.0	1.0	1.0	0.0
+anion transport	0.0	1.0	1.0	0.0
+sialic acid transport	0.0	1.0	1.0	0.0
+sialic acid transmembrane transporter activity	0.0	1.0	1.0	0.0

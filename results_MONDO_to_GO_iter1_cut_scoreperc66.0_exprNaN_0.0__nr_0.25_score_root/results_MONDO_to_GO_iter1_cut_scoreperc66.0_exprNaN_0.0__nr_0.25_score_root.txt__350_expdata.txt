@@ -1,0 +1,10 @@
+	dihydropyrimidinuria	acromelic frontonasal dysostosis	left ventricular noncompaction 1	"congenital heart defects, multiple types, 2"
+phosphoprotein binding	1.0	0.0	0.0	0.0
+amino acid binding	1.0	0.0	0.0	0.0
+thymine binding	1.0	0.0	0.0	0.0
+uracil binding	1.0	0.0	0.0	0.0
+uracil catabolic process	1.0	0.0	0.0	0.0
+dihydropyrimidinase activity	1.0	0.0	0.0	0.0
+thymine catabolic process	1.0	0.0	0.0	0.0
+uracil metabolic process	1.0	0.0	0.0	0.0
+pyrimidine nucleobase catabolic process	1.0	0.0	0.0	0.0

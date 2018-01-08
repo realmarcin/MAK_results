@@ -1,0 +1,7 @@
+"x"
+"1" "maintenance of cell polarity"
+"2" "1-phosphatidylinositol binding"
+"3" "cellular bud neck septin ring"
+"4" "mating projection base"
+"5" "sperm motility"
+"6" "sperm annulus"

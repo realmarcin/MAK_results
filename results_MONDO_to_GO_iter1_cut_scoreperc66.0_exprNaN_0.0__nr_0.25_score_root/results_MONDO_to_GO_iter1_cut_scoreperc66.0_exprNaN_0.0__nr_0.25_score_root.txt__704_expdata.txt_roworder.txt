@@ -1,0 +1,5 @@
+"x"
+"1" "epilepsy..familial.adult.myoclonic..2"
+"2" "pituitary.adenoma..growth.hormone.secreting..2"
+"3" "retinitis.pigmentosa.35"
+"4" "cone.rod.dystrophy.10"

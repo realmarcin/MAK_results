@@ -1,0 +1,6 @@
+"x"
+"1" "PMM2.CDG"
+"2" "MPI.CDG"
+"3" "cystathioninuria..disease."
+"4" "Ribose.5.P.isomerase.deficiency"
+"5" "short.stature..developmental.delay..and.congenital.heart.defects."

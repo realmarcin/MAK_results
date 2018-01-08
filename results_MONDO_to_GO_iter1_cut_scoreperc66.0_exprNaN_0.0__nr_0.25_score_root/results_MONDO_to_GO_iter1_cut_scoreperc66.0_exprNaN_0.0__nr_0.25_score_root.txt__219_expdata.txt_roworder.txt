@@ -1,0 +1,6 @@
+"x"
+"1" "amyotrophic.lateral.sclerosis.type.1"
+"2" "Charcot.Marie.tooth.disease.axonal.type.2CC"
+"3" "Alexander.disease"
+"4" "Charcot.Marie.tooth.disease.type.1C"
+"5" "congenital.brain.dysgenesis.due.to.glutamine.synthetase.deficiency"

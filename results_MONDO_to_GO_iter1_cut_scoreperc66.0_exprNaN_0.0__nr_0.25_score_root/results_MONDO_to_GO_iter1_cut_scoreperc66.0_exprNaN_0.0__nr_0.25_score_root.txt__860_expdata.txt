@@ -1,0 +1,6 @@
+	autosomal recessive distal spinal muscular atrophy 2	cone-rod dystrophy 11	"deafness with labyrinthine aplasia, microtia, and microdontia"	isolated microphthalmia 3	"combined pituitary hormone deficiencies, genetic forms"	age related macular degeneration 6	holoprosencephaly 11	IMAGe syndrome	"46,Xy sex reversal 10"
+adenohypophysis development	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+embryonic neurocranium morphogenesis	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+oligodendrocyte differentiation	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+glial cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+cell fate specification	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

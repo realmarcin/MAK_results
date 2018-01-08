@@ -1,0 +1,4 @@
+	autosomal dominant progressive external ophthalmoplegia	mitochondrial DNA depletion syndrome 4a	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal recessive 1"	spinocerebellar ataxia type 1 with axonal neuropathy	sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	"colorectal cancer, susceptibility to, 10"	"hypophosphatemic rickets, autosomal recessive, 2"	mitochondrial DNA depletion syndrome 4b	mandibular hypoplasia-deafness-progeroid syndrome	hypopigmentation-punctate palmoplantar keratoderma syndrome
+nucleic acid phosphodiester bond hydrolysis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+exonuclease activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+transcription from mitochondrial promoter	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

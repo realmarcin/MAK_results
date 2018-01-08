@@ -1,0 +1,13 @@
+	Shwachman-Diamond syndrome	syndromic X-linked intellectual disability 14	leukoencephalopathy with vanishing white matter	"mental retardation, autosomal recessive 2"	sudden infant death-dysgenesis of the testes syndrome	combined oxidative phosphorylation defect type 15
+bone mineralization	1.0	0.0	0.0	0.0	0.0	0.0
+cell proliferation	1.0	0.0	0.0	0.0	0.0	0.0
+exocrine pancreas development	1.0	0.0	0.0	0.0	0.0	0.0
+inner cell mass cell proliferation	1.0	0.0	0.0	0.0	0.0	0.0
+microtubule binding	1.0	0.0	0.0	0.0	0.0	0.0
+myeloid leukocyte differentiation	1.0	0.0	0.0	0.0	0.0	0.0
+granulocyte differentiation	1.0	0.0	0.0	0.0	0.0	0.0
+ribosome binding	1.0	0.0	0.0	0.0	0.0	0.0
+rRNA binding	1.0	0.0	0.0	0.0	0.0	0.0
+leukocyte chemotaxis	1.0	0.0	0.0	0.0	0.0	0.0
+bone marrow development	1.0	0.0	0.0	0.0	0.0	0.0
+mature ribosome assembly	1.0	0.0	0.0	0.0	0.0	0.0

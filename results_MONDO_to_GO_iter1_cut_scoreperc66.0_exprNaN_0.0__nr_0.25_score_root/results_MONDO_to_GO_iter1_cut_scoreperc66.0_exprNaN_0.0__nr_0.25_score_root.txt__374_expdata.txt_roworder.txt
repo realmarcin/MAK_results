@@ -1,0 +1,7 @@
+"x"
+"1" "RIDDLE.syndrome"
+"2" "essential.hypertension..genetic"
+"3" "methylmalonic.aciduria.and.homocystinuria.type.cblC"
+"4" "palatal.anomalies.widely.spaced.teeth.facial.dysmorphism.developmental.delay.syndrome"
+"5" "syndactyly.telecanthus.anogenital.and.renal.malformations.syndrome"
+"6" "juvenile.rheumatoid.arthritis"

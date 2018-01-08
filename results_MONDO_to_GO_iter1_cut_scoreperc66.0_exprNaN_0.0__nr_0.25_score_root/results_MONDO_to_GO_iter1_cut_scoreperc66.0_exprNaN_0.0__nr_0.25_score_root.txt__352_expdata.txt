@@ -1,0 +1,10 @@
+	acromelic frontonasal dysostosis	left ventricular noncompaction 1	poikiloderma with neutropenia	"congenital heart defects, multiple types, 2"
+intercellular bridge	0.0	0.0	1.0	0.0
+RNA splicing	0.0	0.0	1.0	0.0
+nucleic acid phosphodiester bond hydrolysis	0.0	0.0	1.0	0.0
+regulation of RNA splicing	0.0	0.0	1.0	0.0
+neutrophil differentiation	0.0	0.0	1.0	0.0
+3'-5'-exoribonuclease activity	0.0	0.0	1.0	0.0
+"RNA phosphodiester bond hydrolysis, exonucleolytic"	0.0	0.0	1.0	0.0
+"poly(U)-specific exoribonuclease activity, producing 3' uridine cyclic phosphate ends"	0.0	0.0	1.0	0.0
+U6 snRNA 3'-end processing	0.0	0.0	1.0	0.0

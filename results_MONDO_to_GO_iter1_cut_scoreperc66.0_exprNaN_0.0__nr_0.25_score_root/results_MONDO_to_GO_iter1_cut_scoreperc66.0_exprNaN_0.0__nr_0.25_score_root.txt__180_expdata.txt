@@ -1,0 +1,6 @@
+	systemic lupus erythematosus (disease)	autoimmune thrombocytopenic purpura	Charcot-Marie-tooth disease type 4D	"malaria, susceptibility to"	autosomal recessive primary immunodeficiency with defective spontaneous natural killer cell cytotoxicity	severe combined immunodeficiency due to DNA-PKcs deficiency
+cellular response to molecule of bacterial origin	1.0	1.0	0.0	1.0	0.0	0.0
+mast cell activation	1.0	1.0	1.0	1.0	0.0	0.0
+IgG receptor activity	1.0	1.0	0.0	1.0	1.0	0.0
+negative regulation of immunoglobulin production	1.0	1.0	0.0	1.0	0.0	1.0
+IgG binding	1.0	1.0	0.0	1.0	1.0	0.0

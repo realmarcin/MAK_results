@@ -1,0 +1,4 @@
+"x"
+"1" "hyper.IgM.syndrome.type.5"
+"2" "endometrial.cancer"
+"3" "primary.ciliary.dyskinesia.29"

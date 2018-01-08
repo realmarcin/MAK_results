@@ -1,0 +1,8 @@
+	"neuropathy, hereditary sensory and autonomic, type 1A"	"neuropathy, hereditary sensory and autonomic, type 1C"	hereditary spastic paraplegia 46	spinocerebellar ataxia type 38
+sphingolipid metabolic process	1.0	1.0	1.0	0.0
+pyridoxal phosphate binding	1.0	1.0	0.0	0.0
+SPOTS complex	1.0	1.0	0.0	0.0
+biosynthetic process	1.0	1.0	0.0	0.0
+serine C-palmitoyltransferase complex	1.0	1.0	0.0	0.0
+sphingolipid biosynthetic process	1.0	1.0	0.0	1.0
+serine C-palmitoyltransferase activity	1.0	1.0	0.0	0.0

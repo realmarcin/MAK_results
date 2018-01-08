@@ -1,0 +1,5 @@
+"x"
+"1" "maturity.onset.diabetes.of.the.young.type.8"
+"2" "lysosomal.acid.lipase.deficiency"
+"3" "Auriculocondylar.syndrome.1"
+"4" "autoimmune.interstitial.lung.disease.arthritis.syndrome"

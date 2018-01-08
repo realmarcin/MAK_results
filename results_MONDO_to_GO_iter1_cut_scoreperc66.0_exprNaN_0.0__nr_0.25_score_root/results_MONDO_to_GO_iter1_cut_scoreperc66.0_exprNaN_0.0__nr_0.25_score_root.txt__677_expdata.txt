@@ -1,0 +1,11 @@
+	Fukuyama congenital muscular dystrophy	autosomal recessive limb-girdle muscular dystrophy type 2M	dilated cardiomyopathy 1X	"muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type B, 4"	"precocious puberty, central, 2"	congenital myasthenic syndrome 15
+negative regulation of cell proliferation	1.0	1.0	1.0	1.0	0.0	0.0
+neuron migration	1.0	1.0	1.0	1.0	0.0	0.0
+positive regulation of catalytic activity	1.0	1.0	1.0	1.0	0.0	0.0
+negative regulation of JNK cascade	1.0	1.0	1.0	1.0	0.0	0.0
+protein N-linked glycosylation	1.0	1.0	1.0	1.0	0.0	0.0
+enzyme activator activity	1.0	1.0	1.0	1.0	0.0	0.0
+cis-Golgi network	1.0	1.0	1.0	1.0	0.0	0.0
+cellular response to osmotic stress	1.0	1.0	1.0	1.0	0.0	0.0
+protein O-linked mannosylation	1.0	1.0	1.0	1.0	0.0	0.0
+protein O-linked glycosylation	1.0	1.0	1.0	1.0	0.0	0.0

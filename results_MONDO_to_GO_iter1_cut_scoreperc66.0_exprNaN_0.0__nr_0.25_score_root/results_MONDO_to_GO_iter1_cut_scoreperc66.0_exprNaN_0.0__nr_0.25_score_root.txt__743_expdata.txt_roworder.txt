@@ -1,0 +1,7 @@
+"x"
+"1" "branchiootorenal.syndrome.1"
+"2" "Otofaciocervical.syndrome"
+"3" "branchiootic.syndrome.1"
+"4" "hypoparathyroidism.deafness.renal.disease.syndrome"
+"5" "Pendred.syndrome"
+"6" "autosomal.recessive.nonsyndromic.deafness.4"

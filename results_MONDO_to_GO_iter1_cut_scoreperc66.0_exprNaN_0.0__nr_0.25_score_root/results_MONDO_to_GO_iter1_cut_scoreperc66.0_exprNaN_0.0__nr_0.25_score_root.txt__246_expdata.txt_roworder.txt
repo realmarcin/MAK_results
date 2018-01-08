@@ -1,0 +1,6 @@
+"x"
+"1" "megalencephalic.leukoencephalopathy.with.subcortical.cysts.2A"
+"2" "megalencephalic.leukoencephalopathy.with.subcortical.cysts.2B..remitting..With.or.without.mental.retardation"
+"3" "spinocerebellar.ataxia.type.31"
+"4" "hypotonia..infantile..with.psychomotor.retardation.and.characteristic.facies.2..IHPRF2"
+"5" "precocious.puberty..central..2"

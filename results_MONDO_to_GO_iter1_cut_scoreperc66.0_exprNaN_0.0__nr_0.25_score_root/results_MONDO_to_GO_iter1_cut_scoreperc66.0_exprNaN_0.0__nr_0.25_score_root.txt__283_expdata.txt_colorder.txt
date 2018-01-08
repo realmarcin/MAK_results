@@ -1,0 +1,5 @@
+"x"
+"1" "asymmetric synapse"
+"2" "regulation of synaptic transmission, cholinergic"
+"3" "generation of ovulation cycle rhythm"
+"4" "dendrite arborization"

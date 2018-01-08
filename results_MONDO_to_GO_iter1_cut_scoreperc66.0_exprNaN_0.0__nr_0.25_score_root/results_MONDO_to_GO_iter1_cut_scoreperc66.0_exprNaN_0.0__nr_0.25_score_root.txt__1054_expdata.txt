@@ -1,0 +1,24 @@
+	Neu-Laxova syndrome 1	syndromic X-linked intellectual disability type 10	HSD10 disease	PHGDH deficiency
+regulation of gene expression	1.0	0.0	0.0	1.0
+neuron projection development	1.0	0.0	0.0	1.0
+extracellular exosome	1.0	0.0	0.0	1.0
+metabolic process	1.0	0.0	0.0	1.0
+oxidation-reduction process	1.0	1.0	1.0	1.0
+oxidoreductase activity	1.0	1.0	1.0	1.0
+NAD binding	1.0	1.0	1.0	1.0
+myelin sheath	1.0	0.0	0.0	1.0
+neurogenesis	1.0	0.0	0.0	1.0
+spinal cord development	1.0	0.0	0.0	1.0
+neural tube development	1.0	0.0	0.0	1.0
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	1.0	0.0	0.0	1.0
+taurine metabolic process	1.0	0.0	0.0	1.0
+glutamine metabolic process	1.0	0.0	0.0	1.0
+cellular amino acid biosynthetic process	1.0	0.0	0.0	1.0
+glial cell development	1.0	0.0	0.0	1.0
+L-serine biosynthetic process	1.0	0.0	0.0	1.0
+glycine metabolic process	1.0	0.0	0.0	1.0
+threonine metabolic process	1.0	0.0	0.0	1.0
+phosphoglycerate dehydrogenase activity	1.0	0.0	0.0	1.0
+L-serine metabolic process	1.0	0.0	0.0	1.0
+gamma-aminobutyric acid metabolic process	1.0	0.0	0.0	1.0
+G1 to G0 transition	1.0	0.0	0.0	1.0

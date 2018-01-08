@@ -1,0 +1,7 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	mucolipidosis type IV	Carey-Fineman-Ziter  syndrome	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"	Carpenter syndrome 2	severe congenital hypochromic anemia with ringed sideroblasts
+clathrin-coated pit	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+brush border membrane	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+excretion	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+endocytic vesicle	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Golgi to plasma membrane protein transport	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+cobalamin transport	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

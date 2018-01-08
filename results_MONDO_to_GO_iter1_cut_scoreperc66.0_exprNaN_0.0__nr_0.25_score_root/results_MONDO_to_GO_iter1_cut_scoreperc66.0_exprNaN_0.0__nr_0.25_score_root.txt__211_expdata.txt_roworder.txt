@@ -1,0 +1,7 @@
+"x"
+"1" "familial.multiple.nevi.flammei"
+"2" "Sturge.Weber.syndrome"
+"3" "myoclonic.dystonia.11"
+"4" "hypophosphatemic.nephrolithiasis.osteoporosis.2"
+"5" "epileptic.encephalopathy..early.infantile..12"
+"6" "epileptic.encephalopathy..early.infantile..26"

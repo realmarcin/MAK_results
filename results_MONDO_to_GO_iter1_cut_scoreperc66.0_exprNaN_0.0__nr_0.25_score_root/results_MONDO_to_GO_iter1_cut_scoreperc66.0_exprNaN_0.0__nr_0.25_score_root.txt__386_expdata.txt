@@ -1,0 +1,8 @@
+	"Niemann-Pick disease, type C2"	leukoencephalopathy-dystonia-motor neuropathy syndrome	autosomal dominant nonsyndromic deafness 67	"mental retardation, autosomal dominant 34"	autosomal recessive spinocerebellar ataxia 20	"epileptic encephalopathy, early infantile, 38; EIEE38"
+intracellular cholesterol transport	1.0	0.0	0.0	0.0	0.0	0.0
+intracellular sterol transport	1.0	0.0	0.0	0.0	0.0	1.0
+fungal-type vacuole lumen	1.0	0.0	0.0	0.0	0.0	0.0
+ER to Golgi ceramide transport	0.0	0.0	1.0	1.0	0.0	1.0
+intermembrane ceramide transfer activity	0.0	0.0	0.0	1.0	0.0	0.0
+regulation of plasma membrane sterol distribution	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of intracellular cholesterol transport	0.0	0.0	0.0	0.0	0.0	1.0

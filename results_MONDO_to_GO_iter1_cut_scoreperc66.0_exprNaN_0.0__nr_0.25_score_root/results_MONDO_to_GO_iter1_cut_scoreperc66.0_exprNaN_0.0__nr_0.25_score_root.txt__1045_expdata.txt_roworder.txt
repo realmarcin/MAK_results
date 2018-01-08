@@ -1,0 +1,7 @@
+"x"
+"1" "porencephaly.1"
+"2" "retinal.arterial.tortuosity..disease."
+"3" "COL4A1.related.familial.vascular.leukoencephalopathy"
+"4" "autosomal.dominant.familial.hematuria.retinal.arteriolar.tortuosity.contractures.syndrome"
+"5" "X.linked.Alport.syndrome"
+"6" "deafness..X.linked.6"

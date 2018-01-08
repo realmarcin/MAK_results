@@ -1,0 +1,5 @@
+"x"
+"1" "neuronal.ceroid.lipofuscinosis.4A"
+"2" "neuronal.ceroid.lipofuscinosis.6"
+"3" "neuronal.ceroid.lipofuscinosis.8"
+"4" "neuronal.ceroid.lipofuscinosis.8.northern.epilepsy.variant"

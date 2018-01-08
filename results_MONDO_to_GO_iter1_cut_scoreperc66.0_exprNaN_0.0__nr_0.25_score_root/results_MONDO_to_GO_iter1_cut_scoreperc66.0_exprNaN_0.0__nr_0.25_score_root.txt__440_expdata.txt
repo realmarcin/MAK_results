@@ -1,0 +1,8 @@
+	Properdin deficiency	autosomal dominant nonsyndromic deafness 9	complement component 7 deficiency	complement component 6 deficiency	osteogenesis imperfecta type 6
+extracellular matrix	1.0	1.0	0.0	0.0	1.0
+extracellular space	0.0	0.0	0.0	1.0	1.0
+positive regulation of neurogenesis	0.0	0.0	0.0	0.0	1.0
+defense response to bacterium	0.0	1.0	0.0	0.0	0.0
+serine-type endopeptidase inhibitor activity	0.0	0.0	0.0	0.0	1.0
+negative regulation of angiogenesis	0.0	0.0	0.0	0.0	1.0
+positive regulation of innate immune response	0.0	1.0	0.0	0.0	0.0

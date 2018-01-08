@@ -1,0 +1,6 @@
+	bilateral striopallidodentate calcinosis	familial meningioma	dermatofibrosarcoma protuberans	platelet-type bleeding disorder 9	"basal ganglia calcification, idiopathic, 5"	"palmoplantar keratoderma, Nagashima type"
+epicardial cell to mesenchymal cell transition	1.0	1.0	1.0	0.0	1.0	0.0
+substrate-dependent cell migration	1.0	1.0	1.0	1.0	1.0	0.0
+positive regulation of glomerular mesangial cell proliferation	1.0	1.0	1.0	0.0	1.0	1.0
+superoxide-generating NADPH oxidase activator activity	1.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of hyaluronan biosynthetic process	1.0	1.0	1.0	0.0	1.0	0.0

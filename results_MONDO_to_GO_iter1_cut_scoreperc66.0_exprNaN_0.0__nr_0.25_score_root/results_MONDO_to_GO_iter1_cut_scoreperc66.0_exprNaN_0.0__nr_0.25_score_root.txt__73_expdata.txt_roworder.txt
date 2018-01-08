@@ -1,0 +1,5 @@
+"x"
+"1" "osteogenesis.imperfecta.type.9"
+"2" "metaphyseal.chondrodysplasia.retinitis.pigmentosa.syndrome"
+"3" "pyruvate.carboxylase.deficiency.disease"
+"4" "endogenous.depression"

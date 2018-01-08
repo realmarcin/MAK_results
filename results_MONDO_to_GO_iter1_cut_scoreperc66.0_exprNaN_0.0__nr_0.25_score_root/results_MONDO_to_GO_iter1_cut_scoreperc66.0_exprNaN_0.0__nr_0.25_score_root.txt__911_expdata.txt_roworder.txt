@@ -1,0 +1,6 @@
+"x"
+"1" "lethal.congenital.contracture.syndrome.1"
+"2" "lethal.arthrogryposis.anterior.horn.cell.disease.syndrome"
+"3" "frontotemporal.dementia.and.or.amyotrophic.lateral.sclerosis.1"
+"4" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"
+"5" "autosomal.dominant.aplasia.and.myelodysplasia"

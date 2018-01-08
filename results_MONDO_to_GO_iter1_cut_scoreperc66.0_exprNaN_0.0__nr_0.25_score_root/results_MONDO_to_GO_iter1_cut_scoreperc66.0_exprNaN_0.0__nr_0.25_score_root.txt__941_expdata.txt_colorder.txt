@@ -1,0 +1,5 @@
+"x"
+"1" "cellular response to reactive oxygen species"
+"2" "cellular response to cadmium ion"
+"3" "phosphatidylinositol-3,4-bisphosphate binding"
+"4" "phosphatidylinositol-3,4,5-trisphosphate binding"

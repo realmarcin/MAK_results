@@ -1,0 +1,6 @@
+"x"
+"1" "regulation of endocytosis"
+"2" "early endosome to late endosome transport"
+"3" "RAVE complex"
+"4" "regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion"
+"5" "regulation of synaptic vesicle lumen acidification"

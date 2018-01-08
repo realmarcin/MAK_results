@@ -1,0 +1,7 @@
+"x"
+"1" "Pallister.hall.syndrome"
+"2" "polydactyly..postaxial..type.A1"
+"3" "polysyndactyly"
+"4" "Greig.cephalopolysyndactyly.syndrome"
+"5" "hypothalamic.hamartomas"
+"6" "skeletal.defects..genital.hypoplasia..and.mental.retardation"

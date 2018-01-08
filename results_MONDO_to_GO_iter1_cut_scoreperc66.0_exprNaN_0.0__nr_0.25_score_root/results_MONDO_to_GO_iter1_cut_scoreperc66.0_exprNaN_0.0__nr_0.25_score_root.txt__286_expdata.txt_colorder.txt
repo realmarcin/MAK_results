@@ -1,0 +1,7 @@
+"x"
+"1" "cysteine biosynthetic process"
+"2" "sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"
+"3" "sulfate adenylyltransferase (ATP) activity"
+"4" "adenylylsulfate kinase activity"
+"5" "3'-phosphoadenosine 5'-phosphosulfate biosynthetic process"
+"6" "sulfate assimilation"

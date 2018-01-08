@@ -1,0 +1,6 @@
+"x"
+"1" "proteoglycan binding"
+"2" "mitochondrion localization"
+"3" "protein localization to phagophore assembly site"
+"4" "axonal transport of mitochondrion"
+"5" "blastocyst formation"

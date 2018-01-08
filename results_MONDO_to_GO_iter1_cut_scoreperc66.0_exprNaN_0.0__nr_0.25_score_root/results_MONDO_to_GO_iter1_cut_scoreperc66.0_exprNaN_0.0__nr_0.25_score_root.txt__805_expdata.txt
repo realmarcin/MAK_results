@@ -1,0 +1,8 @@
+	isolated anhidrosis with normal sweat glands	catecholaminergic polymorphic ventricular tachycardia 1	catecholaminergic polymorphic ventricular tachycardia 2	polycystic kidney disease 2	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques"	isolated focal non-epidermolytic palmoplantar keratoderma
+receptor complex	1.0	0.0	0.0	0.0	1.0	1.0
+intracellular	0.0	1.0	1.0	0.0	1.0	1.0
+calcium channel activity	1.0	1.0	0.0	1.0	1.0	1.0
+ion channel activity	1.0	1.0	0.0	0.0	1.0	1.0
+transmembrane transport	1.0	1.0	0.0	0.0	1.0	1.0
+neuromuscular process	0.0	0.0	0.0	0.0	0.0	0.0
+potassium channel activity	0.0	0.0	0.0	1.0	1.0	1.0

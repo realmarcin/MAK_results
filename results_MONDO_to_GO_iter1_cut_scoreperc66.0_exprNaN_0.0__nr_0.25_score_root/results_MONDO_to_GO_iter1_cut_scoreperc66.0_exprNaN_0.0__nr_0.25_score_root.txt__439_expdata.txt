@@ -1,0 +1,7 @@
+	"migraine with or without aura, susceptibility to, 1"	pachyonychia congenita 2	Sebocystomatosis	"asthma, susceptibility to"	"T-cell immunodeficiency, congenital alopecia, and nail dystrophy"	"malaria, susceptibility to"	"mental retardation, autosomal dominant 11"	severe combined immunodeficiency due to IKK2 deficiency
+positive regulation of NIK/NF-kappaB signaling	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+regulation of establishment of endothelial barrier	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+negative regulation of bicellular tight junction assembly	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+negative regulation of myosin-light-chain-phosphatase activity	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+cortical actin cytoskeleton organization	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+positive regulation of hair follicle development	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0

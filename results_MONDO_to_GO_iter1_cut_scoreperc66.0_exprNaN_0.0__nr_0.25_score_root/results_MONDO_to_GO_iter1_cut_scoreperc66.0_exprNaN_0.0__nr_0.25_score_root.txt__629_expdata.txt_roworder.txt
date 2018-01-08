@@ -1,0 +1,7 @@
+"x"
+"1" "hypophosphatemic.nephrolithiasis.osteoporosis.1"
+"2" "Fanconi.renotubular.syndrome.2"
+"3" "autosomal.recessive.spinocerebellar.ataxia.19"
+"4" "hypercalcemia..infantile..2..HCINF2"
+"5" "Bartter.disease.type.1"
+"6" "Ehlers.Danlos.syndrome..spondylocheirodysplastic.type"

@@ -1,0 +1,10 @@
+	autosomal dominant centronuclear myopathy	Charcot-Marie-tooth disease dominant intermediate b	fetal akinesia-cerebral and retinal hemorrhage syndrome	"epileptic encephalopathy, early infantile, 31"
+growth cone	1.0	1.0	1.0	0.0
+convergent extension	1.0	1.0	1.0	0.0
+somite development	1.0	1.0	1.0	0.0
+regulation of actin cytoskeleton organization	1.0	1.0	1.0	0.0
+glomerular filtration	1.0	1.0	1.0	0.0
+muscle fiber development	1.0	1.0	1.0	0.0
+glomerular visceral epithelial cell development	1.0	1.0	1.0	0.0
+muscle structure development	1.0	1.0	1.0	0.0
+intrinsic component of mitochondrial inner membrane	1.0	1.0	1.0	1.0

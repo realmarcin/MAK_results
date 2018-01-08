@@ -1,0 +1,4 @@
+"x"
+"1" "primary.ciliary.dyskinesia.26"
+"2" "primary.ciliary.dyskinesia.27"
+"3" "primary.ciliary.dyskinesia.30"

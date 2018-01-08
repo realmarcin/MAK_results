@@ -1,0 +1,9 @@
+	Cole-Carpenter syndrome 1	"erythrocytosis, familial, 3"	chromosome 15q13.3 microdeletion syndrome	"Microvascular complications of diabetes, susceptibility to, 6"
+peptidyl-proline 4-dioxygenase activity	1.0	1.0	0.0	0.0
+peptidyl-proline dioxygenase activity	0.0	1.0	0.0	0.0
+labyrinthine layer development	0.0	1.0	0.0	0.0
+oxygen homeostasis	0.0	1.0	0.0	1.0
+negative regulation of CAMKK-AMPK signaling cascade	0.0	1.0	0.0	0.0
+negative regulation of cyclic-nucleotide phosphodiesterase activity	0.0	1.0	0.0	0.0
+regulation of neuron death	0.0	1.0	1.0	0.0
+response to nitric oxide	0.0	1.0	0.0	0.0

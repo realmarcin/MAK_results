@@ -1,0 +1,6 @@
+	campomelic dysplasia	"46,Xy sex reversal 2"	X-linked adrenal hypoplasia congenita	brachyolmia-amelogenesis imperfecta syndrome	isolated microphthalmia 8	"46,Xy sex reversal 10"	lamb-Shaffer syndrome; LAMSHF
+Sertoli cell differentiation	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+regulation of cell cycle process	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+proepicardium development	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of mesenchymal stem cell differentiation	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+Harderian gland development	1.0	0.0	0.0	0.0	1.0	1.0	0.0

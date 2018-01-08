@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.vertical.talus"
+"2" "radio.ulnar.synostosis.amegakaryocytic.thrombocytopenia.syndrome"
+"3" "congenital.malabsorptive.diarrhea.4"
+"4" "myopathy..centronuclear..3"

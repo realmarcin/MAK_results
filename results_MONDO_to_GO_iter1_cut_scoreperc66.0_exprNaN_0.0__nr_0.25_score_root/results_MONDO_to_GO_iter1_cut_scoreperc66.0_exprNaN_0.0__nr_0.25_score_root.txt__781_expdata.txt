@@ -1,0 +1,9 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	sialidosis type 2	Tay-Sachs disease AB variant	mucopolysaccharidosis type 9	"autoimmune disease, susceptibility to, 6"
+lysosome	1.0	1.0	1.0	1.0	1.0	1.0
+hydrolase activity	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of myoblast proliferation	0.0	0.0	1.0	0.0	0.0	0.0
+exo-alpha-(2->8)-sialidase activity	0.0	0.0	1.0	0.0	0.0	0.0
+alpha-sialidase activity	0.0	0.0	1.0	0.0	0.0	0.0
+exo-alpha-(2->6)-sialidase activity	0.0	0.0	1.0	0.0	0.0	0.0
+exo-alpha-sialidase activity	0.0	0.0	1.0	0.0	0.0	0.0
+exo-alpha-(2->3)-sialidase activity	0.0	0.0	1.0	0.0	0.0	0.0

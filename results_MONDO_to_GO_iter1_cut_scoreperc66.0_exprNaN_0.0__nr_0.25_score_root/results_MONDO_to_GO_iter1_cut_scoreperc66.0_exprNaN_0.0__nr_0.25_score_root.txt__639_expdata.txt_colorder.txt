@@ -1,0 +1,7 @@
+"x"
+"1" "NADP biosynthetic process"
+"2" "interleukin-12 production"
+"3" "negative regulation of cell growth involved in cardiac muscle cell development"
+"4" "interleukin-10 production"
+"5" "ribose phosphate biosynthetic process"
+"6" "angiotensin-mediated vasoconstriction involved in regulation of systemic arterial blood pressure"

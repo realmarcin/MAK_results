@@ -1,0 +1,8 @@
+	hereditary breast carcinoma	lung cancer	"myocardial infarction, susceptibility to"	"epilepsy, childhood absence, susceptibility to, 5"	estrogen resistance syndrome	"epileptic encephalopathy, early infantile, 43; EIEE43"
+protein complex	1.0	1.0	1.0	0.0	1.0	0.0
+protein heterodimerization activity	1.0	1.0	1.0	0.0	0.0	0.0
+regulation of neuron apoptotic process	1.0	0.0	1.0	1.0	1.0	1.0
+terminal bouton	1.0	0.0	1.0	1.0	1.0	1.0
+positive regulation of apoptotic process	1.0	1.0	1.0	0.0	0.0	0.0
+negative regulation of neuron death	1.0	0.0	1.0	1.0	1.0	1.0
+negative regulation of neuron apoptotic process	1.0	1.0	1.0	1.0	0.0	1.0

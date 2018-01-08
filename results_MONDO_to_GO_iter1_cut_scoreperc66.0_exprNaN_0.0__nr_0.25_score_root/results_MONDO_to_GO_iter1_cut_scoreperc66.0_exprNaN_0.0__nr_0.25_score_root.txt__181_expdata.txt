@@ -1,0 +1,7 @@
+	hyperprolinemia type 2	dihydropteridine reductase deficiency	pyridoxine-dependent epilepsy	Sjogren-Larsson syndrome	"alcohol sensitivity, acute"	isolated microphthalmia 8
+aldehyde dehydrogenase (NAD) activity	1.0	0.0	1.0	1.0	1.0	1.0
+aldehyde dehydrogenase [NAD(P)+] activity	0.0	0.0	0.0	1.0	1.0	1.0
+cellular aldehyde metabolic process	0.0	0.0	0.0	1.0	1.0	1.0
+3-chloroallyl aldehyde dehydrogenase activity	0.0	0.0	0.0	1.0	1.0	1.0
+retinoic acid biosynthetic process	0.0	0.0	0.0	0.0	0.0	1.0
+nucleus accumbens development	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,11 @@
+	chylomicron retention disease	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18
+central nervous system development	1.0	0.0	0.0	0.0
+protein transport	1.0	1.0	1.0	1.0
+vesicle-mediated transport	1.0	0.0	0.0	0.0
+mitochondrial fission	1.0	0.0	0.0	0.0
+organ growth	1.0	0.0	0.0	0.0
+membrane organization	1.0	0.0	0.0	0.0
+mitochondrial membrane organization	1.0	0.0	0.0	0.0
+vesicle organization	1.0	0.0	0.0	0.0
+ER-mitochondrion membrane contact site	1.0	0.0	0.0	0.0
+intestinal cholesterol absorption	1.0	0.0	0.0	0.0

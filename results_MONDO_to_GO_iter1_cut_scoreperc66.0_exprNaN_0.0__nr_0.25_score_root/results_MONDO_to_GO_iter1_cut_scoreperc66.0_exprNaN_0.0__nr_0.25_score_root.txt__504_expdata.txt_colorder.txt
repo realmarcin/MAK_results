@@ -1,0 +1,7 @@
+"x"
+"1" "cytoskeletal protein binding"
+"2" "fructose metabolic process"
+"3" "extrinsic component of plasma membrane"
+"4" "fructose 1,6-bisphosphate metabolic process"
+"5" "glycolytic process through fructose-6-phosphate"
+"6" "fructose-bisphosphate aldolase activity"

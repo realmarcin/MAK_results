@@ -1,0 +1,13 @@
+	predisposition to invasive fungal disease due to CARD9 deficiency	autoimmune lymphoproliferative syndrome type 2B	psoriatic arthritis	"leprosy, susceptibility to, 4"	FADD-related immunodeficiency	"herpes simplex encephalitis, susceptibility to, 3"
+cell proliferation	0.0	0.0	1.0	1.0	0.0	0.0
+inflammatory response	0.0	0.0	1.0	1.0	0.0	0.0
+cellular process	0.0	0.0	1.0	1.0	0.0	0.0
+autophagy	0.0	0.0	1.0	1.0	0.0	0.0
+negative regulation of fibroblast proliferation	0.0	0.0	1.0	1.0	0.0	0.0
+positive regulation of glial cell proliferation	0.0	0.0	1.0	1.0	0.0	0.0
+intestinal epithelial structure maintenance	0.0	0.0	1.0	1.0	0.0	0.0
+regeneration	0.0	0.0	1.0	1.0	0.0	0.0
+response to arsenic-containing substance	0.0	0.0	1.0	1.0	0.0	0.0
+humoral immune response	0.0	0.0	1.0	1.0	0.0	0.0
+positive regulation of humoral immune response mediated by circulating immunoglobulin	0.0	0.0	1.0	1.0	0.0	0.0
+positive regulation of chronic inflammatory response to antigenic stimulus	0.0	0.0	1.0	1.0	0.0	0.0

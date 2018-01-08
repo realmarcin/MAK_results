@@ -1,0 +1,5 @@
+	immunodeficiency 27A	"helicobacter pylori infection, susceptibility to"	"hepatitis c virus, susceptibility to"	"hepatitis b virus, susceptibility to"	"amyloidosis, primary localized cutaneous, 2"	autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency
+cytokine receptor activity	1.0	1.0	0.0	1.0	1.0	1.0
+defense response to virus	1.0	1.0	1.0	1.0	0.0	1.0
+cytokine binding	1.0	1.0	1.0	1.0	1.0	1.0
+perineuronal net	0.0	1.0	0.0	0.0	0.0	0.0

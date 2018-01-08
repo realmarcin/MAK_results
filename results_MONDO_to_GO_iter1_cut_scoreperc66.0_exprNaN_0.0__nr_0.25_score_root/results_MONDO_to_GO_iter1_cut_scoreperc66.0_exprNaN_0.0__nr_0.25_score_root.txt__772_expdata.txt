@@ -1,0 +1,5 @@
+	methylmalonic acidemia cb1B type	mitochondrial non-syndromic sensorineural deafness with susceptibility to aminoglycoside exposure	Leber congenital amaurosis 9	xeroderma pigmentosum group B	acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins	congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	Lipoyl transferase 1 deficiency	"trichothiodystrophy 2, photosensitive"	Fanconi anemia complementation group T	retinitis pigmentosa and Erythrocytic Microcytosis; RPEM
+protein kinase activity	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+nucleotide binding	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+ATP binding	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0

@@ -1,0 +1,8 @@
+	Pick disease	polycystic kidney disease 1	semantic dementia	Alzheimer's disease 3	dilated cardiomyopathy 1U	"acne inversa, familial, 3"
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0
+Golgi apparatus	1.0	1.0	1.0	1.0	1.0	1.0
+cell surface	1.0	1.0	1.0	1.0	1.0	1.0
+calcium ion transport	1.0	1.0	1.0	1.0	1.0	1.0
+lymphangiogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+smooth endoplasmic reticulum calcium ion homeostasis	1.0	0.0	1.0	1.0	1.0	1.0
+proteolysis	1.0	0.0	1.0	1.0	1.0	1.0

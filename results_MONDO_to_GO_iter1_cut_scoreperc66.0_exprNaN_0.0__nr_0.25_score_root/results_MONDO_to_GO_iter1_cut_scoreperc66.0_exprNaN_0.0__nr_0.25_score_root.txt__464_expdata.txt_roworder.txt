@@ -1,0 +1,7 @@
+"x"
+"1" "hereditary.diffuse.gastric.cancer"
+"2" "linear.nevus.sebaceus.syndrome"
+"3" "acute.myeloid.leukemia"
+"4" "Noonan.syndrome.3"
+"5" "cardiofaciocutaneous.syndrome.2"
+"6" "Charcot.Marie.tooth.disease.type.2B"

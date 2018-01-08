@@ -1,0 +1,6 @@
+	"thrombophilia due to protein C deficiency, autosomal dominant"	autosomal recessive nonsyndromic deafness 68	"thrombophilia due to protein C deficiency, autosomal recessive"	isolated microphthalmia 6
+negative regulation of blood coagulation	1.0	0.0	1.0	1.0
+oligopeptidase activity	1.0	0.0	1.0	0.0
+regulation of circulating fibrinogen levels	1.0	0.0	1.0	0.0
+positive regulation of establishment of endothelial barrier	1.0	1.0	1.0	0.0
+negative regulation of coagulation	1.0	0.0	1.0	0.0

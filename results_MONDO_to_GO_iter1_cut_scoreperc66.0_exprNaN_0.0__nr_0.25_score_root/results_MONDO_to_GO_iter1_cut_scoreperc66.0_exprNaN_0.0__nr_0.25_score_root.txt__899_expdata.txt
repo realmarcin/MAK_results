@@ -1,0 +1,14 @@
+	familial visceral amyloidosis	familial porphyria cutanea tarda	variegate porphyria	"hypoproteinemia, Hypercatabolic"	"Microvascular complications of diabetes, susceptibility to, 7"
+positive regulation of ferrous iron import across plasma membrane	1.0	1.0	1.0	1.0	1.0
+negative regulation of receptor binding	1.0	1.0	1.0	1.0	1.0
+HFE-transferrin receptor complex	1.0	1.0	1.0	1.0	1.0
+positive regulation of receptor binding	1.0	1.0	1.0	1.0	1.0
+positive regulation of ferrous iron binding	1.0	1.0	1.0	1.0	1.0
+positive regulation of transferrin receptor binding	1.0	1.0	1.0	1.0	1.0
+positive regulation of receptor-mediated endocytosis	1.0	1.0	1.0	1.0	1.0
+cellular response to iron ion	1.0	1.0	1.0	1.0	1.0
+integrin complex	0.0	0.0	0.0	0.0	0.0
+cell-matrix adhesion	0.0	0.0	0.0	0.0	0.0
+hemidesmosome assembly	0.0	0.0	0.0	0.0	0.0
+cell-substrate junction assembly	0.0	0.0	0.0	0.0	0.0
+fibrinogen binding	0.0	0.0	0.0	0.0	0.0

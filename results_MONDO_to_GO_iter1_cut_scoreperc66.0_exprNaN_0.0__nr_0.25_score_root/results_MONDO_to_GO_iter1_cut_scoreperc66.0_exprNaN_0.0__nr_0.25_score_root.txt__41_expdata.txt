@@ -1,0 +1,8 @@
+	hyperekplexia 1	"mental retardation, autosomal dominant 10"	sulfite oxidase deficiency due to molybdenum cofactor deficiency type c
+molybdenum incorporation into molybdenum-molybdopterin complex	1.0	0.0	1.0
+glycine receptor clustering	1.0	0.0	1.0
+molybdopterin molybdotransferase activity	1.0	0.0	1.0
+gamma-aminobutyric acid receptor clustering	1.0	0.0	1.0
+postsynaptic specialization	1.0	0.0	1.0
+postsynaptic neurotransmitter receptor diffusion trapping	1.0	1.0	1.0
+nitrate reductase activity	1.0	0.0	1.0

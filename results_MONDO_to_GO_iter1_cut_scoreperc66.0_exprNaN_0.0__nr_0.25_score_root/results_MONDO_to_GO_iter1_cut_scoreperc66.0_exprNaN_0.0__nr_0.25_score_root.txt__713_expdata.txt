@@ -1,0 +1,10 @@
+	PMM2-CDG	cystathioninuria (disease)	MPI-CDG	Ribose-5-P isomerase deficiency	"short stature, developmental delay, and congenital heart defects;"
+cytoplasm	1.0	1.0	1.0	1.0	0.0
+nucleus	1.0	1.0	1.0	1.0	0.0
+extracellular exosome	1.0	1.0	1.0	0.0	1.0
+neurogenesis	1.0	0.0	0.0	0.0	0.0
+mannose metabolic process	1.0	0.0	0.0	0.0	0.0
+GDP-mannose biosynthetic process	1.0	0.0	1.0	0.0	0.0
+chondrocyte morphogenesis	1.0	0.0	1.0	0.0	0.0
+phosphomannomutase activity	1.0	0.0	0.0	0.0	0.0
+protein targeting to ER	1.0	0.0	0.0	0.0	0.0

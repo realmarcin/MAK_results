@@ -1,0 +1,14 @@
+	neuronal ceroid lipofuscinosis 4A	neuronal ceroid lipofuscinosis 8	neuronal ceroid lipofuscinosis 6	neuronal ceroid lipofuscinosis 8 northern epilepsy variant
+integral component of membrane	1.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0
+protein homodimerization activity	1.0	0.0	1.0	0.0
+cholesterol metabolic process	1.0	1.0	1.0	1.0
+endoplasmic reticulum lumen	1.0	0.0	1.0	0.0
+visual perception	1.0	1.0	1.0	1.0
+positive regulation of proteolysis	1.0	0.0	1.0	0.0
+lysosome organization	1.0	1.0	1.0	1.0
+locomotion involved in locomotory behavior	1.0	0.0	1.0	0.0
+ganglioside metabolic process	1.0	0.0	1.0	0.0
+glycosaminoglycan metabolic process	1.0	0.0	1.0	0.0
+lysosomal lumen acidification	1.0	0.0	1.0	0.0
+cellular macromolecule catabolic process	1.0	1.0	1.0	1.0

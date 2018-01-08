@@ -1,0 +1,5 @@
+"x"
+"1" "classic.galactosemia"
+"2" "galactokinase.deficiency"
+"3" "galactose.epimerase.deficiency"
+"4" "B4GALT1.CDG"

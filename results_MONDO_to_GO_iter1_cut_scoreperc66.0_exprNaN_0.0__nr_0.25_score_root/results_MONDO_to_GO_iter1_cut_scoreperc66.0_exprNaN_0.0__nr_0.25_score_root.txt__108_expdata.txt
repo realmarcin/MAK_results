@@ -1,0 +1,8 @@
+	hereditary sensory and autonomic neuropathy with spastic paraplegia	"dyskeratosis congenita, autosomal recessive 3"	Bardet-Biedl syndrome 12
+chaperonin-containing T-complex	1.0	0.0	1.0
+zona pellucida receptor complex	1.0	0.0	0.0
+G-protein beta-subunit binding	1.0	0.0	0.0
+positive regulation of establishment of protein localization to telomere	1.0	1.0	0.0
+positive regulation of protein localization to Cajal body	1.0	0.0	0.0
+scaRNA localization to Cajal body	0.0	1.0	0.0
+telomere formation via telomerase	0.0	1.0	0.0

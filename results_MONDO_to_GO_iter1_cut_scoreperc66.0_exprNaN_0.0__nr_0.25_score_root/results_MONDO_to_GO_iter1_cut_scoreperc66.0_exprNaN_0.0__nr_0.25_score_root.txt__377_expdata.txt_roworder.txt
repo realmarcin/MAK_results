@@ -1,0 +1,6 @@
+"x"
+"1" "cranioectodermal.dysplasia.2"
+"2" "short.rib.thoracic.dysplasia.7.with.or.without.polydactyly"
+"3" "primary.ciliary.dyskinesia.2"
+"4" "primary.ciliary.dyskinesia.18"
+"5" "primary.ciliary.dyskinesia.22"

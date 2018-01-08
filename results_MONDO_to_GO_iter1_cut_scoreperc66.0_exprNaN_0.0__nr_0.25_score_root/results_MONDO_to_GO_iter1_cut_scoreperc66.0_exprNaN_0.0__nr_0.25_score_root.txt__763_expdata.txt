@@ -1,0 +1,10 @@
+	congenital myasthenic syndrome 10	"cone-rod synaptic disorder, congenital nonprogressive"	"mental retardation, autosomal dominant 5"	Joubert syndrome 22	short stature with microcephaly and distinctive facies
+cell junction	1.0	0.0	1.0	0.0	1.0
+synapse	1.0	0.0	1.0	0.0	1.0
+positive regulation of protein tyrosine kinase activity	1.0	0.0	0.0	0.0	0.0
+positive regulation of protein phosphorylation	1.0	0.0	0.0	0.0	0.0
+phosphatidylinositol binding	1.0	0.0	0.0	0.0	0.0
+receptor clustering	1.0	0.0	1.0	0.0	0.0
+skeletal muscle fiber development	1.0	0.0	0.0	0.0	0.0
+insulin receptor binding	1.0	0.0	0.0	0.0	0.0
+neuromuscular junction development	1.0	0.0	0.0	0.0	0.0

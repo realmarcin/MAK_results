@@ -1,0 +1,7 @@
+	Marinesco-SjC6gren syndrome	myofibrillar myopathy 6	dilated cardiomyopathy 1HH	amyotrophic lateral sclerosis type 18	familial cortical myoclonus	lamb-Shaffer syndrome; LAMSHF
+positive regulation of protein export from nucleus	0.0	1.0	1.0	0.0	0.0	0.0
+adenyl-nucleotide exchange factor activity	1.0	1.0	1.0	1.0	0.0	0.0
+negative regulation of striated muscle cell apoptotic process	0.0	1.0	1.0	0.0	1.0	0.0
+negative regulation of transcription from RNA polymerase II promoter in response to stress	0.0	1.0	1.0	0.0	0.0	1.0
+asymmetric neuroblast division	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of timing of neuron differentiation	0.0	0.0	0.0	0.0	0.0	1.0

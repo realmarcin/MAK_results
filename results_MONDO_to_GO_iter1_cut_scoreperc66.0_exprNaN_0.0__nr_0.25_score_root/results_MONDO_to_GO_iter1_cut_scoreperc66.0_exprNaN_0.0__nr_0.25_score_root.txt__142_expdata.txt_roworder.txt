@@ -1,0 +1,6 @@
+"x"
+"1" "spinocerebellar.ataxia.type.5"
+"2" "autosomal.recessive.spinocerebellar.ataxia.14"
+"3" "hereditary.spherocytosis.type.2"
+"4" "autosomal.recessive.nonsyndromic.deafness.12"
+"5" "nephrotic.syndrome..type.9"

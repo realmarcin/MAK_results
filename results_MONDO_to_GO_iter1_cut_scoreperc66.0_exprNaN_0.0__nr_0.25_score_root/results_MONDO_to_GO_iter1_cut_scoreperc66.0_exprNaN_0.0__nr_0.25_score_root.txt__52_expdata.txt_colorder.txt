@@ -1,0 +1,8 @@
+"x"
+"1" "lipoxygenase pathway"
+"2" "peroxisome proliferator activated receptor signaling pathway"
+"3" "hepoxilin A3 synthase activity"
+"4" "hepoxilin biosynthetic process"
+"5" "linoleate 13S-lipoxygenase activity"
+"6" "positive regulation of mucus secretion"
+"7" "linoleate 9S-lipoxygenase activity"

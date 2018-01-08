@@ -1,0 +1,8 @@
+"x"
+"1" "metal ion binding"
+"2" "cellular iron ion homeostasis"
+"3" "copper ion binding"
+"4" "ferroxidase activity"
+"5" "copper ion transport"
+"6" "response to bacterium"
+"7" "hindlimb morphogenesis"

@@ -1,0 +1,7 @@
+"x"
+"1" "molecular_function"
+"2" "multicellular organism development"
+"3" "glucosamine biosynthetic process"
+"4" "acetylcholine-gated cation-selective channel activity"
+"5" "acetylcholine binding"
+"6" "acetylcholine receptor activity"

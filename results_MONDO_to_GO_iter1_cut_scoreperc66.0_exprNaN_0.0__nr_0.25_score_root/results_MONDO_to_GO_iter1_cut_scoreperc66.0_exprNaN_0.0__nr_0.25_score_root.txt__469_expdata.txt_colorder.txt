@@ -1,0 +1,7 @@
+"x"
+"1" "late endosome to vacuole transport via multivesicular body sorting pathway"
+"2" "positive regulation of fatty acid biosynthetic process"
+"3" "ubiquitin binding"
+"4" "ubiquitin-dependent endocytosis"
+"5" "protein ubiquitination"
+"6" "regulation of ribosomal large subunit export from nucleus"

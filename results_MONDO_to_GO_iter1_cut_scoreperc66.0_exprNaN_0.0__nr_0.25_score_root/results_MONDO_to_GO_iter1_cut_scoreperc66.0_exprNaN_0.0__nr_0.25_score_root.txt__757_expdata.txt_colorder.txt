@@ -1,0 +1,7 @@
+"x"
+"1" "transport"
+"2" "ion transport"
+"3" "chloride transport"
+"4" "ion channel activity"
+"5" "protein homodimerization activity"
+"6" "positive regulation of T cell proliferation"

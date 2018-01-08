@@ -1,0 +1,8 @@
+	hypogonadotropic hypogonadism 7 with or without anosmia	lung cancer	hypomyelinating leukodystrophy 7 with or without oligodontia and-or hypogonadotropic hypogonadism	"myocardial infarction, susceptibility to"	gastric cancer	hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism
+negative regulation of regulatory T cell differentiation	0.0	1.0	0.0	1.0	1.0	0.0
+ribonucleoside binding	1.0	0.0	1.0	0.0	0.0	1.0
+positive regulation of interferon-beta production	1.0	1.0	1.0	0.0	1.0	1.0
+immunoglobulin mediated immune response	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of interferon-alpha secretion	0.0	0.0	0.0	0.0	0.0	0.0
+MDA-5 signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of interferon-alpha production	0.0	0.0	0.0	0.0	0.0	0.0

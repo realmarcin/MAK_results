@@ -1,0 +1,11 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	methylcobalamin deficiency type cblG	congenital myasthenic syndrome 6	"cerebral palsy, spastic quadriplegic, 1"	aromatic L-amino acid decarboxylase deficiency	Charcot-Marie-tooth disease axonal type 2CC
+protein N-terminus binding	0.0	0.0	0.0	1.0	0.0	0.0
+axon terminus	0.0	0.0	0.0	1.0	0.0	0.0
+inhibitory synapse	0.0	0.0	0.0	1.0	0.0	0.0
+social behavior	0.0	0.0	0.0	1.0	0.0	0.0
+glutamate binding	0.0	0.0	0.0	1.0	0.0	0.0
+presynaptic active zone	0.0	0.0	0.0	1.0	0.0	0.0
+neuron projection terminus	0.0	0.0	0.0	1.0	0.0	0.0
+glutamate decarboxylase activity	0.0	0.0	0.0	1.0	0.0	0.0
+locomotory exploration behavior	0.0	0.0	0.0	1.0	0.0	0.0
+gamma-aminobutyric acid biosynthetic process	0.0	0.0	0.0	1.0	0.0	0.0

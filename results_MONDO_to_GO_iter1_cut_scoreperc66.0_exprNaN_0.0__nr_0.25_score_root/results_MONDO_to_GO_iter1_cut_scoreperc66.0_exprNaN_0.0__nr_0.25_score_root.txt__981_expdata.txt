@@ -1,0 +1,18 @@
+	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	pontocerebellar hypoplasia type 10	"porokeratosis 9, multiple types; POROK9"
+kinase activity	0.0	0.0	1.0	0.0
+brain development	0.0	0.0	1.0	0.0
+mRNA polyadenylation	0.0	0.0	1.0	0.0
+mRNA 3'-end processing	0.0	0.0	1.0	0.0
+spinal cord motor neuron differentiation	0.0	0.0	1.0	0.0
+mRNA processing	0.0	0.0	1.0	0.0
+tRNA processing	0.0	0.0	1.0	0.0
+targeting of mRNA for destruction involved in RNA interference	0.0	0.0	1.0	0.0
+cerebellar cortex development	0.0	0.0	1.0	0.0
+"tRNA splicing, via endonucleolytic cleavage and ligation"	0.0	0.0	1.0	0.0
+tRNA-intron endonuclease complex	0.0	0.0	1.0	0.0
+mRNA cleavage	0.0	0.0	1.0	0.0
+ATP-dependent polyribonucleotide 5'-hydroxyl-kinase activity	0.0	0.0	1.0	0.0
+polynucleotide 5'-hydroxyl-kinase activity	0.0	0.0	1.0	0.0
+siRNA loading onto RISC involved in RNA interference	0.0	0.0	1.0	0.0
+mRNA cleavage factor complex	0.0	0.0	1.0	0.0
+polydeoxyribonucleotide kinase activity	0.0	0.0	1.0	0.0

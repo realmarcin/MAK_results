@@ -1,0 +1,6 @@
+"x"
+"1" "pyruvate.carboxylase.deficiency.disease"
+"2" "ACACAD"
+"3" "X3.Methylcrotonyl.Coa.carboxylase.1.deficiency"
+"4" "holocarboxylase.synthetase.deficiency"
+"5" "propionic.acidemia"

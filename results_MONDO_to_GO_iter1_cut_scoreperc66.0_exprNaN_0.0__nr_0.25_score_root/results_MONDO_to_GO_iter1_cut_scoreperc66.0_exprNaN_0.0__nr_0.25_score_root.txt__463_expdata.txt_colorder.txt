@@ -1,0 +1,6 @@
+"x"
+"1" "low-density lipoprotein receptor activity"
+"2" "positive regulation of macrophage derived foam cell differentiation"
+"3" "apoptotic cell clearance"
+"4" "positive regulation of interleukin-12 production"
+"5" "positive regulation of cell-matrix adhesion"

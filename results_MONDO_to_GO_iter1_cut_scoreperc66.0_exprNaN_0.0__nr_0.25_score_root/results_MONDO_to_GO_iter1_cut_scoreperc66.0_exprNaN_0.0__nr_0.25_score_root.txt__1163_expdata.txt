@@ -1,0 +1,18 @@
+	renal coloboma syndrome	renal agenesis (disease)	generalized resistance to thyroid hormone	autosomal dominant nonsyndromic deafness 10	dilated cardiomyopathy 1J	focal segmental glomerulosclerosis 7
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	0.0	0.0	1.0
+"positive regulation of transcription, DNA-templated"	1.0	1.0	1.0	0.0	0.0	1.0
+peripheral nervous system development	1.0	1.0	1.0	0.0	0.0	1.0
+regulation of metanephric nephron tubule epithelial cell differentiation	1.0	1.0	1.0	0.0	0.0	1.0
+positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	1.0	1.0	1.0	0.0	0.0	1.0
+metanephric distal convoluted tubule development	1.0	1.0	1.0	0.0	0.0	1.0
+vestibular receptor cell development	1.0	1.0	1.0	0.0	0.0	1.0
+mesonephros development	1.0	1.0	1.0	0.0	0.0	1.0
+urogenital system development	1.0	1.0	1.0	0.0	0.0	1.0
+negative regulation of apoptotic process involved in metanephric nephron tubule development	1.0	1.0	1.0	0.0	0.0	1.0
+anterior/posterior pattern specification involved in pronephros development	1.0	1.0	1.0	0.0	0.0	1.0
+negative regulation of apoptotic process involved in metanephric collecting duct development	1.0	1.0	1.0	0.0	0.0	1.0
+mesonephric tubule development	1.0	1.0	1.0	0.0	0.0	1.0
+negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis	1.0	1.0	1.0	0.0	0.0	1.0
+negative regulation of mesenchymal cell apoptotic process involved in metanephros development	1.0	1.0	1.0	0.0	0.0	1.0
+pronephric field specification	1.0	1.0	1.0	0.0	0.0	1.0
+positive regulation of metanephric DCT cell differentiation	1.0	1.0	1.0	0.0	0.0	1.0

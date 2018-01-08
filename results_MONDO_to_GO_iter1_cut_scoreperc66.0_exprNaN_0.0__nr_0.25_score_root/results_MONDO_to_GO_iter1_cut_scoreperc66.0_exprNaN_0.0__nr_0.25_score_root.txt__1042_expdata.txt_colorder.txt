@@ -1,0 +1,5 @@
+"x"
+"1" "methylation"
+"2" "methyltransferase activity"
+"3" "retinoid X receptor binding"
+"4" "retinoic acid receptor binding"

@@ -1,0 +1,7 @@
+	Laurin-Sandrow syndrome	polydactyly of a triphalangeal thumb	syndactyly type 4	"tibia, hypoplasia or aplasia of, with polydactyly"	acheiropody
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+embryonic hindlimb morphogenesis	1.0	1.0	1.0	1.0	1.0
+embryonic digit morphogenesis	1.0	1.0	1.0	1.0	1.0
+synapse organization	0.0	0.0	0.0	0.0	0.0
+cerebellar granule cell differentiation	0.0	0.0	0.0	0.0	0.0

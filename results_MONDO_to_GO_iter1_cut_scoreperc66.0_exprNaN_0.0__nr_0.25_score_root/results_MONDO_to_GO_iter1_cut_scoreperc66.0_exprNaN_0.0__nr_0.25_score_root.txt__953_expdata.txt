@@ -1,0 +1,5 @@
+	Pfeiffer syndrome	Jackson-Weiss syndrome	holoprosencephaly 3	solitary median maxillary central incisor syndrome	hypogonadotropic hypogonadism 2 with or without anosmia	Osteoglophonic dwarfism	trigonocephaly 1	congenital central hypoventilation syndrome	schizencephaly	"hepatitis c virus, susceptibility to"	"West nile virus, susceptibility to"	"microphthalmia, isolated, with coloboma 5"	type 1 diabetes mellitus 22	Encephalocraniocutaneous lipomatosis	Hartsfield-Bixler-Demyer syndrome
+positive regulation of neuron differentiation	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+neuron projection development	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+protein stabilization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of cell migration	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0

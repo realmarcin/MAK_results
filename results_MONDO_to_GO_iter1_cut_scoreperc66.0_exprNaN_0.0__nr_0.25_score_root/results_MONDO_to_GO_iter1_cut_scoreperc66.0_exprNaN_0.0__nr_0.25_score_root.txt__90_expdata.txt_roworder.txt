@@ -1,0 +1,6 @@
+"x"
+"1" "methylmalonic.acidemia.cb1B.type"
+"2" "methylcobalamin.deficiency.type.cblG"
+"3" "congenital.intrinsic.factor.deficiency"
+"4" "methylmalonic.aciduria.and.homocystinuria.type.cblC"
+"5" "neural.tube.defects..folate.Sensitive"

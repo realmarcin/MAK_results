@@ -1,0 +1,5 @@
+	nephrogenic syndrome of inappropriate antidiuresis	"diabetes insipidus, nephrogenic, X-linked"	"asthma-related Traits, susceptibility to, 2"	lymphoproliferative syndrome 1
+regulation of systemic arterial blood pressure by vasopressin	1.0	1.0	0.0	0.0
+vasopressin receptor activity	1.0	1.0	1.0	0.0
+response to peptide	1.0	1.0	0.0	0.0
+interferon-gamma production	1.0	1.0	0.0	1.0

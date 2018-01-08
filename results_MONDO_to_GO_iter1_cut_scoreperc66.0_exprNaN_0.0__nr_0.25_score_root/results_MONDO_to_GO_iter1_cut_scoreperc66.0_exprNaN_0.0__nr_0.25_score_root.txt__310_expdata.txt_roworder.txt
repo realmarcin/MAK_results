@@ -1,0 +1,5 @@
+"x"
+"1" "Horizontal.gaze.palsy.with.progressive.scoliosis"
+"2" "vesicoureteral.reflux.2"
+"3" "craniofrontonasal.syndrome"
+"4" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"

@@ -1,0 +1,5 @@
+"x"
+"1" "Sanfilippo.syndrome.type.B"
+"2" "Charcot.Marie.tooth.disease.axonal.type.2V"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

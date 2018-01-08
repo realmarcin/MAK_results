@@ -1,0 +1,8 @@
+	isolated spina bifida	nephronophthisis 2	retinitis pigmentosa 51	"Meckel syndrome, type 10"	van Maldergem syndrome 2	Bardet-Biedl syndrome 8	Hennekam lymphangiectasia-lymphedema syndrome 2
+protein kinase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+embryonic digit morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+hair follicle development	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+establishment of planar polarity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+pattern specification process	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+left/right pattern formation	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+inner ear receptor cell stereocilium organization	1.0	0.0	1.0	0.0	1.0	1.0	1.0

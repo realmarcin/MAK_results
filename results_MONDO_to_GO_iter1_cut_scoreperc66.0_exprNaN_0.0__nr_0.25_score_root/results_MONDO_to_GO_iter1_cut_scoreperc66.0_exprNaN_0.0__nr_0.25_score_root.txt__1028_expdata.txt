@@ -1,0 +1,6 @@
+	"essential hypertension, genetic"	carnitine-acylcarnitine translocase deficiency	hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency	methemoglobinemia type 4	"carnitine palmitoyl transferase II deficiency, myopathic form"	carnitine palmitoyltransferase i deficiency	Laron syndrome	"carnitine palmitoyl transferase II deficiency, severe infantile form"	platelet-type bleeding disorder 10	"carnitine palmitoyl transferase II deficiency, neonatal form"	"hyperinsulinemic hypoglycemia, familial, 4"	"coronary heart disease, susceptibility to, 7"	"mental retardation, autosomal recessive 14"	catecholaminergic polymorphic ventricular tachycardia 3	"encephalopathy, acute, infection-induced, susceptibility to, 4"	hereditary spastic paraplegia 73
+mitochondrion	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+lipid metabolic process	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+fatty acid metabolic process	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrial matrix	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mitochondrial inner membrane	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0

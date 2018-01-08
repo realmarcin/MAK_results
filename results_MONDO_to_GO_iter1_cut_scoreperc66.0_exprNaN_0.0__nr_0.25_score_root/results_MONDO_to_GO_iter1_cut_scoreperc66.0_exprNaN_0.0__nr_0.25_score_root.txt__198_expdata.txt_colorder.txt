@@ -1,0 +1,8 @@
+"x"
+"1" "rRNA processing"
+"2" "ribosome biogenesis"
+"3" "90S preribosome"
+"4" "small-subunit processome"
+"5" "ribosomal small subunit biogenesis"
+"6" "cytosolic small ribosomal subunit"
+"7" "cytoplasmic translation"

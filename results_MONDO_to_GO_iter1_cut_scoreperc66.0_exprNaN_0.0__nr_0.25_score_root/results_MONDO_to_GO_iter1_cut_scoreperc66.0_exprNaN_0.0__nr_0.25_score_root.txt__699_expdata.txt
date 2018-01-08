@@ -1,0 +1,11 @@
+	"factor v and Factor VIII, combined deficiency of, type 1"	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18
+vesicle-mediated transport	1.0	0.0	0.0	0.0
+carbohydrate binding	1.0	0.0	0.0	0.0
+cellular response to estrogen stimulus	1.0	0.0	0.0	0.0
+sarcomere	1.0	0.0	0.0	0.0
+integral component of endoplasmic reticulum membrane	1.0	0.0	0.0	0.0
+mannose binding	1.0	0.0	0.0	0.0
+endoplasmic reticulum-Golgi intermediate compartment	1.0	0.0	0.0	0.0
+positive regulation of organelle organization	1.0	0.0	0.0	0.0
+carbohydrate derivative binding	1.0	0.0	0.0	0.0
+host cell perinuclear region of cytoplasm	1.0	0.0	0.0	0.0

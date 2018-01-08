@@ -1,0 +1,15 @@
+	junctional epidermolysis bullosa Herlitz type	laryngo-onycho-cutaneous syndrome	congenital merosin-deficient muscular dystrophy 1A	Pierson syndrome	LAMB2-related infantile-onset nephrotic syndrome	dilated cardiomyopathy 1JJ
+extracellular matrix	0.0	0.0	1.0	1.0	1.0	0.0
+blood vessel morphogenesis	0.0	0.0	0.0	0.0	0.0	1.0
+receptor binding	1.0	1.0	1.0	0.0	0.0	1.0
+cell adhesion	1.0	1.0	1.0	0.0	0.0	1.0
+extracellular region	1.0	0.0	1.0	0.0	0.0	0.0
+basement membrane	1.0	1.0	1.0	0.0	0.0	0.0
+regulation of cell migration	1.0	1.0	1.0	0.0	0.0	1.0
+notochord development	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of cell adhesion	1.0	1.0	1.0	0.0	0.0	1.0
+endothelial cell development	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of embryonic development	1.0	1.0	1.0	0.0	0.0	1.0
+system development	1.0	1.0	0.0	0.0	0.0	0.0
+basement membrane assembly	1.0	1.0	0.0	1.0	1.0	0.0
+muscle attachment	0.0	0.0	1.0	1.0	1.0	1.0

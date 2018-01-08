@@ -1,0 +1,8 @@
+"x"
+"1" "purine ribonucleoside salvage"
+"2" "adenine metabolic process"
+"3" "positive regulation of dopamine metabolic process"
+"4" "guanine phosphoribosyltransferase activity"
+"5" "GMP catabolic process"
+"6" "hypoxanthine metabolic process"
+"7" "hypoxanthine phosphoribosyltransferase activity"

@@ -1,0 +1,10 @@
+	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1"	temtamy preaxial brachydactyly syndrome	"spondylocostal dysostosis 3, autosomal recessive"	spermatogenic failure 9	Dowling-Degos disease 2
+membrane	1.0	1.0	1.0	1.0	1.0
+Notch signaling pathway	0.0	0.0	1.0	0.0	1.0
+nervous system development	0.0	0.0	1.0	0.0	1.0
+regulation of Notch signaling pathway	0.0	1.0	1.0	0.0	1.0
+somitogenesis	0.0	0.0	1.0	0.0	1.0
+"transferase activity, transferring glycosyl groups"	1.0	1.0	1.0	1.0	1.0
+protein O-linked fucosylation	0.0	0.0	1.0	0.0	1.0
+fucosyltransferase activity	0.0	0.0	0.0	0.0	1.0
+peptide-O-fucosyltransferase activity	0.0	0.0	0.0	0.0	1.0

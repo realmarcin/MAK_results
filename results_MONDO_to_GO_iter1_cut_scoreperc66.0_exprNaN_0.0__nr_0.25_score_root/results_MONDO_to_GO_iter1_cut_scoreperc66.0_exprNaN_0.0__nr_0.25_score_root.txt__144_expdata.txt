@@ -1,0 +1,6 @@
+	"fructose-1,6-bisphosphatase deficiency"	transaldolase deficiency	Ribose-5-P isomerase deficiency	hemolytic anemia due to glucophosphate isomerase deficiency	"short stature, developmental delay, and congenital heart defects;"
+pentose-phosphate shunt	0.0	1.0	1.0	1.0	1.0
+monosaccharide binding	1.0	1.0	1.0	1.0	1.0
+sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity	0.0	1.0	0.0	0.0	0.0
+"pentose-phosphate shunt, non-oxidative branch"	0.0	1.0	1.0	0.0	1.0
+transketolase activity	0.0	0.0	0.0	0.0	1.0

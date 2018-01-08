@@ -1,0 +1,8 @@
+	dermodistortive urticaria	WHIM syndrome	"mental retardation, autosomal dominant 8"	congenital stationary night blindness 1E	"chorea, childhood-onset, with psychomotor retardation; COCPMR"
+G-protein coupled receptor activity	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway	1.0	1.0	1.0	1.0	1.0
+tissue regeneration	0.0	1.0	0.0	0.0	0.0
+positive chemotaxis	0.0	1.0	0.0	0.0	0.0
+neural crest cell migration involved in sympathetic nervous system development	0.0	1.0	0.0	0.0	0.0
+chemokine receptor activity	0.0	1.0	0.0	0.0	0.0
+G-protein coupled chemoattractant receptor activity	0.0	1.0	0.0	0.0	0.0

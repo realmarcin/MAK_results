@@ -1,0 +1,7 @@
+"x"
+"1" "tyrosinemia.type.II"
+"2" "Hawkinsinuria"
+"3" "tyrosinemia.type.i"
+"4" "tyrosinemia.type.III"
+"5" "alkaptonuria"
+"6" "phenylketonuria"

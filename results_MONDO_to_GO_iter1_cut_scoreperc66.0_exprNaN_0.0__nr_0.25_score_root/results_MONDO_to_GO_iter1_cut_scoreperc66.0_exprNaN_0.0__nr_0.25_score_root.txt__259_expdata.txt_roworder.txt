@@ -1,0 +1,7 @@
+"x"
+"1" "lower.motor.neuron.syndrome.with.late.adult.onset"
+"2" "FTDALS2"
+"3" "autosomal.dominant.mitochondrial.myopathy.with.exercise.intolerance"
+"4" "Parkinson.disease.22..autosomal.dominant..PARK22"
+"5" "cardioencephalomyopathy..fatal.infantile..due.to.cytochrome.c.oxidase.deficiency.3"
+"6" "methylmalonic.aciduria.and.homocystinuria.type.cblD"

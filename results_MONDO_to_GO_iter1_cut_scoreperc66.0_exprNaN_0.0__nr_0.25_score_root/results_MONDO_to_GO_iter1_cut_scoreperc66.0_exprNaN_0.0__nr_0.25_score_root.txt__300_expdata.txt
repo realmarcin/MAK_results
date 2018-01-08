@@ -1,0 +1,4 @@
+	"hemolytic uremic syndrome, atypical, susceptibility to, 1"	age related macular degeneration 1	age related macular degeneration 9	atypical hemolytic-uremic syndrome with b factor anomaly	atypical hemolytic-uremic syndrome with C3 anomaly	complement component 3 deficiency	type i complement component 8 deficiency	age related macular degeneration 14	complement factor b deficiency
+complement activation	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"complement activation, alternative pathway"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+membrane attack complex	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

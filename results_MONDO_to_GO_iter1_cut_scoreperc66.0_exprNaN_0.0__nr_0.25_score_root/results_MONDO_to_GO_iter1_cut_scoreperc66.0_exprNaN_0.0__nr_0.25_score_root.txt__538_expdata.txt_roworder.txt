@@ -1,0 +1,5 @@
+"x"
+"1" "short.rib.thoracic.dysplasia.10.with.or.without.polydactyly"
+"2" "retinitis.pigmentosa.71"
+"3" "McKusick.Kaufman.syndrome"
+"4" "Bardet.Biedl.syndrome.6"

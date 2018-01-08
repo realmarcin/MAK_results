@@ -1,0 +1,4 @@
+"x"
+"1" "congenital.myasthenic.syndrome.4C"
+"2" "congenital.myasthenic.syndrome.12"
+"3" "PGM3.CDG"

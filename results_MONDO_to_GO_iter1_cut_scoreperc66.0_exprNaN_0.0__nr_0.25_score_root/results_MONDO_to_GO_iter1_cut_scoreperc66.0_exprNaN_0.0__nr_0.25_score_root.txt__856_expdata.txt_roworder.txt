@@ -1,0 +1,6 @@
+"x"
+"1" "glaucoma.1..open.angle..a"
+"2" "Kostmann.syndrome"
+"3" "familial.cortical.myoclonus"
+"4" "hereditary.sensory.and.autonomic.neuropathy.type.5"
+"5" "glaucoma.1..open.angle..O"

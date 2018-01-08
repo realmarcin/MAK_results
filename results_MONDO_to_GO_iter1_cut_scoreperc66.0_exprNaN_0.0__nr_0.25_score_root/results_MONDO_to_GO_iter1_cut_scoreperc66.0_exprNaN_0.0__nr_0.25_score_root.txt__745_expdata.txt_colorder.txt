@@ -1,0 +1,8 @@
+"x"
+"1" "neuron development"
+"2" "ribonucleoprotein complex binding"
+"3" "striatum development"
+"4" "selenocysteine insertion sequence binding"
+"5" "negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"
+"6" "positive regulation of selenocysteine incorporation"
+"7" "selenocysteine incorporation"

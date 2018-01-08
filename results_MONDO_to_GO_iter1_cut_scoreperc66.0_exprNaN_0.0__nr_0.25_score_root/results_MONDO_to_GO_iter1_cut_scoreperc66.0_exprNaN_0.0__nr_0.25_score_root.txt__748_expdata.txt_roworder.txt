@@ -1,0 +1,7 @@
+"x"
+"1" "Pick.disease"
+"2" "semantic.dementia"
+"3" "Alzheimer.s.disease.3"
+"4" "dilated.cardiomyopathy.1U"
+"5" "acne.inversa..familial..3"
+"6" "polycystic.kidney.disease.1"

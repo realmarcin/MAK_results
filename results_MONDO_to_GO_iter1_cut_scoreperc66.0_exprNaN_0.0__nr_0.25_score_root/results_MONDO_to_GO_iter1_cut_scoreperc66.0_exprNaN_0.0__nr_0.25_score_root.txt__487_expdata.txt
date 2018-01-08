@@ -1,0 +1,10 @@
+	3-Methylcrotonyl-Coa carboxylase 2 deficiency	gamma-glutamylcysteine synthetase deficiency	glutathione synthetase deficiency without 5-oxoprolinuria	glutathione synthetase deficiency with 5-oxoprolinuria	pyruvate carboxylase deficiency disease
+intracellular	0.0	1.0	1.0	1.0	0.0
+ligase activity	1.0	1.0	1.0	1.0	1.0
+cellular amino acid metabolic process	0.0	0.0	1.0	1.0	0.0
+peptide binding	0.0	0.0	1.0	1.0	0.0
+glycine binding	0.0	0.0	1.0	1.0	0.0
+response to cadmium ion	0.0	1.0	1.0	1.0	1.0
+glutathione biosynthetic process	0.0	1.0	1.0	1.0	0.0
+glutathione synthase activity	0.0	0.0	1.0	1.0	0.0
+glutathione binding	0.0	0.0	1.0	1.0	0.0

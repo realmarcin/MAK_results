@@ -1,0 +1,5 @@
+"x"
+"1" "Dowling.Degos.disease.4"
+"2" "muscular.dystrophy..limb.girdle..type.2z..LGMD2Z"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

@@ -1,0 +1,6 @@
+"x"
+"1" "diarrhea.vomiting.due.to.trehalase.deficiency"
+"2" "spinal.muscular.atrophy.progressive.myoclonic.epilepsy.syndrome"
+"3" "Farber.lipogranulomatosis"
+"4" "autoimmune.disease..susceptibility.to..6"
+"5" "Tay.Sachs.disease.AB.variant"

@@ -1,0 +1,5 @@
+	brachydactyly type A2	"Klippel-Feil syndrome 1, autosomal dominant"	holoprosencephaly 3	solitary median maxillary central incisor syndrome	autosomal dominant Robinow syndrome 1	hemochromatosis type 1	schizencephaly	situs inversus	syndromic microphthalmia type 5	"microphthalmia, isolated, with coloboma 5"	isolated microphthalmia 4	"Klippel-Feil syndrome 3, autosomal dominant"	"microphthalmia, isolated, with coloboma 6"	isolated microphthalmia 7	"pituitary hormone deficiency, combined, 6"	Loeys-Dietz syndrome 4	Leber congenital amaurosis 17	"telangiectasia, hereditary hemorrhagic, type 5"
+pathway-restricted SMAD protein phosphorylation	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+formation of anatomical boundary	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+primitive streak formation	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+negative regulation of epidermal cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0

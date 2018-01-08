@@ -1,0 +1,6 @@
+	syndromic X-linked intellectual disability Shashi type	FRAXE intellectual disability	THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome	autosomal systemic lupus erythematosus	"prostate cancer, hereditary, 2"	combined oxidative phosphorylation defect type 17	platelet-type bleeding disorder 20
+nuclear euchromatin	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+core promoter binding	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+endonuclease activity	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+membrane protein ectodomain proteolysis	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to interleukin-1	1.0	0.0	0.0	0.0	0.0	0.0	0.0

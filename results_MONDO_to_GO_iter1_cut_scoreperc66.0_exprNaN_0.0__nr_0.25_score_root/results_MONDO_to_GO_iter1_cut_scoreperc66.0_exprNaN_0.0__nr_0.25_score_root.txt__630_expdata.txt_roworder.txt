@@ -1,0 +1,7 @@
+"x"
+"1" "osteochondritis.dissecans..disease."
+"2" "spondyloepiphyseal.dysplasia..Kimberley.type"
+"3" "spondyloepimetaphyseal.dysplasia..aggrecan.type"
+"4" "Simpson.Golabi.Behmel.syndrome"
+"5" "Desbuquois.dysplasia.1"
+"6" "peeling.skin.syndrome.type.a"

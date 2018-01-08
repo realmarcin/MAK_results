@@ -1,0 +1,7 @@
+"x"
+"1" "facioscapulohumeral.muscular.dystrophy.1"
+"2" "syndromic.X.linked.intellectual.disability.14"
+"3" "mental.retardation..autosomal.recessive.2"
+"4" "leukoencephalopathy.with.vanishing.white.matter"
+"5" "sudden.infant.death.dysgenesis.of.the.testes.syndrome"
+"6" "combined.oxidative.phosphorylation.defect.type.15"

@@ -1,0 +1,7 @@
+"x"
+"1" "sodium-dependent phosphate transport"
+"2" "organic anion transport"
+"3" "oligopeptide transmembrane transporter activity"
+"4" "oligopeptide transport"
+"5" "bile acid transmembrane transporter activity"
+"6" "microcystin transport"

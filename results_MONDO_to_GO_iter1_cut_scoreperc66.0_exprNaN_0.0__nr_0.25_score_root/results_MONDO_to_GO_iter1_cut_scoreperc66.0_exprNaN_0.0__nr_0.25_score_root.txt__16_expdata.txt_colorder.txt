@@ -1,0 +1,4 @@
+"x"
+"1" "pentose-phosphate shunt, oxidative branch"
+"2" "glucose-6-phosphate dehydrogenase activity"
+"3" "glucose 1-dehydrogenase [NAD(P)] activity"

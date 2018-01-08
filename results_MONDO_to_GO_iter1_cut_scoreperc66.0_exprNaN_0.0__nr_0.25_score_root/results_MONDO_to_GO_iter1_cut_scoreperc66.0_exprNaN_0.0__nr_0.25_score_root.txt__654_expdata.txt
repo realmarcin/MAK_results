@@ -1,0 +1,9 @@
+	thrombocytopenia 2	mosaic variegated aneuploidy syndrome 1	spinocerebellar ataxia type 11	"asthma-related Traits, susceptibility to, 5"	"microcephaly 17, primary, autosomal recessive; MCPH17"
+phosphorylation	1.0	1.0	0.0	1.0	1.0
+nucleotide binding	1.0	1.0	0.0	1.0	1.0
+apoptotic process	0.0	1.0	0.0	1.0	0.0
+kinase activity	1.0	1.0	0.0	1.0	1.0
+transferase activity	1.0	1.0	0.0	1.0	1.0
+cell cycle	1.0	1.0	0.0	1.0	1.0
+protein serine/threonine kinase activity	1.0	1.0	1.0	1.0	1.0
+metaphase/anaphase transition of mitotic cell cycle	0.0	1.0	0.0	0.0	1.0

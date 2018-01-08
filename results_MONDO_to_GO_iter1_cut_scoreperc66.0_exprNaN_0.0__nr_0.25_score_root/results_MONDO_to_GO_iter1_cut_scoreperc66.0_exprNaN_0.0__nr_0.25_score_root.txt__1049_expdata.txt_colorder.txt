@@ -1,0 +1,7 @@
+"x"
+"1" "vesicle-mediated transport"
+"2" "transport"
+"3" "membrane"
+"4" "protein transport"
+"5" "Golgi apparatus"
+"6" "intracellular protein transport"

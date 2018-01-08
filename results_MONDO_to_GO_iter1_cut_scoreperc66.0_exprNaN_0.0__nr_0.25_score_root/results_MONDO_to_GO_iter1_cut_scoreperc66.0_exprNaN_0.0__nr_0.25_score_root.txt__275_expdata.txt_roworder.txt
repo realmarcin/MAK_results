@@ -1,0 +1,6 @@
+"x"
+"1" "myotonic.dystrophy.type.2"
+"2" "spinocerebellar.ataxia.type.26"
+"3" "chromosome.5q.deletion.syndrome"
+"4" "autoimmune.polyendocrine.syndrome.type.1"
+"5" "complex.cortical.dysplasia.with.other.brain.malformations.4"

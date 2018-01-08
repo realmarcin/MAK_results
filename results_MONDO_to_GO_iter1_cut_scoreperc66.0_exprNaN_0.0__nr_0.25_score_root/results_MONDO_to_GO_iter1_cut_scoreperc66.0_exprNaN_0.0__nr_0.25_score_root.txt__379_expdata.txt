@@ -1,0 +1,7 @@
+	Baller-Gerold syndrome	rapadilino syndrome	Rothmund-Thomson syndrome	"dyskeratosis congenita, autosomal recessive 5"	PCNA-related progressive neurodegenerative photosensitivy syndrome	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3"
+ATP-dependent helicase activity	1.0	1.0	1.0	1.0	0.0	1.0
+DNA replication	1.0	1.0	1.0	1.0	1.0	1.0
+DNA polymerase binding	0.0	0.0	0.0	1.0	1.0	1.0
+replication fork processing	0.0	0.0	0.0	1.0	1.0	1.0
+telomeric D-loop disassembly	1.0	1.0	1.0	1.0	0.0	1.0
+mitotic telomere maintenance via semi-conservative replication	0.0	0.0	0.0	1.0	1.0	1.0

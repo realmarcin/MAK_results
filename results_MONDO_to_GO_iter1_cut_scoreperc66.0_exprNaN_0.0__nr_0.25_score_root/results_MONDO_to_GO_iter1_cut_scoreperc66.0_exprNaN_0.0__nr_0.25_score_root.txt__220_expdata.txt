@@ -1,0 +1,4 @@
+	atransferrinemia	hypogonadotropic hypogonadism 24 without anosmia	autosomal recessive osteopetrosis 2	autosomal recessive osteopetrosis 3	immunodeficiency 47; IMD47	brachyolmia-amelogenesis imperfecta syndrome	obesity (disease)	autosomal recessive osteopetrosis 6	autosomal recessive primary immunodeficiency with defective spontaneous natural killer cell cytotoxicity	TFRC-related combined immunodeficiency
+positive regulation of bone resorption	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+follicle-stimulating hormone activity	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of osteoclast development	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

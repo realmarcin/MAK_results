@@ -1,0 +1,5 @@
+	ALG2-CDG	ALG11-CDG	congenital myasthenic syndrome 14
+glycolipid 6-alpha-mannosyltransferase activity	1.0	0.0	1.0
+"GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity"	1.0	0.0	1.0
+protein glycosylation in endoplasmic reticulum	1.0	1.0	1.0
+"GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase activity"	1.0	0.0	1.0

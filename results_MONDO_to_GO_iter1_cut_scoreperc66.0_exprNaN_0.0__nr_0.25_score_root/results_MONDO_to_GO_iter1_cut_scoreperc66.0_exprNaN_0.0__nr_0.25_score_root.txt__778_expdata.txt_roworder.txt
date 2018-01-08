@@ -1,0 +1,7 @@
+"x"
+"1" "hemophilia.A"
+"2" "Gerstmann.Straussler.Scheinker.syndrome"
+"3" "kuru..susceptibility.to"
+"4" "fatal.familial.insomnia"
+"5" "Huntington.disease.like.1"
+"6" "spongiform.encephalopathy.with.neuropsychiatric.features"

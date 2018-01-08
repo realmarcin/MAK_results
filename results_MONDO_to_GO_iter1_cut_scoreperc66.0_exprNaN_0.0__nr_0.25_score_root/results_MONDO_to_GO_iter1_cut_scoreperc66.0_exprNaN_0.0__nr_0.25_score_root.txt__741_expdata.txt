@@ -1,0 +1,8 @@
+	oculocutaneous albinism type 3	X-linked cerebral adrenoleukodystrophy	Wolfram syndrome 2	Spondyloenchondrodysplasia with immune dysregulation	peroxisome biogenesis disorder 12A (Zellweger)	congenital bile acid synthesis defect 5
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+perinuclear region of cytoplasm	0.0	1.0	1.0	0.0	0.0	0.0
+protein homodimerization activity	1.0	1.0	1.0	0.0	0.0	1.0
+metal ion binding	1.0	0.0	1.0	1.0	0.0	0.0
+intracellular membrane-bounded organelle	0.0	0.0	1.0	0.0	0.0	1.0
+endoplasmic reticulum membrane	0.0	0.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "clathrin-coated pit"
+"2" "brush border membrane"
+"3" "excretion"
+"4" "endocytic vesicle"
+"5" "Golgi to plasma membrane protein transport"
+"6" "cobalamin transport"

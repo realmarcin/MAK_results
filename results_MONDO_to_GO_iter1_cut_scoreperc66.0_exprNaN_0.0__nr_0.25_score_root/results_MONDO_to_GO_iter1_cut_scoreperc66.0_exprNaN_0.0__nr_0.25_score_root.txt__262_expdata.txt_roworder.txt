@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.recessive.early.onset.Parkinson.disease.6"
+"2" "autosomal.dominant.Parkinson.disease.8"
+"3" "epileptic.encephalopathy..early.infantile..2"
+"4" "aortic.aneurysm..familial.thoracic.7"

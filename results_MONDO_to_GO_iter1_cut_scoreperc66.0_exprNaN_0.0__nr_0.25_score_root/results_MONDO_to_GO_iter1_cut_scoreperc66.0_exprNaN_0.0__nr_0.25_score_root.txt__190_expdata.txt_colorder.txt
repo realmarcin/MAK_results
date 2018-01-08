@@ -1,0 +1,7 @@
+"x"
+"1" "regulation of proteasomal protein catabolic process"
+"2" "purine deoxyribonucleoside triphosphate catabolic process"
+"3" "8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity"
+"4" "8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity"
+"5" "purine nucleotide catabolic process"
+"6" "nucleoside phosphate catabolic process"

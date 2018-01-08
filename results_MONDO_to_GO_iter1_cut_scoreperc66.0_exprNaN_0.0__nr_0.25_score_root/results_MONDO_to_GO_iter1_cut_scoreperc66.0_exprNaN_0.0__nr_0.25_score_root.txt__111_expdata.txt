@@ -1,0 +1,7 @@
+	Alzheimer disease type 1	methylcobalamin deficiency type cblE	"neural tube defects, folate-Sensitive"	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase
+homocysteine catabolic process	1.0	1.0	1.0	0.0
+S-adenosylmethionine cycle	0.0	1.0	1.0	1.0
+aquacobalamin reductase activity	0.0	1.0	1.0	0.0
+aquacobalamin reductase (NADPH) activity	0.0	1.0	1.0	0.0
+"oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor"	0.0	1.0	1.0	0.0
+[methionine synthase] reductase activity	0.0	1.0	1.0	0.0

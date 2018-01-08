@@ -1,0 +1,7 @@
+	hereditary sensory and autonomic neuropathy type 4	papillary renal cell carcinoma	Osteofibrous dysplasia	autosomal recessive nonsyndromic deafness 97
+protein autophosphorylation	1.0	1.0	1.0	1.0
+positive regulation of neuron projection development	1.0	1.0	1.0	1.0
+mitotic cell cycle checkpoint	0.0	1.0	0.0	0.0
+transmembrane receptor protein tyrosine kinase signaling pathway	1.0	1.0	1.0	1.0
+negative regulation of transforming growth factor beta production	0.0	1.0	1.0	1.0
+nuclear speck	0.0	1.0	0.0	0.0

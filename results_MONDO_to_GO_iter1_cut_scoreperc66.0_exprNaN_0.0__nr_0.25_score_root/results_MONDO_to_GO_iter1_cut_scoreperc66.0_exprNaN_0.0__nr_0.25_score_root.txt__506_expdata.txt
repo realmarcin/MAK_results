@@ -1,0 +1,8 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	"cerebral palsy, spastic quadriplegic, 1"	glycine encephalopathy	aromatic L-amino acid decarboxylase deficiency
+pyridoxal phosphate binding	0.0	1.0	1.0	1.0
+glycine binding	0.0	0.0	1.0	0.0
+protein lipoylation	0.0	0.0	1.0	0.0
+glycine metabolic process	0.0	0.0	1.0	0.0
+transaminase activity	0.0	0.0	1.0	0.0
+aminomethyltransferase activity	0.0	0.0	1.0	0.0
+glycine decarboxylation via glycine cleavage system	0.0	0.0	1.0	0.0

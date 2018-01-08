@@ -1,0 +1,6 @@
+"x"
+"1" "inflammatory response to antigenic stimulus"
+"2" "negative regulation of defense response to virus"
+"3" "regulation of T cell tolerance induction"
+"4" "regulation of T cell homeostatic proliferation"
+"5" "interleukin-2 receptor activity"

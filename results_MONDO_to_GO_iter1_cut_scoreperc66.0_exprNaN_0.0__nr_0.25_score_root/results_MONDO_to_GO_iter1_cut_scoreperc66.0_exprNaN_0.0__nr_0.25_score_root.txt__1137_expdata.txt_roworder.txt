@@ -1,0 +1,7 @@
+"x"
+"1" "familial.erythrocytosis.1"
+"2" "polycythemia.vera"
+"3" "Budd.Chiari.syndrome"
+"4" "thrombocythemia.3"
+"5" "familial.cold.autoinflammatory.syndrome.3"
+"6" "Autoinflammation.PLCG2.associated.antibody.deficiency.immune.dysregulation"

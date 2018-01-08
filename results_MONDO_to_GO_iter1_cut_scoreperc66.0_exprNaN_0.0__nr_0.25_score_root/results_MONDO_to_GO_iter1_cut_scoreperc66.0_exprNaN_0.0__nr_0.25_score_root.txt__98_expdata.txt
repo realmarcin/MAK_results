@@ -1,0 +1,6 @@
+	Birt-Hogg-Dube syndrome	familial spontaneous pneumothorax	Potocki-Luspski syndrome	"candidiasis, familial, 4"	primary ciliary dyskinesia 16	"aspergillosis, susceptibility to"
+GTPase activator activity	1.0	1.0	1.0	0.0	0.0	0.0
+biological_process	1.0	1.0	1.0	1.0	1.0	1.0
+midbody	1.0	1.0	1.0	0.0	0.0	0.0
+cell-cell contact zone	1.0	1.0	1.0	0.0	0.0	0.0
+guanyl-nucleotide exchange factor activity	1.0	1.0	1.0	0.0	0.0	0.0

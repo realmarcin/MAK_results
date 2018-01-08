@@ -1,0 +1,5 @@
+"x"
+"1" "mitochondrial glycyl-tRNA aminoacylation"
+"2" "glycine-tRNA ligase activity"
+"3" "bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity"
+"4" "glycyl-tRNA aminoacylation"

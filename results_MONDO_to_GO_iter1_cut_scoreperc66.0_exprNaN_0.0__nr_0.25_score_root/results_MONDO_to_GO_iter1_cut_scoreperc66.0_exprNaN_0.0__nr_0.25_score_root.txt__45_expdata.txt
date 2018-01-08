@@ -1,0 +1,4 @@
+	Aicardi-Goutieres syndrome 2	Aicardi-Goutieres syndrome 3	Aicardi-Goutieres syndrome 4	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal recessive 2"
+RNA-DNA hybrid ribonuclease activity	1.0	0.0	1.0	1.0
+ribonuclease H2 complex	1.0	1.0	1.0	0.0
+RNA metabolic process	0.0	0.0	1.0	0.0

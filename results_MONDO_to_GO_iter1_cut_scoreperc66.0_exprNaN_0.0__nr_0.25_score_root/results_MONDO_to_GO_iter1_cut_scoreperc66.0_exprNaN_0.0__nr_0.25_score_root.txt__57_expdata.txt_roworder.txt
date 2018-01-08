@@ -1,0 +1,5 @@
+"x"
+"1" "nephrogenic.syndrome.of.inappropriate.antidiuresis"
+"2" "diabetes.insipidus..nephrogenic..X.linked"
+"3" "asthma.related.Traits..susceptibility.to..2"
+"4" "lymphoproliferative.syndrome.1"

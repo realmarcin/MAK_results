@@ -1,0 +1,15 @@
+	"creatine phosphokinase, elevated serum"	hypertrophic cardiomyopathy 1	rippling muscle disease 2	autosomal dominant limb-girdle muscular dystrophy type 1C	long QT syndrome 9	"myopathy, distal, Tateyama type"
+intercalated disc	1.0	1.0	1.0	1.0	1.0	1.0
+sarcolemma	1.0	1.0	1.0	1.0	1.0	1.0
+caveola	1.0	1.0	1.0	1.0	1.0	1.0
+Z disc	1.0	1.0	1.0	1.0	1.0	1.0
+ion channel binding	1.0	1.0	1.0	1.0	1.0	1.0
+protein complex scaffold activity	1.0	1.0	1.0	1.0	1.0	1.0
+sarcomere organization	1.0	1.0	1.0	1.0	1.0	1.0
+notochord cell development	1.0	1.0	1.0	1.0	1.0	1.0
+muscle cell fate commitment	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of signaling	1.0	1.0	1.0	1.0	1.0	1.0
+caveola assembly	1.0	1.0	1.0	1.0	1.0	1.0
+muscle cell cellular homeostasis	1.0	1.0	1.0	1.0	1.0	1.0
+myoblast fusion	1.0	1.0	1.0	1.0	1.0	1.0
+skeletal muscle adaptation	0.0	0.0	0.0	0.0	0.0	0.0

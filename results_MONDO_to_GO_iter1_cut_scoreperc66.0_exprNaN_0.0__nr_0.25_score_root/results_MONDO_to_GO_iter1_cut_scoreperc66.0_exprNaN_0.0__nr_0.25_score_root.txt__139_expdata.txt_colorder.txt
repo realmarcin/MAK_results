@@ -1,0 +1,7 @@
+"x"
+"1" "carboxypeptidase activity"
+"2" "metallocarboxypeptidase activity"
+"3" "protein side chain deglutamylation"
+"4" "C-terminal protein deglutamylation"
+"5" "protein branching point deglutamylation"
+"6" "protein deglutamylation"

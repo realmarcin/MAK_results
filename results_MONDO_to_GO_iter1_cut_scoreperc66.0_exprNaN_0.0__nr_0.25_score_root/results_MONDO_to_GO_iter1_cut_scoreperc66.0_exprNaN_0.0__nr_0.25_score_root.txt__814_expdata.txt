@@ -1,0 +1,8 @@
+	Blau syndrome	"sarcoidosis, early-onset"	amyotrophic lateral sclerosis type 9	graft versus host disease	mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency	Yao syndrome; YAOS
+extracellular space	0.0	0.0	1.0	0.0	1.0	0.0
+extracellular region	0.0	0.0	1.0	1.0	1.0	0.0
+defense response to bacterium	1.0	1.0	1.0	0.0	0.0	1.0
+negative regulation of smooth muscle cell proliferation	0.0	0.0	1.0	0.0	0.0	0.0
+defense response to Gram-negative bacterium	0.0	0.0	1.0	0.0	0.0	0.0
+immune response	0.0	0.0	0.0	1.0	1.0	0.0
+cytokine activity	0.0	0.0	0.0	1.0	1.0	0.0

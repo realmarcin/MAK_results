@@ -1,0 +1,6 @@
+"x"
+"1" "retrograde transport, endosome to Golgi"
+"2" "signal peptide processing"
+"3" "positive regulation of GTP binding"
+"4" "glycosylation"
+"5" "vacuolar lumen"

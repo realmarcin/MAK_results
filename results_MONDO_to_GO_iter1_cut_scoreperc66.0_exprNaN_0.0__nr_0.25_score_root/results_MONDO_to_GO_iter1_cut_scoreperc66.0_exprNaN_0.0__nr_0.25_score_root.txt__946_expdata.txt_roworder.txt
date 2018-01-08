@@ -1,0 +1,7 @@
+"x"
+"1" "mental.retardation..autosomal.dominant.5"
+"2" "neurofibromatosis.type.1"
+"3" "neurofibromatosis..familial.spinal"
+"4" "Watson.syndrome"
+"5" "neurofibromatosis.Noonan.syndrome"
+"6" "ataxia.with.oculomotor.apraxia.type.3"

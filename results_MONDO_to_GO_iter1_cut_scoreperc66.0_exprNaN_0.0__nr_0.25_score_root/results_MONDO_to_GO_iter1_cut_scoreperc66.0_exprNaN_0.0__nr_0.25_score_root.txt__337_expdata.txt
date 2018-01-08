@@ -1,0 +1,13 @@
+	dysplastic nevus syndrome	melanoma and neural system tumor syndrome	melanoma-pancreatic cancer syndrome	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3
+G2/M transition of mitotic cell cycle	1.0	1.0	1.0	0.0
+negative regulation of phosphorylation	1.0	1.0	1.0	0.0
+cyclin-dependent protein serine/threonine kinase inhibitor activity	1.0	1.0	1.0	0.0
+response to vitamin D	1.0	1.0	1.0	0.0
+cellular response to extracellular stimulus	1.0	1.0	1.0	0.0
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	1.0	1.0	1.0	0.0
+negative regulation of cell cycle G1/S phase transition	1.0	1.0	1.0	0.0
+negative regulation of glial cell proliferation	1.0	1.0	1.0	0.0
+regulation of cyclin-dependent protein serine/threonine kinase activity	1.0	1.0	1.0	0.0
+autophagic cell death	1.0	1.0	1.0	0.0
+cellular response to nutrient	1.0	1.0	1.0	0.0
+positive regulation of transforming growth factor beta receptor signaling pathway	1.0	1.0	1.0	0.0

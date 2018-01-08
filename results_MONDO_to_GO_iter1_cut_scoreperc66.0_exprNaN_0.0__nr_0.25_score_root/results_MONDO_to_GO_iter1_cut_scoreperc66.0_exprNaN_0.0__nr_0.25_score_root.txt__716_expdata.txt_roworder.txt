@@ -1,0 +1,6 @@
+"x"
+"1" "BAP1.related.tumor.predisposition.syndrome"
+"2" "Machado.Joseph.disease"
+"3" "drug.metabolism..poor..Cyp2C19.related"
+"4" "atypical.hemolytic.uremic.syndrome.with.thrombomodulin.anomaly"
+"5" "thrombomodulin.related.bleeding.disorder"

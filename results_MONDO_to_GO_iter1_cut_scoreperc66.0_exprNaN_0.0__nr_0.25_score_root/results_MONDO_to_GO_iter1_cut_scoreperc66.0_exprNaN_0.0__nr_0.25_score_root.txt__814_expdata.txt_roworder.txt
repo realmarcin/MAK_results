@@ -1,0 +1,7 @@
+"x"
+"1" "amyotrophic.lateral.sclerosis.type.9"
+"2" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12B.deficiency"
+"3" "graft.versus.host.disease"
+"4" "Blau.syndrome"
+"5" "sarcoidosis..early.onset"
+"6" "Yao.syndrome..YAOS"

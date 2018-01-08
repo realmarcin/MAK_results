@@ -1,0 +1,8 @@
+"x"
+"1" "hereditary.spastic.paraplegia.76"
+"2" "atypical.hemolytic.uremic.syndrome.with.thrombomodulin.anomaly"
+"3" "thrombomodulin.related.bleeding.disorder"
+"4" "Machado.Joseph.disease"
+"5" "drug.metabolism..poor..Cyp2C19.related"
+"6" "hereditary.thrombophilia.due.to.congenital.histidine.rich..poly.L..glycoprotein.deficiency"
+"7" "autosomal.recessive.nonsyndromic.deafness.70"

@@ -1,0 +1,7 @@
+	brachydactyly type A2	fibrodysplasia ossificans progressiva	generalized juvenile polyposis/juvenile polyposis coli	hemochromatosis type 1	"polyposis syndrome, hereditary mixed, 2"	congenital adrenal insufficiency	short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome	Steel syndrome	short-rib thoracic dysplasia 13 with or without polydactyly
+BMP receptor complex	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+cholesterol monooxygenase (side-chain-cleaving) activity	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+positive regulation of centrosome duplication	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+growth plate cartilage chondrocyte development	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+astral microtubule organization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+central nervous system myelin formation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

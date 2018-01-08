@@ -1,0 +1,7 @@
+	"mitochondrial dna depletion syndrome, myopathic form"	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal dominant 4"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 3; PEOB3"
+deoxycytidine metabolic process	1.0	0.0	1.0
+deoxycytidine kinase activity	1.0	0.0	1.0
+thymidine kinase activity	1.0	0.0	1.0
+deoxyribonucleotide metabolic process	1.0	0.0	1.0
+thymidine metabolic process	1.0	0.0	1.0
+mitochondrial DNA metabolic process	1.0	1.0	1.0

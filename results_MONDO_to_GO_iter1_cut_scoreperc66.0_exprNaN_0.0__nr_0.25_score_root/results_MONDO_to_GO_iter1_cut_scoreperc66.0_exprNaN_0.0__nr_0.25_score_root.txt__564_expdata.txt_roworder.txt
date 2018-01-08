@@ -1,0 +1,6 @@
+"x"
+"1" "sialuria"
+"2" "GNE.myopathy"
+"3" "X3.hydroxy.3.methylglutaryl.CoA.synthase.deficiency"
+"4" "POROK7"
+"5" "porokeratosis.9..multiple.types..POROK9"

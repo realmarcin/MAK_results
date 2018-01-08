@@ -1,0 +1,9 @@
+	pancreatic agenesis	maturity-onset diabetes of the young type 4	"Camptosynpolydactyly, complex"	Mesoaxial synostotic syndactyly with phalangeal reduction	Shashi-Pena syndrome; SHAPNS
+determination of liver left/right asymmetry	1.0	1.0	0.0	0.0	0.0
+determination of pancreatic left/right asymmetry	1.0	1.0	0.0	0.0	0.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	1.0	1.0
+endocrine pancreas development	1.0	1.0	0.0	0.0	0.0
+glucose homeostasis	1.0	1.0	0.0	0.0	0.0
+pancreas development	1.0	1.0	0.0	0.0	0.0
+determination of digestive tract left/right asymmetry	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "hypoplasminogenemia"
+"2" "aggressive.periodontitis"
+"3" "Papillon.Lefevre.disease"
+"4" "Haim.Munk.syndrome"

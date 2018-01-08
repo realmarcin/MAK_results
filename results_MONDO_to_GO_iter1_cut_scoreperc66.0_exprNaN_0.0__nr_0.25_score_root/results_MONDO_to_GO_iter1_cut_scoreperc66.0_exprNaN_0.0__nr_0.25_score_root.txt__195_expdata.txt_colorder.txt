@@ -1,0 +1,7 @@
+"x"
+"1" "ATPase activator activity"
+"2" "negative regulation of inclusion body assembly"
+"3" "negative regulation of protein deubiquitination"
+"4" "regulation of protein ubiquitination"
+"5" "regulation of chaperone-mediated protein folding"
+"6" "proteasome binding"

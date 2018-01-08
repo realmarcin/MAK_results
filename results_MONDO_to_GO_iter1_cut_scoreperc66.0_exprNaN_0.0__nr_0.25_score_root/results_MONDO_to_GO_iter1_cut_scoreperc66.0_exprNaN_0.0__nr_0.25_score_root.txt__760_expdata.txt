@@ -1,0 +1,8 @@
+	"iridogoniodysgenesis, type 2"	Axenfeld-Rieger syndrome type 1	ring dermoid of cornea	Joubert syndrome 8	short-rib thoracic dysplasia 10 with or without polydactyly	retinitis pigmentosa 71
+negative regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	0.0	1.0	1.0
+embryonic hindlimb morphogenesis	1.0	1.0	1.0	0.0	0.0	0.0
+multicellular organism development	1.0	1.0	1.0	1.0	1.0	1.0
+transcription factor binding	1.0	1.0	1.0	0.0	1.0	1.0
+heart development	1.0	1.0	1.0	0.0	1.0	1.0
+determination of left/right symmetry	1.0	1.0	1.0	1.0	1.0	1.0
+left/right axis specification	1.0	1.0	1.0	1.0	1.0	1.0

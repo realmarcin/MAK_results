@@ -1,0 +1,12 @@
+	thrombocytopenia 2	"spermatogenic failure, Y-linked, 2"	"Microvascular complications of diabetes, susceptibility to, 6"
+positive regulation of mitotic cell cycle phase transition	1.0	0.0	0.0
+positive regulation of G1 to G0 transition	1.0	0.0	0.0
+negative regulation of phosphoprotein phosphatase activity	1.0	0.0	0.0
+positive regulation of transcription involved in meiotic cell cycle	1.0	0.0	0.0
+positive regulation of ubiquitin-protein ligase activity involved in meiotic cell cycle	1.0	0.0	0.0
+female meiosis II	1.0	1.0	0.0
+age-dependent response to oxidative stress involved in chronological cell aging	1.0	0.0	1.0
+age-dependent response to reactive oxygen species involved in chronological cell aging	0.0	0.0	1.0
+response to hyperoxia	0.0	0.0	1.0
+erythrophore differentiation	0.0	0.0	1.0
+acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure	0.0	0.0	1.0

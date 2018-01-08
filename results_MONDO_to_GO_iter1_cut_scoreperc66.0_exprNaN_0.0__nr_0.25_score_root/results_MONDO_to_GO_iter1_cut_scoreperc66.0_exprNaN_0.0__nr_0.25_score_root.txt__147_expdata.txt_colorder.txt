@@ -1,0 +1,7 @@
+"x"
+"1" "mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)"
+"2" "ubiquinone binding"
+"3" "3 iron, 4 sulfur cluster binding"
+"4" "respiratory chain complex II"
+"5" "tricarboxylic acid cycle"
+"6" "succinate dehydrogenase complex"

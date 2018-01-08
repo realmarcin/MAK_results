@@ -1,0 +1,4 @@
+	hepatocellular carcinoma	holoprosencephaly 4	holoprosencephaly 2	schizencephaly	advanced sleep phase syndrome 1	caudal duplication	pontocerebellar hypoplasia type 3	SERKAL syndrome	orofacial cleft 10	osteogenesis imperfecta type 15
+forebrain anterior/posterior pattern specification	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0
+sensory epithelium regeneration	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+transcription corepressor binding	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0

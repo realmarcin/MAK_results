@@ -1,0 +1,8 @@
+	methylmalonic aciduria and homocystinuria type cblD	lower motor neuron syndrome with late-adult onset	FTDALS2	autosomal dominant mitochondrial myopathy with exercise intolerance	"cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"	"Parkinson disease 22, autosomal dominant; PARK22"
+molecular_function	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrion	1.0	1.0	1.0	1.0	1.0	1.0
+aerobic respiration	0.0	1.0	1.0	1.0	0.0	1.0
+mitochondrion organization	0.0	1.0	1.0	1.0	0.0	1.0
+mitochondrial intermembrane space	0.0	1.0	1.0	1.0	1.0	1.0
+oxidative phosphorylation	0.0	1.0	1.0	1.0	0.0	0.0
+negative regulation of ATP citrate synthase activity	0.0	1.0	1.0	1.0	0.0	0.0

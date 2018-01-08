@@ -1,0 +1,4 @@
+"x"
+"1" "cone.rod.dystrophy.20"
+"2" "primary.ciliary.dyskinesia.2"
+"3" "primary.ciliary.dyskinesia.18"

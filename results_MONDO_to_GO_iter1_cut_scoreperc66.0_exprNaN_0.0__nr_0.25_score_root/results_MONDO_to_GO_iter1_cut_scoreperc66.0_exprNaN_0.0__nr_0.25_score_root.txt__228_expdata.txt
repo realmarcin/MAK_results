@@ -1,0 +1,6 @@
+	Coxopodopatellar syndrome	nonsyndromic congenital nail disorder 4	autoimmune polyendocrine syndrome type 1	"T-cell immunodeficiency, congenital alopecia, and nail dystrophy"	"ectodermal dysplasia 9, hair/nail type"
+pelvic fin development	1.0	1.0	0.0	0.0	0.0
+embryonic pelvic fin morphogenesis	1.0	0.0	0.0	0.0	0.0
+nail development	0.0	1.0	0.0	1.0	1.0
+thymus epithelium morphogenesis	0.0	0.0	1.0	1.0	0.0
+regulation of positive thymic T cell selection	0.0	0.0	0.0	1.0	0.0

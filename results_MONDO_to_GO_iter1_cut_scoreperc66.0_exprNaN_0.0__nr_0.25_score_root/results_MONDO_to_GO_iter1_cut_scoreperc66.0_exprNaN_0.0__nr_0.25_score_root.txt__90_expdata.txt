@@ -1,0 +1,4 @@
+	methylcobalamin deficiency type cblG	methylmalonic acidemia cb1B type	congenital intrinsic factor deficiency	methylmalonic aciduria and homocystinuria type cblC	"neural tube defects, folate-Sensitive"
+cobalamin binding	1.0	1.0	1.0	1.0	1.0
+cobalamin metabolic process	1.0	1.0	1.0	1.0	1.0
+"cob(I)yrinic acid a,c-diamide adenosyltransferase activity"	0.0	1.0	0.0	0.0	0.0

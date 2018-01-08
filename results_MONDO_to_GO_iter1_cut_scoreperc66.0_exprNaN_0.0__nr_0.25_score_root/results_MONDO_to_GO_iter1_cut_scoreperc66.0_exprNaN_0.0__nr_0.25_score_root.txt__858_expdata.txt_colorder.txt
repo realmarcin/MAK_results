@@ -1,0 +1,8 @@
+"x"
+"1" "multicellular organism development"
+"2" "cartilage development involved in endochondral bone morphogenesis"
+"3" "face morphogenesis"
+"4" "inner ear morphogenesis"
+"5" "skeletal system development"
+"6" "chondrocyte differentiation"
+"7" "endochondral ossification"

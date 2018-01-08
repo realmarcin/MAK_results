@@ -1,0 +1,12 @@
+	Bothnia retinal dystrophy	Newfoundland cone-rod dystrophy	progressive retinal dystrophy due to retinol transport defect	"microphthalmia, isolated, with coloboma 10"
+cell body	1.0	1.0	0.0	0.0
+transport	1.0	1.0	1.0	1.0
+intracellular	1.0	1.0	0.0	0.0
+response to stimulus	1.0	1.0	0.0	0.0
+visual perception	1.0	1.0	0.0	0.0
+transporter activity	1.0	1.0	1.0	1.0
+optokinetic behavior	1.0	1.0	0.0	0.0
+retinal binding	1.0	1.0	1.0	1.0
+retinol binding	1.0	1.0	1.0	1.0
+response to light stimulus	1.0	1.0	0.0	0.0
+11-cis retinal binding	1.0	1.0	0.0	0.0

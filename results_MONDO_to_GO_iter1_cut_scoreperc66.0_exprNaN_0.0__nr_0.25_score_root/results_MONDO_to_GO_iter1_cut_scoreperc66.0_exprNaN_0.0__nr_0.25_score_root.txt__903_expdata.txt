@@ -1,0 +1,12 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13	Bardet-Biedl syndrome 10
+neuron cellular homeostasis	0.0	0.0	1.0	0.0	0.0
+notochord development	0.0	0.0	1.0	0.0	0.0
+floor plate development	0.0	0.0	1.0	0.0	0.0
+centrosome duplication	0.0	0.0	1.0	0.0	0.0
+positive regulation of cyclin-dependent protein serine/threonine kinase activity	0.0	0.0	1.0	0.0	0.0
+embryonic axis specification	0.0	0.0	1.0	0.0	0.0
+spindle assembly	0.0	0.0	1.0	0.0	0.0
+body morphogenesis	0.0	0.0	1.0	0.0	0.0
+mitotic spindle organization	0.0	0.0	1.0	0.0	0.0
+regulation of centriole replication	0.0	0.0	1.0	0.0	0.0
+mitotic spindle checkpoint	0.0	0.0	1.0	0.0	0.0

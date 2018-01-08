@@ -1,0 +1,5 @@
+"x"
+"1" "beta-galactosidase activity"
+"2" "galactose catabolic process"
+"3" "galactoside binding"
+"4" "cellular carbohydrate metabolic process"

@@ -1,0 +1,5 @@
+	"glaucoma 1, open angle, a"	osteoporosis	"precocious puberty, central, 1"	bilateral striopallidodentate calcinosis	Frank-Ter Haar syndrome	alpha-2-plasmin inhibitor deficiency	familial meningioma	dermatofibrosarcoma protuberans	autosomal dominant slowed nerve conduction velocity	SERKAL syndrome	amyotrophic lateral sclerosis type 18	hypogonadotropic hypogonadism 8 with or without anosmia	"basal ganglia calcification, idiopathic, 5"
+positive regulation of ERK1 and ERK2 cascade	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of stress fiber assembly	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+blood vessel morphogenesis	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of smooth muscle cell proliferation	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0

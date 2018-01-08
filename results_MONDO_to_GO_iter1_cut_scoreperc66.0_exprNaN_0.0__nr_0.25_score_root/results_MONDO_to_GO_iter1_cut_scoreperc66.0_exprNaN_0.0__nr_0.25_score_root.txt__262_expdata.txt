@@ -1,0 +1,8 @@
+	"epileptic encephalopathy, early infantile, 2"	autosomal recessive early-onset Parkinson disease 6	autosomal dominant Parkinson disease 8	"aortic aneurysm, familial thoracic 7"
+protein kinase activity	1.0	1.0	1.0	1.0
+phosphorylation	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0
+ATP binding	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	1.0
+protein phosphorylation	1.0	1.0	1.0	1.0
+protein serine/threonine kinase activity	0.0	1.0	1.0	0.0

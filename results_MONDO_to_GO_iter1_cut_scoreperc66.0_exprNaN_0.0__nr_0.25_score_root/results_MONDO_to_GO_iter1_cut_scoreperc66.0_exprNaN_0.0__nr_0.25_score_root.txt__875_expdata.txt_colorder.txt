@@ -1,0 +1,6 @@
+"x"
+"1" "protein phosphorylation"
+"2" "peptidyl-serine phosphorylation"
+"3" "positive regulation of glomerular filtration"
+"4" "epidermal growth factor receptor signaling pathway"
+"5" "protein serine/threonine/tyrosine kinase activity"

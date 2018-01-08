@@ -1,0 +1,7 @@
+	Charcot-Marie-tooth disease type 3	immunodeficiency 47; IMD47	"myocardial infarction, susceptibility to"	endogenous depression	multiple endocrine neoplasia type 4	Loeys-Dietz syndrome 4
+response to drug	0.0	0.0	1.0	1.0	0.0	1.0
+cell death	1.0	1.0	1.0	1.0	1.0	1.0
+potassium ion transport	0.0	0.0	0.0	0.0	1.0	0.0
+cell growth	0.0	0.0	1.0	0.0	0.0	1.0
+transmission of nerve impulse	1.0	0.0	0.0	0.0	0.0	0.0
+heat shock protein binding	0.0	0.0	0.0	1.0	0.0	0.0

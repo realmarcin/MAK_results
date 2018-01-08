@@ -1,0 +1,4 @@
+	Cole-Carpenter syndrome 1	"erythrocytosis, familial, 3"	"myopia 25, autosomal dominant; MYP25"
+procollagen-proline 4-dioxygenase activity	1.0	0.0	1.0
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	0.0	1.0	1.0
+procollagen-proline 4-dioxygenase complex	0.0	0.0	1.0

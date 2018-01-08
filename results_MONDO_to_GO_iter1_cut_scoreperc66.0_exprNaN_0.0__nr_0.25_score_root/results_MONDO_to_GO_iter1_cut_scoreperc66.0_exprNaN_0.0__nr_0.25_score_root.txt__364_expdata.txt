@@ -1,0 +1,5 @@
+	"46,Xy sex reversal 7"	"46,Xy sex reversal 2"	X-linked adrenal hypoplasia congenita	"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome"
+male sex determination	1.0	1.0	1.0	1.0
+spermatid development	1.0	0.0	0.0	1.0
+Leydig cell differentiation	1.0	1.0	1.0	1.0
+regulation of steroid biosynthetic process	1.0	0.0	0.0	1.0

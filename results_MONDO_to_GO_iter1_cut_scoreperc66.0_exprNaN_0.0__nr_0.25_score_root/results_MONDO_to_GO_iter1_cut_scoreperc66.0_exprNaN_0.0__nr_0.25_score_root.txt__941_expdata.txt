@@ -1,0 +1,5 @@
+	cataract 4 multiple types	Navajo neurohepatopathy	familial isolated deficiency of vitamin E	obesity (disease)	familial hemophagocytic lymphohistiocytosis 4	gastrointestinal stromal tumor	COPD	idiopathic hypereosinophilic syndrome	primary ciliary dyskinesia 6	metaphyseal anadysplasia 2	orofacial cleft 10	Heme oxygenase 1 deficiency	"46,XY disorder of sex development due to testicular 17,20-desmolase deficiency"	"generalized epilepsy with febrile seizures plus, type 9"	hereditary thrombocytopenia with early-onset myelofibrosis
+"phosphatidylinositol-3,4-bisphosphate binding"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"phosphatidylinositol-3,4,5-trisphosphate binding"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to reactive oxygen species	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0
+cellular response to cadmium ion	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0

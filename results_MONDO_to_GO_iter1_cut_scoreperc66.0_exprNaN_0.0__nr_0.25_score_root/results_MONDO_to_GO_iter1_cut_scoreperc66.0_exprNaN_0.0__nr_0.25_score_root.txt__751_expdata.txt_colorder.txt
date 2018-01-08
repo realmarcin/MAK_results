@@ -1,0 +1,7 @@
+"x"
+"1" "extracellular region"
+"2" "growth hormone activity"
+"3" "neuronal cell body"
+"4" "ion homeostasis"
+"5" "axon hillock"
+"6" "neurohypophyseal hormone activity"

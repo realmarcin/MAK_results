@@ -1,0 +1,7 @@
+	Kufor-Rakeb syndrome	autosomal recessive nonsyndromic deafness 31	autosomal recessive nonsyndromic deafness 59	Usher syndrome type 2D	autosomal dominant nonsyndromic deafness 68	"spastic paraplegia 78, autosomal recessive; SPG78"
+membrane	1.0	0.0	0.0	0.0	1.0	1.0
+sensory perception of sound	0.0	1.0	1.0	1.0	1.0	0.0
+metal ion binding	1.0	0.0	0.0	0.0	0.0	1.0
+neuronal cell body	1.0	1.0	1.0	1.0	1.0	1.0
+cellular iron ion homeostasis	1.0	0.0	0.0	0.0	0.0	1.0
+polyamine import	1.0	0.0	0.0	0.0	0.0	1.0

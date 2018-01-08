@@ -1,0 +1,7 @@
+	familial apolipoprotein c-II deficiency	autosomal recessive osteopetrosis 3	Wiedemann-Steiner syndrome	"Microvascular complications of diabetes, susceptibility to, 5"	apolipoprotein c-Iii deficiency	"myopia 23, autosomal recessive"
+negative regulation of very-low-density lipoprotein particle clearance	1.0	0.0	0.0	0.0	1.0	1.0
+spherical high-density lipoprotein particle	1.0	0.0	0.0	1.0	1.0	0.0
+lipase inhibitor activity	1.0	0.0	0.0	0.0	1.0	0.0
+arylesterase activity	0.0	1.0	0.0	1.0	0.0	0.0
+positive regulation of transporter activity	0.0	0.0	1.0	1.0	0.0	0.0
+positive regulation of binding	0.0	0.0	0.0	1.0	0.0	0.0

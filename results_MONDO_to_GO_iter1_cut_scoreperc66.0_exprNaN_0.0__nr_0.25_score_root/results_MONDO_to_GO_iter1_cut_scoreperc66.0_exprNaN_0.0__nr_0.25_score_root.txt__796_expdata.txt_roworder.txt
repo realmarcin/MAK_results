@@ -1,0 +1,8 @@
+"x"
+"1" "branchiootorenal.syndrome.1"
+"2" "autosomal.dominant.nonsyndromic.deafness.23"
+"3" "branchiootic.syndrome.3"
+"4" "phaeochromocytoma"
+"5" "Hirschsprung.disease..susceptibility.to..3"
+"6" "radio.ulnar.synostosis.amegakaryocytic.thrombocytopenia.syndrome"
+"7" "deafness.with.labyrinthine.aplasia..microtia..and.microdontia"

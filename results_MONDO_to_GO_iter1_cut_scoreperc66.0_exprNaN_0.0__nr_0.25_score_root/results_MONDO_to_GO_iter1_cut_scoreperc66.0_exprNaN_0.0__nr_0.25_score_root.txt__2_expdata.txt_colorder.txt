@@ -1,0 +1,4 @@
+"x"
+"1" "negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"
+"2" "Dsl1/NZR complex"
+"3" "nuclear-transcribed mRNA catabolic process"

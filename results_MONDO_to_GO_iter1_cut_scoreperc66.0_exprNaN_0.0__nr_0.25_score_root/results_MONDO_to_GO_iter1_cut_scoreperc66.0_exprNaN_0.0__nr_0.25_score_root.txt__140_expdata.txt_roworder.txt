@@ -1,0 +1,6 @@
+"x"
+"1" "MALT.lymphoma"
+"2" "FL1"
+"3" "immunodeficiency.37"
+"4" "pityriasis.rubra.pilaris"
+"5" "psoriasis.2"

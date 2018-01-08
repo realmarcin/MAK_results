@@ -1,0 +1,7 @@
+	cerebrocostomandibular syndrome	autism (disease)	juvenile spinal muscular atrophy	intermediate spinal muscular atrophy	adult spinal muscular atrophy	"trichothiodystrophy 5, nonphotosensitive"	retinitis pigmentosa 13	retinitis pigmentosa 11	retinitis pigmentosa 18	choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome	retinitis pigmentosa 33	mandibulofacial dysostosis-microcephaly syndrome	retinitis pigmentosa 60	"psychomotor retardation, epilepsy, and craniofacial dysmorphism"	retinitis pigmentosa 70
+phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mRNA processing	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"mRNA splicing, via spliceosome"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+RNA splicing	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+spliceosomal complex	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0

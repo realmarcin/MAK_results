@@ -1,0 +1,7 @@
+"x"
+"1" "microcephaly.micromelia.syndrome"
+"2" "myopathy..centronuclear..2"
+"3" "Charlevoix.Saguenay.spastic.ataxia"
+"4" "normophosphatemic.familial.tumoral.calcinosis"
+"5" "neuronopathy..distal.hereditary.motor..type.2C"
+"6" "Mirage.syndrome..MIRAGE"

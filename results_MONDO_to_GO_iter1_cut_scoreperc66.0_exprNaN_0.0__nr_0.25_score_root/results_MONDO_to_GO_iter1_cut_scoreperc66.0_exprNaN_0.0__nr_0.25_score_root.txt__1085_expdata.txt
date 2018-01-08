@@ -1,0 +1,20 @@
+	retinitis pigmentosa	Bardet-Biedl syndrome 3	Cayman type cerebellar ataxia	retinitis pigmentosa 55	"3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia"
+small GTPase mediated signal transduction	1.0	1.0	0.0	1.0	0.0
+cilium assembly	1.0	1.0	0.0	1.0	0.0
+GTP binding	1.0	1.0	0.0	1.0	0.0
+Wnt signaling pathway	1.0	1.0	0.0	1.0	0.0
+determination of left/right symmetry	1.0	1.0	0.0	1.0	0.0
+regulation of Notch signaling pathway	1.0	1.0	0.0	1.0	0.0
+Ras protein signal transduction	1.0	1.0	0.0	1.0	0.0
+pectoral fin development	1.0	1.0	0.0	1.0	0.0
+mitochondrial matrix	0.0	0.0	1.0	0.0	1.0
+fat cell differentiation	1.0	1.0	0.0	1.0	0.0
+gastrulation	1.0	1.0	0.0	1.0	0.0
+ciliary membrane	1.0	1.0	0.0	1.0	0.0
+regulation of smoothened signaling pathway	1.0	1.0	0.0	1.0	0.0
+protein localization to cilium	1.0	1.0	0.0	1.0	0.0
+protein localization to ciliary membrane	1.0	1.0	0.0	1.0	0.0
+protein transport from ciliary membrane to plasma membrane	1.0	1.0	0.0	1.0	0.0
+melanosome transport	1.0	1.0	0.0	1.0	0.0
+protein localization to non-motile cilium	1.0	1.0	0.0	1.0	0.0
+protein ADP-ribosylation	1.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "neuronopathy..distal.hereditary.motor..type.7A"
+"2" "congenital.myasthenic.syndrome.20"
+"3" "congenital.myasthenic.syndrome.6"
+"4" "cerebral.palsy..spastic.quadriplegic..1"
+"5" "autosomal.recessive.dopa.responsive.dystonia"

@@ -1,0 +1,8 @@
+	"mental retardation, X-linked 58"	"autism, susceptibility to, X-linked 4"	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	autosomal recessive congenital ichthyosis 6	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0	1.0
+smoothened signaling pathway	0.0	1.0	0.0	0.0	0.0
+cognition	0.0	1.0	0.0	0.0	0.0
+thalamus development	0.0	1.0	0.0	0.0	0.0
+social behavior	0.0	1.0	0.0	0.0	0.0

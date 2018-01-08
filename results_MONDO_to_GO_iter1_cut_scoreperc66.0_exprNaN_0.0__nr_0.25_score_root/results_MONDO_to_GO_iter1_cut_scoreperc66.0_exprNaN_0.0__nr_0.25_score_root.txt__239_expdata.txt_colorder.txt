@@ -1,0 +1,4 @@
+"x"
+"1" "one-carbon metabolic process"
+"2" "methionine metabolic process"
+"3" "tetrahydrofolate metabolic process"

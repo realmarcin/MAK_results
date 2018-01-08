@@ -1,0 +1,14 @@
+	Noonan syndrome-like disorder with juvenile myelomonocytic leukemia	"mental retardation, anterior maxillary Protrusion, and strabismus"	Charcot-Marie-tooth disease axonal type 2P	peroxisome biogenesis disorder 5A (Zellweger)	peroxisome biogenesis disorder 5B	wilms tumor 6; WT6
+negative regulation of smoothened signaling pathway	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of gene expression	0.0	0.0	0.0	0.0	0.0	1.0
+neuron migration	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of neurogenesis	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of neuron differentiation	0.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of apoptotic process	0.0	0.0	0.0	0.0	0.0	1.0
+facial nerve morphogenesis	0.0	0.0	0.0	0.0	0.0	1.0
+neuron maturation	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of neuron maturation	0.0	0.0	0.0	0.0	0.0	1.0
+motor neuron migration	0.0	0.0	0.0	0.0	0.0	1.0
+smoothened signaling pathway involved in dorsal/ventral neural tube patterning	0.0	0.0	0.0	0.0	0.0	1.0
+facial nucleus development	0.0	0.0	0.0	0.0	0.0	1.0
+branchiomotor neuron axon guidance	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "syndromic.diarrhea"
+"2" "anemia..congenital.dyserythropoietic..type.Ia"
+"3" "hypomyelinating.leukodystrophy.5"
+"4" "three.M.syndrome.3"
+"5" "orofaciodigital.syndrome.XV"
+"6" "Bartter.disease.type.5"

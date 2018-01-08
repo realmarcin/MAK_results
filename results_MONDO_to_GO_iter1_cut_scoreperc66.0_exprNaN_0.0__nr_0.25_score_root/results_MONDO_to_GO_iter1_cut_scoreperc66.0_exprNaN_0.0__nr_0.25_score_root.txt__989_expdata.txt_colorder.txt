@@ -1,0 +1,6 @@
+"x"
+"1" "cysteine-type peptidase activity"
+"2" "cysteine-type endopeptidase activity"
+"3" "proteolysis involved in cellular protein catabolic process"
+"4" "peptidase activator activity involved in apoptotic process"
+"5" "T cell mediated cytotoxicity"

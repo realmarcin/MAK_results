@@ -1,0 +1,10 @@
+	Paget disease of bone 3	"Paget disease of bone 2, early-onset"	FTDALS3	"neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset; NADGP"	"myopathy, distal, with rimmed vacuoles; DMRV"
+positive regulation of long-term synaptic potentiation	1.0	1.0	1.0	1.0	1.0
+"positive regulation of synaptic transmission, glutamatergic"	0.0	0.0	0.0	0.0	0.0
+positive regulation of protein localization to plasma membrane	1.0	1.0	1.0	1.0	1.0
+amphisome	1.0	1.0	1.0	1.0	1.0
+positive regulation of AMPA receptor activity	0.0	0.0	0.0	0.0	0.0
+NMDA glutamate receptor clustering	0.0	0.0	0.0	0.0	0.0
+vocalization behavior	0.0	0.0	0.0	0.0	0.0
+positive regulation of dendritic spine development	0.0	0.0	0.0	0.0	0.0
+exploration behavior	0.0	0.0	0.0	0.0	0.0

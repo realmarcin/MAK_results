@@ -1,0 +1,6 @@
+"x"
+"1" "intermediate filament"
+"2" "nuclear envelope"
+"3" "heart contraction"
+"4" "structural molecule activity"
+"5" "regulation of cell aging"

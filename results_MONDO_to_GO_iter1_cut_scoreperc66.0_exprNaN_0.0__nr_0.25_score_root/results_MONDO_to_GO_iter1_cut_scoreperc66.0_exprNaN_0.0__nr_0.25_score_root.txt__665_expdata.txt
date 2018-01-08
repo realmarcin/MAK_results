@@ -1,0 +1,8 @@
+	colorectal adenocarcinoma	familial erythrocytosis 1	primary myelofibrosis	polycythemia vera	Budd-Chiari syndrome	thrombocythemia 3
+positive regulation of apoptotic signaling pathway	0.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of DNA binding transcription factor activity	1.0	1.0	1.0	1.0	1.0	1.0
+axon regeneration	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of synaptic transmission, GABAergic"	0.0	0.0	0.0	0.0	0.0	0.0
+protein serine/threonine phosphatase activity	0.0	0.0	0.0	0.0	0.0	0.0
+non-membrane spanning protein tyrosine kinase activity	1.0	1.0	1.0	1.0	1.0	1.0
+platelet-derived growth factor receptor signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0

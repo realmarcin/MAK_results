@@ -1,0 +1,5 @@
+"x"
+"1" "Aicardi.Goutieres.syndrome.5"
+"2" "Chilblain.lupus.2"
+"3" "cystic.leukoencephalopathy.without.megalencephaly"
+"4" "Singleton.Merten.syndrome.2"

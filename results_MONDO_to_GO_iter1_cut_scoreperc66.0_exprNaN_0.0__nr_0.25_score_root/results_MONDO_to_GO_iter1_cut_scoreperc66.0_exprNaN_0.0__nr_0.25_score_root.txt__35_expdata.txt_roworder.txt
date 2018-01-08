@@ -1,0 +1,5 @@
+"x"
+"1" "epilepsy..idiopathic.generalized..susceptibility.to..11"
+"2" "leukoencephalopathy.with.mild.cerebellar.ataxia.and.white.matter.edema"
+"3" "Hyperchlorhidrosis..isolated"
+"4" "Gitelman.syndrome"

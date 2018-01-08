@@ -1,0 +1,6 @@
+	Beckwith-Wiedemann syndrome	long QT syndrome 1	Jervell and Lange-Nielsen syndrome	short-rib thoracic dysplasia 9 with or without polydactyly	immunodeficiency 47; IMD47	"atrial fibrillation, familial, 3"	short Qt syndrome type 2	congenital nephrotic syndrome-interstitial lung disease-epidermolysis bullosa syndrome	cobblestone lissencephaly without muscular or ocular involvement	Bardet-Biedl syndrome 9	primary ciliary dyskinesia 30	"ichthyosis, congenital, autosomal recessive 12; ARCI12"
+clathrin-coated vesicle	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+renal filtration	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0
+inositol phosphate phosphatase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+response to epinephrine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

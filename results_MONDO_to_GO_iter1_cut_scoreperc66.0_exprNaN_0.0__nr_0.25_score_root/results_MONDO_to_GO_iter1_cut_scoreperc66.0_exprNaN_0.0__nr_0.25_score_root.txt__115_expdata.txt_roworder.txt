@@ -1,0 +1,6 @@
+"x"
+"1" "hypertrophic.cardiomyopathy.11"
+"2" "atrial.heart.septal.defect.5"
+"3" "dilated.cardiomyopathy.1R"
+"4" "myopathy..proximal..and.ophthalmoplegia"
+"5" "celiac.disease..susceptibility.to..4"

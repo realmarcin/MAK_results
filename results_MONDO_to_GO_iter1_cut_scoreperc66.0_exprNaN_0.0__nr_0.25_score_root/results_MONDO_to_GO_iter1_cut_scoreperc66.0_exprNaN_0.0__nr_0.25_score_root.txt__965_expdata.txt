@@ -1,0 +1,14 @@
+	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	lethal congenital contracture syndrome 3	POROK7	"polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"	"porokeratosis 9, multiple types; POROK9"
+actin cytoskeleton organization	0.0	0.0	0.0	1.0	0.0
+focal adhesion	0.0	0.0	0.0	1.0	0.0
+cadherin binding	0.0	0.0	0.0	1.0	0.0
+embryonic pectoral fin morphogenesis	0.0	0.0	0.0	1.0	0.0
+phosphatidylinositol-mediated signaling	0.0	0.0	0.0	1.0	0.0
+autophagy of mitochondrion	0.0	0.0	0.0	1.0	0.0
+macroautophagy	0.0	0.0	0.0	1.0	0.0
+Golgi-associated vesicle membrane	0.0	0.0	0.0	1.0	0.0
+1-phosphatidylinositol 4-kinase activity	0.0	0.0	0.0	1.0	0.0
+multi-organism membrane organization	0.0	0.0	0.0	1.0	0.0
+viral RNA genome replication	0.0	0.0	0.0	1.0	0.0
+viral replication complex	0.0	0.0	0.0	1.0	0.0
+viral replication complex formation and maintenance	0.0	0.0	0.0	1.0	0.0

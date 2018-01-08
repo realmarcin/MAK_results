@@ -1,0 +1,7 @@
+"x"
+"1" "tooth.agenesis..selective..4"
+"2" "SchC6pf.Schulz.Passarge.syndrome"
+"3" "Odonto.onycho.dermal.dysplasia"
+"4" "branchiooculofacial.syndrome"
+"5" "X.linked.hypohidrotic.ectodermal.dysplasia"
+"6" "tooth.agenesis..selective..X.linked..1"

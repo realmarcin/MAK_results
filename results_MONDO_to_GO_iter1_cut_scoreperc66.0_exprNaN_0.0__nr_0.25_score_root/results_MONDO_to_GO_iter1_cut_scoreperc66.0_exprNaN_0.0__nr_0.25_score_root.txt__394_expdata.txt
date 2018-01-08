@@ -1,0 +1,7 @@
+	amelogenesis imperfecta type 1B	amelogenesis imperfecta type 1C	amelogenesis imperfecta type 1E	amelogenesis imperfecta hypomaturation type 2A2	amelogenesis imperfecta hypomaturation type 2A5	amelogenesis imperfecta type 1F	osteogenesis imperfecta type 17
+amelogenesis	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+regulation of cell morphogenesis	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+structural constituent of tooth enamel	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+ameloblast differentiation	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of enamel mineralization	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+cellular response to cell-matrix adhesion	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"pituitary adenoma, growth hormone-secreting, 2"	"epilepsy, familial adult myoclonic, 2"	retinitis pigmentosa 35	cone-rod dystrophy 10
+positive regulation of MAPK cascade	0.0	1.0	0.0	0.0
+MAPK cascade	0.0	1.0	0.0	0.0
+positive regulation of neuron differentiation	0.0	1.0	0.0	0.0
+female pregnancy	0.0	1.0	0.0	0.0
+activation of protein kinase B activity	0.0	1.0	0.0	0.0
+negative regulation of adenylate cyclase activity	0.0	1.0	0.0	0.0
+epinephrine binding	0.0	1.0	0.0	0.0
+adrenergic receptor signaling pathway	0.0	1.0	0.0	0.0
+alpha-adrenergic receptor activity	0.0	1.0	0.0	0.0
+epidermal growth factor-activated receptor transactivation by G-protein coupled receptor signaling pathway	0.0	1.0	0.0	0.0
+alpha2-adrenergic receptor activity	0.0	1.0	0.0	0.0

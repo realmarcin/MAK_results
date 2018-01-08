@@ -1,0 +1,5 @@
+	"hypoparathyroidism, familial isolated"	Noonan syndrome with multiple lentigines	Metachondromatosis	down syndrome	Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/Or perinatal edema	lysosomal acid lipase deficiency	"thrombocytopenia, X-linked, with or without dyserythropoietic anemia"	X-linked dyserythropoetic anemia with abnormal platelets and neutropenia	beta-thalassemia-X-linked thrombocytopenia syndrome	Fumaric aciduria	"Parkinson disease 11, autosomal dominant, susceptibility to"	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2	"lymphedema, hereditary, type III"
+positive regulation of neuron differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of cytosolic calcium ion concentration	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of neural precursor cell proliferation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+homeostasis of number of cells within a tissue	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

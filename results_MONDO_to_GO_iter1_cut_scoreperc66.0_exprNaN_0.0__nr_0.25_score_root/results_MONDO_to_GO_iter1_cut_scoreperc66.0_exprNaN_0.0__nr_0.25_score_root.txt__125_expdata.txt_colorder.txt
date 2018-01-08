@@ -1,0 +1,7 @@
+"x"
+"1" "carbohydrate biosynthetic process"
+"2" "dermatan sulfate biosynthetic process"
+"3" "N-acetylgalactosamine 4-O-sulfotransferase activity"
+"4" "dermatan sulfate proteoglycan metabolic process"
+"5" "N-acylneuraminate-9-phosphate synthase activity"
+"6" "chondroitin-glucuronate 5-epimerase activity"

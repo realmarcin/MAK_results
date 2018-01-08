@@ -1,0 +1,14 @@
+	cerebellar ataxia-hypogonadism syndrome	giant axonal neuropathy 1	syndromic X-linked intellectual disability Nascimento type	Fanconi anemia complementation group f	RIDDLE syndrome	myoclonic dystonia 26
+negative regulation of transcription elongation from RNA polymerase II promoter	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of DNA repair	0.0	0.0	0.0	0.0	1.0	0.0
+isotype switching	0.0	0.0	0.0	0.0	1.0	0.0
+site of double-strand break	0.0	0.0	0.0	0.0	1.0	0.0
+K63-linked polyubiquitin modification-dependent protein binding	0.0	0.0	0.0	0.0	1.0	0.0
+regulation of cellular protein localization	0.0	0.0	0.0	0.0	1.0	0.0
+nucleosome binding	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A-K13 ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+protein K63-linked ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+DNA repair complex	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A-K15 ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A K63-linked ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0

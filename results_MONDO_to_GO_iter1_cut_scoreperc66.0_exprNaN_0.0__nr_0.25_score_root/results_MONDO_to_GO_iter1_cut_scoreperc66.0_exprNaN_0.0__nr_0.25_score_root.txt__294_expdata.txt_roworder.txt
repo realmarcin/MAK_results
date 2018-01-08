@@ -1,0 +1,6 @@
+"x"
+"1" "orofacial.cleft.10"
+"2" "isolated.cleft.palate"
+"3" "type.1.diabetes.mellitus.5"
+"4" "Seckel.syndrome.10..SCKL10"
+"5" "epileptic.encephalopathy..early.infantile..24"

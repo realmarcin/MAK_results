@@ -1,0 +1,8 @@
+	Waldenstrom macroglobulinemia	Fanconi anemia complementation group a	Charcot-Marie-tooth disease type 4D	susceptibility to infection due to TYK2 deficiency	pyogenic bacterial infections due to MyD88 deficiency	immunodeficiency-centromeric instability-facial anomalies syndrome 3
+apoptotic process	1.0	0.0	0.0	0.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+cytosol	1.0	0.0	1.0	0.0	1.0	1.0
+regulation of cell proliferation	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of inflammatory response	1.0	1.0	0.0	0.0	1.0	0.0
+positive regulation of cytokine production involved in inflammatory response	1.0	0.0	0.0	0.0	1.0	0.0

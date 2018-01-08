@@ -1,0 +1,5 @@
+	syndromic microphthalmia type 5	"epileptic encephalopathy, early infantile, 12"	"pituitary hormone deficiency, combined, 6"	osteogenesis imperfecta type 15	"tremor, hereditary essential, 5; ETM5"
+neuron fate determination	1.0	0.0	1.0	1.0	0.0
+positive regulation of gastrulation	1.0	0.0	1.0	0.0	1.0
+positive regulation of embryonic development	1.0	1.0	1.0	0.0	0.0
+metencephalon development	1.0	0.0	1.0	1.0	0.0

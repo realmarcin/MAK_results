@@ -1,0 +1,7 @@
+"x"
+"1" "cerebral.palsy..spastic.quadriplegic..1"
+"2" "malonic.aciduria"
+"3" "orotic.aciduria"
+"4" "Phosphoenolpyruvate.carboxykinase.deficiency..mitochondrial"
+"5" "Phosphoenolpyruvate.carboxykinase.deficiency..cytosolic"
+"6" "POROK7"

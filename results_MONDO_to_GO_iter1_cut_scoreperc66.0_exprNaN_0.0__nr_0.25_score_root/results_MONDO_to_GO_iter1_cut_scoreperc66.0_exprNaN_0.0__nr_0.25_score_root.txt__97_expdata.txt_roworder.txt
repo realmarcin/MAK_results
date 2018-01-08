@@ -1,0 +1,5 @@
+"x"
+"1" "hyperpigmentation.with.or.without.hypopigmentation..familial.progressive"
+"2" "autosomal.dominant.nonsyndromic.deafness.69"
+"3" "thrombocythemia.1"
+"4" "Mowat.Wilson.syndrome"

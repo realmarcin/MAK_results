@@ -1,0 +1,8 @@
+"x"
+"1" "protein oligomerization"
+"2" "excretion"
+"3" "glyoxylate reductase (NADP) activity"
+"4" "hydroxypyruvate reductase activity"
+"5" "NADPH binding"
+"6" "glycerate dehydrogenase activity"
+"7" "dicarboxylic acid metabolic process"

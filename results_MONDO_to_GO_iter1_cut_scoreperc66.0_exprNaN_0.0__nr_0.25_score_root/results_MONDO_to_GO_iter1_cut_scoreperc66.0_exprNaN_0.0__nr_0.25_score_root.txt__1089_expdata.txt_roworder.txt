@@ -1,0 +1,7 @@
+"x"
+"1" "creatine.phosphokinase..elevated.serum"
+"2" "hypertrophic.cardiomyopathy.1"
+"3" "rippling.muscle.disease.2"
+"4" "autosomal.dominant.limb.girdle.muscular.dystrophy.type.1C"
+"5" "long.QT.syndrome.9"
+"6" "myopathy..distal..Tateyama.type"

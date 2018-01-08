@@ -1,0 +1,4 @@
+	Chediak-Higashi syndrome	recurrent infection due to specific granule deficiency	myeloperoxidase deficiency	"vas deferens, congenital bilateral aplasia of"	autosomal dominant nonsyndromic deafness 9	psoriatic arthritis	neutrophil immunodeficiency syndrome	"leprosy, susceptibility to, 4"	mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency	"Monocyte and dendritic cell deficiency, autosomal recessive"
+response to bacterium	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+negative regulation of growth of symbiont in host	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+defense response to bacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

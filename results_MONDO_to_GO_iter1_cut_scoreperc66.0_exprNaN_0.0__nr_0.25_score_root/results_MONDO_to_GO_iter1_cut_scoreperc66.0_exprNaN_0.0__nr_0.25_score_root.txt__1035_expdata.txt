@@ -1,0 +1,14 @@
+	microcytic anemia with liver iron overload	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome	spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome	"spastic paraplegia, intellectual disability, nystagmus, and obesity;"
+negative regulation of cellular senescence	0.0	0.0	0.0	1.0	0.0	0.0
+epidermal growth factor receptor signaling pathway	0.0	0.0	0.0	1.0	0.0	0.0
+mitochondrial membrane	0.0	0.0	0.0	1.0	0.0	0.0
+cellular zinc ion homeostasis	0.0	0.0	0.0	1.0	0.0	0.0
+cellular response to angiotensin	0.0	0.0	0.0	1.0	0.0	0.0
+manganese ion transmembrane transport	0.0	0.0	0.0	1.0	0.0	0.0
+response to cadmium ion	0.0	0.0	0.0	1.0	0.0	0.0
+negative regulation of reactive oxygen species biosynthetic process	0.0	0.0	0.0	1.0	0.0	0.0
+cobalt ion transport	0.0	0.0	0.0	1.0	0.0	0.0
+zinc II ion transmembrane transport	0.0	0.0	0.0	1.0	0.0	0.0
+cobalt ion transmembrane transporter activity	0.0	0.0	0.0	1.0	0.0	0.0
+regulation of zinc ion transport	0.0	0.0	0.0	1.0	0.0	0.0
+regulation of cellular response to manganese ion	0.0	0.0	0.0	1.0	0.0	0.0

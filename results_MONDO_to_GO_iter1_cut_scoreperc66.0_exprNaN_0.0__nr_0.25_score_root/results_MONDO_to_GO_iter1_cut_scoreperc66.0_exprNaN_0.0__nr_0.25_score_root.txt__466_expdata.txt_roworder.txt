@@ -1,0 +1,6 @@
+"x"
+"1" "Preterm.premature.rupture.of.the.membranes"
+"2" "osteogenesis.imperfecta.type.10"
+"3" "alpha.2.plasmin.inhibitor.deficiency"
+"4" "palmoplantar.keratoderma..Nagashima.type"
+"5" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

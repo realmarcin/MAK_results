@@ -1,0 +1,6 @@
+"x"
+"1" "primary.ciliary.dyskinesia.3"
+"2" "primary.ciliary.dyskinesia.9"
+"3" "primary.ciliary.dyskinesia.6"
+"4" "primary.ciliary.dyskinesia.20"
+"5" "short.rib.thoracic.dysplasia.8.with.or.without.polydactyly"

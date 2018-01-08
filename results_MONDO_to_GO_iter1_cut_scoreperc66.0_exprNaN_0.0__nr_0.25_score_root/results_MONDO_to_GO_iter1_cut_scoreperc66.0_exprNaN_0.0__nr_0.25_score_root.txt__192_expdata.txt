@@ -1,0 +1,6 @@
+	"acromesomelic dysplasia, Maroteaux type"	"atrial fibrillation, familial, 6"	atrial standstill 2	tall stature-scoliosis-macrodactyly of the great toes syndrome	platelet-type bleeding disorder 19	short stature with nonspecific skeletal abnormalities
+cGMP biosynthetic process	1.0	1.0	1.0	1.0	0.0	1.0
+negative regulation of oocyte maturation	1.0	0.0	0.0	1.0	0.0	1.0
+receptor guanylyl cyclase signaling pathway	1.0	1.0	1.0	1.0	0.0	1.0
+natriuretic peptide receptor activity	1.0	0.0	0.0	1.0	0.0	1.0
+negative regulation of meiotic cell cycle	1.0	0.0	0.0	1.0	1.0	1.0

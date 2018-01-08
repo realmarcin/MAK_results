@@ -1,0 +1,9 @@
+	syndromic X-linked intellectual disability 14	leukoencephalopathy with vanishing white matter	"mental retardation, autosomal recessive 2"	sudden infant death-dysgenesis of the testes syndrome	combined oxidative phosphorylation defect type 15
+transferase activity	0.0	0.0	0.0	0.0	1.0
+mitochondrion	0.0	0.0	0.0	0.0	1.0
+translation	0.0	1.0	0.0	0.0	1.0
+biosynthetic process	0.0	1.0	0.0	0.0	1.0
+translational initiation	0.0	1.0	0.0	0.0	1.0
+"hydroxymethyl-, formyl- and related transferase activity"	0.0	0.0	0.0	0.0	1.0
+conversion of methionyl-tRNA to N-formyl-methionyl-tRNA	0.0	0.0	0.0	0.0	1.0
+methionyl-tRNA formyltransferase activity	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "intrinsic apoptotic signaling pathway in response to DNA damage"
+"2" "cellular response to heat"
+"3" "negative regulation of mitophagy in response to mitochondrial depolarization"
+"4" "nucleobase-containing compound metabolic process"
+"5" "regulation of DNA binding transcription factor activity"

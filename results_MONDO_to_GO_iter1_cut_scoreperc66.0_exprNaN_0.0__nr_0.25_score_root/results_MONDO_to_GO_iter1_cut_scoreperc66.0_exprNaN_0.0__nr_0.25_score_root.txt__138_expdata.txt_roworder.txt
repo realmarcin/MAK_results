@@ -1,0 +1,5 @@
+"x"
+"1" "isolated.focal.cortical.dysplasia.type.II"
+"2" "macrocephaly.intellectual.disability.neurodevelopmental.disorder.small.thorax.syndrome"
+"3" "autosomal.recessive.early.onset.Parkinson.disease.6"
+"4" "You.Hoover.Fong.syndrome..YHFS"

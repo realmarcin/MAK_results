@@ -1,0 +1,5 @@
+"x"
+"1" "mitochondrial.complex.III.deficiency.nuclear.type.6"
+"2" "thrombocytopenia.4"
+"3" "methemoglobinemia.type.4"
+"4" "erythrocytosis..familial..3"

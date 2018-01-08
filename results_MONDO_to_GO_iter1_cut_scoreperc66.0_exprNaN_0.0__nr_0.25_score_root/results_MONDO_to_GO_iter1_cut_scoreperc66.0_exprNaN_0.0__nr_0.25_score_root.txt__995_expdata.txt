@@ -1,0 +1,13 @@
+	posterior polymorphous corneal dystrophy 1	hypoplasminogenemia	CK syndrome	child syndrome	Adams-Oliver syndrome 3	hypogonadotropic hypogonadism 15 with or without anosmia
+negative regulation of cell proliferation	1.0	0.0	0.0	0.0	1.0	0.0
+"regulation of transcription, DNA-templated"	1.0	0.0	0.0	0.0	1.0	0.0
+DNA binding	1.0	0.0	0.0	0.0	1.0	0.0
+"negative regulation of transcription, DNA-templated"	1.0	0.0	0.0	0.0	1.0	0.0
+"transcription, DNA-templated"	1.0	0.0	0.0	0.0	1.0	0.0
+DNA binding transcription factor activity	1.0	0.0	0.0	0.0	1.0	0.0
+heart looping	1.0	0.0	0.0	0.0	1.0	0.0
+sequence-specific DNA binding	1.0	0.0	0.0	0.0	1.0	0.0
+"positive regulation of transcription, DNA-templated"	1.0	0.0	0.0	0.0	1.0	0.0
+chromatin binding	1.0	0.0	0.0	0.0	1.0	0.0
+heart development	1.0	0.0	0.0	0.0	1.0	0.0
+"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific DNA binding"	1.0	0.0	0.0	0.0	1.0	0.0

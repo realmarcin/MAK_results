@@ -1,0 +1,6 @@
+	"X-linked dominant chondrodysplasia, Chassaing-Lacombe type"	chromosome 15q24 deletion syndrome	"mental retardation, autosomal recessive 46"
+NAD-dependent histone deacetylase activity (H3-K14 specific)	1.0	0.0	0.0
+tubulin deacetylase activity	1.0	0.0	0.0
+protein deacetylase activity	1.0	0.0	0.0
+histone deacetylase activity	1.0	1.0	0.0
+protein deacetylation	1.0	0.0	1.0

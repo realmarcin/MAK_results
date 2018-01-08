@@ -1,0 +1,8 @@
+"x"
+"1" "primary.open.angle.glaucoma"
+"2" "glaucoma..normal.tension..susceptibility.to"
+"3" "amyotrophic.lateral.sclerosis.type.12"
+"4" "Alzheimer.disease.type.1"
+"5" "intellectual.disability.craniofacial.dysmorphism.cryptorchidism.syndrome"
+"6" "Smith.Mccort.dysplasia.2"
+"7" "autosomal.dominant.childhood.onset.proximal.spinal.muscular.atrophy.with.contractures"

@@ -1,0 +1,7 @@
+	bilateral striopallidodentate calcinosis	gastrointestinal stromal tumor	familial meningioma	idiopathic hypereosinophilic syndrome	dermatofibrosarcoma protuberans	"basal ganglia calcification, idiopathic, 5"
+small GTPase mediated signal transduction	0.0	0.0	0.0	0.0	0.0	0.0
+retina vasculature development in camera-type eye	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of DNA replication	1.0	1.0	1.0	1.0	1.0	1.0
+platelet-derived growth factor binding	1.0	1.0	1.0	1.0	1.0	1.0
+platelet-derived growth factor receptor binding	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of platelet activation	1.0	1.0	1.0	1.0	1.0	1.0

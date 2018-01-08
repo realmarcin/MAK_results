@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of protein serine/threonine kinase activity"
+"2" "cAMP-dependent protein kinase complex"
+"3" "cAMP-dependent protein kinase regulator activity"
+"4" "protein localization to bud neck"
+"5" "cAMP-dependent protein kinase inhibitor activity"
+"6" "cAMP binding"

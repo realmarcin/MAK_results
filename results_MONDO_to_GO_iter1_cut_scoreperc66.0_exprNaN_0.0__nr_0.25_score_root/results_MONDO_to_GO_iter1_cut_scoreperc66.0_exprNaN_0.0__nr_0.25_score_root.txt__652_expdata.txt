@@ -1,0 +1,11 @@
+	spastic ataxia 1	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18
+plasma membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+neuron projection	1.0	0.0	0.0	0.0
+vesicle-mediated transport	1.0	0.0	0.0	0.0
+transport vesicle membrane	1.0	0.0	0.0	0.0
+SNARE complex assembly	1.0	0.0	0.0	0.0
+SNAP receptor activity	1.0	1.0	0.0	1.0
+tertiary granule membrane	1.0	0.0	0.0	0.0
+cellular bud	1.0	0.0	0.0	0.0
+specific granule membrane	1.0	0.0	0.0	0.0

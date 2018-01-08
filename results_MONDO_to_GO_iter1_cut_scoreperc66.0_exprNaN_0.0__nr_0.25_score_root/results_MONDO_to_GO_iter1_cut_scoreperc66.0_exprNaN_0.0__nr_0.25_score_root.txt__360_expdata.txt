@@ -1,0 +1,4 @@
+	"myeloproliferative disorder, chronic, with eosinophilia"	"myofibromatosis, infantile, 1"	glaucoma 3A	xanthinuria type I	GLC3B	acroosteolysis-keloid-like lesions-premature aging syndrome	dermatofibrosarcoma protuberans	"basal ganglia calcification, idiopathic, 4"	"basal ganglia calcification, idiopathic, 5"	skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome	anterior segment dysgenesis 6; ASGD6
+retina vasculature development in camera-type eye	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of reactive oxygen species metabolic process	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of DNA biosynthetic process	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "STT3A.CDG"
+"2" "STT3B.CDG"
+"3" "X.linked.immunodeficiency.with.magnesium.defect..Epstein.Barr.virus.infection.and.neoplasia"
+"4" "mental.retardation..autosomal.recessive.7"
+"5" "arthrogryposis..renal.dysfunction..and.cholestasis.2"

@@ -1,0 +1,5 @@
+"x"
+"1" "exfoliation.syndrome"
+"2" "aortic.aneurysm..familial.thoracic.10..AAT10"
+"3" "asthma..nasal.polyps..and.Aspirin.intolerance"
+"4" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2W"

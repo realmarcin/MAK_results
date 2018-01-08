@@ -1,0 +1,4 @@
+"x"
+"1" "syndromic.X.linked.intellectual.disability.Raymond.type"
+"2" "mental.retardation..X.linked.91"
+"3" "Usher.syndrome.type.1G"

@@ -1,0 +1,5 @@
+	acromicric dysplasia	congenital contractural arachnodactyly	"ectopia lentis 1, isolated, autosomal dominant"	Marfan syndrome	stiff skin syndrome	mass syndrome	glaucoma-ectopia-microspherophakia-stiff joints-short stature syndrome	Geleophysic dysplasia 2	Adams-Oliver syndrome 3	"macular degeneration, early-onset"	progeroid and marfanoid aspect-lipodystrophy syndrome
+regulation of cellular response to growth factor stimulus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+regulation of cell proliferation involved in heart valve morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+endocardial cell development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+endocardium morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

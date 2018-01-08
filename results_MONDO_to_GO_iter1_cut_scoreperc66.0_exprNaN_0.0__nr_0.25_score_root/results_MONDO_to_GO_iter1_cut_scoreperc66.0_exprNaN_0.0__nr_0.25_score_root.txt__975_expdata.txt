@@ -1,0 +1,6 @@
+	CHARGE syndrome	Donohue syndrome	Rabson-Mendenhall syndrome	Matthew-wood syndrome	obesity (disease)	spinocerebellar ataxia type 26	hyperinsulinism due to INSR deficiency	insulin-resistance syndrome type A	hypogonadotropic hypogonadism 5 with or without anosmia	Diamond-Blackfan anemia 5	"lethal polymalformative syndrome, Boissel type"	amyotrophic lateral sclerosis type 14	retinitis pigmentosa 70	Charcot-Marie-tooth disease type 2Y
+protein oligomerization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+nuclear envelope	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+chordate embryonic development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+developmental growth	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+lipid droplet	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0

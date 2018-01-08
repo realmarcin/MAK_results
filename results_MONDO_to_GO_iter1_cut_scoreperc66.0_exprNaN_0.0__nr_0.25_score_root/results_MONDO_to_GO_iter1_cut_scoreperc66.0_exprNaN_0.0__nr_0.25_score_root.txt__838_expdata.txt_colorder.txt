@@ -1,0 +1,6 @@
+"x"
+"1" "endonuclease activity"
+"2" "nuclear euchromatin"
+"3" "core promoter binding"
+"4" "membrane protein ectodomain proteolysis"
+"5" "cellular response to interleukin-1"

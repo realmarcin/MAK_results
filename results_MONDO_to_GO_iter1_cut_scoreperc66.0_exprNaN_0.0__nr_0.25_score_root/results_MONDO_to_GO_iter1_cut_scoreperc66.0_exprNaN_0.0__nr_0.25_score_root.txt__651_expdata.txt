@@ -1,0 +1,11 @@
+	nonsyndromic congenital nail disorder 4	hyperargininemia	palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome	"dengue virus, susceptibility to"
+heparin binding	1.0	0.0	1.0	0.0
+Wnt signaling pathway	1.0	0.0	1.0	0.0
+response to stimulus	1.0	0.0	1.0	0.0
+positive regulation of Wnt signaling pathway	0.0	0.0	1.0	0.0
+canonical Wnt signaling pathway	0.0	0.0	1.0	0.0
+vascular endothelial growth factor receptor signaling pathway	0.0	0.0	1.0	0.0
+positive regulation of non-canonical Wnt signaling pathway	0.0	0.0	1.0	0.0
+male meiotic nuclear division	0.0	0.0	1.0	0.0
+regulation of receptor internalization	0.0	0.0	1.0	0.0
+regulation of male germ cell proliferation	0.0	0.0	1.0	0.0

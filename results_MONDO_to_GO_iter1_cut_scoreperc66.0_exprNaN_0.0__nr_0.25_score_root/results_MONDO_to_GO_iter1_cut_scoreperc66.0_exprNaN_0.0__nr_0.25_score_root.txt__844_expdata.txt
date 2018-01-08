@@ -1,0 +1,6 @@
+	autosomal recessive early-onset Parkinson disease 15	RIN2 syndrome	syndromic multisystem autoimmune disease due to itch deficiency	juvenile onset Parkinson disease 19A	polyglucosan body myopathy 1 with or without immunodeficiency	autoimmune interstitial lung disease-arthritis syndrome	periventricular nodular heterotopia 7; PVNH7	"neurodevelopmental disorder with hypotonia, seizures, and absent language; NDHSAL"
+mitochondrion	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+protein ubiquitination	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+ubiquitin binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0
+ubiquitin ligase complex	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0

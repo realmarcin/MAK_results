@@ -1,0 +1,4 @@
+"x"
+"1" "variegate.porphyria"
+"2" "familial.porphyria.cutanea.tarda"
+"3" "Microvascular.complications.of.diabetes..susceptibility.to..7"

@@ -1,0 +1,6 @@
+"x"
+"1" "porokeratosis.3..disseminated.superficial.actinic.type"
+"2" "Hyperimmunoglobulinemia.d.with.periodic.fever"
+"3" "mevalonic.aciduria"
+"4" "constitutional.megaloblastic.anemia.with.severe.neurologic.disease"
+"5" "Richieri.Costa.Pereira.syndrome"

@@ -1,0 +1,7 @@
+"x"
+"1" "mastocytosis"
+"2" "piebaldism"
+"3" "testicular.germ.cell.tumor"
+"4" "gastrointestinal.stromal.tumor"
+"5" "isolated.spina.bifida"
+"6" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"

@@ -1,0 +1,6 @@
+"x"
+"1" "MEDNIK.syndrome"
+"2" "psoriasis.15..pustular..susceptibility.to"
+"3" "CEDNIK.syndrome"
+"4" "epileptic.encephalopathy..early.infantile..21"
+"5" "congenital.myasthenic.syndrome.18"

@@ -1,0 +1,7 @@
+	nonpapillary renal cell carcinoma	phaeochromocytoma	von Hippel-Lindau disease	temtamy syndrome	Chuvash polycythemia	"mental retardation, autosomal dominant 27"
+sympathetic nervous system development	0.0	1.0	0.0	0.0	0.0	1.0
+peripheral nervous system development	0.0	1.0	0.0	0.0	0.0	0.0
+regulation of angiogenesis	1.0	1.0	1.0	0.0	1.0	0.0
+cognition	0.0	0.0	0.0	1.0	0.0	0.0
+camera-type eye morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of hypoxia-inducible factor-1alpha signaling pathway	1.0	1.0	1.0	0.0	1.0	0.0

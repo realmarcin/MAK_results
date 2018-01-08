@@ -1,0 +1,6 @@
+"x"
+"1" "MAP kinase kinase activity"
+"2" "mating projection tip"
+"3" "signal transduction by protein phosphorylation"
+"4" "cellular bud neck"
+"5" "pseudohyphal growth"

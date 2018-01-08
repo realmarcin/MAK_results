@@ -1,0 +1,7 @@
+	protein-losing enteropathy (disease)	pyogenic arthritis-pyoderma gangrenosum-acne syndrome	familial hypobetalipoproteinemia 2	hereditary sensory and autonomic neuropathy type 5	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly	microcephaly-capillary malformation syndrome
+cytokine production	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of chondrocyte differentiation	0.0	0.0	0.0	0.0	0.0	0.0
+enzyme inhibitor activity	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of complement activation, classical pathway"	1.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of cell development	0.0	0.0	0.0	0.0	0.0	0.0
+cytotoxic T cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0

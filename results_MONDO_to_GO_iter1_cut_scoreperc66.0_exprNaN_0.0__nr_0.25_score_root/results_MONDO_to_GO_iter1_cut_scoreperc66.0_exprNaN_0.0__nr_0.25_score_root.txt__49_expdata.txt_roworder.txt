@@ -1,0 +1,4 @@
+"x"
+"1" "hereditary.spastic.paraplegia.64"
+"2" "Desbuquois.dysplasia.1"
+"3" "nucleoside.diphosphate.linked.Moiety.X.Motif.15.deficiency..NUDT15D"

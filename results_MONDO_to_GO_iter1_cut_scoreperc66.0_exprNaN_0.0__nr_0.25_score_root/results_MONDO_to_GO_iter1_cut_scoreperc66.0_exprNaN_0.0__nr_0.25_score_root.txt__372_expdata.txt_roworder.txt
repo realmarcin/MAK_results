@@ -1,0 +1,4 @@
+"x"
+"1" "distal.renal.tubular.acidosis.with.anemia"
+"2" "hereditary.spherocytosis.type.4"
+"3" "Rotor.syndrome"

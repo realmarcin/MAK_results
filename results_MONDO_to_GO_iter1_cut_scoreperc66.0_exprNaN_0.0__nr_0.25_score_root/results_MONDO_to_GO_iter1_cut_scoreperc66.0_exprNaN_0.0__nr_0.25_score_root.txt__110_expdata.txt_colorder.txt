@@ -1,0 +1,7 @@
+"x"
+"1" "Mo-molybdopterin cofactor biosynthetic process"
+"2" "molybdopterin cofactor biosynthetic process"
+"3" "molybdopterin synthase complex"
+"4" "GTP 3',8'-cyclase activity"
+"5" "cyclic pyranopterin monophosphate synthase activity"
+"6" "molybdopterin synthase activity"

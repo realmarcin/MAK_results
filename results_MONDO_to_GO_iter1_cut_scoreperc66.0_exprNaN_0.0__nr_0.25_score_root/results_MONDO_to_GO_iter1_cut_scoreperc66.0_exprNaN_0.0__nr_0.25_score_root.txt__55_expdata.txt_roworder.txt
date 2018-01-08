@@ -1,0 +1,4 @@
+"x"
+"1" "hypermethioninemia.due.to.adenosine.kinase.deficiency"
+"2" "Alstrom.syndrome"
+"3" "adenine.phosphoribosyltransferase.deficiency"

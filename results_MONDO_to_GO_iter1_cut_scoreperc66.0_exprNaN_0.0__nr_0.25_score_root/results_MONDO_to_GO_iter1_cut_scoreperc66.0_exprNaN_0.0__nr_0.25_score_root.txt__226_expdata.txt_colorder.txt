@@ -1,0 +1,4 @@
+"x"
+"1" "low-density lipoprotein particle remodeling"
+"2" "low-density lipoprotein particle"
+"3" "vesicle lumen"

@@ -1,0 +1,7 @@
+"x"
+"1" "extracellular space"
+"2" "positive regulation of transcription, DNA-templated"
+"3" "extracellular region"
+"4" "cytokine activity"
+"5" "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+"6" "negative regulation of insulin receptor signaling pathway"

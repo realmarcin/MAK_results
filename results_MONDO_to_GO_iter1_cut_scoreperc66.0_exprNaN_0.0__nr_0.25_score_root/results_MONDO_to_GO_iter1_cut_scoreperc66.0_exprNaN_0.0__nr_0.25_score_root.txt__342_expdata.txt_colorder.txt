@@ -1,0 +1,8 @@
+"x"
+"1" "extracellular space"
+"2" "sprouting angiogenesis"
+"3" "calcium ion binding"
+"4" "extracellular exosome"
+"5" "fibrinolysis"
+"6" "negative regulation of blood coagulation"
+"7" "negative regulation of coagulation"

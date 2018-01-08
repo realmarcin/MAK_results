@@ -1,0 +1,7 @@
+	lysosomal acid lipase deficiency	Auriculocondylar syndrome 1	maturity-onset diabetes of the young type 8	autoimmune interstitial lung disease-arthritis syndrome
+sterol esterase activity	1.0	0.0	1.0	0.0
+zymogen granule	0.0	1.0	1.0	0.0
+retinyl-palmitate esterase activity	0.0	0.0	1.0	0.0
+cholinesterase activity	0.0	0.0	1.0	0.0
+pancreatic juice secretion	0.0	0.0	1.0	1.0
+glycosphingolipid binding	0.0	0.0	1.0	0.0

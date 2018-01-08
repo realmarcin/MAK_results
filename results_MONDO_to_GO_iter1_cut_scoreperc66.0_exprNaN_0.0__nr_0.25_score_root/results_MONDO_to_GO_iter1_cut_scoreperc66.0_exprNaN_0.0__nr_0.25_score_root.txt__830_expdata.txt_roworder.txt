@@ -1,0 +1,4 @@
+"x"
+"1" "familial.temporal.lobe.epilepsy.1"
+"2" "Norman.Roberts.syndrome"
+"3" "familial.temporal.lobe.epilepsy.7"

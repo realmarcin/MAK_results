@@ -1,0 +1,7 @@
+"x"
+"1" "cryptorchidism..disease."
+"2" "polycythemia.vera"
+"3" "Budd.Chiari.syndrome"
+"4" "BCC1"
+"5" "thrombocythemia.3"
+"6" "bradyopsia"

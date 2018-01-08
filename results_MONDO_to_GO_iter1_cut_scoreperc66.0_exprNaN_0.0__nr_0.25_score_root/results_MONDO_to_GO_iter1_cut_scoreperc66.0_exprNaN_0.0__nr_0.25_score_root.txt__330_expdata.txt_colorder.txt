@@ -1,0 +1,7 @@
+"x"
+"1" "drug metabolic process"
+"2" "steroid hydroxylase activity"
+"3" "steroid 21-monooxygenase activity"
+"4" "exogenous drug catabolic process"
+"5" "mineralocorticoid biosynthetic process"
+"6" "cellular ketone metabolic process"

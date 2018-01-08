@@ -1,0 +1,5 @@
+"x"
+"1" "dyskeratosis.congenita..autosomal.recessive.1"
+"2" "dyskeratosis.congenita..autosomal.recessive.2"
+"3" "spinocerebellar.ataxia.type.36"
+"4" "aplasia.cutis.congenita..disease."

@@ -1,0 +1,7 @@
+"x"
+"1" "bipolar cellular bud site selection"
+"2" "incipient cellular bud site"
+"3" "axial cellular bud site selection"
+"4" "cellular response to heat"
+"5" "prospore membrane"
+"6" "establishment or maintenance of cell polarity"

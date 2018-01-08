@@ -1,0 +1,7 @@
+"x"
+"1" "cryptorchidism..disease."
+"2" "platelet.type.bleeding.disorder.8"
+"3" "mental.retardation..autosomal.dominant.8"
+"4" "congenital.stationary.night.blindness.1E"
+"5" "dermodistortive.urticaria"
+"6" "chorea..childhood.onset..with.psychomotor.retardation..COCPMR"

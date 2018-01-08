@@ -1,0 +1,7 @@
+	Machado-Joseph disease	gamma-glutamyl transpeptidase deficiency	"mental retardation, autosomal recessive 1"	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	thrombomodulin-related bleeding disorder	autosomal recessive nonsyndromic deafness 70
+synapse	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+dendrite	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+terminal bouton	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+axon	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+exocytosis	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+synaptic cleft	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

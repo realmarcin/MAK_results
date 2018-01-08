@@ -1,0 +1,4 @@
+	"Hyperchlorhidrosis, isolated"	Gitelman syndrome	"epilepsy, idiopathic generalized, susceptibility to, 11"	leukoencephalopathy with mild cerebellar ataxia and white matter edema
+chloride ion homeostasis	1.0	1.0	1.0	1.0
+acinar cell differentiation involved in salivary gland development	0.0	0.0	1.0	1.0
+cell differentiation involved in salivary gland development	0.0	0.0	1.0	1.0

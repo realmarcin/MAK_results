@@ -1,0 +1,4 @@
+	primary ciliary dyskinesia 3	primary ciliary dyskinesia 6	primary ciliary dyskinesia 9	primary ciliary dyskinesia 20	short-rib thoracic dysplasia 8 with or without polydactyly
+outer dynein arm	1.0	1.0	1.0	1.0	0.0
+axonemal dynein complex	1.0	0.0	0.0	0.0	0.0
+dynein heavy chain binding	0.0	0.0	1.0	0.0	1.0

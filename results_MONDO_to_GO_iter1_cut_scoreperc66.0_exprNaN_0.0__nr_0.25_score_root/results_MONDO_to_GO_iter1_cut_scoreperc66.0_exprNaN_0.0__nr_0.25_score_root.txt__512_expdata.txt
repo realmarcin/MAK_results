@@ -1,0 +1,11 @@
+	beta-ketothiolase deficiency	paragangliomas 2	leukoencephalopathy-dystonia-motor neuropathy syndrome	Acetyl-Coa acetyltransferase-2 deficiency
+transferase activity	1.0	0.0	1.0	1.0
+extracellular exosome	1.0	0.0	1.0	1.0
+metabolic process	1.0	0.0	1.0	1.0
+catalytic activity	1.0	0.0	1.0	1.0
+ergosterol biosynthetic process	0.0	0.0	0.0	1.0
+"transferase activity, transferring acyl groups"	1.0	0.0	1.0	1.0
+fatty acid beta-oxidation	1.0	0.0	0.0	1.0
+"transferase activity, transferring acyl groups other than amino-acyl groups"	1.0	0.0	1.0	1.0
+acetyl-CoA C-acetyltransferase activity	1.0	0.0	0.0	1.0
+positive regulation of intestinal cholesterol absorption	0.0	0.0	0.0	1.0

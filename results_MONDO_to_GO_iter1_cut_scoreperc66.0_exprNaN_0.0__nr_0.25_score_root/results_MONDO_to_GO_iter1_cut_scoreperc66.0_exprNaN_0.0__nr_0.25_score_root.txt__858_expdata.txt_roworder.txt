@@ -1,0 +1,7 @@
+"x"
+"1" "otospondylomegaepiphyseal.dysplasia"
+"2" "Alagille.syndrome.due.to.a.JAG1.point.mutation"
+"3" "acroosteolysis.dominant.type"
+"4" "Alagille.syndrome.due.to.a.NOTCH2.point.mutation"
+"5" "schizophrenia.9"
+"6" "autoimmune.disease..susceptibility.to..1"

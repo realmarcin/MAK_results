@@ -1,0 +1,8 @@
+	cryptorchidism (disease)	polycythemia vera	Budd-Chiari syndrome	BCC1	bradyopsia	thrombocythemia 3
+signal transducer activity	0.0	0.0	0.0	0.0	1.0	0.0
+signal transduction	1.0	1.0	1.0	1.0	0.0	1.0
+G-protein coupled receptor activity	1.0	0.0	0.0	1.0	0.0	0.0
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway	1.0	1.0	1.0	0.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of apoptotic process	1.0	1.0	1.0	1.0	0.0	1.0

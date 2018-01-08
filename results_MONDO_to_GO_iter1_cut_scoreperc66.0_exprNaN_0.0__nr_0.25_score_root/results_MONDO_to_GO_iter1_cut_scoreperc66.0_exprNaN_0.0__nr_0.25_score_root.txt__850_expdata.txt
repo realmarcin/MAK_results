@@ -1,0 +1,8 @@
+	"Parkinson disease, late-onset"	succinic semialdehyde dehydrogenase deficiency	dihydropyrimidine dehydrogenase deficiency	xanthinuria type I	"neural tube defects, folate-Sensitive"	hyperinsulinism-hyperammonemia syndrome
+nucleotide binding	1.0	0.0	1.0	0.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrion	1.0	1.0	0.0	0.0	1.0	1.0
+oxidation-reduction process	1.0	1.0	1.0	1.0	1.0	1.0
+oxidoreductase activity	1.0	1.0	1.0	1.0	1.0	1.0
+glutamine metabolic process	1.0	1.0	0.0	0.0	0.0	1.0
+response to aluminum ion	1.0	0.0	0.0	1.0	0.0	1.0

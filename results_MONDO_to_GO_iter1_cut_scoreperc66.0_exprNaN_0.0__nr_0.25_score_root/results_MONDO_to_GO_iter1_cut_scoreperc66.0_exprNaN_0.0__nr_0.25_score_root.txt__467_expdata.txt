@@ -1,0 +1,7 @@
+	acute intermittent porphyria	3-hydroxy-3-methylglutaric aciduria	cutaneous porphyria	X-linked sideroblastic anemia	X-linked erythropoietic protoporphyria	porphyria due to ALA dehydratase deficiency
+catalytic activity	0.0	1.0	0.0	1.0	1.0	1.0
+heme biosynthetic process	1.0	0.0	1.0	1.0	1.0	1.0
+porphyrin-containing compound biosynthetic process	1.0	0.0	1.0	0.0	0.0	1.0
+protoporphyrinogen IX biosynthetic process	1.0	0.0	1.0	1.0	1.0	1.0
+tetrapyrrole biosynthetic process	1.0	0.0	1.0	1.0	1.0	1.0
+uroporphyrinogen-III synthase activity	1.0	0.0	1.0	0.0	0.0	0.0

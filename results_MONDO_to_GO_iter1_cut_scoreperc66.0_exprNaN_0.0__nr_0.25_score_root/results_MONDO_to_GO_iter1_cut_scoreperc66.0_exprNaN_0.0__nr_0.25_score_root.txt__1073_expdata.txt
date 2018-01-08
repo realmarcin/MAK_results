@@ -1,0 +1,7 @@
+	Jobs syndrome	Bethlem myopathy	Werdnig-Hoffmann disease	juvenile spinal muscular atrophy	intermediate spinal muscular atrophy	Ullrich congenital muscular dystrophy 1	short stature-pituitary and cerebellar defects-small sella turcica syndrome	adult spinal muscular atrophy	Duane retraction syndrome 2	spinocerebellar ataxia type 13	complex cortical dysplasia with other brain malformations 2	STAT3-related early-onset multisystem autoimmune disease	ataxia-intellectual disability-oculomotor apraxia-cerebellar cysts syndrome	congenital myasthenic syndrome 9	dystonia 27
+positive regulation of transcription from RNA polymerase II promoter	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+DNA binding	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"transcription, DNA-templated"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+negative regulation of apoptotic process	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+sequence-specific DNA binding	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+motor neuron axon guidance	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,16 @@
+	dentatorubral-pallidoluysian atrophy	primary intraosseous venous malformation	autosomal dominant nonsyndromic deafness 64	autism spectrum disorder due to AUTS2 deficiency	cataract 43	"microcephaly, short stature, and impaired glucose metabolism 2; MSSGM2"
+protein domain specific binding	1.0	0.0	0.0	0.0	0.0	0.0
+spermatogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+multicellular organism growth	1.0	0.0	0.0	0.0	0.0	0.0
+RNA polymerase II transcription coactivator activity	1.0	0.0	0.0	0.0	0.0	0.0
+nuclear matrix	1.0	0.0	0.0	0.0	0.0	0.0
+male gonad development	1.0	0.0	0.0	0.0	0.0	0.0
+determination of adult lifespan	1.0	0.0	0.0	0.0	0.0	0.0
+response to food	1.0	0.0	0.0	0.0	0.0	0.0
+pathogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+toxin activity	1.0	0.0	0.0	0.0	0.0	0.0
+post-embryonic development	1.0	0.0	0.0	0.0	0.0	0.0
+JUN kinase binding	1.0	0.0	0.0	0.0	0.0	0.0
+cell leading edge	1.0	0.0	0.0	0.0	0.0	0.0
+maintenance of cell polarity	1.0	0.0	0.0	0.0	0.0	0.0
+toxin metabolic process	1.0	0.0	0.0	0.0	0.0	0.0

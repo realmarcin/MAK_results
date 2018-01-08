@@ -1,0 +1,4 @@
+	CODAS syndrome	combined oxidative phosphorylation defect type 8	"leukoencephalopathy, progressive, with ovarian failure"	mitochondrial DNA depletion syndrome 15 (hepatocerebral type);
+mitochondrial promoter sequence-specific DNA binding	1.0	0.0	0.0	1.0
+mitochondrial respiratory chain complex assembly	0.0	1.0	1.0	1.0
+transcription initiation from mitochondrial promoter	0.0	0.0	0.0	1.0

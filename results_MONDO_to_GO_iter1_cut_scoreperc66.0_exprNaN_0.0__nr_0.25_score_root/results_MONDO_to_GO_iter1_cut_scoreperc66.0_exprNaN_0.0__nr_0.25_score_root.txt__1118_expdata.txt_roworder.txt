@@ -1,0 +1,5 @@
+"x"
+"1" "isolated.congenital.digital.clubbing"
+"2" "pachydermoperiostosis"
+"3" "autosomal.recessive.congenital.ichthyosis.2"
+"4" "autosomal.recessive.congenital.ichthyosis.3"

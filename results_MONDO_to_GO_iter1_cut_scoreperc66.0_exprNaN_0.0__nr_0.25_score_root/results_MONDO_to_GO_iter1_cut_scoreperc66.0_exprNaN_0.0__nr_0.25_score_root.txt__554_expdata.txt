@@ -1,0 +1,9 @@
+	Antley-Bixler syndrome with genital anomalies and Disordered steroidogenesis	Antley-Bixler syndrome	patterned macular dystrophy 2	congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency
+plasma membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	0.0	1.0
+negative regulation of apoptotic process	1.0	1.0	1.0	1.0
+lipid metabolic process	1.0	1.0	0.0	1.0
+intracellular membrane-bounded organelle	1.0	1.0	1.0	1.0
+positive regulation of smoothened signaling pathway	1.0	1.0	1.0	1.0
+cellular organofluorine metabolic process	1.0	1.0	0.0	1.0

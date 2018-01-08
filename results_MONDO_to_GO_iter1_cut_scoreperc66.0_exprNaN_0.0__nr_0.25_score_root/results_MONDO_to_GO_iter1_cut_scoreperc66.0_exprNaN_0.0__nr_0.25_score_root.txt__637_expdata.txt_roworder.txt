@@ -1,0 +1,5 @@
+"x"
+"1" "obesity..Hyperphagia..and.developmental.delay"
+"2" "mental.retardation..X.linked.63"
+"3" "hydranencephaly.with.renal.aplasia.dysplasia"
+"4" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2W"

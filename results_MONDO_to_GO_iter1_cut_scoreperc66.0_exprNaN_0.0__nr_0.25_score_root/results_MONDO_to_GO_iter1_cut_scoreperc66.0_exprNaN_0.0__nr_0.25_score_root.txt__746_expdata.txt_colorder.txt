@@ -1,0 +1,6 @@
+"x"
+"1" "nucleus"
+"2" "regulation of transcription, DNA-templated"
+"3" "DNA binding"
+"4" "transcription, DNA-templated"
+"5" "DNA binding transcription factor activity"

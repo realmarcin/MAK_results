@@ -1,0 +1,10 @@
+	pulmonary capillary hemangiomatosis	dystonia 16	"heterotaxy, visceral, 4, autosomal"	autoimmune lymphoproliferative syndrome type 3
+protein binding	1.0	1.0	1.0	1.0
+phosphorylation	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	1.0
+protein phosphorylation	1.0	1.0	1.0	1.0
+cellular response to oxidative stress	0.0	1.0	0.0	1.0
+skeletal system morphogenesis	0.0	1.0	1.0	0.0
+enzyme activator activity	0.0	1.0	0.0	1.0

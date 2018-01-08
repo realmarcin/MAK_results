@@ -1,0 +1,9 @@
+	primary ciliary dyskinesia 2	primary ciliary dyskinesia 18	primary ciliary dyskinesia 22	primary ciliary dyskinesia 24
+cytoplasm	1.0	1.0	1.0	1.0
+molecular_function	1.0	0.0	1.0	1.0
+chromosome	0.0	0.0	0.0	1.0
+condensed nuclear chromosome	0.0	0.0	0.0	1.0
+spermatid development	0.0	0.0	0.0	1.0
+meiotic cell cycle	0.0	0.0	0.0	1.0
+meiotic spindle	0.0	0.0	0.0	1.0
+outer dense fiber	0.0	0.0	0.0	1.0

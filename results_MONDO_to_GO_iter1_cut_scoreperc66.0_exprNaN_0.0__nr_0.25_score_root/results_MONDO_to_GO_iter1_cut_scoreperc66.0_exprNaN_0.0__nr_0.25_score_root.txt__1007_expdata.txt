@@ -1,0 +1,21 @@
+	ACys amyloidosis	age related macular degeneration 11	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+cell projection	1.0	1.0	0.0	0.0
+positive regulation of cell proliferation	1.0	1.0	0.0	0.0
+perinuclear region of cytoplasm	1.0	1.0	0.0	0.0
+chondrocyte differentiation	1.0	1.0	0.0	0.0
+cell maturation	1.0	1.0	0.0	0.0
+basement membrane	1.0	1.0	0.0	0.0
+response to oxidative stress	1.0	1.0	0.0	0.0
+amyloid-beta binding	1.0	1.0	0.0	0.0
+multivesicular body	1.0	1.0	0.0	0.0
+vesicle	1.0	1.0	0.0	0.0
+defense response	1.0	1.0	0.0	0.0
+biomineral tissue development	1.0	1.0	0.0	0.0
+supramolecular fiber organization	1.0	1.0	0.0	0.0
+negative regulation of cell death	1.0	1.0	0.0	0.0
+negative regulation of elastin catabolic process	1.0	1.0	0.0	0.0
+contractile fiber	1.0	1.0	0.0	0.0
+regulation of programmed cell death	1.0	1.0	0.0	0.0
+negative regulation of cysteine-type endopeptidase activity	1.0	1.0	0.0	0.0
+positive regulation of DNA replication	1.0	1.0	0.0	0.0
+nuclear membrane	1.0	1.0	0.0	0.0

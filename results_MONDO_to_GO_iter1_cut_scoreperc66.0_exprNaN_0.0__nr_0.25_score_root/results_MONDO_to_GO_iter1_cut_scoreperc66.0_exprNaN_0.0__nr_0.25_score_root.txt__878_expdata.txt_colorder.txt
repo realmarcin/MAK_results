@@ -1,0 +1,8 @@
+"x"
+"1" "protein domain specific binding"
+"2" "negative regulation of cell migration"
+"3" "regulation of cell cycle"
+"4" "positive regulation of phosphatidylinositol 3-kinase activity"
+"5" "positive regulation of smooth muscle cell migration"
+"6" "mitotic spindle assembly checkpoint"
+"7" "neural tube closure"

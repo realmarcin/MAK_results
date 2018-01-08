@@ -1,0 +1,8 @@
+	chorea-acanthocytosis	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	peroxisome biogenesis disorder 11A (Zellweger)	peroxisome biogenesis disorder 11B	hereditary spastic paraplegia 53	"striatonigral degeneration, childhood-onset; SNDC"
+membrane	0.0	1.0	1.0	1.0	1.0	1.0
+transport	0.0	0.0	1.0	1.0	1.0	1.0
+intracellular membrane-bounded organelle	0.0	1.0	1.0	1.0	1.0	1.0
+locomotory behavior	1.0	0.0	1.0	1.0	1.0	0.0
+protein transport	1.0	0.0	1.0	1.0	1.0	1.0
+"protein binding, bridging"	0.0	0.0	1.0	1.0	0.0	1.0
+peroxisome	0.0	0.0	1.0	1.0	0.0	0.0

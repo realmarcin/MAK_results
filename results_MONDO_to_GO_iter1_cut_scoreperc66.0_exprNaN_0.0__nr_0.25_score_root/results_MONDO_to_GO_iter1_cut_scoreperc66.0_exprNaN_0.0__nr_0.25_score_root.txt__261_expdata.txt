@@ -1,0 +1,6 @@
+	"acne inversa, familial, 1"	temtamy preaxial brachydactyly syndrome	"acne inversa, familial, 2"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11"	"mental retardation, autosomal recessive 46"
+amyloid precursor protein metabolic process	1.0	0.0	1.0	0.0	0.0
+sulfation	0.0	1.0	0.0	0.0	1.0
+Golgi cisterna membrane	0.0	1.0	1.0	0.0	0.0
+acetylgalactosaminyltransferase activity	0.0	1.0	0.0	1.0	0.0
+UDP-N-acetylgalactosamine metabolic process	0.0	0.0	0.0	1.0	0.0

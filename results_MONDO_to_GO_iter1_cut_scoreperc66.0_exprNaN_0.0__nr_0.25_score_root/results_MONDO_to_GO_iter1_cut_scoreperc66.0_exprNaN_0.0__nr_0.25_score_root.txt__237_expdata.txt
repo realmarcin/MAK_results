@@ -1,0 +1,10 @@
+	combined immunodeficiency due to DOCK8 deficiency	autosomal recessive lower motor neuron disease with childhood onset	"mental retardation, autosomal dominant 2"	Charcot-Marie-tooth disease recessive intermediate c
+positive regulation of T cell migration	1.0	0.0	1.0	0.0
+leading edge membrane	1.0	0.0	1.0	0.0
+cell leading edge	1.0	0.0	1.0	0.0
+negative regulation of T cell apoptotic process	1.0	0.0	1.0	0.0
+cellular response to chemokine	1.0	0.0	1.0	0.0
+immunological synapse formation	1.0	0.0	1.0	0.0
+positive regulation of establishment of T cell polarity	1.0	0.0	1.0	0.0
+dendritic cell migration	1.0	0.0	1.0	0.0
+memory T cell proliferation	1.0	0.0	1.0	0.0

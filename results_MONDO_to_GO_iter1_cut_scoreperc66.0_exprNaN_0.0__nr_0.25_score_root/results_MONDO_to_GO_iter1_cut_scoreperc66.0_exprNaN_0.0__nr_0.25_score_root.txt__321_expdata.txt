@@ -1,0 +1,6 @@
+	adenosine deaminase deficiency	Sneddon syndrome	reticular dysgenesis	intellectual disability-strabismus syndrome	myopathy due to Myoadenylate deaminase deficiency	hereditary spastic paraplegia 63	vasculitis due to ADA2 deficiency	pontocerebellar hypoplasia type 9
+nucleotide metabolic process	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
+deaminase activity	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+AMP metabolic process	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0
+cyclic purine nucleotide metabolic process	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+IMP biosynthetic process	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0

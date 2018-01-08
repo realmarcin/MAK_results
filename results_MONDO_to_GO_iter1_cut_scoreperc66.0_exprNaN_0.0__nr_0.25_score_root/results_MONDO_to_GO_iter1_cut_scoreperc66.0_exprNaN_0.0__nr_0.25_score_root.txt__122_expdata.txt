@@ -1,0 +1,8 @@
+	nonpapillary renal cell carcinoma	atrial heart septal defect 4	aortic valve disease 2
+heart rudiment development	1.0	1.0	0.0
+endocardial cushion formation	0.0	1.0	0.0
+negative regulation of SMAD protein complex assembly	0.0	1.0	1.0
+aortic valve development	0.0	1.0	0.0
+tricuspid valve development	0.0	1.0	0.0
+embryonic heart tube elongation	0.0	1.0	0.0
+visceral motor neuron differentiation	0.0	1.0	0.0

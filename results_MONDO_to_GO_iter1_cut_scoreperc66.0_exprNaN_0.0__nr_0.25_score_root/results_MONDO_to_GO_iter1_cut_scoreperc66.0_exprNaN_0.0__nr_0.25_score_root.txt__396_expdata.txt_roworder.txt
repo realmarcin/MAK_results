@@ -1,0 +1,5 @@
+"x"
+"1" "mitochondrial.trifunctional.protein.deficiency"
+"2" "long.chain.3.hydroxyacyl.CoA.dehydrogenase.deficiency"
+"3" "X3.methylglutaconic.aciduria.type.1"
+"4" "mitochondrial.short.chain.Enoyl.Coa.hydratase.1.deficiency"

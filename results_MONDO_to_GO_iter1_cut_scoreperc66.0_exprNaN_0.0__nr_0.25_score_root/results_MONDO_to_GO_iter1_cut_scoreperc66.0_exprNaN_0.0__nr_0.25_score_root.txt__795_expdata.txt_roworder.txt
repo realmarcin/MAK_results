@@ -1,0 +1,6 @@
+"x"
+"1" "hepatic.adenomas..familial"
+"2" "maturity.onset.diabetes.of.the.young.type.3"
+"3" "type.1.diabetes.mellitus.20"
+"4" "familial.hypercholanemia"
+"5" "congenital.bile.acid.synthesis.defect.2"

@@ -1,0 +1,8 @@
+	Bardet-Biedl syndrome 1	retinitis pigmentosa 3	primary ciliary dyskinesia-retinitis pigmentosa syndrome	"macular degeneration, X-linked atrophic"	X-linked cone-rod dystrophy 1	Bardet-Biedl syndrome 19
+response to stimulus	1.0	1.0	1.0	1.0	1.0	0.0
+retina layer formation	1.0	1.0	1.0	1.0	1.0	0.0
+microtubule cytoskeleton organization	1.0	1.0	1.0	1.0	1.0	0.0
+photoreceptor outer segment	1.0	1.0	1.0	1.0	1.0	0.0
+cilium	1.0	1.0	1.0	1.0	1.0	1.0
+retinal rod cell development	1.0	1.0	1.0	1.0	1.0	0.0
+photoreceptor connecting cilium	1.0	1.0	1.0	1.0	1.0	0.0

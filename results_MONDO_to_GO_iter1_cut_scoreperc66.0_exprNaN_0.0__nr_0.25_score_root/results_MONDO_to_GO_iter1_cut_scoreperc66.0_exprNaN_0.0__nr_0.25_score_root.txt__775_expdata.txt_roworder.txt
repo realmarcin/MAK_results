@@ -1,0 +1,5 @@
+"x"
+"1" "achondrogenesis.type.IA"
+"2" "CEDNIK.syndrome"
+"3" "epileptic.encephalopathy..early.infantile..21"
+"4" "congenital.myasthenic.syndrome.18"

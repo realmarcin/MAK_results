@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of mitotic metaphase/anaphase transition"
+"2" "Smc5-Smc6 complex"
+"3" "cellular response to radiation"
+"4" "cellular response to hydroxyurea"
+"5" "DNA double-strand break attachment to nuclear envelope"
+"6" "positive regulation of maintenance of mitotic sister chromatid cohesion"

@@ -1,0 +1,10 @@
+	cranioectodermal dysplasia 1	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13	Bardet-Biedl syndrome 10
+negative regulation of smoothened signaling pathway	1.0	0.0	0.0	0.0	0.0	0.0
+embryonic body morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+camera-type eye morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+embryonic heart tube left/right pattern formation	1.0	0.0	0.0	0.0	0.0	0.0
+establishment of protein localization to organelle	1.0	0.0	0.0	0.0	0.0	0.0
+smoothened signaling pathway involved in dorsal/ventral neural tube patterning	1.0	0.0	0.0	0.0	0.0	0.0
+ciliary receptor clustering involved in smoothened signaling pathway	1.0	0.0	0.0	0.0	0.0	0.0
+signal transduction downstream of smoothened	1.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	1.0	0.0	0.0	0.0	0.0	0.0

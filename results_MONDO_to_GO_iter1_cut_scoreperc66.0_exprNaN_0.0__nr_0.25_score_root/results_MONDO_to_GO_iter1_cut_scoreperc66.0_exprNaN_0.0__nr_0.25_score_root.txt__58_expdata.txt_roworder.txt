@@ -1,0 +1,5 @@
+"x"
+"1" "autism..susceptibility.to..X.linked.2"
+"2" "Asperger.syndrome..X.linked..susceptibility.to..2"
+"3" "autism..susceptibility.to..X.linked.1"
+"4" "Asperger.syndrome..X.linked..susceptibility.to..1"

@@ -1,0 +1,11 @@
+	galactokinase deficiency	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+phosphorylation	1.0	0.0	0.0	0.0
+kinase activity	1.0	0.0	0.0	0.0
+transferase activity	1.0	1.0	0.0	1.0
+metabolic process	1.0	1.0	0.0	0.0
+galactitol metabolic process	1.0	0.0	0.0	0.0
+galactose catabolic process via UDP-galactose	1.0	0.0	0.0	0.0
+galactose binding	1.0	0.0	0.0	0.0
+galactose metabolic process	1.0	0.0	0.0	0.0
+glycolytic process from galactose	1.0	0.0	0.0	0.0
+galactokinase activity	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "ion transport"
+"4" "cell surface"
+"5" "perinuclear region of cytoplasm"
+"6" "sodium ion transport"
+"7" "membrane raft"

@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "oxidation-reduction process"
+"3" "oxidoreductase activity"
+"4" "nucleotide binding"
+"5" "mitochondrion"
+"6" "glutamine metabolic process"
+"7" "response to aluminum ion"

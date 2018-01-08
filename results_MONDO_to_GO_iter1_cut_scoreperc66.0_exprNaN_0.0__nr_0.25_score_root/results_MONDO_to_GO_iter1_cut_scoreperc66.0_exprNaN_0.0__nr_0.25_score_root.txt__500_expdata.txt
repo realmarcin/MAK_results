@@ -1,0 +1,8 @@
+	syndromic X-linked intellectual disability Raymond type	hereditary spastic paraplegia 18	PLIN1-related familial partial lipodystrophy	DDOST-CDG	hereditary spastic paraplegia 62	"mental retardation, autosomal recessive 44"
+integral component of membrane	1.0	1.0	0.0	1.0	1.0	1.0
+membrane	1.0	1.0	0.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0	1.0	0.0
+protein complex	0.0	1.0	0.0	1.0	1.0	1.0
+cytosol	1.0	1.0	1.0	0.0	0.0	0.0
+steroid metabolic process	0.0	1.0	0.0	0.0	1.0	0.0
+ubiquitin-dependent ERAD pathway	0.0	1.0	0.0	0.0	1.0	0.0

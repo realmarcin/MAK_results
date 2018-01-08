@@ -1,0 +1,6 @@
+"x"
+"1" "combined.immunodeficiency.with.skin.granulomas"
+"2" "severe.combined.immunodeficiency..autosomal.recessive..T.cell.negative..b.cell.negative..Nk.cell.positive"
+"3" "Omenn.syndrome"
+"4" "combined.immunodeficiency.due.to.partial.RAG1.deficiency"
+"5" "severe.combined.immunodeficiency.with.sensitivity.to.ionizing.radiation"

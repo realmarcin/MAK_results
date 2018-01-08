@@ -1,0 +1,8 @@
+"x"
+"1" "STUT1"
+"2" "Hermansky.Pudlak.syndrome.2"
+"3" "hereditary.spastic.paraplegia.51"
+"4" "hereditary.spastic.paraplegia.52"
+"5" "epileptic.encephalopathy..early.infantile..48..EIEE48"
+"6" "combined.immunodeficiency.due.to.LRBA.deficiency"
+"7" "spinocerebellar.ataxia.type.2"

@@ -1,0 +1,7 @@
+"x"
+"1" "rhabdoid.tumor.predisposition.syndrome.2"
+"2" "mental.retardation..autosomal.dominant.16"
+"3" "Sifrim.Hitz.Weiss.syndrome..SIHIWES"
+"4" "rhabdoid.tumor.predisposition.syndrome.1"
+"5" "mental.retardation..autosomal.dominant.15"
+"6" "Coffin.Siris.syndrome.5..CSS5"

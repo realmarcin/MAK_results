@@ -1,0 +1,7 @@
+"x"
+"1" "tRNA-intron endonuclease activity"
+"2" "tRNA splicing, via endonucleolytic cleavage and ligation"
+"3" "tRNA-type intron splice site recognition and cleavage"
+"4" "tRNA-intron endonuclease complex"
+"5" "G-protein coupled serotonin receptor signaling pathway"
+"6" "serotonin-gated cation-selective channel activity"

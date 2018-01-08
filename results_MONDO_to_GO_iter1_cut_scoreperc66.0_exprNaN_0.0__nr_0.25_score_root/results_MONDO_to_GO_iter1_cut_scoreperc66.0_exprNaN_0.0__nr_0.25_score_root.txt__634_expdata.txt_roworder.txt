@@ -1,0 +1,6 @@
+"x"
+"1" "focal.segmental.glomerulosclerosis.5"
+"2" "Charcot.Marie.tooth.disease.dominant.intermediate.E"
+"3" "hypophosphatemic.nephrolithiasis.osteoporosis.2"
+"4" "MRX78"
+"5" "mental.retardation..X.linked.1"

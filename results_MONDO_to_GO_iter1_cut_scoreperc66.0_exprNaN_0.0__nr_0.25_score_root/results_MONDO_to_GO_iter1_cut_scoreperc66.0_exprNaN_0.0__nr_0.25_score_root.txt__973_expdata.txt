@@ -1,0 +1,7 @@
+	Bannayan-Riley-Ruvalcaba syndrome	CMM1	Cowden syndrome 1	familial multiple nevi flammei	Sturge-Weber syndrome	dopamine beta-hydroxylase deficiency	VACTERL with hydrocephalus	macrocephaly-autism syndrome	"coronary heart disease, susceptibility to, 5"	glioma susceptibility 2
+plasma membrane	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+negative regulation of apoptotic process	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+heart development	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+protein stabilization	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+maternal behavior	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

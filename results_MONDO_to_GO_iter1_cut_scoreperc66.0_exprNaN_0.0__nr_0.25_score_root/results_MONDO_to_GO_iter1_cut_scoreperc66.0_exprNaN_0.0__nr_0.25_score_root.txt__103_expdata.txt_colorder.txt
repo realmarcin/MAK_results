@@ -1,0 +1,6 @@
+"x"
+"1" "oxygen carrier activity"
+"2" "oxygen binding"
+"3" "hemoglobin complex"
+"4" "oxygen transport"
+"5" "haptoglobin binding"

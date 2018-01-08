@@ -1,0 +1,4 @@
+"x"
+"1" "hereditary.spastic.paraplegia.5A"
+"2" "congenital.bile.acid.synthesis.defect.1"
+"3" "congenital.bile.acid.synthesis.defect.3"

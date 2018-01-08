@@ -1,0 +1,7 @@
+"x"
+"1" "X.linked.distal.spinal.muscular.atrophy.type.3"
+"2" "occipital.horn.syndrome"
+"3" "Menkes.disease"
+"4" "Brunner.syndrome"
+"5" "Dopa.responsive.dystonia.due.to.sepiapterin.reductase.deficiency"
+"6" "periodic.fever..menstrual.cycle.dependent"

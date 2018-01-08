@@ -1,0 +1,8 @@
+"x"
+"1" "chromosome, centromeric region"
+"2" "kinetochore"
+"3" "cell cycle"
+"4" "chromosome"
+"5" "cell division"
+"6" "chromosome segregation"
+"7" "kinesin complex"

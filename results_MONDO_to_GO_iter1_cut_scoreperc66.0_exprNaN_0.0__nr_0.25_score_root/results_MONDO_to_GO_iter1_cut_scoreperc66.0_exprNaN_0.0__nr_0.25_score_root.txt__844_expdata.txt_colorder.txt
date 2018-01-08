@@ -1,0 +1,6 @@
+"x"
+"1" "ubiquitin binding"
+"2" "mitochondrion"
+"3" "protein ubiquitination"
+"4" "protein ubiquitination involved in ubiquitin-dependent protein catabolic process"
+"5" "ubiquitin ligase complex"

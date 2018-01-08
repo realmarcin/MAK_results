@@ -1,0 +1,9 @@
+	"cutis laxa, autosomal dominant 1"	supravalvular aortic stenosis (disease)	Williams syndrome	Keutel syndrome	familial retinal arterial macroaneurysm
+proteinaceous extracellular matrix	1.0	1.0	1.0	0.0	0.0
+extracellular matrix structural constituent	1.0	1.0	1.0	1.0	0.0
+biological_process	1.0	1.0	1.0	0.0	0.0
+mitochondrion	1.0	1.0	1.0	0.0	0.0
+skeletal muscle tissue development	1.0	1.0	1.0	0.0	0.0
+stress fiber assembly	1.0	1.0	1.0	0.0	0.0
+regulation of actin filament polymerization	1.0	1.0	1.0	0.0	0.0
+elastic fiber	1.0	1.0	1.0	0.0	0.0

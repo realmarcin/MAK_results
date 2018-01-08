@@ -1,0 +1,18 @@
+	"diabetes insipidus, nephrogenic, autosomal"	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	X-linked retinoschisis
+apoptotic process	1.0	0.0	0.0	0.0
+transport vesicle	1.0	0.0	0.0	0.0
+actin binding	1.0	0.0	0.0	0.0
+rough endoplasmic reticulum	1.0	0.0	0.0	0.0
+trans-Golgi network	1.0	0.0	0.0	0.0
+metanephric collecting duct development	1.0	0.0	0.0	0.0
+integral component of endosome membrane	1.0	0.0	0.0	0.0
+positive regulation of calcium ion transport	1.0	0.0	0.0	0.0
+actin filament depolymerization	1.0	0.0	0.0	0.0
+exocytic vesicle	1.0	0.0	0.0	0.0
+glycerol transmembrane transporter activity	1.0	0.0	0.0	0.0
+clathrin-coated vesicle	1.0	0.0	0.0	0.0
+glycerol transport	1.0	0.0	0.0	0.0
+cellular response to copper ion	1.0	0.0	0.0	0.0
+cellular response to mercury ion	1.0	0.0	0.0	0.0
+cellular response to water deprivation	1.0	0.0	0.0	0.0
+renal water transport	1.0	0.0	0.0	0.0

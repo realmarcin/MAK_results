@@ -1,0 +1,4 @@
+"x"
+"1" "isocitrate dehydrogenase (NADP+) activity"
+"2" "glyoxylate cycle"
+"3" "isocitrate dehydrogenase activity"

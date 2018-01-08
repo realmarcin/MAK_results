@@ -1,0 +1,6 @@
+"x"
+"1" "hereditary.spastic.paraplegia.63"
+"2" "pontocerebellar.hypoplasia.type.9"
+"3" "age.related.macular.degeneration.1"
+"4" "myopathy.due.to.Myoadenylate.deaminase.deficiency"
+"5" "PEHO.syndrome"

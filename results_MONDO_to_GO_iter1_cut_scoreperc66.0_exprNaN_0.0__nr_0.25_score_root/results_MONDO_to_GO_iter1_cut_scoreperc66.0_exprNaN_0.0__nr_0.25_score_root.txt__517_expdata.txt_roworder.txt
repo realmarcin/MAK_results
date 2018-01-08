@@ -1,0 +1,7 @@
+"x"
+"1" "protein.losing.enteropathy..disease."
+"2" "pyogenic.arthritis.pyoderma.gangrenosum.acne.syndrome"
+"3" "familial.hypobetalipoproteinemia.2"
+"4" "hereditary.sensory.and.autonomic.neuropathy.type.5"
+"5" "atypical.hemolytic.uremic.syndrome.with.MCP.CD46.anomaly"
+"6" "microcephaly.capillary.malformation.syndrome"

@@ -1,0 +1,10 @@
+	classic galactosemia	retinitis pigmentosa 59	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 7"	autosomal recessive limb-girdle muscular dystrophy type 2U
+brain morphogenesis	0.0	0.0	1.0	1.0
+muscle fiber development	0.0	0.0	1.0	1.0
+protein glycosylation	0.0	1.0	1.0	1.0
+isoprenoid biosynthetic process	0.0	0.0	1.0	1.0
+protein O-linked mannosylation	0.0	0.0	1.0	1.0
+regulation of protein glycosylation	0.0	0.0	1.0	1.0
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity	0.0	0.0	1.0	1.0
+cytidylyltransferase activity	0.0	0.0	1.0	1.0
+D-ribitol-5-phosphate cytidylyltransferase activity	0.0	0.0	1.0	1.0

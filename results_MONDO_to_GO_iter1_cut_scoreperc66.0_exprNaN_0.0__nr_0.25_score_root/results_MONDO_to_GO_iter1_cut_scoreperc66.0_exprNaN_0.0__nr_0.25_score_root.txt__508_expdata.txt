@@ -1,0 +1,9 @@
+	hyperprolinemia type 2	pyruvate dehydrogenase E3 deficiency	retinitis pigmentosa 46	d-2-Hydroxyglutaric aciduria 2	"epileptic encephalopathy, early infantile, 51; EIEE51"
+magnesium ion binding	0.0	0.0	1.0	1.0	0.0
+mitochondrion	1.0	1.0	1.0	1.0	1.0
+oxidation-reduction process	1.0	1.0	1.0	1.0	1.0
+oxidoreductase activity	1.0	1.0	1.0	1.0	1.0
+tricarboxylic acid cycle	0.0	0.0	1.0	1.0	1.0
+2-oxoglutarate metabolic process	0.0	1.0	1.0	0.0	0.0
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	0.0	0.0	1.0	1.0	1.0
+isocitrate metabolic process	0.0	0.0	1.0	1.0	0.0

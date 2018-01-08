@@ -1,0 +1,6 @@
+	isolated growth hormone deficiency type II	isolated growth hormone deficiency type IA	short stature due to growth hormone qualitative anomaly	osteogenesis imperfecta type 6
+growth hormone receptor binding	1.0	1.0	1.0	0.0
+positive regulation of lipid catabolic process	1.0	1.0	1.0	0.0
+growth hormone activity	1.0	1.0	1.0	0.0
+positive regulation of growth	1.0	1.0	1.0	0.0
+regulation of intracellular steroid hormone receptor signaling pathway	1.0	1.0	1.0	0.0

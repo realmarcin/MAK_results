@@ -1,0 +1,7 @@
+"x"
+"1" "forebrain dorsal/ventral pattern formation"
+"2" "forebrain development"
+"3" "axon guidance"
+"4" "neuron fate commitment"
+"5" "diencephalon development"
+"6" "telencephalon development"

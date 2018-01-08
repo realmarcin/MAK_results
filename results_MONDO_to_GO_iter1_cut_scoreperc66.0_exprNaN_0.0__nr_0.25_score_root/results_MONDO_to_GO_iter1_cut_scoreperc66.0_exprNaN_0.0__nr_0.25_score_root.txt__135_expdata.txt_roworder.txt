@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.stationary.night.blindness.autosomal.dominant.3"
+"2" "congenital.stationary.night.blindness.1G"
+"3" "achromatopsia.4"
+"4" "alcohol.dependence"
+"5" "IDDM.1"

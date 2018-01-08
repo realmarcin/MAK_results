@@ -1,0 +1,9 @@
+	"neuronopathy, distal hereditary motor, type 7A"	Christianson syndrome	creatine transporter deficiency	"autism, susceptibility to, 16"	congenital myasthenic syndrome 20
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+synapse	1.0	1.0	0.0	0.0	1.0
+early endosome	1.0	1.0	0.0	1.0	1.0
+transport	1.0	1.0	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0	1.0	1.0
+dendrite	1.0	1.0	0.0	0.0	1.0
+sodium ion transport	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "autoimmune.lymphoproliferative.syndrome.type.1"
+"2" "X.linked.central.congenital.hypothyroidism.with.late.onset.testicular.enlargement"
+"3" "systemic.lupus.erythematosus..susceptibility.to..1"
+"4" "asthma.related.Traits..susceptibility.to..1"
+"5" "Legionnaire.disease..susceptibility.to"
+"6" "melioidosis..susceptibility.to"

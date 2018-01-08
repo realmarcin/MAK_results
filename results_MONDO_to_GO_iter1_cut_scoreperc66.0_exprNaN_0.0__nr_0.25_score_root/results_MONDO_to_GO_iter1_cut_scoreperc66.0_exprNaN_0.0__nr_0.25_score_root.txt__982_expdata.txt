@@ -1,0 +1,6 @@
+	"migraine with or without aura, susceptibility to, 1"	porencephaly 1	retinal arterial tortuosity (disease)	schizencephaly	X-linked distal spinal muscular atrophy type 3	"deafness, X-linked 6"	X-linked Alport syndrome	occipital horn syndrome	Menkes disease	"asthma, susceptibility to"	gastrointestinal stromal tumor	COL4A1-related familial vascular leukoencephalopathy	idiopathic hypereosinophilic syndrome	autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome	intracerebral hemorrhage
+extracellular matrix organization	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cation transport	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+pectoral fin development	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to amino acid stimulus	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+neuromuscular junction development	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0

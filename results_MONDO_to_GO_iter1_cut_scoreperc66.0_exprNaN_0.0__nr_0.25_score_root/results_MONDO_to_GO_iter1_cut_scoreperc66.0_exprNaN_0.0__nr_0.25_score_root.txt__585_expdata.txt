@@ -1,0 +1,8 @@
+	type 1 diabetes mellitus 2	maturity-onset diabetes of the young type 10	obesity due to congenital leptin deficiency	hyperproinsulinemia
+cytoplasm	1.0	1.0	1.0	1.0
+angiogenesis	0.0	0.0	1.0	0.0
+extracellular region	1.0	1.0	1.0	1.0
+hormone activity	1.0	1.0	1.0	1.0
+glucose metabolic process	1.0	1.0	1.0	1.0
+regulation of angiogenesis	0.0	0.0	1.0	0.0
+positive regulation of pancreatic A cell differentiation	1.0	1.0	0.0	1.0

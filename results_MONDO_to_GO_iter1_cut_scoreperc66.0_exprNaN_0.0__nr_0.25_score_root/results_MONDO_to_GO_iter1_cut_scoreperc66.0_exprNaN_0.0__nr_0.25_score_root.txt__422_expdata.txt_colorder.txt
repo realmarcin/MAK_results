@@ -1,0 +1,8 @@
+"x"
+"1" "cell projection"
+"2" "smoothened signaling pathway"
+"3" "cilium"
+"4" "protein localization to cilium"
+"5" "intraciliary retrograde transport"
+"6" "intraciliary transport particle A"
+"7" "ventricular system development"

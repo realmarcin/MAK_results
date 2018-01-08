@@ -1,0 +1,7 @@
+"x"
+"1" "hyperekplexia.1"
+"2" "autosomal.dominant.nonsyndromic.deafness.41"
+"3" "platelet.type.bleeding.disorder.8"
+"4" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.c"
+"5" "X46.Xy.sex.reversal.6"
+"6" "X.linked.epilepsy.learning.disabilities.behavior.disorders.syndrome"

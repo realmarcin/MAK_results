@@ -1,0 +1,4 @@
+"x"
+"1" "Seckel.syndrome.10..SCKL10"
+"2" "lung.disease..immunodeficiency..and.chromosome.breakage.syndrome."
+"3" "microcephaly.13..primary..autosomal.recessive"

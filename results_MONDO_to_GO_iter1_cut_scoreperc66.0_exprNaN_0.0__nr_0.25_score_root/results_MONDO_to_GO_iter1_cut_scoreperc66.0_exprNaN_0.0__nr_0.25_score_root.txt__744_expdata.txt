@@ -1,0 +1,9 @@
+	"autosomal recessive cutis laxa type 2, classic type"	autosomal recessive osteopetrosis 1	Wrinkly skin syndrome	"renal tubular acidosis, distal, autosomal recessive"	cataract 18
+autophagosome	0.0	0.0	0.0	0.0	1.0
+late endosome	1.0	1.0	1.0	1.0	1.0
+unfolded protein binding	0.0	0.0	0.0	0.0	1.0
+chaperone-mediated protein folding	0.0	0.0	0.0	0.0	1.0
+protein binding involved in protein folding	0.0	0.0	0.0	0.0	1.0
+'de novo' protein folding	0.0	0.0	0.0	0.0	1.0
+positive regulation of autophagosome maturation	0.0	0.0	0.0	0.0	1.0
+plus-end-directed vesicle transport along microtubule	0.0	0.0	0.0	0.0	1.0

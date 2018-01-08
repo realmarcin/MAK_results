@@ -1,0 +1,5 @@
+	Morvan syndrome	"atrial fibrillation, familial, 7"	pseudohypoaldosteronism type 2C	Seckel syndrome 10; SCKL10
+negative regulation of kinase activity	1.0	0.0	1.0	0.0
+protein serine/threonine kinase inhibitor activity	1.0	0.0	1.0	1.0
+potassium channel inhibitor activity	1.0	1.0	1.0	0.0
+signal transduction by trans-phosphorylation	1.0	0.0	1.0	0.0

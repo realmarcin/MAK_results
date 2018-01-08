@@ -1,0 +1,7 @@
+"x"
+"1" "polyendocrine.polyneuropathy.syndrome"
+"2" "Usher.syndrome.type.1G"
+"3" "Amelocerebrohypohidrotic.syndrome"
+"4" "X.linked.intellectual.disability.cerebellar.hypoplasia.syndrome"
+"5" "autosomal.agammaglobulinemia"
+"6" "cerebellar.ataxia..mental.retardation..and.Dysequilibrium.syndrome.2"

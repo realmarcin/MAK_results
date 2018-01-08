@@ -1,0 +1,7 @@
+	Coats plus syndrome	"dyskeratosis congenita, autosomal recessive 5"	"melanoma, cutaneous malignant, susceptibility to, 10"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3"	glioma susceptibility 9	cerebroretinal microangiopathy with calcifications and cysts 2;
+G-rich single-stranded DNA binding	0.0	0.0	1.0	0.0	1.0	0.0
+CST complex	1.0	0.0	1.0	0.0	1.0	1.0
+telomere maintenance via telomere lengthening	1.0	0.0	0.0	0.0	0.0	1.0
+G-rich strand telomeric DNA binding	1.0	0.0	1.0	0.0	1.0	0.0
+telomere maintenance in response to DNA damage	0.0	1.0	1.0	1.0	1.0	0.0
+single-stranded telomeric DNA binding	0.0	0.0	1.0	0.0	1.0	1.0

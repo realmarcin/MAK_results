@@ -1,0 +1,6 @@
+"x"
+"1" "carbohydrate binding"
+"2" "hyaluronic acid binding"
+"3" "positive regulation of phagocytosis"
+"4" "calcium-dependent protein binding"
+"5" "mannose binding"

@@ -1,0 +1,9 @@
+	"ectopia lentis 2, isolated, autosomal recessive"	ectopia lentis et pupillae	Geleophysic dysplasia 1	Keutel syndrome	familial retinal arterial macroaneurysm
+apoptotic process	1.0	1.0	0.0	0.0	0.0
+proteinaceous extracellular matrix	1.0	1.0	1.0	0.0	0.0
+epithelial cell development	1.0	1.0	0.0	0.0	0.0
+extracellular region	1.0	1.0	1.0	1.0	1.0
+positive regulation of apoptotic process	1.0	1.0	0.0	0.0	0.0
+peptidase activity	1.0	1.0	1.0	0.0	0.0
+extracellular matrix organization	1.0	1.0	1.0	0.0	0.0
+interstitial matrix	1.0	1.0	0.0	0.0	0.0

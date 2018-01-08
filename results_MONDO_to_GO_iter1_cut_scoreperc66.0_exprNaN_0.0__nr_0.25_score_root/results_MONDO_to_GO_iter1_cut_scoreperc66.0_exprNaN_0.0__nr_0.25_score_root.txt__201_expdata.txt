@@ -1,0 +1,9 @@
+	Weaver syndrome	congenital insensitivity to pain-hypohidrosis syndrome	"dystonia 28, childhood-onset; DYT28"
+transferase activity	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0
+DNA binding	0.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0
+metal ion binding	0.0	1.0	1.0
+methyltransferase activity	1.0	1.0	1.0
+methylation	1.0	1.0	1.0

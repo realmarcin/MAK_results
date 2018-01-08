@@ -1,0 +1,5 @@
+"x"
+"1" "type.1.diabetes.mellitus.10"
+"2" "immunodeficiency.due.to.CD25.deficiency"
+"3" "Adams.Oliver.syndrome.3"
+"4" "Senior.Loken.syndrome.9..SLSN9"

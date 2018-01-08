@@ -1,0 +1,6 @@
+"x"
+"1" "ventriculomegaly.cystic.kidney.disease"
+"2" "focal.segmental.glomerulosclerosis.9"
+"3" "early.infantile.epileptic.encephalopathy.9"
+"4" "ectodermal.dysplasia.11A..hypohidrotic.hair.tooth.type..autosomal.dominant"
+"5" "ectodermal.dysplasia.11B..hypohidrotic.hair.tooth.type..autosomal.recessive"

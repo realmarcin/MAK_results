@@ -1,0 +1,6 @@
+	hereditary breast carcinoma	colorectal adenocarcinoma	lymphedema-distichiasis syndrome	ovarian cancer	Proteus syndrome	schizophrenia (disease)	Cowden syndrome 6
+positive regulation of I-kappaB phosphorylation	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+response to hormone	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+insulin receptor signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+insulin-like growth factor receptor signaling pathway	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+protein phosphatase 2A binding	1.0	1.0	0.0	1.0	1.0	1.0	1.0

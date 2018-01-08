@@ -1,0 +1,5 @@
+"x"
+"1" "Borjeson.Forssman.Lehmann.syndrome"
+"2" "blepharophimosis.intellectual.disability.syndrome..SBBYS.type"
+"3" "Genitopatellar.syndrome"
+"4" "autosomal.dominant.intellectual.disability.craniofacial.anomalies.cardiac.defects.syndrome"

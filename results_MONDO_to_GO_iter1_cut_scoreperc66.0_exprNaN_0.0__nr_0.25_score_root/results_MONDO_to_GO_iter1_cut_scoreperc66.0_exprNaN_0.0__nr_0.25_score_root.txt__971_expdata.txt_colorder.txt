@@ -1,0 +1,7 @@
+"x"
+"1" "transferase activity, transferring glycosyl groups"
+"2" "protein N-linked glycosylation via asparagine"
+"3" "oligosaccharide metabolic process"
+"4" "glycosphingolipid biosynthetic process"
+"5" "lactosylceramide alpha-2,3-sialyltransferase activity"
+"6" "sialyltransferase activity"

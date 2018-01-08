@@ -1,0 +1,7 @@
+	"distal myopathy, Welander type"	autosomal dominant limb-girdle muscular dystrophy type 1G	ANE syndrome	inclusion body myopathy with early-onset Paget disease With or without frontotemporal dementia 3	amyotrophic lateral sclerosis type 20
+cellular_component	1.0	0.0	1.0	1.0	1.0
+intracellular ribonucleoprotein complex	0.0	1.0	0.0	1.0	1.0
+RNA binding	1.0	1.0	1.0	1.0	1.0
+nucleic acid binding	1.0	1.0	1.0	1.0	1.0
+viral nucleocapsid	0.0	1.0	0.0	1.0	1.0
+virion	0.0	1.0	0.0	1.0	1.0

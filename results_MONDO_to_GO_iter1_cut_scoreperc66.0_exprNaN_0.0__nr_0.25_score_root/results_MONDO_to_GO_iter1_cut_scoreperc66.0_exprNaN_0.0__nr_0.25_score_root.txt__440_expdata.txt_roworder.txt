@@ -1,0 +1,6 @@
+"x"
+"1" "osteogenesis.imperfecta.type.6"
+"2" "autosomal.dominant.nonsyndromic.deafness.9"
+"3" "Properdin.deficiency"
+"4" "complement.component.6.deficiency"
+"5" "complement.component.7.deficiency"

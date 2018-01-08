@@ -1,0 +1,5 @@
+"x"
+"1" "Bloom.syndrome"
+"2" "Kabuki.syndrome.1"
+"3" "xeroderma.pigmentosum.group.C"
+"4" "chronic.atrial.and.intestinal.dysrhythmia"

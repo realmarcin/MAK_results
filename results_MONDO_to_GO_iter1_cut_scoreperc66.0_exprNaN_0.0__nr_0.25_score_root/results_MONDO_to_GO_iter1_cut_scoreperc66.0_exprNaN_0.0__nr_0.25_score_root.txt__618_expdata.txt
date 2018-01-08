@@ -1,0 +1,10 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	Tay-Sachs disease AB variant	mucopolysaccharidosis type 2	"autoimmune disease, susceptibility to, 6"
+lysosome	1.0	1.0	1.0	1.0	1.0
+metabolic process	0.0	0.0	0.0	1.0	0.0
+smoothened signaling pathway	0.0	0.0	0.0	1.0	0.0
+cartilage morphogenesis	0.0	0.0	0.0	1.0	0.0
+negative regulation of transforming growth factor beta receptor signaling pathway	0.0	0.0	0.0	1.0	0.0
+chordate embryonic development	0.0	0.0	0.0	1.0	0.0
+heart trabecula formation	0.0	0.0	0.0	1.0	0.0
+canonical Wnt signaling pathway involved in heart development	0.0	0.0	0.0	1.0	0.0
+iduronate-2-sulfatase activity	0.0	0.0	0.0	1.0	0.0

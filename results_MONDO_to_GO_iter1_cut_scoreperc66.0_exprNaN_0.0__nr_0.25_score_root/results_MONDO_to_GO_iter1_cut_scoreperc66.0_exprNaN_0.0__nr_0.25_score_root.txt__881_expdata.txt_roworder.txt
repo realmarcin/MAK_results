@@ -1,0 +1,5 @@
+"x"
+"1" "van.Maldergem.syndrome.2"
+"2" "Hennekam.lymphangiectasia.lymphedema.syndrome.2"
+"3" "ectodermal.dysplasia.11A..hypohidrotic.hair.tooth.type..autosomal.dominant"
+"4" "ectodermal.dysplasia.11B..hypohidrotic.hair.tooth.type..autosomal.recessive"

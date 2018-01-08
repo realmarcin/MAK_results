@@ -1,0 +1,4 @@
+"x"
+"1" "retinitis.pigmentosa.35"
+"2" "cone.rod.dystrophy.10"
+"3" "lethal.congenital.contracture.syndrome.11..LCCS11"

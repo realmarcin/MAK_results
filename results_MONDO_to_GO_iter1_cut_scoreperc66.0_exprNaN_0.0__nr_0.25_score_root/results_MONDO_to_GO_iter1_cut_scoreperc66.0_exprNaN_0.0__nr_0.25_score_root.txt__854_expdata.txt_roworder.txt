@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.adrenal.hyperplasia.due.to.3.beta.hydroxysteroid.dehydrogenase.deficiency"
+"2" "Antley.Bixler.syndrome.with.genital.anomalies.and.Disordered.steroidogenesis"
+"3" "Antley.Bixler.syndrome"
+"4" "congenital.adrenal.hyperplasia.due.to.cytochrome.P450.oxidoreductase.deficiency"

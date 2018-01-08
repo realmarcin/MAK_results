@@ -1,0 +1,9 @@
+	mastocytosis	piebaldism	isolated spina bifida	testicular germ cell tumor	gastrointestinal stromal tumor	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency
+pigmentation	1.0	1.0	1.0	1.0	1.0	0.0
+cytokine-mediated signaling pathway	1.0	1.0	1.0	1.0	1.0	0.0
+regulation of cell shape	1.0	1.0	1.0	1.0	1.0	0.0
+chemotaxis	1.0	1.0	1.0	1.0	1.0	0.0
+somatic stem cell division	1.0	1.0	1.0	1.0	1.0	0.0
+cytokine binding	1.0	1.0	0.0	1.0	1.0	1.0
+cellular respiration	0.0	0.0	0.0	0.0	0.0	0.0
+electron transport chain	0.0	0.0	0.0	0.0	0.0	0.0

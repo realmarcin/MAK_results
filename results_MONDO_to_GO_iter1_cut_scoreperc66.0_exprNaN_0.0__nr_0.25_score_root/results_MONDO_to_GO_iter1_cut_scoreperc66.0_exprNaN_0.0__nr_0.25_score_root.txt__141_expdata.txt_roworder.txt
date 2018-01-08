@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.generalized.lipodystrophy.type.2"
+"2" "hereditary.spastic.paraplegia.17"
+"3" "severe.neurodegenerative.syndrome.with.lipodystrophy"
+"4" "autosomal.recessive.congenital.ichthyosis.8"

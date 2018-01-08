@@ -1,0 +1,6 @@
+	Sanfilippo syndrome type A	Bartter disease type 1	Hurler syndrome	Hurler-Scheie syndrome	Scheie syndrome
+glycosaminoglycan catabolic process	1.0	0.0	1.0	1.0	1.0
+chemical homeostasis	0.0	1.0	1.0	1.0	1.0
+coated vesicle	0.0	0.0	1.0	1.0	1.0
+dermatan sulfate catabolic process	0.0	0.0	1.0	1.0	1.0
+L-iduronidase activity	0.0	0.0	1.0	1.0	1.0

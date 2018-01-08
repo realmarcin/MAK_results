@@ -1,0 +1,7 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	mucolipidosis type IV	Carey-Fineman-Ziter  syndrome	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"	combined immunodeficiency due to LRBA deficiency	Carpenter syndrome 2	severe congenital hypochromic anemia with ringed sideroblasts
+signal transduction	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+trans-Golgi network	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+cellular response to leukemia inhibitory factor	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+protein kinase A binding	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

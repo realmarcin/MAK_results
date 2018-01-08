@@ -1,0 +1,5 @@
+	"myopathy, proximal, and ophthalmoplegia"	"celiac disease, susceptibility to, 4"	hypertrophic cardiomyopathy 11	atrial heart septal defect 5	dilated cardiomyopathy 1R
+actomyosin structure organization	0.0	0.0	1.0	1.0	1.0
+actin-mediated cell contraction	1.0	0.0	1.0	1.0	1.0
+actin-myosin filament sliding	0.0	1.0	1.0	1.0	1.0
+"actomyosin, actin portion"	0.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+	amyotrophic lateral sclerosis-parkinsonism-dementia complex	X-linked epilepsy-learning disabilities-behavior disorders syndrome	autosomal recessive nonsyndromic deafness 9	autosomal dominant nonsyndromic deafness 25	catecholaminergic polymorphic ventricular tachycardia 4	congenital myasthenic syndrome 7	long QT syndrome 14	encephalopathy due to defective mitochondrial and peroxisomal fission 2; EMPF2
+apical part of cell	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+endocytosis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+synaptic vesicle membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+clathrin binding	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

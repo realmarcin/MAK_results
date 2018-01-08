@@ -1,0 +1,7 @@
+	autosomal dominant osteopetrosis 2	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome	"epilepsy, idiopathic generalized, susceptibility to, 11"	"epilepsy, childhood absence, susceptibility to, 2"	"generalized epilepsy with febrile seizures plus, type 3"	autosomal recessive osteopetrosis 4	leukoencephalopathy with mild cerebellar ataxia and white matter edema	autosomal recessive nonsyndromic deafness 103
+protein homodimerization activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ion channel activity	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+chloride transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of T cell proliferation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

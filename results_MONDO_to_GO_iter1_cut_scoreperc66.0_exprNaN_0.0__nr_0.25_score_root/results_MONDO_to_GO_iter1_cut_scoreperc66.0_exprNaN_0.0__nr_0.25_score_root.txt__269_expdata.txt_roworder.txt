@@ -1,0 +1,7 @@
+"x"
+"1" "systemic.lupus.erythematosus..disease."
+"2" "rheumatoid.arthritis"
+"3" "IDDM.1"
+"4" "hereditary.pediatric.BehC.et.like.disease"
+"5" "carnitine.acylcarnitine.translocase.deficiency"
+"6" "systemic.primary.carnitine.deficiency.disease"

@@ -1,0 +1,10 @@
+	helicoid peripapillary chorioretinal degeneration	hereditary thrombocytopenia with normal platelets-hematological cancer predisposition syndrome	"mental retardation, autosomal dominant 20"	vesicoureteral reflux 3	lamb-Shaffer syndrome; LAMSHF
+cellular response to transforming growth factor beta stimulus	0.0	1.0	1.0	0.0	1.0
+"transcription factor activity, RNA polymerase II transcription factor recruiting"	1.0	0.0	0.0	0.0	1.0
+positive regulation of cartilage development	0.0	0.0	0.0	0.0	1.0
+nuclear transcription factor complex	0.0	0.0	0.0	1.0	1.0
+positive regulation of mesenchymal stem cell differentiation	0.0	0.0	0.0	0.0	1.0
+cellular response to osmotic stress	0.0	0.0	0.0	0.0	1.0
+negative regulation of transcription from RNA polymerase II promoter in response to stress	0.0	0.0	0.0	0.0	1.0
+asymmetric neuroblast division	0.0	0.0	0.0	0.0	1.0
+regulation of timing of neuron differentiation	0.0	0.0	0.0	0.0	1.0

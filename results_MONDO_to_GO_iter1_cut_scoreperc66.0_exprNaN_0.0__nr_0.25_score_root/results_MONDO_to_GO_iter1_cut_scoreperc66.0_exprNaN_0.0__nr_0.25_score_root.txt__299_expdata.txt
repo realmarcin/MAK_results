@@ -1,0 +1,7 @@
+	spinocerebellar ataxia type 31	"Ehlers-Danlos syndrome, periodontitis type"	Alstrom syndrome	complement component C1R/C1S deficiency	"methylmalonic acidemia with homocystinuria, type cblX"	"hypotonia, infantile, with psychomotor retardation and characteristic facies 2; IHPRF2"
+integral component of membrane	1.0	0.0	0.0	0.0	0.0	1.0
+membrane	1.0	0.0	0.0	0.0	0.0	1.0
+protein binding	1.0	0.0	0.0	0.0	0.0	1.0
+pancreas regeneration	0.0	0.0	1.0	0.0	0.0	0.0
+biological_process	1.0	1.0	0.0	1.0	1.0	1.0
+cellular_component	1.0	1.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	autosomal recessive nonsyndromic deafness 31	autosomal recessive nonsyndromic deafness 59	Usher syndrome type 2D	autosomal recessive nonsyndromic deafness 79	autosomal recessive nonsyndromic deafness 101
+sensory perception of sound	1.0	1.0	1.0	1.0	1.0
+neuronal cell body	1.0	1.0	1.0	0.0	0.0
+photoreceptor inner segment	1.0	0.0	1.0	0.0	0.0
+sensory perception of light stimulus	1.0	0.0	1.0	0.0	0.0
+phosphatase binding	0.0	0.0	0.0	1.0	0.0
+photoreceptor connecting cilium	1.0	0.0	1.0	0.0	0.0

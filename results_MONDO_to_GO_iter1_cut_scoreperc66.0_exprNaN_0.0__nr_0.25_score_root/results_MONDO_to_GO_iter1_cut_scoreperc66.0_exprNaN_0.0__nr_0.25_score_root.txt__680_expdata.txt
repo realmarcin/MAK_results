@@ -1,0 +1,8 @@
+	abetalipoproteinemia	metabolic syndrome X	hereditary spastic paraplegia 18	congenital adrenal insufficiency	LIPE-related familial partial lipodystrophy
+lipid metabolic process	1.0	1.0	1.0	1.0	1.0
+sterol biosynthetic process	0.0	0.0	0.0	0.0	0.0
+cholesterol metabolic process	1.0	1.0	1.0	1.0	1.0
+steroid metabolic process	1.0	1.0	1.0	1.0	1.0
+cholesterol binding	0.0	0.0	1.0	1.0	0.0
+cholesterol biosynthetic process	0.0	0.0	0.0	0.0	0.0
+plasma lipoprotein particle assembly	1.0	1.0	0.0	0.0	0.0

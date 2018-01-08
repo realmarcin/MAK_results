@@ -1,0 +1,13 @@
+	X-linked intellectual disability-psychosis-macroorchidism syndrome	syndromic X-linked intellectual disability Lubs type	"autism, susceptibility to, X-linked 3"	severe neonatal-onset encephalopathy with microcephaly	Rett syndrome	"nephrolithiasis, Uric acid, susceptibility to"
+negative regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0	1.0	0.0
+cytosol	1.0	1.0	1.0	1.0	1.0	0.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	0.0
+DNA binding	1.0	1.0	1.0	1.0	1.0	0.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	0.0
+locomotory behavior	1.0	1.0	1.0	1.0	1.0	0.0
+regulation of neuron differentiation	1.0	1.0	1.0	1.0	1.0	0.0
+centrosome	1.0	1.0	1.0	1.0	1.0	0.0
+response to radiation	1.0	1.0	1.0	1.0	1.0	0.0
+heterochromatin	1.0	1.0	1.0	1.0	1.0	0.0
+double-stranded methylated DNA binding	1.0	1.0	1.0	1.0	1.0	0.0
+methyl-CpG binding	1.0	1.0	1.0	1.0	1.0	0.0

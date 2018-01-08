@@ -1,0 +1,7 @@
+"x"
+"1" "thyroid.dyshormonogenesis.3"
+"2" "autoimmune.thyroid.disease..susceptibility.to..3"
+"3" "familial.thyroid.dyshormonogenesis"
+"4" "Bamforth.Lazarus.syndrome"
+"5" "thyroid.dyshormonogenesis.2A"
+"6" "thyroid.cancer..nonmedullary..4"

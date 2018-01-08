@@ -1,0 +1,6 @@
+"x"
+"1" "autosomal.dominant.familial.periodic.fever"
+"2" "multiple.sclerosis..susceptibility.to..5"
+"3" "autoimmune.lymphoproliferative.syndrome.type.1"
+"4" "leprosy..susceptibility.to..5"
+"5" "autoimmune.lymphoproliferative.syndrome.type.2B"

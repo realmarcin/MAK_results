@@ -1,0 +1,4 @@
+	familial erythrocytosis 1	Frank-Ter Haar syndrome	primary myelofibrosis	polycythemia vera	"mental retardation, X-linked 96"	Budd-Chiari syndrome	"Paget disease of bone 2, early-onset"	thrombocythemia 3	reticulate acropigmentation of Kitamura	Alzheimer's disease 18
+response to tumor necrosis factor	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+SH2 domain binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+activation of MAPKK activity	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0

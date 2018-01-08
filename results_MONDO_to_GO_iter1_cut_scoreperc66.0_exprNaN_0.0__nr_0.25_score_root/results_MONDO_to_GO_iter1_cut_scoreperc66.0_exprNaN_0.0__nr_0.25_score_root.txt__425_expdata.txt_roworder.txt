@@ -1,0 +1,6 @@
+"x"
+"1" "fragile.X.associated.tremor.ataxia.syndrome"
+"2" "fragile.X.syndrome"
+"3" "premature.ovarian.failure.1"
+"4" "Richieri.Costa.Pereira.syndrome"
+"5" "mental.retardation..X.linked.102"

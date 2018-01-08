@@ -1,0 +1,7 @@
+"x"
+"1" "myeloproliferative.disorder..chronic..with.eosinophilia"
+"2" "myofibromatosis..infantile..1"
+"3" "acroosteolysis.keloid.like.lesions.premature.aging.syndrome"
+"4" "basal.ganglia.calcification..idiopathic..4"
+"5" "skeletal.overgrowth.craniofacial.dysmorphism.hyperelastic.skin.white.matter.lesions.syndrome"
+"6" "familial.erythrocytosis.1"

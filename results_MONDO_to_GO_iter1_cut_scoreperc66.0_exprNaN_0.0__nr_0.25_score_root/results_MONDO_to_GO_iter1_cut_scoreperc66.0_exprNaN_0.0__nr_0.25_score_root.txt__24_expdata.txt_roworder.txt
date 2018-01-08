@@ -1,0 +1,4 @@
+"x"
+"1" "Leber.congenital.amaurosis.2"
+"2" "retinitis.pigmentosa.20"
+"3" "retinitis.pigmentosa.27"

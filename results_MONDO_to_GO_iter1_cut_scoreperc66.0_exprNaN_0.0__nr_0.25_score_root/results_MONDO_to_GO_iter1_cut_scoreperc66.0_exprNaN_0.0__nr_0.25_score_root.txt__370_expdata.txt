@@ -1,0 +1,12 @@
+	Schnyder corneal dystrophy	multiple congenital anomalies-hypotonia-seizures syndrome 1	hyperphosphatasia with mental retardation syndrome 2	"mental retardation, autosomal recessive 53; MRT53"
+integral component of membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+protein binding	0.0	0.0	1.0	0.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0
+metabolic process	0.0	1.0	1.0	1.0
+catalytic activity	0.0	1.0	1.0	1.0
+endoplasmic reticulum membrane	1.0	1.0	1.0	1.0
+"transferase activity, transferring phosphorus-containing groups"	0.0	0.0	1.0	0.0
+cell wall organization	0.0	1.0	1.0	0.0
+mannose-ethanolamine phosphotransferase activity	0.0	1.0	1.0	1.0
+"phosphotransferase activity, for other substituted phosphate groups"	0.0	1.0	1.0	0.0

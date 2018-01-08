@@ -1,0 +1,6 @@
+"x"
+"1" "three.M.syndrome.3"
+"2" "absence.deformity.of.leg.cataract.syndrome"
+"3" "mast.syndrome"
+"4" "mental.retardation..X.linked..syndromic..Bain.type..MRXSB"
+"5" "spinocerebellar.ataxia.type.35"

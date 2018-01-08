@@ -1,0 +1,6 @@
+"x"
+"1" "pilomatrixoma"
+"2" "medulloblastoma"
+"3" "severe.intellectual.disability.progressive.spastic.diplegia.syndrome"
+"4" "SPOAN.syndrome"
+"5" "advanced.sleep.phase.syndrome.2"

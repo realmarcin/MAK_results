@@ -1,0 +1,11 @@
+	autosomal dominant familial periodic fever	autoimmune lymphoproliferative syndrome type 1	autoimmune lymphoproliferative syndrome type 2B	"leprosy, susceptibility to, 5"	"multiple sclerosis, susceptibility to, 5"
+positive regulation of neuron apoptotic process	1.0	1.0	0.0	0.0	1.0
+membrane raft	1.0	1.0	1.0	1.0	1.0
+negative regulation of apoptotic process	1.0	1.0	0.0	0.0	1.0
+protein complex binding	1.0	1.0	1.0	0.0	1.0
+mitochondrion	1.0	1.0	1.0	0.0	1.0
+inflammatory response	1.0	1.0	0.0	1.0	1.0
+positive regulation of inflammatory response	1.0	0.0	0.0	1.0	1.0
+protease binding	1.0	1.0	0.0	0.0	1.0
+defense response	1.0	0.0	0.0	1.0	1.0
+tumor necrosis factor binding	1.0	1.0	0.0	0.0	1.0

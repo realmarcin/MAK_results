@@ -1,0 +1,6 @@
+	retinitis pigmentosa 1	"microcephaly 6, primary, autosomal recessive"	"microcephaly 7, primary, autosomal recessive"	Seckel syndrome 4	orofaciodigital syndrome type 14
+microtubule polymerization	1.0	1.0	0.0	1.0	0.0
+mitotic spindle pole body duplication	0.0	1.0	0.0	1.0	0.0
+astral microtubule nucleation	0.0	1.0	0.0	1.0	0.0
+centriole elongation	0.0	1.0	0.0	1.0	1.0
+regulation of centriole replication	0.0	1.0	1.0	1.0	0.0

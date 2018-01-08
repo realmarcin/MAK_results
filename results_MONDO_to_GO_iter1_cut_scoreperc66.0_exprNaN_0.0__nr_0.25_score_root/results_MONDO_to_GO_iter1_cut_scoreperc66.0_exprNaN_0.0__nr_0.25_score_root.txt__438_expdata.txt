@@ -1,0 +1,8 @@
+	alpha-2-plasmin inhibitor deficiency	congenital plasminogen activator inhibitor type 1 deficiency	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+extracellular exosome	1.0	1.0	0.0	0.0
+negative regulation of peptidase activity	1.0	1.0	1.0	1.0
+serine-type endopeptidase inhibitor activity	1.0	1.0	1.0	0.0
+peptidase inhibitor activity	1.0	1.0	1.0	1.0
+positive regulation of collagen biosynthetic process	1.0	1.0	1.0	0.0
+negative regulation of fibrinolysis	1.0	1.0	0.0	0.0
+negative regulation of plasminogen activation	1.0	1.0	0.0	0.0

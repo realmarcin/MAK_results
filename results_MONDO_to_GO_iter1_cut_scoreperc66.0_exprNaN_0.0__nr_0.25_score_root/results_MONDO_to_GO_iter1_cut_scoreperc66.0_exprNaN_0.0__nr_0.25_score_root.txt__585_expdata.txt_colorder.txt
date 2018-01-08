@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "extracellular region"
+"3" "hormone activity"
+"4" "glucose metabolic process"
+"5" "positive regulation of pancreatic A cell differentiation"
+"6" "angiogenesis"
+"7" "regulation of angiogenesis"

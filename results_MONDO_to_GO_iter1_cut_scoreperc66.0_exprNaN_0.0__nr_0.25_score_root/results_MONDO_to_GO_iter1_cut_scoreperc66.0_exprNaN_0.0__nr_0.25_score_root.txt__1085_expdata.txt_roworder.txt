@@ -1,0 +1,6 @@
+"x"
+"1" "retinitis.pigmentosa"
+"2" "Bardet.Biedl.syndrome.3"
+"3" "retinitis.pigmentosa.55"
+"4" "Cayman.type.cerebellar.ataxia"
+"5" "X3.methylglutaconic.aciduria.with.cataracts..neurologic.involvement.and.neutropenia"

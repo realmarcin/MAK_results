@@ -1,0 +1,6 @@
+"x"
+"1" "autolysosome"
+"2" "autophagosome"
+"3" "inclusion body"
+"4" "K63-linked polyubiquitin modification-dependent protein binding"
+"5" "regulation of I-kappaB kinase/NF-kappaB signaling"

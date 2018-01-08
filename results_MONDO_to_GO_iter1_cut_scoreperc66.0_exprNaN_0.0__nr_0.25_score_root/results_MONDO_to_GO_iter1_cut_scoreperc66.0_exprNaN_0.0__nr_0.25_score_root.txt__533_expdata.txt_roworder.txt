@@ -1,0 +1,7 @@
+"x"
+"1" "neurofibromatosis.type.1"
+"2" "neurofibromatosis..familial.spinal"
+"3" "Watson.syndrome"
+"4" "neurofibromatosis.Noonan.syndrome"
+"5" "juvenile.myelomonocytic.leukemia"
+"6" "hereditary.sensory.and.autonomic.neuropathy.type.5"

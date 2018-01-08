@@ -1,0 +1,9 @@
+	chromosome Xq28 duplication syndrome	spinocerebellar ataxia type 26	combined oxidative phosphorylation defect type 23	"mental retardation, autosomal dominant 38"	"epileptic encephalopathy, early infantile, 33"	"epileptic encephalopathy, early infantile, 40; EIEE40"
+nucleotide binding	1.0	1.0	1.0	1.0	1.0	1.0
+GTP binding	1.0	1.0	1.0	1.0	1.0	1.0
+intracellular	1.0	0.0	1.0	1.0	1.0	0.0
+protein kinase binding	0.0	1.0	0.0	1.0	1.0	0.0
+translation	0.0	1.0	0.0	1.0	1.0	1.0
+ribosome binding	0.0	1.0	0.0	1.0	1.0	1.0
+translational elongation	0.0	1.0	0.0	1.0	1.0	0.0
+translation elongation factor activity	0.0	1.0	0.0	1.0	1.0	0.0

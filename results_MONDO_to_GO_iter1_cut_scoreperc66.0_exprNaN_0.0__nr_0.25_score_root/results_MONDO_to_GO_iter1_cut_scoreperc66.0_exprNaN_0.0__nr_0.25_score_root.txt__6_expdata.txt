@@ -1,0 +1,5 @@
+	"neuronopathy, distal hereditary motor, type 5A"	Charcot-Marie-tooth disease type 2D	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal dominant 4"
+bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity	1.0	1.0	0.0
+mitochondrial glycyl-tRNA aminoacylation	1.0	1.0	1.0
+glycine-tRNA ligase activity	1.0	1.0	1.0
+glycyl-tRNA aminoacylation	1.0	1.0	0.0

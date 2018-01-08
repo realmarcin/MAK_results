@@ -1,0 +1,5 @@
+"x"
+"1" "oligosaccharide metabolic process"
+"2" "glycoside catabolic process"
+"3" "glycosylceramide catabolic process"
+"4" "alpha-galactosidase activity"

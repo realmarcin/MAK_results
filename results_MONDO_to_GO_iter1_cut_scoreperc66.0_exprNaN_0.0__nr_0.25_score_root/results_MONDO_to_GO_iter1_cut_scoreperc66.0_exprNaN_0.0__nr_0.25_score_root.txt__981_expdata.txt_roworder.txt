@@ -1,0 +1,5 @@
+"x"
+"1" "pontocerebellar.hypoplasia.type.10"
+"2" "X3.hydroxy.3.methylglutaryl.CoA.synthase.deficiency"
+"3" "POROK7"
+"4" "porokeratosis.9..multiple.types..POROK9"

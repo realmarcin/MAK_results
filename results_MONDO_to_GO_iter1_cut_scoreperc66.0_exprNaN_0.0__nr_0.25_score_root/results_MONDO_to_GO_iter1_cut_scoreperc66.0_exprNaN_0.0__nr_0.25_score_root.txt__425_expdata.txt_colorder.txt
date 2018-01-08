@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "nucleus"
+"3" "mRNA binding"
+"4" "RNA binding"
+"5" "nucleic acid binding"
+"6" "negative regulation of translation"
+"7" "polysome"

@@ -1,0 +1,8 @@
+	mullerian aplasia and hyperandrogenism	SERKAL syndrome	premature ovarian failure 7	"46,XY sex reversal 3"	spermatogenic failure 8
+cell differentiation	1.0	1.0	1.0	1.0	1.0
+"positive regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+female gonad development	1.0	1.0	1.0	1.0	1.0
+male gonad development	1.0	1.0	1.0	1.0	1.0
+hormone-mediated signaling pathway	0.0	0.0	1.0	1.0	1.0
+calcineurin-mediated signaling	0.0	0.0	1.0	1.0	1.0
+hormone metabolic process	1.0	1.0	1.0	1.0	1.0

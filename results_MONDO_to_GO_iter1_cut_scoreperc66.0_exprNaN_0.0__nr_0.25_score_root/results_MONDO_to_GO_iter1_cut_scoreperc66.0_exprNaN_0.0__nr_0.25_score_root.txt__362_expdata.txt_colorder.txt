@@ -1,0 +1,6 @@
+"x"
+"1" "ATP-dependent 3'-5' DNA helicase activity"
+"2" "DNA duplex unwinding"
+"3" "four-way junction helicase activity"
+"4" "telomeric D-loop binding"
+"5" "telomeric D-loop disassembly"

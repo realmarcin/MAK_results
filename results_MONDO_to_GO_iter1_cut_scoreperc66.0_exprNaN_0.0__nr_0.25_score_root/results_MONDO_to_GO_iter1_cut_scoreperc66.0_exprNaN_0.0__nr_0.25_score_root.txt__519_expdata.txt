@@ -1,0 +1,8 @@
+	X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome	X-linked intellectual disability-short stature-overweight syndrome	syndromic X-linked intellectual disability 34	"trichothiodystrophy 3, photosensitive"	facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation
+nucleus	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	0.0	0.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+cellular response to DNA damage stimulus	1.0	0.0	1.0	1.0	1.0
+DNA repair	1.0	0.0	1.0	1.0	0.0
+innate immune response	1.0	0.0	1.0	0.0	0.0

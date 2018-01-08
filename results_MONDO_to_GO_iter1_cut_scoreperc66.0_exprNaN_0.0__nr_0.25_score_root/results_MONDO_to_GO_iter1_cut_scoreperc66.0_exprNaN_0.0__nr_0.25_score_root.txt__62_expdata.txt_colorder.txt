@@ -1,0 +1,5 @@
+"x"
+"1" "vesicle targeting"
+"2" "myosin II complex"
+"3" "actomyosin contractile ring assembly"
+"4" "myosin II heavy chain binding"

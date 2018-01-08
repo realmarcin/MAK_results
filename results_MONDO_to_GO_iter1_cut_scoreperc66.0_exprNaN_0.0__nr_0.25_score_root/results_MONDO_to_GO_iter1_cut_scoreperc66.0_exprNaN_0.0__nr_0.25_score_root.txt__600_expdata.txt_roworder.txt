@@ -1,0 +1,5 @@
+"x"
+"1" "nasopharyngeal.carcinoma..susceptibility.to..3..NPCA3"
+"2" "amyotrophic.lateral.sclerosis.parkinsonism.dementia.complex"
+"3" "pulmonary.capillary.hemangiomatosis"
+"4" "Wolcott.Rallison.syndrome"

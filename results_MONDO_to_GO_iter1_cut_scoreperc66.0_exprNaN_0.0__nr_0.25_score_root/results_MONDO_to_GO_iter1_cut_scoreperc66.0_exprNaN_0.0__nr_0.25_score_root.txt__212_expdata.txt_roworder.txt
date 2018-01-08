@@ -1,0 +1,7 @@
+"x"
+"1" "absence.of.fingerprints.congenital.milia.syndrome"
+"2" "isolated.congenital.adermatoglyphia"
+"3" "childhood.onset.epileptic.encephalopathy"
+"4" "atrial.fibrillation..familial..15"
+"5" "X.linked.colobomatous.microphthalmia.microcephaly.intellectual.disability.short.stature.syndrome"
+"6" "advanced.sleep.phase.syndrome.1"

@@ -1,0 +1,7 @@
+"x"
+"1" "DNA replication"
+"2" "ATP-dependent helicase activity"
+"3" "telomeric D-loop disassembly"
+"4" "DNA polymerase binding"
+"5" "replication fork processing"
+"6" "mitotic telomere maintenance via semi-conservative replication"

@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.dominant.pseudohypoaldosteronism.type.1"
+"2" "Pseudohyperaldosteronism.type.2"
+"3" "nephrotic.syndrome..type.2"
+"4" "Bartter.disease.type.1"

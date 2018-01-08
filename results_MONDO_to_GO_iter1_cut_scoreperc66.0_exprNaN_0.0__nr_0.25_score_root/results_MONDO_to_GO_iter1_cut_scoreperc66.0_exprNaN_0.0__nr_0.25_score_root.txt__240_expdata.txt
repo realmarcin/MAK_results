@@ -1,0 +1,9 @@
+	"hypoparathyroidism, familial isolated"	obesity (disease)	"Parkinson disease 18, autosomal dominant, susceptibility to"	"autism, susceptibility to, 19"
+cellular macromolecule biosynthetic process	1.0	0.0	1.0	0.0
+positive regulation of energy homeostasis	0.0	1.0	1.0	0.0
+regulation of polysome binding	0.0	0.0	1.0	0.0
+eukaryotic translation initiation factor 4F complex	0.0	0.0	1.0	1.0
+positive regulation of miRNA mediated inhibition of translation	0.0	0.0	1.0	0.0
+positive regulation of eukaryotic translation initiation factor 4F complex assembly	0.0	0.0	1.0	0.0
+eukaryotic initiation factor 4E binding	0.0	0.0	1.0	0.0
+positive regulation of mRNA cap binding	0.0	0.0	1.0	0.0

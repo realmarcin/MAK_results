@@ -1,0 +1,7 @@
+	seborrheic keratosis	megalencephaly-capillary malformation-polymicrogyria syndrome	palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome	CLOVES syndrome	hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	Cowden syndrome 5
+protein binding	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of gene expression	0.0	0.0	0.0	0.0	0.0	0.0
+liver development	1.0	1.0	0.0	1.0	0.0	1.0
+regulation of gene expression	1.0	1.0	1.0	1.0	1.0	1.0
+angiogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+"phosphatidylinositol 3-kinase complex, class IA"	1.0	1.0	0.0	1.0	0.0	1.0

@@ -1,0 +1,7 @@
+	Schimke immuno-osseous dysplasia	xeroderma pigmentosum group D	"trichothiodystrophy 1, photosensitive"	Cerebrooculofacioskeletal syndrome 2	"46,XX ovarian dysgenesis-short stature syndrome"	immunodeficiency-centromeric instability-facial anomalies syndrome 4	Meier-Gorlin syndrome 7; MGORS7	Fanconi anemia complementation group U
+"transcription factor activity, core RNA polymerase binding"	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+double-strand break repair via break-induced replication	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+3'-5' DNA helicase activity	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+replication fork protection complex	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+mitotic DNA replication preinitiation complex assembly	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+CMG complex	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

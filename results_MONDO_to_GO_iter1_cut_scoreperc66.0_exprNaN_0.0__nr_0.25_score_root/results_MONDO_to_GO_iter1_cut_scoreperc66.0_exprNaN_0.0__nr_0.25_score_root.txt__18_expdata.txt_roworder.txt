@@ -1,0 +1,4 @@
+"x"
+"1" "cholestasis..intrahepatic..of.pregnancy..1"
+"2" "progressive.familial.intrahepatic.cholestasis.type.1"
+"3" "benign.recurrent.intrahepatic.cholestasis.type.1"

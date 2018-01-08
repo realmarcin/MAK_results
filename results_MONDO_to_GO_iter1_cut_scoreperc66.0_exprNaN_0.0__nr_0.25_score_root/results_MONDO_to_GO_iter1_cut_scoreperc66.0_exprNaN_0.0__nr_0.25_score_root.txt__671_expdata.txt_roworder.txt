@@ -1,0 +1,5 @@
+"x"
+"1" "glycogen.storage.disease.V"
+"2" "glycogen.storage.disease.VI"
+"3" "glycogen.storage.disease.III"
+"4" "Sandhoff.disease"

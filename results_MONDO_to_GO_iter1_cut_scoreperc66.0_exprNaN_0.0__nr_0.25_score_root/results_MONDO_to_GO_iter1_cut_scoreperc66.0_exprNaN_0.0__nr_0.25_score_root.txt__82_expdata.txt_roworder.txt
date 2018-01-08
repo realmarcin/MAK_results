@@ -1,0 +1,4 @@
+"x"
+"1" "Meckel.syndrome..type.3"
+"2" "Joubert.syndrome.6"
+"3" "nephronophthisis.11"

@@ -1,0 +1,5 @@
+	neuronal ceroid lipofuscinosis 3	ocular cystinosis	"cystinosis, nephropathic"	juvenile nephropathic cystinosis	cystinuria (disease)	gamma-glutamyl transpeptidase deficiency	Charcot-Marie-tooth disease type 4B2	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	multiple congenital anomalies-hypotonia-seizures syndrome 1	thrombomodulin-related bleeding disorder
+fungal-type vacuole	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0
+vacuole	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+vacuolar membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+glutathione metabolic process	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0

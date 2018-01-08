@@ -1,0 +1,4 @@
+	"cardiac valvular defect, developmental"	COPD	Heme oxygenase 1 deficiency	Alzheimer's disease 19
+phospholipase D activity	1.0	1.0	1.0	1.0
+N-acylphosphatidylethanolamine-specific phospholipase D activity	1.0	0.0	0.0	1.0
+cell morphogenesis involved in conjugation with cellular fusion	1.0	0.0	0.0	0.0

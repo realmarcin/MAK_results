@@ -1,0 +1,4 @@
+	"rolandic epilepsy, mental retardation, and speech dyspraxia, X-linked"	cocoon syndrome	autoimmune lymphoproliferative syndrome type 3	severe combined immunodeficiency due to IKK2 deficiency
+hepatocyte growth factor binding	1.0	0.0	0.0	0.0
+regulation of phosphorylation	1.0	0.0	1.0	1.0
+IkappaB kinase activity	0.0	1.0	0.0	1.0

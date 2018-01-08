@@ -1,0 +1,9 @@
+	cystathioninuria (disease)	MPI-CDG	Ribose-5-P isomerase deficiency	congenital deficiency in alpha-fetoprotein	"short stature, developmental delay, and congenital heart defects;"
+cytoplasm	1.0	1.0	1.0	1.0	0.0
+cytosol	0.0	0.0	0.0	1.0	0.0
+metal ion binding	0.0	1.0	0.0	1.0	1.0
+ovulation from ovarian follicle	0.0	0.0	0.0	1.0	0.0
+SMAD protein signal transduction	0.0	0.0	0.0	1.0	0.0
+sexual reproduction	0.0	0.0	0.0	1.0	0.0
+progesterone metabolic process	0.0	0.0	0.0	1.0	0.0
+beta-glucuronidase activity	0.0	0.0	0.0	1.0	0.0

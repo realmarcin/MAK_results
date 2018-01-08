@@ -1,0 +1,7 @@
+	coloboma of optic nerve (disease)	foveal hypoplasia 1	autosomal dominant keratitis	isolated optic nerve hypoplasia	WAGR syndrome	aniridia-cerebellar ataxia-intellectual disability syndrome	Peters anomaly (disease)
+membrane	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+identical protein binding	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+endoplasmic reticulum	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+intracellular membrane-bounded organelle	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+endoplasmic reticulum membrane	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+positive regulation of glutamatergic neuron differentiation	1.0	1.0	1.0	1.0	1.0	1.0	1.0

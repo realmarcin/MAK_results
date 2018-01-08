@@ -1,0 +1,5 @@
+"x"
+"1" "glutathione.synthetase.deficiency.without.5.oxoprolinuria"
+"2" "glutathione.synthetase.deficiency.with.5.oxoprolinuria"
+"3" "methylmalonic.aciduria.and.homocystinuria.type.cblC"
+"4" "hypotonia.failure.to.thrive.microcephaly.syndrome"

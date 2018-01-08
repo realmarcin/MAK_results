@@ -1,0 +1,4 @@
+	Fanconi anemia complementation group D2	Fanconi anemia complementation group i	"dyskeratosis congenita, autosomal recessive 5"	PCNA-related progressive neurodegenerative photosensitivy syndrome	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3"	"dyskeratosis congenita, autosomal dominant 6"
+DNA polymerase binding	1.0	1.0	1.0	1.0	1.0	1.0
+mitotic telomere maintenance via semi-conservative replication	0.0	0.0	1.0	1.0	1.0	0.0
+regulation of double-strand break repair via homologous recombination	0.0	0.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,12 @@
+	glycogen storage disease III	glycogen storage disease VI	glycogen storage disease due to hepatic glycogen synthase deficiency	glycogen storage disease due to muscle and heart glycogen synthase deficiency
+nucleus	1.0	0.0	1.0	1.0
+cytoskeleton	0.0	0.0	1.0	0.0
+cortical actin cytoskeleton	0.0	0.0	1.0	0.0
+mitochondrion	1.0	0.0	1.0	1.0
+cell cortex	0.0	0.0	1.0	0.0
+glycogen biosynthetic process	1.0	0.0	1.0	1.0
+glycogen metabolic process	1.0	1.0	1.0	1.0
+response to glucose	0.0	0.0	1.0	0.0
+alpha-amylase activity	0.0	0.0	0.0	0.0
+"1,4-alpha-glucan branching enzyme activity"	0.0	0.0	0.0	0.0
+ectoplasm	0.0	0.0	1.0	0.0

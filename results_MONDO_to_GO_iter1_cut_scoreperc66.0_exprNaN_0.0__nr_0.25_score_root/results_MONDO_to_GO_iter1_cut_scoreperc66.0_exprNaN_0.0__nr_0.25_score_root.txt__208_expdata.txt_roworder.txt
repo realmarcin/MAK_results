@@ -1,0 +1,7 @@
+"x"
+"1" "thyroid.dyshormonogenesis.2A"
+"2" "Alzheimer.disease.type.1"
+"3" "myeloperoxidase.deficiency"
+"4" "congenital.cataract.microcornea.with.corneal.opacity"
+"5" "thyroid.dyshormonogenesis.6"
+"6" "acatalasia"

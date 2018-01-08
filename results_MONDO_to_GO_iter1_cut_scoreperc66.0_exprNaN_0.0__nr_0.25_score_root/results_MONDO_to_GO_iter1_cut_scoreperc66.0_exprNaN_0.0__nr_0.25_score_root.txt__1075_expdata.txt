@@ -1,0 +1,15 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13	Bardet-Biedl syndrome 10	Senior-Loken syndrome 9; SLSN9
+post-anal tail morphogenesis	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of tyrosine phosphorylation of STAT protein	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of protein phosphorylation	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	0.0	0.0	0.0	0.0	0.0	1.0
+microtubule cytoskeleton	0.0	0.0	0.0	0.0	0.0	1.0
+microtubule binding	0.0	0.0	0.0	0.0	0.0	1.0
+tubulin binding	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of microtubule cytoskeleton organization	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of defense response to virus	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of protein complex assembly	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of microtubule polymerization	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of type I interferon production	0.0	0.0	0.0	0.0	0.0	1.0
+negative regulation of interferon-beta production	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of DNA binding	0.0	0.0	0.0	0.0	0.0	1.0

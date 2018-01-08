@@ -1,0 +1,8 @@
+	Hereditary Progressive Chorea Without Dementia	"Parkinson disease 11, autosomal dominant, susceptibility to"	brain-lung-thyroid syndrome	familial temporal lobe epilepsy 8	"chorea, childhood-onset, with psychomotor retardation; COCPMR"	Shashi-Pena syndrome; SHAPNS
+nucleus	1.0	0.0	1.0	0.0	0.0	0.0
+"regulation of transcription, DNA-templated"	1.0	0.0	1.0	0.0	0.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	0.0	1.0	1.0	0.0	0.0
+DNA binding	1.0	0.0	1.0	0.0	0.0	1.0
+"transcription, DNA-templated"	1.0	0.0	1.0	0.0	0.0	1.0
+DNA binding transcription factor activity	1.0	0.0	1.0	0.0	0.0	0.0
+feeding behavior	1.0	1.0	1.0	1.0	1.0	0.0

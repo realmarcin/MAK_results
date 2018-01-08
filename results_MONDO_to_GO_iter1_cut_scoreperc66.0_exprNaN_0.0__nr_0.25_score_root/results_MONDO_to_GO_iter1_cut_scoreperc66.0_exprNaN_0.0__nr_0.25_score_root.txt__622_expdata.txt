@@ -1,0 +1,5 @@
+	"Hyperchlorhidrosis, isolated"	autosomal recessive osteopetrosis 3	autosomal recessive proximal renal tubular acidosis	"Question mark ears, isolated"	"autism, susceptibility to, 16"	Auriculocondylar syndrome 3	autosomal recessive spinocerebellar ataxia 19	congenital secretory sodium diarrhea 8
+regulation of sensory perception of pain	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0
+regulation of cardiac muscle contraction by calcium ion signaling	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+regulation of pH	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of cardiac muscle hypertrophy	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0

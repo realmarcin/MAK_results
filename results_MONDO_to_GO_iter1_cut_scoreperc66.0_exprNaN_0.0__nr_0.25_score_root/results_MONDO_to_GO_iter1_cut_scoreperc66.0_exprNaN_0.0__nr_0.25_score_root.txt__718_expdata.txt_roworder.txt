@@ -1,0 +1,6 @@
+"x"
+"1" "polyglucosan.body.myopathy.1.with.or.without.immunodeficiency"
+"2" "Tenorio.syndrome"
+"3" "B4GALT1.CDG"
+"4" "Desbuquois.dysplasia.1"
+"5" "mental.retardation..autosomal.recessive.44"

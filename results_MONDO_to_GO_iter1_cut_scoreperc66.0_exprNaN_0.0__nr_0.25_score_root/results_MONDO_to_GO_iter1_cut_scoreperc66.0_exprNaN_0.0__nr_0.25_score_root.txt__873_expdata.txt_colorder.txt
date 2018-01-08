@@ -1,0 +1,6 @@
+"x"
+"1" "transforming growth factor beta receptor signaling pathway"
+"2" "transforming growth factor beta binding"
+"3" "microvillus"
+"4" "SMAD binding"
+"5" "proteasome-mediated ubiquitin-dependent protein catabolic process"

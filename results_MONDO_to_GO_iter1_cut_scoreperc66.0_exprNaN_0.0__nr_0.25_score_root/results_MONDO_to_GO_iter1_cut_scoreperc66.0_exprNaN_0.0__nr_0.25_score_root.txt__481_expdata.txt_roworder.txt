@@ -1,0 +1,7 @@
+"x"
+"1" "spinocerebellar.ataxia.type.12"
+"2" "arrhythmogenic.right.ventricular.dysplasia.8"
+"3" "skin.fragility.woolly.hair.palmoplantar.keratoderma.syndrome"
+"4" "lethal.acantholytic.epidermolysis.bullosa"
+"5" "keratosis.palmoplantaris.striata.2"
+"6" "cardiomyopathy..dilated..with.woolly.hair..keratoderma..and.tooth.agenesis"

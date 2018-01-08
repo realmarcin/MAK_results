@@ -1,0 +1,5 @@
+	atrial standstill 1	cataract 6 multiple types	fundus albipunctatus	familial multiple nevi flammei	hypokalemic periodic paralysis	Smith-Magenis syndrome	Sturge-Weber syndrome	"thyrotoxic periodic paralysis, susceptibility to, 1"	congenital vertical talus	acid phosphatase deficiency	"spondyloepiphyseal dysplasia tarda, X-linked"	"malignant hyperthermia, susceptibility to, 5"	chromosome 1q21.1 deletion syndrome	"spondylocostal dysostosis 4, autosomal recessive"	"atrial fibrillation, familial, 11"	Otofaciocervical syndrome 2	"basal ganglia calcification, idiopathic, 6"	"dyskeratosis congenita, autosomal dominant 6"	craniosynostosis 6
+skeletal system development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+nuclear chromatin	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of Notch signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+establishment of planar polarity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

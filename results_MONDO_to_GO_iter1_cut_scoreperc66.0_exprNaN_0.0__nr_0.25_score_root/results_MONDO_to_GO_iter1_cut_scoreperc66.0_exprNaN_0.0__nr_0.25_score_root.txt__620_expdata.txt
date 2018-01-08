@@ -1,0 +1,10 @@
+	Finnish type amyloidosis	immunodeficiency 50; IMD50	hypogonadotropic hypogonadism 17 with or without anosmia	Acth-Independent macronodular adrenal hyperplasia 2
+cytoskeleton	0.0	1.0	0.0	0.0
+cytoskeletal protein binding	0.0	1.0	0.0	0.0
+actin binding	0.0	1.0	0.0	0.0
+focal adhesion	1.0	1.0	1.0	1.0
+embryo development	0.0	0.0	0.0	0.0
+embryonic neurocranium morphogenesis	0.0	0.0	0.0	0.0
+positive regulation of smoothened signaling pathway	0.0	0.0	0.0	0.0
+blood vessel lumenization	0.0	1.0	0.0	0.0
+endoderm development	0.0	1.0	0.0	0.0

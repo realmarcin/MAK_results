@@ -1,0 +1,5 @@
+"x"
+"1" "carbamoyl.phosphate.synthetase.i.deficiency.disease"
+"2" "pulmonary.hypertension..neonatal..susceptibility.to"
+"3" "dystonia.5"
+"4" "GTP.cyclohydrolase.i.deficiency"

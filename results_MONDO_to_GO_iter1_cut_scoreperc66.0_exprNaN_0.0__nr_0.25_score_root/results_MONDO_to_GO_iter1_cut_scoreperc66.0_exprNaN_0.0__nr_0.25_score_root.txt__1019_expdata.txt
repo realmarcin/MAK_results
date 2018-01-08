@@ -1,0 +1,6 @@
+	epithelial recurrent erosion dystrophy	"telangiectasia, hereditary hemorrhagic, of Rendu, Osler, and Weber"	Urofacial Syndrome type 1	autosomal recessive omodysplasia	X-linked central congenital hypothyroidism with late-onset testicular enlargement	autosomal recessive nonsyndromic deafness 21	autosomal recessive nonsyndromic deafness 16	autosomal recessive nonsyndromic deafness 22	autosomal recessive nonsyndromic deafness 67	retinitis pigmentosa 56	autosomal recessive nonsyndromic deafness 98	autosomal recessive nonsyndromic deafness 18B	female infertility due to zona pellucida defect	"macular dystrophy, vitelliform, 5"
+signal transduction	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"regulation of transcription, DNA-templated"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+receptor activity	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+coreceptor activity	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+inhibin binding	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

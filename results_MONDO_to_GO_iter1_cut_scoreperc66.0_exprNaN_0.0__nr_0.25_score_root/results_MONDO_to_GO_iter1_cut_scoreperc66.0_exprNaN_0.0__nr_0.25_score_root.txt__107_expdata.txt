@@ -1,0 +1,7 @@
+	endometrial cancer	hyper-IgM syndrome type 5	primary ciliary dyskinesia 29
+somatic recombination of immunoglobulin gene segments	1.0	1.0	0.0
+"base-excision repair, AP site formation via deaminated base removal"	0.0	1.0	0.0
+G/U mismatch-specific uracil-DNA glycosylase activity	0.0	1.0	0.0
+ribosomal small subunit binding	0.0	1.0	0.0
+"hydrolase activity, hydrolyzing N-glycosyl compounds"	0.0	1.0	0.0
+uracil DNA N-glycosylase activity	0.0	1.0	1.0

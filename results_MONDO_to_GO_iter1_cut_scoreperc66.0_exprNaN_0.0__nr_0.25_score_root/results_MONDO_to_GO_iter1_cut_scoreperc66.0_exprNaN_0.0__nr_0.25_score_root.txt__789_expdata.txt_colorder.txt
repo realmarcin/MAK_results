@@ -1,0 +1,7 @@
+"x"
+"1" "response to interleukin-1"
+"2" "response to peptidoglycan"
+"3" "Toll signaling pathway"
+"4" "interleukin-1 receptor binding"
+"5" "MyD88-dependent toll-like receptor signaling pathway"
+"6" "type I interferon biosynthetic process"

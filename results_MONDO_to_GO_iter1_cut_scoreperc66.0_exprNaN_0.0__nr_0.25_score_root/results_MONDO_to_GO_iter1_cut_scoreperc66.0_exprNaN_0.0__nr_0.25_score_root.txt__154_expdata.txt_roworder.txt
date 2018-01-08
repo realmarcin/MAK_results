@@ -1,0 +1,5 @@
+"x"
+"1" "mental.retardation..autosomal.recessive.56..MRT56"
+"2" "Richieri.Costa.Pereira.syndrome"
+"3" "autosomal.dominant.aplasia.and.myelodysplasia"
+"4" "epileptic.encephalopathy..early.infantile..48..EIEE48"

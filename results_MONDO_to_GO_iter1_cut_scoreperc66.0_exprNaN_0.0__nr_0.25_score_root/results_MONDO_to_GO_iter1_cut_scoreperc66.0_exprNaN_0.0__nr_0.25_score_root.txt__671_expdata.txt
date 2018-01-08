@@ -1,0 +1,12 @@
+	glycogen storage disease III	glycogen storage disease V	glycogen storage disease VI	Sandhoff disease
+nucleotide binding	0.0	1.0	1.0	0.0
+response to hypoxia	0.0	1.0	0.0	0.0
+metabolic process	1.0	1.0	1.0	1.0
+response to cAMP	0.0	1.0	0.0	0.0
+cellular calcium ion homeostasis	0.0	1.0	0.0	1.0
+drug binding	0.0	1.0	1.0	0.0
+sarcoplasmic reticulum	1.0	1.0	0.0	0.0
+pyridoxal phosphate binding	0.0	1.0	1.0	0.0
+AMP binding	0.0	1.0	1.0	0.0
+phosphorylase activity	0.0	1.0	1.0	0.0
+glycogen phosphorylase activity	0.0	1.0	1.0	0.0

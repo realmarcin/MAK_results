@@ -1,0 +1,6 @@
+	cone-rod dystrophy 9	metaphyseal anadysplasia 2	congenital plasminogen activator inhibitor type 1 deficiency	platelet-type bleeding disorder 9	amelogenesis imperfecta type 1H
+cell adhesion mediated by integrin	1.0	0.0	0.0	1.0	1.0
+positive regulation of keratinocyte migration	1.0	1.0	1.0	0.0	0.0
+positive regulation of macrophage fusion	1.0	0.0	0.0	0.0	0.0
+transforming growth factor-beta secretion	0.0	0.0	0.0	0.0	1.0
+integrin alphav-beta6 complex	0.0	0.0	0.0	0.0	1.0

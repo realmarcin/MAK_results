@@ -1,0 +1,10 @@
+	ACTH-secreting pituitary adenoma	Charcot-Marie-tooth disease type 4C	autosomal recessive nonsyndromic deafness 24	Brugada syndrome 6	"mononeuropathy of the median nerve, mild"
+plasma membrane	1.0	1.0	1.0	1.0	1.0
+protein binding	0.0	1.0	0.0	0.0	1.0
+cytoplasmic vesicle	0.0	1.0	0.0	0.0	1.0
+recycling endosome	0.0	1.0	0.0	0.0	1.0
+peripheral nervous system myelin maintenance	0.0	1.0	0.0	0.0	1.0
+voltage-gated potassium channel complex	0.0	0.0	0.0	1.0	0.0
+myelination in peripheral nervous system	0.0	1.0	0.0	0.0	1.0
+regulation of ERBB signaling pathway	0.0	1.0	0.0	0.0	1.0
+regulation of intracellular protein transport	0.0	1.0	0.0	0.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "3-hydroxyacyl-CoA dehydrogenase activity"
+"2" "enoyl-CoA hydratase activity"
+"3" "estradiol 17-beta-dehydrogenase activity"
+"4" "NAD+ binding"

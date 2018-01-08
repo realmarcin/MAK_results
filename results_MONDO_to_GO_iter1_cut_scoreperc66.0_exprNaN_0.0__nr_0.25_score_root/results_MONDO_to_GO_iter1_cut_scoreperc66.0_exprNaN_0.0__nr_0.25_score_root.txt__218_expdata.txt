@@ -1,0 +1,5 @@
+	uveal coloboma-cleft lip and palate-intellectual disability	Job's syndrome	"fructose-1,6-bisphosphatase deficiency"	obesity (disease)	STAT3-related early-onset multisystem autoimmune disease	"immunodeficiency, common variable, 12"
+negative regulation of stem cell differentiation	1.0	1.0	0.0	0.0	1.0	0.0
+negative regulation of glycolytic process	0.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of gene silencing by miRNA	0.0	1.0	0.0	0.0	1.0	1.0
+positive regulation of vascular endothelial cell proliferation	0.0	1.0	0.0	1.0	1.0	0.0
