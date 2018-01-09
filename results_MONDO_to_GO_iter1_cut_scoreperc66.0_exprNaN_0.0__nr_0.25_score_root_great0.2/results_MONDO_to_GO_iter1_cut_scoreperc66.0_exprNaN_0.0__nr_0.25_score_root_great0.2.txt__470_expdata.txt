@@ -1,0 +1,10 @@
+	"citrullinemia, type Ii, adult-onset"	neonatal intrahepatic cholestasis due to citrin deficiency	"epileptic encephalopathy, early infantile, 3"	epileptic encephalopathy with global cerebral demyelination
+calcium ion binding	1.0	1.0	0.0	1.0
+metal ion binding	1.0	1.0	0.0	1.0
+ATP biosynthetic process	1.0	1.0	0.0	0.0
+myelin sheath	0.0	0.0	0.0	1.0
+response to calcium ion	1.0	1.0	0.0	1.0
+mitochondrial transport	0.0	0.0	1.0	0.0
+cellular respiration	1.0	1.0	0.0	0.0
+uniporter activity	1.0	1.0	1.0	1.0
+high-affinity glutamate transmembrane transporter activity	0.0	0.0	1.0	0.0

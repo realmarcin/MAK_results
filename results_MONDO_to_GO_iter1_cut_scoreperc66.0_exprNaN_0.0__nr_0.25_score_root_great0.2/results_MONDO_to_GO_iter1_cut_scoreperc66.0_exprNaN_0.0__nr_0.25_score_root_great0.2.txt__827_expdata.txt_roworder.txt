@@ -1,0 +1,5 @@
+"x"
+"1" "beta.ketothiolase.deficiency"
+"2" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"
+"3" "pyruvate.dehydrogenase.E3.deficiency"
+"4" "malonic.aciduria"

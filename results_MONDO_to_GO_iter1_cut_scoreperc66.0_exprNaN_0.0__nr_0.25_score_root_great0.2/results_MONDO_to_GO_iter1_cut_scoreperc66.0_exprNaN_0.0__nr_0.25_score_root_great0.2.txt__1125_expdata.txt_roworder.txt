@@ -1,0 +1,6 @@
+"x"
+"1" "microcephaly.7..primary..autosomal.recessive"
+"2" "McKusick.Kaufman.syndrome"
+"3" "Bardet.Biedl.syndrome.6"
+"4" "Joubert.syndrome.13"
+"5" "Bardet.Biedl.syndrome.10"

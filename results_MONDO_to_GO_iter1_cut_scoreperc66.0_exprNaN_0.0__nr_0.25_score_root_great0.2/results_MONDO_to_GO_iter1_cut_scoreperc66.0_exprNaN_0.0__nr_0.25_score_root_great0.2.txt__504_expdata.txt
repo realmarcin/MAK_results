@@ -1,0 +1,4 @@
+	atransferrinemia	X-linked intellectual disability-short stature-overweight syndrome	SCZD6	isolated focal cortical dysplasia type II	PCWH syndrome	Waardenburg syndrome type 2E	Waardenburg syndrome type 4C	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	hereditary spastic paraplegia 75	"tremor, hereditary essential, 5; ETM5"
+positive regulation of myelination	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+transcription elongation from RNA polymerase II promoter	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+extrinsic component of mitochondrial outer membrane	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0

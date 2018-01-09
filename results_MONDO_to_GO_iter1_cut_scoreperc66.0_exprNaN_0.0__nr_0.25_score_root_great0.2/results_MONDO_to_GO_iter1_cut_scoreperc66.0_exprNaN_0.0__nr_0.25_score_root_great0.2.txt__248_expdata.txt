@@ -1,0 +1,5 @@
+	Hermansky-Pudlak syndrome 2	Hermansky-Pudlak syndrome 7	Hermansky-Pudlak syndrome 8	Hermansky-Pudlak syndrome 10; HPS10	"epileptic encephalopathy, early infantile, 48; EIEE48"
+anterograde axonal transport	1.0	1.0	1.0	1.0	1.0
+platelet dense granule organization	0.0	1.0	1.0	0.0	0.0
+BLOC-1 complex	0.0	1.0	1.0	0.0	0.0
+anterograde synaptic vesicle transport	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Prader.Willi.syndrome"
+"2" "sarcoidosis..susceptibility.to..2"
+"3" "narcolepsy.7"
+"4" "microcytic.anemia.with.liver.iron.overload"
+"5" "epileptic.encephalopathy..early.infantile..49..EIEE49"

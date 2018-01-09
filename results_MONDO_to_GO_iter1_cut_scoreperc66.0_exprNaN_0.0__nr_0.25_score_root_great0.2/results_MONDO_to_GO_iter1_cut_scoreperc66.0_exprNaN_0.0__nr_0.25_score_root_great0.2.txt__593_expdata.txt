@@ -1,0 +1,10 @@
+	Smith-Magenis syndrome	agnathia-otocephaly complex	Athabaskan brainstem dysgenesis syndrome	"Rett syndrome, congenital variant"	"mental retardation, autosomal dominant 39"
+nucleus	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	0.0	1.0	1.0	1.0	1.0
+DNA binding	0.0	1.0	1.0	1.0	1.0
+multicellular organism development	0.0	1.0	1.0	1.0	1.0
+chromosome	0.0	0.0	0.0	0.0	1.0
+neuron fate commitment	0.0	0.0	0.0	0.0	1.0
+neuron fate specification	0.0	0.0	0.0	0.0	1.0
+cobalt ion binding	0.0	0.0	0.0	0.0	1.0
+retinoic acid-responsive element binding	0.0	0.0	0.0	0.0	1.0

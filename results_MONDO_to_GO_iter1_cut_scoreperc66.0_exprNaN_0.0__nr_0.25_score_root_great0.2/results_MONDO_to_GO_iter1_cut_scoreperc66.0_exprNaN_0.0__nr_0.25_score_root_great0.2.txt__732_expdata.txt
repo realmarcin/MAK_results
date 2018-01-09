@@ -1,0 +1,11 @@
+	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	neurodegeneration with brain iron accumulation 6	"porokeratosis 9, multiple types; POROK9"
+cytoplasm	0.0	1.0	1.0	1.0
+kinase activity	0.0	0.0	1.0	0.0
+cytosol	0.0	1.0	1.0	1.0
+mitochondrial matrix	1.0	0.0	1.0	1.0
+biosynthetic process	0.0	0.0	1.0	0.0
+coenzyme A biosynthetic process	0.0	0.0	1.0	0.0
+lipid droplet	0.0	0.0	1.0	0.0
+CoA-synthesizing protein complex	0.0	0.0	1.0	0.0
+dephospho-CoA kinase activity	0.0	0.0	1.0	0.0
+pantetheine-phosphate adenylyltransferase activity	0.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+	acid phosphatase deficiency	autosomal dominant nonsyndromic deafness 10	paragangliomas 2	congenital cataracts-facial dysmorphism-neuropathy syndrome	PPARG-related familial partial lipodystrophy	dilated cardiomyopathy 1J	pyruvate dehydrogenase phosphatase deficiency	"maple syrup urine disease, mild variant"	juvenile onset Parkinson disease 19A	"epileptic encephalopathy, early infantile, 30"	intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome
+protein tyrosine phosphatase activity	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+protein dephosphorylation	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0
+peptidyl-tyrosine dephosphorylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+phosphoprotein phosphatase activity	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+phosphatase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+dephosphorylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

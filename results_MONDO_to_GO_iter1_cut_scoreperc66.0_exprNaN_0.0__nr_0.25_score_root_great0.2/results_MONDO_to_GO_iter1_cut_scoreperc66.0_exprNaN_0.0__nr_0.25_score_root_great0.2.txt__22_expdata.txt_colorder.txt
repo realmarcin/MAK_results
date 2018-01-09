@@ -1,0 +1,6 @@
+"x"
+"1" "response to hormone"
+"2" "insulin receptor signaling pathway"
+"3" "positive regulation of I-kappaB phosphorylation"
+"4" "insulin-like growth factor receptor signaling pathway"
+"5" "protein phosphatase 2A binding"

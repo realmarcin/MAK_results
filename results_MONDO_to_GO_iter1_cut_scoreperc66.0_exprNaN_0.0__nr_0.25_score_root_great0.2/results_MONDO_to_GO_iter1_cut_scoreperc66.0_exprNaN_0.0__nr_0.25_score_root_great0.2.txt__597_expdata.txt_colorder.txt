@@ -1,0 +1,6 @@
+"x"
+"1" "endocardium formation"
+"2" "mRNA transcription from RNA polymerase II promoter"
+"3" "stem cell fate specification"
+"4" "hair cycle process"
+"5" "establishment of endothelial barrier"

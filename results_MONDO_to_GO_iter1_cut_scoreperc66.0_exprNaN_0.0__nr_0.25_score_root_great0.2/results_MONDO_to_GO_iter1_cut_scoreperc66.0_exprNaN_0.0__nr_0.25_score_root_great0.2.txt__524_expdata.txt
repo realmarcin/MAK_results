@@ -1,0 +1,6 @@
+	renal coloboma syndrome	renal agenesis (disease)	growth delay due to insulin-like growth factor i resistance	major affective disorder 7	focal segmental glomerulosclerosis 7
+adipose tissue development	0.0	0.0	0.0	1.0	0.0
+dopaminergic neuron differentiation	1.0	1.0	0.0	0.0	1.0
+cellular response to glucose stimulus	1.0	1.0	1.0	1.0	1.0
+insulin receptor substrate binding	0.0	0.0	1.0	0.0	0.0
+regulation of metanephros size	1.0	1.0	0.0	0.0	1.0

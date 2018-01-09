@@ -1,0 +1,7 @@
+"x"
+"1" "alcohol.dependence"
+"2" "Parkinson.disease..late.onset"
+"3" "Subependymoma"
+"4" "aromatase.excess.syndrome"
+"5" "aromatase.deficiency"
+"6" "aortic.aneurysm..familial.thoracic.10..AAT10"

@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of peptidyl-tyrosine phosphorylation"
+"2" "positive regulation of cell differentiation"
+"3" "cellular response to dexamethasone stimulus"
+"4" "positive regulation of bone mineralization"
+"5" "positive regulation of ERK1 and ERK2 cascade"
+"6" "fibroblast growth factor receptor signaling pathway"

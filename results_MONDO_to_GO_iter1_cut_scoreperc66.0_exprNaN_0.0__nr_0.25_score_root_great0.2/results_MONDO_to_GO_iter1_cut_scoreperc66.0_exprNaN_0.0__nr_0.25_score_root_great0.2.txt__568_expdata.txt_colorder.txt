@@ -1,0 +1,6 @@
+"x"
+"1" "nucleus"
+"2" "eye development"
+"3" "eye field cell fate commitment involved in camera-type eye formation"
+"4" "oxidation-reduction process"
+"5" "oxidoreductase activity"

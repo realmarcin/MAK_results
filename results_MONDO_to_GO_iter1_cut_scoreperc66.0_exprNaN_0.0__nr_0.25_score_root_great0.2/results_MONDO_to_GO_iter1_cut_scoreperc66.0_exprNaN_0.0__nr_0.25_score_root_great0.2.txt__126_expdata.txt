@@ -1,0 +1,8 @@
+	Bardet-Biedl syndrome 1	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	Bardet-Biedl syndrome 10	Bardet-Biedl syndrome 12
+cilium	1.0	0.0	0.0	0.0	1.0
+chaperone-mediated protein complex assembly	1.0	1.0	1.0	1.0	1.0
+unfolded protein binding	1.0	1.0	1.0	0.0	1.0
+chaperone-mediated protein folding	1.0	1.0	1.0	0.0	1.0
+gastrulation	1.0	1.0	1.0	1.0	1.0
+protein binding involved in protein folding	1.0	1.0	1.0	0.0	1.0
+'de novo' protein folding	1.0	1.0	1.0	0.0	1.0

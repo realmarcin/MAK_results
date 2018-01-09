@@ -1,0 +1,8 @@
+"x"
+"1" "metabolic process"
+"2" "intracellular membrane-bounded organelle"
+"3" "glucuronosyltransferase activity"
+"4" "hydrolase activity"
+"5" "flavonoid glucuronidation"
+"6" "xenobiotic glucuronidation"
+"7" "transferase activity, transferring hexosyl groups"

@@ -1,0 +1,4 @@
+"x"
+"1" "fibrosis.of.extraocular.muscles..congenital..2"
+"2" "Duane.retraction.syndrome.2"
+"3" "branchiooculofacial.syndrome"

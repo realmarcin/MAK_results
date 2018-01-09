@@ -1,0 +1,7 @@
+"x"
+"1" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"
+"2" "van.Maldergem.syndrome.1"
+"3" "MMVP2"
+"4" "hereditary.sensory.and.autonomic.neuropathy.type.5"
+"5" "familial.cortical.myoclonus"
+"6" "spermatogenic.failure.17..SPGF17"

@@ -1,0 +1,6 @@
+	"autism, susceptibility to, X-linked 1"	"Asperger syndrome, X-linked, susceptibility to, 1"	"autism, susceptibility to, X-linked 2"	"Asperger syndrome, X-linked, susceptibility to, 2"
+neurexin family protein binding	1.0	1.0	1.0	1.0
+synaptic vesicle endocytosis	1.0	1.0	1.0	1.0
+postsynaptic membrane assembly	1.0	1.0	1.0	1.0
+brainstem development	0.0	0.0	1.0	1.0
+territorial aggressive behavior	0.0	0.0	1.0	1.0

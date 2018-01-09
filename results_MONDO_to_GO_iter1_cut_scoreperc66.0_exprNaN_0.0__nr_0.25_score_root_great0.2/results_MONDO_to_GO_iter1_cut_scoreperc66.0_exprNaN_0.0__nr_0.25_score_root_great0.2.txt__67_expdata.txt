@@ -1,0 +1,8 @@
+	GM1 gangliosidosis type 1	GM1 gangliosidosis type 2	GM1 gangliosidosis type 3	Urofacial Syndrome type 1	mucopolysaccharidosis type 4B	Sandhoff disease
+lysosome	1.0	1.0	1.0	0.0	1.0	1.0
+hydrolase activity	1.0	1.0	1.0	0.0	1.0	1.0
+extracellular space	1.0	1.0	1.0	0.0	1.0	1.0
+carbohydrate metabolic process	1.0	1.0	1.0	0.0	1.0	1.0
+metabolic process	1.0	1.0	1.0	0.0	1.0	1.0
+"hydrolase activity, acting on glycosyl bonds"	1.0	1.0	1.0	1.0	1.0	1.0
+"hydrolase activity, hydrolyzing O-glycosyl compounds"	1.0	1.0	1.0	0.0	1.0	1.0

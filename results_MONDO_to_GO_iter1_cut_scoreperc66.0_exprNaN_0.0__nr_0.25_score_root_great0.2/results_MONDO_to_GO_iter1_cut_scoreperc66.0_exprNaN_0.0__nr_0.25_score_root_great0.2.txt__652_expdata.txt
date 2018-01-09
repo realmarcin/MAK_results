@@ -1,0 +1,7 @@
+	prune belly syndome	adenosine deaminase deficiency	Dehydrated hereditary stomatocytosis 2; DHS2
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	1.0	0.0	0.0
+G-protein coupled acetylcholine receptor activity	1.0	0.0	0.0
+saliva secretion	1.0	0.0	1.0
+positive regulation of T cell receptor signaling pathway	0.0	1.0	1.0
+Intermediate conductance calcium-activated potassium channel activity	0.0	0.0	1.0
+small conductance calcium-activated potassium channel activity	0.0	0.0	1.0

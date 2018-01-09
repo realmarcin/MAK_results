@@ -1,0 +1,8 @@
+	Brody myopathy	Sheldon-hall syndrome	nemaline myopathy 5	hypertrophic cardiomyopathy 8
+nucleotide-sugar transmembrane transporter activity	1.0	0.0	0.0	0.0
+positive regulation of endoplasmic reticulum calcium ion concentration	1.0	0.0	0.0	0.0
+maintenance of mitochondrion location	1.0	0.0	0.0	0.0
+negative regulation of muscle contraction	1.0	0.0	1.0	0.0
+negative regulation of endoplasmic reticulum calcium ion concentration	1.0	0.0	0.0	0.0
+negative regulation of striated muscle contraction	1.0	0.0	0.0	0.0
+regulation of striated muscle contraction	1.0	1.0	0.0	1.0

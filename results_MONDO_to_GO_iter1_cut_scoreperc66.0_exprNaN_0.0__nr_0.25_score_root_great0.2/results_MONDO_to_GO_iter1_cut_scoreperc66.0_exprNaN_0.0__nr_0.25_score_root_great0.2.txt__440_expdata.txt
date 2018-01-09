@@ -1,0 +1,11 @@
+	cystic leukoencephalopathy without megalencephaly	Aicardi-Goutieres syndrome 5	Chilblain lupus 2	Singleton-Merten syndrome 2
+dATP catabolic process	0.0	1.0	1.0	0.0
+catalytic activity	0.0	1.0	1.0	0.0
+protein homotetramerization	0.0	1.0	1.0	0.0
+RNA binding	1.0	1.0	1.0	1.0
+regulation of innate immune response	0.0	1.0	1.0	0.0
+ribonuclease activity	1.0	1.0	1.0	0.0
+dGTP binding	0.0	1.0	1.0	0.0
+dGTP catabolic process	0.0	1.0	1.0	0.0
+dGTPase activity	0.0	1.0	1.0	0.0
+triphosphoric monoester hydrolase activity	0.0	1.0	1.0	0.0

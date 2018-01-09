@@ -1,0 +1,6 @@
+	uterine fibroid	stapes ankylosis with broad thumbs and toes	proximal symphalangism (disease)	multiple synostoses syndrome 1	tarsal-carpal coalition syndrome	immunodeficiency 50; IMD50	brachydactyly type B2
+negative regulation of astrocyte differentiation	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+somatic stem cell population maintenance	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+spinal cord development	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+endoderm development	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	0.0	1.0	1.0	1.0	1.0	0.0	1.0

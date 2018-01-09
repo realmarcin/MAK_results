@@ -1,0 +1,5 @@
+	hereditary sensory and autonomic neuropathy type 4	hypothyroidism due to TSH receptor mutations	familial gestational hyperthyroidism	familial hyperthyroidism due to mutations in TSH receptor	renal hypomagnesemia 4	retinitis pigmentosa 56	"macular dystrophy, vitelliform, 5"	amelogenesis imperfecta type 1H
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+receptor complex	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+T cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

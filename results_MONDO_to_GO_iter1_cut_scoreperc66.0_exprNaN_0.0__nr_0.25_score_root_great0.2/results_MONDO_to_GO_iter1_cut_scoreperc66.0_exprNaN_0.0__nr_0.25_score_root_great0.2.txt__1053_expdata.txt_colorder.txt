@@ -1,0 +1,7 @@
+"x"
+"1" "RNA binding"
+"2" "microtubule cytoskeleton organization"
+"3" "mitotic cytokinesis"
+"4" "head development"
+"5" "regulation of mRNA splicing, via spliceosome"
+"6" "RS domain binding"

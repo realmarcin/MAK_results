@@ -1,0 +1,7 @@
+"x"
+"1" "chromatoid body"
+"2" "RNA 7-methylguanosine cap binding"
+"3" "P granule organization"
+"4" "P granule"
+"5" "mRNA cap binding complex"
+"6" "eukaryotic initiation factor 4G binding"

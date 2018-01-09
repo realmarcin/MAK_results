@@ -1,0 +1,7 @@
+	"favism, susceptibility to"	"anemia, nonspherocytic hemolytic, due to G6Pd deficiency"	congenital cataracts-facial dysmorphism-neuropathy syndrome	"malaria, susceptibility to"	d-2-Hydroxyglutaric aciduria 2	intellectual disability-severe speech delay-mild dysmorphism syndrome	obesity due to congenital leptin deficiency	autoimmune lymphoproliferative syndrome type 3	progressive encephalopathy with leukodystrophy due to DECR deficiency
+NADP biosynthetic process	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0
+interleukin-10 production	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+ribose phosphate biosynthetic process	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+interleukin-12 production	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+angiotensin-mediated vasoconstriction involved in regulation of systemic arterial blood pressure	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of cell growth involved in cardiac muscle cell development	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+	renal hypomagnesemia 3	hereditary spastic paraplegia 6	autosomal recessive congenital ichthyosis 6	renal hypomagnesemia 6	"hypomagnesemia, seizures, and mental retardation"	cone-rod dystrophy 21
+plasma membrane	1.0	1.0	0.0	1.0	1.0	1.0
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0	1.0	1.0	0.0
+intracellular membrane-bounded organelle	0.0	0.0	0.0	1.0	1.0	1.0
+magnesium ion transport	0.0	1.0	1.0	1.0	1.0	0.0
+magnesium ion transmembrane transporter activity	0.0	1.0	1.0	1.0	1.0	0.0

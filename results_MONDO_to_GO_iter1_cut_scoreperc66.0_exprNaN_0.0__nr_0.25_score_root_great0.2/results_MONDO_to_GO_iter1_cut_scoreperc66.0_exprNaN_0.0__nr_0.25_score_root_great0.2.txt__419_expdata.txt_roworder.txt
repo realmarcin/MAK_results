@@ -1,0 +1,7 @@
+"x"
+"1" "autosomal.dominant.cerebellar.ataxia..deafness.and.narcolepsy"
+"2" "hereditary.sensory.neuropathy.deafness.dementia.syndrome"
+"3" "myofibrillar.myopathy.2"
+"4" "cataract.16.multiple.types"
+"5" "myofibrillar.myopathy.7"
+"6" "dilated.cardiomyopathy.1II"

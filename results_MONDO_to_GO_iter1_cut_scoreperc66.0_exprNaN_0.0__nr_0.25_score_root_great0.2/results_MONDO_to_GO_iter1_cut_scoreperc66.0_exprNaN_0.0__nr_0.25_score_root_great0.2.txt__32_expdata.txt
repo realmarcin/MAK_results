@@ -1,0 +1,6 @@
+	"myeloproliferative disorder, chronic, with eosinophilia"	familial erythrocytosis 1	"myofibromatosis, infantile, 1"	acroosteolysis-keloid-like lesions-premature aging syndrome	"basal ganglia calcification, idiopathic, 4"	skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome
+signal transducer activity	1.0	1.0	1.0	1.0	1.0	1.0
+integral component of membrane	1.0	0.0	1.0	1.0	1.0	1.0
+cell surface	1.0	0.0	1.0	1.0	1.0	1.0
+extracellular exosome	1.0	0.0	1.0	1.0	1.0	1.0
+positive regulation of phosphoprotein phosphatase activity	1.0	1.0	1.0	1.0	1.0	1.0

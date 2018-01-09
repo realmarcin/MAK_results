@@ -1,0 +1,5 @@
+"x"
+"1" "acroosteolysis.dominant.type"
+"2" "Alagille.syndrome.due.to.a.NOTCH2.point.mutation"
+"3" "ectodermal.dysplasia.11A..hypohidrotic.hair.tooth.type..autosomal.dominant"
+"4" "ectodermal.dysplasia.11B..hypohidrotic.hair.tooth.type..autosomal.recessive"

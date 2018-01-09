@@ -1,0 +1,14 @@
+	acrodysostosis 1 with or without hormone resistance	"Carney complex, type 1"	"thyroid cancer, nonmedullary, 1"	familial atrial myxoma	"pigmented nodular adrenocortical disease, primary, 1"
+negative regulation of transcription from RNA polymerase II promoter	0.0	0.0	1.0	0.0	0.0
+positive regulation of transcription from RNA polymerase II promoter	0.0	0.0	1.0	0.0	0.0
+DNA binding	0.0	0.0	1.0	0.0	0.0
+"negative regulation of transcription, DNA-templated"	0.0	0.0	1.0	0.0	0.0
+"transcription, DNA-templated"	0.0	0.0	1.0	0.0	0.0
+DNA binding transcription factor activity	0.0	0.0	1.0	0.0	0.0
+transcription factor binding	0.0	0.0	1.0	0.0	0.0
+transcription factor complex	0.0	0.0	1.0	0.0	0.0
+transcription regulatory region DNA binding	0.0	0.0	1.0	0.0	0.0
+sequence-specific DNA binding	0.0	0.0	1.0	0.0	0.0
+"positive regulation of transcription, DNA-templated"	0.0	0.0	1.0	0.0	0.0
+regulation of transcription from RNA polymerase II promoter	0.0	0.0	1.0	0.0	0.0
+RNA polymerase II regulatory region sequence-specific DNA binding	0.0	0.0	1.0	0.0	0.0

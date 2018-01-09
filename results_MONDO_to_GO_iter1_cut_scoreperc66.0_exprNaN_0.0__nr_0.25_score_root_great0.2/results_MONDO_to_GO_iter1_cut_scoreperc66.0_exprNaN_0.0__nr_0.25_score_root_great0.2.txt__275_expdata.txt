@@ -1,0 +1,8 @@
+	cataract 30	pachyonychia congenita 1	cataract 12 multiple types	"palmoplantar keratoderma, nonepidermolytic, focal 1"	hypotrichosis 13
+morphogenesis of an epithelium	0.0	1.0	0.0	1.0	0.0
+intermediate filament	1.0	1.0	1.0	1.0	1.0
+structural constituent of cytoskeleton	1.0	1.0	0.0	1.0	1.0
+intermediate filament cytoskeleton organization	1.0	1.0	1.0	1.0	0.0
+structural molecule activity	1.0	1.0	1.0	1.0	1.0
+keratinization	0.0	1.0	0.0	1.0	0.0
+keratinocyte migration	0.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,4 @@
+	Alzheimer disease type 1	primary open angle glaucoma	"glaucoma, normal tension, susceptibility to"	amyotrophic lateral sclerosis type 12	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Smith-Mccort dysplasia 2	autosomal dominant childhood-onset proximal spinal muscular atrophy with contractures
+protein targeting to Golgi	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+vesicle localization	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+Golgi ribbon formation	0.0	1.0	1.0	1.0	0.0	0.0	0.0

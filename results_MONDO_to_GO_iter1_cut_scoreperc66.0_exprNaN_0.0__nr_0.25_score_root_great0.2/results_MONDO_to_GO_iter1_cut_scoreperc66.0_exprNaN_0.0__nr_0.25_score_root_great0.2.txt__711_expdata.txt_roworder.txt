@@ -1,0 +1,5 @@
+"x"
+"1" "methylmalonic.aciduria.and.homocystinuria.type.cblC"
+"2" "congenital.myasthenic.syndrome.6"
+"3" "cerebral.palsy..spastic.quadriplegic..1"
+"4" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"

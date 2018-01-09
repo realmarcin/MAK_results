@@ -1,0 +1,5 @@
+"x"
+"1" "gray.platelet.syndrome"
+"2" "Chediak.Higashi.syndrome"
+"3" "combined.immunodeficiency.due.to.LRBA.deficiency"
+"4" "herpes.simplex.encephalitis"

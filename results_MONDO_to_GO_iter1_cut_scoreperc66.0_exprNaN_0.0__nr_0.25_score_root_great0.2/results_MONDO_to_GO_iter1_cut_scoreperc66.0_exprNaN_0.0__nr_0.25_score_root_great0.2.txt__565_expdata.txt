@@ -1,0 +1,6 @@
+	autosomal dominant nonsyndromic deafness 1	"mental retardation, X-linked 93"	"Aarskog-Scott syndrome, X-linked"	axial spondylometaphyseal dysplasia	progressive microcephaly-seizures-cortical blindness-developmental delay syndrome	"mental retardation, autosomal recessive 54; MRT54"
+microvillus	0.0	0.0	0.0	0.0	0.0	0.0
+cytoskeleton organization	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of cell shape	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of microtubule-based process	1.0	0.0	0.0	0.0	1.0	0.0
+regulation of dendrite morphogenesis	0.0	0.0	0.0	0.0	0.0	1.0

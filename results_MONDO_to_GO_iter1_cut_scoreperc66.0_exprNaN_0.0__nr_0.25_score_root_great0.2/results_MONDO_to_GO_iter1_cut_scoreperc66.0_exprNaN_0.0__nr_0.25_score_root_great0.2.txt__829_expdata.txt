@@ -1,0 +1,8 @@
+	"anemia, congenital dyserythropoietic, type Ia"	Bartter disease type 5	hypomyelinating leukodystrophy 5	three M syndrome 3	"pontocerebellar hypoplasia, type 2F; PCH2F"	orofaciodigital syndrome XV
+nucleus	1.0	1.0	0.0	1.0	1.0	0.0
+molecular_function	1.0	1.0	1.0	1.0	1.0	1.0
+biological_process	0.0	0.0	0.0	0.0	1.0	0.0
+mRNA processing	0.0	0.0	0.0	0.0	1.0	0.0
+tRNA processing	0.0	0.0	0.0	0.0	1.0	0.0
+tRNA-intron endonuclease activity	0.0	0.0	0.0	0.0	1.0	0.0
+"tRNA splicing, via endonucleolytic cleavage and ligation"	0.0	0.0	0.0	0.0	1.0	0.0

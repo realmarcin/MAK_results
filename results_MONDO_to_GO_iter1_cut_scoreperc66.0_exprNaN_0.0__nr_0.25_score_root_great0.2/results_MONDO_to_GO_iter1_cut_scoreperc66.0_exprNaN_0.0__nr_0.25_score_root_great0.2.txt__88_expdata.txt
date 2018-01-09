@@ -1,0 +1,7 @@
+	hypertrophic cardiomyopathy 2	hypertrophic cardiomyopathy 4	dilated cardiomyopathy 1D	"cardiomyopathy, familial restrictive, 3"	left ventricular noncompaction 10	chronic atrial and intestinal dysrhythmia
+regulation of heart contraction	1.0	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	0.0	1.0	1.0	0.0	1.0
+sarcomere	1.0	1.0	1.0	1.0	1.0	0.0
+myofibril	1.0	1.0	1.0	1.0	1.0	0.0
+ventricular cardiac muscle tissue morphogenesis	1.0	1.0	1.0	1.0	1.0	0.0
+striated muscle contraction	1.0	1.0	1.0	1.0	1.0	0.0

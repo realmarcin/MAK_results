@@ -1,0 +1,6 @@
+"x"
+"1" "poly(A) binding"
+"2" "7S RNA binding"
+"3" "axon cytoplasm"
+"4" "ribonuclease P RNA binding"
+"5" "negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"

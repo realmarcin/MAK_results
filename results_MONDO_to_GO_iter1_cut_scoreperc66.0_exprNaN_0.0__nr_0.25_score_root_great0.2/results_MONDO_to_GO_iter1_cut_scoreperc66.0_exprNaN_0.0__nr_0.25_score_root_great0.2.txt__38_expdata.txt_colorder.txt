@@ -1,0 +1,7 @@
+"x"
+"1" "regulation of neurogenesis"
+"2" "metal ion binding"
+"3" "DNA binding transcription factor activity"
+"4" "anterior/posterior pattern specification"
+"5" "embryonic organ development"
+"6" "mediator complex"

@@ -1,0 +1,4 @@
+"x"
+"1" "Diamond.Blackfan.anemia.8"
+"2" "chromosome.5q.deletion.syndrome"
+"3" "glaucoma.1..open.angle..G"

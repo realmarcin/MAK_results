@@ -1,0 +1,7 @@
+	Norman-Roberts syndrome	familial temporal lobe epilepsy 1	complement component 4b deficiency	complement component 4a deficiency	retinitis pigmentosa 66	familial temporal lobe epilepsy 7
+neuronal cell body	1.0	1.0	1.0	1.0	0.0	1.0
+extracellular space	1.0	1.0	1.0	1.0	1.0	1.0
+dendrite	1.0	1.0	1.0	1.0	0.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0	1.0
+axon	1.0	1.0	1.0	1.0	0.0	1.0
+serine-type peptidase activity	1.0	1.0	0.0	0.0	1.0	1.0

@@ -1,0 +1,8 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13	orofaciodigital syndrome type 14	Bardet-Biedl syndrome 10
+embryonic limb morphogenesis	0.0	0.0	0.0	0.0	1.0	0.0
+heart looping	1.0	1.0	1.0	0.0	1.0	0.0
+pattern specification process	0.0	0.0	0.0	0.0	1.0	0.0
+regulation of proteolysis	0.0	0.0	0.0	0.0	1.0	0.0
+non-motile cilium assembly	1.0	1.0	1.0	0.0	1.0	1.0
+centriole elongation	0.0	0.0	0.0	0.0	1.0	0.0
+neural plate axis specification	0.0	0.0	0.0	0.0	1.0	0.0

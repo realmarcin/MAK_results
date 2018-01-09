@@ -1,0 +1,7 @@
+"x"
+"1" "motor neuron axon guidance"
+"2" "positive regulation of transcription from RNA polymerase II promoter"
+"3" "DNA binding"
+"4" "transcription, DNA-templated"
+"5" "negative regulation of apoptotic process"
+"6" "sequence-specific DNA binding"

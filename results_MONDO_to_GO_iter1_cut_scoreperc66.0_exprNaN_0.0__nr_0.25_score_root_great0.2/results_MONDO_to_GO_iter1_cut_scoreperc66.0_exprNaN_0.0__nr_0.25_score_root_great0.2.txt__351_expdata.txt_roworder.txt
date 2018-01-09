@@ -1,0 +1,5 @@
+"x"
+"1" "hypertrophic.cardiomyopathy.8"
+"2" "atrial.fibrillation..familial..18..ATFB18"
+"3" "Joubert.syndrome.3"
+"4" "hypertrophic.cardiomyopathy.10"

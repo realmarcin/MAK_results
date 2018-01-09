@@ -1,0 +1,6 @@
+	nonsyndromic congenital nail disorder 3	"nephrotic syndrome, type 3"	lethal congenital contracture syndrome 3	familial cold autoinflammatory syndrome 3	Auriculocondylar syndrome 2	Autoinflammation-PLCG2-associated antibody deficiency-immune dysregulation	"striatonigral degeneration, childhood-onset; SNDC"	spermatogenic failure 17; SPGF17	"mental retardation, autosomal recessive 59; MRT59"
+protein localization to kinetochore	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+condensed nuclear chromosome kinetochore	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+phosphatidylinositol phospholipase C activity	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+phospholipid catabolic process	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+phosphatidylinositol biosynthetic process	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0

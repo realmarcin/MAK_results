@@ -1,0 +1,7 @@
+	reticular dysgenesis	pontocerebellar hypoplasia type 2B	"microcephaly, seizures, and developmental delay"	pontocerebellar hypoplasia type 10	ataxia-oculomotor apraxia type 4
+nucleotide phosphorylation	1.0	0.0	1.0	0.0	1.0
+nucleotide kinase activity	0.0	0.0	1.0	0.0	1.0
+ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	0.0	0.0	1.0	1.0	1.0
+DNA 3' dephosphorylation involved in DNA repair	0.0	0.0	1.0	0.0	1.0
+polynucleotide 3' dephosphorylation	0.0	0.0	1.0	0.0	1.0
+polynucleotide 3'-phosphatase activity	0.0	0.0	1.0	0.0	1.0

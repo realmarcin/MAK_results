@@ -1,0 +1,9 @@
+	Dent disease type 2	oculocerebrorenal syndrome	Charcot-Marie-tooth disease type 4B2	Charcot-Marie-tooth disease type 4B3	intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome
+cytoplasm	1.0	1.0	1.0	1.0	0.0
+hydrolase activity	1.0	1.0	1.0	1.0	0.0
+protein tyrosine phosphatase activity	0.0	0.0	1.0	1.0	0.0
+protein dephosphorylation	0.0	0.0	0.0	0.0	1.0
+phosphoprotein phosphatase activity	0.0	0.0	0.0	0.0	1.0
+dephosphorylation	0.0	0.0	1.0	1.0	0.0
+phosphatidylinositol dephosphorylation	1.0	1.0	1.0	1.0	0.0
+regulation of GTPase activity	1.0	1.0	1.0	1.0	0.0

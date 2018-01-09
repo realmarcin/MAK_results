@@ -1,0 +1,4 @@
+"x"
+"1" "mitochondrial.dna.depletion.syndrome..myopathic.form"
+"2" "progressive.external.ophthalmoplegia.with.mitochondrial.DNA.deletions..autosomal.recessive.3..PEOB3"
+"3" "progressive.external.ophthalmoplegia.with.mitochondrial.Dna.deletions..autosomal.dominant.4"

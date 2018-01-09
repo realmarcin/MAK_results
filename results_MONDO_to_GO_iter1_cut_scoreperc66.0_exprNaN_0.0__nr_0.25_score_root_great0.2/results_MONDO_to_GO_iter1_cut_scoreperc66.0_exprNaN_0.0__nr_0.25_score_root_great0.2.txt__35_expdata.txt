@@ -1,0 +1,4 @@
+	lactose intolerance (disease)	primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	autosomal dominant nonsyndromic deafness 70
+ATP-dependent four-way junction helicase activity	1.0	1.0	0.0
+single-stranded DNA-dependent ATP-dependent DNA helicase activity	1.0	1.0	1.0
+MCM complex	1.0	1.0	1.0

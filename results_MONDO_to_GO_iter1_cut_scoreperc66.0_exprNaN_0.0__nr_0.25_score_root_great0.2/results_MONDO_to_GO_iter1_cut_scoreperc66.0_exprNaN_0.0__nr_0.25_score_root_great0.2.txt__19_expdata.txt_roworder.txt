@@ -1,0 +1,7 @@
+"x"
+"1" "mitochondrial.DNA.depletion.syndrome.3"
+"2" "mitochondrial.dna.depletion.syndrome..myopathic.form"
+"3" "portal.hypertension..Noncirrhotic..NCPH"
+"4" "progressive.external.ophthalmoplegia.with.mitochondrial.DNA.deletions..autosomal.recessive.3..PEOB3"
+"5" "adult.onset.multiple.mitochondrial.DNA.deletion.syndrome.due.to.DGUOK.deficiency"
+"6" "hemolytic.anemia.due.to.adenylate.kinase.deficiency"

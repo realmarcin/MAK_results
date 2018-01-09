@@ -1,0 +1,5 @@
+"x"
+"1" "short.stature.delayed.bone.age.due.to.thyroid.hormone.metabolism.deficiency"
+"2" "pontocerebellar.hypoplasia.type.2D"
+"3" "Richieri.Costa.Pereira.syndrome"
+"4" "hyperuricemia.pulmonary.hypertension.renal.failure.alkalosis.syndrome"

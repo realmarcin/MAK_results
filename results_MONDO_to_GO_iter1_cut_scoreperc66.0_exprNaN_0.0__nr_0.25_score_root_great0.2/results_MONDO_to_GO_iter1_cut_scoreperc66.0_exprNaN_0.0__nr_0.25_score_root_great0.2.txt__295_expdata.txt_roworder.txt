@@ -1,0 +1,5 @@
+"x"
+"1" "Jawad.syndrome"
+"2" "Seckel.syndrome.2"
+"3" "Grn.related.frontotemporal.lobar.degeneration.with.Tdp43.inclusions"
+"4" "neuronal.ceroid.lipofuscinosis.11"

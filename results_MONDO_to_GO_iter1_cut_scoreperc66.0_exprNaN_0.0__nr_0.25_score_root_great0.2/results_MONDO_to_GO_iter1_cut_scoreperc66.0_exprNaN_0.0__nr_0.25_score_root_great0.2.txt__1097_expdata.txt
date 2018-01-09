@@ -1,0 +1,16 @@
+	cystathioninuria (disease)	"fructose-1,6-bisphosphatase deficiency"	MPI-CDG	Ribose-5-P isomerase deficiency	"short stature, developmental delay, and congenital heart defects;"
+negative regulation of transcription from RNA polymerase II promoter	0.0	1.0	0.0	0.0	0.0
+negative regulation of Ras protein signal transduction	0.0	1.0	0.0	0.0	0.0
+cellular response to drug	0.0	1.0	0.0	0.0	0.0
+cellular response to estrogen stimulus	0.0	1.0	0.0	0.0	0.0
+reactive oxygen species metabolic process	0.0	1.0	0.0	0.0	0.0
+"transcriptional repressor activity, RNA polymerase II transcription factor binding"	0.0	1.0	0.0	0.0	0.0
+phosphatase activity	0.0	1.0	0.0	0.0	0.0
+dephosphorylation	0.0	1.0	0.0	0.0	0.0
+negative regulation of glycolytic process	0.0	1.0	0.0	0.0	0.0
+cellular response to magnesium ion	0.0	1.0	0.0	0.0	0.0
+regulation of gluconeogenesis	0.0	1.0	0.0	0.0	0.0
+phosphoric ester hydrolase activity	0.0	1.0	0.0	0.0	0.0
+sucrose biosynthetic process	0.0	1.0	0.0	0.0	0.0
+periplasmic space	0.0	1.0	0.0	0.0	0.0
+"fructose 1,6-bisphosphate 1-phosphatase activity"	0.0	1.0	0.0	0.0	0.0

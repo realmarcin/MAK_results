@@ -1,0 +1,11 @@
+	immunodeficiency-centromeric instability-facial anomalies syndrome 1	Kabuki syndrome 2	intellectual disability-sparse hair-brachydactyly syndrome	Kleefstra syndrome	"microcephaly 11, primary, autosomal recessive"
+negative regulation of cell growth	0.0	0.0	1.0	0.0	0.0
+"transcription, DNA-templated"	0.0	0.0	1.0	0.0	0.0
+ATPase activity	0.0	0.0	1.0	0.0	0.0
+DNA translocase activity	0.0	0.0	1.0	0.0	0.0
+nBAF complex	0.0	0.0	1.0	0.0	0.0
+SWI/SNF complex	0.0	0.0	1.0	0.0	0.0
+SWI/SNF superfamily-type complex	0.0	0.0	1.0	0.0	0.0
+intermediate filament cytoskeleton	0.0	0.0	1.0	0.0	0.0
+npBAF complex	0.0	0.0	1.0	0.0	0.0
+aortic smooth muscle cell differentiation	0.0	0.0	1.0	0.0	0.0

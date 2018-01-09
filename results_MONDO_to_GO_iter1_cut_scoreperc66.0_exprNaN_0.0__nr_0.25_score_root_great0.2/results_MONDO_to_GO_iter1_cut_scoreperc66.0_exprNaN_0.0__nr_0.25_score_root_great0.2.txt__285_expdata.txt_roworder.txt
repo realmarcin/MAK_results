@@ -1,0 +1,6 @@
+"x"
+"1" "glycine.N.methyltransferase.deficiency"
+"2" "PAND1"
+"3" "hypermethioninemia.with.deficiency.of.S.adenosylhomocysteine.hydrolase"
+"4" "microcephaly..short.stature..and.impaired.glucose.metabolism"
+"5" "guanidinoacetate.methyltransferase.deficiency"

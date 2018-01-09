@@ -1,0 +1,6 @@
+"x"
+"1" "childhood.encephalopathy.due.to.thiamine.pyrophosphokinase.deficiency"
+"2" "mucocutaneous.lymph.node.syndrome"
+"3" "POROK7"
+"4" "porokeratosis.9..multiple.types..POROK9"
+"5" "X3.hydroxy.3.methylglutaryl.CoA.synthase.deficiency"

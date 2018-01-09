@@ -1,0 +1,4 @@
+	"mental retardation, autosomal recessive 2"	autosomal recessive nonsyndromic deafness 61	growth and developmental delay-hypotonia-vision impairment-lactic acidosis syndrome
+negative regulation of ion transmembrane transport	1.0	1.0	0.0
+ion transmembrane transporter activity	0.0	1.0	1.0
+fructose transport	0.0	1.0	0.0

@@ -1,0 +1,10 @@
+	amyotrophic lateral sclerosis-parkinsonism-dementia complex	Wolcott-Rallison syndrome	pulmonary capillary hemangiomatosis	"nasopharyngeal carcinoma, susceptibility to, 3; NPCA3"
+protein kinase activity	1.0	1.0	1.0	1.0
+phosphorylation	1.0	1.0	1.0	1.0
+nucleotide binding	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0
+ATP binding	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	1.0
+protein phosphorylation	1.0	1.0	1.0	1.0
+exocrine pancreas development	1.0	0.0	0.0	1.0
+viral process	0.0	0.0	1.0	1.0

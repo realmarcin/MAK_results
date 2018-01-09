@@ -1,0 +1,15 @@
+	"hypercholesterolemia, autosomal dominant, 3"	apolipoprotein c-Iii deficiency	complex cortical dysplasia with other brain malformations 2
+low-density lipoprotein particle receptor catabolic process	1.0	0.0	0.0
+negative regulation of low-density lipoprotein receptor activity	1.0	0.0	0.0
+apolipoprotein receptor binding	1.0	0.0	1.0
+negative regulation of low-density lipoprotein particle receptor binding	1.0	0.0	0.0
+negative regulation of receptor recycling	1.0	0.0	0.0
+positive regulation of low-density lipoprotein particle receptor catabolic process	1.0	0.0	0.0
+negative regulation of sodium ion transmembrane transporter activity	1.0	0.0	0.0
+receptor inhibitor activity	1.0	0.0	0.0
+PCSK9-AnxA2 complex	1.0	0.0	0.0
+negative regulation of receptor-mediated endocytosis involved in cholesterol transport	1.0	0.0	0.0
+negative regulation of low-density lipoprotein particle clearance	1.0	1.0	0.0
+very-low-density lipoprotein particle binding	1.0	0.0	0.0
+PCSK9-LDLR complex	1.0	0.0	0.0
+low-density lipoprotein receptor particle metabolic process	1.0	0.0	0.0

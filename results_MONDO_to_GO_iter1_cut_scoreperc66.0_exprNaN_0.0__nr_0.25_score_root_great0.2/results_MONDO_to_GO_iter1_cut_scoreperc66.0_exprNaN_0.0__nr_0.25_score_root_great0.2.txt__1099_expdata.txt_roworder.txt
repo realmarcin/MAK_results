@@ -1,0 +1,6 @@
+"x"
+"1" "neurodevelopmental.disorder.with.or.without.anomalies.of.the.brain..eye..or.heart..NEDBEH"
+"2" "immunodeficiency.centromeric.instability.facial.anomalies.syndrome.1"
+"3" "Kabuki.syndrome.2"
+"4" "Kleefstra.syndrome"
+"5" "microcephaly.11..primary..autosomal.recessive"

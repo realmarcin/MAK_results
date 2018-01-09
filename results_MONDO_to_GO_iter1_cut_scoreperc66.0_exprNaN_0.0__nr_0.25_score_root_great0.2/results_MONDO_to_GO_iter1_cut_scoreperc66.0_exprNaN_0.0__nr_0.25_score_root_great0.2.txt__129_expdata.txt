@@ -1,0 +1,8 @@
+	"iridogoniodysgenesis, type 2"	Axenfeld-Rieger syndrome type 1	ring dermoid of cornea	Peters anomaly (disease)
+RNA polymerase II transcription coactivator activity	1.0	1.0	1.0	1.0
+RNA polymerase II activating transcription factor binding	1.0	1.0	1.0	1.0
+"transcriptional repressor activity, RNA polymerase II transcription factor binding"	1.0	1.0	1.0	1.0
+toxin metabolic process	0.0	0.0	0.0	1.0
+xenobiotic metabolic process	0.0	0.0	0.0	1.0
+vascular smooth muscle cell differentiation	1.0	1.0	1.0	1.0
+pulmonary vein morphogenesis	1.0	1.0	1.0	1.0

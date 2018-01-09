@@ -1,0 +1,8 @@
+	renal hypomagnesemia 2	arterial tortuosity syndrome	hereditary hypophosphatemic rickets with hypercalciuria	pulmonary alveolar microlithiasis	creatine transporter deficiency	autosomal recessive proximal renal tubular acidosis	testicular microlithiasis (disease)	"bile acid malabsorption, primary"	Fanconi renotubular syndrome 2	"hypercalcemia, infantile, 2; HCINF2"
+sodium ion transport	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+notochord development	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cardiovascular system development	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+proton transport	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+glucose transmembrane transport	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+sugar:proton symporter activity	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+hexose transmembrane transport	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

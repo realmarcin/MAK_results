@@ -1,0 +1,7 @@
+"x"
+"1" "hereditary.spastic.paraplegia.50"
+"2" "Hermansky.Pudlak.syndrome.2"
+"3" "hereditary.spastic.paraplegia.47"
+"4" "psoriasis.15..pustular..susceptibility.to"
+"5" "epileptic.encephalopathy..early.infantile..48..EIEE48"
+"6" "congenital.neutropenia.myelofibrosis.nephromegaly.syndrome"

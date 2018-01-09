@@ -1,0 +1,7 @@
+"x"
+"1" "orofaciodigital.syndrome.type.14"
+"2" "McKusick.Kaufman.syndrome"
+"3" "Bardet.Biedl.syndrome.6"
+"4" "microcephaly.7..primary..autosomal.recessive"
+"5" "Bardet.Biedl.syndrome.10"
+"6" "Joubert.syndrome.13"

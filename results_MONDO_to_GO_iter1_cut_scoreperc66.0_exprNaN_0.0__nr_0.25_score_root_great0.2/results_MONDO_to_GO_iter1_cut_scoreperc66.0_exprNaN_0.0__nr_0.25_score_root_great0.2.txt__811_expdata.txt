@@ -1,0 +1,7 @@
+	classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency	trimethylaminuria (disease)	"drug metabolism, poor, Cyp2D6-related"	"Efavirenz, poor metabolism of"	CAD-CDG	nucleoside diphosphate-linked Moiety X Motif 15 deficiency; NUDT15D
+steroid hydroxylase activity	1.0	0.0	1.0	1.0	0.0	0.0
+mineralocorticoid biosynthetic process	1.0	0.0	0.0	0.0	0.0	0.0
+steroid 21-monooxygenase activity	1.0	0.0	1.0	0.0	0.0	0.0
+drug metabolic process	0.0	1.0	1.0	1.0	1.0	0.0
+exogenous drug catabolic process	0.0	0.0	0.0	1.0	0.0	1.0
+cellular ketone metabolic process	0.0	0.0	0.0	1.0	0.0	0.0

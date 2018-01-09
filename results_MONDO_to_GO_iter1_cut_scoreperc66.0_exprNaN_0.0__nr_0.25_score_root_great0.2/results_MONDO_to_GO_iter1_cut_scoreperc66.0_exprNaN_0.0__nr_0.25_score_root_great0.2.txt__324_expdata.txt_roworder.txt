@@ -1,0 +1,6 @@
+"x"
+"1" "Sengers.syndrome"
+"2" "cataract.38"
+"3" "immunoglobulin.mediated.membranoproliferative.glomerulonephritis"
+"4" "retinitis.pigmentosa.26"
+"5" "progressive.encephalopathy.with.leukodystrophy.due.to.DECR.deficiency"

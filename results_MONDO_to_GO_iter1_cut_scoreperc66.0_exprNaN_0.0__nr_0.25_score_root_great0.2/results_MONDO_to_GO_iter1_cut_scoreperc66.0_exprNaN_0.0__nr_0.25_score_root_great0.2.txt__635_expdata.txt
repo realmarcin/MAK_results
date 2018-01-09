@@ -1,0 +1,14 @@
+	autosomal dominant optic atrophy and cataract	pantothenate kinase-associated neurodegeneration	3-methylglutaconic aciduria type 3	"Hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration"
+protein homodimerization activity	0.0	0.0	0.0	0.0
+molecular_function	1.0	0.0	1.0	0.0
+mitochondrion	1.0	1.0	1.0	1.0
+camera-type eye development	0.0	0.0	0.0	0.0
+locomotory behavior	1.0	0.0	1.0	0.0
+visual perception	1.0	0.0	1.0	0.0
+neuromuscular process	1.0	0.0	1.0	0.0
+structural constituent of eye lens	0.0	0.0	0.0	0.0
+mitochondrion morphogenesis	1.0	1.0	1.0	1.0
+regulation of lipid metabolic process	1.0	0.0	1.0	0.0
+musculoskeletal movement	1.0	0.0	1.0	0.0
+growth	1.0	0.0	1.0	0.0
+regulation of buoyancy	1.0	0.0	1.0	0.0

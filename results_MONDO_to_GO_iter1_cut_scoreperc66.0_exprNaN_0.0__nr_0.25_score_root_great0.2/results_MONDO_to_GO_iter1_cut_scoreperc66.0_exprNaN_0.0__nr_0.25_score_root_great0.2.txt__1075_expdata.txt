@@ -1,0 +1,7 @@
+	FRAXE intellectual disability	cystic leukoencephalopathy without megalencephaly	THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome	autosomal systemic lupus erythematosus	Trichohepatoenteric syndrome 2	"prostate cancer, hereditary, 2"	Aicardi-Goutieres syndrome 6	combined oxidative phosphorylation defect type 17	platelet-type bleeding disorder 20
+RNA binding	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+nucleic acid binding	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"nuclear-transcribed mRNA catabolic process, non-stop decay"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Ski complex	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

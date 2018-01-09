@@ -1,0 +1,7 @@
+"x"
+"1" "G-protein coupled glutamate receptor signaling pathway"
+"2" "glutamate receptor activity"
+"3" "new growing cell tip"
+"4" "adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway"
+"5" "group III metabotropic glutamate receptor activity"
+"6" "adenylate cyclase inhibiting G-protein coupled glutamate receptor activity"

@@ -1,0 +1,5 @@
+"x"
+"1" "predisposition.to.invasive.fungal.disease.due.to.CARD9.deficiency"
+"2" "FADD.related.immunodeficiency"
+"3" "autoimmune.lymphoproliferative.syndrome.type.2B"
+"4" "herpes.simplex.encephalitis..susceptibility.to..3"

@@ -1,0 +1,5 @@
+	familial cold autoinflammatory syndrome 1	Muckle-Wells syndrome	immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	X-linked hyper-IgM syndrome	CINCA syndrome	acute promyelocytic leukemia	immunodeficiency 18
+positive regulation of interleukin-13 production	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+positive regulation of interleukin-5 production	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+positive regulation of T-helper 2 cell differentiation	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+positive regulation of interleukin-4 production	1.0	1.0	1.0	1.0	1.0	1.0	1.0

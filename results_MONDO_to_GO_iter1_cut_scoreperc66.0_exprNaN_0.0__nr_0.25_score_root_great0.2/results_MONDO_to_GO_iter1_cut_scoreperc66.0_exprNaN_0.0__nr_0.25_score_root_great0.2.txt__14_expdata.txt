@@ -1,0 +1,8 @@
+	iridogoniodysgenesis	Axenfeld-Rieger syndrome type 3	"Camptosynpolydactyly, complex"	Mesoaxial synostotic syndactyly with phalangeal reduction
+cytoplasm	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0
+pectoral fin development	1.0	1.0	1.0	1.0
+"DNA binding, bending"	1.0	1.0	0.0	0.0

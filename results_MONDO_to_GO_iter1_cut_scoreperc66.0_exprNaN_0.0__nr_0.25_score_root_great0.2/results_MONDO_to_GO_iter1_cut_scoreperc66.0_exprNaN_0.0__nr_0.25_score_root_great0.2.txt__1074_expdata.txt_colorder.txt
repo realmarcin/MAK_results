@@ -1,0 +1,7 @@
+"x"
+"1" "demethylase activity"
+"2" "histone H2A-K13 ubiquitination"
+"3" "protein K63-linked ubiquitination"
+"4" "histone H2A-K15 ubiquitination"
+"5" "histone H2A K63-linked ubiquitination"
+"6" "histone H2A ubiquitination"

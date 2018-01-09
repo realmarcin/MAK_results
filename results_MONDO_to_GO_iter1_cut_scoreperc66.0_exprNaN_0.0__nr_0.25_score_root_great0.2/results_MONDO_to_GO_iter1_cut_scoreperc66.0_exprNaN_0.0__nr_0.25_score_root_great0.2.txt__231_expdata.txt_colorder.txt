@@ -1,0 +1,8 @@
+"x"
+"1" "membrane"
+"2" "protein binding"
+"3" "fin development"
+"4" "positive regulation of gene expression"
+"5" "bone development"
+"6" "fin morphogenesis"
+"7" "collagen trimer"

@@ -1,0 +1,21 @@
+	"palmoplantar keratoderma, Nagashima type"	Dowling-Degos disease 4	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome	"muscular dystrophy, limb-girdle, type 2z; LGMD2Z"
+transferase activity	0.0	1.0	0.0	1.0
+multicellular organism development	0.0	1.0	0.0	1.0
+paraxial mesoderm development	0.0	1.0	0.0	1.0
+positive regulation of Notch signaling pathway	0.0	1.0	0.0	1.0
+regulation of Notch signaling pathway	0.0	1.0	0.0	1.0
+endoplasmic reticulum lumen	0.0	1.0	0.0	1.0
+somitogenesis	0.0	1.0	0.0	1.0
+cardiovascular system development	0.0	1.0	0.0	1.0
+axial mesoderm development	0.0	1.0	0.0	1.0
+regulation of gastrulation	0.0	1.0	0.0	1.0
+"transferase activity, transferring glycosyl groups"	0.0	1.0	0.0	1.0
+gastrulation	0.0	1.0	0.0	1.0
+protein O-linked glycosylation	0.0	1.0	0.0	1.0
+protein xylosyltransferase activity	0.0	1.0	0.0	1.0
+glucosyltransferase activity	0.0	1.0	0.0	1.0
+muscle tissue development	0.0	1.0	0.0	1.0
+UDP-xylosyltransferase activity	0.0	1.0	0.0	1.0
+UDP-glucosyltransferase activity	0.0	1.0	0.0	1.0
+glycolipid metabolic process	0.0	1.0	0.0	1.0
+protein O-linked glycosylation via serine	0.0	1.0	0.0	1.0

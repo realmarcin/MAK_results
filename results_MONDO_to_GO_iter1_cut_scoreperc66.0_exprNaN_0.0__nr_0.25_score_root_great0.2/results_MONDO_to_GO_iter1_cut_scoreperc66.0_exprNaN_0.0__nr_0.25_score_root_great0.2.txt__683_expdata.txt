@@ -1,0 +1,6 @@
+	Bloom syndrome	infantile onset spinocerebellar ataxia	"mental retardation, X-linked 102"	"spermatogenic failure, Y-linked, 2"	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal dominant 3"	Perrault syndrome 5	autosomal dominant nonsyndromic deafness 70
+DNA double-strand break processing	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+DNA helicase activity	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA unwinding involved in DNA replication	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+meiotic DNA double-strand break processing	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+single-stranded DNA-dependent ATPase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0

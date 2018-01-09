@@ -1,0 +1,5 @@
+"x"
+"1" "Charcot.Marie.tooth.disease.axonal.type.2K"
+"2" "Charcot.Marie.tooth.disease.type.4A"
+"3" "Charcot.Marie.tooth.disease..axonal..with.vocal.cord.paresis..autosomal.recessive"
+"4" "Charcot.Marie.tooth.disease.recessive.intermediate.a"

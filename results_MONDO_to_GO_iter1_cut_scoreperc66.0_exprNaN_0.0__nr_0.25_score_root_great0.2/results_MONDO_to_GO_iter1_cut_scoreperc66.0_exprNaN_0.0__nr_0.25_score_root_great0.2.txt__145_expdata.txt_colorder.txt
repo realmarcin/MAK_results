@@ -1,0 +1,7 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "retina development in camera-type eye"
+"4" "cell surface receptor signaling pathway"
+"5" "anterior/posterior pattern specification"
+"6" "smoothened signaling pathway"

@@ -1,0 +1,8 @@
+"x"
+"1" "plasma membrane"
+"2" "membrane"
+"3" "integral component of membrane"
+"4" "tricellular tight junction"
+"5" "extracellular space"
+"6" "lens development in camera-type eye"
+"7" "hematopoietic progenitor cell differentiation"

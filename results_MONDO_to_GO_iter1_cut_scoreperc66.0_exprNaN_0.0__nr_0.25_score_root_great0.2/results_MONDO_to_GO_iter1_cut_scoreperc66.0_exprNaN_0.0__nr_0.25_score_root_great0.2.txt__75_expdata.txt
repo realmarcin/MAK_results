@@ -1,0 +1,5 @@
+	hyperprolinemia type 1	hyperprolinemia type 2	schizophrenia 4
+proline metabolic process	1.0	1.0	1.0
+proline dehydrogenase activity	1.0	0.0	1.0
+proline catabolic process to glutamate	1.0	1.0	1.0
+proline catabolic process	1.0	0.0	1.0

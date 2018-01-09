@@ -1,0 +1,5 @@
+"x"
+"1" "myocardial.infarction..susceptibility.to"
+"2" "gamma.glutamylcysteine.synthetase.deficiency"
+"3" "Proteasome.disability.syndrome"
+"4" "porphyria.due.to.ALA.dehydratase.deficiency"

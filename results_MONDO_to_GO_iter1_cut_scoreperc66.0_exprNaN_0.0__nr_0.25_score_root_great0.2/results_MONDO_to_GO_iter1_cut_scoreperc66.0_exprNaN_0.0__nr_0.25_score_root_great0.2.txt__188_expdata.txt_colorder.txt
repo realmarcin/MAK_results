@@ -1,0 +1,6 @@
+"x"
+"1" "fatty acid beta-oxidation"
+"2" "peroxisomal matrix"
+"3" "protein import into peroxisome matrix, docking"
+"4" "ether lipid biosynthetic process"
+"5" "peroxisome matrix targeting signal-2 binding"

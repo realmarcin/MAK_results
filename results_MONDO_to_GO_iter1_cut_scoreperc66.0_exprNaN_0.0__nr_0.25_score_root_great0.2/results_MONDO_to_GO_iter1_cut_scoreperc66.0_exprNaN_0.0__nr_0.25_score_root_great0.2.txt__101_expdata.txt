@@ -1,0 +1,4 @@
+	hereditary breast carcinoma	Sotos syndrome 1	Blepharo-cheilo-odontic syndrome	hereditary diffuse gastric cancer	ovarian cancer	prostate cancer	EEM syndrome	congenital hypotrichosis with juvenile macular dystrophy	endometrial cancer	"spondylocostal dysostosis 2, autosomal recessive"	"tremor, hereditary essential, 5; ETM5"
+ectoderm development	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+gastrulation with mouth forming second	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+neural tube formation	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0

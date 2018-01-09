@@ -1,0 +1,10 @@
+	congenital generalized lipodystrophy type 2	hereditary spastic paraplegia 17	autosomal recessive congenital ichthyosis 8	severe neurodegenerative syndrome with lipodystrophy
+integral component of membrane	1.0	1.0	0.0	1.0
+membrane	1.0	1.0	0.0	1.0
+endoplasmic reticulum	1.0	1.0	0.0	1.0
+fat cell differentiation	1.0	1.0	0.0	1.0
+lipid catabolic process	1.0	1.0	1.0	1.0
+integral component of endoplasmic reticulum membrane	1.0	1.0	0.0	1.0
+negative regulation of lipid catabolic process	1.0	1.0	0.0	1.0
+lipid storage	1.0	1.0	0.0	1.0
+lipid particle organization	1.0	1.0	0.0	1.0

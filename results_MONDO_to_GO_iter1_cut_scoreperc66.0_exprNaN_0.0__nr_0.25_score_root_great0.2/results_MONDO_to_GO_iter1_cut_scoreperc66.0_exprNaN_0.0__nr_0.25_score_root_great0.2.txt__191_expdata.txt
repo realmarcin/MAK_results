@@ -1,0 +1,6 @@
+	rheumatoid arthritis	Uncombable hair syndrome	Preimplantation embryonic lethality 2; PREMBL2
+protein citrullination	1.0	1.0	1.0
+protein-arginine deiminase activity	1.0	1.0	1.0
+histone citrullination	1.0	1.0	1.0
+regulation of translation by machinery localization	0.0	0.0	1.0
+cytoplasm organization	0.0	0.0	1.0

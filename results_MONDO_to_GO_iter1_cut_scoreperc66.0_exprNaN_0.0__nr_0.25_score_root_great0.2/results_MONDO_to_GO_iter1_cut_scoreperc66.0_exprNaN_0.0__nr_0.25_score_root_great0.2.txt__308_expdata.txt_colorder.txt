@@ -1,0 +1,7 @@
+"x"
+"1" "heme biosynthetic process"
+"2" "protoporphyrinogen IX biosynthetic process"
+"3" "tetrapyrrole biosynthetic process"
+"4" "catalytic activity"
+"5" "porphyrin-containing compound biosynthetic process"
+"6" "uroporphyrinogen-III synthase activity"

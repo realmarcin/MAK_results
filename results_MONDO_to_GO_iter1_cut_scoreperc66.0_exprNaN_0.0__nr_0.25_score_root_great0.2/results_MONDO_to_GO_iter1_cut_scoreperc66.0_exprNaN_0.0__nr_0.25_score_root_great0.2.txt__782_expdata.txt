@@ -1,0 +1,7 @@
+	congenital plasminogen activator inhibitor type 1 deficiency	Adams-Oliver syndrome 3	"aortic aneurysm, familial thoracic 8"	familial temporal lobe epilepsy 8
+negative regulation of smooth muscle cell migration	1.0	1.0	1.0	0.0
+cGMP-dependent protein kinase activity	0.0	0.0	1.0	0.0
+negative regulation of inositol phosphate biosynthetic process	0.0	0.0	1.0	0.0
+positive regulation of large conductance calcium-activated potassium channel activity	0.0	0.0	1.0	1.0
+mitogen-activated protein kinase p38 binding	0.0	0.0	1.0	0.0
+relaxation of vascular smooth muscle	0.0	0.0	1.0	0.0

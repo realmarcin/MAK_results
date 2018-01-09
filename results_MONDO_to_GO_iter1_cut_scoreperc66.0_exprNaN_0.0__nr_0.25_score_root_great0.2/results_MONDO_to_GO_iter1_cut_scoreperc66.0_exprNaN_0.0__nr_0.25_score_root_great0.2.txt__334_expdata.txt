@@ -1,0 +1,8 @@
+	WHIM syndrome	hypotrichosis 8	"vas deferens, congenital bilateral aplasia of, X-linked; CBAVDX"	bilateral frontoparietal polymicrogyria	"polymicrogyria, bilateral perisylvian, autosomal recessive"	lethal congenital contracture syndrome 9
+G-protein coupled receptor activity	1.0	1.0	1.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0
+cell migration	1.0	0.0	0.0	1.0	1.0	0.0
+extracellular matrix binding	0.0	0.0	0.0	1.0	1.0	1.0
+collagen binding	0.0	0.0	0.0	1.0	1.0	1.0
+positive regulation of Rho protein signal transduction	0.0	1.0	0.0	1.0	1.0	0.0
+IkappaB kinase complex	0.0	0.0	1.0	1.0	1.0	0.0

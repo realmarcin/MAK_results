@@ -1,0 +1,4 @@
+	nail-patella syndrome	wolf-Hirschhorn syndrome	"facial paresis, hereditary congenital, 3"	osteogenesis imperfecta type 15	childhood onset epileptic encephalopathy	craniosynostosis 6
+glutamatergic neuron differentiation	1.0	0.0	0.0	0.0	0.0	0.0
+fourth ventricle development	1.0	1.0	1.0	1.0	0.0	1.0
+nucleosome organization	0.0	0.0	1.0	0.0	1.0	0.0

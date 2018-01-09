@@ -1,0 +1,5 @@
+"x"
+"1" "UDP-N-acetylglucosamine transferase complex"
+"2" "dolichyl diphosphate biosynthetic process"
+"3" "UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity"
+"4" "phospho-N-acetylmuramoyl-pentapeptide-transferase activity"

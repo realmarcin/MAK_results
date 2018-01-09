@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.recessive.early.onset.Parkinson.disease.7"
+"2" "acromelic.frontonasal.dysostosis"
+"3" "chondrodysplasia.with.joint.dislocations..gPAPP.type"
+"4" "nucleoside.diphosphate.linked.Moiety.X.Motif.15.deficiency..NUDT15D"

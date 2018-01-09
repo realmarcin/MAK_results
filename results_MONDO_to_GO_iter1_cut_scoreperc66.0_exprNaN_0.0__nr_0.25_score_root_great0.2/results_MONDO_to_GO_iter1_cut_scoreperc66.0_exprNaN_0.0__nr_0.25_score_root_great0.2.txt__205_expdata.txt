@@ -1,0 +1,6 @@
+	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1"	pseudohypoparathyroidism type 1B	autosomal recessive limb-girdle muscular dystrophy type 2K	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 2"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 1"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 2"	autosomal recessive limb-girdle muscular dystrophy type 2N	peroxisome biogenesis disorder 12A (Zellweger)
+regulation of endoplasmic reticulum unfolded protein response	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+ER-associated misfolded protein catabolic process	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+dolichyl-phosphate-mannose-protein mannosyltransferase activity	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0
+protein exit from endoplasmic reticulum	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt4p homodimer complex	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

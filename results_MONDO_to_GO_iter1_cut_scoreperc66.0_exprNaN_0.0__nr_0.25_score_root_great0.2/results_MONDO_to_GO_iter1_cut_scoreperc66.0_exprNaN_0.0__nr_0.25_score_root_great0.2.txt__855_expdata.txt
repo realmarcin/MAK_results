@@ -1,0 +1,8 @@
+	hypertrophic cardiomyopathy 4	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	three M syndrome 2	tuberous sclerosis 2	"arthrogryposis, distal, type 1B"	lethal congenital contracture syndrome 4	left ventricular noncompaction 10
+actin binding	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of heart rate	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+muscle contraction	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+Z disc	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+structural molecule activity conferring elasticity	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+myofibril assembly	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cardiac muscle fiber development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "myopia.23..autosomal.recessive"
+"2" "epidermodysplasia.verruciformis"
+"3" "Parkinson.disease.11..autosomal.dominant..susceptibility.to"
+"4" "juvenile.onset.Parkinson.disease.19A"
+"5" "CCDC115.CDG"

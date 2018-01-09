@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of glutamatergic neuron differentiation"
+"2" "membrane"
+"3" "identical protein binding"
+"4" "endoplasmic reticulum"
+"5" "intracellular membrane-bounded organelle"
+"6" "endoplasmic reticulum membrane"

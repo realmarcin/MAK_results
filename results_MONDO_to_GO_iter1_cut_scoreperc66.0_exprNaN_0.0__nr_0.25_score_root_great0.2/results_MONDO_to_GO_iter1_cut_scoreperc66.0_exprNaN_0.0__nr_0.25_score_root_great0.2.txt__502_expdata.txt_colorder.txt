@@ -1,0 +1,6 @@
+"x"
+"1" "nucleosome positioning"
+"2" "nucleosome mobilization"
+"3" "heterochromatin assembly involved in chromatin silencing"
+"4" "histone H3 deacetylation"
+"5" "nuclear replication fork"

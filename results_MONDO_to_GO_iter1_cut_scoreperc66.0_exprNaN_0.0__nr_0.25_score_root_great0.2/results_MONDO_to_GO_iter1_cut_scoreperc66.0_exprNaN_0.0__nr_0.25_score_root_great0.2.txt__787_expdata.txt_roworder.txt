@@ -1,0 +1,5 @@
+"x"
+"1" "Marinesco.SjC6gren.syndrome"
+"2" "autosomal.dominant.aplasia.and.myelodysplasia"
+"3" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"
+"4" "frontotemporal.dementia.and.or.amyotrophic.lateral.sclerosis.1"

@@ -1,0 +1,5 @@
+"x"
+"1" "mitotic G1 DNA damage checkpoint"
+"2" "identical protein binding"
+"3" "negative regulation of transcription, DNA-templated"
+"4" "cellular response to DNA damage stimulus"

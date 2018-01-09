@@ -1,0 +1,5 @@
+	oculocutaneous albinism type 2	Woodhouse-Sakati syndrome	Schimke immuno-osseous dysplasia	xeroderma pigmentosum group A	xeroderma pigmentosum group C	xeroderma pigmentosum group E	xeroderma pigmentosum group G	"X-linked intellectual disability, Cabezas type"	giant axonal neuropathy 2	Cerebrooculofacioskeletal syndrome 4	"melanoma, cutaneous malignant, susceptibility to, 5"	karyomegalic interstitial nephritis	PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation	Cerebrooculofacioskeletal syndrome 3
+"nucleotide-excision repair, DNA incision"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+UV-damage excision repair	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
+Cul4-RING E3 ubiquitin ligase complex	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+DNA replication factor A complex	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "endoplasmic reticulum"
+"2" "cytoplasm"
+"3" "Golgi apparatus"
+"4" "vesicle"
+"5" "negative regulation of protein binding"
+"6" "endoplasmic reticulum-Golgi intermediate compartment"

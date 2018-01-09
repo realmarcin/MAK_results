@@ -1,0 +1,8 @@
+	dyschromatosis symmetrica hereditaria	autosomal dominant nonsyndromic deafness 5	holoprosencephaly 9	"leukemia, acute lymphocytic, susceptibility to, 1"	Aicardi-Goutieres syndrome 6	postaxial polydactyly-anterior pituitary anomalies-facial dysmorphism syndrome
+cell differentiation	0.0	0.0	1.0	1.0	0.0	1.0
+brain development	0.0	0.0	1.0	1.0	0.0	1.0
+"transcription, DNA-templated"	1.0	0.0	1.0	1.0	1.0	1.0
+cell proliferation	0.0	0.0	1.0	1.0	0.0	1.0
+sequence-specific DNA binding	0.0	0.0	1.0	1.0	0.0	1.0
+heart development	0.0	0.0	1.0	1.0	0.0	1.0
+cellular response to virus	1.0	1.0	1.0	1.0	1.0	1.0

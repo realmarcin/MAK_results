@@ -1,0 +1,7 @@
+"x"
+"1" "congenital.diarrhea.7.with.exudative.enteropathy"
+"2" "severe.intellectual.disability.epilepsy.cataract.syndrome.due.to.fatty.acyl.CoA.reductase.1.deficiency"
+"3" "apolipoprotein.c.Iii.deficiency"
+"4" "diabetes.mellitus..Noninsulin.dependent"
+"5" "protoporphyria..erythropoietic"
+"6" "mental.retardation..X.linked.63"

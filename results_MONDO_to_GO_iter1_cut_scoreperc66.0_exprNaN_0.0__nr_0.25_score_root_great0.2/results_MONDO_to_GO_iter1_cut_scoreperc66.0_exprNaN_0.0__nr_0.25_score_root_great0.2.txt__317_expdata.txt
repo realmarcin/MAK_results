@@ -1,0 +1,8 @@
+	Spitz nevus	"migraine with or without aura, susceptibility to, 1"	linear nevus sebaceus syndrome	"thyroid cancer, nonmedullary, 2"	juvenile rheumatoid arthritis	BCC1
+protein complex binding	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of MAP kinase activity	1.0	1.0	1.0	1.0	1.0	0.0
+cell aging	1.0	0.0	1.0	1.0	1.0	0.0
+positive regulation of protein phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of fibroblast proliferation	1.0	1.0	1.0	1.0	1.0	1.0
+activation of protein kinase B activity	0.0	0.0	0.0	0.0	0.0	0.0
+glial cell development	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,4 @@
+	PSORS7	inflammatory bowel disease 17	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency
+interleukin-23 binding	1.0	1.0	1.0
+interleukin-23 receptor activity	1.0	1.0	1.0
+interleukin-12 receptor activity	0.0	0.0	1.0

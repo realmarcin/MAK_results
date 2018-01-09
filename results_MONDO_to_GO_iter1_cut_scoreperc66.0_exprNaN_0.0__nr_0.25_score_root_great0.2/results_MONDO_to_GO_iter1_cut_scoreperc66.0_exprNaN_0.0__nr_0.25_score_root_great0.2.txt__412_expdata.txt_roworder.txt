@@ -1,0 +1,7 @@
+"x"
+"1" "Wolfram.syndrome.2"
+"2" "oculocutaneous.albinism.type.3"
+"3" "X.linked.cerebral.adrenoleukodystrophy"
+"4" "congenital.bile.acid.synthesis.defect.5"
+"5" "Spondyloenchondrodysplasia.with.immune.dysregulation"
+"6" "peroxisome.biogenesis.disorder.12A..Zellweger."

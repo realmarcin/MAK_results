@@ -1,0 +1,6 @@
+"x"
+"1" "mitochondrion"
+"2" "mitochondrial matrix"
+"3" "molecular_function"
+"4" "RNA binding"
+"5" "iron-sulfur cluster assembly"

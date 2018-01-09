@@ -1,0 +1,8 @@
+	X-linked intellectual disability-short stature-overweight syndrome	syndromic X-linked intellectual disability 34	"spinocerebellar ataxia, autosomal recessive 1"	parathyroid gland carcinoma	childhood onset epileptic encephalopathy	pontocerebellar hypoplasia type 10
+donor selection	0.0	0.0	0.0	0.0	0.0	0.0
+growth plate cartilage chondrocyte proliferation	0.0	0.0	0.0	0.0	0.0	0.0
+mRNA 3'-end processing	1.0	1.0	0.0	1.0	0.0	1.0
+termination of RNA polymerase II transcription	0.0	0.0	1.0	0.0	1.0	0.0
+centromeric DNA binding	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of transcription elongation from RNA polymerase I promoter	1.0	0.0	0.0	1.0	0.0	0.0
+transcription elongation from RNA polymerase II promoter	1.0	0.0	0.0	1.0	1.0	0.0

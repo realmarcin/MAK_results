@@ -1,0 +1,6 @@
+"x"
+"1" "premature.ovarian.failure.7"
+"2" "X46.XY.sex.reversal.3"
+"3" "spermatogenic.failure.8"
+"4" "mullerian.aplasia.and.hyperandrogenism"
+"5" "SERKAL.syndrome"

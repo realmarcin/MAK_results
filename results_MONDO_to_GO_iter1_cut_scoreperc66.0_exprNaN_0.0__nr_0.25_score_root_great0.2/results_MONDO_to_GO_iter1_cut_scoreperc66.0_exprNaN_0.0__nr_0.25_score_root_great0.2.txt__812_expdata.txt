@@ -1,0 +1,10 @@
+	Keutel syndrome	synpolydactyly type 2	familial retinal arterial macroaneurysm	"aortic aneurysm, familial thoracic 9"
+multicellular organism development	0.0	1.0	0.0	0.0
+skin morphogenesis	0.0	1.0	0.0	0.0
+proteinaceous extracellular matrix	0.0	1.0	0.0	1.0
+heart development	0.0	1.0	0.0	0.0
+extracellular region	1.0	1.0	1.0	1.0
+peptidase activator activity	0.0	1.0	0.0	0.0
+extracellular matrix organization	0.0	1.0	0.0	0.0
+mesenchymal cell migration	0.0	1.0	0.0	0.0
+embryonic medial fin morphogenesis	0.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+	agnathia-otocephaly complex	split hand-foot malformation 1 with sensorineural hearing loss	Athabaskan brainstem dysgenesis syndrome	short stature-auditory canal atresia-mandibular hypoplasia-skeletal anomalies syndrome	van der Woude syndrome 2	Hirschsprung disease-ganglioneuroblastoma syndrome
+sequence-specific DNA binding	1.0	1.0	1.0	1.0	1.0	1.0
+anatomical structure formation involved in morphogenesis	0.0	1.0	1.0	0.0	0.0	0.0
+RNA polymerase II proximal promoter sequence-specific DNA binding	1.0	1.0	0.0	1.0	0.0	1.0
+HMG box domain binding	1.0	1.0	0.0	0.0	0.0	0.0
+palate development	1.0	1.0	0.0	0.0	0.0	0.0
+cellular response to BMP stimulus	0.0	1.0	0.0	0.0	0.0	1.0
+ear development	0.0	1.0	0.0	1.0	0.0	0.0

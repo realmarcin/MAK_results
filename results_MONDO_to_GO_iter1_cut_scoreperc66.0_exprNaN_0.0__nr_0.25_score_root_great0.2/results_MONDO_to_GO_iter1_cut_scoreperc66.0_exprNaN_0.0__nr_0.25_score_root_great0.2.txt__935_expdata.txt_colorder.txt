@@ -1,0 +1,8 @@
+"x"
+"1" "negative regulation of immune response"
+"2" "negative regulation of T cell proliferation"
+"3" "negative regulation of lymphocyte proliferation"
+"4" "protein complex involved in cell adhesion"
+"5" "clathrin-coated endocytic vesicle"
+"6" "negative regulation of regulatory T cell differentiation"
+"7" "negative regulation of B cell proliferation"

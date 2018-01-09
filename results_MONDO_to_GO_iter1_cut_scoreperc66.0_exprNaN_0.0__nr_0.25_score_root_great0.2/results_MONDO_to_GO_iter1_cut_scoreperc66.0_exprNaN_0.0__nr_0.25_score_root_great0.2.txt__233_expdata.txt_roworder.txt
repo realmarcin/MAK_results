@@ -1,0 +1,7 @@
+"x"
+"1" "autosomal.recessive.distal.spinal.muscular.atrophy.1"
+"2" "Charcot.Marie.tooth.disease.axonal.type.2S"
+"3" "mental.retardation..X.linked.102"
+"4" "TARP.syndrome"
+"5" "Singleton.Merten.syndrome.2"
+"6" "platelet.type.bleeding.disorder.20"

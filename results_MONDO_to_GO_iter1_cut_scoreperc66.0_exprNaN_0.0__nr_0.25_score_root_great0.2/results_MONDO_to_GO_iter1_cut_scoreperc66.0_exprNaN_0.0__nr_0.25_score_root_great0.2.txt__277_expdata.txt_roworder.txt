@@ -1,0 +1,6 @@
+"x"
+"1" "Hurler.syndrome"
+"2" "Hurler.Scheie.syndrome"
+"3" "Scheie.syndrome"
+"4" "Sanfilippo.syndrome.type.A"
+"5" "Bartter.disease.type.1"

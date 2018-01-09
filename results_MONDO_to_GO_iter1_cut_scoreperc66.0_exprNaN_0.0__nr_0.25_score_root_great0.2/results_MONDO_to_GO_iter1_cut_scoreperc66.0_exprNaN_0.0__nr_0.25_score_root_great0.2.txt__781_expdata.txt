@@ -1,0 +1,7 @@
+	"mental retardation, autosomal recessive 5"	cataract 36	"autism, susceptibility to, 19"	Al-Raqad syndrome
+chromatoid body	1.0	1.0	1.0	0.0
+P granule organization	0.0	1.0	0.0	0.0
+P granule	0.0	1.0	0.0	0.0
+mRNA cap binding complex	0.0	0.0	1.0	0.0
+RNA 7-methylguanosine cap binding	0.0	0.0	1.0	1.0
+eukaryotic initiation factor 4G binding	0.0	0.0	1.0	0.0

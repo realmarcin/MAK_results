@@ -1,0 +1,5 @@
+	"blepharophimosis-intellectual disability syndrome, MKB type"	FG syndrome 1	X-linked intellectual disability with marfanoid habitus	dextro-looped transposition of the great arteries 1	infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly	cardiac anomalies-developmental delay-facial dysmorphism syndrome
+pineal gland development	1.0	1.0	1.0	0.0	0.0	0.0
+mediator complex	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of myeloid leukocyte differentiation	1.0	1.0	1.0	0.0	0.0	0.0
+RNA polymerase II transcription cofactor activity	1.0	1.0	1.0	1.0	1.0	1.0

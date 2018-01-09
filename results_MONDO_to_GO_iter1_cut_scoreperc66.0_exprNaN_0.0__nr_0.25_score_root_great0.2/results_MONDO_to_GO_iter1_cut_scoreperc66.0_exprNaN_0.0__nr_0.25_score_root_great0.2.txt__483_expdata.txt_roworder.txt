@@ -1,0 +1,6 @@
+"x"
+"1" "Hermansky.Pudlak.syndrome.2"
+"2" "Hermansky.Pudlak.syndrome.10..HPS10"
+"3" "epileptic.encephalopathy..early.infantile..48..EIEE48"
+"4" "arthrogryposis..renal.dysfunction..and.cholestasis.1"
+"5" "mucopolysaccharidosis.plus.syndrome..MPSPS"

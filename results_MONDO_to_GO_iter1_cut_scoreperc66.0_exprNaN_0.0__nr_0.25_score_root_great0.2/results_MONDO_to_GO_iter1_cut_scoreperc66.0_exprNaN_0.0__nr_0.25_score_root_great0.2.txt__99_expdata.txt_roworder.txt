@@ -1,0 +1,6 @@
+"x"
+"1" "X.linked.distal.spinal.muscular.atrophy.type.3"
+"2" "occipital.horn.syndrome"
+"3" "Menkes.disease"
+"4" "Takenouchi.Kosaki.syndrome..TKS"
+"5" "mast.syndrome"

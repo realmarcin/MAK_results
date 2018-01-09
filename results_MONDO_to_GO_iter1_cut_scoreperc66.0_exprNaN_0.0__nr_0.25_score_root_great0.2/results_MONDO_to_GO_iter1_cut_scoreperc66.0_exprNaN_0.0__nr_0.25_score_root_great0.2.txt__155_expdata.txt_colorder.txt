@@ -1,0 +1,8 @@
+"x"
+"1" "single-stranded DNA binding"
+"2" "DNA replication"
+"3" "nucleotide binding"
+"4" "helicase activity"
+"5" "DNA helicase activity"
+"6" "DNA unwinding involved in DNA replication"
+"7" "mitochondrial DNA replication"

@@ -1,0 +1,6 @@
+"x"
+"1" "severe.combined.immunodeficiency..autosomal.recessive..T.cell.negative..b.cell.positive..Nk.cell.positive"
+"2" "hypoparathyroidism.deafness.renal.disease.syndrome"
+"3" "leukemia..acute.lymphocytic..susceptibility.to..1"
+"4" "Bohring.Opitz.syndrome"
+"5" "myelodysplastic.syndrome"

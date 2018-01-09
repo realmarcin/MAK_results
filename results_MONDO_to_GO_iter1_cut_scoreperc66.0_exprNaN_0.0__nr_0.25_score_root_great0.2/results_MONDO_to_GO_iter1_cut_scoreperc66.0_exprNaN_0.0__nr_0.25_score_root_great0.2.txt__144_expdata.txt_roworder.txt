@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.dominant.centronuclear.myopathy"
+"2" "Charcot.Marie.tooth.disease.dominant.intermediate.b"
+"3" "fetal.akinesia.cerebral.and.retinal.hemorrhage.syndrome"
+"4" "epileptic.encephalopathy..early.infantile..31"

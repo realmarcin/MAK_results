@@ -1,0 +1,8 @@
+"x"
+"1" "Colchicine.resistance"
+"2" "inflammatory.bowel.disease.13"
+"3" "autosomal.recessive.osteopetrosis.3"
+"4" "tetraamelia.multiple.malformations.syndrome"
+"5" "Allan.Herndon.Dudley.syndrome"
+"6" "megalencephalic.leukoencephalopathy.with.subcortical.cysts"
+"7" "Sessile.Serrated.polyposis.cancer.syndrome..SSPCS"

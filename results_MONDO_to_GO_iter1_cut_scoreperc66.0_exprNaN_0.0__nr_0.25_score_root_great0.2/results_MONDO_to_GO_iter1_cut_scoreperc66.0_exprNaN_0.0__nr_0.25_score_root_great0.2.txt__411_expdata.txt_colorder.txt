@@ -1,0 +1,8 @@
+"x"
+"1" "nucleotide binding"
+"2" "ATP binding"
+"3" "chromatin remodeling"
+"4" "DNA-dependent ATPase activity"
+"5" "chromosome, centromeric region"
+"6" "chromatin silencing at silent mating-type cassette"
+"7" "chromatin silencing at telomere"

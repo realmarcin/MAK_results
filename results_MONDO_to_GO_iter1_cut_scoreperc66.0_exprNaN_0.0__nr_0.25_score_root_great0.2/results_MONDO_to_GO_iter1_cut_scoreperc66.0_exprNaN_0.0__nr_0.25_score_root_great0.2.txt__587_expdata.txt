@@ -1,0 +1,9 @@
+	atransferrinemia	hemochromatosis type 3	TFRC-related combined immunodeficiency
+ferrous iron import across plasma membrane	1.0	1.0	0.0
+cell tip	1.0	0.0	0.0
+vesicle coat	1.0	0.0	0.0
+ferric iron transmembrane transporter activity	1.0	0.0	0.0
+transferrin transport	0.0	1.0	1.0
+transferrin receptor activity	0.0	1.0	1.0
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	0.0	1.0	1.0
+positive regulation of protein maturation	0.0	1.0	0.0

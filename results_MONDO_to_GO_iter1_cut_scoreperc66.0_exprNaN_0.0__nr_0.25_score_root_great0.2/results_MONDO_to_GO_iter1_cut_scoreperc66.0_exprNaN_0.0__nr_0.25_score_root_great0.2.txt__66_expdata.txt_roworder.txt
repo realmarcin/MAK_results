@@ -1,0 +1,7 @@
+"x"
+"1" "pigmented.nodular.adrenocortical.disease..primary..2"
+"2" "cone.dystrophy.4"
+"3" "dyskinesia..limb.and.orofacial..infantile.onset..IOLOD"
+"4" "striatal.degeneration..autosomal.dominant.2..ADSD2"
+"5" "retinal.cone.dystrophy.3A"
+"6" "retinitis.pigmentosa.57"

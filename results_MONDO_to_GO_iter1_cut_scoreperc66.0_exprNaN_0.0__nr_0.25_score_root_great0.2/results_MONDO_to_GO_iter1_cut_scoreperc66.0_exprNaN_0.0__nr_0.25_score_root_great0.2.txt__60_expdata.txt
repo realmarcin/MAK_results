@@ -1,0 +1,5 @@
+	"tooth agenesis, selective, 1"	cleidocranial dysplasia	metaphyseal dysplasia-maxillary hypoplasia-brachydacty syndrome	"migraine with or without aura, susceptibility to, 1"	parietal foramina 1	parietal foramina with cleidocranial dysplasia	tooth and nail syndrome	"craniosynostosis, Boston type"	"myocardial infarction, susceptibility to"	orofacial cleft 5	congenital diarrhea 5 with tufting enteropathy	"colorectal cancer, hereditary nonpolyposis, type 8"	vesicoureteral reflux 3	alpha-2-Macroglobulin deficiency	estrogen resistance syndrome	Luscan-Lumish syndrome; LLS
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+stem cell differentiation	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

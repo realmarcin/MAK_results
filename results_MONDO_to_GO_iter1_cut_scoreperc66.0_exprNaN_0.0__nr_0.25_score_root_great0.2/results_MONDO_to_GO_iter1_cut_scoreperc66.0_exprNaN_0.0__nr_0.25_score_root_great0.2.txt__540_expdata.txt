@@ -1,0 +1,5 @@
+	autosomal dominant nonsyndromic deafness 12	autosomal recessive nonsyndromic deafness 21	autosomal recessive nonsyndromic deafness 84B	autosomal recessive nonsyndromic deafness 18B
+otolith tethering	1.0	1.0	0.0	1.0
+L-arabinose metabolic process	0.0	0.0	1.0	1.0
+alpha-L-arabinofuranosidase activity	0.0	0.0	1.0	1.0
+otolith formation	0.0	0.0	0.0	1.0

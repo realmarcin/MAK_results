@@ -1,0 +1,8 @@
+"x"
+"1" "hydrolase activity"
+"2" "3',5'-cyclic-nucleotide phosphodiesterase activity"
+"3" "3',5'-cyclic-GMP phosphodiesterase activity"
+"4" "cGMP binding"
+"5" "signal transduction"
+"6" "metal ion binding"
+"7" "phosphoric diester hydrolase activity"

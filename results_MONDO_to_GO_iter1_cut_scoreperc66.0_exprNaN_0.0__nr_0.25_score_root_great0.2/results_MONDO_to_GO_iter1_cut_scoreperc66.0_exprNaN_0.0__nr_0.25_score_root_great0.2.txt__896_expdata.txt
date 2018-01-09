@@ -1,0 +1,6 @@
+	Hermansky-Pudlak syndrome 1	Chediak-Higashi syndrome	inclusion-cell disease	pseudo-Hurler polydystrophy	mucolipidosis type III gamma	autosomal agammaglobulinemia	DPAGT1-CDG	"myocardial infarction, susceptibility to"	"agammaglobulinemia 2, autosomal recessive"	Hermansky-Pudlak syndrome 8	recurrent infections associated with rare immunoglobulin isotypes deficiency	hyperphosphatasia with mental retardation syndrome 2	congenital myasthenic syndrome 13	"herpes simplex encephalitis, susceptibility to, 4"
+secretion of lysosomal enzymes	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+positive regulation of natural killer cell activation	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+"transferase activity, transferring phosphorus-containing groups"	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of B cell activation	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0

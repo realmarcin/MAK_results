@@ -1,0 +1,7 @@
+"x"
+"1" "Abruzzo.Erickson.syndrome"
+"2" "cleft.palate.with.or.without.ankyloglossia..X.linked"
+"3" "ventricular.septal.defect.2"
+"4" "atrial.heart.septal.defect.8"
+"5" "X3MC.syndrome.3"
+"6" "X3MC.syndrome.2"

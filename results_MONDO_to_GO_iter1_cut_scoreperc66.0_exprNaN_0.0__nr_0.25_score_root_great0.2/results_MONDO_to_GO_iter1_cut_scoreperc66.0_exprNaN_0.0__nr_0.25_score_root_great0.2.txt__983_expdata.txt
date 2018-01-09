@@ -1,0 +1,7 @@
+	cystathioninuria (disease)	gamma-glutamyl transpeptidase deficiency	classic homocystinuria	"neural tube defects, folate-Sensitive"	"spondyloepimetaphyseal dysplasia, Pakistani type"	craniosynostosis and dental anomalies
+cysteine biosynthetic process	1.0	1.0	1.0	0.0	1.0	0.0
+"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"	0.0	0.0	0.0	0.0	1.0	0.0
+sulfate adenylyltransferase (ATP) activity	0.0	0.0	0.0	0.0	1.0	0.0
+adenylylsulfate kinase activity	0.0	0.0	0.0	0.0	1.0	0.0
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process	0.0	0.0	0.0	0.0	1.0	0.0
+sulfate assimilation	0.0	0.0	0.0	0.0	1.0	0.0

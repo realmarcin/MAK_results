@@ -1,0 +1,7 @@
+	male infertility due to large-headed multiflagellar polyploid spermatozoa	multiple myeloma	DNA ligase IV deficiency	dilated cardiomyopathy 1T	Nestor-Guillermo progeria syndrome	"mental retardation, autosomal dominant 40"
+DNA recombination	0.0	1.0	1.0	0.0	0.0	0.0
+double-strand break repair	0.0	1.0	1.0	0.0	0.0	0.0
+four-way junction DNA binding	0.0	0.0	0.0	0.0	0.0	0.0
+condensed chromosome	1.0	1.0	1.0	1.0	1.0	1.0
+double-strand break repair via nonhomologous end joining	0.0	1.0	1.0	0.0	0.0	0.0
+DNA ligase activity	0.0	1.0	1.0	0.0	0.0	0.0

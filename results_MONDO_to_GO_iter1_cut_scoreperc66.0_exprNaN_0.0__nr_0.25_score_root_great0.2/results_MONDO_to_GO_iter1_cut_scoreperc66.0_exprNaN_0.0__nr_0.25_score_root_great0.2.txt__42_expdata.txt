@@ -1,0 +1,12 @@
+	renal-hepatic-pancreatic dysplasia 1	NPHP3-related Meckel-like syndrome	nephronophthisis 3	primary ciliary dyskinesia 15
+phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	0.0	0.0	0.0	0.0
+cilium assembly	1.0	1.0	1.0	1.0
+determination of liver left/right asymmetry	1.0	1.0	1.0	1.0
+determination of pancreatic left/right asymmetry	1.0	1.0	1.0	1.0
+lung development	1.0	1.0	1.0	1.0
+heart looping	1.0	1.0	1.0	1.0
+determination of left/right symmetry	1.0	1.0	1.0	1.0
+kidney development	1.0	1.0	1.0	0.0
+pronephros development	1.0	1.0	1.0	1.0
+cilium	1.0	1.0	1.0	1.0
+heart jogging	1.0	1.0	1.0	1.0

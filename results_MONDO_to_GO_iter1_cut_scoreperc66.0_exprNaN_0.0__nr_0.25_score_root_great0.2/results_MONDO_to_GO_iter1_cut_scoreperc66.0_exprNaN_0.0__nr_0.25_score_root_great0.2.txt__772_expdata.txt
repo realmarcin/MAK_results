@@ -1,0 +1,6 @@
+	Adenylosuccinate lyase deficiency	Friedreich ataxia	pantothenate kinase-associated neurodegeneration	congenital disorder of glycosylation type 1C	"Hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration"	DPAGT1-CDG	AICA-ribosiduria	Pyridoxal phosphate-responsive seizures	hypotonia-failure to thrive-microcephaly syndrome	acatalasia	congenital myasthenic syndrome 13	lower motor neuron syndrome with late-adult onset	FTDALS2	autosomal dominant mitochondrial myopathy with exercise intolerance	"Parkinson disease 22, autosomal dominant; PARK22"	"sudden cardiac failure, infantile; SCFI"	"sudden cardiac failure, alcohol-induced; SCFAI"
+mitochondrion	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+aerobic respiration	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrial inner membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mitochondrial membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mitochondrial intermembrane space	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0

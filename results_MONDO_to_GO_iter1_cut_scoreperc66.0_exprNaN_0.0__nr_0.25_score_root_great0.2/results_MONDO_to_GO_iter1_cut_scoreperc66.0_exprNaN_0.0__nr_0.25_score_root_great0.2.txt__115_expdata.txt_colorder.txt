@@ -1,0 +1,6 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "hydrolase activity"
+"4" "lysosome"
+"5" "acid phosphatase activity"

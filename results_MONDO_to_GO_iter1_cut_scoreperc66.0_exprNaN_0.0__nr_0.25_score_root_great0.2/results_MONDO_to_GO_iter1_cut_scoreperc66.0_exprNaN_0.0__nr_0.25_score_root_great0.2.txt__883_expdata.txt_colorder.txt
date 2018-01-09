@@ -1,0 +1,5 @@
+"x"
+"1" "positive regulation of telomerase activity"
+"2" "positive regulation of telomere maintenance via telomerase"
+"3" "cation binding"
+"4" "mRNA catabolic process"

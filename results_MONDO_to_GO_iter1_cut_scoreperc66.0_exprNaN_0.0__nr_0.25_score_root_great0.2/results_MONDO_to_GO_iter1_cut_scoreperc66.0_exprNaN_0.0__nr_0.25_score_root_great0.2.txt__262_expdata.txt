@@ -1,0 +1,4 @@
+	isolated spina bifida	acrocallosal syndrome	Joubert syndrome with orofaciodigital defect	"heterotaxy, visceral, 2, autosomal"	"multiple epiphyseal dysplasia, Al-Gazali type"	hypogonadotropic hypogonadism 4 with or without anosmia	hydrolethalus syndrome 2	Joubert syndrome 17	Carpenter syndrome 2	"mental retardation, autosomal recessive 46"	"heterotaxy, visceral, 7, autosomal; HTX7"
+aorta development	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+coronary vasculature development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cardiac septum development	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0

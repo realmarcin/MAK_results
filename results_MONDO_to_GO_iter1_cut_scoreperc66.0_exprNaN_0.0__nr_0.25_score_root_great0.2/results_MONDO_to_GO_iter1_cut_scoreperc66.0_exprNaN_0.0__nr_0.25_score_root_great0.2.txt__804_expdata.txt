@@ -1,0 +1,6 @@
+	osteogenesis imperfecta type 7	osteogenesis imperfecta type 8	connective tissue disorder due to lysyl hydroxylase-3 deficiency	"arthrogryposis, renal dysfunction, and cholestasis 2"	"myopia, high, with cataract and vitreoretinal degeneration"	autoimmune lymphoproliferative syndrome type 3
+negative regulation of post-translational protein modification	1.0	1.0	0.0	0.0	0.0	0.0
+peptidyl-proline hydroxylation to 3-hydroxy-L-proline	1.0	0.0	0.0	0.0	0.0	0.0
+procollagen-proline 3-dioxygenase activity	0.0	1.0	0.0	0.0	1.0	0.0
+collagen metabolic process	0.0	1.0	1.0	1.0	1.0	1.0
+peptidyl-proline hydroxylation	0.0	0.0	0.0	0.0	1.0	0.0

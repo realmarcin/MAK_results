@@ -1,0 +1,8 @@
+	colorectal adenocarcinoma	ovarian cancer	schizophrenia (disease)	Charcot-Marie-tooth disease type 4D	lissencephaly due to LIS1 mutation	primary ciliary dyskinesia 33
+cadherin binding	1.0	1.0	0.0	1.0	0.0	0.0
+cell cortex	1.0	1.0	0.0	0.0	1.0	0.0
+cellular protein localization	1.0	0.0	1.0	0.0	0.0	1.0
+spindle	1.0	1.0	1.0	0.0	0.0	0.0
+cytoskeleton organization	1.0	1.0	1.0	0.0	0.0	0.0
+peripheral nervous system myelin maintenance	1.0	1.0	1.0	1.0	0.0	0.0
+microtubule cytoskeleton	1.0	1.0	1.0	1.0	1.0	1.0

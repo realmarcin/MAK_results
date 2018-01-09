@@ -1,0 +1,9 @@
+	"Meckel syndrome, type 3"	Joubert syndrome 6	nephronophthisis 11
+axoneme	1.0	1.0	1.0
+convergent extension involved in gastrulation	1.0	1.0	1.0
+cilium movement	1.0	1.0	1.0
+gastrulation	1.0	1.0	1.0
+convergent extension involved in axis elongation	1.0	1.0	1.0
+negative regulation of centrosome duplication	1.0	1.0	1.0
+MKS complex	1.0	1.0	1.0
+positive regulation of intracellular protein transport	0.0	0.0	0.0

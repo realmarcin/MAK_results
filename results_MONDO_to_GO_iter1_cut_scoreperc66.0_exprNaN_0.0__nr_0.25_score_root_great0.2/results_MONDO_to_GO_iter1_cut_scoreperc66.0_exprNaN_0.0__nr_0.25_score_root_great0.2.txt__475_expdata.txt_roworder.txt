@@ -1,0 +1,6 @@
+"x"
+"1" "ectopia.lentis.2..isolated..autosomal.recessive"
+"2" "ectopia.lentis.et.pupillae"
+"3" "Geleophysic.dysplasia.1"
+"4" "Keutel.syndrome"
+"5" "familial.retinal.arterial.macroaneurysm"

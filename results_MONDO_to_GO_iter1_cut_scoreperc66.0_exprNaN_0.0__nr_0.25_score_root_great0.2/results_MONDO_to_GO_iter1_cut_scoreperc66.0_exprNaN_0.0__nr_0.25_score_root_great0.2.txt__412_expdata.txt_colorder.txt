@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "protein homodimerization activity"
+"4" "metal ion binding"
+"5" "perinuclear region of cytoplasm"
+"6" "intracellular membrane-bounded organelle"
+"7" "endoplasmic reticulum membrane"

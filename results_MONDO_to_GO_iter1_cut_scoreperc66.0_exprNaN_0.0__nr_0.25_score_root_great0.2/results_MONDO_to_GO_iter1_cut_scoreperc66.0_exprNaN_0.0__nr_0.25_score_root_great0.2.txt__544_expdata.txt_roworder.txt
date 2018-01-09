@@ -1,0 +1,5 @@
+"x"
+"1" "focal.facial.dermal.dysplasia.type.IV"
+"2" "lethal.occipital.encephalocele.skeletal.dysplasia.syndrome"
+"3" "conotruncal.heart.malformations"
+"4" "facial.paresis..hereditary.congenital..3"

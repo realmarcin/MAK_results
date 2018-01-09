@@ -1,0 +1,5 @@
+"x"
+"1" "neuropathy..hereditary.sensory.and.autonomic..type.1A"
+"2" "neuropathy..hereditary.sensory.and.autonomic..type.1C"
+"3" "hereditary.spastic.paraplegia.46"
+"4" "spinocerebellar.ataxia.type.38"

@@ -1,0 +1,7 @@
+"x"
+"1" "cone.rod.dystrophy.11"
+"2" "isolated.microphthalmia.3"
+"3" "age.related.macular.degeneration.6"
+"4" "cataract.4.multiple.types"
+"5" "cataract.2.multiple.types"
+"6" "cataract.39.multiple.types"

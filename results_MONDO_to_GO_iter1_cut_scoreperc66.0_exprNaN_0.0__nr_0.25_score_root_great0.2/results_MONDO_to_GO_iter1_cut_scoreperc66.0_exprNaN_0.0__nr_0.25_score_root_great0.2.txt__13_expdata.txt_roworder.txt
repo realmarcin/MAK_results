@@ -1,0 +1,5 @@
+"x"
+"1" "hepatitis.c.virus..susceptibility.to"
+"2" "West.nile.virus..susceptibility.to"
+"3" "type.1.diabetes.mellitus.22"
+"4" "susceptibility.to.HIV.infection"

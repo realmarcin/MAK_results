@@ -1,0 +1,6 @@
+"x"
+"1" "metachromatic.leukodystrophy.due.to.saposin.b.deficiency"
+"2" "atypical.Gaucher.s.disease.due.to.saposin.c.deficiency"
+"3" "encephalopathy.due.to.prosaposin.deficiency"
+"4" "Krabbe.disease..atypical..due.to.saposin.a.deficiency"
+"5" "hereditary.spastic.paraplegia.75"

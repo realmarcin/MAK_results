@@ -1,0 +1,7 @@
+	familial infantile bilateral striatal necrosis	"microcephaly 6, primary, autosomal recessive"	Seckel syndrome 4	microcephaly and chorioretinopathy 2
+Flemming body	1.0	0.0	0.0	0.0
+regulation of phosphatidylinositol 3-kinase signaling	0.0	0.0	0.0	0.0
+centriole assembly	1.0	1.0	1.0	1.0
+positive regulation of centriole replication	1.0	0.0	0.0	1.0
+annulate lamellae	1.0	0.0	0.0	0.0
+nuclear transport	1.0	0.0	0.0	0.0

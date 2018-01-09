@@ -1,0 +1,9 @@
+	primary ciliary dyskinesia 2	cranioectodermal dysplasia 2	short-rib thoracic dysplasia 7 with or without polydactyly	primary ciliary dyskinesia 18	primary ciliary dyskinesia 22
+negative regulation of blood vessel diameter	0.0	1.0	1.0	0.0	0.0
+cellular response to leukemia inhibitory factor	0.0	1.0	1.0	0.0	0.0
+phosphatidylinositol binding	0.0	1.0	1.0	0.0	0.0
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	0.0	1.0	1.0	0.0	0.0
+cellular response to tumor necrosis factor	0.0	1.0	1.0	0.0	0.0
+negative regulation of nitric oxide biosynthetic process	0.0	1.0	1.0	0.0	0.0
+intraciliary transport particle A	0.0	1.0	1.0	0.0	0.0
+positive regulation of release of cytochrome c from mitochondria	0.0	1.0	1.0	0.0	0.0

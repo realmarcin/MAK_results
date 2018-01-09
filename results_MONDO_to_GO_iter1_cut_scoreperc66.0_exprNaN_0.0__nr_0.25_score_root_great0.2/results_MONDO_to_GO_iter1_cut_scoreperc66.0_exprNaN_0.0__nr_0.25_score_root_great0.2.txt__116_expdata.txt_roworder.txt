@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.recessive.spinocerebellar.ataxia.12"
+"2" "epileptic.encephalopathy..early.infantile..28"
+"3" "congenital.adrenal.hyperplasia.due.to.3.beta.hydroxysteroid.dehydrogenase.deficiency"
+"4" "Antley.Bixler.syndrome"

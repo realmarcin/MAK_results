@@ -1,0 +1,10 @@
+	Cornelia de Lange syndrome 1	amyotrophic lateral sclerosis type 14	"short stature, microcephaly, and endocrine dysfunction"	Charcot-Marie-tooth disease type 2Y	"nephrotic syndrome, type 11; NPHS11"
+protein binding	1.0	1.0	0.0	1.0	0.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+cytosol	1.0	1.0	0.0	1.0	0.0
+extracellular exosome	1.0	1.0	0.0	1.0	0.0
+cell cycle	1.0	1.0	0.0	1.0	0.0
+cellular response to DNA damage stimulus	1.0	1.0	0.0	1.0	1.0
+ATPase activity	0.0	1.0	0.0	1.0	0.0
+double-strand break repair	1.0	1.0	1.0	1.0	1.0
+"chromosome, telomeric region"	0.0	0.0	0.0	0.0	1.0

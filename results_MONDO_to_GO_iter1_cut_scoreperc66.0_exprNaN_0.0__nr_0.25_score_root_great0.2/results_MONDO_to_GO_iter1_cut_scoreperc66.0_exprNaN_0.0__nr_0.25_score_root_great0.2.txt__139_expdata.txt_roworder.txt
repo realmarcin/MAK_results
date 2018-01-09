@@ -1,0 +1,4 @@
+"x"
+"1" "cortisone.reductase.deficiency.1"
+"2" "favism..susceptibility.to"
+"3" "anemia..nonspherocytic.hemolytic..due.to.G6Pd.deficiency"

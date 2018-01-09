@@ -1,0 +1,6 @@
+"x"
+"1" "collagen metabolic process"
+"2" "negative regulation of post-translational protein modification"
+"3" "procollagen-proline 3-dioxygenase activity"
+"4" "peptidyl-proline hydroxylation to 3-hydroxy-L-proline"
+"5" "peptidyl-proline hydroxylation"

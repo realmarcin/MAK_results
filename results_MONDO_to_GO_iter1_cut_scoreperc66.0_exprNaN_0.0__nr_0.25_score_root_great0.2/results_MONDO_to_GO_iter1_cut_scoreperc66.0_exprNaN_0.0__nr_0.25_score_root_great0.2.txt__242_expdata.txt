@@ -1,0 +1,10 @@
+	Brunner syndrome	short Qt syndrome type 1	long QT syndrome 2
+primary amine oxidase activity	1.0	1.0	1.0
+amine metabolic process	0.0	1.0	1.0
+negative regulation of potassium ion transmembrane transport	0.0	1.0	1.0
+membrane repolarization	0.0	1.0	1.0
+C3HC4-type RING finger domain binding	0.0	1.0	1.0
+potassium ion export across plasma membrane	0.0	1.0	1.0
+negative regulation of potassium ion export	0.0	1.0	1.0
+inward rectifier potassium channel complex	0.0	1.0	1.0
+membrane repolarization during ventricular cardiac muscle cell action potential	0.0	1.0	1.0

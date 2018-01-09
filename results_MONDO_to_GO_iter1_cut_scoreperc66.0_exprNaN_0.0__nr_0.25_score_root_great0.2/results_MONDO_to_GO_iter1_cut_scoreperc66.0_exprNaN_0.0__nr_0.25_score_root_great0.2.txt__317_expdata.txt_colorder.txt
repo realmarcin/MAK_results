@@ -1,0 +1,8 @@
+"x"
+"1" "protein complex binding"
+"2" "positive regulation of protein phosphorylation"
+"3" "positive regulation of fibroblast proliferation"
+"4" "positive regulation of MAP kinase activity"
+"5" "cell aging"
+"6" "glial cell development"
+"7" "activation of protein kinase B activity"

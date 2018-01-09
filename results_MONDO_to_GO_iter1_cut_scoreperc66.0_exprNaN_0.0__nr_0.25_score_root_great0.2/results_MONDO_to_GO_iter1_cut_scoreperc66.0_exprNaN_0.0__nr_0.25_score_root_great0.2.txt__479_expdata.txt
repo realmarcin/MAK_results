@@ -1,0 +1,6 @@
+	"Parkinson disease 13, autosomal dominant, susceptibility to"	purine nucleoside phosphorylase deficiency	Heme oxygenase 1 deficiency	"3-methylglutaconic aciduria, type Viii; MGCA8"
+intrinsic apoptotic signaling pathway in response to DNA damage	1.0	1.0	1.0	1.0
+nucleobase-containing compound metabolic process	0.0	1.0	0.0	0.0
+cellular response to heat	1.0	0.0	1.0	1.0
+regulation of DNA binding transcription factor activity	0.0	0.0	1.0	0.0
+negative regulation of mitophagy in response to mitochondrial depolarization	1.0	0.0	0.0	1.0

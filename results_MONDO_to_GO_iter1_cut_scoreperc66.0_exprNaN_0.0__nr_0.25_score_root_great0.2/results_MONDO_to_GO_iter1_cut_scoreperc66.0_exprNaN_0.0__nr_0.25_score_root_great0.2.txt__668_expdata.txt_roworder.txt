@@ -1,0 +1,7 @@
+"x"
+"1" "progressive.external.ophthalmoplegia.with.mitochondrial.Dna.deletions..autosomal.recessive.2"
+"2" "Aicardi.Goutieres.syndrome.4"
+"3" "cystic.leukoencephalopathy.without.megalencephaly"
+"4" "Trichohepatoenteric.syndrome.2"
+"5" "Singleton.Merten.syndrome.2"
+"6" "platelet.type.bleeding.disorder.20"

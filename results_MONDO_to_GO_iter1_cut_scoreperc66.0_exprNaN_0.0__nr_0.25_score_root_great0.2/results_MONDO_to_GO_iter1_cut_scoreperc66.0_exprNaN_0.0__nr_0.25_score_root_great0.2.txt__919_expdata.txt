@@ -1,0 +1,5 @@
+	MALT lymphoma	malignant mesothelioma (disease)	autosomal recessive limb-girdle muscular dystrophy type 2A	persistent Mullerian duct syndrome	Bartsocas-Papas syndrome	persistent polyclonal b-cell lymphocytosis	Noonan syndrome 3	FL1	"mental retardation, autosomal recessive 13"	"mental retardation, autosomal recessive 34"	severe combined immunodeficiency due to CARD11 deficiency	cardiofaciocutaneous syndrome 2	combined immunodeficiency due to MALT1 deficiency	immunodeficiency 37	BENTA disease
+protein complex	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"negative regulation of transcription, DNA-templated"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of NF-kappaB transcription factor activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of catalytic activity	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,4 @@
+	acroosteolysis dominant type	cataract 41	Wolfram syndrome 1	autosomal dominant nonsyndromic deafness 6	neonatal diabetes mellitus with congenital hypothyroidism	Alagille syndrome due to a NOTCH2 point mutation	"diabetes mellitus, transient neonatal, 3"	Wolfram-like syndrome	maturity-onset diabetes of the young type 13
+endocrine pancreas development	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+pancreas regeneration	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+type B pancreatic cell development	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0

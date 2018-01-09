@@ -1,0 +1,4 @@
+"x"
+"1" "lethal.congenital.contracture.syndrome.2"
+"2" "histiocytoma..Angiomatoid.fibrous"
+"3" "obesity..Hyperphagia..and.developmental.delay"

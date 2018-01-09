@@ -1,0 +1,7 @@
+"x"
+"1" "melanoma..cutaneous.malignant..susceptibility.to..6"
+"2" "Fanconi.anemia.complementation.group.O"
+"3" "breast.ovarian.cancer..familial..susceptibility.to..3"
+"4" "breast.ovarian.cancer..familial..susceptibility.to..4"
+"5" "mirror.movements.2"
+"6" "Fanconi.anemia.complementation.group.r"

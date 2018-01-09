@@ -1,0 +1,7 @@
+	familial erythrocytosis 1	primary myelofibrosis	polycythemia vera	Budd-Chiari syndrome	"Hirschsprung disease, susceptibility to, 3"	thrombocythemia 3
+positive regulation of bone mineralization	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of peptidyl-tyrosine phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of ERK1 and ERK2 cascade	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of cell differentiation	1.0	1.0	1.0	1.0	1.0	1.0
+fibroblast growth factor receptor signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to dexamethasone stimulus	1.0	1.0	1.0	1.0	1.0	1.0

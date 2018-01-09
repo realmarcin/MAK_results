@@ -1,0 +1,8 @@
+	absence deformity of leg-cataract syndrome	mast syndrome	"mental retardation, X-linked, syndromic, Bain type; MRXSB"	hypomyelinating leukodystrophy 5	spinocerebellar ataxia type 35
+cytoplasm	1.0	1.0	0.0	1.0	1.0
+neuron projection	0.0	0.0	0.0	1.0	0.0
+cytosol	1.0	1.0	1.0	1.0	0.0
+molecular_function	0.0	0.0	0.0	1.0	0.0
+phosphatidylinositol phosphorylation	0.0	0.0	0.0	1.0	0.0
+myelination	0.0	0.0	0.0	1.0	0.0
+protein localization to plasma membrane	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,20 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	Joubert syndrome 3	"microcephaly 7, primary, autosomal recessive"
+cell projection	0.0	0.0	1.0	0.0
+adherens junction	0.0	0.0	1.0	0.0
+positive regulation of gene expression	0.0	0.0	1.0	0.0
+positive regulation of neuron projection development	0.0	0.0	1.0	0.0
+central nervous system development	0.0	0.0	1.0	0.0
+regulation of behavior	0.0	0.0	1.0	0.0
+negative regulation of glucose import	0.0	0.0	1.0	0.0
+otic vesicle development	0.0	0.0	1.0	0.0
+hindbrain development	0.0	0.0	1.0	0.0
+vesicle-mediated transport	0.0	0.0	1.0	0.0
+transmembrane receptor protein tyrosine kinase signaling pathway	0.0	0.0	1.0	0.0
+retinal cone cell development	0.0	0.0	1.0	0.0
+positive regulation of receptor internalization	0.0	0.0	1.0	0.0
+regulation of protein secretion	0.0	0.0	1.0	0.0
+positive regulation of growth	0.0	0.0	1.0	0.0
+pronephric nephron tubule morphogenesis	0.0	0.0	1.0	0.0
+positive regulation of polarized epithelial cell differentiation	0.0	0.0	1.0	0.0
+specification of axis polarity	0.0	0.0	1.0	0.0
+vesicle targeting	0.0	0.0	1.0	0.0

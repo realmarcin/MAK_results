@@ -1,0 +1,9 @@
+	Bowen-Conradi syndrome	hereditary North american indian childhood cirrhosis	"glaucoma 1, open angle, G"	spinocerebellar ataxia type 36
+blastocyst development	1.0	0.0	0.0	0.0
+small-subunit processome	1.0	1.0	1.0	1.0
+nuclear microtubule	1.0	0.0	0.0	0.0
+rRNA binding	1.0	0.0	0.0	0.0
+rRNA (pseudouridine) methyltransferase activity	1.0	0.0	0.0	0.0
+rRNA base methylation	1.0	0.0	0.0	0.0
+"endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"	1.0	0.0	0.0	0.0
+nucleologenesis	1.0	0.0	0.0	0.0

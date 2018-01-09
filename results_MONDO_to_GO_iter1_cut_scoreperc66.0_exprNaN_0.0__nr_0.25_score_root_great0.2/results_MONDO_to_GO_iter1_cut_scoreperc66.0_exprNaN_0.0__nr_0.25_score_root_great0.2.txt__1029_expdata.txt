@@ -1,0 +1,22 @@
+	"periventricular heterotopia with microcephaly, autosomal recessive"	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18
+positive regulation of tumor necrosis factor production	1.0	0.0	0.0	0.0
+recycling endosome	1.0	0.0	0.0	0.0
+myosin binding	1.0	0.0	0.0	0.0
+vesicle-mediated transport	1.0	0.0	0.0	0.0
+autophagosome assembly	1.0	0.0	0.0	0.0
+intracellular signal transduction	1.0	0.0	0.0	0.0
+late endosome	1.0	0.0	0.0	0.0
+guanyl-nucleotide exchange factor activity	1.0	0.0	0.0	0.0
+microtubule organizing center	1.0	0.0	0.0	0.0
+dendritic spine	1.0	0.0	0.0	0.0
+Golgi-associated vesicle	1.0	0.0	0.0	0.0
+endosome organization	1.0	0.0	0.0	0.0
+axonemal microtubule	1.0	0.0	0.0	0.0
+ARF guanyl-nucleotide exchange factor activity	1.0	0.0	0.0	0.0
+regulation of ARF protein signal transduction	1.0	0.0	0.0	0.0
+asymmetric synapse	1.0	0.0	0.0	0.0
+receptor recycling	1.0	0.0	0.0	0.0
+GABA receptor binding	1.0	0.0	0.0	0.0
+symmetric synapse	1.0	0.0	0.0	0.0
+protein kinase A regulatory subunit binding	1.0	0.0	0.0	0.0
+endomembrane system organization	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "palmoplantar.keratoderma.XX.sex.reversal.predisposition.to.squamous.cell.carcinoma.syndrome"
+"2" "nonsyndromic.congenital.nail.disorder.4"
+"3" "hyperargininemia"
+"4" "dengue.virus..susceptibility.to"

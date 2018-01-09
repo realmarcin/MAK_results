@@ -1,0 +1,5 @@
+"x"
+"1" "Morvan.syndrome"
+"2" "pseudohypoaldosteronism.type.2C"
+"3" "atrial.fibrillation..familial..7"
+"4" "Seckel.syndrome.10..SCKL10"

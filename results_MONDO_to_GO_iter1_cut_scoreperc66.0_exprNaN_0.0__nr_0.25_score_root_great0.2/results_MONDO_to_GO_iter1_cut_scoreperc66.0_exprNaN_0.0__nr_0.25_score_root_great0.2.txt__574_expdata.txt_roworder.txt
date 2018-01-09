@@ -1,0 +1,7 @@
+"x"
+"1" "alcohol.dependence"
+"2" "endogenous.depression"
+"3" "ANON1"
+"4" "capillary.malformation.arteriovenous.malformation.syndrome"
+"5" "Parkes.Weber.syndrome"
+"6" "Curry.Jones.syndrome"

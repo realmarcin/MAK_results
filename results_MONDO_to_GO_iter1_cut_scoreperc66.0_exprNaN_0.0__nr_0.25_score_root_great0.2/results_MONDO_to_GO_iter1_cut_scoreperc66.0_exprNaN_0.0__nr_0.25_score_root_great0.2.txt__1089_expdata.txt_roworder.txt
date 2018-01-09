@@ -1,0 +1,6 @@
+"x"
+"1" "polymicrogyria..perisylvian..with.cerebellar.hypoplasia.and.arthrogryposis"
+"2" "X3.hydroxy.3.methylglutaryl.CoA.synthase.deficiency"
+"3" "lethal.congenital.contracture.syndrome.3"
+"4" "POROK7"
+"5" "porokeratosis.9..multiple.types..POROK9"

@@ -1,0 +1,6 @@
+	amyotrophic lateral sclerosis-parkinsonism-dementia complex	bilateral striopallidodentate calcinosis	glycogen storage disease due to glucose-6-phosphatase deficiency type Ia	hereditary hypophosphatemic rickets with hypercalciuria	pulmonary alveolar microlithiasis	ornithine carbamoyltransferase deficiency	Matthew-wood syndrome	testicular microlithiasis (disease)	purine nucleoside phosphorylase deficiency	"breasts and/or nipples, aplasia or hypoplasia of, 2"
+integral component of cell outer membrane	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+phosphate ion transport	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+sodium:inorganic phosphate symporter activity	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+phosphate ion binding	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+response to mercury ion	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

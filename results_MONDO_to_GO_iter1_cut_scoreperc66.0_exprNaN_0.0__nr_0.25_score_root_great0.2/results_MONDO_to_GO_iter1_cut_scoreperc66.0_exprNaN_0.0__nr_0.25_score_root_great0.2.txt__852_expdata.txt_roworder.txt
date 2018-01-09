@@ -1,0 +1,5 @@
+"x"
+"1" "Bowen.Conradi.syndrome"
+"2" "hereditary.North.american.indian.childhood.cirrhosis"
+"3" "glaucoma.1..open.angle..G"
+"4" "spinocerebellar.ataxia.type.36"

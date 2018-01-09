@@ -1,0 +1,7 @@
+	familial isolated congenital asplenia	autosomal recessive distal spinal muscular atrophy 1	Charcot-Marie-tooth disease axonal type 2S	"mental retardation, autosomal dominant 38"	"epileptic encephalopathy, early infantile, 33"	"epileptic encephalopathy, early infantile, 40; EIEE40"
+mRNA binding	0.0	0.0	0.0	0.0	0.0	0.0
+translation	1.0	1.0	1.0	1.0	1.0	1.0
+cytoplasmic stress granule	1.0	0.0	0.0	0.0	0.0	0.0
+cytoplasmic ribonucleoprotein granule	0.0	0.0	0.0	0.0	0.0	0.0
+polysome	0.0	0.0	0.0	0.0	0.0	0.0
+ribosome binding	1.0	1.0	1.0	1.0	1.0	1.0

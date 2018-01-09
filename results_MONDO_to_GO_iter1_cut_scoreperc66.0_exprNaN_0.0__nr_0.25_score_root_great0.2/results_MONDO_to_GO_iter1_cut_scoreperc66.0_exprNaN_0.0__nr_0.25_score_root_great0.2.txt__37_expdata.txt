@@ -1,0 +1,7 @@
+	paragangliomas 4	Carney-Stratakis syndrome	Cowden syndrome 2
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)"	1.0	1.0	1.0
+ubiquinone binding	1.0	1.0	1.0
+"3 iron, 4 sulfur cluster binding"	1.0	1.0	1.0
+respiratory chain complex II	1.0	1.0	1.0
+tricarboxylic acid cycle	1.0	1.0	1.0
+succinate dehydrogenase complex	0.0	1.0	0.0

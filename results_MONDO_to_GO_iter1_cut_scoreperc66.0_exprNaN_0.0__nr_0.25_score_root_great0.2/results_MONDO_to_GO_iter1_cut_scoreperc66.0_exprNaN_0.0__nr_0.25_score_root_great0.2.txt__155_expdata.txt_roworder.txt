@@ -1,0 +1,7 @@
+"x"
+"1" "infantile.onset.spinocerebellar.ataxia"
+"2" "progressive.external.ophthalmoplegia.with.mitochondrial.Dna.deletions..autosomal.dominant.3"
+"3" "Perrault.syndrome.5"
+"4" "autosomal.dominant.nonsyndromic.deafness.70"
+"5" "Meier.Gorlin.syndrome.1"
+"6" "Meier.Gorlin.syndrome.7..MGORS7"

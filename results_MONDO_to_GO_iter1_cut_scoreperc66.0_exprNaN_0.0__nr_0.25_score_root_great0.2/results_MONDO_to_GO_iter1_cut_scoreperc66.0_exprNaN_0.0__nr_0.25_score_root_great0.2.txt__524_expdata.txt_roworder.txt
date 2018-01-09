@@ -1,0 +1,6 @@
+"x"
+"1" "renal.coloboma.syndrome"
+"2" "renal.agenesis..disease."
+"3" "focal.segmental.glomerulosclerosis.7"
+"4" "growth.delay.due.to.insulin.like.growth.factor.i.resistance"
+"5" "major.affective.disorder.7"

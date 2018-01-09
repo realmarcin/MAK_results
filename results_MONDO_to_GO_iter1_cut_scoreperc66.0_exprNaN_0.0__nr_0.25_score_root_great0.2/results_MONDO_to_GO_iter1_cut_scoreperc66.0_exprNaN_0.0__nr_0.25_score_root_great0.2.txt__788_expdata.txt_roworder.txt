@@ -1,0 +1,5 @@
+"x"
+"1" "striatonigral.degeneration..childhood.onset..SNDC"
+"2" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"
+"3" "autosomal.dominant.aplasia.and.myelodysplasia"
+"4" "frontotemporal.dementia.and.or.amyotrophic.lateral.sclerosis.1"

@@ -1,0 +1,8 @@
+"x"
+"1" "membrane"
+"2" "intracellular membrane-bounded organelle"
+"3" "protein transport"
+"4" "transport"
+"5" "locomotory behavior"
+"6" "protein binding, bridging"
+"7" "peroxisome"

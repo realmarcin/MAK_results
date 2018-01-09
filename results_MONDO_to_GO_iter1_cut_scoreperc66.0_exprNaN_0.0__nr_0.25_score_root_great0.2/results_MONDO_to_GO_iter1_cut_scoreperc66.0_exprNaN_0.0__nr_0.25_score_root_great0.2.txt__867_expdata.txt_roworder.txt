@@ -1,0 +1,7 @@
+"x"
+"1" "Dehydrated.hereditary.stomatocytosis.with.or.without.pseudohyperkalemia.and.Or.perinatal.edema"
+"2" "lymphedema..hereditary..type.III"
+"3" "arthrogryposis..oculomotor.limitation.electroretinal.anomalies.syndrome"
+"4" "Gordon.syndrome"
+"5" "Marden.Walker.syndrome"
+"6" "arthrogryposis..distal..with.impaired.Proprioception.and.Touch..DAIPT"

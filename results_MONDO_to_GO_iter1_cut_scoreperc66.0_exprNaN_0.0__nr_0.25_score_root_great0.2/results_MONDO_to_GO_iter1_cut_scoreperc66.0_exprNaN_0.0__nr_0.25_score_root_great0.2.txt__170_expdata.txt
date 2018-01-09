@@ -1,0 +1,13 @@
+	Senior-Loken syndrome 5	asphyxiating thoracic dystrophy 5	cranioectodermal dysplasia 4	Senior-Loken syndrome 8
+embryonic cranial skeleton morphogenesis	0.0	1.0	1.0	1.0
+embryonic limb morphogenesis	0.0	1.0	1.0	1.0
+cell morphogenesis	0.0	1.0	1.0	1.0
+nervous system process	0.0	1.0	1.0	1.0
+embryonic camera-type eye development	0.0	1.0	1.0	1.0
+ear morphogenesis	0.0	1.0	1.0	1.0
+myotome development	0.0	1.0	1.0	1.0
+digestive system development	0.0	1.0	1.0	1.0
+non-motile cilium	0.0	1.0	1.0	1.0
+smoothened signaling pathway involved in dorsal/ventral neural tube patterning	0.0	1.0	1.0	1.0
+ciliary receptor clustering involved in smoothened signaling pathway	0.0	1.0	1.0	1.0
+gonad development	0.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	Angelman syndrome	branchiooculofacial syndrome	uveal coloboma-cleft lip and palate-intellectual disability	hypoparathyroidism-deafness-renal disease syndrome	holoprosencephaly 2	Char syndrome	MHC class II deficiency	"myoglobinuria, acute recurrent, autosomal recessive"	Majeed syndrome	congenital malabsorptive diarrhea 4	vesicoureteral reflux 3	autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome	patent ductus arteriosus 2; PDA2
+protein dimerization activity	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+transcription coactivator activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+transcription corepressor activity	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+SMAD binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+spindle	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+histone deacetylase binding	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0

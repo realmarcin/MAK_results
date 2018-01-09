@@ -1,0 +1,9 @@
+	arthrogryposis- oculomotor limitation-electroretinal anomalies syndrome	Gordon syndrome	Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/Or perinatal edema	Marden-Walker syndrome	"lymphedema, hereditary, type III"	"arthrogryposis, distal, with impaired Proprioception and Touch; DAIPT"
+cell projection	0.0	0.0	1.0	0.0	1.0	0.0
+identical protein binding	0.0	0.0	1.0	0.0	1.0	0.0
+transport	0.0	0.0	1.0	0.0	1.0	0.0
+homeostasis of number of cells within a tissue	0.0	0.0	1.0	0.0	1.0	0.0
+cell volume homeostasis	0.0	0.0	1.0	0.0	1.0	0.0
+erythrocyte homeostasis	0.0	0.0	1.0	0.0	1.0	0.0
+positive regulation of integrin activation	0.0	0.0	1.0	0.0	1.0	0.0
+positive regulation of cell-cell adhesion mediated by integrin	0.0	0.0	1.0	0.0	1.0	0.0

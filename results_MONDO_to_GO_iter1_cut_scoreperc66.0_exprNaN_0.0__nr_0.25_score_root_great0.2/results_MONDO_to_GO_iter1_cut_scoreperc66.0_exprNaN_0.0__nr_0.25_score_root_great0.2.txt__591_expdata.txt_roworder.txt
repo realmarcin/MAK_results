@@ -1,0 +1,7 @@
+"x"
+"1" "phaeochromocytoma"
+"2" "nonpapillary.renal.cell.carcinoma"
+"3" "von.Hippel.Lindau.disease"
+"4" "Chuvash.polycythemia"
+"5" "temtamy.syndrome"
+"6" "mental.retardation..autosomal.dominant.27"

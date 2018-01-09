@@ -1,0 +1,4 @@
+"x"
+"1" "familial.cortical.myoclonus"
+"2" "FADD.related.immunodeficiency"
+"3" "Seckel.syndrome.9..SCKL9"

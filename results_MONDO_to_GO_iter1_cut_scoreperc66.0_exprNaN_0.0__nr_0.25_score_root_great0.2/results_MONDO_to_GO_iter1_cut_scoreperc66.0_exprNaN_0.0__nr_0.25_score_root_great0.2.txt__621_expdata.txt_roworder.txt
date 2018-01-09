@@ -1,0 +1,4 @@
+"x"
+"1" "X.linked.dominant.chondrodysplasia..Chassaing.Lacombe.type"
+"2" "chromosome.15q24.deletion.syndrome"
+"3" "mental.retardation..autosomal.recessive.46"

@@ -1,0 +1,8 @@
+"x"
+"1" "folic acid biosynthetic process"
+"2" "7,8-dihydroneopterin 3'-triphosphate biosynthetic process"
+"3" "folic acid-containing compound biosynthetic process"
+"4" "pteridine-containing compound biosynthetic process"
+"5" "regulation of lung blood pressure"
+"6" "regulation of serotonin biosynthetic process"
+"7" "GTP cyclohydrolase I activity"

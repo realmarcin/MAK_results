@@ -1,0 +1,10 @@
+	alpha-2-plasmin inhibitor deficiency	age related macular degeneration 9	atypical hemolytic-uremic syndrome with C3 anomaly	alpha 1-antitrypsin deficiency	complement component 3 deficiency
+extracellular space	1.0	1.0	1.0	1.0	1.0
+extracellular exosome	1.0	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0
+intracellular membrane-bounded organelle	0.0	0.0	0.0	1.0	0.0
+endopeptidase inhibitor activity	0.0	1.0	1.0	1.0	1.0
+response to peptide hormone	0.0	0.0	0.0	1.0	0.0
+response to cytokine	0.0	0.0	0.0	1.0	0.0
+protein N-linked glycosylation	0.0	0.0	0.0	1.0	0.0
+acute-phase response	1.0	0.0	0.0	1.0	0.0

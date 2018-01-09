@@ -1,0 +1,10 @@
+	aplasia cutis congenita (disease)	"dyskeratosis congenita, autosomal recessive 1"	"dyskeratosis congenita, autosomal recessive 2"	spinocerebellar ataxia type 36
+intracellular ribonucleoprotein complex	0.0	1.0	1.0	1.0
+ribosome biogenesis	1.0	1.0	1.0	1.0
+telomere maintenance via telomerase	0.0	1.0	0.0	0.0
+primitive hemopoiesis	0.0	1.0	0.0	0.0
+snoRNA binding	0.0	1.0	1.0	1.0
+box H/ACA scaRNP complex	0.0	1.0	0.0	0.0
+pseudouridine synthesis	0.0	1.0	0.0	0.0
+snoRNA guided rRNA pseudouridine synthesis	0.0	1.0	0.0	0.0
+small nucleolar ribonucleoprotein complex	0.0	1.0	1.0	1.0

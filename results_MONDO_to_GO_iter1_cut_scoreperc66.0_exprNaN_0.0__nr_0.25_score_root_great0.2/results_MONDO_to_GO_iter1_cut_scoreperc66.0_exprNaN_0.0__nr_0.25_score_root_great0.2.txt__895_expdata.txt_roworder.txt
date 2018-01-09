@@ -1,0 +1,6 @@
+"x"
+"1" "autosomal.dominant.aplasia.and.myelodysplasia"
+"2" "hyperuricemic.nephropathy..familial.juvenile..4..HNFJ4"
+"3" "Marinesco.SjC6gren.syndrome"
+"4" "frontotemporal.dementia.and.or.amyotrophic.lateral.sclerosis.1"
+"5" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"

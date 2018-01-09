@@ -1,0 +1,8 @@
+"x"
+"1" "Bloom.syndrome"
+"2" "infantile.onset.spinocerebellar.ataxia"
+"3" "mental.retardation..X.linked.102"
+"4" "spermatogenic.failure..Y.linked..2"
+"5" "progressive.external.ophthalmoplegia.with.mitochondrial.Dna.deletions..autosomal.dominant.3"
+"6" "Perrault.syndrome.5"
+"7" "autosomal.dominant.nonsyndromic.deafness.70"

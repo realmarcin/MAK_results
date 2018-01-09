@@ -1,0 +1,23 @@
+	van der Woude syndrome 1	autosomal dominant popliteal pterygium syndrome	"vitamin d-dependent rickets, type 2A"	"orofacial cleft 6, susceptibility to"
+negative regulation of cell proliferation	1.0	1.0	0.0	1.0
+cell differentiation	1.0	1.0	0.0	1.0
+nucleus	1.0	1.0	0.0	1.0
+cytosol	1.0	1.0	0.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	0.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	0.0	1.0
+DNA binding	1.0	1.0	0.0	1.0
+"transcription, DNA-templated"	1.0	1.0	0.0	1.0
+extracellular exosome	1.0	1.0	0.0	1.0
+keratinocyte proliferation	1.0	1.0	0.0	1.0
+sequence-specific DNA binding	1.0	1.0	0.0	1.0
+"positive regulation of transcription, DNA-templated"	1.0	1.0	0.0	1.0
+keratinocyte differentiation	1.0	1.0	0.0	1.0
+regulation of transcription from RNA polymerase II promoter	1.0	1.0	0.0	1.0
+cell cycle arrest	1.0	1.0	0.0	1.0
+cell development	1.0	1.0	0.0	1.0
+embryonic neurocranium morphogenesis	1.0	1.0	0.0	1.0
+skin development	1.0	1.0	0.0	1.0
+cytokine-mediated signaling pathway	1.0	1.0	0.0	1.0
+mammary gland epithelial cell differentiation	1.0	1.0	0.0	1.0
+epithelium development	1.0	1.0	0.0	1.0
+defense response to virus	1.0	1.0	0.0	1.0

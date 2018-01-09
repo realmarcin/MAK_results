@@ -1,0 +1,17 @@
+	amyotrophic lateral sclerosis type 2	amyotrophic lateral sclerosis type 5	hereditary spastic paraplegia 11	juvenile primary lateral sclerosis	infantile-onset ascending hereditary spastic paralysis	Charcot-Marie-tooth disease axonal type 2X
+early endosome	1.0	0.0	0.0	1.0	1.0	0.0
+neuronal cell body	1.0	0.0	0.0	1.0	1.0	0.0
+dendrite	1.0	1.0	1.0	1.0	1.0	1.0
+axon	1.0	1.0	1.0	1.0	1.0	1.0
+axonogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+postsynaptic density	1.0	0.0	0.0	1.0	1.0	0.0
+"synaptic transmission, glutamatergic"	1.0	0.0	0.0	1.0	1.0	0.0
+centrosome	1.0	0.0	0.0	1.0	1.0	0.0
+regulation of Rho protein signal transduction	1.0	0.0	0.0	1.0	1.0	0.0
+dendritic spine	1.0	0.0	0.0	1.0	1.0	0.0
+Rho guanyl-nucleotide exchange factor activity	1.0	0.0	0.0	1.0	1.0	0.0
+Rab GTPase binding	1.0	0.0	0.0	1.0	1.0	0.0
+neuromuscular junction development	1.0	0.0	0.0	1.0	1.0	0.0
+endosomal transport	1.0	0.0	0.0	1.0	1.0	0.0
+Rab guanyl-nucleotide exchange factor activity	1.0	0.0	0.0	1.0	1.0	0.0
+vesicle organization	1.0	0.0	0.0	1.0	1.0	0.0

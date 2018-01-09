@@ -1,0 +1,8 @@
+"x"
+"1" "protein binding"
+"2" "nucleus"
+"3" "regulation of transcription, DNA-templated"
+"4" "negative regulation of transcription, DNA-templated"
+"5" "transcription, DNA-templated"
+"6" "cytoplasm"
+"7" "DNA binding"

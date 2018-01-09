@@ -1,0 +1,7 @@
+	pyruvate kinase hyperactivity	"diabetes mellitus, Noninsulin-dependent"	pyruvate kinase deficiency of red cells	Charcot-Marie-tooth disease axonal type 2F	"neuronopathy, distal hereditary motor, type 2B"
+response to lithium ion	1.0	1.0	1.0	0.0	0.0
+glycolytic process	1.0	1.0	1.0	0.0	0.0
+response to heat	1.0	1.0	1.0	1.0	1.0
+proteasome complex	0.0	1.0	0.0	1.0	1.0
+postsynaptic density membrane	0.0	0.0	0.0	1.0	1.0
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	0.0	0.0	0.0	1.0	1.0

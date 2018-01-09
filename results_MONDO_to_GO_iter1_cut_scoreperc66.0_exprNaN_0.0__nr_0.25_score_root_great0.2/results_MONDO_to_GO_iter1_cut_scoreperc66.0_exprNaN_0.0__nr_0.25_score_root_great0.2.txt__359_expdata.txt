@@ -1,0 +1,9 @@
+	episodic kinesigenic dyskinesia 1	"Free sialic acid storage disease, infantile form"	autosomal recessive nonsyndromic deafness 9	Salla disease	spinocerebellar ataxia type 21	"epileptic encephalopathy, early infantile, 37; EIEE37"
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0
+cell junction	1.0	1.0	1.0	1.0	1.0	1.0
+postsynaptic membrane	0.0	0.0	0.0	0.0	0.0	0.0
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+synapse	1.0	1.0	1.0	1.0	1.0	1.0
+ion transport	0.0	0.0	0.0	0.0	0.0	0.0
+ion channel activity	0.0	0.0	0.0	0.0	0.0	0.0

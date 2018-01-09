@@ -1,0 +1,6 @@
+	van Maldergem syndrome 1	MMVP2	hereditary sensory and autonomic neuropathy type 5	familial cortical myoclonus	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome	spermatogenic failure 17; SPGF17
+egg activation	1.0	1.0	0.0	0.0	1.0	1.0
+cortical granule exocytosis	1.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of type B pancreatic cell apoptotic process	0.0	0.0	1.0	0.0	1.0	0.0
+inhibition of cysteine-type endopeptidase activity	0.0	0.0	0.0	1.0	1.0	0.0
+calcium-dependent cysteine-type endopeptidase inhibitor activity	0.0	0.0	0.0	0.0	1.0	0.0

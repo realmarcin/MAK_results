@@ -1,0 +1,6 @@
+	Coumarin resistance	"essential hypertension, genetic"	"vitamin K-dependent clotting factors, combined deficiency of, type 2"	"drug metabolism, poor, Cyp2C19-related"	"Efavirenz, poor metabolism of"
+caffeine oxidase activity	1.0	0.0	0.0	1.0	0.0
+epoxygenase P450 pathway	1.0	0.0	0.0	1.0	1.0
+testosterone 16-alpha-hydroxylase activity	1.0	1.0	0.0	1.0	0.0
+vitamin-K-epoxide reductase (warfarin-sensitive) activity	1.0	0.0	1.0	0.0	0.0
+arachidonic acid epoxygenase activity	1.0	0.0	0.0	1.0	1.0

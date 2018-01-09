@@ -1,0 +1,8 @@
+"x"
+"1" "intermediate filament"
+"2" "structural molecule activity"
+"3" "structural constituent of cytoskeleton"
+"4" "intermediate filament cytoskeleton organization"
+"5" "morphogenesis of an epithelium"
+"6" "keratinization"
+"7" "keratinocyte migration"

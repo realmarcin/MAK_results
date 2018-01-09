@@ -1,0 +1,11 @@
+	focal dermal hypoplasia	spondylometaphyseal dysplasia-cone-rod dystrophy syndrome	"myopia 23, autosomal recessive"	STING-associated vasculopathy with onset in infancy	"mental retardation, autosomal dominant 34"
+membrane	1.0	1.0	0.0	1.0	0.0
+protein homodimerization activity	0.0	1.0	0.0	1.0	0.0
+calmodulin binding	0.0	1.0	0.0	0.0	0.0
+phosphatidylcholine binding	0.0	1.0	0.0	0.0	0.0
+nucleotidyltransferase activity	0.0	1.0	0.0	0.0	0.0
+phosphatidylcholine biosynthetic process	0.0	1.0	0.0	0.0	0.0
+biosynthetic process	0.0	1.0	0.0	0.0	0.0
+choline-phosphate cytidylyltransferase activity	0.0	1.0	0.0	0.0	0.0
+glycogen granule	0.0	1.0	0.0	0.0	0.0
+CDP-choline pathway	0.0	1.0	0.0	0.0	0.0

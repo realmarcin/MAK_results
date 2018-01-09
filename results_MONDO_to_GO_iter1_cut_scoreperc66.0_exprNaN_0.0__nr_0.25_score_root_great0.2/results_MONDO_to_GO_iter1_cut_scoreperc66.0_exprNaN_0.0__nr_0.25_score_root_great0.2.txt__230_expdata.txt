@@ -1,0 +1,8 @@
+	spastic ataxia 3	hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome	diffuse cerebral and cerebellar atrophy-intractable seizures-progressive microcephaly syndrome	combined oxidative phosphorylation defect type 20	combined oxidative phosphorylation defect type 21	combined oxidative phosphorylation defect type 25	combined oxidative phosphorylation defect type 27
+ATP binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+translation	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ligase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+tRNA aminoacylation for protein translation	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+aminoacyl-tRNA ligase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrial translation	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+mitochondrial small ribosomal subunit	0.0	0.0	0.0	0.0	0.0	0.0	0.0

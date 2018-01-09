@@ -1,0 +1,7 @@
+	congenital stationary night blindness 1B	"mental retardation, autosomal recessive 6"	congenital stationary night blindness 1C	autosomal recessive spinocerebellar ataxia 13	autosomal dominant nonsyndromic deafness 68
+new growing cell tip	1.0	0.0	1.0	0.0	0.0
+group III metabotropic glutamate receptor activity	1.0	0.0	0.0	0.0	0.0
+adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway	1.0	0.0	0.0	1.0	0.0
+adenylate cyclase inhibiting G-protein coupled glutamate receptor activity	1.0	0.0	0.0	0.0	0.0
+G-protein coupled glutamate receptor signaling pathway	1.0	0.0	1.0	1.0	1.0
+glutamate receptor activity	1.0	1.0	0.0	1.0	0.0

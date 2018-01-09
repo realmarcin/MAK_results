@@ -1,0 +1,6 @@
+"x"
+"1" "neonatal.diabetes.mellitus.with.congenital.hypothyroidism"
+"2" "mental.retardation..autosomal.dominant.43..MRD43"
+"3" "osteogenesis.imperfecta.type.12"
+"4" "thrombocytopenia.5"
+"5" "hypotonia..ataxia..and.delayed.development.syndrome..HADDS"

@@ -1,0 +1,8 @@
+	rhabdoid tumor predisposition syndrome 1	rhabdoid tumor predisposition syndrome 2	"mental retardation, autosomal dominant 15"	"mental retardation, autosomal dominant 16"	Coffin-Siris syndrome 5; CSS5	Sifrim-Hitz-Weiss syndrome; SIHIWES
+ATP binding	0.0	1.0	0.0	1.0	0.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+fin regeneration	0.0	1.0	0.0	1.0	0.0	1.0
+RNA polymerase II proximal promoter sequence-specific DNA binding	1.0	1.0	1.0	1.0	1.0	1.0
+RNA polymerase II distal enhancer sequence-specific DNA binding	1.0	1.0	1.0	1.0	1.0	1.0
+ATP-dependent chromatin remodeling	1.0	1.0	1.0	1.0	1.0	0.0
+nucleosomal DNA binding	1.0	1.0	1.0	1.0	1.0	1.0

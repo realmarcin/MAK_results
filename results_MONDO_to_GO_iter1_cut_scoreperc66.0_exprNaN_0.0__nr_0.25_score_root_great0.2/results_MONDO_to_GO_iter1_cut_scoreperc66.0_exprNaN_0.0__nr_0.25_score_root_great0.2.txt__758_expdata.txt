@@ -1,0 +1,12 @@
+	familial porphyria cutanea tarda	variegate porphyria	"Microvascular complications of diabetes, susceptibility to, 7"
+nucleus	1.0	0.0	0.0
+cytosol	1.0	0.0	0.0
+lyase activity	1.0	0.0	0.0
+nucleoplasm	1.0	0.0	0.0
+beta-2-microglobulin binding	1.0	1.0	1.0
+ferrous iron binding	1.0	0.0	0.0
+carboxy-lyase activity	1.0	0.0	0.0
+heme metabolic process	1.0	0.0	0.0
+porphyrin-containing compound metabolic process	1.0	0.0	0.0
+uroporphyrinogen III metabolic process	1.0	0.0	0.0
+uroporphyrinogen decarboxylase activity	1.0	0.0	0.0

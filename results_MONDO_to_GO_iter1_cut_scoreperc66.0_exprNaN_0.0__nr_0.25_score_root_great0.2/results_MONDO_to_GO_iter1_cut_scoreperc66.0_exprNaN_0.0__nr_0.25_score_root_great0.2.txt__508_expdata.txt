@@ -1,0 +1,7 @@
+	Hawkinsinuria	alkaptonuria	phenylketonuria	tyrosinemia type II	tyrosinemia type i	tyrosinemia type III
+L-phenylalanine catabolic process	1.0	1.0	1.0	1.0	1.0	1.0
+tyrosine catabolic process	1.0	1.0	0.0	1.0	1.0	1.0
+aromatic amino acid family metabolic process	1.0	0.0	1.0	1.0	1.0	1.0
+L-phenylalanine:2-oxoglutarate aminotransferase activity	0.0	0.0	0.0	1.0	0.0	0.0
+aromatic amino acid family catabolic process	0.0	0.0	0.0	1.0	0.0	0.0
+L-tyrosine:2-oxoglutarate aminotransferase activity	0.0	0.0	0.0	1.0	0.0	0.0

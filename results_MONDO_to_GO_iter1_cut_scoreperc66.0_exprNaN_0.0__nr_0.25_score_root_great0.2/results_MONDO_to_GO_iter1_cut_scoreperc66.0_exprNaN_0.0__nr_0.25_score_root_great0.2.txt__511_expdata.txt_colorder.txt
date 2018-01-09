@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway"
+"2" "negative regulation of T cell receptor signaling pathway"
+"3" "regulation of leukocyte migration"
+"4" "positive regulation of interferon-gamma secretion"
+"5" "negative regulation of T cell activation"
+"6" "regulation of calcium ion transmembrane transport"

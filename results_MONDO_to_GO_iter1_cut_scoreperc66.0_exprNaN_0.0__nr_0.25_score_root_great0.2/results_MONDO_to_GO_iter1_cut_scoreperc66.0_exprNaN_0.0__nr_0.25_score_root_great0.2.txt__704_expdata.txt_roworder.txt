@@ -1,0 +1,5 @@
+"x"
+"1" "X.linked.retinoschisis"
+"2" "hypertrophic.cardiomyopathy.17"
+"3" "Bartter.disease.type.2"
+"4" "progressive.familial.heart.block.type.ib"

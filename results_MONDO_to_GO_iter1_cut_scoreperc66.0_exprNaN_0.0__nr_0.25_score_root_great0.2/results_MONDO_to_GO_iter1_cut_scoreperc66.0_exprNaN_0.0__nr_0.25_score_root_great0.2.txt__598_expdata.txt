@@ -1,0 +1,6 @@
+	bilateral striopallidodentate calcinosis	Wolcott-Rallison syndrome	familial pancreatic carcinoma	dermatofibrosarcoma protuberans	advanced sleep phase syndrome 2	"basal ganglia calcification, idiopathic, 5"	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2
+protein phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+epidermal growth factor receptor signaling pathway	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+peptidyl-serine phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+protein serine/threonine/tyrosine kinase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of glomerular filtration	1.0	0.0	0.0	1.0	0.0	1.0	0.0

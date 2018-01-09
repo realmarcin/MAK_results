@@ -1,0 +1,5 @@
+"x"
+"1" "nuclear polyadenylation-dependent mRNA catabolic process"
+"2" "exosome (RNase complex)"
+"3" "DNA deamination"
+"4" "nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription"

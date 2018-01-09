@@ -1,0 +1,27 @@
+	dystonia 5	GTP cyclohydrolase i deficiency	carbamoyl phosphate synthetase i deficiency disease	"pulmonary hypertension, neonatal, susceptibility to"
+ATP binding	0.0	0.0	1.0	1.0
+nucleolus	0.0	0.0	1.0	1.0
+protein complex binding	0.0	0.0	1.0	1.0
+mitochondrion	0.0	0.0	1.0	1.0
+response to lipopolysaccharide	0.0	0.0	1.0	1.0
+endopeptidase activity	0.0	0.0	1.0	1.0
+phospholipid binding	0.0	0.0	1.0	1.0
+triglyceride catabolic process	0.0	0.0	1.0	1.0
+ligase activity	0.0	0.0	1.0	1.0
+mitochondrial inner membrane	0.0	0.0	1.0	1.0
+nitrogen compound metabolic process	0.0	0.0	1.0	1.0
+mitochondrial nucleoid	0.0	0.0	1.0	1.0
+glutamine metabolic process	0.0	0.0	1.0	1.0
+modified amino acid binding	0.0	0.0	1.0	1.0
+homocysteine metabolic process	0.0	0.0	1.0	1.0
+urea cycle	0.0	0.0	1.0	1.0
+arginine biosynthetic process	0.0	0.0	1.0	1.0
+anion homeostasis	0.0	0.0	1.0	1.0
+glutamate binding	0.0	0.0	1.0	1.0
+ammonia homeostasis	0.0	0.0	1.0	1.0
+'de novo' pyrimidine nucleobase biosynthetic process	0.0	0.0	1.0	1.0
+carbamoyl-phosphate synthase (ammonia) activity	0.0	0.0	1.0	1.0
+nitric oxide metabolic process	0.0	0.0	1.0	1.0
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	0.0	0.0	1.0	1.0
+cellular response to ammonia	0.0	0.0	1.0	1.0
+carbamoyl phosphate biosynthetic process	0.0	0.0	1.0	1.0

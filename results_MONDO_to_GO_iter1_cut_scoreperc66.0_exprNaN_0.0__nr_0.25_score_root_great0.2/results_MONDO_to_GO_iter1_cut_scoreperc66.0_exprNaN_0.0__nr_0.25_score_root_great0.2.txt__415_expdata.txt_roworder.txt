@@ -1,0 +1,7 @@
+"x"
+"1" "colorectal.adenocarcinoma"
+"2" "ovarian.cancer"
+"3" "schizophrenia..disease."
+"4" "Charcot.Marie.tooth.disease.type.4D"
+"5" "lissencephaly.due.to.LIS1.mutation"
+"6" "primary.ciliary.dyskinesia.33"

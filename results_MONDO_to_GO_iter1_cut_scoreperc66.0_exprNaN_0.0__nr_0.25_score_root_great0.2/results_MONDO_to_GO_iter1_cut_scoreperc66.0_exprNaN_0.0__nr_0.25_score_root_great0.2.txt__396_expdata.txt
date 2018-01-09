@@ -1,0 +1,8 @@
+	"exostoses, multiple, type 2"	"larsen-like syndrome, B3GAT3 type"	Spondylo-ocular syndrome	Desbuquois dysplasia 2	seizures-scoliosis-macrocephaly syndrome
+heparan sulfate proteoglycan biosynthetic process	1.0	1.0	1.0	0.0	1.0
+glycosaminoglycan biosynthetic process	1.0	1.0	1.0	1.0	1.0
+"heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process"	0.0	0.0	0.0	0.0	0.0
+proteoglycan biosynthetic process	1.0	1.0	1.0	1.0	1.0
+sensory neuron axon guidance	1.0	0.0	0.0	0.0	1.0
+chondroitin sulfate proteoglycan biosynthetic process	1.0	1.0	1.0	0.0	1.0
+heparin biosynthetic process	0.0	0.0	1.0	0.0	0.0

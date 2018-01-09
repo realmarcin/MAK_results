@@ -1,0 +1,8 @@
+	epidermodysplasia verruciformis	Action myoclonus-renal failure syndrome	Kufor-Rakeb syndrome	"spastic paraplegia 78, autosomal recessive; SPG78"
+zinc ion homeostasis	1.0	0.0	1.0	1.0
+regulation of glucosylceramidase activity	0.0	1.0	1.0	1.0
+regulation of lysosomal protein catabolic process	0.0	0.0	1.0	1.0
+cellular response to manganese ion	0.0	0.0	1.0	1.0
+regulation of autophagosome size	0.0	0.0	1.0	1.0
+peptidyl-aspartic acid autophosphorylation	0.0	0.0	1.0	1.0
+integral component of lysosomal membrane	0.0	0.0	1.0	1.0

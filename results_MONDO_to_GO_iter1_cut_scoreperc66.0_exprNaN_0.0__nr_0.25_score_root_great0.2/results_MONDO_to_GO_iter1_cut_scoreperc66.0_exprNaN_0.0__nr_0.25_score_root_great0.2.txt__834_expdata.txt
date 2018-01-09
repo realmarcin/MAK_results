@@ -1,0 +1,5 @@
+	torsion dystonia 1	melorheostosis	myotonic dystrophy type 1	Buschke-Ollendorff syndrome	cataract 46 juvenile-onset	"anemia, congenital dyserythropoietic, type Ia"	Galloway-Mowat syndrome	lethal restrictive dermopathy	syndromic X-linked intellectual disability Turner type	cataract 31 multiple types	"periventricular heterotopia with microcephaly, autosomal recessive"	mandibuloacral dysplasia with type B lipodystrophy	ACACAD	pontocerebellar hypoplasia type 8	reticulate acropigmentation of Kitamura	Alzheimer's disease 18	"atrial fibrillation, familial, 15"	"diabetes mellitus, Noninsulin-dependent, 5"	spastic paraplegia-severe developmental delay-epilepsy syndrome	"nephrotic syndrome, type 12; NPHS12"	spermatogenic failure 16; SPGF16
+nuclear envelope organization	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0
+nuclear inner membrane	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Golgi-associated vesicle	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+nucleus organization	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

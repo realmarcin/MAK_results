@@ -1,0 +1,7 @@
+"x"
+"1" "epidermolytic.hyperkeratosis"
+"2" "epidermolytic.palmoplantar.keratoderma"
+"3" "ichthyosis.hystrix.of.Curth.Macklin"
+"4" "palmoplantar.keratoderma..nonepidermolytic"
+"5" "annular.epidermolytic.ichthyosis"
+"6" "keratosis.palmoplantaris.striata.3"

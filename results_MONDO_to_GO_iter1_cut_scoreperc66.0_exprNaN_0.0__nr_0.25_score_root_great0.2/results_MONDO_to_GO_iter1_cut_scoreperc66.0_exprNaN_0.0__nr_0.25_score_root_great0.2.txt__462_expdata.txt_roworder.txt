@@ -1,0 +1,4 @@
+"x"
+"1" "autosomal.recessive.infantile.hypercalcemia"
+"2" "Hypocalcemic.vitamin.d.dependent.rickets"
+"3" "vitamin.d.Hydroxylation.deficient.rickets..type.1B"

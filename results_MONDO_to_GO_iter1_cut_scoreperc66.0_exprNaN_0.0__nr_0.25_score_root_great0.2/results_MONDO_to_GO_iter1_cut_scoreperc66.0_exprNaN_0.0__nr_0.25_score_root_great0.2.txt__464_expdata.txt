@@ -1,0 +1,4 @@
+	branchiooculofacial syndrome	"fibrosis of extraocular muscles, congenital, 2"	Duane retraction syndrome 2
+oculomotor nerve formation	1.0	1.0	1.0
+trochlear nerve formation	0.0	1.0	0.0
+phorbol ester receptor activity	0.0	0.0	1.0

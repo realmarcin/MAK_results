@@ -1,0 +1,5 @@
+"x"
+"1" "hypophosphatemic.nephrolithiasis.osteoporosis.1"
+"2" "Fanconi.renotubular.syndrome.2"
+"3" "hypercalcemia..infantile..2..HCINF2"
+"4" "bilateral.striopallidodentate.calcinosis"

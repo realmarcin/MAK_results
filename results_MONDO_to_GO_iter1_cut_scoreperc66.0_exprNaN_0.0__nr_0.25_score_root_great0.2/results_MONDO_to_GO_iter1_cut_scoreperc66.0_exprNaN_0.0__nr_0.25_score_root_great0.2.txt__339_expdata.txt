@@ -1,0 +1,7 @@
+	dyschromatosis symmetrica hereditaria	familial multinodular goiter	thrombocytopenia-absent radius syndrome	pleuropulmonary blastoma	autosomal systemic lupus erythematosus	Aicardi-Goutieres syndrome 6
+nucleic acid binding	0.0	1.0	1.0	1.0	0.0	0.0
+apoptotic DNA fragmentation	0.0	1.0	0.0	1.0	1.0	0.0
+pre-miRNA processing	1.0	1.0	0.0	1.0	0.0	1.0
+gene silencing by RNA	1.0	1.0	0.0	1.0	0.0	1.0
+production of miRNAs involved in gene silencing by miRNA	1.0	1.0	0.0	1.0	0.0	1.0
+RNA processing	1.0	1.0	1.0	1.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "peptidyl-prolyl cis-trans isomerase activity"
+"2" "isomerase activity"
+"3" "FK506 binding"
+"4" "histone peptidyl-prolyl isomerization"
+"5" "peptidyl-proline modification"

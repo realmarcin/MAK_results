@@ -1,0 +1,4 @@
+"x"
+"1" "hypomyelinating.leukodystrophy.2"
+"2" "hereditary.spastic.paraplegia.44"
+"3" "lymphedema..hereditary..1C"

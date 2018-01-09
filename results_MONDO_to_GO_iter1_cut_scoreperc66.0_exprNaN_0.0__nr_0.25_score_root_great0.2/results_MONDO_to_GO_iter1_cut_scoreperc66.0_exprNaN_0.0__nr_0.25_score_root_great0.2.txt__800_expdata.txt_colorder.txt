@@ -1,0 +1,6 @@
+"x"
+"1" "flavin adenine dinucleotide binding"
+"2" "electron transfer activity"
+"3" "NADP binding"
+"4" "FMN binding"
+"5" "NADPH-hemoprotein reductase activity"

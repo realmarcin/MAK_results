@@ -1,0 +1,7 @@
+"x"
+"1" "asthma..susceptibility.to"
+"2" "malaria..susceptibility.to"
+"3" "migraine.with.or.without.aura..susceptibility.to..1"
+"4" "hepatocellular.carcinoma"
+"5" "hypercholesterolemia..familial"
+"6" "Laron.syndrome"

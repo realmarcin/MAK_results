@@ -1,0 +1,6 @@
+"x"
+"1" "spondylometaphyseal.dysplasia.cone.rod.dystrophy.syndrome"
+"2" "STING.associated.vasculopathy.with.onset.in.infancy"
+"3" "focal.dermal.hypoplasia"
+"4" "myopia.23..autosomal.recessive"
+"5" "mental.retardation..autosomal.dominant.34"

@@ -1,0 +1,7 @@
+	Landau-Kleffner syndrome	syndromic X-linked intellectual disability 94	"mental retardation, autosomal dominant 6"	"mental retardation, autosomal dominant 8"	"epileptic encephalopathy, early infantile, 27"	"epileptic encephalopathy, early infantile, 46; EIEE46"
+ionotropic glutamate receptor activity	1.0	1.0	1.0	1.0	1.0	1.0
+extracellularly glutamate-gated ion channel activity	1.0	1.0	1.0	1.0	1.0	1.0
+AMPA glutamate receptor activity	0.0	1.0	0.0	0.0	0.0	0.0
+regulation of receptor recycling	0.0	1.0	0.0	0.0	0.0	0.0
+kainate selective glutamate receptor complex	0.0	0.0	0.0	0.0	0.0	0.0
+kainate selective glutamate receptor activity	0.0	0.0	0.0	0.0	0.0	0.0

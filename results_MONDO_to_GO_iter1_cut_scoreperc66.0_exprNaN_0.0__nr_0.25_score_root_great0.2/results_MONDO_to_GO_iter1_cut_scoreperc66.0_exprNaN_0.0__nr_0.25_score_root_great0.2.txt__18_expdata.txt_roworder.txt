@@ -1,0 +1,4 @@
+"x"
+"1" "congenital.insensitivity.to.pain.hypohidrosis.syndrome"
+"2" "dystonia.28..childhood.onset..DYT28"
+"3" "Weaver.syndrome"

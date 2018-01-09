@@ -1,0 +1,5 @@
+"x"
+"1" "diabetes.insipidus..nephrogenic..autosomal"
+"2" "cataract.15.multiple.types"
+"3" "atrial.fibrillation..familial..7"
+"4" "familial.episodic.pain.syndrome.with.predominantly.upper.body.involvement"

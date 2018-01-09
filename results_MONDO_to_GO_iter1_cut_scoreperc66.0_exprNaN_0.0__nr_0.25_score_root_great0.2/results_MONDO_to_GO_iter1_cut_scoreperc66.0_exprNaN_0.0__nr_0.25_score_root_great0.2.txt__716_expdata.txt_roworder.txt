@@ -1,0 +1,8 @@
+"x"
+"1" "aniridia.cerebellar.ataxia.intellectual.disability.syndrome"
+"2" "Peters.anomaly..disease."
+"3" "coloboma.of.optic.nerve..disease."
+"4" "foveal.hypoplasia.1"
+"5" "autosomal.dominant.keratitis"
+"6" "isolated.optic.nerve.hypoplasia"
+"7" "WAGR.syndrome"

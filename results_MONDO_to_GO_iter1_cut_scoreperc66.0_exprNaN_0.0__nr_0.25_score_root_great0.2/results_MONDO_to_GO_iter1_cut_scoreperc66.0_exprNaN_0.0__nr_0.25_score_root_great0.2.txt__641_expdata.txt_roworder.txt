@@ -1,0 +1,7 @@
+"x"
+"1" "Lafora.disease"
+"2" "autosomal.recessive.nonsyndromic.deafness.84A"
+"3" "adult.hypophosphatasia"
+"4" "infantile.hypophosphatasia"
+"5" "childhood.hypophosphatasia"
+"6" "fructose.1.6.bisphosphatase.deficiency"

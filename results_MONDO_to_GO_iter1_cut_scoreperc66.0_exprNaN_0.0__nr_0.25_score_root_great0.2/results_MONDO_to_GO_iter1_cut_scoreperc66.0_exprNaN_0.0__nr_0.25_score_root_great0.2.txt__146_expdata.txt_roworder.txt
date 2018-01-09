@@ -1,0 +1,5 @@
+"x"
+"1" "immunodeficiency.due.to.interleukin.1.receptor.associated.kinase.4.deficiency"
+"2" "FTDALS4"
+"3" "abdominal.obesity.metabolic.syndrome.3"
+"4" "spinocerebellar.ataxia.type.11"

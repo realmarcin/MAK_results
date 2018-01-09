@@ -1,0 +1,8 @@
+	amyotrophic lateral sclerosis type 2	hyperekplexia-epilepsy syndrome	juvenile primary lateral sclerosis	infantile-onset ascending hereditary spastic paralysis	autosomal recessive lower motor neuron disease with childhood onset	Charcot-Marie-tooth disease recessive intermediate c
+small GTPase mediated signal transduction	0.0	1.0	0.0	0.0	0.0	0.0
+positive regulation of GTPase activity	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of Rho protein signal transduction	1.0	1.0	1.0	1.0	1.0	1.0
+guanyl-nucleotide exchange factor activity	0.0	1.0	0.0	0.0	0.0	0.0
+Rho guanyl-nucleotide exchange factor activity	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of neuronal synaptic plasticity	0.0	0.0	0.0	0.0	0.0	0.0
+vesicle organization	1.0	0.0	1.0	1.0	0.0	0.0

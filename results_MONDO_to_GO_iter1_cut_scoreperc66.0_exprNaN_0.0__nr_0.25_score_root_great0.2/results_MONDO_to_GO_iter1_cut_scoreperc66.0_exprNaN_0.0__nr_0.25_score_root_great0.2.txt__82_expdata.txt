@@ -1,0 +1,7 @@
+	Landau-Kleffner syndrome	"epilepsy, childhood absence, susceptibility to, 2"	"generalized epilepsy with febrile seizures plus, type 3"	"mental retardation, autosomal dominant 6"	"mental retardation, autosomal dominant 8"	"epileptic encephalopathy, early infantile, 27"	"epileptic encephalopathy, early infantile, 46; EIEE46"
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+synapse	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Golgi apparatus	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ion channel activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0

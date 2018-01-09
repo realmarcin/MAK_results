@@ -1,0 +1,7 @@
+"x"
+"1" "familial.erythrocytosis.1"
+"2" "primary.myelofibrosis"
+"3" "polycythemia.vera"
+"4" "Budd.Chiari.syndrome"
+"5" "Hirschsprung.disease..susceptibility.to..3"
+"6" "thrombocythemia.3"

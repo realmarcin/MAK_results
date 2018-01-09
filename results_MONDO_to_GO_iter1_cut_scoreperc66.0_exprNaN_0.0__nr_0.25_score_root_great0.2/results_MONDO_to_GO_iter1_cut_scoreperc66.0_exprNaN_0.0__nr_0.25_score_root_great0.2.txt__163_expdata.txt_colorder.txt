@@ -1,0 +1,5 @@
+"x"
+"1" "interleukin-1 beta production"
+"2" "inflammasome complex"
+"3" "response to muramyl dipeptide"
+"4" "pyroptosis"

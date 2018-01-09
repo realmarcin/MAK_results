@@ -1,0 +1,5 @@
+"x"
+"1" "hereditary.sensory.and.autonomic.neuropathy.type.6"
+"2" "epidermolysis.bullosa.simplex.due.to.BP230.deficiency"
+"3" "Brody.myopathy"
+"4" "lissencephaly.due.to.LIS1.mutation"

@@ -1,0 +1,8 @@
+"x"
+"1" "gamma.chain.deficiency"
+"2" "combined.immunodeficiency..X.linked"
+"3" "leukocyte.adhesion.deficiency.1"
+"4" "hereditary.spastic.paraplegia.2"
+"5" "immunodeficiency.25"
+"6" "combined.immunodeficiency.due.to.CD3gamma.deficiency"
+"7" "immunodeficiency.19"

@@ -1,0 +1,7 @@
+	adenosine deaminase deficiency	situs inversus	"autoimmune disease, susceptibility to, 1"	ventricular septal defect 2	atrial heart septal defect 8	obesity due to congenital leptin deficiency
+trophectodermal cell differentiation	1.0	1.0	1.0	1.0	1.0	0.0
+positive regulation of peroxisome proliferator activated receptor signaling pathway	0.0	0.0	0.0	1.0	1.0	1.0
+leukocyte differentiation	0.0	0.0	0.0	1.0	1.0	0.0
+nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	0.0	1.0	0.0	1.0	1.0	0.0
+embryonic process involved in female pregnancy	0.0	1.0	0.0	1.0	1.0	0.0
+pulmonary artery morphogenesis	0.0	0.0	0.0	1.0	1.0	0.0

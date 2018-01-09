@@ -1,0 +1,5 @@
+"x"
+"1" "mitochondrial outer membrane"
+"2" "mitochondrion"
+"3" "lipid metabolic process"
+"4" "lysosome"

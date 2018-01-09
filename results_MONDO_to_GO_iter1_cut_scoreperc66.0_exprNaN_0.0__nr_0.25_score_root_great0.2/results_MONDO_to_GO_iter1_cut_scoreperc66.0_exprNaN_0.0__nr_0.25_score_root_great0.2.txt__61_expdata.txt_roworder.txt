@@ -1,0 +1,5 @@
+"x"
+"1" "short.syndrome"
+"2" "agammaglobulinemia.7..autosomal.recessive"
+"3" "immunodeficiency.36"
+"4" "ataxia.with.oculomotor.apraxia.type.3"

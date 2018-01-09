@@ -1,0 +1,7 @@
+"x"
+"1" "familial.expansile.osteolysis"
+"2" "autosomal.recessive.osteopetrosis.7"
+"3" "predisposition.to.invasive.fungal.disease.due.to.CARD9.deficiency"
+"4" "autoimmune.lymphoproliferative.syndrome.type.2B"
+"5" "FADD.related.immunodeficiency"
+"6" "herpes.simplex.encephalitis..susceptibility.to..3"

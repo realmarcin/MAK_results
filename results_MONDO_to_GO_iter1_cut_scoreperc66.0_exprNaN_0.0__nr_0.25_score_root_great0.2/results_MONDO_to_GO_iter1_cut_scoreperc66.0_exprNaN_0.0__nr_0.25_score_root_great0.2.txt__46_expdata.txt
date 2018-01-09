@@ -1,0 +1,8 @@
+	reticular dysgenesis	sialuria	GNE myopathy	"microcephaly, seizures, and developmental delay"	pontocerebellar hypoplasia type 10	ataxia-oculomotor apraxia type 4
+phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+nucleotide binding	1.0	1.0	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0	1.0	1.0
+ATP binding	1.0	1.0	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	1.0	1.0	1.0
+hydrolase activity	0.0	1.0	1.0	1.0	0.0	1.0
+ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	0.0	0.0	0.0	1.0	1.0	1.0

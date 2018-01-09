@@ -1,0 +1,5 @@
+"x"
+"1" "nephronophthisis.15"
+"2" "hereditary.spastic.paraplegia.15"
+"3" "congenital.cataracts.facial.dysmorphism.neuropathy.syndrome"
+"4" "Seckel.syndrome.6"

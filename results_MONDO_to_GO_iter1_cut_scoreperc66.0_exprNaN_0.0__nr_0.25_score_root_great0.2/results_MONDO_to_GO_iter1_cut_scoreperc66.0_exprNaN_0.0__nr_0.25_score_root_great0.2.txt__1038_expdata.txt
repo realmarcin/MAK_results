@@ -1,0 +1,9 @@
+	Machado-Joseph disease	autosomal recessive nonsyndromic deafness 39	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	thrombomodulin-related bleeding disorder
+extracellular space	0.0	1.0	0.0	1.0	1.0
+growth factor activity	0.0	1.0	0.0	0.0	0.0
+central nervous system neuron differentiation	0.0	1.0	0.0	0.0	0.0
+morphogenesis of a branching epithelium	0.0	1.0	0.0	0.0	0.0
+cerebellar granule cell differentiation	0.0	1.0	0.0	0.0	0.0
+cerebellum morphogenesis	0.0	1.0	0.0	0.0	0.0
+hepatocyte growth factor receptor signaling pathway	0.0	1.0	0.0	0.0	0.0
+cerebellum development	0.0	1.0	0.0	0.0	0.0

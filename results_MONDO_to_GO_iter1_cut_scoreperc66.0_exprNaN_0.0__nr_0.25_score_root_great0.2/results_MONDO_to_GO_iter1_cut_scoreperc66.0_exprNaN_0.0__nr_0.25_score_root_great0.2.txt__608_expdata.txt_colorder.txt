@@ -1,0 +1,6 @@
+"x"
+"1" "deaminase activity"
+"2" "nucleotide metabolic process"
+"3" "AMP metabolic process"
+"4" "cyclic purine nucleotide metabolic process"
+"5" "IMP biosynthetic process"

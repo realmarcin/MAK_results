@@ -1,0 +1,13 @@
+	ocular albinism with congenital sensorineural deafness	Tietz syndrome	Waardenburg syndrome type 2A	MITF-related melanoma and renal cell carcinoma predisposition syndrome	"coloboma, osteopetrosis, microphthalmia, macrocephaly, albinism, and deafness; COMMAD"
+integral component of membrane	1.0	0.0	0.0	0.0	0.0
+metal ion binding	1.0	0.0	0.0	0.0	0.0
+metabolic process	1.0	0.0	0.0	0.0	0.0
+catechol oxidase activity	1.0	0.0	0.0	0.0	0.0
+oxidation-reduction process	1.0	0.0	0.0	0.0	0.0
+developmental pigmentation	1.0	0.0	0.0	0.0	0.0
+iridophore differentiation	1.0	0.0	0.0	0.0	0.0
+dopamine biosynthetic process from tyrosine	1.0	0.0	0.0	0.0	0.0
+melanosome	1.0	0.0	0.0	0.0	0.0
+oxidoreductase activity	1.0	0.0	0.0	0.0	0.0
+melanosome organization	1.0	0.0	0.0	0.0	0.0
+monophenol monooxygenase activity	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	Colchicine resistance	autosomal recessive osteopetrosis 3	tetraamelia-multiple malformations syndrome	Allan-Herndon-Dudley syndrome	megalencephalic leukoencephalopathy with subcortical cysts	inflammatory bowel disease 13	Sessile Serrated polyposis cancer syndrome; SSPCS
+maintenance of permeability of blood-brain barrier	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+hormone transport	1.0	0.0	0.0	1.0	0.0	1.0	0.0
+establishment of blood-brain barrier	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+regulation of chloride transport	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+regulation of response to osmotic stress	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+stem cell proliferation	1.0	0.0	1.0	0.0	0.0	1.0	1.0

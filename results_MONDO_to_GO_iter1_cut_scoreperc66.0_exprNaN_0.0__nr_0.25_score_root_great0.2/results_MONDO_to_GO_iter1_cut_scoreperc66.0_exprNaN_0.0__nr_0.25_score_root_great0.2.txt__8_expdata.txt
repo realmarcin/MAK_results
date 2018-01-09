@@ -1,0 +1,6 @@
+	amelogenesis imperfecta type 1B	dentin dysplasia type II	dentinogenesis imperfecta type 2	dentinogenesis imperfecta type 3	amelogenesis imperfecta type 1C	"deafness, autosomal dominant 39, with dentinogenesis imperfecta 1"
+proteinaceous extracellular matrix	1.0	1.0	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0	1.0
+biomineral tissue development	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of enamel mineralization	1.0	1.0	1.0	1.0	1.0	1.0
+cellular response to cell-matrix adhesion	0.0	1.0	1.0	1.0	0.0	1.0

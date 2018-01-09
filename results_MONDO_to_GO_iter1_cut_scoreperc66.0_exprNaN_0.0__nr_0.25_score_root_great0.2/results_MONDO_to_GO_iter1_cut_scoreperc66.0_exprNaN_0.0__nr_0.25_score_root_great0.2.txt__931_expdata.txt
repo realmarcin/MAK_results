@@ -1,0 +1,8 @@
+	dihydropyrimidinuria	biotinidase deficiency	dihydropyrimidine dehydrogenase deficiency	beta-ureidopropionase deficiency	developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency	CAD-CDG
+thymine catabolic process	1.0	0.0	1.0	0.0	1.0	0.0
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"	1.0	1.0	0.0	1.0	0.0	1.0
+purine nucleobase catabolic process	0.0	0.0	1.0	0.0	0.0	0.0
+dihydrouracil dehydrogenase (NAD+) activity	0.0	0.0	1.0	0.0	0.0	0.0
+dihydropyrimidine dehydrogenase (NADP+) activity	0.0	0.0	1.0	0.0	0.0	0.0
+thymidine catabolic process	0.0	0.0	1.0	0.0	0.0	0.0
+beta-alanine biosynthetic process	0.0	0.0	1.0	0.0	0.0	0.0

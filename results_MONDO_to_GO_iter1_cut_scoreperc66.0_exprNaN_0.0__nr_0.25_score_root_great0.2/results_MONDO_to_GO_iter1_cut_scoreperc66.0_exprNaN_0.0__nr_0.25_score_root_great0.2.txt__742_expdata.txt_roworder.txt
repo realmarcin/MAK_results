@@ -1,0 +1,6 @@
+"x"
+"1" "cardiofaciocutaneous.syndrome.3"
+"2" "cardiofaciocutaneous.syndrome.4"
+"3" "tuberous.sclerosis.1"
+"4" "lymphangioleiomyomatosis"
+"5" "X46.Xy.sex.reversal.6"

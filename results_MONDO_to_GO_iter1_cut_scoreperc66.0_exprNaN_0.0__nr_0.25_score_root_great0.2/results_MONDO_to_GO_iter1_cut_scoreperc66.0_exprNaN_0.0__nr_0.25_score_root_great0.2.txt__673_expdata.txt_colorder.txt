@@ -1,0 +1,6 @@
+"x"
+"1" "calcium channel complex"
+"2" "junctional sarcoplasmic reticulum membrane"
+"3" "positive regulation of ryanodine-sensitive calcium-release channel activity"
+"4" "regulation of cell communication by electrical coupling"
+"5" "negative regulation of ryanodine-sensitive calcium-release channel activity"

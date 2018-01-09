@@ -1,0 +1,9 @@
+	Ogden syndrome	"microphthalmia, syndromic 1"	retinitis pigmentosa 26	"accelerated tumor formation, susceptibility to"
+cytoplasm	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	0.0	1.0
+nucleus	1.0	1.0	1.0	1.0
+nucleolus	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	0.0	1.0	0.0	1.0
+neural tube development	0.0	1.0	0.0	0.0
+negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	0.0	1.0	0.0	1.0
+PcG protein complex	0.0	1.0	0.0	0.0

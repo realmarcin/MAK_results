@@ -1,0 +1,7 @@
+"x"
+"1" "mitochondrial.DNA.deletion.syndrome.with.progressive.myopathy"
+"2" "Seckel.syndrome.8"
+"3" "Bloom.syndrome"
+"4" "primary.immunodeficiency.with.natural.killer.cell.deficiency.and.adrenal.insufficiency"
+"5" "Meier.Gorlin.syndrome.3"
+"6" "Werner.syndrome"

@@ -1,0 +1,15 @@
+	Grn-related frontotemporal lobar degeneration with Tdp43 inclusions	neuronal ceroid lipofuscinosis 11	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+positive regulation of epithelial cell proliferation	1.0	1.0	0.0	0.0
+mitochondrion	1.0	1.0	0.0	0.0
+axon extension	1.0	1.0	0.0	0.0
+response to estradiol	1.0	1.0	0.0	0.0
+endosome	1.0	1.0	0.0	0.0
+neural precursor cell proliferation	1.0	1.0	0.0	0.0
+cytokine activity	1.0	1.0	0.0	0.0
+chondrocyte proliferation	1.0	1.0	0.0	0.0
+embryo implantation	1.0	1.0	0.0	0.0
+male mating behavior	1.0	1.0	0.0	0.0
+skeletal muscle acetylcholine-gated channel clustering	1.0	1.0	0.0	0.0
+blastocyst hatching	1.0	1.0	0.0	0.0
+synaptic vesicle endocytosis	1.0	1.0	0.0	0.0
+positive regulation of dendritic spine development	1.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "juvenile.myelomonocytic.leukemia"
+"2" "CHARGE.syndrome"
+"3" "esophageal.atresia.tracheoesophageal.fistula"
+"4" "hypogonadotropic.hypogonadism.5.with.or.without.anosmia"
+"5" "glaucoma.1..open.angle..a"

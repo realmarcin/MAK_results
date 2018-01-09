@@ -1,0 +1,8 @@
+	sensorineural hearing loss (disease)	Marshall-Smith syndrome	Malan overgrowth syndrome	mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency	"Monocyte and dendritic cell deficiency, autosomal recessive"	achromatopsia 7
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	0.0	1.0	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0
+DNA binding transcription factor activity	1.0	1.0	1.0	1.0	1.0	1.0
+intracellular	1.0	1.0	1.0	0.0	0.0	0.0
+RNA polymerase II regulatory region sequence-specific DNA binding	1.0	1.0	1.0	1.0	1.0	1.0

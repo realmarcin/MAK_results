@@ -1,0 +1,6 @@
+	multiple self-healing squamous epithelioma	generalized juvenile polyposis/juvenile polyposis coli	idiopathic and/or familial pulmonary arterial hypertension	pulmonary venoocclusive disease	"telangiectasia, hereditary hemorrhagic, type 2"	"polyposis syndrome, hereditary mixed, 2"	Loeys-Dietz syndrome 2	"colorectal cancer, hereditary nonpolyposis, type 6"
+regulation of blood vessel size	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"signal transducer, downstream of receptor, with serine/threonine kinase activity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+transmembrane receptor protein serine/threonine kinase signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+response to fluid shear stress	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+blood vessel endothelial cell migration	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

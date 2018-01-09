@@ -1,0 +1,10 @@
+	Leber congenital amaurosis 5	asphyxiating thoracic dystrophy 5	cranioectodermal dysplasia 4	Joubert syndrome 15	Senior-Loken syndrome 8
+cell projection	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+cytoskeleton	1.0	1.0	1.0	1.0	1.0
+transport	0.0	0.0	0.0	1.0	0.0
+protein transport	1.0	0.0	0.0	1.0	0.0
+cilium	1.0	1.0	1.0	1.0	1.0
+intraciliary transport	1.0	0.0	0.0	0.0	0.0
+tubulin-glutamic acid ligase activity	0.0	0.0	0.0	1.0	0.0
+protein polyglutamylation	0.0	0.0	0.0	1.0	0.0

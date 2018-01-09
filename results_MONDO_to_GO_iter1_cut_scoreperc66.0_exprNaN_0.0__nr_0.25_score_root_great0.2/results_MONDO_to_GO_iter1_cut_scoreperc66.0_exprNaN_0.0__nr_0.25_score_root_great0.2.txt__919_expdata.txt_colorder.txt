@@ -1,0 +1,5 @@
+"x"
+"1" "positive regulation of NF-kappaB transcription factor activity"
+"2" "protein complex"
+"3" "negative regulation of transcription, DNA-templated"
+"4" "regulation of catalytic activity"

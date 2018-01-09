@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.dominant.nonsyndromic.deafness.40"
+"2" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"
+"3" "cerebral.palsy..spastic.quadriplegic..1"
+"4" "aromatic.L.amino.acid.decarboxylase.deficiency"

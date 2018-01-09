@@ -1,0 +1,6 @@
+"x"
+"1" "monosaccharide binding"
+"2" "pentose-phosphate shunt"
+"3" "pentose-phosphate shunt, non-oxidative branch"
+"4" "sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity"
+"5" "transketolase activity"

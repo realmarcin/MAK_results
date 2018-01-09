@@ -1,0 +1,7 @@
+"x"
+"1" "integral component of endoplasmic reticulum membrane"
+"2" "post-embryonic development"
+"3" "GPI anchor biosynthetic process"
+"4" "CP2 mannose-ethanolamine phosphotransferase activity"
+"5" "N-acetylglucosaminylphosphatidylinositol deacetylase activity"
+"6" "positive regulation of triglyceride lipase activity"

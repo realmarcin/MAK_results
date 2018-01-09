@@ -1,0 +1,8 @@
+"x"
+"1" "lysosome"
+"2" "extracellular exosome"
+"3" "metabolic process"
+"4" "receptor binding"
+"5" "hydrolase activity, hydrolyzing O-glycosyl compounds"
+"6" "glycosaminoglycan catabolic process"
+"7" "lysosome organization"

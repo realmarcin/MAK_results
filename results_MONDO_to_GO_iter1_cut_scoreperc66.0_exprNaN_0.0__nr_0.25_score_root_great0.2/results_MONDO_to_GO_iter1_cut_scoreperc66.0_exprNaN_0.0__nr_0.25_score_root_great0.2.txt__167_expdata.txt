@@ -1,0 +1,4 @@
+	thrombophilia due to thrombin defect	homocystinuria due to methylene tetrahydrofolate reductase deficiency	brain demyelination due to methionine adenosyltransferase deficiency	"neural tube defects, folate-Sensitive"	glycine N-methyltransferase deficiency	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	constitutional megaloblastic anemia with severe neurologic disease	Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency
+one-carbon metabolic process	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+tetrahydrofolate metabolic process	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+methionine metabolic process	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "ganglioside catabolic process"
+"2" "oligosaccharide catabolic process"
+"3" "beta-N-acetylhexosaminidase activity"
+"4" "hexosaminidase activity"
+"5" "regulation of cellular metabolic process"
+"6" "beta-N-acetylglucosaminidase activity"

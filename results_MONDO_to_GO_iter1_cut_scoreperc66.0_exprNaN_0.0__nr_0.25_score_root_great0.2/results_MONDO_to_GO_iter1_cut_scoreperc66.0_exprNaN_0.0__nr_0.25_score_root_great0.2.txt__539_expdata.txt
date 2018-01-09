@@ -1,0 +1,4 @@
+	metaphyseal chondrodysplasia-retinitis pigmentosa syndrome	osteogenesis imperfecta type 9	pyruvate carboxylase deficiency disease	endogenous depression
+protein peptidyl-prolyl isomerization	1.0	1.0	0.0	1.0
+positive regulation by host of viral process	0.0	1.0	1.0	0.0
+endoplasmic reticulum chaperone complex	0.0	1.0	0.0	0.0

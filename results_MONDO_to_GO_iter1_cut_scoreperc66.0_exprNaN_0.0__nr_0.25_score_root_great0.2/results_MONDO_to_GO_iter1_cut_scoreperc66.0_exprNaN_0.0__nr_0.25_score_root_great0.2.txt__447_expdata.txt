@@ -1,0 +1,8 @@
+	inherited Creutzfeldt-Jakob disease	"multiple sclerosis, susceptibility to"	"celiac disease, susceptibility to, 1"	"hypoproteinemia, Hypercatabolic"	type 1 diabetes mellitus 10	immunodeficiency due to CD25 deficiency
+external side of plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0
+response to molecule of bacterial origin	0.0	0.0	0.0	1.0	0.0	0.0
+immune response	1.0	1.0	1.0	1.0	1.0	1.0
+immune system process	1.0	1.0	1.0	1.0	1.0	1.0
+innate immune response	0.0	0.0	0.0	0.0	0.0	0.0
+adaptive immune response	0.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of T cell proliferation	1.0	1.0	1.0	0.0	1.0	1.0

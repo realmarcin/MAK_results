@@ -1,0 +1,5 @@
+"x"
+"1" "Waardenburg.syndrome.type.4B"
+"2" "Hirschsprung.disease..susceptibility.to..4"
+"3" "Question.mark.ears..isolated"
+"4" "Auriculocondylar.syndrome.3"

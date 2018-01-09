@@ -1,0 +1,7 @@
+	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	susceptibility to HIV infection	"hepatitis c virus, susceptibility to"	tuberous sclerosis 2	myostatin-related muscle hypertrophy
+extracellular space	1.0	1.0	1.0	1.0	1.0	1.0
+"positive regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0	1.0
+cytokine activity	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of insulin receptor signaling pathway	1.0	0.0	0.0	0.0	1.0	1.0
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	1.0	1.0	1.0	1.0	1.0	0.0

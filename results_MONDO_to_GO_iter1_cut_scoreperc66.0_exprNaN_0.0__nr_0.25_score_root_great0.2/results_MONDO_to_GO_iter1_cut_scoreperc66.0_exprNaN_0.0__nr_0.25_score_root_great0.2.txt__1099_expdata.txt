@@ -1,0 +1,16 @@
+	immunodeficiency-centromeric instability-facial anomalies syndrome 1	Kabuki syndrome 2	Kleefstra syndrome	"microcephaly 11, primary, autosomal recessive"	"neurodevelopmental disorder with or without anomalies of the brain, eye, or heart; NEDBEH"
+negative regulation of smoothened signaling pathway	0.0	0.0	0.0	0.0	1.0
+inner ear development	0.0	0.0	0.0	0.0	1.0
+"transcription, DNA-templated"	0.0	0.0	0.0	0.0	1.0
+cartilage morphogenesis	0.0	0.0	0.0	0.0	1.0
+dendrite morphogenesis	0.0	0.0	0.0	0.0	1.0
+RNA polymerase II transcription corepressor activity	0.0	0.0	0.0	0.0	1.0
+cerebellum development	0.0	0.0	0.0	0.0	1.0
+regulation of fibroblast growth factor receptor signaling pathway	0.0	0.0	0.0	0.0	1.0
+histone deacetylase complex	0.0	0.0	0.0	0.0	1.0
+cerebellar granule cell precursor proliferation	0.0	0.0	0.0	0.0	1.0
+branching morphogenesis of a nerve	0.0	0.0	0.0	0.0	1.0
+regulation of histone deacetylation	0.0	0.0	0.0	0.0	1.0
+nuclear part	0.0	0.0	0.0	0.0	1.0
+radial glia guided migration of Purkinje cell	0.0	0.0	0.0	0.0	1.0
+cerebellar Purkinje cell layer maturation	0.0	0.0	0.0	0.0	1.0

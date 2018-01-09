@@ -1,0 +1,7 @@
+	"essential hypertension, genetic"	"precocious puberty, central, 1"	renal tubular dysgenesis of genetic origin	hypogonadotropic hypogonadism 8 with or without anosmia
+phospholipase C-activating G-protein coupled receptor signaling pathway	1.0	1.0	1.0	1.0
+arachidonic acid secretion	0.0	1.0	1.0	1.0
+positive regulation of blood vessel diameter	1.0	0.0	1.0	0.0
+cerebellar Purkinje cell layer development	0.0	0.0	0.0	0.0
+angiotensin receptor binding	1.0	0.0	1.0	0.0
+calcium-mediated signaling	1.0	1.0	1.0	1.0

@@ -1,0 +1,4 @@
+	primary ciliary dyskinesia 26	primary ciliary dyskinesia 27	primary ciliary dyskinesia 30
+cerebrospinal fluid circulation	1.0	0.0	1.0
+regulation of cilium movement	1.0	1.0	0.0
+cell projection morphogenesis	1.0	0.0	0.0

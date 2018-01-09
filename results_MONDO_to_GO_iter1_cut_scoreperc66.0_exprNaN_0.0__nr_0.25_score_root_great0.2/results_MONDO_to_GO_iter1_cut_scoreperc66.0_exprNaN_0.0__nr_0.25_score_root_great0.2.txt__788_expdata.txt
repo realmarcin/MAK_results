@@ -1,0 +1,11 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	"striatonigral degeneration, childhood-onset; SNDC"
+membrane	0.0	1.0	1.0	1.0
+endoplasmic reticulum	0.0	1.0	1.0	1.0
+positive regulation of kinase activity	0.0	0.0	0.0	1.0
+intracellular membrane-bounded organelle	0.0	1.0	0.0	1.0
+response to osmotic stress	0.0	0.0	0.0	1.0
+PAS complex	0.0	0.0	0.0	1.0
+phosphatidylinositol biosynthetic process	0.0	0.0	0.0	1.0
+kinase activator activity	0.0	0.0	0.0	1.0
+extrinsic component of vacuolar membrane	0.0	0.0	0.0	1.0
+regulation of lipid kinase activity	0.0	0.0	0.0	1.0

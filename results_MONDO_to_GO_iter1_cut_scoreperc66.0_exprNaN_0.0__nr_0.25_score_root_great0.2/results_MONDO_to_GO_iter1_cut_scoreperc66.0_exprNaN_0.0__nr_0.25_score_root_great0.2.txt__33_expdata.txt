@@ -1,0 +1,4 @@
+	autosomal recessive multiple pterygium syndrome	autosomal dominant nocturnal frontal lobe epilepsy 1	congenital myasthenic syndrome 1A	autosomal dominant nocturnal frontal lobe epilepsy 3	congenital myasthenic syndrome 4A	"myasthenic syndrome, congenital, 1B, fast-channel"	autosomal dominant nocturnal frontal lobe epilepsy 4	congenital myasthenic syndrome 2A	congenital myasthenic syndrome 2C	congenital myasthenic syndrome 3A	congenital myasthenic syndrome 3B	congenital myasthenic syndrome 3C	congenital myasthenic syndrome 4B
+acetylcholine-gated cation-selective channel activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+acetylcholine binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+acetylcholine receptor activity	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0

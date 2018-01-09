@@ -1,0 +1,7 @@
+	aromatase excess syndrome	congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	dominant beta-thalassemia	sickle cell anemia	alpha thalassemia	aromatase deficiency	hemoglobin H disease	beta-thalassemia HBB/LCRB
+neuronal cell body	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+oxidation-reduction process	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+oxidoreductase activity	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+monooxygenase activity	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+heme binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

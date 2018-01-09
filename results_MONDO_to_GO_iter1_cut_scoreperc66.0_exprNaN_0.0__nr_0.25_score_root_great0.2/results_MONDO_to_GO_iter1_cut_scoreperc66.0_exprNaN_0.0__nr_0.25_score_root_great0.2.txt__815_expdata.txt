@@ -1,0 +1,10 @@
+	acromelic frontonasal dysostosis	"cerebellar ataxia, mental retardation, and Dysequilibrium syndrome 3"	"chondrodysplasia with joint dislocations, gPAPP type"	nucleoside diphosphate-linked Moiety X Motif 15 deficiency; NUDT15D
+cytoplasm	0.0	1.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0
+zinc ion binding	1.0	1.0	0.0	0.0
+locomotory behavior	0.0	1.0	0.0	0.0
+swimming behavior	0.0	1.0	0.0	0.0
+phosphatidylinositol-mediated signaling	0.0	1.0	0.0	0.0
+cerebellum development	0.0	1.0	0.0	0.0
+one-carbon metabolic process	0.0	1.0	0.0	0.0
+carbonate dehydratase activity	0.0	1.0	0.0	0.0

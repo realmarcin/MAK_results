@@ -1,0 +1,7 @@
+	"diabetes mellitus, Noninsulin-dependent"	"protoporphyria, erythropoietic"	"mental retardation, X-linked 63"	apolipoprotein c-Iii deficiency	congenital diarrhea 7 with exudative enteropathy	severe intellectual disability-epilepsy-cataract syndrome due to fatty acyl-CoA reductase 1 deficiency
+positive regulation of triglyceride biosynthetic process	1.0	0.0	0.0	1.0	1.0	0.0
+very-low-density lipoprotein particle assembly	0.0	1.0	0.0	1.0	1.0	0.0
+positive regulation of fatty acid oxidation	0.0	0.0	0.0	0.0	1.0	0.0
+long-chain fatty-acyl-CoA metabolic process	0.0	0.0	1.0	0.0	1.0	1.0
+fatty-acyl-CoA reductase (alcohol-forming) activity	0.0	0.0	0.0	0.0	0.0	1.0
+wax biosynthetic process	0.0	0.0	0.0	0.0	0.0	1.0

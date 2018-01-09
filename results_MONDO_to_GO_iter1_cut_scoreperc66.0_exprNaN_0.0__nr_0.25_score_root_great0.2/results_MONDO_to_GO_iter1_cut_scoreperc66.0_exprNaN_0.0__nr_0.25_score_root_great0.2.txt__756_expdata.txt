@@ -1,0 +1,12 @@
+	Norman-Roberts syndrome	familial temporal lobe epilepsy 1	familial temporal lobe epilepsy 7
+cell junction	0.0	1.0	0.0
+synapse	0.0	1.0	0.0
+neuron projection development	0.0	1.0	0.0
+catalytic activity	0.0	1.0	0.0
+cellular_component	0.0	1.0	0.0
+protein homooligomerization	0.0	1.0	0.0
+positive regulation of cell growth	0.0	1.0	0.0
+myelination	0.0	1.0	0.0
+brain morphogenesis	0.0	1.0	0.0
+positive regulation of synaptic transmission	0.0	1.0	0.0
+positive regulation of lateral motor column neuron migration	1.0	1.0	1.0

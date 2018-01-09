@@ -1,0 +1,6 @@
+"x"
+"1" "heart contraction"
+"2" "Z disc"
+"3" "myofibril assembly"
+"4" "actin binding"
+"5" "ventricular cardiac myofibril assembly"

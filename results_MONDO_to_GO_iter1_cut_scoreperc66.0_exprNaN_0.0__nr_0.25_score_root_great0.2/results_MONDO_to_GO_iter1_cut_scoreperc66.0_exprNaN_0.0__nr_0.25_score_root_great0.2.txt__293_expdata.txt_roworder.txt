@@ -1,0 +1,4 @@
+"x"
+"1" "X46.XY.disorder.of.sex.development.due.to.5.alpha.reductase.2.deficiency"
+"2" "SRD5A3.CDG"
+"3" "Kahrizi.syndrome"

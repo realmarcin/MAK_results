@@ -1,0 +1,5 @@
+	"blepharophimosis, ptosis, and epicanthus inversus syndrome"	MHC class II deficiency	hydranencephaly with renal aplasia-dysplasia	"mental retardation, X-linked 100"	poikiloderma with neutropenia	premature ovarian failure 3	karyomegalic interstitial nephritis	idiopathic CD4 lymphocytopenia	platelet-type bleeding disorder 19
+intercellular bridge	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+apoptotic DNA fragmentation	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+embryonic eye morphogenesis	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"DNA-templated transcription, termination"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

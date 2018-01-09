@@ -1,0 +1,5 @@
+	amyotrophic lateral sclerosis type 4	"spinocerebellar ataxia, autosomal recessive 1"	familial cortical myoclonus
+transcription termination site sequence-specific DNA binding	1.0	1.0	0.0
+"positive regulation of termination of RNA polymerase II transcription, poly(A)-coupled"	1.0	1.0	0.0
+"positive regulation of DNA-templated transcription, termination"	1.0	1.0	0.0
+mRNA splice site selection	1.0	1.0	1.0

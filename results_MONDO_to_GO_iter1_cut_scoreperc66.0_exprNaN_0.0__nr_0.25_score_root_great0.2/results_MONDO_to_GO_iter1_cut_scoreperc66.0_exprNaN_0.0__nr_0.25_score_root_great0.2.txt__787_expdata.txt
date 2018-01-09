@@ -1,0 +1,11 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	Marinesco-SjC6gren syndrome	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia
+cytoplasm	0.0	1.0	1.0	1.0
+endoplasmic reticulum	0.0	1.0	1.0	1.0
+regulation of translation	0.0	1.0	0.0	0.0
+endoplasmic reticulum lumen	0.0	1.0	0.0	0.0
+eye development	0.0	1.0	0.0	0.0
+skeletal muscle fiber development	0.0	1.0	0.0	0.0
+regulation of catalytic activity	0.0	1.0	0.0	0.0
+cytoplasm protein quality control by the ubiquitin-proteasome system	0.0	1.0	0.0	0.0
+"SRP-dependent cotranslational protein targeting to membrane, translocation"	0.0	1.0	0.0	1.0
+adenyl-nucleotide exchange factor activity	0.0	1.0	0.0	0.0

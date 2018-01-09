@@ -1,0 +1,9 @@
+	syndromic X-linked intellectual disability Claes-Jensen type	Borjeson-Forssman-Lehmann syndrome	craniosynostosis 4	torsion dystonia 6	Chitayat syndrome; CHYTS
+protein binding	0.0	0.0	0.0	0.0	0.0
+negative regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+sequence-specific DNA binding	0.0	1.0	1.0	1.0	1.0
+nucleoplasm	1.0	1.0	1.0	1.0	1.0

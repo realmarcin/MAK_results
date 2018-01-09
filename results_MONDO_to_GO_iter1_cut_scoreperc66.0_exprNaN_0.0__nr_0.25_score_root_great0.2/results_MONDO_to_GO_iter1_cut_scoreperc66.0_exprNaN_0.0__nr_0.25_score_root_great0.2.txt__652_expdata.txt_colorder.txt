@@ -1,0 +1,7 @@
+"x"
+"1" "saliva secretion"
+"2" "positive regulation of T cell receptor signaling pathway"
+"3" "adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway"
+"4" "G-protein coupled acetylcholine receptor activity"
+"5" "Intermediate conductance calcium-activated potassium channel activity"
+"6" "small conductance calcium-activated potassium channel activity"

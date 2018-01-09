@@ -1,0 +1,6 @@
+"x"
+"1" "histone deacetylase activity"
+"2" "protein deacetylation"
+"3" "NAD-dependent histone deacetylase activity (H3-K14 specific)"
+"4" "tubulin deacetylase activity"
+"5" "protein deacetylase activity"

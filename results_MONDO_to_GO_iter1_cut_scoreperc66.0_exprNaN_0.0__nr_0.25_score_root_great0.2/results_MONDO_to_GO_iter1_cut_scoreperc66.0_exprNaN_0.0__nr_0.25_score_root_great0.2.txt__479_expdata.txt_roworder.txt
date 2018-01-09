@@ -1,0 +1,5 @@
+"x"
+"1" "Parkinson.disease.13..autosomal.dominant..susceptibility.to"
+"2" "Heme.oxygenase.1.deficiency"
+"3" "X3.methylglutaconic.aciduria..type.Viii..MGCA8"
+"4" "purine.nucleoside.phosphorylase.deficiency"

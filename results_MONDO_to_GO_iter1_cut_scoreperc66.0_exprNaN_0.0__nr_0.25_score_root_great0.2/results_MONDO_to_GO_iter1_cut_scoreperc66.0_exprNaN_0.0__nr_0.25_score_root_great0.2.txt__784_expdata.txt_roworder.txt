@@ -1,0 +1,5 @@
+"x"
+"1" "familial.infantile.bilateral.striatal.necrosis"
+"2" "microcephaly.and.chorioretinopathy.2"
+"3" "microcephaly.6..primary..autosomal.recessive"
+"4" "Seckel.syndrome.4"

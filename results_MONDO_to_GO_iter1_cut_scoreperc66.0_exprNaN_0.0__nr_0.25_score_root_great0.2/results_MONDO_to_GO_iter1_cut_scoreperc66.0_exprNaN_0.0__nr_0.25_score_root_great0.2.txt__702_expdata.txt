@@ -1,0 +1,7 @@
+	autosomal recessive osteopetrosis 2	"myocardial infarction, susceptibility to"	FADD-related immunodeficiency	combined immunodeficiency due to OX40 deficiency
+TNFSF11-mediated signaling pathway	1.0	0.0	0.0	0.0
+osteoclast proliferation	1.0	0.0	0.0	0.0
+positive regulation of homotypic cell-cell adhesion	1.0	0.0	0.0	0.0
+tumor necrosis factor receptor superfamily binding	1.0	1.0	1.0	0.0
+positive regulation of corticotropin-releasing hormone secretion	1.0	0.0	0.0	0.0
+negative regulation of activation-induced cell death of T cells	0.0	1.0	1.0	1.0

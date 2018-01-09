@@ -1,0 +1,8 @@
+"x"
+"1" "rhizomelic.chondrodysplasia.punctata.type.1"
+"2" "Refsum.disease"
+"3" "peroxisome.biogenesis.disorder.9B"
+"4" "peroxisome.biogenesis.disorder.2B"
+"5" "peroxisome.biogenesis.disorder.2A..Zellweger."
+"6" "rhizomelic.chondrodysplasia.punctata.type.5"
+"7" "congenital.bile.acid.synthesis.defect.5"

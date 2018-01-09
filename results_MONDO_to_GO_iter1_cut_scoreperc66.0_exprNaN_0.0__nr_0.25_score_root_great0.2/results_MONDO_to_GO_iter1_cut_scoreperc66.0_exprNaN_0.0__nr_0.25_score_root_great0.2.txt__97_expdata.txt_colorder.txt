@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "positive regulation of transcription from RNA polymerase II promoter"
+"3" "transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding"
+"4" "transcription factor complex"
+"5" "pituitary gland development"
+"6" "skeletal system development"
+"7" "RNA polymerase II transcription factor binding"

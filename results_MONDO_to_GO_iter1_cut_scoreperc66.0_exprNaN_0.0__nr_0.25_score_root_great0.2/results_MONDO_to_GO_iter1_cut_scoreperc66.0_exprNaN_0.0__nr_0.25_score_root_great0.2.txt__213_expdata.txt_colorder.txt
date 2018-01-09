@@ -1,0 +1,7 @@
+"x"
+"1" "acute inflammatory response to antigenic stimulus"
+"2" "neutrophil mediated killing of fungus"
+"3" "neutrophil mediated killing of gram-negative bacterium"
+"4" "biosynthetic process of antibacterial peptides active against Gram-negative bacteria"
+"5" "negative regulation of chemokine biosynthetic process"
+"6" "negative regulation of interleukin-8 biosynthetic process"

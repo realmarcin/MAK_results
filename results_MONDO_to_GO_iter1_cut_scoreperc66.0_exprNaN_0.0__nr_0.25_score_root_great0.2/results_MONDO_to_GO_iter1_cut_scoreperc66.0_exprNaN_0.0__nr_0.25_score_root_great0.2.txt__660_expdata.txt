@@ -1,0 +1,10 @@
+	congenital central hypoventilation syndrome	"fibrosis of extraocular muscles, congenital, 2"	"epilepsy, progressive myoclonic, 1B"	Hirschsprung disease-ganglioneuroblastoma syndrome	hypogonadotropic hypogonadism 16 with or without anosmia	"mental retardation, autosomal dominant 27"
+autonomic nervous system development	1.0	0.0	0.0	1.0	0.0	0.0
+parasympathetic nervous system development	1.0	1.0	0.0	1.0	0.0	0.0
+noradrenergic neuron differentiation	1.0	1.0	0.0	1.0	0.0	1.0
+regulation of respiratory gaseous exchange by neurological system process	1.0	0.0	0.0	1.0	0.0	0.0
+medullary reticular formation development	1.0	0.0	0.0	1.0	0.0	0.0
+hindbrain tangential cell migration	1.0	0.0	1.0	1.0	0.0	0.0
+noradrenergic neuron development	1.0	1.0	0.0	1.0	0.0	0.0
+efferent axon development in a lateral line nerve	1.0	0.0	0.0	1.0	0.0	0.0
+sympathetic ganglion development	1.0	0.0	0.0	1.0	1.0	0.0

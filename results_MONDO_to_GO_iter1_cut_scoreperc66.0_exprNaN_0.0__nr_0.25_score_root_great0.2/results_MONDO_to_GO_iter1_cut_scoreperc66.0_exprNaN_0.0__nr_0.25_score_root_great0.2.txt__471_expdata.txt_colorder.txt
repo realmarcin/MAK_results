@@ -1,0 +1,7 @@
+"x"
+"1" "establishment of synaptic specificity at neuromuscular junction"
+"2" "nucleotide binding"
+"3" "cytoplasm"
+"4" "ATP binding"
+"5" "metal ion binding"
+"6" "intracellular"

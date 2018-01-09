@@ -1,0 +1,5 @@
+"x"
+"1" "membrane organization"
+"2" "sarcoglycan complex"
+"3" "dystrophin-associated glycoprotein complex"
+"4" "muscle attachment"

@@ -1,0 +1,7 @@
+"x"
+"1" "acromesomelic.dysplasia..Maroteaux.type"
+"2" "tall.stature.scoliosis.macrodactyly.of.the.great.toes.syndrome"
+"3" "short.stature.with.nonspecific.skeletal.abnormalities"
+"4" "atrial.fibrillation..familial..6"
+"5" "atrial.standstill.2"
+"6" "platelet.type.bleeding.disorder.19"

@@ -1,0 +1,7 @@
+"x"
+"1" "dihydropyrimidine.dehydrogenase.deficiency"
+"2" "dihydropyrimidinuria"
+"3" "biotinidase.deficiency"
+"4" "beta.ureidopropionase.deficiency"
+"5" "developmental.delay.due.to.methylmalonate.semialdehyde.dehydrogenase.deficiency"
+"6" "CAD.CDG"

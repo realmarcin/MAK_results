@@ -1,0 +1,7 @@
+"x"
+"1" "Heinz.body.anemia"
+"2" "alpha.thalassemia"
+"3" "hemoglobin.H.disease"
+"4" "dominant.beta.thalassemia"
+"5" "sickle.cell.anemia"
+"6" "beta.thalassemia.HBB.LCRB"

@@ -1,0 +1,7 @@
+"x"
+"1" "hypophosphatemic.nephrolithiasis.osteoporosis.2"
+"2" "Donnai.Barrow.syndrome"
+"3" "congenital.nephrotic.syndrome..Finnish.type"
+"4" "autosomal.dominant.nonsyndromic.deafness.5"
+"5" "hypertrophic.cardiomyopathy.10"
+"6" "dystonia.16"

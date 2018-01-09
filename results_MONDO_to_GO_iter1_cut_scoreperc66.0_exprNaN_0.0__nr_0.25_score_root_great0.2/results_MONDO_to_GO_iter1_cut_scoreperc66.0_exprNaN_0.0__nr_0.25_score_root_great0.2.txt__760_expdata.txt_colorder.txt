@@ -1,0 +1,8 @@
+"x"
+"1" "L-alanine catabolic process"
+"2" "glyoxylate metabolic process"
+"3" "glyoxylate catabolic process"
+"4" "alanine-glyoxylate transaminase activity"
+"5" "serine-pyruvate transaminase activity"
+"6" "L-cysteine catabolic process"
+"7" "oxalic acid secretion"

@@ -1,0 +1,7 @@
+"x"
+"1" "seborrheic.keratosis"
+"2" "megalencephaly.capillary.malformation.polymicrogyria.syndrome"
+"3" "CLOVES.syndrome"
+"4" "Cowden.syndrome.5"
+"5" "palmoplantar.keratoderma.XX.sex.reversal.predisposition.to.squamous.cell.carcinoma.syndrome"
+"6" "hereditary.thrombophilia.due.to.congenital.histidine.rich..poly.L..glycoprotein.deficiency"

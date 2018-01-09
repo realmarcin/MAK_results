@@ -1,0 +1,6 @@
+	Alstrom syndrome	hypermethioninemia due to adenosine kinase deficiency	adenine phosphoribosyltransferase deficiency
+type B pancreatic cell proliferation	1.0	1.0	0.0
+dATP biosynthetic process	0.0	1.0	0.0
+adenosine salvage	0.0	1.0	0.0
+AMP salvage	0.0	1.0	1.0
+adenosine kinase activity	0.0	1.0	0.0

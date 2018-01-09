@@ -1,0 +1,8 @@
+	autosomal recessive early-onset Parkinson disease 15	"glaucoma 1, open angle, f"	Fanconi anemia complementation group L	pseudohypoaldosteronism type 2E	Fanconi anemia complementation group T
+cytoplasm	1.0	1.0	1.0	0.0	1.0
+nucleus	1.0	1.0	1.0	0.0	1.0
+chromatin binding	0.0	0.0	0.0	0.0	1.0
+ubiquitin-protein transferase activity	1.0	1.0	1.0	1.0	1.0
+protein autoubiquitination	0.0	0.0	0.0	0.0	1.0
+ubiquitin protein ligase activity	0.0	0.0	1.0	1.0	1.0
+ubiquitin protein ligase binding	1.0	1.0	1.0	1.0	1.0

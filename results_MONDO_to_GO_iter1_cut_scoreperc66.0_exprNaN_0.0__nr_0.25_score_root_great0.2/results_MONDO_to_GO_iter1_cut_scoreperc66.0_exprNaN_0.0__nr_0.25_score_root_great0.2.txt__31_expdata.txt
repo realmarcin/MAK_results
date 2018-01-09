@@ -1,0 +1,6 @@
+	"familial partial lipodystrophy, Dunnigan type"	autosomal dominant limb-girdle muscular dystrophy type 1B	progeria	autosomal recessive Emery-Dreifuss muscular dystrophy	dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome	mandibuloacral dysplasia with type A lipodystrophy	Charcot-Marie-tooth disease type 2B1	"heart-hand syndrome, Slovenian type"	congenital muscular dystrophy due to LMNA mutation	hereditary sensory and autonomic neuropathy type 6	epidermolysis bullosa simplex due to BP230 deficiency	"Emery-Dreifuss muscular dystrophy 3, autosomal recessive"
+heart contraction	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+intermediate filament	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+structural molecule activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+nuclear envelope	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of cell aging	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "cortisol biosynthetic process"
+"2" "aldosterone biosynthetic process"
+"3" "C21-steroid hormone biosynthetic process"
+"4" "cortisol metabolic process"
+"5" "regulation of blood volume by renal aldosterone"
+"6" "glucocorticoid biosynthetic process"

@@ -1,0 +1,5 @@
+"x"
+"1" "xeroderma.pigmentosum.group.F"
+"2" "XFE.progeroid.syndrome"
+"3" "Fanconi.anemia.complementation.group.Q"
+"4" "Cerebrooculofacioskeletal.syndrome.4"

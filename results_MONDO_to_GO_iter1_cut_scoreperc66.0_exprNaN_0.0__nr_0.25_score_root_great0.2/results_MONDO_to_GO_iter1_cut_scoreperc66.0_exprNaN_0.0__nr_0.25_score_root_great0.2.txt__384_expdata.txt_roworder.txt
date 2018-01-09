@@ -1,0 +1,7 @@
+"x"
+"1" "autosomal.dominant.cerebellar.ataxia..deafness.and.narcolepsy"
+"2" "permanent.neonatal.diabetes.mellitus.pancreatic.and.cerebellar.agenesis.syndrome"
+"3" "hereditary.sensory.neuropathy.deafness.dementia.syndrome"
+"4" "pancreatic.agenesis.2"
+"5" "immunodeficiency.centromeric.instability.facial.anomalies.syndrome.1"
+"6" "choroideremia"

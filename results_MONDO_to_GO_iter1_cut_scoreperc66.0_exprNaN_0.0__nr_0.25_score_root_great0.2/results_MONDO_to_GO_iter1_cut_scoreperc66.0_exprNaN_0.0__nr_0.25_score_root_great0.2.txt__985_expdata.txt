@@ -1,0 +1,10 @@
+	"methylmalonic acidemia with homocystinuria, type cblX"	syndromic X-linked intellectual disability Snyder type	Koolen de Vries syndrome	GABA aminotransferase deficiency
+cytoplasm	0.0	0.0	0.0	1.0
+cytosol	0.0	0.0	0.0	1.0
+catalytic activity	0.0	0.0	0.0	1.0
+pyridoxal phosphate binding	0.0	0.0	0.0	1.0
+gamma-aminobutyric acid metabolic process	0.0	0.0	0.0	1.0
+transaminase activity	0.0	0.0	0.0	1.0
+gamma-aminobutyric acid catabolic process	0.0	0.0	0.0	1.0
+4-aminobutyrate transaminase activity	0.0	0.0	0.0	1.0
+4-aminobutyrate:2-oxoglutarate transaminase activity	0.0	0.0	0.0	1.0

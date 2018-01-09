@@ -1,0 +1,5 @@
+	Lewy body dementia	"migraine with or without aura, susceptibility to, 1"	"Parkinson disease, late-onset"	Gaucher's disease type I	Gaucher's disease type II	Gaucher's disease type III	Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome	Gaucher's disease perinatal lethal	"asthma-related Traits, susceptibility to, 5"
+negative regulation of MAP kinase activity	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+response to estrogen	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+positive regulation of protein complex disassembly	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+negative regulation of interleukin-6 production	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "granulomatous.disease..chronic..autosomal.recessive..cytochrome.b.positive..type.1"
+"2" "Frank.Ter.Haar.syndrome"
+"3" "granulomatous.disease..chronic..autosomal.recessive..cytochrome.b.positive..type.3"
+"4" "granulomatous.disease..chronic..autosomal.recessive..cytochrome.b.positive..type.2"

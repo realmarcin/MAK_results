@@ -1,0 +1,8 @@
+"x"
+"1" "structural molecule activity"
+"2" "cell-cell junction"
+"3" "intermediate filament"
+"4" "nuclear envelope"
+"5" "lamellipodium assembly"
+"6" "heart contraction"
+"7" "regulation of cell aging"

@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "nucleus"
+"3" "signal transduction"
+"4" "apoptotic process"
+"5" "transcription factor binding"
+"6" "receptor tyrosine kinase binding"
+"7" "response to endoplasmic reticulum stress"

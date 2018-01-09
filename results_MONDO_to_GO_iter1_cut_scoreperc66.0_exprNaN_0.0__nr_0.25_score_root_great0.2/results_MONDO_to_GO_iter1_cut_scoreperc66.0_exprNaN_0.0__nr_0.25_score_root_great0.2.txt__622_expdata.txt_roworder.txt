@@ -1,0 +1,6 @@
+"x"
+"1" "obesity.due.to.prohormone.convertase.i.deficiency"
+"2" "preeclampsia.eclampsia.5"
+"3" "essential.hypertension..genetic"
+"4" "Hirschsprung.disease..cardiac.defects..and.autonomic.dysfunction"
+"5" "peeling.skin.syndrome.type.a"

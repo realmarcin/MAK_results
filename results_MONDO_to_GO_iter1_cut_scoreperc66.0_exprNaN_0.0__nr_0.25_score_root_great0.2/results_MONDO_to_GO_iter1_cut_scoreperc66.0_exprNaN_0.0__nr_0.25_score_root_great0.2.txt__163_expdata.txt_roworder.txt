@@ -1,0 +1,7 @@
+"x"
+"1" "vitiligo.associated.multiple.autoimmune.disease.susceptibility.1"
+"2" "corneal.intraepithelial.dyskeratosis.palmoplantar.hyperkeratosis.laryngeal.dyskeratosis.syndrome"
+"3" "palmoplantar.carcinoma..multiple.Self.healing..MSPC"
+"4" "familial.cold.autoinflammatory.syndrome.1"
+"5" "Muckle.Wells.syndrome"
+"6" "CINCA.syndrome"

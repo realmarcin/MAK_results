@@ -1,0 +1,7 @@
+"x"
+"1" "plasma membrane"
+"2" "synapse"
+"3" "transport"
+"4" "ion transport"
+"5" "ion channel activity"
+"6" "Golgi apparatus"

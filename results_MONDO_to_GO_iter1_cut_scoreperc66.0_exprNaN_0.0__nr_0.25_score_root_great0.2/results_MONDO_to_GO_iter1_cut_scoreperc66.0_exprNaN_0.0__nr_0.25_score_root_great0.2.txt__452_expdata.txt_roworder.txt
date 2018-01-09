@@ -1,0 +1,5 @@
+"x"
+"1" "Meier.Gorlin.syndrome.7..MGORS7"
+"2" "Meier.Gorlin.syndrome.5"
+"3" "Meier.Gorlin.syndrome.1"
+"4" "Meier.Gorlin.syndrome.2"

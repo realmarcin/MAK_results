@@ -1,0 +1,7 @@
+"x"
+"1" "cytokine binding"
+"2" "cell junction"
+"3" "Golgi apparatus"
+"4" "cell differentiation"
+"5" "lens development in camera-type eye"
+"6" "nuclear body"

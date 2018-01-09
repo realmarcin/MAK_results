@@ -1,0 +1,6 @@
+"x"
+"1" "Fanconi.anemia.complementation.group.j"
+"2" "Meier.Gorlin.syndrome.2"
+"3" "Meier.Gorlin.syndrome.3"
+"4" "Meier.Gorlin.syndrome.7..MGORS7"
+"5" "Fanconi.anemia.complementation.group.U"

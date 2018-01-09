@@ -1,0 +1,8 @@
+"x"
+"1" "vesicle-mediated transport"
+"2" "Golgi membrane"
+"3" "intracellular protein transport"
+"4" "COPII vesicle coat"
+"5" "ER to Golgi transport vesicle membrane"
+"6" "zinc ion binding"
+"7" "regulation of COPII vesicle coating"

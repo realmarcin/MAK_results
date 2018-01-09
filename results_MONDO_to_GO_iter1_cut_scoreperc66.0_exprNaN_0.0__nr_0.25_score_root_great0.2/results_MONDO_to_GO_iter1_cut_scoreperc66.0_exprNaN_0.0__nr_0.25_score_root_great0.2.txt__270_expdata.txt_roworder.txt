@@ -1,0 +1,5 @@
+"x"
+"1" "connective.tissue.disorder.due.to.lysyl.hydroxylase.3.deficiency"
+"2" "Ehlers.Danlos.syndrome..type.6"
+"3" "Bruck.syndrome.2"
+"4" "arthrogryposis..renal.dysfunction..and.cholestasis.2"

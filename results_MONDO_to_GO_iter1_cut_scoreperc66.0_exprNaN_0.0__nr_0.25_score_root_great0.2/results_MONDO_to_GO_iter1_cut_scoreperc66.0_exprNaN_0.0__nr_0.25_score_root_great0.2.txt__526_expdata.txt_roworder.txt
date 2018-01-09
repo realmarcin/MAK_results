@@ -1,0 +1,4 @@
+"x"
+"1" "mitochondrial.non.syndromic.sensorineural.deafness.with.susceptibility.to.aminoglycoside.exposure"
+"2" "acute.infantile.liver.failure.due.to.synthesis.defect.of.mtDNA.encoded.proteins"
+"3" "myxoid.liposarcoma"

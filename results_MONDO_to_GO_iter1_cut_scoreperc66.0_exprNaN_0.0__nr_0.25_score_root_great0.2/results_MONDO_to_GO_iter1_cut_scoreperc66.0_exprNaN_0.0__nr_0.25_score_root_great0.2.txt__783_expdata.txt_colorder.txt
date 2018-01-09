@@ -1,0 +1,7 @@
+"x"
+"1" "sterol esterase activity"
+"2" "zymogen granule"
+"3" "pancreatic juice secretion"
+"4" "retinyl-palmitate esterase activity"
+"5" "cholinesterase activity"
+"6" "glycosphingolipid binding"

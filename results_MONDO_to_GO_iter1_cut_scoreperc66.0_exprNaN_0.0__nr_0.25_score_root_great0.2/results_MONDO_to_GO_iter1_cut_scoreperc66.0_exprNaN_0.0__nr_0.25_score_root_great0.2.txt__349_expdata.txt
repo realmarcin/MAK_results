@@ -1,0 +1,8 @@
+	congenital myasthenic syndrome 10	"mental retardation, X-linked 90"	spinocerebellar ataxia type 23	autosomal recessive nonsyndromic deafness 93	congenital myasthenic syndrome 11
+plasma membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	0.0	1.0	1.0
+Golgi apparatus	0.0	0.0	0.0	1.0	1.0
+cytoplasm	0.0	1.0	1.0	1.0	1.0
+ionotropic glutamate receptor binding	0.0	1.0	0.0	0.0	1.0
+neuromuscular junction	1.0	0.0	0.0	0.0	1.0
+chemical synaptic transmission	0.0	1.0	1.0	0.0	1.0

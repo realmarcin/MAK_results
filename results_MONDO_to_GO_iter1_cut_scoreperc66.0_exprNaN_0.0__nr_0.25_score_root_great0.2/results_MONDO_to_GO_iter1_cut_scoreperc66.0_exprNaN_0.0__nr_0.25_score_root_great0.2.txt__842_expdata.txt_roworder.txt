@@ -1,0 +1,5 @@
+"x"
+"1" "amyloidosis..primary.localized.cutaneous..2"
+"2" "hereditary.neutrophilia"
+"3" "autosomal.recessive.severe.congenital.neutropenia.due.to.CSF3R.deficiency"
+"4" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"

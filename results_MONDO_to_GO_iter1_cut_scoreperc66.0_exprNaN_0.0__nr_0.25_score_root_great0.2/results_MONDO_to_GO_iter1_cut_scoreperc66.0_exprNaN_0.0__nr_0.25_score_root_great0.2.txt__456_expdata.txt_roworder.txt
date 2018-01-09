@@ -1,0 +1,5 @@
+"x"
+"1" "permanent.neonatal.diabetes.mellitus.pancreatic.and.cerebellar.agenesis.syndrome"
+"2" "pancreatic.agenesis.2"
+"3" "microphthalmia..isolated..with.coloboma.3"
+"4" "isolated.microphthalmia.2"

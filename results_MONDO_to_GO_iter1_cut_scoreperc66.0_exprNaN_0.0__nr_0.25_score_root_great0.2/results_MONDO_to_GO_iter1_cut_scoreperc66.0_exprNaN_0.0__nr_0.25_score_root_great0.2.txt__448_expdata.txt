@@ -1,0 +1,6 @@
+	Seckel syndrome 5	Seckel syndrome 6	congenital myopathy with internal nuclei and atypical cores	"microcephaly 9, primary, autosomal recessive"	microcephaly and chorioretinopathy 2	"microcephaly 14, primary, autosomal recessive"
+centriole replication	1.0	1.0	0.0	1.0	1.0	1.0
+de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	1.0	1.0	1.0	1.0	1.0	0.0
+deuterosome	1.0	0.0	1.0	1.0	1.0	1.0
+nuclear division	0.0	0.0	0.0	0.0	0.0	1.0
+embryonic cleavage	0.0	0.0	0.0	0.0	0.0	1.0

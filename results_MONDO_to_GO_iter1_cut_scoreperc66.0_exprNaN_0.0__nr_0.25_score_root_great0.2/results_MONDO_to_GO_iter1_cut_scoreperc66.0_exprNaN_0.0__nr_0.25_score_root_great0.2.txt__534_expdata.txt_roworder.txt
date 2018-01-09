@@ -1,0 +1,5 @@
+"x"
+"1" "dyschromatosis.symmetrica.hereditaria"
+"2" "Aicardi.Goutieres.syndrome.6"
+"3" "syndromic.X.linked.intellectual.disability.Shashi.type"
+"4" "Tokita.Kim.syndrome..TOKIMS"

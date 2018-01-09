@@ -1,0 +1,6 @@
+"x"
+"1" "diabetes.mellitus..Noninsulin.dependent"
+"2" "hyperlipidemia.due.to.hepatic.triglyceride.lipase.deficiency"
+"3" "familial.apolipoprotein.c.II.deficiency"
+"4" "hypoproteinemia..Hypercatabolic"
+"5" "epileptic.encephalopathy..early.infantile..38..EIEE38"

@@ -1,0 +1,6 @@
+	myoclonic dystonia 11	familial multiple nevi flammei	Sturge-Weber syndrome	hypophosphatemic nephrolithiasis/osteoporosis 2	"epileptic encephalopathy, early infantile, 12"	"epileptic encephalopathy, early infantile, 26"
+phospholipase C-activating dopamine receptor signaling pathway	1.0	1.0	1.0	1.0	0.0	0.0
+glutamate receptor signaling pathway	0.0	1.0	1.0	0.0	1.0	1.0
+type 2A serotonin receptor binding	0.0	1.0	1.0	0.0	0.0	0.0
+regulation of catenin import into nucleus	0.0	1.0	1.0	0.0	0.0	0.0
+regulation of melanocyte differentiation	0.0	1.0	1.0	0.0	0.0	0.0

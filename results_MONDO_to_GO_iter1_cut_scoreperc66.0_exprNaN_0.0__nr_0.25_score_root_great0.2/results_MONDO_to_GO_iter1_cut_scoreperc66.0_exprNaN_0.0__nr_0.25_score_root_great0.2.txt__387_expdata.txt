@@ -1,0 +1,6 @@
+	Brody myopathy	lissencephaly due to LIS1 mutation	hereditary sensory and autonomic neuropathy type 6	epidermolysis bullosa simplex due to BP230 deficiency
+H zone	1.0	0.0	1.0	1.0
+retrograde axonal transport	0.0	1.0	1.0	1.0
+regulation of microtubule polymerization or depolymerization	0.0	0.0	1.0	1.0
+neurofilament cytoskeleton	0.0	0.0	1.0	1.0
+hemidesmosome	0.0	0.0	1.0	1.0

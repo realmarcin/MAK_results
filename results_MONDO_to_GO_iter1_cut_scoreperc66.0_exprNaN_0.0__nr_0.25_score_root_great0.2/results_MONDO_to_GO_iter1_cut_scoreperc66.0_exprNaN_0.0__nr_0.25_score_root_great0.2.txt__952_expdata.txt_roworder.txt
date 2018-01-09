@@ -1,0 +1,6 @@
+"x"
+"1" "cerebellar.facial.dental.syndrome"
+"2" "prostate.cancer..hereditary..1"
+"3" "Okur.Chung.neurodevelopmental.syndrome..OCNDS"
+"4" "mental.retardation..autosomal.recessive.56..MRT56"
+"5" "microcephalic.primordial.dwarfism.due.to.ZNF335.deficiency"

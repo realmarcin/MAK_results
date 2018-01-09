@@ -1,0 +1,8 @@
+	"anemia, congenital dyserythropoietic, type Ia"	absence deformity of leg-cataract syndrome	Bartter disease type 5	hypomyelinating leukodystrophy 5	three M syndrome 3	orofaciodigital syndrome XV
+cytoplasm	1.0	1.0	0.0	1.0	1.0	1.0
+cytosol	1.0	1.0	1.0	1.0	1.0	1.0
+biological_process	0.0	1.0	0.0	0.0	0.0	0.0
+cell cycle	0.0	1.0	0.0	0.0	0.0	0.0
+ubiquitin-protein transferase activity	0.0	1.0	0.0	0.0	0.0	0.0
+cell division	0.0	1.0	0.0	0.0	0.0	0.0
+Cul3-RING ubiquitin ligase complex	0.0	1.0	0.0	0.0	0.0	0.0

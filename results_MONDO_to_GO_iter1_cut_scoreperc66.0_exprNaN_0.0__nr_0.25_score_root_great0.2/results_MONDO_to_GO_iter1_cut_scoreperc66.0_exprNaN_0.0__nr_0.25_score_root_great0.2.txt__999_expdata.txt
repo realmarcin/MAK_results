@@ -1,0 +1,11 @@
+	Charcot-Marie-tooth disease type 4A	"Charcot-Marie-tooth disease, axonal, with vocal cord paresis, autosomal recessive"	Charcot-Marie-tooth disease axonal type 2K	Charcot-Marie-tooth disease recessive intermediate a
+endoplasmic reticulum	0.0	0.0	1.0	0.0
+muscle organ development	0.0	0.0	1.0	0.0
+molecular_function	0.0	0.0	1.0	0.0
+biological_process	0.0	0.0	1.0	0.0
+endoplasmic reticulum membrane	0.0	0.0	1.0	0.0
+sarcoplasmic reticulum	0.0	0.0	1.0	0.0
+structural constituent of muscle	0.0	0.0	1.0	0.0
+Z disc	0.0	0.0	1.0	0.0
+junctional membrane complex	0.0	0.0	1.0	0.0
+junctional sarcoplasmic reticulum membrane	0.0	0.0	1.0	0.0

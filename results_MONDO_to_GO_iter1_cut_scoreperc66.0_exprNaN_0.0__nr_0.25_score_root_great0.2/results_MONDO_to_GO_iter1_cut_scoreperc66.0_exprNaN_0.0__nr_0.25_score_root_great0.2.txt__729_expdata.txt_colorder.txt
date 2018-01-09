@@ -1,0 +1,8 @@
+"x"
+"1" "metal ion binding"
+"2" "ubiquitin protein ligase activity"
+"3" "neuron development"
+"4" "hematopoietic stem cell differentiation"
+"5" "ubiquitin-dependent endocytosis"
+"6" "positive regulation of xenophagy"
+"7" "positive regulation of autophagosome assembly"

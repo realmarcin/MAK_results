@@ -1,0 +1,7 @@
+"x"
+"1" "hyperglycinuria..disease."
+"2" "Iminoglycinuria"
+"3" "foveal.hypoplasia.optic.nerve.decussation.defect.anterior.segment.dysgenesis.syndrome"
+"4" "migraine.with.or.without.aura..susceptibility.to..1"
+"5" "rheumatoid.arthritis"
+"6" "mandibulofacial.dysostosis.with.alopecia"

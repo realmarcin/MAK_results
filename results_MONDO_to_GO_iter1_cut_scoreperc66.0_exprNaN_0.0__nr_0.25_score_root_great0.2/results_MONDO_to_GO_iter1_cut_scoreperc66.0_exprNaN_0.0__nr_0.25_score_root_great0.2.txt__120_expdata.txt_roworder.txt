@@ -1,0 +1,6 @@
+"x"
+"1" "hereditary.breast.carcinoma"
+"2" "colorectal.adenocarcinoma"
+"3" "diabetes.mellitus..Noninsulin.dependent"
+"4" "schizophrenia..disease."
+"5" "malaria..susceptibility.to"

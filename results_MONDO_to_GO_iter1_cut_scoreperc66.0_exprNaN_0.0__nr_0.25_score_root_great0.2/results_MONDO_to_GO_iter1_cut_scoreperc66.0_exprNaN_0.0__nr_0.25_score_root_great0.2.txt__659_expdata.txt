@@ -1,0 +1,10 @@
+	3-Methylcrotonyl-Coa carboxylase 2 deficiency	methylmalonic acidemia cb1B type	myopathy with abnormal lipid metabolism	Lipoyl transferase 1 deficiency
+nucleotide binding	0.0	1.0	1.0	1.0
+ATP binding	0.0	1.0	1.0	1.0
+transferase activity	0.0	1.0	1.0	1.0
+mitochondrion	0.0	1.0	0.0	1.0
+nucleotidyltransferase activity	0.0	0.0	1.0	0.0
+protein lipoylation	0.0	0.0	0.0	1.0
+FMN adenylyltransferase activity	0.0	0.0	1.0	0.0
+FAD biosynthetic process	0.0	0.0	1.0	0.0
+lipoate-protein ligase activity	0.0	0.0	0.0	1.0

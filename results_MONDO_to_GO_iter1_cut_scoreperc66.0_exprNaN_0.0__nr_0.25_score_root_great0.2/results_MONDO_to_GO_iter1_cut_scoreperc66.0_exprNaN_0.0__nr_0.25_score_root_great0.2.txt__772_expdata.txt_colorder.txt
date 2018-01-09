@@ -1,0 +1,6 @@
+"x"
+"1" "aerobic respiration"
+"2" "mitochondrion"
+"3" "mitochondrial intermembrane space"
+"4" "mitochondrial inner membrane"
+"5" "mitochondrial membrane"

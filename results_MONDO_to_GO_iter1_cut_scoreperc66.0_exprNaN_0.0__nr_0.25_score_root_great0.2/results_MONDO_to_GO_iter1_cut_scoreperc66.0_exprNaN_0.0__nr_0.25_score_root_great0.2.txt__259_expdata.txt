@@ -1,0 +1,6 @@
+	"arthrogryposis, distal, type 1A"	hypertrophic cardiomyopathy 3	Griscelli syndrome type 1	microvillus inclusion disease	autosomal recessive nonsyndromic deafness 3	Sheldon-hall syndrome	nemaline myopathy 1	nemaline myopathy 4	dilated cardiomyopathy 1Y	focal segmental glomerulosclerosis 6
+actin binding	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+exocytosis	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0
+cellular bud neck contractile ring	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0
+structural constituent of muscle	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0
+intracellular mRNA localization	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0

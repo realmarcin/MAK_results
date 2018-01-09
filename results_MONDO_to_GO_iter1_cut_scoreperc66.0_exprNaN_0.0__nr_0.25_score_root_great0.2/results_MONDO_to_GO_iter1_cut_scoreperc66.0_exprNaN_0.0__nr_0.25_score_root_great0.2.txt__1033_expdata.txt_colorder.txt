@@ -1,0 +1,5 @@
+"x"
+"1" "glucose homeostasis"
+"2" "cellular response to mechanical stimulus"
+"3" "epidermal growth factor receptor signaling pathway"
+"4" "cellular response to epidermal growth factor stimulus"

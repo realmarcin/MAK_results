@@ -1,0 +1,7 @@
+"x"
+"1" "ionotropic glutamate receptor activity"
+"2" "extracellularly glutamate-gated ion channel activity"
+"3" "AMPA glutamate receptor activity"
+"4" "regulation of receptor recycling"
+"5" "kainate selective glutamate receptor complex"
+"6" "kainate selective glutamate receptor activity"

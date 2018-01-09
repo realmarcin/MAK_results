@@ -1,0 +1,6 @@
+	catecholaminergic polymorphic ventricular tachycardia 1	Charcot-Marie-tooth disease axonal type 2K	hypertrophic cardiomyopathy 17	catecholaminergic polymorphic ventricular tachycardia 5	proximal myopathy with extrapyramidal signs	"heterotaxy, visceral, 8, autosomal; HTX8"
+negative regulation of ryanodine-sensitive calcium-release channel activity	1.0	0.0	0.0	0.0	0.0	0.0
+junctional sarcoplasmic reticulum membrane	1.0	1.0	0.0	1.0	0.0	0.0
+calcium channel complex	1.0	0.0	0.0	1.0	1.0	1.0
+regulation of cell communication by electrical coupling	1.0	0.0	0.0	1.0	0.0	0.0
+positive regulation of ryanodine-sensitive calcium-release channel activity	1.0	0.0	1.0	1.0	0.0	0.0

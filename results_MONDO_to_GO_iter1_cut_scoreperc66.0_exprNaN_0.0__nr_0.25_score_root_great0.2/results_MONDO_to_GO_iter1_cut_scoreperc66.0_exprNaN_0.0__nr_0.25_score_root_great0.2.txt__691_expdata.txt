@@ -1,0 +1,8 @@
+	Buschke-Ollendorff syndrome	cataract 46 juvenile-onset	apparent mineralocorticoid excess	MEND syndrome	X-linked chondrodysplasia punctata
+integral component of membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+cortisol metabolic process	0.0	0.0	1.0	0.0	0.0
+regulation of blood volume by renal aldosterone	0.0	0.0	1.0	0.0	0.0
+female pregnancy	0.0	0.0	1.0	0.0	0.0
+multicellular organismal response to stress	0.0	0.0	1.0	0.0	0.0
+glucocorticoid metabolic process	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "peroxidase activity"
+"2" "hydrogen peroxide catabolic process"
+"3" "iodide peroxidase activity"
+"4" "hydrogen peroxide biosynthetic process"

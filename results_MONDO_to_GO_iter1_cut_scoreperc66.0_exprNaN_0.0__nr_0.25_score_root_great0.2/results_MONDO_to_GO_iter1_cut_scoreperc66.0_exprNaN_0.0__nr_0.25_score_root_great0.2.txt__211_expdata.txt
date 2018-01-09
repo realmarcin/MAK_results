@@ -1,0 +1,7 @@
+	congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	retinitis pigmentosa and Erythrocytic Microcytosis; RPEM	"epileptic encephalopathy, early infantile, 41; EIEE41"
+CTP:tRNA cytidylyltransferase activity	1.0	1.0	0.0
+tRNA nucleotidyltransferase activity	1.0	1.0	0.0
+ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity	1.0	1.0	0.0
+CTP:3'-cytidine-tRNA cytidylyltransferase activity	1.0	1.0	0.0
+visual behavior	1.0	1.0	1.0
+tRNA 3'-terminal CCA addition	1.0	1.0	0.0

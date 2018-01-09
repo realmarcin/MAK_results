@@ -1,0 +1,6 @@
+"x"
+"1" "basal.ganglia.calcification..idiopathic..6"
+"2" "hereditary.folate.malabsorption"
+"3" "sudden.cardiac.arrest"
+"4" "neonatal.ichthyosis.sclerosing.cholangitis.syndrome"
+"5" "agammaglobulinemia.5..autosomal.dominant"

@@ -1,0 +1,7 @@
+	absence of fingerprints-congenital milia syndrome	isolated congenital adermatoglyphia	glycogen storage disease III	Roberts syndrome	SC phocomelia syndrome	RIDDLE syndrome	amyotrophic lateral sclerosis type 14	young adult-onset distal hereditary motor neuropathy	progeroid features-hepatocellular carcinoma predisposition syndrome	Charcot-Marie-tooth disease type 2Y
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+site of double-strand break	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+polyubiquitin modification-dependent protein binding	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+autophagosome maturation	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+ubiquitin-dependent ERAD pathway	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+translesion synthesis	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0

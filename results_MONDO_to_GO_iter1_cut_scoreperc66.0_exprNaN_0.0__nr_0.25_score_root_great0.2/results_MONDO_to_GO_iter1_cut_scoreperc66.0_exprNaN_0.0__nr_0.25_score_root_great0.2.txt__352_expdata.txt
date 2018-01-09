@@ -1,0 +1,5 @@
+	FG syndrome 4	syndromic X-linked intellectual disability Najm type	xeroderma pigmentosum group B	"trichothiodystrophy 2, photosensitive"
+protein kinase activity	1.0	1.0	1.0	1.0
+DNA-dependent ATPase activity	0.0	0.0	1.0	1.0
+core TFIIH complex	0.0	0.0	1.0	1.0
+RNA polymerase II carboxy-terminal domain kinase activity	0.0	0.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "mRNA binding"
+"2" "negative regulation of translation"
+"3" "sequence-specific mRNA binding"
+"4" "mevalonate kinase activity"
+"5" "histidyl-tRNA aminoacylation"
+"6" "histidine-tRNA ligase activity"

@@ -1,0 +1,6 @@
+"x"
+"1" "interleukin-6 receptor binding"
+"2" "positive regulation of adaptive immune response"
+"3" "negative regulation of mature B cell apoptotic process"
+"4" "negative regulation of myeloid cell apoptotic process"
+"5" "cytoplasmic vesicle lumen"

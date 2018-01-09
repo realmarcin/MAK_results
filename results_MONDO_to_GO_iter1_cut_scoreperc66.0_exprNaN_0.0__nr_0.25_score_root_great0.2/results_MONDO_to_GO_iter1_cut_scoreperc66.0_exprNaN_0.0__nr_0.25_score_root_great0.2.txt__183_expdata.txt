@@ -1,0 +1,5 @@
+	infantile-onset X-linked spinal muscular atrophy	"epileptic encephalopathy, early infantile, 44; EIEE44"	"spinocerebellar ataxia, autosomal recessive 24; SCAR24"
+ubiquitin-like modifier activating enzyme activity	1.0	1.0	1.0
+UFM1 activating enzyme activity	0.0	1.0	1.0
+protein K69-linked ufmylation	0.0	1.0	1.0
+protein ufmylation	0.0	1.0	1.0

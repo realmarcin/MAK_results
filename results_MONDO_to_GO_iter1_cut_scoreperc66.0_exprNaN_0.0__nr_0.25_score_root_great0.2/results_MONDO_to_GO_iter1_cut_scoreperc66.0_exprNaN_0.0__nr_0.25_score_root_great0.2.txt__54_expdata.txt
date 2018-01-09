@@ -1,0 +1,6 @@
+	"essential hypertension, genetic"	polycythemia vera	renal tubular dysgenesis of genetic origin
+positive regulation of vascular smooth muscle cell proliferation	1.0	1.0	1.0
+type 1 angiotensin receptor binding	1.0	1.0	1.0
+activation of Janus kinase activity	1.0	1.0	1.0
+angiotensin receptor binding	1.0	0.0	1.0
+renin secretion into blood stream	1.0	0.0	1.0

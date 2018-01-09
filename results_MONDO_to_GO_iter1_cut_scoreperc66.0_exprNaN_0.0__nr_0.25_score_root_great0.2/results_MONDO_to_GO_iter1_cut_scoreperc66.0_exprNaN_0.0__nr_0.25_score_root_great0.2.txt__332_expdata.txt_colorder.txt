@@ -1,0 +1,7 @@
+"x"
+"1" "cardiac neural crest cell migration involved in outflow tract morphogenesis"
+"2" "determination of digestive tract left/right asymmetry"
+"3" "determination of left/right asymmetry in diencephalon"
+"4" "embryonic heart tube left/right pattern formation"
+"5" "left lung morphogenesis"
+"6" "mesendoderm development"

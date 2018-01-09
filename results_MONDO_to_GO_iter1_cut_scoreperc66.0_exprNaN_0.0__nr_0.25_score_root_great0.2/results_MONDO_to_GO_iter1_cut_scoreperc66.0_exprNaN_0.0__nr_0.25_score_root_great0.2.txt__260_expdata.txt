@@ -1,0 +1,6 @@
+	Noonan syndrome with multiple lentigines	Metachondromatosis	Noonan syndrome 1	Noonan syndrome 5	leopard syndrome 2	dilated cardiomyopathy 1NN
+positive regulation of ERK1 and ERK2 cascade	1.0	1.0	1.0	1.0	1.0	1.0
+glucose homeostasis	1.0	1.0	1.0	0.0	0.0	0.0
+heart development	1.0	1.0	1.0	1.0	1.0	1.0
+atrioventricular canal development	1.0	1.0	1.0	0.0	0.0	0.0
+intestinal epithelial cell migration	1.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "protein kinase activity"
+"2" "DNA-dependent ATPase activity"
+"3" "core TFIIH complex"
+"4" "RNA polymerase II carboxy-terminal domain kinase activity"

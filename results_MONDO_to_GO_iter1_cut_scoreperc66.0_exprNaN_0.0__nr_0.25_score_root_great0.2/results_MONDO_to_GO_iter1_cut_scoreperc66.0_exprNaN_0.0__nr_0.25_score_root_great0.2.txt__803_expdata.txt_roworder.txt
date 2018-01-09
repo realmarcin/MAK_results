@@ -1,0 +1,8 @@
+"x"
+"1" "Uncombable.hair.syndrome"
+"2" "Preimplantation.embryonic.lethality.2..PREMBL2"
+"3" "left.ventricular.noncompaction.1"
+"4" "cerebellar.ataxia..mental.retardation..and.Dysequilibrium.syndrome.3"
+"5" "Hyperbiliverdinemia"
+"6" "congenital.heart.defects..multiple.types..2"
+"7" "acromelic.frontonasal.dysostosis"

@@ -1,0 +1,8 @@
+	Hermansky-Pudlak syndrome 2	hereditary spastic paraplegia 50	hereditary spastic paraplegia 47	congenital neutropenia-myelofibrosis-nephromegaly syndrome	"psoriasis 15, pustular, susceptibility to"	"epileptic encephalopathy, early infantile, 48; EIEE48"
+protein targeting	0.0	1.0	0.0	0.0	1.0	0.0
+protein targeting to lysosome	1.0	1.0	0.0	0.0	0.0	0.0
+vesicle-mediated transport	1.0	1.0	1.0	1.0	1.0	1.0
+intracellular protein transport	1.0	1.0	1.0	0.0	1.0	1.0
+membrane coat	1.0	0.0	1.0	0.0	1.0	1.0
+clathrin adaptor complex	1.0	1.0	1.0	0.0	0.0	1.0
+Golgi to endosome transport	0.0	1.0	0.0	1.0	0.0	0.0

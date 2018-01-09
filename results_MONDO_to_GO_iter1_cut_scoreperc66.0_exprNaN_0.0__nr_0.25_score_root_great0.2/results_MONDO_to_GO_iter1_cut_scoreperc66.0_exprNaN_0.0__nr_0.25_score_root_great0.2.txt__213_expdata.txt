@@ -1,0 +1,7 @@
+	cyclic hematopoiesis	autosomal dominant severe congenital neutropenia	"amyloidosis, primary localized cutaneous, 2"
+neutrophil mediated killing of fungus	1.0	1.0	0.0
+neutrophil mediated killing of gram-negative bacterium	1.0	1.0	0.0
+acute inflammatory response to antigenic stimulus	1.0	1.0	1.0
+biosynthetic process of antibacterial peptides active against Gram-negative bacteria	1.0	1.0	0.0
+negative regulation of chemokine biosynthetic process	1.0	1.0	0.0
+negative regulation of interleukin-8 biosynthetic process	1.0	1.0	0.0

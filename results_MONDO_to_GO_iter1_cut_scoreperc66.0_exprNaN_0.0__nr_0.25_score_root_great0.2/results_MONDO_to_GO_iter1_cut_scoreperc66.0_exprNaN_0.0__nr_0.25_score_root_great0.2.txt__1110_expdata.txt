@@ -1,0 +1,9 @@
+	Machado-Joseph disease	pycnodysostosis	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	thrombomodulin-related bleeding disorder
+bone development	0.0	1.0	0.0	0.0	0.0
+cysteine-type endopeptidase activity	0.0	1.0	0.0	0.0	0.0
+response to mechanical stimulus	0.0	1.0	0.0	0.0	0.0
+collagen binding	0.0	1.0	0.0	0.0	0.0
+fibronectin binding	0.0	1.0	0.0	0.0	0.0
+collagen catabolic process	0.0	1.0	0.0	0.0	0.0
+proteoglycan binding	0.0	1.0	0.0	0.0	0.0
+regulation of autophagy of mitochondrion	0.0	1.0	0.0	0.0	0.0

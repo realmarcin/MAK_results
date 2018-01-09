@@ -1,0 +1,7 @@
+	congenital myasthenic syndrome 4C	congenital myasthenic syndrome 12	PGM3-CDG
+UDP-N-acetylglucosamine biosynthetic process	1.0	1.0	1.0
+glucosamine biosynthetic process	1.0	1.0	0.0
+carbohydrate derivative biosynthetic process	1.0	1.0	0.0
+fungal-type cell wall chitin biosynthetic process	1.0	1.0	1.0
+glutamine-fructose-6-phosphate transaminase (isomerizing) activity	1.0	1.0	0.0
+carbohydrate derivative metabolic process	1.0	1.0	0.0

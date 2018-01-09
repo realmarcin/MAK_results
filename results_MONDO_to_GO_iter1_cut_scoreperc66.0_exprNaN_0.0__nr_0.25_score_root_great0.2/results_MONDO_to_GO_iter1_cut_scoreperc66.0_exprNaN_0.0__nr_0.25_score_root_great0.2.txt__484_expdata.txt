@@ -1,0 +1,9 @@
+	Desbuquois dysplasia 1	B4GALT1-CDG	polyglucosan body myopathy 1 with or without immunodeficiency	"mental retardation, autosomal recessive 44"	Tenorio syndrome
+membrane	1.0	1.0	0.0	1.0	1.0
+transferase activity	0.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	0.0	0.0	1.0	1.0	0.0
+metal ion binding	1.0	1.0	1.0	0.0	1.0
+positive regulation of apoptotic process	0.0	1.0	1.0	0.0	0.0
+ubiquitin-protein transferase activity	0.0	0.0	1.0	0.0	1.0
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1.0	0.0	1.0	0.0	0.0
+protein polyubiquitination	0.0	0.0	1.0	0.0	1.0

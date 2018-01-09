@@ -1,0 +1,6 @@
+"x"
+"1" "negative regulation of chemokine production"
+"2" "glucose-6-phosphate transmembrane transporter activity"
+"3" "lactate metabolic process"
+"4" "glucose 6-phosphate:inorganic phosphate antiporter activity"
+"5" "hexose phosphate transport"

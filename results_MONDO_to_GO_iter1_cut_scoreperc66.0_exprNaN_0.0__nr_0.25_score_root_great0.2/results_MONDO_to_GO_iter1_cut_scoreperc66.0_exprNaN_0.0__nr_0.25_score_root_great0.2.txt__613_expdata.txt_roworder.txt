@@ -1,0 +1,7 @@
+"x"
+"1" "spinocerebellar.ataxia.type.31"
+"2" "hypotonia..infantile..with.psychomotor.retardation.and.characteristic.facies.2..IHPRF2"
+"3" "Ehlers.Danlos.syndrome..periodontitis.type"
+"4" "complement.component.C1R.C1S.deficiency"
+"5" "methylmalonic.acidemia.with.homocystinuria..type.cblX"
+"6" "Alstrom.syndrome"

@@ -1,0 +1,8 @@
+	autosomal recessive congenital ichthyosis 2	metachromatic leukodystrophy due to saposin b deficiency	syndactyly-telecanthus-anogenital and renal malformations syndrome	atypical Gaucher's disease due to saposin c deficiency	encephalopathy due to prosaposin deficiency	"Krabbe disease, atypical, due to saposin a deficiency"	"obesity, Hyperphagia, and developmental delay"	hypogonadotropic hypogonadism 13 with or without anosmia	obesity due to leptin receptor gene deficiency
+positive regulation of MAPK cascade	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+heart morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"positive regulation of transcription, DNA-templated"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+heart development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+anterior/posterior pattern specification	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+semicircular canal morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+G-protein coupled receptor binding	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0

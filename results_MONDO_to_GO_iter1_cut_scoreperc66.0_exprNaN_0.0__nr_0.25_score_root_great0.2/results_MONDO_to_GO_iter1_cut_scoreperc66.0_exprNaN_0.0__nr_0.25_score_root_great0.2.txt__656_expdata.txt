@@ -1,0 +1,7 @@
+	autosomal dominant limb-girdle muscular dystrophy type 1D (DNAJB6)	3-methylglutaconic aciduria type 5	young adult-onset distal hereditary motor neuropathy	hyperphosphatasia with mental retardation syndrome 4	Charcot-Marie-tooth disease axonal type 2T	autosomal recessive limb-girdle muscular dystrophy type 2Y
+ATPase activator activity	1.0	1.0	1.0	0.0	1.0	1.0
+negative regulation of inclusion body assembly	1.0	0.0	1.0	0.0	1.0	0.0
+negative regulation of protein deubiquitination	0.0	0.0	1.0	0.0	1.0	0.0
+regulation of protein ubiquitination	0.0	0.0	1.0	0.0	1.0	0.0
+regulation of chaperone-mediated protein folding	0.0	0.0	1.0	0.0	1.0	0.0
+proteasome binding	0.0	0.0	1.0	0.0	1.0	0.0

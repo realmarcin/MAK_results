@@ -1,0 +1,7 @@
+"x"
+"1" "nucleus"
+"2" "site of double-strand break"
+"3" "polyubiquitin modification-dependent protein binding"
+"4" "ubiquitin-dependent ERAD pathway"
+"5" "translesion synthesis"
+"6" "autophagosome maturation"

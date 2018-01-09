@@ -1,0 +1,5 @@
+"x"
+"1" "Free.sialic.acid.storage.disease..infantile.form"
+"2" "Salla.disease"
+"3" "neuronal.ceroid.lipofuscinosis.3"
+"4" "retinitis.pigmentosa.68"

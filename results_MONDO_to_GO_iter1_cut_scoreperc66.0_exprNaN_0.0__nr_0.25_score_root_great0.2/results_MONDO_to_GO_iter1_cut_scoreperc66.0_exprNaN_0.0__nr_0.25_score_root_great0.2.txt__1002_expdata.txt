@@ -1,0 +1,9 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	"cerebral palsy, spastic quadriplegic, 1"	aromatic L-amino acid decarboxylase deficiency	autosomal dominant nonsyndromic deafness 40
+sensory perception of sound	0.0	0.0	0.0	1.0
+thyroid hormone transport	0.0	0.0	0.0	1.0
+hormone binding	0.0	0.0	0.0	1.0
+transcription corepressor activity	0.0	0.0	0.0	1.0
+"oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor"	0.0	0.0	0.0	1.0
+mitochondrial transport	0.0	0.0	0.0	1.0
+thyroid hormone metabolic process	0.0	0.0	0.0	1.0
+thiomorpholine-carboxylate dehydrogenase activity	0.0	0.0	0.0	1.0

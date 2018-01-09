@@ -1,0 +1,6 @@
+"x"
+"1" "transferase activity, transferring glycosyl groups"
+"2" "protein O-linked glycosylation"
+"3" "protein glycosylation"
+"4" "acetylglucosaminyltransferase activity"
+"5" "glucosyltransferase activity"

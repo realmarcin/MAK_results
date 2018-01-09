@@ -1,0 +1,7 @@
+"x"
+"1" "Niemann.Pick.disease.type.A"
+"2" "Niemann.Pick.disease.type.B"
+"3" "spinal.muscular.atrophy.progressive.myoclonic.epilepsy.syndrome"
+"4" "Farber.lipogranulomatosis"
+"5" "Tay.Sachs.disease.AB.variant"
+"6" "autoimmune.disease..susceptibility.to..6"

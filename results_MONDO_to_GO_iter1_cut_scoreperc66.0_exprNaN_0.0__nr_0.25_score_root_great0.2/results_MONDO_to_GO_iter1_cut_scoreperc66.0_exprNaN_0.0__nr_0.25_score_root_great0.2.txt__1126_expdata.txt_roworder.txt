@@ -1,0 +1,6 @@
+"x"
+"1" "ocular.albinism.with.congenital.sensorineural.deafness"
+"2" "Tietz.syndrome"
+"3" "Waardenburg.syndrome.type.2A"
+"4" "MITF.related.melanoma.and.renal.cell.carcinoma.predisposition.syndrome"
+"5" "coloboma..osteopetrosis..microphthalmia..macrocephaly..albinism..and.deafness..COMMAD"

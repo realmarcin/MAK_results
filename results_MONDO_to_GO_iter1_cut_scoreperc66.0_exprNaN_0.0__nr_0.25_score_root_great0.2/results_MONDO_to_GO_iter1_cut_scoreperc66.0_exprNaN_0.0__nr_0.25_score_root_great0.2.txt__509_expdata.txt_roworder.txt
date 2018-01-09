@@ -1,0 +1,7 @@
+"x"
+"1" "dyskinesia..limb.and.orofacial..infantile.onset..IOLOD"
+"2" "striatal.degeneration..autosomal.dominant.2..ADSD2"
+"3" "pigmented.nodular.adrenocortical.disease..primary..2"
+"4" "brachydactyly.arterial.hypertension.syndrome"
+"5" "X46.XX.gonadal.dysgenesis"
+"6" "ovarian.hyperstimulation.syndrome"

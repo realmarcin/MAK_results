@@ -1,0 +1,7 @@
+"x"
+"1" "stem cell proliferation"
+"2" "hormone transport"
+"3" "regulation of chloride transport"
+"4" "regulation of response to osmotic stress"
+"5" "maintenance of permeability of blood-brain barrier"
+"6" "establishment of blood-brain barrier"

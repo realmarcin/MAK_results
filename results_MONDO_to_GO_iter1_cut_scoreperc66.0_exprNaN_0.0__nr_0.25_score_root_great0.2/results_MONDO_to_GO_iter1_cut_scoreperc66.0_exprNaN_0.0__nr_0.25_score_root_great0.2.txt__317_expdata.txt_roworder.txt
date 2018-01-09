@@ -1,0 +1,7 @@
+"x"
+"1" "Spitz.nevus"
+"2" "linear.nevus.sebaceus.syndrome"
+"3" "thyroid.cancer..nonmedullary..2"
+"4" "juvenile.rheumatoid.arthritis"
+"5" "migraine.with.or.without.aura..susceptibility.to..1"
+"6" "BCC1"

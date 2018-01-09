@@ -1,0 +1,8 @@
+	"microcephaly 4, primary, autosomal recessive"	NDE1-related microhydranencephaly	lissencephaly 4	"microcephaly 13, primary, autosomal recessive"	chronic atrial and intestinal dysrhythmia
+cell cycle	1.0	1.0	1.0	1.0	0.0
+chromosome	1.0	1.0	1.0	1.0	0.0
+cell division	1.0	1.0	1.0	1.0	0.0
+chromosome segregation	1.0	1.0	1.0	1.0	0.0
+"chromosome, centromeric region"	1.0	1.0	1.0	1.0	1.0
+kinetochore	1.0	1.0	1.0	1.0	1.0
+kinesin complex	0.0	1.0	1.0	1.0	0.0

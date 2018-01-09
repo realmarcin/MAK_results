@@ -1,0 +1,5 @@
+"x"
+"1" "familial.amyloid.neuropathy"
+"2" "carpal.tunnel.syndrome"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

@@ -1,0 +1,9 @@
+	galactokinase deficiency	galactose epimerase deficiency	classic galactosemia	B4GALT1-CDG
+galactose catabolic process via UDP-galactose	1.0	1.0	1.0	0.0
+galactose binding	1.0	0.0	0.0	0.0
+galactose metabolic process	1.0	1.0	1.0	1.0
+glycolytic process from galactose	1.0	1.0	1.0	0.0
+galactokinase activity	1.0	0.0	0.0	0.0
+UDP-glucose:hexose-1-phosphate uridylyltransferase activity	0.0	0.0	1.0	0.0
+UDP-glucose catabolic process	0.0	0.0	1.0	0.0
+UDP-glucose metabolic process	0.0	0.0	1.0	0.0

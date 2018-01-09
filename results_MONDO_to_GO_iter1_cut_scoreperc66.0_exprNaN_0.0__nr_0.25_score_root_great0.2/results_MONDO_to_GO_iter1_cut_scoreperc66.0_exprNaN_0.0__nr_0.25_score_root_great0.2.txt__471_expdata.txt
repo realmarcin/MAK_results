@@ -1,0 +1,7 @@
+	hyperekplexia 1	orofaciodigital syndrome V	Cenani-Lenz syndactyly syndrome	sclerosteosis 2	sulfite oxidase deficiency due to molybdenum cofactor deficiency type c	congenital myasthenic syndrome 17
+nucleotide binding	1.0	1.0	0.0	0.0	1.0	0.0
+cytoplasm	1.0	1.0	0.0	0.0	1.0	0.0
+ATP binding	1.0	1.0	0.0	0.0	1.0	0.0
+metal ion binding	1.0	1.0	0.0	0.0	1.0	0.0
+intracellular	1.0	1.0	0.0	0.0	1.0	0.0
+establishment of synaptic specificity at neuromuscular junction	1.0	0.0	1.0	1.0	1.0	1.0

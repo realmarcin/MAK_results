@@ -1,0 +1,6 @@
+"x"
+"1" "vacuolar lumen"
+"2" "rRNA catabolic process"
+"3" "endoribonuclease activity"
+"4" "ribonuclease T2 activity"
+"5" "platelet maturation"

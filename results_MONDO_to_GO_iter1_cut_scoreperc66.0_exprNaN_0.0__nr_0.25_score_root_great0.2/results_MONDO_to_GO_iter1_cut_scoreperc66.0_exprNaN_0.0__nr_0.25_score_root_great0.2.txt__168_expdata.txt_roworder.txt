@@ -1,0 +1,5 @@
+"x"
+"1" "dysplastic.nevus.syndrome"
+"2" "melanoma.and.neural.system.tumor.syndrome"
+"3" "melanoma.pancreatic.cancer.syndrome"
+"4" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.3"

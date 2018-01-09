@@ -1,0 +1,7 @@
+"x"
+"1" "microcephaly..short.stature..and.impaired.glucose.metabolism.2..MSSGM2"
+"2" "diabetes.mellitus..Noninsulin.dependent"
+"3" "PPARG.related.familial.partial.lipodystrophy"
+"4" "Noonan.syndrome.like.disorder.with.loose.anagen.hair"
+"5" "microcephaly.corpus.callosum.hypoplasia.intellectual.disability.facial.dysmorphism.syndrome"
+"6" "maple.syrup.urine.disease..mild.variant"

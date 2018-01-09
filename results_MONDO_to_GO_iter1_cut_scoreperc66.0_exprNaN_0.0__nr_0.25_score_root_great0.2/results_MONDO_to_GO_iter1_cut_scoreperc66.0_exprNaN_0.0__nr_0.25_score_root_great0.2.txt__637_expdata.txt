@@ -1,0 +1,9 @@
+	acromelic frontonasal dysostosis	left ventricular noncompaction 1	PSPH deficiency
+cytoplasm	0.0	1.0	1.0
+nucleus	0.0	0.0	1.0
+metal ion binding	1.0	1.0	1.0
+magnesium ion binding	0.0	0.0	1.0
+cellular amino acid biosynthetic process	0.0	0.0	1.0
+L-serine biosynthetic process	0.0	0.0	1.0
+L-serine metabolic process	0.0	0.0	1.0
+phosphoserine phosphatase activity	0.0	0.0	1.0

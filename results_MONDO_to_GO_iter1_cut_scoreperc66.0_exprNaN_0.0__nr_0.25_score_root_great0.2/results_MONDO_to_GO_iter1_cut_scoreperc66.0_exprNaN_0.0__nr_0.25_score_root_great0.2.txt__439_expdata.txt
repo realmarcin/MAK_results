@@ -1,0 +1,11 @@
+	Prolidase deficiency	Renin-angiotensin-aldosterone system-blocker-induced angioedema	nephronophthisis-like nephropathy 1	young adult-onset distal hereditary motor neuropathy
+hydrolase activity	1.0	1.0	1.0	0.0
+pancreas regeneration	1.0	0.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	0.0
+aminopeptidase activity	1.0	1.0	1.0	0.0
+metallopeptidase activity	1.0	1.0	1.0	0.0
+peptidase activity	1.0	1.0	1.0	0.0
+proteolysis	1.0	1.0	1.0	0.0
+manganese ion binding	1.0	0.0	1.0	0.0
+dipeptidase activity	1.0	0.0	0.0	0.0
+proline dipeptidase activity	1.0	0.0	0.0	0.0

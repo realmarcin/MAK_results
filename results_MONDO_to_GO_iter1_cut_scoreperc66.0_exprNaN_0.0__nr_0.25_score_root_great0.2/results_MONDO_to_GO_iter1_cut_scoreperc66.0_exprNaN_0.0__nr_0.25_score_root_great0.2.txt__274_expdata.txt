@@ -1,0 +1,8 @@
+	spinocerebellar ataxia type 31	megalencephalic leukoencephalopathy with subcortical cysts 2A	"megalencephalic leukoencephalopathy with subcortical cysts 2B, remitting, With or without mental retardation"	"precocious puberty, central, 2"	"hypotonia, infantile, with psychomotor retardation and characteristic facies 2; IHPRF2"
+integral component of membrane	1.0	1.0	1.0	0.0	1.0
+membrane	1.0	1.0	1.0	0.0	1.0
+protein binding	1.0	1.0	1.0	0.0	1.0
+cytoplasm	0.0	1.0	1.0	0.0	0.0
+cell adhesion	0.0	1.0	1.0	0.0	0.0
+molecular_function	0.0	1.0	1.0	1.0	0.0
+biological_process	1.0	1.0	1.0	1.0	1.0

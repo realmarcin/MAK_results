@@ -1,0 +1,6 @@
+	amyotrophic lateral sclerosis type 1	Alexander disease	Charcot-Marie-tooth disease type 1C	congenital brain dysgenesis due to glutamine synthetase deficiency	Charcot-Marie-tooth disease axonal type 2CC
+ovarian follicle atresia	1.0	0.0	0.0	0.0	1.0
+regulation of organelle transport along microtubule	1.0	0.0	0.0	0.0	1.0
+neurofilament bundle assembly	1.0	0.0	0.0	0.0	1.0
+neurofibrillary tangle	1.0	0.0	0.0	0.0	1.0
+response to sodium arsenite	1.0	0.0	0.0	0.0	1.0

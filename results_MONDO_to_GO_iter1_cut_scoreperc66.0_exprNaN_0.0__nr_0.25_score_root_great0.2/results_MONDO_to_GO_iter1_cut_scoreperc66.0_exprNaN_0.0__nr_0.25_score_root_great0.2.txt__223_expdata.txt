@@ -1,0 +1,5 @@
+	Norman-Roberts syndrome	corpus callosum agenesis-abnormal genitalia syndrome	X-linked lissencephaly with abnormal genitalia	"mental retardation, X-linked, with or without seizures, Arx-related"	"epileptic encephalopathy, early infantile, 1"	Partington syndrome	familial temporal lobe epilepsy 1	familial temporal lobe epilepsy 7
+globus pallidus development	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"transcriptional repressor activity, RNA polymerase II distal enhancer sequence-specific binding"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+cerebral cortex GABAergic interneuron migration	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+cerebral cortex tangential migration	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

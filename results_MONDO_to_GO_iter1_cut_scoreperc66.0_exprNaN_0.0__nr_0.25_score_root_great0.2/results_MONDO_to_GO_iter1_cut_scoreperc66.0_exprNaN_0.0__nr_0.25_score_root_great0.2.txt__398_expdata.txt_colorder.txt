@@ -1,0 +1,7 @@
+"x"
+"1" "response to heat"
+"2" "response to lithium ion"
+"3" "glycolytic process"
+"4" "proteasome complex"
+"5" "postsynaptic density membrane"
+"6" "negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway"

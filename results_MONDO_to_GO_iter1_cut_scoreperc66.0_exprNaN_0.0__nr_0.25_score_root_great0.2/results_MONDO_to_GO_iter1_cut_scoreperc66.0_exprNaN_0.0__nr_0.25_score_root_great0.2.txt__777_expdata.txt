@@ -1,0 +1,8 @@
+	primary ciliary dyskinesia 2	congenital myopathy with internal nuclei and atypical cores	primary ciliary dyskinesia 18	primary ciliary dyskinesia 22	nephronophthisis 18	Bardet-Biedl syndrome 18
+cell projection	0.0	0.0	0.0	0.0	0.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	0.0	1.0	1.0	1.0
+eating behavior	0.0	0.0	0.0	0.0	0.0	1.0
+melanosome transport	0.0	0.0	0.0	0.0	0.0	1.0
+BBSome	0.0	0.0	0.0	0.0	0.0	1.0
+receptor localization to non-motile cilium	0.0	0.0	0.0	0.0	0.0	1.0

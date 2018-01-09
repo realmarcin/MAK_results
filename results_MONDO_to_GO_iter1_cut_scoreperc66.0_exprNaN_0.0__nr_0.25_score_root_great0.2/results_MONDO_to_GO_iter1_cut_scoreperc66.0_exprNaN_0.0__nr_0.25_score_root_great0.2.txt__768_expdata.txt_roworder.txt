@@ -1,0 +1,5 @@
+"x"
+"1" "spinocerebellar.ataxia.type.11"
+"2" "orofaciodigital.syndrome.type.14"
+"3" "microphthalmia..syndromic.2"
+"4" "microphthalmia..syndromic.1"

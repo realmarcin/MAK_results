@@ -1,0 +1,20 @@
+	bilateral striopallidodentate calcinosis	hypophosphatemic nephrolithiasis/osteoporosis 1	Fanconi renotubular syndrome 2	"hypercalcemia, infantile, 2; HCINF2"
+membrane raft	0.0	1.0	1.0	1.0
+protein complex binding	0.0	1.0	1.0	1.0
+bone remodeling	0.0	1.0	1.0	1.0
+vesicle	0.0	1.0	1.0	1.0
+protein homooligomerization	0.0	1.0	1.0	1.0
+brush border membrane	0.0	1.0	1.0	1.0
+brush border	0.0	1.0	1.0	1.0
+PDZ domain binding	0.0	1.0	1.0	1.0
+phosphate ion homeostasis	0.0	1.0	1.0	1.0
+response to cadmium ion	0.0	1.0	1.0	1.0
+response to lead ion	0.0	1.0	1.0	1.0
+sodium-dependent phosphate transport	0.0	1.0	1.0	1.0
+sodium-dependent phosphate transmembrane transporter activity	0.0	1.0	1.0	1.0
+sodium:phosphate symporter activity	0.0	1.0	1.0	1.0
+response to mercury ion	0.0	1.0	1.0	1.0
+positive regulation of sodium-dependent phosphate transport	0.0	1.0	1.0	1.0
+arsenate ion transmembrane transport	0.0	1.0	1.0	1.0
+positive regulation of phosphate transmembrane transport	0.0	1.0	1.0	1.0
+positive regulation of membrane potential	0.0	1.0	1.0	1.0

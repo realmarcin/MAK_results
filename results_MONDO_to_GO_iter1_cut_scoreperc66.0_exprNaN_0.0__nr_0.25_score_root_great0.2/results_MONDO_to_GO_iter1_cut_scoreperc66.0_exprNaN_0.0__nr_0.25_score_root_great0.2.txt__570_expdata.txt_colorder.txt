@@ -1,0 +1,8 @@
+"x"
+"1" "feeding behavior"
+"2" "regulation of transcription, DNA-templated"
+"3" "positive regulation of transcription from RNA polymerase II promoter"
+"4" "DNA binding"
+"5" "transcription, DNA-templated"
+"6" "nucleus"
+"7" "DNA binding transcription factor activity"

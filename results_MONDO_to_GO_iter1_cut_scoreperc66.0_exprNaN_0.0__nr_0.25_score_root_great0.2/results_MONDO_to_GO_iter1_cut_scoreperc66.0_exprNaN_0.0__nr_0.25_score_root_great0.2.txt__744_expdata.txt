@@ -1,0 +1,6 @@
+	3-Methylcrotonyl-Coa carboxylase 1 deficiency	holocarboxylase synthetase deficiency	pyruvate carboxylase deficiency disease	propionic acidemia	ACACAD
+biotin carboxylase activity	1.0	0.0	1.0	1.0	1.0
+biotin binding	0.0	1.0	1.0	0.0	1.0
+positive regulation of phospholipid biosynthetic process	0.0	0.0	1.0	0.0	0.0
+viral RNA genome packaging	0.0	0.0	1.0	0.0	0.0
+pyruvate carboxylase activity	0.0	0.0	1.0	0.0	0.0

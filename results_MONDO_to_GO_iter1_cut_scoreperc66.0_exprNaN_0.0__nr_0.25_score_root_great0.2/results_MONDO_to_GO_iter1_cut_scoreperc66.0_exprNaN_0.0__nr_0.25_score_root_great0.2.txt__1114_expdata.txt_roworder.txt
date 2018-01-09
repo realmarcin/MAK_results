@@ -1,0 +1,6 @@
+"x"
+"1" "sudden.cardiac.arrest"
+"2" "mental.retardation..X.linked.58"
+"3" "nephrotic.syndrome.deafness.pretibial.epidermolysis.bullosa.syndrome"
+"4" "autosomal.recessive.congenital.ichthyosis.6"
+"5" "atypical.hemolytic.uremic.syndrome.with.MCP.CD46.anomaly"

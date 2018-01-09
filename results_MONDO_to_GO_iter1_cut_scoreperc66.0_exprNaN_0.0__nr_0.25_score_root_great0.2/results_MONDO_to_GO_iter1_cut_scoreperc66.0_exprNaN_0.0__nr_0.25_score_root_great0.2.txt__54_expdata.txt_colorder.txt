@@ -1,0 +1,6 @@
+"x"
+"1" "positive regulation of vascular smooth muscle cell proliferation"
+"2" "type 1 angiotensin receptor binding"
+"3" "activation of Janus kinase activity"
+"4" "angiotensin receptor binding"
+"5" "renin secretion into blood stream"

@@ -1,0 +1,7 @@
+	dentatorubral-pallidoluysian atrophy	amyotrophic neuralgia	pyogenic arthritis-pyoderma gangrenosum-acne syndrome	elliptocytosis 1	spermatogenic failure 10	autosomal dominant nonsyndromic deafness 67
+maintenance of cell polarity	1.0	1.0	0.0	0.0	1.0	1.0
+cellular bud neck septin ring	0.0	1.0	1.0	0.0	1.0	0.0
+1-phosphatidylinositol binding	0.0	1.0	0.0	1.0	1.0	1.0
+mating projection base	0.0	1.0	1.0	0.0	1.0	0.0
+sperm motility	0.0	0.0	0.0	0.0	1.0	0.0
+sperm annulus	0.0	0.0	0.0	0.0	1.0	0.0

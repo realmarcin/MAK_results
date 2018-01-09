@@ -1,0 +1,6 @@
+	melorheostosis	Buschke-Ollendorff syndrome	cataract 46 juvenile-onset	"46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency"	MEND syndrome	X-linked chondrodysplasia punctata	SRD5A3-CDG	Kahrizi syndrome	amyotrophic lateral sclerosis type 16
+oxidation-reduction process	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+oxidoreductase activity	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+lipid metabolic process	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+3-oxo-5-alpha-steroid 4-dehydrogenase activity	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+cholestenone 5-alpha-reductase activity	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0

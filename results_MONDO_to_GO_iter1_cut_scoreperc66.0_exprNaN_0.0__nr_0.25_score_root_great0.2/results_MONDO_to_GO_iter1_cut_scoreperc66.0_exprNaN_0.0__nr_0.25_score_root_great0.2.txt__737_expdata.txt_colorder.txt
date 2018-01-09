@@ -1,0 +1,6 @@
+"x"
+"1" "secretory granule"
+"2" "hormone activity"
+"3" "positive regulation of neurogenesis"
+"4" "response to peptide hormone"
+"5" "neuroblast proliferation"

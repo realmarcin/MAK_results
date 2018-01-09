@@ -1,0 +1,6 @@
+"x"
+"1" "WHIM.syndrome"
+"2" "dermodistortive.urticaria"
+"3" "mental.retardation..autosomal.dominant.8"
+"4" "congenital.stationary.night.blindness.1E"
+"5" "chorea..childhood.onset..with.psychomotor.retardation..COCPMR"

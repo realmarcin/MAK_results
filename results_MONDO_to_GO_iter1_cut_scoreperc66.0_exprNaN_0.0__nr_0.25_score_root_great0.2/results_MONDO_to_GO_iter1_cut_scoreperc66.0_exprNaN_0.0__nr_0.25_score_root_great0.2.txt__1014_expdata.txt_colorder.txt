@@ -1,0 +1,8 @@
+"x"
+"1" "basal part of cell"
+"2" "trans-Golgi network transport vesicle"
+"3" "protein localization"
+"4" "cell motility"
+"5" "protein localization to synapse"
+"6" "synaptic vesicle recycling via endosome"
+"7" "positive regulation of lamellipodium assembly"

@@ -1,0 +1,13 @@
+	acromelic frontonasal dysostosis	left ventricular noncompaction 1	"congenital heart defects, multiple types, 2"	Al-Raqad syndrome
+"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	0.0	0.0	0.0	1.0
+negative regulation of programmed cell death	0.0	0.0	0.0	1.0
+cellular response to starvation	0.0	0.0	0.0	1.0
+P-body	0.0	0.0	0.0	1.0
+"mRNA cis splicing, via spliceosome"	0.0	0.0	0.0	1.0
+RNA 7-methylguanosine cap binding	0.0	0.0	0.0	1.0
+"nuclear-transcribed mRNA catabolic process, deadenylation-independent decay"	0.0	0.0	0.0	1.0
+deadenylation-dependent decapping of nuclear-transcribed mRNA	0.0	0.0	0.0	1.0
+cellular response to menadione	0.0	0.0	0.0	1.0
+m7G(5')pppN diphosphatase activity	0.0	0.0	0.0	1.0
+positive regulation of exoribonuclease activity	0.0	0.0	0.0	1.0
+exoribonuclease activator activity	0.0	0.0	0.0	1.0

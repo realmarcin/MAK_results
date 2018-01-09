@@ -1,0 +1,6 @@
+	Wagner disease	"Ige responsiveness, atopic"	osteochondritis dissecans (disease)	thrombocythemia 1	primary myelofibrosis	3MC syndrome 1	"spondyloepiphyseal dysplasia, Kimberley type"	"malaria, susceptibility to"	"spondyloepimetaphyseal dysplasia, aggrecan type"	Birbeck granule deficiency	retinitis pigmentosa 56	"macular dystrophy, vitelliform, 5"
+calcium-dependent protein binding	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+carbohydrate binding	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+hyaluronic acid binding	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+positive regulation of phagocytosis	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+mannose binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

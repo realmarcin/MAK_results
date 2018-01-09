@@ -1,0 +1,4 @@
+"x"
+"1" "hemochromatosis.type.3"
+"2" "atransferrinemia"
+"3" "TFRC.related.combined.immunodeficiency"

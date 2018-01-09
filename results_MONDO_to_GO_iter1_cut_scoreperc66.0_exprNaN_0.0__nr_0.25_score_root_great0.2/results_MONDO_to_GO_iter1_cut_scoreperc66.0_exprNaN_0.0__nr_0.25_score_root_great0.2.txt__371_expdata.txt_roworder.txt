@@ -1,0 +1,7 @@
+"x"
+"1" "hereditary.spastic.paraplegia.18"
+"2" "hereditary.spastic.paraplegia.62"
+"3" "syndromic.X.linked.intellectual.disability.Raymond.type"
+"4" "DDOST.CDG"
+"5" "mental.retardation..autosomal.recessive.44"
+"6" "PLIN1.related.familial.partial.lipodystrophy"

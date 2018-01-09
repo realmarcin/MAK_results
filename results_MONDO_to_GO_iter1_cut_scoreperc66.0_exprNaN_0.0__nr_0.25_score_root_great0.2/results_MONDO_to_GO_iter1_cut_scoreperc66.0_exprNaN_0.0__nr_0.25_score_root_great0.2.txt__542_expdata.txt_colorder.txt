@@ -1,0 +1,5 @@
+"x"
+"1" "positive regulation of T cell cytokine production"
+"2" "antigen processing and presentation of endogenous peptide antigen via MHC class I"
+"3" "lysozyme activity"
+"4" "cell wall macromolecule catabolic process"

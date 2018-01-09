@@ -1,0 +1,6 @@
+"x"
+"1" "Ehlers.Danlos.syndrome..arthrochalasis.type"
+"2" "osteogenesis.imperfecta.type.2"
+"3" "osteogenesis.imperfecta.type.4"
+"4" "osteogenesis.imperfecta.type.3"
+"5" "osteogenesis.imperfecta.type.13"

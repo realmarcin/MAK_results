@@ -1,0 +1,7 @@
+"x"
+"1" "synaptic vesicle priming"
+"2" "AP-2 adaptor complex binding"
+"3" "presynaptic active zone membrane"
+"4" "response to auditory stimulus"
+"5" "large conductance calcium-activated potassium channel activity"
+"6" "involuntary skeletal muscle contraction"

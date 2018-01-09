@@ -1,0 +1,7 @@
+	"fibromatosis, gingival, 1"	prostate cancer	"mental retardation, X-linked 30"	autosomal dominant nonsyndromic deafness 22	autosomal recessive nonsyndromic deafness 37	Noonan syndrome 4	Wiskott-Aldrich syndrome 2	Noonan syndrome 9
+prospore membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+axial cellular bud site selection	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+incipient cellular bud site	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+bipolar cellular bud site selection	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+establishment or maintenance of cell polarity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to heat	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

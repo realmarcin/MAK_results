@@ -1,0 +1,8 @@
+"x"
+"1" "positive regulation of blood vessel endothelial cell migration"
+"2" "cellular response to vascular endothelial growth factor stimulus"
+"3" "positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway"
+"4" "negative regulation of oxidative stress-induced cell death"
+"5" "protein kinase C inhibitor activity"
+"6" "angiogenesis involved in coronary vascular morphogenesis"
+"7" "activation of protein kinase activity"

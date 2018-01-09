@@ -1,0 +1,5 @@
+"x"
+"1" "Antley.Bixler.syndrome.with.genital.anomalies.and.Disordered.steroidogenesis"
+"2" "Antley.Bixler.syndrome"
+"3" "congenital.adrenal.hyperplasia.due.to.cytochrome.P450.oxidoreductase.deficiency"
+"4" "patterned.macular.dystrophy.2"

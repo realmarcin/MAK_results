@@ -1,0 +1,4 @@
+	Pyle disease	Moyamoya disease 2	asphyxiating thoracic dystrophy 2
+negative regulation of sodium-dependent phosphate transport	1.0	0.0	0.0
+positive regulation of keratinocyte apoptotic process	1.0	0.0	0.0
+negative regulation of non-canonical Wnt signaling pathway	1.0	1.0	1.0

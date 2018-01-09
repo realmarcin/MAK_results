@@ -1,0 +1,8 @@
+	Joubert syndrome with hepatic defect	cranioectodermal dysplasia 1	short-rib thoracic dysplasia 9 with or without polydactyly	Joubert syndrome 7	"Meckel syndrome, type 5"	Senior-Loken syndrome 9; SLSN9
+embryonic forelimb morphogenesis	1.0	1.0	0.0	1.0	1.0	0.0
+limb morphogenesis	1.0	0.0	1.0	1.0	1.0	0.0
+cilium	1.0	1.0	1.0	1.0	1.0	1.0
+photoreceptor connecting cilium	1.0	1.0	1.0	1.0	1.0	0.0
+non-motile cilium assembly	1.0	1.0	1.0	1.0	1.0	0.0
+regulation of smoothened signaling pathway	1.0	1.0	1.0	1.0	1.0	0.0
+neural tube patterning	1.0	0.0	1.0	1.0	1.0	1.0

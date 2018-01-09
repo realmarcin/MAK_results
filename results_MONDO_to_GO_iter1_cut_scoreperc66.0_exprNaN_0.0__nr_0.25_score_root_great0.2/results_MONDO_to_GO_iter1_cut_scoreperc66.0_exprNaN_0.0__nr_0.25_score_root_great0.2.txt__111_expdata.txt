@@ -1,0 +1,7 @@
+	epidermolysis bullosa simplex Ogna type	epidermolysis bullosa simplex with muscular dystrophy	myofibrillar myopathy 4	epidermolysis bullosa simplex with pyloric atresia	autosomal recessive limb-girdle muscular dystrophy type 2Q	epidermolysis bullosa simplex with nail dystrophy
+cytoskeleton	1.0	1.0	1.0	1.0	1.0	1.0
+cytoskeletal protein binding	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of cell growth	0.0	0.0	0.0	0.0	0.0	0.0
+Wnt signaling pathway	1.0	1.0	0.0	1.0	1.0	1.0
+skeletal muscle tissue development	1.0	1.0	1.0	1.0	1.0	1.0
+locomotory behavior	1.0	1.0	1.0	1.0	1.0	1.0

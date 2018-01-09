@@ -1,0 +1,16 @@
+	"ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant"	"ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive"	van Maldergem syndrome 2	Hennekam lymphangiectasia-lymphedema syndrome 2
+integral component of membrane	0.0	0.0	1.0	1.0
+fibroblast growth factor receptor signaling pathway	0.0	0.0	1.0	1.0
+digestive tract development	0.0	0.0	1.0	1.0
+heart morphogenesis	0.0	0.0	1.0	1.0
+establishment of planar polarity	0.0	0.0	1.0	1.0
+kidney development	0.0	0.0	1.0	1.0
+neurogenesis	0.0	0.0	1.0	1.0
+hippo signaling	0.0	0.0	1.0	1.0
+branching involved in ureteric bud morphogenesis	0.0	0.0	1.0	1.0
+ossification involved in bone maturation	0.0	0.0	1.0	1.0
+regulation of metanephric nephron tubule epithelial cell differentiation	0.0	0.0	1.0	1.0
+cerebral cortex development	0.0	0.0	1.0	1.0
+nephron development	0.0	0.0	1.0	1.0
+inner ear receptor cell stereocilium organization	0.0	0.0	1.0	1.0
+condensed mesenchymal cell proliferation	0.0	0.0	1.0	1.0

@@ -1,0 +1,4 @@
+"x"
+"1" "hereditary.sensory.and.autonomic.neuropathy.with.spastic.paraplegia"
+"2" "dyskeratosis.congenita..autosomal.recessive.3"
+"3" "Bardet.Biedl.syndrome.12"

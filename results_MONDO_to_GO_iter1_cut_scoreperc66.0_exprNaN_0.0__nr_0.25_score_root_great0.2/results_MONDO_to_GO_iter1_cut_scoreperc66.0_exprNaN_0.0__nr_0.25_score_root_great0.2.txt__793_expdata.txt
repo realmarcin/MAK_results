@@ -1,0 +1,11 @@
+	megaconial type congenital muscular dystrophy	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+kinase activity	1.0	0.0	0.0	0.0
+transferase activity	1.0	1.0	0.0	1.0
+muscle organ development	1.0	0.0	0.0	0.0
+lipid metabolic process	1.0	1.0	1.0	1.0
+phosphatidylcholine biosynthetic process	1.0	0.0	0.0	0.0
+phospholipid biosynthetic process	1.0	0.0	0.0	0.0
+ethanolamine kinase activity	1.0	0.0	0.0	0.0
+choline kinase activity	1.0	0.0	0.0	0.0
+glycerophospholipid biosynthetic process	1.0	0.0	0.0	0.0
+phosphatidylethanolamine biosynthetic process	1.0	0.0	0.0	0.0

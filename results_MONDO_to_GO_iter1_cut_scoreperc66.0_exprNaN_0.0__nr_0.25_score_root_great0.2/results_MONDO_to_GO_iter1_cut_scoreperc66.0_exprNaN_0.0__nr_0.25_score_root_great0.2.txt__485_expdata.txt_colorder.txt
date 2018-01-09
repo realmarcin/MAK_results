@@ -1,0 +1,8 @@
+"x"
+"1" "calcium channel activity"
+"2" "intracellular"
+"3" "ion channel activity"
+"4" "transmembrane transport"
+"5" "receptor complex"
+"6" "potassium channel activity"
+"7" "neuromuscular process"

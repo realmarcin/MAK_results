@@ -1,0 +1,7 @@
+"x"
+"1" "maternal behavior"
+"2" "plasma membrane"
+"3" "nucleus"
+"4" "negative regulation of apoptotic process"
+"5" "heart development"
+"6" "protein stabilization"

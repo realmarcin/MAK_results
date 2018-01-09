@@ -1,0 +1,5 @@
+"x"
+"1" "xeroderma.pigmentosum.group.B"
+"2" "trichothiodystrophy.2..photosensitive"
+"3" "FG.syndrome.4"
+"4" "syndromic.X.linked.intellectual.disability.Najm.type"

@@ -1,0 +1,7 @@
+"x"
+"1" "GDP-mannose biosynthetic process"
+"2" "cell wall mannoprotein biosynthetic process"
+"3" "mannose-1-phosphate guanylyltransferase activity"
+"4" "chondrocyte morphogenesis"
+"5" "phosphomannomutase activity"
+"6" "protein targeting to ER"

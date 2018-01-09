@@ -1,0 +1,7 @@
+"x"
+"1" "cytoskeleton"
+"2" "cytoskeletal protein binding"
+"3" "skeletal muscle tissue development"
+"4" "locomotory behavior"
+"5" "Wnt signaling pathway"
+"6" "negative regulation of cell growth"

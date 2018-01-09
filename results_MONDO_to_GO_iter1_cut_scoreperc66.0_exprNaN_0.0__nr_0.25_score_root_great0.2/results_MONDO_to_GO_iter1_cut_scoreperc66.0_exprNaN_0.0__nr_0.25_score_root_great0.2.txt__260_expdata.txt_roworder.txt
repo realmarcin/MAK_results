@@ -1,0 +1,7 @@
+"x"
+"1" "Noonan.syndrome.with.multiple.lentigines"
+"2" "Metachondromatosis"
+"3" "Noonan.syndrome.1"
+"4" "Noonan.syndrome.5"
+"5" "leopard.syndrome.2"
+"6" "dilated.cardiomyopathy.1NN"

@@ -1,0 +1,7 @@
+"x"
+"1" "autosomal.recessive.nonsyndromic.deafness.9"
+"2" "cone.rod.dystrophy.7"
+"3" "CEDNIK.syndrome"
+"4" "epilepsy..childhood.absence..susceptibility.to..5"
+"5" "generalized.epilepsy.with.febrile.seizures.plus..type.9"
+"6" "epileptic.encephalopathy..early.infantile..43..EIEE43"

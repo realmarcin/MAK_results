@@ -1,0 +1,5 @@
+	cardiofaciocutaneous syndrome 1	Noonan syndrome 1	corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome	bradyopsia	Noonan syndrome 5	leopard syndrome 2	familial cold autoinflammatory syndrome 2	Noonan syndrome 7	leopard syndrome 3	dilated cardiomyopathy 1NN	autosomal recessive nonsyndromic deafness 104
+mitogen-activated protein kinase kinase binding	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+MAP kinase kinase kinase activity	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+negative regulation of signal transduction	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"signal transducer activity, downstream of receptor"	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0

@@ -1,0 +1,6 @@
+	X-linked distal spinal muscular atrophy type 3	Brunner syndrome	occipital horn syndrome	Menkes disease	Dopa-responsive dystonia due to sepiapterin reductase deficiency	"periodic fever, menstrual cycle-dependent"
+negative regulation of catalytic activity	1.0	0.0	1.0	1.0	0.0	0.0
+norepinephrine biosynthetic process	1.0	0.0	1.0	1.0	0.0	0.0
+catecholamine metabolic process	1.0	1.0	1.0	1.0	0.0	0.0
+norepinephrine metabolic process	1.0	0.0	1.0	1.0	1.0	0.0
+serotonin metabolic process	1.0	1.0	1.0	1.0	1.0	1.0

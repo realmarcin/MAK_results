@@ -1,0 +1,5 @@
+"x"
+"1" "neurohypophyseal.diabetes.insipidus"
+"2" "isolated.growth.hormone.deficiency.type.II"
+"3" "isolated.growth.hormone.deficiency.type.IA"
+"4" "short.stature.due.to.growth.hormone.qualitative.anomaly"

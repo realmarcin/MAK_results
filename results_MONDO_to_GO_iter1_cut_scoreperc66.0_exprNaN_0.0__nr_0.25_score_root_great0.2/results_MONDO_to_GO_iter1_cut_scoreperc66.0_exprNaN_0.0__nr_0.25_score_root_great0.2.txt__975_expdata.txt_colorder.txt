@@ -1,0 +1,8 @@
+"x"
+"1" "negative regulation of endothelial cell proliferation"
+"2" "negative regulation of endothelial cell migration"
+"3" "negative regulation of endothelial cell differentiation"
+"4" "negative regulation of protein kinase activity"
+"5" "peripheral nervous system development"
+"6" "extrinsic apoptotic signaling pathway via death domain receptors"
+"7" "negative regulation of transcription factor import into nucleus"

@@ -1,0 +1,4 @@
+"x"
+"1" "Pyle.disease"
+"2" "Moyamoya.disease.2"
+"3" "asphyxiating.thoracic.dystrophy.2"

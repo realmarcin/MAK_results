@@ -1,0 +1,15 @@
+	predisposition to invasive fungal disease due to CARD9 deficiency	autoimmune lymphoproliferative syndrome type 2B	"leprosy, susceptibility to, 5"	FADD-related immunodeficiency	"herpes simplex encephalitis, susceptibility to, 3"
+cell activation	0.0	0.0	1.0	0.0	0.0
+positive regulation of tumor necrosis factor biosynthetic process	0.0	0.0	1.0	0.0	0.0
+positive regulation of interleukin-8 secretion	0.0	0.0	1.0	0.0	0.0
+phagocytic vesicle	0.0	0.0	1.0	0.0	0.0
+microglial cell activation	0.0	0.0	1.0	0.0	0.0
+macrophage activation	0.0	0.0	1.0	0.0	0.0
+lipopeptide binding	0.0	0.0	1.0	0.0	0.0
+toll-like receptor 1 signaling pathway	0.0	0.0	1.0	0.0	0.0
+toll-like receptor 10 signaling pathway	0.0	0.0	1.0	0.0	0.0
+Toll-like receptor 1-Toll-like receptor 2 protein complex	0.0	0.0	1.0	0.0	0.0
+response to bacterial lipoprotein	0.0	0.0	1.0	0.0	0.0
+detection of triacyl bacterial lipopeptide	0.0	0.0	1.0	0.0	0.0
+triacyl lipopeptide binding	0.0	0.0	1.0	0.0	0.0
+cellular response to triacyl bacterial lipopeptide	0.0	0.0	1.0	0.0	0.0

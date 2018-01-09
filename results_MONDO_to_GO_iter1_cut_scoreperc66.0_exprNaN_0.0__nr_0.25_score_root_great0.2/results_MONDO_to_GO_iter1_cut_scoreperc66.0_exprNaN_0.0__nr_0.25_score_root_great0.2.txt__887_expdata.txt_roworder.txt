@@ -1,0 +1,5 @@
+"x"
+"1" "Uncombable.hair.syndrome.2..UHS2"
+"2" "hypermethioninemia.with.deficiency.of.S.adenosylhomocysteine.hydrolase"
+"3" "spinal.muscular.atrophy.with.congenital.bone.fractures.1"
+"4" "muscular.dystrophy..congenital..Davignon.Chauveau.type..MDCDC"

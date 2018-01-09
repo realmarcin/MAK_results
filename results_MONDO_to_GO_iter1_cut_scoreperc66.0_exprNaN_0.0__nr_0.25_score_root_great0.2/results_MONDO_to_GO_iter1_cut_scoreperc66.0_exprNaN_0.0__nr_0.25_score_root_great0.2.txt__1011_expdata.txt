@@ -1,0 +1,13 @@
+	exfoliation syndrome	camptodactyly-arthropathy-coxa vara-pericarditis syndrome	"aortic aneurysm, familial thoracic 10; AAT10"	"tooth agenesis, selective, 9; STHAG9"
+muscle organ development	0.0	0.0	1.0	0.0
+blood vessel morphogenesis	0.0	0.0	1.0	0.0
+proteinaceous extracellular matrix	0.0	0.0	1.0	0.0
+response to steroid hormone	0.0	0.0	1.0	0.0
+blood vessel development	0.0	0.0	1.0	0.0
+collagen trimer	0.0	0.0	1.0	0.0
+wound healing	0.0	0.0	1.0	0.0
+aorta development	0.0	0.0	1.0	0.0
+neurogenesis	0.0	0.0	1.0	0.0
+collagen fibril organization	0.0	0.0	1.0	0.0
+response to hormone	0.0	0.0	1.0	0.0
+elastic fiber assembly	0.0	0.0	1.0	0.0

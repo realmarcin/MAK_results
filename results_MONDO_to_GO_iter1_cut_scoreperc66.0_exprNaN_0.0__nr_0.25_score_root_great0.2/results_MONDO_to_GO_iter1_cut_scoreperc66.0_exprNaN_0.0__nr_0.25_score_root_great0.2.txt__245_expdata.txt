@@ -1,0 +1,5 @@
+	Fabry disease	MOGS-CDG	Amish infantile epilepsy syndrome	alpha-N-acetylgalactosaminidase deficiency type 1	alpha-N-acetylgalactosaminidase deficiency type 2
+glycoside catabolic process	1.0	0.0	0.0	1.0	1.0
+glycosylceramide catabolic process	1.0	0.0	0.0	1.0	1.0
+alpha-galactosidase activity	1.0	0.0	0.0	1.0	1.0
+oligosaccharide metabolic process	1.0	1.0	1.0	1.0	1.0

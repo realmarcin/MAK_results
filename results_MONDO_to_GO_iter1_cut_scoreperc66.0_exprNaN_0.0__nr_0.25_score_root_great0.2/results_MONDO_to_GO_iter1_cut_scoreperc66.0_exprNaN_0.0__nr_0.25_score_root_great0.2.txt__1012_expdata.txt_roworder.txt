@@ -1,0 +1,5 @@
+"x"
+"1" "lethal.congenital.contracture.syndrome.9"
+"2" "retinitis.pigmentosa.35"
+"3" "cone.rod.dystrophy.10"
+"4" "isolated.growth.hormone.deficiency.type.ib"

@@ -1,0 +1,12 @@
+	methemoglobinemia type 4	"erythrocytosis, familial, 3"	thrombocytopenia 4	mitochondrial complex III deficiency nuclear type 6
+oxidation-reduction process	1.0	1.0	1.0	1.0
+electron transfer activity	1.0	0.0	1.0	1.0
+oxidative phosphorylation	0.0	0.0	0.0	1.0
+respiratory chain	0.0	0.0	1.0	1.0
+mitochondrial respiratory chain	0.0	0.0	0.0	1.0
+"mitochondrial electron transport, ubiquinol to cytochrome c"	0.0	0.0	1.0	1.0
+"electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity"	0.0	0.0	1.0	1.0
+response to glucagon	0.0	0.0	0.0	1.0
+mitochondrial respiratory chain complex III	0.0	0.0	0.0	1.0
+mitochondrial ATP synthesis coupled proton transport	0.0	0.0	0.0	1.0
+"electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity"	0.0	0.0	0.0	1.0

@@ -1,0 +1,5 @@
+	familial cold autoinflammatory syndrome 1	Muckle-Wells syndrome	vitiligo-associated multiple autoimmune disease susceptibility 1	CINCA syndrome	corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	"palmoplantar carcinoma, multiple Self-healing; MSPC"
+interleukin-1 beta production	1.0	1.0	1.0	1.0	1.0	1.0
+inflammasome complex	1.0	1.0	1.0	1.0	1.0	1.0
+response to muramyl dipeptide	0.0	0.0	1.0	0.0	1.0	1.0
+pyroptosis	0.0	0.0	1.0	0.0	1.0	1.0

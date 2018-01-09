@@ -1,0 +1,7 @@
+	mitochondrial DNA depletion syndrome 3	hypomyelinating leukodystrophy 3	Desmosterolosis	young adult-onset distal hereditary motor neuropathy	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome	"portal hypertension, Noncirrhotic; NCPH"	adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency
+integral component of membrane	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+membrane	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cytosol	1.0	1.0	1.0	1.0	1.0	1.0	1.0

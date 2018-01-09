@@ -1,0 +1,7 @@
+	primary ciliary dyskinesia 2	primary ciliary dyskinesia 18	cone-rod dystrophy 20
+cytoplasm	1.0	1.0	1.0
+molecular_function	1.0	0.0	1.0
+heart development	1.0	0.0	1.0
+renal system process	0.0	0.0	1.0
+cell projection organization	1.0	1.0	1.0
+optokinetic behavior	0.0	0.0	1.0

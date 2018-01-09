@@ -1,0 +1,5 @@
+"x"
+"1" "otolith tethering"
+"2" "L-arabinose metabolic process"
+"3" "alpha-L-arabinofuranosidase activity"
+"4" "otolith formation"

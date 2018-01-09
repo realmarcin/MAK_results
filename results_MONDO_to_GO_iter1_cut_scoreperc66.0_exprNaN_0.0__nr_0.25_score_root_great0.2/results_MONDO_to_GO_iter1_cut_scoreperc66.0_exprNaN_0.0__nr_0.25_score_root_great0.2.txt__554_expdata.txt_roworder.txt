@@ -1,0 +1,7 @@
+"x"
+"1" "ventricular.septal.defect.2"
+"2" "atrial.heart.septal.defect.8"
+"3" "situs.inversus"
+"4" "adenosine.deaminase.deficiency"
+"5" "autoimmune.disease..susceptibility.to..1"
+"6" "obesity.due.to.congenital.leptin.deficiency"

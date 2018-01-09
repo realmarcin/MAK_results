@@ -1,0 +1,5 @@
+	hereditary breast carcinoma	colorectal adenocarcinoma	ovarian cancer	Proteus syndrome	schizophrenia (disease)	myofibrillar myopathy 4	Cowden syndrome 6
+positive regulation of I-kappaB phosphorylation	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+negative regulation of fatty acid beta-oxidation	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+protein kinase C binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+glycogen cell differentiation involved in embryonic placenta development	1.0	1.0	1.0	1.0	1.0	0.0	1.0

@@ -1,0 +1,8 @@
+"x"
+"1" "aromatic compound catabolic process"
+"2" "epoxide hydrolase activity"
+"3" "epoxide metabolic process"
+"4" "diol biosynthetic process"
+"5" "cis-stilbene-oxide hydrolase activity"
+"6" "negative regulation of osteoclast development"
+"7" "regulation of membrane permeability"

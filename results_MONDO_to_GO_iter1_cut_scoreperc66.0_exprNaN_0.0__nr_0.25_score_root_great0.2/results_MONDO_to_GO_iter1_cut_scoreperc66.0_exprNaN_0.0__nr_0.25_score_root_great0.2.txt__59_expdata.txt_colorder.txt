@@ -1,0 +1,7 @@
+"x"
+"1" "extracellular space"
+"2" "extracellular region"
+"3" "neuronal cell body"
+"4" "dendrite"
+"5" "axon"
+"6" "serine-type peptidase activity"

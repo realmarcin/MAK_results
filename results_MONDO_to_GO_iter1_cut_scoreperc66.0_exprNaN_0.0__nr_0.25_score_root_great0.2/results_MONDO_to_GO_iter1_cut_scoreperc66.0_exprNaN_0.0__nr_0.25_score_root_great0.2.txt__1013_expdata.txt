@@ -1,0 +1,5 @@
+	familial bicuspid aortic valve	coloboma of optic nerve (disease)	foveal hypoplasia 1	autosomal dominant keratitis	mullerian aplasia and hyperandrogenism	isolated optic nerve hypoplasia	"Parkinson disease, late-onset"	aniridia-cerebellar ataxia-intellectual disability syndrome	"blepharophimosis-intellectual disability syndrome, MKB type"	FG syndrome 1	X-linked intellectual disability with marfanoid habitus	SERKAL syndrome	Adams-Oliver syndrome 5	"hyperuricemic nephropathy, familial juvenile, 4; HNFJ4"
+pronephric duct development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+habenula development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+pronephric glomerulus development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+glomerular visceral epithelial cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

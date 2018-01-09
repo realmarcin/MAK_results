@@ -1,0 +1,8 @@
+"x"
+"1" "external side of plasma membrane"
+"2" "immune response"
+"3" "immune system process"
+"4" "negative regulation of T cell proliferation"
+"5" "response to molecule of bacterial origin"
+"6" "innate immune response"
+"7" "adaptive immune response"

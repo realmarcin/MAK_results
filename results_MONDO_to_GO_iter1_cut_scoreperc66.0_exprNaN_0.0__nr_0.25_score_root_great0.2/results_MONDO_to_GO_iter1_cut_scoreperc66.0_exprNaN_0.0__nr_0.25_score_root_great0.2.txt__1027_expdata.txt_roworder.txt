@@ -1,0 +1,5 @@
+"x"
+"1" "generalized.epilepsy.with.febrile.seizures.plus..type.9"
+"2" "CEDNIK.syndrome"
+"3" "epileptic.encephalopathy..early.infantile..21"
+"4" "congenital.myasthenic.syndrome.18"

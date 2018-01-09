@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.myasthenic.syndrome.4C"
+"2" "primary.ciliary.dyskinesia.5"
+"3" "congenital.myasthenic.syndrome.12"
+"4" "Legius.syndrome"
+"5" "ectodermal.dysplasia.12..hypohidrotic.hair.tooth.nail.type..ECTD12"

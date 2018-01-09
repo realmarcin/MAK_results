@@ -1,0 +1,9 @@
+	"autosomal recessive cutis laxa type 2, classic type"	Action myoclonus-renal failure syndrome	autosomal recessive osteopetrosis 1	Wrinkly skin syndrome	"renal tubular acidosis, distal, autosomal recessive"
+positive regulation of neuron projection development	0.0	1.0	0.0	0.0	0.0
+receptor activity	0.0	1.0	0.0	0.0	0.0
+focal adhesion	0.0	1.0	0.0	0.0	0.0
+protein targeting to lysosome	0.0	1.0	0.0	0.0	0.0
+notochord development	0.0	1.0	0.0	0.0	0.0
+lysosomal membrane	1.0	1.0	1.0	1.0	0.0
+lysosomal lumen	0.0	1.0	0.0	0.0	0.0
+regulation of glucosylceramidase activity	0.0	1.0	0.0	0.0	0.0

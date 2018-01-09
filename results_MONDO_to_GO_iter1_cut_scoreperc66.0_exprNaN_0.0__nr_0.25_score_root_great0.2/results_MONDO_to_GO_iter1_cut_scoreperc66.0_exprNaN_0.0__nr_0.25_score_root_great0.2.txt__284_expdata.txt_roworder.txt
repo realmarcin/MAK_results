@@ -1,0 +1,6 @@
+"x"
+"1" "retinitis.pigmentosa.46"
+"2" "d.2.Hydroxyglutaric.aciduria.2"
+"3" "epileptic.encephalopathy..early.infantile..51..EIEE51"
+"4" "pyruvate.dehydrogenase.E3.deficiency"
+"5" "hyperprolinemia.type.2"

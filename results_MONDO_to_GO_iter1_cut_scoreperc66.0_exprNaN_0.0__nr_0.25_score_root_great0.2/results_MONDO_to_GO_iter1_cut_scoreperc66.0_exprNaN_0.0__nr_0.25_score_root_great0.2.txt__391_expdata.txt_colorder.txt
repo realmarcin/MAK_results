@@ -1,0 +1,6 @@
+"x"
+"1" "detection of chemical stimulus involved in sensory perception of bitter taste"
+"2" "sensory perception of umami taste"
+"3" "response to light intensity"
+"4" "G-protein coupled receptor signaling pathway coupled to cGMP nucleotide second messenger"
+"5" "positive regulation of cyclic-nucleotide phosphodiesterase activity"

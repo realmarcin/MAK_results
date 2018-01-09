@@ -1,0 +1,8 @@
+"x"
+"1" "phosphorylation"
+"2" "nucleotide binding"
+"3" "kinase activity"
+"4" "ATP binding"
+"5" "transferase activity"
+"6" "hydrolase activity"
+"7" "ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"

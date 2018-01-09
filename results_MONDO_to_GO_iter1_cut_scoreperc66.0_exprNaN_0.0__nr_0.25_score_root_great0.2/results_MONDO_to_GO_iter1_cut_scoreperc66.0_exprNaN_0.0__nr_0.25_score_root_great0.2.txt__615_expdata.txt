@@ -1,0 +1,7 @@
+	growth delay due to insulin-like growth factor i resistance	SCZD6	schizophrenia 9	caudal duplication	hereditary sensory and autonomic neuropathy type 5	growth delay due to insulin-like growth factor type 1 deficiency
+positive regulation of phosphatidylinositol 3-kinase signaling	1.0	1.0	0.0	0.0	0.0	1.0
+positive regulation of Ras protein signal transduction	0.0	1.0	0.0	0.0	1.0	1.0
+glial cell differentiation	0.0	1.0	1.0	0.0	0.0	1.0
+positive regulation of protein kinase B signaling	1.0	1.0	0.0	0.0	0.0	1.0
+positive regulation of axon extension	0.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of calcineurin-NFAT signaling cascade	0.0	1.0	0.0	0.0	0.0	1.0

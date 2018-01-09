@@ -1,0 +1,7 @@
+	Snowflake vitreoretinal degeneration	short Qt syndrome type 2	Leber congenital amaurosis 16	"epileptic encephalopathy, early infantile, 14"	autosomal dominant nocturnal frontal lobe epilepsy 5	osteogenesis imperfecta type 14
+ion transport	1.0	1.0	1.0	1.0	1.0	1.0
+melanocyte differentiation	1.0	0.0	1.0	0.0	0.0	0.0
+potassium ion transport	1.0	1.0	1.0	1.0	1.0	1.0
+melanocyte migration	1.0	0.0	1.0	0.0	0.0	0.0
+pigment granule aggregation in cell center	1.0	0.0	1.0	0.0	0.0	0.0
+pigment granule dispersal	1.0	0.0	1.0	0.0	0.0	0.0

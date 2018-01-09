@@ -1,0 +1,4 @@
+"x"
+"1" "prostate.cancer..hereditary..2"
+"2" "combined.oxidative.phosphorylation.defect.type.17"
+"3" "syndromic.X.linked.intellectual.disability.34"

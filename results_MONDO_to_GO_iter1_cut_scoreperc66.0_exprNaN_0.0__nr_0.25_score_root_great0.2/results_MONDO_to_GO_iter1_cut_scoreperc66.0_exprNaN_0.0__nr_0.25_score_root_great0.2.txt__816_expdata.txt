@@ -1,0 +1,7 @@
+	Morvan syndrome	hyperphosphatasia with mental retardation syndrome 1	Smith-Lemli-Opitz syndrome	DPM3-CDG	complex lethal osteochondrodysplasia	"mental retardation, autosomal recessive 53; MRT53"
+post-embryonic development	1.0	0.0	1.0	0.0	1.0	0.0
+integral component of endoplasmic reticulum membrane	1.0	1.0	1.0	1.0	1.0	1.0
+GPI anchor biosynthetic process	0.0	1.0	0.0	1.0	0.0	1.0
+N-acetylglucosaminylphosphatidylinositol deacetylase activity	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of triglyceride lipase activity	0.0	0.0	0.0	0.0	0.0	0.0
+CP2 mannose-ethanolamine phosphotransferase activity	0.0	0.0	0.0	0.0	0.0	1.0

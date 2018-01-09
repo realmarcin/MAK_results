@@ -1,0 +1,6 @@
+"x"
+"1" "C1Q.deficiency"
+"2" "late.onset.retinal.degenration"
+"3" "corneal.dystrophy..Fuchs.endothelial..1"
+"4" "Schmid.metaphyseal.chondrodysplasia"
+"5" "posterior.polymorphous.corneal.dystrophy.2"

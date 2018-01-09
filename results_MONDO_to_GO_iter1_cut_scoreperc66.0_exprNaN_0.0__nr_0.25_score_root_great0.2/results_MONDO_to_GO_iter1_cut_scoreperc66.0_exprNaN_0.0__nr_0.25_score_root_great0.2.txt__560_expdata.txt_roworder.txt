@@ -1,0 +1,5 @@
+"x"
+"1" "mental.retardation..autosomal.dominant.11"
+"2" "arrhythmogenic.right.ventricular.dysplasia.13"
+"3" "immunodeficiency.50..IMD50"
+"4" "spinocerebellar.ataxia.type.12"

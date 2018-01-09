@@ -1,0 +1,5 @@
+	atelosteogenesis type i	atelosteogenesis type III	Boomerang dysplasia	larsen syndrome	spondylocarpotarsal synostosis syndrome
+cell differentiation	1.0	1.0	1.0	1.0	1.0
+actin binding	1.0	1.0	1.0	1.0	1.0
+actin cytoskeleton organization	1.0	1.0	1.0	1.0	1.0
+actin filament binding	0.0	0.0	0.0	0.0	0.0

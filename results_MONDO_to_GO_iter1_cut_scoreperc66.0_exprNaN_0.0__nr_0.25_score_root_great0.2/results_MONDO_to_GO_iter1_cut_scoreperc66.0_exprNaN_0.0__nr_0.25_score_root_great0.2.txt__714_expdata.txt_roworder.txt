@@ -1,0 +1,7 @@
+"x"
+"1" "hyperekplexia.epilepsy.syndrome"
+"2" "amyotrophic.lateral.sclerosis.type.2"
+"3" "juvenile.primary.lateral.sclerosis"
+"4" "infantile.onset.ascending.hereditary.spastic.paralysis"
+"5" "autosomal.recessive.lower.motor.neuron.disease.with.childhood.onset"
+"6" "Charcot.Marie.tooth.disease.recessive.intermediate.c"

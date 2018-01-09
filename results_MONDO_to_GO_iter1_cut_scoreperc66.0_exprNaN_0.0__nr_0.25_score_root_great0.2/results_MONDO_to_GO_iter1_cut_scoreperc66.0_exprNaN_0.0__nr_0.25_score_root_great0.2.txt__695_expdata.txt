@@ -1,0 +1,11 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	pontocerebellar hypoplasia type 2E
+membrane	0.0	1.0	1.0	1.0
+cytoplasm	0.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0
+trans-Golgi network	0.0	0.0	0.0	1.0
+Golgi to vacuole transport	0.0	0.0	0.0	1.0
+endocytic recycling	0.0	0.0	0.0	1.0
+lysosomal transport	0.0	0.0	0.0	1.0
+GARP complex	0.0	0.0	0.0	1.0
+EARP complex	0.0	0.0	0.0	1.0
+cellular sphingolipid homeostasis	0.0	0.0	0.0	1.0

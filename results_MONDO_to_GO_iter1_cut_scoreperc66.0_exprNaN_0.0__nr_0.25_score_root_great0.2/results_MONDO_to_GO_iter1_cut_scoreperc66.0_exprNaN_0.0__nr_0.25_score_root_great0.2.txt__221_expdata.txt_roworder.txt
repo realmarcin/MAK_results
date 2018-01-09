@@ -1,0 +1,7 @@
+"x"
+"1" "Hereditary.Progressive.Chorea.Without.Dementia"
+"2" "thyroid.cancer..nonmedullary..1"
+"3" "Curry.Jones.syndrome"
+"4" "brain.lung.thyroid.syndrome"
+"5" "asphyxiating.thoracic.dystrophy.4"
+"6" "nephronophthisis.12"

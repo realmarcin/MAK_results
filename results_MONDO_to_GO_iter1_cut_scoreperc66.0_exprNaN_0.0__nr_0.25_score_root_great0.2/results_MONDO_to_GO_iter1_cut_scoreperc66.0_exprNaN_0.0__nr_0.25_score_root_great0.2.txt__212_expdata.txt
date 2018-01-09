@@ -1,0 +1,7 @@
+	Leber congenital amaurosis 2	retinitis pigmentosa 27	retinitis pigmentosa 20
+zeaxanthin biosynthetic process	1.0	0.0	1.0
+regulation of rhodopsin gene expression	1.0	1.0	1.0
+retinol isomerase activity	1.0	0.0	1.0
+"all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity"	1.0	0.0	1.0
+retinal isomerase activity	1.0	0.0	1.0
+"all-trans-retinyl-palmitate hydrolase, 11-cis retinol forming activity"	1.0	0.0	1.0

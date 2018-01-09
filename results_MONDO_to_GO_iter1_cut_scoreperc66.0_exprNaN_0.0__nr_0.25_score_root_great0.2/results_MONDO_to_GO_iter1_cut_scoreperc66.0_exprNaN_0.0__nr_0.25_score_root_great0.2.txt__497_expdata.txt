@@ -1,0 +1,8 @@
+	"thrombophilia due to protein S deficiency, autosomal dominant"	"thrombophilia due to protein S deficiency, autosomal recessive"	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+sprouting angiogenesis	1.0	1.0	0.0	0.0
+calcium ion binding	1.0	1.0	0.0	0.0
+extracellular space	1.0	1.0	1.0	0.0
+extracellular exosome	1.0	1.0	0.0	0.0
+fibrinolysis	1.0	1.0	0.0	0.0
+negative regulation of blood coagulation	1.0	1.0	0.0	0.0
+negative regulation of coagulation	1.0	1.0	0.0	0.0

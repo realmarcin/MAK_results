@@ -1,0 +1,4 @@
+	familial dyskinesia and facial myokymia	autosomal recessive nonsyndromic deafness 44	Moyamoya disease with early-onset achalasia	lethal congenital contracture syndrome 8
+adenylate cyclase activity	1.0	1.0	1.0	1.0
+cAMP biosynthetic process	1.0	1.0	0.0	1.0
+calcium- and calmodulin-responsive adenylate cyclase activity	0.0	1.0	0.0	0.0

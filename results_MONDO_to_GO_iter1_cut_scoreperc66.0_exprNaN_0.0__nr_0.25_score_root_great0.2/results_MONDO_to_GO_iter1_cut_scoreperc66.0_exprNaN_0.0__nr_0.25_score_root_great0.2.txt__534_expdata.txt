@@ -1,0 +1,24 @@
+	dyschromatosis symmetrica hereditaria	syndromic X-linked intellectual disability Shashi type	Aicardi-Goutieres syndrome 6	Tokita-Kim syndrome; TOKIMS
+in utero embryonic development	1.0	0.0	1.0	0.0
+osteoblast differentiation	1.0	0.0	1.0	0.0
+adenosine deaminase activity	1.0	0.0	1.0	0.0
+erythrocyte differentiation	1.0	0.0	1.0	0.0
+hematopoietic progenitor cell differentiation	1.0	0.0	1.0	0.0
+definitive hemopoiesis	1.0	0.0	1.0	0.0
+hematopoietic stem cell homeostasis	1.0	0.0	1.0	0.0
+negative regulation of viral genome replication	1.0	0.0	1.0	0.0
+negative regulation of protein kinase activity by regulation of protein phosphorylation	1.0	0.0	1.0	0.0
+protein import into nucleus	1.0	0.0	1.0	0.0
+negative regulation of type I interferon-mediated signaling pathway	1.0	0.0	1.0	0.0
+positive regulation of viral genome replication	1.0	0.0	1.0	0.0
+base conversion or substitution editing	1.0	0.0	1.0	0.0
+somatic diversification of immune receptors via somatic mutation	1.0	0.0	1.0	0.0
+miRNA loading onto RISC involved in gene silencing by miRNA	1.0	0.0	1.0	0.0
+supraspliceosomal complex	1.0	1.0	1.0	0.0
+negative regulation of RNA interference	1.0	0.0	1.0	0.0
+cellular response to virus	1.0	0.0	1.0	0.0
+adenosine to inosine editing	1.0	0.0	1.0	0.0
+protein export from nucleus	1.0	0.0	1.0	0.0
+response to interferon-alpha	1.0	0.0	1.0	0.0
+left-handed Z-DNA binding	1.0	0.0	1.0	0.0
+double-stranded RNA adenosine deaminase activity	1.0	0.0	1.0	0.0
