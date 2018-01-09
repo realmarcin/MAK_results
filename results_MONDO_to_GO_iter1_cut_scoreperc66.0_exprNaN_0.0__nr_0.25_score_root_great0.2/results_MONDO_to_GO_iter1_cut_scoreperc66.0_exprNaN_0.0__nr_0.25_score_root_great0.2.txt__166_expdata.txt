@@ -1,0 +1,5 @@
+	Li-Fraumeni syndrome 1	"adrenocortical carcinoma, hereditary"	bone osteosarcoma	choroid plexus papilloma	"nasopharyngeal carcinoma, susceptibility to, 1"	"basal cell carcinoma, susceptibility to, 7"
+hematopoietic stem cell homeostasis	1.0	1.0	1.0	1.0	1.0	1.0
+apoptotic process involved in blood vessel morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+"negative regulation of transposition, RNA-mediated"	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of protein kinase activity by regulation of protein phosphorylation	0.0	0.0	0.0	0.0	0.0	0.0

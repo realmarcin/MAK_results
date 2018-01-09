@@ -1,0 +1,6 @@
+"x"
+"1" "defense response to Gram-negative bacterium"
+"2" "positive regulation of osteoclast differentiation"
+"3" "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+"4" "cellular response to interleukin-18"
+"5" "negative regulation of growth of symbiont involved in interaction with host"

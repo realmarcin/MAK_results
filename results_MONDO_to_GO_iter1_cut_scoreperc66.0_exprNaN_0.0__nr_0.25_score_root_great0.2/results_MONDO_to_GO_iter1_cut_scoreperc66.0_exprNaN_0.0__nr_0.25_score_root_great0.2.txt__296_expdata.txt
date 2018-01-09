@@ -1,0 +1,7 @@
+	spondylocostal dysostosis 5	Waardenburg syndrome type 4A	"Hirschsprung disease, susceptibility to, 2"	ABCD syndrome	wilms tumor 6; WT6
+negative regulation of neuron maturation	1.0	1.0	1.0	1.0	1.0
+endothelin receptor activity	0.0	1.0	1.0	1.0	0.0
+regulation of fever generation	0.0	1.0	1.0	1.0	0.0
+enteric smooth muscle cell differentiation	0.0	1.0	1.0	1.0	0.0
+endothelin receptor signaling pathway	0.0	1.0	1.0	1.0	0.0
+posterior midgut development	0.0	1.0	1.0	1.0	0.0

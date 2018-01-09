@@ -1,0 +1,5 @@
+"x"
+"1" "dystonia.16"
+"2" "autoimmune.lymphoproliferative.syndrome.type.3"
+"3" "heterotaxy..visceral..4..autosomal"
+"4" "pulmonary.capillary.hemangiomatosis"

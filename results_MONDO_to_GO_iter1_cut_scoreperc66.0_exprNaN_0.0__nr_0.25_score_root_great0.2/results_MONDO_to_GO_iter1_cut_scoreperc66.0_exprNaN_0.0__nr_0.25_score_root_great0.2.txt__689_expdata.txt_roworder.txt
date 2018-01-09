@@ -1,0 +1,7 @@
+"x"
+"1" "Question.mark.ears..isolated"
+"2" "Auriculocondylar.syndrome.3"
+"3" "narcolepsy.1"
+"4" "granulomatous.disease..chronic..autosomal.recessive..cytochrome.b.negative"
+"5" "Microvascular.complications.of.diabetes..susceptibility.to..6"
+"6" "immunoglobulin.mediated.membranoproliferative.glomerulonephritis"

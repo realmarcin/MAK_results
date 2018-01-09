@@ -1,0 +1,9 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	Tay-Sachs disease AB variant	"autoimmune disease, susceptibility to, 6"	primary hyperoxaluria type 3
+extracellular exosome	1.0	1.0	0.0	1.0	1.0
+pyruvate biosynthetic process	0.0	0.0	0.0	0.0	1.0
+lyase activity	0.0	0.0	0.0	0.0	1.0
+glyoxylate metabolic process	0.0	0.0	0.0	0.0	1.0
+glyoxylate catabolic process	0.0	0.0	0.0	0.0	1.0
+4-hydroxyproline catabolic process	0.0	0.0	0.0	0.0	1.0
+4-hydroxy-2-oxoglutarate aldolase activity	0.0	0.0	0.0	0.0	1.0
+oxalate metabolic process	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "hepatocellular.carcinoma"
+"2" "papillary.renal.cell.carcinoma"
+"3" "Osteofibrous.dysplasia"
+"4" "autosomal.recessive.nonsyndromic.deafness.97"
+"5" "rhizomelic.chondrodysplasia.punctata.type.2"
+"6" "nephrotic.syndrome..type.6"

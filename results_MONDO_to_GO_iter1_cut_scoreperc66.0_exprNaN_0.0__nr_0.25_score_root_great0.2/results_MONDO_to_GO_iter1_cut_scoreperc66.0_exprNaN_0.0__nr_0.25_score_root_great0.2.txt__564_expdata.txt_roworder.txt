@@ -1,0 +1,6 @@
+"x"
+"1" "autosomal.dominant.osteosclerosis..Worth.type"
+"2" "osteoporosis.pseudoglioma.syndrome"
+"3" "exudative.vitreoretinopathy.4"
+"4" "autosomal.dominant.osteopetrosis.1"
+"5" "Worth.s.syndrome"

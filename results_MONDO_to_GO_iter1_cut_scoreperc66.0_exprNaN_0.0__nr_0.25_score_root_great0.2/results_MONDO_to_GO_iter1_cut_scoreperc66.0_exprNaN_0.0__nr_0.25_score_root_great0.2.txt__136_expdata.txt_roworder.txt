@@ -1,0 +1,4 @@
+"x"
+"1" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"
+"2" "PSORS7"
+"3" "inflammatory.bowel.disease.17"

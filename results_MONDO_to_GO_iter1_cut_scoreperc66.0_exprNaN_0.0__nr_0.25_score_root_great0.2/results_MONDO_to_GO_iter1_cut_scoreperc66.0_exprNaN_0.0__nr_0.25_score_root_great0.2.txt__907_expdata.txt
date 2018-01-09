@@ -1,0 +1,10 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	"cerebral palsy, spastic quadriplegic, 1"	aromatic L-amino acid decarboxylase deficiency	"epileptic encephalopathy, early infantile, 51; EIEE51"
+chronological cell aging	0.0	0.0	0.0	1.0
+carboxylic acid metabolic process	0.0	1.0	1.0	1.0
+oxaloacetate metabolic process	0.0	0.0	0.0	1.0
+nuclear periphery	0.0	0.0	0.0	1.0
+internal protein amino acid acetylation	0.0	0.0	0.0	1.0
+malate metabolic process	0.0	0.0	0.0	1.0
+malate dehydrogenase activity	0.0	0.0	0.0	1.0
+malate dehydrogenase (NADP+) activity	0.0	0.0	0.0	1.0
+L-malate dehydrogenase activity	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+	progressive familial heart block type ib	catecholaminergic polymorphic ventricular tachycardia 1	dilated cardiomyopathy 1P	catecholaminergic polymorphic ventricular tachycardia 2	hypertrophic cardiomyopathy 18	catecholaminergic polymorphic ventricular tachycardia 5
+sarcoplasmic reticulum membrane	0.0	0.0	1.0	0.0	1.0	0.0
+sarcoplasmic reticulum	1.0	1.0	1.0	1.0	1.0	1.0
+filamentous actin	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	0.0	1.0	1.0	1.0	1.0	1.0
+regulation of ryanodine-sensitive calcium-release channel activity	1.0	0.0	1.0	0.0	1.0	0.0
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	1.0	1.0	1.0	1.0	1.0	0.0

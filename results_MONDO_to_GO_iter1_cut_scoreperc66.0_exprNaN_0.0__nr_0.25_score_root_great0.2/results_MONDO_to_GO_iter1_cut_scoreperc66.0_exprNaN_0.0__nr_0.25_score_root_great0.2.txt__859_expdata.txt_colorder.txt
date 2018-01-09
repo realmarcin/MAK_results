@@ -1,0 +1,7 @@
+"x"
+"1" "fucose metabolic process"
+"2" "marginal zone B cell differentiation"
+"3" "protein O-linked fucosylation"
+"4" "negative regulation of Notch signaling pathway involved in somitogenesis"
+"5" "fucosyltransferase activity"
+"6" "peptide-O-fucosyltransferase activity"

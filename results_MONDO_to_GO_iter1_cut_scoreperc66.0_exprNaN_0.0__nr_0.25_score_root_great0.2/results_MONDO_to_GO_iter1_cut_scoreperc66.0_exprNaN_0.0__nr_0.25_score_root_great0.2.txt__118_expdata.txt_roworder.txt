@@ -1,0 +1,6 @@
+"x"
+"1" "branchiootorenal.syndrome.1"
+"2" "autosomal.dominant.nonsyndromic.deafness.23"
+"3" "branchiootic.syndrome.3"
+"4" "congenital.malabsorptive.diarrhea.4"
+"5" "lissencephaly.7.with.cerebellar.hypoplasia"

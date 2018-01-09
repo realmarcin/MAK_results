@@ -1,0 +1,11 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	"arthrogryposis, renal dysfunction, and cholestasis 2"	autosomal dominant aplasia and myelodysplasia
+cytoplasm	0.0	1.0	1.0	1.0
+cell differentiation	0.0	0.0	1.0	0.0
+molecular_function	1.0	1.0	1.0	1.0
+spermatogenesis	0.0	0.0	1.0	0.0
+protein transport	0.0	0.0	1.0	0.0
+collagen fibril organization	0.0	0.0	1.0	0.0
+hepaticobiliary system development	0.0	0.0	1.0	0.0
+peptidyl-lysine hydroxylation	0.0	0.0	1.0	0.0
+collagen metabolic process	0.0	0.0	1.0	0.0
+post-translational protein modification	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "protein phosphatase regulator activity"
+"2" "protein phosphatase type 1 complex"
+"3" "peptidyl-serine dephosphorylation"
+"4" "ER overload response"
+"5" "negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation"

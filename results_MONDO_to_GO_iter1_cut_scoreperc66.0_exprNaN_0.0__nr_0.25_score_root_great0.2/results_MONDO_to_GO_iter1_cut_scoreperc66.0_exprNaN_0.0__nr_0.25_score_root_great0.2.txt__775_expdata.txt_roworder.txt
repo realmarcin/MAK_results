@@ -1,0 +1,4 @@
+"x"
+"1" "hypercholesterolemia..autosomal.dominant..3"
+"2" "apolipoprotein.c.Iii.deficiency"
+"3" "complex.cortical.dysplasia.with.other.brain.malformations.2"

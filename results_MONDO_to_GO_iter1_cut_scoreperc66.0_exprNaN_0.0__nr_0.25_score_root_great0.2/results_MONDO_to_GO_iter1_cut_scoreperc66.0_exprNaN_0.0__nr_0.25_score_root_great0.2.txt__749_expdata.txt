@@ -1,0 +1,12 @@
+	ventriculomegaly-cystic kidney disease	early infantile epileptic encephalopathy 9	"ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant"	"ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive"	focal segmental glomerulosclerosis 9
+retina morphogenesis in camera-type eye	1.0	0.0	0.0	0.0	1.0
+apical protein localization	1.0	0.0	0.0	0.0	1.0
+glomerulus development	1.0	0.0	0.0	0.0	1.0
+glomerular filtration	1.0	0.0	0.0	0.0	1.0
+ventricular system development	1.0	0.0	0.0	0.0	1.0
+embryonic retina morphogenesis in camera-type eye	1.0	0.0	0.0	0.0	1.0
+negative regulation of Notch signaling pathway	1.0	0.0	0.0	0.0	1.0
+glomerular visceral epithelial cell development	1.0	0.0	0.0	0.0	1.0
+glomerular capillary formation	1.0	0.0	0.0	0.0	1.0
+aspartic-type endopeptidase inhibitor activity	1.0	0.0	0.0	0.0	1.0
+slit diaphragm assembly	1.0	0.0	0.0	0.0	1.0

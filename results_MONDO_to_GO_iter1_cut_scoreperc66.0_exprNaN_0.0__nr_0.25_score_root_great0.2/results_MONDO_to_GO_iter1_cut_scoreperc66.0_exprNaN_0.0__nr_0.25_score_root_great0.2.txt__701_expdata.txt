@@ -1,0 +1,7 @@
+	"Ehlers-Danlos syndrome, musculocontractural type"	"spondyloepimetaphyseal dysplasia, GeneviC(ve type"	"Ehlers-Danlos syndrome, musculocontractural type 2"	peeling skin syndrome type a
+dermatan sulfate biosynthetic process	1.0	0.0	1.0	0.0
+N-acetylgalactosamine 4-O-sulfotransferase activity	1.0	0.0	0.0	1.0
+dermatan sulfate proteoglycan metabolic process	1.0	0.0	0.0	0.0
+carbohydrate biosynthetic process	1.0	1.0	0.0	1.0
+N-acylneuraminate-9-phosphate synthase activity	0.0	1.0	0.0	0.0
+chondroitin-glucuronate 5-epimerase activity	0.0	0.0	1.0	0.0

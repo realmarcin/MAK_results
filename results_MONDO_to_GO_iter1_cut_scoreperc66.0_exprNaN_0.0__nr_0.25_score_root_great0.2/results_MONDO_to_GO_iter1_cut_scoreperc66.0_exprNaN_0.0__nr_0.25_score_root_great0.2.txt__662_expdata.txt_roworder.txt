@@ -1,0 +1,7 @@
+"x"
+"1" "Dyggve.Melchior.Clausen.disease"
+"2" "Smith.Mccort.dysplasia.1"
+"3" "cataract.40"
+"4" "Nance.Horan.syndrome"
+"5" "progressive.supranuclear.palsy.parkinsonism.syndrome"
+"6" "classic.progressive.supranuclear.palsy.syndrome"

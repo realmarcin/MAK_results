@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.heart.defects..multiple.types..4"
+"2" "uveal.coloboma.cleft.lip.and.palate.intellectual.disability"
+"3" "left.ventricular.noncompaction.8"
+"4" "Dias.Logan.syndrome..DILOS"
+"5" "immunodeficiency.49..IMD49"

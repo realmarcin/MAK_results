@@ -1,0 +1,12 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	"atrial fibrillation, familial, 15"
+chromatin binding	0.0	0.0	0.0	1.0
+protein transport	0.0	0.0	0.0	1.0
+atrial cardiac muscle cell action potential	0.0	0.0	0.0	1.0
+chromatin silencing	0.0	0.0	0.0	1.0
+promoter-specific chromatin binding	0.0	0.0	0.0	1.0
+chromosome segregation	0.0	0.0	0.0	1.0
+transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	0.0	0.0	0.0	1.0
+heterochromatin assembly involved in chromatin silencing	0.0	0.0	0.0	1.0
+nucleosome positioning	0.0	0.0	0.0	1.0
+RNA export from nucleus	0.0	0.0	0.0	1.0
+protein localization to nuclear inner membrane	0.0	0.0	0.0	1.0

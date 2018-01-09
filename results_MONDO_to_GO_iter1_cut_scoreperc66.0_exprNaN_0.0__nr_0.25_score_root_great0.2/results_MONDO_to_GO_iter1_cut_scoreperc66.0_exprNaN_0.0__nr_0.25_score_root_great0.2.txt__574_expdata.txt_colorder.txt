@@ -1,0 +1,8 @@
+"x"
+"1" "membrane"
+"2" "positive regulation of peptidyl-tyrosine phosphorylation"
+"3" "nucleus"
+"4" "cellular_component"
+"5" "nucleoplasm"
+"6" "oxidation-reduction process"
+"7" "oxidoreductase activity"

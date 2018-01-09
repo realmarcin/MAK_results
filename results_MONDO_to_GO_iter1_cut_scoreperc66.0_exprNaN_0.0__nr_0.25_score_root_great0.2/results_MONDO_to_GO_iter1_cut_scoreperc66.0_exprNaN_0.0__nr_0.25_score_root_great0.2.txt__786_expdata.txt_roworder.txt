@@ -1,0 +1,5 @@
+"x"
+"1" "Fechtner.syndrome"
+"2" "focal.segmental.glomerulosclerosis.4..susceptibility.to"
+"3" "focal.segmental.glomerulosclerosis.6"
+"4" "nephrotic.syndrome..type.2"

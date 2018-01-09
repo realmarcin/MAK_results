@@ -1,0 +1,5 @@
+	Yunis-Varon syndrome	Charcot-Marie-tooth disease type 4J	amyotrophic lateral sclerosis type 11	bilateral parasagittal parieto-occipital polymicrogyria	early-onset Parkinson disease 20	"striatonigral degeneration, childhood-onset; SNDC"
+"phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity"	1.0	1.0	1.0	1.0	1.0	0.0
+phosphoric ester hydrolase activity	1.0	1.0	1.0	1.0	1.0	0.0
+PAS complex	1.0	1.0	1.0	1.0	0.0	1.0
+phosphatidylinositol-3-phosphate biosynthetic process	1.0	1.0	1.0	1.0	1.0	0.0

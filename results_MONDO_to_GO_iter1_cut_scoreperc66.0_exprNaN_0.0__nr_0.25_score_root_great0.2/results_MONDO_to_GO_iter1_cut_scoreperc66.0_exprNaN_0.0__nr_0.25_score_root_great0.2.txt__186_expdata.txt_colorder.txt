@@ -1,0 +1,5 @@
+"x"
+"1" "positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway"
+"2" "negative regulation of mitophagy in response to mitochondrial depolarization"
+"3" "positive regulation of mitochondrion organization"
+"4" "serine-type endopeptidase complex"

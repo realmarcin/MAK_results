@@ -1,0 +1,10 @@
+	torsion dystonia 1	peroxisome biogenesis disorder 12A (Zellweger)	"3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia"
+chaperone cofactor-dependent protein refolding	1.0	0.0	0.0
+protein deneddylation	1.0	0.0	0.0
+"wound healing, spreading of cells"	1.0	0.0	0.0
+positive regulation of synaptic vesicle endocytosis	1.0	0.0	0.0
+chaperone-mediated protein transport	1.0	1.0	0.0
+misfolded protein binding	1.0	0.0	1.0
+negative regulation of lipid binding	0.0	1.0	0.0
+establishment of protein localization to peroxisome	0.0	1.0	0.0
+peroxisome membrane targeting sequence binding	0.0	1.0	0.0

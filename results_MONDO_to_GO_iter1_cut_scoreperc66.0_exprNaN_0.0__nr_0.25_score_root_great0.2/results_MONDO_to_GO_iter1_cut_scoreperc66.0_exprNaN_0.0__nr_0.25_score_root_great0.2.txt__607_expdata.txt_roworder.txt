@@ -1,0 +1,8 @@
+"x"
+"1" "colobomatous.microphthalmia.rhizomelic.dysplasia.syndrome"
+"2" "brachydactyly.type.A2"
+"3" "acromesomelic.dysplasia..Demirhan.type"
+"4" "microphthalmia..isolated..with.coloboma.6"
+"5" "brachydactyly.type.A1D"
+"6" "progressive.retinal.dystrophy.due.to.retinol.transport.defect"
+"7" "microphthalmia..isolated..with.coloboma.10"

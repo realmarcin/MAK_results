@@ -1,0 +1,7 @@
+	hepatocellular carcinoma	cataract 6 multiple types	Fraser syndrome	familial infantile bilateral striatal necrosis	caudal duplication
+axial mesoderm formation	1.0	1.0	0.0	0.0	1.0
+canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation	1.0	0.0	0.0	0.0	1.0
+Wnt-activated signaling pathway involved in forebrain neuron fate commitment	1.0	0.0	0.0	0.0	1.0
+neural plate anterior/posterior regionalization	1.0	0.0	0.0	0.0	1.0
+receptor signaling complex scaffold activity	1.0	0.0	1.0	1.0	1.0
+optic placode formation	1.0	0.0	0.0	0.0	1.0

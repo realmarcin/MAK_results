@@ -1,0 +1,6 @@
+"x"
+"1" "mosaic.variegated.aneuploidy.syndrome.1"
+"2" "asthma.related.Traits..susceptibility.to..5"
+"3" "microcephaly.17..primary..autosomal.recessive..MCPH17"
+"4" "thrombocytopenia.2"
+"5" "spinocerebellar.ataxia.type.11"

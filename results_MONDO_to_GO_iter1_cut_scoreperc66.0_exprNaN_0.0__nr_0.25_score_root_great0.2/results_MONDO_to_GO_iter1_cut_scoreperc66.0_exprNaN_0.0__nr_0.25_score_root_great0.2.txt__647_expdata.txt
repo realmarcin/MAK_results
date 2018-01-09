@@ -1,0 +1,9 @@
+	immunodeficiency-centromeric instability-facial anomalies syndrome 1	familial cold autoinflammatory syndrome 3	Autoinflammation-PLCG2-associated antibody deficiency-immune dysregulation	tall stature-intellectual disability-facial dysmorphism syndrome	intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome
+protein binding	1.0	1.0	1.0	1.0	1.0
+regulation of gene expression	1.0	1.0	1.0	1.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0	0.0
+response to oxidative stress	0.0	0.0	0.0	0.0	0.0
+response to toxic substance	0.0	0.0	0.0	0.0	0.0
+chromosome segregation	0.0	0.0	0.0	0.0	0.0
+"chromosome, centromeric region"	1.0	1.0	1.0	1.0	1.0
+toll-like receptor signaling pathway	0.0	0.0	0.0	0.0	0.0

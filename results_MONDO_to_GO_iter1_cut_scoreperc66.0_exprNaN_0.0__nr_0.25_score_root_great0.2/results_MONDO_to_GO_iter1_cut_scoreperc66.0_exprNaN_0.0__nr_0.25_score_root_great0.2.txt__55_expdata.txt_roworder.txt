@@ -1,0 +1,6 @@
+"x"
+"1" "hereditary.spastic.paraplegia.42"
+"2" "congenital.cataract.hearing.loss.severe.developmental.delay.syndrome"
+"3" "RFT1.CDG"
+"4" "microcephaly.15..primary..autosomal.recessive"
+"5" "mental.retardation..autosomal.recessive.42"

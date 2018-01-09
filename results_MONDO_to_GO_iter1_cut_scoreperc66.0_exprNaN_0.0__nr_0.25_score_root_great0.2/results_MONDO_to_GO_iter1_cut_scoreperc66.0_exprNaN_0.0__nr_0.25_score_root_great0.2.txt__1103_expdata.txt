@@ -1,0 +1,18 @@
+	cystathioninuria (disease)	MPI-CDG	Ribose-5-P isomerase deficiency	hemolytic anemia due to glucophosphate isomerase deficiency	"short stature, developmental delay, and congenital heart defects;"
+mesoderm formation	0.0	0.0	0.0	1.0	0.0
+in utero embryonic development	0.0	0.0	0.0	1.0	0.0
+angiogenesis	0.0	0.0	0.0	1.0	0.0
+response to morphine	0.0	0.0	0.0	1.0	0.0
+negative regulation of neuron apoptotic process	0.0	0.0	0.0	1.0	0.0
+cytokine activity	0.0	0.0	0.0	1.0	0.0
+growth factor activity	0.0	0.0	0.0	1.0	0.0
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	0.0	0.0	0.0	1.0	0.0
+glucose 6-phosphate metabolic process	0.0	0.0	0.0	1.0	0.0
+erythrocyte homeostasis	0.0	0.0	0.0	1.0	0.0
+ciliary membrane	0.0	0.0	0.0	1.0	0.0
+intramolecular transferase activity	0.0	0.0	0.0	1.0	0.0
+aldehyde catabolic process	0.0	0.0	0.0	1.0	0.0
+positive regulation of immunoglobulin secretion	0.0	0.0	0.0	1.0	0.0
+glucose-6-phosphate isomerase activity	0.0	0.0	0.0	1.0	0.0
+glycolytic process through glucose-6-phosphate	0.0	0.0	0.0	1.0	0.0
+methylglyoxal biosynthetic process	0.0	0.0	0.0	1.0	0.0

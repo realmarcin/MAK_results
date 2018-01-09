@@ -1,0 +1,7 @@
+"x"
+"1" "nucleotide phosphorylation"
+"2" "ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"
+"3" "nucleotide kinase activity"
+"4" "DNA 3' dephosphorylation involved in DNA repair"
+"5" "polynucleotide 3' dephosphorylation"
+"6" "polynucleotide 3'-phosphatase activity"

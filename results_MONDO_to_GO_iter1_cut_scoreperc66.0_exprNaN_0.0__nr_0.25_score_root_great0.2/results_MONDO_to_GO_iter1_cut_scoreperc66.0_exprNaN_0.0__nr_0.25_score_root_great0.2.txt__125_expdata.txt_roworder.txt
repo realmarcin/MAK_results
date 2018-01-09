@@ -1,0 +1,6 @@
+"x"
+"1" "atrial.heart.septal.defect.7"
+"2" "hypothyroidism..congenital..Nongoitrous..5"
+"3" "ventricular.septal.defect.3"
+"4" "hypoplastic.left.heart.syndrome.2"
+"5" "glucocorticoid.resistance"

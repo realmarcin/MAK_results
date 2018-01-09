@@ -1,0 +1,5 @@
+"x"
+"1" "holoprosencephaly.9"
+"2" "postaxial.polydactyly.anterior.pituitary.anomalies.facial.dysmorphism.syndrome"
+"3" "thyroid.dyshormonogenesis.6"
+"4" "craniosynostosis.6"

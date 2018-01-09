@@ -1,0 +1,7 @@
+	mullerian aplasia and hyperandrogenism	Alzheimer's disease 4	SERKAL syndrome	dilated cardiomyopathy 1V	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Sotos syndrome 3; SOTOS3
+Golgi apparatus	1.0	1.0	1.0	1.0	1.0	0.0
+cell surface	1.0	1.0	1.0	1.0	0.0	0.0
+Wnt signaling pathway	1.0	0.0	1.0	0.0	0.0	1.0
+negative regulation of canonical Wnt signaling pathway	1.0	0.0	1.0	0.0	0.0	1.0
+protein localization to plasma membrane	1.0	0.0	1.0	0.0	1.0	0.0
+negative regulation of apoptotic signaling pathway	1.0	1.0	1.0	1.0	0.0	0.0

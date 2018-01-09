@@ -1,0 +1,8 @@
+	melorheostosis	Buschke-Ollendorff syndrome	cataract 46 juvenile-onset	autosomal recessive distal spinal muscular atrophy 2	amyotrophic lateral sclerosis type 16
+negative regulation of MAPK cascade	0.0	0.0	1.0	0.0	0.0
+neurogenesis	0.0	0.0	1.0	0.0	0.0
+protein localization to chromatin	0.0	0.0	1.0	0.0	0.0
+negative regulation of protein kinase B signaling	0.0	0.0	1.0	0.0	0.0
+heart formation	0.0	0.0	1.0	0.0	0.0
+nuclear inner membrane	1.0	1.0	1.0	1.0	1.0
+regulation of intracellular signal transduction	1.0	1.0	1.0	0.0	0.0

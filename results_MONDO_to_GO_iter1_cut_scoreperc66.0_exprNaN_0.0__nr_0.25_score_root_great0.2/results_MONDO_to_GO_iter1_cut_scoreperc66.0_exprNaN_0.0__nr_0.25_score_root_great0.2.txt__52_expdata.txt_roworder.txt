@@ -1,0 +1,7 @@
+"x"
+"1" "glaucoma.3A"
+"2" "GLC3B"
+"3" "Peters.anomaly..disease."
+"4" "anterior.segment.dysgenesis.6..ASGD6"
+"5" "drug.metabolism..poor..Cyp2D6.related"
+"6" "Efavirenz..poor.metabolism.of"

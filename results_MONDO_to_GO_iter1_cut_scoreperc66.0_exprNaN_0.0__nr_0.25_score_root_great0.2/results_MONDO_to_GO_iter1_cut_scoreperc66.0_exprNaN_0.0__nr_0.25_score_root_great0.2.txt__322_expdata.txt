@@ -1,0 +1,8 @@
+	primary open angle glaucoma	"celiac disease, susceptibility to, 4"	"cerebellar ataxia, mental retardation, and Dysequilibrium syndrome 2"	amyotrophic lateral sclerosis type 12	Hermansky-Pudlak syndrome 4
+cytoplasmic vesicle	1.0	0.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+perinuclear region of cytoplasm	1.0	1.0	0.0	1.0	0.0
+metal ion binding	1.0	1.0	0.0	1.0	0.0
+endosome	1.0	0.0	1.0	1.0	0.0
+vesicle-mediated transport	1.0	0.0	0.0	1.0	0.0
+K63-linked polyubiquitin modification-dependent protein binding	1.0	0.0	1.0	1.0	0.0

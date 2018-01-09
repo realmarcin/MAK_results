@@ -1,0 +1,6 @@
+	Nasu-Hakola disease	glycogen storage disease VII	non-spherocytic hemolytic anemia due to hexokinase deficiency	Charcot-Marie-tooth disease type 4G	hemochromatosis type 2B	hemolytic anemia due to glucophosphate isomerase deficiency
+peptidoglycan binding	1.0	0.0	1.0	1.0	1.0	0.0
+sperm principal piece	0.0	1.0	1.0	1.0	0.0	0.0
+canonical glycolysis	0.0	1.0	1.0	1.0	0.0	1.0
+response to ischemia	0.0	0.0	1.0	1.0	0.0	0.0
+regulation of anion channel activity	0.0	0.0	1.0	1.0	0.0	0.0

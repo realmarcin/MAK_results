@@ -1,0 +1,6 @@
+"x"
+"1" "cellular response to glucose stimulus"
+"2" "dopaminergic neuron differentiation"
+"3" "regulation of metanephros size"
+"4" "adipose tissue development"
+"5" "insulin receptor substrate binding"

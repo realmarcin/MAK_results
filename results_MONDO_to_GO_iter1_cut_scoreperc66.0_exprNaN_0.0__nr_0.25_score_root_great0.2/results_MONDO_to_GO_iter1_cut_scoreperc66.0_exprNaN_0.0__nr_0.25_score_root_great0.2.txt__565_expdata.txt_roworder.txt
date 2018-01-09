@@ -1,0 +1,7 @@
+"x"
+"1" "autosomal.dominant.nonsyndromic.deafness.1"
+"2" "progressive.microcephaly.seizures.cortical.blindness.developmental.delay.syndrome"
+"3" "mental.retardation..autosomal.recessive.54..MRT54"
+"4" "mental.retardation..X.linked.93"
+"5" "Aarskog.Scott.syndrome..X.linked"
+"6" "axial.spondylometaphyseal.dysplasia"

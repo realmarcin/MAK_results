@@ -1,0 +1,8 @@
+"x"
+"1" "protein localization to plasma membrane"
+"2" "protein dimerization activity"
+"3" "cell periphery"
+"4" "cortical endoplasmic reticulum"
+"5" "regulation of phosphatidylinositol dephosphorylation"
+"6" "cellular bud membrane"
+"7" "endoplasmic reticulum membrane organization"

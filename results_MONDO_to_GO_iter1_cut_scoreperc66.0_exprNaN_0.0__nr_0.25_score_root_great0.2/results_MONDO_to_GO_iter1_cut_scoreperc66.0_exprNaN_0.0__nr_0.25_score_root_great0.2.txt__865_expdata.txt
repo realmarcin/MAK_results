@@ -1,0 +1,10 @@
+	Geroderma osteodysplastica	absence deformity of leg-cataract syndrome	mast syndrome	"mental retardation, X-linked, syndromic, Bain type; MRXSB"	spinocerebellar ataxia type 35
+protein binding	1.0	0.0	0.0	0.0	0.0
+Golgi apparatus	1.0	0.0	0.0	0.0	0.0
+nucleus	1.0	0.0	0.0	1.0	0.0
+molecular_function	1.0	0.0	0.0	0.0	0.0
+biological_process	1.0	1.0	1.0	1.0	1.0
+hair follicle morphogenesis	1.0	0.0	0.0	0.0	0.0
+nucleoplasm	1.0	0.0	0.0	1.0	0.0
+non-motile cilium assembly	1.0	0.0	0.0	0.0	0.0
+positive regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	1.0	0.0	0.0	0.0	0.0

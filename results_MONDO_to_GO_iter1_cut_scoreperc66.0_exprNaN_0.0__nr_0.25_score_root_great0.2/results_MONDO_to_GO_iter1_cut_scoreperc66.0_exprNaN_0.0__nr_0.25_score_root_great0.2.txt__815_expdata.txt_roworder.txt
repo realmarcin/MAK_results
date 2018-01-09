@@ -1,0 +1,5 @@
+"x"
+"1" "cerebellar.ataxia..mental.retardation..and.Dysequilibrium.syndrome.3"
+"2" "acromelic.frontonasal.dysostosis"
+"3" "chondrodysplasia.with.joint.dislocations..gPAPP.type"
+"4" "nucleoside.diphosphate.linked.Moiety.X.Motif.15.deficiency..NUDT15D"

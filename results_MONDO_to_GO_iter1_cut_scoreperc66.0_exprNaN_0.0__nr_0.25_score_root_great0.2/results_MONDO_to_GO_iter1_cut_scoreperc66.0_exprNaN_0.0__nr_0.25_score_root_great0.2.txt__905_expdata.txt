@@ -1,0 +1,7 @@
+	Donnai-Barrow syndrome	"congenital nephrotic syndrome, Finnish type"	autosomal dominant nonsyndromic deafness 5	hypertrophic cardiomyopathy 10	dystonia 16	hypophosphatemic nephrolithiasis/osteoporosis 2
+renal absorption	1.0	0.0	0.0	0.0	0.0	1.0
+regulation of excretion	0.0	1.0	0.0	0.0	0.0	1.0
+positive regulation of intrinsic apoptotic signaling pathway	0.0	0.0	1.0	0.0	1.0	1.0
+chloride channel regulator activity	0.0	0.0	0.0	0.0	0.0	1.0
+microvillus assembly	0.0	0.0	0.0	0.0	0.0	1.0
+myosin II binding	0.0	0.0	0.0	1.0	0.0	1.0

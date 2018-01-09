@@ -1,0 +1,6 @@
+	thiamine-responsive megaloblastic anemia syndrome	familial isolated deficiency of vitamin E	Amish lethal microcephaly	biotin-responsive basal ganglia disease	progressive demyelinating neuropathy with bilateral striatal necrosis
+thiamine transport	1.0	0.0	0.0	1.0	0.0
+vitamin transport	1.0	1.0	0.0	1.0	0.0
+thiamine transmembrane transport	1.0	0.0	1.0	1.0	1.0
+thiamine transmembrane transporter activity	1.0	0.0	1.0	1.0	1.0
+thiamine pyrophosphate transmembrane transport	0.0	0.0	1.0	0.0	1.0

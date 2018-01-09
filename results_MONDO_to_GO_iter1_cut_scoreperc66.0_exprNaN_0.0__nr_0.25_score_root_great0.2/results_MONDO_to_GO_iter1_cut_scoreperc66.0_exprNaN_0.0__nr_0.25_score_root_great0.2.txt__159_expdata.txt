@@ -1,0 +1,5 @@
+	hyperlysinemia (disease)	Saccharopinuria	infantile cerebellar-retinal degeneration	optic atrophy 8
+isocitrate metabolic process	0.0	0.0	1.0	1.0
+lysine biosynthetic process	1.0	1.0	1.0	1.0
+lysine biosynthetic process via aminoadipic acid	1.0	1.0	1.0	1.0
+aconitate hydratase activity	0.0	0.0	1.0	1.0

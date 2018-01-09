@@ -1,0 +1,7 @@
+	Machado-Joseph disease	aspartylglucosaminuria	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	thrombomodulin-related bleeding disorder	autosomal recessive nonsyndromic deafness 70
+hydrolase activity	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+extracellular space	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+protein maturation	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+proteolysis	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+protein deglycosylation	0.0	1.0	0.0	0.0	0.0	0.0	0.0

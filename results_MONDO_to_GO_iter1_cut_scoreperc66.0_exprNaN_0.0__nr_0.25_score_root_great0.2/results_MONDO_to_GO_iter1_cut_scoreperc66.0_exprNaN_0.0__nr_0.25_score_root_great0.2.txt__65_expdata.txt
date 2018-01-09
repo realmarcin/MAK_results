@@ -1,0 +1,6 @@
+	prostate cancer	autosomal recessive osteopetrosis 2	androgen insensitivity syndrome	"hypospadias 1, X-linked"	partial androgen insensitivity syndrome	Kennedy's disease	"Microvascular complications of diabetes, susceptibility to, 1"
+cellular process	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+positive regulation of phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mammary gland alveolus development	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of extrinsic apoptotic signaling pathway	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+ribonucleotide binding	1.0	0.0	1.0	1.0	1.0	1.0	0.0

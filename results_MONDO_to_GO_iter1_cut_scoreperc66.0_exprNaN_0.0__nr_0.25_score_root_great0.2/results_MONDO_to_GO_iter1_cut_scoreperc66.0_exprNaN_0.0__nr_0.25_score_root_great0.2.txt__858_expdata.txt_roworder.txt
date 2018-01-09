@@ -1,0 +1,6 @@
+"x"
+"1" "spinocerebellar.ataxia.type.14"
+"2" "cytochrome.c.oxidase.deficiency.disease"
+"3" "X.linked.intellectual.disability.cerebellar.hypoplasia.syndrome"
+"4" "periventricular.heterotopia.with.microcephaly..autosomal.recessive"
+"5" "familial.episodic.pain.syndrome.with.predominantly.upper.body.involvement"

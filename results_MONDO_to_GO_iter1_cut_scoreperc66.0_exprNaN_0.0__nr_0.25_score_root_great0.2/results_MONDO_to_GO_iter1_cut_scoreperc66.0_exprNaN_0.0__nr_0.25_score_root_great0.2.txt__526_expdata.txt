@@ -1,0 +1,10 @@
+	mitochondrial non-syndromic sensorineural deafness with susceptibility to aminoglycoside exposure	acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins	myxoid liposarcoma
+tRNA wobble position uridine thiolation	1.0	1.0	0.0
+mitochondrial tRNA wobble position uridine thiolation	1.0	1.0	0.0
+tRNA-5-taurinomethyluridine 2-sulfurtransferase	1.0	1.0	0.0
+sulfurtransferase activity	1.0	1.0	0.0
+mitochondrial tRNA thio-modification	1.0	1.0	0.0
+CHOP-ATF3 complex	0.0	0.0	1.0
+transcription factor AP-1 complex	0.0	0.0	1.0
+regulation of lipid biosynthetic process	0.0	0.0	1.0
+CHOP-C/EBP complex	0.0	0.0	1.0

@@ -1,0 +1,14 @@
+	Meier-Gorlin syndrome 2	Meier-Gorlin syndrome 3	Meier-Gorlin syndrome 5	Meier-Gorlin syndrome 7; MGORS7	Fanconi anemia complementation group U
+Golgi apparatus	0.0	0.0	1.0	0.0	0.0
+GTPase activity	0.0	0.0	1.0	0.0	0.0
+GTP binding	0.0	0.0	1.0	0.0	0.0
+cellular_component	0.0	0.0	1.0	0.0	0.0
+spindle midzone	0.0	0.0	1.0	0.0	0.0
+positive regulation of fibroblast proliferation	0.0	0.0	1.0	0.0	0.0
+spindle	0.0	0.0	1.0	0.0	0.0
+positive regulation of cyclin-dependent protein serine/threonine kinase activity	0.0	0.0	1.0	0.0	0.0
+kinase binding	0.0	0.0	1.0	0.0	0.0
+positive regulation of cytokinesis	0.0	0.0	1.0	0.0	0.0
+regulation of DNA-dependent DNA replication initiation	0.0	0.0	1.0	0.0	0.0
+positive regulation of chromosome segregation	0.0	0.0	1.0	0.0	0.0
+regulation of mitotic metaphase/anaphase transition	0.0	0.0	1.0	0.0	0.0

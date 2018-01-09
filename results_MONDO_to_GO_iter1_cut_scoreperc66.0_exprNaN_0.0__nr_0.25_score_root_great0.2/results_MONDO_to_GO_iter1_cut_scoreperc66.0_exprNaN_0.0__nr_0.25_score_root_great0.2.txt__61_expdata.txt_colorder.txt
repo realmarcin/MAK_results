@@ -1,0 +1,8 @@
+"x"
+"1" "phosphatidylinositol 3-kinase complex"
+"2" "regulation of phosphatidylinositol 3-kinase activity"
+"3" "1-phosphatidylinositol-3-kinase regulator activity"
+"4" "insulin receptor signaling pathway"
+"5" "phosphatidylinositol phosphorylation"
+"6" "1-phosphatidylinositol-3-kinase activity"
+"7" "phosphatidylinositol 3-kinase regulator activity"

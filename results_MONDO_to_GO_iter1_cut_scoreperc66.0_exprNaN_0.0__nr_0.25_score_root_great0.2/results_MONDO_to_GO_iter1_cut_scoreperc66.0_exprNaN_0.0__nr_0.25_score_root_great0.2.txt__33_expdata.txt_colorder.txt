@@ -1,0 +1,4 @@
+"x"
+"1" "acetylcholine-gated cation-selective channel activity"
+"2" "acetylcholine binding"
+"3" "acetylcholine receptor activity"

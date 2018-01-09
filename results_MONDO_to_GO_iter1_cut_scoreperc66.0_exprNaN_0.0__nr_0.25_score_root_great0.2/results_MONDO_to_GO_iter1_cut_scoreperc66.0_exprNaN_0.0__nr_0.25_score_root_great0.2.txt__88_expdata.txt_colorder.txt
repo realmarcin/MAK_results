@@ -1,0 +1,7 @@
+"x"
+"1" "regulation of heart contraction"
+"2" "sarcomere"
+"3" "myofibril"
+"4" "ventricular cardiac muscle tissue morphogenesis"
+"5" "striated muscle contraction"
+"6" "molecular_function"

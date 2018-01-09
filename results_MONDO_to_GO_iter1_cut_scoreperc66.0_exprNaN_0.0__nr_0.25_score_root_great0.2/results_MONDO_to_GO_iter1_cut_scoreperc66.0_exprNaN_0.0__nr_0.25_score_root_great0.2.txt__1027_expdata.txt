@@ -1,0 +1,20 @@
+	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	"generalized epilepsy with febrile seizures plus, type 9"	congenital myasthenic syndrome 18
+regulation of gene expression	0.0	0.0	1.0	0.0
+protein kinase binding	0.0	0.0	1.0	0.0
+vesicle-mediated transport	0.0	0.0	1.0	0.0
+calcium ion-regulated exocytosis of neurotransmitter	0.0	0.0	1.0	0.0
+presynaptic membrane	0.0	0.0	1.0	0.0
+neurotransmitter transport	0.0	0.0	1.0	0.0
+positive regulation of excitatory postsynaptic potential	0.0	0.0	1.0	0.0
+presynapse	0.0	0.0	1.0	0.0
+nuclear lamina	0.0	0.0	1.0	0.0
+positive regulation of neurotransmitter secretion	0.0	0.0	1.0	0.0
+presynaptic active zone membrane	0.0	0.0	1.0	0.0
+regulation of exocytosis	0.0	0.0	1.0	0.0
+spontaneous neurotransmitter secretion	0.0	0.0	1.0	0.0
+regulation of synaptic activity	0.0	0.0	1.0	0.0
+negative regulation of synaptic vesicle recycling	0.0	0.0	1.0	0.0
+regulation of synaptic vesicle priming	0.0	0.0	1.0	0.0
+synaptic vesicle docking	0.0	0.0	1.0	0.0
+exocytic insertion of neurotransmitter receptor to postsynaptic membrane	0.0	0.0	1.0	0.0
+positive regulation of spontaneous neurotransmitter secretion	0.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "establishment of skin barrier"
+"2" "negative regulation of inflammatory response"
+"3" "complement activation, lectin pathway"
+"4" "cornified envelope"
+"5" "peptide cross-linking"
+"6" "structural constituent of epidermis"

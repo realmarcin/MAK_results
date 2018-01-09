@@ -1,0 +1,15 @@
+	"Question mark ears, isolated"	Waardenburg syndrome type 4B	"Hirschsprung disease, susceptibility to, 4"	Auriculocondylar syndrome 3
+positive regulation of cell differentiation	0.0	1.0	1.0	0.0
+regulation of gene expression	0.0	1.0	1.0	0.0
+melanocyte differentiation	0.0	1.0	1.0	0.0
+cellular calcium ion homeostasis	0.0	1.0	1.0	0.0
+cellular magnesium ion homeostasis	0.0	1.0	1.0	0.0
+regulation of neurotransmitter secretion	0.0	1.0	1.0	0.0
+regulation of cell migration	0.0	1.0	1.0	0.0
+neural crest cell migration	0.0	1.0	1.0	0.0
+neuron differentiation	0.0	1.0	1.0	0.0
+neutrophil chemotaxis	0.0	1.0	1.0	0.0
+regulation of developmental pigmentation	0.0	1.0	1.0	0.0
+positive regulation of potassium ion transmembrane transport	0.0	1.0	1.0	0.0
+positive regulation of leukocyte chemotaxis	0.0	1.0	1.0	0.0
+pigment cell development	0.0	1.0	1.0	0.0

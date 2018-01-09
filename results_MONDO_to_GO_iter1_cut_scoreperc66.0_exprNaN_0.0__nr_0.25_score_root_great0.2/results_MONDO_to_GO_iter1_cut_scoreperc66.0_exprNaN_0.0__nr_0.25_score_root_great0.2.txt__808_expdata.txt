@@ -1,0 +1,7 @@
+	Overhydrated hereditary stomatocytosis	Gitelman syndrome	Rh deficiency syndrome	Bartter disease type 1	Bartter disease type 4a	"hypotonia, infantile, with psychomotor retardation and characteristic facies"	"congenital contractures of the limbs and face, hypotonia, and developmental delay"	"epileptic encephalopathy, early infantile, 30"	"epileptic encephalopathy, early infantile, 34; EIEE34"	"epilepsy, idiopathic generalized, susceptibility to, 14; EIG14"	congenital secretory sodium diarrhea 8
+positive regulation of viral process	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+leak channel activity	1.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+cellular ion homeostasis	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+ammonium transmembrane transporter activity	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+ammonium transport	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+cation:chloride symporter activity	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0

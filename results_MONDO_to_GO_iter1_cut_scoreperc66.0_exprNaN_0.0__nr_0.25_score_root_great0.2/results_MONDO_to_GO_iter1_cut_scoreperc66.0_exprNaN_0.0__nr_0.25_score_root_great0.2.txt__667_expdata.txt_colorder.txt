@@ -1,0 +1,5 @@
+"x"
+"1" "response to yeast"
+"2" "defense response to fungus"
+"3" "leukocyte migration involved in inflammatory response"
+"4" "positive regulation of immune response"

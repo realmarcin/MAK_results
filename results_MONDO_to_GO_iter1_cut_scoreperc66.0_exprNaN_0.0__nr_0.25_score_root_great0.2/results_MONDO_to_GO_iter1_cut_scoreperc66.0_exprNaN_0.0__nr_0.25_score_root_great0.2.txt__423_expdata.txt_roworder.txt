@@ -1,0 +1,5 @@
+"x"
+"1" "cardiac.valvular.defect..developmental"
+"2" "Alzheimer.s.disease.19"
+"3" "COPD"
+"4" "Heme.oxygenase.1.deficiency"

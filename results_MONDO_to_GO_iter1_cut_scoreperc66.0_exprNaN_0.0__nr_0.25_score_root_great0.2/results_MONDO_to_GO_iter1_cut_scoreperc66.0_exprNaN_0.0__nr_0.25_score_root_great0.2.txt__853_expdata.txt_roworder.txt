@@ -1,0 +1,8 @@
+"x"
+"1" "congenital.central.hypoventilation.syndrome"
+"2" "bilateral.frontoparietal.polymicrogyria"
+"3" "polymicrogyria..bilateral.perisylvian..autosomal.recessive"
+"4" "Adams.Oliver.syndrome.6"
+"5" "autosomal.dominant.nonsyndromic.deafness.25"
+"6" "holoprosencephaly.11"
+"7" "palatal.anomalies.widely.spaced.teeth.facial.dysmorphism.developmental.delay.syndrome"

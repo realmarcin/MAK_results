@@ -1,0 +1,8 @@
+	Sanfilippo syndrome type B	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome	Charcot-Marie-tooth disease axonal type 2V
+middle ear morphogenesis	1.0	0.0	0.0	1.0
+cerebellar Purkinje cell layer development	1.0	0.0	0.0	1.0
+retinal rod cell development	1.0	0.0	0.0	1.0
+inner ear receptor cell development	1.0	0.0	0.0	1.0
+locomotor rhythm	1.0	0.0	0.0	1.0
+lysosome organization	1.0	0.0	0.0	1.0
+alpha-N-acetylglucosaminidase activity	1.0	0.0	0.0	1.0

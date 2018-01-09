@@ -1,0 +1,19 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	Smith-Mccort dysplasia 2
+GTPase activity	0.0	0.0	0.0	1.0
+GTP binding	0.0	0.0	0.0	1.0
+protein targeting to Golgi	0.0	0.0	0.0	1.0
+protein transport	0.0	0.0	0.0	1.0
+mitochondrion inheritance	0.0	0.0	0.0	1.0
+skeletal system morphogenesis	0.0	0.0	0.0	1.0
+cellular bud neck	0.0	0.0	0.0	1.0
+cellular bud tip	0.0	0.0	0.0	1.0
+incipient cellular bud site	0.0	0.0	0.0	1.0
+Golgi lumen	0.0	0.0	0.0	1.0
+endoplasmic reticulum inheritance	0.0	0.0	0.0	1.0
+mitochondrion localization	0.0	0.0	0.0	1.0
+intra-Golgi vesicle-mediated transport	0.0	0.0	0.0	1.0
+"regulation of retrograde vesicle-mediated transport, Golgi to ER"	0.0	0.0	0.0	1.0
+negative regulation of constitutive secretory pathway	0.0	0.0	0.0	1.0
+regulation of Golgi organization	0.0	0.0	0.0	1.0
+Golgi inheritance	0.0	0.0	0.0	1.0
+Golgi localization	0.0	0.0	0.0	1.0

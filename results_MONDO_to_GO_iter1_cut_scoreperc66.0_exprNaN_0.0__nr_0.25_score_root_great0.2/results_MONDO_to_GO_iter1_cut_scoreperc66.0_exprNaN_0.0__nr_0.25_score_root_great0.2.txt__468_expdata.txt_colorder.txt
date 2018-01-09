@@ -1,0 +1,7 @@
+"x"
+"1" "ion transport"
+"2" "potassium ion transport"
+"3" "melanocyte differentiation"
+"4" "melanocyte migration"
+"5" "pigment granule aggregation in cell center"
+"6" "pigment granule dispersal"

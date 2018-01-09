@@ -1,0 +1,12 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	Tay-Sachs disease AB variant	AICA-ribosiduria	"autoimmune disease, susceptibility to, 6"
+purine nucleotide biosynthetic process	0.0	0.0	0.0	1.0	0.0
+'de novo' IMP biosynthetic process	0.0	0.0	0.0	1.0	0.0
+aerobic respiration	0.0	0.0	0.0	1.0	0.0
+cadherin binding	0.0	0.0	0.0	1.0	0.0
+ascospore formation	0.0	0.0	0.0	1.0	0.0
+tetrahydrofolate biosynthetic process	0.0	0.0	0.0	1.0	0.0
+nucleoside metabolic process	0.0	0.0	0.0	1.0	0.0
+dihydrofolate metabolic process	0.0	0.0	0.0	1.0	0.0
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity	0.0	0.0	0.0	1.0	0.0
+IMP cyclohydrolase activity	0.0	0.0	0.0	1.0	0.0
+ribonucleotide metabolic process	0.0	0.0	0.0	1.0	0.0

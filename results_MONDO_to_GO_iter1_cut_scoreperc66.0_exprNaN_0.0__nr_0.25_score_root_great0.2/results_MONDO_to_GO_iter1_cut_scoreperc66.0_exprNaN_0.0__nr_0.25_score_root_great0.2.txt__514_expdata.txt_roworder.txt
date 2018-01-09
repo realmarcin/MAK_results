@@ -1,0 +1,5 @@
+"x"
+"1" "retinitis.pigmentosa.51"
+"2" "Bardet.Biedl.syndrome.8"
+"3" "Bardet.Biedl.syndrome.10"
+"4" "Joubert.syndrome.13"

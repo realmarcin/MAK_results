@@ -1,0 +1,5 @@
+"x"
+"1" "PCWH.syndrome"
+"2" "Waardenburg.syndrome.type.2E"
+"3" "Waardenburg.syndrome.type.4C"
+"4" "Cornelia.de.Lange.syndrome.4"

@@ -1,0 +1,7 @@
+	gamma-glutamylcysteine synthetase deficiency	"myocardial infarction, susceptibility to"	congenital brain dysgenesis due to glutamine synthetase deficiency	episodic ataxia type 6
+response to heat	1.0	1.0	0.0	0.0
+coenzyme binding	1.0	1.0	0.0	0.0
+glutamate metabolic process	1.0	1.0	1.0	1.0
+glutamate-cysteine ligase complex	1.0	1.0	0.0	0.0
+negative regulation of protein ubiquitination	1.0	1.0	0.0	0.0
+glutamate binding	1.0	1.0	1.0	1.0

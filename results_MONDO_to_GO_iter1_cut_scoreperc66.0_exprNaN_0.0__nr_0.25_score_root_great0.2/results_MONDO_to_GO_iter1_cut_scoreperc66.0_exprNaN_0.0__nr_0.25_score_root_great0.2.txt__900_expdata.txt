@@ -1,0 +1,9 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	"microcephaly 7, primary, autosomal recessive"	Joubert syndrome 13	Bardet-Biedl syndrome 10	Bardet-Biedl syndrome 20; BBS20
+cytoplasmic vesicle	0.0	0.0	0.0	0.0	0.0	1.0
+cilium	0.0	0.0	0.0	0.0	0.0	1.0
+keratinocyte development	0.0	0.0	0.0	0.0	0.0	1.0
+gastrulation	1.0	1.0	0.0	0.0	1.0	1.0
+positive regulation of cell adhesion mediated by integrin	0.0	0.0	0.0	0.0	0.0	1.0
+non-motile cilium assembly	1.0	1.0	1.0	0.0	1.0	1.0
+pronephric proximal tubule development	0.0	0.0	0.0	0.0	0.0	1.0
+intraciliary transport involved in cilium assembly	0.0	0.0	0.0	0.0	0.0	1.0

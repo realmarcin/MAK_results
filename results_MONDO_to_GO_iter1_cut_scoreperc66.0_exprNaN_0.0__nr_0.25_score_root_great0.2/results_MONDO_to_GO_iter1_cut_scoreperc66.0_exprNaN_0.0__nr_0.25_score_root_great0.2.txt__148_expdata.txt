@@ -1,0 +1,8 @@
+	Crigler-Najjar syndrome type 1	transient familial neonatal hyperbilirubinemia	Crigler-Najjar syndrome type 2	muscular dystrophy-dystroglycanopathy type B6	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 6"
+hydrolase activity	1.0	1.0	1.0	0.0	0.0
+metabolic process	1.0	1.0	1.0	1.0	1.0
+intracellular membrane-bounded organelle	1.0	1.0	1.0	1.0	1.0
+glucuronosyltransferase activity	1.0	1.0	1.0	1.0	1.0
+flavonoid glucuronidation	1.0	1.0	1.0	0.0	0.0
+xenobiotic glucuronidation	1.0	1.0	1.0	0.0	0.0
+"transferase activity, transferring hexosyl groups"	1.0	1.0	1.0	0.0	0.0

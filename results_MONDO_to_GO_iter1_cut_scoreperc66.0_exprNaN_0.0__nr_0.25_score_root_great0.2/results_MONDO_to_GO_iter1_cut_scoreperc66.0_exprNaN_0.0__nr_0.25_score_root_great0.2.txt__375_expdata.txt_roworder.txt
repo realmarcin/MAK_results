@@ -1,0 +1,6 @@
+"x"
+"1" "familial.visceral.amyloidosis"
+"2" "familial.porphyria.cutanea.tarda"
+"3" "variegate.porphyria"
+"4" "hypoproteinemia..Hypercatabolic"
+"5" "Microvascular.complications.of.diabetes..susceptibility.to..7"

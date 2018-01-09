@@ -1,0 +1,6 @@
+	posterior polymorphous corneal dystrophy 1	hypotrichosis-lymphedema-telangiectasia-renal defect syndrome	Job's syndrome	hypotrichosis-lymphedema-telangiectasia syndrome	"leukemia, acute lymphocytic, susceptibility to, 1"	vesicoureteral reflux 3	STAT3-related early-onset multisystem autoimmune disease
+endocardium formation	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+mRNA transcription from RNA polymerase II promoter	0.0	1.0	1.0	1.0	0.0	1.0	1.0
+hair cycle process	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+stem cell fate specification	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+establishment of endothelial barrier	0.0	1.0	0.0	1.0	0.0	0.0	0.0

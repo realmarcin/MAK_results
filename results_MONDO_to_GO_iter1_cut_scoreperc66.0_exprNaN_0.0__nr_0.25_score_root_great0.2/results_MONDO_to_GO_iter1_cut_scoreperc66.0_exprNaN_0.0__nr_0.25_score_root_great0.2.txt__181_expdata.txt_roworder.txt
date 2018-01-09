@@ -1,0 +1,5 @@
+"x"
+"1" "van.der.Woude.syndrome.1"
+"2" "autosomal.dominant.popliteal.pterygium.syndrome"
+"3" "orofacial.cleft.6..susceptibility.to"
+"4" "vitamin.d.dependent.rickets..type.2A"

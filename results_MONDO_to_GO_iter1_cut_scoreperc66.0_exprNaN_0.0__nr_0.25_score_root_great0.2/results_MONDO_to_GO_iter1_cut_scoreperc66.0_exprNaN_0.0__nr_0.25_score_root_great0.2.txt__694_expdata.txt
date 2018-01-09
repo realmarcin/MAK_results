@@ -1,0 +1,11 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	hypomyelinating leukodystrophy 13
+cytoplasm	0.0	1.0	1.0	1.0
+nucleus	0.0	1.0	1.0	1.0
+lung development	0.0	0.0	0.0	1.0
+molecular_function	1.0	1.0	1.0	1.0
+protein transport	0.0	0.0	0.0	1.0
+Golgi organization	0.0	0.0	0.0	1.0
+phospholipid biosynthetic process	0.0	0.0	0.0	1.0
+cellular response to heat	0.0	0.0	0.0	1.0
+Hsp70 protein binding	0.0	0.0	0.0	1.0
+inositol metabolic process	0.0	0.0	0.0	1.0

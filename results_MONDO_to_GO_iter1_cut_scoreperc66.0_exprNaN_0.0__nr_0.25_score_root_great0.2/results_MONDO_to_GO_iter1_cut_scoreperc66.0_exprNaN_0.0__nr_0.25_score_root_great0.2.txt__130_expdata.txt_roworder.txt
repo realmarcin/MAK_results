@@ -1,0 +1,7 @@
+"x"
+"1" "renal.hypomagnesemia.6"
+"2" "hypomagnesemia..seizures..and.mental.retardation"
+"3" "hereditary.spastic.paraplegia.6"
+"4" "autosomal.recessive.congenital.ichthyosis.6"
+"5" "renal.hypomagnesemia.3"
+"6" "cone.rod.dystrophy.21"

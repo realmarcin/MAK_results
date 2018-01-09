@@ -1,0 +1,8 @@
+	Richieri Costa-Pereira syndrome	fragile X-associated tremor/ataxia syndrome	fragile X syndrome	"mental retardation, X-linked 102"	premature ovarian failure 1
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+mRNA binding	1.0	1.0	1.0	1.0	1.0
+RNA binding	1.0	1.0	1.0	1.0	1.0
+nucleic acid binding	1.0	1.0	1.0	1.0	1.0
+polysome	0.0	1.0	1.0	0.0	1.0
+negative regulation of translation	1.0	1.0	1.0	0.0	1.0

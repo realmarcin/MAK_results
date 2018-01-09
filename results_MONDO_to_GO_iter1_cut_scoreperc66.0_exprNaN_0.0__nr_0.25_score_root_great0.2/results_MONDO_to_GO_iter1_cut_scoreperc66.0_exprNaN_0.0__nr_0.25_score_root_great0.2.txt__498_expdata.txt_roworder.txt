@@ -1,0 +1,4 @@
+"x"
+"1" "congenital.disorder.of.glycosylation.type.1E"
+"2" "DPM3.CDG"
+"3" "congenital.muscular.dystrophy.with.intellectual.disability.and.severe.epilepsy"

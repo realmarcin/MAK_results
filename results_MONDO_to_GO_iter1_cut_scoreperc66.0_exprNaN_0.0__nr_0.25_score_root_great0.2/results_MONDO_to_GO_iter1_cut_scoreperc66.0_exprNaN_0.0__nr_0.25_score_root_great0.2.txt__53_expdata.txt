@@ -1,0 +1,6 @@
+	Diamond-Blackfan anemia 1	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	susceptibility to HIV infection	"hepatitis c virus, susceptibility to"	tuberous sclerosis 2
+defense response to Gram-negative bacterium	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of osteoclast differentiation	0.0	1.0	1.0	1.0	1.0	1.0
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	0.0	1.0	1.0	1.0	1.0	1.0
+cellular response to interleukin-18	0.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of growth of symbiont involved in interaction with host	0.0	1.0	1.0	1.0	1.0	1.0

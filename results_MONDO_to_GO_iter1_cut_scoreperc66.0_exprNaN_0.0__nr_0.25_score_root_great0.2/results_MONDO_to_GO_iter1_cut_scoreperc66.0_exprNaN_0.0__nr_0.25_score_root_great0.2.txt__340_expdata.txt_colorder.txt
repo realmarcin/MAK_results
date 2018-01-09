@@ -1,0 +1,7 @@
+"x"
+"1" "male gonad development"
+"2" "spermatogenesis"
+"3" "female gonad development"
+"4" "spermatid development"
+"5" "follicle-stimulating hormone receptor activity"
+"6" "sex determination"

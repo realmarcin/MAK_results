@@ -1,0 +1,11 @@
+	syndromic X-linked intellectual disability Hedera type	X-linked parkinsonism-spasticity syndrome	Okt4 Epitope deficiency	immunodeficiency 18
+cell body	1.0	1.0	0.0	1.0
+enzyme binding	1.0	1.0	1.0	0.0
+regulation of MAPK cascade	1.0	1.0	0.0	0.0
+head morphogenesis	1.0	1.0	0.0	0.0
+positive regulation of Wnt signaling pathway	1.0	1.0	0.0	0.0
+intrahepatic bile duct development	1.0	1.0	0.0	0.0
+eye pigmentation	1.0	1.0	0.0	0.0
+positive regulation of transforming growth factor beta1 production	1.0	1.0	0.0	0.0
+angiotensin maturation	1.0	1.0	0.0	0.0
+rostrocaudal neural tube patterning	1.0	1.0	0.0	0.0

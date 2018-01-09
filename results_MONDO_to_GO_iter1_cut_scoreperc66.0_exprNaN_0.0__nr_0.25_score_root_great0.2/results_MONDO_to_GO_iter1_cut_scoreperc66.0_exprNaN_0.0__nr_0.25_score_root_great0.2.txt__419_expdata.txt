@@ -1,0 +1,10 @@
+	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	myofibrillar myopathy 2	cataract 16 multiple types	myofibrillar myopathy 7	hereditary sensory neuropathy-deafness-dementia syndrome	dilated cardiomyopathy 1II
+postsynaptic membrane	0.0	0.0	0.0	0.0	0.0	0.0
+protein binding	1.0	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+neuron projection	0.0	0.0	0.0	0.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0	1.0	1.0
+neuronal cell body	1.0	0.0	0.0	0.0	1.0	0.0
+dendrite	0.0	0.0	0.0	0.0	0.0	0.0
+lens development in camera-type eye	1.0	1.0	1.0	1.0	1.0	1.0

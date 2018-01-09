@@ -1,0 +1,8 @@
+	Uncombable hair syndrome	acromelic frontonasal dysostosis	left ventricular noncompaction 1	"cerebellar ataxia, mental retardation, and Dysequilibrium syndrome 3"	Hyperbiliverdinemia	"congenital heart defects, multiple types, 2"	Preimplantation embryonic lethality 2; PREMBL2
+cytoplasm	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+hydrolase activity	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+calcium ion binding	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+vasculature development	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+protein citrullination	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+protein-arginine deiminase activity	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+histone citrullination	1.0	0.0	0.0	0.0	0.0	0.0	1.0

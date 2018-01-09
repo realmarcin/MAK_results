@@ -1,0 +1,6 @@
+"x"
+"1" "lipid metabolic process"
+"2" "oxidation-reduction process"
+"3" "oxidoreductase activity"
+"4" "3-oxo-5-alpha-steroid 4-dehydrogenase activity"
+"5" "cholestenone 5-alpha-reductase activity"

@@ -1,0 +1,13 @@
+	hereditary folate malabsorption	"mental retardation, X-linked 58"	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	autosomal recessive congenital ichthyosis 6	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly
+transport	1.0	0.0	0.0	0.0	0.0
+brush border membrane	1.0	0.0	0.0	0.0	0.0
+transporter activity	1.0	0.0	0.0	0.0	0.0
+hydrogen ion transmembrane transporter activity	1.0	0.0	0.0	0.0	0.0
+folic acid import across plasma membrane	1.0	0.0	0.0	0.0	0.0
+folic acid binding	1.0	0.0	0.0	0.0	0.0
+methotrexate transport	1.0	0.0	0.0	0.0	0.0
+methotrexate transmembrane transporter activity	1.0	0.0	0.0	0.0	0.0
+heme transport	1.0	0.0	0.0	0.0	0.0
+folic acid transmembrane transporter activity	1.0	0.0	0.0	0.0	0.0
+folic acid transport	1.0	0.0	0.0	0.0	0.0
+hydrogen ion transmembrane transport	1.0	0.0	0.0	0.0	0.0

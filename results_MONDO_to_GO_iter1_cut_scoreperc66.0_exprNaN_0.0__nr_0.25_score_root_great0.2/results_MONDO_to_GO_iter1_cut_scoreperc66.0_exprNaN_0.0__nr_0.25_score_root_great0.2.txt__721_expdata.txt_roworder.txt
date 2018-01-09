@@ -1,0 +1,7 @@
+"x"
+"1" "idiopathic.CD4.lymphocytopenia"
+"2" "autosomal.recessive.ataxia..Beauce.type"
+"3" "Emery.Dreifuss.muscular.dystrophy.4..autosomal.dominant"
+"4" "Emery.Dreifuss.muscular.dystrophy.5..autosomal.dominant"
+"5" "spermatogenic.failure.16..SPGF16"
+"6" "autosomal.recessive.nonsyndromic.deafness.76"

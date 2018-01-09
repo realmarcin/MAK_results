@@ -1,0 +1,11 @@
+	Noonan syndrome 1	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	juvenile myelomonocytic leukemia	hereditary sensory neuropathy-deafness-dementia syndrome
+protein complex	1.0	1.0	1.0	1.0
+regulation of apoptotic process	1.0	0.0	0.0	0.0
+membrane raft	0.0	0.0	1.0	0.0
+protein domain specific binding	1.0	1.0	1.0	1.0
+regulation of cell proliferation	0.0	1.0	1.0	1.0
+liver development	0.0	1.0	1.0	1.0
+regulation of gene expression	0.0	1.0	1.0	1.0
+positive regulation of apoptotic process	0.0	0.0	1.0	0.0
+Ras protein signal transduction	0.0	1.0	1.0	1.0
+intracellular signal transduction	1.0	0.0	0.0	0.0

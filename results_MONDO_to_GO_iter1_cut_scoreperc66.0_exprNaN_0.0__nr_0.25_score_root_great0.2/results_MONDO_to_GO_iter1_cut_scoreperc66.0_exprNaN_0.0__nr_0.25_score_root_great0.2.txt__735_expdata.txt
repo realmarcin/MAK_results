@@ -1,0 +1,10 @@
+	Smith-Magenis syndrome	radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome	craniofacial dysplasia-osteopenia syndrome	Hirschsprung disease-ganglioneuroblastoma syndrome	"microphthalmia, syndromic 11"
+"regulation of transcription, DNA-templated"	0.0	1.0	1.0	1.0	1.0
+DNA binding	0.0	1.0	1.0	1.0	1.0
+regulation of heart rate	0.0	0.0	1.0	0.0	0.0
+cell development	0.0	0.0	1.0	1.0	0.0
+visual perception	0.0	0.0	1.0	0.0	1.0
+embryonic skeletal joint development	0.0	0.0	1.0	0.0	0.0
+retinal bipolar neuron differentiation	0.0	0.0	1.0	0.0	0.0
+neuron maturation	0.0	0.0	1.0	0.0	0.0
+regulation of chondrocyte differentiation	0.0	1.0	1.0	0.0	0.0

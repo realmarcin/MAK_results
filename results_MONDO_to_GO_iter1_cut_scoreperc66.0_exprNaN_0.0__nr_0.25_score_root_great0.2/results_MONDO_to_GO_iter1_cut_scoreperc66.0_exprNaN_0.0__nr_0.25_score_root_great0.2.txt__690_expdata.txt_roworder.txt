@@ -1,0 +1,6 @@
+"x"
+"1" "trimethylaminuria..disease."
+"2" "Buschke.Ollendorff.syndrome"
+"3" "cataract.46.juvenile.onset"
+"4" "MEND.syndrome"
+"5" "X.linked.chondrodysplasia.punctata"

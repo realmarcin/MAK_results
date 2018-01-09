@@ -1,0 +1,6 @@
+	arteriovenous malformations of the brain	"Kaposi sarcoma, susceptibility to"	pulmonary capillary hemangiomatosis	inflammatory bowel disease 1	juvenile rheumatoid arthritis	FADD-related immunodeficiency
+negative regulation of mature B cell apoptotic process	0.0	0.0	0.0	0.0	1.0	0.0
+cytoplasmic vesicle lumen	0.0	0.0	0.0	0.0	0.0	0.0
+interleukin-6 receptor binding	1.0	1.0	0.0	1.0	1.0	0.0
+positive regulation of adaptive immune response	0.0	0.0	1.0	0.0	1.0	1.0
+negative regulation of myeloid cell apoptotic process	0.0	0.0	0.0	0.0	1.0	0.0

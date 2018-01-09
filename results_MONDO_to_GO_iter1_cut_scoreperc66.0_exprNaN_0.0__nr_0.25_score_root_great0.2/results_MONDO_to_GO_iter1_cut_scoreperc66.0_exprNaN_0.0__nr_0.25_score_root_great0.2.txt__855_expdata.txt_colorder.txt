@@ -1,0 +1,8 @@
+"x"
+"1" "Z disc"
+"2" "structural molecule activity conferring elasticity"
+"3" "muscle contraction"
+"4" "regulation of heart rate"
+"5" "actin binding"
+"6" "myofibril assembly"
+"7" "cardiac muscle fiber development"

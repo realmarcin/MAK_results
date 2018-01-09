@@ -1,0 +1,7 @@
+	"migraine with or without aura, susceptibility to, 1"	congenital central hypoventilation syndrome	"asthma, susceptibility to"	"malaria, susceptibility to"	"Question mark ears, isolated"	"Hirschsprung disease, susceptibility to, 4"	Auriculocondylar syndrome 3
+positive regulation of MAP kinase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of reactive oxygen species metabolic process	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+positive regulation of smooth muscle cell proliferation	1.0	0.0	1.0	1.0	1.0	0.0	1.0
+positive regulation of fibroblast proliferation	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of mitotic nuclear division	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+response to wounding	0.0	1.0	0.0	1.0	0.0	0.0	0.0

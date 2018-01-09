@@ -1,0 +1,7 @@
+"x"
+"1" "ganglioside GT1b binding"
+"2" "ganglioside GM1 transport to membrane"
+"3" "ganglioside GP1c binding"
+"4" "ganglioside GM2 binding"
+"5" "ganglioside GM1 binding"
+"6" "ganglioside GM3 binding"

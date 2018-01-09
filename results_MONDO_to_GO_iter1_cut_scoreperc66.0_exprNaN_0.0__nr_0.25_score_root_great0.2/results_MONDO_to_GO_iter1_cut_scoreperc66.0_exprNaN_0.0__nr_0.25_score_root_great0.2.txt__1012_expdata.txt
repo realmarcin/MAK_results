@@ -1,0 +1,12 @@
+	retinitis pigmentosa 35	cone-rod dystrophy 10	isolated growth hormone deficiency type ib	lethal congenital contracture syndrome 9
+mitochondrion organization	0.0	0.0	0.0	1.0
+myelination	0.0	0.0	0.0	1.0
+heart trabecula formation	0.0	0.0	0.0	1.0
+myelination in peripheral nervous system	0.0	0.0	0.0	1.0
+myelination of posterior lateral line nerve axons	0.0	0.0	0.0	1.0
+Schwann cell differentiation	0.0	0.0	0.0	1.0
+ear development	0.0	0.0	0.0	1.0
+peripheral nervous system myelin formation	0.0	0.0	0.0	1.0
+laminin binding	0.0	0.0	0.0	1.0
+regulation of sprouting angiogenesis	0.0	0.0	0.0	1.0
+semicircular canal fusion	0.0	0.0	0.0	1.0

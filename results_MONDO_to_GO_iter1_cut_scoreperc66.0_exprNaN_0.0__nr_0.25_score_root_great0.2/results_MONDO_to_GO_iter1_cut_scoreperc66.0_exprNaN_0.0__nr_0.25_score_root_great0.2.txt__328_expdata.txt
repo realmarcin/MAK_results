@@ -1,0 +1,11 @@
+	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	"hepatitis c virus, susceptibility to"	tuberous sclerosis 2
+plasma membrane	1.0	1.0	1.0	0.0
+integral component of membrane	1.0	1.0	1.0	0.0
+membrane	1.0	1.0	1.0	0.0
+regulation of cell cycle	0.0	0.0	1.0	1.0
+hydrolase activity	1.0	0.0	1.0	0.0
+positive regulation of B cell proliferation	1.0	0.0	1.0	0.0
+endosome	1.0	1.0	1.0	0.0
+innate immune response	1.0	0.0	1.0	0.0
+bone marrow development	0.0	1.0	1.0	0.0
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	1.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	Buschke-Ollendorff syndrome	cataract 46 juvenile-onset	CK syndrome	MEND syndrome	X-linked chondrodysplasia punctata	child syndrome
+hair follicle development	0.0	0.0	1.0	0.0	0.0	1.0
+response to yeast	0.0	0.0	1.0	0.0	0.0	1.0
+cholesterol biosynthetic process	0.0	0.0	1.0	1.0	1.0	1.0
+labyrinthine layer blood vessel development	0.0	0.0	1.0	0.0	0.0	1.0
+C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity	0.0	0.0	1.0	0.0	0.0	1.0
+sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity	0.0	0.0	1.0	0.0	0.0	1.0

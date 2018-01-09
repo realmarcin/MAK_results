@@ -1,0 +1,7 @@
+"x"
+"1" "transcription coactivator activity"
+"2" "protein dimerization activity"
+"3" "transcription corepressor activity"
+"4" "histone deacetylase binding"
+"5" "SMAD binding"
+"6" "spindle"

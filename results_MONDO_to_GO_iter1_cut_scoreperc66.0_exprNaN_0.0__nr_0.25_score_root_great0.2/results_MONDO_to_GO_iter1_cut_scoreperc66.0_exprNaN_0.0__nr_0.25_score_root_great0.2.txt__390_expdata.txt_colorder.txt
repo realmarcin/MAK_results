@@ -1,0 +1,6 @@
+"x"
+"1" "biological_process"
+"2" "GTPase activator activity"
+"3" "midbody"
+"4" "cell-cell contact zone"
+"5" "guanyl-nucleotide exchange factor activity"

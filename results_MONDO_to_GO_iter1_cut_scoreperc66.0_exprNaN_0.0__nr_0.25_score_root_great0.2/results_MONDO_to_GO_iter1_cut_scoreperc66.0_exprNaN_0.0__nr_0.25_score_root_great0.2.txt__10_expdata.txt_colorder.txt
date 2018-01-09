@@ -1,0 +1,7 @@
+"x"
+"1" "G-protein coupled receptor activity"
+"2" "integral component of membrane"
+"3" "membrane"
+"4" "commissural neuron axon guidance"
+"5" "positive regulation of peptidyl-tyrosine phosphorylation"
+"6" "metal ion binding"

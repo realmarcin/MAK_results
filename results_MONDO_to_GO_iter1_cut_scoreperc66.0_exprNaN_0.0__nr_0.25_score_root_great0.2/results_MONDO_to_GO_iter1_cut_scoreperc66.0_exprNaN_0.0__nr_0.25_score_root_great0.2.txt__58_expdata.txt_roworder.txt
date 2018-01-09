@@ -1,0 +1,5 @@
+"x"
+"1" "retinitis.pigmentosa.14"
+"2" "Leber.congenital.amaurosis.15"
+"3" "retinal.dystrophy.and.obesity"
+"4" "retinitis.pigmentosa.54"

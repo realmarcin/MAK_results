@@ -1,0 +1,5 @@
+"x"
+"1" "Hsp70 protein binding"
+"2" "chaperone binding"
+"3" "regulation of enamel mineralization"
+"4" "diphosphomevalonate decarboxylase activity"

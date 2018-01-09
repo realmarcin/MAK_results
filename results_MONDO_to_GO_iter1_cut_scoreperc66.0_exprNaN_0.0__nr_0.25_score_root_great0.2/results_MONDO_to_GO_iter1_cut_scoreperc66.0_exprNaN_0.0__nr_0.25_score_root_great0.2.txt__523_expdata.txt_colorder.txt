@@ -1,0 +1,6 @@
+"x"
+"1" "epoxygenase P450 pathway"
+"2" "testosterone 16-alpha-hydroxylase activity"
+"3" "arachidonic acid epoxygenase activity"
+"4" "caffeine oxidase activity"
+"5" "vitamin-K-epoxide reductase (warfarin-sensitive) activity"

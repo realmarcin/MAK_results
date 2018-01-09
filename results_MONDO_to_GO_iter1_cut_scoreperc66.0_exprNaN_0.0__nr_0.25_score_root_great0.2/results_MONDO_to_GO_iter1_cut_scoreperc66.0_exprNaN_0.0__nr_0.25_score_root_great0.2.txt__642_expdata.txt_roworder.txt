@@ -1,0 +1,7 @@
+"x"
+"1" "dilated.cardiomyopathy.1W"
+"2" "hypertrophic.cardiomyopathy.15"
+"3" "adult.onset.autosomal.dominant.demyelinating.leukodystrophy"
+"4" "partial.acquired.lipodystrophy"
+"5" "progressive.myoclonic.epilepsy.type.9"
+"6" "mental.retardation..X.linked.46"

@@ -1,0 +1,7 @@
+"x"
+"1" "signal transduction"
+"2" "integral component of membrane"
+"3" "membrane"
+"4" "inflammatory response"
+"5" "regulation of transcription, DNA-templated"
+"6" "extrinsic apoptotic signaling pathway in absence of ligand"

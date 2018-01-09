@@ -1,0 +1,6 @@
+"x"
+"1" "ADan.amyloidosis"
+"2" "ABri.amyloidosis"
+"3" "retinal.dystrophy.with.inner.retinal.dysfunction.and.ganglion.cell.anomalies"
+"4" "AD9"
+"5" "polymicrogyria..perisylvian..with.cerebellar.hypoplasia.and.arthrogryposis"

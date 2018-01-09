@@ -1,0 +1,7 @@
+	"mycobacterium tuberculosis, susceptibility to"	inflammatory bowel disease 10	"ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant"	inflammatory bowel disease 19	GEFSP6
+autophagy of host cells involved in interaction with symbiont	1.0	0.0	0.0	1.0	1.0
+symbiont-containing vacuole	1.0	0.0	0.0	1.0	1.0
+positive regulation of interferon-gamma-mediated signaling pathway	1.0	0.0	0.0	1.0	1.0
+CAMKK-AMPK signaling cascade	1.0	0.0	0.0	1.0	1.0
+BH3 domain binding	1.0	0.0	0.0	1.0	1.0
+nucleotide-binding oligomerization domain containing 2 signaling pathway	1.0	0.0	1.0	1.0	1.0

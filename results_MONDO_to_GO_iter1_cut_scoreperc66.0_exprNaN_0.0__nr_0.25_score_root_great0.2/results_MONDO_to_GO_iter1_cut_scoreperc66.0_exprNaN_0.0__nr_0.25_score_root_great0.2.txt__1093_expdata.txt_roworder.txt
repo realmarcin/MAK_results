@@ -1,0 +1,6 @@
+"x"
+"1" "thyroid.cancer..nonmedullary..1"
+"2" "acrodysostosis.1.with.or.without.hormone.resistance"
+"3" "Carney.complex..type.1"
+"4" "familial.atrial.myxoma"
+"5" "pigmented.nodular.adrenocortical.disease..primary..1"

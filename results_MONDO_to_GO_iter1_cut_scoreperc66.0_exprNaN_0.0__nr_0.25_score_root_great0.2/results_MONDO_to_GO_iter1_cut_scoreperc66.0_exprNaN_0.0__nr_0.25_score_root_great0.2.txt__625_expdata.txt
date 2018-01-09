@@ -1,0 +1,7 @@
+	Carboxypeptidase N deficiency	familial temporal lobe epilepsy 5	familial mesial temporal lobe epilepsy with febrile seizures	"corneal dystrophy, Fuchs endothelial, 8"	retinitis pigmentosa 75
+carboxypeptidase activity	1.0	1.0	1.0	1.0	1.0
+metallocarboxypeptidase activity	1.0	1.0	1.0	1.0	1.0
+protein side chain deglutamylation	0.0	0.0	0.0	1.0	0.0
+C-terminal protein deglutamylation	0.0	0.0	0.0	1.0	0.0
+protein branching point deglutamylation	0.0	0.0	0.0	0.0	1.0
+protein deglutamylation	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+	abetalipoproteinemia	"Niemann-Pick disease, type C1"	"hypercholesterolemia, autosomal dominant, 3"	apolipoprotein A-I deficiency	metabolic syndrome X	hyperlipidemia due to hepatic triglyceride lipase deficiency
+sprouting angiogenesis	1.0	0.0	0.0	1.0	1.0	0.0
+rough endoplasmic reticulum	1.0	0.0	1.0	0.0	1.0	0.0
+vesicle	1.0	1.0	0.0	0.0	1.0	0.0
+cholesterol metabolic process	1.0	1.0	1.0	1.0	1.0	1.0
+cholesterol homeostasis	1.0	1.0	1.0	1.0	1.0	1.0
+lipoprotein metabolic process	1.0	0.0	1.0	1.0	1.0	0.0
+apolipoprotein binding	1.0	0.0	1.0	0.0	1.0	1.0

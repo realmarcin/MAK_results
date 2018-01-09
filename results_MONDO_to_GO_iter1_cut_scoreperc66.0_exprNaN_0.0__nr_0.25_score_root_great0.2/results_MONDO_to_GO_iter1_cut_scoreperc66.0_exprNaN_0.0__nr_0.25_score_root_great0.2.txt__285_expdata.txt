@@ -1,0 +1,9 @@
+	PAND1	glycine N-methyltransferase deficiency	guanidinoacetate methyltransferase deficiency	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	"microcephaly, short stature, and impaired glucose metabolism"
+identical protein binding	0.0	1.0	0.0	1.0	0.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	0.0	1.0
+cytosol	1.0	1.0	0.0	1.0	1.0
+methyltransferase activity	1.0	1.0	1.0	0.0	1.0
+methylation	1.0	1.0	1.0	0.0	1.0
+one-carbon metabolic process	0.0	1.0	0.0	1.0	0.0
+methionine metabolic process	0.0	1.0	0.0	1.0	0.0

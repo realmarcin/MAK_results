@@ -1,0 +1,7 @@
+"x"
+"1" "integral component of membrane"
+"2" "signal transduction"
+"3" "endoplasmic reticulum"
+"4" "trans-Golgi network"
+"5" "cellular response to leukemia inhibitory factor"
+"6" "protein kinase A binding"

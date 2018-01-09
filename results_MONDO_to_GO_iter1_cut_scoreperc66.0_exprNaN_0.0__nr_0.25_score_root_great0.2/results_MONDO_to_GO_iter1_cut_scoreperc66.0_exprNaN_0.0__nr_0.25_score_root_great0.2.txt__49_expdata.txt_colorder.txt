@@ -1,0 +1,7 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "inflammatory response"
+"4" "integrin-mediated signaling pathway"
+"5" "plasma membrane"
+"6" "positive regulation of gene expression"

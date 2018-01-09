@@ -1,0 +1,11 @@
+	hereditary neutrophilia	"amyloidosis, primary localized cutaneous, 2"	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency	autosomal recessive severe congenital neutropenia due to CSF3R deficiency
+cell junction	0.0	1.0	0.0	0.0
+positive regulation of cell proliferation	0.0	1.0	0.0	0.0
+immune system process	0.0	1.0	0.0	0.0
+positive regulation of hematopoietic progenitor cell differentiation	1.0	1.0	0.0	1.0
+acute inflammatory response to antigenic stimulus	0.0	1.0	0.0	0.0
+regulation of myeloid cell differentiation	1.0	0.0	0.0	1.0
+granulocyte colony-stimulating factor binding	1.0	0.0	0.0	1.0
+T-helper 2 cell cytokine production	0.0	1.0	0.0	0.0
+glandular epithelial cell differentiation	0.0	1.0	0.0	0.0
+defense response to other organism	0.0	1.0	0.0	0.0

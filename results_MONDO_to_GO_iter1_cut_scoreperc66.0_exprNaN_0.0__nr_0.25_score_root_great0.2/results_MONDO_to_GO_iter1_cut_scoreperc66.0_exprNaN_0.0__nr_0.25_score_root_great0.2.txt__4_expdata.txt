@@ -1,0 +1,7 @@
+	psoriatic arthritis	"mycobacterium tuberculosis, susceptibility to"	idiopathic aplastic anemia	susceptibility to HIV infection	"hepatitis c virus, susceptibility to"	tuberous sclerosis 2
+negative regulation of fibroblast proliferation	1.0	1.0	1.0	1.0	1.0	1.0
+adaptive immune response	0.0	1.0	1.0	1.0	1.0	1.0
+defense response to virus	1.0	1.0	1.0	1.0	1.0	1.0
+response to virus	1.0	1.0	1.0	1.0	1.0	1.0
+humoral immune response	1.0	1.0	1.0	1.0	1.0	1.0
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	0.0	1.0	1.0	1.0	1.0	1.0

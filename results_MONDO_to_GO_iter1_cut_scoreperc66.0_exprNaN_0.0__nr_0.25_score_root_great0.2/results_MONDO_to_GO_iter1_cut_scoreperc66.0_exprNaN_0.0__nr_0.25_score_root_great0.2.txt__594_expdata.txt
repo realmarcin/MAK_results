@@ -1,0 +1,6 @@
+	lactose intolerance (disease)	Meier-Gorlin syndrome 1	X-linked reticulate pigmentary disorder	N syndrome	primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	Meier-Gorlin syndrome 2	Meier-Gorlin syndrome 3	autosomal dominant nonsyndromic deafness 70	Meier-Gorlin syndrome 7; MGORS7
+response to yeast	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+DNA replication initiation	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA replication	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+nucleosomal histone binding	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+nucleosome binding	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

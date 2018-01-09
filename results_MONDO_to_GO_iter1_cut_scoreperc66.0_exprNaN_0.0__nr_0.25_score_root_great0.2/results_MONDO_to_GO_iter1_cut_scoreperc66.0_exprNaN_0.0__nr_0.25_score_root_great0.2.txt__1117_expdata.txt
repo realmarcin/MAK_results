@@ -1,0 +1,12 @@
+	congenital lactase deficiency	PLIN1-related familial partial lipodystrophy	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Adams-Oliver syndrome 4	polyglucosan body myopathy 1 with or without immunodeficiency
+response to ethanol	1.0	0.0	0.0	0.0	0.0
+response to hypoxia	1.0	0.0	0.0	0.0	0.0
+response to nutrient	1.0	0.0	0.0	0.0	0.0
+response to drug	1.0	0.0	0.0	0.0	0.0
+response to organic substance	1.0	0.0	0.0	0.0	0.0
+brush border	1.0	0.0	0.0	0.0	0.0
+response to lead ion	1.0	0.0	0.0	0.0	0.0
+response to iron(II) ion	1.0	0.0	0.0	0.0	0.0
+response to nickel cation	1.0	0.0	0.0	0.0	0.0
+glycosyl compound metabolic process	1.0	0.0	0.0	0.0	0.0
+lactase activity	1.0	0.0	0.0	0.0	0.0

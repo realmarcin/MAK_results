@@ -1,0 +1,6 @@
+"x"
+"1" "oculocutaneous.albinism.type.2"
+"2" "melanoma..cutaneous.malignant..susceptibility.to..5"
+"3" "familial.glucocorticoid.deficiency"
+"4" "congenital.stationary.night.blindness.1B"
+"5" "nonsyndromic.congenital.nail.disorder.10"

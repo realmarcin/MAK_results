@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of very-low-density lipoprotein particle clearance"
+"2" "spherical high-density lipoprotein particle"
+"3" "lipase inhibitor activity"
+"4" "arylesterase activity"
+"5" "positive regulation of transporter activity"
+"6" "positive regulation of binding"

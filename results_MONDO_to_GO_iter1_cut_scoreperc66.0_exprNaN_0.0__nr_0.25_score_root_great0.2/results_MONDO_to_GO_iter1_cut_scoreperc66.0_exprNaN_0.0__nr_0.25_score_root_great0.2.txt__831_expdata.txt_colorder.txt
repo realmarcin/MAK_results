@@ -1,0 +1,8 @@
+"x"
+"1" "defense response to bacterium"
+"2" "extracellular region"
+"3" "extracellular space"
+"4" "immune response"
+"5" "cytokine activity"
+"6" "negative regulation of smooth muscle cell proliferation"
+"7" "defense response to Gram-negative bacterium"

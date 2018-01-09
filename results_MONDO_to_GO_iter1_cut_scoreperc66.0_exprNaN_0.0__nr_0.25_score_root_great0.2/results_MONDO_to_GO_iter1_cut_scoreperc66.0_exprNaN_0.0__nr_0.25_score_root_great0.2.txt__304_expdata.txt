@@ -1,0 +1,7 @@
+	glucocorticoid-remediable aldosteronism	congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	Corticosterone methyloxidase type 1 deficiency	apparent mineralocorticoid excess	Corticosterone methyloxidase type 2 deficiency	"epilepsy, childhood absence, susceptibility to, 6"	congenital adrenal insufficiency	"hyperaldosteronism, familial, type IV; HALD4"
+C21-steroid hormone biosynthetic process	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0
+cortisol biosynthetic process	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+aldosterone biosynthetic process	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+glucocorticoid biosynthetic process	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0
+cortisol metabolic process	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+regulation of blood volume by renal aldosterone	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0

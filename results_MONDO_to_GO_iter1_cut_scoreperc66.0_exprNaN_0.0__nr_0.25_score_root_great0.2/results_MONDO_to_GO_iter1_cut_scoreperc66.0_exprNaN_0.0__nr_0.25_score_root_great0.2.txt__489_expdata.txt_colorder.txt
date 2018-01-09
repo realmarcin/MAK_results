@@ -1,0 +1,8 @@
+"x"
+"1" "lipid metabolic process"
+"2" "cholesterol metabolic process"
+"3" "steroid metabolic process"
+"4" "cholesterol binding"
+"5" "plasma lipoprotein particle assembly"
+"6" "sterol biosynthetic process"
+"7" "cholesterol biosynthetic process"

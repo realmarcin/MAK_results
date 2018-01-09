@@ -1,0 +1,4 @@
+"x"
+"1" "nucleic acid phosphodiester bond hydrolysis"
+"2" "exonuclease activity"
+"3" "transcription from mitochondrial promoter"

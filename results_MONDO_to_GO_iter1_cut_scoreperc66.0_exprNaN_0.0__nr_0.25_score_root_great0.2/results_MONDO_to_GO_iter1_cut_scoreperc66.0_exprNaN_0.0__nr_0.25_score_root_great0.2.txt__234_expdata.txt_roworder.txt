@@ -1,0 +1,8 @@
+"x"
+"1" "Desmosterolosis"
+"2" "hypomyelinating.leukodystrophy.3"
+"3" "young.adult.onset.distal.hereditary.motor.neuropathy"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"
+"5" "mitochondrial.DNA.depletion.syndrome.3"
+"6" "portal.hypertension..Noncirrhotic..NCPH"
+"7" "adult.onset.multiple.mitochondrial.DNA.deletion.syndrome.due.to.DGUOK.deficiency"

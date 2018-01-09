@@ -1,0 +1,10 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	Tay-Sachs disease AB variant	diarrhea-vomiting due to trehalase deficiency	"autoimmune disease, susceptibility to, 6"
+hydrolase activity	1.0	1.0	1.0	1.0	1.0
+extracellular exosome	1.0	1.0	0.0	1.0	1.0
+animal organ morphogenesis	0.0	0.0	0.0	1.0	0.0
+brush border	0.0	0.0	0.0	1.0	0.0
+anchored component of membrane	0.0	0.0	0.0	1.0	0.0
+trehalose catabolic process	0.0	0.0	0.0	1.0	0.0
+cellular response to desiccation	0.0	0.0	0.0	1.0	0.0
+trehalose metabolic process	0.0	0.0	0.0	1.0	0.0
+"alpha,alpha-trehalase activity"	0.0	0.0	0.0	1.0	0.0

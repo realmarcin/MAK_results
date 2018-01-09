@@ -1,0 +1,6 @@
+"x"
+"1" "Meckel.syndrome..type.1"
+"2" "Bardet.Biedl.syndrome.13"
+"3" "Joubert.syndrome.28"
+"4" "Fraser.syndrome"
+"5" "vesicoureteral.reflux.3"

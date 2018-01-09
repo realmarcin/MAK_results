@@ -1,0 +1,5 @@
+	autoimmune lymphoproliferative syndrome type 1	"Parkinson disease 13, autosomal dominant, susceptibility to"	"3-methylglutaconic aciduria, type Viii; MGCA8"
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1.0	1.0	1.0
+negative regulation of mitophagy in response to mitochondrial depolarization	0.0	1.0	1.0
+positive regulation of mitochondrion organization	0.0	1.0	1.0
+serine-type endopeptidase complex	0.0	1.0	1.0

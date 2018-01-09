@@ -1,0 +1,7 @@
+"x"
+"1" "Kostmann.syndrome"
+"2" "glaucoma.1..open.angle..a"
+"3" "familial.cortical.myoclonus"
+"4" "Glomuvenous.malformation"
+"5" "schizophrenia.9"
+"6" "isolated.spina.bifida"

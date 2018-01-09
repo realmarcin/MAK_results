@@ -1,0 +1,11 @@
+	"mental retardation, X-linked 58"	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	autosomal recessive congenital ichthyosis 6	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly	catecholaminergic polymorphic ventricular tachycardia 5
+receptor binding	0.0	0.0	0.0	0.0	1.0
+sarcoplasmic reticulum	0.0	0.0	0.0	0.0	1.0
+muscle contraction	0.0	0.0	0.0	0.0	1.0
+ion channel binding	0.0	0.0	0.0	0.0	1.0
+regulation of cardiac muscle cell membrane potential	0.0	0.0	0.0	0.0	1.0
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	0.0	0.0	0.0	0.0	1.0
+junctional sarcoplasmic reticulum membrane	0.0	0.0	0.0	0.0	1.0
+calcium channel complex	0.0	0.0	0.0	0.0	1.0
+regulation of cell communication by electrical coupling	0.0	0.0	0.0	0.0	1.0
+positive regulation of ryanodine-sensitive calcium-release channel activity	0.0	0.0	0.0	0.0	1.0

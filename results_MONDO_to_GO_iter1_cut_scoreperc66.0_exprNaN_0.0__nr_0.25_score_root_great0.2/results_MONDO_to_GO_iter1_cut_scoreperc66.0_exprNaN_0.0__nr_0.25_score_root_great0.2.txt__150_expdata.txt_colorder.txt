@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "regulation of transcription, DNA-templated"
+"3" "transcription, DNA-templated"
+"4" "cellular response to DNA damage stimulus"
+"5" "DNA binding"
+"6" "DNA repair"
+"7" "innate immune response"

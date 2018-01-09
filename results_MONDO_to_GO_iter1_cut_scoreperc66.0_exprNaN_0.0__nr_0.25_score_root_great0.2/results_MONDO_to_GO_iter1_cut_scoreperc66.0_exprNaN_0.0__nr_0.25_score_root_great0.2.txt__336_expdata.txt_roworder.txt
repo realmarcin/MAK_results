@@ -1,0 +1,6 @@
+"x"
+"1" "mitochondrial.myopathy.and.sideroblastic.anemia"
+"2" "mental.retardation..autosomal.recessive.55..MRT55"
+"3" "dyskeratosis.congenita..X.linked"
+"4" "congenital.lactic.acidosis..Saguenay.Lac.saint.Jean.type"
+"5" "dyskeratosis.congenita..autosomal.recessive.1"

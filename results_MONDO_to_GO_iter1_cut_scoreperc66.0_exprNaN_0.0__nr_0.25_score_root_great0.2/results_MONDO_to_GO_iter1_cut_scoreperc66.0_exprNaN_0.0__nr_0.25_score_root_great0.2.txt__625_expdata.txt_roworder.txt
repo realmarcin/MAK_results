@@ -1,0 +1,6 @@
+"x"
+"1" "corneal.dystrophy..Fuchs.endothelial..8"
+"2" "retinitis.pigmentosa.75"
+"3" "Carboxypeptidase.N.deficiency"
+"4" "familial.temporal.lobe.epilepsy.5"
+"5" "familial.mesial.temporal.lobe.epilepsy.with.febrile.seizures"

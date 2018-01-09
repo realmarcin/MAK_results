@@ -1,0 +1,4 @@
+	ADan amyloidosis	ABri amyloidosis	AD9	retinal dystrophy with inner retinal dysfunction and ganglion cell anomalies	"polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
+Golgi-associated vesicle membrane	1.0	1.0	0.0	1.0	1.0
+negative regulation of amyloid precursor protein biosynthetic process	1.0	1.0	1.0	1.0	0.0
+integral component of organelle membrane	1.0	1.0	0.0	1.0	0.0

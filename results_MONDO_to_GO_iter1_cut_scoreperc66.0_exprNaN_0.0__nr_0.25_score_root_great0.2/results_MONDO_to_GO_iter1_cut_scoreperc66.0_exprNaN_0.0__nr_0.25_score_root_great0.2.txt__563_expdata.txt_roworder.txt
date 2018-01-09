@@ -1,0 +1,7 @@
+"x"
+"1" "hereditary.fructose.intolerance"
+"2" "glycogen.storage.disease.due.to.aldolase.A.deficiency"
+"3" "hyperekplexia.1"
+"4" "fructose.1.6.bisphosphatase.deficiency"
+"5" "elliptocytosis.1"
+"6" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.c"

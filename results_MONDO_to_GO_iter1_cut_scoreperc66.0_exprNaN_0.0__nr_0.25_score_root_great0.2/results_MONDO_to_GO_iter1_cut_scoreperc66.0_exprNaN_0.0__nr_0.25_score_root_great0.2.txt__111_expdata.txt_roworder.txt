@@ -1,0 +1,7 @@
+"x"
+"1" "epidermolysis.bullosa.simplex.Ogna.type"
+"2" "epidermolysis.bullosa.simplex.with.muscular.dystrophy"
+"3" "epidermolysis.bullosa.simplex.with.pyloric.atresia"
+"4" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2Q"
+"5" "epidermolysis.bullosa.simplex.with.nail.dystrophy"
+"6" "myofibrillar.myopathy.4"

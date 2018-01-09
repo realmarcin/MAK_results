@@ -1,0 +1,5 @@
+	lethal congenital contracture syndrome 2	"histiocytoma, Angiomatoid fibrous"	"obesity, Hyperphagia, and developmental delay"
+negative regulation of secretion	1.0	0.0	0.0
+positive regulation of cardiac muscle tissue development	1.0	1.0	0.0
+neuregulin receptor activity	1.0	0.0	0.0
+lateral line development	1.0	0.0	1.0

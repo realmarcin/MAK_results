@@ -1,0 +1,15 @@
+	CEDNIK syndrome	Warburg micro syndrome 4	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18
+spermatogenesis	0.0	1.0	0.0	0.0
+positive regulation of ER to Golgi vesicle-mediated transport	0.0	1.0	0.0	0.0
+nuclear membrane	0.0	1.0	0.0	0.0
+lens development in camera-type eye	0.0	1.0	0.0	0.0
+vesicle-mediated transport	0.0	1.0	0.0	0.0
+male gonad development	0.0	1.0	0.0	0.0
+seminiferous tubule development	0.0	1.0	0.0	0.0
+lens fiber cell morphogenesis	0.0	1.0	0.0	0.0
+Rab GTPase binding	0.0	1.0	0.0	0.0
+positive regulation by host of viral genome replication	0.0	1.0	0.0	0.0
+lipid particle organization	0.0	1.0	0.0	0.0
+acrosome assembly	0.0	1.0	0.0	0.0
+positive regulation by virus of viral protein levels in host cell	0.0	1.0	0.0	0.0
+virion assembly	0.0	1.0	0.0	0.0

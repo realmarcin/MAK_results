@@ -1,0 +1,8 @@
+"x"
+"1" "spastic.ataxia.3"
+"2" "hyperuricemia.pulmonary.hypertension.renal.failure.alkalosis.syndrome"
+"3" "diffuse.cerebral.and.cerebellar.atrophy.intractable.seizures.progressive.microcephaly.syndrome"
+"4" "combined.oxidative.phosphorylation.defect.type.20"
+"5" "combined.oxidative.phosphorylation.defect.type.21"
+"6" "combined.oxidative.phosphorylation.defect.type.25"
+"7" "combined.oxidative.phosphorylation.defect.type.27"

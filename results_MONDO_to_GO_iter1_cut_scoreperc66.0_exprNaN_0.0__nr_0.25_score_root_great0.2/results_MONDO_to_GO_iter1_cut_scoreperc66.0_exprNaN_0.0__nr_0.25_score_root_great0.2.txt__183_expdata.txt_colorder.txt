@@ -1,0 +1,5 @@
+"x"
+"1" "ubiquitin-like modifier activating enzyme activity"
+"2" "UFM1 activating enzyme activity"
+"3" "protein K69-linked ufmylation"
+"4" "protein ufmylation"

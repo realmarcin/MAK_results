@@ -1,0 +1,9 @@
+	"hydatidiform mole, recurrent, 1"	Lesch-Nyhan syndrome	hypoxanthine guanine phosphoribosyltransferase partial deficiency	familial cold autoinflammatory syndrome 2
+nucleotide binding	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0
+regulation of apoptotic process	1.0	0.0	0.0	1.0
+cytosol	1.0	1.0	1.0	0.0
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.0	0.0	0.0	0.0
+negative regulation of NF-kappaB transcription factor activity	1.0	0.0	0.0	1.0
+positive regulation of interleukin-1 beta secretion	1.0	0.0	0.0	0.0
+Pyrin domain binding	1.0	0.0	0.0	0.0

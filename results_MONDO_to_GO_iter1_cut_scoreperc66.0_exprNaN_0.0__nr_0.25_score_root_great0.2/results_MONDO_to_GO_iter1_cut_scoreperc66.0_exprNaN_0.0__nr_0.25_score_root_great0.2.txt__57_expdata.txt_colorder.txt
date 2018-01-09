@@ -1,0 +1,7 @@
+"x"
+"1" "L-glutamate transmembrane transporter activity"
+"2" "amino acid transport"
+"3" "L-glutamate transport"
+"4" "L-aspartate transmembrane transport"
+"5" "L-glutamate transmembrane transport"
+"6" "L-aspartate transmembrane transporter activity"

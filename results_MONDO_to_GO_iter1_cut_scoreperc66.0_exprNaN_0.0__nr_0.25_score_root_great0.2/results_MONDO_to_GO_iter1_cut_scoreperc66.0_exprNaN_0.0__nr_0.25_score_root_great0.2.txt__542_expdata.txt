@@ -1,0 +1,5 @@
+	familial visceral amyloidosis	"hypoproteinemia, Hypercatabolic"	MHC class i deficiency	"myocardial infarction, susceptibility to"
+positive regulation of T cell cytokine production	1.0	1.0	0.0	1.0
+lysozyme activity	1.0	0.0	0.0	0.0
+cell wall macromolecule catabolic process	1.0	0.0	0.0	0.0
+antigen processing and presentation of endogenous peptide antigen via MHC class I	1.0	1.0	1.0	0.0

@@ -1,0 +1,15 @@
+	atransferrinemia	agenesis of the corpus callosum with peripheral neuropathy	high myopia-sensorineural deafness syndrome	X-linked retinoschisis
+cochlea development	0.0	0.0	1.0	0.0
+sensory perception of sound	0.0	0.0	1.0	0.0
+inner ear morphogenesis	0.0	0.0	1.0	0.0
+adult locomotory behavior	0.0	0.0	1.0	0.0
+axonogenesis	0.0	0.0	1.0	0.0
+cell periphery	0.0	0.0	1.0	0.0
+startle response	0.0	0.0	1.0	0.0
+positive regulation of synapse assembly	0.0	0.0	1.0	0.0
+innervation	0.0	0.0	1.0	0.0
+auditory behavior	0.0	0.0	1.0	0.0
+auditory receptor cell morphogenesis	0.0	0.0	1.0	0.0
+vestibular reflex	0.0	0.0	1.0	0.0
+linear vestibuloocular reflex	0.0	0.0	1.0	0.0
+vestibulocochlear nerve development	0.0	0.0	1.0	0.0

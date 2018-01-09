@@ -1,0 +1,6 @@
+"x"
+"1" "endonuclease activity"
+"2" "rRNA catabolic process"
+"3" "DNA catabolic process"
+"4" "deoxyribonuclease activity"
+"5" "programmed cell death involved in cell development"

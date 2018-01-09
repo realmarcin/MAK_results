@@ -1,0 +1,8 @@
+"x"
+"1" "amino acid transmembrane export from vacuole"
+"2" "riboflavin transmembrane transporter activity"
+"3" "riboflavin transport"
+"4" "monocarboxylic acid transmembrane transporter activity"
+"5" "integral component of fungal-type vacuolar membrane"
+"6" "monocarboxylic acid transport"
+"7" "creatine transmembrane transport"

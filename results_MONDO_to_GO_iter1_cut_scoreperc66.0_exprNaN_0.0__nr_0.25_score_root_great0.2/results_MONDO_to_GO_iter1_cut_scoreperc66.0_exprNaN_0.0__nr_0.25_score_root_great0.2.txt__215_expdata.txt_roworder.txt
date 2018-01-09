@@ -1,0 +1,4 @@
+"x"
+"1" "Brugada.syndrome.4"
+"2" "epilepsy..idiopathic.generalized..susceptibility.to..9"
+"3" "episodic.ataxia.type.5"

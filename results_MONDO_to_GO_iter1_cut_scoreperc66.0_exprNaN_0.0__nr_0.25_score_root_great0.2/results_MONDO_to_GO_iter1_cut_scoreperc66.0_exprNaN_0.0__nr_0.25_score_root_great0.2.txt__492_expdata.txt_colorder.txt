@@ -1,0 +1,5 @@
+"x"
+"1" "regulation of proton transport"
+"2" "tyrosine transport"
+"3" "amino-acid betaine transport"
+"4" "L-tyrosine transmembrane transporter activity"

@@ -1,0 +1,5 @@
+"x"
+"1" "chondrodysplasia.with.joint.dislocations..gPAPP.type"
+"2" "mental.retardation..autosomal.recessive.59..MRT59"
+"3" "larsen.like.syndrome..B3GAT3.type"
+"4" "hypomyelinating.leukodystrophy.13"

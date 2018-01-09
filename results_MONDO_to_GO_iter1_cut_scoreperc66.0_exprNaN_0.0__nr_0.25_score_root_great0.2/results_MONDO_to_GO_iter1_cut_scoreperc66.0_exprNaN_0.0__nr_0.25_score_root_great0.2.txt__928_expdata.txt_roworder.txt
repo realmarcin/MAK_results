@@ -1,0 +1,6 @@
+"x"
+"1" "lamb.Shaffer.syndrome..LAMSHF"
+"2" "helicoid.peripapillary.chorioretinal.degeneration"
+"3" "hereditary.thrombocytopenia.with.normal.platelets.hematological.cancer.predisposition.syndrome"
+"4" "mental.retardation..autosomal.dominant.20"
+"5" "vesicoureteral.reflux.3"

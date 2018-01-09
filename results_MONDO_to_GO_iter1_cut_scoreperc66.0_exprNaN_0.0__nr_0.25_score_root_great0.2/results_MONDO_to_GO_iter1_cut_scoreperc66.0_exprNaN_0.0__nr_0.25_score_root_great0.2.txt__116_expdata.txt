@@ -1,0 +1,11 @@
+	congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	Antley-Bixler syndrome	autosomal recessive spinocerebellar ataxia 12	"epileptic encephalopathy, early infantile, 28"
+integral component of membrane	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0
+apoptotic process	0.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0
+biological_process	1.0	0.0	1.0	1.0
+oxidation-reduction process	1.0	1.0	1.0	1.0
+oxidoreductase activity	1.0	1.0	1.0	1.0
+cellular calcium ion homeostasis	0.0	0.0	1.0	1.0
+microvillus	0.0	0.0	1.0	1.0
+"oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor"	0.0	0.0	1.0	1.0

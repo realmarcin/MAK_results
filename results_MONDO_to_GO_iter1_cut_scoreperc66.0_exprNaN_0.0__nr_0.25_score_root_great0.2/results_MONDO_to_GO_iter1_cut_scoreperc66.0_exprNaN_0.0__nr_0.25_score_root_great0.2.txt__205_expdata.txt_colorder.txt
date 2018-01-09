@@ -1,0 +1,6 @@
+"x"
+"1" "protein exit from endoplasmic reticulum"
+"2" "regulation of endoplasmic reticulum unfolded protein response"
+"3" "ER-associated misfolded protein catabolic process"
+"4" "dolichyl-phosphate-mannose-protein mannosyltransferase activity"
+"5" "dolichyl-phosphate-mannose-protein mannosyltransferase Pmt4p homodimer complex"

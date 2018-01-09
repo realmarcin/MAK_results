@@ -1,0 +1,6 @@
+	"thyroid cancer, nonmedullary, 1"	situs inversus	autosomal recessive distal spinal muscular atrophy 2	cone-rod dystrophy 11	isolated microphthalmia 3	age related macular degeneration 6
+embryonic pattern specification	0.0	1.0	0.0	0.0	0.0	0.0
+hypothalamus development	1.0	1.0	1.0	1.0	1.0	1.0
+protein localization to centrosome	1.0	0.0	0.0	0.0	0.0	0.0
+neural retina development	0.0	0.0	0.0	0.0	1.0	0.0
+eye field cell fate commitment involved in camera-type eye formation	0.0	0.0	1.0	1.0	1.0	1.0

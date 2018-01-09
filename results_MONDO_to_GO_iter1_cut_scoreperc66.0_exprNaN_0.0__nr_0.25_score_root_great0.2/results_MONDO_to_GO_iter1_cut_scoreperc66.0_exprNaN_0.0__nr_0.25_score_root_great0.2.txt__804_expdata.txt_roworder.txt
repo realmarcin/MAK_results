@@ -1,0 +1,7 @@
+"x"
+"1" "osteogenesis.imperfecta.type.8"
+"2" "myopia..high..with.cataract.and.vitreoretinal.degeneration"
+"3" "osteogenesis.imperfecta.type.7"
+"4" "connective.tissue.disorder.due.to.lysyl.hydroxylase.3.deficiency"
+"5" "arthrogryposis..renal.dysfunction..and.cholestasis.2"
+"6" "autoimmune.lymphoproliferative.syndrome.type.3"

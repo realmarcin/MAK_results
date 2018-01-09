@@ -1,0 +1,7 @@
+"x"
+"1" "sulfur compound metabolic process"
+"2" "sulfotransferase activity"
+"3" "N-acetylglucosamine 6-O-sulfotransferase activity"
+"4" "dermatan sulfate proteoglycan biosynthetic process"
+"5" "galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity"
+"6" "protein phosphatase activator activity"

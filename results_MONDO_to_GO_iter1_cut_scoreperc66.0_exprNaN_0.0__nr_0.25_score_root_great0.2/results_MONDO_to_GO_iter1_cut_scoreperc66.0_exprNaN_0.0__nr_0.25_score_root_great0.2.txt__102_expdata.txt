@@ -1,0 +1,10 @@
+	cataract 42	cataract 10 multiple types	cataract 2 multiple types
+cytoplasm	0.0	1.0	1.0
+nucleus	0.0	1.0	1.0
+protein homodimerization activity	1.0	1.0	0.0
+molecular_function	1.0	1.0	1.0
+biological_process	1.0	1.0	1.0
+cellular_component	1.0	1.0	1.0
+camera-type eye development	0.0	1.0	1.0
+visual perception	0.0	1.0	1.0
+structural constituent of eye lens	1.0	1.0	1.0

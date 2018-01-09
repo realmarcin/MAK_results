@@ -1,0 +1,6 @@
+"x"
+"1" "biotin carboxylase activity"
+"2" "biotin binding"
+"3" "positive regulation of phospholipid biosynthetic process"
+"4" "viral RNA genome packaging"
+"5" "pyruvate carboxylase activity"

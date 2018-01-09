@@ -1,0 +1,7 @@
+	Saethre-Chotzen syndrome	brachydactyly type A2	campomelic dysplasia	craniosynostosis 1	Robinow-Sorauf syndrome	hemochromatosis type 1	atrial heart septal defect 4	"46,Xy sex reversal 10"
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"negative regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+endocardial cushion morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+epithelial to mesenchymal transition	0.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0
+cloaca development	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

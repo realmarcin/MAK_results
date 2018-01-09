@@ -1,0 +1,8 @@
+	Sanfilippo syndrome type A	mitochondrial DNA depletion syndrome 1	"hereditary motor and sensory neuropathy, Okinawa type"	sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	"telangiectasia, hereditary hemorrhagic, type 5"	hereditary spastic paraplegia 57
+protein binding	1.0	1.0	1.0	1.0	1.0	1.0
+protein complex	0.0	1.0	0.0	1.0	0.0	0.0
+cytosol	0.0	1.0	0.0	0.0	0.0	0.0
+hydrolase activity	0.0	0.0	0.0	1.0	0.0	0.0
+extracellular exosome	1.0	1.0	1.0	1.0	1.0	1.0
+metabolic process	1.0	1.0	0.0	0.0	0.0	0.0
+gamma DNA polymerase complex	0.0	1.0	0.0	1.0	0.0	0.0

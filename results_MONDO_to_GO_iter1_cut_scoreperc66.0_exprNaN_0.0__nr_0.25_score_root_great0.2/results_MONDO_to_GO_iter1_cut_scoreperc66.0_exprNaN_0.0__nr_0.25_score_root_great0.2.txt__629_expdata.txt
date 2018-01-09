@@ -1,0 +1,6 @@
+	"diabetes mellitus, Noninsulin-dependent"	PPARG-related familial partial lipodystrophy	Noonan syndrome-like disorder with loose anagen hair	"maple syrup urine disease, mild variant"	microcephaly-corpus callosum hypoplasia-intellectual disability-facial dysmorphism syndrome	"microcephaly, short stature, and impaired glucose metabolism 2; MSSGM2"
+protein phosphatase type 1 complex	1.0	1.0	1.0	0.0	0.0	1.0
+protein phosphatase regulator activity	1.0	1.0	1.0	0.0	1.0	1.0
+ER overload response	0.0	0.0	0.0	0.0	0.0	1.0
+peptidyl-serine dephosphorylation	0.0	0.0	0.0	1.0	1.0	1.0
+negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	0.0	0.0	0.0	0.0	0.0	1.0

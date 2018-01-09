@@ -1,0 +1,6 @@
+	Sneddon syndrome	pycnodysostosis	"neuropathy, hereditary motor and sensory, type 6A"	Charcot-Marie-tooth disease type 2A2	lethal neonatal spasticity-epileptic encephalopathy syndrome	vasculitis due to ADA2 deficiency	"Charcot-Marie-tooth disease, axonal, autosomal recessive, type 2a2b;"
+protein localization to phagophore assembly site	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+proteoglycan binding	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+axonal transport of mitochondrion	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+blastocyst formation	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+mitochondrion localization	0.0	0.0	1.0	1.0	1.0	0.0	1.0

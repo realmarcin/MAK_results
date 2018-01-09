@@ -1,0 +1,7 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "endoplasmic reticulum"
+"4" "transport"
+"5" "integral component of plasma membrane"
+"6" "molecular_function"

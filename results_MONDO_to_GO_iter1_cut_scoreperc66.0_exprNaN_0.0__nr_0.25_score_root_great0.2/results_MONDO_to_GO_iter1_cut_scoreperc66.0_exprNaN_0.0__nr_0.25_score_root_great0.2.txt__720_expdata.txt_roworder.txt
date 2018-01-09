@@ -1,0 +1,5 @@
+"x"
+"1" "nemaline.myopathy.7"
+"2" "Finnish.type.amyloidosis"
+"3" "diabetes.insipidus..nephrogenic..autosomal"
+"4" "autosomal.recessive.nonsyndromic.deafness.102"

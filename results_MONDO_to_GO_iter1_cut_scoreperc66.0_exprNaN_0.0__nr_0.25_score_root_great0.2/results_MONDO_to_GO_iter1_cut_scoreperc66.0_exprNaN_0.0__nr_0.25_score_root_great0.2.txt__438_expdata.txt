@@ -1,0 +1,6 @@
+	Bloom syndrome	Baller-Gerold syndrome	lactose intolerance (disease)	Schimke immuno-osseous dysplasia	rapadilino syndrome	Rothmund-Thomson syndrome	Werner syndrome	primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency
+DNA duplex unwinding	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+four-way junction helicase activity	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+ATP-dependent 3'-5' DNA helicase activity	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+telomeric D-loop binding	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+telomeric D-loop disassembly	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0

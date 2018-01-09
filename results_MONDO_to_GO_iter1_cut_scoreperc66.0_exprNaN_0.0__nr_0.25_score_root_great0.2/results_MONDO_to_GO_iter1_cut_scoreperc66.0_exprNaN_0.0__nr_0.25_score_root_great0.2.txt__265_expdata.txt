@@ -1,0 +1,7 @@
+	"Ehlers-Danlos syndrome, classic type"	Keutel syndrome	oculotrichoanal syndrome	BNAR syndrome	familial retinal arterial macroaneurysm	trigonocephaly 2
+proteinaceous extracellular matrix	1.0	0.0	1.0	1.0	0.0	1.0
+metal ion binding	1.0	0.0	1.0	1.0	0.0	1.0
+fin morphogenesis	1.0	0.0	1.0	1.0	0.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0	1.0
+fin development	1.0	0.0	1.0	1.0	0.0	1.0
+cell-matrix adhesion	0.0	0.0	1.0	1.0	0.0	1.0

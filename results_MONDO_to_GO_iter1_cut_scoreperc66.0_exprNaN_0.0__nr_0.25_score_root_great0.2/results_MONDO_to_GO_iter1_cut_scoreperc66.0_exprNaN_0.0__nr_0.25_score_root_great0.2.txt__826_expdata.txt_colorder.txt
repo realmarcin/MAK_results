@@ -1,0 +1,8 @@
+"x"
+"1" "DNA topological change"
+"2" "meiotic chromosome segregation"
+"3" "RecQ helicase-Topo III complex"
+"4" "negative regulation of mitotic recombination"
+"5" "telomeric 3' overhang formation"
+"6" "negative regulation of meiotic joint molecule formation"
+"7" "regulation of reciprocal meiotic recombination"

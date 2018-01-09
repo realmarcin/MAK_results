@@ -1,0 +1,8 @@
+	"larsen-like syndrome, B3GAT3 type"	"chondrodysplasia with joint dislocations, gPAPP type"	hypomyelinating leukodystrophy 13	"mental retardation, autosomal recessive 59; MRT59"
+chondroitin sulfate metabolic process	1.0	1.0	0.0	0.0
+inositol monophosphate 4-phosphatase activity	0.0	1.0	0.0	1.0
+inositol biosynthetic process	0.0	1.0	0.0	1.0
+inositol monophosphate 3-phosphatase activity	0.0	1.0	0.0	1.0
+inositol monophosphate phosphatase activity	0.0	1.0	0.0	1.0
+inositol monophosphate 1-phosphatase activity	0.0	1.0	0.0	1.0
+inositol metabolic process	0.0	0.0	1.0	1.0

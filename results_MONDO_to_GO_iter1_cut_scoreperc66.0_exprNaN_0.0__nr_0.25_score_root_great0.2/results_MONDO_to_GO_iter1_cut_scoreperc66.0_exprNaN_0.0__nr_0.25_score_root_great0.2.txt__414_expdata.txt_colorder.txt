@@ -1,0 +1,8 @@
+"x"
+"1" "inflammatory response"
+"2" "innate immune response"
+"3" "phosphatidylinositol 3-kinase complex, class IA"
+"4" "adaptive immune response"
+"5" "positive regulation of JNK cascade"
+"6" "immune system process"
+"7" "positive regulation of cytokine secretion"

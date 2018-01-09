@@ -1,0 +1,6 @@
+	"congenital lactic acidosis, Saguenay-Lac-saint-Jean type"	"dyskeratosis congenita, autosomal recessive 1"	"dyskeratosis congenita, X-linked"	mitochondrial myopathy and sideroblastic anemia	"mental retardation, autosomal recessive 55; MRT55"
+RNA modification	1.0	0.0	1.0	1.0	1.0
+pseudouridine synthesis	0.0	1.0	1.0	1.0	1.0
+mRNA pseudouridine synthesis	0.0	0.0	1.0	1.0	1.0
+pseudouridine synthase activity	0.0	0.0	1.0	1.0	1.0
+tRNA pseudouridine synthesis	0.0	0.0	0.0	1.0	1.0

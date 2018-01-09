@@ -1,0 +1,6 @@
+	tibial muscular dystrophy	hereditary proximal myopathy with early respiratory failure	dilated cardiomyopathy 1G	autosomal recessive limb-girdle muscular dystrophy type 2J	early-onset myopathy with fatal cardiomyopathy	hypertrophic cardiomyopathy 13	hypertrophic cardiomyopathy 9
+sarcomere	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+myofibril	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+ventricular cardiac muscle tissue morphogenesis	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+striated muscle contraction	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+heart growth	1.0	1.0	1.0	1.0	1.0	0.0	1.0

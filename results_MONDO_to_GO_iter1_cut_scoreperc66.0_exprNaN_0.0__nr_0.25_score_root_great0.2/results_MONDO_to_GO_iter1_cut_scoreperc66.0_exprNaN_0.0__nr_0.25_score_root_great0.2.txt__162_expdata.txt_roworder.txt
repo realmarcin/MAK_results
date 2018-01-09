@@ -1,0 +1,7 @@
+"x"
+"1" "medulloblastoma"
+"2" "Wilms.tumor.type.1"
+"3" "Fanconi.anemia.complementation.group.D1"
+"4" "breast.ovarian.cancer..familial..susceptibility.to..2"
+"5" "glioma.susceptibility.3"
+"6" "pancreatic.cancer..susceptibility.to..2"

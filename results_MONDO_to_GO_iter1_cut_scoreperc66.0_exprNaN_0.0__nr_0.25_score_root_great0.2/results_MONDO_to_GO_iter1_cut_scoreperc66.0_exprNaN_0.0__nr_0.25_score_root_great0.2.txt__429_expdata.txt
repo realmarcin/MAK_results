@@ -1,0 +1,5 @@
+	GM1 gangliosidosis type 1	GM1 gangliosidosis type 2	GM1 gangliosidosis type 3	glycogen storage disease Ic	metachromatic leukodystrophy due to saposin b deficiency	mucopolysaccharidosis type 4B	atypical Gaucher's disease due to saposin c deficiency	encephalopathy due to prosaposin deficiency	"Krabbe disease, atypical, due to saposin a deficiency"
+galactose catabolic process	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+beta-galactosidase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+galactoside binding	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+cellular carbohydrate metabolic process	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0

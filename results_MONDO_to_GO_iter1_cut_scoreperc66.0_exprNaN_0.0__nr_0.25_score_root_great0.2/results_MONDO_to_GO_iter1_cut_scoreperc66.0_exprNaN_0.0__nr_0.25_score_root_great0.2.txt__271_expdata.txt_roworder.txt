@@ -1,0 +1,7 @@
+"x"
+"1" "mental.retardation..autosomal.dominant.38"
+"2" "epileptic.encephalopathy..early.infantile..33"
+"3" "spinocerebellar.ataxia.type.26"
+"4" "epileptic.encephalopathy..early.infantile..40..EIEE40"
+"5" "chromosome.Xq28.duplication.syndrome"
+"6" "combined.oxidative.phosphorylation.defect.type.23"

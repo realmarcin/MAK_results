@@ -1,0 +1,8 @@
+"x"
+"1" "plasma membrane"
+"2" "membrane"
+"3" "cytoplasm"
+"4" "chemical synaptic transmission"
+"5" "Golgi apparatus"
+"6" "ionotropic glutamate receptor binding"
+"7" "neuromuscular junction"

@@ -1,0 +1,7 @@
+	DYX2	"helicobacter pylori infection, susceptibility to"	DOCK2 deficiency	neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to a point mutation	Dias-Logan syndrome; DILOS
+regulation of dendrite development	0.0	0.0	0.0	0.0	1.0
+negative regulation of dendrite development	1.0	1.0	0.0	0.0	1.0
+negative regulation of branching morphogenesis of a nerve	0.0	0.0	0.0	1.0	1.0
+negative regulation of collateral sprouting	0.0	0.0	0.0	0.0	1.0
+negative regulation of neuron remodeling	0.0	0.0	0.0	0.0	1.0
+negative regulation of dendrite extension	0.0	0.0	0.0	0.0	1.0

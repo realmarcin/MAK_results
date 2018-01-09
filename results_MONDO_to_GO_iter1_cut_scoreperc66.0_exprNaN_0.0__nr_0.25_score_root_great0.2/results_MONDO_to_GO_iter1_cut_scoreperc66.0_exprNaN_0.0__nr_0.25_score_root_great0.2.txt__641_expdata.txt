@@ -1,0 +1,8 @@
+	adult hypophosphatasia	"fructose-1,6-bisphosphatase deficiency"	infantile hypophosphatasia	childhood hypophosphatasia	Lafora disease	autosomal recessive nonsyndromic deafness 84A
+protein tyrosine phosphatase activity	0.0	0.0	0.0	0.0	1.0	1.0
+protein dephosphorylation	0.0	0.0	0.0	0.0	1.0	1.0
+peptidyl-tyrosine dephosphorylation	0.0	0.0	0.0	0.0	0.0	0.0
+phosphoprotein phosphatase activity	0.0	0.0	0.0	0.0	0.0	0.0
+phosphatase activity	1.0	1.0	1.0	1.0	1.0	1.0
+dephosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+developmental process involved in reproduction	1.0	0.0	1.0	1.0	0.0	0.0

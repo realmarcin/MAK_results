@@ -1,0 +1,5 @@
+	CODAS syndrome	Perrault syndrome 3	NGLY1-deficiency	optic atrophy 11; OPA11
+protein quality control for misfolded or incompletely synthesized proteins	1.0	1.0	1.0	1.0
+ATP-dependent peptidase activity	1.0	0.0	0.0	1.0
+mitochondrial protein catabolic process	0.0	0.0	0.0	1.0
+i-AAA complex	0.0	0.0	0.0	1.0

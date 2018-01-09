@@ -1,0 +1,9 @@
+	"arthrogryposis, renal dysfunction, and cholestasis 1"	Hermansky-Pudlak syndrome 2	Hermansky-Pudlak syndrome 10; HPS10	"epileptic encephalopathy, early infantile, 48; EIEE48"	mucopolysaccharidosis-plus syndrome; MPSPS
+anterograde axonal transport	0.0	1.0	1.0	1.0	0.0
+antigen processing and presentation	0.0	1.0	1.0	0.0	0.0
+zinc II ion transport	0.0	1.0	1.0	0.0	0.0
+anterograde synaptic vesicle transport	0.0	1.0	1.0	1.0	0.0
+AP-3 adaptor complex	1.0	1.0	1.0	1.0	1.0
+"antigen processing and presentation, exogenous lipid antigen via MHC class Ib"	0.0	1.0	1.0	0.0	0.0
+positive regulation of NK T cell differentiation	0.0	1.0	1.0	0.0	0.0
+clathrin-coated vesicle membrane	0.0	1.0	1.0	1.0	0.0

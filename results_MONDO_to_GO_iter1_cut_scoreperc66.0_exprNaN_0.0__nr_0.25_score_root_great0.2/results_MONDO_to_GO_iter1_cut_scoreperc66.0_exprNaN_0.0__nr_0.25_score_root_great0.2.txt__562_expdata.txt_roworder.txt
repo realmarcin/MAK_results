@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.bile.acid.synthesis.defect.6"
+"2" "peroxisomal.acyl.CoA.oxidase.deficiency"
+"3" "X3.methylglutaconic.aciduria.type.1"
+"4" "mitochondrial.short.chain.Enoyl.Coa.hydratase.1.deficiency"

@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of inflammatory response"
+"2" "negative regulation of NF-kappaB transcription factor activity"
+"3" "negative regulation of tumor necrosis factor production"
+"4" "negative regulation of interleukin-1 beta production"
+"5" "positive regulation of MHC class I biosynthetic process"
+"6" "interleukin-2 binding"

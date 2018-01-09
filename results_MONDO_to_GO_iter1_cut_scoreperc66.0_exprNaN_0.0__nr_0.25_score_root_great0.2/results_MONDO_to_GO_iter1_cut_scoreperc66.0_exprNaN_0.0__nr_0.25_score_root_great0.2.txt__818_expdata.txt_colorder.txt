@@ -1,0 +1,7 @@
+"x"
+"1" "translation"
+"2" "ribosome binding"
+"3" "cytoplasmic stress granule"
+"4" "mRNA binding"
+"5" "cytoplasmic ribonucleoprotein granule"
+"6" "polysome"

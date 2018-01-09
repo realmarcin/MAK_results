@@ -1,0 +1,5 @@
+	Fraser syndrome	"Meckel syndrome, type 1"	vesicoureteral reflux 3	Bardet-Biedl syndrome 13	Joubert syndrome 28
+epithelial structure maintenance	1.0	1.0	0.0	1.0	1.0
+"regulation of Wnt signaling pathway, planar cell polarity pathway"	0.0	1.0	0.0	1.0	1.0
+common bile duct development	0.0	1.0	1.0	1.0	1.0
+regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	0.0	1.0	0.0	1.0	1.0

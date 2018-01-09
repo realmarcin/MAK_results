@@ -1,0 +1,5 @@
+"x"
+"1" "Kufor.Rakeb.syndrome"
+"2" "spastic.paraplegia.78..autosomal.recessive..SPG78"
+"3" "epidermodysplasia.verruciformis"
+"4" "Action.myoclonus.renal.failure.syndrome"

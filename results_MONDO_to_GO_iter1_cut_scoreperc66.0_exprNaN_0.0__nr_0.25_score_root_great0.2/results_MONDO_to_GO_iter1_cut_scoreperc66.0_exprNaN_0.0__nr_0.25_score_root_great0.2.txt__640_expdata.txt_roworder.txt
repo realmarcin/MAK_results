@@ -1,0 +1,6 @@
+"x"
+"1" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.1"
+"2" "mental.retardation..autosomal.recessive.34"
+"3" "Huntington.s.disease"
+"4" "primary.intraosseous.venous.malformation"
+"5" "microcephaly..short.stature..and.impaired.glucose.metabolism.2..MSSGM2"

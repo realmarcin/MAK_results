@@ -1,0 +1,7 @@
+"x"
+"1" "congenital.dyserythropoietic.anemia.type.II"
+"2" "Craniolenticulosutural.dysplasia"
+"3" "Cowden.syndrome.7"
+"4" "chylomicron.retention.disease"
+"5" "Cole.Carpenter.syndrome.2"
+"6" "progressive.myoclonic.epilepsy.type.6"

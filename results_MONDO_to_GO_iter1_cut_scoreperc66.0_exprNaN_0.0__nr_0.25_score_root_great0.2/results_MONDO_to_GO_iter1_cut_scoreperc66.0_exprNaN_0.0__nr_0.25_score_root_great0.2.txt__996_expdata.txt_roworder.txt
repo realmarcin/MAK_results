@@ -1,0 +1,5 @@
+"x"
+"1" "Dopa.responsive.dystonia.due.to.sepiapterin.reductase.deficiency"
+"2" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"
+"3" "cerebral.palsy..spastic.quadriplegic..1"
+"4" "aromatic.L.amino.acid.decarboxylase.deficiency"

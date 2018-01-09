@@ -1,0 +1,11 @@
+	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	spinal muscular atrophy with congenital bone fractures 1	"muscular dystrophy, congenital, Davignon-Chauveau type; MDCDC"	Uncombable hair syndrome 2; UHS2
+cytoplasm	1.0	1.0	1.0	1.0
+calcium ion binding	0.0	0.0	0.0	1.0
+catalytic activity	0.0	0.0	0.0	1.0
+protein tetramerization	0.0	0.0	0.0	1.0
+epidermis development	0.0	0.0	0.0	1.0
+skin development	0.0	0.0	0.0	1.0
+extrinsic component of cytoplasmic side of plasma membrane	0.0	0.0	0.0	1.0
+cornified envelope	0.0	0.0	0.0	1.0
+hair cell differentiation	0.0	0.0	0.0	1.0
+cell envelope organization	0.0	0.0	0.0	1.0

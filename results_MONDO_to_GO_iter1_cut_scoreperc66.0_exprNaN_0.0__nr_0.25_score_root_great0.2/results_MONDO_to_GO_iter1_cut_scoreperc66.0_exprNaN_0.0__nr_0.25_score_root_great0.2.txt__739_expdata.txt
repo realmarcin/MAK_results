@@ -1,0 +1,14 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	lethal congenital contracture syndrome 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	lethal arthrogryposis-anterior horn cell disease syndrome	autosomal dominant aplasia and myelodysplasia
+nucleolus	0.0	1.0	0.0	1.0	0.0
+Schwann cell proliferation	0.0	1.0	0.0	1.0	0.0
+phospholipid binding	0.0	1.0	0.0	1.0	0.0
+translation initiation factor binding	0.0	1.0	0.0	1.0	0.0
+positive regulation of catalytic activity	0.0	1.0	0.0	1.0	0.0
+mRNA processing	0.0	1.0	0.0	1.0	0.0
+epithelial cilium movement involved in determination of left/right asymmetry	0.0	1.0	0.0	1.0	0.0
+Schwann cell differentiation	0.0	1.0	0.0	1.0	0.0
+enzyme activator activity	0.0	1.0	0.0	1.0	0.0
+inositol hexakisphosphate binding	0.0	1.0	0.0	1.0	0.0
+regulation of translational initiation	0.0	1.0	0.0	1.0	0.0
+nuclear pore cytoplasmic filaments	0.0	1.0	0.0	1.0	0.0
+regulation of translational termination	0.0	1.0	0.0	1.0	0.0

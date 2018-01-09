@@ -1,0 +1,7 @@
+"x"
+"1" "hyperekplexia.1"
+"2" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.c"
+"3" "orofaciodigital.syndrome.V"
+"4" "Cenani.Lenz.syndactyly.syndrome"
+"5" "sclerosteosis.2"
+"6" "congenital.myasthenic.syndrome.17"

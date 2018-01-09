@@ -1,0 +1,4 @@
+"x"
+"1" "blepharophimosis..ptosis..and.epicanthus.inversus.syndrome"
+"2" "premature.ovarian.failure.3"
+"3" "hypogonadotropic.hypogonadism.13.with.or.without.anosmia"

@@ -1,0 +1,6 @@
+"x"
+"1" "ALG2.CDG"
+"2" "ALG11.CDG"
+"3" "congenital.myasthenic.syndrome.14"
+"4" "DK1.CDG"
+"5" "congenital.disorder.of.glycosylation..type.Iaa..CDG1AA"

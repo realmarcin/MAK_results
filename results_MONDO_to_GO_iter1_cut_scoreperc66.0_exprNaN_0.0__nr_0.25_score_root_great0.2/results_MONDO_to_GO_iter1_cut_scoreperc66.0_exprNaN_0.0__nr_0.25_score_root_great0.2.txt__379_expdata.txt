@@ -1,0 +1,10 @@
+	"pituitary hormone deficiency, combined, 2"	choroideremia	capillary malformation-arteriovenous malformation syndrome	Parkes Weber syndrome
+GTPase activator activity	0.0	1.0	1.0	1.0
+cytoplasm	0.0	1.0	1.0	1.0
+cytosol	0.0	1.0	1.0	1.0
+negative regulation of apoptotic process	1.0	1.0	1.0	1.0
+protein complex binding	0.0	1.0	1.0	1.0
+blood vessel morphogenesis	0.0	0.0	1.0	1.0
+blood vessel development	1.0	1.0	1.0	1.0
+artery morphogenesis	0.0	0.0	0.0	0.0
+regulation of atrial cardiac muscle cell action potential	0.0	0.0	0.0	0.0

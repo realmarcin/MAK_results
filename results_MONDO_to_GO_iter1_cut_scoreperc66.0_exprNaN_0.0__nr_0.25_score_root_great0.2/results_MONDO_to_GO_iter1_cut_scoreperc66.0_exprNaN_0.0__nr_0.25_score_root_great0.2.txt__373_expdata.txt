@@ -1,0 +1,8 @@
+	autosomal dominant medullary cystic kidney disease with or without hyperuricemia	autosomal recessive nonsyndromic deafness 42	autosomal recessive nonsyndromic deafness 49	cataract 19 multiple types	autosomal recessive limb-girdle muscular dystrophy type 2X	cataract 45
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	0.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+extracellular space	1.0	0.0	0.0	0.0	0.0	1.0
+lens development in camera-type eye	0.0	0.0	0.0	1.0	0.0	1.0
+hematopoietic progenitor cell differentiation	0.0	0.0	0.0	0.0	1.0	1.0
+tricellular tight junction	0.0	1.0	1.0	0.0	0.0	1.0

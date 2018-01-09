@@ -1,0 +1,8 @@
+	Kabuki syndrome 1	Bloom syndrome	xeroderma pigmentosum group C	chronic atrial and intestinal dysrhythmia
+DNA topological change	1.0	1.0	1.0	0.0
+RecQ helicase-Topo III complex	0.0	1.0	0.0	0.0
+negative regulation of mitotic recombination	0.0	1.0	0.0	0.0
+telomeric 3' overhang formation	0.0	1.0	0.0	0.0
+meiotic chromosome segregation	0.0	1.0	0.0	1.0
+negative regulation of meiotic joint molecule formation	0.0	1.0	0.0	0.0
+regulation of reciprocal meiotic recombination	0.0	1.0	0.0	0.0

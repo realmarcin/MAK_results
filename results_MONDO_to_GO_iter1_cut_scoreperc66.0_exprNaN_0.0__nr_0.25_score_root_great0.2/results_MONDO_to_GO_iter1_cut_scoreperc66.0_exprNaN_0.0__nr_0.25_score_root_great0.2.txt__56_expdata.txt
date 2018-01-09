@@ -1,0 +1,6 @@
+	campomelic dysplasia	obsessive-compulsive disorder	congenital central hypoventilation syndrome	"bulimia nervosa, susceptibility to, 1"	"bulimia nervosa, susceptibility to, 2"	"46,Xy sex reversal 10"
+inner ear development	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of apoptotic process	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of neuron differentiation	0.0	1.0	1.0	1.0	1.0	0.0
+regeneration	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of collateral sprouting	0.0	1.0	1.0	1.0	1.0	0.0

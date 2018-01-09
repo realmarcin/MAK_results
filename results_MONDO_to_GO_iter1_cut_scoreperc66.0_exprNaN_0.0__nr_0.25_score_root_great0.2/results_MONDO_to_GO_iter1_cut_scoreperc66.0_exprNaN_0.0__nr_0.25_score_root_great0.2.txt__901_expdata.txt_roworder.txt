@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.myasthenic.syndrome.10"
+"2" "mental.retardation..autosomal.dominant.5"
+"3" "short.stature.with.microcephaly.and.distinctive.facies"
+"4" "cone.rod.synaptic.disorder..congenital.nonprogressive"
+"5" "Joubert.syndrome.22"

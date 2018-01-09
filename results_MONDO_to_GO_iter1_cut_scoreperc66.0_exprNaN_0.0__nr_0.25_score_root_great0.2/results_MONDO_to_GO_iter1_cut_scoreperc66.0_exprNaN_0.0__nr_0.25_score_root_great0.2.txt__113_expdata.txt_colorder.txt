@@ -1,0 +1,6 @@
+"x"
+"1" "smooth muscle contractile fiber"
+"2" "vascular smooth muscle contraction"
+"3" "regulation of wound healing"
+"4" "positive regulation of hepatic stellate cell migration"
+"5" "positive regulation of hepatic stellate cell contraction"

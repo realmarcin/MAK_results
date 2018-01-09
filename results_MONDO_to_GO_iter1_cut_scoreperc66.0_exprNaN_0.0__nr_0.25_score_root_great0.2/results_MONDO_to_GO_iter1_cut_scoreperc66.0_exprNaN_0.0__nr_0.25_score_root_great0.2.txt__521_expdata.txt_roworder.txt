@@ -1,0 +1,4 @@
+"x"
+"1" "cystinuria..disease."
+"2" "lysinuric.protein.intolerance"
+"3" "schizophrenia.18"

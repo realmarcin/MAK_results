@@ -1,0 +1,11 @@
+	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	"mental retardation, autosomal recessive 51; MRT51"	spinal muscular atrophy with congenital bone fractures 1	"muscular dystrophy, congenital, Davignon-Chauveau type; MDCDC"
+cytoplasm	1.0	1.0	1.0	1.0
+transferase activity	0.0	1.0	0.0	0.0
+brain development	0.0	1.0	0.0	0.0
+neuron projection	1.0	1.0	0.0	0.0
+extracellular exosome	1.0	1.0	0.0	0.0
+regulation of neurotransmitter levels	0.0	1.0	0.0	0.0
+positive regulation of protein targeting to mitochondrion	0.0	1.0	0.0	0.0
+N-methyltransferase activity	0.0	1.0	0.0	0.0
+histamine catabolic process	0.0	1.0	0.0	0.0
+histamine N-methyltransferase activity	0.0	1.0	0.0	0.0

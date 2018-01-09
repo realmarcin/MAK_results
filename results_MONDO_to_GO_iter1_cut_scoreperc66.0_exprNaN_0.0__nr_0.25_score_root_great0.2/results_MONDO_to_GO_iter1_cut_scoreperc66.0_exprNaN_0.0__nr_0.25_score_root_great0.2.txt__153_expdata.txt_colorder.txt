@@ -1,0 +1,4 @@
+"x"
+"1" "SH2 domain binding"
+"2" "response to tumor necrosis factor"
+"3" "activation of MAPKK activity"

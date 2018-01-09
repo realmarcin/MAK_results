@@ -1,0 +1,6 @@
+	"tooth agenesis, selective, 1"	Stickler syndrome type 3	tooth and nail syndrome	otospondylomegaepiphyseal dysplasia	Weissenbacher- Zweymuller syndrome	autosomal dominant nonsyndromic deafness 13	orofacial cleft 5	autosomal recessive nonsyndromic deafness 53	fibrochondrogenesis 2	"neurodevelopmental disorder with or without anomalies of the brain, eye, or heart; NEDBEH"
+pharyngeal system development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+cartilage morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of BMP signaling pathway	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+soft palate development	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+positive regulation of tongue muscle cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	Cornelia de Lange syndrome 1	Job's syndrome	IVIC syndrome	ulnar-mammary syndrome	Perlman syndrome	Cornelia de Lange syndrome 2	Duane-radial ray syndrome	parathyroid gland carcinoma	Cornelia de Lange syndrome 3	"autism, susceptibility to, 19"	left ventricular noncompaction 8
+protein dimerization activity	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+stem cell population maintenance	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cytokine-mediated signaling pathway	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+protein import into nucleus	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to cytokine stimulus	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+glucocorticoid receptor binding	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

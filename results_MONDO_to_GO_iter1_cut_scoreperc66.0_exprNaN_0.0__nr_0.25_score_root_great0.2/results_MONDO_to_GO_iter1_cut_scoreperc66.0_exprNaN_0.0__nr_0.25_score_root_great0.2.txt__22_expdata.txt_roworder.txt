@@ -1,0 +1,8 @@
+"x"
+"1" "hereditary.breast.carcinoma"
+"2" "colorectal.adenocarcinoma"
+"3" "ovarian.cancer"
+"4" "Proteus.syndrome"
+"5" "schizophrenia..disease."
+"6" "Cowden.syndrome.6"
+"7" "lymphedema.distichiasis.syndrome"

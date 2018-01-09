@@ -1,0 +1,5 @@
+"x"
+"1" "acid.phosphatase.deficiency"
+"2" "Spondyloenchondrodysplasia.with.immune.dysregulation"
+"3" "PHARC.syndrome"
+"4" "infantile.multisystem.neurologic.endocrine.pancreatic.disease"

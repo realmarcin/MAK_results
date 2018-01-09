@@ -1,0 +1,7 @@
+"x"
+"1" "pancreatic.cancer..susceptibility.to..1"
+"2" "dilated.cardiomyopathy.1CC"
+"3" "hypertrophic.cardiomyopathy.20"
+"4" "hereditary.spherocytosis.type.2"
+"5" "xeroderma.pigmentosum.group.B"
+"6" "trichothiodystrophy.2..photosensitive"

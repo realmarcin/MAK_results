@@ -1,0 +1,5 @@
+"x"
+"1" "pulmonary.capillary.hemangiomatosis"
+"2" "Wolcott.Rallison.syndrome"
+"3" "Burkitts.lymphoma"
+"4" "familial.episodic.pain.syndrome.with.predominantly.upper.body.involvement"

@@ -1,0 +1,6 @@
+"x"
+"1" "glutathione.synthetase.deficiency.without.5.oxoprolinuria"
+"2" "glutathione.synthetase.deficiency.with.5.oxoprolinuria"
+"3" "gamma.glutamylcysteine.synthetase.deficiency"
+"4" "pyruvate.carboxylase.deficiency.disease"
+"5" "X3.Methylcrotonyl.Coa.carboxylase.2.deficiency"

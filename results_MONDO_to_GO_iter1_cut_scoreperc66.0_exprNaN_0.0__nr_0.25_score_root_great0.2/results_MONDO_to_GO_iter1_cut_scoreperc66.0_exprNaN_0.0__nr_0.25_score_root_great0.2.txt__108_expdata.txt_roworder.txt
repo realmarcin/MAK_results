@@ -1,0 +1,7 @@
+"x"
+"1" "Joubert.syndrome.with.hepatic.defect"
+"2" "Joubert.syndrome.7"
+"3" "Meckel.syndrome..type.5"
+"4" "short.rib.thoracic.dysplasia.9.with.or.without.polydactyly"
+"5" "cranioectodermal.dysplasia.1"
+"6" "Senior.Loken.syndrome.9..SLSN9"

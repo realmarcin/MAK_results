@@ -1,0 +1,9 @@
+	PEHO syndrome	age related macular degeneration 1	myopathy due to Myoadenylate deaminase deficiency	hereditary spastic paraplegia 63	pontocerebellar hypoplasia type 9
+cholesterol homeostasis	0.0	1.0	0.0	1.0	1.0
+energy homeostasis	0.0	0.0	0.0	1.0	1.0
+GTP metabolic process	0.0	0.0	0.0	1.0	1.0
+glomerular visceral epithelial cell development	0.0	0.0	0.0	1.0	1.0
+AMP metabolic process	0.0	0.0	0.0	1.0	1.0
+IMP salvage	0.0	0.0	1.0	1.0	1.0
+cyclic purine nucleotide metabolic process	0.0	0.0	0.0	1.0	1.0
+IMP biosynthetic process	0.0	0.0	0.0	1.0	1.0

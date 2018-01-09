@@ -1,0 +1,6 @@
+"x"
+"1" "ovarian.cancer"
+"2" "Proteus.syndrome"
+"3" "schizophrenia..disease."
+"4" "susceptibility.to.HIV.infection"
+"5" "Cowden.syndrome.6"

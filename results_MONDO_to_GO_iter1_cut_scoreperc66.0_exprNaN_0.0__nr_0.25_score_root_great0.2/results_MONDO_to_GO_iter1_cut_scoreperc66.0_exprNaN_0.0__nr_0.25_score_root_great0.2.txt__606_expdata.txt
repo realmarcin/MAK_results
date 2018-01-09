@@ -1,0 +1,8 @@
+	acroosteolysis dominant type	Alagille syndrome due to a JAG1 point mutation	otospondylomegaepiphyseal dysplasia	schizophrenia 9	"autoimmune disease, susceptibility to, 1"	Alagille syndrome due to a NOTCH2 point mutation
+skeletal system development	0.0	0.0	1.0	0.0	0.0	0.0
+multicellular organism development	1.0	1.0	1.0	1.0	1.0	1.0
+chondrocyte differentiation	0.0	0.0	1.0	0.0	0.0	0.0
+inner ear morphogenesis	0.0	1.0	1.0	0.0	0.0	0.0
+face morphogenesis	1.0	1.0	0.0	0.0	0.0	1.0
+cartilage development involved in endochondral bone morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+endochondral ossification	0.0	0.0	1.0	0.0	0.0	0.0

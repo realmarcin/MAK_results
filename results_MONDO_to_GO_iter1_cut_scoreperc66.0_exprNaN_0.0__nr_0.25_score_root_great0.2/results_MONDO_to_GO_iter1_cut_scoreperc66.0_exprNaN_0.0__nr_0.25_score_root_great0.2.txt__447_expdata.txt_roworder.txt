@@ -1,0 +1,7 @@
+"x"
+"1" "inherited.Creutzfeldt.Jakob.disease"
+"2" "multiple.sclerosis..susceptibility.to"
+"3" "celiac.disease..susceptibility.to..1"
+"4" "hypoproteinemia..Hypercatabolic"
+"5" "type.1.diabetes.mellitus.10"
+"6" "immunodeficiency.due.to.CD25.deficiency"

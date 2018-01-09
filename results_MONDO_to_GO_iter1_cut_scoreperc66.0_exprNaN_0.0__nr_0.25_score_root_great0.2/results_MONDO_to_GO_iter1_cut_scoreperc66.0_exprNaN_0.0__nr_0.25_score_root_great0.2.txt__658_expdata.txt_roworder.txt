@@ -1,0 +1,6 @@
+"x"
+"1" "Charcot.Marie.tooth.disease.type.4C"
+"2" "mononeuropathy.of.the.median.nerve..mild"
+"3" "Brugada.syndrome.6"
+"4" "ACTH.secreting.pituitary.adenoma"
+"5" "autosomal.recessive.nonsyndromic.deafness.24"

@@ -1,0 +1,6 @@
+	alcohol dependence	IDDM 1	congenital stationary night blindness autosomal dominant 3	achromatopsia 4	congenital stationary night blindness 1G
+detection of chemical stimulus involved in sensory perception of bitter taste	1.0	0.0	1.0	1.0	1.0
+sensory perception of umami taste	0.0	1.0	1.0	0.0	1.0
+response to light intensity	0.0	0.0	1.0	1.0	1.0
+G-protein coupled receptor signaling pathway coupled to cGMP nucleotide second messenger	0.0	0.0	1.0	1.0	1.0
+positive regulation of cyclic-nucleotide phosphodiesterase activity	0.0	0.0	1.0	0.0	1.0

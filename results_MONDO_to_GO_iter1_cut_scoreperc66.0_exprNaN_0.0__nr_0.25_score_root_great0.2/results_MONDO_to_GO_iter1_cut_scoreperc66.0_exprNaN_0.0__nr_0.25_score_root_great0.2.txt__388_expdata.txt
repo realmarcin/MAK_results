@@ -1,0 +1,6 @@
+	type 1 diabetes mellitus 10	immunodeficiency due to CD25 deficiency	Adams-Oliver syndrome 3	Senior-Loken syndrome 9; SLSN9
+inflammatory response to antigenic stimulus	1.0	1.0	1.0	0.0
+regulation of T cell tolerance induction	1.0	1.0	0.0	0.0
+regulation of T cell homeostatic proliferation	1.0	1.0	0.0	0.0
+interleukin-2 receptor activity	1.0	1.0	0.0	0.0
+negative regulation of defense response to virus	1.0	1.0	0.0	1.0

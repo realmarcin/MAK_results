@@ -1,0 +1,9 @@
+	Desbuquois dysplasia 1	hereditary spastic paraplegia 64	nucleoside diphosphate-linked Moiety X Motif 15 deficiency; NUDT15D
+nucleoside-diphosphatase activity	1.0	1.0	1.0
+guanosine-diphosphatase activity	1.0	1.0	0.0
+uridine-diphosphatase activity	1.0	1.0	0.0
+adenosine-diphosphatase activity	1.0	1.0	0.0
+negative regulation of ATP biosynthetic process	0.0	1.0	0.0
+purine ribonucleoside diphosphate catabolic process	0.0	1.0	0.0
+8-oxo-dGTP phosphohydrolase activity	0.0	1.0	0.0
+cellular response to methanol	0.0	1.0	0.0

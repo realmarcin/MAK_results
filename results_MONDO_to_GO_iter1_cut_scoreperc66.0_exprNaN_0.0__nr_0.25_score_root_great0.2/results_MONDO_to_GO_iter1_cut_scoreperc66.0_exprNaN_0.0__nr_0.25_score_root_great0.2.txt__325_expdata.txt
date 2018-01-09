@@ -1,0 +1,9 @@
+	autosomal dominant pseudohypoaldosteronism type 1	PPARG-related familial partial lipodystrophy	Pseudohyperaldosteronism type 2	dilated cardiomyopathy 2B	"cholestasis, progressive familial intrahepatic, 5; PFIC5"
+membrane	1.0	1.0	1.0	0.0	0.0
+cytoplasm	1.0	1.0	1.0	0.0	0.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+zinc ion binding	1.0	1.0	1.0	1.0	1.0
+double-stranded DNA binding	1.0	0.0	1.0	0.0	1.0
+nucleoplasm	1.0	0.0	1.0	1.0	0.0
+steroid binding	1.0	0.0	1.0	0.0	0.0
+multicellular organismal response to stress	1.0	0.0	1.0	0.0	0.0

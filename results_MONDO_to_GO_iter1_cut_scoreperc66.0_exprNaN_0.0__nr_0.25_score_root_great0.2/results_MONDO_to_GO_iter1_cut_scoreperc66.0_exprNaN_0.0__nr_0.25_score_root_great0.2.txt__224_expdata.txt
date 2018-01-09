@@ -1,0 +1,9 @@
+	5-oxoprolinase deficiency (disease)	hemolytic anemia due to pyrimidine 5' nucleotidase deficiency	"prostate cancer, hereditary, 1"	hereditary spastic paraplegia 45
+nucleotide binding	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0
+hydrolase activity	1.0	1.0	1.0	1.0
+metal ion binding	0.0	1.0	1.0	1.0
+nucleotide metabolic process	0.0	1.0	0.0	1.0
+adenosine metabolic process	0.0	1.0	0.0	1.0
+defense response to virus	0.0	1.0	1.0	0.0
+5'-nucleotidase activity	0.0	1.0	0.0	1.0

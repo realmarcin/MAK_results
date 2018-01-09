@@ -1,0 +1,5 @@
+"x"
+"1" "gamma.glutamylcysteine.synthetase.deficiency"
+"2" "myocardial.infarction..susceptibility.to"
+"3" "congenital.brain.dysgenesis.due.to.glutamine.synthetase.deficiency"
+"4" "episodic.ataxia.type.6"

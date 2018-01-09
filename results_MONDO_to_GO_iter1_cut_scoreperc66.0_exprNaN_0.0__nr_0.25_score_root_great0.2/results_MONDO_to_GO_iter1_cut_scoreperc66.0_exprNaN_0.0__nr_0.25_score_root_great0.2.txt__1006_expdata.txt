@@ -1,0 +1,11 @@
+	glycogen storage disease due to phosphoglycerate kinase 1 deficiency	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+phosphorylation	1.0	0.0	0.0	0.0
+kinase activity	1.0	0.0	0.0	0.0
+cellular response to hypoxia	1.0	0.0	0.0	0.0
+response to hypoxia	1.0	0.0	0.0	0.0
+plasminogen activation	1.0	0.0	0.0	0.0
+positive regulation of oxidative phosphorylation	1.0	0.0	0.0	0.0
+negative regulation of angiogenesis	1.0	0.0	0.0	0.0
+gluconeogenesis	1.0	0.0	0.0	0.0
+phosphoglycerate kinase activity	1.0	0.0	0.0	0.0
+protein-disulfide reductase activity	1.0	0.0	0.0	0.0

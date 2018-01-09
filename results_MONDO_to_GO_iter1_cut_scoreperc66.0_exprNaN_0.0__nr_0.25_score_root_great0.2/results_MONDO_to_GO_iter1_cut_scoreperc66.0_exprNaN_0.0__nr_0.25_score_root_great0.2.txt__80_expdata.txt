@@ -1,0 +1,9 @@
+	Frasier syndrome	malignant mesothelioma (disease)	Denys-Drash syndrome	"nephrotic syndrome, type 4"	"Aural atresia, congenital"	Meacham syndrome
+glomerulus development	1.0	1.0	1.0	1.0	0.0	1.0
+pronephros development	1.0	1.0	1.0	1.0	0.0	1.0
+visceral serous pericardium development	1.0	1.0	1.0	1.0	0.0	1.0
+pronephric duct development	1.0	1.0	1.0	1.0	0.0	1.0
+glomerular visceral epithelial cell fate commitment	1.0	1.0	1.0	1.0	0.0	1.0
+pronephric glomerulus development	1.0	1.0	1.0	1.0	0.0	1.0
+glomerular visceral epithelial cell differentiation	1.0	1.0	1.0	1.0	0.0	1.0
+adrenal gland development	1.0	1.0	1.0	1.0	0.0	1.0

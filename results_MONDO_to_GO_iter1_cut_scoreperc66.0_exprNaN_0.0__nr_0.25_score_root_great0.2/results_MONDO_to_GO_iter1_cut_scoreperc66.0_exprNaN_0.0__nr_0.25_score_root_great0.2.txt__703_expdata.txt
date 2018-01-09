@@ -1,0 +1,5 @@
+	"hypophosphatemic rickets, autosomal recessive, 1"	familial infantile bilateral striatal necrosis	multiple endocrine neoplasia type 4	POROK7	young adult-onset distal hereditary motor neuropathy	autosomal recessive spinocerebellar ataxia 16	TFRC-related combined immunodeficiency	hypomyelinating leukodystrophy 13	Charcot-Marie-tooth disease axonal type 2T
+chaperone binding	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+Hsp70 protein binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of enamel mineralization	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+diphosphomevalonate decarboxylase activity	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

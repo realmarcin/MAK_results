@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.afibrinogenemia"
+"2" "familial.dysfibrinogenemia"
+"3" "congenital.plasminogen.activator.inhibitor.type.1.deficiency"
+"4" "palmoplantar.keratoderma..Nagashima.type"
+"5" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

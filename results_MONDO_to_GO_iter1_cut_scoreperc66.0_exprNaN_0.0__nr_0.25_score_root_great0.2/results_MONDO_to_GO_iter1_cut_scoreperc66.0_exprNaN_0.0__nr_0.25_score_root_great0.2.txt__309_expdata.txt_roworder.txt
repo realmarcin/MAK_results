@@ -1,0 +1,5 @@
+"x"
+"1" "Stromme.syndrome"
+"2" "lethal.fetal.brain.malformation.duodenal.atresia.bilateral.renal.hypoplasia.syndrome"
+"3" "retinoblastoma"
+"4" "small.cell.lung.carcinoma"

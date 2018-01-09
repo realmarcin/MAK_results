@@ -1,0 +1,7 @@
+"x"
+"1" "phosphoprotein phosphatase activity"
+"2" "protein dephosphorylation"
+"3" "protein tyrosine phosphatase activity"
+"4" "peptidyl-tyrosine dephosphorylation"
+"5" "phosphatase activity"
+"6" "dephosphorylation"

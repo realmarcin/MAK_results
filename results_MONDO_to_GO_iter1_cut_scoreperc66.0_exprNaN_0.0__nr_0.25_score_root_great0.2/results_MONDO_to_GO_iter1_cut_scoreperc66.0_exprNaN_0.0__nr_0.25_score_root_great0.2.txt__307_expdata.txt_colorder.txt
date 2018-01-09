@@ -1,0 +1,7 @@
+"x"
+"1" "plasma membrane"
+"2" "integral component of membrane"
+"3" "membrane"
+"4" "integral component of plasma membrane"
+"5" "cytoplasmic vesicle"
+"6" "nucleoplasm"

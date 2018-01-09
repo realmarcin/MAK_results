@@ -1,0 +1,5 @@
+"x"
+"1" "positive regulation of interleukin-4 production"
+"2" "positive regulation of interleukin-13 production"
+"3" "positive regulation of interleukin-5 production"
+"4" "positive regulation of T-helper 2 cell differentiation"

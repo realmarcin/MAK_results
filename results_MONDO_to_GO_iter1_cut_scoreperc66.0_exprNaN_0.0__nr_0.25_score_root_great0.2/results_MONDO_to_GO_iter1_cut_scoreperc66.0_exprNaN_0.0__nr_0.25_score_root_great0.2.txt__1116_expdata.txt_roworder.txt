@@ -1,0 +1,6 @@
+"x"
+"1" "mitochondrial.myopathy.with.lactic.acidosis"
+"2" "PLIN1.related.familial.partial.lipodystrophy"
+"3" "intellectual.disability.craniofacial.dysmorphism.cryptorchidism.syndrome"
+"4" "Adams.Oliver.syndrome.4"
+"5" "polyglucosan.body.myopathy.1.with.or.without.immunodeficiency"

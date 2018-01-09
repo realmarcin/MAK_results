@@ -1,0 +1,6 @@
+"x"
+"1" "actin binding"
+"2" "intracellular mRNA localization"
+"3" "exocytosis"
+"4" "cellular bud neck contractile ring"
+"5" "structural constituent of muscle"

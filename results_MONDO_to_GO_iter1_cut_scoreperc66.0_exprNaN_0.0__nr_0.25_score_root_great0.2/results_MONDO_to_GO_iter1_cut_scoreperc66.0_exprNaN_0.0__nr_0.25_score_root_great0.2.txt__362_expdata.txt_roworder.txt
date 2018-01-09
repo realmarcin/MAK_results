@@ -1,0 +1,7 @@
+"x"
+"1" "neurocutaneous.melanocytosis"
+"2" "Noonan.syndrome.6"
+"3" "autoimmune.lymphoproliferative.syndrome.type.4"
+"4" "Opsismodysplasia"
+"5" "hereditary.spherocytosis.type.2"
+"6" "acute.infantile.liver.failure.cerebellar.ataxia.peripheral.sensory.motor.neuropathy.syndrome"

@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "nucleus"
+"3" "regulation of transcription, DNA-templated"
+"4" "DNA binding"
+"5" "transcription, DNA-templated"
+"6" "pectoral fin development"
+"7" "DNA binding, bending"

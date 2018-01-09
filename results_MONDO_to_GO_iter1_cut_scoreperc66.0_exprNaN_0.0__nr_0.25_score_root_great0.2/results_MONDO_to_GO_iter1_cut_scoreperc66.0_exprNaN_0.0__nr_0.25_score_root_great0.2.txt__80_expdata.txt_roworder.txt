@@ -1,0 +1,7 @@
+"x"
+"1" "Frasier.syndrome"
+"2" "malignant.mesothelioma..disease."
+"3" "Denys.Drash.syndrome"
+"4" "nephrotic.syndrome..type.4"
+"5" "Meacham.syndrome"
+"6" "Aural.atresia..congenital"

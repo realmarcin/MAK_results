@@ -1,0 +1,10 @@
+	FADD-related immunodeficiency	familial cortical myoclonus	Seckel syndrome 9; SCKL9
+caspase binding	1.0	1.0	0.0
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	0.0	1.0	0.0
+negative regulation of tumor necrosis factor-mediated signaling pathway	0.0	1.0	1.0
+response to injury involved in regulation of muscle adaptation	0.0	1.0	0.0
+negative regulation of necrotic cell death	0.0	1.0	0.0
+negative regulation of death-inducing signaling complex assembly	0.0	1.0	0.0
+negative regulation of muscle atrophy	0.0	1.0	0.0
+regulation of NF-kappaB import into nucleus	0.0	1.0	0.0
+negative regulation of mitochondrial calcium ion concentration	0.0	1.0	0.0

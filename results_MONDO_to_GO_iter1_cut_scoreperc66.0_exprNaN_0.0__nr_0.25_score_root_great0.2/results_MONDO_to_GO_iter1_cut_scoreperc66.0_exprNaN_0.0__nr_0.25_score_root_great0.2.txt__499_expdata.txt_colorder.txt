@@ -1,0 +1,6 @@
+"x"
+"1" "succinyl-CoA metabolic process"
+"2" "succinate-CoA ligase (ADP-forming) activity"
+"3" "succinate-CoA ligase (GDP-forming) activity"
+"4" "succinate-CoA ligase complex (GDP-forming)"
+"5" "succinate-CoA ligase activity"

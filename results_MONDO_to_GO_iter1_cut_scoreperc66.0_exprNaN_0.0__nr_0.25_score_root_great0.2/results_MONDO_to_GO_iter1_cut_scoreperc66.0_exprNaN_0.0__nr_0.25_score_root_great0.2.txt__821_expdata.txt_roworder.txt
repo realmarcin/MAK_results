@@ -1,0 +1,6 @@
+"x"
+"1" "T.cell.immunodeficiency..congenital.alopecia..and.nail.dystrophy"
+"2" "Coxopodopatellar.syndrome"
+"3" "nonsyndromic.congenital.nail.disorder.4"
+"4" "autoimmune.polyendocrine.syndrome.type.1"
+"5" "ectodermal.dysplasia.9..hair.nail.type"

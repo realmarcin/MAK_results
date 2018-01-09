@@ -1,0 +1,7 @@
+"x"
+"1" "neuronal cell body"
+"2" "myelin sheath"
+"3" "T-tubule"
+"4" "negative regulation of cell growth"
+"5" "dendrite"
+"6" "axon"

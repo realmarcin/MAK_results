@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "endoplasmic reticulum"
+"4" "protein complex"
+"5" "cytosol"
+"6" "steroid metabolic process"
+"7" "ubiquitin-dependent ERAD pathway"

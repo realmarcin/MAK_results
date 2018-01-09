@@ -1,0 +1,11 @@
+	d-2-hydroxyglutaric aciduria	advanced sleep phase syndrome 1	spinocerebellar ataxia type 36
+response to cobalt ion	1.0	0.0	0.0
+lactate oxidation	1.0	0.0	0.0
+lactate biosynthetic process	1.0	1.0	0.0
+D-lactate dehydrogenase (cytochrome) activity	1.0	0.0	0.0
+lactate catabolic process	1.0	0.0	0.0
+"negative regulation of DNA-templated transcription, termination"	0.0	1.0	0.0
+regulation of glutamate uptake involved in transmission of nerve impulse	0.0	1.0	0.0
+histone methyltransferase binding	0.0	1.0	1.0
+circadian regulation of translation	0.0	1.0	0.0
+pre-mRNA binding	0.0	1.0	0.0

@@ -1,0 +1,9 @@
+	"essential hypertension, genetic"	renal tubular dysgenesis of genetic origin	SLEB6	autoimmune lymphoproliferative syndrome type 3
+regulation of norepinephrine secretion	1.0	1.0	0.0	0.0
+positive regulation of superoxide anion generation	1.0	1.0	1.0	1.0
+establishment of blood-nerve barrier	1.0	1.0	0.0	0.0
+regulation of cardiac conduction	1.0	1.0	0.0	0.0
+brain renin-angiotensin system	1.0	1.0	0.0	0.0
+regulation of renal sodium excretion	1.0	1.0	0.0	0.0
+cell growth involved in cardiac muscle cell development	1.0	1.0	0.0	0.0
+regulation of smooth muscle cell apoptotic process	1.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	acrodysostosis 1 with or without hormone resistance	"essential hypertension, genetic"	"Carney complex, type 1"	schizophrenia (disease)	"thyroid cancer, nonmedullary, 1"	familial atrial myxoma	"pigmented nodular adrenocortical disease, primary, 1"	Hermansky-Pudlak syndrome 7	familial episodic pain syndrome with predominantly upper body involvement	"pigmented nodular adrenocortical disease, primary, 4"	platelet-type bleeding disorder 19	Seckel syndrome 10; SCKL10
+protein localization to bud neck	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+cAMP-dependent protein kinase complex	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+negative regulation of protein serine/threonine kinase activity	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+cAMP-dependent protein kinase regulator activity	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+cAMP-dependent protein kinase inhibitor activity	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+cAMP binding	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0

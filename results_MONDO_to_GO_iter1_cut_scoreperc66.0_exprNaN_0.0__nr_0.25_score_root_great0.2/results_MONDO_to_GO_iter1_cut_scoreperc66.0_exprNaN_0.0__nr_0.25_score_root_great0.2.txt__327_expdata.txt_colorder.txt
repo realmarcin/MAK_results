@@ -1,0 +1,5 @@
+"x"
+"1" "nucleotide binding"
+"2" "ATP binding"
+"3" "transferase activity"
+"4" "protein kinase activity"

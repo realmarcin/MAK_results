@@ -1,0 +1,4 @@
+"x"
+"1" "xeroderma.pigmentosum.group.G"
+"2" "Cerebrooculofacioskeletal.syndrome.3"
+"3" "congenital.cataracts.facial.dysmorphism.neuropathy.syndrome"

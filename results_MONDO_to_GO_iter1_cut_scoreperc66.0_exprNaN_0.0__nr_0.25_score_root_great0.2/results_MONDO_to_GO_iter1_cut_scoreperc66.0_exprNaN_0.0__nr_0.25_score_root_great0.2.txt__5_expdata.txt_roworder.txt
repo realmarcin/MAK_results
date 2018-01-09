@@ -1,0 +1,7 @@
+"x"
+"1" "ankyloblepharon.ectodermal.defects.cleft.lip.palate.syndrome"
+"2" "Rapp.Hodgkin.syndrome"
+"3" "limb.mammary.syndrome"
+"4" "ectrodactyly..ectodermal.dysplasia..and.cleft.lip.palate.syndrome.3"
+"5" "split.hand.foot.malformation.4"
+"6" "thyroid.cancer..nonmedullary..2"

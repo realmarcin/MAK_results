@@ -1,0 +1,6 @@
+	Cardiospondylocarpofacial syndrome	"mental retardation, X-linked 30"	"polyhydramnios, megalencephaly, and symptomatic epilepsy"	combined immunodeficiency due to STK4 deficiency	cardiofaciocutaneous syndrome 3	cardiofaciocutaneous syndrome 4	"mental retardation, autosomal recessive 54; MRT54"	Frontometaphyseal dysplasia 2; FMD2
+cellular bud neck	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+pseudohyphal growth	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+MAP kinase kinase activity	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
+mating projection tip	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+signal transduction by protein phosphorylation	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0

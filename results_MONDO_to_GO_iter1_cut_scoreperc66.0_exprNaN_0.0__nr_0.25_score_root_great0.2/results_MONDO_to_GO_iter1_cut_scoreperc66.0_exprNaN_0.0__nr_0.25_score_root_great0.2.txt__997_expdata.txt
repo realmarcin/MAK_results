@@ -1,0 +1,8 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	primary hyperoxaluria type 2	"cerebral palsy, spastic quadriplegic, 1"	aromatic L-amino acid decarboxylase deficiency
+protein oligomerization	0.0	1.0	0.0	0.0
+excretion	0.0	1.0	0.0	0.0
+glyoxylate reductase (NADP) activity	0.0	1.0	0.0	0.0
+hydroxypyruvate reductase activity	0.0	1.0	0.0	0.0
+NADPH binding	0.0	1.0	0.0	0.0
+glycerate dehydrogenase activity	0.0	1.0	0.0	0.0
+dicarboxylic acid metabolic process	0.0	1.0	0.0	0.0

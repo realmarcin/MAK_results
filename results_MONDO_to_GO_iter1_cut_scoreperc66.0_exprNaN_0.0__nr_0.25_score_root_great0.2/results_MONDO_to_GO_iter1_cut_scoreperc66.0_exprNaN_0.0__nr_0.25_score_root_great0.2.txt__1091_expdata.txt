@@ -1,0 +1,14 @@
+	uveal coloboma-cleft lip and palate-intellectual disability	left ventricular noncompaction 8	"congenital heart defects, multiple types, 4"	Dias-Logan syndrome; DILOS	immunodeficiency 49; IMD49
+lymphangiogenesis	0.0	0.0	1.0	0.0	0.0
+positive regulation of systemic arterial blood pressure	0.0	0.0	1.0	0.0	0.0
+maternal placenta development	0.0	0.0	1.0	0.0	0.0
+negative regulation of endothelial cell migration	0.0	0.0	1.0	0.0	0.0
+negative regulation of endothelial cell proliferation	0.0	0.0	1.0	0.0	0.0
+fertilization	0.0	0.0	1.0	0.0	0.0
+placenta blood vessel development	0.0	0.0	1.0	0.0	0.0
+trophoblast giant cell differentiation	0.0	0.0	1.0	0.0	0.0
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	0.0	0.0	1.0	0.0	0.0
+regulation of transcription involved in lymphatic endothelial cell fate commitment	0.0	0.0	1.0	0.0	0.0
+lymphatic endothelial cell fate commitment	0.0	0.0	1.0	0.0	0.0
+regulation of transcription involved in venous endothelial cell fate commitment	0.0	0.0	1.0	0.0	0.0
+radial pattern formation	0.0	0.0	1.0	0.0	0.0

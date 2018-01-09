@@ -1,0 +1,7 @@
+	malonic aciduria	orotic aciduria	"Phosphoenolpyruvate carboxykinase deficiency, mitochondrial"	"Phosphoenolpyruvate carboxykinase deficiency, cytosolic"	"cerebral palsy, spastic quadriplegic, 1"	POROK7
+lyase activity	1.0	1.0	1.0	1.0	1.0	1.0
+carboxylic acid metabolic process	0.0	0.0	0.0	0.0	1.0	0.0
+carboxy-lyase activity	1.0	1.0	1.0	1.0	1.0	1.0
+pyridoxal phosphate binding	0.0	0.0	0.0	0.0	1.0	0.0
+inhibitory synapse	0.0	0.0	0.0	0.0	1.0	0.0
+presynaptic active zone	0.0	0.0	0.0	0.0	1.0	0.0

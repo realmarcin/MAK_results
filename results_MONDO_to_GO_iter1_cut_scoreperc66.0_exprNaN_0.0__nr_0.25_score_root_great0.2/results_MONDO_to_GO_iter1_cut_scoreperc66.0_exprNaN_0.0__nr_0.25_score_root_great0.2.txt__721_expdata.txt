@@ -1,0 +1,6 @@
+	"autosomal recessive ataxia, Beauce type"	"Emery-Dreifuss muscular dystrophy 4, autosomal dominant"	"Emery-Dreifuss muscular dystrophy 5, autosomal dominant"	idiopathic CD4 lymphocytopenia	autosomal recessive nonsyndromic deafness 76	spermatogenic failure 16; SPGF16
+negative regulation of clathrin-dependent endocytosis	0.0	0.0	0.0	1.0	0.0	0.0
+cytoskeletal anchoring at nuclear membrane	1.0	1.0	1.0	0.0	0.0	1.0
+LINC complex	1.0	1.0	1.0	0.0	1.0	1.0
+optomotor response	0.0	0.0	0.0	1.0	0.0	0.0
+negative regulation of caveolin-mediated endocytosis	0.0	0.0	0.0	1.0	0.0	0.0

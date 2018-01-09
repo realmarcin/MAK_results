@@ -1,0 +1,7 @@
+"x"
+"1" "abetalipoproteinemia"
+"2" "metabolic.syndrome.X"
+"3" "hypercholesterolemia..autosomal.dominant..3"
+"4" "apolipoprotein.A.I.deficiency"
+"5" "Niemann.Pick.disease..type.C1"
+"6" "hyperlipidemia.due.to.hepatic.triglyceride.lipase.deficiency"

@@ -1,0 +1,10 @@
+	spondylocostal dysostosis 5	ulnar-mammary syndrome	polycystic kidney disease 2
+retinal cone cell fate commitment	1.0	1.0	0.0
+proximal convoluted tubule development	1.0	1.0	1.0
+photoreceptor cell fate specification	1.0	1.0	0.0
+late distal convoluted tubule development	1.0	1.0	0.0
+luteinizing hormone secretion	0.0	1.0	0.0
+mammary placode formation	0.0	1.0	0.0
+follicle-stimulating hormone secretion	0.0	1.0	0.0
+limbic system development	0.0	1.0	0.0
+cardiac muscle cell fate commitment	0.0	1.0	0.0

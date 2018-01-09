@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.recessive.osteopetrosis.2"
+"2" "myocardial.infarction..susceptibility.to"
+"3" "FADD.related.immunodeficiency"
+"4" "combined.immunodeficiency.due.to.OX40.deficiency"

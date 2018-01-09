@@ -1,0 +1,5 @@
+"x"
+"1" "peptidyl-lysine hydroxylation"
+"2" "procollagen-lysine 5-dioxygenase activity"
+"3" "hydroxylysine biosynthetic process"
+"4" "procollagen glucosyltransferase activity"

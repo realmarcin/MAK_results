@@ -1,0 +1,8 @@
+"x"
+"1" "cell differentiation"
+"2" "positive regulation of transcription, DNA-templated"
+"3" "female gonad development"
+"4" "male gonad development"
+"5" "hormone metabolic process"
+"6" "hormone-mediated signaling pathway"
+"7" "calcineurin-mediated signaling"

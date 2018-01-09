@@ -1,0 +1,7 @@
+"x"
+"1" "hereditary.breast.carcinoma"
+"2" "myocardial.infarction..susceptibility.to"
+"3" "lung.cancer"
+"4" "epilepsy..childhood.absence..susceptibility.to..5"
+"5" "estrogen.resistance.syndrome"
+"6" "epileptic.encephalopathy..early.infantile..43..EIEE43"

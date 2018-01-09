@@ -1,0 +1,8 @@
+	absence of fingerprints-congenital milia syndrome	isolated congenital adermatoglyphia	Meier-Gorlin syndrome 1	Schimke immuno-osseous dysplasia	Meier-Gorlin syndrome 3	immunodeficiency-centromeric instability-facial anomalies syndrome 4
+nucleotide binding	1.0	1.0	1.0	1.0	0.0	1.0
+ATP binding	1.0	1.0	1.0	1.0	0.0	1.0
+chromatin remodeling	1.0	1.0	0.0	0.0	0.0	1.0
+DNA-dependent ATPase activity	1.0	1.0	0.0	1.0	0.0	0.0
+"chromosome, centromeric region"	1.0	1.0	0.0	0.0	0.0	1.0
+chromatin silencing at silent mating-type cassette	1.0	1.0	1.0	0.0	0.0	0.0
+chromatin silencing at telomere	1.0	1.0	1.0	0.0	0.0	0.0

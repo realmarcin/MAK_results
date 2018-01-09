@@ -1,0 +1,7 @@
+	branchiootorenal syndrome 1	autosomal dominant nonsyndromic deafness 23	branchiootic syndrome 3	congenital malabsorptive diarrhea 4	lissencephaly 7 with cerebellar hypoplasia
+"transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding"	1.0	1.0	1.0	1.0	0.0
+generation of neurons	1.0	1.0	1.0	1.0	0.0
+epithelial cell differentiation	1.0	1.0	1.0	1.0	0.0
+neurogenesis	1.0	1.0	1.0	1.0	0.0
+"cellular response to 3,3',5-triiodo-L-thyronine"	1.0	1.0	1.0	0.0	0.0
+peripheral nervous system neuron development	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	sialidosis type 2	Sandhoff disease	Tay-Sachs disease AB variant	Tay-Sachs disease
+ganglioside catabolic process	1.0	1.0	1.0	1.0
+oligosaccharide catabolic process	1.0	1.0	1.0	0.0
+beta-N-acetylhexosaminidase activity	0.0	1.0	1.0	1.0
+hexosaminidase activity	0.0	1.0	0.0	0.0
+regulation of cellular metabolic process	0.0	1.0	0.0	0.0
+beta-N-acetylglucosaminidase activity	0.0	1.0	0.0	0.0

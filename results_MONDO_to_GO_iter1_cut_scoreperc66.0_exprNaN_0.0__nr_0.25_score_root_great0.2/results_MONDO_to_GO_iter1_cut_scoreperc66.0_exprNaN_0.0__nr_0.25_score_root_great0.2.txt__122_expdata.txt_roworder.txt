@@ -1,0 +1,6 @@
+"x"
+"1" "carnitine.palmitoyl.transferase.II.deficiency..myopathic.form"
+"2" "carnitine.palmitoyl.transferase.II.deficiency..severe.infantile.form"
+"3" "carnitine.palmitoyl.transferase.II.deficiency..neonatal.form"
+"4" "encephalopathy..acute..infection.induced..susceptibility.to..4"
+"5" "X3.methylglutaconic.aciduria.type.1"

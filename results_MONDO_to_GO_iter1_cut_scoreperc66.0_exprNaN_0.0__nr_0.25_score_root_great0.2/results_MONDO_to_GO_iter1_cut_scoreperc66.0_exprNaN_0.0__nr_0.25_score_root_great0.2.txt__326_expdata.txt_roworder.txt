@@ -1,0 +1,6 @@
+"x"
+"1" "IL21.related.infantile.inflammatory.bowel.disease"
+"2" "X.linked.hyper.IgM.syndrome"
+"3" "juvenile.rheumatoid.arthritis"
+"4" "primary.CD59.deficiency"
+"5" "multiple.synostoses.syndrome.3"

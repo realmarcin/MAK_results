@@ -1,0 +1,6 @@
+	Noonan syndrome with multiple lentigines	Metachondromatosis	Noonan syndrome 1	esophageal atresia/tracheoesophageal fistula	CHARGE syndrome	hypogonadotropic hypogonadism 5 with or without anosmia
+epithelium development	0.0	0.0	0.0	1.0	1.0	1.0
+atrioventricular canal development	1.0	1.0	1.0	1.0	1.0	1.0
+genitalia development	1.0	1.0	1.0	1.0	1.0	1.0
+face development	0.0	0.0	0.0	1.0	1.0	1.0
+olfactory nerve development	0.0	0.0	0.0	1.0	1.0	1.0

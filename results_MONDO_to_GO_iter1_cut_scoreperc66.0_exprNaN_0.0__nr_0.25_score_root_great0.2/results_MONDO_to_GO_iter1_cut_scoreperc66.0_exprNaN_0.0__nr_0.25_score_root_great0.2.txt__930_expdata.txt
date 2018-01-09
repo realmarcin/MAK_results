@@ -1,0 +1,5 @@
+	Glomuvenous malformation	absence deformity of leg-cataract syndrome	giant axonal neuropathy 1	"X-linked intellectual disability, Cabezas type"	"mental retardation, X-linked 103; MRX103"	nemaline myopathy 6	retinitis pigmentosa 42	spermatogenic failure 11	nemaline myopathy 8	nemaline myopathy 9	myoclonic dystonia 26	cold-induced sweating syndrome 3; CISS3	"epidermolysis bullosa simplex, generalized, with Scarring and hair loss; EBSSH"
+Cul3-RING ubiquitin ligase complex	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+desmosome	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+cardiac muscle cell-cardiac muscle cell adhesion	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of kainate selective glutamate receptor activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

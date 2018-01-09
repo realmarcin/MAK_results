@@ -1,0 +1,8 @@
+"x"
+"1" "retinitis.pigmentosa.1"
+"2" "retinal.macular.dystrophy.type.2"
+"3" "autosomal.recessive.nonsyndromic.deafness.48"
+"4" "retinitis.pigmentosa.41"
+"5" "cone.rod.dystrophy.12"
+"6" "Usher.syndrome.type.1J"
+"7" "retinal.dystrophy.and.obesity"

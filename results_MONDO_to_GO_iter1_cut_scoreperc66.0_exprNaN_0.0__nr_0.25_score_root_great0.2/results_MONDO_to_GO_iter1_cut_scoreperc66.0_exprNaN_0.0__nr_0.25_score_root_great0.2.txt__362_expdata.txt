@@ -1,0 +1,9 @@
+	neurocutaneous melanocytosis	Opsismodysplasia	Noonan syndrome 6	autoimmune lymphoproliferative syndrome type 4	hereditary spherocytosis type 2	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome
+plasma membrane	1.0	1.0	1.0	1.0	1.0	0.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+lamellipodium	0.0	1.0	0.0	0.0	0.0	0.0
+nucleotide binding	1.0	0.0	1.0	1.0	0.0	0.0
+Golgi apparatus	1.0	1.0	1.0	1.0	1.0	1.0
+GTPase activity	1.0	0.0	1.0	1.0	0.0	0.0
+GTP binding	1.0	0.0	1.0	1.0	0.0	0.0
+Golgi membrane	1.0	0.0	1.0	1.0	0.0	0.0

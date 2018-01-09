@@ -1,0 +1,5 @@
+"x"
+"1" "Ehlers.Danlos.syndrome..musculocontractural.type"
+"2" "spondyloepimetaphyseal.dysplasia..GeneviC.ve.type"
+"3" "Ehlers.Danlos.syndrome..musculocontractural.type.2"
+"4" "peeling.skin.syndrome.type.a"

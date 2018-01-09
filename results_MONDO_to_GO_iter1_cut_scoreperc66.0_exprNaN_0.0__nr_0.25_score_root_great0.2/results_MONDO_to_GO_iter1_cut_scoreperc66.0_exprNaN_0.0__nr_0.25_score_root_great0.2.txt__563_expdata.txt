@@ -1,0 +1,7 @@
+	hyperekplexia 1	hereditary fructose intolerance	"fructose-1,6-bisphosphatase deficiency"	elliptocytosis 1	glycogen storage disease due to aldolase A deficiency	sulfite oxidase deficiency due to molybdenum cofactor deficiency type c
+cytoskeletal protein binding	1.0	1.0	0.0	1.0	1.0	1.0
+fructose metabolic process	0.0	1.0	1.0	0.0	1.0	0.0
+extrinsic component of plasma membrane	1.0	0.0	0.0	1.0	0.0	1.0
+glycolytic process through fructose-6-phosphate	0.0	1.0	0.0	0.0	1.0	0.0
+fructose-bisphosphate aldolase activity	0.0	1.0	0.0	0.0	1.0	0.0
+"fructose 1,6-bisphosphate metabolic process"	0.0	1.0	1.0	0.0	1.0	0.0

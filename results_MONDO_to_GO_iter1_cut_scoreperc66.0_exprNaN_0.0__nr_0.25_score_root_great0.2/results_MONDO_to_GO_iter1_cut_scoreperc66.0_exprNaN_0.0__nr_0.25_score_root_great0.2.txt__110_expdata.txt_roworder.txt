@@ -1,0 +1,5 @@
+"x"
+"1" "sudden.cardiac.failure..infantile..SCFI"
+"2" "sudden.cardiac.failure..alcohol.induced..SCFAI"
+"3" "mental.retardation..autosomal.recessive.59..MRT59"
+"4" "PSPH.deficiency"

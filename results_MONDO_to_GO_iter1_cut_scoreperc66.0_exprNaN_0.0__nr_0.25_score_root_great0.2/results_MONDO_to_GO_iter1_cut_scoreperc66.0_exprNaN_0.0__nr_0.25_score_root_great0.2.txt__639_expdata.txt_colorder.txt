@@ -1,0 +1,8 @@
+"x"
+"1" "immunoglobulin production"
+"2" "positive regulation of B cell proliferation"
+"3" "T cell proliferation"
+"4" "leukocyte cell-cell adhesion"
+"5" "negative regulation of peptidyl-tyrosine phosphorylation"
+"6" "bone marrow development"
+"7" "negative regulation of T cell mediated cytotoxicity"

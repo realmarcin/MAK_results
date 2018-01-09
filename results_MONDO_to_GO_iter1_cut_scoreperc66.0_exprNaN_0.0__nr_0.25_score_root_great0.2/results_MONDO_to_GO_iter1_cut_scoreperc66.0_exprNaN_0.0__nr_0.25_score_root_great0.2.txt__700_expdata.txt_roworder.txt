@@ -1,0 +1,6 @@
+"x"
+"1" "dyskeratosis.congenita..autosomal.recessive.6"
+"2" "pulmonary.fibrosis.and.or.bone.marrow.failure..Telomere.related..4"
+"3" "platelet.type.bleeding.disorder.20"
+"4" "Richieri.Costa.Pereira.syndrome"
+"5" "thrombocytopenia.absent.radius.syndrome"

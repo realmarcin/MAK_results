@@ -1,0 +1,7 @@
+	3MC syndrome 3	3MC syndrome 2	Abruzzo-Erickson syndrome	"cleft palate with or without ankyloglossia, X-linked"	ventricular septal defect 2	atrial heart septal defect 8
+negative regulation of transcription from RNA polymerase II promoter	0.0	0.0	1.0	1.0	1.0	1.0
+nucleus	1.0	0.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	0.0	0.0	1.0	1.0	1.0	1.0
+"negative regulation of transcription, DNA-templated"	0.0	0.0	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	0.0	0.0	1.0	1.0	1.0	1.0
+DNA binding transcription factor activity	0.0	0.0	1.0	1.0	1.0	1.0

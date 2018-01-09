@@ -1,0 +1,8 @@
+	Renpenning syndrome	Usher syndrome type 1D	autosomal recessive nonsyndromic deafness 12	Curry-Jones syndrome	BCC1	Usher syndrome type 2C
+integral component of membrane	0.0	1.0	1.0	1.0	1.0	1.0
+membrane	0.0	1.0	1.0	1.0	1.0	1.0
+cell projection	0.0	0.0	0.0	0.0	0.0	0.0
+inner ear development	0.0	1.0	1.0	1.0	1.0	1.0
+nervous system development	0.0	1.0	0.0	1.0	1.0	1.0
+cilium	1.0	1.0	1.0	1.0	1.0	1.0
+ciliary basal body	0.0	0.0	0.0	0.0	0.0	0.0

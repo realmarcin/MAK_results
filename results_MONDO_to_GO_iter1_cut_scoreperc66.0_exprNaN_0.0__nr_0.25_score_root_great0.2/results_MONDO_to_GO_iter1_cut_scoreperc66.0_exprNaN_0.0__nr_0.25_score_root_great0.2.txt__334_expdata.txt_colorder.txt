@@ -1,0 +1,8 @@
+"x"
+"1" "G-protein coupled receptor activity"
+"2" "G-protein coupled receptor signaling pathway"
+"3" "cell migration"
+"4" "extracellular matrix binding"
+"5" "collagen binding"
+"6" "positive regulation of Rho protein signal transduction"
+"7" "IkappaB kinase complex"

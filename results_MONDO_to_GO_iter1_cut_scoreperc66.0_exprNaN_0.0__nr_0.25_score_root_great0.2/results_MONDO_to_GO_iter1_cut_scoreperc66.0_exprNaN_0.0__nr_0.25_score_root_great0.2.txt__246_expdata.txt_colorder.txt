@@ -1,0 +1,5 @@
+"x"
+"1" "epithelial structure maintenance"
+"2" "common bile duct development"
+"3" "regulation of Wnt signaling pathway, planar cell polarity pathway"
+"4" "regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning"

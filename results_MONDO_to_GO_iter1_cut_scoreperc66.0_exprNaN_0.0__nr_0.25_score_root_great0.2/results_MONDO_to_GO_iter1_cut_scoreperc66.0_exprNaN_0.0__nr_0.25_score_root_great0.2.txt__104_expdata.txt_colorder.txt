@@ -1,0 +1,5 @@
+"x"
+"1" "pyrophosphatase activity"
+"2" "developmental process involved in reproduction"
+"3" "extracellular membrane-bounded organelle"
+"4" "alkaline phosphatase activity"

@@ -1,0 +1,4 @@
+"x"
+"1" "endocrine pancreas development"
+"2" "pancreas regeneration"
+"3" "type B pancreatic cell development"

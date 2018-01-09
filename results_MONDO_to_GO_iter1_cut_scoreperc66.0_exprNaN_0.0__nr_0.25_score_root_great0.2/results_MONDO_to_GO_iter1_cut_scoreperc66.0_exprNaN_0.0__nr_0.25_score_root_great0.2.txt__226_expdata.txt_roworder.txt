@@ -1,0 +1,4 @@
+"x"
+"1" "hyperekplexia.1"
+"2" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.c"
+"3" "mental.retardation..autosomal.dominant.10"

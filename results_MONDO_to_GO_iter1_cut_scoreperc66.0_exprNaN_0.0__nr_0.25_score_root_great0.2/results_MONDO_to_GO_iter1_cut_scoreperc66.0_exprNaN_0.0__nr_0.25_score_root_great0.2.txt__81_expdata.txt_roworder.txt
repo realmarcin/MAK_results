@@ -1,0 +1,7 @@
+"x"
+"1" "Hurler.syndrome"
+"2" "Hurler.Scheie.syndrome"
+"3" "Scheie.syndrome"
+"4" "mucopolysaccharidosis.type.7"
+"5" "Fabry.disease"
+"6" "Sanfilippo.syndrome.type.A"

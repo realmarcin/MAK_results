@@ -1,0 +1,7 @@
+"x"
+"1" "immune.dysregulation.polyendocrinopathy.enteropathy.X.linked.syndrome"
+"2" "type.1.diabetes.mellitus.10"
+"3" "immunodeficiency.due.to.CD25.deficiency"
+"4" "type.III.Ehlers.Danlos.syndrome"
+"5" "autosomal.dominant.Ehlers.Danlos.syndrome..vascular.type"
+"6" "Loeys.Dietz.syndrome.4"

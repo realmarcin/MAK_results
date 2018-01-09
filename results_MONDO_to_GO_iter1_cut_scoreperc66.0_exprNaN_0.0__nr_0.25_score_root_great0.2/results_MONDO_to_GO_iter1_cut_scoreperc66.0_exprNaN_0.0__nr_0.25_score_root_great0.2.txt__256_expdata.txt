@@ -1,0 +1,9 @@
+	Smith-Magenis syndrome	Athabaskan brainstem dysgenesis syndrome	bilateral microtia-deafness-cleft palate syndrome	chromosome 2q32-q33 deletion syndrome	"leukemia, acute lymphoblastic, susceptibility to, 3"
+nucleus	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	0.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0	1.0
+DNA binding	0.0	1.0	1.0	1.0	1.0
+multicellular organism development	0.0	1.0	1.0	1.0	1.0
+cellular response to retinoic acid	0.0	1.0	1.0	0.0	0.0
+osteoblast development	0.0	0.0	1.0	1.0	0.0
+rhombomere 3 development	0.0	1.0	1.0	0.0	0.0

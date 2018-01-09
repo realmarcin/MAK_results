@@ -1,0 +1,8 @@
+	hyperekplexia 1	X-linked epilepsy-learning disabilities-behavior disorders syndrome	autosomal dominant nonsyndromic deafness 41	platelet-type bleeding disorder 8	"46,Xy sex reversal 6"	sulfite oxidase deficiency due to molybdenum cofactor deficiency type c
+plasma membrane	1.0	0.0	1.0	1.0	0.0	1.0
+membrane	1.0	0.0	1.0	1.0	0.0	1.0
+ATP binding	1.0	1.0	1.0	1.0	1.0	1.0
+zinc ion binding	1.0	0.0	1.0	1.0	1.0	0.0
+intracellular	1.0	0.0	1.0	0.0	0.0	1.0
+protein homooligomerization	1.0	0.0	1.0	1.0	0.0	1.0
+ion channel activity	1.0	0.0	1.0	1.0	0.0	0.0

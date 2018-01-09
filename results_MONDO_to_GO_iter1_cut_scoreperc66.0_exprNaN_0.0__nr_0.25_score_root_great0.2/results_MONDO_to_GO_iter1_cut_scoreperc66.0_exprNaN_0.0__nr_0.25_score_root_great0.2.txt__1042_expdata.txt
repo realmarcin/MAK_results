@@ -1,0 +1,6 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	mucolipidosis type IV	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"	Carpenter syndrome 2	severe congenital hypochromic anemia with ringed sideroblasts	autosomal dominant nonsyndromic deafness 67	"mental retardation, autosomal dominant 34"
+cytoplasm	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0
+endoplasmic reticulum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+transport	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+lipid transport	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+ER to Golgi ceramide transport	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

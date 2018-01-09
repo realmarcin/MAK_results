@@ -1,0 +1,6 @@
+"x"
+"1" "pseudoxanthoma.elasticum..Forme.Fruste"
+"2" "Dubin.Johnson.syndrome"
+"3" "pseudoxanthoma.elasticum"
+"4" "arterial.calcification..generalized..of.infancy..2"
+"5" "Rotor.syndrome"

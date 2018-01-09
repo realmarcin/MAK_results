@@ -1,0 +1,5 @@
+"x"
+"1" "type.II.complement.component.8.deficiency"
+"2" "type.i.complement.component.8.deficiency"
+"3" "complement.component.9.deficiency"
+"4" "age.related.macular.degeneration.15"

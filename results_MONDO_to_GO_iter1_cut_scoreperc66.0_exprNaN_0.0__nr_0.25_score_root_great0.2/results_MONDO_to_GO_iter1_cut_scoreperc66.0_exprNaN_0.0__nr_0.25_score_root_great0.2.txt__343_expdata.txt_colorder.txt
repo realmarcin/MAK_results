@@ -1,0 +1,7 @@
+"x"
+"1" "nucleotide-binding oligomerization domain containing 2 signaling pathway"
+"2" "autophagy of host cells involved in interaction with symbiont"
+"3" "symbiont-containing vacuole"
+"4" "positive regulation of interferon-gamma-mediated signaling pathway"
+"5" "CAMKK-AMPK signaling cascade"
+"6" "BH3 domain binding"

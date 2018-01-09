@@ -1,0 +1,8 @@
+"x"
+"1" "hydrolase activity, acting on glycosyl bonds"
+"2" "lysosome"
+"3" "hydrolase activity"
+"4" "extracellular space"
+"5" "carbohydrate metabolic process"
+"6" "metabolic process"
+"7" "hydrolase activity, hydrolyzing O-glycosyl compounds"

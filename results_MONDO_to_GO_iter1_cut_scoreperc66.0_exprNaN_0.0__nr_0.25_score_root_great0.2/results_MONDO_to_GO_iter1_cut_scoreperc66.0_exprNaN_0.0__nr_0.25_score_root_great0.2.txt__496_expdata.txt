@@ -1,0 +1,5 @@
+	isolated growth hormone deficiency type II	Frank-Ter Haar syndrome	isolated growth hormone deficiency type IA	short stature due to growth hormone qualitative anomaly	paraplegia-brachydactyly-cone-shaped epiphysis syndrome	Troyer syndrome	osteopathia striata with cranial sclerosis	"plantar lipomatosis, unusual facies, and developmental delay"	isolated growth hormone deficiency type ib	obesity due to congenital leptin deficiency	abdominal obesity-metabolic syndrome 3	autosomal recessive mendelian susceptibility to mycobacterial diseases due to complete RORgamma receptor deficiency	"mental retardation, autosomal dominant 41; MRD41"
+extracellular space	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+extracellular region	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+adipose tissue development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+hormone activity	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

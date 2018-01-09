@@ -1,0 +1,4 @@
+	Alzheimer disease type 1	lysinuric protein intolerance	recurrent infection due to specific granule deficiency	"cerebral amyloid angiopathy, App-related"	SLEB6	mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency	"Monocyte and dendritic cell deficiency, autosomal recessive"
+microglia development	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+regulation of neutrophil differentiation	0.0	0.0	1.0	0.0	0.0	1.0	1.0
+regulation of macrophage differentiation	0.0	0.0	0.0	0.0	0.0	1.0	1.0

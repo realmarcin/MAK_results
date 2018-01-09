@@ -1,0 +1,5 @@
+"x"
+"1" "ocular.cystinosis"
+"2" "cystinosis..nephropathic"
+"3" "juvenile.nephropathic.cystinosis"
+"4" "Action.myoclonus.renal.failure.syndrome"

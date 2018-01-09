@@ -1,0 +1,8 @@
+	retinitis pigmentosa 1	Usher syndrome type 3A	cone-rod dystrophy 13	occult macular dystrophy	Leber congenital amaurosis 6	retinitis pigmentosa 61
+axoneme	1.0	0.0	1.0	1.0	1.0	0.0
+response to stimulus	1.0	1.0	1.0	1.0	1.0	1.0
+ciliary rootlet	0.0	0.0	1.0	0.0	1.0	0.0
+neural precursor cell proliferation	0.0	0.0	1.0	0.0	1.0	0.0
+visual perception	1.0	1.0	1.0	1.0	1.0	1.0
+non-motile cilium	0.0	0.0	1.0	0.0	1.0	0.0
+ciliary transition zone	0.0	1.0	1.0	0.0	1.0	1.0

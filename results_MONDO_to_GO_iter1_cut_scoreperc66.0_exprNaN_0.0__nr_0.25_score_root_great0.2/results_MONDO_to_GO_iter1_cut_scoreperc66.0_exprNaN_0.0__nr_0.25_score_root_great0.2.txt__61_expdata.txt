@@ -1,0 +1,8 @@
+	short syndrome	"agammaglobulinemia 7, autosomal recessive"	ataxia with oculomotor apraxia type 3	immunodeficiency 36
+insulin receptor signaling pathway	1.0	1.0	0.0	1.0
+phosphatidylinositol phosphorylation	1.0	1.0	0.0	1.0
+phosphatidylinositol 3-kinase complex	1.0	1.0	1.0	1.0
+1-phosphatidylinositol-3-kinase activity	1.0	1.0	0.0	1.0
+regulation of phosphatidylinositol 3-kinase activity	1.0	1.0	1.0	1.0
+phosphatidylinositol 3-kinase regulator activity	1.0	1.0	0.0	1.0
+1-phosphatidylinositol-3-kinase regulator activity	1.0	1.0	1.0	1.0

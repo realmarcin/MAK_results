@@ -1,0 +1,9 @@
+	autosomal dominant nonsyndromic deafness 1	"X-linked intellectual disability, Stocco dos Santos type"	autosomal dominant nonsyndromic deafness 20	Baraitser-winter syndrome 2	progressive microcephaly-seizures-cortical blindness-developmental delay syndrome
+membrane	1.0	0.0	1.0	1.0	1.0
+protein binding	1.0	0.0	1.0	1.0	1.0
+identical protein binding	1.0	0.0	1.0	1.0	1.0
+cytoskeleton	1.0	1.0	1.0	1.0	1.0
+actin binding	1.0	1.0	0.0	0.0	1.0
+brain development	1.0	1.0	0.0	0.0	1.0
+ion channel binding	1.0	0.0	0.0	0.0	1.0
+profilin binding	1.0	0.0	1.0	1.0	1.0

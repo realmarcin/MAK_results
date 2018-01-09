@@ -1,0 +1,6 @@
+	Finnish type amyloidosis	"diabetes insipidus, nephrogenic, autosomal"	nemaline myopathy 7	autosomal recessive nonsyndromic deafness 102
+actin filament severing	1.0	0.0	1.0	0.0
+barbed-end actin filament capping	1.0	0.0	0.0	1.0
+actin filament depolymerization	0.0	1.0	1.0	0.0
+actin filament fragmentation	0.0	0.0	1.0	0.0
+positive regulation of actin filament depolymerization	0.0	0.0	1.0	0.0

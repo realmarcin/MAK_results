@@ -1,0 +1,6 @@
+"x"
+"1" "alpha.1.antitrypsin.deficiency"
+"2" "alpha.2.plasmin.inhibitor.deficiency"
+"3" "age.related.macular.degeneration.9"
+"4" "atypical.hemolytic.uremic.syndrome.with.C3.anomaly"
+"5" "complement.component.3.deficiency"

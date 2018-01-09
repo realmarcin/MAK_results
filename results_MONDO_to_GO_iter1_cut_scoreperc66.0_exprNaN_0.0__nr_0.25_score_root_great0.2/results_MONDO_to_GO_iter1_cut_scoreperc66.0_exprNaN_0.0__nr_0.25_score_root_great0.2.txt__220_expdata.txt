@@ -1,0 +1,7 @@
+	X-linked central congenital hypothyroidism with late-onset testicular enlargement	"systemic lupus erythematosus, susceptibility to, 1"	autoimmune lymphoproliferative syndrome type 1	"asthma-related Traits, susceptibility to, 1"	"Legionnaire disease, susceptibility to"	"melioidosis, susceptibility to"
+signal transduction	1.0	1.0	1.0	1.0	1.0	1.0
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	0.0	1.0	0.0	0.0	0.0
+inflammatory response	0.0	1.0	1.0	1.0	1.0	1.0
+extrinsic apoptotic signaling pathway in absence of ligand	0.0	0.0	1.0	0.0	0.0	0.0

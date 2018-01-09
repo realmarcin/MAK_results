@@ -1,0 +1,9 @@
+	autosomal recessive early-onset Parkinson disease 6	isolated focal cortical dysplasia type II	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	You-Hoover-Fong syndrome; YHFS
+establishment or maintenance of actin cytoskeleton polarity	0.0	1.0	1.0	0.0
+TORC2 complex	1.0	1.0	1.0	1.0
+1-phosphatidylinositol 4-kinase activity	0.0	1.0	1.0	0.0
+regulation of sphingolipid biosynthetic process	0.0	1.0	1.0	0.0
+mitochondria-nucleus signaling pathway	0.0	1.0	1.0	0.0
+regulation of snRNA pseudouridine synthesis	0.0	1.0	1.0	0.0
+actin filament reorganization involved in cell cycle	0.0	1.0	1.0	0.0
+positive regulation of Rho guanyl-nucleotide exchange factor activity	0.0	1.0	1.0	0.0

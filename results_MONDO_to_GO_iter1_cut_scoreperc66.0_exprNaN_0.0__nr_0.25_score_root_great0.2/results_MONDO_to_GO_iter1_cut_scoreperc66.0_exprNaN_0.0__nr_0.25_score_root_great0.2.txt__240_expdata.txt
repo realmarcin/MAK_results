@@ -1,0 +1,17 @@
+	familial erythrocytosis 1	polycythemia vera	Budd-Chiari syndrome	familial cold autoinflammatory syndrome 3	thrombocythemia 3	Autoinflammation-PLCG2-associated antibody deficiency-immune dysregulation
+identical protein binding	1.0	1.0	1.0	0.0	1.0	0.0
+regulation of apoptotic process	1.0	1.0	1.0	0.0	1.0	0.0
+membrane raft	1.0	1.0	1.0	0.0	1.0	0.0
+regulation of cell proliferation	1.0	1.0	1.0	0.0	1.0	0.0
+receptor binding	1.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of cytosolic calcium ion concentration	1.0	1.0	1.0	1.0	1.0	1.0
+response to lipopolysaccharide	1.0	1.0	1.0	1.0	1.0	1.0
+focal adhesion	1.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of cell migration	1.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of apoptotic process	1.0	1.0	1.0	0.0	1.0	0.0
+cell migration	1.0	1.0	1.0	0.0	1.0	0.0
+negative regulation of neuron apoptotic process	1.0	1.0	1.0	0.0	1.0	0.0
+protein kinase binding	1.0	1.0	1.0	0.0	1.0	0.0
+positive regulation of phosphatidylinositol 3-kinase signaling	1.0	1.0	1.0	0.0	1.0	0.0
+hemopoiesis	1.0	1.0	1.0	0.0	1.0	0.0
+cytokine-mediated signaling pathway	1.0	1.0	1.0	0.0	1.0	0.0

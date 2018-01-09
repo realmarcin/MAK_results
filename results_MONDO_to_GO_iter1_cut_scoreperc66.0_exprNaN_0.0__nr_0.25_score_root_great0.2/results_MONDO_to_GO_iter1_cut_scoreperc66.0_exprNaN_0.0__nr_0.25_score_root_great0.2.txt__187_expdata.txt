@@ -1,0 +1,9 @@
+	retinitis pigmentosa 10	3-Methylcrotonyl-Coa carboxylase 2 deficiency	myopathy with abnormal lipid metabolism	pyruvate carboxylase deficiency disease	Leber congenital amaurosis 11
+nucleotide binding	1.0	0.0	1.0	1.0	1.0
+cytoplasm	1.0	0.0	1.0	1.0	1.0
+cytosol	1.0	0.0	1.0	1.0	1.0
+DNA binding	1.0	0.0	1.0	1.0	1.0
+metal ion binding	1.0	0.0	1.0	1.0	1.0
+catalytic activity	1.0	0.0	1.0	1.0	1.0
+oxidation-reduction process	1.0	0.0	1.0	0.0	1.0
+nucleic acid binding	1.0	0.0	1.0	0.0	1.0

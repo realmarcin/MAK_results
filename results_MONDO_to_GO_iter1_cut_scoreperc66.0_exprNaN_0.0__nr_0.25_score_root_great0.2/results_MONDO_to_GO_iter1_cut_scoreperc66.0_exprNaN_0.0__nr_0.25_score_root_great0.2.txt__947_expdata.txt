@@ -1,0 +1,7 @@
+	atransferrinemia	hypoplasminogenemia	"metachromatic leukodystrophy, juvenile form"	"helicobacter pylori infection, susceptibility to"	Cornelia de Lange syndrome 3	osteogenesis imperfecta type 15
+extrinsic component of external side of plasma membrane	1.0	1.0	1.0	0.0	0.0	0.0
+mononuclear cell migration	0.0	1.0	0.0	0.0	0.0	0.0
+modification by host of symbiont morphology or physiology via secreted substance	0.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of cell-substrate adhesion	0.0	1.0	0.0	1.0	0.0	1.0
+interaction with symbiont via secreted substance involved in symbiotic interaction	0.0	1.0	0.0	0.0	0.0	0.0
+positive regulation of fibrinolysis	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,9 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	cataract 31 multiple types	autosomal dominant aplasia and myelodysplasia	pontocerebellar hypoplasia type 8
+vacuolar transport	0.0	0.0	1.0	0.0	1.0
+protein transport	0.0	0.0	1.0	0.0	1.0
+nucleus organization	0.0	0.0	1.0	0.0	1.0
+cell separation after cytokinesis	0.0	0.0	1.0	0.0	1.0
+regulation of mitotic spindle assembly	0.0	0.0	1.0	0.0	1.0
+mitotic metaphase plate congression	0.0	0.0	1.0	0.0	1.0
+regulation of centrosome duplication	0.0	0.0	1.0	0.0	1.0
+ESCRT III complex	0.0	0.0	1.0	0.0	1.0

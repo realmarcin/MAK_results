@@ -1,0 +1,8 @@
+	Bartter disease type 1	hypophosphatemic nephrolithiasis/osteoporosis 1	"Ehlers-Danlos syndrome, spondylocheirodysplastic type"	Fanconi renotubular syndrome 2	autosomal recessive spinocerebellar ataxia 19	"hypercalcemia, infantile, 2; HCINF2"
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+cell surface	1.0	1.0	0.0	1.0	1.0	1.0
+perinuclear region of cytoplasm	0.0	1.0	1.0	1.0	1.0	1.0
+membrane raft	0.0	1.0	0.0	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0	1.0	1.0	1.0
+sodium ion transport	1.0	1.0	0.0	1.0	1.0	1.0

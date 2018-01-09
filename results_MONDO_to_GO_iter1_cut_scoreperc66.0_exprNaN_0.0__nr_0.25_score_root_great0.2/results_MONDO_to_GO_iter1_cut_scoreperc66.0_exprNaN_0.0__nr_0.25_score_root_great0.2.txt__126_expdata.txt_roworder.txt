@@ -1,0 +1,6 @@
+"x"
+"1" "Bardet.Biedl.syndrome.1"
+"2" "Bardet.Biedl.syndrome.12"
+"3" "McKusick.Kaufman.syndrome"
+"4" "Bardet.Biedl.syndrome.6"
+"5" "Bardet.Biedl.syndrome.10"

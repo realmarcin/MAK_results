@@ -1,0 +1,8 @@
+"x"
+"1" "glycosaminoglycan biosynthetic process"
+"2" "proteoglycan biosynthetic process"
+"3" "heparan sulfate proteoglycan biosynthetic process"
+"4" "chondroitin sulfate proteoglycan biosynthetic process"
+"5" "sensory neuron axon guidance"
+"6" "heparin biosynthetic process"
+"7" "heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process"

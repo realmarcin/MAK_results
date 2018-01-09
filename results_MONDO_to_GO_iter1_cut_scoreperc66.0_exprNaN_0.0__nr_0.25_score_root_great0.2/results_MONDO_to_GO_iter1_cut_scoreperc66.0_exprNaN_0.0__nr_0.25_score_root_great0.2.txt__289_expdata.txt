@@ -1,0 +1,4 @@
+	hereditary spastic paraplegia 5A	congenital bile acid synthesis defect 1	congenital bile acid synthesis defect 3
+oxysterol 7-alpha-hydroxylase activity	1.0	0.0	1.0
+B cell chemotaxis	1.0	1.0	1.0
+"cholest-5-ene-3-beta,7-alpha-diol 3-beta-dehydrogenase activity"	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "plasma membrane"
+"2" "integral component of plasma membrane"
+"3" "transport"
+"4" "ion transport"
+"5" "transporter activity"
+"6" "basolateral plasma membrane"
+"7" "response to carbon dioxide"

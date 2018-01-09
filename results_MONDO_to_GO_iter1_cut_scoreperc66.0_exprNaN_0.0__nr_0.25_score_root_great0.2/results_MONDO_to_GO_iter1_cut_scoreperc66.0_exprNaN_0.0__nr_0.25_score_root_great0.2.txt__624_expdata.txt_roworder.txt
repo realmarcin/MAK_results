@@ -1,0 +1,6 @@
+"x"
+"1" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.a"
+"2" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.b"
+"3" "hyperekplexia.1"
+"4" "sulfite.oxidase.deficiency.due.to.molybdenum.cofactor.deficiency.type.c"
+"5" "xanthinuria.type.II"

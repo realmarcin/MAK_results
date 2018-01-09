@@ -1,0 +1,7 @@
+"x"
+"1" "spondyloepimetaphyseal.dysplasia..Pakistani.type"
+"2" "cystathioninuria..disease."
+"3" "gamma.glutamyl.transpeptidase.deficiency"
+"4" "classic.homocystinuria"
+"5" "neural.tube.defects..folate.Sensitive"
+"6" "craniosynostosis.and.dental.anomalies"

@@ -1,0 +1,5 @@
+	autosomal dominant progressive external ophthalmoplegia	mitochondrial DNA depletion syndrome 4a	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal recessive 1"	xeroderma pigmentosum variant type	sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal dominant 4"	"colorectal cancer, susceptibility to, 10"	mitochondrial DNA depletion syndrome 4b	"colorectal cancer, susceptibility to, 12"	facial dysmorphism-immunodeficiency-livedo-short stature syndrome	mandibular hypoplasia-deafness-progeroid syndrome
+DNA replication initiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+DNA replication	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+nucleotidyltransferase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA-directed DNA polymerase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

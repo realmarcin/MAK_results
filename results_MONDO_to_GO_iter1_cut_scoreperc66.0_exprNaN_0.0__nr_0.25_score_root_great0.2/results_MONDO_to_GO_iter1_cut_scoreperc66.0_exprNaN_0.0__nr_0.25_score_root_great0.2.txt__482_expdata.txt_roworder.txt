@@ -1,0 +1,6 @@
+"x"
+"1" "pancreatic.agenesis"
+"2" "maturity.onset.diabetes.of.the.young.type.4"
+"3" "Camptosynpolydactyly..complex"
+"4" "Mesoaxial.synostotic.syndactyly.with.phalangeal.reduction"
+"5" "Shashi.Pena.syndrome..SHAPNS"

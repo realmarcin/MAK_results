@@ -1,0 +1,7 @@
+"x"
+"1" "condensed chromosome"
+"2" "DNA recombination"
+"3" "double-strand break repair"
+"4" "double-strand break repair via nonhomologous end joining"
+"5" "DNA ligase activity"
+"6" "four-way junction DNA binding"

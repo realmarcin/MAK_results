@@ -1,0 +1,7 @@
+	ankyloblepharon-ectodermal defects-cleft lip/palate syndrome	Rapp-Hodgkin syndrome	"thyroid cancer, nonmedullary, 2"	limb-mammary syndrome	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3"	split hand-foot malformation 4
+neuron projection	1.0	1.0	1.0	1.0	1.0	1.0
+embryonic hindlimb morphogenesis	1.0	1.0	0.0	1.0	1.0	1.0
+central nervous system development	1.0	1.0	1.0	1.0	1.0	1.0
+MDM2/MDM4 family protein binding	1.0	1.0	0.0	1.0	1.0	1.0
+cell aging	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of apoptotic signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0

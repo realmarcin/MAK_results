@@ -1,0 +1,8 @@
+"x"
+"1" "protein binding"
+"2" "extracellular exosome"
+"3" "protein complex"
+"4" "metabolic process"
+"5" "gamma DNA polymerase complex"
+"6" "cytosol"
+"7" "hydrolase activity"

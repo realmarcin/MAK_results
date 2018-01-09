@@ -1,0 +1,8 @@
+"x"
+"1" "sphingolipid metabolic process"
+"2" "sphingolipid biosynthetic process"
+"3" "pyridoxal phosphate binding"
+"4" "SPOTS complex"
+"5" "biosynthetic process"
+"6" "serine C-palmitoyltransferase complex"
+"7" "serine C-palmitoyltransferase activity"

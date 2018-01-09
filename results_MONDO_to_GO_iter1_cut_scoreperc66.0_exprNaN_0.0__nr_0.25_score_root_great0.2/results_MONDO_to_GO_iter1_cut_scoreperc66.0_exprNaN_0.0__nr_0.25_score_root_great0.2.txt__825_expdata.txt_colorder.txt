@@ -1,0 +1,8 @@
+"x"
+"1" "regulation of striated muscle contraction"
+"2" "negative regulation of muscle contraction"
+"3" "nucleotide-sugar transmembrane transporter activity"
+"4" "positive regulation of endoplasmic reticulum calcium ion concentration"
+"5" "maintenance of mitochondrion location"
+"6" "negative regulation of endoplasmic reticulum calcium ion concentration"
+"7" "negative regulation of striated muscle contraction"

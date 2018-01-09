@@ -1,0 +1,6 @@
+	hepatocellular carcinoma	"hip dysplasia, Beukes type"	aggressive periodontitis	autosomal dominant neovascular inflammatory vitreoretinopathy	Papillon-Lefevre disease	Haim-Munk syndrome	autosomal recessive limb-girdle muscular dystrophy type 2A	pycnodysostosis	"diabetes mellitus, Noninsulin-dependent, 1"	autoimmune lymphoproliferative syndrome type 2B	"Parkinson disease 5, autosomal dominant, susceptibility to"	BAP1-related tumor predisposition syndrome	neuronal ceroid lipofuscinosis 13	early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome	hereditary spastic paraplegia 76	"ichthyosis, congenital, autosomal recessive 12; ARCI12"
+cysteine-type endopeptidase activity	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0
+cysteine-type peptidase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+proteolysis involved in cellular protein catabolic process	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+peptidase activator activity involved in apoptotic process	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+T cell mediated cytotoxicity	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

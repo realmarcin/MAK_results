@@ -1,0 +1,10 @@
+	primary ciliary dyskinesia 2	primary ciliary dyskinesia 18	primary ciliary dyskinesia 22	primary ciliary dyskinesia 33
+determination of left/right symmetry	1.0	0.0	0.0	1.0
+positive regulation of smoothened signaling pathway	0.0	0.0	0.0	1.0
+cellular protein localization	0.0	0.0	0.0	1.0
+microtubule binding	0.0	0.0	0.0	1.0
+muscle cell development	0.0	0.0	0.0	1.0
+cell motility	0.0	0.0	0.0	1.0
+Rab GTPase binding	0.0	0.0	0.0	1.0
+regulation of microtubule binding	0.0	0.0	0.0	1.0
+9+2 motile cilium	0.0	0.0	0.0	1.0

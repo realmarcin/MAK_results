@@ -1,0 +1,7 @@
+"x"
+"1" "hypoparathyroidism.deafness.renal.disease.syndrome"
+"2" "candidiasis..familial..5"
+"3" "major.affective.disorder.7"
+"4" "Adams.Oliver.syndrome.3"
+"5" "candidiasis..familial..9"
+"6" "autosomal.dominant.nonsyndromic.deafness.70"

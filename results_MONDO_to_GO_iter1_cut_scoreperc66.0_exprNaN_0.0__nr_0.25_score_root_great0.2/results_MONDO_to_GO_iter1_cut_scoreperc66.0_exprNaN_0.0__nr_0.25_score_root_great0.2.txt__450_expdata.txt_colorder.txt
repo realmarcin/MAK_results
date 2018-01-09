@@ -1,0 +1,6 @@
+"x"
+"1" "activation of MAPK activity"
+"2" "positive regulation of mitotic nuclear division"
+"3" "negative regulation of L-glutamate transport"
+"4" "cellular response to interferon-gamma"
+"5" "chemokine-mediated signaling pathway"

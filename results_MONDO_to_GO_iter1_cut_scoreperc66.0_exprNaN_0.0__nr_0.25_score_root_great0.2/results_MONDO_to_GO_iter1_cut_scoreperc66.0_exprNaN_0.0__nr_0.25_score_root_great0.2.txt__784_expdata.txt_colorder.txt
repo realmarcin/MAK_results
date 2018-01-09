@@ -1,0 +1,7 @@
+"x"
+"1" "centriole assembly"
+"2" "positive regulation of centriole replication"
+"3" "Flemming body"
+"4" "annulate lamellae"
+"5" "nuclear transport"
+"6" "regulation of phosphatidylinositol 3-kinase signaling"

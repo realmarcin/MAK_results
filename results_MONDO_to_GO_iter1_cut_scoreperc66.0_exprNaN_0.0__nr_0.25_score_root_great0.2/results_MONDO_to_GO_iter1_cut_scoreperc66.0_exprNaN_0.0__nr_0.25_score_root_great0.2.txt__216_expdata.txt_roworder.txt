@@ -1,0 +1,5 @@
+"x"
+"1" "retinitis.pigmentosa.56"
+"2" "macular.dystrophy..vitelliform..5"
+"3" "autosomal.dominant.nonsyndromic.deafness.12"
+"4" "autosomal.recessive.nonsyndromic.deafness.21"

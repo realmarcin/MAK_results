@@ -1,0 +1,8 @@
+	hypotrichosis 7	juvenile myelomonocytic leukemia	hereditary spastic paraplegia 28	hereditary spastic paraplegia 54
+COPII-coated ER to Golgi transport vesicle	0.0	0.0	0.0	1.0
+visual learning	0.0	1.0	0.0	1.0
+lipid catabolic process	1.0	0.0	1.0	1.0
+phosphatidylethanolamine metabolic process	0.0	0.0	1.0	1.0
+phospholipase activity	1.0	0.0	1.0	1.0
+ER to Golgi vesicle-mediated transport	0.0	0.0	0.0	1.0
+sperm mitochondrion organization	0.0	0.0	1.0	0.0

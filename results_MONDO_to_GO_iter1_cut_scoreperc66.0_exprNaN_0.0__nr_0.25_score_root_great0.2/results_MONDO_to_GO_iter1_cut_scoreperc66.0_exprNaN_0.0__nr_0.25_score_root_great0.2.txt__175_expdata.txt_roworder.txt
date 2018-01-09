@@ -1,0 +1,6 @@
+"x"
+"1" "neurocutaneous.melanocytosis"
+"2" "Noonan.syndrome.6"
+"3" "autoimmune.lymphoproliferative.syndrome.type.4"
+"4" "juvenile.myelomonocytic.leukemia"
+"5" "Auriculocondylar.syndrome.1"

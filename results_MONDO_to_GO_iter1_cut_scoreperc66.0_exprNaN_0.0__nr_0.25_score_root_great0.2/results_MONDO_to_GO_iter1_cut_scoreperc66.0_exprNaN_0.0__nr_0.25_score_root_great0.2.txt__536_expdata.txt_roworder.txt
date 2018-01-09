@@ -1,0 +1,5 @@
+"x"
+"1" "optic.atrophy.11..OPA11"
+"2" "CODAS.syndrome"
+"3" "Perrault.syndrome.3"
+"4" "NGLY1.deficiency"

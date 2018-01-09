@@ -1,0 +1,10 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	"nephrotic syndrome, type 12; NPHS12"
+positive regulation of SMAD protein import into nucleus	0.0	0.0	0.0	1.0
+SMAD protein signal transduction	0.0	0.0	0.0	1.0
+ribosomal large subunit export from nucleus	0.0	0.0	0.0	1.0
+glomerular visceral epithelial cell development	0.0	0.0	0.0	1.0
+nuclear pore organization	0.0	0.0	0.0	1.0
+nuclear pore nuclear basket	0.0	0.0	0.0	1.0
+glomerular visceral epithelial cell migration	0.0	0.0	0.0	1.0
+negative regulation of hydrogen peroxide-induced cell death	0.0	0.0	0.0	1.0
+nuclear pore linkers	0.0	0.0	0.0	1.0

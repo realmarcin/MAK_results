@@ -1,0 +1,5 @@
+"x"
+"1" "hydatidiform.mole..recurrent..1"
+"2" "familial.cold.autoinflammatory.syndrome.2"
+"3" "Lesch.Nyhan.syndrome"
+"4" "hypoxanthine.guanine.phosphoribosyltransferase.partial.deficiency"

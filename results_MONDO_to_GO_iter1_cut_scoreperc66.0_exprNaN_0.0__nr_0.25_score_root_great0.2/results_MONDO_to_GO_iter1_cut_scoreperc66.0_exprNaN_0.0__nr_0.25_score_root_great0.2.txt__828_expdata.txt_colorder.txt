@@ -1,0 +1,7 @@
+"x"
+"1" "amelogenesis"
+"2" "structural constituent of tooth enamel"
+"3" "regulation of cell morphogenesis"
+"4" "ameloblast differentiation"
+"5" "positive regulation of enamel mineralization"
+"6" "cellular response to cell-matrix adhesion"

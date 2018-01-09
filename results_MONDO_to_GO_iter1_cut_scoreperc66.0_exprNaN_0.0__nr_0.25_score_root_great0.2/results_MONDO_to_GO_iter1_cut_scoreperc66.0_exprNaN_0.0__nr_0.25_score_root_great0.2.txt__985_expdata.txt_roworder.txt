@@ -1,0 +1,5 @@
+"x"
+"1" "GABA.aminotransferase.deficiency"
+"2" "methylmalonic.acidemia.with.homocystinuria..type.cblX"
+"3" "syndromic.X.linked.intellectual.disability.Snyder.type"
+"4" "Koolen.de.Vries.syndrome"

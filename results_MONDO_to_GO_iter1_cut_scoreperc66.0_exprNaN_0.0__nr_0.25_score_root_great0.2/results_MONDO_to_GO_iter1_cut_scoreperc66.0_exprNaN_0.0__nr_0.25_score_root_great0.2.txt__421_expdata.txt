@@ -1,0 +1,18 @@
+	"hypercholesterolemia, familial"	"essential hypertension, genetic"	Laron syndrome with immunodeficiency	Laron syndrome	familial hypercholanemia
+fatty acid metabolic process	1.0	1.0	1.0	1.0	1.0
+succinate metabolic process	1.0	0.0	1.0	1.0	0.0
+activation of Janus kinase activity	1.0	1.0	0.0	1.0	0.0
+2-oxoglutarate metabolic process	1.0	0.0	1.0	1.0	0.0
+creatine metabolic process	1.0	0.0	1.0	1.0	0.0
+citrate metabolic process	1.0	0.0	1.0	1.0	0.0
+isoleucine metabolic process	1.0	0.0	1.0	1.0	0.0
+oxaloacetate metabolic process	1.0	0.0	1.0	1.0	0.0
+cellular response to hormone stimulus	1.0	0.0	1.0	1.0	0.0
+taurine metabolic process	1.0	0.0	1.0	1.0	1.0
+acute-phase response	1.0	0.0	1.0	0.0	0.0
+growth hormone receptor activity	1.0	0.0	0.0	1.0	0.0
+growth hormone receptor complex	1.0	0.0	0.0	1.0	0.0
+valine metabolic process	1.0	0.0	1.0	1.0	0.0
+creatinine metabolic process	1.0	0.0	1.0	1.0	0.0
+multicellular organism metabolic process	1.0	0.0	0.0	1.0	0.0
+allantoin metabolic process	1.0	0.0	1.0	1.0	0.0

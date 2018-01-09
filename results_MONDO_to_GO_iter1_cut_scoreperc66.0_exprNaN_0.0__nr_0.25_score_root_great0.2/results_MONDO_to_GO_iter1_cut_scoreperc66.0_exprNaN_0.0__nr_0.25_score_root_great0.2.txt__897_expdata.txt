@@ -1,0 +1,9 @@
+	Gerstmann-Straussler-Scheinker syndrome	"kuru, susceptibility to"	hemophilia A	fatal familial insomnia	Huntington disease-like 1	spongiform encephalopathy with neuropsychiatric features
+neuron projection	0.0	0.0	0.0	0.0	0.0	0.0
+metal ion binding	0.0	0.0	1.0	0.0	0.0	0.0
+oxidation-reduction process	0.0	0.0	1.0	0.0	0.0	0.0
+oxidoreductase activity	0.0	0.0	1.0	0.0	0.0	0.0
+response to metal ion	0.0	0.0	0.0	0.0	0.0	0.0
+superoxide dismutase activity	1.0	1.0	0.0	1.0	1.0	1.0
+copper ion binding	1.0	1.0	1.0	1.0	1.0	1.0
+blood coagulation	0.0	0.0	1.0	0.0	0.0	0.0

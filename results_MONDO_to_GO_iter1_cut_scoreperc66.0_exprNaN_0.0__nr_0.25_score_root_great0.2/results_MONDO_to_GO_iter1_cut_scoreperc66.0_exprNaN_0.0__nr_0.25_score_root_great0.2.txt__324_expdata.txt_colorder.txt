@@ -1,0 +1,5 @@
+"x"
+"1" "NAD+ kinase activity"
+"2" "lipid phosphorylation"
+"3" "diacylglycerol kinase activity"
+"4" "glycerolipid metabolic process"

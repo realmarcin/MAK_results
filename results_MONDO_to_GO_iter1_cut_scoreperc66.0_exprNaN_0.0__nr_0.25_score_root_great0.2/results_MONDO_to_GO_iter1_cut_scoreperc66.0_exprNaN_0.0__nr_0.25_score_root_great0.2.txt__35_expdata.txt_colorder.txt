@@ -1,0 +1,4 @@
+"x"
+"1" "single-stranded DNA-dependent ATP-dependent DNA helicase activity"
+"2" "MCM complex"
+"3" "ATP-dependent four-way junction helicase activity"

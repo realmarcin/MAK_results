@@ -1,0 +1,9 @@
+	MEDNIK syndrome	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 21"	"psoriasis 15, pustular, susceptibility to"	congenital myasthenic syndrome 18
+plasma membrane	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0
+nervous system development	1.0	0.0	0.0	1.0	0.0
+protein transport	1.0	1.0	1.0	1.0	1.0
+extracellular matrix organization	1.0	0.0	0.0	1.0	0.0
+vesicle-mediated transport	1.0	0.0	0.0	1.0	0.0
+clathrin binding	1.0	0.0	0.0	1.0	0.0
+AP-1 adaptor complex	1.0	0.0	0.0	1.0	0.0

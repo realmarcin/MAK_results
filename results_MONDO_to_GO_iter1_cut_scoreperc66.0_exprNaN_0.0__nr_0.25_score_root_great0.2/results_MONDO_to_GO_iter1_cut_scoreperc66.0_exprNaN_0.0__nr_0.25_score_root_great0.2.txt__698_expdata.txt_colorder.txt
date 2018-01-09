@@ -1,0 +1,6 @@
+"x"
+"1" "cell fate specification"
+"2" "adenohypophysis development"
+"3" "oligodendrocyte differentiation"
+"4" "embryonic neurocranium morphogenesis"
+"5" "glial cell differentiation"

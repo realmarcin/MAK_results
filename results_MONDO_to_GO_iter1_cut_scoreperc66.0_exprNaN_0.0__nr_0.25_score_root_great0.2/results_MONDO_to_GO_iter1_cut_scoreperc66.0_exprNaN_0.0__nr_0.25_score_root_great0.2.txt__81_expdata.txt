@@ -1,0 +1,8 @@
+	Sanfilippo syndrome type A	mucopolysaccharidosis type 7	Fabry disease	Hurler syndrome	Hurler-Scheie syndrome	Scheie syndrome
+lysosome	1.0	1.0	1.0	1.0	1.0	1.0
+receptor binding	0.0	1.0	1.0	1.0	1.0	1.0
+extracellular exosome	1.0	1.0	1.0	1.0	1.0	1.0
+metabolic process	1.0	1.0	1.0	1.0	1.0	1.0
+lysosome organization	0.0	0.0	0.0	1.0	1.0	1.0
+"hydrolase activity, hydrolyzing O-glycosyl compounds"	0.0	1.0	1.0	1.0	1.0	1.0
+glycosaminoglycan catabolic process	1.0	0.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "palmoplantar.keratoderma..mutilating..with.periorificial.keratotic.plaques..X.linked"
+"2" "ichthyosis.follicularis.alopecia.photophobia.syndrome"
+"3" "keratosis.follicularis.spinulosa.decalvans..X.linked"
+"4" "metaphyseal.chondrodysplasia..Spahr.type"
+"5" "Winchester.syndrome"
+"6" "spondyloepimetaphyseal.dysplasia..Missouri.type"

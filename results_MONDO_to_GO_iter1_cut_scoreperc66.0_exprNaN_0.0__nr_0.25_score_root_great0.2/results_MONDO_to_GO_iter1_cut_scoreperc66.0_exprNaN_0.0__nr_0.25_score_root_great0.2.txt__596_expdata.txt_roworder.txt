@@ -1,0 +1,7 @@
+"x"
+"1" "junctional.epidermolysis.bullosa.Herlitz.type"
+"2" "congenital.merosin.deficient.muscular.dystrophy.1A"
+"3" "dilated.cardiomyopathy.1JJ"
+"4" "laryngo.onycho.cutaneous.syndrome"
+"5" "Pierson.syndrome"
+"6" "LAMB2.related.infantile.onset.nephrotic.syndrome"

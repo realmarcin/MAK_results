@@ -1,0 +1,6 @@
+"x"
+"1" "BCC1"
+"2" "capillary.malformation.arteriovenous.malformation.syndrome"
+"3" "Parkes.Weber.syndrome"
+"4" "mental.retardation..X.linked.30"
+"5" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.1"

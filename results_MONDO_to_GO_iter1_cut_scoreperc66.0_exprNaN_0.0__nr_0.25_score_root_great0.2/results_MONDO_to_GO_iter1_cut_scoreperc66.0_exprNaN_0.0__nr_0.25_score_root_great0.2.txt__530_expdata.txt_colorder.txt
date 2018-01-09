@@ -1,0 +1,8 @@
+"x"
+"1" "protein binding"
+"2" "calcium ion binding"
+"3" "chaperone-mediated protein folding"
+"4" "signal transducer activity"
+"5" "hormone binding"
+"6" "ubiquitin protein ligase binding"
+"7" "positive regulation of feeding behavior"

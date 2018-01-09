@@ -1,0 +1,9 @@
+	spondylocostal dysostosis 5	"spondylocostal dysostosis 2, autosomal recessive"	sacral agenesis-abnormal ossification of the vertebral bodies-persistent notochordal canal syndrome	"spondylocostal dysostosis 6, autosomal recessive"
+mesoderm formation	1.0	1.0	1.0	0.0
+somitogenesis	1.0	1.0	1.0	1.0
+regulation of BMP signaling pathway involved in heart jogging	0.0	0.0	1.0	0.0
+notochord formation	0.0	0.0	1.0	0.0
+pronephric glomerulus morphogenesis	0.0	0.0	1.0	0.0
+determination of left/right asymmetry in diencephalon	0.0	0.0	1.0	0.0
+convergent extension involved in axis elongation	0.0	0.0	1.0	0.0
+convergent extension involved in nephron morphogenesis	0.0	0.0	1.0	0.0

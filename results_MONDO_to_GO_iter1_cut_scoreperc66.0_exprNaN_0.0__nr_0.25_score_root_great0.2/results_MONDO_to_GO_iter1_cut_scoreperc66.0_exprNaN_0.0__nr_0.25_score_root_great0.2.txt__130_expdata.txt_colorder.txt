@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "plasma membrane"
+"4" "ion transport"
+"5" "magnesium ion transport"
+"6" "magnesium ion transmembrane transporter activity"
+"7" "intracellular membrane-bounded organelle"

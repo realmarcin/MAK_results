@@ -1,0 +1,8 @@
+"x"
+"1" "identical protein binding"
+"2" "protein autoubiquitination"
+"3" "protein homooligomerization"
+"4" "protein complex binding"
+"5" "positive regulation of cilium assembly"
+"6" "endoplasmic reticulum calcium ion homeostasis"
+"7" "cullin family protein binding"

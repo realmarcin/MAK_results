@@ -1,0 +1,7 @@
+"x"
+"1" "split.hand.foot.malformation.1.with.sensorineural.hearing.loss"
+"2" "agnathia.otocephaly.complex"
+"3" "short.stature.auditory.canal.atresia.mandibular.hypoplasia.skeletal.anomalies.syndrome"
+"4" "Hirschsprung.disease.ganglioneuroblastoma.syndrome"
+"5" "Athabaskan.brainstem.dysgenesis.syndrome"
+"6" "van.der.Woude.syndrome.2"

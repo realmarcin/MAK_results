@@ -1,0 +1,4 @@
+"x"
+"1" "negative regulation of non-canonical Wnt signaling pathway"
+"2" "negative regulation of sodium-dependent phosphate transport"
+"3" "positive regulation of keratinocyte apoptotic process"

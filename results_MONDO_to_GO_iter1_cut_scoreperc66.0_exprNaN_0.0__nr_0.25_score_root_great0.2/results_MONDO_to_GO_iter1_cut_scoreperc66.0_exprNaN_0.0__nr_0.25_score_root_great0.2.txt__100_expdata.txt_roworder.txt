@@ -1,0 +1,5 @@
+"x"
+"1" "thrombophilia.due.to.activated.protein.C.resistance"
+"2" "congenital.factor.V.deficiency"
+"3" "pregnancy.loss..recurrent..susceptibility.to..1"
+"4" "aceruloplasminemia"

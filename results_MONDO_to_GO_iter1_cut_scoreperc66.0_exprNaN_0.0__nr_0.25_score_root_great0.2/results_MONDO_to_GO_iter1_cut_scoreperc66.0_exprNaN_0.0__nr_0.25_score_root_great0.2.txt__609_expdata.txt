@@ -1,0 +1,9 @@
+	Rubinstein-Taybi syndrome due to CREBBP mutations	autosomal recessive congenital ichthyosis 1	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	spinal muscular atrophy with congenital bone fractures 1	"muscular dystrophy, congenital, Davignon-Chauveau type; MDCDC"
+transferase activity	1.0	1.0	1.0	0.0	0.0
+DNA binding transcription factor activity	1.0	0.0	1.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	0.0	0.0
+histone acetyltransferase activity	1.0	0.0	1.0	0.0	0.0
+transcription cofactor activity	1.0	0.0	1.0	0.0	0.0
+"transferase activity, transferring acyl groups"	1.0	1.0	1.0	0.0	0.0
+histone acetylation	1.0	0.0	1.0	0.0	0.0
+histone acetyltransferase complex	1.0	0.0	1.0	0.0	0.0

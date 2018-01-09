@@ -1,0 +1,4 @@
+	autosomal recessive infantile hypercalcemia	Hypocalcemic vitamin d-dependent rickets	"vitamin d Hydroxylation-deficient rickets, type 1B"
+25-hydroxycholecalciferol-24-hydroxylase activity	1.0	0.0	0.0
+"1-alpha,25-dihydroxyvitamin D3 24-hydroxylase activity"	1.0	0.0	0.0
+vitamin D metabolic process	1.0	1.0	1.0

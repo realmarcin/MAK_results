@@ -1,0 +1,9 @@
+	"pseudoxanthoma elasticum, Forme Fruste"	Rotor syndrome	Dubin-Johnson syndrome	pseudoxanthoma elasticum	"arterial calcification, generalized, of infancy, 2"
+cadmium ion transmembrane transporter activity	1.0	0.0	1.0	1.0	1.0
+ATP hydrolysis coupled anion transmembrane transport	1.0	0.0	1.0	1.0	1.0
+glutathione S-conjugate-exporting ATPase activity	1.0	0.0	1.0	1.0	1.0
+bilirubin transport	1.0	0.0	1.0	1.0	1.0
+bilirubin transmembrane transporter activity	1.0	0.0	1.0	1.0	1.0
+xenobiotic transport	1.0	0.0	1.0	1.0	1.0
+bile acid-exporting ATPase activity	1.0	0.0	1.0	1.0	1.0
+organic anion transport	1.0	1.0	1.0	1.0	1.0

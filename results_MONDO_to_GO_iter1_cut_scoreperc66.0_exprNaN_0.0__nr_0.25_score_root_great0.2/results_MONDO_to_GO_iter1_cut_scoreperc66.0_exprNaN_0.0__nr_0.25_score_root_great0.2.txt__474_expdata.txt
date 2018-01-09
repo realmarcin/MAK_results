@@ -1,0 +1,5 @@
+	congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	MEND syndrome	X-linked chondrodysplasia punctata	autosomal recessive distal spinal muscular atrophy 2	amyotrophic lateral sclerosis type 16
+steroid delta-isomerase activity	1.0	1.0	1.0	0.0	0.0
+cholestenol delta-isomerase activity	0.0	1.0	1.0	0.0	0.0
+C-8 sterol isomerase activity	0.0	1.0	1.0	1.0	1.0
+opioid receptor activity	0.0	0.0	0.0	1.0	1.0

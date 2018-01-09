@@ -1,0 +1,7 @@
+"x"
+"1" "actin binding"
+"2" "calmodulin binding"
+"3" "actin filament-based movement"
+"4" "cellular bud neck contractile ring"
+"5" "Z disc"
+"6" "stress fiber"

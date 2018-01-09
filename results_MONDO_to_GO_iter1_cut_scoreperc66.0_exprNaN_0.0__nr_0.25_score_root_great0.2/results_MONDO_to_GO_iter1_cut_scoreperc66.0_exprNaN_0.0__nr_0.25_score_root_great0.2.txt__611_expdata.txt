@@ -1,0 +1,11 @@
+	recurrent infection due to specific granule deficiency	"erythrocytosis, familial, 4"	craniosynostosis 3	mitochondrial DNA depletion syndrome 15 (hepatocerebral type);
+nucleus	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0
+DNA binding transcription factor activity	1.0	1.0	1.0	1.0
+defense response to bacterium	1.0	0.0	0.0	0.0
+macrophage differentiation	1.0	0.0	0.0	0.0
+phagocytosis	1.0	0.0	0.0	0.0
+myeloid cell differentiation	1.0	0.0	0.0	0.0
+granulocyte differentiation	1.0	0.0	0.0	0.0
+regulation of neutrophil differentiation	1.0	0.0	0.0	0.0
+cytokine biosynthetic process	1.0	0.0	0.0	0.0

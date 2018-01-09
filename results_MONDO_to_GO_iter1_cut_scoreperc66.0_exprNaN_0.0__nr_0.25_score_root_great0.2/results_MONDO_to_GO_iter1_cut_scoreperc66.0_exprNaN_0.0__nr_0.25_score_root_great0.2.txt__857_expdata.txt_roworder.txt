@@ -1,0 +1,6 @@
+"x"
+"1" "nucleoside.diphosphate.linked.Moiety.X.Motif.15.deficiency..NUDT15D"
+"2" "dyslexia..susceptibility.to..1"
+"3" "polycystic.kidney.disease.1"
+"4" "primary.ciliary.dyskinesia.25"
+"5" "ITPA.related.encephalopathy"

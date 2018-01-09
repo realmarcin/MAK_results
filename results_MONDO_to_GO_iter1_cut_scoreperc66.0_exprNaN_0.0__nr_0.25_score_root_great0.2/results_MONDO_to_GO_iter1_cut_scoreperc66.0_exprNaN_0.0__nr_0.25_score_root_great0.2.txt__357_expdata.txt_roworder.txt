@@ -1,0 +1,5 @@
+"x"
+"1" "renal.tubular.dysgenesis.of.genetic.origin"
+"2" "essential.hypertension..genetic"
+"3" "precocious.puberty..central..1"
+"4" "hypogonadotropic.hypogonadism.8.with.or.without.anosmia"

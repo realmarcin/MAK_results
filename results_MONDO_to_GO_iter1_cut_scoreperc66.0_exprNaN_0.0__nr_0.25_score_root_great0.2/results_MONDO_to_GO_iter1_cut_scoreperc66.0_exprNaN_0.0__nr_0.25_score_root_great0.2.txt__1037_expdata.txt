@@ -1,0 +1,26 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	cataract 31 multiple types	autosomal dominant aplasia and myelodysplasia
+cytoplasmic side of plasma membrane	0.0	0.0	1.0	0.0
+vesicle	0.0	0.0	1.0	0.0
+protein homooligomerization	0.0	0.0	1.0	0.0
+cadherin binding	0.0	0.0	1.0	0.0
+negative regulation of neuron death	0.0	0.0	1.0	0.0
+negative regulation of cell death	0.0	0.0	1.0	0.0
+mitotic cytokinesis	0.0	0.0	1.0	0.0
+late endosome to vacuole transport	0.0	0.0	1.0	0.0
+positive regulation of viral release from host cell	0.0	0.0	1.0	0.0
+viral budding	0.0	0.0	1.0	0.0
+midbody	0.0	0.0	1.0	0.0
+exit from mitosis	0.0	0.0	1.0	0.0
+membrane coat	0.0	0.0	1.0	0.0
+negative regulation of autophagosome assembly	0.0	0.0	1.0	0.0
+maintenance of lens transparency	0.0	0.0	1.0	0.0
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	0.0	0.0	1.0	0.0
+abscission	0.0	0.0	1.0	0.0
+intralumenal vesicle formation	0.0	0.0	1.0	0.0
+regulation of viral process	0.0	0.0	1.0	0.0
+cellular response to anoxia	0.0	0.0	1.0	0.0
+nuclear envelope reassembly	0.0	0.0	1.0	0.0
+viral budding via host ESCRT complex	0.0	0.0	1.0	0.0
+negative regulation of cytokinesis	0.0	0.0	1.0	0.0
+mitotic cytokinesis checkpoint	0.0	0.0	1.0	0.0
+membrane fission	0.0	0.0	1.0	0.0

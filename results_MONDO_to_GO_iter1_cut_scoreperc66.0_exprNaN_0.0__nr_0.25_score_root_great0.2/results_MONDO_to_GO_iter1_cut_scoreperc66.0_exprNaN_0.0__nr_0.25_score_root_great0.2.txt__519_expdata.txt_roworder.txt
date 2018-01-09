@@ -1,0 +1,5 @@
+"x"
+"1" "retinitis.pigmentosa.27"
+"2" "craniosynostosis.3"
+"3" "mitochondrial.DNA.depletion.syndrome.15..hepatocerebral.type.."
+"4" "erythrocytosis..familial..4"

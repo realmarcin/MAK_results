@@ -1,0 +1,6 @@
+"x"
+"1" "Cornelia.de.Lange.syndrome.1"
+"2" "autosomal.recessive.nonsyndromic.deafness.35"
+"3" "hereditary.spastic.paraplegia.35"
+"4" "vesicoureteral.reflux.3"
+"5" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.3"

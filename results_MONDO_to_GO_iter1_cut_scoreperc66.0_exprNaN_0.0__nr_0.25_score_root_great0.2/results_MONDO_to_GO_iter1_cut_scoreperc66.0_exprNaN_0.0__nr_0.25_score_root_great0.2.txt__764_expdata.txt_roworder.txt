@@ -1,0 +1,7 @@
+"x"
+"1" "syndromic.X.linked.intellectual.disability.94"
+"2" "Landau.Kleffner.syndrome"
+"3" "mental.retardation..autosomal.dominant.6"
+"4" "mental.retardation..autosomal.dominant.8"
+"5" "epileptic.encephalopathy..early.infantile..27"
+"6" "epileptic.encephalopathy..early.infantile..46..EIEE46"

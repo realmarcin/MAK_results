@@ -1,0 +1,8 @@
+	Rotor syndrome	distal renal tubular acidosis with anemia	hereditary spherocytosis type 4
+plasma membrane	1.0	1.0	1.0
+integral component of plasma membrane	1.0	1.0	1.0
+transport	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0
+transporter activity	1.0	1.0	1.0
+basolateral plasma membrane	1.0	1.0	1.0
+response to carbon dioxide	0.0	1.0	1.0

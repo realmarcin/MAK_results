@@ -1,0 +1,8 @@
+"x"
+"1" "primary.failure.of.tooth.eruption"
+"2" "metaphyseal.chondrodysplasia..Jansen.type"
+"3" "chondrodysplasia.blomstrand.type"
+"4" "Eiken.syndrome"
+"5" "isolated.growth.hormone.deficiency.type.ib"
+"6" "myoclonic.dystonia.11"
+"7" "prune.belly.syndome"

@@ -1,0 +1,7 @@
+"x"
+"1" "dentin.dysplasia.type.II"
+"2" "dentinogenesis.imperfecta.type.2"
+"3" "dentinogenesis.imperfecta.type.3"
+"4" "deafness..autosomal.dominant.39..with.dentinogenesis.imperfecta.1"
+"5" "amelogenesis.imperfecta.type.1B"
+"6" "amelogenesis.imperfecta.type.1C"

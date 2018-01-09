@@ -1,0 +1,8 @@
+"x"
+"1" "nucleus"
+"2" "regulation of transcription, DNA-templated"
+"3" "DNA binding"
+"4" "sequence-specific DNA binding"
+"5" "otic vesicle development"
+"6" "RNA polymerase II transcription factor binding"
+"7" "dorsal/ventral neural tube patterning"

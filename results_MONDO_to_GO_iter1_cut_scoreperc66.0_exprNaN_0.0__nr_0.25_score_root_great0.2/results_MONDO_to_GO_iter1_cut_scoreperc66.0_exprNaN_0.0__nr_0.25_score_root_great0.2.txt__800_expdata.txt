@@ -1,0 +1,6 @@
+	thrombophilia due to thrombin defect	multiple acyl-CoA dehydrogenase deficiency	homocystinuria due to methylene tetrahydrofolate reductase deficiency	pyruvate dehydrogenase E3 deficiency	mitochondrial complex I deficiency	mitochondrial complex II deficiency	Leigh syndrome	thyroid dyshormonogenesis 4	xanthinuria type I	trimethylaminuria (disease)	2-methylbutyryl-CoA dehydrogenase deficiency	Pyridoxal phosphate-responsive seizures	dilated cardiomyopathy 1GG	paragangliomas 5
+NADP binding	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+NADPH-hemoprotein reductase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+FMN binding	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+electron transfer activity	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+flavin adenine dinucleotide binding	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0

@@ -1,0 +1,6 @@
+	hereditary arterial and articular multiple calcification syndrome	protein-losing enteropathy (disease)	hyaline fibromatosis syndrome	GAPO syndrome	SLEB6	neurodegenerative syndrome due to cerebral folate transport deficiency	porencephaly-microcephaly-bilateral congenital cataract syndrome	platelet-type bleeding disorder 9	platelet-type bleeding disorder 11	congenital nephrotic syndrome-interstitial lung disease-epidermolysis bullosa syndrome	"hyperlipoproteinemia, type 1D"
+plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cell surface	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of T cell differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to lipopolysaccharide	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Microvascular.complications.of.diabetes..susceptibility.to..5"
+"2" "familial.apolipoprotein.c.II.deficiency"
+"3" "apolipoprotein.c.Iii.deficiency"
+"4" "autosomal.recessive.osteopetrosis.3"
+"5" "Wiedemann.Steiner.syndrome"
+"6" "myopia.23..autosomal.recessive"

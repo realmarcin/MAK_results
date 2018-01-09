@@ -1,0 +1,5 @@
+	isolated growth hormone deficiency type II	isolated growth hormone deficiency type IA	short stature due to growth hormone qualitative anomaly	"46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency"	leukoencephalopathy with vanishing white matter	AGAT deficiency	isolated growth hormone deficiency type ib	alpha 1-antitrypsin deficiency
+positive regulation of neurogenesis	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+response to peptide hormone	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+neuroblast proliferation	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+growth hormone activity	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0

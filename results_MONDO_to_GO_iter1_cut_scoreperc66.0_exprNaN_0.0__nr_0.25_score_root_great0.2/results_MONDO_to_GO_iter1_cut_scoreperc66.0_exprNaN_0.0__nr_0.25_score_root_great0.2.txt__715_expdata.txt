@@ -1,0 +1,8 @@
+	"arthrogryposis, renal dysfunction, and cholestasis 1"	CEDNIK syndrome	"epileptic encephalopathy, early infantile, 4"	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18	mucopolysaccharidosis-plus syndrome; MPSPS
+molecular_function	1.0	0.0	1.0	1.0	0.0	1.0
+cellular_component	0.0	0.0	1.0	0.0	0.0	1.0
+phosphatidylinositol binding	1.0	0.0	0.0	0.0	0.0	1.0
+vesicle-mediated transport	1.0	0.0	1.0	0.0	0.0	1.0
+vesicle docking involved in exocytosis	1.0	0.0	1.0	0.0	0.0	1.0
+clathrin complex	1.0	0.0	0.0	0.0	0.0	1.0
+HOPS complex	0.0	0.0	0.0	0.0	0.0	1.0

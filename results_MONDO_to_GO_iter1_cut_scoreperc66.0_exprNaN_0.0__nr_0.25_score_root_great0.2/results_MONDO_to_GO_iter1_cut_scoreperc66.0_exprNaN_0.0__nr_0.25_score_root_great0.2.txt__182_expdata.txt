@@ -1,0 +1,5 @@
+	ALG13-CDG	DPAGT1-CDG	congenital myasthenic syndrome 13
+UDP-N-acetylglucosamine transferase complex	1.0	1.0	1.0
+dolichyl diphosphate biosynthetic process	0.0	1.0	1.0
+UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity	0.0	1.0	1.0
+phospho-N-acetylmuramoyl-pentapeptide-transferase activity	0.0	1.0	1.0

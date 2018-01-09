@@ -1,0 +1,10 @@
+	predisposition to invasive fungal disease due to CARD9 deficiency	autoimmune lymphoproliferative syndrome type 2B	FADD-related immunodeficiency	"herpes simplex encephalitis, susceptibility to, 3"
+positive regulation of tumor necrosis factor production	1.0	0.0	1.0	0.0
+tumor necrosis factor receptor binding	0.0	1.0	1.0	1.0
+defense response to virus	1.0	0.0	1.0	0.0
+response to fungus	1.0	0.0	0.0	0.0
+regulation of tumor necrosis factor biosynthetic process	1.0	0.0	0.0	0.0
+regulation of interleukin-6 biosynthetic process	1.0	0.0	0.0	0.0
+positive regulation of stress-activated MAPK cascade	1.0	0.0	0.0	0.0
+response to muramyl dipeptide	1.0	0.0	0.0	0.0
+regulation of interleukin-2 biosynthetic process	1.0	0.0	0.0	0.0

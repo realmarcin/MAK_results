@@ -1,0 +1,7 @@
+	renal hypomagnesemia 2	hereditary hypophosphatemic rickets with hypercalciuria	Gitelman syndrome	pulmonary alveolar microlithiasis	creatine transporter deficiency	autosomal recessive proximal renal tubular acidosis	testicular microlithiasis (disease)	"bile acid malabsorption, primary"
+sodium ion transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+symporter activity	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+chloride ion homeostasis	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+sodium ion transmembrane transporter activity	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+pronephric duct morphogenesis	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+sodium:chloride symporter activity	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

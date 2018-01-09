@@ -1,0 +1,6 @@
+	Richieri Costa-Pereira syndrome	short stature-delayed bone age due to thyroid hormone metabolism deficiency	pontocerebellar hypoplasia type 2D	hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome
+selenocysteine insertion sequence binding	1.0	1.0	0.0	0.0
+positive regulation of selenocysteine incorporation	0.0	1.0	0.0	0.0
+selenocysteine incorporation	0.0	1.0	1.0	0.0
+"transferase activity, transferring selenium-containing groups"	0.0	0.0	1.0	0.0
+selenocysteinyl-tRNA(Sec) biosynthetic process	0.0	0.0	1.0	1.0

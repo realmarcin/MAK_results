@@ -1,0 +1,8 @@
+"x"
+"1" "prostate.cancer"
+"2" "androgen.insensitivity.syndrome"
+"3" "hypospadias.1..X.linked"
+"4" "partial.androgen.insensitivity.syndrome"
+"5" "Kennedy.s.disease"
+"6" "Microvascular.complications.of.diabetes..susceptibility.to..1"
+"7" "autosomal.recessive.osteopetrosis.2"

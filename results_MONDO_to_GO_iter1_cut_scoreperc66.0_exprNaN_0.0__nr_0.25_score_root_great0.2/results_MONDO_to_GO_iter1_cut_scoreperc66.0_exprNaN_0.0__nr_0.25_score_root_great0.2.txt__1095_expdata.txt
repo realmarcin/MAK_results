@@ -1,0 +1,6 @@
+	type III Ehlers-Danlos syndrome	"autosomal dominant Ehlers-Danlos syndrome, vascular type"	"microcephaly 1, primary, autosomal recessive"	"microcephaly 2, primary, autosomal recessive, with or without cortical malformations"	NDE1-related microhydranencephaly	"mental retardation, autosomal recessive 13"	"Rett syndrome, congenital variant"	lissencephaly 4	holoprosencephaly 11	"leukemia, acute lymphoblastic, susceptibility to, 3"	van Maldergem syndrome 2	Hennekam lymphangiectasia-lymphedema syndrome 2	short-rib thoracic dysplasia 13 with or without polydactyly
+dendrite	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+axon	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of MAPK cascade	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cerebral cortex development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of GTPase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "obsessive.compulsive.disorder"
+"2" "congenital.central.hypoventilation.syndrome"
+"3" "bulimia.nervosa..susceptibility.to..1"
+"4" "bulimia.nervosa..susceptibility.to..2"
+"5" "campomelic.dysplasia"
+"6" "X46.Xy.sex.reversal.10"

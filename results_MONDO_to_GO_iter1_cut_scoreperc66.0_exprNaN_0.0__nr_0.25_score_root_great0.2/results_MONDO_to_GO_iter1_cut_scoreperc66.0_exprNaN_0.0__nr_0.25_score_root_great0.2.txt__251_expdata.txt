@@ -1,0 +1,6 @@
+	Usher syndrome type 1	Usher syndrome type 1C	autosomal recessive nonsyndromic deafness 18A	retinitis pigmentosa 61	sinoatrial node dysfunction and deafness	aldosterone-producing adenoma with seizures and neurological abnormalities
+synapse organization	1.0	1.0	1.0	1.0	1.0	1.0
+neuromuscular process controlling balance	1.0	1.0	1.0	1.0	1.0	1.0
+retinal cone cell development	1.0	1.0	1.0	0.0	0.0	0.0
+cellular protein complex assembly	1.0	1.0	1.0	0.0	0.0	0.0
+brush border assembly	1.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,17 @@
+	"diabetes mellitus, Noninsulin-dependent"	familial apolipoprotein c-II deficiency	"hypoproteinemia, Hypercatabolic"	hyperlipidemia due to hepatic triglyceride lipase deficiency	"epileptic encephalopathy, early infantile, 38; EIEE38"
+protein oligomerization	1.0	0.0	0.0	1.0	0.0
+fatty acid biosynthetic process	1.0	0.0	0.0	1.0	0.0
+chylomicron remodeling	1.0	0.0	0.0	1.0	0.0
+glycerophospholipid catabolic process	1.0	0.0	0.0	1.0	0.0
+phosphatidylserine metabolic process	1.0	0.0	0.0	1.0	0.0
+lipase activity	1.0	0.0	0.0	1.0	0.0
+heparan sulfate proteoglycan binding	1.0	0.0	0.0	1.0	0.0
+regulation of plasma lipoprotein particle levels	1.0	0.0	0.0	1.0	0.0
+lysophospholipase activity	1.0	0.0	0.0	1.0	0.0
+chylomicron binding	1.0	0.0	0.0	1.0	0.0
+heparan sulfate proteoglycan biosynthetic process	1.0	0.0	0.0	1.0	0.0
+phosphatidylcholine 1-acylhydrolase activity	1.0	0.0	0.0	1.0	0.0
+acylglycerol lipase activity	1.0	0.0	0.0	1.0	0.0
+phosphatidic acid metabolic process	1.0	0.0	0.0	1.0	0.0
+phosphatidylethanolamine metabolic process	1.0	0.0	0.0	1.0	0.0
+neutral lipid catabolic process	1.0	0.0	0.0	1.0	0.0

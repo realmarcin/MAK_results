@@ -1,0 +1,6 @@
+	"corneal dystrophy, Fuchs endothelial, 1"	Schmid metaphyseal chondrodysplasia	late-onset retinal degenration	posterior polymorphous corneal dystrophy 2	C1Q deficiency
+molecular_function	0.0	0.0	1.0	0.0	1.0
+collagen trimer	1.0	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0	1.0
+"complement activation, classical pathway"	0.0	0.0	0.0	0.0	1.0
+protein homotrimerization	0.0	0.0	0.0	0.0	1.0

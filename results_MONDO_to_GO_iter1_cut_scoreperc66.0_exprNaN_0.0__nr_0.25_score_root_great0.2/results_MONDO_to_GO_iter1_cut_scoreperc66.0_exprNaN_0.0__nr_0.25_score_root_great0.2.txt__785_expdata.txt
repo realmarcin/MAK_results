@@ -1,0 +1,7 @@
+	Charcot-Marie-tooth disease type 2B	autosomal recessive nonsyndromic deafness 77	Prader-Willi syndrome due to point mutation	"epileptic encephalopathy, early infantile, 49; EIEE49"
+membrane	0.0	1.0	0.0	1.0
+cell projection	0.0	1.0	0.0	0.0
+sensory perception of sound	0.0	1.0	0.0	0.0
+calcium channel activity	0.0	1.0	0.0	1.0
+detection of mechanical stimulus	0.0	1.0	0.0	1.0
+stereocilium	0.0	1.0	0.0	0.0

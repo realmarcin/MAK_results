@@ -1,0 +1,12 @@
+	type II complement component 8 deficiency	type i complement component 8 deficiency	complement component 9 deficiency	age related macular degeneration 15
+extracellular space	1.0	1.0	1.0	1.0
+extracellular exosome	1.0	1.0	1.0	1.0
+extracellular region	1.0	1.0	1.0	1.0
+cytolysis	1.0	1.0	1.0	1.0
+immune response	1.0	1.0	1.0	1.0
+immune system process	1.0	1.0	1.0	1.0
+innate immune response	1.0	1.0	1.0	1.0
+"complement activation, classical pathway"	1.0	1.0	1.0	1.0
+MyD88-dependent toll-like receptor signaling pathway	0.0	0.0	0.0	0.0
+"complement activation, alternative pathway"	1.0	1.0	1.0	1.0
+membrane attack complex	1.0	1.0	1.0	1.0

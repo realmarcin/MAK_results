@@ -1,0 +1,5 @@
+"x"
+"1" "hemolytic.anemia.due.to.pyrimidine.5..nucleotidase.deficiency"
+"2" "hereditary.spastic.paraplegia.45"
+"3" "prostate.cancer..hereditary..1"
+"4" "X5.oxoprolinase.deficiency..disease."

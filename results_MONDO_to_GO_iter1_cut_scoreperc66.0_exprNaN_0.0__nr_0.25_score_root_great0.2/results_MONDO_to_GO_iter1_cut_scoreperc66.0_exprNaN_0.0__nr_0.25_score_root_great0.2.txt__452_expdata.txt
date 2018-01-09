@@ -1,0 +1,9 @@
+	Meier-Gorlin syndrome 1	Meier-Gorlin syndrome 2	Meier-Gorlin syndrome 5	Meier-Gorlin syndrome 7; MGORS7
+DNA replication preinitiation complex	1.0	1.0	1.0	1.0
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication	1.0	1.0	1.0	1.0
+nuclear pre-replicative complex	1.0	1.0	1.0	1.0
+regulation of chromatin silencing at telomere	0.0	0.0	1.0	1.0
+3'-5' DNA helicase activity	0.0	0.0	0.0	1.0
+replication fork protection complex	0.0	0.0	0.0	1.0
+mitotic DNA replication preinitiation complex assembly	0.0	0.0	0.0	1.0
+CMG complex	0.0	0.0	0.0	1.0

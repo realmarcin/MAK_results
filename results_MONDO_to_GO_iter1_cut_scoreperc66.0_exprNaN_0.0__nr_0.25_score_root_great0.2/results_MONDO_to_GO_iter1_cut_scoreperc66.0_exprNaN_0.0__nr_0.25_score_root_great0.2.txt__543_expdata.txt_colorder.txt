@@ -1,0 +1,6 @@
+"x"
+"1" "glutathione binding"
+"2" "glutathione biosynthetic process"
+"3" "glutathione synthase activity"
+"4" "cobalamin biosynthetic process"
+"5" "cyanocobalamin reductase (cyanide-eliminating) activity"

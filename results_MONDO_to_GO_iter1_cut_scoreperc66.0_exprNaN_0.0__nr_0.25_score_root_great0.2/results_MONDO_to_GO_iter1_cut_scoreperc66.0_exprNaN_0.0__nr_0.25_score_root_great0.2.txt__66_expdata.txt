@@ -1,0 +1,8 @@
+	retinal cone dystrophy 3A	"pigmented nodular adrenocortical disease, primary, 2"	cone dystrophy 4	retinitis pigmentosa 57	"dyskinesia, limb and orofacial, infantile-onset; IOLOD"	"striatal degeneration, autosomal dominant 2; ADSD2"
+signal transduction	0.0	1.0	1.0	0.0	1.0	1.0
+hydrolase activity	1.0	1.0	1.0	1.0	1.0	1.0
+metal ion binding	0.0	1.0	1.0	0.0	1.0	1.0
+"3',5'-cyclic-nucleotide phosphodiesterase activity"	1.0	1.0	1.0	1.0	1.0	1.0
+phosphoric diester hydrolase activity	0.0	1.0	1.0	0.0	1.0	1.0
+"3',5'-cyclic-GMP phosphodiesterase activity"	1.0	1.0	1.0	1.0	1.0	1.0
+cGMP binding	1.0	1.0	1.0	1.0	1.0	1.0

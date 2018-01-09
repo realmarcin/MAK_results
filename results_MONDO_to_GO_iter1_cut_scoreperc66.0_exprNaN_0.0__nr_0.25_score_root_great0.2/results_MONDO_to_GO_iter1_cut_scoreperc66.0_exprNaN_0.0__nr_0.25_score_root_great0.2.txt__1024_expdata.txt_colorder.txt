@@ -1,0 +1,5 @@
+"x"
+"1" "apical part of cell"
+"2" "sarcolemma"
+"3" "nitric oxide mediated signal transduction"
+"4" "caveola"

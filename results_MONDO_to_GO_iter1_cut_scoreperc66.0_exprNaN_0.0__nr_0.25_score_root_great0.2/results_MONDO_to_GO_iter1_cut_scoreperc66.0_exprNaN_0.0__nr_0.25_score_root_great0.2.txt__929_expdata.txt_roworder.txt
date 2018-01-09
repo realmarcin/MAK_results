@@ -1,0 +1,6 @@
+"x"
+"1" "mucopolysaccharidosis.type.2"
+"2" "spinal.muscular.atrophy.progressive.myoclonic.epilepsy.syndrome"
+"3" "Farber.lipogranulomatosis"
+"4" "Tay.Sachs.disease.AB.variant"
+"5" "autoimmune.disease..susceptibility.to..6"

@@ -1,0 +1,8 @@
+"x"
+"1" "G-protein coupled receptor activity"
+"2" "G-protein coupled receptor signaling pathway"
+"3" "integral component of membrane"
+"4" "membrane"
+"5" "plasma membrane"
+"6" "signal transducer activity"
+"7" "liver development"

@@ -1,0 +1,4 @@
+"x"
+"1" "phospholipase D activity"
+"2" "N-acylphosphatidylethanolamine-specific phospholipase D activity"
+"3" "cell morphogenesis involved in conjugation with cellular fusion"

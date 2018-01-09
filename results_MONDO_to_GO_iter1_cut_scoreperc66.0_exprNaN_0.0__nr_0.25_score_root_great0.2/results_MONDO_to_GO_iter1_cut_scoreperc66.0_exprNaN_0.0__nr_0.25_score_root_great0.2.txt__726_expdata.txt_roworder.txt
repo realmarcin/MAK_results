@@ -1,0 +1,4 @@
+"x"
+"1" "autosomal.dominant.hypophosphatemic.rickets"
+"2" "trichomegaly"
+"3" "hypogonadotropic.hypogonadism.20.with.or.without.anosmia"

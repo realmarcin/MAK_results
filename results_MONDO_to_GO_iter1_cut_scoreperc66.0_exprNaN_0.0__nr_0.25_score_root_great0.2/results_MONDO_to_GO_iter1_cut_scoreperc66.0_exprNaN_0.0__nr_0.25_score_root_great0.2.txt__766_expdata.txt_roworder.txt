@@ -1,0 +1,7 @@
+"x"
+"1" "myofibrillar.myopathy.6"
+"2" "dilated.cardiomyopathy.1HH"
+"3" "lamb.Shaffer.syndrome..LAMSHF"
+"4" "Marinesco.SjC6gren.syndrome"
+"5" "amyotrophic.lateral.sclerosis.type.18"
+"6" "familial.cortical.myoclonus"

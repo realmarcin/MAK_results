@@ -1,0 +1,6 @@
+"x"
+"1" "phospholipase C-activating dopamine receptor signaling pathway"
+"2" "glutamate receptor signaling pathway"
+"3" "type 2A serotonin receptor binding"
+"4" "regulation of catenin import into nucleus"
+"5" "regulation of melanocyte differentiation"

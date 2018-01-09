@@ -1,0 +1,6 @@
+	MRX78	"mental retardation, X-linked 1"	hypophosphatemic nephrolithiasis/osteoporosis 2	focal segmental glomerulosclerosis 5	Charcot-Marie-tooth disease dominant intermediate E
+cytoplasm	0.0	0.0	1.0	1.0	1.0
+perinuclear region of cytoplasm	0.0	0.0	1.0	1.0	1.0
+actin binding	0.0	0.0	0.0	1.0	1.0
+actin cytoskeleton organization	1.0	1.0	1.0	1.0	1.0
+regulation of mitochondrial fission	0.0	0.0	0.0	1.0	1.0

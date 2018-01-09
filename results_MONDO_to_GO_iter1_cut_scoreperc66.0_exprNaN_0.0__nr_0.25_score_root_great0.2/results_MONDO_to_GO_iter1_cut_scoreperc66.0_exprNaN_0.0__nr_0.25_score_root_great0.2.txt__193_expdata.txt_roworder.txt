@@ -1,0 +1,4 @@
+"x"
+"1" "glycogen.storage.disease.due.to.glucose.6.phosphatase.deficiency.type.ib"
+"2" "glycogen.storage.disease.Ic"
+"3" "cataract.6.multiple.types"

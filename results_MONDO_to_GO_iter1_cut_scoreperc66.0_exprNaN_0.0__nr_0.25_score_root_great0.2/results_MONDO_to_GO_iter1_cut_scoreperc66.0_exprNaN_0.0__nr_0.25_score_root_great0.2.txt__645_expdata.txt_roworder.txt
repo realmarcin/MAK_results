@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.recessive.severe.congenital.neutropenia.due.to.JAGN1.deficiency"
+"2" "CEDNIK.syndrome"
+"3" "congenital.myasthenic.syndrome.18"
+"4" "epileptic.encephalopathy..early.infantile..21"

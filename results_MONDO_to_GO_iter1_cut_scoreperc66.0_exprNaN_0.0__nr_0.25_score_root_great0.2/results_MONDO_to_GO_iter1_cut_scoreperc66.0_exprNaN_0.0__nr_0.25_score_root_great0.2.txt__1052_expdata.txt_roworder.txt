@@ -1,0 +1,7 @@
+"x"
+"1" "epileptic.encephalopathy..early.infantile..38..EIEE38"
+"2" "Niemann.Pick.disease..type.C2"
+"3" "mental.retardation..autosomal.dominant.34"
+"4" "autosomal.dominant.nonsyndromic.deafness.67"
+"5" "leukoencephalopathy.dystonia.motor.neuropathy.syndrome"
+"6" "autosomal.recessive.spinocerebellar.ataxia.20"

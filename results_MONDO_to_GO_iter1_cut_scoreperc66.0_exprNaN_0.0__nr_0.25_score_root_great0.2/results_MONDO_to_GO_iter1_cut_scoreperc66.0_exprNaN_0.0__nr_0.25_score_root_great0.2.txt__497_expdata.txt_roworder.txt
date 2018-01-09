@@ -1,0 +1,5 @@
+"x"
+"1" "thrombophilia.due.to.protein.S.deficiency..autosomal.dominant"
+"2" "thrombophilia.due.to.protein.S.deficiency..autosomal.recessive"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

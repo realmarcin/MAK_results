@@ -1,0 +1,6 @@
+"x"
+"1" "autosomal.systemic.lupus.erythematosus"
+"2" "cystic.leukoencephalopathy.without.megalencephaly"
+"3" "platelet.type.bleeding.disorder.20"
+"4" "prostate.cancer..hereditary..2"
+"5" "combined.oxidative.phosphorylation.defect.type.17"

@@ -1,0 +1,9 @@
+	Canavan disease	left ventricular noncompaction 1	"congenital heart defects, multiple types, 2"
+protein binding	1.0	0.0	1.0
+cytoplasm	1.0	1.0	1.0
+cytosol	1.0	0.0	1.0
+metal ion binding	1.0	1.0	1.0
+positive regulation of oligodendrocyte differentiation	1.0	0.0	0.0
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"	1.0	0.0	0.0
+aspartoacylase activity	1.0	0.0	0.0
+acetate metabolic process	1.0	0.0	0.0

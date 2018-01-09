@@ -1,0 +1,8 @@
+"x"
+"1" "stapes.ankylosis.with.broad.thumbs.and.toes"
+"2" "proximal.symphalangism..disease."
+"3" "multiple.synostoses.syndrome.1"
+"4" "tarsal.carpal.coalition.syndrome"
+"5" "brachydactyly.type.B2"
+"6" "uterine.fibroid"
+"7" "immunodeficiency.50..IMD50"

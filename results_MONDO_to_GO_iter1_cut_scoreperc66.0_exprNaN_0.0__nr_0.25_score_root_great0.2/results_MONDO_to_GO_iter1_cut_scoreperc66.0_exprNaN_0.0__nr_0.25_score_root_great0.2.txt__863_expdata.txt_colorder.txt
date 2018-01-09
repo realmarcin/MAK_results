@@ -1,0 +1,7 @@
+"x"
+"1" "pyridoxal phosphate binding"
+"2" "pyridoxine biosynthetic process"
+"3" "pyridoxamine-phosphate oxidase activity"
+"4" "pyridoxal 5'-phosphate salvage"
+"5" "pyridoxal phosphate biosynthetic process"
+"6" "oxidoreductase activity, acting on the CH-NH2 group of donors"

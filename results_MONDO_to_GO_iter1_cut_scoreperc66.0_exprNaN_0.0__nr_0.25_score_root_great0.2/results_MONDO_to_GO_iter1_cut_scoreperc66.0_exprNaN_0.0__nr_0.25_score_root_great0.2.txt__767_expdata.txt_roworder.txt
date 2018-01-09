@@ -1,0 +1,7 @@
+"x"
+"1" "CK.syndrome"
+"2" "child.syndrome"
+"3" "MEND.syndrome"
+"4" "X.linked.chondrodysplasia.punctata"
+"5" "Buschke.Ollendorff.syndrome"
+"6" "cataract.46.juvenile.onset"

@@ -1,0 +1,5 @@
+"x"
+"1" "pathway-restricted SMAD protein phosphorylation"
+"2" "formation of anatomical boundary"
+"3" "primitive streak formation"
+"4" "negative regulation of epidermal cell differentiation"

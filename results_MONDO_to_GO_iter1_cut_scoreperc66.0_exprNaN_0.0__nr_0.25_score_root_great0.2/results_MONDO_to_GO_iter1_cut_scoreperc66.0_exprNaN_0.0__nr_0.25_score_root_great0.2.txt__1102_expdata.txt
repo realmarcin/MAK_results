@@ -1,0 +1,17 @@
+	cystathioninuria (disease)	MPI-CDG	Ribose-5-P isomerase deficiency	glycogen storage disease due to aldolase A deficiency	"short stature, developmental delay, and congenital heart defects;"
+brain development	0.0	0.0	0.0	1.0	0.0
+ATP biosynthetic process	0.0	0.0	0.0	1.0	0.0
+pigmentation	0.0	0.0	0.0	1.0	0.0
+thigmotaxis	0.0	0.0	0.0	1.0	0.0
+positive regulation of cell migration	0.0	0.0	0.0	1.0	0.0
+cadherin binding	0.0	0.0	0.0	1.0	0.0
+protease binding	0.0	0.0	0.0	1.0	0.0
+axonogenesis	0.0	0.0	0.0	1.0	0.0
+actin cytoskeleton	0.0	0.0	0.0	1.0	0.0
+somitogenesis	0.0	0.0	0.0	1.0	0.0
+Z disc	0.0	0.0	0.0	1.0	0.0
+regulation of cell shape	0.0	0.0	0.0	1.0	0.0
+nuclear heterochromatin	0.0	0.0	0.0	1.0	0.0
+binding of sperm to zona pellucida	0.0	0.0	0.0	1.0	0.0
+sperm fibrous sheath	0.0	0.0	0.0	1.0	0.0
+sperm head	0.0	0.0	0.0	1.0	0.0

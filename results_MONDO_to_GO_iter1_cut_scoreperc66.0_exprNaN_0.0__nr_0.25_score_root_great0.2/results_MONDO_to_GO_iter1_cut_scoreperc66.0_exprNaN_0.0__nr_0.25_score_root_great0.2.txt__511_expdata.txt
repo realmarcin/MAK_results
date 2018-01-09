@@ -1,0 +1,7 @@
+	systemic lupus erythematosus (disease)	rheumatoid arthritis	carnitine-acylcarnitine translocase deficiency	systemic primary carnitine deficiency disease	IDDM 1	hereditary pediatric BehC'et-like disease
+negative regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway	1.0	1.0	0.0	0.0	1.0	1.0
+negative regulation of T cell receptor signaling pathway	1.0	1.0	0.0	0.0	1.0	0.0
+regulation of leukocyte migration	1.0	1.0	0.0	0.0	1.0	0.0
+positive regulation of interferon-gamma secretion	1.0	1.0	0.0	0.0	1.0	0.0
+negative regulation of T cell activation	1.0	1.0	0.0	0.0	1.0	0.0
+regulation of calcium ion transmembrane transport	1.0	1.0	0.0	0.0	1.0	0.0

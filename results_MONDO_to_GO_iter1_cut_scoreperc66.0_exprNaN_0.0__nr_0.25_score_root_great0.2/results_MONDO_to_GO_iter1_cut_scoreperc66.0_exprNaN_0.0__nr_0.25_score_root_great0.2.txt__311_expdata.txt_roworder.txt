@@ -1,0 +1,5 @@
+"x"
+"1" "congenital.stationary.night.blindness.1B"
+"2" "autosomal.recessive.spinocerebellar.ataxia.13"
+"3" "retinitis.pigmentosa.35"
+"4" "cone.rod.dystrophy.10"

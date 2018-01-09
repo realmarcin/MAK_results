@@ -1,0 +1,7 @@
+"x"
+"1" "amyotrophic.lateral.sclerosis.type.2"
+"2" "juvenile.primary.lateral.sclerosis"
+"3" "infantile.onset.ascending.hereditary.spastic.paralysis"
+"4" "amyotrophic.lateral.sclerosis.type.5"
+"5" "hereditary.spastic.paraplegia.11"
+"6" "Charcot.Marie.tooth.disease.axonal.type.2X"

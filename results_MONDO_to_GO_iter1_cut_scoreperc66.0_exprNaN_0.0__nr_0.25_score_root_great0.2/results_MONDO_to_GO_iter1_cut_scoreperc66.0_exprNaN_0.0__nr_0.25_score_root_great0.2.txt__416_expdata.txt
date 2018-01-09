@@ -1,0 +1,8 @@
+	colorectal adenocarcinoma	"diabetes mellitus, Noninsulin-dependent"	myoclonic dystonia 11	prostate cancer	wolf-Hirschhorn syndrome	familial meningioma
+positive regulation of phosphatidylinositol 3-kinase activity	1.0	1.0	0.0	0.0	0.0	1.0
+regulation of cell cycle	1.0	0.0	0.0	1.0	1.0	1.0
+protein domain specific binding	1.0	1.0	0.0	1.0	1.0	1.0
+neural tube closure	1.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of smooth muscle cell migration	1.0	1.0	0.0	0.0	0.0	1.0
+mitotic spindle assembly checkpoint	1.0	1.0	0.0	1.0	0.0	0.0
+negative regulation of cell migration	1.0	1.0	1.0	1.0	0.0	1.0

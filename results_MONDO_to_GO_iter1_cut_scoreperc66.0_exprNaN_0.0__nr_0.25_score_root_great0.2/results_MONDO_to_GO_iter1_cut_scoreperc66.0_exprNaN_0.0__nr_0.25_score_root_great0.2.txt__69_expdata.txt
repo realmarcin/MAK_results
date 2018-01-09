@@ -1,0 +1,8 @@
+	ovarian cancer	Proteus syndrome	schizophrenia (disease)	susceptibility to HIV infection	Cowden syndrome 6
+keratinocyte differentiation	0.0	0.0	0.0	0.0	0.0
+lipopolysaccharide-mediated signaling pathway	1.0	1.0	1.0	1.0	1.0
+cellular response to organic cyclic compound	1.0	1.0	1.0	1.0	1.0
+cytoskeleton organization	1.0	1.0	1.0	1.0	1.0
+germ cell development	1.0	1.0	1.0	1.0	1.0
+cellular response to tumor necrosis factor	1.0	1.0	1.0	1.0	1.0
+"protein import into nucleus, translocation"	1.0	1.0	1.0	1.0	1.0

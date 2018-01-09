@@ -1,0 +1,7 @@
+	spondyloepiphyseal dysplasia with congenital joint dislocations	macular corneal dystrophy	cystathioninuria (disease)	"larsen-like syndrome, B3GAT3 type"	peeling skin syndrome type a
+sulfotransferase activity	1.0	1.0	0.0	1.0	1.0
+sulfur compound metabolic process	1.0	1.0	1.0	1.0	1.0
+N-acetylglucosamine 6-O-sulfotransferase activity	1.0	1.0	0.0	1.0	0.0
+dermatan sulfate proteoglycan biosynthetic process	0.0	0.0	0.0	1.0	0.0
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity	0.0	0.0	0.0	1.0	0.0
+protein phosphatase activator activity	0.0	0.0	0.0	1.0	0.0

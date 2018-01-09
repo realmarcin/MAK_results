@@ -1,0 +1,8 @@
+"x"
+"1" "apical part of cell"
+"2" "regulation of protein kinase activity"
+"3" "nuclear migration"
+"4" "positive regulation of filopodium assembly"
+"5" "cell periphery"
+"6" "cellular protein localization"
+"7" "establishment of Golgi localization"

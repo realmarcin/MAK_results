@@ -1,0 +1,6 @@
+	beta-ketothiolase deficiency	Wolcott-Rallison syndrome	pantothenate kinase-associated neurodegeneration	glycerol kinase deficiency	"Hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration"	neurodegeneration with brain iron accumulation 6
+coenzyme A biosynthetic process	1.0	0.0	1.0	0.0	1.0	1.0
+regulation of fatty acid metabolic process	0.0	1.0	1.0	1.0	1.0	0.0
+pantothenate kinase activity	0.0	0.0	1.0	0.0	1.0	0.0
+glycerol kinase activity	0.0	0.0	0.0	1.0	0.0	0.0
+glycerol-3-phosphate biosynthetic process	0.0	0.0	0.0	1.0	0.0	0.0

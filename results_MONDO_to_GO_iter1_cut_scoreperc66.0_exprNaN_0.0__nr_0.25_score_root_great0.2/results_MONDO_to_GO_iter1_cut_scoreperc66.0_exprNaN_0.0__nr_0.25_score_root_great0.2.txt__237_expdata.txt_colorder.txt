@@ -1,0 +1,8 @@
+"x"
+"1" "regulation of neuron apoptotic process"
+"2" "terminal bouton"
+"3" "negative regulation of neuron death"
+"4" "negative regulation of neuron apoptotic process"
+"5" "protein complex"
+"6" "protein heterodimerization activity"
+"7" "positive regulation of apoptotic process"

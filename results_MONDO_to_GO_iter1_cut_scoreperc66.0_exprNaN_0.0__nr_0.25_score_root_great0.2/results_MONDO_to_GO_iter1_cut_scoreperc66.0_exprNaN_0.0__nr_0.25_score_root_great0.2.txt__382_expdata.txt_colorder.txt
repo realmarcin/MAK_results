@@ -1,0 +1,8 @@
+"x"
+"1" "carbohydrate metabolic process"
+"2" "cytoplasm"
+"3" "extracellular exosome"
+"4" "metabolic process"
+"5" "response to organic substance"
+"6" "positive regulation of cell growth"
+"7" "cellular response to tumor necrosis factor"

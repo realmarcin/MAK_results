@@ -1,0 +1,5 @@
+"x"
+"1" "myopathy.with.abnormal.lipid.metabolism"
+"2" "Lipoyl.transferase.1.deficiency"
+"3" "methylmalonic.acidemia.cb1B.type"
+"4" "X3.Methylcrotonyl.Coa.carboxylase.2.deficiency"

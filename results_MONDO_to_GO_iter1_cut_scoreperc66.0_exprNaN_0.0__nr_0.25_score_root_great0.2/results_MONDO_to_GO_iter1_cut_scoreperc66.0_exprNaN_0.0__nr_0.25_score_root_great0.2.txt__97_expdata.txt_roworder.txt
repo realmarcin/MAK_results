@@ -1,0 +1,6 @@
+"x"
+"1" "clubfoot"
+"2" "brachydactyly.elbow.wrist.dysplasia.syndrome"
+"3" "combined.pituitary.hormone.deficiencies..genetic.forms"
+"4" "Otofaciocervical.syndrome.2"
+"5" "adrenocorticotropic.hormone.deficiency..disease."

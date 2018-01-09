@@ -1,0 +1,6 @@
+	"hemangioma, capillary infantile"	hypotrichosis 7	autosomal recessive early-onset Parkinson disease 6	hereditary spastic paraplegia 28	hereditary spastic paraplegia 54	encephalopathy due to defective mitochondrial and peroxisomal fission 2; EMPF2
+phospholipase activity	0.0	1.0	0.0	1.0	1.0	0.0
+positive regulation of mitochondrial fission	1.0	0.0	1.0	1.0	1.0	1.0
+nucleate erythrocyte development	0.0	0.0	1.0	0.0	0.0	0.0
+mitochondrial outer membrane translocase complex	0.0	0.0	1.0	0.0	0.0	0.0
+sperm mitochondrion organization	0.0	0.0	0.0	1.0	0.0	0.0

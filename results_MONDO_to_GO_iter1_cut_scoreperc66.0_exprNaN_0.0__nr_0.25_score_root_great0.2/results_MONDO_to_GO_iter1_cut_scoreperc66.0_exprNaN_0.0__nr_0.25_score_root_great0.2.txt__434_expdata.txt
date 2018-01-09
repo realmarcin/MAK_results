@@ -1,0 +1,10 @@
+	familial hypercholanemia	hereditary spastic paraplegia 46	obesity due to congenital leptin deficiency	"epileptic encephalopathy, early infantile, 38; EIEE38"
+protein binding	1.0	0.0	1.0	0.0
+cytoplasm	1.0	0.0	1.0	0.0
+endoplasmic reticulum	1.0	1.0	0.0	1.0
+receptor binding	1.0	0.0	1.0	0.0
+extracellular space	0.0	0.0	1.0	0.0
+lipid metabolic process	1.0	1.0	1.0	1.0
+hormone activity	0.0	0.0	1.0	0.0
+intestinal absorption	1.0	0.0	1.0	0.0
+bile acid metabolic process	1.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Kufor.Rakeb.syndrome"
+"2" "spastic.paraplegia.78..autosomal.recessive..SPG78"
+"3" "autosomal.dominant.nonsyndromic.deafness.68"
+"4" "autosomal.recessive.nonsyndromic.deafness.31"
+"5" "autosomal.recessive.nonsyndromic.deafness.59"
+"6" "Usher.syndrome.type.2D"

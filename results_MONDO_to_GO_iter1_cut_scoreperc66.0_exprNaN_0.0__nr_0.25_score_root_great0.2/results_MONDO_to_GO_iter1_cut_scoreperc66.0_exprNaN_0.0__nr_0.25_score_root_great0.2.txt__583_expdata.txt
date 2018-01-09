@@ -1,0 +1,24 @@
+	autosomal dominant pseudohypoaldosteronism type 1	"nephrotic syndrome, type 2"	Bartter disease type 1	Pseudohyperaldosteronism type 2
+endoplasmic reticulum	1.0	0.0	0.0	1.0
+regulation of cell proliferation	1.0	0.0	0.0	1.0
+"regulation of transcription, DNA-templated"	1.0	0.0	0.0	1.0
+protein homodimerization activity	1.0	0.0	0.0	1.0
+DNA binding	1.0	0.0	0.0	1.0
+"transcription, DNA-templated"	1.0	0.0	0.0	1.0
+DNA binding transcription factor activity	1.0	0.0	0.0	1.0
+protein heterodimerization activity	1.0	0.0	0.0	1.0
+receptor complex	1.0	0.0	0.0	1.0
+metal ion binding	1.0	0.0	0.0	1.0
+zinc ion binding	1.0	0.0	0.0	1.0
+double-stranded DNA binding	1.0	0.0	0.0	1.0
+sequence-specific DNA binding	1.0	0.0	0.0	1.0
+nucleoplasm	1.0	0.0	0.0	1.0
+lipid binding	1.0	0.0	0.0	1.0
+hormone binding	1.0	0.0	0.0	1.0
+steroid binding	1.0	0.0	0.0	1.0
+steroid hormone mediated signaling pathway	1.0	0.0	0.0	1.0
+steroid hormone receptor activity	1.0	0.0	0.0	1.0
+cellular sodium ion homeostasis	1.0	0.0	0.0	1.0
+mineralocorticoid receptor signaling pathway	1.0	0.0	0.0	1.0
+multicellular organismal response to stress	1.0	0.0	0.0	1.0
+mineralocorticoid receptor activity	1.0	0.0	0.0	1.0

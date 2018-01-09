@@ -1,0 +1,7 @@
+"x"
+"1" "X.linked.intellectual.disability.psychosis.macroorchidism.syndrome"
+"2" "syndromic.X.linked.intellectual.disability.Lubs.type"
+"3" "autism..susceptibility.to..X.linked.3"
+"4" "severe.neonatal.onset.encephalopathy.with.microcephaly"
+"5" "Rett.syndrome"
+"6" "nephrolithiasis..Uric.acid..susceptibility.to"

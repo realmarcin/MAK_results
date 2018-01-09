@@ -1,0 +1,6 @@
+	congenital generalized lipodystrophy type 4	childhood onset epileptic encephalopathy	LIPE-related familial partial lipodystrophy
+transcription initiation from RNA polymerase I promoter	1.0	0.0	1.0
+rRNA primary transcript binding	1.0	0.0	1.0
+termination of RNA polymerase I transcription	1.0	1.0	1.0
+hormone-sensitive lipase activity	0.0	0.0	1.0
+diacylglycerol catabolic process	0.0	0.0	1.0

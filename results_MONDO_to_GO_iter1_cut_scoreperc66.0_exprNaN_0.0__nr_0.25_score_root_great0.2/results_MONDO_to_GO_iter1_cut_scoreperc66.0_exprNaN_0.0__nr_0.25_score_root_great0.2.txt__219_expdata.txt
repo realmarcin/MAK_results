@@ -1,0 +1,7 @@
+	osteochondritis dissecans (disease)	Desbuquois dysplasia 1	Simpson-Golabi-Behmel syndrome	"spondyloepiphyseal dysplasia, Kimberley type"	"spondyloepimetaphyseal dysplasia, aggrecan type"	peeling skin syndrome type a
+protein binding	1.0	0.0	1.0	1.0	1.0	0.0
+proteinaceous extracellular matrix	1.0	0.0	1.0	1.0	1.0	0.0
+calcium ion binding	1.0	1.0	0.0	1.0	1.0	0.0
+extracellular space	1.0	0.0	1.0	1.0	1.0	0.0
+extracellular region	1.0	0.0	1.0	1.0	1.0	0.0
+proteoglycan biosynthetic process	1.0	1.0	1.0	1.0	1.0	1.0
