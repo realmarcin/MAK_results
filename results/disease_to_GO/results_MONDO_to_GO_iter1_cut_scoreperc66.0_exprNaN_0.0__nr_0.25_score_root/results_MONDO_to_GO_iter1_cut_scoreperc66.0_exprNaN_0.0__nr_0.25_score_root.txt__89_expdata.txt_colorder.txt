@@ -1,0 +1,7 @@
+"x"
+"1" "RNA binding"
+"2" "nucleic acid binding"
+"3" "cellular_component"
+"4" "intracellular ribonucleoprotein complex"
+"5" "viral nucleocapsid"
+"6" "virion"

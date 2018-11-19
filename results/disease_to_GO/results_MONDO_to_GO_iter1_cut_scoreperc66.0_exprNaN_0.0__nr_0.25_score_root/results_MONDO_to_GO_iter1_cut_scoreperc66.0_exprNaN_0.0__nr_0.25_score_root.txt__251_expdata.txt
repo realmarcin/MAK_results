@@ -1,0 +1,7 @@
+	epidermolytic palmoplantar keratoderma	ichthyosis hystrix of Curth-Macklin	"palmoplantar keratoderma, nonepidermolytic"	keratosis palmoplantaris striata 3	"palmoplantar keratoderma, nonepidermolytic, focal 1"
+negative regulation of inflammatory response	1.0	1.0	1.0	1.0	0.0
+establishment of skin barrier	1.0	1.0	1.0	1.0	1.0
+"complement activation, lectin pathway"	1.0	1.0	1.0	1.0	0.0
+cornified envelope	1.0	1.0	1.0	1.0	0.0
+peptide cross-linking	1.0	1.0	1.0	1.0	0.0
+structural constituent of epidermis	1.0	1.0	1.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "biological_process"
+"2" "cellular_component"
+"3" "integral component of membrane"
+"4" "membrane"
+"5" "protein binding"
+"6" "pancreas regeneration"

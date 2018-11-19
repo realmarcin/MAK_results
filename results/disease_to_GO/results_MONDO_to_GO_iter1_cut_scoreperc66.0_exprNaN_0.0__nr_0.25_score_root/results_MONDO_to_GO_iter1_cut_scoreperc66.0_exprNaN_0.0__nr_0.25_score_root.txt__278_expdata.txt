@@ -1,0 +1,6 @@
+	Amelocerebrohypohidrotic syndrome	X-linked intellectual disability-cerebellar hypoplasia syndrome	autosomal agammaglobulinemia	Usher syndrome type 1G	"cerebellar ataxia, mental retardation, and Dysequilibrium syndrome 2"	polyendocrine-polyneuropathy syndrome
+RAVE complex	1.0	0.0	0.0	0.0	0.0	1.0
+regulation of endocytosis	0.0	1.0	0.0	1.0	0.0	1.0
+early endosome to late endosome transport	0.0	0.0	1.0	0.0	1.0	1.0
+regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	0.0	0.0	0.0	1.0	0.0	0.0
+regulation of synaptic vesicle lumen acidification	0.0	0.0	0.0	0.0	0.0	1.0

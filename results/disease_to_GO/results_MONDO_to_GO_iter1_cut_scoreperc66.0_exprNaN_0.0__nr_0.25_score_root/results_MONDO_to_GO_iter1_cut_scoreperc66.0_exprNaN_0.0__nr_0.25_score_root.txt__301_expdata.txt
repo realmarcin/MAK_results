@@ -1,0 +1,6 @@
+	Cornelia de Lange syndrome 1	autosomal recessive nonsyndromic deafness 35	hereditary spastic paraplegia 35	vesicoureteral reflux 3	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3
+cellular response to X-ray	1.0	0.0	0.0	0.0	1.0
+gall bladder development	1.0	0.0	0.0	1.0	0.0
+regulation of hair cycle	1.0	0.0	1.0	0.0	0.0
+2-micrometer plasmid partitioning	1.0	0.0	0.0	0.0	0.0
+integrator complex	1.0	1.0	0.0	0.0	0.0

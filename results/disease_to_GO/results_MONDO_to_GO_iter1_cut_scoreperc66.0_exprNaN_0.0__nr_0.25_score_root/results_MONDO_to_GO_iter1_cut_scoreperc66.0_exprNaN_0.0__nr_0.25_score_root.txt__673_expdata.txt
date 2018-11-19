@@ -1,0 +1,8 @@
+	Currarino triad	Smith-Magenis syndrome	non-acquired combined pituitary hormone deficiency with spine abnormalities	short stature-auditory canal atresia-mandibular hypoplasia-skeletal anomalies syndrome	frontonasal dysplasia-severe microphthalmia-severe facial clefting syndrome	"facial paresis, hereditary congenital, 3"
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	0.0	1.0	1.0	1.0	1.0
+DNA binding	1.0	0.0	1.0	1.0	1.0	1.0
+sequence-specific DNA binding	1.0	0.0	1.0	1.0	1.0	1.0
+otic vesicle development	0.0	0.0	0.0	1.0	0.0	1.0
+RNA polymerase II transcription factor binding	0.0	0.0	1.0	1.0	0.0	0.0
+dorsal/ventral neural tube patterning	1.0	0.0	0.0	1.0	0.0	0.0

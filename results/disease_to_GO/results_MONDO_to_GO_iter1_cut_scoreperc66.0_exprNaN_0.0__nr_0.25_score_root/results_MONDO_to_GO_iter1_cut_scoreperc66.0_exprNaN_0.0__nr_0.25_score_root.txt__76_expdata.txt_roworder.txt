@@ -1,0 +1,6 @@
+"x"
+"1" "Fabry.disease"
+"2" "alpha.N.acetylgalactosaminidase.deficiency.type.1"
+"3" "alpha.N.acetylgalactosaminidase.deficiency.type.2"
+"4" "MOGS.CDG"
+"5" "Amish.infantile.epilepsy.syndrome"

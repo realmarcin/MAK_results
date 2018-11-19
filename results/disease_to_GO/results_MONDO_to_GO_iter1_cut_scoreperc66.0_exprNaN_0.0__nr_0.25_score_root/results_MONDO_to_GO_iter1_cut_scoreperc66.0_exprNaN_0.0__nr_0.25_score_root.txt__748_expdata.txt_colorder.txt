@@ -1,0 +1,8 @@
+"x"
+"1" "plasma membrane"
+"2" "Golgi apparatus"
+"3" "cell surface"
+"4" "calcium ion transport"
+"5" "lymphangiogenesis"
+"6" "smooth endoplasmic reticulum calcium ion homeostasis"
+"7" "proteolysis"

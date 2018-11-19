@@ -1,0 +1,10 @@
+	helicoid peripapillary chorioretinal degeneration	uveal coloboma-cleft lip and palate-intellectual disability	left ventricular noncompaction 8	Dias-Logan syndrome; DILOS	immunodeficiency 49; IMD49
+positive regulation of protein serine/threonine kinase activity	1.0	0.0	0.0	0.0	0.0
+pseudohyphal growth	1.0	0.0	0.0	0.0	0.0
+chronological cell aging	1.0	0.0	0.0	0.0	0.0
+invasive growth in response to glucose limitation	1.0	0.0	0.0	0.0	0.0
+positive regulation of pseudohyphal growth	1.0	0.0	0.0	0.0	0.0
+"positive regulation of transposition, RNA-mediated"	1.0	0.0	0.0	0.0	0.0
+"transcription factor activity, transcription factor recruiting"	1.0	0.0	0.0	0.0	0.0
+transition between fast and slow fiber	1.0	0.0	0.0	0.0	0.0
+Tec1p-Ste12p-Dig1p complex	1.0	0.0	0.0	0.0	0.0

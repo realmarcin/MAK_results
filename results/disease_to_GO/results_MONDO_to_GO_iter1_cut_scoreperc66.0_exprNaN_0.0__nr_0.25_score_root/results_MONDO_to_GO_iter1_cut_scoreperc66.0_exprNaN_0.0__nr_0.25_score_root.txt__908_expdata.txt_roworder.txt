@@ -1,0 +1,8 @@
+"x"
+"1" "myofibrillar.myopathy.4"
+"2" "cerebral.cavernous.malformation.2"
+"3" "familial.hypercholanemia"
+"4" "hypogonadotropic.hypogonadism.17.with.or.without.anosmia"
+"5" "epidermolysis.bullosa.simplex.due.to.plakophilin.deficiency"
+"6" "arrhythmogenic.right.ventricular.dysplasia.9"
+"7" "cholestasis..progressive.familial.intrahepatic..4"

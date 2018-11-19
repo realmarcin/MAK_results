@@ -1,0 +1,5 @@
+"x"
+"1" "infantile.cerebellar.retinal.degeneration"
+"2" "optic.atrophy.8"
+"3" "hyperlysinemia..disease."
+"4" "Saccharopinuria"

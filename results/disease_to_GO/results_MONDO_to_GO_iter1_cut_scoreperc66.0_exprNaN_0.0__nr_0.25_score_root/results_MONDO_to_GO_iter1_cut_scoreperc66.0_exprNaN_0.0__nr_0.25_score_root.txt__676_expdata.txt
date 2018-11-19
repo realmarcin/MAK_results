@@ -1,0 +1,9 @@
+	primary ciliary dyskinesia 2	Senior-Loken syndrome 5	congenital myopathy with internal nuclei and atypical cores	primary ciliary dyskinesia 18	primary ciliary dyskinesia 22	nephronophthisis 18
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+sarcolemma	0.0	0.0	1.0	0.0	0.0	0.0
+sarcoplasmic reticulum	0.0	0.0	1.0	0.0	0.0	0.0
+skeletal muscle fiber development	0.0	0.0	1.0	0.0	0.0	0.0
+cell projection organization	1.0	1.0	1.0	1.0	0.0	1.0
+skeletal muscle contraction	0.0	0.0	1.0	0.0	0.0	0.0
+de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	0.0	0.0	1.0	0.0	0.0	0.0
+deuterosome	0.0	0.0	1.0	0.0	0.0	0.0

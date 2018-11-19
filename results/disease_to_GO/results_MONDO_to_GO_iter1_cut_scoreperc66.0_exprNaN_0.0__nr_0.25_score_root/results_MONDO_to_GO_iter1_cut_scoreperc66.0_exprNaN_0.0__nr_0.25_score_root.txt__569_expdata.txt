@@ -1,0 +1,7 @@
+	Noonan syndrome with multiple lentigines	Metachondromatosis	Noonan syndrome 1	isolated spina bifida	juvenile myelomonocytic leukemia
+positive regulation of ERK1 and ERK2 cascade	1.0	1.0	1.0	1.0	1.0
+convergent extension involved in gastrulation	1.0	1.0	1.0	1.0	1.0
+SH3/SH2 adaptor activity	1.0	1.0	1.0	0.0	1.0
+stress fiber	1.0	1.0	1.0	1.0	1.0
+intestinal epithelial cell migration	1.0	1.0	1.0	0.0	1.0
+convergent extension involved in axis elongation	1.0	1.0	1.0	1.0	1.0

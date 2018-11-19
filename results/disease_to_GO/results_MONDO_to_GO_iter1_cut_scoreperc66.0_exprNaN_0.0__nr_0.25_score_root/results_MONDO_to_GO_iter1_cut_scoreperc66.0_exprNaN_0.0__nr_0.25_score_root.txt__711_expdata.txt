@@ -1,0 +1,13 @@
+	Bartter disease type 2	X-linked retinoschisis	progressive familial heart block type ib	hypertrophic cardiomyopathy 17
+retina layer formation	0.0	1.0	0.0	0.0
+"phosphatidylinositol-3,4-bisphosphate binding"	0.0	1.0	0.0	0.0
+"phosphatidylinositol-3,4,5-trisphosphate binding"	0.0	1.0	0.0	1.0
+"phosphatidylinositol-4,5-bisphosphate binding"	1.0	1.0	0.0	1.0
+oligosaccharide binding	0.0	1.0	0.0	0.0
+phosphatidylserine binding	0.0	1.0	0.0	1.0
+extrinsic component of plasma membrane	0.0	1.0	0.0	0.0
+phosphatidylinositol-5-phosphate binding	0.0	1.0	0.0	1.0
+phosphatidylinositol-4-phosphate binding	0.0	1.0	0.0	1.0
+phosphatidylinositol-3-phosphate binding	0.0	1.0	0.0	1.0
+"phosphatidylinositol-3,5-bisphosphate binding"	0.0	1.0	0.0	1.0
+adaptation of rhodopsin mediated signaling	0.0	1.0	0.0	0.0

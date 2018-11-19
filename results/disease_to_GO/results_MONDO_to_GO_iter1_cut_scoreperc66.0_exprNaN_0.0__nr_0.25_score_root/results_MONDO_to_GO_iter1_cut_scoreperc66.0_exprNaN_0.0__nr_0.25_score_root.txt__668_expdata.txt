@@ -1,0 +1,11 @@
+	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	hypermethioninemia due to adenosine kinase deficiency	POROK7	"porokeratosis 9, multiple types; POROK9"
+kinase activity	0.0	1.0	0.0	0.0
+adenosine metabolic process	0.0	1.0	0.0	0.0
+positive regulation of cardiac muscle hypertrophy	0.0	1.0	0.0	0.0
+positive regulation of T cell proliferation	0.0	1.0	0.0	0.0
+type B pancreatic cell proliferation	0.0	1.0	0.0	0.0
+purine ribonucleoside salvage	0.0	1.0	0.0	0.0
+dATP biosynthetic process	0.0	1.0	0.0	0.0
+adenosine salvage	0.0	1.0	0.0	0.0
+AMP salvage	0.0	1.0	0.0	0.0
+adenosine kinase activity	0.0	1.0	0.0	0.0

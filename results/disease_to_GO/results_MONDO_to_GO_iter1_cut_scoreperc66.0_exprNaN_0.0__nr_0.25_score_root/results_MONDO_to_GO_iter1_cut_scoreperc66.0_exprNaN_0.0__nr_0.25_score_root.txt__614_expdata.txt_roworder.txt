@@ -1,0 +1,5 @@
+"x"
+"1" "ectodermal.dysplasia.10A..hypohidrotic.hair.nail.type..autosomal.dominant"
+"2" "ectodermal.dysplasia.10B..hypohidrotic.hair.tooth.type..autosomal.recessive"
+"3" "Ehlers.Danlos.syndrome..type.6"
+"4" "congenital.nephrotic.syndrome.interstitial.lung.disease.epidermolysis.bullosa.syndrome"

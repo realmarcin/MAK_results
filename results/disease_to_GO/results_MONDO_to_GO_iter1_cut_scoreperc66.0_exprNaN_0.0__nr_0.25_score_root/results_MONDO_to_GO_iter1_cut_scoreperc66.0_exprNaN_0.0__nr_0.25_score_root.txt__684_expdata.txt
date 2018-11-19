@@ -1,0 +1,6 @@
+	hepatocellular carcinoma	"hypercholesterolemia, familial"	"migraine with or without aura, susceptibility to, 1"	Laron syndrome	"asthma, susceptibility to"	"malaria, susceptibility to"
+activation of MAPK activity	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of mitotic nuclear division	1.0	0.0	1.0	0.0	1.0	1.0
+cellular response to interferon-gamma	0.0	0.0	0.0	0.0	1.0	1.0
+negative regulation of L-glutamate transport	0.0	0.0	1.0	0.0	1.0	1.0
+chemokine-mediated signaling pathway	0.0	0.0	0.0	0.0	1.0	1.0

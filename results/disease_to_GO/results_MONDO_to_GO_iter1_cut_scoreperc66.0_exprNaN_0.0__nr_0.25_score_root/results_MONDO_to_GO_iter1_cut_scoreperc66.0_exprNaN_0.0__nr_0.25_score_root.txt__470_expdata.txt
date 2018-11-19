@@ -1,0 +1,10 @@
+	retinoblastoma	small cell lung carcinoma	Stromme syndrome	lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome
+negative regulation of cell proliferation	1.0	1.0	0.0	0.0
+cytoplasm	0.0	0.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0
+"negative regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0
+transcription factor binding	1.0	1.0	1.0	1.0
+heart looping	0.0	0.0	1.0	1.0
+retinal ganglion cell axon guidance	1.0	1.0	0.0	0.0
+centrosome	0.0	0.0	1.0	1.0
+regulation of striated muscle tissue development	0.0	0.0	1.0	1.0

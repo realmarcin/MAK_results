@@ -1,0 +1,8 @@
+"x"
+"1" "neuronal.ceroid.lipofuscinosis.5"
+"2" "sarcoidosis..susceptibility.to..1"
+"3" "gelatinous.drop.like.corneal.dystrophy"
+"4" "Carey.Fineman.Ziter..syndrome"
+"5" "Imerslund.Grasbeck.syndrome"
+"6" "immunodeficiency..common.variable..5"
+"7" "severe.congenital.hypochromic.anemia.with.ringed.sideroblasts"

@@ -1,0 +1,6 @@
+"x"
+"1" "translation regulator activity"
+"2" "positive regulation of cytoplasmic translation"
+"3" "polysomal ribosome"
+"4" "small ribosomal subunit rRNA binding"
+"5" "positive regulation of translational elongation"

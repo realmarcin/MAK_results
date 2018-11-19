@@ -1,0 +1,8 @@
+"x"
+"1" "SRP-dependent cotranslational protein targeting to membrane, translocation"
+"2" "SRP-dependent cotranslational protein targeting to membrane"
+"3" "ribosome binding"
+"4" "intracellular ribonucleoprotein complex"
+"5" "7S RNA binding"
+"6" "signal recognition particle"
+"7" "signal recognition particle, endoplasmic reticulum targeting"

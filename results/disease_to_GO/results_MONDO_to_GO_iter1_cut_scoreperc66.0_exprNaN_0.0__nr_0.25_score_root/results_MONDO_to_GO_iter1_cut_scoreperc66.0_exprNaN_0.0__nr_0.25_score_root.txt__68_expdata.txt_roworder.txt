@@ -1,0 +1,5 @@
+"x"
+"1" "Lesch.Nyhan.syndrome"
+"2" "hypoxanthine.guanine.phosphoribosyltransferase.partial.deficiency"
+"3" "adenine.phosphoribosyltransferase.deficiency"
+"4" "hypermethioninemia.due.to.adenosine.kinase.deficiency"

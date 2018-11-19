@@ -1,0 +1,6 @@
+"x"
+"1" "peroxisome.biogenesis.disorder.2B"
+"2" "peroxisome.biogenesis.disorder.2A..Zellweger."
+"3" "rhizomelic.chondrodysplasia.punctata.type.5"
+"4" "peroxisome.biogenesis.disorder.7A..Zellweger."
+"5" "peroxisome.biogenesis.disorder.7B"

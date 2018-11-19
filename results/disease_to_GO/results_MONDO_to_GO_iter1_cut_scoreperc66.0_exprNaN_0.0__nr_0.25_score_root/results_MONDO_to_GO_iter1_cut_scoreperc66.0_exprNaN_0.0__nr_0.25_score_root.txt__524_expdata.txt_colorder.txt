@@ -1,0 +1,8 @@
+"x"
+"1" "lipopolysaccharide-mediated signaling pathway"
+"2" "cellular response to organic cyclic compound"
+"3" "cytoskeleton organization"
+"4" "germ cell development"
+"5" "cellular response to tumor necrosis factor"
+"6" "protein import into nucleus, translocation"
+"7" "keratinocyte differentiation"

@@ -1,0 +1,12 @@
+	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	autosomal dominant aplasia and myelodysplasia	"nephrotic syndrome, type 11; NPHS11"
+"positive regulation of transcription, DNA-templated"	0.0	0.0	0.0	1.0
+protein transport	0.0	0.0	0.0	1.0
+double-strand break repair	0.0	0.0	0.0	1.0
+"chromosome, telomeric region"	0.0	0.0	0.0	1.0
+kinetochore	0.0	0.0	0.0	1.0
+chromatin silencing at silent mating-type cassette	0.0	0.0	0.0	1.0
+nucleocytoplasmic transporter activity	0.0	0.0	0.0	1.0
+maintenance of chromatin silencing at telomere	0.0	0.0	0.0	1.0
+nuclear pore outer ring	0.0	0.0	0.0	1.0
+nuclear pore distribution	0.0	0.0	0.0	1.0
+mRNA export from nucleus in response to heat stress	0.0	0.0	0.0	1.0

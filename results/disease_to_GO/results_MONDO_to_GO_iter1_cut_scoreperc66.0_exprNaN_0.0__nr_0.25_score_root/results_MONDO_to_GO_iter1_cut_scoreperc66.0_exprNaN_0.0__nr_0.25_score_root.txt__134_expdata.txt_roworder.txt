@@ -1,0 +1,7 @@
+"x"
+"1" "arrhythmogenic.right.ventricular.dysplasia.10"
+"2" "dilated.cardiomyopathy.1BB"
+"3" "arrhythmogenic.right.ventricular.dysplasia.9"
+"4" "arrhythmogenic.right.ventricular.dysplasia.11"
+"5" "arrhythmogenic.right.ventricular.dysplasia.13"
+"6" "progressive.familial.heart.block.type.ib"

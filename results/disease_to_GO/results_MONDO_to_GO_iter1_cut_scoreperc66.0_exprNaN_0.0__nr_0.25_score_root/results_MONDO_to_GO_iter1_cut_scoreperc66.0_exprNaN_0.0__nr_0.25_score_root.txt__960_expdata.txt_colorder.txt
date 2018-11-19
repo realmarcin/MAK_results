@@ -1,0 +1,8 @@
+"x"
+"1" "grooming behavior"
+"2" "melanin biosynthetic process"
+"3" "long-term memory"
+"4" "negative regulation of hydrogen peroxide biosynthetic process"
+"5" "L-cystine transmembrane transporter activity"
+"6" "negative regulation of reactive oxygen species biosynthetic process"
+"7" "L-cystine transport"

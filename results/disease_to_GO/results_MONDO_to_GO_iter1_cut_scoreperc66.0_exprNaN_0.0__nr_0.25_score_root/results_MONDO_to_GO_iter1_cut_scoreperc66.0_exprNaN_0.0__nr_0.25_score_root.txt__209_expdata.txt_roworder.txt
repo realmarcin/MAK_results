@@ -1,0 +1,7 @@
+"x"
+"1" "pantothenate.kinase.associated.neurodegeneration"
+"2" "glycerol.kinase.deficiency"
+"3" "Hypoprebetalipoproteinemia..acanthocytosis..retinitis.pigmentosa..and.pallidal.degeneration"
+"4" "beta.ketothiolase.deficiency"
+"5" "Wolcott.Rallison.syndrome"
+"6" "neurodegeneration.with.brain.iron.accumulation.6"

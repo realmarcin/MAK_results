@@ -1,0 +1,7 @@
+"x"
+"1" "wilms.tumor.6..WT6"
+"2" "Noonan.syndrome.like.disorder.with.juvenile.myelomonocytic.leukemia"
+"3" "mental.retardation..anterior.maxillary.Protrusion..and.strabismus"
+"4" "Charcot.Marie.tooth.disease.axonal.type.2P"
+"5" "peroxisome.biogenesis.disorder.5A..Zellweger."
+"6" "peroxisome.biogenesis.disorder.5B"

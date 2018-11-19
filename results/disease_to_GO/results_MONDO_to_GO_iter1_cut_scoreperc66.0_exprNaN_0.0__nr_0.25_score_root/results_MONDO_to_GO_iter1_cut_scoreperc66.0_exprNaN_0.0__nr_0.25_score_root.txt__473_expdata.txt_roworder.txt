@@ -1,0 +1,7 @@
+"x"
+"1" "peroxisome.biogenesis.disorder.11A..Zellweger."
+"2" "peroxisome.biogenesis.disorder.11B"
+"3" "hereditary.spastic.paraplegia.53"
+"4" "striatonigral.degeneration..childhood.onset..SNDC"
+"5" "chorea.acanthocytosis"
+"6" "keratosis.linearis.ichthyosis.congenita.sclerosing.keratoderma.syndrome"

@@ -1,0 +1,7 @@
+"x"
+"1" "Marshall.Smith.syndrome"
+"2" "Malan.overgrowth.syndrome"
+"3" "sensorineural.hearing.loss..disease."
+"4" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.partial.IRF8.deficiency"
+"5" "Monocyte.and.dendritic.cell.deficiency..autosomal.recessive"
+"6" "achromatopsia.7"

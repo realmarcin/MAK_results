@@ -1,0 +1,7 @@
+"x"
+"1" "ectodermal.dysplasia..anhidrotic..with.T.cell.immunodeficiency..autosomal.dominant"
+"2" "autosomal.recessive.spinocerebellar.ataxia.19"
+"3" "immunodeficiency..common.variable..12"
+"4" "Williams.syndrome"
+"5" "Hypocalcemic.vitamin.d.dependent.rickets"
+"6" "immunodeficiency..common.variable..10"

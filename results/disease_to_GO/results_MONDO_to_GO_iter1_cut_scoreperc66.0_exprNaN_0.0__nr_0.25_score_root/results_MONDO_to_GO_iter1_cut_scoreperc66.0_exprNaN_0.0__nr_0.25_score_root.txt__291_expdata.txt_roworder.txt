@@ -1,0 +1,5 @@
+"x"
+"1" "Peters.anomaly..disease."
+"2" "iridogoniodysgenesis..type.2"
+"3" "Axenfeld.Rieger.syndrome.type.1"
+"4" "ring.dermoid.of.cornea"

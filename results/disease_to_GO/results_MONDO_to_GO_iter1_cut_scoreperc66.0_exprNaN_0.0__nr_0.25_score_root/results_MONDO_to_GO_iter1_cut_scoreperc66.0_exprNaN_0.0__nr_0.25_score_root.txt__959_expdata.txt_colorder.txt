@@ -1,0 +1,7 @@
+"x"
+"1" "axon midline choice point recognition"
+"2" "cell morphogenesis involved in neuron differentiation"
+"3" "Roundabout signaling pathway"
+"4" "bicellular tight junction"
+"5" "bicellular tight junction assembly"
+"6" "negative regulation of microtubule polymerization"

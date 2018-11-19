@@ -1,0 +1,5 @@
+"x"
+"1" "Apert.syndrome"
+"2" "Crouzon.syndrome"
+"3" "Beare.Stevenson.cutis.gyrata.syndrome"
+"4" "Hartsfield.Bixler.Demyer.syndrome"

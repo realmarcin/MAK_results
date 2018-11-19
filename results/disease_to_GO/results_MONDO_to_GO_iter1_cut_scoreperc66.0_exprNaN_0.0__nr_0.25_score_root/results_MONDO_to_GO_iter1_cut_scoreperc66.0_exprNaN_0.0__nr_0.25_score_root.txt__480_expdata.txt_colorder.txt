@@ -1,0 +1,7 @@
+"x"
+"1" "retina vasculature development in camera-type eye"
+"2" "positive regulation of DNA replication"
+"3" "platelet-derived growth factor binding"
+"4" "platelet-derived growth factor receptor binding"
+"5" "negative regulation of platelet activation"
+"6" "small GTPase mediated signal transduction"

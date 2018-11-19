@@ -1,0 +1,5 @@
+	Alzheimer disease type 1	Charcot-Marie-tooth disease type 2A1	hereditary coproporphyria	dystonia 12	"essential hypertension, genetic"	phaeochromocytoma	autosomal dominant pseudohypoaldosteronism type 1	"neuroblastoma, susceptibility to"	renal tubular dysgenesis of genetic origin	cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome	"migraine, familial hemiplegic, 2"	hereditary spastic paraplegia 10	Pseudohyperaldosteronism type 2	"cerebral amyloid angiopathy, App-related"	Goldberg-Shprintzen megacolon syndrome	complement component 7 deficiency	alternating hemiplegia of childhood 2	autosomal recessive spinocerebellar ataxia 19	"myoclonus, intractable, neonatal; NEIMY"
+sodium:potassium-exchanging ATPase activity	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+neuron projection maintenance	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0
+cellular sodium ion homeostasis	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+sodium:potassium-exchanging ATPase complex	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

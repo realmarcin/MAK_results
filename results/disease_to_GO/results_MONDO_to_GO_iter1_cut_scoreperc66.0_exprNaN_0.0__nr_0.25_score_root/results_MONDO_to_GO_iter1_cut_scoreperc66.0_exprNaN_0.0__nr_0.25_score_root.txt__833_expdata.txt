@@ -1,0 +1,8 @@
+	myofibrillar myopathy 4	left ventricular noncompaction 7	hypogonadotropic hypogonadism 17 with or without anosmia	nemaline myopathy 9	autosomal recessive nonsyndromic deafness 104	Takenouchi-Kosaki syndrome; TKS
+membrane	0.0	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+cytoskeleton	1.0	1.0	0.0	1.0	1.0	1.0
+ubiquitin-protein transferase activity	0.0	1.0	0.0	1.0	0.0	0.0
+protein ubiquitination	0.0	1.0	0.0	1.0	0.0	0.0
+skeletal muscle fiber development	0.0	0.0	1.0	1.0	1.0	0.0
+sarcomere organization	1.0	0.0	0.0	1.0	0.0	0.0

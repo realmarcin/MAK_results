@@ -1,0 +1,5 @@
+"x"
+"1" "autosomal.dominant.optic.atrophy.and.cataract"
+"2" "X3.methylglutaconic.aciduria.type.3"
+"3" "pantothenate.kinase.associated.neurodegeneration"
+"4" "Hypoprebetalipoproteinemia..acanthocytosis..retinitis.pigmentosa..and.pallidal.degeneration"

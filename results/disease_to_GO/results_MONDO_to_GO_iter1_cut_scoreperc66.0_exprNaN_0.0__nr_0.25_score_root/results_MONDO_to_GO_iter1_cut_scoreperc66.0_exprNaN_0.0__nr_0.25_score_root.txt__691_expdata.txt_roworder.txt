@@ -1,0 +1,7 @@
+"x"
+"1" "Johanson.Blizzard.syndrome"
+"2" "cerebellar.ataxia.hypogonadism.syndrome"
+"3" "giant.axonal.neuropathy.1"
+"4" "syndromic.X.linked.intellectual.disability.Nascimento.type"
+"5" "Fanconi.anemia.complementation.group.f"
+"6" "myoclonic.dystonia.26"

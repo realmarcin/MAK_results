@@ -1,0 +1,8 @@
+"x"
+"1" "neuropathy..hereditary.motor.and.sensory..type.6A"
+"2" "Charcot.Marie.tooth.disease.type.2A2"
+"3" "Charcot.Marie.tooth.disease..axonal..autosomal.recessive..type.2a2b."
+"4" "Sneddon.syndrome"
+"5" "pycnodysostosis"
+"6" "lethal.neonatal.spasticity.epileptic.encephalopathy.syndrome"
+"7" "vasculitis.due.to.ADA2.deficiency"

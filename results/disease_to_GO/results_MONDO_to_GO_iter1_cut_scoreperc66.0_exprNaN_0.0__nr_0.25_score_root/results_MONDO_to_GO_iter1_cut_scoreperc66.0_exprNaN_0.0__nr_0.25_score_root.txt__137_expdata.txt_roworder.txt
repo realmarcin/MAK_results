@@ -1,0 +1,7 @@
+"x"
+"1" "PMM2.CDG"
+"2" "MPI.CDG"
+"3" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.A..14"
+"4" "muscular.dystrophy.dystroglycanopathy..congenital.with.mental.retardation...type.B..14"
+"5" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2T"
+"6" "alacrima..achalasia..and.mental.retardation.syndrome"

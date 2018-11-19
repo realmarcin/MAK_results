@@ -1,0 +1,8 @@
+	susceptibility to HIV infection	"hepatitis c virus, susceptibility to"	"West nile virus, susceptibility to"	type 1 diabetes mellitus 22
+positive regulation of cytosolic calcium ion concentration	1.0	1.0	1.0	1.0
+regulation of cell migration	1.0	1.0	1.0	1.0
+negative regulation of angiogenesis	1.0	1.0	1.0	1.0
+negative regulation of cell migration	1.0	1.0	1.0	1.0
+negative regulation of axon extension	0.0	1.0	1.0	1.0
+positive regulation of monocyte chemotaxis	1.0	1.0	1.0	1.0
+positive regulation of immune complex clearance by monocytes and macrophages	0.0	1.0	1.0	1.0

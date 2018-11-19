@@ -1,0 +1,6 @@
+	"fibromatosis, gingival, 1"	combined immunodeficiency due to DOCK8 deficiency	Noonan syndrome 4	"mental retardation, autosomal dominant 2"	platelet-type bleeding disorder 18	Noonan syndrome 9
+GTPase activator activity	0.0	0.0	0.0	0.0	0.0	0.0
+small GTPase mediated signal transduction	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of GTPase activity	1.0	1.0	1.0	1.0	1.0	1.0
+guanyl-nucleotide exchange factor activity	1.0	1.0	1.0	1.0	1.0	1.0
+regulation of pro-B cell differentiation	1.0	0.0	1.0	0.0	0.0	1.0

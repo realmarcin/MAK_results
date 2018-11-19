@@ -1,0 +1,12 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	Tay-Sachs disease AB variant	"asthma-related Traits, susceptibility to, 7"	"autoimmune disease, susceptibility to, 6"
+apoptotic process	0.0	0.0	0.0	1.0	0.0
+positive regulation of ERK1 and ERK2 cascade	0.0	0.0	0.0	1.0	0.0
+positive regulation of peptidyl-threonine phosphorylation	0.0	0.0	0.0	1.0	0.0
+positive regulation of protein kinase B signaling	0.0	0.0	0.0	1.0	0.0
+sporulation resulting in formation of a cellular spore	0.0	0.0	0.0	1.0	0.0
+interleukin-8 secretion	0.0	0.0	0.0	1.0	0.0
+activation of NF-kappaB-inducing kinase activity	0.0	0.0	0.0	1.0	0.0
+chitin catabolic process	0.0	0.0	0.0	1.0	0.0
+chitin binding	0.0	0.0	0.0	1.0	0.0
+polysaccharide catabolic process	0.0	0.0	0.0	1.0	0.0
+chitinase activity	0.0	0.0	0.0	1.0	0.0

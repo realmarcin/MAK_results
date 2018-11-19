@@ -1,0 +1,5 @@
+	Alzheimer disease type 1	autosomal dominant sideroblastic anemia	hyperargininemia	aspartylglucosaminuria	"lipase deficiency, combined"	Alzheimer's disease 4	Preterm premature rupture of the membranes	xeroderma pigmentosum group B	dilated cardiomyopathy 1V	osteogenesis imperfecta type 10	multiple mitochondrial dysfunctions syndrome 4	"trichothiodystrophy 2, photosensitive"	"trichothiodystrophy 3, photosensitive"	even-plus syndrome
+protein maturation	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+cyclin-dependent protein kinase activating kinase holoenzyme complex	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of cytokine production	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+protein import into mitochondrial intermembrane space	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

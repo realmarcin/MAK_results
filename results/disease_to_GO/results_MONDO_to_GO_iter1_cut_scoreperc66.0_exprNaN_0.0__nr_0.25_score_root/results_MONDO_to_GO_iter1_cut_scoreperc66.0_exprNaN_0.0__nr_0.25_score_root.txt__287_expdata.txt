@@ -1,0 +1,6 @@
+	congenital central hypoventilation syndrome	autosomal dominant nonsyndromic deafness 25	bilateral frontoparietal polymicrogyria	holoprosencephaly 11	"polymicrogyria, bilateral perisylvian, autosomal recessive"	Adams-Oliver syndrome 6	palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome
+olfactory pit development	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ventral spinal cord interneuron fate commitment	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+positive regulation of neural precursor cell proliferation	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+glial limiting end-foot	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+positive regulation of sequestering of calcium ion	0.0	0.0	0.0	0.0	0.0	0.0	0.0

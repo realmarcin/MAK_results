@@ -1,0 +1,7 @@
+	"46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency"	SRD5A3-CDG	Kahrizi syndrome
+3-oxo-5-alpha-steroid 4-dehydrogenase activity	1.0	1.0	1.0
+sterol 5-alpha reductase activity	1.0	0.0	0.0
+cholestenone 5-alpha-reductase activity	1.0	1.0	1.0
+steroid catabolic process	1.0	0.0	0.0
+dolichol biosynthetic process	0.0	1.0	1.0
+polyprenol catabolic process	0.0	1.0	1.0

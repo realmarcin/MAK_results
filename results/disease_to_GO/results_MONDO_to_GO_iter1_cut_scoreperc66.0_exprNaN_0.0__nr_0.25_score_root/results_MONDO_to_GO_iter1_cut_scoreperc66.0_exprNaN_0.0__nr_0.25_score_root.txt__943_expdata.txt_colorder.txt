@@ -1,0 +1,7 @@
+"x"
+"1" "transferase activity, transferring glycosyl groups"
+"2" "galactosyltransferase activity"
+"3" "Golgi medial cisterna"
+"4" "UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity"
+"5" "UDP-galactosyltransferase activity"
+"6" "galactosylxylosylprotein 3-beta-galactosyltransferase activity"

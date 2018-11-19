@@ -1,0 +1,8 @@
+	adult-onset autosomal dominant demyelinating leukodystrophy	"mental retardation, X-linked 46"	partial acquired lipodystrophy	dilated cardiomyopathy 1W	hypertrophic cardiomyopathy 15	progressive myoclonic epilepsy type 9
+cell-cell junction	0.0	1.0	0.0	1.0	1.0	0.0
+heart contraction	0.0	0.0	0.0	1.0	1.0	0.0
+intermediate filament	1.0	0.0	1.0	0.0	0.0	1.0
+structural molecule activity	1.0	0.0	1.0	1.0	1.0	1.0
+nuclear envelope	1.0	0.0	1.0	0.0	0.0	1.0
+regulation of cell aging	0.0	0.0	0.0	0.0	0.0	0.0
+lamellipodium assembly	0.0	1.0	0.0	1.0	1.0	0.0

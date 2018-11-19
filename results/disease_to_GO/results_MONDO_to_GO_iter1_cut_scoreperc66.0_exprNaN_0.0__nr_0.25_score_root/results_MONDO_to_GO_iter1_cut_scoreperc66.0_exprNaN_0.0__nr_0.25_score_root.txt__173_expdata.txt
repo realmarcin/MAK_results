@@ -1,0 +1,7 @@
+	Usher syndrome type 1	Usher syndrome type 1C	autosomal recessive nonsyndromic deafness 2	autosomal dominant nonsyndromic deafness 11	autosomal recessive nonsyndromic deafness 18A
+pigment granule localization	1.0	0.0	1.0	1.0	0.0
+sensory perception	1.0	0.0	1.0	1.0	0.0
+phagolysosome assembly	1.0	0.0	1.0	1.0	0.0
+upper tip-link density	1.0	0.0	1.0	1.0	0.0
+myosin VII complex	1.0	0.0	1.0	1.0	0.0
+pigment granule transport	1.0	0.0	1.0	1.0	0.0

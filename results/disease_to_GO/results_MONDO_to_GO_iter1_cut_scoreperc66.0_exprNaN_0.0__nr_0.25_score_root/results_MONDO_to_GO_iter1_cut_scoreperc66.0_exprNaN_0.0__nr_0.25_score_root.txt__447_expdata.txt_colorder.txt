@@ -1,0 +1,7 @@
+"x"
+"1" "sarcoplasmic reticulum"
+"2" "regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum"
+"3" "regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion"
+"4" "regulation of ryanodine-sensitive calcium-release channel activity"
+"5" "sarcoplasmic reticulum membrane"
+"6" "filamentous actin"

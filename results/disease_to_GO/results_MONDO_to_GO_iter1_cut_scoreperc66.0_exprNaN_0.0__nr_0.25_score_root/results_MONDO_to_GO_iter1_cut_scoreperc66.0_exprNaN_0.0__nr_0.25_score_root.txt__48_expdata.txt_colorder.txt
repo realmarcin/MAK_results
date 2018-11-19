@@ -1,0 +1,7 @@
+"x"
+"1" "retinol transport"
+"2" "maintenance of gastrointestinal epithelium"
+"3" "vitamin A import"
+"4" "small molecule binding"
+"5" "retinol transmembrane transporter activity"
+"6" "positive regulation of behavior"

@@ -1,0 +1,5 @@
+"x"
+"1" "epidermolysis.bullosa.with.congenital.localized.absence.of.skin.and.deformity.of.nails"
+"2" "dystrophic.epidermolysis.bullosa.pruriginosa"
+"3" "nonsyndromic.congenital.nail.disorder.8"
+"4" "Keutel.syndrome"

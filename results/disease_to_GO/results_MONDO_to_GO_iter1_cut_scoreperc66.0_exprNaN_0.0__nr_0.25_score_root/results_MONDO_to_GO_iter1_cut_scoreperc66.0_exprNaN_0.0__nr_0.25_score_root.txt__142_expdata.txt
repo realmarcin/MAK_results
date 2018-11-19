@@ -1,0 +1,5 @@
+	spinocerebellar ataxia type 5	autosomal recessive nonsyndromic deafness 12	autosomal recessive spinocerebellar ataxia 14	"nephrotic syndrome, type 9"	hereditary spherocytosis type 2
+synaptic vesicle exocytosis	1.0	0.0	1.0	0.0	0.0
+cerebellar Purkinje cell layer morphogenesis	1.0	1.0	1.0	1.0	0.0
+spectrin	1.0	0.0	1.0	0.0	1.0
+actin filament capping	1.0	0.0	1.0	0.0	1.0

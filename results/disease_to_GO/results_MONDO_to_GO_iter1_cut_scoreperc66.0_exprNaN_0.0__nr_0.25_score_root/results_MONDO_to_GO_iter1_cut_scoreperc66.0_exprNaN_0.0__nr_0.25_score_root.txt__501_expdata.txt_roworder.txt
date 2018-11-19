@@ -1,0 +1,5 @@
+"x"
+"1" "syndromic.X.linked.intellectual.disability.Hedera.type"
+"2" "X.linked.parkinsonism.spasticity.syndrome"
+"3" "Okt4.Epitope.deficiency"
+"4" "immunodeficiency.18"

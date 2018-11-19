@@ -1,0 +1,8 @@
+"x"
+"1" "Tokita.Kim.syndrome..TOKIMS"
+"2" "FRAXE.intellectual.disability"
+"3" "THOC6.related.developmental.delay.microcephaly.facial.dysmorphism.syndrome"
+"4" "prostate.cancer..hereditary..2"
+"5" "combined.oxidative.phosphorylation.defect.type.17"
+"6" "autosomal.systemic.lupus.erythematosus"
+"7" "platelet.type.bleeding.disorder.20"

@@ -1,0 +1,9 @@
+	hydranencephaly with renal aplasia-dysplasia	"mental retardation, X-linked 63"	"obesity, Hyperphagia, and developmental delay"	autosomal recessive limb-girdle muscular dystrophy type 2W
+plasma membrane	1.0	1.0	1.0	1.0
+postsynaptic membrane	0.0	0.0	1.0	0.0
+integral component of membrane	0.0	1.0	1.0	0.0
+membrane	1.0	1.0	1.0	1.0
+nucleotide binding	0.0	1.0	1.0	0.0
+cytoplasm	1.0	1.0	1.0	0.0
+ATP binding	0.0	1.0	1.0	0.0
+regulation of protein kinase B signaling	1.0	1.0	1.0	1.0

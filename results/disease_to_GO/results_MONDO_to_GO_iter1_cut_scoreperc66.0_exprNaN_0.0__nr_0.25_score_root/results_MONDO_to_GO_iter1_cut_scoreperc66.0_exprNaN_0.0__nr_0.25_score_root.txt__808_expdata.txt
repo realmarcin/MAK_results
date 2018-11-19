@@ -1,0 +1,9 @@
+	mast syndrome	X-linked distal spinal muscular atrophy type 3	occipital horn syndrome	Menkes disease	Takenouchi-Kosaki syndrome; TKS
+plasma membrane	0.0	1.0	1.0	1.0	1.0
+membrane	0.0	1.0	1.0	1.0	1.0
+nucleotide binding	0.0	1.0	1.0	1.0	1.0
+cytosol	1.0	1.0	1.0	1.0	1.0
+hair follicle morphogenesis	0.0	1.0	1.0	1.0	1.0
+secretory granule	0.0	1.0	1.0	1.0	1.0
+trans-Golgi network transport vesicle	1.0	1.0	1.0	1.0	0.0
+positive regulation of catalytic activity	0.0	1.0	1.0	1.0	1.0

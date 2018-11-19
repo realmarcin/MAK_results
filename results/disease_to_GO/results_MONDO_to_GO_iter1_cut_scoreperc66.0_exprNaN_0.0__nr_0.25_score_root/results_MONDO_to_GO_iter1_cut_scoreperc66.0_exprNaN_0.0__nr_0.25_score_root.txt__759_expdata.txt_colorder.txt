@@ -1,0 +1,8 @@
+"x"
+"1" "hydrolase activity"
+"2" "metabolic process"
+"3" "catalytic activity"
+"4" "hydrolase activity, acting on glycosyl bonds"
+"5" "hydrolase activity, hydrolyzing O-glycosyl compounds"
+"6" "lysosome"
+"7" "mitochondrion"

@@ -1,0 +1,7 @@
+"x"
+"1" "Efavirenz..poor.metabolism.of"
+"2" "classic.congenital.adrenal.hyperplasia.due.to.21.hydroxylase.deficiency"
+"3" "drug.metabolism..poor..Cyp2D6.related"
+"4" "trimethylaminuria..disease."
+"5" "CAD.CDG"
+"6" "nucleoside.diphosphate.linked.Moiety.X.Motif.15.deficiency..NUDT15D"

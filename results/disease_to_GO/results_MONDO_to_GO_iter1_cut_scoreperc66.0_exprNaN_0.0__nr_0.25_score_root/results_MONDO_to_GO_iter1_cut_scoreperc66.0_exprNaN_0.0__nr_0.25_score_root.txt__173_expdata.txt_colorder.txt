@@ -1,0 +1,7 @@
+"x"
+"1" "pigment granule localization"
+"2" "sensory perception"
+"3" "phagolysosome assembly"
+"4" "upper tip-link density"
+"5" "myosin VII complex"
+"6" "pigment granule transport"

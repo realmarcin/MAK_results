@@ -1,0 +1,7 @@
+"x"
+"1" "AMP biosynthetic process"
+"2" "5-phosphoribose 1-diphosphate biosynthetic process"
+"3" "purine nucleobase metabolic process"
+"4" "nucleotide biosynthetic process"
+"5" "ribose phosphate metabolic process"
+"6" "urate biosynthetic process"

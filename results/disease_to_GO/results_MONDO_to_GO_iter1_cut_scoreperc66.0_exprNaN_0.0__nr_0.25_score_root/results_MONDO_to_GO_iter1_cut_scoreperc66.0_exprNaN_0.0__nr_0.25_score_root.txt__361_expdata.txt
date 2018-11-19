@@ -1,0 +1,7 @@
+	mitochondrial DNA depletion syndrome 3	"mitochondrial dna depletion syndrome, myopathic form"	hemolytic anemia due to adenylate kinase deficiency	"portal hypertension, Noncirrhotic; NCPH"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 3; PEOB3"	adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency
+phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrion	1.0	1.0	0.0	1.0	1.0	1.0
+cellular_component	1.0	1.0	0.0	1.0	1.0	1.0
+nucleobase-containing compound metabolic process	1.0	1.0	1.0	1.0	1.0	1.0
+nucleoside kinase activity	1.0	1.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,8 @@
+	Meier-Gorlin syndrome 1	infantile onset spinocerebellar ataxia	"progressive external ophthalmoplegia with mitochondrial Dna deletions, autosomal dominant 3"	Perrault syndrome 5	autosomal dominant nonsyndromic deafness 70	Meier-Gorlin syndrome 7; MGORS7
+nucleotide binding	1.0	1.0	1.0	1.0	1.0	0.0
+single-stranded DNA binding	1.0	1.0	1.0	1.0	1.0	1.0
+helicase activity	0.0	1.0	1.0	1.0	1.0	0.0
+DNA replication	1.0	1.0	1.0	1.0	1.0	1.0
+mitochondrial DNA replication	0.0	1.0	1.0	1.0	0.0	0.0
+DNA helicase activity	0.0	1.0	1.0	1.0	1.0	0.0
+DNA unwinding involved in DNA replication	0.0	1.0	1.0	1.0	1.0	0.0

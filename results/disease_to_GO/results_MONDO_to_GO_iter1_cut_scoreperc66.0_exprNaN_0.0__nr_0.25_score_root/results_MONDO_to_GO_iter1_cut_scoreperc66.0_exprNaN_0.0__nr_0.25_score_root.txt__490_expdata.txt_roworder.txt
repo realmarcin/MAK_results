@@ -1,0 +1,6 @@
+"x"
+"1" "neuronopathy..distal.hereditary.motor..type.7A"
+"2" "Christianson.syndrome"
+"3" "congenital.myasthenic.syndrome.20"
+"4" "autism..susceptibility.to..16"
+"5" "creatine.transporter.deficiency"

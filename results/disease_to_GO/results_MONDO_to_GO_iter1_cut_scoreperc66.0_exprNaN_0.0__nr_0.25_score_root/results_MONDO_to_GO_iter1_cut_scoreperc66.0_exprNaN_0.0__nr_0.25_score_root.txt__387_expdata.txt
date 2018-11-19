@@ -1,0 +1,8 @@
+	primary ciliary dyskinesia 2	short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome	primary ciliary dyskinesia 18	primary ciliary dyskinesia 22
+bone development	0.0	1.0	0.0	0.0
+cytoplasm	1.0	1.0	1.0	1.0
+cell projection organization	1.0	1.0	1.0	0.0
+non-motile cilium assembly	0.0	1.0	0.0	0.0
+mitotic spindle organization	0.0	1.0	0.0	0.0
+positive regulation of centrosome duplication	0.0	1.0	0.0	0.0
+growth plate cartilage chondrocyte development	0.0	1.0	0.0	0.0

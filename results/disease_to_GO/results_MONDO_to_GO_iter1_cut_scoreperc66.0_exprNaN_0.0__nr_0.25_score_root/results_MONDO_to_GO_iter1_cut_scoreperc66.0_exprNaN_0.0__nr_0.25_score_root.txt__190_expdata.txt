@@ -1,0 +1,7 @@
+	"dyslexia, susceptibility to, 1"	polycystic kidney disease 1	primary ciliary dyskinesia 25	ITPA-related encephalopathy	nucleoside diphosphate-linked Moiety X Motif 15 deficiency; NUDT15D
+regulation of proteasomal protein catabolic process	1.0	1.0	1.0	0.0	1.0
+purine deoxyribonucleoside triphosphate catabolic process	0.0	0.0	0.0	1.0	1.0
+"8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity"	0.0	0.0	0.0	0.0	1.0
+"8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity"	0.0	0.0	0.0	0.0	1.0
+purine nucleotide catabolic process	0.0	0.0	0.0	0.0	1.0
+nucleoside phosphate catabolic process	0.0	0.0	0.0	0.0	1.0

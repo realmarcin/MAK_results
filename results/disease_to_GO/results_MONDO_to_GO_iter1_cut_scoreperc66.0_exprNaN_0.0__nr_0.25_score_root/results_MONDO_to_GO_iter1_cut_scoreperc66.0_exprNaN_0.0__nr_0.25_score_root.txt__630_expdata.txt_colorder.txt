@@ -1,0 +1,7 @@
+"x"
+"1" "proteoglycan biosynthetic process"
+"2" "protein binding"
+"3" "proteinaceous extracellular matrix"
+"4" "calcium ion binding"
+"5" "extracellular space"
+"6" "extracellular region"

@@ -1,0 +1,11 @@
+	McKusick-Kaufman syndrome	Bardet-Biedl syndrome 6	short-rib thoracic dysplasia 10 with or without polydactyly	retinitis pigmentosa 71
+cell projection	0.0	0.0	1.0	1.0
+cilium assembly	1.0	1.0	1.0	1.0
+axoneme	0.0	0.0	1.0	1.0
+heart looping	1.0	1.0	1.0	1.0
+determination of left/right symmetry	1.0	1.0	1.0	1.0
+smoothened signaling pathway	0.0	0.0	1.0	1.0
+photoreceptor cell maintenance	1.0	1.0	1.0	1.0
+ciliary basal body	1.0	1.0	1.0	1.0
+motile cilium	1.0	1.0	1.0	1.0
+non-motile cilium assembly	1.0	1.0	1.0	1.0

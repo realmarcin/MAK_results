@@ -1,0 +1,8 @@
+	chromosome 5q deletion syndrome	"glaucoma 1, open angle, G"	Diamond-Blackfan anemia 8
+rRNA processing	1.0	1.0	1.0
+ribosomal small subunit biogenesis	0.0	1.0	1.0
+cytosolic small ribosomal subunit	1.0	0.0	1.0
+ribosome biogenesis	1.0	1.0	1.0
+cytoplasmic translation	1.0	0.0	1.0
+90S preribosome	1.0	1.0	1.0
+small-subunit processome	1.0	1.0	1.0

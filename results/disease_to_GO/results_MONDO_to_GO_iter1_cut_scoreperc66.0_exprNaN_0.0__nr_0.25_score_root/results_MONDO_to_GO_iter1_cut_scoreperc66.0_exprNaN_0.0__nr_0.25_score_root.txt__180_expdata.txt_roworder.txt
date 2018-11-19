@@ -1,0 +1,7 @@
+"x"
+"1" "systemic.lupus.erythematosus..disease."
+"2" "autoimmune.thrombocytopenic.purpura"
+"3" "malaria..susceptibility.to"
+"4" "autosomal.recessive.primary.immunodeficiency.with.defective.spontaneous.natural.killer.cell.cytotoxicity"
+"5" "Charcot.Marie.tooth.disease.type.4D"
+"6" "severe.combined.immunodeficiency.due.to.DNA.PKcs.deficiency"

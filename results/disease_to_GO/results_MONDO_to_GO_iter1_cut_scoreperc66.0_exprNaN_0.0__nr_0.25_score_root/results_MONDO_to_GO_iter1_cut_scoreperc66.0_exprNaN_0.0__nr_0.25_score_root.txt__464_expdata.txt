@@ -1,0 +1,8 @@
+	hereditary diffuse gastric cancer	linear nevus sebaceus syndrome	Charcot-Marie-tooth disease type 2B	acute myeloid leukemia	Noonan syndrome 3	cardiofaciocutaneous syndrome 2
+negative regulation of cell differentiation	1.0	1.0	0.0	1.0	1.0	1.0
+regulation of long-term neuronal synaptic plasticity	1.0	1.0	0.0	1.0	1.0	1.0
+homeostasis of number of cells within a tissue	1.0	1.0	0.0	1.0	1.0	1.0
+striated muscle cell differentiation	1.0	1.0	0.0	1.0	1.0	1.0
+Ras protein signal transduction	1.0	1.0	0.0	1.0	1.0	1.0
+epithelial tube branching involved in lung morphogenesis	1.0	1.0	0.0	1.0	1.0	1.0
+GDP binding	1.0	1.0	0.0	1.0	1.0	1.0

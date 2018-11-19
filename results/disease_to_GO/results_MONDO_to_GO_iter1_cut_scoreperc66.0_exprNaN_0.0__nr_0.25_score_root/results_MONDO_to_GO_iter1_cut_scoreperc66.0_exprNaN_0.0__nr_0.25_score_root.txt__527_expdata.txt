@@ -1,0 +1,8 @@
+	"anemia, congenital dyserythropoietic, type Ia"	Bartter disease type 5	"mitochondrial complex v (ATP synthase) deficiency, nuclear type 1"	hypomyelinating leukodystrophy 5	three M syndrome 3	orofaciodigital syndrome XV
+cytoplasm	1.0	0.0	0.0	1.0	1.0	1.0
+protein domain specific binding	0.0	0.0	1.0	0.0	0.0	0.0
+cytosol	1.0	1.0	1.0	1.0	1.0	1.0
+molecular_function	1.0	1.0	1.0	1.0	1.0	1.0
+nuclear speck	0.0	0.0	1.0	0.0	0.0	0.0
+proton-transporting ATP synthase complex assembly	0.0	0.0	1.0	0.0	0.0	0.0
+mitochondrial proton-transporting ATP synthase complex assembly	0.0	0.0	1.0	0.0	0.0	0.0

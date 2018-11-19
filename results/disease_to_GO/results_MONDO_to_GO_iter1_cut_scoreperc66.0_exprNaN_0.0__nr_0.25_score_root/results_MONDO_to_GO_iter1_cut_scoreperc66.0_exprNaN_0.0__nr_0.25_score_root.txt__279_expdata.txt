@@ -1,0 +1,5 @@
+	brachydactyly type A2	Holt-Oram syndrome	hemochromatosis type 1	Naxos disease	arrhythmogenic right ventricular dysplasia 12	Loeys-Dietz syndrome 4
+cardiac epithelial to mesenchymal transition	1.0	0.0	1.0	0.0	0.0	1.0
+atrioventricular valve morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of Wnt signaling pathway involved in heart development	1.0	0.0	1.0	1.0	1.0	0.0
+pericardium development	1.0	1.0	1.0	0.0	0.0	0.0

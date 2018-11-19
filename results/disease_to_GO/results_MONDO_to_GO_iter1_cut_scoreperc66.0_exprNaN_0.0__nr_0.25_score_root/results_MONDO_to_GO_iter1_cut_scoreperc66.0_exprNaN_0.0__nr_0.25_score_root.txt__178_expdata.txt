@@ -1,0 +1,9 @@
+	Matthew-wood syndrome	childhood apraxia of speech	monosomy 22q13	schizophrenia 15
+vocal learning	1.0	1.0	1.0	1.0
+regulation of grooming behavior	0.0	0.0	1.0	1.0
+locomotory exploration behavior	0.0	0.0	1.0	1.0
+striatal medium spiny neuron differentiation	0.0	0.0	1.0	1.0
+GKAP/Homer scaffold activity	0.0	0.0	1.0	1.0
+negative regulation of actin filament bundle assembly	0.0	0.0	1.0	1.0
+regulation of dendritic spine morphogenesis	0.0	0.0	1.0	1.0
+positive regulation of synapse structural plasticity	0.0	0.0	1.0	1.0

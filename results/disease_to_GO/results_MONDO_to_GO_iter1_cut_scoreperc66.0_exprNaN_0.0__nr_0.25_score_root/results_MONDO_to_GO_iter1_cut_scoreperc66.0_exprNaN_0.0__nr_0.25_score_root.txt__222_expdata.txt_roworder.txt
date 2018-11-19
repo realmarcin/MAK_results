@@ -1,0 +1,5 @@
+"x"
+"1" "candidiasis..familial..5"
+"2" "candidiasis..familial..9"
+"3" "hypogonadotropic.hypogonadism.18.with.or.without.anosmia"
+"4" "mendelian.susceptibility.to.mycobacterial.diseases.due.to.complete.IL12RB1.deficiency"

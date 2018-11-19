@@ -1,0 +1,7 @@
+"x"
+"1" "calcium ion transport"
+"2" "G-protein coupled receptor activity"
+"3" "G-protein coupled receptor signaling pathway"
+"4" "integral component of plasma membrane"
+"5" "cell surface"
+"6" "positive regulation of gene expression"

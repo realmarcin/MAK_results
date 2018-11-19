@@ -1,0 +1,7 @@
+"x"
+"1" "cytosol"
+"2" "adult locomotory behavior"
+"3" "structural molecule activity"
+"4" "L-arabinose metabolic process"
+"5" "alpha-L-arabinofuranosidase activity"
+"6" "otolith formation"

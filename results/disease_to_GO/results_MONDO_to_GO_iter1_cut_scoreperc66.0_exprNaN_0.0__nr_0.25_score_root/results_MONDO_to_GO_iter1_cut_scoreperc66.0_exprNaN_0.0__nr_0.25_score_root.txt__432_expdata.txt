@@ -1,0 +1,11 @@
+	spinocerebellar ataxia type 11	immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency	abdominal obesity-metabolic syndrome 3	FTDALS4
+protein kinase activity	1.0	1.0	1.0	1.0
+phosphorylation	0.0	1.0	1.0	1.0
+kinase activity	0.0	1.0	1.0	1.0
+ATP binding	1.0	1.0	1.0	1.0
+transferase activity	0.0	1.0	1.0	1.0
+protein phosphorylation	1.0	1.0	1.0	1.0
+"positive regulation of transcription, DNA-templated"	0.0	1.0	1.0	0.0
+immune system process	0.0	1.0	0.0	1.0
+protein serine/threonine kinase activity	1.0	1.0	1.0	1.0
+innate immune response	0.0	1.0	0.0	1.0

@@ -1,0 +1,8 @@
+"x"
+"1" "proton-transporting ATPase activity, rotational mechanism"
+"2" "cellular protein complex assembly"
+"3" "vacuolar proton-transporting V-type ATPase complex assembly"
+"4" "proton-transporting V-type ATPase, V0 domain"
+"5" "polyphosphate metabolic process"
+"6" "vacuolar proton-transporting V-type ATPase, V0 domain"
+"7" "ATP synthesis coupled proton transport"

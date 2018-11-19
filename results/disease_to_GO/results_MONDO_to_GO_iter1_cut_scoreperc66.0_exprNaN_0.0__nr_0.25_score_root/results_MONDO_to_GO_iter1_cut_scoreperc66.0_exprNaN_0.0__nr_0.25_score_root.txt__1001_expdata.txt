@@ -1,0 +1,6 @@
+	hereditary spastic paraplegia 3A	Griscelli syndrome type 1	autosomal recessive limb-girdle muscular dystrophy type 2B	Miyoshi myopathy	hereditary sensory and autonomic neuropathy type 4	familial isolated deficiency of vitamin E	Charcot-Marie-tooth disease type 2B	"hypercholesterolemia, autosomal dominant, 3"	distal myopathy with anterior tibial onset	"zinc deficiency, transient neonatal"	"neuropathy, hereditary sensory, type 1D"	hyperlipidemia due to hepatic triglyceride lipase deficiency	cardiofaciocutaneous syndrome 4	autosomal recessive spinocerebellar ataxia 15	hereditary thrombocytopenia with early-onset myelofibrosis
+early endosome	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+endocytosis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+recycling endosome	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+endosome	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+late endosome	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

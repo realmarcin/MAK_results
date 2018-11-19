@@ -1,0 +1,7 @@
+"x"
+"1" "late endosome membrane"
+"2" "immune response"
+"3" "antigen processing and presentation of exogenous peptide antigen via MHC class II"
+"4" "antigen processing and presentation"
+"5" "MHC class II protein complex"
+"6" "antigen processing and presentation of peptide or polysaccharide antigen via MHC class II"

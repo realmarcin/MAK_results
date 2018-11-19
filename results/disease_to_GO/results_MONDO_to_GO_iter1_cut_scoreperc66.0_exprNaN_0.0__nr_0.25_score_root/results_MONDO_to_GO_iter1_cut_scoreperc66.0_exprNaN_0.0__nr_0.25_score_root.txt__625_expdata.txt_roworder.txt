@@ -1,0 +1,6 @@
+"x"
+"1" "arrhythmogenic.right.ventricular.dysplasia.9"
+"2" "arrhythmogenic.right.ventricular.dysplasia.13"
+"3" "myofibrillar.myopathy.4"
+"4" "cerebral.palsy..spastic.quadriplegic..3..CPSQ3"
+"5" "Alexander.disease"

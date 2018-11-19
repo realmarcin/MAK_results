@@ -1,0 +1,5 @@
+"x"
+"1" "encephalopathy.due.to.hydroxykynureninuria"
+"2" "acromelic.frontonasal.dysostosis"
+"3" "left.ventricular.noncompaction.1"
+"4" "congenital.heart.defects..multiple.types..2"

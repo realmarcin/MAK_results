@@ -1,0 +1,6 @@
+"x"
+"1" "autosomal.dominant.nonsyndromic.deafness.1"
+"2" "progressive.microcephaly.seizures.cortical.blindness.developmental.delay.syndrome"
+"3" "autosomal.dominant.nonsyndromic.deafness.20"
+"4" "Baraitser.winter.syndrome.2"
+"5" "X.linked.intellectual.disability..Stocco.dos.Santos.type"

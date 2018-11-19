@@ -1,0 +1,9 @@
+	Joubert syndrome 1	X-linked centronuclear myopathy	Charcot-Marie-tooth disease type 4B1	MORM syndrome	lymphedema-posterior choanal atresia syndrome	early-onset Parkinson disease 20
+cytoplasm	1.0	1.0	1.0	1.0	1.0	1.0
+cytoskeleton	1.0	0.0	0.0	1.0	1.0	1.0
+ruffle	1.0	1.0	0.0	1.0	0.0	0.0
+hydrolase activity	1.0	1.0	1.0	1.0	1.0	1.0
+retina development in camera-type eye	1.0	0.0	0.0	1.0	0.0	1.0
+phosphatidylinositol metabolic process	1.0	0.0	1.0	1.0	0.0	0.0
+inositol phosphate dephosphorylation	1.0	0.0	1.0	1.0	0.0	0.0
+phosphatidylinositol dephosphorylation	1.0	1.0	1.0	1.0	0.0	1.0

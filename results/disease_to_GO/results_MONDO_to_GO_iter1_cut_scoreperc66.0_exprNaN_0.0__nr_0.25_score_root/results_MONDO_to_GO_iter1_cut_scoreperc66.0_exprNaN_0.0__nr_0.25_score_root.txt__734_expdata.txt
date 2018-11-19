@@ -1,0 +1,7 @@
+	renal agenesis (disease)	orofaciodigital syndrome IV	Joubert syndrome 13	Joubert syndrome 18	primary ciliary dyskinesia 29
+integral component of membrane	1.0	1.0	0.0	1.0	0.0
+membrane	1.0	1.0	1.0	1.0	0.0
+protein binding	1.0	1.0	1.0	1.0	0.0
+nucleus	1.0	1.0	0.0	1.0	1.0
+cilium assembly	1.0	1.0	1.0	1.0	1.0
+cell projection organization	1.0	1.0	1.0	1.0	1.0

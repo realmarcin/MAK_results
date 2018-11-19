@@ -1,0 +1,9 @@
+	Schimke immuno-osseous dysplasia	Fanconi anemia complementation group j	Meier-Gorlin syndrome 2	Meier-Gorlin syndrome 3	Meier-Gorlin syndrome 7; MGORS7	Fanconi anemia complementation group U
+nucleotide binding	1.0	1.0	0.0	0.0	0.0	0.0
+cartilage development	1.0	0.0	0.0	0.0	0.0	0.0
+nucleus	1.0	1.0	1.0	1.0	1.0	0.0
+regulation of transcription from RNA polymerase II promoter	1.0	1.0	0.0	0.0	0.0	0.0
+hemopoiesis	1.0	0.0	0.0	0.0	0.0	0.0
+embryonic body morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+developmental growth	1.0	0.0	0.0	0.0	0.0	0.0
+DNA replication factor A complex	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "regulation of actin filament polymerization"
+"2" "phosphotyrosine residue binding"
+"3" "GTPase binding"
+"4" "protein kinase B binding"
+"5" "Rac GTPase binding"

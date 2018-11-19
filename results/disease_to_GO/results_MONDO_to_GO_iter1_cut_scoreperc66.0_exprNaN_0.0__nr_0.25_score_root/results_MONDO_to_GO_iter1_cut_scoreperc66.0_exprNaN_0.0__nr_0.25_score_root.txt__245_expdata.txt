@@ -1,0 +1,9 @@
+	Bethlem myopathy	Keutel syndrome	Ullrich congenital muscular dystrophy 1	familial retinal arterial macroaneurysm	dystonia 27
+muscle organ development	1.0	0.0	1.0	0.0	0.0
+proteinaceous extracellular matrix	1.0	0.0	1.0	0.0	1.0
+axon extension	1.0	0.0	1.0	0.0	1.0
+serine-type endopeptidase inhibitor activity	1.0	0.0	1.0	0.0	1.0
+axonogenesis	1.0	0.0	1.0	0.0	0.0
+muscle fiber development	1.0	0.0	1.0	0.0	0.0
+motor neuron axon guidance	1.0	0.0	1.0	0.0	1.0
+muscle structure development	1.0	0.0	1.0	0.0	0.0

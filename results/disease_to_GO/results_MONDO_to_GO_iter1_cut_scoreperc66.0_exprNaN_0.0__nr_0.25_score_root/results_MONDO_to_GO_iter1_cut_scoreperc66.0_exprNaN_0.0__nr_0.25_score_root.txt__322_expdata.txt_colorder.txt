@@ -1,0 +1,5 @@
+"x"
+"1" "neural retina development"
+"2" "retinal pigment epithelium development"
+"3" "transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific DNA binding"
+"4" "cell proliferation involved in compound eye morphogenesis"

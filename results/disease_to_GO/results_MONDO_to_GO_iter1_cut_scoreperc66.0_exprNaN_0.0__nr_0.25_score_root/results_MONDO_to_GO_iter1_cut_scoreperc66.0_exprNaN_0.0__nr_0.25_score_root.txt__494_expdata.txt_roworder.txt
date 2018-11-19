@@ -1,0 +1,5 @@
+"x"
+"1" "Bothnia.retinal.dystrophy"
+"2" "Newfoundland.cone.rod.dystrophy"
+"3" "progressive.retinal.dystrophy.due.to.retinol.transport.defect"
+"4" "microphthalmia..isolated..with.coloboma.10"

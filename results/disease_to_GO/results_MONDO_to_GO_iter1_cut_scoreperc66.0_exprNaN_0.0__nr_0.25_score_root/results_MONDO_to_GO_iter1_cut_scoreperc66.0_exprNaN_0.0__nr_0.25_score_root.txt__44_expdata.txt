@@ -1,0 +1,6 @@
+	Oxoglutaricaciduria	mitochondrial DNA depletion syndrome 9	"mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria"
+succinyl-CoA metabolic process	1.0	1.0	1.0
+succinate-CoA ligase (GDP-forming) activity	0.0	1.0	0.0
+succinate-CoA ligase complex (GDP-forming)	0.0	1.0	0.0
+succinate-CoA ligase (ADP-forming) activity	0.0	1.0	1.0
+succinate-CoA ligase activity	0.0	0.0	1.0

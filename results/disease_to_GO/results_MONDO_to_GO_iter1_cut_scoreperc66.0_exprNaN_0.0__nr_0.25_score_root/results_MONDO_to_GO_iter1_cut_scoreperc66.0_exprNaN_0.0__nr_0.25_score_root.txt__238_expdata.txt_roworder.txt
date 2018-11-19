@@ -1,0 +1,7 @@
+"x"
+"1" "Li.Fraumeni.syndrome.1"
+"2" "adrenocortical.carcinoma..hereditary"
+"3" "bone.osteosarcoma"
+"4" "choroid.plexus.papilloma"
+"5" "nasopharyngeal.carcinoma..susceptibility.to..1"
+"6" "basal.cell.carcinoma..susceptibility.to..7"

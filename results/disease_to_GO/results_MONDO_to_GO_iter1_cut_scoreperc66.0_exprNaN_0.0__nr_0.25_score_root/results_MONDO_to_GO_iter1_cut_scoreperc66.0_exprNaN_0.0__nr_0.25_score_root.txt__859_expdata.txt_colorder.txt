@@ -1,0 +1,8 @@
+"x"
+"1" "immune response"
+"2" "plasma membrane"
+"3" "membrane"
+"4" "protein binding"
+"5" "cytoplasm"
+"6" "cytokine-mediated signaling pathway"
+"7" "negative regulation of angiogenesis"

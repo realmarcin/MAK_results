@@ -1,0 +1,9 @@
+	hereditary hypercarotenemia and vitamin A deficiency	phenylketonuria	mucosulfatidosis	Hypertryptophanemia	osteogenesis imperfecta type 8	"attention deficit-hyperactivity disorder, susceptibility to, 7"
+protein homodimerization activity	0.0	1.0	1.0	0.0	0.0	0.0
+metal ion binding	1.0	1.0	1.0	1.0	1.0	1.0
+oxidation-reduction process	1.0	1.0	1.0	1.0	1.0	1.0
+oxidoreductase activity	1.0	1.0	1.0	1.0	1.0	1.0
+monooxygenase activity	1.0	1.0	0.0	0.0	0.0	1.0
+amino acid binding	0.0	1.0	0.0	1.0	0.0	0.0
+protein hydroxylation	0.0	1.0	0.0	0.0	1.0	0.0
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen"	0.0	1.0	0.0	0.0	0.0	1.0

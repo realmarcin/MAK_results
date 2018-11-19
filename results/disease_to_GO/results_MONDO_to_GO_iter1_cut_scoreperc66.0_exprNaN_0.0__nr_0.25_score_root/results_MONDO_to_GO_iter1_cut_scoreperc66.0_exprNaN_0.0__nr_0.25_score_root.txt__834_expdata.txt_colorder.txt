@@ -1,0 +1,8 @@
+"x"
+"1" "sequence-specific DNA binding"
+"2" "RNA polymerase II proximal promoter sequence-specific DNA binding"
+"3" "anatomical structure formation involved in morphogenesis"
+"4" "HMG box domain binding"
+"5" "palate development"
+"6" "cellular response to BMP stimulus"
+"7" "ear development"

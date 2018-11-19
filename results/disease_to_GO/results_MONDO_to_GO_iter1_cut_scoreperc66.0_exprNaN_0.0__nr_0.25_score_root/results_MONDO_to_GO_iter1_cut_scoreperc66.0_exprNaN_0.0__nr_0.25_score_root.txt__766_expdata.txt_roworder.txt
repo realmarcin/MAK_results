@@ -1,0 +1,7 @@
+"x"
+"1" "Curry.Jones.syndrome"
+"2" "BCC1"
+"3" "patterned.macular.dystrophy.1"
+"4" "retinitis.pigmentosa.7"
+"5" "adult.onset.foveomacular.vitelliform.dystrophy"
+"6" "choroidal.dystrophy..central.areolar.2"

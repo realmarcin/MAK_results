@@ -1,0 +1,17 @@
+	"Ige responsiveness, atopic"	Netherton syndrome	congenital myasthenic syndrome 8	"epilepsy, familial adult myoclonic, 5"
+epidermal cell differentiation	1.0	1.0	0.0	0.0
+negative regulation of peptidase activity	1.0	1.0	0.0	0.0
+serine-type endopeptidase inhibitor activity	1.0	1.0	0.0	0.0
+peptidase inhibitor activity	1.0	1.0	0.0	0.0
+negative regulation of proteolysis	1.0	1.0	0.0	0.0
+cell cortex	1.0	1.0	0.0	0.0
+anterior/posterior pattern specification	1.0	1.0	1.0	0.0
+receptor clustering	1.0	1.0	1.0	0.0
+peripheral nervous system development	1.0	1.0	1.0	0.0
+regulation of cell adhesion	1.0	1.0	0.0	0.0
+negative regulation of serine-type endopeptidase activity	1.0	1.0	0.0	0.0
+laminin binding	1.0	1.0	1.0	0.0
+epidermal lamellar body	1.0	1.0	0.0	0.0
+negative regulation of antibacterial peptide production	1.0	1.0	0.0	0.0
+G-protein coupled acetylcholine receptor signaling pathway	1.0	1.0	1.0	0.0
+negative regulation of serine-type peptidase activity	1.0	1.0	0.0	0.0

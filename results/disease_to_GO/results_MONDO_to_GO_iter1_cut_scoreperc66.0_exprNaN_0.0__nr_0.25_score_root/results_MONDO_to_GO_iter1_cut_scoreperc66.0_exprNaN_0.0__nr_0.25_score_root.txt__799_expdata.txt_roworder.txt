@@ -1,0 +1,5 @@
+"x"
+"1" "aortic.aneurysm..familial.thoracic.10..AAT10"
+"2" "exfoliation.syndrome"
+"3" "camptodactyly.arthropathy.coxa.vara.pericarditis.syndrome"
+"4" "tooth.agenesis..selective..9..STHAG9"

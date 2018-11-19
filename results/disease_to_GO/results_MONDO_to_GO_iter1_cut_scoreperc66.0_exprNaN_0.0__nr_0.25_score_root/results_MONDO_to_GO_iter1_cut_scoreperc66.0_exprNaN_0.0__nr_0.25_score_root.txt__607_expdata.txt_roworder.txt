@@ -1,0 +1,7 @@
+"x"
+"1" "helicobacter.pylori.infection..susceptibility.to"
+"2" "immunodeficiency.27A"
+"3" "hepatitis.b.virus..susceptibility.to"
+"4" "autosomal.dominant.mendelian.susceptibility.to.mycobacterial.diseases.due.to.partial.IFNgammaR1.deficiency"
+"5" "hepatitis.c.virus..susceptibility.to"
+"6" "amyloidosis..primary.localized.cutaneous..2"

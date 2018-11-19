@@ -1,0 +1,4 @@
+	Apert syndrome	Crouzon syndrome	fibrodysplasia ossificans progressiva	holoprosencephaly 3	solitary median maxillary central incisor syndrome	Seckel syndrome 1	schizencephaly	autosomal recessive spondylocostal dysostosis	immunodeficiency 47; IMD47	"microphthalmia, isolated, with coloboma 5"	familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome
+determination of left/right asymmetry in lateral mesoderm	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+somatic motor neuron differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+establishment of body hair planar orientation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

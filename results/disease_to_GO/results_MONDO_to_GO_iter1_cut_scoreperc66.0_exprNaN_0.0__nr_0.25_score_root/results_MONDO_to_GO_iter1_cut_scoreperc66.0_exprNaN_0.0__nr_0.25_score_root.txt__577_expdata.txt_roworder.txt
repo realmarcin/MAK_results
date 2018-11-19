@@ -1,0 +1,7 @@
+"x"
+"1" "Bardet.Biedl.syndrome.1"
+"2" "retinitis.pigmentosa.3"
+"3" "primary.ciliary.dyskinesia.retinitis.pigmentosa.syndrome"
+"4" "macular.degeneration..X.linked.atrophic"
+"5" "X.linked.cone.rod.dystrophy.1"
+"6" "Bardet.Biedl.syndrome.19"

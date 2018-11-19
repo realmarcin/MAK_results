@@ -1,0 +1,7 @@
+	"myopathy, centronuclear, 2"	Charlevoix-Saguenay spastic ataxia	Aicardi-Goutieres syndrome 2	normophosphatemic familial tumoral calcinosis	"neuronopathy, distal hereditary motor, type 2C"	Mirage syndrome; MIRAGE
+positive regulation of fibroblast proliferation	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of G2/M transition of mitotic cell cycle	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of DNA damage checkpoint	0.0	0.0	1.0	0.0	0.0	0.0
+ribonucleotide metabolic process	0.0	0.0	1.0	0.0	0.0	0.0
+RNA-DNA hybrid ribonuclease activity	0.0	0.0	1.0	0.0	0.0	0.0
+ribonuclease H2 complex	0.0	0.0	1.0	0.0	0.0	0.0

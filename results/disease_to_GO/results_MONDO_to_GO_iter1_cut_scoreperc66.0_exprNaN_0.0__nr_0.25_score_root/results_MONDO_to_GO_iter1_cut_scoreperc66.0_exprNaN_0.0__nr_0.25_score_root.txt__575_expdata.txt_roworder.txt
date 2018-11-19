@@ -1,0 +1,5 @@
+"x"
+"1" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.a..12"
+"2" "limb.girdle.muscular.dystrophy.due.to.POMK.deficiency"
+"3" "Morvan.syndrome"
+"4" "prostate.cancer.brain.Cancer.susceptibility"

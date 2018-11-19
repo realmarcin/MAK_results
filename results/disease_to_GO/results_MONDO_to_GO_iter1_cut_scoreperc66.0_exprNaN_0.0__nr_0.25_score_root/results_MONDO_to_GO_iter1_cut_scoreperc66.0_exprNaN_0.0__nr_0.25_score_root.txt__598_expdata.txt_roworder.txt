@@ -1,0 +1,7 @@
+"x"
+"1" "pontocerebellar.hypoplasia..type.2F..PCH2F"
+"2" "anemia..congenital.dyserythropoietic..type.Ia"
+"3" "Bartter.disease.type.5"
+"4" "three.M.syndrome.3"
+"5" "hypomyelinating.leukodystrophy.5"
+"6" "orofaciodigital.syndrome.XV"

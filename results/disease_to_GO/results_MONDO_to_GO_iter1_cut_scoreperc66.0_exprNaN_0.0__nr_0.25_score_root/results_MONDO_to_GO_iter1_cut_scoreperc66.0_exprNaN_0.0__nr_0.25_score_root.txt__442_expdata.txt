@@ -1,0 +1,10 @@
+	POROK1	"porokeratosis 3, disseminated superficial actinic type"	Hyperimmunoglobulinemia d with periodic fever	megaconial type congenital muscular dystrophy	mevalonic aciduria
+phosphorylation	1.0	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0	1.0
+negative regulation of inflammatory response	0.0	1.0	1.0	0.0	1.0
+lipid metabolic process	1.0	1.0	1.0	1.0	1.0
+ergosterol biosynthetic process	0.0	1.0	1.0	0.0	1.0
+mevalonate kinase activity	0.0	1.0	1.0	0.0	1.0
+sequence-specific mRNA binding	0.0	1.0	1.0	0.0	1.0
+"farnesyl diphosphate biosynthetic process, mevalonate pathway"	0.0	1.0	1.0	0.0	1.0
+negative regulation of translation	0.0	1.0	1.0	0.0	1.0

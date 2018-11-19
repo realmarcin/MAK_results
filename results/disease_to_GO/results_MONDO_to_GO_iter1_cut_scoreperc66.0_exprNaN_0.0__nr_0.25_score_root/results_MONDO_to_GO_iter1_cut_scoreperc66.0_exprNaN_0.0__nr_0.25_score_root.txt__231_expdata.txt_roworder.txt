@@ -1,0 +1,5 @@
+"x"
+"1" "Ehlers.Danlos.syndrome.due.to.tenascin.X.deficiency"
+"2" "autosomal.dominant.nonsyndromic.deafness.56"
+"3" "vesicoureteral.reflux.8"
+"4" "Steel.syndrome"

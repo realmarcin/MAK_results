@@ -1,0 +1,7 @@
+	Matthew-wood syndrome	progressive retinal dystrophy due to retinol transport defect	"microphthalmia, isolated, with coloboma 10"
+retinol transport	1.0	1.0	1.0
+retinol transmembrane transporter activity	1.0	0.0	0.0
+positive regulation of behavior	1.0	0.0	0.0
+maintenance of gastrointestinal epithelium	0.0	1.0	1.0
+vitamin A import	0.0	1.0	1.0
+small molecule binding	0.0	1.0	1.0

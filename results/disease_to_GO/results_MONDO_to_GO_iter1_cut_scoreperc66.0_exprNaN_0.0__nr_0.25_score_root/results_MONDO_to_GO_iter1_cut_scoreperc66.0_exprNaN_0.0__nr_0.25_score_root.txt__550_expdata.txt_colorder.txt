@@ -1,0 +1,7 @@
+"x"
+"1" "lyase activity"
+"2" "carboxy-lyase activity"
+"3" "carboxylic acid metabolic process"
+"4" "pyridoxal phosphate binding"
+"5" "inhibitory synapse"
+"6" "presynaptic active zone"

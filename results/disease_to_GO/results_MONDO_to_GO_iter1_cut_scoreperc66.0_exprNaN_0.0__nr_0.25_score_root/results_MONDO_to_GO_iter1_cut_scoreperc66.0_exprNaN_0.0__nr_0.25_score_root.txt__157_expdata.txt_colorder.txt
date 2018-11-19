@@ -1,0 +1,6 @@
+"x"
+"1" "posttranslational protein targeting to endoplasmic reticulum membrane"
+"2" "SRP-dependent cotranslational protein targeting to membrane"
+"3" "posttranslational protein targeting to membrane, translocation"
+"4" "cytosol to ER transport"
+"5" "Sec62/Sec63 complex"

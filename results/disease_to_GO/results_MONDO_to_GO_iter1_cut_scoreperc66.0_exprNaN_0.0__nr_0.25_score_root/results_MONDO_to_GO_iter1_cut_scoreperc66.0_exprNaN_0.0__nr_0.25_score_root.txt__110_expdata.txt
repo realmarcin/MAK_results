@@ -1,0 +1,7 @@
+	hyperekplexia 1	sulfite oxidase deficiency due to molybdenum cofactor deficiency type a	sulfite oxidase deficiency due to molybdenum cofactor deficiency type b	xanthinuria type II	sulfite oxidase deficiency due to molybdenum cofactor deficiency type c
+Mo-molybdopterin cofactor biosynthetic process	1.0	1.0	1.0	1.0	1.0
+molybdopterin cofactor biosynthetic process	1.0	1.0	1.0	0.0	1.0
+molybdopterin synthase complex	0.0	1.0	1.0	0.0	0.0
+"GTP 3',8'-cyclase activity"	0.0	1.0	0.0	0.0	0.0
+cyclic pyranopterin monophosphate synthase activity	0.0	1.0	0.0	0.0	0.0
+molybdopterin synthase activity	0.0	0.0	1.0	0.0	0.0

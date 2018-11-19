@@ -1,0 +1,8 @@
+"x"
+"1" "multiple.mitochondrial.dysfunctions.syndrome.3"
+"2" "hereditary.spastic.paraplegia.74"
+"3" "even.plus.syndrome"
+"4" "paragangliomas.2"
+"5" "fatal.mitochondrial.disease.due.to.combined.oxidative.phosphorylation.defect.type.3"
+"6" "multiple.mitochondrial.dysfunctions.syndrome.2"
+"7" "mitochondrial.complex.III.deficiency.nuclear.type.8"

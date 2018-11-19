@@ -1,0 +1,7 @@
+"x"
+"1" "X46.XX.gonadal.dysgenesis"
+"2" "ovarian.hyperstimulation.syndrome"
+"3" "familial.male.limited.precocious.puberty"
+"4" "leydig.cell.hypoplasia..type.1"
+"5" "Fanconi.anemia.complementation.group.j"
+"6" "spermatogenic.failure.11"

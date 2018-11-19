@@ -1,0 +1,8 @@
+"x"
+"1" "amelogenesis.imperfecta.type.1B"
+"2" "amelogenesis.imperfecta.type.1C"
+"3" "amelogenesis.imperfecta.type.1E"
+"4" "amelogenesis.imperfecta.hypomaturation.type.2A2"
+"5" "amelogenesis.imperfecta.hypomaturation.type.2A5"
+"6" "amelogenesis.imperfecta.type.1F"
+"7" "osteogenesis.imperfecta.type.17"

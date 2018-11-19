@@ -1,0 +1,7 @@
+	Williams syndrome	Hypocalcemic vitamin d-dependent rickets	"ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant"	"immunodeficiency, common variable, 10"	autosomal recessive spinocerebellar ataxia 19	"immunodeficiency, common variable, 12"
+nucleotide-binding oligomerization domain containing 1 signaling pathway	0.0	0.0	1.0	0.0	0.0	0.0
+negative regulation of macrophage derived foam cell differentiation	0.0	0.0	1.0	0.0	0.0	0.0
+cellular response to biotic stimulus	0.0	0.0	1.0	0.0	0.0	0.0
+negative regulation of hematopoietic progenitor cell differentiation	0.0	0.0	1.0	0.0	0.0	0.0
+toll-like receptor 4 signaling pathway	0.0	0.0	1.0	0.0	0.0	0.0
+response to muscle stretch	0.0	0.0	1.0	0.0	1.0	1.0

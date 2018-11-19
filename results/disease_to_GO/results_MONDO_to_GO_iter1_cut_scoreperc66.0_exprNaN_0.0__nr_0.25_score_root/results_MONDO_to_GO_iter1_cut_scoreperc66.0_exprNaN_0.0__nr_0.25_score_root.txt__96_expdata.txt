@@ -1,0 +1,6 @@
+	"neuroblastoma, susceptibility to"	reticular dysgenesis	ataxia-telangiectasia-like disorder 1	hemolytic anemia due to adenylate kinase deficiency
+nucleoside triphosphate biosynthetic process	1.0	0.0	0.0	1.0
+adenylate kinase activity	0.0	1.0	1.0	1.0
+nucleobase-containing compound kinase activity	0.0	1.0	0.0	1.0
+"phosphotransferase activity, phosphate group as acceptor"	0.0	1.0	0.0	1.0
+ADP biosynthetic process	0.0	1.0	0.0	1.0

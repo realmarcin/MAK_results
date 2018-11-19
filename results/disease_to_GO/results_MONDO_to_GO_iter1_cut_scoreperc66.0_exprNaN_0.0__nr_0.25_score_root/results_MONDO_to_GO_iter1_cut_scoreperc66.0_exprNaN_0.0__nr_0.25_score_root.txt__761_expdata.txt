@@ -1,0 +1,9 @@
+	neurocutaneous melanocytosis	Auriculocondylar syndrome 1	juvenile myelomonocytic leukemia	Noonan syndrome 6	autoimmune lymphoproliferative syndrome type 4
+signal transduction	1.0	1.0	1.0	1.0	1.0
+Golgi apparatus	1.0	1.0	0.0	1.0	1.0
+positive regulation of endothelial cell proliferation	1.0	0.0	1.0	1.0	1.0
+regulation of cell cycle	1.0	0.0	1.0	1.0	1.0
+regulation of gene expression	1.0	0.0	1.0	1.0	1.0
+GTPase activity	1.0	1.0	0.0	1.0	1.0
+Ras protein signal transduction	1.0	0.0	1.0	1.0	1.0
+intrinsic apoptotic signaling pathway	0.0	0.0	1.0	0.0	0.0

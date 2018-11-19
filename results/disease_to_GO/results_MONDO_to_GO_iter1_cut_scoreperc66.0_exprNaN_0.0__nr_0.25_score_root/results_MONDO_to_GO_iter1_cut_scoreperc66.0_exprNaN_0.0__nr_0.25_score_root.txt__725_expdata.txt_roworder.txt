@@ -1,0 +1,5 @@
+"x"
+"1" "glycogen.storage.disease.due.to.hepatic.glycogen.synthase.deficiency"
+"2" "glycogen.storage.disease.III"
+"3" "glycogen.storage.disease.due.to.muscle.and.heart.glycogen.synthase.deficiency"
+"4" "glycogen.storage.disease.VI"

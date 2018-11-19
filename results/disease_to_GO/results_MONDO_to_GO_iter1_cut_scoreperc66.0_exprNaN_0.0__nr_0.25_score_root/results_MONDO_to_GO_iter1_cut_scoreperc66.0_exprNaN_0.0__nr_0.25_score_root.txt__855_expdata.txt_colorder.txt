@@ -1,0 +1,6 @@
+"x"
+"1" "DNA binding transcription factor activity"
+"2" "sequence-specific DNA binding"
+"3" "vasculogenesis"
+"4" "anatomical structure morphogenesis"
+"5" "vascular smooth muscle cell differentiation"

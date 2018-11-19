@@ -1,0 +1,12 @@
+	encephalopathy due to hydroxykynureninuria	acromelic frontonasal dysostosis	left ventricular noncompaction 1	"congenital heart defects, multiple types, 2"
+tryptophan catabolic process to acetyl-CoA	1.0	0.0	0.0	0.0
+quinolinate biosynthetic process	1.0	0.0	0.0	0.0
+response to vitamin B6	1.0	0.0	0.0	0.0
+kynureninase activity	1.0	0.0	0.0	0.0
+anthranilate metabolic process	1.0	0.0	0.0	0.0
+pyridine nucleotide biosynthetic process	1.0	0.0	0.0	0.0
+tryptophan catabolic process	1.0	0.0	0.0	0.0
+L-kynurenine catabolic process	1.0	0.0	0.0	0.0
+tryptophan catabolic process to kynurenine	1.0	0.0	0.0	0.0
+'de novo' NAD biosynthetic process from tryptophan	1.0	0.0	0.0	0.0
+NAD biosynthetic process	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Joubert.syndrome.22"
+"2" "bradyopsia"
+"3" "cone.rod.synaptic.disorder..congenital.nonprogressive"
+"4" "amyotrophic.lateral.sclerosis.type.15"
+"5" "congenital.myasthenic.syndrome.10"

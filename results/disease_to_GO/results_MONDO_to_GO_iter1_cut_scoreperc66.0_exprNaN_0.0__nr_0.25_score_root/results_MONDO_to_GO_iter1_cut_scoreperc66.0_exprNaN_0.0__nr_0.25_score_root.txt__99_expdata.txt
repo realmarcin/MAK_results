@@ -1,0 +1,4 @@
+	Bamforth-Lazarus syndrome	familial thyroid dyshormonogenesis	thyroid dyshormonogenesis 2A	thyroid dyshormonogenesis 3	"autoimmune thyroid disease, susceptibility to, 3"	"thyroid cancer, nonmedullary, 4"
+thyroid hormone generation	1.0	1.0	1.0	1.0	1.0	1.0
+iodide transport	0.0	1.0	0.0	1.0	1.0	0.0
+anion binding	0.0	0.0	0.0	1.0	1.0	0.0

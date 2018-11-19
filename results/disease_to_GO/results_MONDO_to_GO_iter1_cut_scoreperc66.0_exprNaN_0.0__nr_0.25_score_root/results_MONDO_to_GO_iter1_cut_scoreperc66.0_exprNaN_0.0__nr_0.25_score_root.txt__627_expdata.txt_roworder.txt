@@ -1,0 +1,5 @@
+"x"
+"1" "sacral.agenesis.abnormal.ossification.of.the.vertebral.bodies.persistent.notochordal.canal.syndrome"
+"2" "spondylocostal.dysostosis.5"
+"3" "spondylocostal.dysostosis.2..autosomal.recessive"
+"4" "spondylocostal.dysostosis.6..autosomal.recessive"

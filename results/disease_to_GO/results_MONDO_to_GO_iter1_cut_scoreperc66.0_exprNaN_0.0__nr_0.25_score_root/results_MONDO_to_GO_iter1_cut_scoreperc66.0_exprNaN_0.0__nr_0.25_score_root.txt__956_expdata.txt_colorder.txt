@@ -1,0 +1,7 @@
+"x"
+"1" "RNA binding"
+"2" "nucleic acid binding"
+"3" "nuclear-transcribed mRNA catabolic process, non-stop decay"
+"4" "nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay"
+"5" "Ski complex"
+"6" "nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'"

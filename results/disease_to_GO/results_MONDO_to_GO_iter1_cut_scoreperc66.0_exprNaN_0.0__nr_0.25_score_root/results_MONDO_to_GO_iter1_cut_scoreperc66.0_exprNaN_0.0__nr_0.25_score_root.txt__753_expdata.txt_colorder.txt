@@ -1,0 +1,5 @@
+"x"
+"1" "basement membrane"
+"2" "extracellular space"
+"3" "extracellular region"
+"4" "negative regulation of peptidase activity"

@@ -1,0 +1,6 @@
+	cystic leukoencephalopathy without megalencephaly	autosomal systemic lupus erythematosus	"prostate cancer, hereditary, 2"	combined oxidative phosphorylation defect type 17	platelet-type bleeding disorder 20
+endonuclease activity	1.0	1.0	1.0	1.0	1.0
+DNA catabolic process	0.0	1.0	0.0	0.0	0.0
+deoxyribonuclease activity	0.0	1.0	0.0	0.0	0.0
+programmed cell death involved in cell development	0.0	1.0	0.0	0.0	0.0
+rRNA catabolic process	1.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,13 @@
+	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	"spondyloepimetaphyseal dysplasia, Pakistani type"	POROK7	"porokeratosis 9, multiple types; POROK9"
+bone development	0.0	1.0	0.0	0.0
+kinase activity	0.0	1.0	0.0	0.0
+blood coagulation	0.0	1.0	0.0	0.0
+methionine biosynthetic process	0.0	1.0	0.0	0.0
+hydrogen sulfide biosynthetic process	0.0	1.0	0.0	0.0
+cysteine biosynthetic process	0.0	1.0	0.0	0.0
+sulfur amino acid metabolic process	0.0	1.0	0.0	0.0
+"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"	0.0	1.0	0.0	0.0
+sulfate adenylyltransferase (ATP) activity	0.0	1.0	0.0	0.0
+adenylylsulfate kinase activity	0.0	1.0	0.0	0.0
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process	0.0	1.0	0.0	0.0
+sulfate assimilation	0.0	1.0	0.0	0.0

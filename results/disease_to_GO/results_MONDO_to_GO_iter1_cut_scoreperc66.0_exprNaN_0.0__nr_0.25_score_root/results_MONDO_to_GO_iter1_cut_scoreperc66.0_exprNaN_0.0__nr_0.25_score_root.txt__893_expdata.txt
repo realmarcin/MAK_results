@@ -1,0 +1,13 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	glycogen storage disease II	Tay-Sachs disease AB variant	"autoimmune disease, susceptibility to, 6"
+heart morphogenesis	0.0	0.0	1.0	0.0	0.0
+cardiac muscle contraction	0.0	0.0	1.0	0.0	0.0
+striated muscle contraction	0.0	0.0	1.0	0.0	0.0
+muscle cell cellular homeostasis	0.0	0.0	1.0	0.0	0.0
+lysosomal membrane	0.0	0.0	1.0	0.0	0.0
+tissue development	0.0	0.0	1.0	0.0	0.0
+regulation of the force of heart contraction	0.0	0.0	1.0	0.0	0.0
+"alpha-1,4-glucosidase activity"	0.0	0.0	1.0	0.0	0.0
+maltose alpha-glucosidase activity	0.0	0.0	1.0	0.0	0.0
+"oligo-1,6-glucosidase activity"	0.0	0.0	1.0	0.0	0.0
+diaphragm contraction	0.0	0.0	1.0	0.0	0.0
+vacuolar sequestering	0.0	0.0	1.0	0.0	0.0

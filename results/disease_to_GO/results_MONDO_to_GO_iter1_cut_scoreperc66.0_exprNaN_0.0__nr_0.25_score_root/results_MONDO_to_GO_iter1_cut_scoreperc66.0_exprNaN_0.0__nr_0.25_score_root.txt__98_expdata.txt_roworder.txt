@@ -1,0 +1,7 @@
+"x"
+"1" "Birt.Hogg.Dube.syndrome"
+"2" "familial.spontaneous.pneumothorax"
+"3" "Potocki.Luspski.syndrome"
+"4" "candidiasis..familial..4"
+"5" "primary.ciliary.dyskinesia.16"
+"6" "aspergillosis..susceptibility.to"

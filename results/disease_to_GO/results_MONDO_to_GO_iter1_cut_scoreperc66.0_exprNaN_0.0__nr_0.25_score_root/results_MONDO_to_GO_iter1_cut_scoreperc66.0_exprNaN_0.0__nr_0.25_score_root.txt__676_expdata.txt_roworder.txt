@@ -1,0 +1,7 @@
+"x"
+"1" "congenital.myopathy.with.internal.nuclei.and.atypical.cores"
+"2" "primary.ciliary.dyskinesia.2"
+"3" "Senior.Loken.syndrome.5"
+"4" "primary.ciliary.dyskinesia.18"
+"5" "nephronophthisis.18"
+"6" "primary.ciliary.dyskinesia.22"

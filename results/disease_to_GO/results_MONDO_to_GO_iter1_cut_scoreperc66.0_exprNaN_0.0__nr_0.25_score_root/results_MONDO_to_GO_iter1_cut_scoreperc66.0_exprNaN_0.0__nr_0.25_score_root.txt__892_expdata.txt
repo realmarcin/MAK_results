@@ -1,0 +1,8 @@
+	Usher syndrome type 3A	retinal macular dystrophy type 2	autosomal recessive nonsyndromic deafness 48	retinitis pigmentosa 41	cone-rod dystrophy 12	retinitis pigmentosa 61	Usher syndrome type 1J	retinal dystrophy and obesity
+basal part of cell	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+trans-Golgi network transport vesicle	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+protein localization	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+cell motility	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+protein localization to synapse	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+synaptic vesicle recycling via endosome	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+positive regulation of lamellipodium assembly	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

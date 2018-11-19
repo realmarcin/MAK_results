@@ -1,0 +1,7 @@
+	fleck corneal dystrophy	"diabetes insipidus, nephrogenic, autosomal"	Zimmermann-Laband syndrome	Amelocerebrohypohidrotic syndrome	Christianson syndrome	Charcot-Marie-tooth disease type 4B1	Charcot-Marie-tooth disease type 4D	Usher syndrome type 1G	"cerebellar ataxia, mental retardation, and Dysequilibrium syndrome 2"	hereditary spastic paraplegia 33	Temple-Baraitser syndrome
+respiratory burst involved in defense response	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+early endosome membrane	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+recycling endosome membrane	0.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+endoplasmic reticulum Sec complex	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of neutrophil chemotaxis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to forskolin	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

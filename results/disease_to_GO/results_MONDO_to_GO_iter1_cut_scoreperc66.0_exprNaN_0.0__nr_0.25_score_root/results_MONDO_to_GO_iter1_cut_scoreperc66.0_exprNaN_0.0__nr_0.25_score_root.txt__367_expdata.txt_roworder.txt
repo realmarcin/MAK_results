@@ -1,0 +1,7 @@
+"x"
+"1" "esophageal.atresia.tracheoesophageal.fistula"
+"2" "CHARGE.syndrome"
+"3" "hypogonadotropic.hypogonadism.5.with.or.without.anosmia"
+"4" "Noonan.syndrome.with.multiple.lentigines"
+"5" "Metachondromatosis"
+"6" "Noonan.syndrome.1"

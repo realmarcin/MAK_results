@@ -1,0 +1,7 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "protein binding"
+"4" "axon guidance"
+"5" "axon midline choice point recognition"
+"6" "Roundabout signaling pathway"

@@ -1,0 +1,5 @@
+"x"
+"1" "intracellular"
+"2" "transforming growth factor beta receptor signaling pathway"
+"3" "nuclear membrane"
+"4" "receptor complex"

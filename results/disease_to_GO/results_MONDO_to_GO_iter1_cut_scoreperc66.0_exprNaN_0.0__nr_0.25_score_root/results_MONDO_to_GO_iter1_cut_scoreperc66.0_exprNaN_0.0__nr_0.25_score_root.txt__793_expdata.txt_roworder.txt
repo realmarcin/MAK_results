@@ -1,0 +1,6 @@
+"x"
+"1" "colorectal.adenocarcinoma"
+"2" "conotruncal.heart.malformations"
+"3" "hereditary.thrombocytopenia.with.early.onset.myelofibrosis"
+"4" "heterotaxy..visceral..2..autosomal"
+"5" "Loeys.Dietz.syndrome.4"

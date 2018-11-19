@@ -1,0 +1,7 @@
+	spastic ataxia 1	achondrogenesis type IA	"factor v and Factor VIII, combined deficiency of, type 1"	"periventricular heterotopia with microcephaly, autosomal recessive"	"epileptic encephalopathy, early infantile, 4"	familial hemophagocytic lymphohistiocytosis 5	progressive myoclonic epilepsy type 6	primary microcephaly-epilepsy-permanent neonatal diabetes syndrome	congenital neutropenia-myelofibrosis-nephromegaly syndrome	autosomal recessive limb-girdle muscular dystrophy type 2S	Warburg micro syndrome 4	"epileptic encephalopathy, early infantile, 21"	congenital myasthenic syndrome 18	"short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay; SRMMD"	mucopolysaccharidosis-plus syndrome; MPSPS
+membrane	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+Golgi apparatus	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0
+transport	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+protein transport	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+vesicle-mediated transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+intracellular protein transport	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

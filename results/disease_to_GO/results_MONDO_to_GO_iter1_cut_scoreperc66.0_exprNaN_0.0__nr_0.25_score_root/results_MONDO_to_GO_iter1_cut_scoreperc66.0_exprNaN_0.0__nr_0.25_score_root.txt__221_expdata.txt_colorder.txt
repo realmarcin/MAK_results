@@ -1,0 +1,7 @@
+"x"
+"1" "sensory perception of sound"
+"2" "neuronal cell body"
+"3" "photoreceptor inner segment"
+"4" "sensory perception of light stimulus"
+"5" "photoreceptor connecting cilium"
+"6" "phosphatase binding"

@@ -1,0 +1,5 @@
+"x"
+"1" "hemolytic.anemia.due.to.diphosphoglycerate.mutase.deficiency"
+"2" "glycogen.storage.disease.due.to.phosphoglycerate.mutase.deficiency"
+"3" "cortisone.reductase.deficiency.2"
+"4" "PGM3.CDG"

@@ -1,0 +1,8 @@
+	"Microvascular complications of diabetes, susceptibility to, 1"	Charcot-Marie-tooth disease axonal type 2F	"neuronopathy, distal hereditary motor, type 2B"
+positive regulation of blood vessel endothelial cell migration	1.0	1.0	1.0
+angiogenesis involved in coronary vascular morphogenesis	1.0	0.0	0.0
+cellular response to vascular endothelial growth factor stimulus	1.0	1.0	1.0
+activation of protein kinase activity	1.0	0.0	0.0
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	1.0	1.0	1.0
+negative regulation of oxidative stress-induced cell death	0.0	1.0	1.0
+protein kinase C inhibitor activity	0.0	1.0	1.0

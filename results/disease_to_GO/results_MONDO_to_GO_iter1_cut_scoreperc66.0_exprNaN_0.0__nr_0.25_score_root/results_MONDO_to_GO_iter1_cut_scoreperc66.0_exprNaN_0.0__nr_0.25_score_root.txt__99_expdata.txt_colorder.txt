@@ -1,0 +1,4 @@
+"x"
+"1" "thyroid hormone generation"
+"2" "iodide transport"
+"3" "anion binding"

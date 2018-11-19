@@ -1,0 +1,7 @@
+	Alzheimer disease type 1	Currarino triad	Tay-Sachs disease	"cerebral amyloid angiopathy, App-related"	Horizontal gaze palsy with progressive scoliosis	autosomal recessive nonsyndromic deafness 44	vesicoureteral reflux 2	episodic ataxia type 6	Dopa-responsive dystonia due to sepiapterin reductase deficiency	"mental retardation, autosomal dominant 20"	"Rett syndrome, congenital variant"
+axon midline choice point recognition	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+bicellular tight junction	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cell morphogenesis involved in neuron differentiation	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+bicellular tight junction assembly	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Roundabout signaling pathway	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+negative regulation of microtubule polymerization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

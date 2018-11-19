@@ -1,0 +1,5 @@
+	hypomyelinating leukodystrophy 2	hereditary spastic paraplegia 44	"lymphedema, hereditary, 1C"
+phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	0.0	0.0	0.0
+gap junction channel activity involved in cell communication by electrical coupling	1.0	1.0	1.0
+proximal neuron projection	1.0	1.0	1.0
+positive regulation of calcium ion transmembrane transport	1.0	1.0	1.0

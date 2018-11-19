@@ -1,0 +1,7 @@
+	metachromatic leukodystrophy due to saposin b deficiency	atypical Gaucher's disease due to saposin c deficiency	encephalopathy due to prosaposin deficiency	"Krabbe disease, atypical, due to saposin a deficiency"	hereditary spastic paraplegia 75
+ganglioside GM1 transport to membrane	1.0	1.0	1.0	1.0	0.0
+ganglioside GP1c binding	1.0	1.0	1.0	1.0	0.0
+ganglioside GT1b binding	1.0	1.0	1.0	1.0	1.0
+ganglioside GM2 binding	1.0	1.0	1.0	1.0	0.0
+ganglioside GM1 binding	1.0	1.0	1.0	1.0	0.0
+ganglioside GM3 binding	1.0	1.0	1.0	1.0	0.0

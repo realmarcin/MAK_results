@@ -1,0 +1,9 @@
+	Angelman syndrome	androgen insensitivity syndrome	"hypospadias 1, X-linked"	partial androgen insensitivity syndrome	Kennedy's disease
+protein binding	1.0	1.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0	1.0
+nuclear chromatin	0.0	1.0	1.0	1.0	1.0
+metal ion binding	1.0	1.0	1.0	1.0	1.0
+androgen receptor signaling pathway	1.0	1.0	1.0	1.0	1.0
+prostate gland growth	1.0	1.0	1.0	1.0	1.0
+ribonucleotide binding	0.0	1.0	1.0	1.0	1.0

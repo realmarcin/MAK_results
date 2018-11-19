@@ -1,0 +1,5 @@
+	medulloblastoma	Wilms tumor type 1	Fanconi anemia complementation group D1	"breast-ovarian cancer, familial, susceptibility to, 2"	glioma susceptibility 3	"pancreatic cancer, susceptibility to, 2"
+H3 histone acetyltransferase activity	1.0	1.0	1.0	1.0	1.0	1.0
+homologous chromosome orientation involved in meiotic metaphase I plate congression	1.0	1.0	1.0	1.0	1.0	1.0
+BRCA2-MAGE-D1 complex	1.0	1.0	1.0	1.0	1.0	1.0
+mature ribosome assembly	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "nail.patella.syndrome"
+"2" "facial.paresis..hereditary.congenital..3"
+"3" "wolf.Hirschhorn.syndrome"
+"4" "osteogenesis.imperfecta.type.15"
+"5" "childhood.onset.epileptic.encephalopathy"
+"6" "craniosynostosis.6"

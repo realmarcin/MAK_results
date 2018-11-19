@@ -1,0 +1,5 @@
+"x"
+"1" "Pyridoxal.phosphate.responsive.seizures"
+"2" "cerebral.palsy..spastic.quadriplegic..1"
+"3" "aromatic.L.amino.acid.decarboxylase.deficiency"
+"4" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"

@@ -1,0 +1,6 @@
+	epithelial basement membrane dystrophy	granular corneal dystrophy type i	lattice corneal dystrophy type i	adult hypophosphatasia	infantile hypophosphatasia	childhood hypophosphatasia	Thiel-Behnke corneal dystrophy	granular corneal dystrophy type II	Reis-Bucklers corneal dystrophy	"corneal dystrophy, lattice type 3A"
+extracellular matrix	1.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
+proteinaceous extracellular matrix	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+extracellular space	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+fin development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+endochondral ossification	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0

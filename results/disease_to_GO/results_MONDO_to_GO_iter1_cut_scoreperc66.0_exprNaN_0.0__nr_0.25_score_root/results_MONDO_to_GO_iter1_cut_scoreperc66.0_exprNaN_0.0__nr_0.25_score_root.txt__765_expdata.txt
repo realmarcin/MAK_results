@@ -1,0 +1,6 @@
+	cataract 4 multiple types	cataract 2 multiple types	cone-rod dystrophy 11	isolated microphthalmia 3	age related macular degeneration 6	cataract 39 multiple types
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+oxidation-reduction process	0.0	0.0	0.0	0.0	0.0	0.0
+oxidoreductase activity	0.0	0.0	0.0	0.0	0.0	0.0
+eye development	1.0	1.0	1.0	1.0	1.0	1.0
+eye field cell fate commitment involved in camera-type eye formation	0.0	0.0	1.0	1.0	1.0	0.0

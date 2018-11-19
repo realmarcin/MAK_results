@@ -1,0 +1,8 @@
+"x"
+"1" "pyridoxal phosphate binding"
+"2" "glycine binding"
+"3" "protein lipoylation"
+"4" "glycine metabolic process"
+"5" "transaminase activity"
+"6" "aminomethyltransferase activity"
+"7" "glycine decarboxylation via glycine cleavage system"

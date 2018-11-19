@@ -1,0 +1,10 @@
+	"myopathy, centronuclear, 2"	Charlevoix-Saguenay spastic ataxia	corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome	normophosphatemic familial tumoral calcinosis	"neuronopathy, distal hereditary motor, type 2C"	Mirage syndrome; MIRAGE
+protein phosphatase 2A binding	0.0	0.0	1.0	0.0	0.0	0.0
+negative regulation of signal transduction	0.0	0.0	1.0	0.0	0.0	0.0
+protein phosphatase regulator activity	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of signal transduction	0.0	0.0	1.0	0.0	0.0	0.0
+TOR signaling	0.0	0.0	1.0	0.0	0.0	0.0
+B cell activation	0.0	0.0	1.0	0.0	0.0	0.0
+positive regulation of transcription from RNA polymerase I promoter	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of dephosphorylation	0.0	0.0	1.0	0.0	0.0	0.0
+phosphatase regulator activity	0.0	0.0	1.0	0.0	0.0	0.0

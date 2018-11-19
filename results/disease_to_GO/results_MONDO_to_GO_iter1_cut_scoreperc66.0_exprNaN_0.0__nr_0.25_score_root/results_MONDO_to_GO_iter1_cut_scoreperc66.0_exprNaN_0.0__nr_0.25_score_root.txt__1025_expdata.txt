@@ -1,0 +1,15 @@
+	"heterotaxy, visceral, 1, X-linked"	"Vacterl association, X-linked, with or without hydrocephalus"	holoprosencephaly 5	nephronophthisis 7	craniosynostosis 6
+negative regulation of smoothened signaling pathway	0.0	0.0	0.0	1.0	0.0
+negative regulation of DNA binding transcription factor activity	0.0	0.0	0.0	1.0	0.0
+transcription regulatory region DNA binding	0.0	0.0	0.0	1.0	0.0
+regulation of transcription from RNA polymerase II promoter	0.0	0.0	0.0	1.0	0.0
+kidney development	0.0	0.0	0.0	1.0	0.0
+positive regulation of protein localization to nucleus	0.0	0.0	0.0	1.0	0.0
+nuclear speck	0.0	0.0	0.0	1.0	0.0
+cilium movement	0.0	0.0	0.0	1.0	0.0
+non-motile cilium	0.0	0.0	0.0	1.0	0.0
+convergent extension involved in axis elongation	0.0	0.0	0.0	1.0	0.0
+left/right pattern formation	0.0	0.0	0.0	1.0	0.0
+pronephric duct morphogenesis	0.0	0.0	0.0	1.0	0.0
+cell differentiation involved in kidney development	0.0	0.0	0.0	1.0	0.0
+regulation of transcription from RNA polymerase II promoter involved in kidney development	0.0	0.0	0.0	1.0	0.0

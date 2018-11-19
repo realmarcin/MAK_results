@@ -1,0 +1,11 @@
+	facioscapulohumeral muscular dystrophy 1	Shwachman-Diamond syndrome	"microcephaly 2, primary, autosomal recessive, with or without cortical malformations"	nephronophthisis 20
+cytoskeleton	0.0	1.0	1.0	1.0
+RNA binding	1.0	1.0	1.0	1.0
+catalytic step 2 spliceosome	1.0	0.0	1.0	1.0
+U5 snRNP	0.0	0.0	1.0	1.0
+RNA splicing	1.0	0.0	1.0	1.0
+activation of JNKK activity	0.0	0.0	0.0	1.0
+negative regulation of interleukin-8 secretion	0.0	0.0	0.0	1.0
+mitotic spindle pole	0.0	0.0	0.0	1.0
+precatalytic spliceosome	0.0	0.0	1.0	1.0
+negative regulation of defense response to bacterium	0.0	0.0	0.0	1.0

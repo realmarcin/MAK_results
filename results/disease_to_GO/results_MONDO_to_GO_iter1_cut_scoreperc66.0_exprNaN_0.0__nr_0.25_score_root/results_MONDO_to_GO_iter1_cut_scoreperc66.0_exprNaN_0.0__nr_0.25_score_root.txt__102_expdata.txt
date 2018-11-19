@@ -1,0 +1,7 @@
+	"microcephaly 13, primary, autosomal recessive"	"lung disease, immunodeficiency, and chromosome breakage syndrome;"	Seckel syndrome 10; SCKL10
+positive regulation of mitotic metaphase/anaphase transition	1.0	0.0	1.0
+cellular response to radiation	0.0	1.0	0.0
+cellular response to hydroxyurea	0.0	1.0	0.0
+Smc5-Smc6 complex	0.0	1.0	1.0
+DNA double-strand break attachment to nuclear envelope	0.0	0.0	1.0
+positive regulation of maintenance of mitotic sister chromatid cohesion	0.0	0.0	1.0

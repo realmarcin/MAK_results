@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of luteinizing hormone secretion"
+"2" "female somatic sex determination"
+"3" "positive regulation of follicle-stimulating hormone secretion"
+"4" "menstruation"
+"5" "granulosa cell differentiation"
+"6" "cysteine-type endopeptidase regulator activity involved in apoptotic process"

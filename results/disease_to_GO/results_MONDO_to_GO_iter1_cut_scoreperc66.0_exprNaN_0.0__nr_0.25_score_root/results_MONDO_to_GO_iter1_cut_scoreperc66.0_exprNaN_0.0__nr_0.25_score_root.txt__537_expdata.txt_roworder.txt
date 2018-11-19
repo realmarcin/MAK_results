@@ -1,0 +1,7 @@
+"x"
+"1" "hypertrophic.cardiomyopathy.2"
+"2" "dilated.cardiomyopathy.1D"
+"3" "cardiomyopathy..familial.restrictive..3"
+"4" "hypertrophic.cardiomyopathy.4"
+"5" "left.ventricular.noncompaction.10"
+"6" "chronic.atrial.and.intestinal.dysrhythmia"

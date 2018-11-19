@@ -1,0 +1,7 @@
+"x"
+"1" "melanoma..cutaneous.malignant..susceptibility.to..10"
+"2" "glioma.susceptibility.9"
+"3" "Coats.plus.syndrome"
+"4" "cerebroretinal.microangiopathy.with.calcifications.and.cysts.2."
+"5" "dyskeratosis.congenita..autosomal.recessive.5"
+"6" "pulmonary.fibrosis.and.or.bone.marrow.failure..Telomere.related..3"

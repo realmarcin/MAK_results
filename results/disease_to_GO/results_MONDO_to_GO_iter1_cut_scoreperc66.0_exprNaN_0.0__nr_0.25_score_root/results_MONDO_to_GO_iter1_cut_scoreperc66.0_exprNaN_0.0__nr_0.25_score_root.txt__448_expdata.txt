@@ -1,0 +1,7 @@
+	Bloom syndrome	Werner syndrome	primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	Meier-Gorlin syndrome 3	mitochondrial DNA deletion syndrome with progressive myopathy	Seckel syndrome 8
+replicative cell aging	1.0	0.0	0.0	0.0	1.0	1.0
+DNA replication	1.0	1.0	1.0	1.0	1.0	1.0
+DNA double-strand break processing	1.0	0.0	0.0	0.0	1.0	1.0
+meiotic DNA double-strand break processing	1.0	0.0	0.0	0.0	1.0	1.0
+single-stranded DNA-dependent ATPase activity	0.0	0.0	1.0	0.0	1.0	1.0
+DNA-dependent DNA replication	0.0	0.0	0.0	1.0	1.0	1.0

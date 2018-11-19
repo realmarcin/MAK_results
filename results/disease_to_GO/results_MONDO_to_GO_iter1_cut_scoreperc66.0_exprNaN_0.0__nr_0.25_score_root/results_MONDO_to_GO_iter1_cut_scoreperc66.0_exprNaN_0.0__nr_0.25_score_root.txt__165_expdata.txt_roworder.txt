@@ -1,0 +1,5 @@
+"x"
+"1" "Parkinson.disease.5..autosomal.dominant..susceptibility.to"
+"2" "early.onset.progressive.neurodegeneration.blindness.ataxia.spasticity.syndrome"
+"3" "mental.retardation..X.linked.99"
+"4" "mental.retardation..X.linked.99..syndromic..female.restricted..MRXS99F"

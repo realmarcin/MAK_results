@@ -1,0 +1,6 @@
+"x"
+"1" "nucleotide binding"
+"2" "GTP binding"
+"3" "plasma membrane"
+"4" "isomerase activity"
+"5" "peptidyl-prolyl cis-trans isomerase activity"

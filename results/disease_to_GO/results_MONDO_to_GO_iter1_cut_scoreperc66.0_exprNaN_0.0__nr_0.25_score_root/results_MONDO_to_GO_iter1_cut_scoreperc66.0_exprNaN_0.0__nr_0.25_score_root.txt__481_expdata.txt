@@ -1,0 +1,7 @@
+	spinocerebellar ataxia type 12	arrhythmogenic right ventricular dysplasia 8	skin fragility-woolly hair-palmoplantar keratoderma syndrome	lethal acantholytic epidermolysis bullosa	keratosis palmoplantaris striata 2	"cardiomyopathy, dilated, with woolly hair, keratoderma, and tooth agenesis"
+cytoplasm	0.0	0.0	0.0	0.0	0.0	0.0
+cytoskeleton	1.0	1.0	1.0	1.0	1.0	1.0
+protein serine/threonine phosphatase activity	1.0	0.0	0.0	0.0	0.0	0.0
+endosomal transport	0.0	0.0	0.0	0.0	0.0	0.0
+Rab guanyl-nucleotide exchange factor activity	0.0	0.0	0.0	0.0	0.0	0.0
+vesicle organization	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "chondroitin sulfate metabolic process"
+"2" "inositol monophosphate 4-phosphatase activity"
+"3" "inositol biosynthetic process"
+"4" "inositol monophosphate 3-phosphatase activity"
+"5" "inositol monophosphate phosphatase activity"
+"6" "inositol monophosphate 1-phosphatase activity"
+"7" "inositol metabolic process"

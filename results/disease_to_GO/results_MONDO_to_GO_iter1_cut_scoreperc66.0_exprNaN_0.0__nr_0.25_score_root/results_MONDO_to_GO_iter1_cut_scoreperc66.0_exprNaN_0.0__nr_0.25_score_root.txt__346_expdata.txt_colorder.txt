@@ -1,0 +1,7 @@
+"x"
+"1" "replication fork"
+"2" "replication fork protection"
+"3" "DNA damage checkpoint"
+"4" "mitotic G2 DNA damage checkpoint"
+"5" "replisome"
+"6" "nuclear DNA replication"

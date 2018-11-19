@@ -1,0 +1,6 @@
+"x"
+"1" "anophthalmia.microphthalmia.esophageal.atresia.syndrome"
+"2" "colobomatous.optic.disc.macular.atrophy.chorioretinopathy.syndrome"
+"3" "rhabdoid.tumor.predisposition.syndrome.2"
+"4" "mental.retardation..autosomal.dominant.16"
+"5" "hypomyelinating.leukodystrophy.12"

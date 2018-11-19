@@ -1,0 +1,7 @@
+"x"
+"1" "microcephalic.primordial.dwarfism..Alazami.type"
+"2" "anemia..congenital.dyserythropoietic..type.Ia"
+"3" "Bartter.disease.type.5"
+"4" "hypomyelinating.leukodystrophy.5"
+"5" "three.M.syndrome.3"
+"6" "orofaciodigital.syndrome.XV"

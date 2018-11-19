@@ -1,0 +1,8 @@
+	Alexander disease	arrhythmogenic right ventricular dysplasia 9	myofibrillar myopathy 4	arrhythmogenic right ventricular dysplasia 13	"cerebral palsy, spastic quadriplegic, 3; CPSQ3"
+adherens junction	0.0	1.0	0.0	1.0	0.0
+cadherin binding	0.0	1.0	0.0	1.0	0.0
+regulation of heart rate by cardiac conduction	0.0	1.0	0.0	1.0	0.0
+cell-cell adhesion	0.0	1.0	0.0	1.0	0.0
+protein kinase C binding	0.0	1.0	1.0	0.0	1.0
+regulation of ventricular cardiac muscle cell action potential	0.0	1.0	0.0	1.0	0.0
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication	0.0	1.0	0.0	1.0	0.0

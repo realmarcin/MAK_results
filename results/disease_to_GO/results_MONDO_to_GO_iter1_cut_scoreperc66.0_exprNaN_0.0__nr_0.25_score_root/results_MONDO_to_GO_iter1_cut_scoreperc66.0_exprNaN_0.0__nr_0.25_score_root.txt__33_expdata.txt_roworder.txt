@@ -1,0 +1,5 @@
+"x"
+"1" "adult.hypophosphatasia"
+"2" "infantile.hypophosphatasia"
+"3" "childhood.hypophosphatasia"
+"4" "Cayman.type.cerebellar.ataxia"

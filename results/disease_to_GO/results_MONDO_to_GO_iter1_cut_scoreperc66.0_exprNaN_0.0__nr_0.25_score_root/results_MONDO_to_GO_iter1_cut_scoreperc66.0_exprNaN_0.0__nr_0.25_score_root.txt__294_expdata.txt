@@ -1,0 +1,9 @@
+	isolated cleft palate	type 1 diabetes mellitus 5	orofacial cleft 10	"epileptic encephalopathy, early infantile, 24"	Seckel syndrome 10; SCKL10
+protein tag	1.0	1.0	1.0	0.0	0.0
+PML body organization	0.0	0.0	1.0	0.0	0.0
+positive regulation of calcium-transporting ATPase activity	0.0	0.0	1.0	0.0	0.0
+protein localization to nuclear pore	0.0	0.0	1.0	0.0	0.0
+SUMO transferase activity	0.0	0.0	1.0	0.0	1.0
+SUMO activating enzyme complex	0.0	0.0	1.0	0.0	0.0
+nuclear stress granule	0.0	0.0	1.0	0.0	0.0
+negative regulation of delayed rectifier potassium channel activity	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "myosin heavy chain binding"
+"2" "cardiac ventricle formation"
+"3" "cardiac atrium formation"
+"4" "striated muscle myosin thick filament"
+"5" "myosin filament assembly"

@@ -1,0 +1,6 @@
+"x"
+"1" "Laurin.Sandrow.syndrome"
+"2" "polydactyly.of.a.triphalangeal.thumb"
+"3" "syndactyly.type.4"
+"4" "tibia..hypoplasia.or.aplasia.of..with.polydactyly"
+"5" "acheiropody"

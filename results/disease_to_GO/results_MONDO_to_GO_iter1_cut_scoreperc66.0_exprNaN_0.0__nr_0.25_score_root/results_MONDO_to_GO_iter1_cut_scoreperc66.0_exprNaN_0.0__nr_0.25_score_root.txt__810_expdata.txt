@@ -1,0 +1,5 @@
+	atrial standstill 1	keratoderma hereditarium mutilans	autosomal dominant keratitis-ichthyosis-deafness syndrome	palmoplantar keratoderma-deafness syndrome	Bart-Pumphrey syndrome	Alexander disease	autosomal recessive nonsyndromic deafness 1A	sensorineural hearing loss (disease)	autosomal dominant nonsyndromic deafness 3A	"ichthyosis, hystrix-like, with deafness"	patterned macular dystrophy 2	arrhythmogenic right ventricular dysplasia 9	chromosome 1q21.1 deletion syndrome	"atrial fibrillation, familial, 11"
+cell body	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+astrocyte projection	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+gap junction assembly	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+lateral plasma membrane	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0

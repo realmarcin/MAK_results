@@ -1,0 +1,6 @@
+	isolated congenital digital clubbing	"telangiectasia, hereditary hemorrhagic, of Rendu, Osler, and Weber"	pachydermoperiostosis	persistent Mullerian duct syndrome	brachyolmia-amelogenesis imperfecta syndrome	Loeys-Dietz syndrome 2	"Hirschsprung disease, susceptibility to, 3"	"colorectal cancer, hereditary nonpolyposis, type 6"
+microvillus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+transforming growth factor beta binding	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0
+transforming growth factor beta receptor signaling pathway	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+SMAD binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+proteasome-mediated ubiquitin-dependent protein catabolic process	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

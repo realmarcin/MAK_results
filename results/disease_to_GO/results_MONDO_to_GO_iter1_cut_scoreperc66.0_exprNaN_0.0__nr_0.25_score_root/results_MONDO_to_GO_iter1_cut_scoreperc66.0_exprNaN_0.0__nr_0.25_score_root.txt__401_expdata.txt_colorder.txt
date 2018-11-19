@@ -1,0 +1,8 @@
+"x"
+"1" "cytoplasm"
+"2" "cytosol"
+"3" "neuron projection"
+"4" "molecular_function"
+"5" "phosphatidylinositol phosphorylation"
+"6" "myelination"
+"7" "protein localization to plasma membrane"

@@ -1,0 +1,9 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	alpha-mannosidosis	Tay-Sachs disease AB variant	"autoimmune disease, susceptibility to, 6"
+lysosome	1.0	1.0	1.0	1.0	1.0
+hydrolase activity	1.0	1.0	1.0	1.0	1.0
+extracellular space	1.0	1.0	1.0	0.0	1.0
+metabolic process	0.0	0.0	1.0	0.0	0.0
+cellular protein modification process	0.0	0.0	1.0	0.0	0.0
+mannose metabolic process	0.0	0.0	1.0	0.0	0.0
+protein deglycosylation	0.0	0.0	1.0	0.0	0.0
+alpha-mannosidase activity	0.0	0.0	1.0	0.0	0.0

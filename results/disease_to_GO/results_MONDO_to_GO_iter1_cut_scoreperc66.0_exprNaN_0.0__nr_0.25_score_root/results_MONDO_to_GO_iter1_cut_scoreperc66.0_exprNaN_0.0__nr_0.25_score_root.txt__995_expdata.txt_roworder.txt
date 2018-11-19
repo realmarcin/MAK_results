@@ -1,0 +1,7 @@
+"x"
+"1" "posterior.polymorphous.corneal.dystrophy.1"
+"2" "Adams.Oliver.syndrome.3"
+"3" "hypoplasminogenemia"
+"4" "CK.syndrome"
+"5" "child.syndrome"
+"6" "hypogonadotropic.hypogonadism.15.with.or.without.anosmia"

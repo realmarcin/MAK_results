@@ -1,0 +1,8 @@
+	axial spondylometaphyseal dysplasia	asphyxiating thoracic dystrophy 4	nephronophthisis 12	asphyxiating thoracic dystrophy 5	cranioectodermal dysplasia 4	Senior-Loken syndrome 8
+cell projection	1.0	1.0	1.0	1.0	1.0	1.0
+smoothened signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0
+cilium	0.0	1.0	1.0	1.0	1.0	1.0
+ventricular system development	0.0	1.0	1.0	0.0	0.0	0.0
+protein localization to cilium	0.0	1.0	1.0	1.0	1.0	1.0
+intraciliary retrograde transport	0.0	1.0	1.0	1.0	1.0	1.0
+intraciliary transport particle A	0.0	1.0	1.0	1.0	1.0	1.0

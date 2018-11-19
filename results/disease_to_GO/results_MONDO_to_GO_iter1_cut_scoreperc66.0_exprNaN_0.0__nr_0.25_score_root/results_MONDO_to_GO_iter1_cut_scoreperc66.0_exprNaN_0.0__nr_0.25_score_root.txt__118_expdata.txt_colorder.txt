@@ -1,0 +1,5 @@
+"x"
+"1" "protein serine/threonine kinase inhibitor activity"
+"2" "potassium channel inhibitor activity"
+"3" "negative regulation of kinase activity"
+"4" "signal transduction by trans-phosphorylation"

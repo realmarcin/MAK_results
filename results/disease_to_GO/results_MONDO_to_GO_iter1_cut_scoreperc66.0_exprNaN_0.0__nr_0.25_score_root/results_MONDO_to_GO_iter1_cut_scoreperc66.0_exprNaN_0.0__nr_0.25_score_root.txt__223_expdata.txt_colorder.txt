@@ -1,0 +1,6 @@
+"x"
+"1" "serotonin metabolic process"
+"2" "catecholamine metabolic process"
+"3" "norepinephrine metabolic process"
+"4" "negative regulation of catalytic activity"
+"5" "norepinephrine biosynthetic process"

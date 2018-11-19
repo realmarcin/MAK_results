@@ -1,0 +1,6 @@
+"x"
+"1" "renal.agenesis..disease."
+"2" "orofaciodigital.syndrome.IV"
+"3" "Joubert.syndrome.18"
+"4" "Joubert.syndrome.13"
+"5" "primary.ciliary.dyskinesia.29"

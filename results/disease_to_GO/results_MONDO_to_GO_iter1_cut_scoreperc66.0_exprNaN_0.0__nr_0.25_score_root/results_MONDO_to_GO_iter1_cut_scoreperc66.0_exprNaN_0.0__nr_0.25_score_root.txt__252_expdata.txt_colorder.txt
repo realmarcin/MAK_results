@@ -1,0 +1,8 @@
+"x"
+"1" "regulation of transcription, DNA-templated"
+"2" "transcription, DNA-templated"
+"3" "DNA binding"
+"4" "nucleus"
+"5" "protein dimerization activity"
+"6" "metal ion binding"
+"7" "zinc ion binding"

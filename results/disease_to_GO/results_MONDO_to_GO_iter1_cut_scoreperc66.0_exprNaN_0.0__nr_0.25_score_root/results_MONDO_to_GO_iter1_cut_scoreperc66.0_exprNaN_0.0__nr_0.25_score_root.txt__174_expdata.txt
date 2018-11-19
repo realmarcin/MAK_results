@@ -1,0 +1,8 @@
+	"hypercholesterolemia, familial"	HELLP syndrome	familial hypercholanemia	"Microvascular complications of diabetes, susceptibility to, 5"	"cholestasis, progressive familial intrahepatic, 4"
+epoxide hydrolase activity	1.0	1.0	1.0	0.0	0.0
+aromatic compound catabolic process	1.0	1.0	1.0	1.0	0.0
+epoxide metabolic process	1.0	1.0	1.0	0.0	0.0
+diol biosynthetic process	0.0	1.0	1.0	0.0	0.0
+cis-stilbene-oxide hydrolase activity	0.0	1.0	1.0	0.0	0.0
+negative regulation of osteoclast development	0.0	0.0	1.0	0.0	1.0
+regulation of membrane permeability	0.0	0.0	1.0	0.0	1.0

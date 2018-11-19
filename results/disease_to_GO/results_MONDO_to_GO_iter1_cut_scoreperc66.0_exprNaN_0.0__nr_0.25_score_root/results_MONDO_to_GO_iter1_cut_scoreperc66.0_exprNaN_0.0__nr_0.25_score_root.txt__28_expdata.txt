@@ -1,0 +1,6 @@
+	cataract 6 multiple types	glycogen storage disease due to glucose-6-phosphatase deficiency type ib	glycogen storage disease Ic
+negative regulation of chemokine production	1.0	1.0	1.0
+glucose-6-phosphate transmembrane transporter activity	0.0	1.0	1.0
+lactate metabolic process	0.0	1.0	1.0
+glucose 6-phosphate:inorganic phosphate antiporter activity	0.0	1.0	1.0
+hexose phosphate transport	0.0	1.0	1.0

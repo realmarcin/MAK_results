@@ -1,0 +1,14 @@
+	cataract 9 multiple types	primary intraosseous venous malformation	autosomal dominant nonsyndromic deafness 64	autism spectrum disorder due to AUTS2 deficiency	cataract 43	"microcephaly, short stature, and impaired glucose metabolism 2; MSSGM2"
+lens morphogenesis in camera-type eye	1.0	0.0	0.0	0.0	0.0	0.0
+negative regulation of gene expression	1.0	0.0	0.0	0.0	0.0	0.0
+response to hypoxia	1.0	0.0	0.0	0.0	0.0	0.0
+protein homooligomerization	1.0	0.0	0.0	0.0	0.0	0.0
+embryonic camera-type eye morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+mitochondrion organization	1.0	0.0	0.0	0.0	0.0	0.0
+actin filament organization	1.0	0.0	0.0	0.0	0.0	0.0
+response to UV-A	1.0	0.0	0.0	0.0	0.0	0.0
+structural constituent of eye lens	1.0	0.0	0.0	0.0	0.0	0.0
+lens fiber cell morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+microtubule-based process	1.0	0.0	0.0	0.0	0.0	0.0
+apoptotic process involved in morphogenesis	1.0	0.0	0.0	0.0	0.0	0.0
+tubulin complex assembly	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Dowling.Degos.disease.2"
+"2" "spondylocostal.dysostosis.3..autosomal.recessive"
+"3" "fucosidosis"
+"4" "Peters.plus.syndrome"
+"5" "hereditary.pediatric.BehC.et.like.disease"

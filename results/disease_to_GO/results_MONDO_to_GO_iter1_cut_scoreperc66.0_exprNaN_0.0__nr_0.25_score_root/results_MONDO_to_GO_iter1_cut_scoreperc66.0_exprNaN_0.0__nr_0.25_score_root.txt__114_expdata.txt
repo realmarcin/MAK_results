@@ -1,0 +1,9 @@
+	epidermolysis bullosa with congenital localized absence of skin and deformity of nails	Keutel syndrome	dystrophic epidermolysis bullosa pruriginosa	nonsyndromic congenital nail disorder 8
+cell adhesion	1.0	0.0	1.0	1.0
+proteinaceous extracellular matrix	1.0	0.0	1.0	1.0
+extracellular matrix structural constituent	1.0	1.0	1.0	1.0
+collagen trimer	1.0	0.0	1.0	1.0
+basement membrane	1.0	0.0	1.0	1.0
+negative regulation of peptidase activity	1.0	0.0	1.0	1.0
+serine-type endopeptidase inhibitor activity	1.0	0.0	1.0	1.0
+peptidase inhibitor activity	1.0	0.0	1.0	1.0

@@ -1,0 +1,6 @@
+	nevoid basal cell carcinoma syndrome	"migraine with or without aura, susceptibility to, 1"	"46,Xy sex reversal 2"	X-linked adrenal hypoplasia congenita	synovial sarcoma (disease)	immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	"microphthalmia, syndromic 1"	"spermatogenic failure, Y-linked, 2"	familial meningioma	Diamond-Blackfan anemia 7	brachydactyly type E2	peroxisome biogenesis disorder 13A (Zellweger)
+beta-catenin binding	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+negative regulation of DNA binding transcription factor activity	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+intracellular	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+transcription corepressor activity	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0
+histone deacetylase binding	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

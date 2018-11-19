@@ -1,0 +1,6 @@
+"x"
+"1" "nephronophthisis.7"
+"2" "heterotaxy..visceral..1..X.linked"
+"3" "Vacterl.association..X.linked..with.or.without.hydrocephalus"
+"4" "holoprosencephaly.5"
+"5" "craniosynostosis.6"

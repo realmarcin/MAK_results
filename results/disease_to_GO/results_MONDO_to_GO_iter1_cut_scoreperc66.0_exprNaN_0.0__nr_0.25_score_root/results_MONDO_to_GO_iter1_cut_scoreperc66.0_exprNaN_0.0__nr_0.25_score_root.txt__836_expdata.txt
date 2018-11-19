@@ -1,0 +1,8 @@
+	androgen insensitivity syndrome	"hypospadias 1, X-linked"	partial androgen insensitivity syndrome	Kennedy's disease	psoriatic arthritis	"leprosy, susceptibility to, 4"
+protein binding	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of cell proliferation	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	0.0
+DNA binding	1.0	1.0	1.0	1.0	0.0	0.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	0.0	0.0
+DNA binding transcription factor activity	1.0	1.0	1.0	1.0	0.0	0.0
+cellular process	1.0	1.0	1.0	1.0	1.0	1.0

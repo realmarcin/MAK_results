@@ -1,0 +1,8 @@
+	"pancreatic cancer, susceptibility to, 1"	xeroderma pigmentosum group B	dilated cardiomyopathy 1CC	hypertrophic cardiomyopathy 20	"trichothiodystrophy 2, photosensitive"	hereditary spherocytosis type 2
+actin filament binding	1.0	0.0	1.0	1.0	0.0	1.0
+structural constituent of cytoskeleton	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of cell migration	1.0	0.0	1.0	1.0	0.0	0.0
+Z disc	1.0	0.0	1.0	1.0	0.0	0.0
+ankyrin binding	0.0	0.0	0.0	0.0	0.0	1.0
+regulation of cytoskeleton organization	1.0	0.0	1.0	1.0	0.0	0.0
+cardiac muscle fiber development	1.0	0.0	1.0	1.0	0.0	0.0

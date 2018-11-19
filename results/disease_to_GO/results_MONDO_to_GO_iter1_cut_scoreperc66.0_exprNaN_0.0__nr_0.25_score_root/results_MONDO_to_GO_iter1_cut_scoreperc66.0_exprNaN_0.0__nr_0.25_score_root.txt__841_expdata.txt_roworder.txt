@@ -1,0 +1,7 @@
+"x"
+"1" "nevus..epidermal"
+"2" "ovarian.cancer"
+"3" "seborrheic.keratosis"
+"4" "megalencephaly.capillary.malformation.polymicrogyria.syndrome"
+"5" "CLOVES.syndrome"
+"6" "Cowden.syndrome.5"

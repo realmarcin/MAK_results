@@ -1,0 +1,4 @@
+	neurological conditions associated with aminoacylase 1 deficiency	"Microvascular complications of diabetes, susceptibility to, 3"	ichthyosis-short stature-brachydactyly-microspherophakia syndrome	"inflammatory skin and bowel disease, neonatal, 1"	intracerebral hemorrhage	idiopathic membranous glomerulonephritis	distal arthrogryposis type 5D	Charcot-Marie-tooth disease axonal type 2T	spinocerebellar ataxia 43; SCA43	lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome
+metallopeptidase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+peptide metabolic process	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+exopeptidase activity	0.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0

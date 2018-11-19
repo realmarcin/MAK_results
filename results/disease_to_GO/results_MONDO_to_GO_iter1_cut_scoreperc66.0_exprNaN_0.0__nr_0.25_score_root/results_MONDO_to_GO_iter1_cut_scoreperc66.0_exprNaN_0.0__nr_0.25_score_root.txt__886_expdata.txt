@@ -1,0 +1,7 @@
+	mal de Meleda	situs inversus	X-linked central congenital hypothyroidism with late-onset testicular enlargement	growth delay due to insulin-like growth factor type 1 deficiency	"coronary heart disease, susceptibility to, 5"	multiple synostoses syndrome 3	"heterotaxy, visceral, 4, autosomal"	aortic valve disease 2	"ectodermal dysplasia 12, hypohidrotic/hair/tooth/nail type; ECTD12"
+retinal bipolar neuron differentiation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+neural fold formation	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of activin receptor signaling pathway	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+type I activin receptor binding	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+negative regulation of androgen receptor signaling pathway	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+maternal process involved in parturition	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

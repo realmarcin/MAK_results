@@ -1,0 +1,5 @@
+"x"
+"1" "gap junction channel activity involved in cell communication by electrical coupling"
+"2" "proximal neuron projection"
+"3" "positive regulation of calcium ion transmembrane transport"
+"4" "phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway"

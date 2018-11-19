@@ -1,0 +1,8 @@
+	narcolepsy 1	"granulomatous disease, chronic, autosomal recessive, cytochrome b-negative"	"Microvascular complications of diabetes, susceptibility to, 6"	"Question mark ears, isolated"	immunoglobulin-mediated membranoproliferative glomerulonephritis	Auriculocondylar syndrome 3
+cytokine activity	0.0	0.0	0.0	1.0	0.0	1.0
+protein kinase C-activating G-protein coupled receptor signaling pathway	1.0	0.0	0.0	1.0	1.0	1.0
+superoxide anion generation	0.0	1.0	1.0	1.0	0.0	1.0
+rhythmic excitation	0.0	0.0	0.0	1.0	0.0	1.0
+anterior lateral line neuromast development	0.0	0.0	0.0	1.0	0.0	1.0
+anterior lateral line development	0.0	0.0	0.0	1.0	0.0	1.0
+negative regulation of nitric-oxide synthase biosynthetic process	0.0	0.0	0.0	1.0	0.0	1.0

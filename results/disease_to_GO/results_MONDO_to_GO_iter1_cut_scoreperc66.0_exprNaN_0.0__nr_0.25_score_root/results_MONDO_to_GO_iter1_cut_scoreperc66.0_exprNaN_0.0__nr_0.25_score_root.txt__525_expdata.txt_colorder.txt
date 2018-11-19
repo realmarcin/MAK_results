@@ -1,0 +1,5 @@
+"x"
+"1" "cellular copper ion homeostasis"
+"2" "copper ion binding"
+"3" "copper ion transport"
+"4" "late endosome membrane"

@@ -1,0 +1,7 @@
+"x"
+"1" "hypoplasminogenemia"
+"2" "atransferrinemia"
+"3" "metachromatic.leukodystrophy..juvenile.form"
+"4" "helicobacter.pylori.infection..susceptibility.to"
+"5" "osteogenesis.imperfecta.type.15"
+"6" "Cornelia.de.Lange.syndrome.3"

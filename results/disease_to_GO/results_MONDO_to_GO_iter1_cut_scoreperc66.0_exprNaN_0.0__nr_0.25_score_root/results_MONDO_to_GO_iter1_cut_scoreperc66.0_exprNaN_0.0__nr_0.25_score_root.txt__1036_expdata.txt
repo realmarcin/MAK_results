@@ -1,0 +1,17 @@
+	Usher syndrome type 1G	PLIN1-related familial partial lipodystrophy	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Adams-Oliver syndrome 4	polyglucosan body myopathy 1 with or without immunodeficiency
+inner ear receptor cell differentiation	1.0	0.0	0.0	0.0	0.0
+cytoskeleton	1.0	0.0	0.0	0.0	0.0
+sensory perception of sound	1.0	0.0	0.0	0.0	0.0
+inner ear morphogenesis	1.0	0.0	0.0	0.0	0.0
+actin cytoskeleton	1.0	0.0	0.0	0.0	0.0
+photoreceptor cell maintenance	1.0	0.0	0.0	0.0	0.0
+ciliary basal body	1.0	0.0	0.0	0.0	0.0
+early endosome membrane	1.0	0.0	0.0	0.0	0.0
+photoreceptor inner segment	1.0	0.0	0.0	0.0	0.0
+spectrin binding	1.0	0.0	0.0	0.0	0.0
+sensory perception of light stimulus	1.0	0.0	0.0	0.0	0.0
+photoreceptor connecting cilium	1.0	0.0	0.0	0.0	0.0
+inner ear receptor cell stereocilium organization	1.0	0.0	0.0	0.0	0.0
+equilibrioception	1.0	0.0	0.0	0.0	0.0
+regulation of endocytosis	1.0	0.0	0.0	0.0	0.0
+regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	1.0	0.0	0.0	0.0	0.0

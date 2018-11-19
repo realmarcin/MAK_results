@@ -1,0 +1,6 @@
+"x"
+"1" "temtamy.preaxial.brachydactyly.syndrome"
+"2" "acne.inversa..familial..2"
+"3" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.a..11"
+"4" "acne.inversa..familial..1"
+"5" "mental.retardation..autosomal.recessive.46"

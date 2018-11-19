@@ -1,0 +1,9 @@
+	retinitis pigmentosa 35	cone-rod dystrophy 10	lethal congenital contracture syndrome 11; LCCS11
+plasma membrane	1.0	1.0	1.0
+integral component of membrane	1.0	1.0	1.0
+membrane	1.0	1.0	1.0
+cell differentiation	1.0	1.0	1.0
+multicellular organism development	1.0	1.0	1.0
+angiogenesis	1.0	1.0	0.0
+extracellular space	1.0	1.0	1.0
+nervous system development	1.0	1.0	1.0

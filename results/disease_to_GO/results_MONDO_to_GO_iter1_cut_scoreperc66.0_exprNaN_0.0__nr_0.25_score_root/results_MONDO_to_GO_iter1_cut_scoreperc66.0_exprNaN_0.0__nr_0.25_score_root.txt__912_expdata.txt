@@ -1,0 +1,7 @@
+	renal hypomagnesemia 2	Rotor syndrome	hereditary hypophosphatemic rickets with hypercalciuria	pulmonary alveolar microlithiasis	creatine transporter deficiency	autosomal recessive proximal renal tubular acidosis	testicular microlithiasis (disease)	hypophosphatemic nephrolithiasis/osteoporosis 1	"bile acid malabsorption, primary"	Fanconi renotubular syndrome 2	"hypercalcemia, infantile, 2; HCINF2"
+organic anion transport	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+oligopeptide transmembrane transporter activity	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+oligopeptide transport	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+bile acid transmembrane transporter activity	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+microcystin transport	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+sodium-dependent phosphate transport	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0

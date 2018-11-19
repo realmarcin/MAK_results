@@ -1,0 +1,7 @@
+	craniosynostosis 1	"iridogoniodysgenesis, type 2"	Axenfeld-Rieger syndrome type 1	ring dermoid of cornea	Robinow-Sorauf syndrome	Peters anomaly (disease)	neurodegenerative syndrome due to cerebral folate transport deficiency
+cardiac neural crest cell migration involved in outflow tract morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+determination of digestive tract left/right asymmetry	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+determination of left/right asymmetry in diencephalon	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+embryonic heart tube left/right pattern formation	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+left lung morphogenesis	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+mesendoderm development	0.0	1.0	1.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "negative regulation of proteasomal protein catabolic process"
+"2" "receptor recycling"
+"3" "chemosensory behavior"
+"4" "histone kinase activity (H3-T6 specific)"
+"5" "positive regulation of mismatch repair"
+"6" "calcium-dependent protein kinase C activity"

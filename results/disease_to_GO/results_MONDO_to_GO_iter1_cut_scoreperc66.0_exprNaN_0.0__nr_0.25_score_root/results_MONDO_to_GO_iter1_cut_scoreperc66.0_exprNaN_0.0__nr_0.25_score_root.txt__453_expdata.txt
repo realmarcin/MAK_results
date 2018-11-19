@@ -1,0 +1,6 @@
+	STUT1	familial hypocalciuric hypercalcemia 3	cataract 31 multiple types	Hermansky-Pudlak syndrome 2	hereditary spastic paraplegia 51	hereditary spastic paraplegia 47	autoimmune interstitial lung disease-arthritis syndrome	Hermansky-Pudlak syndrome 10; HPS10
+Golgi to vacuole transport	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+membrane coat	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+AP-3 adaptor complex	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+positive regulation of NK T cell differentiation	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
+clathrin-coated vesicle membrane	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0

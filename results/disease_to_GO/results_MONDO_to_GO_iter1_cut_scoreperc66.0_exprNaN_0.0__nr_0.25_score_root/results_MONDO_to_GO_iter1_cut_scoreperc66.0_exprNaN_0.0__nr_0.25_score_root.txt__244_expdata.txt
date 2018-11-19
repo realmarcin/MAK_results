@@ -1,0 +1,7 @@
+	cytochrome-c oxidase deficiency disease	X-linked intellectual disability-cerebellar hypoplasia syndrome	spinocerebellar ataxia type 14	"periventricular heterotopia with microcephaly, autosomal recessive"	familial episodic pain syndrome with predominantly upper body involvement
+negative regulation of proteasomal protein catabolic process	1.0	1.0	1.0	0.0	0.0
+histone kinase activity (H3-T6 specific)	0.0	0.0	1.0	0.0	0.0
+positive regulation of mismatch repair	0.0	0.0	1.0	0.0	0.0
+calcium-dependent protein kinase C activity	0.0	0.0	1.0	0.0	0.0
+receptor recycling	0.0	0.0	1.0	1.0	0.0
+chemosensory behavior	0.0	0.0	1.0	0.0	1.0

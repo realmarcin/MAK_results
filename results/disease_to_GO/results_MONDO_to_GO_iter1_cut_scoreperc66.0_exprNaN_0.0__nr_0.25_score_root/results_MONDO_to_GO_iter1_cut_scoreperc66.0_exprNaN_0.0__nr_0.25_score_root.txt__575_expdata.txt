@@ -1,0 +1,9 @@
+	Morvan syndrome	prostate cancer/brain Cancer susceptibility	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12"	limb-girdle muscular dystrophy due to POMK deficiency
+protein kinase activity	1.0	1.0	1.0	1.0
+phosphorylation	1.0	1.0	1.0	1.0
+kinase activity	1.0	1.0	1.0	1.0
+endoplasmic reticulum	1.0	0.0	1.0	1.0
+transferase activity	1.0	1.0	1.0	1.0
+protein phosphorylation	1.0	1.0	1.0	1.0
+sensory perception of pain	1.0	0.0	1.0	1.0
+learning or memory	0.0	1.0	1.0	1.0

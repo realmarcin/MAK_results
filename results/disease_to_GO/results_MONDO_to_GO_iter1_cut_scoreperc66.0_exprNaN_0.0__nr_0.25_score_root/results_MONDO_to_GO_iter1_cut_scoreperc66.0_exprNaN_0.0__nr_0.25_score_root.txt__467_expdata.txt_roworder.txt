@@ -1,0 +1,7 @@
+"x"
+"1" "acute.intermittent.porphyria"
+"2" "cutaneous.porphyria"
+"3" "porphyria.due.to.ALA.dehydratase.deficiency"
+"4" "X.linked.sideroblastic.anemia"
+"5" "X.linked.erythropoietic.protoporphyria"
+"6" "X3.hydroxy.3.methylglutaric.aciduria"

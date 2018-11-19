@@ -1,0 +1,6 @@
+	"aortic aneurysm, familial thoracic 4"	"aortic aneurysm, familial thoracic 6"	multisystemic smooth muscle dysfunction syndrome	Moyamoya disease 5
+smooth muscle contractile fiber	1.0	1.0	1.0	1.0
+vascular smooth muscle contraction	0.0	1.0	1.0	1.0
+regulation of wound healing	0.0	1.0	1.0	1.0
+positive regulation of hepatic stellate cell migration	0.0	1.0	1.0	1.0
+positive regulation of hepatic stellate cell contraction	0.0	1.0	1.0	1.0

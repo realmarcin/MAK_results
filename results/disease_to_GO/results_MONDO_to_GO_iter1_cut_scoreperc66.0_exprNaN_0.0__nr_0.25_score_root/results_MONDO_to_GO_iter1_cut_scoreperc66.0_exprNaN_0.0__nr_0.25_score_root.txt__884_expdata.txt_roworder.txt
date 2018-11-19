@@ -1,0 +1,7 @@
+"x"
+"1" "myocardial.infarction..susceptibility.to"
+"2" "endogenous.depression"
+"3" "Loeys.Dietz.syndrome.4"
+"4" "Charcot.Marie.tooth.disease.type.3"
+"5" "multiple.endocrine.neoplasia.type.4"
+"6" "immunodeficiency.47..IMD47"

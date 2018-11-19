@@ -1,0 +1,7 @@
+"x"
+"1" "nemaline.myopathy.9"
+"2" "left.ventricular.noncompaction.7"
+"3" "autosomal.recessive.nonsyndromic.deafness.104"
+"4" "myofibrillar.myopathy.4"
+"5" "hypogonadotropic.hypogonadism.17.with.or.without.anosmia"
+"6" "Takenouchi.Kosaki.syndrome..TKS"

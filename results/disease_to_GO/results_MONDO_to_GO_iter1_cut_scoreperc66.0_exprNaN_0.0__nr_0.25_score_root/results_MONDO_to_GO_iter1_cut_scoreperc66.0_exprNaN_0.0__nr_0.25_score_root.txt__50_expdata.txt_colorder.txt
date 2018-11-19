@@ -1,0 +1,5 @@
+"x"
+"1" "lysine biosynthetic process"
+"2" "lysine biosynthetic process via aminoadipic acid"
+"3" "isocitrate metabolic process"
+"4" "aconitate hydratase activity"

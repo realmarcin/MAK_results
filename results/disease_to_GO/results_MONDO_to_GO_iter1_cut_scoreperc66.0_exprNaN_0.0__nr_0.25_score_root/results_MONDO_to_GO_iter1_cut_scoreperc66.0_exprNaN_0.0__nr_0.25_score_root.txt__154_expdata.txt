@@ -1,0 +1,6 @@
+	Richieri Costa-Pereira syndrome	autosomal dominant aplasia and myelodysplasia	"mental retardation, autosomal recessive 56; MRT56"	"epileptic encephalopathy, early infantile, 48; EIEE48"
+poly(A) binding	1.0	0.0	1.0	0.0
+7S RNA binding	0.0	1.0	1.0	0.0
+ribonuclease P RNA binding	0.0	0.0	1.0	0.0
+axon cytoplasm	0.0	0.0	1.0	1.0
+"negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"	0.0	0.0	1.0	0.0

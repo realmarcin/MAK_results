@@ -1,0 +1,7 @@
+"x"
+"1" "extracellular region"
+"2" "immune response"
+"3" "interleukin-6 receptor binding"
+"4" "cytoplasm"
+"5" "nucleus"
+"6" "protein homotrimerization"

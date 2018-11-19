@@ -1,0 +1,7 @@
+"x"
+"1" "cytoskeleton"
+"2" "protein serine/threonine phosphatase activity"
+"3" "cytoplasm"
+"4" "endosomal transport"
+"5" "Rab guanyl-nucleotide exchange factor activity"
+"6" "vesicle organization"

@@ -1,0 +1,8 @@
+"x"
+"1" "metal ion binding"
+"2" "embryonic cranial skeleton morphogenesis"
+"3" "embryonic viscerocranium morphogenesis"
+"4" "embryonic neurocranium morphogenesis"
+"5" "regulation of canonical Wnt signaling pathway"
+"6" "transcription regulatory region sequence-specific DNA binding"
+"7" "regulation of non-canonical Wnt signaling pathway"

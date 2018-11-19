@@ -1,0 +1,5 @@
+	renal coloboma syndrome	renal agenesis (disease)	high myopia-sensorineural deafness syndrome	autosomal recessive nonsyndromic deafness 12	Athabaskan brainstem dysgenesis syndrome	"mental retardation, anterior maxillary Protrusion, and strabismus"	retinitis pigmentosa 39	focal segmental glomerulosclerosis 7
+MAPK cascade	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+inner ear receptor cell differentiation	1.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0
+cochlea development	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+inner ear morphogenesis	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0

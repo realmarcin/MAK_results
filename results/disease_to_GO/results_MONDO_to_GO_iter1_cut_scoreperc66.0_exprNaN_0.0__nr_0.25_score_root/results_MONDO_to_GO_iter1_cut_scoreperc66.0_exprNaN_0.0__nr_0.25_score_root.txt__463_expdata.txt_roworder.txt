@@ -1,0 +1,8 @@
+"x"
+"1" "platelet.type.bleeding.disorder.10"
+"2" "coronary.heart.disease..susceptibility.to..7"
+"3" "malaria..susceptibility.to"
+"4" "myocardial.infarction..susceptibility.to"
+"5" "hypercholesterolemia..familial"
+"6" "hypogonadotropic.hypogonadism.7.with.or.without.anosmia"
+"7" "cerebrovascular.disorder"

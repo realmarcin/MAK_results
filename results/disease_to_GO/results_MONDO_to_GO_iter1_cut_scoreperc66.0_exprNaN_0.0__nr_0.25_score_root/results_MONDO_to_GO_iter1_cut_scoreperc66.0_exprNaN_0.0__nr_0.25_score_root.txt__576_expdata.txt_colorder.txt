@@ -1,0 +1,6 @@
+"x"
+"1" "integral component of membrane"
+"2" "molecular_function"
+"3" "extracellular exosome"
+"4" "myoblast fusion involved in skeletal muscle regeneration"
+"5" "plasma membrane fusion"

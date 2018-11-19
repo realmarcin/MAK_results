@@ -1,0 +1,8 @@
+"x"
+"1" "protein kinase activity"
+"2" "ATP binding"
+"3" "protein phosphorylation"
+"4" "cytoplasm"
+"5" "cytoskeleton"
+"6" "muscle organ development"
+"7" "skeletal muscle tissue development"

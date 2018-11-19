@@ -1,0 +1,8 @@
+	Huntington's disease	megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1	primary intraosseous venous malformation	"mental retardation, autosomal recessive 34"	"microcephaly, short stature, and impaired glucose metabolism 2; MSSGM2"
+signal transduction	0.0	1.0	0.0	1.0	0.0
+apoptotic process	0.0	0.0	1.0	1.0	0.0
+cytoplasm	1.0	0.0	1.0	1.0	0.0
+nucleus	1.0	1.0	0.0	1.0	0.0
+transcription factor binding	1.0	1.0	0.0	0.0	0.0
+receptor tyrosine kinase binding	0.0	1.0	1.0	0.0	0.0
+response to endoplasmic reticulum stress	0.0	1.0	0.0	0.0	1.0

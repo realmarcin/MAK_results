@@ -1,0 +1,7 @@
+"x"
+"1" "aminoacyl-tRNA editing activity"
+"2" "regulation of translational fidelity"
+"3" "tRNA modification"
+"4" "cellular response to leucine starvation"
+"5" "cellular response to leucine"
+"6" "positive regulation of TORC1 signaling"

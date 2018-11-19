@@ -1,0 +1,4 @@
+"x"
+"1" "adenylate cyclase activity"
+"2" "cAMP biosynthetic process"
+"3" "calcium- and calmodulin-responsive adenylate cyclase activity"

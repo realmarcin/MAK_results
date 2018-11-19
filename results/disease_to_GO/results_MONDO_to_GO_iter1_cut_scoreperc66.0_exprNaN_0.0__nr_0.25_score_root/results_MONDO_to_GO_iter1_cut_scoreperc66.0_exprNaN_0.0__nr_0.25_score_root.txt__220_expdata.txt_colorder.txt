@@ -1,0 +1,4 @@
+"x"
+"1" "positive regulation of bone resorption"
+"2" "positive regulation of osteoclast development"
+"3" "follicle-stimulating hormone activity"

@@ -1,0 +1,6 @@
+"x"
+"1" "aromatase activity"
+"2" "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen"
+"3" "xenobiotic metabolic process"
+"4" "arachidonic acid metabolic process"
+"5" "membrane lipid catabolic process"

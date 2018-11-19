@@ -1,0 +1,8 @@
+"x"
+"1" "nuclear inner membrane"
+"2" "regulation of intracellular signal transduction"
+"3" "negative regulation of MAPK cascade"
+"4" "neurogenesis"
+"5" "protein localization to chromatin"
+"6" "negative regulation of protein kinase B signaling"
+"7" "heart formation"

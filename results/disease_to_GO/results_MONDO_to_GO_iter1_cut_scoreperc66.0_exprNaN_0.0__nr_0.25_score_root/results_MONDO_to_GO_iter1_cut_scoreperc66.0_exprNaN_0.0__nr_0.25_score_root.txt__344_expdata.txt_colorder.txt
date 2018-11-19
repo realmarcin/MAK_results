@@ -1,0 +1,6 @@
+"x"
+"1" "DNA unwinding involved in DNA replication"
+"2" "DNA helicase activity"
+"3" "DNA double-strand break processing"
+"4" "meiotic DNA double-strand break processing"
+"5" "single-stranded DNA-dependent ATPase activity"

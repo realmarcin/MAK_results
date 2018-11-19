@@ -1,0 +1,11 @@
+	"diabetes insipidus, nephrogenic, autosomal"	"atrial fibrillation, familial, 7"	familial episodic pain syndrome with predominantly upper body involvement	cataract 15 multiple types
+glycerol transmembrane transporter activity	1.0	0.0	0.0	0.0
+water transmembrane transporter activity	1.0	0.0	0.0	1.0
+water transport	1.0	0.0	0.0	1.0
+channel activity	1.0	0.0	1.0	1.0
+water channel activity	1.0	0.0	0.0	1.0
+glycerol transport	1.0	0.0	0.0	0.0
+cellular response to mercury ion	1.0	0.0	0.0	0.0
+cellular response to water deprivation	1.0	0.0	0.0	0.0
+renal water transport	1.0	0.0	0.0	0.0
+intracellular canaliculus	0.0	1.0	0.0	1.0

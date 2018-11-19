@@ -1,0 +1,6 @@
+"x"
+"1" "cone.rod.dystrophy.9"
+"2" "amelogenesis.imperfecta.type.1H"
+"3" "metaphyseal.anadysplasia.2"
+"4" "congenital.plasminogen.activator.inhibitor.type.1.deficiency"
+"5" "platelet.type.bleeding.disorder.9"

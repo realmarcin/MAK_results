@@ -1,0 +1,5 @@
+	amelogenesis imperfecta type 1A	ACys amyloidosis	transient bullous dermolysis of the newborn	generalized dominant dystrophic epidermolysis bullosa	laryngo-onycho-cutaneous syndrome	FG syndrome 4	syndromic X-linked intellectual disability Najm type	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	age related macular degeneration 11
+extracellular space	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+extracellular region	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0
+basement membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of peptidase activity	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0

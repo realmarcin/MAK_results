@@ -1,0 +1,7 @@
+	RIN2 syndrome	syndromic multisystem autoimmune disease due to itch deficiency	Charcot-Marie-tooth disease axonal type 2P	spinocerebellar ataxia type 38	periventricular nodular heterotopia 7; PVNH7	"neurodevelopmental disorder with hypotonia, seizures, and absent language; NDHSAL"
+positive regulation of fatty acid biosynthetic process	0.0	1.0	0.0	1.0	1.0	1.0
+protein ubiquitination	0.0	1.0	0.0	0.0	1.0	1.0
+ubiquitin binding	1.0	1.0	0.0	0.0	1.0	1.0
+late endosome to vacuole transport via multivesicular body sorting pathway	1.0	1.0	0.0	1.0	1.0	1.0
+regulation of ribosomal large subunit export from nucleus	0.0	1.0	0.0	0.0	1.0	1.0
+ubiquitin-dependent endocytosis	0.0	1.0	1.0	0.0	1.0	1.0

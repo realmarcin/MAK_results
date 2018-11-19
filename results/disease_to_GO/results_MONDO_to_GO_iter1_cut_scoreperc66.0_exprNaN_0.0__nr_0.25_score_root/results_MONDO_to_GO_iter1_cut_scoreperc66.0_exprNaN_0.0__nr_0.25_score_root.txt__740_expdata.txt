@@ -1,0 +1,7 @@
+	renal coloboma syndrome	renal agenesis (disease)	autosomal recessive spondylocostal dysostosis	bilateral microtia-deafness-cleft palate syndrome	lethal occipital encephalocele-skeletal dysplasia syndrome	focal segmental glomerulosclerosis 7
+inner ear receptor cell differentiation	1.0	1.0	1.0	0.0	0.0	1.0
+cilium assembly	1.0	1.0	1.0	0.0	0.0	1.0
+midbrain development	1.0	1.0	1.0	0.0	0.0	1.0
+cell fate determination	1.0	1.0	1.0	1.0	1.0	1.0
+cellular response to retinoic acid	1.0	1.0	0.0	1.0	1.0	1.0
+embryonic pattern specification	1.0	1.0	1.0	0.0	0.0	1.0

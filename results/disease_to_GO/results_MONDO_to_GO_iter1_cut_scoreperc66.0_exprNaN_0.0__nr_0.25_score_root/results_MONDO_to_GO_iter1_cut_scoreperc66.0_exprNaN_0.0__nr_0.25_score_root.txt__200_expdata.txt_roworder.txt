@@ -1,0 +1,6 @@
+"x"
+"1" "Hermansky.Pudlak.syndrome.7"
+"2" "Hermansky.Pudlak.syndrome.8"
+"3" "Hermansky.Pudlak.syndrome.2"
+"4" "Hermansky.Pudlak.syndrome.10..HPS10"
+"5" "epileptic.encephalopathy..early.infantile..48..EIEE48"

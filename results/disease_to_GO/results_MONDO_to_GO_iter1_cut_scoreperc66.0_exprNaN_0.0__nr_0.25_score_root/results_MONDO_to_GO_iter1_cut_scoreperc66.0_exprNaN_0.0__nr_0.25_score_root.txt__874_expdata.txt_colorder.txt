@@ -1,0 +1,7 @@
+"x"
+"1" "cellular ion homeostasis"
+"2" "ammonium transport"
+"3" "leak channel activity"
+"4" "ammonium transmembrane transporter activity"
+"5" "cation:chloride symporter activity"
+"6" "positive regulation of viral process"

@@ -1,0 +1,9 @@
+	familial amyloid neuropathy	carpal tunnel syndrome	cataract-intellectual disability-hypogonadism syndrome	Warburg micro syndrome 2
+G-protein coupled receptor signaling pathway	0.0	0.0	0.0	0.0
+cell-cell signaling	0.0	0.0	0.0	0.0
+extracellular space	1.0	1.0	0.0	0.0
+extracellular region	1.0	1.0	1.0	1.0
+hormone activity	1.0	1.0	1.0	1.0
+intracellular protein transport	0.0	0.0	1.0	1.0
+regulation of GTPase activity	0.0	0.0	1.0	1.0
+Rab guanyl-nucleotide exchange factor activity	0.0	0.0	1.0	1.0

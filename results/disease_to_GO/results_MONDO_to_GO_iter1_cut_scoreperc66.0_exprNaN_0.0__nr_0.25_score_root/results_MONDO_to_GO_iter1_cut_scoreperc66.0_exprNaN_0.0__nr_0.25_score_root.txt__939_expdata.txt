@@ -1,0 +1,5 @@
+	hereditary breast carcinoma	colorectal adenocarcinoma	ovarian cancer	Proteus syndrome	schizophrenia (disease)	hereditary spastic paraplegia 23	thyroid dyshormonogenesis 3	"autoimmune thyroid disease, susceptibility to, 3"	"congenital anomalies of kidney and urinary tract 1, susceptibility to"	acute promyelocytic leukemia	"heterotaxy, visceral, 4, autosomal"	Cowden syndrome 6	cardiofaciocutaneous syndrome 4	"microphthalmia, syndromic 12"	abdominal obesity-metabolic syndrome 3	"tremor, hereditary essential, 5; ETM5"
+glucose metabolic process	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+regulation of myelination	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0
+protein serine/threonine/tyrosine kinase activity	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+negative regulation of autophagy	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

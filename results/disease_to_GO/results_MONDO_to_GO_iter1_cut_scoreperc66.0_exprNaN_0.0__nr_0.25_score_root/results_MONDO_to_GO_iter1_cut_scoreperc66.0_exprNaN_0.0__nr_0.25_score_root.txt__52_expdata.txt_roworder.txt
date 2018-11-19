@@ -1,0 +1,4 @@
+"x"
+"1" "autosomal.recessive.congenital.ichthyosis.2"
+"2" "autosomal.recessive.congenital.ichthyosis.3"
+"3" "asthma..susceptibility.to"

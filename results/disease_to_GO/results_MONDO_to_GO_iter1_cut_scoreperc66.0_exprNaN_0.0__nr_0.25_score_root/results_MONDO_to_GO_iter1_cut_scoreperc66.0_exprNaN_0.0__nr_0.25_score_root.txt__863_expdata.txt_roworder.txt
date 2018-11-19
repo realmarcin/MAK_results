@@ -1,0 +1,6 @@
+"x"
+"1" "immunodeficiency.centromeric.instability.facial.anomalies.syndrome.1"
+"2" "familial.cold.autoinflammatory.syndrome.3"
+"3" "Autoinflammation.PLCG2.associated.antibody.deficiency.immune.dysregulation"
+"4" "tall.stature.intellectual.disability.facial.dysmorphism.syndrome"
+"5" "intellectual.disability.macrocephaly.hypotonia.behavioral.abnormalities.syndrome"

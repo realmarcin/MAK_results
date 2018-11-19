@@ -1,0 +1,13 @@
+	congenital stationary night blindness 1A	osteoarthritis susceptibility 3	congenital stromal corneal dystrophy	"bacteremia, susceptibility to, 2"	hypogonadotropic hypogonadism 21 with or without anosmia
+cytoplasm	1.0	1.0	1.0	1.0	1.0
+negative regulation of JAK-STAT cascade	1.0	1.0	1.0	1.0	1.0
+protein ubiquitination	0.0	0.0	0.0	1.0	0.0
+cytokine-mediated signaling pathway	1.0	1.0	1.0	1.0	1.0
+intracellular signal transduction	0.0	0.0	0.0	1.0	0.0
+negative regulation of insulin receptor signaling pathway	0.0	0.0	0.0	1.0	0.0
+optokinetic behavior	1.0	0.0	0.0	0.0	0.0
+protein kinase inhibitor activity	1.0	1.0	1.0	1.0	1.0
+negative regulation of erythrocyte differentiation	0.0	0.0	0.0	1.0	0.0
+negative regulation of hemopoiesis	0.0	0.0	0.0	1.0	0.0
+negative regulation of myeloid cell differentiation	0.0	0.0	0.0	1.0	0.0
+negative regulation of lymphocyte differentiation	0.0	0.0	0.0	1.0	0.0

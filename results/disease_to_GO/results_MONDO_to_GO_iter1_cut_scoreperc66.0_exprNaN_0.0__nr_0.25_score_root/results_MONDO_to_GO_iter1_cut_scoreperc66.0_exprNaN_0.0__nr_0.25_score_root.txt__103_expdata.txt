@@ -1,0 +1,6 @@
+	Heinz body anemia	dominant beta-thalassemia	sickle cell anemia	alpha thalassemia	hemoglobin H disease	beta-thalassemia HBB/LCRB
+oxygen carrier activity	1.0	1.0	1.0	1.0	1.0	1.0
+oxygen binding	1.0	1.0	1.0	1.0	1.0	1.0
+hemoglobin complex	1.0	1.0	1.0	1.0	1.0	1.0
+haptoglobin binding	1.0	0.0	0.0	1.0	1.0	0.0
+oxygen transport	1.0	1.0	1.0	1.0	1.0	1.0

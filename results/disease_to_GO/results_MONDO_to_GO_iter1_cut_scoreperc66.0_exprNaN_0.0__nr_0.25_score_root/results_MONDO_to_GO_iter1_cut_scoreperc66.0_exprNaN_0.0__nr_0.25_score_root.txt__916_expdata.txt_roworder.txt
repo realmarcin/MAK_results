@@ -1,0 +1,7 @@
+"x"
+"1" "cranioectodermal.dysplasia.1"
+"2" "McKusick.Kaufman.syndrome"
+"3" "Bardet.Biedl.syndrome.6"
+"4" "microcephaly.7..primary..autosomal.recessive"
+"5" "Joubert.syndrome.13"
+"6" "Bardet.Biedl.syndrome.10"

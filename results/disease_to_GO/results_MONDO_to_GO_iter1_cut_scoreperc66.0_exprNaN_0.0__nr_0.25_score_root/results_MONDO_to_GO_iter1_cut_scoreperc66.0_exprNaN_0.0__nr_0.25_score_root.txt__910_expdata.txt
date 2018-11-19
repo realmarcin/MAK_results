@@ -1,0 +1,8 @@
+	Machado-Joseph disease	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	thrombomodulin-related bleeding disorder	autosomal recessive nonsyndromic deafness 70	hereditary spastic paraplegia 76
+brain development	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+calcium ion binding	0.0	0.0	1.0	0.0	1.0	0.0	1.0
+proteolysis	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+protein autoprocessing	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+branchiomotor neuron axon guidance	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+receptor catabolic process	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+mammary gland involution	0.0	0.0	0.0	0.0	0.0	0.0	1.0

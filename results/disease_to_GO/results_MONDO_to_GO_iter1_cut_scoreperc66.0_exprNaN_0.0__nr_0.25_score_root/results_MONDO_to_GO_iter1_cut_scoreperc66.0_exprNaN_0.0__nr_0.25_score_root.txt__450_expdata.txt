@@ -1,0 +1,8 @@
+	FG syndrome 4	syndromic X-linked intellectual disability Najm type	"46,Xy sex reversal 6"	atrial conduction disease	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	"hypotonia, infantile, with psychomotor retardation and characteristic facies 3; IHPRF3"
+protein kinase activity	1.0	1.0	1.0	1.0	1.0	1.0
+cytoplasm	0.0	0.0	1.0	1.0	1.0	1.0
+ATP binding	1.0	1.0	1.0	1.0	1.0	1.0
+protein phosphorylation	1.0	1.0	1.0	1.0	1.0	1.0
+cytoskeleton	0.0	0.0	1.0	0.0	1.0	1.0
+muscle organ development	0.0	0.0	0.0	0.0	0.0	0.0
+skeletal muscle tissue development	0.0	0.0	0.0	0.0	0.0	0.0

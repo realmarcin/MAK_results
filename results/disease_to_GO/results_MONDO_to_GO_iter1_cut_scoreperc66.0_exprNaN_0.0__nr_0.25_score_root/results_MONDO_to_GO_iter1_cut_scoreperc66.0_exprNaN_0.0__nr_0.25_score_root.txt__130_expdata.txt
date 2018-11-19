@@ -1,0 +1,5 @@
+	Perlman syndrome	pontocerebellar hypoplasia type 1B	combined oxidative phosphorylation defect type 13	autosomal recessive nonsyndromic deafness 70	"pontocerebellar hypoplasia, type 1C"
+exosome (RNase complex)	1.0	1.0	0.0	0.0	1.0
+DNA deamination	0.0	1.0	0.0	0.0	0.0
+nuclear polyadenylation-dependent mRNA catabolic process	0.0	1.0	1.0	1.0	1.0
+nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	0.0	1.0	0.0	0.0	0.0

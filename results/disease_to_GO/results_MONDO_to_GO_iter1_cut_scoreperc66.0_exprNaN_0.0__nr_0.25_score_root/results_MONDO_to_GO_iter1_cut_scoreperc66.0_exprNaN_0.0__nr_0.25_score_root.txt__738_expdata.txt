@@ -1,0 +1,7 @@
+	schizophrenia (disease)	neuronal ceroid lipofuscinosis 1	X-linked epilepsy-learning disabilities-behavior disorders syndrome	rigid spine muscular dystrophy 1	cone-rod dystrophy 7	growth delay due to insulin-like growth factor type 1 deficiency	dystonia 23	congenital myasthenic syndrome 7
+uterus morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+neurotransmitter secretion	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+positive regulation of epithelial cell proliferation involved in wound healing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+skeletal muscle satellite cell activation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of axon diameter	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

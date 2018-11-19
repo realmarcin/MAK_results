@@ -1,0 +1,4 @@
+"x"
+"1" "LIPE.related.familial.partial.lipodystrophy"
+"2" "congenital.generalized.lipodystrophy.type.4"
+"3" "childhood.onset.epileptic.encephalopathy"

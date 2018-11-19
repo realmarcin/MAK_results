@@ -1,0 +1,4 @@
+"x"
+"1" "short.stature.optic.atrophy.Pelger.HuC.t.anomaly.syndrome"
+"2" "fever.associated.acute.infantile.liver.failure.syndrome"
+"3" "short.stature.delayed.bone.age.due.to.thyroid.hormone.metabolism.deficiency"

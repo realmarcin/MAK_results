@@ -1,0 +1,5 @@
+"x"
+"1" "mental.retardation..autosomal.recessive.51..MRT51"
+"2" "hypermethioninemia.with.deficiency.of.S.adenosylhomocysteine.hydrolase"
+"3" "spinal.muscular.atrophy.with.congenital.bone.fractures.1"
+"4" "muscular.dystrophy..congenital..Davignon.Chauveau.type..MDCDC"

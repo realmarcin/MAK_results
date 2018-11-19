@@ -1,0 +1,7 @@
+	immunodeficiency-centromeric instability-facial anomalies syndrome 1	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	hereditary sensory neuropathy-deafness-dementia syndrome	tall stature-intellectual disability-facial dysmorphism syndrome	early-onset Lafora body disease
+DNA-methyltransferase activity	1.0	1.0	1.0	1.0	0.0
+DNA (cytosine-5-)-methyltransferase activity	1.0	1.0	1.0	1.0	0.0
+C-5 methylation of cytosine	1.0	1.0	1.0	0.0	0.0
+DNA methylation on cytosine	1.0	1.0	1.0	1.0	0.0
+DNA methylation involved in embryo development	1.0	1.0	1.0	1.0	0.0
+DNA methylation on cytosine within a CG sequence	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"erythrocytosis, familial, 4"	"combined pituitary hormone deficiencies, genetic forms"	craniosynostosis 3	mitochondrial DNA depletion syndrome 15 (hepatocerebral type);
+cell fate specification	0.0	1.0	0.0	0.0
+RNA polymerase II transcription coactivator activity	0.0	1.0	0.0	0.0
+determination of adult lifespan	0.0	1.0	0.0	0.0
+positive regulation of multicellular organism growth	0.0	1.0	0.0	0.0
+RNA polymerase II activating transcription factor binding	0.0	1.0	0.0	0.0
+positive regulation of inositol trisphosphate biosynthetic process	0.0	1.0	0.0	0.0
+B cell differentiation	0.0	1.0	0.0	0.0
+somatotropin secreting cell differentiation	0.0	1.0	0.0	0.0
+nuclear transport	0.0	1.0	0.0	0.0
+somatotropin secreting cell development	0.0	1.0	0.0	0.0
+regulation of insulin-like growth factor receptor signaling pathway	0.0	1.0	0.0	0.0

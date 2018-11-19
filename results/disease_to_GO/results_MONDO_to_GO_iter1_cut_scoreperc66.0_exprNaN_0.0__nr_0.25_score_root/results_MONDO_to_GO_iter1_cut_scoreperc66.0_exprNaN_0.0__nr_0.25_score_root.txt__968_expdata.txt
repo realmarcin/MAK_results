@@ -1,0 +1,7 @@
+	"essential hypertension, genetic"	"multicentric osteolysis, Nodulosis, and arthropathy"	Roberts syndrome	SC phocomelia syndrome	spermatogenic failure 4	Grn-related frontotemporal lobar degeneration with Tdp43 inclusions	"Microvascular complications of diabetes, susceptibility to, 2"	metaphyseal anadysplasia 2	orofacial cleft 10	neuronal ceroid lipofuscinosis 11	tall stature-intellectual disability-facial dysmorphism syndrome	microcephaly and chorioretinopathy 2
+histone phosphorylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+DNA damage induced protein phosphorylation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+embryo implantation	1.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+regulation of heart looping	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+XY body	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0
+replicative senescence	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "nucleoplasm"
+"2" "protein binding"
+"3" "cytoplasm"
+"4" "nucleus"

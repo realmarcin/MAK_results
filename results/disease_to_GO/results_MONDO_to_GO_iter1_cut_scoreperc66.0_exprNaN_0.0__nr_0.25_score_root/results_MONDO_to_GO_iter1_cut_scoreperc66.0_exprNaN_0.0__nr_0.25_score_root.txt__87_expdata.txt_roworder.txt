@@ -1,0 +1,7 @@
+"x"
+"1" "Yunis.Varon.syndrome"
+"2" "Charcot.Marie.tooth.disease.type.4J"
+"3" "amyotrophic.lateral.sclerosis.type.11"
+"4" "bilateral.parasagittal.parieto.occipital.polymicrogyria"
+"5" "early.onset.Parkinson.disease.20"
+"6" "striatonigral.degeneration..childhood.onset..SNDC"

@@ -1,0 +1,8 @@
+	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive"	"Ehlers-Danlos syndrome, type 6"	congenital nephrotic syndrome-interstitial lung disease-epidermolysis bullosa syndrome
+membrane	1.0	1.0	1.0	1.0
+protein binding	1.0	1.0	1.0	1.0
+bone development	1.0	1.0	0.0	0.0
+positive regulation of gene expression	1.0	1.0	0.0	1.0
+fin morphogenesis	0.0	0.0	1.0	1.0
+collagen trimer	0.0	0.0	1.0	0.0
+fin development	1.0	1.0	1.0	1.0

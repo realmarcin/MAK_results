@@ -1,0 +1,6 @@
+"x"
+"1" "adenylate kinase activity"
+"2" "nucleoside triphosphate biosynthetic process"
+"3" "nucleobase-containing compound kinase activity"
+"4" "phosphotransferase activity, phosphate group as acceptor"
+"5" "ADP biosynthetic process"

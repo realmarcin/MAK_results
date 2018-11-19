@@ -1,0 +1,11 @@
+	atrial heart septal defect 7	"hypothyroidism, congenital, Nongoitrous, 5"	ventricular septal defect 3	hypoplastic left heart syndrome 2	glucocorticoid resistance
+heart looping	1.0	1.0	1.0	1.0	0.0
+heart morphogenesis	1.0	1.0	1.0	1.0	0.0
+embryonic heart tube development	1.0	1.0	1.0	1.0	0.0
+cardiac muscle cell differentiation	1.0	1.0	1.0	1.0	0.0
+artery development	1.0	1.0	1.0	1.0	0.0
+cardiac ventricle development	1.0	1.0	1.0	1.0	0.0
+regulation of cardiac chamber formation	1.0	1.0	1.0	1.0	0.0
+cardiac muscle cell proliferation	1.0	1.0	1.0	1.0	0.0
+pharyngeal arch artery morphogenesis	1.0	1.0	1.0	1.0	0.0
+cardiac chamber development	1.0	1.0	1.0	1.0	0.0

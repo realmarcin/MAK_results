@@ -1,0 +1,10 @@
+	"glaucoma 1, open angle, a"	hereditary sensory and autonomic neuropathy type 5	Kostmann syndrome	"glaucoma 1, open angle, O"	familial cortical myoclonus
+membrane	1.0	0.0	1.0	0.0	1.0
+protein binding	1.0	0.0	1.0	0.0	1.0
+cytoplasmic vesicle	1.0	1.0	1.0	1.0	0.0
+cytoplasm	1.0	0.0	1.0	0.0	1.0
+endoplasmic reticulum	1.0	0.0	1.0	0.0	0.0
+neuron projection development	1.0	1.0	0.0	0.0	0.0
+mitochondrion	1.0	0.0	1.0	0.0	1.0
+regulation of neurotransmitter secretion	0.0	1.0	0.0	0.0	0.0
+sarcoplasm	0.0	0.0	0.0	0.0	1.0

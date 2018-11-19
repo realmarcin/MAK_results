@@ -1,0 +1,11 @@
+	"Ehlers-Danlos syndrome, arthrochalasis type"	osteogenesis imperfecta type 2	osteogenesis imperfecta type 4	osteogenesis imperfecta type 3	osteogenesis imperfecta type 13
+regulation of ossification	1.0	1.0	1.0	1.0	0.0
+extracellular matrix	1.0	1.0	1.0	1.0	0.0
+fin regeneration	1.0	1.0	1.0	1.0	0.0
+proteinaceous extracellular matrix	1.0	1.0	1.0	1.0	0.0
+extracellular matrix structural constituent	1.0	1.0	1.0	1.0	0.0
+fin morphogenesis	1.0	1.0	1.0	1.0	0.0
+collagen trimer	1.0	1.0	1.0	1.0	0.0
+extracellular region	1.0	1.0	1.0	1.0	0.0
+response to mechanical stimulus	1.0	1.0	1.0	1.0	0.0
+pectoral fin development	1.0	1.0	1.0	1.0	0.0

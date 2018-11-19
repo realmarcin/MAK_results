@@ -1,0 +1,8 @@
+"x"
+"1" "integral component of membrane"
+"2" "membrane"
+"3" "endoplasmic reticulum"
+"4" "transferase activity"
+"5" "endoplasmic reticulum membrane"
+"6" "protein glycosylation"
+"7" "protein glycosylation in endoplasmic reticulum"

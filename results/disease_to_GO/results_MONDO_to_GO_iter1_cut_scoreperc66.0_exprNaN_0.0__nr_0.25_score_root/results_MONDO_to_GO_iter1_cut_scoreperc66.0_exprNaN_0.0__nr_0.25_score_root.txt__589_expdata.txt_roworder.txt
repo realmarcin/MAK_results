@@ -1,0 +1,7 @@
+"x"
+"1" "phenylketonuria"
+"2" "attention.deficit.hyperactivity.disorder..susceptibility.to..7"
+"3" "hereditary.hypercarotenemia.and.vitamin.A.deficiency"
+"4" "mucosulfatidosis"
+"5" "Hypertryptophanemia"
+"6" "osteogenesis.imperfecta.type.8"

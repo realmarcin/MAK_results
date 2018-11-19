@@ -1,0 +1,4 @@
+"x"
+"1" "encephalopathy.due.to.hydroxykynureninuria"
+"2" "Leber.congenital.amaurosis.9"
+"3" "Hypertryptophanemia"

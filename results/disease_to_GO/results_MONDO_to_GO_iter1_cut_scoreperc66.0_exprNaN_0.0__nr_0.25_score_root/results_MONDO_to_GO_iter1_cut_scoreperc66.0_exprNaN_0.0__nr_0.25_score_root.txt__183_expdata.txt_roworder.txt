@@ -1,0 +1,6 @@
+"x"
+"1" "syndromic.microphthalmia.type.5"
+"2" "pituitary.hormone.deficiency..combined..6"
+"3" "osteogenesis.imperfecta.type.15"
+"4" "epileptic.encephalopathy..early.infantile..12"
+"5" "tremor..hereditary.essential..5..ETM5"

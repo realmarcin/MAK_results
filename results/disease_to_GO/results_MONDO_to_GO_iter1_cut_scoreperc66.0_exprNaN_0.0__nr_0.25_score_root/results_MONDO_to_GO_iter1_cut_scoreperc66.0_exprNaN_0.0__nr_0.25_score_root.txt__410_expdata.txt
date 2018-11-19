@@ -1,0 +1,7 @@
+	arrhythmogenic right ventricular dysplasia 1	Camurati-Engelmann disease	cystic fibrosis	Loeys-Dietz syndrome 4	Rienhoff syndrome
+response to progesterone	1.0	0.0	0.0	1.0	1.0
+type II transforming growth factor beta receptor binding	1.0	1.0	1.0	1.0	1.0
+cell growth	1.0	1.0	1.0	1.0	1.0
+cellular response to gamma radiation	0.0	0.0	0.0	0.0	0.0
+stress-activated MAPK cascade	0.0	0.0	0.0	0.0	0.0
+regulation of cell death	0.0	0.0	0.0	0.0	0.0

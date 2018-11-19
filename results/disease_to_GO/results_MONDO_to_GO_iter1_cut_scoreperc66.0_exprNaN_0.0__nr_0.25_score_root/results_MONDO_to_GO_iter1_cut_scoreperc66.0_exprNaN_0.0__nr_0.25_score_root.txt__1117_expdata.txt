@@ -1,0 +1,7 @@
+	Alzheimer's disease 2	exudative vitreoretinopathy 1	Donohue syndrome	"leprosy, susceptibility to, 3"	Native american myopathy	Rabson-Mendenhall syndrome	sea-blue histiocyte syndrome	age related macular degeneration 1	Alzheimer's disease 4	hypertrophic cardiomyopathy 25	"mycobacterium tuberculosis, susceptibility to"	hyperinsulinism due to INSR deficiency	insulin-resistance syndrome type A	lipoprotein glomerulopathy	autosomal recessive limb-girdle muscular dystrophy type 2P	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 9"
+amyloid-beta complex	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0
+superoxide dismutase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+calcium-dependent phospholipid binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+T-tubule organization	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0
+plasma membrane repair	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cell wall repair	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

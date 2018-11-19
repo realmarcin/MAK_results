@@ -1,0 +1,8 @@
+"x"
+"1" "actin filament binding"
+"2" "regulation of cell migration"
+"3" "Z disc"
+"4" "regulation of cytoskeleton organization"
+"5" "cardiac muscle fiber development"
+"6" "structural constituent of cytoskeleton"
+"7" "ankyrin binding"

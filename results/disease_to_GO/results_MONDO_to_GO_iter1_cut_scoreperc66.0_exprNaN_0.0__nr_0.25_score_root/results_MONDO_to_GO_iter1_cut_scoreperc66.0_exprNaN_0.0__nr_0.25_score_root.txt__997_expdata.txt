@@ -1,0 +1,13 @@
+	LADD syndrome	aplasia of lacrimal and salivary glands	Bamforth-Lazarus syndrome	"tooth agenesis, selective, 3"	"mental retardation, autosomal dominant 27"	"thyroid cancer, nonmedullary, 4"
+fibroblast growth factor receptor signaling pathway	1.0	1.0	0.0	0.0	0.0	0.0
+extracellular matrix	1.0	1.0	0.0	0.0	0.0	0.0
+liver development	1.0	1.0	0.0	0.0	0.0	0.0
+otic vesicle development	1.0	1.0	0.0	0.0	0.0	0.0
+embryonic pectoral fin morphogenesis	1.0	1.0	0.0	0.0	0.0	0.0
+pancreas development	1.0	1.0	0.0	0.0	0.0	0.0
+growth factor activity	1.0	1.0	0.0	0.0	0.0	0.0
+swim bladder development	1.0	1.0	0.0	0.0	0.0	0.0
+ectodermal placode development	1.0	1.0	0.0	0.0	0.0	0.0
+posterior lateral line neuromast primordium migration	1.0	1.0	0.0	0.0	0.0	0.0
+posterior lateral line neuromast development	1.0	1.0	0.0	0.0	0.0	0.0
+fibroblast growth factor receptor binding	1.0	1.0	0.0	0.0	0.0	0.0

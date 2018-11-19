@@ -1,0 +1,9 @@
+	Camurati-Engelmann disease	osteogenesis imperfecta type 8	estrogen resistance syndrome	Rienhoff syndrome	Harel-Yoon syndrome; HAYOS
+negative regulation of transcription from RNA polymerase II promoter	0.0	0.0	1.0	0.0	0.0
+regulation of apoptotic process	1.0	0.0	1.0	1.0	0.0
+"transcription, DNA-templated"	0.0	0.0	1.0	0.0	0.0
+DNA binding transcription factor activity	0.0	0.0	1.0	0.0	0.0
+sequence-specific DNA binding	0.0	0.0	1.0	0.0	0.0
+transcription from RNA polymerase II promoter	0.0	0.0	1.0	0.0	0.0
+cell growth	1.0	1.0	1.0	1.0	1.0
+phosphatidylinositol 3-kinase regulatory subunit binding	0.0	0.0	1.0	0.0	0.0

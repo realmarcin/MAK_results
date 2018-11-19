@@ -1,0 +1,5 @@
+	Joubert syndrome 3	hypertrophic cardiomyopathy 8	hypertrophic cardiomyopathy 10	"atrial fibrillation, familial, 18; ATFB18"
+vesicle targeting	1.0	1.0	0.0	1.0
+myosin II complex	0.0	1.0	1.0	1.0
+actomyosin contractile ring assembly	0.0	1.0	0.0	1.0
+myosin II heavy chain binding	0.0	1.0	0.0	1.0

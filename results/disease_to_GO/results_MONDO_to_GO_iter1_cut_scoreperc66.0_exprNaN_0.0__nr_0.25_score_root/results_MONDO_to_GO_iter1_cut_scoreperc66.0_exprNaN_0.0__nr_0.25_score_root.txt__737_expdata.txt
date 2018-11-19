@@ -1,0 +1,12 @@
+	sudden cardiac arrest	"mental retardation, X-linked 58"	nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome	autosomal recessive congenital ichthyosis 6	atypical hemolytic-uremic syndrome with MCP/CD46 anomaly
+cell cycle	1.0	0.0	0.0	0.0	0.0
+fungal-type vacuole	1.0	0.0	0.0	0.0	0.0
+cellular bud neck	1.0	0.0	0.0	0.0	0.0
+cell division	1.0	0.0	0.0	0.0	0.0
+erythrocyte development	1.0	0.0	0.0	0.0	0.0
+protein localization	1.0	0.0	0.0	0.0	0.0
+cellular bud site selection	1.0	0.0	0.0	0.0	0.0
+cellular bud tip	1.0	0.0	0.0	0.0	0.0
+protein kinase A binding	1.0	0.0	0.0	0.0	0.0
+lymphocyte differentiation	1.0	0.0	0.0	0.0	0.0
+myeloid cell differentiation	1.0	0.0	0.0	0.0	0.0

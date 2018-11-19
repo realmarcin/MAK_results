@@ -1,0 +1,4 @@
+"x"
+"1" "autosomal.recessive.cutis.laxa.type.2B"
+"2" "PYCR1.related.de.Barsy.syndrome"
+"3" "hypomyelinating.leukodystrophy.10"

@@ -1,0 +1,6 @@
+"x"
+"1" "X.linked.colobomatous.microphthalmia.microcephaly.intellectual.disability.short.stature.syndrome"
+"2" "syndromic.X.linked.intellectual.disability.34"
+"3" "trichothiodystrophy.3..photosensitive"
+"4" "X.linked.intellectual.disability.short.stature.overweight.syndrome"
+"5" "facial.dysmorphism.developmental.delay.behavioral.abnormalities.syndrome.due.to.WAC.point.mutation"

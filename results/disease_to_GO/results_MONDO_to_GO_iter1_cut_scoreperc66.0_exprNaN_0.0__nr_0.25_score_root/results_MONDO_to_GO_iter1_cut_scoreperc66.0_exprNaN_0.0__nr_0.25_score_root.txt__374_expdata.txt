@@ -1,0 +1,7 @@
+	"essential hypertension, genetic"	methylmalonic aciduria and homocystinuria type cblC	syndactyly-telecanthus-anogenital and renal malformations syndrome	juvenile rheumatoid arthritis	RIDDLE syndrome	palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome
+demethylase activity	1.0	1.0	0.0	0.0	0.0	1.0
+histone H2A-K13 ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+protein K63-linked ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A-K15 ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A K63-linked ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0
+histone H2A ubiquitination	0.0	0.0	0.0	0.0	1.0	0.0

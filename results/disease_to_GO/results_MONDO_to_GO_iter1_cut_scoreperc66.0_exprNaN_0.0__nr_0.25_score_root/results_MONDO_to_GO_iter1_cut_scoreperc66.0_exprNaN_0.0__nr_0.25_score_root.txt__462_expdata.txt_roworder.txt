@@ -1,0 +1,6 @@
+"x"
+"1" "nephronophthisis.4"
+"2" "Senior.Loken.syndrome.4"
+"3" "microcephaly.7..primary..autosomal.recessive"
+"4" "Joubert.syndrome.13"
+"5" "Bardet.Biedl.syndrome.10"

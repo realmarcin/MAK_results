@@ -1,0 +1,6 @@
+"x"
+"1" "amyotrophic.lateral.sclerosis.type.14"
+"2" "Charcot.Marie.tooth.disease.type.2Y"
+"3" "Cornelia.de.Lange.syndrome.1"
+"4" "nephrotic.syndrome..type.11..NPHS11"
+"5" "short.stature..microcephaly..and.endocrine.dysfunction"

@@ -1,0 +1,7 @@
+"x"
+"1" "Joubert.syndrome.1"
+"2" "MORM.syndrome"
+"3" "Charcot.Marie.tooth.disease.type.4B1"
+"4" "early.onset.Parkinson.disease.20"
+"5" "X.linked.centronuclear.myopathy"
+"6" "lymphedema.posterior.choanal.atresia.syndrome"

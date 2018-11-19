@@ -1,0 +1,7 @@
+"x"
+"1" "short.stature.delayed.bone.age.due.to.thyroid.hormone.metabolism.deficiency"
+"2" "syndromic.X.linked.intellectual.disability.14"
+"3" "leukoencephalopathy.with.vanishing.white.matter"
+"4" "mental.retardation..autosomal.recessive.2"
+"5" "sudden.infant.death.dysgenesis.of.the.testes.syndrome"
+"6" "combined.oxidative.phosphorylation.defect.type.15"

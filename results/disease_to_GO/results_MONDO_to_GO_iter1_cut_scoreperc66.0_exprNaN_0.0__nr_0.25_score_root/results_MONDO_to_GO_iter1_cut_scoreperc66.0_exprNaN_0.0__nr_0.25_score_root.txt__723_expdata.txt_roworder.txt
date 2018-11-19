@@ -1,0 +1,7 @@
+"x"
+"1" "multiple.myeloma"
+"2" "DNA.ligase.IV.deficiency"
+"3" "male.infertility.due.to.large.headed.multiflagellar.polyploid.spermatozoa"
+"4" "dilated.cardiomyopathy.1T"
+"5" "Nestor.Guillermo.progeria.syndrome"
+"6" "mental.retardation..autosomal.dominant.40"

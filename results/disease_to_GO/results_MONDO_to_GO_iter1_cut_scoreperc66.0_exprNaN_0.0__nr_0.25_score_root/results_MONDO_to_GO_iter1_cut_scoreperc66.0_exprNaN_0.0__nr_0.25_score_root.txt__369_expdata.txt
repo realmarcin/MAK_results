@@ -1,0 +1,7 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	"cerebral palsy, spastic quadriplegic, 1"	aromatic L-amino acid decarboxylase deficiency	developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency
+thiolester hydrolase activity	0.0	0.0	0.0	1.0
+valine metabolic process	0.0	0.0	0.0	1.0
+methylmalonate-semialdehyde dehydrogenase (acylating) activity	0.0	0.0	0.0	1.0
+malonate-semialdehyde dehydrogenase (acetylating) activity	0.0	0.0	0.0	1.0
+beta-alanine catabolic process	0.0	0.0	0.0	1.0
+thymine metabolic process	0.0	0.0	0.0	1.0

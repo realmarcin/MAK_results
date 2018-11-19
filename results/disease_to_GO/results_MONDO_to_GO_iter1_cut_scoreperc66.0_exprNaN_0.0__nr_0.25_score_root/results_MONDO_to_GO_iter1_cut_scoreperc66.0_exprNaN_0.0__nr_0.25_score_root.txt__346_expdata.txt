@@ -1,0 +1,7 @@
+	microcephaly-micromelia syndrome	"myopathy, centronuclear, 2"	Charlevoix-Saguenay spastic ataxia	normophosphatemic familial tumoral calcinosis	"neuronopathy, distal hereditary motor, type 2C"	Mirage syndrome; MIRAGE
+replication fork	1.0	0.0	0.0	0.0	0.0	0.0
+replication fork protection	1.0	0.0	0.0	0.0	0.0	0.0
+DNA damage checkpoint	1.0	0.0	0.0	0.0	0.0	0.0
+mitotic G2 DNA damage checkpoint	1.0	0.0	0.0	0.0	0.0	0.0
+replisome	1.0	0.0	0.0	0.0	0.0	0.0
+nuclear DNA replication	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	Diaphanospondylodysostosis	Pitt-Hopkins syndrome	"corneal dystrophy, Fuchs endothelial, 3"	infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly	"trichothiodystrophy 6, nonphotosensitive; TTD6"
+regulation of vascular endothelial growth factor signaling pathway	0.0	1.0	1.0	0.0	0.0
+endothelial cell activation	1.0	1.0	1.0	0.0	0.0
+"transcription factor activity, TFIIB-class binding"	0.0	1.0	1.0	0.0	0.0
+"transcription factor activity, sequence-specific DNA binding, RNA polymerase recruiting"	0.0	1.0	1.0	0.0	0.0
+transcription initiation from RNA polymerase II promoter	0.0	1.0	1.0	1.0	1.0
+beta-catenin-TCF complex	0.0	1.0	1.0	0.0	0.0

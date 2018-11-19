@@ -1,0 +1,5 @@
+"x"
+"1" "pyridoxine.dependent.epilepsy"
+"2" "cerebral.palsy..spastic.quadriplegic..1"
+"3" "Succinyl.CoA.3.ketoacid.CoA.transferase.deficiency"
+"4" "aromatic.L.amino.acid.decarboxylase.deficiency"

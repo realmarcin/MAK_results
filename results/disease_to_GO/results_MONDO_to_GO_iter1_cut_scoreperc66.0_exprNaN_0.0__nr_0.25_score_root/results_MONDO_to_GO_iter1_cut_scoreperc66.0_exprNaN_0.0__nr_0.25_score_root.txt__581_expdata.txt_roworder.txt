@@ -1,0 +1,5 @@
+"x"
+"1" "citrullinemia..type.Ii..adult.onset"
+"2" "neonatal.intrahepatic.cholestasis.due.to.citrin.deficiency"
+"3" "epileptic.encephalopathy.with.global.cerebral.demyelination"
+"4" "epileptic.encephalopathy..early.infantile..3"

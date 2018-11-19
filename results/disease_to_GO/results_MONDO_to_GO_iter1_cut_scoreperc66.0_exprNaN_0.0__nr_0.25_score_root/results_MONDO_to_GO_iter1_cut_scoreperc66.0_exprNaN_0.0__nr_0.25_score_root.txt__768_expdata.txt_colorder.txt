@@ -1,0 +1,7 @@
+"x"
+"1" "sodium ion transport"
+"2" "symporter activity"
+"3" "chloride ion homeostasis"
+"4" "sodium ion transmembrane transporter activity"
+"5" "pronephric duct morphogenesis"
+"6" "sodium:chloride symporter activity"

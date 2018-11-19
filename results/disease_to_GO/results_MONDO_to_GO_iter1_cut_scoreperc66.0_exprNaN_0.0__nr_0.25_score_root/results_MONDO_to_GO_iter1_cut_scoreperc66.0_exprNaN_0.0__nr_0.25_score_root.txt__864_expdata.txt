@@ -1,0 +1,9 @@
+	uveal coloboma-cleft lip and palate-intellectual disability	childhood apraxia of speech	left ventricular noncompaction 8	Dias-Logan syndrome; DILOS	immunodeficiency 49; IMD49
+metal ion binding	0.0	1.0	1.0	1.0	1.0
+sequence-specific DNA binding	0.0	1.0	1.0	1.0	1.0
+RNA polymerase II proximal promoter sequence-specific DNA binding	1.0	1.0	1.0	1.0	1.0
+cerebellum development	0.0	1.0	0.0	0.0	0.0
+positive regulation of epithelial cell proliferation involved in lung morphogenesis	0.0	1.0	0.0	0.0	0.0
+growth	0.0	1.0	0.0	0.0	0.0
+righting reflex	0.0	1.0	0.0	0.0	0.0
+vocal learning	0.0	1.0	0.0	0.0	0.0

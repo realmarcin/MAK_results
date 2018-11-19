@@ -1,0 +1,5 @@
+"x"
+"1" "ACys.amyloidosis"
+"2" "age.related.macular.degeneration.11"
+"3" "palmoplantar.keratoderma..Nagashima.type"
+"4" "peeling.skin.leukonuchia.acral.punctate.keratoses.cheilitis.knuckle.pads.syndrome"

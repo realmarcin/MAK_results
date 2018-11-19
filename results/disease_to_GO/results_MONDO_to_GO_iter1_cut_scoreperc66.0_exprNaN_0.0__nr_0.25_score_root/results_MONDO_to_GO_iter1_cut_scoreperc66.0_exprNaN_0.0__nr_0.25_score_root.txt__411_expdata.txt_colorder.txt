@@ -1,0 +1,8 @@
+"x"
+"1" "fibroblast growth factor-activated receptor activity"
+"2" "fibroblast growth factor receptor signaling pathway"
+"3" "midbrain development"
+"4" "determination of liver left/right asymmetry"
+"5" "cell proliferation in midbrain"
+"6" "determination of left/right asymmetry in lateral mesoderm"
+"7" "determination of pancreatic left/right asymmetry"

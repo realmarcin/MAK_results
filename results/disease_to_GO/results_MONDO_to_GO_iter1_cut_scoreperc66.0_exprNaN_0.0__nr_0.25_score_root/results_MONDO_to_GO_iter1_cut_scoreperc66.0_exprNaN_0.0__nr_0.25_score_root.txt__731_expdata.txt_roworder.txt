@@ -1,0 +1,5 @@
+"x"
+"1" "hereditary.spastic.paraplegia.54"
+"2" "hereditary.spastic.paraplegia.28"
+"3" "hypotrichosis.7"
+"4" "juvenile.myelomonocytic.leukemia"

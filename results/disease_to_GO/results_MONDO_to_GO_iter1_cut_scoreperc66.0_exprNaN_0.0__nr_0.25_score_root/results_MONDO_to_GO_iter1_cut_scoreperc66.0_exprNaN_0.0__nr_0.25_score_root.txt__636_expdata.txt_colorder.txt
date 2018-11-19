@@ -1,0 +1,7 @@
+"x"
+"1" "MLL1 complex"
+"2" "maturation of LSU-rRNA"
+"3" "preribosome, large subunit precursor"
+"4" "cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+"5" "endonucleolytic cleavage involved in rRNA processing"
+"6" "maturation of 5.8S rRNA"

@@ -1,0 +1,8 @@
+	clubfoot	brachydactyly-elbow wrist dysplasia syndrome	adrenocorticotropic hormone deficiency (disease)	"combined pituitary hormone deficiencies, genetic forms"	Otofaciocervical syndrome 2
+skeletal system development	1.0	1.0	0.0	0.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+positive regulation of transcription from RNA polymerase II promoter	1.0	1.0	1.0	1.0	1.0
+"transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding"	1.0	1.0	1.0	1.0	1.0
+transcription factor complex	1.0	1.0	0.0	1.0	1.0
+pituitary gland development	1.0	1.0	1.0	1.0	0.0
+RNA polymerase II transcription factor binding	1.0	1.0	0.0	1.0	0.0

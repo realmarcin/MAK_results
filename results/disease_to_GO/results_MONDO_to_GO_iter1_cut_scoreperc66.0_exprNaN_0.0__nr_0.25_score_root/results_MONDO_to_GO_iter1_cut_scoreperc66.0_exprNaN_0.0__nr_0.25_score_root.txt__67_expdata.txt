@@ -1,0 +1,6 @@
+	hemolytic anemia due to diphosphoglycerate mutase deficiency	glycogen storage disease due to phosphoglycerate mutase deficiency	cortisone reductase deficiency 2	PGM3-CDG
+phosphoglycerate mutase activity	1.0	1.0	0.0	0.0
+"intramolecular transferase activity, phosphotransferases"	1.0	1.0	0.0	1.0
+bisphosphoglycerate mutase activity	1.0	1.0	0.0	0.0
+"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity"	1.0	1.0	0.0	0.0
+regulation of pentose-phosphate shunt	1.0	1.0	1.0	0.0

@@ -1,0 +1,4 @@
+	cleft lip-palate-ectodermal dysplasia syndrome	3MC syndrome 3	"mental retardation, X-linked 21"	van den Ende-Gupta syndrome	ectodermal dysplasia-syndactyly syndrome	"microphthalmia, isolated, with coloboma 9"	van Maldergem syndrome 2	Hennekam lymphangiectasia-lymphedema syndrome 2	"tremor, hereditary essential, 5; ETM5"	autosomal dominant nonsyndromic deafness 66
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+nephron development	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
+plasma membrane organization	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0

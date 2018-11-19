@@ -1,0 +1,6 @@
+	hypertrophic cardiomyopathy 4	hypogonadotropic hypogonadism 7 with or without anosmia	"mental retardation, autosomal dominant 20"	left ventricular noncompaction 10	myopathy due to Myoadenylate deaminase deficiency	"mental retardation, autosomal dominant 27"
+cardiac atrium formation	1.0	0.0	0.0	1.0	0.0	0.0
+myosin heavy chain binding	1.0	1.0	0.0	1.0	1.0	0.0
+striated muscle myosin thick filament	1.0	0.0	0.0	1.0	0.0	0.0
+myosin filament assembly	1.0	0.0	0.0	1.0	0.0	0.0
+cardiac ventricle formation	1.0	0.0	1.0	1.0	0.0	1.0

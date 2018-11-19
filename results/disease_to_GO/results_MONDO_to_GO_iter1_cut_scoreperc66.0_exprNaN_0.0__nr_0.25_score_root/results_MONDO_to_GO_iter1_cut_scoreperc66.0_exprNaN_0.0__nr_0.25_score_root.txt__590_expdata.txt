@@ -1,0 +1,7 @@
+	"autosomal dominant osteosclerosis, Worth type"	osteoporosis-pseudoglioma syndrome	exudative vitreoretinopathy 4	autosomal dominant osteopetrosis 1	Worth's syndrome
+metal ion binding	0.0	0.0	0.0	0.0	0.0
+embryonic viscerocranium morphogenesis	1.0	1.0	1.0	1.0	1.0
+anterior/posterior pattern specification	0.0	0.0	0.0	0.0	0.0
+smoothened signaling pathway	0.0	0.0	0.0	0.0	0.0
+Wnt-protein binding	1.0	1.0	1.0	1.0	1.0
+Wnt signaling pathway involved in dorsal/ventral axis specification	1.0	1.0	1.0	1.0	1.0

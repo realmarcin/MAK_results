@@ -1,0 +1,6 @@
+	autosomal dominant osteopetrosis 2	achromatopsia 2	severe early-childhood-onset retinal dystrophy	Dent disease type 1	MRX49	"hypophosphatemic rickets, X-linked recessive"	"proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis"	"nephrolithiasis, X-linked recessive, with renal failure"	autosomal recessive osteopetrosis 4	congenital stationary night blindness 1C	retinitis pigmentosa 49
+transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ion transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ion channel activity	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+transmembrane transport	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"synaptic transmission, glutamatergic"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

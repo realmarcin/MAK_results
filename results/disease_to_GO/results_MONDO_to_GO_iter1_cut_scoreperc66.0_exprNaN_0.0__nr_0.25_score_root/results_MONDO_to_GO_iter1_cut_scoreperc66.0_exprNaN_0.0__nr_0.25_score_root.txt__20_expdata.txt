@@ -1,0 +1,6 @@
+	syndromic X-linked intellectual disability 34	"prostate cancer, hereditary, 2"	combined oxidative phosphorylation defect type 17
+tRNA 3'-end processing	1.0	1.0	1.0
+3'-tRNA processing endoribonuclease activity	0.0	1.0	1.0
+"tRNA 3'-trailer cleavage, endonucleolytic"	0.0	1.0	1.0
+"mitochondrial tRNA 3'-trailer cleavage, endonucleolytic"	0.0	1.0	1.0
+tRNA-specific ribonuclease activity	0.0	1.0	1.0

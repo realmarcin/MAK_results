@@ -1,0 +1,6 @@
+"x"
+"1" "selenocysteine insertion sequence binding"
+"2" "selenocysteine incorporation"
+"3" "selenocysteinyl-tRNA(Sec) biosynthetic process"
+"4" "positive regulation of selenocysteine incorporation"
+"5" "transferase activity, transferring selenium-containing groups"

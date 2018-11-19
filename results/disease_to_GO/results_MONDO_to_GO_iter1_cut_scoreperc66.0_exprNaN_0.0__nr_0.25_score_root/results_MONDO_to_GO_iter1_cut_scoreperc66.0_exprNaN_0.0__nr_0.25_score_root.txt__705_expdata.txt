@@ -1,0 +1,8 @@
+	branchiooculofacial syndrome	"tooth agenesis, selective, 4"	SchC6pf-Schulz-Passarge syndrome	Odonto-onycho-dermal dysplasia	X-linked hypohidrotic ectodermal dysplasia	"tooth agenesis, selective, X-linked, 1"
+epidermis morphogenesis	1.0	1.0	1.0	1.0	0.0	0.0
+hair follicle development	0.0	1.0	1.0	1.0	1.0	1.0
+trans-Golgi network transport vesicle	0.0	0.0	0.0	0.0	0.0	0.0
+odontogenesis	0.0	1.0	1.0	1.0	1.0	1.0
+skin development	1.0	1.0	1.0	1.0	1.0	1.0
+skeletal muscle fiber development	0.0	0.0	0.0	0.0	0.0	0.0
+neuron differentiation	1.0	1.0	1.0	1.0	0.0	0.0

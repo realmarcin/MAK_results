@@ -1,0 +1,6 @@
+	Apert syndrome	Pfeiffer syndrome	hepatocellular carcinoma	Jackson-Weiss syndrome	Crouzon syndrome	Beare-Stevenson cutis gyrata syndrome	LADD syndrome	Antley-Bixler syndrome	familial pancreatic carcinoma	familial infantile bilateral striatal necrosis	isolated focal cortical dysplasia type II	"familial scaphocephaly syndrome, McGillivray type"	parietal foramina 2	frontonasal dysplasia with alopecia and genital anomaly	FGFR2-related bent bone dysplasia	"craniosynostosis 5, susceptibility to"	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+embryonic cranial skeleton morphogenesis	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+digestive tract development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+embryonic skeletal system morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0
+dorsal/ventral pattern formation	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to oxidative stress	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0

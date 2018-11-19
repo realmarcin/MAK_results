@@ -1,0 +1,10 @@
+	retinitis pigmentosa 14	retinitis pigmentosa 54	Leber congenital amaurosis 15	retinal dystrophy and obesity
+response to stimulus	1.0	1.0	1.0	1.0
+retina development in camera-type eye	1.0	1.0	1.0	1.0
+phosphatidylinositol binding	1.0	0.0	1.0	1.0
+cilium	1.0	1.0	1.0	1.0
+phagocytosis	1.0	0.0	1.0	1.0
+"phagocytosis, recognition"	1.0	0.0	1.0	1.0
+positive regulation of phagocytosis	1.0	0.0	1.0	1.0
+protein localization to photoreceptor outer segment	1.0	1.0	1.0	1.0
+receptor localization to non-motile cilium	1.0	0.0	1.0	1.0

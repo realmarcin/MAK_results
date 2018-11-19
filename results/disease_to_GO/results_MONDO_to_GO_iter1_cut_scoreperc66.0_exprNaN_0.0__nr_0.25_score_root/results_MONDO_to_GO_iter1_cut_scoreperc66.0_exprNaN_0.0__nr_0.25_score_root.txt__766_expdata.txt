@@ -1,0 +1,7 @@
+	patterned macular dystrophy 1	Curry-Jones syndrome	BCC1	retinitis pigmentosa 7	adult-onset foveomacular vitelliform dystrophy	"choroidal dystrophy, central areolar 2"
+integral component of membrane	1.0	1.0	1.0	1.0	1.0	1.0
+membrane	1.0	1.0	1.0	1.0	1.0	1.0
+retina development in camera-type eye	1.0	1.0	1.0	1.0	1.0	1.0
+anterior/posterior pattern specification	0.0	1.0	1.0	0.0	0.0	0.0
+smoothened signaling pathway	0.0	1.0	1.0	0.0	0.0	0.0
+cell surface receptor signaling pathway	1.0	1.0	1.0	1.0	1.0	1.0

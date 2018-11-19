@@ -1,0 +1,6 @@
+	familial glucocorticoid deficiency	oculocutaneous albinism type 2	"asthma, susceptibility to"	obesity (disease)	juvenile rheumatoid arthritis	"febrile seizures, familial, 4"	Usher syndrome type 2C	"mycobacterium tuberculosis, susceptibility to"	obesity due to pro-opiomelanocortin deficiency	extraskeletal myxoid chondrosarcoma	"melanoma, cutaneous malignant, susceptibility to, 5"
+regulation of glycogen metabolic process	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+melanocortin receptor activity	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+positive regulation of feeding behavior	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+melanocyte-stimulating hormone receptor activity	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+positive regulation of protein kinase A signaling	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0

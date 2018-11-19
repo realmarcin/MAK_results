@@ -1,0 +1,5 @@
+"x"
+"1" "COG4.CDG"
+"2" "COG5.CDG"
+"3" "COG6.CGD"
+"4" "hypohidrosis.enamel.hypoplasia.palmoplantar.keratoderma.intellectual.disability.syndrome"

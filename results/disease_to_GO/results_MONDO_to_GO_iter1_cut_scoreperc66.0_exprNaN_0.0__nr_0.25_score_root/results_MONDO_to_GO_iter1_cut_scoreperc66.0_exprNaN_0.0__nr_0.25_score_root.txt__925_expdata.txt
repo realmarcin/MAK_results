@@ -1,0 +1,6 @@
+	autosomal dominant limb-girdle muscular dystrophy type 1A	spheroid body myopathy	myofibrillar myopathy 2	myofibrillar myopathy 3	myofibrillar myopathy 6	cataract 16 multiple types	hypertrophic cardiomyopathy 16	myofibrillar myopathy 7	dilated cardiomyopathy 1HH	dilated cardiomyopathy 1II	cataract 43	autosomal recessive limb-girdle muscular dystrophy type 2W
+actin binding	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+heart contraction	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
+Z disc	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+myofibril assembly	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+ventricular cardiac myofibril assembly	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

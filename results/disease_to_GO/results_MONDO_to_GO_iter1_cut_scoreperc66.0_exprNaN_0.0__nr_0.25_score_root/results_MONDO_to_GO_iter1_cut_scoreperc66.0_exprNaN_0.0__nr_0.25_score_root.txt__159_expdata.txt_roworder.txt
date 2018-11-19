@@ -1,0 +1,6 @@
+"x"
+"1" "microcephaly..seizures..and.developmental.delay"
+"2" "ataxia.oculomotor.apraxia.type.4"
+"3" "reticular.dysgenesis"
+"4" "pontocerebellar.hypoplasia.type.10"
+"5" "pontocerebellar.hypoplasia.type.2B"

@@ -1,0 +1,10 @@
+	"candidiasis, familial, 5"	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency	hypogonadotropic hypogonadism 18 with or without anosmia	"candidiasis, familial, 9"
+plasma membrane	1.0	0.0	1.0	1.0
+integral component of plasma membrane	1.0	0.0	1.0	1.0
+integral component of membrane	1.0	0.0	1.0	1.0
+membrane	1.0	0.0	1.0	1.0
+receptor binding	1.0	0.0	0.0	1.0
+defense response to fungus	1.0	0.0	0.0	1.0
+interleukin-17 receptor activity	1.0	0.0	1.0	1.0
+positive regulation of cytokine production involved in inflammatory response	1.0	0.0	0.0	1.0
+granulocyte chemotaxis	1.0	0.0	0.0	1.0

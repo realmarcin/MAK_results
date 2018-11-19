@@ -1,0 +1,8 @@
+"x"
+"1" "isolated.spina.bifida"
+"2" "retinitis.pigmentosa.51"
+"3" "Bardet.Biedl.syndrome.8"
+"4" "van.Maldergem.syndrome.2"
+"5" "Hennekam.lymphangiectasia.lymphedema.syndrome.2"
+"6" "nephronophthisis.2"
+"7" "Meckel.syndrome..type.10"

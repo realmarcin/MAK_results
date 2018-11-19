@@ -1,0 +1,8 @@
+	beta-ketothiolase deficiency	Succinyl-CoA:3-ketoacid CoA transferase deficiency	pyruvate dehydrogenase E3 deficiency	malonic aciduria
+propionyl-CoA biosynthetic process	1.0	0.0	0.0	0.0
+carbon-carbon lyase activity	1.0	0.0	0.0	0.0
+acetyl-CoA biosynthetic process	1.0	0.0	0.0	1.0
+acetyl-CoA catabolic process	1.0	0.0	0.0	0.0
+"ligase activity, forming carbon-carbon bonds"	1.0	0.0	0.0	0.0
+isoleucine catabolic process	1.0	0.0	1.0	0.0
+ketone body catabolic process	1.0	1.0	0.0	0.0

@@ -1,0 +1,11 @@
+	Burkitts lymphoma	Wolcott-Rallison syndrome	pulmonary capillary hemangiomatosis	familial episodic pain syndrome with predominantly upper body involvement
+eukaryotic initiation factor eIF2 binding	1.0	1.0	1.0	0.0
+eiF2alpha phosphorylation in response to endoplasmic reticulum stress	0.0	1.0	1.0	0.0
+cellular response to cold	0.0	1.0	1.0	1.0
+eukaryotic translation initiation factor 2alpha kinase activity	0.0	1.0	1.0	0.0
+regulation of translational initiation by eIF2 alpha phosphorylation	0.0	1.0	1.0	0.0
+viral translation	0.0	0.0	1.0	0.0
+regulation of eIF2 alpha phosphorylation by amino acid starvation	0.0	0.0	1.0	0.0
+induction by virus of host autophagy	0.0	0.0	1.0	0.0
+regulation of translational initiation in response to stress	0.0	0.0	1.0	0.0
+negative regulation of translational initiation in response to stress	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "proteinaceous extracellular matrix"
+"2" "extracellular region"
+"3" "biomineral tissue development"
+"4" "positive regulation of enamel mineralization"
+"5" "cellular response to cell-matrix adhesion"

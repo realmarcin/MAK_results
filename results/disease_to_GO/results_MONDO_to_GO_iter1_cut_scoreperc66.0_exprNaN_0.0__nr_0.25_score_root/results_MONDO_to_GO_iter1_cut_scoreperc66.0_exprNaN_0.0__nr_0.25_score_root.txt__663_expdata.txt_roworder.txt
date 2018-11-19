@@ -1,0 +1,7 @@
+"x"
+"1" "hypogonadotropic.hypogonadism.7.with.or.without.anosmia"
+"2" "lung.cancer"
+"3" "hypomyelinating.leukodystrophy.7.with.or.without.oligodontia.and.or.hypogonadotropic.hypogonadism"
+"4" "gastric.cancer"
+"5" "hypomyelinating.leukodystrophy.8.with.or.without.oligodontia.and.or.hypogonadotropic.hypogonadism"
+"6" "myocardial.infarction..susceptibility.to"

@@ -1,0 +1,7 @@
+"x"
+"1" "familial.cerebral.cavernous.malformation"
+"2" "xanthinuria.type.I"
+"3" "telangiectasia..hereditary.hemorrhagic..type.5"
+"4" "congenital.heart.defects..multiple.types..4"
+"5" "hypomyelinating.leukodystrophy.3"
+"6" "osteogenesis.imperfecta.type.17"

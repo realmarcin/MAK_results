@@ -1,0 +1,18 @@
+	pilomatrixoma	medulloblastoma	SPOAN syndrome	severe intellectual disability-progressive spastic diplegia syndrome	advanced sleep phase syndrome 2
+adherens junction	1.0	1.0	0.0	1.0	0.0
+ectoderm development	1.0	1.0	0.0	1.0	0.0
+dorsal/ventral pattern formation	1.0	1.0	0.0	1.0	0.0
+intercalated disc	1.0	1.0	0.0	1.0	0.0
+convergent extension	1.0	1.0	0.0	1.0	0.0
+microvillus	1.0	1.0	0.0	1.0	0.0
+cell cortex	1.0	1.0	0.0	1.0	0.0
+canonical Wnt signaling pathway	1.0	1.0	0.0	1.0	0.0
+catenin complex	1.0	1.0	0.0	1.0	0.0
+cell-cell adherens junction	1.0	1.0	0.0	1.0	0.0
+determination of dorsal/ventral asymmetry	1.0	1.0	0.0	1.0	0.0
+zonula adherens	1.0	1.0	0.0	1.0	0.0
+embryonic axis specification	1.0	1.0	0.0	1.0	0.0
+protein phosphatase binding	1.0	1.0	0.0	1.0	0.0
+alpha-catenin binding	1.0	1.0	0.0	1.0	0.0
+glomerular filtration	1.0	1.0	0.0	1.0	0.0
+adherens junction assembly	1.0	1.0	0.0	1.0	0.0

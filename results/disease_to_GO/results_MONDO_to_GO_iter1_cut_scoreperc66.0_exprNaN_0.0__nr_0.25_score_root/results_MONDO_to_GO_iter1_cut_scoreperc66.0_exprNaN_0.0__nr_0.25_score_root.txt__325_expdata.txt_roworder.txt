@@ -1,0 +1,7 @@
+"x"
+"1" "Gnathodiaphyseal.dysplasia"
+"2" "Scott.syndrome"
+"3" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2L"
+"4" "distal.anoctaminopathy"
+"5" "dystonia.24"
+"6" "THC3"

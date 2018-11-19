@@ -1,0 +1,7 @@
+	immunodeficiency 27A	cataract 40	Nance-Horan syndrome	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency	autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency
+cell junction	0.0	1.0	1.0	0.0	0.0
+Golgi apparatus	0.0	1.0	1.0	0.0	0.0
+cell differentiation	0.0	1.0	1.0	0.0	0.0
+lens development in camera-type eye	0.0	1.0	1.0	0.0	0.0
+nuclear body	0.0	1.0	1.0	0.0	0.0
+cytokine binding	1.0	0.0	0.0	1.0	1.0

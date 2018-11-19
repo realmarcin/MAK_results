@@ -1,0 +1,7 @@
+"x"
+"1" "hypertrophic.cardiomyopathy.4"
+"2" "left.ventricular.noncompaction.10"
+"3" "hypogonadotropic.hypogonadism.7.with.or.without.anosmia"
+"4" "mental.retardation..autosomal.dominant.20"
+"5" "myopathy.due.to.Myoadenylate.deaminase.deficiency"
+"6" "mental.retardation..autosomal.dominant.27"

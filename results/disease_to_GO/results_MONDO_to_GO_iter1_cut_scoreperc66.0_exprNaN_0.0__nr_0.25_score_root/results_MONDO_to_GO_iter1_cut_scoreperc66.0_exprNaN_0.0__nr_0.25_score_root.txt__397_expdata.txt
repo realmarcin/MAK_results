@@ -1,0 +1,5 @@
+	tibial muscular dystrophy	hereditary proximal myopathy with early respiratory failure	dilated cardiomyopathy 1G	autosomal recessive limb-girdle muscular dystrophy type 2J	early-onset myopathy with fatal cardiomyopathy	dilated cardiomyopathy 1CC	hypertrophic cardiomyopathy 9	hypertrophic cardiomyopathy 20
+A band	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+I band	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
+cardiac muscle fiber development	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+protein kinase A signaling	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Golgi-associated vesicle membrane"
+"2" "negative regulation of amyloid precursor protein biosynthetic process"
+"3" "integral component of organelle membrane"

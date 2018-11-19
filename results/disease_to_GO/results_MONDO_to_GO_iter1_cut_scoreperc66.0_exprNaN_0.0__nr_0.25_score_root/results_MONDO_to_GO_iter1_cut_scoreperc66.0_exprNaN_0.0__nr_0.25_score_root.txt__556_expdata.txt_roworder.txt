@@ -1,0 +1,5 @@
+"x"
+"1" "Riley.Day.syndrome"
+"2" "mental.retardation..autosomal.recessive.58..MRT58"
+"3" "facial.dysmorphism.developmental.delay.behavioral.abnormalities.syndrome.due.to.WAC.point.mutation"
+"4" "trichothiodystrophy.6..nonphotosensitive..TTD6"

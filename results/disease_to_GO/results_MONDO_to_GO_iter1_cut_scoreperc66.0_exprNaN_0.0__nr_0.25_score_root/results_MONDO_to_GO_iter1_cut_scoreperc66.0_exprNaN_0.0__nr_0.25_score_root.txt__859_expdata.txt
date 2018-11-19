@@ -1,0 +1,8 @@
+	"hepatitis c virus, susceptibility to"	"West nile virus, susceptibility to"	type 1 diabetes mellitus 22	"agammaglobulinemia 4, autosomal recessive"	osteogenesis imperfecta type 6	mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency
+plasma membrane	1.0	1.0	1.0	1.0	0.0	0.0
+membrane	1.0	1.0	1.0	1.0	0.0	0.0
+protein binding	1.0	1.0	1.0	1.0	0.0	0.0
+cytoplasm	1.0	1.0	1.0	1.0	0.0	0.0
+immune response	1.0	1.0	1.0	1.0	0.0	1.0
+cytokine-mediated signaling pathway	1.0	1.0	1.0	0.0	0.0	1.0
+negative regulation of angiogenesis	1.0	1.0	1.0	0.0	1.0	0.0

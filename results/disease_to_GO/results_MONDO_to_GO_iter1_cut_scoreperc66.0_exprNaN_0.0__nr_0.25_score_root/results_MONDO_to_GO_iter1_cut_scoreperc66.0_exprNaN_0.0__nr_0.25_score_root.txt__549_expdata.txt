@@ -1,0 +1,7 @@
+	arteriovenous malformations of the brain	"Kaposi sarcoma, susceptibility to"	inflammatory bowel disease 1	juvenile rheumatoid arthritis
+cytoplasm	0.0	0.0	1.0	1.0
+nucleus	0.0	0.0	0.0	1.0
+extracellular region	1.0	1.0	1.0	1.0
+immune response	1.0	1.0	1.0	1.0
+interleukin-6 receptor binding	1.0	1.0	1.0	1.0
+protein homotrimerization	0.0	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+	Antley-Bixler syndrome with genital anomalies and Disordered steroidogenesis	congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	Antley-Bixler syndrome	congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency
+molecular_function	0.0	1.0	0.0	0.0
+metabolic process	0.0	1.0	0.0	0.0
+pigmentation	0.0	1.0	0.0	0.0
+steroid biosynthetic process	1.0	1.0	1.0	1.0
+mitochondrial intermembrane space	0.0	1.0	0.0	0.0
+embryonic morphogenesis	0.0	1.0	0.0	0.0
+response to stilbenoid	0.0	1.0	0.0	0.0

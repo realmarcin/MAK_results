@@ -1,0 +1,5 @@
+"x"
+"1" "protein quality control for misfolded or incompletely synthesized proteins"
+"2" "ATP-dependent peptidase activity"
+"3" "mitochondrial protein catabolic process"
+"4" "i-AAA complex"

@@ -1,0 +1,4 @@
+	Subependymoma	Succinyl-CoA:3-ketoacid CoA transferase deficiency	d-2-Hydroxyglutaric aciduria 2
+isocitrate dehydrogenase (NADP+) activity	1.0	0.0	1.0
+glyoxylate cycle	1.0	0.0	1.0
+isocitrate dehydrogenase activity	1.0	0.0	1.0

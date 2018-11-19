@@ -1,0 +1,12 @@
+	spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Farber lipogranulomatosis	Niemann-Pick disease type A	Tay-Sachs disease AB variant	Niemann-Pick disease type B	"autoimmune disease, susceptibility to, 6"
+metabolic process	0.0	0.0	1.0	0.0	1.0	0.0
+positive regulation of apoptotic process	0.0	0.0	1.0	0.0	1.0	0.0
+negative regulation of MAP kinase activity	0.0	0.0	1.0	0.0	1.0	0.0
+positive regulation of protein dephosphorylation	0.0	0.0	1.0	0.0	1.0	0.0
+termination of signal transduction	0.0	0.0	1.0	0.0	1.0	0.0
+ceramide biosynthetic process	0.0	0.0	1.0	0.0	1.0	0.0
+response to cocaine	0.0	0.0	1.0	0.0	1.0	0.0
+sphingomyelin phosphodiesterase activity	0.0	0.0	1.0	0.0	1.0	0.0
+sphingomyelin catabolic process	0.0	0.0	1.0	0.0	1.0	0.0
+lamellar body	0.0	0.0	1.0	0.0	1.0	0.0
+acid sphingomyelin phosphodiesterase activity	0.0	0.0	1.0	0.0	1.0	0.0

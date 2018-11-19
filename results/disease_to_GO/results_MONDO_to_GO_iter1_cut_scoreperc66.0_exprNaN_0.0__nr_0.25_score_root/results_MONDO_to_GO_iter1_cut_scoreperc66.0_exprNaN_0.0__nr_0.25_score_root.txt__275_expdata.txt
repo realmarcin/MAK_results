@@ -1,0 +1,6 @@
+	chromosome 5q deletion syndrome	autoimmune polyendocrine syndrome type 1	myotonic dystrophy type 2	spinocerebellar ataxia type 26	complex cortical dysplasia with other brain malformations 4
+small ribosomal subunit rRNA binding	1.0	0.0	0.0	0.0	0.0
+translation regulator activity	1.0	1.0	1.0	0.0	0.0
+polysomal ribosome	0.0	0.0	1.0	1.0	0.0
+positive regulation of cytoplasmic translation	0.0	0.0	1.0	1.0	1.0
+positive regulation of translational elongation	0.0	0.0	0.0	1.0	0.0

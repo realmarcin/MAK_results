@@ -1,0 +1,5 @@
+	gamma-glutamylcysteine synthetase deficiency	autosomal recessive juvenile Parkinson disease 2	LPRS2	"epilepsy, progressive myoclonic, 1B"	syndromic multisystem autoimmune disease due to itch deficiency	orofacial cleft 10	young adult-onset distal hereditary motor neuropathy	nemaline myopathy 8	autosomal recessive spinocerebellar ataxia 16	Bardet-Biedl syndrome 7	Tenorio syndrome	Charcot-Marie-tooth disease type 2Y	Charcot-Marie-tooth disease axonal type 2T	periventricular nodular heterotopia 7; PVNH7	"neurodevelopmental disorder with hypotonia, seizures, and absent language; NDHSAL"
+skin morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+neuron cellular homeostasis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+lysosomal membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

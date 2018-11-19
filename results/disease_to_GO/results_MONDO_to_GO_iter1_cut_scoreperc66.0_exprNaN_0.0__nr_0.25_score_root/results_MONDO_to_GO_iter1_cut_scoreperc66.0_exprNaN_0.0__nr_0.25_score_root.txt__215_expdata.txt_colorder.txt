@@ -1,0 +1,7 @@
+"x"
+"1" "receptor signaling complex scaffold activity"
+"2" "axial mesoderm formation"
+"3" "canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation"
+"4" "Wnt-activated signaling pathway involved in forebrain neuron fate commitment"
+"5" "neural plate anterior/posterior regionalization"
+"6" "optic placode formation"

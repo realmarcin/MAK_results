@@ -1,0 +1,7 @@
+"x"
+"1" "nucleus"
+"2" "mRNA processing"
+"3" "mRNA splicing, via spliceosome"
+"4" "RNA splicing"
+"5" "spliceosomal complex"
+"6" "phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway"

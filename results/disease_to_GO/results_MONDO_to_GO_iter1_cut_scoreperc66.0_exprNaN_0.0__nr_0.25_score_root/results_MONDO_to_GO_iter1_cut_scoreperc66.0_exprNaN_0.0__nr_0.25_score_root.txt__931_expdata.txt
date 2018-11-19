@@ -1,0 +1,7 @@
+	Gamstorp-Wohlfart syndrome	scalp-ear-nipple syndrome	synovial sarcoma (disease)	"X-linked intellectual disability, Cantagrel type"	lymphedema-posterior choanal atresia syndrome	"mental retardation, autosomal recessive 18"	CIDEC-related familial partial lipodystrophy	"trichothiodystrophy 3, photosensitive"	spinal muscular atrophy with congenital bone fractures 2	immunodeficiency-centromeric instability-facial anomalies syndrome 3	retinal dystrophy with or without extraocular anomalies; RDEOA
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA binding transcription factor activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RNA polymerase II regulatory region sequence-specific DNA binding	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

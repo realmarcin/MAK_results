@@ -1,0 +1,4 @@
+"x"
+"1" "positive regulation of inositol phosphate biosynthetic process"
+"2" "G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger"
+"3" "parathyroid hormone receptor activity"

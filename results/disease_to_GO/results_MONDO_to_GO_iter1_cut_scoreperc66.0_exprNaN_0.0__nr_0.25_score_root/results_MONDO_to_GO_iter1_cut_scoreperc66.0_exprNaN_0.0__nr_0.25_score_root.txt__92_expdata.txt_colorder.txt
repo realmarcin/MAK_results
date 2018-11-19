@@ -1,0 +1,6 @@
+"x"
+"1" "thiamine transmembrane transport"
+"2" "thiamine transmembrane transporter activity"
+"3" "vitamin transport"
+"4" "thiamine transport"
+"5" "thiamine pyrophosphate transmembrane transport"

@@ -1,0 +1,13 @@
+	Fanconi anemia complementation group j	Meier-Gorlin syndrome 2	Meier-Gorlin syndrome 3	Meier-Gorlin syndrome 7; MGORS7	Fanconi anemia complementation group U
+negative regulation of cell proliferation	1.0	0.0	0.0	0.0	0.0
+negative regulation of gene expression	1.0	0.0	0.0	0.0	0.0
+spermatogenesis	1.0	0.0	0.0	0.0	0.0
+nuclear membrane	1.0	0.0	0.0	0.0	0.0
+male gonad development	1.0	0.0	0.0	0.0	0.0
+seminiferous tubule development	1.0	0.0	0.0	0.0	0.0
+chiasma assembly	1.0	0.0	0.0	0.0	0.0
+double-strand break repair involved in meiotic recombination	1.0	0.0	0.0	0.0	0.0
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination	1.0	0.0	0.0	0.0	0.0
+synapsis	1.0	0.0	0.0	0.0	0.0
+spermatid development	1.0	0.0	0.0	0.0	0.0
+spermatogonial cell division	1.0	0.0	0.0	0.0	0.0

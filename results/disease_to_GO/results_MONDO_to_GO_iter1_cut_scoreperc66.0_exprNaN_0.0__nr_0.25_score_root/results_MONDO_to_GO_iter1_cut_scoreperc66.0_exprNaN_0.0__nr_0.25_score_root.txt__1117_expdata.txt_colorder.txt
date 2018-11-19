@@ -1,0 +1,7 @@
+"x"
+"1" "amyloid-beta complex"
+"2" "T-tubule organization"
+"3" "superoxide dismutase activity"
+"4" "calcium-dependent phospholipid binding"
+"5" "plasma membrane repair"
+"6" "cell wall repair"

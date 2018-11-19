@@ -1,0 +1,15 @@
+	porencephaly 1	retinal arterial tortuosity (disease)	"deafness, X-linked 6"	X-linked Alport syndrome	COL4A1-related familial vascular leukoencephalopathy	autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome
+brain development	1.0	1.0	0.0	0.0	1.0	1.0
+extracellular matrix	1.0	1.0	0.0	0.0	1.0	1.0
+angiogenesis	1.0	1.0	0.0	0.0	1.0	1.0
+blood vessel morphogenesis	1.0	1.0	0.0	0.0	1.0	1.0
+extracellular space	1.0	1.0	0.0	0.0	1.0	1.0
+neuromuscular junction	0.0	0.0	0.0	1.0	0.0	0.0
+platelet-derived growth factor binding	1.0	1.0	0.0	0.0	1.0	1.0
+retinal ganglion cell axon guidance	1.0	1.0	0.0	1.0	1.0	1.0
+branching involved in blood vessel morphogenesis	1.0	1.0	0.0	0.0	1.0	1.0
+axon target recognition	1.0	1.0	0.0	1.0	1.0	1.0
+neuromuscular junction development	1.0	1.0	0.0	1.0	1.0	1.0
+retinal blood vessel morphogenesis	1.0	1.0	0.0	0.0	1.0	1.0
+renal tubule morphogenesis	1.0	1.0	0.0	0.0	1.0	1.0
+basal lamina	0.0	0.0	0.0	1.0	0.0	0.0

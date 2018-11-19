@@ -1,0 +1,5 @@
+"x"
+"1" "Takenouchi.Kosaki.syndrome..TKS"
+"2" "hypophosphatemic.nephrolithiasis.osteoporosis.2"
+"3" "autosomal.recessive.nonsyndromic.deafness.104"
+"4" "Iga.nephropathy..susceptibility.to..3..IGAN3"

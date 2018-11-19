@@ -1,0 +1,7 @@
+	brachydactyly type A2	"acromesomelic dysplasia, Demirhan type"	"microphthalmia, isolated, with coloboma 6"	progressive retinal dystrophy due to retinol transport defect	colobomatous microphthalmia-rhizomelic dysplasia syndrome	"microphthalmia, isolated, with coloboma 10"	brachydactyly type A1D
+camera-type eye development	1.0	1.0	1.0	0.0	1.0	0.0	1.0
+cellular response to leukemia inhibitory factor	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+retina development in camera-type eye	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+eye photoreceptor cell development	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+eye development	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+lens development in camera-type eye	0.0	0.0	0.0	0.0	1.0	0.0	0.0

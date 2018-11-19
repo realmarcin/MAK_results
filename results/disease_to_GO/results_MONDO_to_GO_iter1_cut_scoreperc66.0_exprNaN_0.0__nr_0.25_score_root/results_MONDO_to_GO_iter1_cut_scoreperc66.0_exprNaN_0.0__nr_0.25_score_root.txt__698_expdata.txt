@@ -1,0 +1,8 @@
+	"mental retardation, X-linked 102"	TARP syndrome	autosomal recessive distal spinal muscular atrophy 1	Charcot-Marie-tooth disease axonal type 2S	Singleton-Merten syndrome 2	platelet-type bleeding disorder 20
+cell projection	0.0	0.0	1.0	1.0	1.0	0.0
+negative regulation of transcription from RNA polymerase II promoter	0.0	1.0	1.0	1.0	0.0	0.0
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0
+metal ion binding	1.0	1.0	1.0	1.0	1.0	0.0
+RNA binding	1.0	1.0	1.0	1.0	1.0	0.0
+translation	1.0	0.0	1.0	1.0	0.0	0.0
+nucleic acid binding	1.0	1.0	1.0	1.0	1.0	0.0

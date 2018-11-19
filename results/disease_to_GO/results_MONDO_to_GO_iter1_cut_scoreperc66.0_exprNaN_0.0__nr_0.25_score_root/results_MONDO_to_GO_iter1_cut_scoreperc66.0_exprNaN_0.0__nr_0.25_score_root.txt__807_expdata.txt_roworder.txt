@@ -1,0 +1,6 @@
+"x"
+"1" "primary.CD59.deficiency"
+"2" "mal.de.Meleda"
+"3" "amyotrophic.lateral.sclerosis.type.9"
+"4" "hemochromatosis.type.2B"
+"5" "Mannose.Binding.protein.deficiency"

@@ -1,0 +1,7 @@
+"x"
+"1" "glutamate metabolic process"
+"2" "glutamate binding"
+"3" "response to heat"
+"4" "coenzyme binding"
+"5" "glutamate-cysteine ligase complex"
+"6" "negative regulation of protein ubiquitination"

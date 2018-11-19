@@ -1,0 +1,7 @@
+"x"
+"1" "positive regulation of integrin-mediated signaling pathway"
+"2" "negative regulation of T-helper 17 cell lineage commitment"
+"3" "protein-lysine 6-oxidase activity"
+"4" "peptidyl-lysine oxidation"
+"5" "oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor"
+"6" "fibronectin fibril organization"

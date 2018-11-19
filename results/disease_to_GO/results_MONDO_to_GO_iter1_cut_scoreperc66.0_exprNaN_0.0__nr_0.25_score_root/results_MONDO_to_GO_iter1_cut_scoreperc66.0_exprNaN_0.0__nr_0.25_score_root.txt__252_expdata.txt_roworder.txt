@@ -1,0 +1,4 @@
+"x"
+"1" "congenital.ptosis..disease."
+"2" "Shashi.Pena.syndrome..SHAPNS"
+"3" "woolly.hair.palmoplantar.keratoderma.syndrome"

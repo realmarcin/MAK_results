@@ -1,0 +1,5 @@
+"x"
+"1" "microphthalmia..syndromic.1"
+"2" "accelerated.tumor.formation..susceptibility.to"
+"3" "Ogden.syndrome"
+"4" "retinitis.pigmentosa.26"

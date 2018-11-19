@@ -1,0 +1,6 @@
+	Albright's hereditary osteodystrophy	progressive osseous heteroplasia	polyostotic fibrous dysplasia	Cushing syndrome due to macronodular adrenal hyperplasia	sulfite oxidase deficiency due to molybdenum cofactor deficiency type a	"Phosphoenolpyruvate carboxykinase deficiency, mitochondrial"	"Phosphoenolpyruvate carboxykinase deficiency, cytosolic"	hyperinsulinism-hyperammonemia syndrome	pseudohypoparathyroidism type 1C	pseudopseudohypoparathyroidism	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 14"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 14"	autosomal recessive limb-girdle muscular dystrophy type 2T	primary ciliary dyskinesia 28	"alacrima, achalasia, and mental retardation syndrome"
+plasma membrane	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+nucleotide binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+isomerase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+peptidyl-prolyl cis-trans isomerase activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+GTP binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

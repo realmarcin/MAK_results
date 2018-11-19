@@ -1,0 +1,5 @@
+"x"
+"1" "Parkinson.disease.18..autosomal.dominant..susceptibility.to"
+"2" "hypoparathyroidism..familial.isolated"
+"3" "obesity..disease."
+"4" "autism..susceptibility.to..19"

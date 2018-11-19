@@ -1,0 +1,4 @@
+"x"
+"1" "epileptic.encephalopathy..early.infantile..44..EIEE44"
+"2" "spinocerebellar.ataxia..autosomal.recessive.24..SCAR24"
+"3" "infantile.onset.X.linked.spinal.muscular.atrophy"

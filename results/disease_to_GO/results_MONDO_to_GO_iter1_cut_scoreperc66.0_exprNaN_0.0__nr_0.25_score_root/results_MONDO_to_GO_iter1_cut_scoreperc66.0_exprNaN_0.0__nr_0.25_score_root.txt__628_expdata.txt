@@ -1,0 +1,6 @@
+	"acroleukopathy, symmetric"	growth hormone secreting pituitary adenoma	ACTH-secreting pituitary adenoma	metaphyseal chondrodysplasia-retinitis pigmentosa syndrome	osteogenesis imperfecta type 9	Bruck syndrome 1	prolactin-producing pituitary gland adenoma	Leber congenital amaurosis 4	endogenous depression	osteogenesis imperfecta type 11	"Ehlers-Danlos syndrome, kyphoscoliotic and deafness type"
+isomerase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+peptidyl-prolyl cis-trans isomerase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+histone peptidyl-prolyl isomerization	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+FK506 binding	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0
+peptidyl-proline modification	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0

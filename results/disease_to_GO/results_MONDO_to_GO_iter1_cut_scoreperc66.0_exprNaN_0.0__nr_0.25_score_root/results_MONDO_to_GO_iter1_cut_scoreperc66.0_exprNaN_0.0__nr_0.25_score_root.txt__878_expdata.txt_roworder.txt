@@ -1,0 +1,7 @@
+"x"
+"1" "colorectal.adenocarcinoma"
+"2" "familial.meningioma"
+"3" "diabetes.mellitus..Noninsulin.dependent"
+"4" "prostate.cancer"
+"5" "wolf.Hirschhorn.syndrome"
+"6" "myoclonic.dystonia.11"

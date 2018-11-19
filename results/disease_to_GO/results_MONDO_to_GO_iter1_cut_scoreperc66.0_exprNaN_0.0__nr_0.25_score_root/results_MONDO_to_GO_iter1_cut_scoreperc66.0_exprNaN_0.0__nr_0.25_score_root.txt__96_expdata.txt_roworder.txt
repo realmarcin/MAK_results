@@ -1,0 +1,5 @@
+"x"
+"1" "hemolytic.anemia.due.to.adenylate.kinase.deficiency"
+"2" "reticular.dysgenesis"
+"3" "neuroblastoma..susceptibility.to"
+"4" "ataxia.telangiectasia.like.disorder.1"

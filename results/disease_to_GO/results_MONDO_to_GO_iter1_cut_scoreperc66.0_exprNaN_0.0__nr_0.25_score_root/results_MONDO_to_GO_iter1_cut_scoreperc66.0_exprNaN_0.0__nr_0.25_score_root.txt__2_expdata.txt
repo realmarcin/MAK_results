@@ -1,0 +1,4 @@
+	short stature-delayed bone age due to thyroid hormone metabolism deficiency	short stature-optic atrophy-Pelger-HuC+t anomaly syndrome	fever-associated acute infantile liver failure syndrome
+"negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"	1.0	1.0	1.0
+Dsl1/NZR complex	0.0	1.0	1.0
+nuclear-transcribed mRNA catabolic process	0.0	1.0	1.0

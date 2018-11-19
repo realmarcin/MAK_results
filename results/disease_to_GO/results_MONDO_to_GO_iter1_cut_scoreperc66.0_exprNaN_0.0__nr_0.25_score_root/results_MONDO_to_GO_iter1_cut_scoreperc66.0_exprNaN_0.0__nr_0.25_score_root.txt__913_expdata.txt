@@ -1,0 +1,15 @@
+	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 1"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 2"	Frank-Ter Haar syndrome	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 3"
+cytoplasm	1.0	0.0	1.0	0.0
+oxidation-reduction process	1.0	0.0	1.0	0.0
+trans-Golgi network	0.0	0.0	0.0	1.0
+defense response to fungus	1.0	0.0	0.0	0.0
+superoxide metabolic process	1.0	0.0	1.0	0.0
+phosphatidylinositol binding	1.0	0.0	1.0	1.0
+vesicle-mediated transport	0.0	0.0	0.0	1.0
+podosome	1.0	0.0	1.0	0.0
+superoxide-generating NADPH oxidase activity	1.0	1.0	1.0	0.0
+superoxide-generating NADPH oxidase activator activity	1.0	1.0	1.0	1.0
+respiratory burst	1.0	1.0	0.0	1.0
+NADPH oxidase complex	0.0	1.0	0.0	1.0
+podosome assembly	1.0	0.0	1.0	0.0
+ARF guanyl-nucleotide exchange factor activity	0.0	0.0	0.0	1.0

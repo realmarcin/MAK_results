@@ -1,0 +1,9 @@
+	Succinyl-CoA:3-ketoacid CoA transferase deficiency	pyridoxine-dependent epilepsy	"cerebral palsy, spastic quadriplegic, 1"	aromatic L-amino acid decarboxylase deficiency
+cytoplasm	0.0	1.0	1.0	1.0
+cartilage development	0.0	1.0	0.0	0.0
+mitochondrion	1.0	1.0	1.0	0.0
+camera-type eye development	0.0	1.0	0.0	0.0
+oxidoreductase activity	0.0	1.0	0.0	0.0
+pectoral fin development	0.0	1.0	0.0	0.0
+L-aminoadipate-semialdehyde dehydrogenase activity	0.0	1.0	0.0	0.0
+betaine-aldehyde dehydrogenase activity	0.0	1.0	0.0	0.0

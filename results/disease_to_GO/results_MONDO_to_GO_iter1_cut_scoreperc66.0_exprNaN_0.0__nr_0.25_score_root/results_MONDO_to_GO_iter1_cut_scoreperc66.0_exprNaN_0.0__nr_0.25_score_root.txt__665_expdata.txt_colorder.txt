@@ -1,0 +1,8 @@
+"x"
+"1" "positive regulation of DNA binding transcription factor activity"
+"2" "axon regeneration"
+"3" "non-membrane spanning protein tyrosine kinase activity"
+"4" "platelet-derived growth factor receptor signaling pathway"
+"5" "positive regulation of apoptotic signaling pathway"
+"6" "regulation of synaptic transmission, GABAergic"
+"7" "protein serine/threonine phosphatase activity"

@@ -1,0 +1,7 @@
+"x"
+"1" "metal ion transmembrane transporter activity"
+"2" "metal ion transport"
+"3" "zinc II ion transmembrane import"
+"4" "cellular response to zinc ion starvation"
+"5" "ferrous iron transmembrane transporter activity"
+"6" "manganese ion homeostasis"

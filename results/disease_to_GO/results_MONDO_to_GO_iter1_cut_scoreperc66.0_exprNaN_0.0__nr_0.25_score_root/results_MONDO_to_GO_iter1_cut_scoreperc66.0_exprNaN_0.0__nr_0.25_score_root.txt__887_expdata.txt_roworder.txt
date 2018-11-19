@@ -1,0 +1,5 @@
+"x"
+"1" "heart.defect.tongue.hamartoma.polysyndactyly.syndrome"
+"2" "Bardet.Biedl.syndrome.15"
+"3" "acrofacial.dysostosis..Weyers.type"
+"4" "Ellis.van.Creveld.syndrome"

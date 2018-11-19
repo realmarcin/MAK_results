@@ -1,0 +1,7 @@
+"x"
+"1" "mycobacterium.tuberculosis..susceptibility.to"
+"2" "tuberous.sclerosis.2"
+"3" "idiopathic.aplastic.anemia"
+"4" "susceptibility.to.HIV.infection"
+"5" "hepatitis.c.virus..susceptibility.to"
+"6" "myostatin.related.muscle.hypertrophy"

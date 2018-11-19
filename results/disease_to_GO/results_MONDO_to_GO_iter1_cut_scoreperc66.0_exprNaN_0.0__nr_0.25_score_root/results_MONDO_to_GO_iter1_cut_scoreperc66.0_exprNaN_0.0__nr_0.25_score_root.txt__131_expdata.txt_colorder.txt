@@ -1,0 +1,5 @@
+"x"
+"1" "C-8 sterol isomerase activity"
+"2" "steroid delta-isomerase activity"
+"3" "cholestenol delta-isomerase activity"
+"4" "opioid receptor activity"

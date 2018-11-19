@@ -1,0 +1,7 @@
+"x"
+"1" "bilateral.striopallidodentate.calcinosis"
+"2" "gastrointestinal.stromal.tumor"
+"3" "familial.meningioma"
+"4" "idiopathic.hypereosinophilic.syndrome"
+"5" "dermatofibrosarcoma.protuberans"
+"6" "basal.ganglia.calcification..idiopathic..5"

@@ -1,0 +1,4 @@
+"x"
+"1" "myopia.25..autosomal.dominant..MYP25"
+"2" "Cole.Carpenter.syndrome.1"
+"3" "erythrocytosis..familial..3"

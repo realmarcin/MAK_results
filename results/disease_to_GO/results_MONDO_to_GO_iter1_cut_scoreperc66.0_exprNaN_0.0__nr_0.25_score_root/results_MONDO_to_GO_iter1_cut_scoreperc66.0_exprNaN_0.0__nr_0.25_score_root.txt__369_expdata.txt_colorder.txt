@@ -1,0 +1,7 @@
+"x"
+"1" "thiolester hydrolase activity"
+"2" "valine metabolic process"
+"3" "methylmalonate-semialdehyde dehydrogenase (acylating) activity"
+"4" "malonate-semialdehyde dehydrogenase (acetylating) activity"
+"5" "beta-alanine catabolic process"
+"6" "thymine metabolic process"

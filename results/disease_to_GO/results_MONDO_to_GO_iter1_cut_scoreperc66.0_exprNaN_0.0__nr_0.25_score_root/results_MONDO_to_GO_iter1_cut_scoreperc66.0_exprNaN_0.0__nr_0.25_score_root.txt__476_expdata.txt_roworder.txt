@@ -1,0 +1,6 @@
+"x"
+"1" "diabetes.mellitus..Noninsulin.dependent"
+"2" "Charcot.Marie.tooth.disease.axonal.type.2F"
+"3" "neuronopathy..distal.hereditary.motor..type.2B"
+"4" "pyruvate.kinase.hyperactivity"
+"5" "pyruvate.kinase.deficiency.of.red.cells"

@@ -1,0 +1,7 @@
+"x"
+"1" "mitochondrial DNA metabolic process"
+"2" "deoxycytidine metabolic process"
+"3" "deoxycytidine kinase activity"
+"4" "thymidine kinase activity"
+"5" "deoxyribonucleotide metabolic process"
+"6" "thymidine metabolic process"

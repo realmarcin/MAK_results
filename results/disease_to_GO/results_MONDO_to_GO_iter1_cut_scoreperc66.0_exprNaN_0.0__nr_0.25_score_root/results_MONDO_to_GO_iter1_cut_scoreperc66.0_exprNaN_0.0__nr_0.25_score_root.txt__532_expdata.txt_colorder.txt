@@ -1,0 +1,6 @@
+"x"
+"1" "negative regulation of astrocyte differentiation"
+"2" "somatic stem cell population maintenance"
+"3" "endoderm development"
+"4" "spinal cord development"
+"5" "fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation"

@@ -1,0 +1,8 @@
+	Gnathodiaphyseal dysplasia	Scott syndrome	THC3	autosomal recessive limb-girdle muscular dystrophy type 2L	distal anoctaminopathy	dystonia 24
+protein dimerization activity	1.0	1.0	0.0	1.0	1.0	1.0
+cell periphery	1.0	1.0	0.0	1.0	1.0	1.0
+protein localization to plasma membrane	1.0	1.0	1.0	1.0	1.0	1.0
+cortical endoplasmic reticulum	1.0	1.0	0.0	1.0	1.0	1.0
+regulation of phosphatidylinositol dephosphorylation	1.0	1.0	0.0	1.0	1.0	1.0
+cellular bud membrane	1.0	1.0	0.0	1.0	1.0	1.0
+endoplasmic reticulum membrane organization	1.0	1.0	0.0	1.0	1.0	1.0

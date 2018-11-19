@@ -1,0 +1,6 @@
+	right atrial isomerism (disease)	"fructose-1,6-bisphosphatase deficiency"	Fanconi anemia complementation group b	"Vacterl association, X-linked, with or without hydrocephalus"	short Qt syndrome type 1	congenital plasminogen activator inhibitor type 1 deficiency	long QT syndrome 2	dextro-looped transposition of the great arteries 3	progressive myoclonic epilepsy type 8	TFRC-related combined immunodeficiency
+ureteric bud development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+branching involved in ureteric bud morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of branching involved in ureteric bud morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+metanephros development	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to drug	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

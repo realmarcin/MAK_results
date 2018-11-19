@@ -1,0 +1,5 @@
+	syndromic X-linked intellectual disability 94	Cayman type cerebellar ataxia	"periventricular heterotopia with microcephaly, autosomal recessive"	chromosome 15q13.3 microdeletion syndrome	hypogonadotropic hypogonadism 13 with or without anosmia	hypogonadotropic hypogonadism 16 with or without anosmia
+asymmetric synapse	1.0	0.0	1.0	1.0	0.0	0.0
+"regulation of synaptic transmission, cholinergic"	0.0	1.0	0.0	1.0	0.0	0.0
+generation of ovulation cycle rhythm	0.0	0.0	0.0	1.0	1.0	0.0
+dendrite arborization	0.0	0.0	0.0	1.0	0.0	1.0

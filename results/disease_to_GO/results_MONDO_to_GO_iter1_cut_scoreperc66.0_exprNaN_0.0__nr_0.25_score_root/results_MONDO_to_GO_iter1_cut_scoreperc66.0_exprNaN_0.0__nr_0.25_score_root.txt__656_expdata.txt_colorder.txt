@@ -1,0 +1,7 @@
+"x"
+"1" "molecular_function"
+"2" "response to retinoic acid"
+"3" "response to organic substance"
+"4" "ciliary basal body"
+"5" "axonemal dynein complex assembly"
+"6" "cilium-dependent cell motility"

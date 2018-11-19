@@ -1,0 +1,8 @@
+	"nevus, epidermal"	ovarian cancer	seborrheic keratosis	megalencephaly-capillary malformation-polymicrogyria syndrome	CLOVES syndrome	Cowden syndrome 5
+positive regulation of JNK cascade	1.0	0.0	0.0	0.0	0.0	0.0
+inflammatory response	1.0	1.0	1.0	1.0	1.0	1.0
+immune system process	0.0	0.0	0.0	0.0	0.0	0.0
+innate immune response	1.0	1.0	1.0	1.0	1.0	1.0
+"phosphatidylinositol 3-kinase complex, class IA"	1.0	1.0	1.0	1.0	1.0	1.0
+adaptive immune response	1.0	1.0	1.0	1.0	1.0	1.0
+positive regulation of cytokine secretion	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "cholesterol biosynthetic process"
+"2" "hair follicle development"
+"3" "response to yeast"
+"4" "labyrinthine layer blood vessel development"
+"5" "C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity"
+"6" "sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity"

@@ -1,0 +1,4 @@
+"x"
+"1" "platelet.type.bleeding.disorder.10"
+"2" "coronary.heart.disease..susceptibility.to..7"
+"3" "malaria..susceptibility.to"

@@ -1,0 +1,6 @@
+"x"
+"1" "congenital.diarrhea.5.with.tufting.enteropathy"
+"2" "colorectal.cancer..hereditary.nonpolyposis..type.8"
+"3" "Blepharo.cheilo.odontic.syndrome"
+"4" "gelatinous.drop.like.corneal.dystrophy"
+"5" "premature.ovarian.failure.2A"

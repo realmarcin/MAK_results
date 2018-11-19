@@ -1,0 +1,7 @@
+"x"
+"1" "dilated.cardiomyopathy.1P"
+"2" "hypertrophic.cardiomyopathy.18"
+"3" "progressive.familial.heart.block.type.ib"
+"4" "catecholaminergic.polymorphic.ventricular.tachycardia.1"
+"5" "catecholaminergic.polymorphic.ventricular.tachycardia.2"
+"6" "catecholaminergic.polymorphic.ventricular.tachycardia.5"

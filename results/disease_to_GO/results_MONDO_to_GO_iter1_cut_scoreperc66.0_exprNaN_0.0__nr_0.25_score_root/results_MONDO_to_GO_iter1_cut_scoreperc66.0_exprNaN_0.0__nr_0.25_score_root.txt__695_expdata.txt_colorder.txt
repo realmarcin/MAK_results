@@ -1,0 +1,8 @@
+"x"
+"1" "molecular_function"
+"2" "vesicle-mediated transport"
+"3" "vesicle docking involved in exocytosis"
+"4" "cellular_component"
+"5" "phosphatidylinositol binding"
+"6" "clathrin complex"
+"7" "HOPS complex"

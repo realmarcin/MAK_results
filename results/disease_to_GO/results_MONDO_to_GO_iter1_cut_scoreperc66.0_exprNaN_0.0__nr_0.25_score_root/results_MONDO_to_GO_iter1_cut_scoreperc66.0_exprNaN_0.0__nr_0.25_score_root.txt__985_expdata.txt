@@ -1,0 +1,15 @@
+	"spondylocostal dysostosis 3, autosomal recessive"	PLIN1-related familial partial lipodystrophy	intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome	Adams-Oliver syndrome 4	polyglucosan body myopathy 1 with or without immunodeficiency
+fin regeneration	1.0	0.0	0.0	0.0	0.0
+positive regulation of Notch signaling pathway	1.0	0.0	0.0	0.0	0.0
+pattern specification process	1.0	0.0	0.0	0.0	0.0
+negative regulation of neuron differentiation	1.0	0.0	0.0	0.0	0.0
+ovarian follicle development	1.0	0.0	0.0	0.0	0.0
+hypochord development	1.0	0.0	0.0	0.0	0.0
+T cell differentiation	1.0	0.0	0.0	0.0	0.0
+integral component of Golgi membrane	1.0	0.0	0.0	0.0	0.0
+regulation of somitogenesis	1.0	0.0	0.0	0.0	0.0
+positive regulation of meiotic cell cycle	1.0	0.0	0.0	0.0	0.0
+compartment pattern specification	1.0	0.0	0.0	0.0	0.0
+O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase activity	1.0	0.0	0.0	0.0	0.0
+negative regulation of Notch signaling pathway involved in somitogenesis	1.0	0.0	0.0	0.0	0.0
+marginal zone B cell differentiation	1.0	0.0	0.0	0.0	0.0

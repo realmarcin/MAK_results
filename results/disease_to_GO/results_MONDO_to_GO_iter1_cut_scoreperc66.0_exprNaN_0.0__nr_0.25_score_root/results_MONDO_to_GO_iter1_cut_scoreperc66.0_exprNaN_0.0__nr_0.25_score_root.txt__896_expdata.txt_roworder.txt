@@ -1,0 +1,7 @@
+"x"
+"1" "myoclonic.dystonia.26"
+"2" "combined.immunodeficiency.with.skin.granulomas"
+"3" "severe.combined.immunodeficiency..autosomal.recessive..T.cell.negative..b.cell.negative..Nk.cell.positive"
+"4" "Omenn.syndrome"
+"5" "Moyamoya.disease.2"
+"6" "combined.immunodeficiency.due.to.partial.RAG1.deficiency"

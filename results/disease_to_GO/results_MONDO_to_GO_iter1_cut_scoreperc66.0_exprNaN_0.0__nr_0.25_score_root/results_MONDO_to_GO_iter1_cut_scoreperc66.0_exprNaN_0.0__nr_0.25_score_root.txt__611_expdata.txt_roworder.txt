@@ -1,0 +1,7 @@
+"x"
+"1" "bilateral.frontoparietal.polymicrogyria"
+"2" "polymicrogyria..bilateral.perisylvian..autosomal.recessive"
+"3" "lethal.congenital.contracture.syndrome.9"
+"4" "WHIM.syndrome"
+"5" "hypotrichosis.8"
+"6" "vas.deferens..congenital.bilateral.aplasia.of..X.linked..CBAVDX"

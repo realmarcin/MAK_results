@@ -1,0 +1,7 @@
+"x"
+"1" "syndromic.multisystem.autoimmune.disease.due.to.itch.deficiency"
+"2" "periventricular.nodular.heterotopia.7..PVNH7"
+"3" "neurodevelopmental.disorder.with.hypotonia..seizures..and.absent.language..NDHSAL"
+"4" "RIN2.syndrome"
+"5" "spinocerebellar.ataxia.type.38"
+"6" "Charcot.Marie.tooth.disease.axonal.type.2P"

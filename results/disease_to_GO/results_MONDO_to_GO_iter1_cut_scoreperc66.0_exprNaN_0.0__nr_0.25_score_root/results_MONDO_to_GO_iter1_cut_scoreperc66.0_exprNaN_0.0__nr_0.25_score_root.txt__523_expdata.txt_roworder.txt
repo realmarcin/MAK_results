@@ -1,0 +1,7 @@
+"x"
+"1" "fibromatosis..gingival..1"
+"2" "Noonan.syndrome.4"
+"3" "Noonan.syndrome.9"
+"4" "combined.immunodeficiency.due.to.DOCK8.deficiency"
+"5" "mental.retardation..autosomal.dominant.2"
+"6" "platelet.type.bleeding.disorder.18"

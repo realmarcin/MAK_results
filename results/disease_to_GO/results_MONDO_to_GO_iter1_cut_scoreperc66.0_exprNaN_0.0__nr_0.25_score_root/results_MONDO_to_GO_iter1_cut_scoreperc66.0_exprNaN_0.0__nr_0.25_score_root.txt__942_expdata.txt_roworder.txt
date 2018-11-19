@@ -1,0 +1,5 @@
+"x"
+"1" "Ige.responsiveness..atopic"
+"2" "Netherton.syndrome"
+"3" "congenital.myasthenic.syndrome.8"
+"4" "epilepsy..familial.adult.myoclonic..5"

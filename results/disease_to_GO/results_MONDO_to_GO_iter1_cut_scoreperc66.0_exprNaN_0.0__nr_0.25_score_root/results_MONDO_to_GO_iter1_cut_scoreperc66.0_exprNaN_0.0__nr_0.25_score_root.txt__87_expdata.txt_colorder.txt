@@ -1,0 +1,5 @@
+"x"
+"1" "phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity"
+"2" "phosphoric ester hydrolase activity"
+"3" "PAS complex"
+"4" "phosphatidylinositol-3-phosphate biosynthetic process"

@@ -1,0 +1,6 @@
+"x"
+"1" "Bethlem.myopathy"
+"2" "Ullrich.congenital.muscular.dystrophy.1"
+"3" "dystonia.27"
+"4" "Keutel.syndrome"
+"5" "familial.retinal.arterial.macroaneurysm"

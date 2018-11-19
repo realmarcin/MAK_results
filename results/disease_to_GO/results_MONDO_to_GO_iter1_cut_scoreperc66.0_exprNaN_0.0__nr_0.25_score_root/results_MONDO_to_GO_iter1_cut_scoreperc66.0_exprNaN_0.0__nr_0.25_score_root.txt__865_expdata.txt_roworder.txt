@@ -1,0 +1,7 @@
+"x"
+"1" "mullerian.aplasia.and.hyperandrogenism"
+"2" "SERKAL.syndrome"
+"3" "Alzheimer.s.disease.4"
+"4" "dilated.cardiomyopathy.1V"
+"5" "intellectual.disability.craniofacial.dysmorphism.cryptorchidism.syndrome"
+"6" "Sotos.syndrome.3..SOTOS3"

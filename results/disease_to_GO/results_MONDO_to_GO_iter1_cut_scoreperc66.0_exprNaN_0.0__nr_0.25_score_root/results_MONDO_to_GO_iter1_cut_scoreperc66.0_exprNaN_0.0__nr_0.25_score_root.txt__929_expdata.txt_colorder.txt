@@ -1,0 +1,6 @@
+"x"
+"1" "cytoplasm"
+"2" "endoplasmic reticulum"
+"3" "transport"
+"4" "lipid transport"
+"5" "ER to Golgi ceramide transport"

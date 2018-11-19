@@ -1,0 +1,7 @@
+"x"
+"1" "visual behavior"
+"2" "CTP:tRNA cytidylyltransferase activity"
+"3" "tRNA nucleotidyltransferase activity"
+"4" "ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity"
+"5" "CTP:3'-cytidine-tRNA cytidylyltransferase activity"
+"6" "tRNA 3'-terminal CCA addition"

@@ -1,0 +1,7 @@
+	mastocytosis	piebaldism	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1"	"metachromatic leukodystrophy, juvenile form"	Sandhoff disease	spermatogenic failure 4	testicular germ cell tumor	"microcephaly 4, primary, autosomal recessive"	gastrointestinal stromal tumor	tropical pancreatitis	patterned macular dystrophy 2	autosomal recessive limb-girdle muscular dystrophy type 2K	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 1"	bleeding diathesis due to thromboxane synthesis deficiency	mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency
+spermatogenesis	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+spermatid development	1.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+regulation of cell shape	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+acrosomal vesicle	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+cytokine binding	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+glycosphingolipid metabolic process	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

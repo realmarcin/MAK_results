@@ -1,0 +1,14 @@
+	Amelocerebrohypohidrotic syndrome	"arthrogryposis, renal dysfunction, and cholestasis 2"	autosomal recessive osteopetrosis 8	polyendocrine-polyneuropathy syndrome	hypomyelinating leukodystrophy 13
+positive regulation of cell proliferation	1.0	0.0	0.0	0.0	0.0
+brain development	1.0	0.0	0.0	0.0	0.0
+odontogenesis of dentin-containing tooth	1.0	0.0	0.0	0.0	0.0
+biological_process	1.0	0.0	0.0	0.0	0.0
+intracellular	1.0	0.0	0.0	0.0	1.0
+protein transport	1.0	1.0	1.0	1.0	1.0
+neurogenesis	1.0	0.0	0.0	0.0	0.0
+hemopoiesis	1.0	0.0	0.0	0.0	0.0
+extrinsic component of membrane	0.0	0.0	1.0	1.0	0.0
+early endosome membrane	1.0	0.0	0.0	0.0	0.0
+vacuolar acidification	1.0	0.0	0.0	1.0	0.0
+regulation of protein complex assembly	1.0	0.0	0.0	1.0	0.0
+RAVE complex	1.0	0.0	0.0	1.0	0.0

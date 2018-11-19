@@ -1,0 +1,9 @@
+	alpha-2-plasmin inhibitor deficiency	Preterm premature rupture of the membranes	osteogenesis imperfecta type 10	"palmoplantar keratoderma, Nagashima type"	peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome
+membrane raft	0.0	1.0	1.0	0.0	0.0
+fin regeneration	0.0	1.0	1.0	0.0	0.0
+protein maturation	0.0	1.0	1.0	0.0	0.0
+serine-type endopeptidase inhibitor activity	1.0	1.0	1.0	1.0	0.0
+unfolded protein binding	0.0	1.0	1.0	0.0	0.0
+collagen biosynthetic process	0.0	1.0	1.0	0.0	0.0
+endoplasmic reticulum-Golgi intermediate compartment	0.0	1.0	1.0	0.0	0.0
+chondrocyte development involved in endochondral bone morphogenesis	0.0	1.0	1.0	0.0	0.0

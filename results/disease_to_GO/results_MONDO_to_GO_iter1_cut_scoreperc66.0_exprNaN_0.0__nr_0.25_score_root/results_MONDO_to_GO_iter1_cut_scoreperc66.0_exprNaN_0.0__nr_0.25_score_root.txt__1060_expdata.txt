@@ -1,0 +1,18 @@
+	cystathioninuria (disease)	MPI-CDG	Ribose-5-P isomerase deficiency	congenital brain dysgenesis due to glutamine synthetase deficiency	"short stature, developmental delay, and congenital heart defects;"
+positive regulation of epithelial cell proliferation	0.0	0.0	0.0	1.0	0.0
+cell proliferation	0.0	0.0	0.0	1.0	0.0
+rough endoplasmic reticulum	0.0	0.0	0.0	1.0	0.0
+protein homooligomerization	0.0	0.0	0.0	1.0	0.0
+"positive regulation of synaptic transmission, glutamatergic"	0.0	0.0	0.0	1.0	0.0
+response to glucose	0.0	0.0	0.0	1.0	0.0
+cellular response to starvation	0.0	0.0	0.0	1.0	0.0
+axon terminus	0.0	0.0	0.0	1.0	0.0
+manganese ion binding	0.0	0.0	0.0	1.0	0.0
+dynein light chain binding	0.0	0.0	0.0	1.0	0.0
+nuclear periphery	0.0	0.0	0.0	1.0	0.0
+glial cell projection	0.0	0.0	0.0	1.0	0.0
+glutamate metabolic process	0.0	0.0	0.0	1.0	0.0
+glutamate binding	0.0	0.0	0.0	1.0	0.0
+glutamate decarboxylase activity	0.0	0.0	0.0	1.0	0.0
+glutamine biosynthetic process	0.0	0.0	0.0	1.0	0.0
+glutamate-ammonia ligase activity	0.0	0.0	0.0	1.0	0.0

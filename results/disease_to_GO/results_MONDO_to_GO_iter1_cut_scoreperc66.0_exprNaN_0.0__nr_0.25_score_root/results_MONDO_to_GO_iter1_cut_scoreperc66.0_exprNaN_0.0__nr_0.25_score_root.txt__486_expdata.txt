@@ -1,0 +1,13 @@
+	renal-hepatic-pancreatic dysplasia 1	NPHP3-related Meckel-like syndrome	nephronophthisis 3	primary ciliary dyskinesia 7
+heart looping	1.0	1.0	1.0	0.0
+Wnt signaling pathway	1.0	1.0	1.0	0.0
+convergent extension	1.0	1.0	1.0	0.0
+negative regulation of canonical Wnt signaling pathway	1.0	1.0	1.0	0.0
+convergent extension involved in gastrulation	1.0	1.0	1.0	0.0
+heart jogging	1.0	1.0	1.0	0.0
+kidney morphogenesis	1.0	1.0	1.0	0.0
+left/right pattern formation	1.0	1.0	1.0	0.0
+ciliary base	1.0	1.0	1.0	0.0
+determination of intestine left/right asymmetry	1.0	1.0	1.0	0.0
+ciliary inversin compartment	1.0	1.0	1.0	0.0
+determination of stomach left/right asymmetry	1.0	1.0	1.0	0.0

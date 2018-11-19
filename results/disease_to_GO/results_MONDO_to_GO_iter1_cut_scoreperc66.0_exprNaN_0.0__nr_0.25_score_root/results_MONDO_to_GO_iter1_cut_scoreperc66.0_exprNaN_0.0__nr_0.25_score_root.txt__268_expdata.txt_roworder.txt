@@ -1,0 +1,5 @@
+"x"
+"1" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.a..7"
+"2" "autosomal.recessive.limb.girdle.muscular.dystrophy.type.2U"
+"3" "retinitis.pigmentosa.59"
+"4" "classic.galactosemia"

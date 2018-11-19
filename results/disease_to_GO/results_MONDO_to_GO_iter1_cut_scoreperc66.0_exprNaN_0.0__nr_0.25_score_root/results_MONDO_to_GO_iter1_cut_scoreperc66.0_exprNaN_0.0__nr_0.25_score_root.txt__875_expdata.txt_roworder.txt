@@ -1,0 +1,8 @@
+"x"
+"1" "bilateral.striopallidodentate.calcinosis"
+"2" "dermatofibrosarcoma.protuberans"
+"3" "basal.ganglia.calcification..idiopathic..5"
+"4" "Wolcott.Rallison.syndrome"
+"5" "familial.pancreatic.carcinoma"
+"6" "advanced.sleep.phase.syndrome.2"
+"7" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.2"

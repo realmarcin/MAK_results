@@ -1,0 +1,6 @@
+"x"
+"1" "Usher.syndrome.type.1"
+"2" "autosomal.recessive.nonsyndromic.deafness.2"
+"3" "autosomal.dominant.nonsyndromic.deafness.11"
+"4" "Usher.syndrome.type.1C"
+"5" "autosomal.recessive.nonsyndromic.deafness.18A"

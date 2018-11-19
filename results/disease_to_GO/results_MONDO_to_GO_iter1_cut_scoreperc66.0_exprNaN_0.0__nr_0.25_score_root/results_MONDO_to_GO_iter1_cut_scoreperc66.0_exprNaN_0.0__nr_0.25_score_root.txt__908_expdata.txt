@@ -1,0 +1,8 @@
+	cerebral cavernous malformation 2	epidermolysis bullosa simplex due to plakophilin deficiency	familial hypercholanemia	arrhythmogenic right ventricular dysplasia 9	myofibrillar myopathy 4	hypogonadotropic hypogonadism 17 with or without anosmia	"cholestasis, progressive familial intrahepatic, 4"
+protein binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	0.0	1.0	0.0	1.0	1.0	0.0
+cytoskeleton	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+skeletal muscle tissue development	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+locomotory behavior	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Z disc	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+muscle alpha-actinin binding	0.0	0.0	0.0	0.0	1.0	0.0	0.0

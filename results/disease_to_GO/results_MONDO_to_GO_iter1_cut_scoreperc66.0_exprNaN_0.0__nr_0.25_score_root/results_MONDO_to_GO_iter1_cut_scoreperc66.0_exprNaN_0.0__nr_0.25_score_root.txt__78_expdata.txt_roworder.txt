@@ -1,0 +1,5 @@
+"x"
+"1" "rolandic.epilepsy..mental.retardation..and.speech.dyspraxia..X.linked"
+"2" "severe.combined.immunodeficiency.due.to.IKK2.deficiency"
+"3" "cocoon.syndrome"
+"4" "autoimmune.lymphoproliferative.syndrome.type.3"

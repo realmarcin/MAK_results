@@ -1,0 +1,6 @@
+"x"
+"1" "X46.Xy.sex.reversal.2"
+"2" "X.linked.adrenal.hypoplasia.congenita"
+"3" "mental.retardation..X.linked.61..MRX61"
+"4" "Townes.Brocks.syndrome"
+"5" "coloboma..ocular..autosomal.recessive"

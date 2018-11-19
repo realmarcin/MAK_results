@@ -1,0 +1,8 @@
+	congenital lactase deficiency	glycogen storage disease V	mucopolysaccharidosis type 9	transient infantile hypertriglyceridemia and hepatosteatosis
+cytoplasm	0.0	1.0	1.0	1.0
+extracellular exosome	0.0	1.0	1.0	1.0
+carbohydrate metabolic process	1.0	1.0	1.0	1.0
+metabolic process	1.0	1.0	1.0	0.0
+response to organic substance	1.0	1.0	0.0	0.0
+positive regulation of cell growth	0.0	0.0	1.0	0.0
+cellular response to tumor necrosis factor	0.0	0.0	0.0	1.0

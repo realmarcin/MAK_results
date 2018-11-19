@@ -1,0 +1,7 @@
+	epidermodysplasia verruciformis	"Parkinson disease 11, autosomal dominant, susceptibility to"	"myopia 23, autosomal recessive"	juvenile onset Parkinson disease 19A	CCDC115-CDG
+Golgi apparatus	1.0	1.0	1.0	0.0	0.0
+cytoplasm	1.0	1.0	1.0	1.0	0.0
+endoplasmic reticulum	1.0	1.0	1.0	1.0	1.0
+negative regulation of protein binding	1.0	0.0	1.0	0.0	0.0
+vesicle	0.0	1.0	1.0	1.0	0.0
+endoplasmic reticulum-Golgi intermediate compartment	0.0	0.0	1.0	0.0	1.0

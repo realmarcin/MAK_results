@@ -1,0 +1,11 @@
+	Fechtner syndrome	"nephrotic syndrome, type 2"	"focal segmental glomerulosclerosis 4, susceptibility to"	focal segmental glomerulosclerosis 6
+immunological synapse	1.0	0.0	0.0	0.0
+neuromuscular junction	1.0	0.0	0.0	0.0
+glomerulus development	1.0	1.0	1.0	1.0
+cellular bud neck contractile ring	1.0	0.0	0.0	0.0
+glomerular filtration	1.0	0.0	1.0	1.0
+integrin complex	1.0	0.0	0.0	0.0
+midbrain-hindbrain boundary morphogenesis	1.0	0.0	0.0	0.0
+COP9 signalosome	1.0	0.0	0.0	0.0
+actin filament bundle distribution	1.0	0.0	0.0	0.0
+glomerular capillary formation	1.0	0.0	0.0	0.0

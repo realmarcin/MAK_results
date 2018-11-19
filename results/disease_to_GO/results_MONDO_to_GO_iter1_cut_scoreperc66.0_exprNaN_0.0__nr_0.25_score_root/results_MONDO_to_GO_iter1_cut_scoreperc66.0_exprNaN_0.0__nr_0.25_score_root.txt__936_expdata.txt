@@ -1,0 +1,8 @@
+	"sarcoidosis, susceptibility to, 1"	gelatinous drop-like corneal dystrophy	Chediak-Higashi syndrome	mucolipidosis type IV	Carey-Fineman-Ziter  syndrome	Imerslund-Grasbeck syndrome	"immunodeficiency, common variable, 5"	Carpenter syndrome 2
+membrane	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+endoplasmic reticulum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+molecular_function	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+external side of plasma membrane	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+B cell activation	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+epidermal growth factor receptor binding	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+MHC class II protein complex binding	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

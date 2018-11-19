@@ -1,0 +1,7 @@
+"x"
+"1" "microcephaly..seizures..and.developmental.delay"
+"2" "ataxia.oculomotor.apraxia.type.4"
+"3" "sialuria"
+"4" "GNE.myopathy"
+"5" "pontocerebellar.hypoplasia.type.10"
+"6" "reticular.dysgenesis"

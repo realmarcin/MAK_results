@@ -1,0 +1,6 @@
+"x"
+"1" "severe.combined.immunodeficiency..autosomal.recessive..T.cell.negative..b.cell.positive..Nk.cell.positive"
+"2" "hepatitis.c.virus..susceptibility.to"
+"3" "autoimmune.lymphoproliferative.syndrome.type.1"
+"4" "TCR.alpha.beta.positive.T.cell.deficiency"
+"5" "severe.combined.immunodeficiency.due.to.DNA.PKcs.deficiency"

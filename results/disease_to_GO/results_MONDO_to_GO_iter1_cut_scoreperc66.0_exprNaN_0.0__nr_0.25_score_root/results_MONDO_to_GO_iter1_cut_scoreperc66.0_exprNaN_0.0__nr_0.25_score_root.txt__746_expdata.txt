@@ -1,0 +1,6 @@
+	X-linked intellectual disability-short stature-overweight syndrome	Charcot-Marie-tooth disease type 1D	"mental retardation, autosomal dominant 22"	immunodeficiency-centromeric instability-facial anomalies syndrome 2	microcephalic primordial dwarfism due to ZNF335 deficiency	severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome	Verheij syndrome	congenital insensitivity to pain-hypohidrosis syndrome	Paget disease of bone 6; PDB6	"global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies; GDACCF"	"dystonia 28, childhood-onset; DYT28"
+nucleus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+DNA binding transcription factor activity	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

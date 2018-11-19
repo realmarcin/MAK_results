@@ -1,0 +1,10 @@
+	retinitis pigmentosa 51	Joubert syndrome 13	Bardet-Biedl syndrome 8	Bardet-Biedl syndrome 10
+camera-type eye photoreceptor cell differentiation	1.0	0.0	1.0	0.0
+actin filament organization	1.0	0.0	1.0	0.0
+otolith development	1.0	0.0	1.0	0.0
+regulation of protein localization	1.0	0.0	1.0	0.0
+RNA polymerase II repressing transcription factor binding	1.0	0.0	1.0	1.0
+protein localization to plasma membrane	1.0	0.0	1.0	0.0
+renal tubule development	1.0	0.0	1.0	0.0
+multi-ciliated epithelial cell differentiation	1.0	0.0	1.0	0.0
+establishment of anatomical structure orientation	1.0	0.0	1.0	0.0

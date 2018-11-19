@@ -1,0 +1,7 @@
+"x"
+"1" "Job.s.syndrome"
+"2" "STAT3.related.early.onset.multisystem.autoimmune.disease"
+"3" "uveal.coloboma.cleft.lip.and.palate.intellectual.disability"
+"4" "fructose.1.6.bisphosphatase.deficiency"
+"5" "obesity..disease."
+"6" "immunodeficiency..common.variable..12"

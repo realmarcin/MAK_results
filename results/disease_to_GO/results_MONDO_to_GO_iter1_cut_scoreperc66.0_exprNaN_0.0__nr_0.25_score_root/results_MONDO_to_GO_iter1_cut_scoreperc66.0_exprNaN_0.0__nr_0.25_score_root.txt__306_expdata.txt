@@ -1,0 +1,6 @@
+	peroxisome biogenesis disorder 2B	peroxisome biogenesis disorder 2A (Zellweger)	rhizomelic chondrodysplasia punctata type 1	Refsum disease	peroxisome biogenesis disorder 9B	congenital bile acid synthesis defect 5	rhizomelic chondrodysplasia punctata type 5
+fatty acid beta-oxidation	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"protein import into peroxisome matrix, docking"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+peroxisomal matrix	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+ether lipid biosynthetic process	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+peroxisome matrix targeting signal-2 binding	0.0	0.0	1.0	1.0	1.0	0.0	0.0

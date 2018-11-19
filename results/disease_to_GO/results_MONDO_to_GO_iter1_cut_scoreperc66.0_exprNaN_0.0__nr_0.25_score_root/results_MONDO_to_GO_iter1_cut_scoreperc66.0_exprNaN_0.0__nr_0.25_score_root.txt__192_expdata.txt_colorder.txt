@@ -1,0 +1,6 @@
+"x"
+"1" "cGMP biosynthetic process"
+"2" "receptor guanylyl cyclase signaling pathway"
+"3" "negative regulation of meiotic cell cycle"
+"4" "negative regulation of oocyte maturation"
+"5" "natriuretic peptide receptor activity"

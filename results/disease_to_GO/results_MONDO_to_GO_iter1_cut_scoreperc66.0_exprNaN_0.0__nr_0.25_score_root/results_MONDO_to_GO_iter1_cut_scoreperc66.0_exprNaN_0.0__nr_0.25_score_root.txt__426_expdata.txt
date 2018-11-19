@@ -1,0 +1,9 @@
+	amyotrophic neuralgia	spermatogenic failure 10	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 14"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 14"	autosomal recessive limb-girdle muscular dystrophy type 2T
+nucleotide binding	1.0	1.0	1.0	1.0	1.0
+cytoplasm	1.0	0.0	1.0	1.0	1.0
+GTP binding	1.0	1.0	1.0	1.0	1.0
+cellular_component	0.0	0.0	1.0	1.0	1.0
+cell cycle	1.0	1.0	1.0	1.0	1.0
+muscle fiber development	0.0	0.0	1.0	1.0	1.0
+protein glycosylation	0.0	0.0	1.0	1.0	1.0
+cell wall mannoprotein biosynthetic process	0.0	0.0	1.0	1.0	1.0

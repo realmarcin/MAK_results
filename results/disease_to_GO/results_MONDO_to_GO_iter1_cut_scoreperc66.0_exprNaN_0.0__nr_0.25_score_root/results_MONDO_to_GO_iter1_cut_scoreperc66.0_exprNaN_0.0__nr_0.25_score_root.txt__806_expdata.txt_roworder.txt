@@ -1,0 +1,7 @@
+"x"
+"1" "X.linked.intellectual.disability.short.stature.overweight.syndrome"
+"2" "parathyroid.gland.carcinoma"
+"3" "childhood.onset.epileptic.encephalopathy"
+"4" "syndromic.X.linked.intellectual.disability.34"
+"5" "spinocerebellar.ataxia..autosomal.recessive.1"
+"6" "pontocerebellar.hypoplasia.type.10"

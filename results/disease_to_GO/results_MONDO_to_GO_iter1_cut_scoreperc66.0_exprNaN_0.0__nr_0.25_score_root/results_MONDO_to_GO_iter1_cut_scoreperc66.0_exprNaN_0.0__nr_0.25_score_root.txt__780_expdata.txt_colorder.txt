@@ -1,0 +1,7 @@
+"x"
+"1" "regulation of DNA methylation"
+"2" "negative regulation of histone acetylation"
+"3" "positive regulation of histone H3-K4 methylation"
+"4" "regulation of gene expression by genetic imprinting"
+"5" "negative regulation of histone H3-K9 methylation"
+"6" "negative regulation of histone H3-K4 methylation"

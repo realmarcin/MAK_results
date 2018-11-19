@@ -1,0 +1,7 @@
+	Adenylosuccinate lyase deficiency	phosphoribosylpyrophosphate synthetase superactivity	Arts syndrome	Charcot-Marie-tooth disease X-linked recessive 5	adenine phosphoribosyltransferase deficiency	"myopathy, distal, 5; MPD5"
+AMP biosynthetic process	1.0	1.0	1.0	1.0	1.0	1.0
+5-phosphoribose 1-diphosphate biosynthetic process	0.0	1.0	1.0	1.0	0.0	0.0
+purine nucleobase metabolic process	0.0	1.0	1.0	1.0	0.0	0.0
+nucleotide biosynthetic process	0.0	1.0	1.0	1.0	0.0	0.0
+ribose phosphate metabolic process	0.0	1.0	1.0	1.0	0.0	0.0
+urate biosynthetic process	0.0	1.0	1.0	1.0	0.0	0.0

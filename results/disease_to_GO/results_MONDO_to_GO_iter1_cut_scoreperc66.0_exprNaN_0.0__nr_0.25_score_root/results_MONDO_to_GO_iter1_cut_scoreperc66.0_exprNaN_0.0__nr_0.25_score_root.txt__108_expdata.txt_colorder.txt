@@ -1,0 +1,8 @@
+"x"
+"1" "chaperonin-containing T-complex"
+"2" "positive regulation of establishment of protein localization to telomere"
+"3" "zona pellucida receptor complex"
+"4" "G-protein beta-subunit binding"
+"5" "positive regulation of protein localization to Cajal body"
+"6" "scaRNA localization to Cajal body"
+"7" "telomere formation via telomerase"

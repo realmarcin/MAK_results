@@ -1,0 +1,5 @@
+"x"
+"1" "obesity.due.to.congenital.leptin.deficiency"
+"2" "familial.hypercholanemia"
+"3" "hereditary.spastic.paraplegia.46"
+"4" "epileptic.encephalopathy..early.infantile..38..EIEE38"

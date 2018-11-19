@@ -1,0 +1,7 @@
+"x"
+"1" "early endosome membrane"
+"2" "recycling endosome membrane"
+"3" "respiratory burst involved in defense response"
+"4" "endoplasmic reticulum Sec complex"
+"5" "regulation of neutrophil chemotaxis"
+"6" "cellular response to forskolin"

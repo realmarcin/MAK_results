@@ -1,0 +1,4 @@
+	primary failure of tooth eruption	"hypoparathyroidism, familial isolated"	"metaphyseal chondrodysplasia, Jansen type"	rheumatoid arthritis	chondrodysplasia blomstrand type	Eiken syndrome
+"G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger"	1.0	0.0	1.0	0.0	1.0	1.0
+positive regulation of inositol phosphate biosynthetic process	1.0	1.0	1.0	1.0	1.0	1.0
+parathyroid hormone receptor activity	1.0	0.0	1.0	0.0	1.0	1.0

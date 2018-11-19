@@ -1,0 +1,6 @@
+"x"
+"1" "Dowling.Degos.disease.2"
+"2" "spondylocostal.dysostosis.3..autosomal.recessive"
+"3" "temtamy.preaxial.brachydactyly.syndrome"
+"4" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.A..1"
+"5" "spermatogenic.failure.9"

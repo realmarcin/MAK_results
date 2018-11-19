@@ -1,0 +1,7 @@
+"x"
+"1" "microcephaly.14..primary..autosomal.recessive"
+"2" "Seckel.syndrome.5"
+"3" "microcephaly.9..primary..autosomal.recessive"
+"4" "microcephaly.and.chorioretinopathy.2"
+"5" "Seckel.syndrome.6"
+"6" "congenital.myopathy.with.internal.nuclei.and.atypical.cores"

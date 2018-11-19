@@ -1,0 +1,9 @@
+	"neuronopathy, distal hereditary motor, type 7A"	congenital myasthenic syndrome 6	"cerebral palsy, spastic quadriplegic, 1"	autosomal recessive dopa-responsive dystonia	congenital myasthenic syndrome 20
+"synaptic transmission, cholinergic"	1.0	0.0	0.0	0.0	1.0
+choline binding	1.0	1.0	0.0	0.0	1.0
+choline:sodium symporter activity	1.0	0.0	0.0	0.0	1.0
+acetylcholine biosynthetic process	1.0	1.0	0.0	0.0	1.0
+plasma membrane raft	1.0	0.0	0.0	0.0	1.0
+neurotransmitter biosynthetic process	1.0	1.0	1.0	1.0	1.0
+choline transport	1.0	0.0	0.0	0.0	1.0
+choline transmembrane transporter activity	1.0	0.0	0.0	0.0	1.0

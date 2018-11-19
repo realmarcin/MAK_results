@@ -1,0 +1,6 @@
+	Paget disease of bone 3	hereditary hyperferritinemia with congenital cataracts	"Paget disease of bone 2, early-onset"	neuroferritinopathy	hemochromatosis type 5	L-ferritin deficiency	FTDALS3	"neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset; NADGP"	"myopathy, distal, with rimmed vacuoles; DMRV"
+autophagosome	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+inclusion body	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+K63-linked polyubiquitin modification-dependent protein binding	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+regulation of I-kappaB kinase/NF-kappaB signaling	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
+autolysosome	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

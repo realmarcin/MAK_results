@@ -1,0 +1,6 @@
+"x"
+"1" "selective.pituitary.resistance.to.thyroid.hormone"
+"2" "thyroid.hormone.resistance..generalized..autosomal.dominant"
+"3" "thyroid.hormone.resistance..generalized..autosomal.recessive"
+"4" "cholestasis..progressive.familial.intrahepatic..5..PFIC5"
+"5" "Shashi.Pena.syndrome..SHAPNS"

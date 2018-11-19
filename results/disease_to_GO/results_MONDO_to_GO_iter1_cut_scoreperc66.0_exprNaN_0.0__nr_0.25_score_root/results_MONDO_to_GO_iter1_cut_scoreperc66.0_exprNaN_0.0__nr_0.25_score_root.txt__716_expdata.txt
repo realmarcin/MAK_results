@@ -1,0 +1,10 @@
+	Machado-Joseph disease	"drug metabolism, poor, Cyp2C19-related"	atypical hemolytic-uremic syndrome with thrombomodulin anomaly	BAP1-related tumor predisposition syndrome	thrombomodulin-related bleeding disorder
+regulation of cell cycle	0.0	0.0	0.0	1.0	0.0
+covalent chromatin modification	0.0	0.0	0.0	1.0	0.0
+regulation of cell growth	0.0	0.0	0.0	1.0	0.0
+regulation of cytokine production involved in inflammatory response	0.0	0.0	0.0	1.0	0.0
+response to inorganic substance	0.0	0.0	0.0	1.0	0.0
+PR-DUB complex	0.0	0.0	0.0	1.0	0.0
+monoubiquitinated histone H2A deubiquitination	0.0	0.0	0.0	1.0	0.0
+monoubiquitinated protein deubiquitination	0.0	0.0	0.0	1.0	0.0
+macrophage homeostasis	0.0	0.0	0.0	1.0	0.0

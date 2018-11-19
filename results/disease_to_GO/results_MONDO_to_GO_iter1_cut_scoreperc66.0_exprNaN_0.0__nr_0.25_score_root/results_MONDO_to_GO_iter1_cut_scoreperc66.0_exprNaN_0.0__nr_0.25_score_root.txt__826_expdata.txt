@@ -1,0 +1,5 @@
+	acrodysostosis 1 with or without hormone resistance	"Carney complex, type 1"	familial male-limited precocious puberty	"thyroid cancer, nonmedullary, 1"	torsion dystonia 2	"leydig cell hypoplasia, type 1"	familial atrial myxoma	hypothyroidism due to TSH receptor mutations	familial gestational hyperthyroidism	ovarian hyperstimulation syndrome	familial hyperthyroidism due to mutations in TSH receptor	"pigmented nodular adrenocortical disease, primary, 1"
+negative regulation of Ras protein signal transduction	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+positive regulation of adenylate cyclase activity	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+cognition	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+camera-type eye morphogenesis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

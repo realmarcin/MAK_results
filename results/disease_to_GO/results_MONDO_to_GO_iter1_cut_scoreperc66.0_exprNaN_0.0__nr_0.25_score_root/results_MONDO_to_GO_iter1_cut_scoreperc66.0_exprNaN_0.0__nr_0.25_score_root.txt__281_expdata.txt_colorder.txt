@@ -1,0 +1,7 @@
+"x"
+"1" "cellular amino acid biosynthetic process"
+"2" "L-serine biosynthetic process"
+"3" "L-serine metabolic process"
+"4" "threonine metabolic process"
+"5" "phosphoserine phosphatase activity"
+"6" "regulation of mitochondrial membrane potential"

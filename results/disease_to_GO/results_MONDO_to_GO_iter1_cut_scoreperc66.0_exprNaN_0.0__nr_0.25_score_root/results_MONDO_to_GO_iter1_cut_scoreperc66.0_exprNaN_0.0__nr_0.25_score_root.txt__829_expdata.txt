@@ -1,0 +1,8 @@
+	retinitis pigmentosa 1	retinal macular dystrophy type 2	autosomal recessive nonsyndromic deafness 48	retinitis pigmentosa 41	cone-rod dystrophy 12	Usher syndrome type 1J	retinal dystrophy and obesity
+photoreceptor cell maintenance	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+negative regulation of microtubule depolymerization	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+microtubule associated complex	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+cellular response to light stimulus	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+positive regulation of non-motile cilium assembly	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+microtubule polymerization	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ciliary tip	1.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "autosomal.recessive.early.onset.Parkinson.disease.6"
+"2" "hereditary.spastic.paraplegia.28"
+"3" "hereditary.spastic.paraplegia.54"
+"4" "hemangioma..capillary.infantile"
+"5" "hypotrichosis.7"
+"6" "encephalopathy.due.to.defective.mitochondrial.and.peroxisomal.fission.2..EMPF2"

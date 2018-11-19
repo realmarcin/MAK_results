@@ -1,0 +1,6 @@
+"x"
+"1" "type B pancreatic cell proliferation"
+"2" "AMP salvage"
+"3" "dATP biosynthetic process"
+"4" "adenosine salvage"
+"5" "adenosine kinase activity"

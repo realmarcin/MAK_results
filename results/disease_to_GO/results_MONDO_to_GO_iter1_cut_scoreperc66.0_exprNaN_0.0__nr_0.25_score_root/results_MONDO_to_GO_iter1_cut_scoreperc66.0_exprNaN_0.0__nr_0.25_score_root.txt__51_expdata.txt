@@ -1,0 +1,6 @@
+	neuronal ceroid lipofuscinosis 5	cystic leukoencephalopathy without megalencephaly	platelet-type bleeding disorder 20
+vacuolar lumen	1.0	1.0	0.0
+ribonuclease T2 activity	0.0	1.0	0.0
+rRNA catabolic process	0.0	1.0	1.0
+endoribonuclease activity	0.0	1.0	1.0
+platelet maturation	0.0	0.0	1.0

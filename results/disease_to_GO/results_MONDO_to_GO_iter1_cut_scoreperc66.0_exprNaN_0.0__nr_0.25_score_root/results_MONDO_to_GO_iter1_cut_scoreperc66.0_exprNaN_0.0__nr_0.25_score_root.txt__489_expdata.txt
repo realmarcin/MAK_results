@@ -1,0 +1,8 @@
+	Grange syndrome	"tooth agenesis, selective, 3"	spinocerebellar ataxia type 17	insomnia (disease)	pontocerebellar hypoplasia type 8
+protein binding	1.0	1.0	1.0	1.0	1.0
+cytoplasm	0.0	0.0	1.0	1.0	1.0
+nucleus	1.0	1.0	1.0	1.0	1.0
+"regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+DNA binding	1.0	1.0	1.0	0.0	0.0
+"negative regulation of transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0
+"transcription, DNA-templated"	1.0	1.0	1.0	1.0	1.0

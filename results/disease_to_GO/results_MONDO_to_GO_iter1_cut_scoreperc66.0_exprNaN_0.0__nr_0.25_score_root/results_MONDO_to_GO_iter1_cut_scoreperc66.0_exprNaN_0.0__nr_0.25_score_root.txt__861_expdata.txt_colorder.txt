@@ -1,0 +1,6 @@
+"x"
+"1" "renal filtration"
+"2" "clathrin-coated vesicle"
+"3" "inositol phosphate phosphatase activity"
+"4" "phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity"
+"5" "response to epinephrine"

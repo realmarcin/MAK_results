@@ -1,0 +1,10 @@
+	acroosteolysis dominant type	Alagille syndrome due to a NOTCH2 point mutation	"ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant"	"ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive"
+integral component of membrane	1.0	1.0	0.0	0.0
+membrane	1.0	1.0	0.0	0.0
+endocrine pancreas development	1.0	1.0	0.0	0.0
+pancreas regeneration	1.0	1.0	0.0	0.0
+vasculature development	1.0	1.0	0.0	0.0
+tissue regeneration	1.0	1.0	0.0	0.0
+face morphogenesis	1.0	1.0	0.0	0.0
+glucose homeostasis	1.0	1.0	0.0	0.0
+cartilage development involved in endochondral bone morphogenesis	1.0	1.0	0.0	0.0

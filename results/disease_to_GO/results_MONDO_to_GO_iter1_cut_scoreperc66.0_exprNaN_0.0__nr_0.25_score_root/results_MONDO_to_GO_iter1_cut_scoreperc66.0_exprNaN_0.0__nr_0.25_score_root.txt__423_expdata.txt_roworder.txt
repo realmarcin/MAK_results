@@ -1,0 +1,4 @@
+"x"
+"1" "nail.patella.syndrome"
+"2" "Curry.Jones.syndrome"
+"3" "renal.cysts.and.diabetes.syndrome"
