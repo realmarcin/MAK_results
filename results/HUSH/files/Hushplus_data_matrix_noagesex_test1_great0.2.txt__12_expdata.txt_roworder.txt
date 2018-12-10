@@ -1,5 +1,0 @@
-"x"
-"1" "Elevated.serum.creatinine"
-"2" "Hyperglycemia"
-"3" "Increased.blood.urea.nitrogen"
-"4" "Decreased.serum.ferritin"

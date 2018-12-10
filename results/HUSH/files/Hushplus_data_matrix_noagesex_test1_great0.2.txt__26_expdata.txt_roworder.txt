@@ -1,6 +1,0 @@
-"x"
-"1" "Decreased.glomerular.filtration.rate"
-"2" "Elevated.serum.creatinine"
-"3" "Lymphopenia"
-"4" "Leukopenia"
-"5" "Neutropenia"

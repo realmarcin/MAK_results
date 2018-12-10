@@ -1,7 +1,0 @@
-"x"
-"1" "Decreased.mean.platelet.volume"
-"2" "Leukopenia"
-"3" "Lymphopenia"
-"4" "Neutropenia"
-"5" "Hypercapnia"
-"6" "Hypoproteinemia"

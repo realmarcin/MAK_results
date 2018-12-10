@@ -1,5 +1,0 @@
-"x"
-"1" "Hyperglycemia"
-"2" "Increased.blood.urea.nitrogen"
-"3" "Elevated.alkaline.phosphatase"
-"4" "Increased.LDL.cholesterol.concentration"
