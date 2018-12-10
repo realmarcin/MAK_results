@@ -1,0 +1,7 @@
+"x"
+"1" "Decreased.glomerular.filtration.rate"
+"2" "Elevated.serum.creatinine"
+"3" "Hyperglycemia"
+"4" "Hypoglycemia"
+"5" "Elevated.erythrocyte.sedimentation.rate"
+"6" "Increased.basophil.count"
