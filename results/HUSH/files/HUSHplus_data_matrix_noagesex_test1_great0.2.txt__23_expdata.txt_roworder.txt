@@ -1,0 +1,7 @@
+"x"
+"1" "Elevated.serum.creatinine"
+"2" "Hyperglycemia"
+"3" "Hypocalcemia"
+"4" "Increased.blood.urea.nitrogen"
+"5" "Decreased.lipoprotein.lipase.activity"
+"6" "Hypocholesterolemia"

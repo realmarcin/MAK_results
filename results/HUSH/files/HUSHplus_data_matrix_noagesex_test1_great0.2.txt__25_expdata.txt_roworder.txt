@@ -1,0 +1,6 @@
+"x"
+"1" "Decreased.glomerular.filtration.rate"
+"2" "Elevated.serum.creatinine"
+"3" "Increased.blood.urea.nitrogen"
+"4" "Hypochloremia"
+"5" "Increased.circulating.thyroxine.level"

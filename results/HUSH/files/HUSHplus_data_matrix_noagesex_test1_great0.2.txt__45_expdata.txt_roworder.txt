@@ -1,0 +1,6 @@
+"x"
+"1" "Elevated.serum.creatinine"
+"2" "Increased.blood.urea.nitrogen"
+"3" "Increased.serum.ferritin"
+"4" "Increased.total.bilirubin"
+"5" "Monocytosis"
