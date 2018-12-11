@@ -1,0 +1,8 @@
+"x"
+"1" "SLC25A41"
+"2" "FKBP6"
+"3" "KCNJ1"
+"4" "CTXN3"
+"5" "PRDM12"
+"6" "SLC34A1"
+"7" "XXbac-BPG32J3.20"
