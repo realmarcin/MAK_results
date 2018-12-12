@@ -1,0 +1,7 @@
+"x"
+"1" "Mettl7a2"
+"2" "c2_tRNA-Lys-AAG"
+"3" "Snord92"
+"4" "Igf2bp1"
+"5" "Pkhd1"
+"6" "Hus1b"

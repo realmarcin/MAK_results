@@ -1,0 +1,7 @@
+"x"
+"1" "Mir669e"
+"2" "c7_tRNA-Ser-TCY"
+"3" "c19_tRNA-Ser-AGY"
+"4" "Pxt1"
+"5" "Gdf6"
+"6" "Msh4"

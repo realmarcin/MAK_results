@@ -1,0 +1,7 @@
+"x"
+"1" "D1Pas1"
+"2" "Mir3086"
+"3" "Rnu11"
+"4" "Zfy1"
+"5" "c13_tRNA-Asp-GAY"
+"6" "c19_tRNA-Gly-GGG"

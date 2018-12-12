@@ -1,0 +1,7 @@
+"x"
+"1" "Gm8300"
+"2" "D530049I02Rik"
+"3" "Mir181b-2"
+"4" "Mir466f-2"
+"5" "c10_tRNA-Asn-AAC"
+"6" "c11_tRNA-Asn-AAC"

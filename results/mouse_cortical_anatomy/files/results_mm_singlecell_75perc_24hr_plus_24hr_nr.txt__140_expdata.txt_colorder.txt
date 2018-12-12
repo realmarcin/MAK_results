@@ -1,0 +1,25 @@
+"x"
+"1" NA
+"2" NA
+"3" NA
+"4" "Slc17a6_tdTpositive_cell_8"
+"5" NA
+"6" "Slc17a6_tdTpositive_cell_18"
+"7" NA
+"8" "Chrna2_tdTpositive_cell_63"
+"9" "Cux2_tdTpositive_cell_55"
+"10" NA
+"11" NA
+"12" "Scnn1a.Tg3_tdTpositive_cell_58"
+"13" NA
+"14" NA
+"15" NA
+"16" "Chrna2_tdTpositive_cell_82"
+"17" "Scnn1a.Tg3_tdTpositive_cell_10"
+"18" NA
+"19" NA
+"20" NA
+"21" "Cux2_tdTpositive_cell_69"
+"22" "Cux2_tdTpositive_cell_65"
+"23" NA
+"24" NA

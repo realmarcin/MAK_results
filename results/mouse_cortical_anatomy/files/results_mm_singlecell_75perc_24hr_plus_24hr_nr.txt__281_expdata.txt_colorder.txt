@@ -1,0 +1,18 @@
+"x"
+"1" NA
+"2" NA
+"3" NA
+"4" "Htr3a_tdTpositive_cell_16"
+"5" NA
+"6" NA
+"7" NA
+"8" "Pvalb_tdTpositive_cell_67"
+"9" NA
+"10" "Rbp4_tdTpositive_cell_174"
+"11" NA
+"12" NA
+"13" NA
+"14" NA
+"15" "Rbp4_tdTpositive_cell_175"
+"16" "Cux2_tdTpositive_cell_77"
+"17" NA

@@ -1,0 +1,7 @@
+"x"
+"1" "Speer3"
+"2" "Vmn1r63"
+"3" "Zscan4a"
+"4" "Vmn2r3"
+"5" "c9_tRNA-Met"
+"6" "Scn4a"

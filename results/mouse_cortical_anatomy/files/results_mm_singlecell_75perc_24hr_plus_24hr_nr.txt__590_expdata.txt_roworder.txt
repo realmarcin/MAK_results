@@ -1,0 +1,8 @@
+"x"
+"1" "Pramel1"
+"2" "Ms4a4d"
+"3" "Btnl9"
+"4" "c2_SSU-rRNA_Hsa"
+"5" "Gm6222"
+"6" "Aqp3"
+"7" "Hoxb9"

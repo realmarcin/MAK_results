@@ -1,0 +1,21 @@
+"x"
+"1" NA
+"2" NA
+"3" NA
+"4" NA
+"5" "Rorb_tdTpositive_cell_34"
+"6" "Ntsr1_tdTpositive_cell_52"
+"7" NA
+"8" NA
+"9" "Scnn1a.Tg3_tdTpositive_cell_86"
+"10" "Rbp4_tdTpositive_cell_175"
+"11" NA
+"12" NA
+"13" NA
+"14" "Ntsr1_tdTnegative_cell_19"
+"15" "Scnn1a.Tg3_tdTnegative_cell_22"
+"16" "Scnn1a.Tg3_tdTpositive_cell_102"
+"17" NA
+"18" NA
+"19" "Rbp4_tdTpositive_cell_174"
+"20" NA

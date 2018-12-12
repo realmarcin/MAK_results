@@ -1,0 +1,7 @@
+"x"
+"1" "Mir29b-2"
+"2" "Smok2b"
+"3" "Svs3b"
+"4" "Ugt2b35"
+"5" "c10_tRNA-Ser-TCA"
+"6" "c11_tRNA-Gln-CAG"

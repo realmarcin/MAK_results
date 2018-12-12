@@ -1,0 +1,7 @@
+"x"
+"1" "c3_tRNA-Ala-GCG"
+"2" "Serpinb9c"
+"3" "Olfr1382"
+"4" "Msh4"
+"5" "Gdf6"
+"6" "Nron"

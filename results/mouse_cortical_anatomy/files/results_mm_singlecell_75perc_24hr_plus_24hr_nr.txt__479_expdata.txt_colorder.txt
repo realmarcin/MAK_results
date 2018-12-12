@@ -1,0 +1,19 @@
+"x"
+"1" NA
+"2" "Rbp4_tdTpositive_cell_150"
+"3" "Ntsr1_tdTnegative_cell_37"
+"4" "Rbp4_tdTpositive_cell_146"
+"5" NA
+"6" "Scnn1a.Tg3_tdTpositive_cell_84"
+"7" "Htr3a_tdTpositive_cell_108"
+"8" NA
+"9" "Scnn1a.Tg3_tdTpositive_cell_59"
+"10" "Ntsr1_tdTnegative_cell_52"
+"11" "Nr5a1_tdTpositive_cell_30"
+"12" "Cux2_tdTpositive_cell_83"
+"13" NA
+"14" "Ntsr1_tdTnegative_cell_50"
+"15" "Scnn1a.Tg3_tdTpositive_cell_35"
+"16" NA
+"17" "Slc17a6_tdTpositive_cell_13"
+"18" "Scnn1a.Tg2_tdTpositive_cell_19"

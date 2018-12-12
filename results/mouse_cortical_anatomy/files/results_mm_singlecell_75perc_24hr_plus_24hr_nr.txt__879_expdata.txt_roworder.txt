@@ -1,0 +1,6 @@
+"x"
+"1" "c4_tRNA-Ala-GCG"
+"2" "1700006H21Rik"
+"3" "Vmn2r89"
+"4" "Apob"
+"5" "Fndc3c1"

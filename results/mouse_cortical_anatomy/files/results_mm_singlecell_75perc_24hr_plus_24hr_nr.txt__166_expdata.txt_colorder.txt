@@ -1,0 +1,19 @@
+"x"
+"1" NA
+"2" "Cux2_tdTnegative_cell_4"
+"3" "Scnn1a.Tg3_tdTnegative_cell_24"
+"4" "Ctgf_tdTpositive_cell_6"
+"5" "Scnn1a.Tg3_tdTnegative_cell_22"
+"6" "Rbp4_tdTnegative_cell_15"
+"7" "Ndnf_tdTpositive_cell_3"
+"8" "Gad2_tdTpositive_cell_16"
+"9" NA
+"10" "Ntsr1_tdTnegative_cell_56"
+"11" "Cux2_tdTnegative_cell_5"
+"12" "Nos1_tdTpositive_cell_54"
+"13" NA
+"14" "Scnn1a.Tg2_tdTnegative_cell_19"
+"15" NA
+"16" "Scnn1a.Tg3_tdTnegative_cell_5"
+"17" NA
+"18" NA

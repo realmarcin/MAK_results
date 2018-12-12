@@ -1,0 +1,18 @@
+"x"
+"1" NA
+"2" "Psmb2"
+"3" "Zcchc14"
+"4" "Tbc1d30"
+"5" "Psmf1"
+"6" NA
+"7" "Miat"
+"8" NA
+"9" "Usp32"
+"10" "Rragd"
+"11" "Phc3"
+"12" "Arf6"
+"13" "Pa2g4"
+"14" "Sin3b"
+"15" "Utrn"
+"16" NA
+"17" "Slc36a1"
