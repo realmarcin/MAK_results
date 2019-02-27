@@ -8,7 +8,7 @@ import numpy as np
 from ontobio.ontol_factory import OntologyFactory
 from ontobio.assoc_factory import AssociationSetFactory
 import requests
-
+import json
 
 HUMAN = 'NCBITaxon:9606'
 
@@ -21,8 +21,8 @@ print("creating...")
 
 ont = ofactory.create('hp')
 aset = afactory.create(ontology=ont,
-                       subject_category='disease',
-                       object_category='phenotype',
+                       subject_category='phenotype',
+                       object_category='disease',
                        taxon=HUMAN)
 
 #ont = ofactory.create('mondo')
@@ -48,7 +48,8 @@ print(aset.annotations("MONDO:0020332"))#disease_ids[5]))
 
 
 
-url = "https://api-dev.monarchinitiative.org/api/ontol/subgraph/hp/HP:0002829"
+#url = "https://api-dev.monarchinitiative.org/api/ontol/subgraph/hp/HP:0002829"
+url = "https://api.monarchinitiative.org/api/ontol/subgraph/hp/HP:0002829"
 data = {"cnode": ["HP:0003477", "HP:0000099", "HP:0002018", "HP:0002586", "HP:0002788", "HP:0003470", "HP:0006528",
 				  "HP:0002721", "HP:0001284", "HP:0002013", "HP:0100598", "HP:0000238", "HP:0002613", "HP:0000554",
 				  "HP:0003453", "HP:0002014", "HP:0000979", "HP:0005681", "HP:0006846", "HP:0001937", "HP:0001875",
@@ -80,25 +81,30 @@ data = {"cnode": ["HP:0003477", "HP:0000099", "HP:0002018", "HP:0002586", "HP:00
 				  "HP:0000978", "HP:0100533", "HP:0011953", "HP:0100608", "HP:0011972", "HP:0006536", "HP:0003613",
 				  "HP:0004420", "HP:0100827", "HP:0000836", "HP:0005310", "HP:0005305", "HP:0002955", "HP:0002625"]}
 
-response = requests.post(url, data)
-response.json()
+#data = {"cnode": ["HP:0003477", "HP:0000099", "HP:0002018", "HP:0002586"]}
 
+responsejson = requests.post(url, data).json()
 
-#sys.exit()
-                
-all_disease_ids = disease_ids
+print("response "+str(responsejson))
+print(responsejson["graphs"][0])
+newids = []
+for n in responsejson["graphs"][0]["nodes"]:
+	newids.append(n["id"])
 
-#print(disease_ids)
-
-enr = aset.enrichment_test(subjects=phenotype_ids, threshold=1, labels=True)#background=phenotype_ids,
+print(newids)
+enr = aset.enrichment_test(subjects=newids, threshold=1, labels=True)#background=phenotype_ids,
 
 print(enr)
 
+#print(disease_ids)
 
+sys.exit()
 
+###
+###IN PROGRESS
+###
 
-
-bg_file = open("disease__by__HPO_matrix_v3_yids.txt", "r")
+bg_file = open("disease__by__HPO_matrix_v4_yids.txt", "r")
 bg_data = bg_file.read().split('\n')
 
 del bg_data[-1]
@@ -107,7 +113,7 @@ del bg_data[-1]
 #sys.exit()
 
 
-phenotype_labels_df= pandas.DataFrame.from_csv("phenotype_labels_v2.txt", sep='\t') 
+phenotype_labels_df= pandas.DataFrame.from_csv("phenotype_labels_v4.txt", sep='\t')
 #print(phenotype_labels_df["label"])
 #sys.exit()
 
