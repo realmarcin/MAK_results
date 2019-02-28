@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "HP:0030731"
+"3" "Squamous cell carcinoma"
+"4" "Colorectal polyposis"
+"5" "HP:0003581"
+"6" "Endometrial carcinoma"

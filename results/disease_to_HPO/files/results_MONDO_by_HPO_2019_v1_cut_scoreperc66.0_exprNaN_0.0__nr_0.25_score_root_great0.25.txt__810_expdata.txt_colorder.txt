@@ -1,0 +1,8 @@
+"x"
+"1" "Absent speech"
+"2" "Muscular hypotonia of the trunk"
+"3" "Polymicrogyria"
+"4" "HP:0031936"
+"5" "Occipital encephalocele"
+"6" "Lissencephaly"
+"7" "Abnormal myelination"

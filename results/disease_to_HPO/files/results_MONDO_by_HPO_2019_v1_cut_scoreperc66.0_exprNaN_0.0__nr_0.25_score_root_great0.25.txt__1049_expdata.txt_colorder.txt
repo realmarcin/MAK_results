@@ -1,0 +1,7 @@
+"x"
+"1" "Overweight"
+"2" "Minicore myopathy"
+"3" "Gastrostomy tube feeding in infancy"
+"4" "Extra-axial cerebrospinal fluid accumulation"
+"5" "Reduced brain N-acetyl aspartate level by MRS"
+"6" "HP:0010647"

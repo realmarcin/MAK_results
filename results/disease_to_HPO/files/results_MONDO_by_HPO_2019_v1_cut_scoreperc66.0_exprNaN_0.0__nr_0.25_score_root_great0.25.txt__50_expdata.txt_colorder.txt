@@ -1,0 +1,8 @@
+"x"
+"1" "Hypernatriuria"
+"2" "Vomiting"
+"3" "Hyperkalemia"
+"4" "Hyponatremia"
+"5" "Renal salt wasting"
+"6" "HP:0004319"
+"7" "Hypovolemia"

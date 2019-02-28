@@ -1,0 +1,13 @@
+	"MONDO.0008620"	"MONDO.0009997"	"MONDO.0010923"	"MONDO.0011199"	"MONDO.0013234"
+"Pes planus"	0.0	0.0	1.0	0.0	0.0
+"HP:0001596"	0.0	0.0	1.0	0.0	0.0
+"Short stature"	1.0	0.0	1.0	1.0	1.0
+"Osteopenia"	0.0	0.0	0.0	0.0	1.0
+"Genu valgum"	0.0	0.0	1.0	0.0	0.0
+"Fatigue"	0.0	0.0	1.0	0.0	0.0
+"HP:0003745"	0.0	0.0	1.0	0.0	0.0
+"Hyperlordosis"	0.0	0.0	1.0	0.0	0.0
+"Large iliac wings"	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the hip bone"	1.0	0.0	1.0	0.0	1.0
+"Abnormality of the wrist"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of the metaphysis"	1.0	0.0	1.0	1.0	1.0

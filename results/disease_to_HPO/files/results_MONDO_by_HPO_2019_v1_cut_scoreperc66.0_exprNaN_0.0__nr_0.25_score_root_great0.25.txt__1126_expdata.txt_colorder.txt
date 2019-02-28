@@ -1,0 +1,6 @@
+"x"
+"1" "Short ribs"
+"2" "Ovoid vertebral bodies"
+"3" "Lateral clavicle hook"
+"4" "Increased fibular diameter"
+"5" "Snail-like ilia"

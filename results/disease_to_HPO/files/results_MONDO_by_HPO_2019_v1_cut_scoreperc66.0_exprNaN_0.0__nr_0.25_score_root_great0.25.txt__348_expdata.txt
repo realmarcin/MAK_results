@@ -1,0 +1,9 @@
+	"MONDO.0008964"	"MONDO.0010386"	"MONDO.0010505"	"MONDO.0021105"	"MONDO.0014055"	"MONDO.0014307"
+"HP:0003828"	0.0	0.0	1.0	1.0	1.0	1.0
+"Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Fever"	1.0	1.0	0.0	0.0	1.0	1.0
+"Erythema nodosum"	0.0	1.0	0.0	0.0	0.0	1.0
+"Immunodeficiency"	1.0	1.0	0.0	0.0	0.0	1.0
+"Aplastic anemia"	0.0	1.0	0.0	0.0	1.0	0.0
+"Lymphoma"	1.0	0.0	0.0	0.0	1.0	0.0
+"Decreased antibody level in blood"	0.0	1.0	1.0	0.0	1.0	1.0

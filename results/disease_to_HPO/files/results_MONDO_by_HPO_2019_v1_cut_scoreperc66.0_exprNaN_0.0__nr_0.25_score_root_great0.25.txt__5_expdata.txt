@@ -1,0 +1,11 @@
+	"MONDO.0007079"	"MONDO.0008750"	"MONDO.0011303"	"MONDO.0012912"
+"Elevated circulating parathyroid hormone level"	1.0	1.0	1.0	1.0
+"Paresthesia"	1.0	1.0	1.0	1.0
+"Pseudohypoparathyroidism"	1.0	1.0	1.0	1.0
+"Hyperphosphatemia"	1.0	1.0	1.0	1.0
+"Hypocalcemic tetany"	1.0	1.0	1.0	1.0
+"Elevated calcitonin"	1.0	0.0	0.0	0.0
+"Prolonged QT interval"	1.0	1.0	1.0	1.0
+"Myoclonic spasms"	1.0	1.0	1.0	1.0
+"Laryngeal dystonia"	1.0	1.0	1.0	1.0
+"Abdominal symptom"	1.0	1.0	1.0	1.0

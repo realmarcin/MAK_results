@@ -1,0 +1,9 @@
+	"MONDO.0011146"	"MONDO.0014240"	"MONDO.0060490"
+"Cryptorchidism"	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	0.0
+"Arachnoid cyst"	1.0	0.0	0.0
+"Hypogonadism"	1.0	0.0	0.0
+"Obesity"	1.0	0.0	0.0
+"Retinal coloboma"	1.0	0.0	0.0
+"Intellectual disability, borderline"	1.0	0.0	0.0
+"Gynecomastia"	1.0	0.0	0.0

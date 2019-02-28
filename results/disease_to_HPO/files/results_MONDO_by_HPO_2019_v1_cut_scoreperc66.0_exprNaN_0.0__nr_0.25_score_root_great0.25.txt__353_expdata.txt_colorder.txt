@@ -1,0 +1,4 @@
+"x"
+"1" "Dens in dente"
+"2" "Short pointed phalanges"
+"3" "Vaginal hernia"

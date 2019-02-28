@@ -1,0 +1,14 @@
+	"MONDO.0014007"	"MONDO.0014742"	"MONDO.0014752"	"MONDO.0014758"
+"Frontal bossing"	0.0	0.0	1.0	0.0
+"Bulbous nose"	1.0	1.0	0.0	1.0
+"Tapered finger"	0.0	0.0	1.0	1.0
+"Abnormality of the cardiac septa"	1.0	0.0	0.0	1.0
+"Nystagmus"	1.0	0.0	0.0	0.0
+"Aggressive behavior"	1.0	1.0	0.0	0.0
+"Sensorineural hearing impairment"	0.0	1.0	0.0	1.0
+"Exotropia"	0.0	0.0	1.0	1.0
+"Widely spaced teeth"	0.0	0.0	1.0	1.0
+"Syringomyelia"	0.0	0.0	1.0	0.0
+"Overfolded helix"	0.0	0.0	0.0	0.0
+"Cerebellar hypoplasia"	1.0	0.0	0.0	1.0
+"Blue sclerae"	0.0	0.0	1.0	0.0

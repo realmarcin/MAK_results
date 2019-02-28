@@ -1,0 +1,5 @@
+"x"
+"1" "Impaired pain sensation"
+"2" "Bulbous nose"
+"3" "Delayed speech and language development"
+"4" "Deeply set eye"

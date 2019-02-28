@@ -1,0 +1,9 @@
+	"MONDO.0009459"	"MONDO.0009965"	"MONDO.0010805"	"MONDO.0011094"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Depressed nasal bridge"	1.0	0.0	0.0	1.0
+"Bifid uvula"	0.0	1.0	0.0	1.0
+"Short stature"	0.0	1.0	1.0	1.0
+"Submucous cleft hard palate"	0.0	0.0	0.0	1.0
+"Heparan sulfate excretion in urine"	0.0	0.0	0.0	1.0
+"Keratan sulfate excretion in urine"	0.0	0.0	0.0	1.0
+"Abnormality of the acetabulum"	0.0	0.0	1.0	1.0

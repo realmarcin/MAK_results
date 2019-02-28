@@ -1,0 +1,6 @@
+	"MONDO.0009144"	"MONDO.0009403"	"MONDO.0009499"	"MONDO.0012538"	"MONDO.0014970"
+"Shawl scrotum"	1.0	1.0	0.0	0.0	0.0
+"Large fontanelles"	0.0	1.0	0.0	0.0	1.0
+"Delayed cranial suture closure"	0.0	1.0	0.0	1.0	0.0
+"Wide anterior fontanel"	0.0	1.0	1.0	1.0	0.0
+"Breech presentation"	1.0	0.0	1.0	1.0	1.0

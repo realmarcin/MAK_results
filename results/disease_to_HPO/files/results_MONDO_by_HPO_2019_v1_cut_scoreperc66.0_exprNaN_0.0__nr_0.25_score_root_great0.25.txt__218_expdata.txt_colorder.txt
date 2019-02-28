@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Patellar aplasia"
+"3" "Cryptorchidism"
+"4" "Intellectual disability"
+"5" "Cleft palate"
+"6" "Bimanual synkinesia"

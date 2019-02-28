@@ -1,0 +1,5 @@
+"x"
+"1" "Short columella"
+"2" "Ventriculomegaly"
+"3" "HP:0008897"
+"4" "Prominent forehead"

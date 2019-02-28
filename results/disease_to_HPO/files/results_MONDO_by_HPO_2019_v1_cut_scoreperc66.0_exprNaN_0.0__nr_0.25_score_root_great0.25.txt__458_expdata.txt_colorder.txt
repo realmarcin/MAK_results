@@ -1,0 +1,5 @@
+"x"
+"1" "Eruptive xanthomas"
+"2" "Increased circulating chylomicron levels"
+"3" "Lipemia retinalis"
+"4" "Lactescent serum"

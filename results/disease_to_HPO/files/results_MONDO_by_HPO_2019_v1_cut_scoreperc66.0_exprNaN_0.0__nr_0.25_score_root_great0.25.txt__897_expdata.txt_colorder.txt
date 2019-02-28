@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Intellectual disability"
+"3" "Goiter"
+"4" "Thyroid carcinoma"
+"5" "Compensated hypothyroidism"
+"6" "Increased T3/T4 ratio"

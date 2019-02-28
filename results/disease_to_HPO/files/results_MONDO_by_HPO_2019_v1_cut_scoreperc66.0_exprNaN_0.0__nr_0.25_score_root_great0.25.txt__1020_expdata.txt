@@ -1,0 +1,8 @@
+	"MONDO.0007653"	"MONDO.0008761"	"MONDO.0009493"	"MONDO.0009835"	"MONDO.0013469"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	0.0	0.0	1.0
+"Spasticity"	0.0	0.0	0.0	0.0	1.0
+"Micropenis"	0.0	0.0	0.0	0.0	1.0
+"Elevated hepatic transaminases"	0.0	0.0	0.0	0.0	1.0
+"Rod-cone dystrophy"	0.0	0.0	0.0	0.0	1.0
+"Cystoid macular edema"	0.0	0.0	0.0	0.0	1.0

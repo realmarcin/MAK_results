@@ -1,0 +1,7 @@
+"x"
+"1" "Thin anteverted nares"
+"2" "Conotruncal defect"
+"3" "Abnormality of the pulmonary veins"
+"4" "Aplasia/Hypoplasia of the inner ear"
+"5" "Abnormal cardiac ventricle morphology"
+"6" "HP:0005120"

@@ -1,0 +1,8 @@
+"x"
+"1" "Fatigue"
+"2" "Myalgia"
+"3" "Muscle cramps"
+"4" "Urticaria"
+"5" "Purpura"
+"6" "Chest pain"
+"7" "Malabsorption"

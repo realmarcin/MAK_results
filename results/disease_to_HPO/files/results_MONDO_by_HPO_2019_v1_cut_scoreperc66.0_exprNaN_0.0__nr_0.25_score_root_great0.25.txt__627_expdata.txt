@@ -1,0 +1,8 @@
+	"MONDO.0009429"	"MONDO.0009811"	"MONDO.0010904"	"MONDO.0011945"	"MONDO.0012592"	"MONDO.0013298"
+"HP:0000007"	1.0	1.0	0.0	1.0	0.0	0.0
+"Short stature"	1.0	1.0	0.0	1.0	1.0	1.0
+"Intellectual disability, mild"	0.0	1.0	0.0	1.0	0.0	1.0
+"HP:0003621"	0.0	1.0	0.0	1.0	0.0	0.0
+"Proptosis"	1.0	1.0	0.0	0.0	0.0	0.0
+"Short distal phalanx of finger"	0.0	1.0	0.0	0.0	0.0	1.0
+"Abnormality of the foot"	0.0	1.0	0.0	0.0	0.0	1.0

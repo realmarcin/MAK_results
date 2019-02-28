@@ -1,0 +1,8 @@
+	"MONDO.0013511"	"MONDO.0013656"	"MONDO.0014699"	"MONDO.0014860"	"MONDO.0033367"
+"Intellectual disability"	1.0	1.0	0.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Myoclonus"	0.0	1.0	0.0	1.0	1.0
+"Spasticity"	1.0	1.0	1.0	1.0	1.0
+"Absent speech"	0.0	1.0	1.0	1.0	1.0
+"EEG abnormality"	1.0	1.0	1.0	0.0	1.0
+"Cortical visual impairment"	0.0	1.0	1.0	0.0	0.0

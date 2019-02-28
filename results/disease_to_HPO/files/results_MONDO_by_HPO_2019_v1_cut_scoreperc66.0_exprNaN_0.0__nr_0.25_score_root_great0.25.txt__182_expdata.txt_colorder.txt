@@ -1,0 +1,7 @@
+"x"
+"1" "Intellectual disability"
+"2" "HP:0000007"
+"3" "Ventricular septal defect"
+"4" "Patent ductus arteriosus"
+"5" "Generalized hypotonia"
+"6" "Patent foramen ovale"

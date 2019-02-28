@@ -1,0 +1,15 @@
+	"MONDO.0007079"	"MONDO.0011303"	"MONDO.0012912"	"MONDO.0012914"
+"Broad distal phalanx of the thumb"	1.0	0.0	1.0	0.0
+"Hypogonadism"	1.0	0.0	1.0	0.0
+"Choroid plexus calcification"	1.0	0.0	1.0	0.0
+"Constrictive median neuropathy"	1.0	0.0	1.0	0.0
+"Short 4th metacarpal"	1.0	0.0	1.0	0.0
+"Short fifth metatarsal"	1.0	0.0	1.0	0.0
+"Short 5th metacarpal"	1.0	0.0	1.0	0.0
+"Short 3rd metacarpal"	1.0	0.0	1.0	0.0
+"Confusion"	1.0	0.0	1.0	0.0
+"Hypergonadotropic hypogonadism"	1.0	0.0	1.0	0.0
+"Osteoma cutis"	1.0	0.0	1.0	0.0
+"Oligomenorrhea"	1.0	0.0	1.0	0.0
+"Ectopic ossification"	1.0	0.0	1.0	0.0
+"Prolactin deficiency"	1.0	0.0	1.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0008994"	"MONDO.0010669"	"MONDO.0013586"	"MONDO.0013610"	"MONDO.0014414"	"MONDO.0014578"	"MONDO.0014689"
+"Abducens palsy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Postaxial polydactyly"	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Molar tooth sign on MRI"	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Thoracic hemivertebrae"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Cranial nerve VI palsy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the sacrum"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

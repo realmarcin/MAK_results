@@ -1,0 +1,6 @@
+"x"
+"1" "Arteriovenous fistula"
+"2" "Peripheral arteriovenous fistula"
+"3" "Lymphangioma"
+"4" "Hypertrophy of the upper limb"
+"5" "Hypertrophy of the lower limb"

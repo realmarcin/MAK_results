@@ -1,0 +1,7 @@
+	"MONDO.0009670"	"MONDO.0014550"	"MONDO.0014966"
+"HP:0000007"	1.0	1.0	1.0
+"Atrial septal defect"	1.0	0.0	0.0
+"Sprengel anomaly"	0.0	0.0	0.0
+"Proximal muscle weakness in lower limbs"	1.0	0.0	0.0
+"Decreased fetal movement"	1.0	1.0	1.0
+"Tongue fasciculations"	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0011411"	"MONDO.0024556"	"MONDO.0011490"	"MONDO.0011787"	"MONDO.0011859"	"MONDO.0013738"
+"Lower limb muscle weakness"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ankle clonus"	1.0	1.0	1.0	1.0	1.0	1.0
+"Impaired vibration sensation in the lower limbs"	1.0	1.0	1.0	1.0	1.0	1.0
+"Knee clonus"	1.0	1.0	1.0	1.0	1.0	1.0
+"Limb dysmetria"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal morphology of the left ventricle"	0.0	0.0	0.0	0.0	0.0	0.0

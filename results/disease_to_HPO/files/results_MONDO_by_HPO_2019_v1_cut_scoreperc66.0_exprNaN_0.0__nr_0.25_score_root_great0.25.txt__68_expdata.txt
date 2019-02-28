@@ -1,0 +1,8 @@
+	"MONDO.0010486"	"MONDO.0013322"	"MONDO.0014239"	"MONDO.0014351"
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Short stature"	1.0	1.0	1.0	1.0
+"Kyphoscoliosis"	1.0	0.0	1.0	1.0
+"Deeply set eye"	0.0	1.0	1.0	0.0
+"Anteverted ears"	1.0	0.0	1.0	0.0

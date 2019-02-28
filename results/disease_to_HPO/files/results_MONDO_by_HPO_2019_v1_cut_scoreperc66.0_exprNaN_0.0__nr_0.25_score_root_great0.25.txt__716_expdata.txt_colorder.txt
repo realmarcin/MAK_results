@@ -1,0 +1,7 @@
+"x"
+"1" "Short 4th toe"
+"2" "Short 5th toe"
+"3" "Short 3rd toe"
+"4" "Short 2nd toe"
+"5" "Deformed radius"
+"6" "Axillary apocrine gland hypoplasia"

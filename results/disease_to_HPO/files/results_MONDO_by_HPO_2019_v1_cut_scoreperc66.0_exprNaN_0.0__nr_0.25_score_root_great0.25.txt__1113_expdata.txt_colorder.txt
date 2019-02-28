@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Rod-cone dystrophy"
+"3" "Dilatation of the abdominal aorta"
+"4" "Hydroureter"
+"5" "Xerostomia"
+"6" "Abnormality of the skin"
+"7" "Congenital hip dislocation"

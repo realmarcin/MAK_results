@@ -1,0 +1,7 @@
+	"MONDO.0007447"	"MONDO.0009220"	"MONDO.0011040"	"MONDO.0012503"
+"Abnormality of the thorax"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	1.0
+"Abnormality of the skin"	1.0	1.0	1.0	1.0
+"Abnormality of the respiratory system"	0.0	1.0	0.0	0.0
+"Limitation of joint mobility"	0.0	1.0	0.0	0.0
+"Contractures of the joints of the lower limbs"	0.0	1.0	0.0	0.0

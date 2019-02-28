@@ -1,0 +1,10 @@
+	"MONDO.0007033"	"MONDO.0056822"	"MONDO.0009001"	"MONDO.0009220"	"MONDO.0009907"	"MONDO.0012503"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hydroureter"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hydronephrosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Xerostomia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Pectus carinatum"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the skin"	1.0	1.0	1.0	1.0	1.0	1.0
+"Congenital hip dislocation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Oligohydramnios"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal heart morphology"	1.0	0.0	0.0	0.0	0.0	0.0

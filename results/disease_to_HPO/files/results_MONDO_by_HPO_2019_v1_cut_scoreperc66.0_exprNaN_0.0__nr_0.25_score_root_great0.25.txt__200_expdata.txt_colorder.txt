@@ -1,0 +1,6 @@
+"x"
+"1" "Astrocytoma"
+"2" "Medulloblastoma"
+"3" "Glioblastoma multiforme"
+"4" "Ependymoma"
+"5" "HP:0001428"

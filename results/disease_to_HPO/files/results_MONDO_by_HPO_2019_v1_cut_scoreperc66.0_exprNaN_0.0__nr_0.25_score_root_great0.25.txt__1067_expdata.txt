@@ -1,0 +1,15 @@
+	"MONDO.0011201"	"MONDO.0011266"	"MONDO.0014020"	"MONDO.0014628"
+"HP:0000007"	0.0	0.0	0.0	1.0
+"Dysarthria"	0.0	1.0	0.0	0.0
+"Abnormality of the larynx"	0.0	0.0	1.0	0.0
+"Paroxysmal dystonia"	0.0	0.0	0.0	0.0
+"Limb dystonia"	0.0	1.0	1.0	1.0
+"Generalized dystonia"	0.0	1.0	0.0	0.0
+"Postural tremor"	0.0	0.0	0.0	1.0
+"HP:0011462"	0.0	0.0	0.0	0.0
+"Abnormality of the head"	0.0	1.0	0.0	0.0
+"Head tremor"	0.0	0.0	1.0	0.0
+"Axial dystonia"	0.0	0.0	0.0	1.0
+"Oromandibular dystonia"	1.0	1.0	1.0	1.0
+"Lingual dystonia"	0.0	1.0	0.0	0.0
+"HP:0012477"	0.0	0.0	1.0	0.0

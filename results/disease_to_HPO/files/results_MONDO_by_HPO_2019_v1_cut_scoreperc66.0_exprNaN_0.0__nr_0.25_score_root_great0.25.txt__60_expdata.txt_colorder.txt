@@ -1,0 +1,6 @@
+"x"
+"1" "Cerebellar atrophy"
+"2" "Gait ataxia"
+"3" "Dysarthria"
+"4" "Limb ataxia"
+"5" "Babinski sign"

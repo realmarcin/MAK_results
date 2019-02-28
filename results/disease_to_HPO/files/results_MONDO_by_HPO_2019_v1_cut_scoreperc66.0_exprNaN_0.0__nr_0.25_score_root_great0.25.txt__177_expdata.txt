@@ -1,0 +1,8 @@
+	"MONDO.0010465"	"MONDO.0013638"	"MONDO.0014236"
+"Seizures"	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	0.0
+"Low-set ears"	1.0	1.0	0.0
+"Macrocephaly"	1.0	1.0	0.0
+"Aplasia cutis congenita"	0.0	1.0	0.0
+"Retrocerebellar cyst"	0.0	1.0	0.0

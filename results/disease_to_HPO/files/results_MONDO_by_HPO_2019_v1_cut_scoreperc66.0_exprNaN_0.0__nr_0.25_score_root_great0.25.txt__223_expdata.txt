@@ -1,0 +1,8 @@
+	"MONDO.0007988"	"MONDO.0008479"	"MONDO.0009131"	"MONDO.0010077"	"MONDO.0033372"
+"Platyspondyly"	1.0	1.0	1.0	1.0	1.0
+"Broad foot"	0.0	0.0	1.0	1.0	0.0
+"Hypoplastic pelvis"	1.0	1.0	0.0	1.0	0.0
+"Micromelia"	1.0	1.0	1.0	1.0	0.0
+"Disproportionate short-trunk short stature"	1.0	0.0	1.0	1.0	0.0
+"Metaphyseal dysplasia"	0.0	1.0	0.0	1.0	1.0
+"Enlargement of the costochondral junction"	0.0	0.0	1.0	1.0	0.0

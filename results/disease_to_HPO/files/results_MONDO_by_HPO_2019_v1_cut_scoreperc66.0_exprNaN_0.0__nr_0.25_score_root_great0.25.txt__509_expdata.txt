@@ -1,0 +1,8 @@
+	"MONDO.0008564"	"MONDO.0010833"	"MONDO.0011653"	"MONDO.0014199"	"MONDO.0014442"	"MONDO.0014444"
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Epicanthus"	0.0	0.0	1.0	1.0	0.0	0.0
+"Thick eyebrow"	0.0	0.0	1.0	1.0	0.0	0.0
+"Obesity"	1.0	1.0	1.0	0.0	1.0	1.0
+"Gastroesophageal reflux"	0.0	0.0	1.0	1.0	0.0	0.0
+"Protruding ear"	0.0	0.0	1.0	1.0	0.0	0.0
+"Concave nasal ridge"	0.0	0.0	1.0	1.0	0.0	0.0

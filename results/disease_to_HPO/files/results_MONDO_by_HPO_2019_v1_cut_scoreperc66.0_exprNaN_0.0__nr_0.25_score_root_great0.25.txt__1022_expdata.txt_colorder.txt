@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Narrow chest"
+"3" "Broad distal phalanx of finger"
+"4" "Bone marrow hypocellularity"
+"5" "Recurrent pneumonia"
+"6" "Pes valgus"
+"7" "Broad phalanx of the toes"

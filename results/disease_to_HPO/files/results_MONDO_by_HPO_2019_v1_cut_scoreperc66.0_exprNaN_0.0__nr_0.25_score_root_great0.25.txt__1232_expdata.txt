@@ -1,0 +1,5 @@
+	"MONDO.0024264"	"MONDO.0013051"	"MONDO.0013528"	"MONDO.0013542"	"MONDO.0013786"	"MONDO.0013813"	"MONDO.0013950"	"MONDO.0014086"	"MONDO.0014597"	"MONDO.0014993"
+"Talipes calcaneovalgus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Nephrogenic diabetes insipidus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Lissencephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Giant cell hepatitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

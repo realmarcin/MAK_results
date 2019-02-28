@@ -1,0 +1,5 @@
+"x"
+"1" "Myeloid leukemia"
+"2" "Recurrent mycobacterium avium complex infections"
+"3" "Monocytopenia"
+"4" "Abnormal natural killer morphology"

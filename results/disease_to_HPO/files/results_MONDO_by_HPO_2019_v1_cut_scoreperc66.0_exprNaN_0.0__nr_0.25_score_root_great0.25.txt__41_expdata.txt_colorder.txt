@@ -1,0 +1,4 @@
+"x"
+"1" "Bulging epiphyses"
+"2" "Enlargement of the wrists"
+"3" "Enlargement of the ankles"

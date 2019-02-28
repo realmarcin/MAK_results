@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Intellectual disability"
+"3" "Hyperpigmentation of the skin"
+"4" "Sparse eyelashes"
+"5" "Pterygium"
+"6" "Esophageal stricture"
+"7" "Pterygium of nails"

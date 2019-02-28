@@ -1,0 +1,12 @@
+	"MONDO.0007805"	"MONDO.0024536"	"MONDO.0008792"	"MONDO.0009795"	"MONDO.0054742"	"MONDO.0011261"	"MONDO.0009801"
+"Oligohydramnios"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Toe syndactyly"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Bifid uvula"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Choanal atresia"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Postaxial hand polydactyly"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Short nose"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Intrauterine growth retardation"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Depressed nasal ridge"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Posteriorly rotated ears"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Accessory oral frenulum"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Decreased testicular size"	1.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Microcephaly"
+"3" "Microphthalmia"
+"4" "Narrow mouth"
+"5" "Humeroradial synostosis"
+"6" "Oligodactyly"
+"7" "Forearm undergrowth"

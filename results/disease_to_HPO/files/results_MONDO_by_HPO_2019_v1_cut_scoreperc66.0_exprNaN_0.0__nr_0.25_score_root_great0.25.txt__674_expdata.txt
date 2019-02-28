@@ -1,0 +1,9 @@
+	"MONDO.0007422"	"MONDO.0007505"	"MONDO.0007970"	"MONDO.0008164"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Conductive hearing impairment"	1.0	0.0	0.0	1.0
+"Facial palsy"	1.0	0.0	1.0	0.0
+"Facial paralysis"	1.0	0.0	0.0	0.0
+"Abnormality of the stapes"	1.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the earlobes"	1.0	0.0	0.0	0.0
+"Hypoplasia of the antihelix"	1.0	0.0	0.0	0.0
+"Abnormality of periauricular region"	1.0	0.0	0.0	0.0

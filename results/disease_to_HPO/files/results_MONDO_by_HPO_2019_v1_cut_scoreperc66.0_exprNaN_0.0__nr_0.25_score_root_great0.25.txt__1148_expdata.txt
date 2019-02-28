@@ -1,0 +1,32 @@
+	"MONDO.0007495"	"MONDO.0009054"	"MONDO.0014205"	"MONDO.0054588"
+"Cryptorchidism"	0.0	1.0	0.0	0.0
+"Hyperextensible skin"	0.0	1.0	0.0	0.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0
+"Congenital hip dislocation"	0.0	1.0	0.0	0.0
+"Brachycephaly"	0.0	1.0	0.0	0.0
+"Frontal bossing"	0.0	1.0	0.0	0.0
+"Low-set ears"	0.0	1.0	0.0	0.0
+"Large fontanelles"	0.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	1.0	0.0	0.0
+"Narrow mouth"	0.0	1.0	0.0	0.0
+"Delayed skeletal maturation"	0.0	1.0	0.0	0.0
+"Severe short stature"	0.0	1.0	0.0	0.0
+"Inguinal hernia"	0.0	1.0	0.0	0.0
+"Umbilical hernia"	0.0	1.0	0.0	0.0
+"Wormian bones"	0.0	1.0	0.0	0.0
+"Thin skin"	0.0	1.0	0.0	0.0
+"HP:0003745"	0.0	1.0	0.0	0.0
+"Cataract"	0.0	1.0	0.0	0.0
+"Myopia"	0.0	1.0	0.0	0.0
+"Cutis laxa"	0.0	1.0	0.0	0.0
+"Adducted thumb"	0.0	1.0	0.0	0.0
+"Joint hypermobility"	0.0	1.0	0.0	0.0
+"Prominent forehead"	0.0	1.0	0.0	0.0
+"Sparse hair"	0.0	1.0	0.0	0.0
+"Athetosis"	1.0	1.0	1.0	1.0
+"Hypotelorism"	0.0	1.0	0.0	0.0
+"Narrow nasal ridge"	0.0	1.0	0.0	0.0
+"Corneal arcus"	0.0	1.0	0.0	0.0
+"Prominent superficial blood vessels"	0.0	1.0	0.0	0.0
+"Wide cranial sutures"	0.0	1.0	0.0	0.0
+"Joint hyperflexibility"	0.0	1.0	0.0	0.0

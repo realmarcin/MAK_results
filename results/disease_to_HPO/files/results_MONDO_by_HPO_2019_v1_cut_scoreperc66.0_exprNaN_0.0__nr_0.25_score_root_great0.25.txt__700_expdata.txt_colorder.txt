@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Medulloblastoma"
+"3" "Nephroblastoma"
+"4" "Rhabdomyosarcoma"
+"5" "Cafe-au-lait spot"
+"6" "Deep philtrum"
+"7" "Acute leukemia"

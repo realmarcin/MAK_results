@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Cone-shaped epiphyses of the phalanges of the hand"
+"3" "Micromelia"
+"4" "Short metacarpal"
+"5" "Metaphyseal dysplasia"
+"6" "Metaphyseal irregularity"

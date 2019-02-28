@@ -1,0 +1,7 @@
+"x"
+"1" "Extrapyramidal muscular rigidity"
+"2" "Loss of facial expression"
+"3" "Abnormal pupillary function"
+"4" "Diffuse spongiform leukoencephalopathy"
+"5" "Hypersomnia"
+"6" "Akinetic mutism"

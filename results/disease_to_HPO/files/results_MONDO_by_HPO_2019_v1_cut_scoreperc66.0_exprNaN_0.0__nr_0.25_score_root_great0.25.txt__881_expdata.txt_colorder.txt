@@ -1,0 +1,6 @@
+"x"
+"1" "Cerebellar medulloblastoma"
+"2" "Total ophthalmoplegia"
+"3" "Abnormal brain FDG positron emission tomography"
+"4" "Chronic disseminated intravascular coagulation"
+"5" "Cerebellar ataxia associated with quadrupedal gait"

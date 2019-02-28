@@ -1,0 +1,13 @@
+	"MONDO.0007253"	"MONDO.0007877"	"MONDO.0008017"	"MONDO.0010883"	"MONDO.0014029"
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0
+"Facial asymmetry"	1.0	0.0	1.0	0.0	0.0
+"Deep philtrum"	0.0	0.0	1.0	0.0	0.0
+"Dysphagia"	0.0	1.0	1.0	0.0	0.0
+"Hip dislocation"	0.0	0.0	1.0	0.0	1.0
+"Abnormality of the musculature"	0.0	0.0	1.0	0.0	0.0
+"Hammertoe"	0.0	0.0	1.0	0.0	0.0
+"Cutaneous syndactyly of toes"	0.0	0.0	1.0	0.0	0.0
+"Limitation of joint mobility"	1.0	0.0	1.0	0.0	0.0
+"Feeding difficulties"	0.0	0.0	1.0	0.0	0.0
+"Tall chin"	0.0	0.0	1.0	0.0	0.0
+"Symphalangism affecting the phalanges of the hand"	0.0	0.0	1.0	1.0	0.0

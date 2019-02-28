@@ -1,0 +1,5 @@
+"x"
+"1" "Pes cavus"
+"2" "Areflexia"
+"3" "Neutral hyperaminoaciduria"
+"4" "Abnormal urinary color"

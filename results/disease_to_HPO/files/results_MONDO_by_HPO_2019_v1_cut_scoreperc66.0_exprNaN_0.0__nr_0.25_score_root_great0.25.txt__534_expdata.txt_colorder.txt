@@ -1,0 +1,5 @@
+"x"
+"1" "Dysharmonic delayed bone age"
+"2" "Severe generalized osteoporosis"
+"3" "Dislocation of the femoral head"
+"4" "Flat sella turcica"

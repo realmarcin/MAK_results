@@ -1,0 +1,7 @@
+"x"
+"1" "Patellar subluxation"
+"2" "Crumpled ear"
+"3" "Abnormally folded helix"
+"4" "Congenital kyphoscoliosis"
+"5" "Calf muscle hypoplasia"
+"6" "HP:0010577"

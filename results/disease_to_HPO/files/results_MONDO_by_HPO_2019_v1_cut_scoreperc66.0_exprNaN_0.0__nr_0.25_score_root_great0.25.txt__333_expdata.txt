@@ -1,0 +1,12 @@
+	"MONDO.0007299"	"MONDO.0010406"	"MONDO.0011898"	"MONDO.0013725"
+"HP:0003812"	1.0	0.0	1.0	1.0
+"Hypodontia"	0.0	0.0	1.0	1.0
+"Cerebellar atrophy"	1.0	0.0	1.0	1.0
+"Cerebral hypomyelination"	0.0	0.0	0.0	1.0
+"Oligodontia"	0.0	0.0	1.0	1.0
+"Myopia"	0.0	0.0	1.0	1.0
+"Dysarthria"	1.0	1.0	1.0	1.0
+"Impaired horizontal smooth pursuit"	0.0	0.0	0.0	1.0
+"Hypogonadotrophic hypogonadism"	0.0	0.0	1.0	1.0
+"Dysmetria"	1.0	0.0	1.0	1.0
+"Leukodystrophy"	0.0	0.0	1.0	1.0

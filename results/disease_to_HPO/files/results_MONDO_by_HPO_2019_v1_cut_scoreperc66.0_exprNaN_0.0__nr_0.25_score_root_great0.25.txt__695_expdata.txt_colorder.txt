@@ -1,0 +1,8 @@
+"x"
+"1" "Type 1 muscle fiber predominance"
+"2" "EMG: myopathic abnormalities"
+"3" "Scapuloperoneal weakness"
+"4" "Scapuloperoneal amyotrophy"
+"5" "Abnormality of the cardiovascular system"
+"6" "Calf muscle pseudohypertrophy"
+"7" "Generalized limb muscle atrophy"

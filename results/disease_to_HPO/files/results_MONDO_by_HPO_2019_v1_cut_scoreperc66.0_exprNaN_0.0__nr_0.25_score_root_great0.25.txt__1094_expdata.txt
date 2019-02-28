@@ -1,0 +1,10 @@
+	"MONDO.0009485"	"MONDO.0009664"	"MONDO.0030907"	"MONDO.0012162"	"MONDO.0014911"
+"Headache"	1.0	0.0	0.0	0.0	0.0
+"Absent frontal sinuses"	1.0	0.0	0.0	0.0	0.0
+"Pneumonia"	1.0	0.0	0.0	0.0	0.0
+"Anosmia"	1.0	0.0	0.0	0.0	0.0
+"Communicating hydrocephalus"	1.0	0.0	0.0	0.0	0.0
+"Asplenia"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the cornea"	1.0	0.0	0.0	0.0	0.0
+"Bronchiectasis"	1.0	1.0	1.0	1.0	1.0
+"Ciliary dyskinesia"	1.0	0.0	0.0	0.0	0.0

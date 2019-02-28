@@ -1,0 +1,7 @@
+	"MONDO.0009064"	"MONDO.0009362"	"MONDO.0013159"	"MONDO.0013173"	"MONDO.0014102"	"MONDO.0014117"	"MONDO.0014171"	"MONDO.0014172"
+"Seizures"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Reduced visual acuity"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Respiratory insufficiency due to muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Large eyes"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Poor speech"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Poor head control"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+	"MONDO.0007872"	"MONDO.0007970"	"MONDO.0008139"	"MONDO.0005298"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Lacrimal duct atresia"	1.0	0.0	1.0	0.0
+"Dacryocystitis"	1.0	0.0	0.0	1.0
+"Periorbital edema"	1.0	1.0	0.0	0.0

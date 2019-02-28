@@ -1,0 +1,4 @@
+"x"
+"1" "Diplopia"
+"2" "Episodic ataxia"
+"3" "Myokymia"

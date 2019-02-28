@@ -1,0 +1,8 @@
+	"MONDO.0008370"	"MONDO.0011864"	"MONDO.0013405"	"MONDO.0014296"	"MONDO.0014305"	"MONDO.0014306"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	0.0	0.0	1.0	0.0	0.0	0.0
+"Motor delay"	0.0	0.0	1.0	0.0	0.0	0.0
+"Cardiomyopathy"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the dentition"	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypermethioninemia"	0.0	0.0	1.0	0.0	0.0	0.0

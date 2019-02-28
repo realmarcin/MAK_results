@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "HP:0000007"
+"3" "Abdominal pain"
+"4" "Neoplasm of the pancreas"
+"5" "Pancreatic calcification"
+"6" "Chronic pancreatitis"
+"7" "Insulin-dependent but ketosis-resistant diabetes"

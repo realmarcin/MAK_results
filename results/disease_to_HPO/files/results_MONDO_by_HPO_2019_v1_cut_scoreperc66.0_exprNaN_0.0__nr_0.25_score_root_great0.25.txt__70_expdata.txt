@@ -1,0 +1,8 @@
+	"MONDO.0013580"	"MONDO.0013794"	"MONDO.0014166"	"MONDO.0014775"
+"Hypertelorism"	1.0	1.0	0.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0
+"Depressed nasal bridge"	1.0	1.0	1.0	1.0
+"High palate"	1.0	1.0	1.0	0.0
+"Prominent forehead"	0.0	1.0	0.0	1.0
+"Delayed myelination"	1.0	1.0	0.0	0.0

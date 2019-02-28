@@ -1,0 +1,6 @@
+"x"
+"1" "Hepatic steatosis"
+"2" "Hepatic failure"
+"3" "Impaired gluconeogenesis"
+"4" "Exercise-induced rhabdomyolysis"
+"5" "Hepatocellular necrosis"

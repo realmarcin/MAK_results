@@ -1,0 +1,12 @@
+	"MONDO.0008477"	"MONDO.0008702"	"MONDO.0008974"	"MONDO.0010967"
+"Frontal bossing"	0.0	1.0	1.0	1.0
+"Flat face"	1.0	1.0	1.0	1.0
+"Hyperkeratosis"	0.0	0.0	0.0	0.0
+"Severe short stature"	1.0	1.0	1.0	1.0
+"Abnormality of dental enamel"	0.0	0.0	0.0	0.0
+"Hypohidrosis"	0.0	0.0	0.0	0.0
+"Proptosis"	0.0	0.0	0.0	0.0
+"Narrow forehead"	0.0	0.0	0.0	0.0
+"Micromelia"	1.0	1.0	0.0	1.0
+"Corneal opacity"	0.0	0.0	0.0	0.0
+"Short thorax"	1.0	1.0	0.0	1.0

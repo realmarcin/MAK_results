@@ -1,0 +1,7 @@
+	"MONDO.0007494"	"MONDO.0009142"	"MONDO.0011266"	"MONDO.0011887"	"MONDO.0013815"
+"Torsion dystonia"	1.0	1.0	1.0	1.0	0.0
+"Torticollis"	1.0	1.0	1.0	1.0	1.0
+"Blepharospasm"	1.0	1.0	1.0	1.0	1.0
+"Limb dystonia"	1.0	1.0	1.0	1.0	1.0
+"Generalized dystonia"	1.0	1.0	1.0	1.0	1.0
+"Laryngeal dystonia"	1.0	0.0	1.0	0.0	1.0

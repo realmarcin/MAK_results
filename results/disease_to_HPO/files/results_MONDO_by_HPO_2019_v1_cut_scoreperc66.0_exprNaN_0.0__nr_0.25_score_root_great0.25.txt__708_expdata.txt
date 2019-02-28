@@ -1,0 +1,10 @@
+	"MONDO.0007292"	"MONDO.0007520"	"MONDO.0007909"	"MONDO.0007912"	"MONDO.0007960"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Peripheral neuropathy"	0.0	0.0	1.0	1.0	0.0
+"Accelerated skeletal maturation"	0.0	1.0	0.0	1.0	0.0
+"Paresthesia"	0.0	0.0	1.0	0.0	0.0
+"Medulloblastoma"	0.0	0.0	0.0	1.0	1.0
+"Cerebral calcification"	1.0	0.0	0.0	1.0	0.0
+"Reduced tendon reflexes"	0.0	0.0	1.0	0.0	0.0
+"Insulin resistance"	0.0	0.0	1.0	1.0	0.0
+"Multiple lipomas"	0.0	0.0	1.0	1.0	0.0

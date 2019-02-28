@@ -1,0 +1,10 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0011731"	"MONDO.0014236"
+"Polycythemia"	0.0	0.0	1.0	0.0
+"Pallor"	0.0	0.0	1.0	0.0
+"Relative macrocephaly"	0.0	0.0	1.0	0.0
+"Intellectual disability, profound"	0.0	0.0	1.0	0.0
+"Reduced subcutaneous adipose tissue"	0.0	0.0	1.0	0.0
+"Cutaneous leiomyoma"	0.0	0.0	1.0	0.0
+"Hyperbilirubinemia"	0.0	0.0	1.0	0.0
+"Choroid plexus cyst"	0.0	0.0	1.0	0.0
+"Open operculum"	0.0	0.0	1.0	0.0

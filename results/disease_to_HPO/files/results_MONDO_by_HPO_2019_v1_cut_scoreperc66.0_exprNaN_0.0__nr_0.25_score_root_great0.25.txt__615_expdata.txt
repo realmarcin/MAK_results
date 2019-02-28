@@ -1,0 +1,11 @@
+	"MONDO.0009102"	"MONDO.0009576"	"MONDO.0010788"	"MONDO.0010801"	"MONDO.0012532"
+"Hydroureter"	1.0	0.0	0.0	1.0	0.0
+"Hydronephrosis"	1.0	0.0	0.0	1.0	0.0
+"Sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0
+"Thrombocytopenia"	1.0	1.0	0.0	1.0	0.0
+"Abnormality of the skeletal system"	0.0	0.0	0.0	1.0	0.0
+"Testicular atrophy"	1.0	0.0	0.0	0.0	0.0
+"Neurogenic bladder"	1.0	0.0	0.0	0.0	0.0
+"Megaloblastic anemia"	1.0	1.0	0.0	1.0	0.0
+"Sideroblastic anemia"	1.0	1.0	1.0	1.0	0.0
+"Limited mobility of proximal interphalangeal joint"	1.0	0.0	0.0	0.0	0.0

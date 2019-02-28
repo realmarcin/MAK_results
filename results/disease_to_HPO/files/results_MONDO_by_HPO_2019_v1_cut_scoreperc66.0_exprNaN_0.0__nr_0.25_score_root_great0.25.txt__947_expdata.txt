@@ -1,0 +1,5 @@
+	"MONDO.0024521"	"MONDO.0009652"	"MONDO.0010370"	"MONDO.0010437"	"MONDO.0011638"	"MONDO.0011724"
+"Hyperopic astigmatism"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001470"	1.0	0.0	0.0	0.0	0.0	0.0
+"Penoscrotal hypospadias"	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal stereopsis"	0.0	0.0	1.0	0.0	0.0	0.0

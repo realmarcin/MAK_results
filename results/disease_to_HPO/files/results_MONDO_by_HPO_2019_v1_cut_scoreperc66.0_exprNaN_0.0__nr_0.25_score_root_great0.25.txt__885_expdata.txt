@@ -1,0 +1,6 @@
+	"MONDO.0007244"	"MONDO.0007633"	"MONDO.0009005"	"MONDO.0010939"	"MONDO.0013017"
+"Abnormality of the lymph nodes"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the spleen"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of bone marrow cell morphology"	1.0	0.0	0.0	0.0	0.0
+"HP:0025435"	1.0	0.0	0.0	0.0	0.0
+"Neoplasm of the oral cavity"	1.0	0.0	0.0	0.0	0.0

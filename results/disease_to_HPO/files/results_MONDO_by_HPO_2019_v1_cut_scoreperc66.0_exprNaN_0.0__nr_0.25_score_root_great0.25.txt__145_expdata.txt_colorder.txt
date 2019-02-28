@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Nystagmus"
+"3" "Seizures"
+"4" "Developmental regression"
+"5" "Flexion contracture"
+"6" "Abnormality of retinal pigmentation"
+"7" "Brain atrophy"

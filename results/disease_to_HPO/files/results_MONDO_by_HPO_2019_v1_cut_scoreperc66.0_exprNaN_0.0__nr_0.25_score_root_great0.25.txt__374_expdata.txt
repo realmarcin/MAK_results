@@ -1,0 +1,11 @@
+	"MONDO.0009155"	"MONDO.0009829"	"MONDO.0012006"	"MONDO.0012992"
+"HP:0000007"	0.0	1.0	1.0	1.0
+"Motor delay"	0.0	1.0	1.0	1.0
+"Short stature"	0.0	1.0	1.0	0.0
+"Bulbous nose"	0.0	1.0	0.0	1.0
+"Intellectual disability, progressive"	1.0	1.0	1.0	1.0
+"Intellectual disability, severe"	1.0	1.0	1.0	1.0
+"Upslanted palpebral fissure"	0.0	1.0	0.0	0.0
+"Contracture of the proximal interphalangeal joint of the 5th finger"	0.0	1.0	0.0	0.0
+"Exaggerated cupid's bow"	0.0	1.0	0.0	0.0
+"Contracture of the proximal interphalangeal joint of the 4th finger"	0.0	1.0	0.0	0.0

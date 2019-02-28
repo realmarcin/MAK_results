@@ -1,0 +1,5 @@
+"x"
+"1" "Prominent median palatal raphe"
+"2" "Maxillary lateral incisor microdontia"
+"3" "Heavy supraorbital ridges"
+"4" "Exaggerated median tongue furrow"

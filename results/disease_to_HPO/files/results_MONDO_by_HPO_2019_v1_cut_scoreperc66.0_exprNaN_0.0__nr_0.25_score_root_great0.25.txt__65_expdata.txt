@@ -1,0 +1,9 @@
+	"MONDO.0008438"	"MONDO.0008439"	"MONDO.0010879"	"MONDO.0024556"	"MONDO.0011994"
+"Urinary incontinence"	1.0	1.0	1.0	1.0	0.0
+"Degeneration of the lateral corticospinal tracts"	1.0	1.0	1.0	1.0	0.0
+"Urinary bladder sphincter dysfunction"	1.0	1.0	1.0	1.0	0.0
+"Lower limb spasticity"	1.0	1.0	1.0	1.0	0.0
+"Lower limb muscle weakness"	1.0	1.0	1.0	1.0	0.0
+"Urinary urgency"	1.0	1.0	1.0	1.0	0.0
+"Impaired vibration sensation in the lower limbs"	1.0	1.0	1.0	1.0	0.0
+"Spastic gait"	1.0	1.0	1.0	1.0	0.0

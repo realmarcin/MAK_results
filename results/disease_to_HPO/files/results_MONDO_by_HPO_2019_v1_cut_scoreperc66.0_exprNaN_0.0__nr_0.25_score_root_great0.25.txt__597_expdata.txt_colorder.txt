@@ -1,0 +1,6 @@
+"x"
+"1" "Congenital hypoparathyroidism"
+"2" "Stenosis of the medullary cavity of the long bones"
+"3" "Calvarial osteosclerosis"
+"4" "Cortical thickening of long bone diaphyses"
+"5" "Thin long bone diaphyses"

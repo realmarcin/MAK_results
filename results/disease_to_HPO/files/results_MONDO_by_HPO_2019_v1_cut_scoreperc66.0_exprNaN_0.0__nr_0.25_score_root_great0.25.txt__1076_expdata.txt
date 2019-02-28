@@ -1,0 +1,11 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0011053"
+"Absent septum pellucidum"	0.0	0.0	0.0	1.0
+"Scoliosis"	1.0	0.0	1.0	1.0
+"HP:0003745"	0.0	0.0	0.0	1.0
+"Amelia"	0.0	0.0	0.0	1.0
+"Short femur"	0.0	0.0	0.0	1.0
+"Coloboma"	0.0	0.0	0.0	1.0
+"Holoprosencephaly"	0.0	0.0	0.0	1.0
+"Foot oligodactyly"	0.0	0.0	0.0	1.0
+"Bilateral cleft lip and palate"	0.0	0.0	0.0	1.0
+"Anterior encephalocele"	0.0	0.0	0.0	1.0

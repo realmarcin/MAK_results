@@ -1,0 +1,5 @@
+"x"
+"1" "Patellar hypoplasia"
+"2" "Shallow acetabular fossae"
+"3" "Mild global developmental delay"
+"4" "Transient hypogammaglobulinemia of infancy"

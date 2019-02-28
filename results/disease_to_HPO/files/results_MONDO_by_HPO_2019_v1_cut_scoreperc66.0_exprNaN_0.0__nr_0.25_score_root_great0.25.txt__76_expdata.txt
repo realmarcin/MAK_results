@@ -1,0 +1,7 @@
+	"MONDO.0010453"	"MONDO.0013582"	"MONDO.0014242"
+"Strabismus"	1.0	0.0	1.0
+"Intellectual disability"	1.0	1.0	0.0
+"Seizures"	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0
+"High palate"	1.0	0.0	0.0
+"Delayed speech and language development"	1.0	1.0	1.0

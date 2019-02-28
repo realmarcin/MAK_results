@@ -1,0 +1,12 @@
+	"MONDO.0007510"	"MONDO.0009148"	"MONDO.0010586"	"MONDO.0012807"	"MONDO.0013983"	"MONDO.0013984"
+"Frontal bossing"	0.0	1.0	1.0	1.0	0.0	0.0
+"Depressed nasal bridge"	0.0	1.0	1.0	0.0	0.0	1.0
+"HP:0001425"	1.0	1.0	1.0	0.0	0.0	0.0
+"Anhidrosis"	0.0	1.0	1.0	1.0	1.0	1.0
+"Heat intolerance"	1.0	1.0	1.0	1.0	0.0	0.0
+"Everted lower lip vermilion"	0.0	1.0	1.0	0.0	1.0	1.0
+"Thick vermilion border"	0.0	1.0	1.0	0.0	0.0	0.0
+"Everted upper lip vermilion"	0.0	1.0	1.0	0.0	0.0	0.0
+"Periorbital wrinkles"	0.0	1.0	1.0	0.0	0.0	1.0
+"Periorbital hyperpigmentation"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hypohidrotic ectodermal dysplasia"	0.0	1.0	1.0	0.0	1.0	0.0

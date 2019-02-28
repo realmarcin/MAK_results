@@ -1,0 +1,9 @@
+	"MONDO.0009457"	"MONDO.0009539"	"MONDO.0019200"	"MONDO.0012759"
+"IgM deficiency"	0.0	1.0	0.0	1.0
+"Secundum atrial septal defect"	0.0	0.0	0.0	1.0
+"Gonadal dysgenesis"	0.0	0.0	0.0	1.0
+"IgG deficiency"	1.0	1.0	1.0	1.0
+"Abnormality of the thymus"	0.0	0.0	0.0	1.0
+"Decreased number of CD4+ T cells"	0.0	0.0	0.0	1.0
+"Decreased number of CD8+ T cells"	0.0	0.0	0.0	1.0
+"Absent tonsils"	0.0	0.0	0.0	1.0

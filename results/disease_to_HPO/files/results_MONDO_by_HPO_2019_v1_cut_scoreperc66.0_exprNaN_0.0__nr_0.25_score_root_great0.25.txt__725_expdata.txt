@@ -1,0 +1,9 @@
+	"MONDO.0007204"	"MONDO.0007708"	"MONDO.0010684"
+"External ophthalmoplegia"	0.0	0.0	1.0
+"Cavernous hemangioma"	1.0	1.0	1.0
+"Neonatal respiratory distress"	0.0	0.0	1.0
+"HP:0002878"	0.0	0.0	1.0
+"Decreased fetal movement"	0.0	0.0	1.0
+"Diaphragmatic eventration"	0.0	0.0	1.0
+"Severe muscular hypotonia"	0.0	0.0	1.0
+"Respiratory failure requiring assisted ventilation"	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+	"MONDO.0011049"	"MONDO.0011829"	"MONDO.0012624"	"MONDO.0013322"	"MONDO.0014794"	"MONDO.0044314"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Microcephaly"	1.0	0.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability, mild"	0.0	1.0	0.0	0.0	1.0	1.0
+"Delayed skeletal maturation"	1.0	0.0	0.0	1.0	1.0	1.0
+"Delayed puberty"	0.0	0.0	0.0	0.0	1.0	1.0
+"Delayed myelination"	0.0	0.0	1.0	0.0	0.0	1.0

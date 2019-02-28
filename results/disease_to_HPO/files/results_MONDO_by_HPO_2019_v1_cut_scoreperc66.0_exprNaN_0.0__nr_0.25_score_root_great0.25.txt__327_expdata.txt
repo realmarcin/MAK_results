@@ -1,0 +1,8 @@
+	"MONDO.0008974"	"MONDO.0009113"	"MONDO.0010176"	"MONDO.0012543"	"MONDO.0014348"	"MONDO.0018229"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
+"Micrognathia"	1.0	1.0	1.0	1.0	0.0	1.0
+"Depressed nasal bridge"	1.0	1.0	1.0	0.0	1.0	1.0
+"Rhizomelia"	1.0	1.0	0.0	0.0	0.0	1.0
+"Proptosis"	0.0	0.0	0.0	0.0	1.0	1.0
+"Coronal cleft vertebrae"	1.0	0.0	0.0	0.0	0.0	1.0
+"Delayed gross motor development"	0.0	0.0	0.0	1.0	0.0	1.0

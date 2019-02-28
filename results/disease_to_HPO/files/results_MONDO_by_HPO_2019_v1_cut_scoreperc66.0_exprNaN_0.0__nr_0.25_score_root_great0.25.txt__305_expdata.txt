@@ -1,0 +1,11 @@
+	"MONDO.0007940"	"MONDO.0007941"	"MONDO.0009993"	"MONDO.0011911"
+"HP:0001425"	1.0	1.0	0.0	1.0
+"Hyperphosphatemia"	1.0	1.0	0.0	0.0
+"Fever"	1.0	1.0	1.0	0.0
+"Malignant hyperthermia"	1.0	1.0	0.0	0.0
+"Lactic acidosis"	1.0	1.0	0.0	0.0
+"Hyperkalemia"	1.0	1.0	1.0	0.0
+"Viral infection-induced rhabdomyolysis"	1.0	1.0	0.0	0.0
+"Exercise-induced rhabdomyolysis"	1.0	1.0	0.0	0.0
+"Anesthetic-induced rhabdomylosis"	1.0	1.0	0.0	0.0
+"Alcohol-induced rhabdomyolysis"	1.0	1.0	0.0	0.0

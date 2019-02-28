@@ -1,0 +1,7 @@
+	"MONDO.0007621"	"MONDO.0009516"	"MONDO.0018855"	"MONDO.0011602"	"MONDO.0013534"
+"Blurred vision"	0.0	0.0	1.0	0.0	0.0
+"Decreased circulating high-density lipoprotein levels"	1.0	1.0	1.0	1.0	0.0
+"Abnormality of the liver"	0.0	0.0	1.0	0.0	0.0
+"Xanthomatosis"	0.0	0.0	1.0	0.0	0.0
+"Premature coronary artery disease"	0.0	0.0	1.0	0.0	1.0
+"Hemiplegia/hemiparesis"	0.0	0.0	1.0	0.0	0.0

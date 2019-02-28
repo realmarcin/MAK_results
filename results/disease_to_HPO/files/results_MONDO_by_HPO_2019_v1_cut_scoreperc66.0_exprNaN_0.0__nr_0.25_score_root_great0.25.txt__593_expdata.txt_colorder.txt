@@ -1,0 +1,6 @@
+"x"
+"1" "Metopic suture patent to nasal root"
+"2" "Multiple suture craniosynostosis"
+"3" "Wide distal femoral metaphysis"
+"4" "Increased density of long bones"
+"5" "Premature posterior fontanelle closure"

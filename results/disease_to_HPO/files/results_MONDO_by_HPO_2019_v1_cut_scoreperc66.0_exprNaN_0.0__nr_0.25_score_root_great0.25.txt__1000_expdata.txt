@@ -1,0 +1,11 @@
+	"MONDO.0010577"	"MONDO.0010711"	"MONDO.0012855"	"MONDO.0013848"
+"Cleft palate"	0.0	1.0	1.0	1.0
+"HP:0001417"	0.0	1.0	0.0	0.0
+"Micrognathia"	0.0	1.0	0.0	0.0
+"Frontal bossing"	0.0	1.0	0.0	0.0
+"High forehead"	0.0	1.0	0.0	0.0
+"Tapered finger"	0.0	1.0	0.0	0.0
+"Hyperconvex nail"	0.0	1.0	0.0	0.0
+"Short distal phalanx of finger"	0.0	1.0	0.0	0.0
+"Glossoptosis"	0.0	1.0	0.0	1.0
+"Easily subluxated first metacarpophalangeal joints"	0.0	1.0	0.0	0.0

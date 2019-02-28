@@ -1,0 +1,5 @@
+"x"
+"1" "Elevated circulating parathyroid hormone level"
+"2" "Hyperparathyroidism"
+"3" "Peptic ulcer"
+"4" "Parathyroid carcinoma"

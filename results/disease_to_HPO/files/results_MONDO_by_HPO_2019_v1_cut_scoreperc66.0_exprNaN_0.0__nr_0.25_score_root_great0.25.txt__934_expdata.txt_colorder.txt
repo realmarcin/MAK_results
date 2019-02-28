@@ -1,0 +1,4 @@
+"x"
+"1" "Retinal arteriolar tortuosity"
+"2" "Corticospinal tract atrophy"
+"3" "Abnormal visual field test"

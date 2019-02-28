@@ -1,0 +1,8 @@
+"x"
+"1" "Cleft palate"
+"2" "Non-midline cleft lip"
+"3" "HP:0000006"
+"4" "Wide nasal bridge"
+"5" "Hypospadias"
+"6" "Telecanthus"
+"7" "Aplasia cutis congenita"

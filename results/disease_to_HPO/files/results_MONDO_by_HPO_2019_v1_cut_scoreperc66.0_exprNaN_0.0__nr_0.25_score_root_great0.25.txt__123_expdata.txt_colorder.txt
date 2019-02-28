@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "Global developmental delay"
+"3" "Seizures"
+"4" "Poor speech"
+"5" "Cerebellar hypoplasia"

@@ -1,0 +1,9 @@
+	"MONDO.0009301"	"MONDO.0010061"	"MONDO.0014505"	"MONDO.0014522"	"MONDO.0014672"	"MONDO.0054748"
+"High palate"	1.0	0.0	1.0	0.0	0.0	0.0
+"Nystagmus"	1.0	1.0	1.0	0.0	1.0	1.0
+"Hyporeflexia"	1.0	0.0	1.0	0.0	1.0	1.0
+"Pes cavus"	1.0	0.0	1.0	0.0	1.0	1.0
+"Gonadal dysgenesis"	1.0	0.0	1.0	0.0	0.0	0.0
+"Primary amenorrhea"	1.0	0.0	1.0	0.0	0.0	0.0
+"Increased serum pyruvate"	0.0	0.0	1.0	0.0	0.0	0.0
+"Positive Romberg sign"	0.0	0.0	1.0	0.0	0.0	0.0

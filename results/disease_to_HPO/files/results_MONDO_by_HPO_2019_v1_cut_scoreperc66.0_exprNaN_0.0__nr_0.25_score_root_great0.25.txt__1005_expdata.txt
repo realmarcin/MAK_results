@@ -1,0 +1,11 @@
+	"MONDO.0013812"	"MONDO.0014199"	"MONDO.0014577"	"MONDO.0044696"
+"Plagiocephaly"	0.0	1.0	0.0	0.0
+"Short foot"	0.0	1.0	0.0	0.0
+"Thick eyebrow"	0.0	1.0	0.0	0.0
+"Protruding ear"	0.0	1.0	0.0	0.0
+"Dysphagia"	0.0	1.0	0.0	0.0
+"Narrow face"	0.0	1.0	0.0	0.0
+"Everted lower lip vermilion"	0.0	1.0	0.0	0.0
+"Concave nasal ridge"	0.0	1.0	0.0	0.0
+"Increased serum lactate"	1.0	1.0	1.0	1.0
+"Mitochondrial respiratory chain defects"	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Thrombocytopenia"
+"2" "Myelodysplasia"
+"3" "Multiple cafe-au-lait spots"
+"4" "Leukemia"
+"5" "Abnormality of chromosome stability"
+"6" "Abnormality of the thumb"

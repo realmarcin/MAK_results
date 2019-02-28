@@ -1,0 +1,7 @@
+"x"
+"1" "Microcephaly"
+"2" "Inguinal hernia"
+"3" "Self-mutilation"
+"4" "Truncal ataxia"
+"5" "Unsteady gait"
+"6" "Short attention span"

@@ -1,0 +1,6 @@
+"x"
+"1" "Brachydactyly"
+"2" "Radial deviation of finger"
+"3" "Clinodactyly"
+"4" "Hypermetropia"
+"5" "Dislocated radial head"

@@ -1,0 +1,13 @@
+	"MONDO.0009493"	"MONDO.0009888"	"MONDO.0009918"	"MONDO.0009930"	"MONDO.0012581"	"MONDO.0012586"
+"Interstitial pulmonary abnormality"	0.0	0.0	0.0	1.0	0.0	0.0
+"Pulmonary arterial hypertension"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0001425"	0.0	0.0	0.0	1.0	1.0	1.0
+"Failure to thrive"	0.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003678"	0.0	0.0	0.0	1.0	0.0	0.0
+"Dyspnea"	0.0	0.0	0.0	1.0	0.0	0.0
+"Respiratory distress"	0.0	1.0	0.0	1.0	1.0	1.0
+"Apnea"	0.0	0.0	0.0	1.0	0.0	1.0
+"HP:0002878"	0.0	1.0	0.0	1.0	0.0	1.0
+"Tachypnea"	1.0	1.0	0.0	1.0	1.0	1.0
+"Alveolar proteinosis"	0.0	0.0	0.0	1.0	1.0	1.0
+"Desquamative interstitial pneumonitis"	0.0	1.0	0.0	1.0	0.0	1.0

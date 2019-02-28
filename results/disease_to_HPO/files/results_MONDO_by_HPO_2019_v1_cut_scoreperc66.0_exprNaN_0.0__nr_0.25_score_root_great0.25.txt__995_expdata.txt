@@ -1,0 +1,7 @@
+	"MONDO.0007478"	"MONDO.0020607"	"MONDO.0008472"	"MONDO.0008480"	"MONDO.0009131"	"MONDO.0009459"	"MONDO.0009598"	"MONDO.0009630"	"MONDO.0010118"	"MONDO.0013040"
+"Myopathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Facial palsy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperlordosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Waddling gait"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Scapular winging"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0

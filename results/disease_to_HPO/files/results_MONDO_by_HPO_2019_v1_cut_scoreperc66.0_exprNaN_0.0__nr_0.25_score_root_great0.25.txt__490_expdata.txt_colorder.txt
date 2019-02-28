@@ -1,0 +1,8 @@
+"x"
+"1" "Cubitus valgus"
+"2" "Metatarsus adductus"
+"3" "Pigmentary retinopathy"
+"4" "Clitoral hypertrophy"
+"5" "Brushfield spots"
+"6" "Intrahepatic biliary dysgenesis"
+"7" "Abnormality of the helix"

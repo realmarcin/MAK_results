@@ -1,0 +1,7 @@
+	"MONDO.0018138"	"MONDO.0007681"	"MONDO.0007873"	"MONDO.0008399"	"MONDO.0060764"	"MONDO.0013203"
+"Lacrimal gland hypoplasia"	1.0	0.0	1.0	1.0	0.0	1.0
+"Absent lacrimal punctum"	0.0	0.0	1.0	1.0	1.0	0.0
+"Bilateral triphalangeal thumbs"	0.0	1.0	1.0	0.0	0.0	0.0
+"Lacrimal gland aplasia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hypoplastic lacrimal duct"	0.0	0.0	1.0	0.0	1.0	0.0
+"Coronal hypospadias"	0.0	0.0	1.0	0.0	0.0	0.0

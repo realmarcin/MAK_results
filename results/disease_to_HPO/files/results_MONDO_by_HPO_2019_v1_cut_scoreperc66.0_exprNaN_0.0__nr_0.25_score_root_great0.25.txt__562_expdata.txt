@@ -1,0 +1,9 @@
+	"MONDO.0009112"	"MONDO.0010131"	"MONDO.0010395"	"MONDO.0010560"	"MONDO.0011613"	"MONDO.0014225"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	0.0	0.0	1.0	1.0
+"Plagiocephaly"	1.0	0.0	0.0	0.0	0.0	1.0
+"Growth delay"	1.0	1.0	0.0	0.0	0.0	0.0
+"Lethargy"	1.0	1.0	0.0	0.0	1.0	0.0
+"Abnormality of the cerebral white matter"	1.0	0.0	1.0	0.0	0.0	0.0
+"Morphological abnormality of the pyramidal tract"	1.0	0.0	1.0	0.0	0.0	0.0
+"Reduced dihydropyrimidine dehydrogenase activity"	1.0	1.0	0.0	0.0	0.0	0.0

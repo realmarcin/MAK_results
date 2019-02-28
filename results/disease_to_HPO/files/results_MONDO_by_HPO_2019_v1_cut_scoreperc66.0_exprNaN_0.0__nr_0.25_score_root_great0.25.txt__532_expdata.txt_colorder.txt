@@ -1,0 +1,5 @@
+"x"
+"1" "Aortic valve atresia"
+"2" "Hypoplastic aortic arch"
+"3" "Abnormality of the left ventricular outflow tract"
+"4" "Coarctation of the descending aortic arch"

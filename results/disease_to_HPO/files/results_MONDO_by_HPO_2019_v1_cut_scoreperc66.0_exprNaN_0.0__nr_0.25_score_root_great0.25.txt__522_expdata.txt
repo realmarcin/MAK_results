@@ -1,0 +1,11 @@
+	"MONDO.0008200"	"MONDO.0008201"	"MONDO.0009644"	"MONDO.0009645"	"MONDO.0010718"
+"Long philtrum"	0.0	0.0	1.0	1.0	1.0
+"Ventriculomegaly"	0.0	0.0	1.0	1.0	1.0
+"Frontal bossing"	0.0	0.0	1.0	1.0	1.0
+"Cerebral atrophy"	0.0	0.0	1.0	1.0	1.0
+"HP:0003676"	1.0	1.0	1.0	1.0	0.0
+"Dystonia"	1.0	1.0	0.0	0.0	1.0
+"Gliosis"	0.0	1.0	1.0	1.0	0.0
+"Substantia nigra gliosis"	1.0	0.0	0.0	0.0	0.0
+"Weak voice"	1.0	0.0	0.0	0.0	0.0
+"Short stepped shuffling gait"	1.0	0.0	0.0	0.0	0.0

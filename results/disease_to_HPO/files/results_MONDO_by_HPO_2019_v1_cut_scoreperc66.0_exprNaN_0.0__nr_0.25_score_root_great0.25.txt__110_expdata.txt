@@ -1,0 +1,9 @@
+	"MONDO.0007975"	"MONDO.0014377"	"MONDO.0014932"	"MONDO.0044312"
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0	0.0
+"Low-set ears"	1.0	1.0	0.0	1.0
+"Short stature"	1.0	1.0	1.0	1.0
+"Highly arched eyebrow"	1.0	1.0	1.0	1.0
+"Prominent nose"	1.0	0.0	1.0	0.0
+"Open mouth"	1.0	1.0	0.0	0.0
+"Short chin"	1.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertelorism"
+"2" "Short stature"
+"3" "Anteverted nares"
+"4" "Low-set ears"
+"5" "Short nose"
+"6" "Single transverse palmar crease"
+"7" "Growth hormone deficiency"

@@ -1,0 +1,7 @@
+	"MONDO.0011230"	"MONDO.0011867"	"MONDO.0013762"	"MONDO.0014191"	"MONDO.0014489"	"MONDO.0014649"	"MONDO.0014849"	"MONDO.0014934"
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Degeneration of anterior horn cells"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spinal muscular atrophy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Congenital contracture"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the pons"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypoplasia of the ventral pons"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"MONDO.0009612"	"MONDO.0013763"	"MONDO.0013987"	"MONDO.0014465"
+"Severe global developmental delay"	1.0	1.0	0.0	0.0
+"Thrombocytopenia"	1.0	0.0	1.0	0.0
+"Subvalvular aortic stenosis"	1.0	0.0	0.0	0.0
+"Neonatal hypotonia"	1.0	0.0	0.0	1.0
+"Neonatal respiratory distress"	1.0	0.0	0.0	0.0
+"Lactic acidosis"	1.0	1.0	1.0	0.0
+"Iris hypopigmentation"	1.0	0.0	0.0	0.0
+"Dysgenesis of the cerebellar vermis"	1.0	0.0	0.0	0.0
+"Cerebellar dysplasia"	1.0	0.0	0.0	0.0
+"3-Methylglutaric aciduria"	1.0	0.0	0.0	0.0
+"Biventricular hypertrophy"	1.0	0.0	0.0	0.0

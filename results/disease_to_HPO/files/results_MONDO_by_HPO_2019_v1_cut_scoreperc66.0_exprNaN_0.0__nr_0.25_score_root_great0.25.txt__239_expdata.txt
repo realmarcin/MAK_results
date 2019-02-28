@@ -1,0 +1,4 @@
+	"MONDO.0011792"	"MONDO.0012085"	"MONDO.0014535"	"MONDO.0014788"	"MONDO.0014856"	"MONDO.0015008"	"MONDO.0030910"
+"Partial agenesis of the corpus callosum"	1.0	0.0	1.0	1.0	0.0	1.0	0.0
+"Temperature instability"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Limb hypertonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

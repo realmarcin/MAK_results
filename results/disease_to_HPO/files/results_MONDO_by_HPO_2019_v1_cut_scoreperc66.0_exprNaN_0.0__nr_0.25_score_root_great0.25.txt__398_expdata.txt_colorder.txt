@@ -1,0 +1,7 @@
+"x"
+"1" "Rib exostoses"
+"2" "Scapular exostoses"
+"3" "Pelvic bone exostoses"
+"4" "Madelung-like forearm deformities"
+"5" "Protuberances at ends of long bones"
+"6" "Peripheral nerve compression"

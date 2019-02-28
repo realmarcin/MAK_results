@@ -1,0 +1,4 @@
+"x"
+"1" "Hypergranulosis"
+"2" "Orthokeratosis"
+"3" "Lichenification"

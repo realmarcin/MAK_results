@@ -1,0 +1,8 @@
+"x"
+"1" "Stroke"
+"2" "Palpitations"
+"3" "Shortened PR interval"
+"4" "Paroxysmal supraventricular tachycardia"
+"5" "Prolonged QRS complex"
+"6" "Ventricular preexcitation with multiple accessory pathways"
+"7" "HP:0000006"

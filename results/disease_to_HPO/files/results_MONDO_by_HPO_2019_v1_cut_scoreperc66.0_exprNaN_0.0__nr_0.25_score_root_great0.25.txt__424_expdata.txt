@@ -1,0 +1,8 @@
+	"MONDO.0009219"	"MONDO.0009757"	"MONDO.0012124"	"MONDO.0012483"	"MONDO.0012639"	"MONDO.0013871"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	0.0	1.0
+"Kyphoscoliosis"	0.0	0.0	0.0	1.0	0.0	1.0
+"Arthralgia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	1.0	1.0	0.0	1.0
+"Posteriorly rotated ears"	0.0	0.0	0.0	1.0	0.0	1.0
+"Lymphadenopathy"	0.0	1.0	0.0	1.0	0.0	0.0

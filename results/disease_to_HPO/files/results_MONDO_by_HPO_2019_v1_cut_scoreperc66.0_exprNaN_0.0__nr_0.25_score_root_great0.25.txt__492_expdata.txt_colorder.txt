@@ -1,0 +1,8 @@
+"x"
+"1" "Epileptic encephalopathy"
+"2" "Hypsarrhythmia"
+"3" "Cerebellar atrophy"
+"4" "CNS hypomyelination"
+"5" "Hyperreflexia"
+"6" "Iris coloboma"
+"7" "HP:0031936"

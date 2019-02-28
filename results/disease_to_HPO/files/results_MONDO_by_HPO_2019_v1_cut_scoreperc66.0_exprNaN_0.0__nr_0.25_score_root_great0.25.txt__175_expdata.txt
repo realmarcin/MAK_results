@@ -1,0 +1,7 @@
+	"MONDO.0009525"	"MONDO.0011864"	"MONDO.0014306"
+"HP:0000007"	1.0	1.0	1.0
+"Spastic paraplegia"	1.0	1.0	1.0
+"Hyperreflexia"	1.0	0.0	1.0
+"Bilateral single transverse palmar creases"	1.0	0.0	0.0
+"Scissor gait"	0.0	1.0	1.0
+"Abnormality of the hip bone"	1.0	0.0	0.0

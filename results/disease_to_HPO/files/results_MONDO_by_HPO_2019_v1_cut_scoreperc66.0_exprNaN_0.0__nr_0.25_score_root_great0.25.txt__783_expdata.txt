@@ -1,0 +1,5 @@
+	"MONDO.0007222"	"MONDO.0008271"	"MONDO.0008403"	"MONDO.0008605"	"MONDO.0008689"
+"Ulnar deviation of the 3rd finger"	1.0	0.0	1.0	0.0	1.0
+"Opposable triphalangeal thumb"	0.0	1.0	0.0	0.0	0.0
+"Complete duplication of distal phalanx of the thumb"	1.0	1.0	0.0	1.0	0.0
+"Ulnar deviation of thumb"	0.0	0.0	0.0	0.0	1.0

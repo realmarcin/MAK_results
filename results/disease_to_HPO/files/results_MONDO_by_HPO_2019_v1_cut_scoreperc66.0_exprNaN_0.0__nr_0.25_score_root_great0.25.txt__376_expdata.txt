@@ -1,0 +1,11 @@
+	"MONDO.0008746"	"MONDO.0008747"	"MONDO.0010346"	"MONDO.0010372"	"MONDO.0011684"	"MONDO.0011750"
+"Blue irides"	1.0	1.0	0.0	0.0	1.0	0.0
+"Thickened skin"	0.0	0.0	0.0	0.0	1.0	1.0
+"Freckling"	1.0	1.0	1.0	0.0	0.0	1.0
+"Hypopigmentation of the fundus"	0.0	1.0	0.0	1.0	1.0	1.0
+"Basal cell carcinoma"	1.0	1.0	0.0	0.0	1.0	1.0
+"Hypopigmentation of hair"	0.0	0.0	0.0	0.0	1.0	1.0
+"Iris hypopigmentation"	0.0	1.0	0.0	0.0	1.0	1.0
+"Squamous cell carcinoma of the skin"	1.0	1.0	0.0	0.0	1.0	1.0
+"Melanoma"	0.0	1.0	0.0	0.0	1.0	1.0
+"Abnormality of the optic nerve"	1.0	1.0	0.0	0.0	1.0	1.0

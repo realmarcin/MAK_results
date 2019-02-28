@@ -1,0 +1,25 @@
+	"MONDO.0024521"	"MONDO.0010590"	"MONDO.0013977"	"MONDO.0014181"	"MONDO.0014662"
+"Cryptorchidism"	1.0	1.0	0.0	0.0	0.0
+"Shawl scrotum"	1.0	1.0	0.0	0.0	0.0
+"Cleft palate"	1.0	1.0	0.0	0.0	0.0
+"Cleft upper lip"	1.0	1.0	0.0	0.0	0.0
+"Hypertelorism"	1.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the maxilla"	1.0	1.0	0.0	0.0	0.0
+"Long philtrum"	1.0	1.0	0.0	0.0	0.0
+"Widow's peak"	1.0	1.0	0.0	0.0	0.0
+"Wide nasal bridge"	1.0	1.0	0.0	0.0	0.0
+"Anteverted nares"	1.0	1.0	0.0	0.0	0.0
+"Strabismus"	1.0	1.0	0.0	0.0	0.0
+"Downslanted palpebral fissures"	1.0	1.0	0.0	0.0	0.0
+"Ptosis"	1.0	1.0	0.0	0.0	0.0
+"Single transverse palmar crease"	1.0	1.0	0.0	0.0	0.0
+"Hyperextensible skin"	1.0	1.0	0.0	0.0	0.0
+"Brachydactyly"	1.0	1.0	0.0	0.0	0.0
+"Syndactyly"	1.0	1.0	0.0	0.0	0.0
+"Pes planus"	1.0	1.0	0.0	0.0	0.0
+"Curved linear dimple below the lower lip"	1.0	1.0	0.0	0.0	0.0
+"Genu recurvatum"	1.0	1.0	0.0	0.0	0.0
+"Cervical spine hypermobility"	1.0	1.0	0.0	0.0	0.0
+"Mild short stature"	1.0	1.0	0.0	0.0	0.0
+"Radial deviation of finger"	1.0	1.0	0.0	0.0	0.0
+"Clinodactyly"	1.0	1.0	0.0	0.0	0.0

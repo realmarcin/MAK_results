@@ -1,0 +1,7 @@
+"x"
+"1" "Odontogenic neoplasm"
+"2" "Elevated aldolase level"
+"3" "Abnormally straight spine"
+"4" "Long eyelashes in irregular rows"
+"5" "Hypoplasia of the abdominal wall musculature"
+"6" "HP:0008038"

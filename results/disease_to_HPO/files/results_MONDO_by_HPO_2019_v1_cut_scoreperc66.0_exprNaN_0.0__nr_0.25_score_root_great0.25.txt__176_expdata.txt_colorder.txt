@@ -1,0 +1,4 @@
+"x"
+"1" "Short femur"
+"2" "Short humerus"
+"3" "Hypoplastic nasal septum"

@@ -1,0 +1,5 @@
+"x"
+"1" "Hypertelorism"
+"2" "Webbed neck"
+"3" "Asymmetry of the thorax"
+"4" "Long eyebrows"

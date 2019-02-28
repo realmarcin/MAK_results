@@ -1,0 +1,8 @@
+	"MONDO.0011965"	"MONDO.0014472"	"MONDO.0014568"	"MONDO.0014594"	"MONDO.0014963"	"MONDO.0014997"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	0.0	1.0	0.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	0.0
+"Tremor"	1.0	0.0	1.0	0.0	0.0	0.0
+"Hyperreflexia"	1.0	0.0	1.0	0.0	1.0	1.0
+"Febrile seizures"	0.0	0.0	1.0	0.0	1.0	0.0
+"Encephalopathy"	0.0	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000007"
+"2" "Periodontitis"
+"3" "Gingivitis"
+"4" "HP:0003674"

@@ -1,0 +1,12 @@
+	"MONDO.0008855"	"MONDO.0009545"	"MONDO.0009681"	"MONDO.0011724"	"MONDO.0013161"
+"Mandibular prognathia"	0.0	1.0	0.0	1.0	0.0
+"Dental crowding"	1.0	0.0	0.0	1.0	0.0
+"Hypogonadism"	1.0	0.0	1.0	0.0	0.0
+"Left ventricular hypertrophy"	1.0	0.0	0.0	0.0	1.0
+"Delayed speech and language development"	1.0	1.0	0.0	1.0	0.0
+"Obesity"	1.0	0.0	0.0	1.0	0.0
+"Cubitus valgus"	0.0	0.0	1.0	0.0	0.0
+"Micropenis"	1.0	0.0	0.0	0.0	1.0
+"Astigmatism"	1.0	1.0	0.0	0.0	0.0
+"Decreased testicular size"	1.0	0.0	1.0	0.0	0.0
+"Abnormality of the ovary"	1.0	0.0	1.0	0.0	0.0

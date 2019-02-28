@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Spasticity"
+"3" "Generalized hypotonia"
+"4" "Highly arched eyebrow"
+"5" "Coarse facial features"
+"6" "Thin upper lip vermilion"

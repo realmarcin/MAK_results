@@ -1,0 +1,6 @@
+"x"
+"1" "Osteopenia"
+"2" "Supernumerary ribs"
+"3" "Abdominal wall muscle weakness"
+"4" "Minimal subcutaneous fat"
+"5" "C1-C2 vertebral abnormality"

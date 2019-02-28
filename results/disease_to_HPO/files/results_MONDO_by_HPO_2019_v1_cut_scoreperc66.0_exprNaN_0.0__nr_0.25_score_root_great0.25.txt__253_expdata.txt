@@ -1,0 +1,10 @@
+	"MONDO.0008760"	"MONDO.0008940"	"MONDO.0008942"	"MONDO.0008963"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	0.0	1.0
+"Generalized hypotonia"	1.0	1.0	0.0	1.0
+"Ataxia"	1.0	1.0	0.0	1.0
+"Mask-like facies"	0.0	0.0	0.0	0.0
+"HP:0001276"	1.0	1.0	1.0	1.0
+"Reduced tendon reflexes"	0.0	0.0	0.0	0.0
+"Neurological speech impairment"	0.0	1.0	0.0	0.0
+"Abnormality of movement"	1.0	1.0	1.0	1.0

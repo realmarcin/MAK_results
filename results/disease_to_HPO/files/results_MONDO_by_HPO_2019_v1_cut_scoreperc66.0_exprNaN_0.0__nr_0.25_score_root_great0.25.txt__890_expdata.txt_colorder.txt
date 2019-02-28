@@ -1,0 +1,4 @@
+"x"
+"1" "Stroke"
+"2" "Wide nasal bridge"
+"3" "Prominent nasal bridge"

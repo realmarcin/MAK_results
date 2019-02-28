@@ -1,0 +1,8 @@
+	"MONDO.0007569"	"MONDO.0008103"	"MONDO.0012737"	"MONDO.0012809"	"MONDO.0013280"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Left ventricular hypertrophy"	0.0	1.0	0.0	1.0	0.0
+"Aortic regurgitation"	1.0	1.0	0.0	0.0	0.0
+"Atrial fibrillation"	0.0	1.0	0.0	1.0	1.0
+"Sinus bradycardia"	0.0	1.0	1.0	0.0	0.0
+"Cardiac arrest"	0.0	1.0	1.0	1.0	1.0
+"Left ventricular noncompaction"	0.0	1.0	0.0	1.0	0.0

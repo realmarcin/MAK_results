@@ -1,0 +1,8 @@
+	"MONDO.0008296"	"MONDO.0010911"	"MONDO.0010976"	"MONDO.0011461"	"MONDO.0013679"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Hyperpigmentation of the skin"	1.0	0.0	0.0	0.0	0.0
+"Alcoholism"	1.0	0.0	0.0	0.0	0.0
+"Fragile skin"	1.0	0.0	0.0	0.0	0.0
+"Hypertrichosis"	1.0	0.0	0.0	0.0	0.0
+"Hepatic fibrosis"	1.0	0.0	0.0	0.0	0.0
+"Porphyrinuria"	1.0	0.0	0.0	0.0	0.0

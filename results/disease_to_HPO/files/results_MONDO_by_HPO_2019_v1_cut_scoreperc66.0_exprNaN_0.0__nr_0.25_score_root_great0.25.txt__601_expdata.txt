@@ -1,0 +1,6 @@
+	"MONDO.0007106"	"MONDO.0007657"	"MONDO.0009097"	"MONDO.0009698"	"MONDO.0011914"	"MONDO.0013061"
+"Apraxia"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003678"	1.0	1.0	1.0	1.0	1.0	1.0
+"Extrapyramidal dyskinesia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Transient unilateral blurring of vision"	0.0	0.0	0.0	0.0	0.0	0.0
+"HP:0031868"	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0007486"	"MONDO.0010585"	"MONDO.0010901"	"MONDO.0012387"	"MONDO.0013533"	"MONDO.0014601"
+"Cirrhosis"	1.0	1.0	0.0	0.0	0.0	0.0
+"Ridged nail"	1.0	1.0	0.0	0.0	0.0	0.0
+"Premature loss of teeth"	1.0	1.0	0.0	0.0	0.0	0.0
+"Dermal atrophy"	1.0	1.0	0.0	0.0	0.0	0.0
+"Myelodysplasia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Oral leukoplakia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Bone marrow hypocellularity"	1.0	1.0	0.0	0.0	0.0	0.0

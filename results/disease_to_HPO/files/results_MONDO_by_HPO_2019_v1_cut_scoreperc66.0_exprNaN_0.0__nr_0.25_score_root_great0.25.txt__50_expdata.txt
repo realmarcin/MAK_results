@@ -1,0 +1,8 @@
+	"MONDO.0024521"	"MONDO.0008726"	"MONDO.0008728"	"MONDO.0008729"	"MONDO.0008730"	"MONDO.0013401"
+"Hypernatriuria"	0.0	1.0	1.0	1.0	1.0	1.0
+"Vomiting"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hyperkalemia"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hyponatremia"	0.0	1.0	1.0	1.0	1.0	1.0
+"Renal salt wasting"	0.0	1.0	1.0	1.0	1.0	1.0
+"HP:0004319"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hypovolemia"	0.0	1.0	1.0	1.0	1.0	1.0

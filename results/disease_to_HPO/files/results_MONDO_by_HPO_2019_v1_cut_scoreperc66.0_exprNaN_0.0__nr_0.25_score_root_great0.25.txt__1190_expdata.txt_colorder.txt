@@ -1,0 +1,7 @@
+"x"
+"1" "Periventricular cysts"
+"2" "Malrotation of small bowel"
+"3" "Hypoplastic pubic rami"
+"4" "Proteinuria"
+"5" "Hematuria"
+"6" "Shoulder muscle hypoplasia"

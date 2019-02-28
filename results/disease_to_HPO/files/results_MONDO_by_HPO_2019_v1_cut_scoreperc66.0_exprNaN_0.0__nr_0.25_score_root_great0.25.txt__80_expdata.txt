@@ -1,0 +1,10 @@
+	"MONDO.0009483"	"MONDO.0010636"	"MONDO.0010637"	"MONDO.0012989"
+"Cryptorchidism"	1.0	1.0	1.0	1.0
+"High palate"	0.0	1.0	1.0	1.0
+"Micropenis"	1.0	1.0	1.0	1.0
+"Anosmia"	1.0	1.0	1.0	1.0
+"Hypogonadotrophic hypogonadism"	1.0	1.0	1.0	1.0
+"Unilateral renal agenesis"	1.0	1.0	1.0	0.0
+"Bimanual synkinesia"	0.0	1.0	1.0	0.0
+"Sparse pubic hair"	0.0	1.0	1.0	0.0
+"Gynecomastia"	0.0	1.0	1.0	0.0

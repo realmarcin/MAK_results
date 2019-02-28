@@ -1,0 +1,7 @@
+	"MONDO.0007266"	"MONDO.0009551"	"MONDO.0009637"	"MONDO.0009911"	"MONDO.0010191"	"MONDO.0010495"
+"Strabismus"	1.0	1.0	0.0	0.0	0.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	0.0	1.0
+"Nystagmus"	1.0	1.0	1.0	1.0	0.0	1.0
+"Myopia"	1.0	1.0	0.0	1.0	0.0	1.0
+"Feeding difficulties in infancy"	1.0	1.0	1.0	0.0	1.0	0.0

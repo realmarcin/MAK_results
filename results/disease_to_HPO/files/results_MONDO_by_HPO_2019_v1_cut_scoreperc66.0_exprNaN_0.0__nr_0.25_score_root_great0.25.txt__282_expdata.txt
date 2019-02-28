@@ -1,0 +1,9 @@
+	"MONDO.0007851"	"MONDO.0008261"	"MONDO.0011246"	"MONDO.0011397"
+"HP:0000006"	1.0	0.0	1.0	1.0
+"Hyperkeratosis"	1.0	0.0	0.0	1.0
+"Sensorineural hearing impairment"	1.0	0.0	1.0	1.0
+"Sparse eyelashes"	1.0	0.0	1.0	0.0
+"Pes cavus"	1.0	0.0	1.0	0.0
+"Ichthyosis"	1.0	0.0	1.0	0.0
+"Squamous cell carcinoma"	1.0	1.0	1.0	0.0
+"Sparse and thin eyebrow"	1.0	0.0	1.0	0.0

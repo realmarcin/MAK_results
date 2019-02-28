@@ -1,0 +1,6 @@
+	"MONDO.0009453"	"MONDO.0024457"	"MONDO.0010270"	"MONDO.0010790"	"MONDO.0011872"	"MONDO.0012124"
+"Upper limb undergrowth"	0.0	0.0	0.0	0.0	0.0	1.0
+"Increased urinary O-linked sialopeptides"	0.0	1.0	0.0	0.0	0.0	0.0
+"Urinary excretion of sialylated oligosaccharides"	0.0	1.0	0.0	0.0	0.0	0.0
+"Pontocerebellar atrophy"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal macular morphology"	1.0	1.0	1.0	1.0	1.0	1.0

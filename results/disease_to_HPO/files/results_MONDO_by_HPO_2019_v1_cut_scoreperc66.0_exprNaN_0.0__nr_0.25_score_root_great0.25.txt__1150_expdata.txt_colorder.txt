@@ -1,0 +1,6 @@
+"x"
+"1" "Non-midline cleft lip"
+"2" "Palmoplantar keratoderma"
+"3" "Abnormality of dental enamel"
+"4" "Selective tooth agenesis"
+"5" "Hypotrichosis"

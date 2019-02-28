@@ -1,0 +1,11 @@
+	"MONDO.0007437"	"MONDO.0008593"	"MONDO.0008707"	"MONDO.0010099"	"MONDO.0010103"	"MONDO.0010741"
+"Frontal bossing"	0.0	1.0	0.0	0.0	0.0	0.0
+"Taurodontia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the hair"	0.0	1.0	0.0	0.0	0.0	0.0
+"Widely spaced teeth"	0.0	1.0	0.0	0.0	0.0	0.0
+"Increased bone mineral density"	0.0	1.0	0.0	0.0	0.0	0.0
+"Dolichocephaly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Dens in dente"	0.0	0.0	0.0	0.0	0.0	1.0
+"Pulp stones"	0.0	0.0	0.0	0.0	0.0	1.0
+"Fragile nails"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the mastoid"	0.0	1.0	0.0	0.0	0.0	0.0

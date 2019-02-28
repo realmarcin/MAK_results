@@ -1,0 +1,9 @@
+	"MONDO.0009154"	"MONDO.0009634"	"MONDO.0011421"	"MONDO.0013177"	"MONDO.0014421"	"MONDO.0015018"
+"HP:0000007"	1.0	1.0	0.0	1.0	0.0	1.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0	0.0	0.0
+"High palate"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypermetropia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ectopia lentis"	1.0	1.0	0.0	1.0	0.0	1.0
+"Megalocornea"	0.0	1.0	0.0	0.0	0.0	0.0
+"Iridodonesis"	0.0	1.0	0.0	1.0	0.0	1.0
+"Deep anterior chamber"	0.0	1.0	0.0	0.0	0.0	0.0

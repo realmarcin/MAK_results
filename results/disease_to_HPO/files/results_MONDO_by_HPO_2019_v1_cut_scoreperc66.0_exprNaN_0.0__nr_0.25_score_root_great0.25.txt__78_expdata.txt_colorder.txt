@@ -1,0 +1,4 @@
+"x"
+"1" "Jaundice"
+"2" "Hepatosplenomegaly"
+"3" "Lactescent serum"

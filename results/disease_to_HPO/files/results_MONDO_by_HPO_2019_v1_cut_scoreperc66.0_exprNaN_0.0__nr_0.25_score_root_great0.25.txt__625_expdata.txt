@@ -1,0 +1,8 @@
+	"MONDO.0007931"	"MONDO.0009213"	"MONDO.0010746"	"MONDO.0012900"	"MONDO.0013332"	"MONDO.0014520"
+"Splenomegaly"	1.0	0.0	1.0	0.0	0.0	0.0
+"Hemolytic anemia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Stomatocytosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bruising susceptibility"	1.0	0.0	1.0	0.0	0.0	0.0
+"Epistaxis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Menorrhagia"	1.0	1.0	0.0	1.0	1.0	1.0
+"Increased mean platelet volume"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Impaired ocular adduction"
+"2" "Impaired ocular abduction"
+"3" "Palpebral fissure narrowing on adduction"
+"4" "Impaired convergence"

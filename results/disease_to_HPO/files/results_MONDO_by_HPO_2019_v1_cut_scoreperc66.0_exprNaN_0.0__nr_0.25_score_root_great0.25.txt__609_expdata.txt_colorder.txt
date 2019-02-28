@@ -1,0 +1,6 @@
+"x"
+"1" "Hypertelorism"
+"2" "Atrial septal defect"
+"3" "Disproportionate tall stature"
+"4" "Right bundle branch block"
+"5" "Entropion"

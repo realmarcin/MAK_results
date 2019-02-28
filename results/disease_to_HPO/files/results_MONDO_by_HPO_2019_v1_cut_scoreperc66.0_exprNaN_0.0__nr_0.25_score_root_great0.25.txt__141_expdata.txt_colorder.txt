@@ -1,0 +1,8 @@
+"x"
+"1" "Pachygyria"
+"2" "Intellectual disability"
+"3" "Seizures"
+"4" "Global developmental delay"
+"5" "Cerebellar hypoplasia"
+"6" "Hemiparesis"
+"7" "Spastic tetraparesis"

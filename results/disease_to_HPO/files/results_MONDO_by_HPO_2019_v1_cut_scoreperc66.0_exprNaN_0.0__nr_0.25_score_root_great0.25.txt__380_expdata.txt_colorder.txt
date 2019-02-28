@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Myopia"
+"3" "Constriction of peripheral visual field"
+"4" "Nyctalopia"
+"5" "Progressive visual loss"
+"6" "Chorioretinal atrophy"
+"7" "Retinal degeneration"

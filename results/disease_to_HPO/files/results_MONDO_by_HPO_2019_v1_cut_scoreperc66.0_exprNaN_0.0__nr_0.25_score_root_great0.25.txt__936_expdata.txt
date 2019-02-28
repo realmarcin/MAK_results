@@ -1,0 +1,6 @@
+	"MONDO.0009072"	"MONDO.0009249"	"MONDO.0009250"	"MONDO.0010299"	"MONDO.0010300"	"MONDO.0010396"
+"Increased urinary urate"	1.0	0.0	0.0	0.0	0.0	0.0
+"Galactose intolerance"	0.0	1.0	0.0	0.0	0.0	0.0
+"Fructose intolerance"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hyperuricosuria"	0.0	0.0	1.0	1.0	1.0	1.0
+"Podagra"	0.0	0.0	0.0	1.0	1.0	0.0

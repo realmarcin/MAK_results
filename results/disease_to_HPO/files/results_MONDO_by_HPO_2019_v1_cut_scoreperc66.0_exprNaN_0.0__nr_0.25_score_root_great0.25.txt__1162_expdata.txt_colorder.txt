@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0003829"
+"2" "Spontaneous pneumothorax"
+"3" "Pneumothorax"
+"4" "Abnormality of the pleura"

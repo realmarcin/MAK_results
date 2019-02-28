@@ -1,0 +1,8 @@
+"x"
+"1" "Wide nasal bridge"
+"2" "Cryptorchidism"
+"3" "Respiratory insufficiency"
+"4" "Muscular hypotonia"
+"5" "Micrognathia"
+"6" "Abnormality of cardiovascular system morphology"
+"7" "Deep philtrum"

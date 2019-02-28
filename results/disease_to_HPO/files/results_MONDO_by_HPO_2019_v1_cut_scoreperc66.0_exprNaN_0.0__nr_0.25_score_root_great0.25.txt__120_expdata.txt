@@ -1,0 +1,8 @@
+	"MONDO.0007114"	"MONDO.0009954"	"MONDO.0010225"	"MONDO.0010418"	"MONDO.0013402"	"MONDO.0013691"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	0.0
+"Short stature"	0.0	1.0	1.0	1.0	1.0	0.0
+"Coarse facial features"	0.0	1.0	1.0	0.0	1.0	0.0
+"Nystagmus"	1.0	0.0	1.0	1.0	1.0	0.0
+"Cerebral cortical atrophy"	1.0	1.0	1.0	1.0	1.0	0.0
+"Intellectual disability, severe"	1.0	1.0	1.0	0.0	1.0	1.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Abnormality of the metaphysis"
+"2" "Abnormality of epiphysis morphology"
+"3" "Rhizomelia"

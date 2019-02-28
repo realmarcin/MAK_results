@@ -1,0 +1,5 @@
+	"MONDO.0007151"	"MONDO.0007857"	"MONDO.0007925"	"MONDO.0024550"	"MONDO.0013600"	"MONDO.0013663"
+"Abnormality of the large intestine"	1.0	1.0	1.0	0.0	0.0	0.0
+"Diffuse palmoplantar hyperkeratosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Esophageal carcinoma"	0.0	1.0	0.0	0.0	1.0	1.0
+"Abnormality of the mediastinum"	0.0	1.0	0.0	1.0	0.0	0.0

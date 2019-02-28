@@ -1,0 +1,4 @@
+"x"
+"1" "Unsteady gait"
+"2" "Babinski sign"
+"3" "Postural instability"

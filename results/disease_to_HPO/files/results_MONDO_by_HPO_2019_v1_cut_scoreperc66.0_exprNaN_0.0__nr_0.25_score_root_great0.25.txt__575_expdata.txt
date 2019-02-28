@@ -1,0 +1,9 @@
+	"MONDO.0008395"	"MONDO.0008996"	"MONDO.0010367"	"MONDO.0010406"	"MONDO.0013282"
+"Cryptorchidism"	1.0	1.0	0.0	0.0	0.0
+"Syndactyly"	1.0	1.0	0.0	0.0	0.0
+"Hypospadias"	1.0	1.0	0.0	0.0	0.0
+"Intrauterine growth retardation"	1.0	1.0	0.0	0.0	0.0
+"Premature birth"	1.0	1.0	0.0	0.0	0.0
+"HP:0008897"	1.0	1.0	0.0	0.0	0.0
+"Thin vermilion border"	1.0	1.0	0.0	0.0	0.0
+"Generalized neonatal hypotonia"	1.0	1.0	1.0	1.0	1.0

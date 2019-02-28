@@ -1,0 +1,9 @@
+	"MONDO.0009240"	"MONDO.0009412"	"MONDO.0009420"	"MONDO.0010002"	"MONDO.0010013"
+"HP:0001596"	0.0	1.0	1.0	0.0	1.0
+"Diabetes mellitus"	0.0	1.0	1.0	0.0	0.0
+"Type I diabetes mellitus"	0.0	1.0	0.0	0.0	1.0
+"Hypoparathyroidism"	0.0	1.0	0.0	0.0	1.0
+"Asplenia"	0.0	1.0	0.0	0.0	1.0
+"Keratoconjunctivitis"	0.0	1.0	0.0	0.0	1.0
+"Female hypogonadism"	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the fingernails"	0.0	1.0	0.0	1.0	0.0

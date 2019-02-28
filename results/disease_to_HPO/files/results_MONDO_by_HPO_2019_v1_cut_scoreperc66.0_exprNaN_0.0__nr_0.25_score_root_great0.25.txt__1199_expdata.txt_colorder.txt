@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Brachydactyly"
+"3" "Small nail"
+"4" "Bulbous nose"
+"5" "Short proximal phalanx of finger"
+"6" "Aplasia/Hypoplasia of toe"

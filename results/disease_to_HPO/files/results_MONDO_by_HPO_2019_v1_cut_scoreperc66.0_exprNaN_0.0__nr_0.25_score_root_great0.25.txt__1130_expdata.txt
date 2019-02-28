@@ -1,0 +1,10 @@
+	"MONDO.0009393"	"MONDO.0012460"	"MONDO.0013378"	"MONDO.0036484"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Microphthalmia"	0.0	1.0	1.0	0.0
+"Aniridia"	0.0	1.0	0.0	0.0
+"Peters anomaly"	0.0	1.0	0.0	0.0
+"Retinal dysplasia"	0.0	1.0	0.0	0.0
+"Posterior synechiae of the anterior chamber"	0.0	1.0	0.0	0.0
+"Congenital primary aphakia"	0.0	1.0	0.0	0.0
+"Anterior segment of eye aplasia"	0.0	1.0	0.0	0.0
+"Abnormality of vision"	0.0	1.0	0.0	0.0

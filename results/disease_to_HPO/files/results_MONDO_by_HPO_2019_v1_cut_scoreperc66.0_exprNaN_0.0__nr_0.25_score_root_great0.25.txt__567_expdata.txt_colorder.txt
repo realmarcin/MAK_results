@@ -1,0 +1,7 @@
+"x"
+"1" "Superficial thrombophlebitis"
+"2" "Hypercoagulability"
+"3" "Cerebral venous thrombosis"
+"4" "Reduced protein C activity"
+"5" "Reduced protein S activity"
+"6" "Warfarin-induced skin necrosis"

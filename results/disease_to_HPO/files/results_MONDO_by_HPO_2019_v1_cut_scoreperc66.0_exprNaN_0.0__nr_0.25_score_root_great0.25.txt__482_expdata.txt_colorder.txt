@@ -1,0 +1,5 @@
+"x"
+"1" "Hand polydactyly"
+"2" "Foot polydactyly"
+"3" "Hypothalamic hamartoma"
+"4" "Hyperphalangy of the 2nd finger"

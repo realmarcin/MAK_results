@@ -1,0 +1,10 @@
+	"MONDO.0009418"	"MONDO.0009421"	"MONDO.0010197"	"MONDO.0013302"	"MONDO.0014149"	"MONDO.0014992"
+"Breast hypoplasia"	0.0	1.0	0.0	0.0	1.0	0.0
+"Increased circulating gonadotropin level"	1.0	1.0	0.0	0.0	1.0	0.0
+"Decreased fertility"	1.0	0.0	1.0	0.0	0.0	0.0
+"Primary amenorrhea"	1.0	1.0	0.0	1.0	1.0	0.0
+"Marked delay in bone age"	0.0	1.0	0.0	0.0	1.0	0.0
+"Elevated circulating follicle stimulating hormone level"	1.0	0.0	0.0	0.0	0.0	1.0
+"Male hypogonadism"	1.0	0.0	0.0	0.0	0.0	0.0
+"Absence of secondary sex characteristics"	1.0	1.0	0.0	0.0	1.0	0.0
+"Secondary growth hormone deficiency"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,13 @@
+	"MONDO.0010450"	"MONDO.0011369"	"MONDO.0012715"	"MONDO.0014153"
+"Abnormality of the nasolacrimal system"	0.0	1.0	0.0	0.0
+"Microdontia"	0.0	1.0	0.0	0.0
+"Prominent occiput"	0.0	1.0	0.0	0.0
+"Epicanthus inversus"	0.0	1.0	0.0	0.0
+"Dilated cardiomyopathy"	1.0	1.0	1.0	1.0
+"Thyroid hypoplasia"	0.0	1.0	0.0	0.0
+"Thyroid agenesis"	0.0	1.0	0.0	0.0
+"Ectopic thyroid"	0.0	1.0	0.0	0.0
+"Abnormality of the antihelix"	0.0	1.0	0.0	0.0
+"Atrioventricular canal defect"	0.0	1.0	0.0	0.0
+"Abnormality of the cheek"	0.0	1.0	0.0	0.0
+"Neoplasm of the tongue"	0.0	1.0	0.0	0.0

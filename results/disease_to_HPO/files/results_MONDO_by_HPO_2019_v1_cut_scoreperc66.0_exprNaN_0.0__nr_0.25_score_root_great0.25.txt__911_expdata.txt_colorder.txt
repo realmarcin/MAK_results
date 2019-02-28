@@ -1,0 +1,6 @@
+"x"
+"1" "Bifid sacrum"
+"2" "Sacrococcygeal teratoma"
+"3" "Gastrointestinal obstruction"
+"4" "Presacral teratoma"
+"5" "Anal fistula"

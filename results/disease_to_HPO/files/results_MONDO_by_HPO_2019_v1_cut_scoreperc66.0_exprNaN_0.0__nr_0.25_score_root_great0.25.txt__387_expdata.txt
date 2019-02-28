@@ -1,0 +1,8 @@
+	"MONDO.0013159"	"MONDO.0013173"	"MONDO.0014023"	"MONDO.0014121"	"MONDO.0014342"
+"Global developmental delay"	0.0	1.0	0.0	1.0	1.0
+"Polymicrogyria"	0.0	1.0	0.0	0.0	1.0
+"Cortical dysplasia"	0.0	0.0	0.0	1.0	1.0
+"HP:0003577"	0.0	1.0	0.0	1.0	1.0
+"Cerebellar hypoplasia"	0.0	0.0	0.0	1.0	1.0
+"Hypoplasia of the brainstem"	0.0	1.0	0.0	1.0	1.0
+"Retinal dysplasia"	1.0	0.0	1.0	1.0	1.0

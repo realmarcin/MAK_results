@@ -1,0 +1,15 @@
+	"MONDO.0009273"	"MONDO.0010083"	"MONDO.0042486"	"MONDO.0014592"
+"Acne"	0.0	1.0	0.0	0.0
+"Round face"	0.0	1.0	0.0	0.0
+"Wide intermamillary distance"	0.0	1.0	0.0	0.0
+"Arrhythmia"	0.0	1.0	0.0	0.0
+"Subvalvular aortic stenosis"	0.0	1.0	0.0	0.0
+"Broad finger"	0.0	1.0	0.0	0.0
+"Barrel-shaped chest"	0.0	1.0	0.0	0.0
+"Diastema"	0.0	1.0	0.0	0.0
+"Biliary tract abnormality"	0.0	1.0	0.0	0.0
+"Abnormality of the voice"	0.0	1.0	0.0	0.0
+"Shield chest"	0.0	1.0	0.0	0.0
+"Membranous subvalvular aortic stenosis"	0.0	1.0	0.0	0.0
+"Abnormality of lipid metabolism"	0.0	1.0	0.0	0.0
+"Abnormality of the vocal cords"	0.0	1.0	0.0	0.0

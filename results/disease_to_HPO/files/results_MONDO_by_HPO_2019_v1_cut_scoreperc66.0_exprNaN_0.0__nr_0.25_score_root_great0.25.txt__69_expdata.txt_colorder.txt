@@ -1,0 +1,8 @@
+"x"
+"1" "Gynecomastia"
+"2" "Adrenocorticotropic hormone excess"
+"3" "Elevated circulating follicle stimulating hormone level"
+"4" "Elevated circulating luteinizing hormone level"
+"5" "Hypospadias"
+"6" "Enlarged polycystic ovaries"
+"7" "Adrenal hyperplasia"

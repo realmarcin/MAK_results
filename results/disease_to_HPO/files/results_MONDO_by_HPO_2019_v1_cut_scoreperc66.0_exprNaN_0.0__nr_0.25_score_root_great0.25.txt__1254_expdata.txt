@@ -1,0 +1,12 @@
+	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0014673"	"MONDO.0013298"
+"Muscular hypotonia"	0.0	0.0	1.0	0.0
+"Motor delay"	0.0	0.0	1.0	0.0
+"Scoliosis"	0.0	0.0	1.0	0.0
+"Soft skin"	0.0	0.0	1.0	0.0
+"Osteoporosis"	0.0	0.0	1.0	0.0
+"Vertebral compression fractures"	0.0	0.0	1.0	0.0
+"Delayed speech and language development"	0.0	0.0	1.0	0.0
+"Muscle weakness"	0.0	0.0	1.0	0.0
+"Decreased muscle mass"	0.0	0.0	1.0	0.0
+"Thin metacarpal cortices"	0.0	0.0	1.0	0.0
+"Intraventricular hemorrhage"	0.0	0.0	1.0	0.0

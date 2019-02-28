@@ -1,0 +1,8 @@
+"x"
+"1" "Long philtrum"
+"2" "Strabismus"
+"3" "Ventricular septal defect"
+"4" "Ventriculomegaly"
+"5" "HP:0003745"
+"6" "Gastroesophageal reflux"
+"7" "HP:0000113"

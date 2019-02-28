@@ -1,0 +1,10 @@
+	"MONDO.0013910"	"MONDO.0013994"	"MONDO.0014304"	"MONDO.0014548"	"MONDO.0014568"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Microcephaly"	1.0	0.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	0.0	1.0	1.0
+"Intellectual disability, moderate"	1.0	0.0	1.0	0.0	0.0
+"Spasticity"	1.0	0.0	1.0	1.0	1.0
+"Dysarthria"	1.0	0.0	1.0	1.0	1.0
+"Spastic paraplegia"	0.0	1.0	1.0	0.0	1.0
+"Intellectual disability, borderline"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the cerebral white matter"	0.0	0.0	1.0	0.0	0.0

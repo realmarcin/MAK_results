@@ -1,0 +1,7 @@
+	"MONDO.0020701"	"MONDO.0007217"	"MONDO.0007333"	"MONDO.0007607"	"MONDO.0007699"	"MONDO.0008112"	"MONDO.0008527"	"MONDO.0008685"	"MONDO.0008994"	"MONDO.0011173"
+"Cleft upper lip"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Atrial septal defect"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"High forehead"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Short hallux"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormal form of the vertebral bodies"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the cerebellum"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0

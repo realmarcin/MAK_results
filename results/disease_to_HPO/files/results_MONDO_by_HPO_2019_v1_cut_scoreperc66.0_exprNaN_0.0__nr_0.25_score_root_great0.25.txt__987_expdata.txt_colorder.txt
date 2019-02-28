@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Constipation"
+"3" "HP:0031284"
+"4" "Ocular pain"
+"5" "Mandibular pain"
+"6" "Anal pain"

@@ -1,0 +1,6 @@
+"x"
+"1" "Apraxia"
+"2" "HP:0003678"
+"3" "Extrapyramidal dyskinesia"
+"4" "HP:0031868"
+"5" "Transient unilateral blurring of vision"

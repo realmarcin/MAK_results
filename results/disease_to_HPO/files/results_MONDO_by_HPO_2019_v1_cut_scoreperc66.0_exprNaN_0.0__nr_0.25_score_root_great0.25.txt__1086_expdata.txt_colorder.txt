@@ -1,0 +1,7 @@
+"x"
+"1" "Inspiratory stridor"
+"2" "Subependymal cysts"
+"3" "Multifocal cerebral white matter abnormalities"
+"4" "D-2-hydroxyglutaric aciduria"
+"5" "3-Methylglutaric aciduria"
+"6" "HP:0410066"

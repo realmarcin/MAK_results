@@ -1,0 +1,10 @@
+	"MONDO.0009327"	"MONDO.0010610"	"MONDO.0060568"
+"Brachydactyly"	1.0	1.0	0.0
+"HP:0000006"	1.0	0.0	0.0
+"Short toe"	1.0	0.0	0.0
+"Abnormality of the cardiovascular system"	1.0	0.0	0.0
+"Ulnar deviation of the 2nd finger"	1.0	0.0	0.0
+"Short middle phalanx of finger"	1.0	0.0	0.0
+"Sick sinus syndrome"	1.0	0.0	0.0
+"Bundle branch block"	1.0	0.0	0.0
+"Abnormality of the metacarpal bones"	1.0	0.0	0.0

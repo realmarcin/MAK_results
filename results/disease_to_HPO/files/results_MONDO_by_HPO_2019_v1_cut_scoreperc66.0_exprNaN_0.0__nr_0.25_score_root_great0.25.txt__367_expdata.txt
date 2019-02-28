@@ -1,0 +1,7 @@
+	"MONDO.0007103"	"MONDO.0007167"	"MONDO.0008024"	"MONDO.0008243"	"MONDO.0008457"	"MONDO.0011682"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ataxia"	0.0	1.0	1.0	1.0	1.0	1.0
+"Skeletal muscle atrophy"	1.0	0.0	1.0	0.0	1.0	0.0
+"Spasticity"	0.0	0.0	0.0	0.0	1.0	1.0
+"Fasciculations"	0.0	1.0	0.0	0.0	1.0	0.0
+"Diabetes mellitus"	0.0	0.0	1.0	1.0	0.0	0.0

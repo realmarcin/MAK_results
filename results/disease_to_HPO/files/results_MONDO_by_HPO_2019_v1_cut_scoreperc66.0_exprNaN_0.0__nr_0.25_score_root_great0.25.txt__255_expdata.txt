@@ -1,0 +1,7 @@
+	"MONDO.0007071"	"MONDO.0007463"	"MONDO.0008295"	"MONDO.0008298"	"MONDO.0008600"	"MONDO.0009050"
+"Paresthesia"	1.0	1.0	1.0	0.0	1.0	0.0
+"Depressivity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Anxiety"	1.0	0.0	1.0	1.0	0.0	1.0
+"Urinary incontinence"	0.0	1.0	1.0	0.0	0.0	0.0
+"Muscle weakness"	0.0	1.0	1.0	1.0	0.0	1.0
+"CNS demyelination"	0.0	1.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Triphalangeal thumb"
+"3" "Preaxial polydactyly"
+"4" "Polydactyly"
+"5" "Complete duplication of distal phalanx of the thumb"

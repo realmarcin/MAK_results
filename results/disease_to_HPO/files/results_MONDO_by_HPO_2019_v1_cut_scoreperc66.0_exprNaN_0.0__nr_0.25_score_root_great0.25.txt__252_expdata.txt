@@ -1,0 +1,7 @@
+	"MONDO.0010313"	"MONDO.0010676"	"MONDO.0012249"	"MONDO.0013073"	"MONDO.0013473"	"MONDO.0014143"
+"Cardiomyopathy"	1.0	1.0	1.0	1.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0	1.0
+"Weak cry"	0.0	0.0	0.0	0.0	1.0	0.0
+"Muscular dystrophy"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0002878"	0.0	0.0	0.0	0.0	1.0	0.0
+"Difficulty climbing stairs"	1.0	0.0	1.0	0.0	0.0	1.0

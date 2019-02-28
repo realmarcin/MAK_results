@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of the hair"
+"2" "HP:0000006"
+"3" "Fine hair"
+"4" "Abnormality of the eye"
+"5" "Abnormal hair pattern"

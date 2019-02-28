@@ -1,0 +1,9 @@
+	"MONDO.0007535"	"MONDO.0011214"	"MONDO.0012216"	"MONDO.0012278"	"MONDO.0012290"
+"HP:0003584"	0.0	0.0	0.0	1.0	0.0
+"Anterior creases of earlobe"	1.0	0.0	0.0	0.0	0.0
+"Muscle fiber splitting"	0.0	0.0	0.0	1.0	1.0
+"Progressive distal muscle weakness"	0.0	0.0	1.0	1.0	0.0
+"Progressive proximal muscle weakness"	0.0	0.0	0.0	1.0	0.0
+"Abnormal peripheral nervous system morphology"	0.0	1.0	0.0	0.0	1.0
+"Myofibrillar myopathy"	0.0	0.0	1.0	1.0	1.0
+"Muscle fiber cytoplasmatic inclusion bodies"	0.0	0.0	1.0	0.0	1.0

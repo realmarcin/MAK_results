@@ -1,0 +1,7 @@
+	"MONDO.0007058"	"MONDO.0007999"	"MONDO.0009562"	"MONDO.0010032"	"MONDO.0010705"	"MONDO.0011532"
+"Dislocated radial head"	1.0	0.0	0.0	0.0	1.0	1.0
+"Skeletal dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Bowing of the long bones"	1.0	0.0	1.0	0.0	1.0	1.0
+"Mesomelia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Thoracic kyphosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Metaphyseal dysplasia"	0.0	1.0	0.0	0.0	0.0	0.0

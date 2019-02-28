@@ -1,0 +1,9 @@
+	"MONDO.0010530"	"MONDO.0009303"	"MONDO.0009643"	"MONDO.0011009"	"MONDO.0014455"
+"Brachydactyly"	0.0	1.0	1.0	0.0	0.0
+"Syndactyly"	0.0	0.0	1.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Hydrocephalus"	1.0	0.0	1.0	0.0	0.0
+"Malar flattening"	1.0	0.0	1.0	1.0	0.0
+"Short stature"	0.0	1.0	1.0	0.0	0.0
+"Short palm"	0.0	0.0	1.0	1.0	0.0
+"Bifid tongue"	0.0	0.0	1.0	1.0	0.0

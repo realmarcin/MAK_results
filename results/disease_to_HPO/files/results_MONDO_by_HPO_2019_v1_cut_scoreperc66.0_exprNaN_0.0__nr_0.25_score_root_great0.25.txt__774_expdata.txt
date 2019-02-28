@@ -1,0 +1,10 @@
+	"MONDO.0007828"	"MONDO.0010871"	"MONDO.0011364"	"MONDO.0011861"	"MONDO.0014801"
+"Skeletal muscle atrophy"	1.0	0.0	1.0	0.0	0.0
+"Autoimmunity"	1.0	0.0	0.0	0.0	0.0
+"Feeding difficulties in infancy"	1.0	0.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	0.0
+"Reduced tendon reflexes"	1.0	0.0	0.0	0.0	1.0
+"Inflammatory myopathy"	1.0	0.0	0.0	0.0	0.0
+"Rimmed vacuoles"	1.0	1.0	1.0	1.0	0.0
+"EMG abnormality"	1.0	0.0	0.0	0.0	0.0
+"Quadriceps muscle weakness"	1.0	1.0	0.0	1.0	0.0

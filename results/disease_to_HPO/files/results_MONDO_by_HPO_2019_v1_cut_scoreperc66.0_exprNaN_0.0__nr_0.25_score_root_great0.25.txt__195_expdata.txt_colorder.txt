@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Cerebral cortical atrophy"
+"3" "Intellectual disability, severe"
+"4" "Bulbous nose"
+"5" "Hyperactivity"
+"6" "Febrile seizures"
+"7" "Small for gestational age"

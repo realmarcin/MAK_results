@@ -1,0 +1,7 @@
+"x"
+"1" "Diarrhea"
+"2" "Fatigue"
+"3" "Abdominal pain"
+"4" "Anorexia"
+"5" "Nausea and vomiting"
+"6" "Malabsorption"

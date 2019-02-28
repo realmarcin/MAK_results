@@ -1,0 +1,7 @@
+"x"
+"1" "Dry hair"
+"2" "Intellectual disability"
+"3" "HP:0003828"
+"4" "Hypogonadism"
+"5" "Sensorineural hearing impairment"
+"6" "Anhidrosis"

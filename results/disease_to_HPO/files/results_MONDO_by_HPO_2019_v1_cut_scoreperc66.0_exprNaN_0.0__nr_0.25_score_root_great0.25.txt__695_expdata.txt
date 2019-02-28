@@ -1,0 +1,8 @@
+	"MONDO.0024531"	"MONDO.0009709"	"MONDO.0011364"	"MONDO.0012019"	"MONDO.0013062"
+"Abnormality of the cardiovascular system"	0.0	0.0	0.0	1.0	0.0
+"Type 1 muscle fiber predominance"	1.0	1.0	1.0	1.0	0.0
+"EMG: myopathic abnormalities"	0.0	1.0	1.0	1.0	1.0
+"Scapuloperoneal weakness"	0.0	1.0	0.0	1.0	0.0
+"Scapuloperoneal amyotrophy"	0.0	1.0	0.0	1.0	0.0
+"Calf muscle pseudohypertrophy"	0.0	0.0	0.0	1.0	0.0
+"Generalized limb muscle atrophy"	0.0	0.0	0.0	1.0	0.0

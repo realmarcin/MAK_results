@@ -1,0 +1,8 @@
+"x"
+"1" "Cleft palate"
+"2" "Conductive hearing impairment"
+"3" "Microtia"
+"4" "Broad nasal tip"
+"5" "2-3 toe syndactyly"
+"6" "Ectopic kidney"
+"7" "Bifid nasal tip"

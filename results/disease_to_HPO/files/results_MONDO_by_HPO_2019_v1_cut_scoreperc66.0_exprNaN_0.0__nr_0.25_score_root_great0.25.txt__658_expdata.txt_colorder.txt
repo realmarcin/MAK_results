@@ -1,0 +1,7 @@
+"x"
+"1" "Cholelithiasis"
+"2" "Nonspherocytic hemolytic anemia"
+"3" "Cholecystitis"
+"4" "Normochromic anemia"
+"5" "Normocytic anemia"
+"6" "Abnormality of metabolism/homeostasis"

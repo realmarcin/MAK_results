@@ -1,0 +1,8 @@
+	"MONDO.0010911"	"MONDO.0010976"	"MONDO.0011461"	"MONDO.0013679"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Reduced visual acuity"	0.0	0.0	0.0	1.0
+"Microcornea"	0.0	0.0	0.0	1.0
+"Astigmatism"	0.0	0.0	0.0	1.0
+"Keratoconus"	0.0	0.0	0.0	1.0
+"Congenital cataract"	0.0	0.0	0.0	1.0
+"Hypoplasia of the iris"	0.0	0.0	0.0	1.0

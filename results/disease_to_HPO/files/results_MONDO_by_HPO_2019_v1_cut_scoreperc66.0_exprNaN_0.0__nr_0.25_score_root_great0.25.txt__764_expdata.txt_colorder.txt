@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Elevated alpha-fetoprotein"
+"3" "Perimembranous ventricular septal defect"
+"4" "Melanoma"
+"5" "Horizontal pendular nystagmus"

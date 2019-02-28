@@ -1,0 +1,8 @@
+"x"
+"1" "Anteverted nares"
+"2" "Platyspondyly"
+"3" "Depressed nasal bridge"
+"4" "Short finger"
+"5" "HP:0002878"
+"6" "Enlarged joints"
+"7" "HP:0001423"

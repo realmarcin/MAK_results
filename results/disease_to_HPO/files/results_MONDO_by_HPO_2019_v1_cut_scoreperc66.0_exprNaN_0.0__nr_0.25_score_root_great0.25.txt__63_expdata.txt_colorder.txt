@@ -1,0 +1,4 @@
+"x"
+"1" "Ataxia"
+"2" "Nystagmus"
+"3" "Muscular hypotonia"

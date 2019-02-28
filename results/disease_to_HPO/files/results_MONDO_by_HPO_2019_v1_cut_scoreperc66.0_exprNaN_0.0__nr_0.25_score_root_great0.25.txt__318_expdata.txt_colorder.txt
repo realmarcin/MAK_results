@@ -1,0 +1,8 @@
+"x"
+"1" "Acanthosis nigricans"
+"2" "Polycystic ovaries"
+"3" "Loss of gluteal subcutaneous adipose tissue"
+"4" "Abdominal obesity"
+"5" "Proximal muscle weakness in upper limbs"
+"6" "Abnormality of lipid metabolism"
+"7" "Abnormality of the labia majora"

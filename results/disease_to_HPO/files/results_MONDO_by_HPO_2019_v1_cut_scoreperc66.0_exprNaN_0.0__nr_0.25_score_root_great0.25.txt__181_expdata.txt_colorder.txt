@@ -1,0 +1,8 @@
+"x"
+"1" "Ptosis"
+"2" "Bulbar palsy"
+"3" "HP:0003577"
+"4" "Respiratory insufficiency due to muscle weakness"
+"5" "Ophthalmoparesis"
+"6" "Poor suck"
+"7" "Decreased miniature endplate potentials"

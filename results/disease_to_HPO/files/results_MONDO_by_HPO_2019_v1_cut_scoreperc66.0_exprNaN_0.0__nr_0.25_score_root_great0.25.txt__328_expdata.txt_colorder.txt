@@ -1,0 +1,8 @@
+"x"
+"1" "Joint contracture of the hand"
+"2" "Microcephaly"
+"3" "Intellectual disability"
+"4" "Camptodactyly"
+"5" "Pectus excavatum"
+"6" "Hearing impairment"
+"7" "High palate"

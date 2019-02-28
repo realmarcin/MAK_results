@@ -1,0 +1,15 @@
+	"MONDO.0007668"	"MONDO.0010931"	"MONDO.0011984"	"MONDO.0012055"
+"Choanal atresia"	0.0	1.0	0.0	0.0
+"Blepharophimosis"	0.0	1.0	0.0	0.0
+"Iris coloboma"	0.0	1.0	0.0	0.0
+"Spina bifida"	0.0	1.0	0.0	0.0
+"Low-set, posteriorly rotated ears"	0.0	1.0	0.0	0.0
+"Abnormality of the ear"	0.0	1.0	0.0	0.0
+"Abnormality of the genitourinary system"	0.0	1.0	0.0	0.0
+"Bilateral cleft lip and palate"	0.0	1.0	0.0	0.0
+"Abnormal nasal morphology"	0.0	1.0	0.0	0.0
+"Facial cleft"	0.0	1.0	0.0	0.0
+"Vertebral segmentation defect"	0.0	1.0	0.0	0.0
+"Deviation of finger"	0.0	1.0	0.0	0.0
+"HP:0045005"	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the earlobes"	0.0	1.0	0.0	0.0

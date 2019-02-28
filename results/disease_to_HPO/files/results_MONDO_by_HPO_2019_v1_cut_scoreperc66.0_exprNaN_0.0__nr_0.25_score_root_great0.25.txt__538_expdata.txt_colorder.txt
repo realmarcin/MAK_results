@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0001444"
+"2" "Acute monocytic leukemia"
+"3" "Congenital agranulocytosis"
+"4" "Monocytosis"

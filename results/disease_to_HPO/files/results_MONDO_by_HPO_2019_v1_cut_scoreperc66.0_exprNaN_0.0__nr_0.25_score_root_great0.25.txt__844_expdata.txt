@@ -1,0 +1,9 @@
+	"MONDO.0007820"	"MONDO.0008953"	"MONDO.0009163"	"MONDO.0009271"	"MONDO.0013483"
+"Cleft upper lip"	1.0	1.0	1.0	1.0	1.0
+"Postaxial hand polydactyly"	0.0	1.0	1.0	1.0	1.0
+"Abnormality of chromosome segregation"	1.0	0.0	0.0	0.0	0.0
+"Cyclopia"	1.0	0.0	0.0	0.0	0.0
+"Torus palatinus"	1.0	0.0	0.0	0.0	0.0
+"Prominent median palatal raphe"	1.0	0.0	0.0	0.0	0.0
+"Midnasal stenosis"	1.0	0.0	0.0	0.0	0.0
+"HP:0025011"	1.0	0.0	0.0	0.0	0.0

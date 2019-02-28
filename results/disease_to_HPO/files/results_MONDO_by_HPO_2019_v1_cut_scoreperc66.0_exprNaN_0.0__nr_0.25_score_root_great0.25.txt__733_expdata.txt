@@ -1,0 +1,13 @@
+	"MONDO.0008710"	"MONDO.0009363"	"MONDO.0010025"	"MONDO.0008286"
+"Hydrocephalus"	0.0	1.0	1.0	0.0
+"Lower limb undergrowth"	0.0	1.0	0.0	0.0
+"Intestinal malrotation"	0.0	1.0	1.0	0.0
+"Radial bowing"	0.0	1.0	0.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	0.0	0.0
+"Abnormality of the ribs"	0.0	1.0	0.0	1.0
+"Short lower limbs"	0.0	1.0	0.0	0.0
+"Omphalocele"	1.0	1.0	1.0	0.0
+"Abnormality of fibula morphology"	0.0	1.0	0.0	0.0
+"Pulmonary hypoplasia"	1.0	1.0	1.0	0.0
+"Aqueductal stenosis"	0.0	1.0	0.0	0.0
+"Abnormal vertebral ossification"	0.0	1.0	0.0	0.0

@@ -1,0 +1,9 @@
+	"MONDO.0007728"	"MONDO.0007916"	"MONDO.0008829"	"MONDO.0009850"	"MONDO.0010147"	"MONDO.0012370"
+"Vertigo"	1.0	0.0	0.0	1.0	0.0	0.0
+"Arthralgia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Migraine"	1.0	0.0	0.0	1.0	1.0	0.0
+"Arthritis"	1.0	1.0	1.0	1.0	0.0	1.0
+"Hypermelanotic macule"	1.0	0.0	0.0	1.0	0.0	0.0
+"Myalgia"	1.0	0.0	0.0	1.0	1.0	0.0
+"Lymphadenopathy"	1.0	0.0	0.0	1.0	1.0	0.0
+"Intestinal obstruction"	1.0	0.0	0.0	1.0	0.0	0.0

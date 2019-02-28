@@ -1,0 +1,6 @@
+"x"
+"1" "Intestinal lymphangiectasia"
+"2" "Pericardial lymphangiectasia"
+"3" "Conical incisor"
+"4" "Thyroid lymphangiectasia"
+"5" "Pleural lymphangiectasia"

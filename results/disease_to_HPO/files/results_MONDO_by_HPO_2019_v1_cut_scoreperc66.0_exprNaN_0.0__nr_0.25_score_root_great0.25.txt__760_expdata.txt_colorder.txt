@@ -1,0 +1,6 @@
+"x"
+"1" "Cortical irregularity"
+"2" "Anterior concavity of thoracic vertebrae"
+"3" "Prominent coccyx"
+"4" "Abnormality of the septum pellucidum"
+"5" "Thickened ears"

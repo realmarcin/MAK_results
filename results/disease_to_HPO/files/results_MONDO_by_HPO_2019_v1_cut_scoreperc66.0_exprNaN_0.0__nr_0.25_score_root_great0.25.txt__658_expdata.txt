@@ -1,0 +1,7 @@
+	"MONDO.0008690"	"MONDO.0008791"	"MONDO.0008969"	"MONDO.0009114"	"MONDO.0009135"	"MONDO.0009341"	"MONDO.0011562"	"MONDO.0012748"	"MONDO.0013276"
+"Nonspherocytic hemolytic anemia"	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Abnormality of metabolism/homeostasis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Cholelithiasis"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Cholecystitis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
+"Normochromic anemia"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+"Normocytic anemia"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0

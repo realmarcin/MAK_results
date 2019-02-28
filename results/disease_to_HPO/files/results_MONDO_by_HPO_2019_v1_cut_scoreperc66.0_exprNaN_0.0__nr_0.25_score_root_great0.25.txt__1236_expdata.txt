@@ -1,0 +1,11 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0011886"
+"Abnormality of the mouth"	0.0	0.0	0.0	1.0
+"Glomerulonephritis"	0.0	0.0	0.0	1.0
+"Anterior uveitis"	0.0	0.0	0.0	1.0
+"Elevated serum creatinine"	0.0	0.0	0.0	1.0
+"Uveitis"	0.0	0.0	0.0	1.0
+"Reversible renal failure"	0.0	0.0	0.0	1.0
+"Acute tubulointerstitial nephritis"	0.0	0.0	0.0	1.0
+"Panuveitis"	0.0	0.0	0.0	1.0
+"Non-caseating epithelioid cell granulomatosis"	0.0	0.0	0.0	1.0
+"Circulating immune complexes"	0.0	0.0	0.0	1.0

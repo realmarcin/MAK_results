@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Hypoplasia of the corpus callosum"
+"3" "Gastroesophageal reflux"
+"4" "Muscular hypotonia of the trunk"
+"5" "Postnatal microcephaly"
+"6" "Neurogenic bladder"
+"7" "Delayed CNS myelination"

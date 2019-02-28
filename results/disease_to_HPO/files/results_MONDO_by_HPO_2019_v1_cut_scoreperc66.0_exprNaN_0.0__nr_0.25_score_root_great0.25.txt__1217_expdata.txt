@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0010989"	"MONDO.0011984"	"MONDO.0012055"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Calvarial skull defect"	0.0	1.0	0.0	0.0
+"Abnormality of retinal pigmentation"	0.0	1.0	0.0	0.0
+"Abnormal bleeding"	0.0	1.0	0.0	0.0
+"Congenital nystagmus"	0.0	1.0	0.0	0.0
+"Severe Myopia"	0.0	1.0	0.0	0.0
+"Meningitis"	0.0	1.0	0.0	0.0
+"Abnormality of coagulation"	0.0	1.0	0.0	0.0
+"Aplasia cutis congenita of midline scalp vertex"	0.0	1.0	0.0	0.0

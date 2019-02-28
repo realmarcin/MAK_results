@@ -1,0 +1,26 @@
+	"MONDO.0007364"	"MONDO.0008751"	"MONDO.0010412"	"MONDO.0014029"
+"Patent ductus arteriosus"	1.0	0.0	0.0	0.0
+"Ventricular septal defect"	1.0	0.0	0.0	0.0
+"Atrial septal defect"	1.0	0.0	0.0	0.0
+"Bicuspid aortic valve"	1.0	0.0	0.0	0.0
+"Arachnodactyly"	1.0	0.0	0.0	0.0
+"Motor delay"	1.0	0.0	0.0	0.0
+"Osteopenia"	1.0	0.0	0.0	0.0
+"Intestinal malrotation"	1.0	0.0	0.0	0.0
+"Myopia"	1.0	0.0	0.0	0.0
+"Mitral valve prolapse"	1.0	0.0	0.0	0.0
+"Duodenal atresia"	1.0	0.0	0.0	0.0
+"Disproportionate tall stature"	1.0	0.0	0.0	0.0
+"Ectopia lentis"	1.0	0.0	0.0	0.0
+"Mitral regurgitation"	1.0	0.0	0.0	0.0
+"Aortic root dilatation"	1.0	0.0	0.0	0.0
+"Patellar dislocation"	1.0	0.0	0.0	0.0
+"Congenital kyphoscoliosis"	1.0	0.0	0.0	0.0
+"Calf muscle hypoplasia"	1.0	0.0	0.0	0.0
+"Crumpled ear"	1.0	0.0	0.0	0.0
+"Patellar subluxation"	1.0	0.0	0.0	0.0
+"Scaphocephaly"	1.0	0.0	0.0	0.0
+"Aortic aneurysm"	1.0	0.0	0.0	0.0
+"Slender build"	1.0	0.0	0.0	0.0
+"Tracheoesophageal fistula"	1.0	0.0	0.0	0.0
+"Abnormally folded helix"	1.0	0.0	0.0	0.0

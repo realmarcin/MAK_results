@@ -1,0 +1,8 @@
+	"MONDO.0010300"	"MONDO.0010323"	"MONDO.0010340"	"MONDO.0010365"	"MONDO.0014211"
+"HP:0001417"	0.0	1.0	0.0	0.0	0.0
+"Intellectual disability"	0.0	1.0	0.0	1.0	0.0
+"Short stature"	0.0	1.0	0.0	1.0	0.0
+"Relative macrocephaly"	0.0	1.0	0.0	0.0	0.0
+"Poor fine motor coordination"	0.0	1.0	0.0	0.0	0.0
+"Square face"	0.0	1.0	0.0	0.0	0.0
+"Macroorchidism"	0.0	1.0	0.0	0.0	0.0

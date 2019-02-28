@@ -1,0 +1,4 @@
+"x"
+"1" "HP:0000006"
+"2" "Hyperpigmentation of the skin"
+"3" "Anemia"

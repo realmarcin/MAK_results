@@ -1,0 +1,6 @@
+"x"
+"1" "Microtia"
+"2" "Narrow mouth"
+"3" "Hypochromic microcytic anemia"
+"4" "Hemoglobin H"
+"5" "Reduced alpha/beta synthesis ratio"

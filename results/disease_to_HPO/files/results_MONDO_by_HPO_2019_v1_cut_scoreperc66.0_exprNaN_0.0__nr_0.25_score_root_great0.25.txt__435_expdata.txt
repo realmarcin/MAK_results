@@ -1,0 +1,11 @@
+	"MONDO.0007510"	"MONDO.0008705"	"MONDO.0021013"	"MONDO.0009596"	"MONDO.0014766"
+"Fine hair"	1.0	1.0	1.0	1.0	1.0
+"Cognitive impairment"	0.0	1.0	0.0	1.0	0.0
+"Sparse eyelashes"	1.0	0.0	1.0	1.0	1.0
+"Lymphopenia"	0.0	1.0	0.0	1.0	0.0
+"Sparse and thin eyebrow"	1.0	0.0	1.0	1.0	0.0
+"Malabsorption"	0.0	1.0	0.0	1.0	0.0
+"Aganglionic megacolon"	0.0	1.0	0.0	1.0	0.0
+"Cellular immunodeficiency"	0.0	1.0	0.0	1.0	0.0
+"Metaphyseal chondrodysplasia"	0.0	1.0	0.0	1.0	0.0
+"Abnormality of the pancreas"	0.0	1.0	0.0	1.0	0.0

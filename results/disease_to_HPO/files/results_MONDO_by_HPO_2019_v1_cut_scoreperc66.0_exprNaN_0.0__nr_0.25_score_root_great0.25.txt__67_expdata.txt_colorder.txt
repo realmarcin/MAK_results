@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Generalized tonic-clonic seizures"
+"3" "HP:0001425"
+"4" "Febrile seizures"
+"5" "Generalized tonic seizures"
+"6" "Atonic seizures"
+"7" "EEG with polyspike wave complexes"

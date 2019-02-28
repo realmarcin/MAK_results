@@ -1,0 +1,10 @@
+	"MONDO.0007593"	"MONDO.0011091"	"MONDO.0011408"	"MONDO.0012890"
+"Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0
+"Hydroureter"	0.0	0.0	0.0	0.0
+"Xerostomia"	0.0	0.0	0.0	0.0
+"Abnormality of the skin"	0.0	0.0	0.0	0.0
+"Congenital hip dislocation"	0.0	0.0	0.0	0.0
+"Oligohydramnios"	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0
+"Facial palsy"	1.0	1.0	1.0	1.0
+"HP:0003680"	0.0	1.0	1.0	0.0

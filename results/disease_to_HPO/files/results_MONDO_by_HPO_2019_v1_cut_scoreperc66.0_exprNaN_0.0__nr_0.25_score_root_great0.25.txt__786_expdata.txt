@@ -1,0 +1,7 @@
+	"MONDO.0007542"	"MONDO.0008637"	"MONDO.0010126"	"MONDO.0010889"	"MONDO.0013055"
+"Cryptorchidism"	0.0	0.0	1.0	0.0	1.0
+"HP:0000007"	1.0	0.0	1.0	0.0	1.0
+"Hearing impairment"	0.0	0.0	1.0	0.0	1.0
+"Short stature"	0.0	0.0	0.0	0.0	1.0
+"Epicanthus"	0.0	0.0	1.0	0.0	1.0
+"Delayed skeletal maturation"	0.0	0.0	1.0	0.0	1.0

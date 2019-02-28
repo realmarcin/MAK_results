@@ -1,0 +1,10 @@
+	"MONDO.0009719"	"MONDO.0010141"	"MONDO.0013758"
+"Congenital hip dislocation"	0.0	0.0	1.0
+"Hoarse voice"	1.0	1.0	1.0
+"Dry skin"	1.0	1.0	1.0
+"Broad-based gait"	0.0	0.0	1.0
+"Relative macrocephaly"	0.0	0.0	1.0
+"Drowsiness"	0.0	0.0	1.0
+"Thyroid hormone receptor defect"	0.0	0.0	1.0
+"Increased T3/T4 ratio"	0.0	0.0	1.0
+"Increased body weight"	0.0	0.0	1.0

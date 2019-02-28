@@ -1,0 +1,7 @@
+"x"
+"1" "Skeletal dysplasia"
+"2" "Bowing of the long bones"
+"3" "Dislocated radial head"
+"4" "Mesomelia"
+"5" "Thoracic kyphosis"
+"6" "Metaphyseal dysplasia"

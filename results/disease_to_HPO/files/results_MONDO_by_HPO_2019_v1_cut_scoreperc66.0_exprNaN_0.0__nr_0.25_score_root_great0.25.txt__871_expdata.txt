@@ -1,0 +1,12 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0010761"
+"Abducens palsy"	0.0	0.0	0.0	1.0
+"Short neck"	1.0	0.0	1.0	1.0
+"Congenital sensorineural hearing impairment"	0.0	0.0	0.0	1.0
+"Preauricular skin tag"	0.0	0.0	0.0	1.0
+"Facial palsy"	0.0	0.0	0.0	1.0
+"Fused cervical vertebrae"	0.0	0.0	1.0	1.0
+"Low posterior hairline"	1.0	0.0	1.0	1.0
+"Meningocele"	0.0	0.0	0.0	1.0
+"Pseudopapilledema"	0.0	0.0	0.0	1.0
+"Lens subluxation"	0.0	0.0	0.0	1.0
+"Abnormality of the outer ear"	0.0	0.0	0.0	1.0

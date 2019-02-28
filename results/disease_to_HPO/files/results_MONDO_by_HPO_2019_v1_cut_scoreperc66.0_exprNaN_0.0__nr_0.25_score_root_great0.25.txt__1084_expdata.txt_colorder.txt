@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0100646"
+"2" "Rheumatoid arthritis"
+"3" "Jejunal diverticula"
+"4" "Jejunoileal diverticula"
+"5" "Duodenal diverticula"
+"6" "Ulcerative colitis"

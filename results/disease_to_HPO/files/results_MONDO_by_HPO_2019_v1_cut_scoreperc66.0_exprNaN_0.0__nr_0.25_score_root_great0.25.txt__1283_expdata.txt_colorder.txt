@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Reduced visual acuity"
+"3" "Respiratory insufficiency due to muscle weakness"
+"4" "Large eyes"
+"5" "Poor speech"
+"6" "Poor head control"

@@ -1,0 +1,6 @@
+	"MONDO.0008916"	"MONDO.0014230"	"MONDO.0014431"
+"Wide nasal bridge"	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	0.0
+"Intellectual disability"	1.0	1.0	1.0
+"Retrognathia"	1.0	1.0	0.0

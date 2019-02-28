@@ -1,0 +1,7 @@
+"x"
+"1" "Spontaneous neonatal pneumothorax"
+"2" "Abnormality of subcutaneous fat tissue"
+"3" "Cystic lung disease"
+"4" "Recurrent mandibular subluxations"
+"5" "Abnormality of primary molar morphology"
+"6" "Frontal open bite"

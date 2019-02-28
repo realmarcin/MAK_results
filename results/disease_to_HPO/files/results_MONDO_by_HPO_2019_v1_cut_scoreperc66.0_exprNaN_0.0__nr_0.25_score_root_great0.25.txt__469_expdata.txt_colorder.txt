@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Cataract"
+"3" "Microphthalmia"
+"4" "Membranous cataract"
+"5" "Vitreoretinopathy"
+"6" "Optically empty vitreous"

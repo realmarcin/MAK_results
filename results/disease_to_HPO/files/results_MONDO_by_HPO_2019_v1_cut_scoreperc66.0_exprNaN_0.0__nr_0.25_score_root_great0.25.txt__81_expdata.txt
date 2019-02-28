@@ -1,0 +1,7 @@
+	"MONDO.0007820"	"MONDO.0011324"	"MONDO.0013784"
+"Cleft upper lip"	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0
+"Microphthalmia"	1.0	1.0	1.0
+"Choanal atresia"	1.0	1.0	0.0
+"Anosmia"	1.0	1.0	0.0
+"Coloboma"	1.0	1.0	1.0

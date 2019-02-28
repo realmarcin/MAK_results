@@ -1,0 +1,13 @@
+	"MONDO.0009393"	"MONDO.0013378"	"MONDO.0014381"	"MONDO.0036484"
+"Strabismus"	0.0	0.0	1.0	0.0
+"Pes planus"	0.0	0.0	1.0	0.0
+"HP:0000006"	0.0	0.0	1.0	0.0
+"Rhizomelia"	0.0	0.0	1.0	0.0
+"Epicanthus"	0.0	0.0	1.0	0.0
+"Hypospadias"	0.0	0.0	1.0	0.0
+"Long eyelashes"	0.0	0.0	1.0	0.0
+"Macrocephaly"	0.0	0.0	1.0	0.0
+"Prominent forehead"	0.0	0.0	1.0	0.0
+"Ectopia pupillae"	0.0	0.0	1.0	0.0
+"Periorbital fullness"	0.0	0.0	1.0	0.0
+"Precocious puberty"	0.0	0.0	1.0	0.0

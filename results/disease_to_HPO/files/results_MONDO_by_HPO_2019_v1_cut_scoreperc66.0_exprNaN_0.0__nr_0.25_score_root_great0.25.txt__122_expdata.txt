@@ -1,0 +1,8 @@
+	"MONDO.0009533"	"MONDO.0010646"	"MONDO.0012316"	"MONDO.0012831"	"MONDO.0014319"	"MONDO.0033015"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	0.0
+"Frontal bossing"	1.0	1.0	1.0	1.0	0.0	0.0
+"Broad nasal tip"	0.0	0.0	0.0	0.0	1.0	1.0
+"Thin upper lip vermilion"	1.0	1.0	1.0	1.0	1.0	1.0
+"Deeply set eye"	0.0	1.0	0.0	1.0	0.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	1.0	1.0	1.0	1.0

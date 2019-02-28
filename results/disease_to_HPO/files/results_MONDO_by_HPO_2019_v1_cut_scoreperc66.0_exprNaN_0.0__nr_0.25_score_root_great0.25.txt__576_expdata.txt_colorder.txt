@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Hemolytic anemia"
+"3" "Spherocytosis"
+"4" "Hemoglobinuria"
+"5" "Glyoxalase deficiency"
+"6" "Glutathione synthetase deficiency"

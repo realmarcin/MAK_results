@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the ear"
+"2" "Abnormality of the urinary system"
+"3" "Abnormality of vision"
+"4" "Hearing abnormality"

@@ -1,0 +1,8 @@
+"x"
+"1" "Spasticity"
+"2" "HP:0000007"
+"3" "Seizures"
+"4" "Sleep disturbance"
+"5" "Macrocephaly"
+"6" "Abnormality of the skeletal system"
+"7" "Heterotopia"

@@ -1,0 +1,14 @@
+	"MONDO.0011158"	"MONDO.0012456"	"MONDO.0013797"	"MONDO.0014947"
+"Skull asymmetry"	1.0	0.0	0.0	0.0
+"Alopecia of scalp"	1.0	0.0	0.0	0.0
+"Visual impairment"	1.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0
+"Opacification of the corneal stroma"	1.0	0.0	0.0	0.0
+"Wide anterior fontanel"	1.0	0.0	0.0	0.0
+"Agenesis of cerebellar vermis"	1.0	0.0	0.0	0.0
+"Corneal opacity"	1.0	0.0	0.0	0.0
+"Turricephaly"	1.0	0.0	0.0	0.0
+"Abnormality of brainstem morphology"	1.0	0.0	0.0	0.0
+"Fusion of the cerebellar hemispheres"	1.0	0.0	0.0	0.0
+"HP:0031912"	1.0	0.0	0.0	0.0
+"HP:0031913"	1.0	0.0	0.0	0.0

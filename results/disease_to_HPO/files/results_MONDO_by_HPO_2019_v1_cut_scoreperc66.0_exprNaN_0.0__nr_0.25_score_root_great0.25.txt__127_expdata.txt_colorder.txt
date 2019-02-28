@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Flexion contracture"
+"3" "HP:0003677"
+"4" "Elevated serum creatine phosphokinase"
+"5" "Generalized muscle weakness"
+"6" "Areflexia of lower limbs"

@@ -1,0 +1,8 @@
+	"MONDO.0010633"	"MONDO.0010874"	"MONDO.0012246"	"MONDO.0013390"	"MONDO.0014612"	"MONDO.0014814"	"MONDO.0060621"	"MONDO.0030921"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Seizures"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Sleep disturbance"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Spasticity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Macrocephaly"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the skeletal system"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Heterotopia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

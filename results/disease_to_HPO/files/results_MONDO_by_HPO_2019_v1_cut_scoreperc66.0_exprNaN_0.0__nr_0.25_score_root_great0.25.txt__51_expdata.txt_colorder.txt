@@ -1,0 +1,6 @@
+"x"
+"1" "Arthralgia"
+"2" "Fever"
+"3" "Arthritis"
+"4" "Lymphadenopathy"
+"5" "HP:0003677"

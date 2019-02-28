@@ -1,0 +1,6 @@
+	"MONDO.0009235"	"MONDO.0009316"	"MONDO.0012902"
+"HP:0000007"	1.0	1.0	1.0
+"Prolonged partial thromboplastin time"	1.0	1.0	1.0
+"Reduced factor XII activity"	0.0	1.0	0.0
+"Prolonged whole-blood clotting time"	0.0	1.0	0.0
+"Reduced kininogen activity"	1.0	0.0	0.0

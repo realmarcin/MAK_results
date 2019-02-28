@@ -1,0 +1,13 @@
+	"MONDO.0054581"	"MONDO.0008702"	"MONDO.0008996"	"MONDO.0010625"
+"Vitritis"	1.0	0.0	0.0	0.0
+"Retinal vasculitis"	1.0	0.0	0.0	0.0
+"Central retinal artery occlusion"	1.0	0.0	0.0	0.0
+"Lupus anticoagulant"	1.0	0.0	0.0	0.0
+"Scleritis"	1.0	0.0	0.0	1.0
+"Abnormal enchondral ossification"	0.0	1.0	0.0	0.0
+"Beaded ribs"	0.0	1.0	0.0	0.0
+"Unossified vertebral bodies"	0.0	1.0	0.0	0.0
+"Abnormality of the femoral metaphysis"	0.0	1.0	0.0	0.0
+"Abnormal hand bone ossification"	0.0	1.0	0.0	0.0
+"Abnormal foot bone ossification"	0.0	1.0	0.0	0.0
+"Multiple rib fractures"	0.0	1.0	0.0	0.0

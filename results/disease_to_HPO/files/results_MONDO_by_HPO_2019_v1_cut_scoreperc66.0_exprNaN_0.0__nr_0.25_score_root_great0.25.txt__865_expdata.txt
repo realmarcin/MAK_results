@@ -1,0 +1,6 @@
+	"MONDO.0010531"	"MONDO.0010716"	"MONDO.0054550"	"MONDO.0012652"	"MONDO.0013859"	"MONDO.0014210"
+"Congenital laryngeal stridor"	0.0	1.0	0.0	0.0	0.0	0.0
+"Progressive spastic quadriplegia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Rotary nystagmus"	0.0	1.0	1.0	0.0	0.0	0.0
+"Head titubation"	1.0	1.0	1.0	1.0	1.0	1.0
+"Reduction of oligodendroglia"	0.0	1.0	0.0	0.0	0.0	0.0

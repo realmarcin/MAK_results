@@ -1,0 +1,7 @@
+	"MONDO.0007577"	"MONDO.0007900"	"MONDO.0012960"	"MONDO.0013225"	"MONDO.0014039"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"HP:0003581"	0.0	0.0	0.0	0.0	1.0
+"Squamous cell carcinoma"	1.0	1.0	0.0	0.0	0.0
+"HP:0030731"	0.0	1.0	1.0	1.0	1.0
+"Endometrial carcinoma"	0.0	0.0	1.0	0.0	0.0
+"Colorectal polyposis"	0.0	0.0	1.0	0.0	1.0

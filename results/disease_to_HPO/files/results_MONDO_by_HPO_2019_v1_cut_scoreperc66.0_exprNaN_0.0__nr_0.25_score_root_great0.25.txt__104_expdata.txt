@@ -1,0 +1,9 @@
+	"MONDO.0011583"	"MONDO.0013951"	"MONDO.0014486"	"MONDO.0014755"
+"Flexion contracture"	0.0	0.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	0.0	1.0	1.0
+"Hearing impairment"	0.0	1.0	1.0	1.0
+"Visual impairment"	0.0	0.0	1.0	1.0
+"Muscle weakness"	1.0	1.0	1.0	1.0
+"HP:0002878"	1.0	0.0	1.0	0.0
+"Feeding difficulties"	1.0	1.0	1.0	1.0

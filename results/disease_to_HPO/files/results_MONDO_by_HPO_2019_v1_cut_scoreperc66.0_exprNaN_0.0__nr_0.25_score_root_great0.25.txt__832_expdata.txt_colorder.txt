@@ -1,0 +1,7 @@
+"x"
+"1" "Otosclerosis"
+"2" "Wormian bones"
+"3" "Recurrent fractures"
+"4" "Dentinogenesis imperfecta"
+"5" "Blue sclerae"
+"6" "Biconcave flattened vertebrae"

@@ -1,0 +1,7 @@
+	"MONDO.0009647"	"MONDO.0010329"	"MONDO.0018945"	"MONDO.0013518"	"MONDO.0013566"	"MONDO.0044321"	"MONDO.0012727"
+"Thrombocytopenia"	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Myelodysplasia"	1.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Multiple cafe-au-lait spots"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Leukemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of chromosome stability"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the thumb"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

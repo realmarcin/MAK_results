@@ -1,0 +1,8 @@
+	"MONDO.0008598"	"MONDO.0008976"	"MONDO.0010464"	"MONDO.0010740"	"MONDO.0060627"
+"Anteverted nares"	0.0	1.0	0.0	1.0	1.0
+"Depressed nasal bridge"	0.0	0.0	0.0	1.0	1.0
+"Platyspondyly"	0.0	1.0	1.0	1.0	0.0
+"Short finger"	1.0	0.0	0.0	1.0	0.0
+"HP:0002878"	0.0	0.0	0.0	1.0	1.0
+"Enlarged joints"	0.0	1.0	0.0	1.0	0.0
+"HP:0001423"	0.0	0.0	1.0	1.0	0.0

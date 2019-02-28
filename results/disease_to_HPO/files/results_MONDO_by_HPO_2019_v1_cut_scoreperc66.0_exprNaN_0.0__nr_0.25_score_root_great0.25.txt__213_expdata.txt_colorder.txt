@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Intellectual disability"
+"3" "Global developmental delay"
+"4" "Long philtrum"
+"5" "Obesity"
+"6" "Lymphopenia"

@@ -1,0 +1,10 @@
+	"MONDO.0009349"	"MONDO.0009814"	"MONDO.0011339"	"MONDO.0054559"
+"Fatigue"	1.0	1.0	0.0	0.0
+"Skin rash"	1.0	1.0	0.0	0.0
+"Pruritus"	1.0	1.0	1.0	1.0
+"Fever"	1.0	1.0	1.0	0.0
+"Bone pain"	1.0	1.0	0.0	0.0
+"Dermatographic urticaria"	0.0	0.0	0.0	0.0
+"Poor appetite"	1.0	1.0	0.0	0.0
+"Weight loss"	1.0	1.0	0.0	0.0
+"Osteolysis"	1.0	1.0	0.0	0.0

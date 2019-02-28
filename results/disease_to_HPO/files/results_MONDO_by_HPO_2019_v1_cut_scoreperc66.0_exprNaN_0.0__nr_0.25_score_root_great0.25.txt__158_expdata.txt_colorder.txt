@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Non-medullary thyroid carcinoma"
+"3" "Goiter"
+"4" "Papillary thyroid carcinoma"

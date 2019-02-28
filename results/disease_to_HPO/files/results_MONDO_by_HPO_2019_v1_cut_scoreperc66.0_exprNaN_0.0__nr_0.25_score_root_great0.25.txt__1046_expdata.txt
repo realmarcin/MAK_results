@@ -1,0 +1,7 @@
+	"MONDO.0007118"	"MONDO.0007951"	"MONDO.0008911"	"MONDO.0009736"	"MONDO.0010482"	"MONDO.0012527"
+"Angioedema"	1.0	1.0	1.0	1.0	1.0	1.0
+"Telangiectasia macularis eruptiva perstans"	0.0	1.0	0.0	0.0	0.0	0.0
+"Cutaneous mastocytosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Episodic upper airway obstruction"	0.0	0.0	0.0	0.0	0.0	1.0
+"Mastocytosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Chronic leukemia"	0.0	1.0	0.0	0.0	0.0	0.0

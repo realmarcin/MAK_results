@@ -1,0 +1,8 @@
+	"MONDO.0008748"	"MONDO.0008749"	"MONDO.0011415"	"MONDO.0012221"
+"Strabismus"	1.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0	0.0
+"Freckling"	1.0	1.0	0.0	0.0
+"Iris hypopigmentation"	1.0	0.0	0.0	1.0
+"Partial albinism"	1.0	0.0	0.0	1.0
+"Albinism"	1.0	1.0	0.0	0.0

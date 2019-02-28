@@ -1,0 +1,8 @@
+"x"
+"1" "Cleft palate"
+"2" "HP:0000007"
+"3" "Microphthalmia"
+"4" "Postaxial hand polydactyly"
+"5" "Anencephaly"
+"6" "Bile duct proliferation"
+"7" "Bowing of the long bones"

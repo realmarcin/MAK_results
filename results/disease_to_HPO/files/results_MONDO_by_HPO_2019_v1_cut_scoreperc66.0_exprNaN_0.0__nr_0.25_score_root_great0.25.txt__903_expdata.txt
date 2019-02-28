@@ -1,0 +1,10 @@
+	"MONDO.0008923"	"MONDO.0009503"	"MONDO.0009654"	"MONDO.0014776"	"MONDO.0014804"
+"Ataxia"	0.0	1.0	1.0	0.0	1.0
+"Left ventricular hypertrophy"	0.0	0.0	0.0	0.0	1.0
+"Nystagmus"	1.0	1.0	1.0	0.0	1.0
+"Hyperreflexia"	0.0	1.0	1.0	0.0	1.0
+"Spastic ataxia"	0.0	0.0	0.0	0.0	1.0
+"Spastic dysarthria"	0.0	0.0	0.0	0.0	1.0
+"Nonketotic hyperglycinemia"	0.0	0.0	0.0	0.0	1.0
+"Hyperglycinemia"	0.0	0.0	0.0	0.0	1.0
+"Spinal cord lesion"	0.0	0.0	0.0	0.0	1.0

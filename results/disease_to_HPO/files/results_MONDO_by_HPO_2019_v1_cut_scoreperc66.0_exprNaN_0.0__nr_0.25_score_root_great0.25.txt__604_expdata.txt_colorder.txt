@@ -1,0 +1,7 @@
+"x"
+"1" "Strabismus"
+"2" "Cataract"
+"3" "Hypermetropia"
+"4" "Pericardial effusion"
+"5" "Camptodactyly"
+"6" "Overlapping toe"

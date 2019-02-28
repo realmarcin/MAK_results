@@ -1,0 +1,8 @@
+"x"
+"1" "Epistaxis"
+"2" "Menorrhagia"
+"3" "Splenomegaly"
+"4" "Hemolytic anemia"
+"5" "Bruising susceptibility"
+"6" "Stomatocytosis"
+"7" "Increased mean platelet volume"

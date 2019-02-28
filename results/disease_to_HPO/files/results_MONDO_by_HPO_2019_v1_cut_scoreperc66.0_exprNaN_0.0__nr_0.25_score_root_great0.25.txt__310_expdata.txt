@@ -1,0 +1,11 @@
+	"MONDO.0008839"	"MONDO.0008855"	"MONDO.0009953"	"MONDO.0013161"
+"Strabismus"	1.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	0.0	1.0
+"Scoliosis"	1.0	0.0	0.0	1.0
+"Cerebral cortical atrophy"	1.0	0.0	0.0	1.0
+"Reduced tendon reflexes"	1.0	0.0	0.0	0.0
+"Progressive sensorineural hearing impairment"	1.0	0.0	0.0	0.0
+"Neurological speech impairment"	1.0	1.0	1.0	0.0
+"EMG abnormality"	1.0	0.0	0.0	0.0
+"Abnormality of the palate"	1.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Seizures"
+"2" "Spasticity"
+"3" "Intellectual disability"
+"4" "Absent speech"
+"5" "EEG abnormality"
+"6" "Myoclonus"
+"7" "Cortical visual impairment"

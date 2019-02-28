@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Scoliosis"
+"3" "Umbilical hernia"
+"4" "Muscular hypotonia"
+"5" "High palate"
+"6" "Posteriorly rotated ears"
+"7" "Joint hypermobility"

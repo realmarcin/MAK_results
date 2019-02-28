@@ -1,0 +1,12 @@
+	"MONDO.0013511"	"MONDO.0013859"	"MONDO.0060760"	"MONDO.0020848"
+"HP:0003745"	0.0	1.0	0.0	0.0
+"Hemivertebrae"	0.0	1.0	0.0	0.0
+"Absent speech"	0.0	1.0	0.0	0.0
+"Facial palsy"	0.0	1.0	0.0	0.0
+"Decreased corneal sensation"	0.0	1.0	0.0	0.0
+"Rib fusion"	0.0	1.0	0.0	0.0
+"Ankle clonus"	0.0	1.0	0.0	0.0
+"Aspiration"	0.0	1.0	0.0	0.0
+"Chewing difficulties"	0.0	1.0	0.0	0.0
+"Head titubation"	0.0	1.0	0.0	0.0
+"HP:0030975"	0.0	1.0	0.0	0.0

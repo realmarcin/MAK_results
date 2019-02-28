@@ -1,0 +1,6 @@
+"x"
+"1" "Dystonia"
+"2" "Spasticity"
+"3" "Dysarthria"
+"4" "Dysphagia"
+"5" "Behavioral abnormality"

@@ -1,0 +1,9 @@
+	"MONDO.0008404"	"MONDO.0009122"	"MONDO.0010572"	"MONDO.0011129"	"MONDO.0012307"	"MONDO.0013766"
+"Downslanted palpebral fissures"	0.0	0.0	1.0	1.0	0.0	0.0
+"Encephalocele"	1.0	1.0	1.0	0.0	1.0	1.0
+"Micrognathia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Narrow mouth"	0.0	0.0	1.0	1.0	0.0	0.0
+"Rocker bottom foot"	0.0	0.0	1.0	1.0	0.0	0.0
+"Tarsal synostosis"	0.0	0.0	1.0	1.0	0.0	0.0
+"HP:0100490"	0.0	0.0	1.0	1.0	0.0	0.0
+"Overlapping fingers"	0.0	0.0	1.0	1.0	0.0	0.0

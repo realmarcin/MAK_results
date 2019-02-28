@@ -1,0 +1,8 @@
+	"MONDO.0008696"	"MONDO.0008945"	"MONDO.0009367"	"MONDO.0010748"	"MONDO.0013336"	"MONDO.0021573"
+"HP:0000007"	1.0	1.0	1.0	0.0	1.0	0.0
+"Dementia"	1.0	0.0	1.0	0.0	0.0	1.0
+"Parkinsonism"	1.0	0.0	0.0	0.0	0.0	0.0
+"Macroglossia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Protruding tongue"	1.0	1.0	0.0	1.0	1.0	0.0
+"Gait disturbance"	1.0	0.0	1.0	0.0	0.0	1.0
+"Abnormality of the foot"	1.0	1.0	0.0	0.0	0.0	0.0

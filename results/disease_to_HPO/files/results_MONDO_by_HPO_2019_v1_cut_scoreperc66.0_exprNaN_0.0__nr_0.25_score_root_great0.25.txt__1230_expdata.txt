@@ -1,0 +1,11 @@
+	"MONDO.0013891"	"MONDO.0014960"	"MONDO.0014985"	"MONDO.0010666"
+"Pneumonia"	0.0	0.0	1.0	0.0
+"Eczema"	0.0	0.0	1.0	0.0
+"Abnormal facial shape"	0.0	0.0	1.0	0.0
+"Wide anterior fontanel"	0.0	0.0	1.0	0.0
+"Emphysema"	0.0	0.0	1.0	0.0
+"Mild global developmental delay"	0.0	0.0	1.0	0.0
+"Abnormality of the thymus"	0.0	0.0	1.0	0.0
+"Increased sensitivity to ionizing radiation"	0.0	0.0	1.0	0.0
+"Muscular hypotonia of the trunk"	0.0	0.0	1.0	0.0
+"Bronchiolitis obliterans"	0.0	0.0	1.0	0.0

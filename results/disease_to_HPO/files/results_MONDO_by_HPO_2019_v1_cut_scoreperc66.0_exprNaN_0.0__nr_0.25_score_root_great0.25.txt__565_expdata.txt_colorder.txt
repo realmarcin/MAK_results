@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "HP:0003593"
+"3" "Torsion dystonia"
+"4" "Macular hyperpigmentation"
+"5" "Hyperpigmented/hypopigmented macules"
+"6" "Macule"
+"7" "Macular hypopigmentation"

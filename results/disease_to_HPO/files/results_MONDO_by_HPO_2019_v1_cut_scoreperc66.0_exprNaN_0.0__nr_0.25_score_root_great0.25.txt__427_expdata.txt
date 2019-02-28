@@ -1,0 +1,4 @@
+	"MONDO.0008571"	"MONDO.0009707"	"MONDO.0009866"	"MONDO.0010446"	"MONDO.0010894"	"MONDO.0012513"	"MONDO.0014221"
+"Rhabdomyolysis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Decreased activity of mitochondrial complex I"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
+"Decreased activity of mitochondrial complex III"	0.0	1.0	0.0	0.0	0.0	1.0	0.0

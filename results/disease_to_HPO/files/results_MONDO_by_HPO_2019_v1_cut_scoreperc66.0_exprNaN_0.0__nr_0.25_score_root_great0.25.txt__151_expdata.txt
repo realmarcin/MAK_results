@@ -1,0 +1,11 @@
+	"MONDO.0013259"	"MONDO.0014937"	"MONDO.0054636"	"MONDO.0060564"
+"Wide nasal bridge"	1.0	1.0	0.0	0.0
+"Downslanted palpebral fissures"	1.0	1.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Ventriculomegaly"	1.0	1.0	1.0	1.0
+"Facial asymmetry"	1.0	1.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	1.0	1.0	0.0	0.0
+"Narrow mouth"	1.0	1.0	0.0	0.0
+"Hypermetropia"	1.0	1.0	0.0	0.0
+"Developmental regression"	1.0	1.0	1.0	1.0

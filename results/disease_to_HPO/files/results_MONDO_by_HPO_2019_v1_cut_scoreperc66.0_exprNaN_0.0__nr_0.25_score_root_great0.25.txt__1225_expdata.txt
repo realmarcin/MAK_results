@@ -1,0 +1,7 @@
+	"MONDO.0007776"	"MONDO.0008488"	"MONDO.0009072"	"MONDO.0013535"
+"HP:0000007"	0.0	0.0	1.0	0.0
+"Acute kidney injury"	0.0	0.0	1.0	0.0
+"Acute tubular necrosis"	0.0	0.0	1.0	0.0
+"Uric acid nephrolithiasis"	0.0	0.0	1.0	0.0
+"Hypouricemia"	0.0	0.0	1.0	0.0
+"Increased urinary urate"	0.0	0.0	1.0	0.0

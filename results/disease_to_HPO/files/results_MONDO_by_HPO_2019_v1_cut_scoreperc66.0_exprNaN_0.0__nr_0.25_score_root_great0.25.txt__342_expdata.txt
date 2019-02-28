@@ -1,0 +1,5 @@
+	"MONDO.0007971"	"MONDO.0007991"	"MONDO.0008319"	"MONDO.0008395"	"MONDO.0008461"	"MONDO.0024550"	"MONDO.0011501"	"MONDO.0012064"
+"Hemangioma"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
+"Lower limb asymmetry"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Arteriovenous malformation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Upper limb asymmetry"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0

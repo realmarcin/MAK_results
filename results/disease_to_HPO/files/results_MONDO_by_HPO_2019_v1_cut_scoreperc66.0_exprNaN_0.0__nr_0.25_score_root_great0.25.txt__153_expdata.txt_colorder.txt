@@ -1,0 +1,7 @@
+"x"
+"1" "Lower limb muscle weakness"
+"2" "Ankle clonus"
+"3" "Impaired vibration sensation in the lower limbs"
+"4" "Knee clonus"
+"5" "Limb dysmetria"
+"6" "Abnormal morphology of the left ventricle"

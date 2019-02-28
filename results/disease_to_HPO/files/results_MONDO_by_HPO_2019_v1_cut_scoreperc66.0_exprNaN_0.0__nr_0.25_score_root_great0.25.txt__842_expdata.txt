@@ -1,0 +1,9 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0013174"	"MONDO.0013883"	"MONDO.0014701"
+"Intellectual disability"	1.0	0.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	0.0	0.0	1.0	1.0
+"Microtia"	0.0	0.0	0.0	0.0	1.0
+"Oligodontia"	0.0	0.0	0.0	0.0	1.0
+"Sparse lateral eyebrow"	0.0	0.0	0.0	0.0	1.0
+"Long palpebral fissure"	1.0	0.0	0.0	1.0	1.0
+"Thickened nuchal skin fold"	0.0	0.0	0.0	0.0	1.0
+"Wide nasal ridge"	0.0	0.0	0.0	0.0	1.0

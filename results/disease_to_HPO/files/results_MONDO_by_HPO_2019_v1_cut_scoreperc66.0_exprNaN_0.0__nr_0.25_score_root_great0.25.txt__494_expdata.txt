@@ -1,0 +1,8 @@
+	"MONDO.0007041"	"MONDO.0007340"	"MONDO.0007588"	"MONDO.0007616"	"MONDO.0008392"	"MONDO.0060568"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
+"Malar flattening"	1.0	0.0	0.0	0.0	1.0	0.0
+"Shallow orbits"	1.0	0.0	0.0	0.0	1.0	0.0
+"Flat face"	1.0	1.0	0.0	0.0	1.0	1.0
+"Narrow nose"	0.0	0.0	0.0	0.0	1.0	0.0
+"Duplication of phalanx of hallux"	0.0	0.0	0.0	0.0	1.0	0.0

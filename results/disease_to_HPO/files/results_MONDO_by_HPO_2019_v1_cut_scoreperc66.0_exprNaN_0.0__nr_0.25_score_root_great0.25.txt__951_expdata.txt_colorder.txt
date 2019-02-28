@@ -1,0 +1,4 @@
+"x"
+"1" "Atherosclerosis"
+"2" "Glossitis"
+"3" "Neutral hyperaminoaciduria"

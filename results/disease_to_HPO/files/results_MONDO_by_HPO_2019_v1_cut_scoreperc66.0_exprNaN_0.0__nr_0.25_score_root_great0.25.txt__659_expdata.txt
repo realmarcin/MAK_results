@@ -1,0 +1,10 @@
+	"MONDO.0007104"	"MONDO.0013343"	"MONDO.0013717"	"MONDO.0014019"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Periventricular leukomalacia"	0.0	0.0	0.0	1.0
+"Telecanthus"	0.0	0.0	0.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Optic nerve hypoplasia"	0.0	0.0	0.0	1.0
+"Optic disc hypoplasia"	0.0	0.0	0.0	1.0
+"Abnormality of the periventricular white matter"	0.0	1.0	0.0	1.0
+"Periventricular white matter hyperdensities"	0.0	0.0	0.0	1.0
+"Contractures involving the joints of the feet"	0.0	0.0	0.0	1.0

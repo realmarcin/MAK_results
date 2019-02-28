@@ -1,0 +1,4 @@
+"x"
+"1" "Pneumonia"
+"2" "Diverticulosis of trachea"
+"3" "Tracheobronchmegaly"

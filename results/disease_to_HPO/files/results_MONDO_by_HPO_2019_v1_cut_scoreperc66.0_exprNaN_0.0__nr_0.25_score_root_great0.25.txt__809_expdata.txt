@@ -1,0 +1,8 @@
+	"MONDO.0009003"	"MONDO.0010579"	"MONDO.0011240"	"MONDO.0013557"	"MONDO.0013558"	"MONDO.0013561"
+"Nystagmus"	1.0	0.0	1.0	0.0	0.0	0.0
+"Reduced visual acuity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Myopia"	0.0	1.0	1.0	0.0	0.0	1.0
+"Microcornea"	0.0	0.0	1.0	0.0	0.0	0.0
+"Increased intraocular pressure"	0.0	0.0	1.0	0.0	0.0	0.0
+"Coloboma"	1.0	0.0	1.0	0.0	0.0	0.0
+"Macular atrophy"	0.0	0.0	1.0	0.0	0.0	0.0

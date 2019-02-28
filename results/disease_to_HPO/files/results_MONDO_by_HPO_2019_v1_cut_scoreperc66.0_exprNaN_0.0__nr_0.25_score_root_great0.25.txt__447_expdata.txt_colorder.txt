@@ -1,0 +1,4 @@
+"x"
+"1" "Recurrent thrombophlebitis"
+"2" "Elevated factor V activity"
+"3" "Spontaneous platelet aggregation"

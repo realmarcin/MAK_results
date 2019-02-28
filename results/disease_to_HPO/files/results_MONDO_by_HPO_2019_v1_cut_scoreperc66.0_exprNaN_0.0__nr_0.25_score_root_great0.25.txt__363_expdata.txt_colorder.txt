@@ -1,0 +1,6 @@
+"x"
+"1" "Eczematoid dermatitis"
+"2" "Rectal abscess"
+"3" "Granulomatosis"
+"4" "Recurrent Staphylococcus aureus infections"
+"5" "Liver abscess"

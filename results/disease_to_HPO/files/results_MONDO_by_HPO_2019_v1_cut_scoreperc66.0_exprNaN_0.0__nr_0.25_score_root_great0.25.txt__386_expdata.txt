@@ -1,0 +1,8 @@
+	"MONDO.0008172"	"MONDO.0009068"	"MONDO.0009825"	"MONDO.0013328"	"MONDO.0013870"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Hematuria"	0.0	1.0	1.0	1.0	1.0
+"Recurrent urinary tract infections"	0.0	1.0	1.0	0.0	1.0
+"Dysuria"	0.0	0.0	0.0	1.0	1.0
+"Pain"	0.0	0.0	0.0	1.0	0.0
+"Nephrolithiasis"	0.0	1.0	1.0	0.0	1.0
+"Pollakisuria"	0.0	0.0	0.0	1.0	0.0

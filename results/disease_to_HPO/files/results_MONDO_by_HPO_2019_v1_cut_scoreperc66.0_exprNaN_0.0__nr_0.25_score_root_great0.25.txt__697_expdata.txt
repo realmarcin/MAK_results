@@ -1,0 +1,8 @@
+	"MONDO.0007033"	"MONDO.0007319"	"MONDO.0007798"	"MONDO.0024564"	"MONDO.0014050"	"MONDO.0060533"
+"Hydronephrosis"	1.0	0.0	1.0	0.0	1.0	0.0
+"Constipation"	1.0	0.0	0.0	1.0	1.0	1.0
+"Renal insufficiency"	1.0	0.0	1.0	0.0	1.0	0.0
+"Vesicoureteral reflux"	1.0	1.0	1.0	0.0	1.0	0.0
+"Recurrent urinary tract infections"	1.0	0.0	0.0	0.0	1.0	0.0
+"Septate vagina"	0.0	0.0	1.0	0.0	0.0	0.0
+"Diastasis recti"	0.0	0.0	0.0	1.0	0.0	0.0

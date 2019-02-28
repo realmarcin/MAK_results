@@ -1,0 +1,7 @@
+"x"
+"1" "Hepatic necrosis"
+"2" "Fulminant hepatic failure"
+"3" "Decreased activity of 3-hydroxyacyl-CoA dehydrogenase"
+"4" "Abnormality of acetylcarnitine metabolism"
+"5" "Increased circulating free fatty acid level"
+"6" "Increased C-peptide level"

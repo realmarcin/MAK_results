@@ -1,0 +1,4 @@
+	"MONDO.0007416"	"MONDO.0008856"	"MONDO.0009454"	"MONDO.0010914"	"MONDO.0010940"	"MONDO.0011875"	"MONDO.0012998"	"MONDO.0013627"	"MONDO.0014083"
+"Cholangitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cholesterol gallstones"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Chronic hepatitis due to cryptospridium infection"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

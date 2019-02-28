@@ -1,0 +1,6 @@
+"x"
+"1" "Congenital thrombocytopenia"
+"2" "Amegakaryocytic thrombocytopenia"
+"3" "Limited pronation/supination of forearm"
+"4" "Megakaryocytopenia"
+"5" "Proximal radio-ulnar synostosis"

@@ -1,0 +1,13 @@
+	"MONDO.0024522"	"MONDO.0007804"	"MONDO.0008216"	"MONDO.0010383"	"MONDO.0011300"
+"Hearing impairment"	1.0	0.0	1.0	1.0	0.0
+"Nystagmus"	1.0	0.0	1.0	1.0	1.0
+"Hyporeflexia"	1.0	0.0	0.0	1.0	0.0
+"Visual impairment"	1.0	0.0	0.0	0.0	0.0
+"Nephropathy"	1.0	0.0	0.0	0.0	0.0
+"Hemiparesis"	1.0	0.0	0.0	0.0	0.0
+"Muscle weakness"	1.0	0.0	0.0	1.0	0.0
+"Stroke-like episode"	1.0	0.0	0.0	0.0	0.0
+"Increased CSF protein"	1.0	0.0	0.0	0.0	0.0
+"HP:0012332"	1.0	0.0	0.0	1.0	0.0
+"Hypotension"	0.0	0.0	1.0	1.0	0.0
+"Progressive forgetfulness"	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0009273"	"MONDO.0010285"	"MONDO.0042486"	"MONDO.0014592"
+"Limited elbow extension"	0.0	1.0	0.0	0.0
+"Abnormal hand morphology"	0.0	1.0	0.0	0.0
+"Organic aciduria"	0.0	1.0	0.0	0.0
+"Galactosuria"	0.0	1.0	0.0	0.0
+"Long ear"	0.0	1.0	0.0	0.0
+"Facial capillary hemangioma"	0.0	1.0	0.0	0.0
+"Nevus flammeus of the forehead"	0.0	1.0	0.0	0.0

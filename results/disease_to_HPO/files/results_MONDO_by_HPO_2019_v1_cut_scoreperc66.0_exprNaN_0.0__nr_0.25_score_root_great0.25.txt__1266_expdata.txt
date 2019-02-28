@@ -1,0 +1,14 @@
+	"MONDO.0009595"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Narrow palate"	1.0	0.0	0.0	0.0
+"Convex nasal ridge"	1.0	0.0	0.0	0.0
+"Short metatarsal"	1.0	0.0	0.0	0.0
+"Short nail"	1.0	0.0	0.0	0.0
+"Narrow chest"	1.0	0.0	0.0	0.0
+"Abnormality of the respiratory system"	1.0	0.0	0.0	0.0
+"Thoracolumbar scoliosis"	1.0	0.0	0.0	0.0
+"Proximal femoral metaphyseal irregularity"	1.0	0.0	0.0	0.0
+"HP:0009826"	1.0	0.0	0.0	0.0
+"Enlarged joints"	1.0	0.0	0.0	0.0
+"Broad nail"	1.0	0.0	0.0	0.0
+"Finger joint hypermobility"	1.0	0.0	0.0	0.0
+"Delayed proximal femoral epiphyseal ossification"	1.0	0.0	0.0	0.0

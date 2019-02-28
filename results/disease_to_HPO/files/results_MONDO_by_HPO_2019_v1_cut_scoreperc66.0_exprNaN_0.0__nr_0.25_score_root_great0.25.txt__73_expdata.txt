@@ -1,0 +1,9 @@
+	"MONDO.0009588"	"MONDO.0010196"	"MONDO.0012014"	"MONDO.0013900"
+"Brachydactyly"	0.0	1.0	1.0	1.0
+"Pulmonic stenosis"	1.0	1.0	1.0	1.0
+"Aortic valve stenosis"	0.0	1.0	1.0	1.0
+"Intellectual disability, mild"	1.0	1.0	1.0	0.0
+"Ectopia lentis"	0.0	1.0	1.0	1.0
+"Joint stiffness"	0.0	1.0	1.0	1.0
+"Microspherophakia"	0.0	1.0	1.0	1.0
+"Shallow anterior chamber"	0.0	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	"MONDO.0007123"	"MONDO.0007271"	"MONDO.0011202"	"MONDO.0012733"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Ventriculomegaly"	0.0	1.0	0.0	1.0
+"Fatigue"	1.0	0.0	1.0	0.0
+"Restrictive cardiomyopathy"	0.0	1.0	0.0	0.0
+"Upper limb postural tremor"	0.0	0.0	1.0	0.0
+"Kinetic tremor"	0.0	0.0	1.0	1.0

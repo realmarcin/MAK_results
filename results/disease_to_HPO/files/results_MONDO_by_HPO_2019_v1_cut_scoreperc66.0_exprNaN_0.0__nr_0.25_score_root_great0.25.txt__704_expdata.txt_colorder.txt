@@ -1,0 +1,8 @@
+"x"
+"1" "Truncal obesity"
+"2" "Hypertension"
+"3" "High pitched voice"
+"4" "Abdominal obesity"
+"5" "Premature ovarian insufficiency"
+"6" "Delayed skeletal maturation"
+"7" "Polydactyly"

@@ -1,0 +1,11 @@
+	"MONDO.0011258"	"MONDO.0011970"	"MONDO.0012124"	"MONDO.0012639"
+"Lymphedema"	1.0	1.0	0.0	0.0
+"Hepatomegaly"	1.0	1.0	1.0	0.0
+"Patent ductus arteriosus"	0.0	1.0	1.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0
+"Failure to thrive"	1.0	1.0	1.0	0.0
+"Cholestasis"	0.0	1.0	0.0	0.0
+"Ascites"	0.0	1.0	0.0	0.0
+"Protein-losing enteropathy"	1.0	1.0	0.0	0.0
+"Abnormal isoelectric focusing of serum transferrin"	0.0	1.0	0.0	1.0
+"Abnormality of the renal tubule"	0.0	1.0	0.0	0.0

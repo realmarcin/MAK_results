@@ -1,0 +1,8 @@
+	"MONDO.0021035"	"MONDO.0010841"	"MONDO.0012463"	"MONDO.0013584"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0	1.0
+"Pachygyria"	0.0	1.0	1.0	1.0
+"Polymicrogyria"	0.0	0.0	0.0	1.0
+"Generalized tonic-clonic seizures"	0.0	1.0	1.0	1.0
+"EEG abnormality"	1.0	0.0	0.0	1.0
+"Visual loss"	0.0	0.0	0.0	1.0

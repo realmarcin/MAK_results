@@ -1,0 +1,13 @@
+	"MONDO.0008855"	"MONDO.0013963"	"MONDO.0014078"	"MONDO.0015012"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hydrocephalus"	0.0	0.0	1.0	0.0
+"Hearing impairment"	1.0	1.0	1.0	1.0
+"Cataract"	1.0	0.0	1.0	0.0
+"Spastic paraplegia"	0.0	1.0	1.0	0.0
+"Macrocephaly"	1.0	0.0	1.0	1.0
+"Porencephalic cyst"	0.0	0.0	1.0	0.0
+"Leukoencephalopathy"	0.0	0.0	1.0	1.0
+"Hypoplasia of the brainstem"	0.0	0.0	1.0	0.0
+"Abnormality of the cerebral white matter"	0.0	0.0	1.0	0.0
+"Type II lissencephaly"	0.0	0.0	1.0	0.0
+"Gray matter heterotopias"	0.0	0.0	1.0	0.0

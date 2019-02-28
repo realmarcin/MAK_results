@@ -1,0 +1,7 @@
+"x"
+"1" "Hemihypotrophy of lower limb"
+"2" "Unilateral breast hypoplasia"
+"3" "Split nail"
+"4" "Asymmetric short stature"
+"5" "Abnormality of thyroid physiology"
+"6" "Hypoplastic nasal tip"

@@ -1,0 +1,10 @@
+	"MONDO.0007916"	"MONDO.0008829"	"MONDO.0010147"	"MONDO.0012370"	"MONDO.0011788"
+"Nail pits"	0.0	0.0	0.0	0.0	1.0
+"Psoriasiform dermatitis"	0.0	0.0	0.0	0.0	1.0
+"Pericardial effusion"	0.0	0.0	0.0	0.0	1.0
+"Arthritis"	1.0	1.0	0.0	1.0	1.0
+"Generalized hyperkeratosis"	0.0	0.0	0.0	0.0	1.0
+"Malabsorption"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the fingernails"	0.0	0.0	0.0	0.0	1.0
+"Mediastinal lymphadenopathy"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the pleura"	0.0	0.0	0.0	0.0	1.0

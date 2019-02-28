@@ -1,0 +1,6 @@
+	"MONDO.0007168"	"MONDO.0007169"	"MONDO.0008124"	"MONDO.0024309"	"MONDO.0009780"
+"Elbow dislocation"	1.0	1.0	1.0	1.0	1.0
+"Patellar dislocation"	0.0	0.0	1.0	1.0	0.0
+"Rhizomelic arm shortening"	0.0	0.0	1.0	0.0	0.0
+"Hypoplastic distal humeri"	0.0	0.0	1.0	0.0	1.0
+"Limited elbow flexion/extension"	0.0	0.0	1.0	0.0	1.0

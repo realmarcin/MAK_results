@@ -1,0 +1,6 @@
+"x"
+"1" "First dorsal interossei muscle weakness"
+"2" "Thenar muscle atrophy"
+"3" "First dorsal interossei muscle atrophy"
+"4" "Thenar muscle weakness"
+"5" "Cold-induced hand cramps"

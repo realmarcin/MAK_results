@@ -1,0 +1,10 @@
+	"MONDO.0012394"	"MONDO.0014824"	"MONDO.0015011"	"MONDO.0044721"	"MONDO.0044322"
+"Seizures"	1.0	1.0	0.0	0.0	1.0
+"Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0
+"Ventriculomegaly"	1.0	1.0	1.0	1.0	1.0
+"HP:0003828"	0.0	1.0	0.0	0.0	1.0
+"Dysphagia"	0.0	0.0	1.0	0.0	1.0
+"Apnea"	1.0	0.0	1.0	0.0	1.0
+"HP:0001276"	0.0	0.0	1.0	0.0	1.0
+"Exaggerated startle response"	0.0	0.0	1.0	0.0	1.0
+"Respiratory insufficiency"	1.0	0.0	0.0	0.0	1.0

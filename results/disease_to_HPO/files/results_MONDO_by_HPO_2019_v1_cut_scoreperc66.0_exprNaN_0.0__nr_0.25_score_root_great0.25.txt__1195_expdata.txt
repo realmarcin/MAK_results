@@ -1,0 +1,11 @@
+	"MONDO.0007681"	"MONDO.0008270"	"MONDO.0008271"	"MONDO.0008518"	"MONDO.0042499"
+"Renal cyst"	1.0	0.0	0.0	0.0	0.0
+"Triphalangeal thumb"	1.0	0.0	0.0	0.0	0.0
+"Multicystic kidney dysplasia"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the genitourinary system"	1.0	0.0	0.0	0.0	0.0
+"Preaxial foot polydactyly"	1.0	0.0	1.0	1.0	1.0
+"Bilateral triphalangeal thumbs"	1.0	0.0	0.0	0.0	0.0
+"Multinodular goiter"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of earlobe"	0.0	0.0	0.0	1.0	0.0
+"Bifid distal phalanx of toe"	0.0	0.0	0.0	1.0	0.0
+"1-2 toe complete cutaneous syndactyly"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,14 @@
+	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0010442"	"MONDO.0014211"
+"Pachygyria"	0.0	0.0	1.0	0.0
+"Polymicrogyria"	0.0	0.0	1.0	0.0
+"Micrognathia"	0.0	0.0	1.0	0.0
+"Dental crowding"	0.0	0.0	1.0	0.0
+"Retrognathia"	0.0	0.0	1.0	0.0
+"Posteriorly rotated ears"	0.0	0.0	1.0	0.0
+"Upslanted palpebral fissure"	0.0	0.0	1.0	0.0
+"Narrow face"	0.0	0.0	1.0	0.0
+"Long face"	0.0	0.0	1.0	0.0
+"Joint hypermobility"	0.0	0.0	1.0	0.0
+"Almond-shaped palpebral fissure"	0.0	0.0	1.0	0.0
+"Abnormality of digit"	0.0	0.0	1.0	0.0
+"Abnormal cortical bone morphology"	0.0	0.0	1.0	0.0

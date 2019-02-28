@@ -1,0 +1,4 @@
+"x"
+"1" "Proximal amyotrophy"
+"2" "HP:0031655"
+"3" "Nasal regurgitation"

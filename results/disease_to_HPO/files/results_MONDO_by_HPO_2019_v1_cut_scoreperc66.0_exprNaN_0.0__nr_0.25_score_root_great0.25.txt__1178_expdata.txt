@@ -1,0 +1,8 @@
+	"MONDO.0008859"	"MONDO.0011197"	"MONDO.0012644"	"MONDO.0012652"	"MONDO.0013166"	"MONDO.0013181"	"MONDO.0014210"
+"Tetraparesis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Myotonia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Babinski sign"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Myokymia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Neurodegeneration"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Pendular nystagmus"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Dysplastic corpus callosum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

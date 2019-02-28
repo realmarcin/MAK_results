@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "HP:0000007"
+"3" "Generalized hypotonia"
+"4" "Hyperreflexia"
+"5" "Cerebellar atrophy"
+"6" "Cognitive impairment"
+"7" "Poor speech"

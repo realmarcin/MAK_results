@@ -1,0 +1,7 @@
+	"MONDO.0007236"	"MONDO.0010557"	"MONDO.0010709"
+"Short nasal septum"	1.0	1.0	0.0
+"Postauricular pit"	1.0	0.0	0.0
+"Fusion of middle ear ossicles"	1.0	0.0	0.0
+"Supraauricular pit"	1.0	0.0	0.0
+"Ectopic thymus tissue"	1.0	0.0	0.0
+"Upper lip pit"	1.0	0.0	1.0

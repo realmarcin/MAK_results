@@ -1,0 +1,9 @@
+	"MONDO.0007916"	"MONDO.0008829"	"MONDO.0010147"	"MONDO.0012370"
+"Congenital finger flexion contractures"	0.0	1.0	0.0	0.0
+"Arthritis"	1.0	1.0	0.0	1.0
+"Flattened metatarsal heads"	0.0	1.0	0.0	0.0
+"Wrist flexion contracture"	0.0	1.0	0.0	0.0
+"Constrictive pericarditis"	0.0	1.0	0.0	0.0
+"Synovial hypertrophy"	0.0	1.0	0.0	0.0
+"Generalized morning stiffness"	0.0	1.0	0.0	0.0
+"Flattened metacarpal heads"	0.0	1.0	0.0	0.0

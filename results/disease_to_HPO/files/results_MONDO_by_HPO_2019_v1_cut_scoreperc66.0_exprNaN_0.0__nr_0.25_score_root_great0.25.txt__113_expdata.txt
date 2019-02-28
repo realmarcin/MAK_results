@@ -1,0 +1,15 @@
+	"MONDO.0007079"	"MONDO.0008772"	"MONDO.0011303"	"MONDO.0012912"
+"Brachydactyly"	1.0	0.0	1.0	1.0
+"Short neck"	1.0	0.0	1.0	1.0
+"Short metacarpal"	1.0	0.0	1.0	1.0
+"Round face"	1.0	0.0	1.0	1.0
+"Depressivity"	1.0	0.0	1.0	1.0
+"Anxiety"	1.0	0.0	1.0	1.0
+"Obesity"	1.0	0.0	1.0	1.0
+"Conjunctivitis"	1.0	0.0	1.0	1.0
+"Low urinary cyclic AMP response to PTH administration"	1.0	0.0	1.0	1.0
+"Hypoplasia of dental enamel"	1.0	0.0	1.0	1.0
+"Dyspnea"	1.0	0.0	1.0	1.0
+"Growth hormone deficiency"	1.0	0.0	1.0	1.0
+"Chest pain"	1.0	0.0	1.0	1.0
+"Pituitary resistance to thyroid hormone"	1.0	0.0	1.0	1.0

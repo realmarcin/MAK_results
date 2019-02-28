@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormality of pelvic girdle bone morphology"
+"2" "Disproportionate short-limb short stature"
+"3" "HP:0009826"
+"4" "Pulmonary insufficiency"
+"5" "Genu valgum"
+"6" "Metaphyseal dysplasia"

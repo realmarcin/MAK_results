@@ -1,0 +1,7 @@
+	"MONDO.0007773"	"MONDO.0012205"	"MONDO.0013778"	"MONDO.0013779"	"MONDO.0013782"	"MONDO.0013783"
+"Hypertension"	1.0	1.0	1.0	1.0	1.0	1.0
+"Metabolic acidosis"	0.0	0.0	0.0	1.0	0.0	1.0
+"Hyperkalemia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Pseudohypoaldosteronism"	1.0	0.0	1.0	1.0	1.0	1.0
+"Hyperchloremic metabolic acidosis"	0.0	0.0	1.0	1.0	1.0	1.0
+"Hyperchloremia"	0.0	0.0	1.0	1.0	1.0	1.0

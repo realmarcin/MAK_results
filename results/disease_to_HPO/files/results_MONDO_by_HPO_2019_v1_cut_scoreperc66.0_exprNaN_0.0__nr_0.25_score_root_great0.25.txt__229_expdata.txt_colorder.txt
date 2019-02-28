@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Multiple exostoses"
+"3" "Spastic tetraparesis"
+"4" "Intestinal polyposis"

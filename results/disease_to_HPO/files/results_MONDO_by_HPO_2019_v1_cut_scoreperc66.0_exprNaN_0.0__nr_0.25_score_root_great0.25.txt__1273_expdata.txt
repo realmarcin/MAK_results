@@ -1,0 +1,6 @@
+	"MONDO.0009505"	"MONDO.0009612"	"MONDO.0011230"	"MONDO.0013762"	"MONDO.0014191"	"MONDO.0014489"	"MONDO.0014649"	"MONDO.0014849"
+"Lactic acidosis"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Poor motor coordination"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Intermittent hyperpnea at rest"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Renal aminoaciduria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Methylmalonic aciduria"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+	"MONDO.0008816"	"MONDO.0008989"	"MONDO.0009377"	"MONDO.0009394"	"MONDO.0010704"	"MONDO.0014333"
+"Respiratory alkalosis"	1.0	1.0	1.0	0.0	1.0	1.0
+"Episodic ammonia intoxication"	1.0	1.0	1.0	0.0	1.0	0.0
+"Protein avoidance"	1.0	1.0	1.0	1.0	1.0	0.0
+"Hyperglutaminemia"	1.0	1.0	0.0	0.0	1.0	0.0
+"Hypoargininemia"	1.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Seizures"
+"3" "Global developmental delay"
+"4" "Absent speech"
+"5" "Hyperactivity"
+"6" "Anxiety"
+"7" "Autistic behavior"

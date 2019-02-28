@@ -1,0 +1,6 @@
+"x"
+"1" "Atrial standstill"
+"2" "Premature atrial contractions"
+"3" "Atrial cardiomyopathy"
+"4" "Ebstein's anomaly of the tricuspid valve"
+"5" "Imperforate tricuspid valve"

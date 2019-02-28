@@ -1,0 +1,8 @@
+"x"
+"1" "Delayed speech and language development"
+"2" "HP:0000007"
+"3" "Global developmental delay"
+"4" "Bradykinesia"
+"5" "Muscular hypotonia of the trunk"
+"6" "Limb hypertonia"
+"7" "Oculogyric crisis"

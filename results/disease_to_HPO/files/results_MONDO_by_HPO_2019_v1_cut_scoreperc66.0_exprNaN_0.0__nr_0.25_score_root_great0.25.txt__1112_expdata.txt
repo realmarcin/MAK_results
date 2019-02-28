@@ -1,0 +1,8 @@
+	"MONDO.0008370"	"MONDO.0008895"	"MONDO.0011864"	"MONDO.0014305"	"MONDO.0014306"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0	0.0
+"Low posterior hairline"	0.0	1.0	0.0	0.0	0.0
+"Lamellar cataract"	0.0	1.0	0.0	0.0	0.0
+"Generalized hypertrichosis"	0.0	1.0	0.0	0.0	0.0
+"Generalized hirsutism"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the palate"	0.0	1.0	0.0	0.0	0.0

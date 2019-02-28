@@ -1,0 +1,5 @@
+"x"
+"1" "Lissencephaly"
+"2" "Talipes calcaneovalgus"
+"3" "Nephrogenic diabetes insipidus"
+"4" "Giant cell hepatitis"

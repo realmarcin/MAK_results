@@ -1,0 +1,5 @@
+"x"
+"1" "Esophageal neoplasm"
+"2" "Neoplasm of the small intestine"
+"3" "Neoplasm of the colon"
+"4" "Neoplasm of the rectum"

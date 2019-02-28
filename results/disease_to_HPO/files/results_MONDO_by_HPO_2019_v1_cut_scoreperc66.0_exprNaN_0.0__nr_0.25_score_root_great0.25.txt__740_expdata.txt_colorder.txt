@@ -1,0 +1,4 @@
+"x"
+"1" "Biventricular hypertrophy"
+"2" "Left anterior fascicular block"
+"3" "HP:0012250"

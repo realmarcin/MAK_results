@@ -1,0 +1,6 @@
+	"MONDO.0007830"	"MONDO.0008322"	"MONDO.0013997"	"MONDO.0033013"	"MONDO.0060502"	"MONDO.0033123"	"MONDO.0060670"	"MONDO.0054732"	"MONDO.0011248"
+"Pruritus"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
+"Intrahepatic cholestasis"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Fetal distress"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal liver function tests during pregnancy"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased serum bile acid concentration during pregnancy"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

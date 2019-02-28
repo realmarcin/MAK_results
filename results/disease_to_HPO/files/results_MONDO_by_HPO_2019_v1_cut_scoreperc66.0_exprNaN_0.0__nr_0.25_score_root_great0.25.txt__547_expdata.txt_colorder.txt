@@ -1,0 +1,8 @@
+"x"
+"1" "Capillary hemangiomas"
+"2" "Hypoplasia of the maxilla"
+"3" "Joint laxity"
+"4" "Pes planus"
+"5" "Frontal bossing"
+"6" "Delayed speech and language development"
+"7" "Wide anterior fontanel"

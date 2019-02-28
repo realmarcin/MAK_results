@@ -1,0 +1,7 @@
+	"MONDO.0008099"	"MONDO.0009679"	"MONDO.0009806"	"MONDO.0010400"	"MONDO.0013380"	"MONDO.0014701"
+"Pectus excavatum"	0.0	1.0	1.0	1.0	0.0	1.0
+"Intellectual disability"	1.0	1.0	0.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	0.0	0.0	1.0	1.0
+"Scoliosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Kyphosis"	0.0	0.0	1.0	1.0	0.0	0.0
+"Dolichocephaly"	1.0	1.0	0.0	0.0	1.0	1.0

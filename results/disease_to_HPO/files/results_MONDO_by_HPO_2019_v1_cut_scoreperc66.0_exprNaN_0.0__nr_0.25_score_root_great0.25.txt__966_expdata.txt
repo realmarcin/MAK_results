@@ -1,0 +1,10 @@
+	"MONDO.0010219"	"MONDO.0011324"	"MONDO.0014240"	"MONDO.0060490"
+"Synophrys"	0.0	1.0	0.0	0.0
+"Micropenis"	1.0	1.0	1.0	1.0
+"Hypoplastic labia majora"	0.0	1.0	0.0	0.0
+"Corneal opacity"	0.0	1.0	0.0	0.0
+"Hypoplasia of teeth"	0.0	1.0	0.0	0.0
+"Primary amenorrhea"	0.0	1.0	0.0	0.0
+"Hyposmia"	0.0	1.0	0.0	0.0
+"Agenesis of permanent teeth"	0.0	1.0	0.0	0.0
+"Cleft lip"	0.0	1.0	0.0	0.0

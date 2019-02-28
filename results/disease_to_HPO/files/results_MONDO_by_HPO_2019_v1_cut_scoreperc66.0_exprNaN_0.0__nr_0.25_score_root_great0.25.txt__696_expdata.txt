@@ -1,0 +1,8 @@
+	"MONDO.0007535"	"MONDO.0009417"	"MONDO.0010886"	"MONDO.0014426"	"MONDO.0014554"
+"Mandibular prognathia"	1.0	0.0	0.0	0.0	1.0
+"Large for gestational age"	1.0	1.0	0.0	0.0	0.0
+"Macroglossia"	1.0	0.0	0.0	0.0	1.0
+"Hemihypertrophy"	1.0	1.0	1.0	0.0	1.0
+"Neonatal hypoglycemia"	1.0	1.0	0.0	0.0	0.0
+"Otosclerosis"	1.0	0.0	0.0	0.0	0.0
+"Elevated alpha-fetoprotein"	1.0	0.0	0.0	1.0	0.0

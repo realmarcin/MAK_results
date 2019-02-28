@@ -1,0 +1,12 @@
+	"MONDO.0009131"	"MONDO.0010584"	"MONDO.0010738"	"MONDO.0011766"
+"Lumbar hyperlordosis"	1.0	1.0	1.0	0.0
+"Short neck"	1.0	1.0	1.0	0.0
+"Scoliosis"	1.0	1.0	1.0	0.0
+"Platyspondyly"	1.0	1.0	1.0	0.0
+"Barrel-shaped chest"	1.0	1.0	1.0	0.0
+"Hypoplastic iliac wing"	1.0	0.0	1.0	0.0
+"Disproportionate short-trunk short stature"	1.0	1.0	1.0	0.0
+"Shield chest"	1.0	0.0	1.0	0.0
+"Hypoplasia of the capital femoral epiphysis"	0.0	0.0	1.0	1.0
+"HP:0001419"	0.0	1.0	1.0	0.0
+"Hump-shaped mound of bone in central and posterior portions of vertebral endplate"	0.0	0.0	1.0	0.0

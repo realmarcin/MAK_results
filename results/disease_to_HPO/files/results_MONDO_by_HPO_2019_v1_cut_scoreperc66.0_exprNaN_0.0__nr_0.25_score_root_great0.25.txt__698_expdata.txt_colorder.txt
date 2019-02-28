@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Depressed nasal bridge"
+"3" "Upslanted palpebral fissure"
+"4" "Atrial septal defect"
+"5" "Broad nasal tip"
+"6" "Thin upper lip vermilion"
+"7" "Delayed speech and language development"

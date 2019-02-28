@@ -1,0 +1,5 @@
+"x"
+"1" "Decreased activity of mitochondrial complex II"
+"2" "Decreased activity of mitochondrial complex I"
+"3" "Increased intramyocellular lipid droplets"
+"4" "Stress/infection-induced lactic acidosis"

@@ -1,0 +1,6 @@
+"x"
+"1" "Hyperuricosuria"
+"2" "Fructose intolerance"
+"3" "Podagra"
+"4" "Increased urinary urate"
+"5" "Galactose intolerance"

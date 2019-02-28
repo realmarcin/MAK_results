@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Intellectual disability"
+"3" "Seizures"
+"4" "Global developmental delay"
+"5" "Generalized hypotonia"
+"6" "HP:0003593"
+"7" "Epileptic encephalopathy"

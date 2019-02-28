@@ -1,0 +1,11 @@
+	"MONDO.0007416"	"MONDO.0009069"	"MONDO.0009070"	"MONDO.0009920"	"MONDO.0010718"
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0
+"Episodic ataxia"	0.0	0.0	0.0	0.0	1.0
+"Small for gestational age"	0.0	0.0	0.0	0.0	1.0
+"Increased serum lactate"	1.0	1.0	1.0	0.0	1.0
+"Chronic lactic acidosis"	0.0	0.0	0.0	0.0	1.0
+"Flared nostrils"	0.0	0.0	0.0	0.0	1.0
+"Apneic episodes precipitated by illness, fatigue, stress"	0.0	0.0	0.0	0.0	1.0
+"Basal ganglia cysts"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,7 @@
+	"MONDO.0007917"	"MONDO.0007951"	"MONDO.0008284"	"MONDO.0010527"	"MONDO.0014167"	"MONDO.0012008"
+"Diarrhea"	1.0	1.0	1.0	1.0	1.0	1.0
+"Fatigue"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abdominal pain"	1.0	0.0	1.0	1.0	1.0	1.0
+"Malabsorption"	1.0	0.0	1.0	1.0	0.0	0.0
+"Anorexia"	0.0	1.0	1.0	1.0	0.0	1.0
+"Nausea and vomiting"	1.0	1.0	0.0	1.0	0.0	1.0

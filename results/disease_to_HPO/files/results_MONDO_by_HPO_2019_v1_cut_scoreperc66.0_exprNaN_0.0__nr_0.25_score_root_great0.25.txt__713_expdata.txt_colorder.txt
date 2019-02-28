@@ -1,0 +1,5 @@
+"x"
+"1" "Diabetes mellitus"
+"2" "Type I diabetes mellitus"
+"3" "HP:0000006"
+"4" "Long hairs growing from helix of pinna"

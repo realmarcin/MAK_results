@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Abnormality of the Achilles tendon"
+"3" "Spastic paraplegia"
+"4" "Talipes equinovarus"
+"5" "Anterior rib cupping"
+"6" "Dumbbell-shaped long bone"
+"7" "Severe short-limb dwarfism"

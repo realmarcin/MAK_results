@@ -1,0 +1,7 @@
+	"MONDO.0008622"	"MONDO.0008687"	"MONDO.0011178"	"MONDO.0014385"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Sparse body hair"	0.0	1.0	1.0	0.0
+"Slow-growing hair"	0.0	1.0	0.0	1.0
+"Coarse hair"	1.0	1.0	0.0	0.0
+"Dry hair"	1.0	1.0	0.0	1.0
+"Woolly hair"	1.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Decreased circulating high-density lipoprotein levels"
+"2" "Premature coronary artery disease"
+"3" "Blurred vision"
+"4" "Abnormality of the liver"
+"5" "Xanthomatosis"
+"6" "Hemiplegia/hemiparesis"

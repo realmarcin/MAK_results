@@ -1,0 +1,7 @@
+"x"
+"1" "Bradykinesia"
+"2" "Mask-like facies"
+"3" "Diffuse cerebral atrophy"
+"4" "Hyperactive deep tendon reflexes"
+"5" "Dilation of lateral ventricles"
+"6" "Dilated third ventricle"

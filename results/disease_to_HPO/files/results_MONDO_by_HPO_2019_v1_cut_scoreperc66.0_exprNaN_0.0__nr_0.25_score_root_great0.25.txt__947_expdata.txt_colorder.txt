@@ -1,0 +1,5 @@
+"x"
+"1" "Hyperopic astigmatism"
+"2" "HP:0001470"
+"3" "Abnormal stereopsis"
+"4" "Penoscrotal hypospadias"

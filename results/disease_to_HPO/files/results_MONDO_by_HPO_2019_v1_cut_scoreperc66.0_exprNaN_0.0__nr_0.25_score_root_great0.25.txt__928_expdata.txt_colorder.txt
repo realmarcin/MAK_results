@@ -1,0 +1,8 @@
+"x"
+"1" "Hand monodactyly"
+"2" "Aplasia/Hypoplasia of the ulna"
+"3" "HP:0009556"
+"4" "Foot monodactyly"
+"5" "Aplasia of the ulna"
+"6" "Bifid femur"
+"7" "Aplasia/Hypoplasia of the tibia"

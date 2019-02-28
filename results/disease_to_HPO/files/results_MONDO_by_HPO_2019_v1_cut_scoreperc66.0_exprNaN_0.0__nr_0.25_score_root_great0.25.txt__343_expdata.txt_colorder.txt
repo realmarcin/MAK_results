@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormal toenail morphology"
+"2" "Turricephaly"
+"3" "Abnormality of the antihelix"
+"4" "Beaked nails"

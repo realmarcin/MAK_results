@@ -1,0 +1,7 @@
+	"MONDO.0007404"	"MONDO.0008134"	"MONDO.0010133"	"MONDO.0010698"	"MONDO.0011392"	"MONDO.0011488"
+"Loss of facial expression"	1.0	0.0	0.0	0.0	0.0	1.0
+"Extrapyramidal muscular rigidity"	1.0	1.0	0.0	0.0	0.0	1.0
+"Akinetic mutism"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal pupillary function"	1.0	0.0	0.0	1.0	0.0	0.0
+"Diffuse spongiform leukoencephalopathy"	1.0	0.0	0.0	0.0	1.0	0.0
+"Hypersomnia"	1.0	0.0	1.0	0.0	0.0	0.0

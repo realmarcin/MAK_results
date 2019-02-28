@@ -1,0 +1,9 @@
+	"MONDO.0007544"	"MONDO.0007608"	"MONDO.0007683"	"MONDO.0014892"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	1.0	1.0
+"Abnormality of the hair"	0.0	1.0	1.0	0.0
+"Deeply set eye"	0.0	0.0	1.0	0.0
+"Underdeveloped nasal alae"	0.0	0.0	1.0	0.0
+"Triangular face"	0.0	0.0	1.0	0.0
+"Reduced subcutaneous adipose tissue"	1.0	0.0	1.0	0.0
+"Prominent nasal septum"	0.0	0.0	1.0	0.0

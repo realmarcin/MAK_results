@@ -1,0 +1,5 @@
+"x"
+"1" "Lethargy"
+"2" "Coma"
+"3" "Reduced tendon reflexes"
+"4" "Hemiplegia/hemiparesis"

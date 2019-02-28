@@ -1,0 +1,4 @@
+"x"
+"1" "Recurrent otitis media"
+"2" "Recurrent sinusitis"
+"3" "Decreased number of CD3+ T cells"

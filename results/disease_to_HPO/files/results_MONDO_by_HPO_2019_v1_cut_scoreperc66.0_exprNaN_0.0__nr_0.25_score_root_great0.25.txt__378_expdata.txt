@@ -1,0 +1,9 @@
+	"MONDO.0007302"	"MONDO.0007681"	"MONDO.0009234"	"MONDO.0009271"	"MONDO.0009890"
+"HP:0000007"	1.0	0.0	1.0	1.0	1.0
+"Ventricular septal defect"	1.0	0.0	1.0	1.0	0.0
+"Micrognathia"	1.0	0.0	1.0	1.0	0.0
+"Renal cyst"	1.0	1.0	1.0	1.0	1.0
+"Multicystic kidney dysplasia"	1.0	1.0	0.0	1.0	0.0
+"Neonatal death"	0.0	0.0	1.0	0.0	1.0
+"Congenital diaphragmatic hernia"	0.0	0.0	0.0	1.0	0.0
+"Pulmonary hypoplasia"	0.0	0.0	0.0	0.0	1.0

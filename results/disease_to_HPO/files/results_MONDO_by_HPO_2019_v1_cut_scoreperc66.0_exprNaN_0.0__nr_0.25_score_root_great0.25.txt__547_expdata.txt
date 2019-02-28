@@ -1,0 +1,8 @@
+	"MONDO.0008394"	"MONDO.0011192"	"MONDO.0011539"	"MONDO.0011912"	"MONDO.0012992"
+"Hypoplasia of the maxilla"	1.0	0.0	0.0	1.0	0.0
+"Joint laxity"	1.0	0.0	0.0	1.0	0.0
+"Pes planus"	1.0	0.0	0.0	1.0	0.0
+"Frontal bossing"	1.0	0.0	0.0	1.0	0.0
+"Delayed speech and language development"	1.0	0.0	0.0	1.0	0.0
+"Wide anterior fontanel"	1.0	0.0	0.0	1.0	0.0
+"Capillary hemangiomas"	1.0	1.0	1.0	1.0	1.0

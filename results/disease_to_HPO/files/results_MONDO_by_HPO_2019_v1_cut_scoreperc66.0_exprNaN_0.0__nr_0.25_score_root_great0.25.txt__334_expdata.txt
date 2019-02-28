@@ -1,0 +1,6 @@
+	"MONDO.0007405"	"MONDO.0008394"	"MONDO.0008953"	"MONDO.0011625"	"MONDO.0011930"	"MONDO.0013550"
+"Self-mutilation"	1.0	1.0	1.0	0.0	1.0	1.0
+"Facial grimacing"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the kidney"	1.0	1.0	1.0	1.0	1.0	0.0
+"Short attention span"	1.0	1.0	0.0	0.0	0.0	1.0
+"High axial triradius"	1.0	1.0	0.0	0.0	0.0	0.0

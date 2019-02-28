@@ -1,0 +1,5 @@
+	"MONDO.0007190"	"MONDO.0008637"	"MONDO.0008685"	"MONDO.0009051"	"MONDO.0009948"	"MONDO.0010993"
+"Craniofacial asymmetry"	1.0	0.0	1.0	0.0	0.0	1.0
+"Psychotic mentation"	0.0	0.0	0.0	1.0	1.0	0.0
+"5-oxoprolinase deficiency"	0.0	0.0	0.0	0.0	0.0	0.0
+"Metrorrhagia"	0.0	1.0	0.0	1.0	0.0	0.0

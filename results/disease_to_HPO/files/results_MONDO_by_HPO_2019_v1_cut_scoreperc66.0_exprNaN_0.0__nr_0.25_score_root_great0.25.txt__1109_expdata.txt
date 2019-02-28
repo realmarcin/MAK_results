@@ -1,0 +1,8 @@
+	"MONDO.0010085"	"MONDO.0010159"	"MONDO.0010867"	"MONDO.0033115"
+"HP:0000007"	0.0	0.0	0.0	0.0
+"Agenesis of corpus callosum"	0.0	0.0	1.0	0.0
+"Cerebral atrophy"	0.0	0.0	1.0	0.0
+"Abnormality of metabolism/homeostasis"	1.0	1.0	1.0	0.0
+"Abnormality of the skeletal system"	0.0	0.0	1.0	0.0
+"Death in infancy"	0.0	0.0	1.0	0.0
+"Osteopetrosis"	0.0	0.0	1.0	0.0

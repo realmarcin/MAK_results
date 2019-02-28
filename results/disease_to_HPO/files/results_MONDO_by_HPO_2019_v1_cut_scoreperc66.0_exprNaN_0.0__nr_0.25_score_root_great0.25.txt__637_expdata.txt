@@ -1,0 +1,9 @@
+	"MONDO.0007523"	"MONDO.0008226"	"MONDO.0010148"	"MONDO.0011009"	"MONDO.0011143"
+"Arachnodactyly"	1.0	0.0	0.0	0.0	1.0
+"Microcornea"	1.0	0.0	0.0	0.0	1.0
+"Retinal detachment"	1.0	0.0	0.0	0.0	1.0
+"Hiatus hernia"	1.0	0.0	0.0	0.0	1.0
+"Fragile skin"	1.0	0.0	0.0	0.0	1.0
+"Joint dislocation"	1.0	0.0	0.0	0.0	1.0
+"Pneumothorax"	1.0	0.0	0.0	0.0	1.0
+"Abnormality of the tongue"	1.0	1.0	1.0	1.0	0.0

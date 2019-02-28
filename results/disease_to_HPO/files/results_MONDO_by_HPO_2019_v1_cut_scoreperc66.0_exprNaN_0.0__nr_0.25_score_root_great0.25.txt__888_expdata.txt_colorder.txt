@@ -1,0 +1,4 @@
+"x"
+"1" "Hyperhidrosis"
+"2" "Palpitations"
+"3" "Vocal cord paralysis"

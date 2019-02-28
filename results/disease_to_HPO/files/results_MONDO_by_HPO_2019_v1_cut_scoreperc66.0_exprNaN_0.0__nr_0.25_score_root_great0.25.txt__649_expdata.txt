@@ -1,0 +1,4 @@
+	"MONDO.0009415"	"MONDO.0009493"	"MONDO.0009616"	"MONDO.0014065"	"MONDO.0014333"	"MONDO.0014491"
+"Ketonuria"	1.0	1.0	1.0	0.0	1.0	1.0
+"Ketotic hypoglycemia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the gastrointestinal tract"	1.0	0.0	0.0	0.0	0.0	0.0

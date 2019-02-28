@@ -1,0 +1,7 @@
+"x"
+"1" "Hypoplasia of the fallopian tube"
+"2" "Tetraamelia"
+"3" "Adrenal gland agenesis"
+"4" "Abnormality of the diaphragm"
+"5" "Peripheral pulmonary vessel aplasia"
+"6" "HP:0031853"

@@ -1,0 +1,8 @@
+	"MONDO.0013582"	"MONDO.0014922"	"MONDO.0044305"
+"HP:0000006"	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	1.0
+"HP:0003593"	0.0	1.0	1.0
+"Epileptic encephalopathy"	0.0	1.0	1.0

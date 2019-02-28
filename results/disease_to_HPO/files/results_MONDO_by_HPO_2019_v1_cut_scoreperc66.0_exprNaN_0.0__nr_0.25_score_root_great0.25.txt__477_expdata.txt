@@ -1,0 +1,4 @@
+	"MONDO.0007320"	"MONDO.0007599"	"MONDO.0009513"	"MONDO.0011781"
+"Joint dislocation"	1.0	1.0	1.0	1.0
+"Multiple joint dislocation"	0.0	0.0	1.0	0.0
+"Abnormal cartilage matrix"	0.0	0.0	1.0	0.0

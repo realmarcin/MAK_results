@@ -1,0 +1,14 @@
+	"MONDO.0010579"	"MONDO.0013557"	"MONDO.0013558"	"MONDO.0013561"
+"Mental deterioration"	1.0	0.0	0.0	0.0
+"Dystonia"	1.0	0.0	0.0	0.0
+"Spasticity"	1.0	0.0	0.0	0.0
+"Tremor"	1.0	0.0	0.0	0.0
+"Hyperreflexia"	1.0	0.0	0.0	0.0
+"Dysphagia"	1.0	0.0	0.0	0.0
+"HP:0011463"	1.0	0.0	0.0	0.0
+"Constriction of peripheral visual field"	1.0	0.0	0.0	0.0
+"Increased susceptibility to fractures"	1.0	0.0	0.0	0.0
+"Progressive sensorineural hearing impairment"	1.0	0.0	0.0	0.0
+"Abnormal posturing"	1.0	0.0	0.0	0.0
+"Cortical visual impairment"	1.0	0.0	0.0	0.0
+"Postlingual sensorineural hearing impairment"	1.0	0.0	0.0	0.0

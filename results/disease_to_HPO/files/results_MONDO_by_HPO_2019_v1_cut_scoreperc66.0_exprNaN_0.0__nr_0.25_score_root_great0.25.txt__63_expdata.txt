@@ -1,0 +1,4 @@
+	"MONDO.0007227"	"MONDO.0008592"	"MONDO.0008840"	"MONDO.0019107"	"MONDO.0010096"
+"Muscular hypotonia"	0.0	0.0	1.0	0.0	1.0
+"Ataxia"	1.0	1.0	1.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0	1.0	1.0

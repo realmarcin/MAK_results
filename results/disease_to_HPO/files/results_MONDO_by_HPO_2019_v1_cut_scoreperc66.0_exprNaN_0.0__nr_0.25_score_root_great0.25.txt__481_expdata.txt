@@ -1,0 +1,9 @@
+	"MONDO.0007637"	"MONDO.0009561"	"MONDO.0011360"
+"Dermoid cyst"	1.0	0.0	1.0
+"Bifid nasal tip"	1.0	1.0	1.0
+"Median cleft palate"	1.0	0.0	1.0
+"Atheroeruptive xanthoma"	0.0	0.0	0.0
+"Hypopituitarism"	1.0	0.0	1.0
+"Choroid plexus cyst"	0.0	0.0	1.0
+"Aplasia/Hypoplasia of the tibia"	0.0	0.0	1.0
+"HP:0002056"	0.0	0.0	1.0

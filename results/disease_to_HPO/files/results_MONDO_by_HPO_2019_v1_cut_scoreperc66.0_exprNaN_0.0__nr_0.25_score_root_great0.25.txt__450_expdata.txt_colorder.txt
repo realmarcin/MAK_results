@@ -1,0 +1,4 @@
+"x"
+"1" "Defective T cell proliferation"
+"2" "HP:0031123"
+"3" "Decreased number of CD3+ T cells"

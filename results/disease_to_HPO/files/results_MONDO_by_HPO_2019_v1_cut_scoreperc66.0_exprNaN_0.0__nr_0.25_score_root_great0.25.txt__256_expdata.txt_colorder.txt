@@ -1,0 +1,7 @@
+"x"
+"1" "Underdeveloped nasal alae"
+"2" "Wide nasal bridge"
+"3" "Hypodontia"
+"4" "Hypotrichosis"
+"5" "Sparse eyelashes"
+"6" "Supernumerary nipple"

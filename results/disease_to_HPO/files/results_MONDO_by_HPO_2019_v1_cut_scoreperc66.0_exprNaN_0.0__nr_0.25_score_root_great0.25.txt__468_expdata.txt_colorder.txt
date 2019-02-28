@@ -1,0 +1,5 @@
+"x"
+"1" "Acne inversa"
+"2" "Chronic furunculosis"
+"3" "Recurrent cutaneous abscess formation"
+"4" "Perifolliculitis"

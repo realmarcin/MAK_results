@@ -1,0 +1,9 @@
+	"MONDO.0007110"	"MONDO.0009199"	"MONDO.0011420"	"MONDO.0012148"	"MONDO.0013136"	"MONDO.0014307"
+"Cutis marmorata"	0.0	0.0	0.0	0.0	0.0	1.0
+"Dilatation"	0.0	0.0	0.0	0.0	0.0	1.0
+"Lupus anticoagulant"	0.0	0.0	0.0	0.0	0.0	1.0
+"Raynaud phenomenon"	0.0	0.0	0.0	0.0	0.0	1.0
+"Elevated hepatic transaminases"	1.0	0.0	1.0	0.0	0.0	1.0
+"Agitation"	0.0	0.0	0.0	0.0	0.0	1.0
+"Anemia"	1.0	0.0	1.0	1.0	0.0	1.0
+"Aphasia"	0.0	0.0	0.0	0.0	0.0	1.0

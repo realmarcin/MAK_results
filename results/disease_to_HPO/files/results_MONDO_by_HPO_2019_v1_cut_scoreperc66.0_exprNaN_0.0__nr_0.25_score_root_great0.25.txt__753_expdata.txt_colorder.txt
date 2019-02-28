@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormal external genitalia"
+"2" "Aprosencephaly"
+"3" "Intestinal lymphedema"
+"4" "Chemosis"
+"5" "Abnormal morphology of the radius"

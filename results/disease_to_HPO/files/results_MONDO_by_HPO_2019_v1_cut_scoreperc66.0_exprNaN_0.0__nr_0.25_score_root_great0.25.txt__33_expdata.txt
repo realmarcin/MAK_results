@@ -1,0 +1,9 @@
+	"MONDO.0008852"	"MONDO.0012456"	"MONDO.0013293"
+"Seizures"	1.0	1.0	1.0
+"Hearing impairment"	0.0	1.0	1.0
+"Synophrys"	0.0	1.0	1.0
+"Autism"	1.0	1.0	1.0
+"Delayed speech and language development"	1.0	1.0	1.0
+"Sleep disturbance"	0.0	1.0	1.0
+"HP:0003745"	1.0	1.0	1.0
+"Stereotypy"	1.0	1.0	1.0

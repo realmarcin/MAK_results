@@ -1,0 +1,10 @@
+	"MONDO.0007060"	"MONDO.0010577"	"MONDO.0012855"	"MONDO.0013848"
+"Cleft palate"	1.0	0.0	1.0	1.0
+"Micrognathia"	1.0	0.0	0.0	0.0
+"Abnormal renal morphology"	1.0	0.0	0.0	0.0
+"Renal insufficiency"	1.0	0.0	0.0	0.0
+"Renal hypoplasia/aplasia"	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the radius"	1.0	0.0	0.0	0.0
+"Abnormality of vision"	1.0	0.0	0.0	0.0
+"Abnormality of the ulna"	1.0	0.0	0.0	0.0
+"Abnormality of tibia morphology"	1.0	0.0	0.0	0.0

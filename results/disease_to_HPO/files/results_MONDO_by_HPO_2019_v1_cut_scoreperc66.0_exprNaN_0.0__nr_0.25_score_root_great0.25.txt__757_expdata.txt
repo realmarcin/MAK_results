@@ -1,0 +1,6 @@
+	"MONDO.0007172"	"MONDO.0009145"	"MONDO.0011004"	"MONDO.0011485"	"MONDO.0012678"	"MONDO.0014330"
+"Premature atrial contractions"	1.0	0.0	1.0	0.0	1.0	0.0
+"Atrial standstill"	1.0	1.0	1.0	1.0	0.0	1.0
+"Atrial cardiomyopathy"	1.0	0.0	0.0	0.0	0.0	1.0
+"Ebstein's anomaly of the tricuspid valve"	0.0	1.0	0.0	0.0	0.0	0.0
+"Imperforate tricuspid valve"	0.0	1.0	0.0	0.0	0.0	0.0

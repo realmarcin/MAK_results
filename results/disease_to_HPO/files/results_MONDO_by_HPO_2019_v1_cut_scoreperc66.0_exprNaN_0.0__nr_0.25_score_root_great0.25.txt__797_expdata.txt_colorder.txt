@@ -1,0 +1,8 @@
+"x"
+"1" "Reduced factor VIII activity"
+"2" "HP:0000007"
+"3" "Abnormal bleeding"
+"4" "Reduced factor V activity"
+"5" "Reduced factor IX activity"
+"6" "Intracranial hemorrhage"
+"7" "Spontaneous hematomas"

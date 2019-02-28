@@ -1,0 +1,4 @@
+"x"
+"1" "Decreased nerve conduction velocity"
+"2" "Loss of facial adipose tissue"
+"3" "Increased cellular sensitivity to UV light"

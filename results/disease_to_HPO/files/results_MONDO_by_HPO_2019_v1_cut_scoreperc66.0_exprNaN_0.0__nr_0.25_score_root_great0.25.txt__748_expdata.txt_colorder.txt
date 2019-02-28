@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Neonatal death"
+"3" "Rhabdomyolysis"
+"4" "Coma"
+"5" "Hepatomegaly"
+"6" "Preeclampsia"
+"7" "Eclampsia"

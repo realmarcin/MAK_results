@@ -1,0 +1,5 @@
+	"MONDO.0010295"	"MONDO.0010369"	"MONDO.0013608"	"MONDO.0013879"	"MONDO.0013880"	"MONDO.0014708"
+"Recurrent mycobacterium avium complex infections"	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormal natural killer morphology"	0.0	0.0	1.0	0.0	0.0	0.0
+"Monocytopenia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Myeloid leukemia"	0.0	0.0	1.0	1.0	1.0	1.0

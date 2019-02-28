@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Cardiac arrest"
+"3" "Atrial fibrillation"
+"4" "Left ventricular hypertrophy"
+"5" "Aortic regurgitation"
+"6" "Sinus bradycardia"
+"7" "Left ventricular noncompaction"

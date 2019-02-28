@@ -1,0 +1,7 @@
+	"MONDO.0011095"	"MONDO.0011096"	"MONDO.0012747"	"MONDO.0013262"	"MONDO.0013849"	"MONDO.0014101"
+"HP:0000006"	1.0	1.0	0.0	1.0	0.0	1.0
+"Left ventricular hypertrophy"	1.0	1.0	0.0	1.0	0.0	1.0
+"Congestive heart failure"	1.0	1.0	1.0	1.0	1.0	1.0
+"Dilated cardiomyopathy"	1.0	1.0	1.0	1.0	1.0	1.0
+"Porencephalic cyst"	0.0	0.0	0.0	0.0	0.0	0.0
+"Left ventricular noncompaction"	1.0	1.0	0.0	1.0	0.0	0.0

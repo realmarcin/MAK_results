@@ -1,0 +1,5 @@
+"x"
+"1" "Narrow maxilla"
+"2" "Glabellar reflex"
+"3" "HP:0012662"
+"4" "Abnormality of jaw muscles"

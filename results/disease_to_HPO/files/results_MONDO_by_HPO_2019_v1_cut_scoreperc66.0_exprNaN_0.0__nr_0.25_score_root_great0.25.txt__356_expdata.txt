@@ -1,0 +1,4 @@
+	"MONDO.0007414"	"MONDO.0020684"	"MONDO.0009209"
+"Prominent scrotal raphe"	1.0	0.0	1.0
+"Preauricular skin furrow"	1.0	0.0	0.0
+"Palmoplantar cutis gyrata"	1.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Short stature"
+"2" "HP:0000007"
+"3" "Intellectual disability, mild"
+"4" "HP:0003621"
+"5" "Proptosis"
+"6" "Short distal phalanx of finger"
+"7" "Abnormality of the foot"

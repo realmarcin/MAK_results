@@ -1,0 +1,9 @@
+	"MONDO.0007668"	"MONDO.0008898"	"MONDO.0011984"	"MONDO.0012055"	"MONDO.0012332"
+"HP:0000007"	0.0	1.0	0.0	0.0	1.0
+"HP:0003621"	0.0	1.0	0.0	0.0	1.0
+"Short 4th metacarpal"	0.0	0.0	0.0	0.0	1.0
+"Enlarged joints"	0.0	0.0	0.0	0.0	1.0
+"Synovitis"	0.0	0.0	0.0	0.0	1.0
+"Osteolysis of scaphoids"	0.0	0.0	0.0	0.0	1.0
+"Osteolysis of patellae"	0.0	0.0	0.0	0.0	1.0
+"Osteolysis of talus"	0.0	0.0	0.0	0.0	1.0

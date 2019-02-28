@@ -1,0 +1,20 @@
+	"MONDO.0010904"	"MONDO.0011945"	"MONDO.0012592"	"MONDO.0013298"
+"Low-set ears"	0.0	1.0	0.0	0.0
+"Narrow nose"	0.0	1.0	0.0	0.0
+"Autoimmune thrombocytopenia"	0.0	1.0	0.0	0.0
+"Pneumonia"	0.0	1.0	0.0	0.0
+"Hypothyroidism"	0.0	1.0	0.0	0.0
+"Restrictive ventilatory defect"	0.0	1.0	0.0	0.0
+"Vitiligo"	0.0	1.0	0.0	0.0
+"Purpura"	0.0	1.0	0.0	0.0
+"Tubulointerstitial fibrosis"	0.0	1.0	0.0	0.0
+"Spondylometaphyseal dysplasia"	0.0	1.0	0.0	0.0
+"Progressive spastic quadriplegia"	0.0	1.0	0.0	0.0
+"Spastic diplegia"	0.0	1.0	0.0	0.0
+"Lymphadenopathy"	0.0	1.0	0.0	0.0
+"Combined immunodeficiency"	0.0	1.0	0.0	0.0
+"Decrease in T cell count"	0.0	1.0	0.0	0.0
+"Recurrent sinusitis"	0.0	1.0	0.0	0.0
+"Juvenile rheumatoid arthritis"	0.0	1.0	0.0	0.0
+"Immune dysregulation"	0.0	1.0	0.0	0.0
+"Hypopigmented skin patches on arms"	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0007835"	"MONDO.0009416"	"MONDO.0011154"	"MONDO.0011239"	"MONDO.0011258"	"MONDO.0012382"	"MONDO.0014464"
+"Neonatal hypoglycemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyperinsulinemic hypoglycemia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Recurrent hypoglycemia"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Hypoglycemic seizures"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Hypoglycemic coma"	0.0	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormal C-peptide level"	0.0	0.0	0.0	1.0	0.0	1.0	0.0

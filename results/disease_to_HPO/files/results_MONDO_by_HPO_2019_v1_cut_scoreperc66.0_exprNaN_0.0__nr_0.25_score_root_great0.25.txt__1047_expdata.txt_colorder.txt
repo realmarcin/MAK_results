@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormality of the orbital region"
+"2" "Abnormal cerebral artery morphology"
+"3" "Anomalous branches of internal carotid artery"
+"4" "Plaque-like facial hemangioma"
+"5" "Increased retinal vascularity"
+"6" "Lingual thyroid"

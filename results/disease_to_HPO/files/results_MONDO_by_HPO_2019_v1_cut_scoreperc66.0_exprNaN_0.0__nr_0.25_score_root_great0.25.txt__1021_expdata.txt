@@ -1,0 +1,8 @@
+	"MONDO.0007653"	"MONDO.0008761"	"MONDO.0009493"	"MONDO.0009835"	"MONDO.0012701"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Hemolytic anemia"	0.0	0.0	0.0	0.0	1.0
+"Rickets"	0.0	0.0	0.0	0.0	1.0
+"Anorexia"	0.0	0.0	0.0	0.0	1.0
+"Reticulocytosis"	0.0	0.0	0.0	0.0	1.0
+"Decreased mean corpuscular volume"	0.0	0.0	0.0	0.0	1.0
+"Isothenuria"	0.0	0.0	0.0	0.0	1.0

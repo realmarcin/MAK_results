@@ -1,0 +1,7 @@
+	"MONDO.0008712"	"MONDO.0008719"	"MONDO.0009201"	"MONDO.0012468"	"MONDO.0013314"	"MONDO.0014255"
+"Radial deviation of finger"	1.0	0.0	0.0	1.0	0.0	0.0
+"Clinodactyly"	1.0	0.0	0.0	1.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Feeding difficulties in infancy"	0.0	1.0	0.0	1.0	0.0	0.0
+"2-3 toe syndactyly"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hyperhidrosis"	0.0	0.0	0.0	1.0	1.0	0.0

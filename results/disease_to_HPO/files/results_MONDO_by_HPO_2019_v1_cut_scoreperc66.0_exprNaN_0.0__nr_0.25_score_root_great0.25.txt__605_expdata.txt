@@ -1,0 +1,7 @@
+	"MONDO.0054550"	"MONDO.0012515"	"MONDO.0012906"	"MONDO.0013725"	"MONDO.0014507"
+"CNS hypomyelination"	0.0	0.0	0.0	0.0	0.0
+"Cerebral hypomyelination"	1.0	1.0	1.0	1.0	1.0
+"Intention tremor"	1.0	1.0	0.0	1.0	1.0
+"Leukoencephalopathy"	0.0	0.0	0.0	0.0	0.0
+"Leukodystrophy"	1.0	1.0	1.0	1.0	1.0
+"Dyskinesia"	0.0	0.0	0.0	0.0	0.0

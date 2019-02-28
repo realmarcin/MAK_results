@@ -1,0 +1,4 @@
+	"MONDO.0006292"	"MONDO.0008522"	"MONDO.0008527"	"MONDO.0008994"
+"Cleft soft palate"	0.0	0.0	0.0	1.0
+"Progressive fusion 2nd-5th pip joints"	0.0	1.0	0.0	0.0
+"Abnormality of the ankles"	1.0	1.0	1.0	1.0

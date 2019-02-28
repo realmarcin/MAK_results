@@ -1,0 +1,5 @@
+"x"
+"1" "Pyloric stenosis"
+"2" "Atrial septal defect"
+"3" "Pulmonic stenosis"
+"4" "Full cheeks"

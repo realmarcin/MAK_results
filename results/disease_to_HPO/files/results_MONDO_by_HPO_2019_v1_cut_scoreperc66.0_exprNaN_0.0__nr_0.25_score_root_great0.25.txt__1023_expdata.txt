@@ -1,0 +1,6 @@
+	"MONDO.0007875"	"MONDO.0007881"	"MONDO.0008183"	"MONDO.0008394"	"MONDO.0016581"	"MONDO.0009656"	"MONDO.0009657"	"MONDO.0009658"	"MONDO.0009659"	"MONDO.0009661"	"MONDO.0009888"	"MONDO.0013559"	"MONDO.0013993"	"MONDO.0014772"
+"Syndactyly"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Deeply set eye"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Joint hypermobility"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Avascular necrosis of the capital femoral epiphysis"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Recurrent upper respiratory tract infections"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

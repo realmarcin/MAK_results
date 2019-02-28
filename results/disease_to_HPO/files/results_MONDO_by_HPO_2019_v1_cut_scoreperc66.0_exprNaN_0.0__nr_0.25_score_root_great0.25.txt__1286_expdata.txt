@@ -1,0 +1,17 @@
+	"MONDO.0008800"	"MONDO.0010219"	"MONDO.0014240"	"MONDO.0060490"
+"Esophageal atresia"	1.0	0.0	0.0	0.0
+"Hemivertebrae"	1.0	0.0	0.0	0.0
+"11 pairs of ribs"	1.0	0.0	0.0	0.0
+"Visual loss"	1.0	0.0	0.0	0.0
+"Vertebral fusion"	1.0	0.0	0.0	0.0
+"Supernumerary ribs"	1.0	0.0	0.0	0.0
+"Hypogonadotrophic hypogonadism"	1.0	0.0	0.0	0.0
+"HP:0008897"	1.0	0.0	0.0	0.0
+"Missing ribs"	1.0	0.0	0.0	0.0
+"Butterfly vertebrae"	1.0	0.0	0.0	0.0
+"Rib fusion"	1.0	0.0	0.0	0.0
+"Tracheoesophageal fistula"	1.0	0.0	0.0	0.0
+"Hypothalamic hamartoma"	1.0	0.0	0.0	0.0
+"Vertebral hypoplasia"	1.0	0.0	0.0	0.0
+"Spastic tetraplegia"	1.0	0.0	0.0	0.0
+"Hypoplasia of penis"	1.0	0.0	0.0	0.0

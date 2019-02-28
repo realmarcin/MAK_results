@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0009406"	"MONDO.0011984"	"MONDO.0012055"
+"Anterior cervical hypertrichosis"	0.0	1.0	0.0	0.0
+"Sensory neuropathy"	0.0	1.0	0.0	0.0
+"Dandy-Walker malformation"	0.0	1.0	0.0	0.0
+"Motor polyneuropathy"	0.0	1.0	0.0	0.0
+"Skin ulcer"	0.0	1.0	0.0	0.0
+"EMG abnormality"	0.0	1.0	0.0	0.0
+"Osteomyelitis"	0.0	1.0	0.0	0.0
+"Generalized hirsutism"	0.0	1.0	0.0	0.0
+"Periostitis"	0.0	1.0	0.0	0.0

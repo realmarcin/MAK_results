@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Hyperhidrosis"
+"3" "Erythema"
+"4" "HP:0011463"
+"5" "Pustule"

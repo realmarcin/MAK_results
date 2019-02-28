@@ -1,0 +1,7 @@
+	"MONDO.0008895"	"MONDO.0010040"	"MONDO.0010980"	"MONDO.0011244"	"MONDO.0014882"
+"HP:0000007"	1.0	1.0	0.0	1.0	1.0
+"Patent ductus arteriosus"	0.0	0.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	0.0	1.0	0.0	1.0
+"Ventricular septal defect"	0.0	1.0	1.0	1.0	1.0
+"Patent foramen ovale"	0.0	0.0	1.0	0.0	1.0

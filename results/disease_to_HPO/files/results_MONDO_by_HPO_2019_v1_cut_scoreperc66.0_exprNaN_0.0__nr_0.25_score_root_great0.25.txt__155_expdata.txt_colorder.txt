@@ -1,0 +1,4 @@
+"x"
+"1" "Intellectual disability"
+"2" "Choreoathetosis"
+"3" "Fine hair"

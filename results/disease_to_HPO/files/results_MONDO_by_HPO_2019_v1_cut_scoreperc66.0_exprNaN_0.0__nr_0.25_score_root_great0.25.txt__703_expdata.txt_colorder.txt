@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Protruding tongue"
+"3" "Dementia"
+"4" "Gait disturbance"
+"5" "Abnormality of the foot"
+"6" "Parkinsonism"
+"7" "Macroglossia"

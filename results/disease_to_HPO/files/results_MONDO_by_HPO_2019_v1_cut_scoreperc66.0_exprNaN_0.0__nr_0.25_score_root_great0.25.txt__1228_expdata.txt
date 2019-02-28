@@ -1,0 +1,14 @@
+	"MONDO.0007668"	"MONDO.0008898"	"MONDO.0011984"	"MONDO.0012055"
+"Abnormality of the skin"	0.0	1.0	0.0	0.0
+"Hyperphosphatemia"	0.0	1.0	0.0	0.0
+"Nephrocalcinosis"	0.0	1.0	0.0	0.0
+"Taurodontia"	0.0	1.0	0.0	0.0
+"Pulp stones"	0.0	1.0	0.0	0.0
+"Hyperostosis"	0.0	1.0	0.0	0.0
+"Angioid streaks of the retina"	0.0	1.0	0.0	0.0
+"Calcinosis"	0.0	1.0	0.0	0.0
+"Vascular calcification"	0.0	1.0	0.0	0.0
+"Increased renal tubular phosphate reabsorption"	0.0	1.0	0.0	0.0
+"Decreased renal tubular phosphate excretion"	0.0	1.0	0.0	0.0
+"Conjunctival whitish salt-like deposits"	0.0	1.0	0.0	0.0
+"HP:0031485"	0.0	1.0	0.0	0.0

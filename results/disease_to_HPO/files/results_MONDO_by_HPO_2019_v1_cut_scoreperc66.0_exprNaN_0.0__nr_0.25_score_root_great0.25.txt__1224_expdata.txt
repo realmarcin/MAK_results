@@ -1,0 +1,7 @@
+	"MONDO.0008215"	"MONDO.0009507"	"MONDO.0010682"	"MONDO.0012928"	"MONDO.0013276"	"MONDO.0044321"
+"4-5 finger syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0
+"Hyposegmentation of neutrophil nuclei"	1.0	1.0	1.0	1.0	0.0	0.0
+"Impaired neutrophil bactericidal activity"	0.0	1.0	0.0	0.0	1.0	0.0
+"Absent neutrophil specific granules"	0.0	1.0	0.0	0.0	0.0	1.0
+"2-4 toe cutaneous syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the iris"	0.0	0.0	0.0	1.0	0.0	0.0

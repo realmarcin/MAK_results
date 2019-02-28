@@ -1,0 +1,7 @@
+	"MONDO.0009516"	"MONDO.0011208"	"MONDO.0011376"	"MONDO.0011602"	"MONDO.0013534"
+"Hypertriglyceridemia"	1.0	0.0	1.0	1.0	1.0
+"Hypercholesterolemia"	0.0	1.0	1.0	1.0	0.0
+"Intrahepatic cholestasis"	0.0	0.0	0.0	1.0	0.0
+"Hyperbilirubinemia"	0.0	0.0	0.0	1.0	0.0
+"Hypermethioninemia"	0.0	0.0	0.0	1.0	0.0
+"Elevated plasma citrulline"	0.0	0.0	0.0	1.0	0.0

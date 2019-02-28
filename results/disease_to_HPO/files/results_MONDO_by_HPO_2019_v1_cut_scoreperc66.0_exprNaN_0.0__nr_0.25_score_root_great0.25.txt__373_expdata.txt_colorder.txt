@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Aganglionic megacolon"
+"3" "Ventricular septal defect"
+"4" "Preaxial foot polydactyly"
+"5" "Polysyndactyly of hallux"

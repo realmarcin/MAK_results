@@ -1,0 +1,6 @@
+	"MONDO.0008302"	"MONDO.0011188"	"MONDO.0011192"	"MONDO.0012017"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Postaxial hand polydactyly"	1.0	1.0	0.0	0.0
+"Short 2nd toe"	1.0	0.0	0.0	0.0
+"Glandular hypospadias"	1.0	0.0	0.0	0.0
+"Capillary hemangiomas"	0.0	0.0	1.0	1.0

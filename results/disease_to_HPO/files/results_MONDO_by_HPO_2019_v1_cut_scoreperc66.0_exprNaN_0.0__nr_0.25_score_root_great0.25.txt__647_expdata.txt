@@ -1,0 +1,7 @@
+	"MONDO.0008293"	"MONDO.0008294"	"MONDO.0012875"	"MONDO.0013869"	"MONDO.0014480"	"MONDO.0014714"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
+"Papule"	0.0	0.0	0.0	0.0	1.0	0.0
+"Nail dystrophy"	0.0	1.0	0.0	0.0	0.0	0.0
+"Parakeratosis"	0.0	1.0	0.0	1.0	0.0	0.0
+"Porokeratosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Spinous keratoses of palms and soles"	1.0	0.0	0.0	0.0	0.0	0.0

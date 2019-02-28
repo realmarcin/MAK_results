@@ -1,0 +1,8 @@
+	"MONDO.0009499"	"MONDO.0009751"	"MONDO.0011789"	"MONDO.0014296"	"MONDO.0014305"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Talipes equinovarus"	1.0	1.0	0.0	0.0	0.0
+"Anterior rib cupping"	1.0	0.0	0.0	0.0	0.0
+"Spastic paraplegia"	0.0	1.0	0.0	1.0	1.0
+"Dumbbell-shaped long bone"	1.0	0.0	0.0	0.0	0.0
+"Severe short-limb dwarfism"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the Achilles tendon"	0.0	1.0	1.0	1.0	1.0

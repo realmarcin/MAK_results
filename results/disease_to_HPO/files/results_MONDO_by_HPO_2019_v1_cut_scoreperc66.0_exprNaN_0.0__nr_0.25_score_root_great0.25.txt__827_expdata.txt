@@ -1,0 +1,7 @@
+	"MONDO.0007042"	"MONDO.0007302"	"MONDO.0011758"	"MONDO.0013376"
+"Anomalous tracheal cartilage"	1.0	1.0	0.0	0.0
+"Acrobrachycephaly"	1.0	0.0	0.0	0.0
+"Cervical C5/C6 vertebrae fusion"	1.0	0.0	0.0	1.0
+"Abnormal morphology of the limbic system"	1.0	0.0	0.0	0.0
+"Broad distal hallux"	1.0	0.0	1.0	0.0
+"Morphological abnormality of the semicircular canal"	1.0	0.0	0.0	0.0

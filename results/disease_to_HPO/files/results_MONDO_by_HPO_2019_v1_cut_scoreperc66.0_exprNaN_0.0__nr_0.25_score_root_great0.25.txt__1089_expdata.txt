@@ -1,0 +1,9 @@
+	"MONDO.0007719"	"MONDO.0008583"	"MONDO.0008875"	"MONDO.0008916"	"MONDO.0010021"	"MONDO.0010767"
+"Acanthosis nigricans"	0.0	0.0	0.0	0.0	1.0	0.0
+"Intellectual disability, mild"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypertriglyceridemia"	0.0	0.0	0.0	0.0	1.0	0.0
+"High pitched voice"	0.0	0.0	0.0	0.0	1.0	0.0
+"Decreased fertility"	0.0	0.0	0.0	0.0	1.0	0.0
+"Polycystic ovaries"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperinsulinemia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Hepatic steatosis"	0.0	0.0	0.0	0.0	1.0	0.0

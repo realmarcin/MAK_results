@@ -1,0 +1,6 @@
+"x"
+"1" "Pili canaliculi"
+"2" "Uncombable hair"
+"3" "Progressive alopecia"
+"4" "Decreased number of sweat glands"
+"5" "Abnormal palmar dermal ridges"

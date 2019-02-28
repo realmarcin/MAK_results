@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertension"
+"2" "Proteinuria"
+"3" "HP:0000006"
+"4" "Renal insufficiency"
+"5" "Focal segmental glomerulosclerosis"
+"6" "Hematuria"

@@ -1,0 +1,7 @@
+	"MONDO.0008923"	"MONDO.0009503"	"MONDO.0009642"	"MONDO.0009654"	"MONDO.0014776"	"MONDO.0014977"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Seizures"	0.0	0.0	1.0	0.0	0.0	1.0
+"Generalized hypotonia"	1.0	0.0	0.0	1.0	1.0	1.0
+"HP:0003593"	1.0	1.0	1.0	1.0	1.0	1.0
+"Increased serum lactate"	1.0	0.0	1.0	0.0	1.0	1.0
+"Left ventricular noncompaction"	0.0	0.0	1.0	0.0	0.0	1.0

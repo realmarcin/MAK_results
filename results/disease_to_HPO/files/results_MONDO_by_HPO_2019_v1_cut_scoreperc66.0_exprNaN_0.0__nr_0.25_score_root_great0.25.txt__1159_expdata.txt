@@ -1,0 +1,9 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0010999"	"MONDO.0013397"	"MONDO.0014166"	"MONDO.0014236"
+"Patent ductus arteriosus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Nephrocalcinosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"EEG abnormality"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypoplasia of the ulna"	0.0	0.0	0.0	0.0	1.0	0.0
+"Restrictive cardiomyopathy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypercalciuria"	0.0	0.0	0.0	0.0	1.0	0.0
+"Ureteral stenosis"	0.0	0.0	0.0	0.0	1.0	0.0

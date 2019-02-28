@@ -1,0 +1,9 @@
+	"MONDO.0009273"	"MONDO.0009426"	"MONDO.0042486"	"MONDO.0014592"
+"Aglossia"	0.0	1.0	0.0	0.0
+"Optic nerve coloboma"	0.0	1.0	0.0	0.0
+"Tracheal stenosis"	0.0	1.0	0.0	0.0
+"Laryngeal hypoplasia"	0.0	1.0	0.0	0.0
+"Abnormality of female internal genitalia"	0.0	1.0	0.0	0.0
+"Pursed lips"	0.0	1.0	0.0	0.0
+"Maxillozygomatic hypoplasia"	0.0	1.0	0.0	0.0
+"HP:0010295"	0.0	1.0	0.0	0.0

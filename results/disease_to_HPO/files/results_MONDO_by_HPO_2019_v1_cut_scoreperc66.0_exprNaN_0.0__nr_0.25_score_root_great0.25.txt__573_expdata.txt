@@ -1,0 +1,9 @@
+	"MONDO.0007059"	"MONDO.0007217"	"MONDO.0008520"	"MONDO.0009732"	"MONDO.0011623"
+"Abnormality of the thorax"	1.0	0.0	0.0	0.0	1.0
+"Pectus excavatum"	1.0	0.0	1.0	0.0	1.0
+"HP:0000006"	1.0	1.0	1.0	0.0	1.0
+"Finger syndactyly"	1.0	0.0	0.0	0.0	1.0
+"Abnormal vertebral morphology"	1.0	0.0	1.0	0.0	0.0
+"Radial deviation of the 2nd finger"	1.0	1.0	0.0	0.0	0.0
+"Triphalangeal thumb"	1.0	0.0	0.0	0.0	1.0
+"Tarsal synostosis"	1.0	0.0	1.0	0.0	0.0

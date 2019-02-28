@@ -1,0 +1,20 @@
+	"MONDO.0007922"	"MONDO.0008758"	"MONDO.0009873"	"MONDO.0010868"
+"Pulmonary arterial hypertension"	1.0	0.0	0.0	0.0
+"Sinusitis"	1.0	0.0	0.0	0.0
+"Nephropathy"	1.0	0.0	0.0	0.0
+"Recurrent respiratory infections"	1.0	0.0	0.0	0.0
+"Dyspnea"	1.0	0.0	0.0	0.0
+"Immunodeficiency"	1.0	0.0	0.0	0.0
+"Abnormality of the musculature"	1.0	0.0	0.0	0.0
+"Pleuritis"	1.0	0.0	0.0	0.0
+"Renal neoplasm"	1.0	0.0	0.0	0.0
+"Sarcoma"	1.0	0.0	0.0	0.0
+"Slow-growing nails"	1.0	0.0	0.0	0.0
+"Cough"	1.0	0.0	0.0	0.0
+"Neoplasm of the lung"	1.0	0.0	0.0	0.0
+"Bronchiectasis"	1.0	0.0	0.0	0.0
+"Toenail dysplasia"	1.0	0.0	0.0	0.0
+"Rhinitis"	1.0	0.0	0.0	0.0
+"Fingernail dysplasia"	1.0	0.0	0.0	0.0
+"Generalized abnormality of skin"	1.0	0.0	0.0	0.0
+"Biliary tract neoplasm"	1.0	0.0	0.0	0.0

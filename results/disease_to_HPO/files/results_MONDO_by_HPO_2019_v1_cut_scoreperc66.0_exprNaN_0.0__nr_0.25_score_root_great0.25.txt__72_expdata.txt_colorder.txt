@@ -1,0 +1,8 @@
+"x"
+"1" "Cataract"
+"2" "Glaucoma"
+"3" "Scoliosis"
+"4" "Blindness"
+"5" "Ectopia lentis"
+"6" "Shallow anterior chamber"
+"7" "Abnormality of the retinal vasculature"

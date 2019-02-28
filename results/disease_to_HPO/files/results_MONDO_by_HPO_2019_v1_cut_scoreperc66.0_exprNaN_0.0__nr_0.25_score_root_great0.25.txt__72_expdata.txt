@@ -1,0 +1,8 @@
+	"MONDO.0008524"	"MONDO.0010196"	"MONDO.0010693"	"MONDO.0012014"
+"Scoliosis"	0.0	1.0	1.0	1.0
+"Cataract"	1.0	1.0	1.0	1.0
+"Glaucoma"	1.0	1.0	1.0	1.0
+"Blindness"	0.0	1.0	1.0	1.0
+"Ectopia lentis"	0.0	1.0	1.0	1.0
+"Shallow anterior chamber"	0.0	1.0	1.0	1.0
+"Abnormality of the retinal vasculature"	1.0	0.0	1.0	0.0

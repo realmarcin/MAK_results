@@ -1,0 +1,6 @@
+"x"
+"1" "Aplasia/hypoplasia of the extremities"
+"2" "Childhood onset short-limb short stature"
+"3" "Mild intrauterine growth retardation"
+"4" "Elevated 8-dehydrocholesterol"
+"5" "Elevated 8(9)-cholestenol"

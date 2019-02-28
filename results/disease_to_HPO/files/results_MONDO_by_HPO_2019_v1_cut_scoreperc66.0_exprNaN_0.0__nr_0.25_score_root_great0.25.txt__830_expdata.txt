@@ -1,0 +1,11 @@
+	"MONDO.0009563"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0014211"
+"Seizures"	1.0	0.0	1.0	1.0
+"Aggressive behavior"	1.0	0.0	1.0	1.0
+"Hyperactivity"	1.0	0.0	0.0	1.0
+"Recurrent respiratory infections"	1.0	0.0	0.0	0.0
+"Recurrent infections"	1.0	0.0	0.0	0.0
+"Angiokeratoma"	1.0	0.0	0.0	0.0
+"Tortuosity of conjunctival vessels"	1.0	0.0	0.0	0.0
+"Demyelinating peripheral neuropathy"	1.0	0.0	0.0	0.0
+"Increased urinary disaccharide excretion"	1.0	0.0	0.0	0.0
+"Hypoplasia of the abdominal wall musculature"	1.0	0.0	0.0	0.0

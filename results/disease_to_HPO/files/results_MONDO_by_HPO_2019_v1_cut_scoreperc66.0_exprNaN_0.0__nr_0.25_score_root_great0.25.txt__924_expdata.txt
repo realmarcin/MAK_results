@@ -1,0 +1,9 @@
+	"MONDO.0009337"	"MONDO.0019200"	"MONDO.0011116"	"MONDO.0011133"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Ridged nail"	0.0	0.0	0.0	1.0
+"Nail pits"	0.0	0.0	0.0	1.0
+"Congenital alopecia totalis"	0.0	0.0	0.0	1.0
+"Nail dystrophy"	0.0	0.0	0.0	1.0
+"Reduced circulating T-helper cells"	0.0	0.0	0.0	1.0
+"Severe T-cell immunodeficiency"	0.0	0.0	0.0	1.0
+"Decrease in T cell count"	0.0	0.0	0.0	1.0

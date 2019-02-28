@@ -1,0 +1,4 @@
+"x"
+"1" "Joint dislocation"
+"2" "Multiple joint dislocation"
+"3" "Abnormal cartilage matrix"

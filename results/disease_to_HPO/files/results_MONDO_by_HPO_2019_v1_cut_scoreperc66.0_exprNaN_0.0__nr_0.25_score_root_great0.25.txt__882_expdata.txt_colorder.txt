@@ -1,0 +1,6 @@
+"x"
+"1" "Sparse lower eyelashes"
+"2" "Projection of scalp hair onto lateral cheek"
+"3" "Hypoplasia of the pharynx"
+"4" "Abnormality of parotid gland"
+"5" "Anteroposteriorly shortened larynx"

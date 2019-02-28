@@ -1,0 +1,5 @@
+"x"
+"1" "Hypoplastic ilia"
+"2" "Broad forehead"
+"3" "HP:0100490"
+"4" "Delayed closure of the anterior fontanelle"

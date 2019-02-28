@@ -1,0 +1,6 @@
+	"MONDO.0007509"	"MONDO.0008622"	"MONDO.0008623"	"MONDO.0013819"	"MONDO.0014990"	"MONDO.0014991"
+"Pili canaliculi"	1.0	1.0	1.0	1.0	1.0	1.0
+"Progressive alopecia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Decreased number of sweat glands"	1.0	0.0	0.0	0.0	0.0	0.0
+"Uncombable hair"	0.0	1.0	1.0	1.0	1.0	1.0
+"Abnormal palmar dermal ridges"	0.0	0.0	0.0	0.0	0.0	0.0

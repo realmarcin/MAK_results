@@ -1,0 +1,9 @@
+	"MONDO.0043003"	"MONDO.0010466"	"MONDO.0012270"	"MONDO.0012345"	"MONDO.0013797"	"MONDO.0060555"
+"Cleft palate"	1.0	1.0	0.0	0.0	1.0	1.0
+"Esotropia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Cutis marmorata"	1.0	0.0	0.0	1.0	0.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	0.0	1.0
+"Atrial septal defect"	1.0	1.0	0.0	1.0	1.0	1.0
+"Pulmonic stenosis"	1.0	1.0	0.0	0.0	0.0	0.0
+"Aortic valve stenosis"	1.0	0.0	0.0	1.0	0.0	1.0
+"Cortical dysplasia"	1.0	0.0	0.0	0.0	1.0	0.0

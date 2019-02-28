@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Abnormality of the skeletal system"
+"3" "HP:0009556"
+"4" "Hearing impairment"
+"5" "Chondrosarcoma"

@@ -1,0 +1,10 @@
+	"MONDO.0008400"	"MONDO.0016675"	"MONDO.0009742"	"MONDO.0011464"	"MONDO.0014406"
+"Blurred vision"	1.0	0.0	0.0	0.0	0.0
+"Fever"	1.0	1.0	1.0	1.0	1.0
+"Increased antibody level in blood"	1.0	0.0	0.0	1.0	1.0
+"Optic neuropathy"	1.0	0.0	0.0	0.0	0.0
+"Increased lacrimation"	1.0	0.0	0.0	0.0	0.0
+"Enlarged lacrimal glands"	1.0	0.0	0.0	0.0	0.0
+"Generalized lymphadenopathy"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of T cell physiology"	1.0	0.0	0.0	0.0	0.0
+"Bone cyst"	1.0	0.0	0.0	0.0	0.0

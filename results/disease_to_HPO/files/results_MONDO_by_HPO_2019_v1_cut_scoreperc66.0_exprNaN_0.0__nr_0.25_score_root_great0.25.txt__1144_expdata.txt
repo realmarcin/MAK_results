@@ -1,0 +1,11 @@
+	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013925"	"MONDO.0013298"
+"Long philtrum"	0.0	0.0	1.0	0.0
+"Arachnodactyly"	0.0	0.0	1.0	0.0
+"Dislocated radial head"	0.0	0.0	1.0	0.0
+"Wormian bones"	0.0	1.0	1.0	0.0
+"Protruding ear"	0.0	0.0	1.0	0.0
+"Increased bone mineral density"	0.0	0.0	1.0	0.0
+"Decreased body weight"	0.0	0.0	1.0	0.0
+"Thin vermilion border"	0.0	0.0	1.0	0.0
+"Delayed gross motor development"	0.0	0.0	1.0	0.0
+"Long palpebral fissure"	0.0	0.0	1.0	0.0

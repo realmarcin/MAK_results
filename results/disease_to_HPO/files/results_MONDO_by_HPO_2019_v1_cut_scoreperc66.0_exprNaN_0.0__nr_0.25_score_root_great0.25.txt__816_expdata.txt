@@ -1,0 +1,10 @@
+	"MONDO.0011421"	"MONDO.0013359"	"MONDO.0014109"	"MONDO.0014421"	"MONDO.0014617"
+"HP:0000007"	0.0	1.0	1.0	0.0	1.0
+"Microcephaly"	0.0	1.0	1.0	0.0	0.0
+"Low-set ears"	0.0	1.0	1.0	0.0	0.0
+"Short stature"	1.0	1.0	1.0	0.0	1.0
+"Retrognathia"	0.0	1.0	0.0	0.0	0.0
+"Cognitive impairment"	0.0	1.0	0.0	0.0	1.0
+"11 pairs of ribs"	0.0	1.0	0.0	0.0	0.0
+"Underdeveloped nasal alae"	0.0	1.0	0.0	0.0	0.0
+"Steep acetabular roof"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+	"MONDO.0009344"	"MONDO.0009345"	"MONDO.0010030"	"MONDO.0010834"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Ventricular septal defect"	1.0	0.0	1.0	0.0
+"Preaxial foot polydactyly"	1.0	0.0	0.0	0.0
+"Aganglionic megacolon"	1.0	1.0	0.0	1.0
+"Polysyndactyly of hallux"	1.0	0.0	0.0	0.0

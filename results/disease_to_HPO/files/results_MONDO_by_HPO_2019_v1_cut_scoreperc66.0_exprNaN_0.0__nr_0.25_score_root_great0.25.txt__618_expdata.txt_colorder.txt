@@ -1,0 +1,5 @@
+"x"
+"1" "Ptosis"
+"2" "Easy fatigability"
+"3" "Hashimoto thyroiditis"
+"4" "Thymoma"

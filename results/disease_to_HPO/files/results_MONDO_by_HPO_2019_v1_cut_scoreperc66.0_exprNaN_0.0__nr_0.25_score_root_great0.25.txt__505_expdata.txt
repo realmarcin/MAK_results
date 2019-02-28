@@ -1,0 +1,7 @@
+	"MONDO.0007886"	"MONDO.0010165"	"MONDO.0010573"	"MONDO.0012127"
+"Pectus carinatum"	0.0	1.0	1.0	0.0
+"Hip dislocation"	0.0	1.0	1.0	0.0
+"Long face"	0.0	1.0	1.0	0.0
+"Broad ribs"	0.0	1.0	1.0	0.0
+"High, narrow palate"	0.0	1.0	1.0	0.0
+"Broad clavicles"	0.0	1.0	1.0	0.0

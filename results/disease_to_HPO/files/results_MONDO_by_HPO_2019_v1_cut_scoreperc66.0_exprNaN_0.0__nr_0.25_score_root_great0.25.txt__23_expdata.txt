@@ -1,0 +1,6 @@
+	"MONDO.0007863"	"MONDO.0008246"	"MONDO.0008671"	"MONDO.0010193"	"MONDO.0010842"	"MONDO.0012699"	"MONDO.0013202"	"MONDO.0013203"
+"Blue irides"	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+"Premature graying of hair"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+"White forelock"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Heterochromia iridis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypopigmented skin patches"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the large intestine"
+"2" "Esophageal carcinoma"
+"3" "Abnormality of the mediastinum"
+"4" "Diffuse palmoplantar hyperkeratosis"

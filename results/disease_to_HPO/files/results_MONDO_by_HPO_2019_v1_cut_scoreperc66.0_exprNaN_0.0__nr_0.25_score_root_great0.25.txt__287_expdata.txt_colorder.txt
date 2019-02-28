@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Hypertrophic cardiomyopathy"
+"3" "Arrhythmia"
+"4" "Dilated cardiomyopathy"

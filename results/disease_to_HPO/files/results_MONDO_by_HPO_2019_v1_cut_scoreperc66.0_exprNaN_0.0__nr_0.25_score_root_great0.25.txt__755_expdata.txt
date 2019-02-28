@@ -1,0 +1,6 @@
+	"MONDO.0007917"	"MONDO.0008830"	"MONDO.0009934"	"MONDO.0011706"
+"Chylous ascites"	1.0	1.0	1.0	0.0
+"Bronchodysplasia"	0.0	0.0	1.0	0.0
+"Pulmonary lymphangiomyomatosis"	0.0	0.0	0.0	1.0
+"Chylopericardium"	0.0	0.0	1.0	1.0
+"Ungual fibroma"	0.0	0.0	0.0	1.0

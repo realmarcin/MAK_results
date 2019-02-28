@@ -1,0 +1,4 @@
+	"MONDO.0007595"	"MONDO.0008254"	"MONDO.0008560"	"MONDO.0013145"
+"Recurrent thrombophlebitis"	1.0	1.0	1.0	1.0
+"Elevated factor V activity"	1.0	0.0	0.0	0.0
+"Spontaneous platelet aggregation"	0.0	1.0	0.0	0.0

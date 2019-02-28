@@ -1,0 +1,8 @@
+	"MONDO.0008321"	"MONDO.0008432"	"MONDO.0014278"
+"HP:0000006"	1.0	1.0	1.0
+"Hip osteoarthritis"	0.0	1.0	1.0
+"Hip contracture"	1.0	0.0	0.0
+"Hip dysplasia"	0.0	0.0	1.0
+"Coxa valga"	0.0	0.0	1.0
+"Protrusio acetabuli"	1.0	0.0	0.0
+"Hip pain"	1.0	0.0	1.0

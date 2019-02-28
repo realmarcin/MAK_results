@@ -1,0 +1,8 @@
+"x"
+"1" "Metaphyseal cupping"
+"2" "Hypoplastic ischia"
+"3" "Bell-shaped thorax"
+"4" "Protuberant abdomen"
+"5" "Hypoplastic pubic bone"
+"6" "Severe platyspondyly"
+"7" "Iliac crest serration"

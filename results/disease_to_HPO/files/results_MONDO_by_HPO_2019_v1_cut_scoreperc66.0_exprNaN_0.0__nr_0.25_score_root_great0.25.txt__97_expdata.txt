@@ -1,0 +1,4 @@
+	"MONDO.0008253"	"MONDO.0011397"	"MONDO.0013496"	"MONDO.0014219"
+"Lichenification"	1.0	0.0	0.0	0.0
+"Hypergranulosis"	1.0	1.0	1.0	1.0
+"Orthokeratosis"	1.0	1.0	1.0	1.0

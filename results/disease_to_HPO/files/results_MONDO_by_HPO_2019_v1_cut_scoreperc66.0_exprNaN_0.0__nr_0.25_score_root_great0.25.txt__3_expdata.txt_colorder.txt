@@ -1,0 +1,6 @@
+"x"
+"1" "Tremor"
+"2" "Rigidity"
+"3" "Postural instability"
+"4" "Parkinsonism"
+"5" "Bradykinesia"

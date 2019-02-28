@@ -1,0 +1,5 @@
+"x"
+"1" "Absent middle phalanx of 5th finger"
+"2" "Absent middle phalanx of 2nd finger"
+"3" "Thumbs hypoplastic with bulbous tips"
+"4" "Clinodactyly of the 2nd toe"

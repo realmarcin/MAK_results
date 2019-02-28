@@ -1,0 +1,6 @@
+"x"
+"1" "Lactic acidosis"
+"2" "Poor motor coordination"
+"3" "Intermittent hyperpnea at rest"
+"4" "Renal aminoaciduria"
+"5" "Methylmalonic aciduria"

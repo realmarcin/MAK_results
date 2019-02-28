@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Short stature"
+"3" "HP:0001417"
+"4" "Relative macrocephaly"
+"5" "Poor fine motor coordination"
+"6" "Square face"
+"7" "Macroorchidism"

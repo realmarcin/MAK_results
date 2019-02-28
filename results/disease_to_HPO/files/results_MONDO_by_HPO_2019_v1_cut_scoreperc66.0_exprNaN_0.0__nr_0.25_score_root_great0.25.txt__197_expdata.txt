@@ -1,0 +1,9 @@
+	"MONDO.0010336"	"MONDO.0010372"	"MONDO.0010567"	"MONDO.0010579"
+"Nystagmus"	1.0	1.0	1.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	1.0	1.0	0.0
+"Photophobia"	1.0	0.0	1.0	1.0
+"Reduced visual acuity"	1.0	1.0	1.0	1.0
+"Myopia"	1.0	1.0	1.0	1.0
+"Cone/cone-rod dystrophy"	1.0	0.0	1.0	0.0
+"Abnormality of color vision"	1.0	1.0	0.0	0.0
+"Cone dysfunction syndrome"	0.0	0.0	1.0	0.0

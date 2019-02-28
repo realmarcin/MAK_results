@@ -1,0 +1,10 @@
+	"MONDO.0009891"	"MONDO.0010010"	"MONDO.0010826"	"MONDO.0011051"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Micrognathia"	1.0	1.0	1.0	1.0
+"Intrauterine growth retardation"	0.0	1.0	1.0	1.0
+"Blepharophimosis"	0.0	0.0	1.0	1.0
+"Wide intermamillary distance"	0.0	0.0	0.0	1.0
+"Underdeveloped nasal alae"	1.0	1.0	0.0	1.0
+"Unilateral renal agenesis"	0.0	0.0	0.0	1.0
+"Abnormal lung lobation"	1.0	0.0	0.0	1.0

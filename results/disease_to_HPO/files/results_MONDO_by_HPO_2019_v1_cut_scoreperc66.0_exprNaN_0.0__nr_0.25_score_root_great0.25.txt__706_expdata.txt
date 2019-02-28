@@ -1,0 +1,11 @@
+	"MONDO.0007104"	"MONDO.0013343"	"MONDO.0013717"	"MONDO.0014645"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Visual field defect"	0.0	0.0	0.0	1.0
+"EMG: neuropathic changes"	0.0	0.0	0.0	1.0
+"Progressive spastic paraplegia"	0.0	1.0	0.0	1.0
+"Decreased activity of mitochondrial complex II"	0.0	0.0	0.0	1.0
+"Decreased Achilles reflex"	0.0	0.0	0.0	1.0
+"Decreased activity of mitochondrial complex I"	0.0	0.0	0.0	1.0
+"Distal peripheral sensory neuropathy"	0.0	0.0	0.0	1.0
+"Cerebral white matter atrophy"	0.0	0.0	0.0	1.0

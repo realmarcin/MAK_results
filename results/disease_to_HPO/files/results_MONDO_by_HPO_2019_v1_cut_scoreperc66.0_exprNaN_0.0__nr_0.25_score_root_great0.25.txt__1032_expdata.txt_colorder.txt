@@ -1,0 +1,7 @@
+"x"
+"1" "Vomiting"
+"2" "Failure to thrive"
+"3" "Eosinophilia"
+"4" "Dysphagia"
+"5" "Esophagitis"
+"6" "Epigastric pain"

@@ -1,0 +1,23 @@
+	"MONDO.0024521"	"MONDO.0010962"	"MONDO.0012336"	"MONDO.0013992"	"MONDO.0013993"
+"Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0	0.0
+"Hydroureter"	0.0	0.0	0.0	0.0	0.0
+"Hydronephrosis"	0.0	0.0	0.0	0.0	0.0
+"Xerostomia"	0.0	0.0	0.0	0.0	0.0
+"Pectus carinatum"	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the skin"	0.0	0.0	0.0	0.0	0.0
+"Congenital hip dislocation"	0.0	0.0	0.0	0.0	0.0
+"Accelerated skeletal maturation"	0.0	0.0	0.0	1.0	1.0
+"Orthostatic hypotension due to autonomic dysfunction"	0.0	0.0	0.0	1.0	1.0
+"Hypertriglyceridemia"	0.0	0.0	0.0	1.0	1.0
+"Gynecomastia"	0.0	0.0	0.0	1.0	1.0
+"Decreased testicular size"	0.0	0.0	0.0	1.0	1.0
+"Recurrent upper respiratory tract infections"	0.0	0.0	0.0	1.0	1.0
+"Hypoplasia of the ovary"	0.0	0.0	0.0	1.0	1.0
+"Insulin-resistant diabetes mellitus"	0.0	0.0	0.0	1.0	1.0
+"Hypergonadotropic hypogonadism"	0.0	0.0	0.0	1.0	1.0
+"Decreased testosterone in males"	0.0	0.0	0.0	1.0	1.0
+"Decreased number of CD4+ T cells"	0.0	0.0	0.0	1.0	1.0
+"Decreased T cell activation"	0.0	0.0	0.0	1.0	1.0
+"Absence of secondary sex characteristics"	0.0	0.0	0.0	1.0	1.0
+"Decreased serum leptin"	0.0	0.0	0.0	1.0	1.0
+"Decreased serum estradiol"	0.0	0.0	0.0	1.0	1.0

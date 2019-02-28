@@ -1,0 +1,5 @@
+"x"
+"1" "Foveoschisis"
+"2" "Optic disc drusen"
+"3" "Scleral thickening"
+"4" "Abnormal light- and dark-adapted electroretinogram"

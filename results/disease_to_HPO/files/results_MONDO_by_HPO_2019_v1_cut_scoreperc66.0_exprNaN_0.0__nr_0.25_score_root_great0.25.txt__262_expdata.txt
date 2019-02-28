@@ -1,0 +1,6 @@
+	"MONDO.0009050"	"MONDO.0010912"	"MONDO.0012506"	"MONDO.0012510"	"MONDO.0014360"
+"Mood changes"	1.0	0.0	1.0	1.0	0.0
+"Primary hypercorticolism"	1.0	0.0	1.0	1.0	1.0
+"Decreased circulating ACTH level"	1.0	1.0	1.0	1.0	0.0
+"Pigmented micronodular adrenocortical disease"	0.0	0.0	1.0	1.0	0.0
+"Paradoxical increased cortisol secretion on dexamethasone suppression test"	0.0	0.0	1.0	1.0	0.0

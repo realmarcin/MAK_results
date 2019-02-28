@@ -1,0 +1,8 @@
+	"MONDO.0007388"	"MONDO.0008966"	"MONDO.0009254"	"MONDO.0011512"	"MONDO.0012316"
+"Cryptorchidism"	1.0	1.0	1.0	0.0	1.0
+"Atrial septal defect"	0.0	1.0	1.0	1.0	1.0
+"Small nail"	0.0	0.0	1.0	0.0	1.0
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0
+"Limited elbow extension"	1.0	0.0	0.0	0.0	1.0
+"Hyperactivity"	0.0	0.0	0.0	0.0	1.0
+"Vesicoureteral reflux"	1.0	1.0	1.0	1.0	1.0

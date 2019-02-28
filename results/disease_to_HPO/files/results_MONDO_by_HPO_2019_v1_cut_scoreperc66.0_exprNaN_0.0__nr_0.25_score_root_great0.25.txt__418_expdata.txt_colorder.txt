@@ -1,0 +1,5 @@
+"x"
+"1" "Skeletal muscle atrophy"
+"2" "Muscle weakness"
+"3" "Pes planus"
+"4" "Hip contracture"

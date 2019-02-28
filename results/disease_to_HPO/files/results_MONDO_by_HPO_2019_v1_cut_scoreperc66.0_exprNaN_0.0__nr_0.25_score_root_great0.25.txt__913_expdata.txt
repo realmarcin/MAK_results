@@ -1,0 +1,11 @@
+	"MONDO.0010577"	"MONDO.0011204"	"MONDO.0012855"	"MONDO.0013848"
+"Cleft palate"	0.0	1.0	1.0	1.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0
+"HP:0000006"	0.0	1.0	1.0	1.0
+"Muscular hypotonia"	0.0	1.0	0.0	0.0
+"Micrognathia"	0.0	1.0	0.0	0.0
+"Webbed neck"	0.0	1.0	0.0	0.0
+"Joint hypermobility"	0.0	1.0	0.0	0.0
+"Abnormality of the ribs"	0.0	1.0	0.0	0.0
+"Abnormality of the scalp"	0.0	1.0	0.0	0.0
+"Hypoplastic distal segments of scapulae"	0.0	1.0	0.0	0.0

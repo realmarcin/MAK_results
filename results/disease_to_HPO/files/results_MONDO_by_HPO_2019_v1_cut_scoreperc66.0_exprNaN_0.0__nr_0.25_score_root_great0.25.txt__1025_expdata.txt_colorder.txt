@@ -1,0 +1,5 @@
+"x"
+"1" "Chondrocalcinosis"
+"2" "Polyarticular chondrocalcinosis"
+"3" "Calcification of cartilage"
+"4" "HP:0025369"

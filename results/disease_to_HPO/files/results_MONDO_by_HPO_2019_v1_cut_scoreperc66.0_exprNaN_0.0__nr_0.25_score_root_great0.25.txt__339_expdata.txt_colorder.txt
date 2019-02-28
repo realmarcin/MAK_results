@@ -1,0 +1,4 @@
+"x"
+"1" "Intellectual disability, severe"
+"2" "Broad-based gait"
+"3" "Protruding tongue"

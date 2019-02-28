@@ -1,0 +1,7 @@
+	"MONDO.0007536"	"MONDO.0011752"	"MONDO.0013283"	"MONDO.0013840"	"MONDO.0014204"	"MONDO.0014698"
+"HP:0000007"	0.0	0.0	1.0	1.0	1.0	0.0
+"Fever"	0.0	0.0	0.0	1.0	0.0	0.0
+"Sensory neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0
+"Chronic obstructive pulmonary disease"	1.0	1.0	1.0	0.0	1.0	1.0
+"Respiratory insufficiency"	0.0	0.0	0.0	1.0	0.0	0.0
+"Blotching pigmentation of the skin"	0.0	0.0	0.0	1.0	0.0	0.0

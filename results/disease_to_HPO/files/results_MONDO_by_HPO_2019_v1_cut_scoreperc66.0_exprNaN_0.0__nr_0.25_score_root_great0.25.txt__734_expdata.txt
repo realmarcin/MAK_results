@@ -1,0 +1,13 @@
+	"MONDO.0007408"	"MONDO.0007927"	"MONDO.0009305"	"MONDO.0009349"	"MONDO.0012106"
+"Cutis marmorata"	1.0	1.0	0.0	0.0	0.0
+"Peripheral neuropathy"	0.0	1.0	0.0	1.0	0.0
+"Fever"	1.0	1.0	1.0	1.0	1.0
+"Cryoglobulinemia"	1.0	1.0	0.0	0.0	0.0
+"Periorbital edema"	0.0	1.0	0.0	0.0	1.0
+"Impaired lymphocyte transformation with phytohemagglutinin"	0.0	1.0	0.0	1.0	0.0
+"Cellular immunodeficiency"	0.0	0.0	0.0	1.0	0.0
+"Lymphoma"	0.0	1.0	0.0	1.0	0.0
+"Polyclonal elevation of IgM"	0.0	1.0	0.0	1.0	0.0
+"Purpura"	0.0	1.0	1.0	0.0	1.0
+"Osteolysis"	0.0	0.0	0.0	1.0	0.0
+"Hodgkin lymphoma"	0.0	0.0	0.0	1.0	0.0

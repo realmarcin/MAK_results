@@ -1,0 +1,5 @@
+"x"
+"1" "Striae distensae"
+"2" "Obesity"
+"3" "Immunodeficiency"
+"4" "Abdominal obesity"

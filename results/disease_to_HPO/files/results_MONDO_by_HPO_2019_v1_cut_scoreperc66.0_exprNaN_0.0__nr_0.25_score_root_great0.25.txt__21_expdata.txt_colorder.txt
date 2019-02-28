@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "HP:0003593"
+"3" "Agammaglobulinemia"
+"4" "Recurrent bacterial infections"
+"5" "Recurrent pneumonia"

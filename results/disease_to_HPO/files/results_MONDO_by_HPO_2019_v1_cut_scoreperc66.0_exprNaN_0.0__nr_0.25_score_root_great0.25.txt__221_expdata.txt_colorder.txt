@@ -1,0 +1,7 @@
+"x"
+"1" "Epileptic encephalopathy"
+"2" "Hypsarrhythmia"
+"3" "Epileptic spasms"
+"4" "Generalized tonic seizures"
+"5" "Spastic tetraparesis"
+"6" "EEG with burst suppression"

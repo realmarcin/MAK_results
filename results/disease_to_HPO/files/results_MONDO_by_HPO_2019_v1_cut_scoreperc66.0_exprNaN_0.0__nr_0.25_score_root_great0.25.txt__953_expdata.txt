@@ -1,0 +1,4 @@
+	"MONDO.0020701"	"MONDO.0007401"	"MONDO.0007699"	"MONDO.0009323"	"MONDO.0013065"
+"Hallux varus"	1.0	1.0	1.0	1.0	1.0
+"Radial head subluxation"	0.0	0.0	0.0	0.0	0.0
+"Hyperechogenic kidneys"	0.0	0.0	0.0	0.0	0.0

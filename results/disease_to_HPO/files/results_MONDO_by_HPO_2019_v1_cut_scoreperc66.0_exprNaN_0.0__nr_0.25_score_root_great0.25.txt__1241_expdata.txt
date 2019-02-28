@@ -1,0 +1,10 @@
+	"MONDO.0009821"	"MONDO.0010219"	"MONDO.0014240"	"MONDO.0060490"
+"Pathologic fracture"	1.0	0.0	0.0	0.0
+"Barrel-shaped chest"	1.0	0.0	0.0	0.0
+"Iris atrophy"	1.0	0.0	0.0	0.0
+"Increased susceptibility to fractures"	1.0	0.0	0.0	0.0
+"Metaphyseal widening"	1.0	0.0	0.0	0.0
+"Vitreoretinopathy"	1.0	0.0	0.0	0.0
+"Phthisis bulbi"	1.0	0.0	0.0	0.0
+"Glioma"	1.0	0.0	0.0	0.0
+"Absent anterior eye chamber"	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0012813"	"MONDO.0013388"	"MONDO.0013802"	"MONDO.0014004"	"MONDO.0044777"
+"Generalized tonic seizures"	1.0	1.0	0.0	0.0	0.0
+"Spastic tetraparesis"	0.0	1.0	0.0	0.0	1.0
+"Hypsarrhythmia"	1.0	1.0	0.0	1.0	1.0
+"Epileptic encephalopathy"	1.0	1.0	1.0	1.0	1.0
+"Epileptic spasms"	1.0	1.0	1.0	1.0	0.0
+"EEG with burst suppression"	1.0	1.0	0.0	0.0	0.0

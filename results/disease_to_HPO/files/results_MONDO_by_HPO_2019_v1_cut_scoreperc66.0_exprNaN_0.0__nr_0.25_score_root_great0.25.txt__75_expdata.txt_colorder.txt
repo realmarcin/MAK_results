@@ -1,0 +1,4 @@
+"x"
+"1" "HP:0000006"
+"2" "High-frequency hearing impairment"
+"3" "HP:0003621"

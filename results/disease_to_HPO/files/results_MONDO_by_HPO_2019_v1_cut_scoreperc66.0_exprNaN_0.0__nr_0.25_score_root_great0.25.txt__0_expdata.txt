@@ -1,0 +1,7 @@
+	"MONDO.0010328"	"MONDO.0014500"	"MONDO.0014953"
+"Intellectual disability"	1.0	1.0	1.0
+"Seizures"	1.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0
+"Aggressive behavior"	1.0	1.0	1.0
+"Agitation"	1.0	1.0	1.0

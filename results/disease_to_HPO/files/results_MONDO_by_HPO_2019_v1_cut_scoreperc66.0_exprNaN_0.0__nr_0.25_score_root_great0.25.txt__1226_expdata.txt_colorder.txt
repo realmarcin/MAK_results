@@ -1,0 +1,5 @@
+"x"
+"1" "Poor motor coordination"
+"2" "Abnormality of pattern visual evoked potentials"
+"3" "Loss of facial adipose tissue"
+"4" "C1-C2 subluxation"

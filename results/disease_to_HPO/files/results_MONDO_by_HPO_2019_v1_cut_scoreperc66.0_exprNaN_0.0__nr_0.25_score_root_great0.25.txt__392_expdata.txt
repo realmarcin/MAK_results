@@ -1,0 +1,9 @@
+	"MONDO.0009320"	"MONDO.0010477"	"MONDO.0011707"	"MONDO.0013675"	"MONDO.0014291"	"MONDO.0014865"
+"Parkinsonism"	1.0	1.0	1.0	1.0	1.0	1.0
+"Bradykinesia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Distal amyotrophy"	0.0	0.0	0.0	1.0	1.0	0.0
+"Spastic paraparesis"	0.0	1.0	0.0	1.0	1.0	0.0
+"Difficulty walking"	0.0	0.0	1.0	0.0	1.0	0.0
+"Motor axonal neuropathy"	0.0	0.0	0.0	1.0	1.0	0.0
+"Eye of the tiger anomaly of globus pallidus"	1.0	0.0	0.0	0.0	1.0	0.0
+"Oromandibular dystonia"	0.0	0.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,10 @@
+	"MONDO.0008022"	"MONDO.0013755"	"MONDO.0014048"	"MONDO.0014049"
+"Pectus excavatum"	1.0	1.0	1.0	1.0
+"Micrognathia"	1.0	1.0	1.0	1.0
+"Abnormality of the pinna"	0.0	1.0	0.0	0.0
+"High palate"	1.0	1.0	1.0	1.0
+"Bulbous nose"	0.0	1.0	0.0	0.0
+"Varicocele"	1.0	0.0	1.0	1.0
+"Prominence of the premaxilla"	0.0	1.0	0.0	0.0
+"Bradycardia"	0.0	1.0	0.0	0.0
+"Pulmonary insufficiency"	0.0	1.0	0.0	0.0

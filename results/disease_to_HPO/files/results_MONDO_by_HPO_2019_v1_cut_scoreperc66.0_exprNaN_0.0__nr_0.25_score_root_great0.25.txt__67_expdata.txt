@@ -1,0 +1,8 @@
+	"MONDO.0007368"	"MONDO.0011232"	"MONDO.0011444"	"MONDO.0012225"	"MONDO.0012227"	"MONDO.0012656"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001425"	1.0	1.0	1.0	1.0	1.0	0.0
+"Generalized tonic-clonic seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Febrile seizures"	1.0	1.0	1.0	1.0	1.0	0.0
+"Generalized tonic seizures"	1.0	1.0	1.0	1.0	1.0	0.0
+"Atonic seizures"	1.0	1.0	1.0	1.0	1.0	0.0
+"EEG with polyspike wave complexes"	0.0	0.0	0.0	0.0	0.0	1.0

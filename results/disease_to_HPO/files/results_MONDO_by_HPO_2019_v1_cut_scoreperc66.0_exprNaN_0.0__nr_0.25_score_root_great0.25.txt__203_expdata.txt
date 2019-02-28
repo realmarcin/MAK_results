@@ -1,0 +1,6 @@
+	"MONDO.0008441"	"MONDO.0008455"	"MONDO.0010076"	"MONDO.0010093"
+"Severe short stature"	1.0	0.0	1.0	1.0
+"Paraplegia"	1.0	1.0	1.0	1.0
+"Proptosis"	0.0	0.0	1.0	1.0
+"Decreased body weight"	0.0	0.0	1.0	1.0
+"Prominent forehead"	0.0	0.0	1.0	1.0

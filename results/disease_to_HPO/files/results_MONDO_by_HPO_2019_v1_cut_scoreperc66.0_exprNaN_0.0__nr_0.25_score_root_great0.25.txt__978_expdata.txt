@@ -1,0 +1,10 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"	"MONDO.0014775"
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Plagiocephaly"	0.0	0.0	0.0	1.0
+"Intellectual disability, moderate"	0.0	0.0	0.0	1.0
+"Round face"	0.0	0.0	0.0	1.0
+"Autism"	0.0	0.0	0.0	1.0
+"Macroglossia"	0.0	0.0	0.0	1.0
+"Recurrent infections"	0.0	0.0	0.0	1.0
+"Transposition of the great arteries"	0.0	0.0	0.0	1.0
+"Patent foramen ovale"	0.0	0.0	0.0	1.0

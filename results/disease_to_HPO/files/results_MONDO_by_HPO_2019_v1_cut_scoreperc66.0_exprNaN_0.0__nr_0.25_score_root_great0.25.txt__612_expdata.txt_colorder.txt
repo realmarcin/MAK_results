@@ -1,0 +1,8 @@
+"x"
+"1" "Constipation"
+"2" "Gastroesophageal reflux"
+"3" "Subcutaneous nodule"
+"4" "Hip dislocation"
+"5" "Atypical scarring of skin"
+"6" "Gingivitis"
+"7" "Joint swelling"

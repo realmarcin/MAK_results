@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Hemolytic anemia"
+"3" "Rickets"
+"4" "Anorexia"
+"5" "Reticulocytosis"
+"6" "Decreased mean corpuscular volume"
+"7" "Isothenuria"

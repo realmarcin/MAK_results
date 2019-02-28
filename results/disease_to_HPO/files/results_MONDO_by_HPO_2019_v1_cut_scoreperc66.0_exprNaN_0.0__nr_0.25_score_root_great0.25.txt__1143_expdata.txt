@@ -1,0 +1,11 @@
+	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013616"	"MONDO.0013298"
+"Clinodactyly"	0.0	0.0	1.0	0.0
+"Coronal craniosynostosis"	0.0	0.0	1.0	1.0
+"Flat forehead"	0.0	0.0	1.0	0.0
+"Lambdoidal craniosynostosis"	0.0	0.0	1.0	0.0
+"2-3 toe syndactyly"	0.0	0.0	1.0	0.0
+"Papilledema"	0.0	0.0	1.0	0.0
+"Increased number of teeth"	0.0	0.0	1.0	0.0
+"Turricephaly"	0.0	0.0	1.0	0.0
+"Sagittal craniosynostosis"	0.0	0.0	1.0	0.0
+"Fingernail dysplasia"	0.0	0.0	1.0	0.0

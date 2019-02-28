@@ -1,0 +1,7 @@
+"x"
+"1" "Porokeratosis"
+"2" "HP:0000006"
+"3" "Parakeratosis"
+"4" "Papule"
+"5" "Nail dystrophy"
+"6" "Spinous keratoses of palms and soles"

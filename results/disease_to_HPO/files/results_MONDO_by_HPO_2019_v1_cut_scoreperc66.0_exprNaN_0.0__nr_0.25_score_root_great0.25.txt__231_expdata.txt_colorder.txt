@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Dry hair"
+"3" "Sparse body hair"
+"4" "Slow-growing hair"
+"5" "Coarse hair"
+"6" "Woolly hair"

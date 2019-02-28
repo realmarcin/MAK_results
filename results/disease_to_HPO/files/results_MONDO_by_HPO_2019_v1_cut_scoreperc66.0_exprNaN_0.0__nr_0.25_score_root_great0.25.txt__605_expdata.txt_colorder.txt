@@ -1,0 +1,7 @@
+"x"
+"1" "Cerebral hypomyelination"
+"2" "Leukodystrophy"
+"3" "Intention tremor"
+"4" "CNS hypomyelination"
+"5" "Leukoencephalopathy"
+"6" "Dyskinesia"

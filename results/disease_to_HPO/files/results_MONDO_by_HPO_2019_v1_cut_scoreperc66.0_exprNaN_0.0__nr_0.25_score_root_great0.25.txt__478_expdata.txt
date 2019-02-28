@@ -1,0 +1,7 @@
+	"MONDO.0008782"	"MONDO.0009367"	"MONDO.0009446"	"MONDO.0009464"	"MONDO.0013905"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	0.0	0.0	1.0
+"Dementia"	1.0	1.0	1.0	1.0	0.0
+"Bowel incontinence"	0.0	1.0	0.0	0.0	0.0
+"Gait disturbance"	0.0	1.0	1.0	0.0	0.0
+"Normal pressure hydrocephalus"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,9 @@
+	"MONDO.0008370"	"MONDO.0009025"	"MONDO.0011864"	"MONDO.0014306"
+"Postaxial hand polydactyly"	0.0	1.0	0.0	0.0
+"Growth abnormality"	0.0	1.0	0.0	0.0
+"Short stature"	1.0	1.0	0.0	1.0
+"Recurrent respiratory infections"	0.0	1.0	0.0	0.0
+"Microretrognathia"	0.0	1.0	0.0	0.0
+"Abnormality of visual evoked potentials"	0.0	1.0	0.0	0.0
+"Cachexia"	0.0	1.0	0.0	0.0
+"Cortical visual impairment"	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0007163"	"MONDO.0010503"	"MONDO.0010571"	"MONDO.0010585"
+"Asymmetric short stature"	1.0	0.0	0.0	0.0
+"Hemihypotrophy of lower limb"	1.0	0.0	1.0	0.0
+"Abnormality of thyroid physiology"	0.0	1.0	0.0	0.0
+"Unilateral breast hypoplasia"	0.0	1.0	1.0	0.0
+"Split nail"	0.0	0.0	1.0	1.0
+"Hypoplastic nasal tip"	0.0	0.0	1.0	0.0

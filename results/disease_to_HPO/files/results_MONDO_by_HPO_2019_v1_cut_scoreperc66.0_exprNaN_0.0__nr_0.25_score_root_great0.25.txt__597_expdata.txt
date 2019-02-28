@@ -1,0 +1,6 @@
+	"MONDO.0007206"	"MONDO.0007398"	"MONDO.0007479"	"MONDO.0009427"	"MONDO.0009488"	"MONDO.0010619"
+"Stenosis of the medullary cavity of the long bones"	1.0	0.0	1.0	0.0	1.0	0.0
+"Calvarial osteosclerosis"	0.0	1.0	1.0	0.0	1.0	0.0
+"Cortical thickening of long bone diaphyses"	0.0	0.0	1.0	0.0	1.0	0.0
+"Thin long bone diaphyses"	0.0	0.0	1.0	0.0	1.0	0.0
+"Congenital hypoparathyroidism"	0.0	0.0	1.0	1.0	1.0	1.0

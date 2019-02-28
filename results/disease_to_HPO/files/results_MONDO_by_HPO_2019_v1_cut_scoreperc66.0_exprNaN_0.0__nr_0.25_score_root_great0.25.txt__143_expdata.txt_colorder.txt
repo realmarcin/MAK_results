@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Brachydactyly"
+"3" "Midface retrusion"
+"4" "Narrow chest"
+"5" "Postaxial polydactyly"
+"6" "Respiratory distress"
+"7" "Relative macrocephaly"

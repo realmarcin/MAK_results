@@ -1,0 +1,6 @@
+"x"
+"1" "Olfactory lobe agenesis"
+"2" "Decreased circulating luteinizing hormone level"
+"3" "Leydig cell insensitivity to gonadotropin"
+"4" "Hypothalamic gonadotropin-releasing hormone deficiency"
+"5" "Decreased circulating follicle stimulating hormone level"

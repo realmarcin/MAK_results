@@ -1,0 +1,11 @@
+	"MONDO.0007216"	"MONDO.0008158"	"MONDO.0008517"	"MONDO.0010882"
+"Cutaneous finger syndactyly"	0.0	1.0	1.0	0.0
+"2-3 toe syndactyly"	0.0	0.0	1.0	0.0
+"Metatarsal synostosis"	0.0	0.0	1.0	1.0
+"3-4 finger syndactyly"	0.0	0.0	1.0	0.0
+"3-4 toe syndactyly"	0.0	0.0	1.0	0.0
+"Absent distal interphalangeal creases"	1.0	0.0	1.0	0.0
+"4-5 toe syndactyly"	0.0	0.0	1.0	0.0
+"Fused fourth and fifth metacarpals"	0.0	0.0	1.0	0.0
+"Enlarged proximal interphalangeal joints"	0.0	0.0	1.0	0.0
+"Metacarpal synostosis"	0.0	0.0	1.0	1.0

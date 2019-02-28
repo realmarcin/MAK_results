@@ -1,0 +1,9 @@
+	"MONDO.0008264"	"MONDO.0008324"	"MONDO.0010917"	"MONDO.0011518"	"MONDO.0013132"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Hypertension"	1.0	1.0	1.0	1.0	1.0
+"Decreased circulating renin level"	0.0	1.0	0.0	1.0	0.0
+"Renal insufficiency"	1.0	1.0	0.0	0.0	0.0
+"HP:0000113"	1.0	0.0	1.0	0.0	1.0
+"Hepatic cysts"	1.0	0.0	1.0	0.0	1.0
+"Hypokalemic alkalosis"	0.0	1.0	0.0	0.0	0.0
+"HP:0004319"	0.0	1.0	0.0	1.0	0.0

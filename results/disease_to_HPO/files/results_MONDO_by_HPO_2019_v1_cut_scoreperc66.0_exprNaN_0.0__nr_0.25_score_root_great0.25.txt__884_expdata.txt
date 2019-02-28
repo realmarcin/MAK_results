@@ -1,0 +1,6 @@
+	"MONDO.0007925"	"MONDO.0008062"	"MONDO.0008263"	"MONDO.0009047"	"MONDO.0012395"
+"Absence of pectoralis minor muscle"	0.0	1.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the sternum"	0.0	0.0	1.0	1.0	0.0
+"HP:0007519"	0.0	0.0	1.0	0.0	0.0
+"Finger symphalangism"	0.0	0.0	1.0	0.0	1.0
+"Neoplasm of the breast"	1.0	0.0	1.0	0.0	0.0

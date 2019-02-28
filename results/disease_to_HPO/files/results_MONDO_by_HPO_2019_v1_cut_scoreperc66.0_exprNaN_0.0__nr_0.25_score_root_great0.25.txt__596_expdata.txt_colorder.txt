@@ -1,0 +1,6 @@
+"x"
+"1" "Epididymitis"
+"2" "Prostatitis"
+"3" "Enteroviral hepatitis"
+"4" "Septic arthritis"
+"5" "Enteroviral dermatomyositis syndrome"

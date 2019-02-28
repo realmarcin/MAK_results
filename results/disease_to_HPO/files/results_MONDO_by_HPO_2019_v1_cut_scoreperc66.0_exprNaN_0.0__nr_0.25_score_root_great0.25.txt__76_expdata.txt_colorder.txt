@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Global developmental delay"
+"3" "Delayed speech and language development"
+"4" "Strabismus"
+"5" "Intellectual disability"
+"6" "High palate"

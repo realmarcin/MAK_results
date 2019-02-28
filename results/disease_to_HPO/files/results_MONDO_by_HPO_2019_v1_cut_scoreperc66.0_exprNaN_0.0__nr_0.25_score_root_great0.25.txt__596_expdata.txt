@@ -1,0 +1,6 @@
+	"MONDO.0007193"	"MONDO.0008754"	"MONDO.0010423"	"MONDO.0010617"	"MONDO.0011972"	"MONDO.0012106"
+"Epididymitis"	1.0	0.0	1.0	1.0	1.0	0.0
+"Prostatitis"	0.0	1.0	1.0	1.0	0.0	1.0
+"Enteroviral hepatitis"	0.0	0.0	1.0	1.0	0.0	0.0
+"Septic arthritis"	0.0	0.0	1.0	1.0	0.0	0.0
+"Enteroviral dermatomyositis syndrome"	0.0	0.0	1.0	1.0	0.0	0.0

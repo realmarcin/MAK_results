@@ -1,0 +1,7 @@
+"x"
+"1" "Neoplasm of the skin"
+"2" "Anteverted nares"
+"3" "Limited elbow extension"
+"4" "Lumbar hyperlordosis"
+"5" "Neonatal short-limb short stature"
+"6" "Diaphyseal thickening"

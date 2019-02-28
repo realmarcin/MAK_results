@@ -1,0 +1,7 @@
+"x"
+"1" "Parkinsonism"
+"2" "Rigidity"
+"3" "Sleep disturbance"
+"4" "Dementia"
+"5" "Bradykinesia"
+"6" "HP:0012332"

@@ -1,0 +1,5 @@
+	"MONDO.0007156"	"MONDO.0008988"	"MONDO.0009324"	"MONDO.0009380"	"MONDO.0009381"	"MONDO.0009720"	"MONDO.0010123"	"MONDO.0011873"
+"Abnormality of skin pigmentation"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Jaundice"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Fever"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the skeletal system"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

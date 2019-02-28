@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of the lymph nodes"
+"2" "Abnormality of the spleen"
+"3" "Abnormality of bone marrow cell morphology"
+"4" "HP:0025435"
+"5" "Neoplasm of the oral cavity"

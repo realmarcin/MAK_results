@@ -1,0 +1,10 @@
+	"MONDO.0007416"	"MONDO.0008923"	"MONDO.0009503"	"MONDO.0009654"	"MONDO.0014776"
+"HP:0003593"	1.0	1.0	1.0	1.0	1.0
+"Depressivity"	1.0	0.0	0.0	0.0	0.0
+"Brittle hair"	1.0	0.0	0.0	0.0	0.0
+"Tubulointerstitial nephritis"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the coagulation cascade"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the abdominal wall"	1.0	0.0	0.0	0.0	0.0
+"Decreased mitochondrial complex III activity in liver tissue"	1.0	0.0	0.0	0.0	0.0
+"Mitochondrial encephalopathy"	1.0	0.0	0.0	0.0	0.0
+"Cholangitis"	1.0	0.0	0.0	0.0	0.0

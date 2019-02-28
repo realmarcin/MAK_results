@@ -1,0 +1,7 @@
+"x"
+"1" "Decreased methylcobalamin"
+"2" "Megaloblastic anemia"
+"3" "Homocystinuria"
+"4" "Hyperhomocystinemia"
+"5" "Decreased methionine synthase activity"
+"6" "Hypomethioninemia"

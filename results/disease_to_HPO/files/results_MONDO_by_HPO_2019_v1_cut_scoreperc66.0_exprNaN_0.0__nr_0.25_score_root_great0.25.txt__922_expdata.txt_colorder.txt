@@ -1,0 +1,6 @@
+"x"
+"1" "Cerebral hemorrhage"
+"2" "Hypertelorism"
+"3" "Ptosis"
+"4" "Short stature"
+"5" "Retrognathia"

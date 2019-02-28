@@ -1,0 +1,4 @@
+	"MONDO.0011075"	"MONDO.0011351"	"MONDO.0012977"
+"HP:0000006"	1.0	1.0	1.0
+"HP:0003621"	0.0	1.0	0.0
+"High-frequency hearing impairment"	1.0	1.0	1.0

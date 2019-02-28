@@ -1,0 +1,9 @@
+	"MONDO.0009103"	"MONDO.0009575"	"MONDO.0011392"	"MONDO.0013189"	"MONDO.0013491"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	0.0	1.0
+"Motor delay"	0.0	0.0	1.0	0.0	1.0
+"Megalencephaly"	0.0	1.0	1.0	0.0	1.0
+"Ataxia"	1.0	1.0	1.0	1.0	1.0
+"Spasticity"	1.0	1.0	1.0	0.0	1.0
+"Macrocephaly"	0.0	0.0	1.0	0.0	1.0
+"Diffuse swelling of cerebral white matter"	0.0	0.0	1.0	0.0	1.0

@@ -1,0 +1,19 @@
+	"MONDO.0009428"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Failure to thrive"	1.0	0.0	0.0	0.0
+"Constipation"	1.0	0.0	0.0	0.0
+"Nephrocalcinosis"	1.0	0.0	0.0	0.0
+"Intracranial hemorrhage"	1.0	0.0	0.0	0.0
+"Vomiting"	1.0	0.0	0.0	0.0
+"Fever"	1.0	0.0	0.0	0.0
+"Polyhydramnios"	1.0	0.0	0.0	0.0
+"Stillbirth"	1.0	0.0	0.0	0.0
+"Irritability"	1.0	0.0	0.0	0.0
+"Apnea"	1.0	0.0	0.0	0.0
+"Hypercalcemia"	1.0	0.0	0.0	0.0
+"Abnormality of the voice"	1.0	0.0	0.0	0.0
+"Hypercalciuria"	1.0	0.0	0.0	0.0
+"Vertebral clefting"	1.0	0.0	0.0	0.0
+"Widely patent fontanelles and sutures"	1.0	0.0	0.0	0.0
+"Anorexia"	1.0	0.0	0.0	0.0
+"Unossified vertebral bodies"	1.0	0.0	0.0	0.0
+"Decreased calvarial ossification"	1.0	0.0	0.0	0.0

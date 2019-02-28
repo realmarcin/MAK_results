@@ -1,0 +1,5 @@
+"x"
+"1" "Hypoplastic iliac wing"
+"2" "Hypoplastic pelvis"
+"3" "Narrow pelvis bone"
+"4" "Slender long bone"

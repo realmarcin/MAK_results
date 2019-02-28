@@ -1,0 +1,7 @@
+"x"
+"1" "Short nasal septum"
+"2" "Upper lip pit"
+"3" "Postauricular pit"
+"4" "Fusion of middle ear ossicles"
+"5" "Supraauricular pit"
+"6" "Ectopic thymus tissue"

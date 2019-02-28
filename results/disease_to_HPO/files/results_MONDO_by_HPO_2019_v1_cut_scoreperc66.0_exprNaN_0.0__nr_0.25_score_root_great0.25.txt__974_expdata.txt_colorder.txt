@@ -1,0 +1,7 @@
+"x"
+"1" "Postaxial polydactyly"
+"2" "Molar tooth sign on MRI"
+"3" "Abducens palsy"
+"4" "Thoracic hemivertebrae"
+"5" "Cranial nerve VI palsy"
+"6" "Abnormality of the sacrum"

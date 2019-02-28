@@ -1,0 +1,11 @@
+	"MONDO.0008183"	"MONDO.0008996"	"MONDO.0009962"	"MONDO.0010825"	"MONDO.0011011"	"MONDO.0012563"
+"Renal malrotation"	0.0	0.0	0.0	0.0	1.0	0.0
+"Increased lacrimation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Depressed nasal tip"	1.0	0.0	0.0	0.0	0.0	1.0
+"Conjunctival hyperemia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Sparse eyebrow"	1.0	1.0	0.0	0.0	0.0	0.0
+"Bilateral microphthalmos"	1.0	1.0	0.0	1.0	1.0	1.0
+"Decreased skull ossification"	0.0	1.0	0.0	0.0	0.0	0.0
+"Cervical spina bifida"	0.0	0.0	0.0	1.0	0.0	0.0
+"Severe sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplastic spleen"	0.0	0.0	0.0	0.0	1.0	0.0

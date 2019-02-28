@@ -1,0 +1,7 @@
+	"MONDO.0007233"	"MONDO.0008475"	"MONDO.0009563"	"MONDO.0010072"	"MONDO.0010075"	"MONDO.0011532"
+"Childhood-onset short-trunk short stature"	1.0	1.0	0.0	0.0	1.0	0.0
+"Increased urinary disaccharide excretion"	0.0	0.0	1.0	0.0	1.0	0.0
+"Squared-off platyspondyly"	0.0	0.0	0.0	1.0	1.0	0.0
+"Broad tibial metaphyses"	0.0	0.0	0.0	0.0	1.0	1.0
+"Precocious costochondral ossification"	0.0	0.0	0.0	0.0	1.0	0.0
+"Flared radial metaphysis"	0.0	0.0	0.0	0.0	0.0	1.0

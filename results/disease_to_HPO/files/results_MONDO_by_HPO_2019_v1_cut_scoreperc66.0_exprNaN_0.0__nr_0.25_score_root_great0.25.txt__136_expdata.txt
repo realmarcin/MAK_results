@@ -1,0 +1,9 @@
+	"MONDO.0007728"	"MONDO.0008890"	"MONDO.0009176"	"MONDO.0009850"
+"Paresthesia"	1.0	1.0	1.0	0.0
+"Arthralgia"	1.0	1.0	1.0	1.0
+"Arthritis"	1.0	0.0	1.0	1.0
+"Vasculitis"	1.0	1.0	0.0	1.0
+"Myalgia"	1.0	0.0	1.0	1.0
+"Acrocyanosis"	0.0	1.0	1.0	1.0
+"Myositis"	1.0	0.0	1.0	0.0
+"Fasciitis"	1.0	0.0	1.0	0.0

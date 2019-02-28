@@ -1,0 +1,8 @@
+	"MONDO.0010625"	"MONDO.0011486"	"MONDO.0012209"	"MONDO.0012848"	"MONDO.0014012"	"MONDO.0014115"
+"Muscular hypotonia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplasia of the corpus callosum"	1.0	0.0	0.0	0.0	0.0	1.0
+"Short stature"	1.0	0.0	0.0	0.0	0.0	1.0
+"Myopia"	1.0	0.0	0.0	0.0	0.0	1.0
+"Heat intolerance"	1.0	0.0	0.0	0.0	0.0	1.0
+"Absent eyebrow"	1.0	0.0	0.0	0.0	0.0	1.0
+"Cerebellar hypoplasia"	1.0	0.0	0.0	0.0	0.0	1.0

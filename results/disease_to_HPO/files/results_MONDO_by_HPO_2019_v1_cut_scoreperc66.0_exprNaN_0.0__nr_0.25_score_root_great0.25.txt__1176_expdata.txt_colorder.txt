@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Blepharitis"
+"3" "Psoriasiform dermatitis"
+"4" "Ichthyosis"
+"5" "Congenital cataract"
+"6" "Decreased circulating low-density lipoprotein levels"
+"7" "Hypocholesterolemia"

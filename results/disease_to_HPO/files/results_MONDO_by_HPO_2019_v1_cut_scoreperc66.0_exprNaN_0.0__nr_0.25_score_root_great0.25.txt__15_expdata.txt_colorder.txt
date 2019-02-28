@@ -1,0 +1,8 @@
+"x"
+"1" "Proteinuria"
+"2" "Nephrotic syndrome"
+"3" "Edema"
+"4" "Focal segmental glomerulosclerosis"
+"5" "Hypoalbuminemia"
+"6" "HP:0003676"
+"7" "Stage 5 chronic kidney disease"

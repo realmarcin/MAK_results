@@ -1,0 +1,8 @@
+"x"
+"1" "Limited elbow extension"
+"2" "Abnormal hand morphology"
+"3" "Organic aciduria"
+"4" "Galactosuria"
+"5" "Long ear"
+"6" "Facial capillary hemangioma"
+"7" "Nevus flammeus of the forehead"

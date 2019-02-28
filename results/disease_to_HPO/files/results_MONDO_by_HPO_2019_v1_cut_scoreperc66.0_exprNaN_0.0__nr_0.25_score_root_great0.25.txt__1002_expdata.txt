@@ -1,0 +1,11 @@
+	"MONDO.0010219"	"MONDO.0012565"	"MONDO.0014240"	"MONDO.0060490"
+"Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
+"Postaxial hand polydactyly"	0.0	1.0	0.0	0.0
+"Micropenis"	1.0	1.0	1.0	1.0
+"Partial agenesis of the corpus callosum"	0.0	1.0	0.0	0.0
+"Short hard palate"	0.0	1.0	0.0	0.0
+"Abnormal cortical gyration"	0.0	1.0	0.0	0.0
+"Underdeveloped tragus"	0.0	1.0	0.0	0.0
+"Prominent antihelix"	0.0	1.0	0.0	0.0
+"Single naris"	0.0	1.0	0.0	0.0
+"Agenesis of incisor"	0.0	1.0	0.0	0.0

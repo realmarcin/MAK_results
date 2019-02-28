@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Elliptocytosis"
+"3" "Hemolytic anemia"
+"4" "HP:0001425"
+"5" "Anemia of inadequate production"
+"6" "Glyoxalase deficiency"

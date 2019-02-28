@@ -1,0 +1,6 @@
+	"MONDO.0008734"	"MONDO.0008736"	"MONDO.0024560"	"MONDO.0012215"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hyperpigmentation of the skin"	1.0	1.0	1.0	1.0
+"Decreased circulating cortisol level"	1.0	0.0	1.0	0.0
+"Recurrent hypoglycemia"	1.0	0.0	1.0	1.0
+"Increased circulating ACTH level"	1.0	1.0	1.0	0.0

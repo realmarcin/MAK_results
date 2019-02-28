@@ -1,0 +1,10 @@
+	"MONDO.0010250"	"MONDO.0011279"	"MONDO.0011908"	"MONDO.0012312"
+"Delayed ossification of carpal bones"	1.0	0.0	1.0	1.0
+"Beaking of vertebral bodies"	0.0	1.0	0.0	1.0
+"Broad toe"	0.0	0.0	0.0	1.0
+"Mesomelic arm shortening"	0.0	0.0	0.0	1.0
+"Hypoplastic iliac wing"	0.0	0.0	1.0	1.0
+"Disproportionate short stature"	0.0	1.0	1.0	1.0
+"Enlarged metacarpal epiphyses"	0.0	0.0	0.0	1.0
+"Distal ulnar epiphyseal stippling"	0.0	0.0	0.0	1.0
+"Enlarged epiphyses of the phalanges of the hand"	0.0	0.0	0.0	1.0

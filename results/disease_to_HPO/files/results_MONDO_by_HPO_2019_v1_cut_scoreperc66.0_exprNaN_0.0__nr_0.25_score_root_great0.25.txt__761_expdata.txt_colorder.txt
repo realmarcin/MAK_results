@@ -1,0 +1,6 @@
+"x"
+"1" "Decreased activity of mitochondrial complex I"
+"2" "Decreased activity of mitochondrial complex III"
+"3" "Decreased activity of mitochondrial complex IV"
+"4" "Acute necrotizing encephalopathy"
+"5" "Abnormal mitochondria in muscle tissue"

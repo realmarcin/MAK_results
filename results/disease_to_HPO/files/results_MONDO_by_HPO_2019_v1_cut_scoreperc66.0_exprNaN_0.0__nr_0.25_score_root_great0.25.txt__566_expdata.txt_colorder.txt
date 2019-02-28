@@ -1,0 +1,8 @@
+"x"
+"1" "Cleft palate"
+"2" "Cleft upper lip"
+"3" "HP:0000006"
+"4" "Ankyloblepharon"
+"5" "Lip pit"
+"6" "Wide intermamillary distance"
+"7" "Chylothorax"

@@ -1,0 +1,6 @@
+	"MONDO.0009200"	"MONDO.0009708"	"MONDO.0054560"	"MONDO.0012287"	"MONDO.0013494"	"MONDO.0014221"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	0.0	1.0	1.0	0.0	0.0	0.0
+"Global developmental delay"	0.0	0.0	1.0	1.0	0.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0	1.0	1.0
+"Myopathy"	0.0	1.0	1.0	1.0	1.0	0.0

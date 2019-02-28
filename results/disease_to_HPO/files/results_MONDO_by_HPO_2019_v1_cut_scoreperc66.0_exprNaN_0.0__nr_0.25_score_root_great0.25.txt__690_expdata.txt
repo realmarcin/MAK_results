@@ -1,0 +1,8 @@
+	"MONDO.0009300"	"MONDO.0009385"	"MONDO.0010107"	"MONDO.0014845"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Osteoporosis"	1.0	0.0	0.0	0.0
+"Increased circulating gonadotropin level"	1.0	1.0	0.0	0.0
+"Macular dystrophy"	0.0	0.0	0.0	1.0
+"Gonadal dysgenesis"	1.0	0.0	0.0	0.0
+"Decreased testicular size"	0.0	0.0	1.0	0.0
+"Hypergonadotropic hypogonadism"	0.0	1.0	1.0	0.0

@@ -1,0 +1,13 @@
+	"MONDO.0010219"	"MONDO.0010673"	"MONDO.0014240"	"MONDO.0060490"
+"Anal atresia"	0.0	1.0	0.0	0.0
+"Overriding aorta"	0.0	1.0	0.0	0.0
+"Intellectual disability, progressive"	0.0	1.0	0.0	0.0
+"Micropenis"	1.0	1.0	1.0	1.0
+"Arrhythmia"	0.0	1.0	0.0	0.0
+"Anteriorly placed anus"	0.0	1.0	0.0	0.0
+"Pigmentary retinopathy"	0.0	1.0	0.0	0.0
+"Congenital diaphragmatic hernia"	0.0	1.0	0.0	0.0
+"Chordee"	0.0	1.0	0.0	0.0
+"HP:0001423"	0.0	1.0	0.0	0.0
+"Histiocytoid cardiomyopathy"	0.0	1.0	0.0	0.0
+"Asymmetric, linear skin defects"	0.0	1.0	0.0	0.0

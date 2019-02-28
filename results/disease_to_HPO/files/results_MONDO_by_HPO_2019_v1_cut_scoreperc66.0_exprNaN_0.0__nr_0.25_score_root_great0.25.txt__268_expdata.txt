@@ -1,0 +1,6 @@
+	"MONDO.0010369"	"MONDO.0013285"	"MONDO.0013608"	"MONDO.0014227"
+"HP:0000006"	0.0	0.0	1.0	1.0
+"HP:0003812"	0.0	1.0	1.0	0.0
+"Immunodeficiency"	1.0	1.0	1.0	1.0
+"Lymphopenia"	0.0	0.0	1.0	1.0
+"Recurrent mycobacterium avium complex infections"	1.0	0.0	1.0	0.0

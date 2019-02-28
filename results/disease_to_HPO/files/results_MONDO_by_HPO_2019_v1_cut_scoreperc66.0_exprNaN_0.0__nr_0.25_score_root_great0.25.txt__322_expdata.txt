@@ -1,0 +1,8 @@
+	"MONDO.0007510"	"MONDO.0008695"	"MONDO.0009148"	"MONDO.0011042"	"MONDO.0014391"
+"Acanthosis nigricans"	0.0	0.0	0.0	1.0	0.0
+"Hypodontia"	1.0	0.0	1.0	1.0	0.0
+"Ectodermal dysplasia"	1.0	0.0	0.0	1.0	0.0
+"Heat intolerance"	1.0	0.0	1.0	0.0	0.0
+"Sparse eyelashes"	1.0	0.0	1.0	1.0	0.0
+"Sparse and thin eyebrow"	1.0	1.0	1.0	1.0	1.0
+"Hypotrichosis"	1.0	1.0	1.0	0.0	1.0

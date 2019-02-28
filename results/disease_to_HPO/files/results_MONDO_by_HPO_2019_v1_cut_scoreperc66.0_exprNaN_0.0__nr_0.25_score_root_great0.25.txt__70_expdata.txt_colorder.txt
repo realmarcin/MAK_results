@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Generalized hypotonia"
+"3" "Depressed nasal bridge"
+"4" "Hypertelorism"
+"5" "High palate"
+"6" "Prominent forehead"
+"7" "Delayed myelination"

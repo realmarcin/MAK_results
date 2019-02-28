@@ -1,0 +1,7 @@
+"x"
+"1" "Osteoma"
+"2" "HP:0000006"
+"3" "Neoplasm"
+"4" "Abnormality of metabolism/homeostasis"
+"5" "HP:0000610"
+"6" "Abnormality of the mandible"

@@ -1,0 +1,8 @@
+"x"
+"1" "Abnormality of metabolism/homeostasis"
+"2" "Agenesis of corpus callosum"
+"3" "Cerebral atrophy"
+"4" "Abnormality of the skeletal system"
+"5" "Death in infancy"
+"6" "Osteopetrosis"
+"7" "HP:0000007"

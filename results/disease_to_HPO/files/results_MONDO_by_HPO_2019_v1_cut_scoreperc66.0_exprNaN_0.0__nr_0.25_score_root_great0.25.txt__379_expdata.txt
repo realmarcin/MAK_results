@@ -1,0 +1,9 @@
+	"MONDO.0007388"	"MONDO.0007780"	"MONDO.0009012"	"MONDO.0010851"	"MONDO.0012142"
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0
+"Cleft upper lip"	1.0	1.0	1.0	1.0	1.0
+"Ventricular septal defect"	1.0	1.0	0.0	0.0	0.0
+"Conductive hearing impairment"	1.0	1.0	0.0	0.0	0.0
+"Hypospadias"	1.0	1.0	0.0	0.0	0.0
+"Inguinal hernia"	1.0	1.0	0.0	0.0	0.0
+"Weak cry"	1.0	1.0	0.0	0.0	0.0
+"Hiatus hernia"	1.0	1.0	0.0	0.0	0.0

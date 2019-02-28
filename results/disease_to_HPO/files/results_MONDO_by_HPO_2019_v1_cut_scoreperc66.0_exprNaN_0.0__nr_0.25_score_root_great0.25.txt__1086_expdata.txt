@@ -1,0 +1,7 @@
+	"MONDO.0008196"	"MONDO.0008817"	"MONDO.0010925"	"MONDO.0011437"
+"Inspiratory stridor"	1.0	1.0	1.0	1.0
+"Subependymal cysts"	0.0	0.0	1.0	0.0
+"3-Methylglutaric aciduria"	0.0	0.0	0.0	0.0
+"HP:0410066"	0.0	0.0	0.0	0.0
+"Multifocal cerebral white matter abnormalities"	0.0	0.0	1.0	0.0
+"D-2-hydroxyglutaric aciduria"	0.0	0.0	1.0	0.0

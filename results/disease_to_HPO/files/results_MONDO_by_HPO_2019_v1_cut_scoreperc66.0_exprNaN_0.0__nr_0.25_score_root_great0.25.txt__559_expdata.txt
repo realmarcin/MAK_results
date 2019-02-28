@@ -1,0 +1,6 @@
+	"MONDO.0012391"	"MONDO.0012536"	"MONDO.0013715"	"MONDO.0014810"	"MONDO.0020631"
+"HP:0000006"	0.0	1.0	1.0	1.0	0.0
+"Failure to thrive"	0.0	1.0	1.0	0.0	0.0
+"Recurrent infections"	0.0	1.0	0.0	0.0	1.0
+"Recurrent skin infections"	0.0	1.0	1.0	0.0	1.0
+"Monocytosis"	0.0	1.0	0.0	1.0	0.0

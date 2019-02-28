@@ -1,0 +1,7 @@
+	"MONDO.0024265"	"MONDO.0007631"	"MONDO.0009980"	"MONDO.0011982"	"MONDO.0012163"	"MONDO.0013153"	"MONDO.0014509"
+"Drusen"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Vitelliform-like macular lesions"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
+"Choroidal neovascularization"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Metamorphopsia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Peau d'orange"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Moderate visual impairment"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

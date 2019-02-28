@@ -1,0 +1,11 @@
+	"MONDO.0007313"	"MONDO.0008046"	"MONDO.0008048"	"MONDO.0012611"
+"Myoclonus"	0.0	1.0	0.0	0.0
+"HP:0003621"	0.0	1.0	1.0	0.0
+"Dementia"	1.0	1.0	0.0	0.0
+"Degeneration of anterior horn cells"	1.0	1.0	0.0	0.0
+"Neurological speech impairment"	0.0	1.0	0.0	0.0
+"Frequent falls"	0.0	1.0	0.0	0.0
+"Spinal muscular atrophy"	0.0	1.0	0.0	1.0
+"Respiratory insufficiency due to muscle weakness"	0.0	1.0	0.0	1.0
+"Generalized myoclonic seizures"	0.0	1.0	0.0	0.0
+"Oral-pharyngeal dysphagia"	0.0	1.0	0.0	0.0

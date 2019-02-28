@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Chronic bronchitis"
+"3" "Bronchiectasis"
+"4" "Elevated sweat chloride"

@@ -1,0 +1,7 @@
+	"MONDO.0007712"	"MONDO.0008564"	"MONDO.0011538"	"MONDO.0014037"	"MONDO.0014299"	"MONDO.0014982"
+"Long philtrum"	0.0	0.0	1.0	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	0.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0
+"Obesity"	0.0	1.0	1.0	0.0	0.0	0.0
+"Lymphopenia"	0.0	0.0	1.0	0.0	0.0	1.0

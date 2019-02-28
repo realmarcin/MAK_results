@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Retinal detachment"
+"3" "Severe Myopia"
+"4" "HP:0001425"
+"5" "Abnormality of the nervous system"
+"6" "Lattice retinal degeneration"

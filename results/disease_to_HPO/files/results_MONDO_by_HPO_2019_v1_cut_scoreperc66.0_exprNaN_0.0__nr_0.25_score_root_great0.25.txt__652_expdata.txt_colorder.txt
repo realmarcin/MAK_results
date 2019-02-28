@@ -1,0 +1,4 @@
+"x"
+"1" "Decreased motor nerve conduction velocity"
+"2" "Weakness of the intrinsic hand muscles"
+"3" "Triceps weakness"

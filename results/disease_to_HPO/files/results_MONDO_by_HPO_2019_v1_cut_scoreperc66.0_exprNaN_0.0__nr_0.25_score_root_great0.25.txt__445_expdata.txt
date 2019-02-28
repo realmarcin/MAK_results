@@ -1,0 +1,14 @@
+	"MONDO.0011221"	"MONDO.0013974"	"MONDO.0013975"
+"HP:0000007"	1.0	1.0	1.0
+"HP:0001596"	0.0	0.0	1.0
+"Sparse scalp hair"	1.0	1.0	0.0
+"Dystrophic fingernails"	1.0	1.0	0.0
+"Sparse hair"	0.0	0.0	1.0
+"Macrodontia"	1.0	0.0	0.0
+"Irregular dentition"	1.0	0.0	0.0
+"Agenesis of permanent teeth"	1.0	0.0	0.0
+"Dystrophic toenail"	1.0	0.0	1.0
+"Aplasia/Hypoplasia of the eyebrow"	1.0	0.0	0.0
+"Hair-nail ectodermal dysplasia"	1.0	1.0	1.0
+"Sparse or absent eyelashes"	1.0	0.0	0.0
+"Thin toenail"	0.0	0.0	1.0

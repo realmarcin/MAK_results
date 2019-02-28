@@ -1,0 +1,6 @@
+	"MONDO.0008587"	"MONDO.0013797"	"MONDO.0014947"
+"Esophageal atresia"	1.0	1.0	0.0
+"Peters anomaly"	0.0	1.0	0.0
+"Cleft soft palate"	0.0	1.0	0.0
+"Tracheoesophageal fistula"	1.0	1.0	0.0
+"Facial hypotonia"	0.0	1.0	0.0

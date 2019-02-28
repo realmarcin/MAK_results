@@ -1,0 +1,6 @@
+	"MONDO.0007365"	"MONDO.0015278"	"MONDO.0010803"	"MONDO.0014504"
+"Absent antihelix"	1.0	0.0	0.0	0.0
+"Mild microcephaly"	1.0	0.0	1.0	1.0
+"Joint contractures involving the joints of the feet"	1.0	0.0	0.0	0.0
+"HP:0031435"	0.0	1.0	0.0	1.0
+"HP:0009617"	0.0	0.0	0.0	1.0

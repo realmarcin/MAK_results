@@ -1,0 +1,5 @@
+"x"
+"1" "Spastic paraparesis"
+"2" "Blepharophimosis"
+"3" "Umbilical hernia"
+"4" "Microcornea"

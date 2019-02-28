@@ -1,0 +1,9 @@
+	"MONDO.0009596"	"MONDO.0011336"	"MONDO.0012530"	"MONDO.0012926"	"MONDO.0014246"
+"Anteverted nares"	1.0	1.0	0.0	0.0	0.0
+"Muscular hypotonia"	1.0	1.0	0.0	0.0	0.0
+"Depressed nasal bridge"	1.0	1.0	0.0	0.0	0.0
+"Short neck"	1.0	1.0	0.0	0.0	0.0
+"Scoliosis"	1.0	1.0	0.0	0.0	0.0
+"Micromelia"	1.0	1.0	0.0	0.0	0.0
+"Joint hyperflexibility"	1.0	1.0	0.0	0.0	0.0
+"Spinal dysraphism"	1.0	1.0	0.0	0.0	0.0

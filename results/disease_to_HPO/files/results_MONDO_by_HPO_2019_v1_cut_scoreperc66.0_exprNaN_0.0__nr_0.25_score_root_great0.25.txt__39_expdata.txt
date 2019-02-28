@@ -1,0 +1,7 @@
+	"MONDO.0008368"	"MONDO.0008448"	"MONDO.0008494"	"MONDO.0012982"	"MONDO.0014722"	"MONDO.0014738"
+"Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hemolytic anemia"	0.0	1.0	1.0	1.0	1.0	1.0
+"Jaundice"	0.0	1.0	1.0	1.0	1.0	1.0
+"Reticulocytosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperbilirubinemia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Spherocytosis"	0.0	1.0	0.0	1.0	1.0	0.0

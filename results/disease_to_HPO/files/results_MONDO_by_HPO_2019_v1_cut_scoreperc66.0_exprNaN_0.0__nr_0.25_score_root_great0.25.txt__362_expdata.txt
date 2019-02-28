@@ -1,0 +1,10 @@
+	"MONDO.0009173"	"MONDO.0012943"	"MONDO.0013154"
+"HP:0000007"	1.0	1.0	1.0
+"Rectovaginal fistula"	0.0	1.0	0.0
+"Rectal abscess"	0.0	1.0	0.0
+"HP:0004387"	1.0	1.0	1.0
+"Pyoderma"	0.0	0.0	1.0
+"Folliculitis"	0.0	1.0	0.0
+"Hematochezia"	1.0	0.0	1.0
+"Perianal abscess"	0.0	1.0	1.0
+"Ulcerative colitis"	1.0	0.0	0.0

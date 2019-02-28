@@ -1,0 +1,5 @@
+"x"
+"1" "Natal tooth"
+"2" "Dermal atrophy"
+"3" "Obstructive sleep apnea"
+"4" "Short ribs"

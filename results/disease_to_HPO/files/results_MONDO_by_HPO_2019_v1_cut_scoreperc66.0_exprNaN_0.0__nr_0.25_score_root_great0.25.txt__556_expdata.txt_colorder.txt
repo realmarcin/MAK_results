@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Neoplasm"
+"3" "Milia"
+"4" "Prostate cancer"
+"5" "HP:0003581"

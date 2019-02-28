@@ -1,0 +1,6 @@
+"x"
+"1" "Priapism"
+"2" "Pigment gallstones"
+"3" "Increased red cell sickling tendency"
+"4" "Decreased glucosephosphate isomerase activity"
+"5" "Spontaneous hemolytic crises"

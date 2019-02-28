@@ -1,0 +1,8 @@
+	"MONDO.0009503"	"MONDO.0009724"	"MONDO.0012123"
+"HP:0000007"	1.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0
+"HP:0003593"	1.0	1.0	1.0
+"Lactic acidosis"	1.0	1.0	1.0

@@ -1,0 +1,10 @@
+	"MONDO.0009084"	"MONDO.0010176"	"MONDO.0011006"	"MONDO.0011150"
+"HP:0000007"	1.0	1.0	1.0	0.0
+"Micrognathia"	0.0	1.0	1.0	0.0
+"Depressed nasal bridge"	0.0	1.0	0.0	1.0
+"Abnormality of the pinna"	1.0	1.0	1.0	1.0
+"Osteolytic defects of the phalanges of the hand"	0.0	1.0	0.0	0.0
+"Abnormality of the hair"	0.0	1.0	0.0	1.0
+"Astigmatism"	0.0	1.0	0.0	0.0
+"Misalignment of teeth"	0.0	1.0	0.0	0.0
+"Distal ulnar hypoplasia"	0.0	1.0	0.0	0.0

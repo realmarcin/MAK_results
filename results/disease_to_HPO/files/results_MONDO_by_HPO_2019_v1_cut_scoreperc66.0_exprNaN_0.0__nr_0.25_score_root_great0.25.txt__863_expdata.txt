@@ -1,0 +1,6 @@
+	"MONDO.0008726"	"MONDO.0008727"	"MONDO.0009224"	"MONDO.0010205"	"MONDO.0013401"	"MONDO.0009859"
+"Low maternal serum estriol"	0.0	1.0	0.0	0.0	1.0	0.0
+"Abnormality of the Leydig cells"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormal urine potassium concentration"	1.0	0.0	0.0	1.0	1.0	0.0
+"Midshaft hypospadias"	0.0	0.0	0.0	0.0	1.0	1.0
+"Decreased circulating androgen level"	1.0	0.0	0.0	0.0	1.0	0.0

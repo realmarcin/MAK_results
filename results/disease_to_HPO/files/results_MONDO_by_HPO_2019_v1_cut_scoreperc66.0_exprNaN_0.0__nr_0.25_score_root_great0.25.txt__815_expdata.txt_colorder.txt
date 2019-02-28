@@ -1,0 +1,4 @@
+"x"
+"1" "Aseptic necrosis"
+"2" "Avascular necrosis of the capital femoral epiphysis"
+"3" "Cartilage destruction"

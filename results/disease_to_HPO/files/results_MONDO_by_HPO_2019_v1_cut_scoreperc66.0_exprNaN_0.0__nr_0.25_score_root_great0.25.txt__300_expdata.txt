@@ -1,0 +1,9 @@
+	"MONDO.0007612"	"MONDO.0009080"	"MONDO.0011818"	"MONDO.0012103"	"MONDO.0014405"	"MONDO.0014824"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the skin"	0.0	1.0	0.0	1.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	1.0	1.0	0.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	0.0	0.0
+"Cataract"	1.0	1.0	1.0	0.0	0.0	0.0
+"Blindness"	0.0	1.0	0.0	0.0	1.0	0.0
+"Downturned corners of mouth"	0.0	1.0	1.0	0.0	0.0	0.0

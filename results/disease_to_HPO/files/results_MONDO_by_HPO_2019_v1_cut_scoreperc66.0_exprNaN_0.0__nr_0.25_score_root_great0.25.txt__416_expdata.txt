@@ -1,0 +1,7 @@
+	"MONDO.0008710"	"MONDO.0010029"	"MONDO.0011948"	"MONDO.0012110"	"MONDO.0013128"	"MONDO.0013796"
+"Short nose"	1.0	0.0	1.0	0.0	0.0	1.0
+"Thoracic hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Enlarged kidney"	1.0	0.0	1.0	0.0	1.0	0.0
+"Cystic renal dysplasia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Protuberant abdomen"	1.0	1.0	1.0	0.0	0.0	1.0
+"Premature closure of fontanelles"	1.0	0.0	0.0	0.0	0.0	0.0

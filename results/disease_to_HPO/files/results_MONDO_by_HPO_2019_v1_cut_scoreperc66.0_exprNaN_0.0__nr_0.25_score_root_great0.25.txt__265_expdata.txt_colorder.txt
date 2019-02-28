@@ -1,0 +1,6 @@
+"x"
+"1" "Psoriasiform dermatitis"
+"2" "Epidermal acanthosis"
+"3" "Parakeratosis"
+"4" "Pustule"
+"5" "Oligoarthritis"

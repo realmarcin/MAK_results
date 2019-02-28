@@ -1,0 +1,7 @@
+"x"
+"1" "Lacrimal gland hypoplasia"
+"2" "Absent lacrimal punctum"
+"3" "Bilateral triphalangeal thumbs"
+"4" "Lacrimal gland aplasia"
+"5" "Hypoplastic lacrimal duct"
+"6" "Coronal hypospadias"

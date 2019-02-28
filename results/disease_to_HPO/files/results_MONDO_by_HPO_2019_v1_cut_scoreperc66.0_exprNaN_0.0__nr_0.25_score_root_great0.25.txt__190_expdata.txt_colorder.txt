@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "HP:0003593"
+"3" "Generalized hypotonia"
+"4" "Increased serum lactate"
+"5" "Seizures"
+"6" "Left ventricular noncompaction"

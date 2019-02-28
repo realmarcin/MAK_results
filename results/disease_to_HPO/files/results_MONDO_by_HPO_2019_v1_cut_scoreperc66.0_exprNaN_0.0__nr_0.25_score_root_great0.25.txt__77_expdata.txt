@@ -1,0 +1,4 @@
+	"MONDO.0008313"	"MONDO.0008510"	"MONDO.0014233"
+"HP:0000006"	1.0	1.0	1.0
+"Mandibular prognathia"	1.0	0.0	0.0
+"Craniosynostosis"	1.0	1.0	1.0

@@ -1,0 +1,11 @@
+	"MONDO.0013511"	"MONDO.0033308"	"MONDO.0060760"	"MONDO.0020848"
+"Seizures"	1.0	1.0	1.0	1.0
+"Depressed nasal bridge"	0.0	1.0	0.0	0.0
+"Full cheeks"	0.0	1.0	0.0	0.0
+"Happy demeanor"	0.0	1.0	0.0	0.0
+"Absent speech"	0.0	1.0	0.0	0.0
+"Broad-based gait"	0.0	1.0	0.0	0.0
+"Sparse lateral eyebrow"	0.0	1.0	0.0	0.0
+"Thick upper lip vermilion"	0.0	1.0	0.0	0.0
+"Spastic gait"	0.0	1.0	0.0	0.0
+"Hyperplasia of the maxilla"	0.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0011297"	"MONDO.0012629"	"MONDO.0012696"	"MONDO.0012849"	"MONDO.0013735"
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Microphthalmia"	1.0	1.0	1.0	0.0	1.0
+"Postaxial hand polydactyly"	1.0	1.0	1.0	1.0	0.0
+"Bowing of the long bones"	1.0	1.0	1.0	0.0	0.0
+"Anencephaly"	1.0	1.0	1.0	1.0	0.0
+"Bile duct proliferation"	1.0	1.0	1.0	1.0	0.0

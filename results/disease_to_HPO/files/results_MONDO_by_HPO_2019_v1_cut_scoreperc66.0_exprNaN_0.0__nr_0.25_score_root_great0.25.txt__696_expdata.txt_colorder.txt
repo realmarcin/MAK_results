@@ -1,0 +1,8 @@
+"x"
+"1" "Hemihypertrophy"
+"2" "Mandibular prognathia"
+"3" "Large for gestational age"
+"4" "Macroglossia"
+"5" "Neonatal hypoglycemia"
+"6" "Elevated alpha-fetoprotein"
+"7" "Otosclerosis"

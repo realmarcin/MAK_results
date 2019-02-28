@@ -1,0 +1,7 @@
+"x"
+"1" "Thick eyebrow"
+"2" "Widow's peak"
+"3" "Atopic dermatitis"
+"4" "Prominent nasal septum"
+"5" "Pear-shaped nose"
+"6" "Interphalangeal joint contracture of finger"

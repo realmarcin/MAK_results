@@ -1,0 +1,10 @@
+	"MONDO.0009273"	"MONDO.0009338"	"MONDO.0009822"	"MONDO.0010285"	"MONDO.0010520"
+"Cryptorchidism"	1.0	1.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	1.0
+"Depressed nasal bridge"	1.0	1.0	1.0	1.0	1.0
+"Midface retrusion"	1.0	0.0	1.0	1.0	1.0
+"Short stature"	1.0	0.0	1.0	1.0	1.0
+"Abnormality of the cardiac septa"	1.0	0.0	0.0	1.0	0.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	1.0	0.0	0.0
+"Everted lower lip vermilion"	1.0	0.0	0.0	0.0	1.0
+"Ambiguous genitalia"	1.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Blindness"
+"2" "Subcapsular cataract"
+"3" "Retinal exudate"
+"4" "Posterior vitreous detachment"
+"5" "Falciform retinal fold"
+"6" "Peripheral retinal avascularization"
+"7" "Vitreous hemorrhage"

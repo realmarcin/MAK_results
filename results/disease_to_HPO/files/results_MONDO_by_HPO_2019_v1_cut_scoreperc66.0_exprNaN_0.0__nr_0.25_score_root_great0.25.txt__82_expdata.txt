@@ -1,0 +1,7 @@
+	"MONDO.0007309"	"MONDO.0008025"	"MONDO.0008452"	"MONDO.0054637"	"MONDO.0011902"	"MONDO.0012199"
+"Peripheral neuropathy"	1.0	1.0	0.0	0.0	0.0	1.0
+"Hyporeflexia"	1.0	1.0	0.0	0.0	0.0	1.0
+"Pes cavus"	1.0	1.0	1.0	1.0	1.0	1.0
+"Distal amyotrophy"	1.0	1.0	1.0	1.0	1.0	1.0
+"Distal muscle weakness"	1.0	1.0	1.0	1.0	1.0	1.0
+"Distal sensory impairment"	1.0	0.0	0.0	1.0	1.0	1.0

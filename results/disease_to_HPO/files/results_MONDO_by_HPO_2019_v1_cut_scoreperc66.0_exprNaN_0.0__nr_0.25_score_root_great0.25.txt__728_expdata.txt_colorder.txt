@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormal vertebral morphology"
+"2" "Abnormality of the vertebral column"
+"3" "First degree atrioventricular block"
+"4" "Secundum atrial septal defect"
+"5" "Sprengel anomaly"
+"6" "Abnormality of the clavicle"

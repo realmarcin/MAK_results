@@ -1,0 +1,7 @@
+	"MONDO.0009591"	"MONDO.0009592"	"MONDO.0024556"	"MONDO.0011667"	"MONDO.0012867"	"MONDO.0013343"
+"Mental deterioration"	1.0	1.0	1.0	1.0	1.0	1.0
+"Urinary incontinence"	1.0	1.0	1.0	0.0	1.0	1.0
+"Peripheral demyelination"	1.0	1.0	0.0	0.0	1.0	0.0
+"CNS demyelination"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the periventricular white matter"	1.0	0.0	1.0	1.0	1.0	1.0
+"Loss of speech"	1.0	1.0	0.0	0.0	0.0	0.0

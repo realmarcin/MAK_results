@@ -1,0 +1,6 @@
+"x"
+"1" "Colon cancer"
+"2" "Duodenal adenocarcinoma"
+"3" "Neoplasm of the liver"
+"4" "Basal cell carcinoma"
+"5" "Neoplasm of the stomach"

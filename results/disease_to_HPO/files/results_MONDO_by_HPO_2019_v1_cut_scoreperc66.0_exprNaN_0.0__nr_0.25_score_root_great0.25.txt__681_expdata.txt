@@ -1,0 +1,17 @@
+	"MONDO.0010338"	"MONDO.0010384"	"MONDO.0010394"	"MONDO.0010656"	"MONDO.0011242"	"MONDO.0012757"
+"Pectus excavatum"	0.0	1.0	0.0	1.0	0.0	0.0
+"Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Long nose"	1.0	0.0	0.0	1.0	0.0	0.0
+"Autism"	1.0	1.0	0.0	1.0	0.0	1.0
+"Hyperactivity"	1.0	1.0	0.0	1.0	0.0	0.0
+"Short philtrum"	1.0	0.0	0.0	1.0	0.0	0.0
+"Protruding ear"	0.0	1.0	0.0	1.0	0.0	0.0
+"Macrocephaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Narrow face"	0.0	1.0	0.0	1.0	0.0	0.0
+"Neurological speech impairment"	1.0	1.0	0.0	1.0	0.0	0.0
+"Attention deficit hyperactivity disorder"	1.0	1.0	0.0	1.0	0.0	1.0
+"Ascending aortic dilation"	0.0	1.0	0.0	1.0	0.0	0.0
+"Microphallus"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the philtrum"	1.0	0.0	0.0	0.0	0.0	0.0
+"Retrocerebellar cyst"	1.0	0.0	0.0	0.0	0.0	0.0
+"Disorganization of the anterior cerebellar vermis"	1.0	0.0	0.0	0.0	0.0	0.0

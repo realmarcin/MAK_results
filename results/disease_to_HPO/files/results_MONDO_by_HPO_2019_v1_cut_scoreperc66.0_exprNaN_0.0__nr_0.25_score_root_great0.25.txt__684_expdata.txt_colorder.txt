@@ -1,0 +1,7 @@
+"x"
+"1" "Hypotelorism"
+"2" "Holoprosencephaly"
+"3" "Aprosencephaly"
+"4" "Abnormal external genitalia"
+"5" "Abnormality of the nares"
+"6" "Abnormal morphology of the radius"

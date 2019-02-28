@@ -1,0 +1,4 @@
+"x"
+"1" "Lewy bodies"
+"2" "Substantia nigra gliosis"
+"3" "HP:0031435"

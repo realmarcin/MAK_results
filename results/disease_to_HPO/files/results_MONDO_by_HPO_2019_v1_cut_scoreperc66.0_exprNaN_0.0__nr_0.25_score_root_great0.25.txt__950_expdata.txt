@@ -1,0 +1,6 @@
+	"MONDO.0007496"	"MONDO.0008356"	"MONDO.0009230"	"MONDO.0009844"	"MONDO.0009998"	"MONDO.0010086"
+"Projectile vomiting"	0.0	1.0	0.0	1.0	0.0	0.0
+"Hypochloremic metabolic alkalosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Progressive flexion contractures"	1.0	0.0	1.0	1.0	1.0	0.0
+"Sudanophilic leukodystrophy"	0.0	0.0	0.0	1.0	0.0	0.0
+"Diffuse cerebral sclerosis"	0.0	0.0	0.0	1.0	0.0	1.0

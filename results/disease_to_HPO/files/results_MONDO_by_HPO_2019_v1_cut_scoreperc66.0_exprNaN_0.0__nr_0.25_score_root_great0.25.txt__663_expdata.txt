@@ -1,0 +1,10 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0012614"	"MONDO.0013174"	"MONDO.0013883"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0
+"Wide nasal bridge"	1.0	0.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Eczema"	0.0	0.0	1.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	0.0	0.0	1.0	0.0	0.0
+"HP:0008897"	0.0	0.0	1.0	0.0	0.0
+"Narrow face"	0.0	0.0	1.0	0.0	0.0
+"Small for gestational age"	0.0	0.0	1.0	0.0	0.0
+"Achilles tendon contracture"	0.0	0.0	1.0	0.0	0.0

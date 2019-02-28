@@ -1,0 +1,7 @@
+"x"
+"1" "Childhood-onset short-trunk short stature"
+"2" "Increased urinary disaccharide excretion"
+"3" "Squared-off platyspondyly"
+"4" "Broad tibial metaphyses"
+"5" "Precocious costochondral ossification"
+"6" "Flared radial metaphysis"

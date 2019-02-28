@@ -1,0 +1,4 @@
+"x"
+"1" "HP:0003680"
+"2" "Thin glomerular basement membrane"
+"3" "Nasal regurgitation"

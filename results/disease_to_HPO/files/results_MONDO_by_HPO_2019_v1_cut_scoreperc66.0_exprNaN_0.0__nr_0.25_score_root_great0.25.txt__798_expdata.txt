@@ -1,0 +1,7 @@
+	"MONDO.0007530"	"MONDO.0008096"	"MONDO.0008487"	"MONDO.0008533"	"MONDO.0008579"	"MONDO.0009468"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
+"Abnormality of the nail"	0.0	0.0	1.0	0.0	1.0	0.0
+"Nevus"	1.0	1.0	0.0	0.0	0.0	0.0
+"Natal tooth"	0.0	0.0	1.0	1.0	0.0	1.0
+"Nevus anemicus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Steatocystoma multiplex"	0.0	0.0	1.0	0.0	0.0	0.0

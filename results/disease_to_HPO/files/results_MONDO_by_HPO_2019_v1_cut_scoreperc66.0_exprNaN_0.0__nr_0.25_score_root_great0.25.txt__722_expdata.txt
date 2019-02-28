@@ -1,0 +1,10 @@
+	"MONDO.0007712"	"MONDO.0010659"	"MONDO.0011538"	"MONDO.0014358"
+"Intellectual disability"	0.0	1.0	1.0	1.0
+"Mandibular prognathia"	0.0	1.0	0.0	1.0
+"Thick lower lip vermilion"	0.0	1.0	0.0	1.0
+"Poor eye contact"	0.0	0.0	0.0	1.0
+"Recurrent infections"	0.0	1.0	1.0	1.0
+"Sacral dimple"	0.0	0.0	0.0	1.0
+"Mood swings"	0.0	0.0	0.0	1.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	1.0
+"Horizontal eyebrow"	0.0	0.0	0.0	1.0

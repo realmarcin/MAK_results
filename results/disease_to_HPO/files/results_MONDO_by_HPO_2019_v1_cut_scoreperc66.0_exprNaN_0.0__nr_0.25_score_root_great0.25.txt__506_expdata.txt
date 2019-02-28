@@ -1,0 +1,8 @@
+	"MONDO.0008476"	"MONDO.0008482"	"MONDO.0010572"	"MONDO.0010887"
+"Toe syndactyly"	0.0	0.0	1.0	1.0
+"Conductive hearing impairment"	0.0	0.0	1.0	1.0
+"Midface retrusion"	0.0	0.0	1.0	1.0
+"Short palm"	0.0	0.0	1.0	1.0
+"Short metacarpal"	0.0	0.0	1.0	1.0
+"Short metatarsal"	0.0	0.0	1.0	1.0
+"Broad face"	0.0	0.0	1.0	1.0

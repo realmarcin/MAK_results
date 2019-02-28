@@ -1,0 +1,7 @@
+	"MONDO.0009693"	"MONDO.0009892"	"MONDO.0014708"	"MONDO.0014838"	"MONDO.0044317"
+"Arterial thrombosis"	0.0	1.0	0.0	0.0	0.0
+"Myelofibrosis"	1.0	1.0	1.0	1.0	1.0
+"Budd-Chiari syndrome"	0.0	1.0	0.0	0.0	0.0
+"Hepatic vein thrombosis"	0.0	0.0	0.0	0.0	0.0
+"Increased megakaryocyte count"	0.0	1.0	0.0	0.0	0.0
+"Portal vein thrombosis"	0.0	1.0	0.0	0.0	0.0

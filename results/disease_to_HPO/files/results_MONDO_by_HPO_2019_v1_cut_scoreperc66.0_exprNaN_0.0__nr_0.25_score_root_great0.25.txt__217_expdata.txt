@@ -1,0 +1,10 @@
+	"MONDO.0007237"	"MONDO.0007944"	"MONDO.0011263"	"MONDO.0012211"
+"Cleft palate"	1.0	1.0	0.0	1.0
+"HP:0003828"	1.0	1.0	1.0	0.0
+"Preauricular pit"	1.0	0.0	1.0	1.0
+"HP:0003829"	1.0	0.0	1.0	0.0
+"Mixed hearing impairment"	1.0	0.0	1.0	1.0
+"Dilatated internal auditory canal"	1.0	0.0	1.0	0.0
+"Hypoplasia of the cochlea"	1.0	0.0	1.0	0.0
+"Branchial fistula"	1.0	0.0	1.0	1.0
+"Branchial cyst"	1.0	0.0	0.0	1.0

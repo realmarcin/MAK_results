@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0010895"
+"2" "Abnormality of histidine metabolism"
+"3" "HP:0010918"
+"4" "Urocanic aciduria"

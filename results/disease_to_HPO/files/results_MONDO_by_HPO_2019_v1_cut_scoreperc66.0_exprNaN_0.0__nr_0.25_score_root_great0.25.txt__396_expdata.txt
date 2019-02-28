@@ -1,0 +1,4 @@
+	"MONDO.0008810"	"MONDO.0009565"	"MONDO.0009568"	"MONDO.0009743"	"MONDO.0013174"
+"Fixed facial expression"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the cerebellar vermis"	0.0	1.0	1.0	1.0	1.0
+"Aplasia/Hypoplasia involving the skeletal musculature"	1.0	1.0	1.0	0.0	0.0

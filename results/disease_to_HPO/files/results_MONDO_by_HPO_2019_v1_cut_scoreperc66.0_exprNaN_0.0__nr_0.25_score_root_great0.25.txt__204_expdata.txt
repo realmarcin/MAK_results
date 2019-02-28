@@ -1,0 +1,6 @@
+	"MONDO.0013547"	"MONDO.0014117"	"MONDO.0014467"	"MONDO.0014472"	"MONDO.0014594"	"MONDO.0014833"	"MONDO.0014912"	"MONDO.0030916"	"MONDO.0054817"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
+"Intrauterine growth retardation"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Congestive heart failure"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003577"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperalaninemia"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

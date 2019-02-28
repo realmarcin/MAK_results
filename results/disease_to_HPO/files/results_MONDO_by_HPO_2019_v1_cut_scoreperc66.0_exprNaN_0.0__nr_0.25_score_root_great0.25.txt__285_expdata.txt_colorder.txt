@@ -1,0 +1,5 @@
+"x"
+"1" "Deep white matter hypodensities"
+"2" "Chronic CSF lymphocytosis"
+"3" "Chilblain lesions"
+"4" "Increased CSF interferon alpha"

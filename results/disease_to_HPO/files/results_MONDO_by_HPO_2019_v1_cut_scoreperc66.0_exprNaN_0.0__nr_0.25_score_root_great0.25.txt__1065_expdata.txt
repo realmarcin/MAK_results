@@ -1,0 +1,19 @@
+	"MONDO.0010182"	"MONDO.0011285"	"MONDO.0013351"	"MONDO.0013868"
+"Ptosis"	1.0	1.0	0.0	0.0
+"Ophthalmoplegia"	1.0	0.0	0.0	0.0
+"Myopathy"	1.0	0.0	0.0	0.0
+"Dilatation"	1.0	0.0	0.0	0.0
+"Vomiting"	0.0	1.0	0.0	0.0
+"Distal amyotrophy"	0.0	1.0	0.0	0.0
+"Distal sensory impairment"	0.0	1.0	0.0	0.0
+"Lactic acidosis"	0.0	1.0	0.0	0.0
+"Leukoencephalopathy"	0.0	1.0	0.0	0.0
+"HP:0031368"	0.0	1.0	0.0	0.0
+"Malnutrition"	1.0	1.0	1.0	0.0
+"Gastroparesis"	1.0	1.0	0.0	0.0
+"Abnormality of the gastric mucosa"	1.0	0.0	0.0	0.0
+"Spontaneous esophageal perforation"	1.0	0.0	0.0	0.0
+"Intermittent diarrhea"	0.0	1.0	0.0	0.0
+"Hypointensity of cerebral white matter on MRI"	0.0	1.0	0.0	0.0
+"Death in early adulthood"	0.0	1.0	0.0	0.0
+"Abnormality of the mitral valve"	1.0	0.0	0.0	0.0

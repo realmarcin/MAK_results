@@ -1,0 +1,8 @@
+"x"
+"1" "Hearing impairment"
+"2" "Scoliosis"
+"3" "Myopia"
+"4" "Varicocele"
+"5" "Congenital hip dislocation"
+"6" "Dentinogenesis imperfecta"
+"7" "Decreased corneal thickness"

@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Single transverse palmar crease"
+"3" "Scoliosis"
+"4" "Osteopenia"
+"5" "Kyphosis"
+"6" "Low posterior hairline"
+"7" "Torticollis"

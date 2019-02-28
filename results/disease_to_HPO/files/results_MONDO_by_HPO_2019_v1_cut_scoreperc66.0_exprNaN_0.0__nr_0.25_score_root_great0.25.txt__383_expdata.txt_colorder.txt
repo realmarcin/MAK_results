@@ -1,0 +1,8 @@
+"x"
+"1" "Cleft palate"
+"2" "Brachydactyly"
+"3" "Epicanthus"
+"4" "Malar flattening"
+"5" "Conductive hearing impairment"
+"6" "Short toe"
+"7" "Iris coloboma"

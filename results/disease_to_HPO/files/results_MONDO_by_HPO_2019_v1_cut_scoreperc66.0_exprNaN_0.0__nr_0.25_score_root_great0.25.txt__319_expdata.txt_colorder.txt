@@ -1,0 +1,8 @@
+"x"
+"1" "Retinal dystrophy"
+"2" "Optic nerve coloboma"
+"3" "Impaired smooth pursuit"
+"4" "Abnormality of saccadic eye movements"
+"5" "Abnormality of ocular smooth pursuit"
+"6" "Dysgenesis of the cerebellar vermis"
+"7" "Brainstem dysplasia"

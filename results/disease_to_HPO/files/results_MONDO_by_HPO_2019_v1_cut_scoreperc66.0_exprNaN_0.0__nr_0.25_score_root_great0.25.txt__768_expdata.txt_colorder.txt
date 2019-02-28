@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Migraine"
+"3" "Focal seizures"
+"4" "Generalized seizures"
+"5" "Focal seizures, afebril"

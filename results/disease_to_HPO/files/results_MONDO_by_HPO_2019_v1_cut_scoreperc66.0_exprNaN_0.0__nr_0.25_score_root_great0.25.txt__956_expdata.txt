@@ -1,0 +1,10 @@
+	"MONDO.0008977"	"MONDO.0009337"	"MONDO.0019200"	"MONDO.0011116"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Proteinuria"	1.0	0.0	0.0	0.0
+"Nephrotic syndrome"	1.0	0.0	0.0	0.0
+"Opacification of the corneal stroma"	1.0	0.0	0.0	0.0
+"Small for gestational age"	1.0	0.0	0.0	0.0
+"Generalized bone demineralization"	1.0	0.0	0.0	0.0
+"Cor pulmonale"	1.0	0.0	0.0	0.0
+"HP:0008155"	1.0	0.0	0.0	0.0
+"Macronodular cirrhosis"	1.0	0.0	0.0	0.0

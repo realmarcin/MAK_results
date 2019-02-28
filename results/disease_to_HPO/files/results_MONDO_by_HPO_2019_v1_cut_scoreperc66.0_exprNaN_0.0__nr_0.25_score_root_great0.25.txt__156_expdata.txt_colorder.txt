@@ -1,0 +1,8 @@
+"x"
+"1" "Seizures"
+"2" "Ataxia"
+"3" "HP:0000007"
+"4" "Global developmental delay"
+"5" "High palate"
+"6" "Pes cavus"
+"7" "HP:0003677"

@@ -1,0 +1,10 @@
+	"MONDO.0007513"	"MONDO.0010517"	"MONDO.0013056"	"MONDO.0013881"	"MONDO.0060650"
+"Pes planus"	0.0	1.0	1.0	0.0	0.0
+"Esotropia"	0.0	1.0	0.0	1.0	0.0
+"Midface retrusion"	0.0	1.0	0.0	1.0	1.0
+"Dental crowding"	0.0	1.0	1.0	0.0	1.0
+"Broad forehead"	0.0	1.0	0.0	0.0	1.0
+"Clinodactyly of the 5th finger"	1.0	1.0	1.0	0.0	1.0
+"Thin upper lip vermilion"	1.0	1.0	1.0	0.0	1.0
+"HP:0003680"	0.0	0.0	0.0	1.0	0.0
+"Esophoria"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,13 @@
+	"MONDO.0009050"	"MONDO.0009051"	"MONDO.0012506"	"MONDO.0012510"
+"Hypertension"	1.0	1.0	1.0	1.0
+"Osteoporosis"	1.0	1.0	1.0	1.0
+"Depressivity"	1.0	1.0	1.0	1.0
+"Anxiety"	1.0	1.0	1.0	1.0
+"Thin skin"	1.0	1.0	1.0	1.0
+"Bruising susceptibility"	1.0	1.0	1.0	1.0
+"Psychosis"	1.0	1.0	1.0	1.0
+"Striae distensae"	1.0	1.0	1.0	1.0
+"Abdominal obesity"	0.0	1.0	0.0	0.0
+"Truncal obesity"	1.0	1.0	1.0	1.0
+"Mood changes"	1.0	1.0	1.0	1.0
+"Generalized hyperpigmentation"	0.0	1.0	0.0	0.0

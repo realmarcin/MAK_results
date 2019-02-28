@@ -1,0 +1,6 @@
+	"MONDO.0010451"	"MONDO.0014624"	"MONDO.0030911"
+"Intellectual disability"	1.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0
+"Cerebellar hypoplasia"	0.0	1.0	0.0
+"Poor speech"	0.0	1.0	1.0

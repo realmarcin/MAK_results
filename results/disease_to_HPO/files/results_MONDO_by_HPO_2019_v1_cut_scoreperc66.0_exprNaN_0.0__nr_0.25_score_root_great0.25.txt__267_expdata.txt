@@ -1,0 +1,7 @@
+	"MONDO.0010290"	"MONDO.0010310"	"MONDO.0010490"	"MONDO.0010510"	"MONDO.0010744"
+"Intellectual disability"	1.0	0.0	1.0	1.0	0.0
+"Seizures"	1.0	0.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	0.0
+"Hyperactivity"	1.0	0.0	1.0	0.0	0.0
+"Long face"	1.0	0.0	1.0	0.0	0.0
+"HP:0001419"	1.0	1.0	1.0	1.0	1.0

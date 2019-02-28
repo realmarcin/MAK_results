@@ -1,0 +1,7 @@
+	"MONDO.0007668"	"MONDO.0009120"	"MONDO.0011984"	"MONDO.0012055"
+"Rheumatoid arthritis"	0.0	1.0	0.0	0.0
+"HP:0100646"	0.0	1.0	1.0	0.0
+"Jejunal diverticula"	0.0	1.0	0.0	0.0
+"Jejunoileal diverticula"	0.0	1.0	0.0	0.0
+"Duodenal diverticula"	0.0	1.0	0.0	0.0
+"Ulcerative colitis"	0.0	1.0	0.0	0.0

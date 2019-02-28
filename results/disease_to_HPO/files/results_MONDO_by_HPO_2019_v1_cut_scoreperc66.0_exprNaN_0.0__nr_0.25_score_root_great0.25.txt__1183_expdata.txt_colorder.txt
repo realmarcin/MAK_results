@@ -1,0 +1,8 @@
+"x"
+"1" "Spasticity"
+"2" "Kyphoscoliosis"
+"3" "Cardiomegaly"
+"4" "Congestive heart failure"
+"5" "Atrial flutter"
+"6" "Macroorchidism"
+"7" "Contractures of the large joints"

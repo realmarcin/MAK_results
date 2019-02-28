@@ -1,0 +1,4 @@
+"x"
+"1" "Acanthosis nigricans"
+"2" "Thick lower lip vermilion"
+"3" "Macroglossia"

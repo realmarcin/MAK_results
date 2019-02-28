@@ -1,0 +1,7 @@
+	"MONDO.0009355"	"MONDO.0009610"	"MONDO.0010184"	"MONDO.0010185"	"MONDO.0010186"	"MONDO.0013926"	"MONDO.0054708"
+"Megaloblastic anemia"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+"Homocystinuria"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Hyperhomocystinemia"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Decreased methylcobalamin"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Decreased methionine synthase activity"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Hypomethioninemia"	1.0	1.0	0.0	1.0	1.0	0.0	0.0

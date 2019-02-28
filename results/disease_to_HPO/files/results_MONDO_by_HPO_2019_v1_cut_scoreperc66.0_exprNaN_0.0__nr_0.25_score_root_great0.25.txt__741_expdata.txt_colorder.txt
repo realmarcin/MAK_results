@@ -1,0 +1,4 @@
+"x"
+"1" "Excessive wrinkled skin"
+"2" "Abnormality of the endocardium"
+"3" "Angiokeratoma"

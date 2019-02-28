@@ -1,0 +1,10 @@
+	"MONDO.0009161"	"MONDO.0009364"	"MONDO.0011143"	"MONDO.0013606"	"MONDO.0033373"
+"Joint laxity"	1.0	1.0	1.0	0.0	0.0
+"Arachnodactyly"	1.0	1.0	1.0	0.0	0.0
+"Scoliosis"	1.0	1.0	1.0	0.0	0.0
+"Umbilical hernia"	0.0	1.0	1.0	1.0	0.0
+"Adducted thumb"	0.0	1.0	1.0	0.0	0.0
+"Gait disturbance"	1.0	1.0	0.0	1.0	0.0
+"Hemiplegia"	0.0	1.0	0.0	0.0	0.0
+"Shoulder dislocation"	0.0	1.0	0.0	0.0	1.0
+"Thoracolumbar kyphosis"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,9 @@
+	"MONDO.0007553"	"MONDO.0011421"	"MONDO.0014404"	"MONDO.0014421"	"MONDO.0014888"
+"HP:0000007"	1.0	0.0	1.0	0.0	1.0
+"HP:0000006"	1.0	0.0	1.0	0.0	0.0
+"Hyperkeratosis"	1.0	0.0	0.0	0.0	1.0
+"Dystrophic fingernails"	1.0	0.0	0.0	0.0	0.0
+"Pruritus"	1.0	0.0	0.0	0.0	0.0
+"Milia"	1.0	0.0	0.0	0.0	0.0
+"Atypical scarring of skin"	1.0	0.0	0.0	0.0	0.0
+"Dystrophic toenail"	1.0	0.0	0.0	0.0	0.0

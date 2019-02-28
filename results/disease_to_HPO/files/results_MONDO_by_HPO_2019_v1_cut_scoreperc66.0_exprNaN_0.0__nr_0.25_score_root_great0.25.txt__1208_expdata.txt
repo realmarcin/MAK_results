@@ -1,0 +1,8 @@
+	"MONDO.0009393"	"MONDO.0033004"	"MONDO.0013378"	"MONDO.0036484"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Cataract"	0.0	1.0	0.0	0.0
+"HP:0000113"	0.0	1.0	0.0	0.0
+"Retinal dystrophy"	0.0	1.0	0.0	0.0
+"Microcoria"	0.0	1.0	0.0	0.0
+"Congenital blindness"	0.0	1.0	0.0	0.0
+"Hypoplasia of the retina"	0.0	1.0	0.0	0.0

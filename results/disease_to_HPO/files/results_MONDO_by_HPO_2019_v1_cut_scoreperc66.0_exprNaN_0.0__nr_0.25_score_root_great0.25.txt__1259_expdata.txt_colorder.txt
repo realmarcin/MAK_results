@@ -1,0 +1,5 @@
+"x"
+"1" "Thick upper lip vermilion"
+"2" "Enlarged epiphyses"
+"3" "Exaggerated cupid's bow"
+"4" "Rounded epiphyses"

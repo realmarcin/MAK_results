@@ -1,0 +1,9 @@
+	"MONDO.0007668"	"MONDO.0009514"	"MONDO.0011984"	"MONDO.0012055"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Abnormality of the eye"	0.0	1.0	0.0	0.0
+"HP:0003593"	0.0	1.0	0.0	0.0
+"Amelogenesis imperfecta"	0.0	1.0	0.0	0.0
+"Weak cry"	0.0	1.0	0.0	0.0
+"Skin ulcer"	0.0	1.0	0.0	0.0
+"Hoarse cry"	0.0	1.0	0.0	0.0
+"Recurrent loss of toenails and fingernails"	0.0	1.0	0.0	0.0

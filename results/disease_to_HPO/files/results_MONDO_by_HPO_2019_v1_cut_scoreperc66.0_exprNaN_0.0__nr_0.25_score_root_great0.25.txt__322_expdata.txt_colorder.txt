@@ -1,0 +1,8 @@
+"x"
+"1" "Sparse and thin eyebrow"
+"2" "Hypotrichosis"
+"3" "Hypodontia"
+"4" "Sparse eyelashes"
+"5" "Ectodermal dysplasia"
+"6" "Heat intolerance"
+"7" "Acanthosis nigricans"

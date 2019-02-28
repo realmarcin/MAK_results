@@ -1,0 +1,4 @@
+	"MONDO.0013780"	"MONDO.0014277"	"MONDO.0000908"	"MONDO.0014392"
+"Defective T cell proliferation"	1.0	0.0	1.0	1.0
+"HP:0031123"	0.0	1.0	1.0	0.0
+"Decreased number of CD3+ T cells"	0.0	0.0	1.0	0.0

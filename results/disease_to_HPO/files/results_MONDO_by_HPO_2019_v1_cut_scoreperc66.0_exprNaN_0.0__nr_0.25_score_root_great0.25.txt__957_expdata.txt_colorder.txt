@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormal macular morphology"
+"2" "Upper limb undergrowth"
+"3" "Increased urinary O-linked sialopeptides"
+"4" "Urinary excretion of sialylated oligosaccharides"
+"5" "Pontocerebellar atrophy"

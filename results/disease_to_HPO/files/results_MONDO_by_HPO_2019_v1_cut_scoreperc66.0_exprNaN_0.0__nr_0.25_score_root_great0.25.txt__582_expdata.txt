@@ -1,0 +1,7 @@
+	"MONDO.0011604"	"MONDO.0012216"	"MONDO.0012278"	"MONDO.0013073"	"MONDO.0013551"	"MONDO.0014801"
+"Cardiomyopathy"	1.0	1.0	1.0	1.0	1.0	0.0
+"Polyneuropathy"	0.0	1.0	1.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	0.0	0.0
+"Hyporeflexia of lower limbs"	0.0	1.0	1.0	0.0	0.0	0.0
+"Progressive distal muscle weakness"	0.0	1.0	1.0	0.0	0.0	0.0
+"Myofibrillar myopathy"	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0010247"	"MONDO.0011508"	"MONDO.0012615"	"MONDO.0024569"
+"HP:0000007"	0.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Intellectual disability, mild"	0.0	1.0	0.0	0.0
+"HP:0003593"	1.0	1.0	1.0	1.0
+"Attention deficit hyperactivity disorder"	0.0	1.0	0.0	0.0
+"Photosensitive tonic-clonic seizures"	0.0	1.0	0.0	0.0
+"Leber optic atrophy"	0.0	1.0	0.0	0.0
+"EEG with irregular generalized spike and wave complexes"	0.0	1.0	0.0	0.0
+"Delayed fine motor development"	0.0	1.0	0.0	0.0

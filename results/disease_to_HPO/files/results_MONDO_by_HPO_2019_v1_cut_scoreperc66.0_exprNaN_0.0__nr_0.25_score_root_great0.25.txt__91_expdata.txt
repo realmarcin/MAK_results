@@ -1,0 +1,8 @@
+	"MONDO.0008823"	"MONDO.0008996"	"MONDO.0011149"	"MONDO.0014553"	"MONDO.0014597"	"MONDO.0014697"
+"HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0
+"Microcephaly"	1.0	1.0	0.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	0.0	0.0	1.0	1.0
+"Micrognathia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Low-set ears"	1.0	1.0	0.0	1.0	0.0	1.0
+"Rocker bottom foot"	0.0	1.0	0.0	1.0	0.0	1.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	1.0	1.0	1.0	1.0

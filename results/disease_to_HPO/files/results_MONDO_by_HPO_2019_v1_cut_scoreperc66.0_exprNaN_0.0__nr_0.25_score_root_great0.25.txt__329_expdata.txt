@@ -1,0 +1,15 @@
+	"MONDO.0010962"	"MONDO.0012336"	"MONDO.0013992"	"MONDO.0013993"
+"Diarrhea"	1.0	0.0	0.0	0.0
+"Obesity"	1.0	1.0	1.0	1.0
+"HP:0003745"	1.0	0.0	0.0	0.0
+"Hypogonadotrophic hypogonadism"	1.0	0.0	0.0	0.0
+"Growth hormone deficiency"	1.0	1.0	0.0	1.0
+"Delayed puberty"	1.0	1.0	0.0	1.0
+"Primary amenorrhea"	1.0	0.0	1.0	1.0
+"Malabsorption"	1.0	0.0	0.0	0.0
+"Decreased circulating cortisol level"	1.0	0.0	0.0	0.0
+"Polyphagia"	1.0	1.0	1.0	1.0
+"Hyperinsulinemia"	1.0	1.0	1.0	1.0
+"Villous atrophy"	1.0	0.0	0.0	0.0
+"Reactive hypoglycemia"	1.0	0.0	0.0	0.0
+"Pituitary hypothyroidism"	1.0	1.0	1.0	1.0

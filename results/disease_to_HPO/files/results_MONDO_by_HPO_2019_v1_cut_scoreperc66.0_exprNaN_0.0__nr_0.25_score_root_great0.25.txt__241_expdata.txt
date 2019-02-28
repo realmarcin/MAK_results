@@ -1,0 +1,8 @@
+	"MONDO.0013511"	"MONDO.0014206"	"MONDO.0014859"	"MONDO.0030919"	"MONDO.0060760"	"MONDO.0020848"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	1.0	1.0
+"Hyperactivity"	0.0	0.0	1.0	1.0	0.0	0.0
+"Anxiety"	0.0	0.0	1.0	1.0	0.0	0.0
+"Absent speech"	0.0	1.0	1.0	1.0	0.0	0.0
+"Autistic behavior"	0.0	0.0	1.0	1.0	0.0	0.0

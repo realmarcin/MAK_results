@@ -1,0 +1,11 @@
+	"MONDO.0009896"	"MONDO.0009906"	"MONDO.0010471"	"MONDO.0011012"	"MONDO.0011080"
+"Brachydactyly"	1.0	1.0	1.0	1.0	1.0
+"Pectus carinatum"	1.0	0.0	1.0	0.0	0.0
+"Toe syndactyly"	1.0	1.0	0.0	0.0	0.0
+"Mandibular prognathia"	1.0	0.0	0.0	1.0	1.0
+"Bifid uvula"	1.0	0.0	1.0	0.0	0.0
+"Hypodontia"	1.0	0.0	1.0	0.0	0.0
+"Scoliosis"	1.0	0.0	0.0	1.0	0.0
+"Kyphosis"	1.0	1.0	0.0	1.0	0.0
+"Low posterior hairline"	1.0	0.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the earlobes"	1.0	1.0	0.0	0.0	0.0

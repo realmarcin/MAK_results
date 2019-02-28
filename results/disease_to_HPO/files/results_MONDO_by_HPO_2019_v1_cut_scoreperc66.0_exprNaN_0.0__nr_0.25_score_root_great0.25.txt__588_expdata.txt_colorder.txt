@@ -1,0 +1,4 @@
+"x"
+"1" "Dilatation of the thoracic aorta"
+"2" "Coronary artery dissection"
+"3" "Coronary artery aneurysm"

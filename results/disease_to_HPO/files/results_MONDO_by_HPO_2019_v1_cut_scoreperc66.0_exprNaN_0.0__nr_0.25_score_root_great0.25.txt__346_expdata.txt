@@ -1,0 +1,9 @@
+	"MONDO.0007851"	"MONDO.0009096"	"MONDO.0009180"	"MONDO.0009903"
+"Blepharitis"	0.0	0.0	1.0	1.0
+"Nail dystrophy"	1.0	1.0	1.0	0.0
+"Joint contracture of the hand"	0.0	1.0	0.0	1.0
+"Recurrent corneal erosions"	1.0	0.0	0.0	1.0
+"Corneal scarring"	1.0	0.0	1.0	1.0
+"Abnormality of the hand"	0.0	1.0	0.0	1.0
+"Osteolysis"	0.0	1.0	0.0	1.0
+"Loss of eyelashes"	0.0	0.0	1.0	1.0

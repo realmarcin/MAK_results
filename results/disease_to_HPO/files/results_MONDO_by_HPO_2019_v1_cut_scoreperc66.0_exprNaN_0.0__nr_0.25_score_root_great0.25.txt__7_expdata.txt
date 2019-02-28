@@ -1,0 +1,5 @@
+	"MONDO.0021035"	"MONDO.0009618"	"MONDO.0010006"
+"HP:0000007"	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0
+"Short stature"	1.0	1.0	1.0
+"EEG abnormality"	1.0	0.0	1.0

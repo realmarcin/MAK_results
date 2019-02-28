@@ -1,0 +1,11 @@
+	"MONDO.0010219"	"MONDO.0011216"	"MONDO.0014240"	"MONDO.0060490"
+"Flared metaphysis"	0.0	1.0	0.0	0.0
+"Aniridia"	0.0	1.0	0.0	0.0
+"Micropenis"	1.0	1.0	1.0	1.0
+"Ankyloglossia"	0.0	1.0	0.0	0.0
+"Hypocalcemia"	0.0	1.0	0.0	0.0
+"Asplenia"	0.0	1.0	0.0	0.0
+"Slender long bone"	0.0	1.0	0.0	0.0
+"Ascites"	0.0	1.0	0.0	0.0
+"Decreased skull ossification"	0.0	1.0	0.0	0.0
+"Hypoplastic spleen"	0.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Dentinogenesis imperfecta limited to primary teeth"
+"2" "Cortical sclerosis"
+"3" "Periapical bone loss"
+"4" "Shell teeth"
+"5" "Obliteration of the pulp chamber"

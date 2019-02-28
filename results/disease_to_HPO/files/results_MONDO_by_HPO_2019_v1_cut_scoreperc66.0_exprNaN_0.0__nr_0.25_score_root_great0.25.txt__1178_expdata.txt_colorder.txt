@@ -1,0 +1,8 @@
+"x"
+"1" "Babinski sign"
+"2" "Tetraparesis"
+"3" "Myotonia"
+"4" "Myokymia"
+"5" "Neurodegeneration"
+"6" "Pendular nystagmus"
+"7" "Dysplastic corpus callosum"

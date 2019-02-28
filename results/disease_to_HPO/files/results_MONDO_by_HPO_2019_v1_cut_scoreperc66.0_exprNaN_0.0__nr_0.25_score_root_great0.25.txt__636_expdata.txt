@@ -1,0 +1,5 @@
+	"MONDO.0008311"	"MONDO.0008996"	"MONDO.0009131"	"MONDO.0011816"	"MONDO.0014578"
+"Hypoplastic facial bones"	1.0	1.0	1.0	1.0	1.0
+"Deformed sella turcica"	0.0	0.0	1.0	1.0	0.0
+"Delayed femoral head ossification"	0.0	0.0	0.0	1.0	0.0
+"Multicentric femoral head ossification"	0.0	0.0	0.0	1.0	0.0

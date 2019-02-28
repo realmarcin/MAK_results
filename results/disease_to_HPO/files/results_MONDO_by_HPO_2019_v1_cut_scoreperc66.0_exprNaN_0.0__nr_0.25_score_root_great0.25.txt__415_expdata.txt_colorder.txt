@@ -1,0 +1,7 @@
+"x"
+"1" "Weight loss"
+"2" "Abdominal pain"
+"3" "Intestinal obstruction"
+"4" "HP:0001426"
+"5" "Inflammation of the large intestine"
+"6" "Hematochezia"

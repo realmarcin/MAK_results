@@ -1,0 +1,5 @@
+	"MONDO.0007488"	"MONDO.0010844"	"MONDO.0012169"
+"HP:0000006"	1.0	0.0	1.0
+"HP:0001426"	0.0	0.0	1.0
+"Neurological speech impairment"	1.0	0.0	0.0
+"Dyslexia"	1.0	1.0	1.0

@@ -1,0 +1,7 @@
+	"MONDO.0009628"	"MONDO.0011346"	"MONDO.0012967"	"MONDO.0014709"	"MONDO.0044312"	"MONDO.0044320"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Flat occiput"	1.0	1.0	1.0	1.0	1.0	1.0
+"Death in infancy"	0.0	0.0	0.0	0.0	0.0	0.0
+"Autistic behavior"	0.0	0.0	1.0	0.0	1.0	1.0
+"Encephalopathy"	0.0	1.0	0.0	0.0	0.0	0.0
+"Poor speech"	1.0	1.0	0.0	1.0	0.0	0.0

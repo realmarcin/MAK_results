@@ -1,0 +1,8 @@
+	"MONDO.0007604"	"MONDO.0009195"	"MONDO.0009452"	"MONDO.0010423"	"MONDO.0033006"	"MONDO.0011097"
+"Sinusitis"	1.0	1.0	0.0	1.0	1.0	1.0
+"Pneumonia"	0.0	1.0	0.0	1.0	1.0	0.0
+"Immunodeficiency"	1.0	1.0	0.0	1.0	1.0	1.0
+"Chronic diarrhea"	0.0	0.0	1.0	1.0	1.0	0.0
+"Lymphopenia"	0.0	0.0	1.0	0.0	1.0	0.0
+"Recurrent pneumonia"	1.0	0.0	1.0	1.0	0.0	1.0
+"Sepsis"	1.0	0.0	0.0	1.0	1.0	1.0

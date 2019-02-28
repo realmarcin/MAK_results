@@ -1,0 +1,6 @@
+	"MONDO.0007590"	"MONDO.0011152"	"MONDO.0011593"	"MONDO.0013219"
+"Reduced visual acuity"	1.0	1.0	1.0	1.0
+"Retinal exudate"	1.0	1.0	1.0	1.0
+"Exudative vitreoretinopathy"	1.0	1.0	1.0	1.0
+"Shallow anterior chamber"	0.0	0.0	0.0	1.0
+"Tractional retinal detachment"	0.0	1.0	0.0	1.0

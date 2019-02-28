@@ -1,0 +1,8 @@
+"x"
+"1" "Short 4th metacarpal"
+"2" "Microtia"
+"3" "Hypospadias"
+"4" "Skeletal dysplasia"
+"5" "Atresia of the external auditory canal"
+"6" "Renal hypoplasia"
+"7" "Short fourth metatarsal"

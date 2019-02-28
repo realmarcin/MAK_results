@@ -1,0 +1,9 @@
+	"MONDO.0009637"	"MONDO.0009844"	"MONDO.0012192"	"MONDO.0012408"	"MONDO.0012535"	"MONDO.0012719"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Premature birth"	0.0	1.0	0.0	1.0	0.0	0.0
+"Metabolic acidosis"	0.0	0.0	1.0	1.0	1.0	1.0
+"Hypoglycemia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Increased serum lactate"	0.0	0.0	1.0	1.0	1.0	1.0
+"Abnormality of the amniotic fluid"	0.0	0.0	0.0	1.0	0.0	1.0
+"Muscular hypotonia of the trunk"	0.0	1.0	1.0	1.0	0.0	1.0
+"Global brain atrophy"	0.0	1.0	1.0	1.0	0.0	0.0

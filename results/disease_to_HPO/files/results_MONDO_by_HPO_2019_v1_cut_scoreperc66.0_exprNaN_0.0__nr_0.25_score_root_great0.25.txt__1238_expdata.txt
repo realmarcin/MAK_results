@@ -1,0 +1,12 @@
+	"MONDO.0008290"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0014211"
+"Intellectual disability"	1.0	0.0	0.0	0.0
+"Hemolytic anemia"	1.0	0.0	0.0	0.0
+"Tetraparesis"	1.0	0.0	0.0	0.0
+"Exotropia"	1.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	0.0	0.0
+"Facial paralysis"	1.0	0.0	0.0	0.0
+"Limb dystonia"	1.0	0.0	0.0	0.0
+"Hemiplegia"	1.0	0.0	0.0	0.0
+"Visual field defect"	1.0	0.0	0.0	0.0
+"Ischemic stroke"	1.0	0.0	0.0	0.0
+"Schizencephaly"	1.0	0.0	0.0	0.0

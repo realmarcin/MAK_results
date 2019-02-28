@@ -1,0 +1,9 @@
+	"MONDO.0007979"	"MONDO.0008295"	"MONDO.0008806"	"MONDO.0008857"	"MONDO.0011159"	"MONDO.0002974"
+"Increased IgG level"	0.0	0.0	0.0	1.0	1.0	1.0
+"Rheumatoid factor positive"	0.0	0.0	0.0	1.0	1.0	1.0
+"Increased IgM level"	0.0	0.0	0.0	1.0	1.0	1.0
+"Salmonella osteomyelitis"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0025043"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0025427"	0.0	0.0	0.0	1.0	0.0	0.0
+"Night sweats"	0.0	0.0	0.0	1.0	0.0	0.0
+"Histiocytosis"	0.0	0.0	0.0	1.0	0.0	0.0

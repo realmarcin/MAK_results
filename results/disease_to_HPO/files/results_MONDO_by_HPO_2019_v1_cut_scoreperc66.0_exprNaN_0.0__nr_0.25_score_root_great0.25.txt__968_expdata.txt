@@ -1,0 +1,8 @@
+	"MONDO.0009213"	"MONDO.0010605"	"MONDO.0010744"	"MONDO.0012900"	"MONDO.0013332"	"MONDO.0014520"
+"Increased IgE level"	0.0	0.0	1.0	0.0	0.0	0.0
+"Eczema"	0.0	0.0	1.0	0.0	0.0	0.0
+"Epistaxis"	1.0	0.0	1.0	1.0	1.0	1.0
+"Joint hemorrhage"	1.0	1.0	1.0	1.0	0.0	0.0
+"Increased IgA level"	0.0	0.0	1.0	0.0	0.0	0.0
+"Intermittent thrombocytopenia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Decreased mean platelet volume"	0.0	0.0	1.0	0.0	0.0	0.0

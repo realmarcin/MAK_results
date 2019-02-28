@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Epiphyseal stippling"
+"3" "Seizures"
+"4" "Low-set ears"
+"5" "High forehead"

@@ -1,0 +1,5 @@
+"x"
+"1" "Widely spaced toes"
+"2" "Cervical spinal canal stenosis"
+"3" "Scheuermann-like vertebral changes"
+"4" "Hypoplasia of the prostate"

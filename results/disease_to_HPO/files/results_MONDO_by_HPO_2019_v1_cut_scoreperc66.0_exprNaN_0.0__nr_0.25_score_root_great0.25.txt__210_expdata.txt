@@ -1,0 +1,6 @@
+	"MONDO.0013910"	"MONDO.0014304"	"MONDO.0014562"	"MONDO.0014993"	"MONDO.0054845"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	0.0	1.0	1.0	1.0
+"Spasticity"	1.0	1.0	1.0	1.0	1.0
+"Fasciculations"	0.0	0.0	0.0	0.0	1.0
+"Oral-pharyngeal dysphagia"	0.0	0.0	0.0	0.0	1.0

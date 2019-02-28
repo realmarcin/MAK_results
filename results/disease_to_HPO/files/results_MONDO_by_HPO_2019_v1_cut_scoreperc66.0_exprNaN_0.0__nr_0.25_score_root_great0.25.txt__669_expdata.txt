@@ -1,0 +1,11 @@
+	"MONDO.0008810"	"MONDO.0008929"	"MONDO.0012859"	"MONDO.0013383"	"MONDO.0013968"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Skeletal muscle atrophy"	1.0	0.0	1.0	1.0	0.0
+"Polyneuropathy"	1.0	1.0	1.0	1.0	1.0
+"Muscle weakness"	0.0	0.0	0.0	1.0	1.0
+"Increased CSF protein"	0.0	0.0	1.0	0.0	0.0
+"Paralysis"	0.0	0.0	1.0	1.0	0.0
+"Lethargy"	0.0	0.0	0.0	1.0	0.0
+"Increased CSF lactate"	0.0	0.0	0.0	1.0	0.0
+"Contractures of the joints of the lower limbs"	0.0	0.0	0.0	1.0	0.0
+"Paroxysmal nocturnal hemoglobinuria"	0.0	0.0	1.0	0.0	0.0

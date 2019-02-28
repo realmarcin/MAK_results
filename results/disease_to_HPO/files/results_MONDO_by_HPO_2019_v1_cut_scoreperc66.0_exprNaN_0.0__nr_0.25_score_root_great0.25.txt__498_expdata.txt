@@ -1,0 +1,8 @@
+	"MONDO.0007989"	"MONDO.0009619"	"MONDO.0010286"	"MONDO.0010783"	"MONDO.0012137"	"MONDO.0008938"
+"HP:0000007"	0.0	1.0	0.0	0.0	1.0	0.0
+"Microcephaly"	1.0	1.0	1.0	0.0	1.0	1.0
+"Seizures"	0.0	1.0	0.0	0.0	1.0	0.0
+"Ventriculomegaly"	0.0	1.0	0.0	0.0	1.0	0.0
+"Short stature"	1.0	1.0	1.0	0.0	0.0	0.0
+"Dilated cardiomyopathy"	0.0	1.0	0.0	0.0	1.0	0.0
+"Sloping forehead"	1.0	1.0	1.0	0.0	1.0	1.0

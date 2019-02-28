@@ -1,0 +1,8 @@
+"x"
+"1" "Epistaxis"
+"2" "Joint hemorrhage"
+"3" "Increased IgE level"
+"4" "Eczema"
+"5" "Increased IgA level"
+"6" "Intermittent thrombocytopenia"
+"7" "Decreased mean platelet volume"

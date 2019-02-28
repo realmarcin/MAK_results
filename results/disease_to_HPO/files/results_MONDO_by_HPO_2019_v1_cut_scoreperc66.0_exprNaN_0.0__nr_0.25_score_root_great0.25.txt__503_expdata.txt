@@ -1,0 +1,11 @@
+	"MONDO.0009051"	"MONDO.0013118"	"MONDO.0013674"	"MONDO.0014705"
+"Ptosis"	0.0	1.0	0.0	1.0
+"Hearing impairment"	0.0	1.0	1.0	0.0
+"Depressivity"	1.0	1.0	1.0	1.0
+"Anxiety"	1.0	1.0	1.0	1.0
+"Myopathy"	1.0	1.0	0.0	0.0
+"Glaucoma"	0.0	1.0	1.0	0.0
+"Increased muscle fatiguability"	0.0	1.0	0.0	0.0
+"Exercise intolerance"	0.0	1.0	0.0	0.0
+"Progressive external ophthalmoplegia"	0.0	1.0	0.0	0.0
+"Multiple mitochondrial DNA deletions"	0.0	1.0	0.0	0.0

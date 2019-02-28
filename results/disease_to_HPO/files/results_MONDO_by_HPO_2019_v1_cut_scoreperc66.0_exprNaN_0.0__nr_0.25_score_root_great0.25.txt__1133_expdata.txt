@@ -1,0 +1,7 @@
+	"MONDO.0009302"	"MONDO.0009420"	"MONDO.0060764"	"MONDO.0010111"	"MONDO.0010113"	"MONDO.0012735"
+"Abnormality of the diaphragm"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the fallopian tube"	1.0	1.0	0.0	1.0	0.0	0.0
+"Tetraamelia"	0.0	0.0	1.0	1.0	1.0	0.0
+"Peripheral pulmonary vessel aplasia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Adrenal gland agenesis"	0.0	0.0	0.0	1.0	0.0	1.0
+"HP:0031853"	0.0	0.0	0.0	0.0	0.0	0.0

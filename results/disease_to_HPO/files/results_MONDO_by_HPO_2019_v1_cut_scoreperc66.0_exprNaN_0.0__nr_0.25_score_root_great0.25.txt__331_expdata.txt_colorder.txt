@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Seizures"
+"3" "Low-set ears"
+"4" "CNS hypomyelination"
+"5" "HP:0003593"
+"6" "Brisk reflexes"
+"7" "Prominent metopic ridge"

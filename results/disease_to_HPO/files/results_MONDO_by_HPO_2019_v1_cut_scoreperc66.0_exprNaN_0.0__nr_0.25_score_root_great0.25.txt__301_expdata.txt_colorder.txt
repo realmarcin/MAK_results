@@ -1,0 +1,7 @@
+"x"
+"1" "Bone cyst"
+"2" "Seizures"
+"3" "HP:0003745"
+"4" "Cerebral calcification"
+"5" "Hemiparesis"
+"6" "Optic neuropathy"

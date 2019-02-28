@@ -1,0 +1,9 @@
+	"MONDO.0007668"	"MONDO.0011415"	"MONDO.0011984"	"MONDO.0012055"	"MONDO.0015017"
+"HP:0000007"	0.0	1.0	0.0	0.0	1.0
+"Peters anomaly"	0.0	1.0	0.0	0.0	0.0
+"Corneal opacity"	0.0	1.0	0.0	0.0	1.0
+"Anterior synechiae of the anterior chamber"	0.0	1.0	0.0	0.0	0.0
+"HP:0031159"	0.0	1.0	0.0	0.0	0.0
+"Subcapsular cataract"	0.0	1.0	0.0	0.0	0.0
+"Congenital glaucoma"	0.0	1.0	0.0	0.0	1.0
+"HP:0011493"	0.0	1.0	0.0	0.0	0.0

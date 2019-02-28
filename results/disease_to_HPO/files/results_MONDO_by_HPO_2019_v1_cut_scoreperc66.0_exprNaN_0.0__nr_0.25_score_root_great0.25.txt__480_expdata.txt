@@ -1,0 +1,8 @@
+	"MONDO.0010486"	"MONDO.0013589"	"MONDO.0014464"	"MONDO.0054782"
+"HP:0000007"	0.0	1.0	1.0	0.0
+"Microcephaly"	1.0	1.0	1.0	0.0
+"Seizures"	0.0	1.0	1.0	0.0
+"Short stature"	1.0	1.0	1.0	0.0
+"Congenital sensorineural hearing impairment"	0.0	1.0	0.0	0.0
+"Hypoplasia of the uterus"	0.0	1.0	0.0	0.0
+"Primary amenorrhea"	0.0	1.0	1.0	0.0

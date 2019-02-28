@@ -1,0 +1,7 @@
+"x"
+"1" "Nystagmus"
+"2" "Dysarthria"
+"3" "Muscle weakness"
+"4" "Episodic ataxia"
+"5" "Migraine"
+"6" "Myokymia"

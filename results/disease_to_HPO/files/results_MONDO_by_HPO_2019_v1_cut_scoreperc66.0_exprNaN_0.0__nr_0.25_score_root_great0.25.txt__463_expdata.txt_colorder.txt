@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Postaxial hand polydactyly"
+"3" "Capillary hemangiomas"
+"4" "Short 2nd toe"
+"5" "Glandular hypospadias"

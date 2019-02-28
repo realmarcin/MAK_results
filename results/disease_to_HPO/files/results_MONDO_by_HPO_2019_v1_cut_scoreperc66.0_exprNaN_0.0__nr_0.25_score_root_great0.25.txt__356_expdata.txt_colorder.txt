@@ -1,0 +1,4 @@
+"x"
+"1" "Prominent scrotal raphe"
+"2" "Palmoplantar cutis gyrata"
+"3" "Preauricular skin furrow"

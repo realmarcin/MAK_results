@@ -1,0 +1,6 @@
+	"MONDO.0010986"	"MONDO.0011508"	"MONDO.0011932"	"MONDO.0013323"	"MONDO.0014056"
+"EEG with photoparoxysmal response"	1.0	0.0	1.0	1.0	0.0
+"Giant somatosensory evoked potentials"	1.0	0.0	1.0	1.0	0.0
+"EEG with irregular generalized spike and wave complexes"	1.0	1.0	1.0	0.0	0.0
+"Enhancement of the C-reflex"	1.0	0.0	1.0	1.0	1.0
+"Jerk-locked premyoclonus spikes"	1.0	0.0	1.0	1.0	1.0

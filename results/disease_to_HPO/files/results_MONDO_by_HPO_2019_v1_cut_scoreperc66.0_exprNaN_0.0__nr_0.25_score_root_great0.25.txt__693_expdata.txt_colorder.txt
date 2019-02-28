@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Reduced visual acuity"
+"3" "Corneal opacity"
+"4" "Ventriculomegaly"
+"5" "Growth delay"
+"6" "Vesicoureteral reflux"
+"7" "Optic nerve aplasia"

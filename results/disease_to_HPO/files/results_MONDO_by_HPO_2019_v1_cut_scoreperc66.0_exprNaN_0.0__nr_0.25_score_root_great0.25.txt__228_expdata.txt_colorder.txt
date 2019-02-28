@@ -1,0 +1,5 @@
+"x"
+"1" "Peroneal muscle atrophy"
+"2" "Peroneal muscle weakness"
+"3" "Neonatal inspiratory stridor"
+"4" "Congenital foot contraction deformities"

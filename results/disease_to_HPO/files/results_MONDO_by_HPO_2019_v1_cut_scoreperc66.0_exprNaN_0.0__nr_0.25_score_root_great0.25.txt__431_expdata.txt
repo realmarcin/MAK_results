@@ -1,0 +1,7 @@
+	"MONDO.0007632"	"MONDO.0013000"	"MONDO.0013582"	"MONDO.0013677"	"MONDO.0033312"	"MONDO.0054697"	"MONDO.0033009"	"MONDO.0033371"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Delayed speech and language development"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Camptodactyly of toe"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Toe clinodactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

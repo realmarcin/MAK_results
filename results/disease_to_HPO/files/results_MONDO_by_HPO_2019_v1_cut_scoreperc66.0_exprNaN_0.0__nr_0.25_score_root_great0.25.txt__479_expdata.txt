@@ -1,0 +1,5 @@
+	"MONDO.0007060"	"MONDO.0007210"	"MONDO.0008521"	"MONDO.0008620"	"MONDO.0009304"
+"Ureteropelvic junction obstruction"	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the radius"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the ulna"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the gallbladder"	0.0	0.0	0.0	0.0	0.0

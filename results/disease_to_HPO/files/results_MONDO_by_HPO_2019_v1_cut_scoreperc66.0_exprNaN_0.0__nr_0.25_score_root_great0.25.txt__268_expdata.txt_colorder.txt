@@ -1,0 +1,6 @@
+"x"
+"1" "Immunodeficiency"
+"2" "HP:0000006"
+"3" "HP:0003812"
+"4" "Lymphopenia"
+"5" "Recurrent mycobacterium avium complex infections"

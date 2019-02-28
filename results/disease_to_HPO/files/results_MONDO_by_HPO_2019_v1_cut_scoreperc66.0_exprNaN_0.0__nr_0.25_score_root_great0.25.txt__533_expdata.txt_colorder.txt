@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the dentate nucleus"
+"2" "EEG with generalized slow activity"
+"3" "HP:0031290"
+"4" "Abnormality of central somatosensory evoked potentials"

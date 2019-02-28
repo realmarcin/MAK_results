@@ -1,0 +1,7 @@
+	"MONDO.0012873"	"MONDO.0012878"	"MONDO.0013144"
+"HP:0000006"	1.0	1.0	1.0
+"Hypercoagulability"	1.0	0.0	1.0
+"Disseminated intravascular coagulation"	0.0	1.0	0.0
+"Recurrent deep vein thrombosis"	1.0	1.0	0.0
+"Post-angioplasty coronary artery restenosis"	0.0	1.0	0.0
+"Recurrent thromboembolism"	0.0	0.0	1.0

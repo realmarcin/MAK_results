@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Hyperhidrosis"
+"3" "Orthostatic hypotension"
+"4" "Acrocyanosis"
+"5" "Joint stiffness"
+"6" "Cyanosis"
+"7" "EMG abnormality"

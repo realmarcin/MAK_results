@@ -1,0 +1,7 @@
+	"MONDO.0007672"	"MONDO.0007929"	"MONDO.0008073"	"MONDO.0011166"	"MONDO.0011304"	"MONDO.0013497"	"MONDO.0014787"
+"Hypertension"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Proteinuria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Nephrotic syndrome"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Stage 5 chronic kidney disease"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Microscopic hematuria"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Reduced muscle carnitine level"	0.0	0.0	0.0	0.0	0.0	0.0	0.0

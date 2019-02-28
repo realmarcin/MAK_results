@@ -1,0 +1,10 @@
+	"MONDO.0009980"	"MONDO.0010183"	"MONDO.0011839"	"MONDO.0011840"	"MONDO.0012991"	"MONDO.0014373"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormal electroretinogram"	0.0	0.0	1.0	0.0	0.0	0.0
+"Macular degeneration"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of color vision"	0.0	0.0	0.0	1.0	0.0	0.0
+"Nyctalopia"	0.0	1.0	1.0	1.0	0.0	0.0
+"Retinal dystrophy"	1.0	0.0	1.0	1.0	1.0	1.0
+"Reticular pigmentary degeneration"	1.0	0.0	0.0	0.0	0.0	0.0
+"Drusen"	1.0	0.0	0.0	0.0	0.0	0.0
+"Scotoma"	0.0	0.0	0.0	1.0	0.0	0.0

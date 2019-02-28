@@ -1,0 +1,8 @@
+	"MONDO.0007369"	"MONDO.0007622"	"MONDO.0008858"	"MONDO.0011011"	"MONDO.0014197"	"MONDO.0014557"
+"Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	0.0
+"Wide nasal bridge"	1.0	1.0	1.0	1.0	0.0	1.0
+"Muscular hypotonia"	1.0	0.0	1.0	1.0	0.0	0.0
+"Micrognathia"	0.0	0.0	1.0	1.0	0.0	1.0
+"Abnormality of cardiovascular system morphology"	0.0	1.0	1.0	1.0	0.0	0.0
+"Deep philtrum"	1.0	0.0	1.0	0.0	0.0	0.0
+"Respiratory insufficiency"	0.0	0.0	1.0	1.0	1.0	1.0

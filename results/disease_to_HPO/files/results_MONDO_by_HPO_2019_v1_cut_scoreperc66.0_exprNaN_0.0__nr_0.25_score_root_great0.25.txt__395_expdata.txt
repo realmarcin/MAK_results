@@ -1,0 +1,8 @@
+	"MONDO.0007480"	"MONDO.0008251"	"MONDO.0008972"	"MONDO.0009877"
+"HP:0000007"	1.0	0.0	1.0	1.0
+"HP:0000006"	1.0	1.0	0.0	0.0
+"Severe short stature"	1.0	1.0	1.0	1.0
+"Abnormality of the immune system"	0.0	0.0	0.0	1.0
+"Abnormality of the face"	1.0	0.0	0.0	1.0
+"Hypoglycemia"	0.0	0.0	0.0	1.0
+"Pituitary dwarfism"	0.0	1.0	0.0	1.0

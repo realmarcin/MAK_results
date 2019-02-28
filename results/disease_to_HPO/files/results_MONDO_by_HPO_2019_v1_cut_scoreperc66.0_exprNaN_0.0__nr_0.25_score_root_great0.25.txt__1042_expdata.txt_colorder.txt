@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Spinal muscular atrophy"
+"3" "Kyphoscoliosis"
+"4" "HP:0003593"
+"5" "Fasciculations"
+"6" "Pes cavus"
+"7" "Proximal amyotrophy"

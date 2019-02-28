@@ -1,0 +1,8 @@
+	"MONDO.0008723"	"MONDO.0009106"	"MONDO.0009258"	"MONDO.0009259"	"MONDO.0009283"	"MONDO.0013926"
+"Hepatomegaly"	0.0	1.0	1.0	1.0	1.0	0.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	0.0	0.0
+"Jaundice"	0.0	1.0	1.0	1.0	1.0	0.0
+"Galactosuria"	0.0	1.0	1.0	1.0	0.0	0.0
+"Impairment of galactose metabolism"	0.0	0.0	1.0	1.0	0.0	0.0
+"Hypergalactosemia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Nausea and vomiting"	0.0	0.0	1.0	1.0	0.0	0.0

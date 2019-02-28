@@ -1,0 +1,6 @@
+	"MONDO.0012988"	"MONDO.0013288"	"MONDO.0013290"	"MONDO.0014084"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Recurrent bacterial infections"	1.0	1.0	1.0	0.0
+"HP:0003593"	1.0	1.0	1.0	1.0
+"Recurrent pneumonia"	1.0	1.0	1.0	0.0
+"Agammaglobulinemia"	1.0	1.0	1.0	1.0

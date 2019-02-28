@@ -1,0 +1,15 @@
+	"MONDO.0009273"	"MONDO.0042486"	"MONDO.0012517"	"MONDO.0014592"
+"Preaxial hand polydactyly"	0.0	0.0	1.0	0.0
+"Esophageal atresia"	0.0	0.0	1.0	0.0
+"Deep philtrum"	0.0	0.0	1.0	0.0
+"Postnatal microcephaly"	0.0	0.0	1.0	0.0
+"Atresia of the external auditory canal"	0.0	0.0	1.0	0.0
+"Preauricular skin tag"	0.0	0.0	1.0	0.0
+"Overfolded helix"	0.0	0.0	1.0	0.0
+"Proximal placement of thumb"	0.0	0.0	1.0	0.0
+"Accessory oral frenulum"	0.0	0.0	1.0	0.0
+"Underdeveloped tragus"	0.0	0.0	1.0	0.0
+"Morphological abnormality of the middle ear"	0.0	0.0	1.0	0.0
+"Mandibulofacial dysostosis"	0.0	0.0	1.0	0.0
+"Progressive microcephaly"	0.0	0.0	1.0	0.0
+"Absent tragus"	0.0	0.0	1.0	0.0

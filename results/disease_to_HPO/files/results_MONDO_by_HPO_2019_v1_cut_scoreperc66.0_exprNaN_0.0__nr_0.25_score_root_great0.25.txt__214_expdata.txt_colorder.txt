@@ -1,0 +1,7 @@
+"x"
+"1" "Cataract"
+"2" "Strabismus"
+"3" "Nystagmus"
+"4" "Microphthalmia"
+"5" "Uveitis"
+"6" "Myopia"

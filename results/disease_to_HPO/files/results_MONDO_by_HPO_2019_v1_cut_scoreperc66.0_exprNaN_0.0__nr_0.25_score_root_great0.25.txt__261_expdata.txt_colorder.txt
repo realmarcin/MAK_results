@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Hiatus hernia"
+"3" "Abnormality of the thorax"
+"4" "Dysphagia"
+"5" "Volvulus"

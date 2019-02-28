@@ -1,0 +1,12 @@
+	"MONDO.0008443"	"MONDO.0008758"	"MONDO.0009873"	"MONDO.0010868"
+"Spastic paraplegia"	1.0	0.0	0.0	0.0
+"Distal amyotrophy"	1.0	0.0	0.0	0.0
+"Onion bulb formation"	1.0	0.0	0.0	0.0
+"Spastic gait"	1.0	0.0	0.0	0.0
+"Sensorimotor neuropathy"	1.0	0.0	0.0	0.0
+"Demyelinating motor neuropathy"	1.0	0.0	0.0	0.0
+"Demyelinating sensory neuropathy"	1.0	0.0	0.0	0.0
+"Basal lamina 'onion bulb' formation"	1.0	0.0	0.0	0.0
+"Progressive spastic paraplegia"	1.0	0.0	0.0	0.0
+"Demyelinating peripheral neuropathy"	1.0	0.0	0.0	0.0
+"Loss of eyelashes"	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0007210"	"MONDO.0008300"	"MONDO.0014383"	"MONDO.0014634"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	0.0	1.0	1.0
+"Ataxia"	0.0	1.0	0.0	1.0
+"Scoliosis"	1.0	1.0	1.0	1.0
+"Absence seizures"	0.0	0.0	0.0	1.0
+"Eyelid myoclonus"	0.0	0.0	0.0	1.0

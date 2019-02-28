@@ -1,0 +1,10 @@
+	"MONDO.0007104"	"MONDO.0012652"	"MONDO.0013343"	"MONDO.0013717"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hypodontia"	0.0	1.0	0.0	0.0
+"Spasticity"	1.0	1.0	0.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Horizontal nystagmus"	0.0	1.0	0.0	0.0
+"Chorea"	0.0	1.0	0.0	0.0
+"Torticollis"	0.0	1.0	0.0	0.0
+"Abnormality of the cerebral white matter"	0.0	1.0	0.0	0.0
+"HP:0025357"	0.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0007134"	"MONDO.0008018"	"MONDO.0009163"	"MONDO.0009181"	"MONDO.0009184"	"MONDO.0009772"
+"Nail dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Type B brachydactyly"	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the distal phalanges of the hand"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of female internal genitalia"	0.0	1.0	1.0	0.0	0.0	0.0
+"Palmar hyperhidrosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Urethral obstruction"	0.0	0.0	0.0	1.0	0.0	0.0
+"Urinary bladder inflammation"	0.0	0.0	0.0	1.0	1.0	0.0

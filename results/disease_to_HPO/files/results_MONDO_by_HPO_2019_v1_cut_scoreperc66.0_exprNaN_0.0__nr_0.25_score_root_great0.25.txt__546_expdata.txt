@@ -1,0 +1,8 @@
+	"MONDO.0011421"	"MONDO.0011585"	"MONDO.0013359"	"MONDO.0014421"	"MONDO.0014888"
+"HP:0000007"	0.0	1.0	1.0	0.0	1.0
+"Microcephaly"	0.0	1.0	1.0	0.0	1.0
+"Short stature"	1.0	1.0	1.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	1.0	1.0	0.0	1.0
+"Abnormality of skin pigmentation"	0.0	0.0	0.0	0.0	1.0
+"Retinal dystrophy"	0.0	0.0	0.0	0.0	1.0
+"Acute myeloid leukemia"	0.0	1.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+	"MONDO.0011963"	"MONDO.0013197"	"MONDO.0013697"	"MONDO.0013700"	"MONDO.0013711"	"MONDO.0013726"
+"HP:0000006"	0.0	0.0	1.0	1.0	1.0	1.0
+"HP:0003829"	0.0	0.0	0.0	0.0	1.0	0.0
+"Hereditary nonpolyposis colorectal carcinoma"	0.0	1.0	1.0	1.0	1.0	1.0
+"Ovarian neoplasm"	0.0	0.0	0.0	1.0	0.0	0.0
+"Endometrial carcinoma"	1.0	0.0	0.0	1.0	1.0	0.0

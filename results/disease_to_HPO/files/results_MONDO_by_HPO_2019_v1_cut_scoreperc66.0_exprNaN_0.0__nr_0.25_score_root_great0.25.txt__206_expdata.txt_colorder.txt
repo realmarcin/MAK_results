@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Microcephaly"
+"3" "Global developmental delay"
+"4" "Delayed skeletal maturation"
+"5" "Intellectual disability, mild"
+"6" "Delayed puberty"
+"7" "Delayed myelination"

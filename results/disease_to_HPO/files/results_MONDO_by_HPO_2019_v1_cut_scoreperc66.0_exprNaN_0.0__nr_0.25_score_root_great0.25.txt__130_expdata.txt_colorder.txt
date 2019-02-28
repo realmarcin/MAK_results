@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Intellectual disability"
+"3" "Coarse facial features"
+"4" "Thick eyebrow"
+"5" "Deeply set eye"
+"6" "Prominent supraorbital ridges"

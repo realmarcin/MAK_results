@@ -1,0 +1,11 @@
+	"MONDO.0010060"	"MONDO.0014514"	"MONDO.0014807"	"MONDO.0014808"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Patent ductus arteriosus"	0.0	0.0	1.0	1.0
+"Global developmental delay"	0.0	0.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0
+"Premature birth"	0.0	1.0	1.0	1.0
+"Axonal loss"	0.0	0.0	1.0	1.0
+"Spinal muscular atrophy"	0.0	0.0	1.0	1.0
+"Multiple prenatal fractures"	1.0	0.0	1.0	1.0
+"Patent foramen ovale"	0.0	0.0	1.0	1.0
+"Severe muscular hypotonia"	0.0	1.0	1.0	1.0

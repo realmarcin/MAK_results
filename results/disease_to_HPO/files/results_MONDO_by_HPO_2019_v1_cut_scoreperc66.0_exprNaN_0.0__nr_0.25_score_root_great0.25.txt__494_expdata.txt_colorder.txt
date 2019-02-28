@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertelorism"
+"2" "HP:0000006"
+"3" "Flat face"
+"4" "Malar flattening"
+"5" "Shallow orbits"
+"6" "Narrow nose"
+"7" "Duplication of phalanx of hallux"

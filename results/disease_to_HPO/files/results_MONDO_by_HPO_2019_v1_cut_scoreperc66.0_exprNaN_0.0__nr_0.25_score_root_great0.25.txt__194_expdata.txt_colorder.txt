@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Pes cavus"
+"3" "Hammertoe"
+"4" "Distal muscle weakness"
+"5" "Sensory neuropathy"
+"6" "Autoamputation of foot"
+"7" "Foot osteomyelitis"

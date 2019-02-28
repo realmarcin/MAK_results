@@ -1,0 +1,7 @@
+"x"
+"1" "Pes cavus"
+"2" "Distal amyotrophy"
+"3" "Distal muscle weakness"
+"4" "Distal sensory impairment"
+"5" "Peripheral neuropathy"
+"6" "Hyporeflexia"

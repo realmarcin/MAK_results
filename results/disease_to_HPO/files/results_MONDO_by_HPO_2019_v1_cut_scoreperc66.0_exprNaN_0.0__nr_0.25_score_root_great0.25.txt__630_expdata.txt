@@ -1,0 +1,11 @@
+	"MONDO.0011421"	"MONDO.0014421"	"MONDO.0014617"	"MONDO.0014620"
+"HP:0000007"	0.0	0.0	1.0	1.0
+"Intellectual disability"	0.0	0.0	1.0	1.0
+"Short stature"	1.0	0.0	1.0	1.0
+"Asthma"	0.0	0.0	0.0	1.0
+"Brittle hair"	0.0	0.0	1.0	1.0
+"Joint contracture of the hand"	0.0	0.0	0.0	1.0
+"Erythroderma"	0.0	0.0	0.0	1.0
+"Decreased fertility"	0.0	0.0	1.0	1.0
+"Congenital nonbullous ichthyosiform erythroderma"	0.0	0.0	1.0	1.0
+"Tiger tail banding"	0.0	0.0	1.0	1.0

@@ -1,0 +1,10 @@
+	"MONDO.0010061"	"MONDO.0014505"	"MONDO.0014522"	"MONDO.0014672"	"MONDO.0054748"
+"Ataxia"	1.0	1.0	1.0	1.0	1.0
+"Narrow palate"	0.0	0.0	0.0	1.0	0.0
+"Bulbous nose"	0.0	0.0	0.0	1.0	0.0
+"Tapered finger"	0.0	0.0	0.0	1.0	0.0
+"Exotropia"	0.0	0.0	0.0	1.0	0.0
+"Narrow forehead"	0.0	0.0	0.0	1.0	0.0
+"Progressive visual loss"	0.0	0.0	0.0	1.0	0.0
+"Inverted nipples"	0.0	0.0	0.0	1.0	0.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	1.0	0.0

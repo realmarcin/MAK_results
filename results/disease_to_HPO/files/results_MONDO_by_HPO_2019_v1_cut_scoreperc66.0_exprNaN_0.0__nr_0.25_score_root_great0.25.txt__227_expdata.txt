@@ -1,0 +1,5 @@
+	"MONDO.0010865"	"MONDO.0012274"	"MONDO.0012328"	"MONDO.0012603"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"HP:0003593"	0.0	0.0	0.0	1.0
+"Vestibular dysfunction"	0.0	1.0	0.0	0.0
+"Profound sensorineural hearing impairment"	1.0	1.0	1.0	1.0

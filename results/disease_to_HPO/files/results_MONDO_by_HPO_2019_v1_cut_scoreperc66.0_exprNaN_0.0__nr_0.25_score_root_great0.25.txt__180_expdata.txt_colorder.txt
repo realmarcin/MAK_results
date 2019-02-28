@@ -1,0 +1,5 @@
+"x"
+"1" "Delayed cranial suture closure"
+"2" "Wormian bones"
+"3" "Small foramen magnum"
+"4" "Premature skin wrinkling"

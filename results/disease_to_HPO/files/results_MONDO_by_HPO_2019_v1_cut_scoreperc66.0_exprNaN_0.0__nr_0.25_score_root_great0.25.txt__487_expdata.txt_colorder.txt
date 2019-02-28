@@ -1,0 +1,5 @@
+"x"
+"1" "Split hand"
+"2" "Split foot"
+"3" "Increased urinary sedoheptulose"
+"4" "Neonatal asphyxia"

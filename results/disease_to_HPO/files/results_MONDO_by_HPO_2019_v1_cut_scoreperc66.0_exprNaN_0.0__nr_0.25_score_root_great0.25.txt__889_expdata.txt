@@ -1,0 +1,14 @@
+	"MONDO.0007079"	"MONDO.0015243"	"MONDO.0009905"	"MONDO.0013360"	"MONDO.0014201"	"MONDO.0018473"
+"Left ventricular hypertrophy"	0.0	0.0	0.0	1.0	1.0	0.0
+"Abnormality of the urinary system"	0.0	1.0	0.0	0.0	0.0	0.0
+"Adrenogenital syndrome"	0.0	1.0	0.0	0.0	0.0	0.0
+"Decreased circulating renin level"	0.0	1.0	0.0	1.0	1.0	0.0
+"HP:0003674"	0.0	1.0	0.0	0.0	0.0	0.0
+"Muscle weakness"	0.0	1.0	1.0	1.0	0.0	1.0
+"Hypokalemia"	0.0	1.0	1.0	1.0	1.0	1.0
+"Preeclampsia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Metabolic alkalosis"	0.0	0.0	0.0	1.0	1.0	1.0
+"Caesarian section"	0.0	1.0	0.0	0.0	1.0	0.0
+"Glucocortocoid-insensitive primary hyperaldosteronism"	0.0	0.0	0.0	1.0	0.0	1.0
+"Dexamethasone-suppresible primary hyperaldosteronism"	0.0	1.0	0.0	0.0	0.0	0.0
+"Secretory adrenocortical adenoma"	0.0	1.0	0.0	0.0	0.0	1.0

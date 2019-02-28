@@ -1,0 +1,8 @@
+	"MONDO.0007214"	"MONDO.0007805"	"MONDO.0011071"	"MONDO.0014243"
+"Microtia"	0.0	1.0	1.0	1.0
+"Hypospadias"	0.0	1.0	1.0	1.0
+"Skeletal dysplasia"	0.0	1.0	1.0	1.0
+"Atresia of the external auditory canal"	0.0	1.0	1.0	1.0
+"Renal hypoplasia"	0.0	1.0	1.0	1.0
+"Short 4th metacarpal"	1.0	1.0	1.0	1.0
+"Short fourth metatarsal"	1.0	0.0	1.0	1.0

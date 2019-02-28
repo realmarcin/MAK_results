@@ -1,0 +1,8 @@
+	"MONDO.0007404"	"MONDO.0008202"	"MONDO.0013061"
+"Depressivity"	1.0	1.0	1.0
+"Tremor"	1.0	1.0	1.0
+"Supranuclear gaze palsy"	1.0	0.0	1.0
+"HP:0003678"	1.0	1.0	1.0
+"Bradykinesia"	1.0	1.0	1.0
+"Personality changes"	1.0	1.0	1.0
+"Global brain atrophy"	1.0	0.0	1.0

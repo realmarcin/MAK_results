@@ -1,0 +1,6 @@
+	"MONDO.0008844"	"MONDO.0009974"	"MONDO.0010790"	"MONDO.0011398"	"MONDO.0014046"	"MONDO.0014133"
+"Decreased corneal sensation"	0.0	0.0	0.0	0.0	0.0	0.0
+"Hemianopia"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of mitochondrial metabolism"	1.0	1.0	1.0	1.0	1.0	1.0
+"Neoplasm of the thyroid gland"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0032046"	0.0	0.0	0.0	0.0	0.0	0.0

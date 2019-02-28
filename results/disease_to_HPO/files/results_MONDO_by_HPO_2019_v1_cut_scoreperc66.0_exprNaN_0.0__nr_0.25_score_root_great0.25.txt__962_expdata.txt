@@ -1,0 +1,10 @@
+	"MONDO.0024540"	"MONDO.0009699"	"MONDO.0011145"	"MONDO.0011734"	"MONDO.0012392"
+"HP:0000007"	1.0	1.0	1.0	0.0	1.0
+"Intellectual disability"	0.0	1.0	0.0	0.0	1.0
+"Cutaneous photosensitivity"	0.0	1.0	0.0	0.0	0.0
+"Mental deterioration"	0.0	1.0	0.0	0.0	1.0
+"Generalized tonic-clonic seizures"	0.0	1.0	0.0	0.0	1.0
+"Limb ataxia"	0.0	1.0	0.0	0.0	0.0
+"Absence seizures"	0.0	1.0	0.0	0.0	0.0
+"Morning myoclonic jerks"	0.0	1.0	0.0	0.0	0.0
+"EEG with polyspike wave complexes"	0.0	1.0	0.0	0.0	0.0

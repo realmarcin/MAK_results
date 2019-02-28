@@ -1,0 +1,7 @@
+"x"
+"1" "Scoliosis"
+"2" "Intellectual disability"
+"3" "Pectus excavatum"
+"4" "Dolichocephaly"
+"5" "Generalized hypotonia"
+"6" "Kyphosis"

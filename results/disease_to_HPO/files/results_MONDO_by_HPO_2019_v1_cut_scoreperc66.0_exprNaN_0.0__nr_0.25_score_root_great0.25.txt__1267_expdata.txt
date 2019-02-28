@@ -1,0 +1,12 @@
+	"MONDO.0010266"	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"
+"Broad palm"	1.0	0.0	0.0	0.0
+"Pneumonia"	1.0	0.0	0.0	0.0
+"Short finger"	1.0	0.0	0.0	0.0
+"Intellectual disability, progressive"	1.0	0.0	0.0	0.0
+"Multicystic kidney dysplasia"	1.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	1.0	0.0	0.0	0.0
+"U-Shaped upper lip vermilion"	1.0	0.0	0.0	0.0
+"Recurrent upper respiratory tract infections"	1.0	0.0	0.0	0.0
+"Hyperactive deep tendon reflexes"	1.0	0.0	0.0	0.0
+"Thickened nuchal skin fold"	1.0	0.0	0.0	0.0
+"Facial capillary hemangioma"	1.0	0.0	0.0	0.0

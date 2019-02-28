@@ -1,0 +1,5 @@
+"x"
+"1" "Posterior scalloping of vertebral bodies"
+"2" "Streaky metaphyseal sclerosis"
+"3" "Delayed patellar ossification"
+"4" "Narrow femoral neck"

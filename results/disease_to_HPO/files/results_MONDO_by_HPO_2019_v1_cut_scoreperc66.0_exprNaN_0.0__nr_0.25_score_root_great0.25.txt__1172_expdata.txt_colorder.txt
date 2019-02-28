@@ -1,0 +1,6 @@
+"x"
+"1" "Intellectual disability"
+"2" "HP:0012332"
+"3" "Small hand"
+"4" "Hyperventilation"
+"5" "Bruxism"

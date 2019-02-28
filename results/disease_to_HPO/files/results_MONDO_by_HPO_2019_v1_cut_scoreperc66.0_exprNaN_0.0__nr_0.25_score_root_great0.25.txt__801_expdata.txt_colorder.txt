@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Sensorineural hearing impairment"
+"3" "Stage 5 chronic kidney disease"
+"4" "Nail dystrophy"
+"5" "Nephritis"
+"6" "Pretibial blistering"

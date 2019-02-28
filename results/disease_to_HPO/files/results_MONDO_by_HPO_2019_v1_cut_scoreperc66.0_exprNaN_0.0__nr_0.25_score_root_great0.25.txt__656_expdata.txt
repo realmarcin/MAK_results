@@ -1,0 +1,10 @@
+	"MONDO.0007104"	"MONDO.0012260"	"MONDO.0013343"	"MONDO.0013717"
+"Spastic paraplegia"	0.0	1.0	1.0	0.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Postural instability"	0.0	1.0	0.0	0.0
+"Lower limb spasticity"	0.0	1.0	1.0	0.0
+"Lower limb muscle weakness"	0.0	1.0	1.0	0.0
+"Pain insensitivity"	0.0	1.0	0.0	0.0
+"Impaired tactile sensation"	0.0	1.0	0.0	0.0
+"Spastic gait"	0.0	1.0	1.0	0.0
+"Abolished vibration sense"	0.0	1.0	0.0	0.0

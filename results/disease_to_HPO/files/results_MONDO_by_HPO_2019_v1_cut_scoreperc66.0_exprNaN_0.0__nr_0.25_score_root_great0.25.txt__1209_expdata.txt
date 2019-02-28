@@ -1,0 +1,9 @@
+	"MONDO.0007668"	"MONDO.0008896"	"MONDO.0011984"	"MONDO.0012055"
+"Abnormal joint morphology"	0.0	1.0	0.0	0.0
+"Coronary artery calcification"	0.0	1.0	0.0	0.0
+"Periarticular calcification"	0.0	1.0	0.0	0.0
+"Arterial calcification"	0.0	1.0	0.0	0.0
+"Ectopic ossification"	0.0	1.0	0.0	0.0
+"Arterial occlusion"	0.0	1.0	0.0	0.0
+"Decreased serum creatinine"	0.0	1.0	0.0	0.0
+"Arterial tortuosity"	0.0	1.0	0.0	0.0

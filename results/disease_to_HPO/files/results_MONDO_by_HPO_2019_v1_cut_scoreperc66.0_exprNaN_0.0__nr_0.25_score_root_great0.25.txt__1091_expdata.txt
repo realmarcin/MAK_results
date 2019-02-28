@@ -1,0 +1,10 @@
+	"MONDO.0009136"	"MONDO.0009297"	"MONDO.0009837"	"MONDO.0015057"	"MONDO.0011906"
+"HP:0000007"	1.0	1.0	1.0	0.0	1.0
+"Xerostomia"	0.0	0.0	1.0	0.0	0.0
+"Cutaneous photosensitivity"	0.0	0.0	1.0	0.0	0.0
+"Visual impairment"	0.0	0.0	1.0	0.0	0.0
+"Reduced visual acuity"	0.0	0.0	1.0	0.0	0.0
+"Pruritus"	0.0	0.0	1.0	0.0	1.0
+"Jaundice"	0.0	0.0	1.0	0.0	0.0
+"Keratoconjunctivitis sicca"	0.0	0.0	1.0	0.0	0.0
+"Angular cheilitis"	0.0	0.0	1.0	0.0	0.0

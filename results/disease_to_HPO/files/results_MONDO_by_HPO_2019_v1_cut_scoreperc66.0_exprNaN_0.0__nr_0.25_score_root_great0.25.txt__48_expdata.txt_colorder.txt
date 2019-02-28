@@ -1,0 +1,4 @@
+"x"
+"1" "Immunodeficiency"
+"2" "Recurrent infections"
+"3" "Ectodermal dysplasia"

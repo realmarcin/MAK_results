@@ -1,0 +1,8 @@
+"x"
+"1" "Sinusitis"
+"2" "Immunodeficiency"
+"3" "Recurrent pneumonia"
+"4" "Sepsis"
+"5" "Pneumonia"
+"6" "Chronic diarrhea"
+"7" "Lymphopenia"

@@ -1,0 +1,8 @@
+	"MONDO.0007522"	"MONDO.0008113"	"MONDO.0009405"	"MONDO.0012939"	"MONDO.0014949"	"MONDO.0013996"
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0	1.0
+"Conductive hearing impairment"	1.0	1.0	1.0	0.0	0.0	1.0
+"Microtia"	1.0	1.0	1.0	0.0	0.0	1.0
+"Broad nasal tip"	1.0	0.0	1.0	0.0	0.0	0.0
+"2-3 toe syndactyly"	0.0	0.0	1.0	0.0	1.0	0.0
+"Ectopic kidney"	0.0	1.0	1.0	0.0	0.0	0.0
+"Bifid nasal tip"	0.0	0.0	1.0	0.0	0.0	1.0

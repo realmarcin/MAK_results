@@ -1,0 +1,9 @@
+	"MONDO.0008370"	"MONDO.0009447"	"MONDO.0011864"	"MONDO.0014306"
+"HP:0000007"	0.0	1.0	1.0	1.0
+"Severe short stature"	0.0	1.0	0.0	0.0
+"Nephropathy"	0.0	1.0	0.0	0.0
+"Premature ovarian insufficiency"	0.0	1.0	0.0	0.0
+"Elevated serum creatinine"	0.0	1.0	0.0	0.0
+"Congenital nonbullous ichthyosiform erythroderma"	0.0	1.0	0.0	0.0
+"Decreased glomerular filtration rate"	0.0	1.0	0.0	0.0
+"Abnormality of the fingernails"	0.0	1.0	0.0	0.0

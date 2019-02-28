@@ -1,0 +1,6 @@
+"x"
+"1" "Mild microcephaly"
+"2" "HP:0031435"
+"3" "Absent antihelix"
+"4" "Joint contractures involving the joints of the feet"
+"5" "HP:0009617"

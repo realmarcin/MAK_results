@@ -1,0 +1,6 @@
+"x"
+"1" "Epiretinal membrane"
+"2" "Photoreceptor layer loss on macular OCT"
+"3" "Macular hole"
+"4" "Arcuate scotoma"
+"5" "Blind-spot enlargment"

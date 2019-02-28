@@ -1,0 +1,5 @@
+"x"
+"1" "Nevus"
+"2" "Arrhythmia"
+"3" "Hypertrophic cardiomyopathy"
+"4" "Woolly hair"

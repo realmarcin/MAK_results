@@ -1,0 +1,8 @@
+"x"
+"1" "Hepatomegaly"
+"2" "Elevated serum creatine phosphokinase"
+"3" "Atrial fibrillation"
+"4" "Tachycardia"
+"5" "Generalized muscle weakness"
+"6" "Skeletal muscle hypertrophy"
+"7" "Muscle stiffness"

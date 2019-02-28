@@ -1,0 +1,8 @@
+	"MONDO.0013657"	"MONDO.0013991"	"MONDO.0014336"	"MONDO.0014661"	"MONDO.0014963"	"MONDO.0014993"
+"Polymicrogyria"	0.0	0.0	0.0	0.0	1.0	1.0
+"Absent speech"	1.0	1.0	0.0	1.0	1.0	1.0
+"HP:0031936"	0.0	0.0	0.0	0.0	1.0	1.0
+"Occipital encephalocele"	0.0	0.0	0.0	0.0	0.0	1.0
+"Lissencephaly"	0.0	0.0	0.0	0.0	0.0	1.0
+"Muscular hypotonia of the trunk"	1.0	1.0	0.0	0.0	1.0	1.0
+"Abnormal myelination"	0.0	0.0	0.0	0.0	0.0	1.0

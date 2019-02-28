@@ -1,0 +1,5 @@
+"x"
+"1" "Brisk reflexes"
+"2" "Corticospinal tract pallor"
+"3" "Craniofacial dystonia"
+"4" "HP:0030951"

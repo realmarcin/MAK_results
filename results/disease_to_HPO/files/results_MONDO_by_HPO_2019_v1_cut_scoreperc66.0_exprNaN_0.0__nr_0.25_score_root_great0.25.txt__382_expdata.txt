@@ -1,0 +1,8 @@
+	"MONDO.0010219"	"MONDO.0010721"	"MONDO.0011146"	"MONDO.0011324"	"MONDO.0014240"	"MONDO.0014370"
+"Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hypogonadism"	0.0	1.0	1.0	1.0	0.0	1.0
+"Micropenis"	1.0	1.0	0.0	1.0	1.0	1.0
+"Bifid scrotum"	1.0	1.0	0.0	0.0	0.0	0.0
+"Azoospermia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Gynecomastia"	0.0	1.0	1.0	0.0	0.0	0.0
+"Perineal hypospadias"	1.0	1.0	0.0	0.0	1.0	0.0

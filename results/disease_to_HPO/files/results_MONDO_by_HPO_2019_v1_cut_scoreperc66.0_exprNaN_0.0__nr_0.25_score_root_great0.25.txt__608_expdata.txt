@@ -1,0 +1,10 @@
+	"MONDO.0033005"	"MONDO.0009637"	"MONDO.0013282"	"MONDO.0013457"	"MONDO.0014213"
+"Hepatomegaly"	1.0	1.0	1.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	0.0
+"Ataxia"	0.0	0.0	1.0	1.0	0.0
+"Jaundice"	1.0	1.0	0.0	1.0	0.0
+"Thrombocytopenia"	1.0	1.0	1.0	1.0	0.0
+"Postnatal microcephaly"	0.0	0.0	0.0	1.0	0.0
+"Megaloblastic anemia"	0.0	0.0	0.0	1.0	0.0
+"Absence seizures"	0.0	0.0	0.0	1.0	0.0
+"Eyelid myoclonus"	0.0	0.0	0.0	1.0	0.0

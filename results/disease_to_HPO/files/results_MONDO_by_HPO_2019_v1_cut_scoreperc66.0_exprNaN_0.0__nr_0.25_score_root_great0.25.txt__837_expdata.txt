@@ -1,0 +1,9 @@
+	"MONDO.0010247"	"MONDO.0011508"	"MONDO.0012615"	"MONDO.0013727"	"MONDO.0024569"
+"Strabismus"	0.0	0.0	0.0	1.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0
+"Pointed chin"	0.0	0.0	0.0	1.0	0.0
+"Horizontal nystagmus"	0.0	0.0	0.0	1.0	0.0
+"Oculomotor apraxia"	0.0	0.0	0.0	1.0	0.0
+"Lactic acidosis"	0.0	0.0	0.0	1.0	0.0
+"Epileptic encephalopathy"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Steatorrhea"
+"2" "Exocrine pancreatic insufficiency"
+"3" "HP:0000007"
+"4" "Hepatomegaly"
+"5" "Global developmental delay"
+"6" "Delayed skeletal maturation"
+"7" "Type I diabetes mellitus"

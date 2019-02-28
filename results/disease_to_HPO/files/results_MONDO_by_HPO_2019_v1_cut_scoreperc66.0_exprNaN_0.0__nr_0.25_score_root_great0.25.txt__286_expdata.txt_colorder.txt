@@ -1,0 +1,5 @@
+"x"
+"1" "Dyslexia"
+"2" "HP:0000006"
+"3" "HP:0001426"
+"4" "Neurological speech impairment"

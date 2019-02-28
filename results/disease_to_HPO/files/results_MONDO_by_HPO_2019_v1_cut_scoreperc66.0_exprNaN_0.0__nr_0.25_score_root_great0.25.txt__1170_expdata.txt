@@ -1,0 +1,10 @@
+	"MONDO.0018690"	"MONDO.0013054"	"MONDO.0013648"	"MONDO.0014788"	"MONDO.0044721"
+"Autism"	1.0	0.0	0.0	0.0	0.0
+"Aggressive behavior"	1.0	0.0	0.0	0.0	0.0
+"Self-mutilation"	1.0	0.0	0.0	0.0	0.0
+"Inappropriate laughter"	1.0	0.0	0.0	0.0	0.0
+"Opisthotonus"	1.0	0.0	0.0	0.0	0.0
+"Happy demeanor"	1.0	0.0	0.0	0.0	0.0
+"Absent speech"	1.0	1.0	0.0	1.0	1.0
+"Flat occiput"	1.0	0.0	0.0	0.0	0.0
+"Hypointensity of cerebral white matter on MRI"	1.0	0.0	0.0	0.0	0.0

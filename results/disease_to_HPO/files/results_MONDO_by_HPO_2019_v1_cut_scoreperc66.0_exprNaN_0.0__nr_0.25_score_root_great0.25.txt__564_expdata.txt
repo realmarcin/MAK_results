@@ -1,0 +1,14 @@
+	"MONDO.0007430"	"MONDO.0008107"	"MONDO.0008134"	"MONDO.0008135"	"MONDO.0010694"
+"Strabismus"	1.0	1.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0
+"Ataxia"	1.0	0.0	1.0	1.0	0.0
+"Optic atrophy"	1.0	0.0	1.0	1.0	0.0
+"Pallor"	0.0	0.0	0.0	1.0	0.0
+"Proximal muscle weakness"	0.0	0.0	0.0	1.0	0.0
+"Horizontal nystagmus"	1.0	1.0	0.0	1.0	1.0
+"HP:0003587"	0.0	0.0	0.0	1.0	0.0
+"Tritanomaly"	1.0	0.0	1.0	1.0	0.0
+"Centrocecal scotoma"	1.0	0.0	0.0	1.0	0.0
+"Red-green dyschromatopsia"	1.0	0.0	1.0	1.0	0.0
+"Abnormal amplitude of pattern reversal visual evoked potentials"	1.0	0.0	0.0	1.0	0.0
+"Progressive external ophthalmoplegia"	0.0	0.0	0.0	1.0	0.0

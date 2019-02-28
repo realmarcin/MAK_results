@@ -1,0 +1,6 @@
+	"MONDO.0009557"	"MONDO.0009567"	"MONDO.0010817"	"MONDO.0010925"	"MONDO.0011292"	"MONDO.0011872"	"MONDO.0012369"	"MONDO.0012639"	"MONDO.0012825"	"MONDO.0013871"	"MONDO.0014115"
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Amelogenesis imperfecta"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Unexplained fevers"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Metaphyseal dysplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Diaphyseal dysplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

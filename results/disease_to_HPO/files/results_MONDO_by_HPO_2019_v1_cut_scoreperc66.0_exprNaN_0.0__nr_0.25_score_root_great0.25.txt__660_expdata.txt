@@ -1,0 +1,10 @@
+	"MONDO.0007104"	"MONDO.0013181"	"MONDO.0013343"	"MONDO.0013717"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Babinski sign"	0.0	1.0	0.0	0.0
+"Abnormal auditory evoked potentials"	0.0	1.0	0.0	0.0
+"Urinary bladder sphincter dysfunction"	0.0	1.0	1.0	0.0
+"Abnormality of visual evoked potentials"	0.0	1.0	0.0	0.0
+"Leukoencephalopathy"	0.0	1.0	0.0	0.0
+"Abnormality of somatosensory evoked potentials"	0.0	1.0	0.0	0.0
+"HP:0012896"	0.0	1.0	0.0	0.0

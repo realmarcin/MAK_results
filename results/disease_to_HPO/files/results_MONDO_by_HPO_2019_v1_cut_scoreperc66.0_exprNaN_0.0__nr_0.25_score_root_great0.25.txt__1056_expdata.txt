@@ -1,0 +1,10 @@
+	"MONDO.0010300"	"MONDO.0010320"	"MONDO.0010340"	"MONDO.0014211"
+"Generalized tonic-clonic seizures"	0.0	1.0	0.0	0.0
+"Parkinsonism"	0.0	1.0	0.0	0.0
+"Apraxia"	0.0	1.0	0.0	0.0
+"Bradykinesia"	0.0	1.0	0.0	0.0
+"Hypomimic face"	0.0	1.0	0.0	0.0
+"HP:0001419"	1.0	1.0	1.0	0.0
+"Action tremor"	0.0	1.0	0.0	0.0
+"Astereognosia"	0.0	1.0	0.0	0.0
+"Agraphesthesia"	0.0	1.0	0.0	0.0

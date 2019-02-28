@@ -1,0 +1,8 @@
+"x"
+"1" "Constipation"
+"2" "Vesicoureteral reflux"
+"3" "Hydronephrosis"
+"4" "Renal insufficiency"
+"5" "Recurrent urinary tract infections"
+"6" "Septate vagina"
+"7" "Diastasis recti"

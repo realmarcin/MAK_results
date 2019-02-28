@@ -1,0 +1,10 @@
+	"MONDO.0007939"	"MONDO.0013411"	"MONDO.0014481"	"MONDO.0014635"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Micropenis"	0.0	0.0	0.0	1.0
+"Sex reversal"	1.0	1.0	1.0	1.0
+"Dysgerminoma"	0.0	1.0	0.0	1.0
+"Gonadoblastoma"	0.0	1.0	0.0	1.0
+"Gonadal dysgenesis"	1.0	0.0	1.0	0.0
+"Decreased testicular size"	0.0	0.0	0.0	1.0
+"Ambiguous genitalia"	0.0	0.0	1.0	1.0
+"Fused labia minora"	0.0	0.0	1.0	0.0

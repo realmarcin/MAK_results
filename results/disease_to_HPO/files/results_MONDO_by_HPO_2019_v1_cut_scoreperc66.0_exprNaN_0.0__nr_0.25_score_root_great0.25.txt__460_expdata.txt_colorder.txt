@@ -1,0 +1,5 @@
+"x"
+"1" "Multiple pterygia"
+"2" "Amyoplasia"
+"3" "Hypoplastic heart"
+"4" "Abnormal cervical curvature"

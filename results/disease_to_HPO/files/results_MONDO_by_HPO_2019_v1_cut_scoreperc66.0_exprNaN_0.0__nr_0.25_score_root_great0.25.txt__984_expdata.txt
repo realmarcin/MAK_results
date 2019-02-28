@@ -1,0 +1,7 @@
+	"MONDO.0007107"	"MONDO.0008314"	"MONDO.0010175"	"MONDO.0010279"	"MONDO.0010806"	"MONDO.0014835"
+"Bowel incontinence"	1.0	1.0	0.0	1.0	1.0	0.0
+"Drooling"	0.0	0.0	0.0	1.0	0.0	1.0
+"Drowsiness"	0.0	0.0	1.0	0.0	0.0	0.0
+"Muscular hypotonia of the trunk"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperkinesis"	0.0	0.0	1.0	1.0	0.0	1.0
+"Hypervalinemia"	0.0	0.0	1.0	0.0	0.0	0.0

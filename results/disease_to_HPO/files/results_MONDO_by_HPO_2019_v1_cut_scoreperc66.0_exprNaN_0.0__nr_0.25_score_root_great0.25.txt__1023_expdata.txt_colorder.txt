@@ -1,0 +1,6 @@
+"x"
+"1" "Recurrent upper respiratory tract infections"
+"2" "Syndactyly"
+"3" "Deeply set eye"
+"4" "Joint hypermobility"
+"5" "Avascular necrosis of the capital femoral epiphysis"

@@ -1,0 +1,10 @@
+	"MONDO.0007161"	"MONDO.0007950"	"MONDO.0008976"	"MONDO.0009407"	"MONDO.0011496"	"MONDO.0012717"
+"Anteverted nares"	1.0	1.0	1.0	1.0	1.0	1.0
+"Arachnodactyly"	1.0	0.0	0.0	0.0	1.0	0.0
+"Depressed nasal bridge"	1.0	1.0	0.0	1.0	1.0	1.0
+"Bifid uvula"	0.0	0.0	0.0	0.0	1.0	0.0
+"Glaucoma"	1.0	1.0	0.0	0.0	1.0	0.0
+"Spondyloepiphyseal dysplasia"	1.0	0.0	0.0	0.0	1.0	1.0
+"Arthropathy"	1.0	0.0	0.0	0.0	1.0	0.0
+"Retinopathy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the vitreous humor"	1.0	0.0	0.0	0.0	1.0	0.0

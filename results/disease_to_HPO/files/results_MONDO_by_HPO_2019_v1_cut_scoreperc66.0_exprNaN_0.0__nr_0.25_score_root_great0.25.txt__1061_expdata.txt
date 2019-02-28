@@ -1,0 +1,10 @@
+	"MONDO.0010904"	"MONDO.0012256"	"MONDO.0012592"	"MONDO.0013298"
+"Generalized joint laxity"	0.0	1.0	0.0	0.0
+"Lumbar hyperlordosis"	0.0	1.0	0.0	0.0
+"Genu varum"	0.0	1.0	0.0	0.0
+"Short femoral neck"	0.0	1.0	0.0	0.0
+"Short stature"	0.0	1.0	1.0	1.0
+"Patellar hypoplasia"	0.0	1.0	0.0	0.0
+"Epiphyseal dysplasia"	0.0	1.0	0.0	0.0
+"Broad femoral neck"	0.0	1.0	0.0	0.0
+"Irregular patellae"	0.0	1.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0008789"	"MONDO.0012224"	"MONDO.0012252"	"MONDO.0011424"	"MONDO.0012359"
+"Cirrhosis"	0.0	0.0	1.0	0.0	0.0
+"High forehead"	0.0	0.0	1.0	0.0	0.0
+"Hyperkeratosis"	1.0	1.0	1.0	1.0	1.0
+"Diarrhea"	0.0	0.0	1.0	0.0	0.0
+"Cataract"	0.0	0.0	1.0	0.0	0.0
+"Cholestasis"	0.0	0.0	1.0	0.0	0.0
+"Upslanted palpebral fissure"	0.0	0.0	1.0	0.0	0.0
+"Hepatic fibrosis"	0.0	0.0	1.0	0.0	0.0
+"Decreased serum ceruloplasmin"	0.0	0.0	1.0	0.0	0.0

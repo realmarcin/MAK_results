@@ -1,0 +1,8 @@
+	"MONDO.0008726"	"MONDO.0008728"	"MONDO.0008729"	"MONDO.0008730"	"MONDO.0008731"	"MONDO.0013401"
+"Hypospadias"	1.0	1.0	1.0	0.0	1.0	0.0
+"Adrenal hyperplasia"	0.0	1.0	1.0	0.0	1.0	0.0
+"Gynecomastia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Elevated circulating follicle stimulating hormone level"	1.0	1.0	1.0	0.0	1.0	1.0
+"Elevated circulating luteinizing hormone level"	1.0	1.0	1.0	0.0	1.0	1.0
+"Enlarged polycystic ovaries"	0.0	1.0	1.0	1.0	1.0	0.0
+"Adrenocorticotropic hormone excess"	1.0	1.0	1.0	1.0	1.0	1.0

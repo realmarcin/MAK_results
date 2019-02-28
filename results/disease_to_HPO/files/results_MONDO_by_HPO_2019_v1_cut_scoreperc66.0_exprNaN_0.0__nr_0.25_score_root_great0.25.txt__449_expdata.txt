@@ -1,0 +1,5 @@
+	"MONDO.0007639"	"MONDO.0009018"	"MONDO.0012203"	"MONDO.0012426"	"MONDO.0013208"
+"Corneal degeneration"	1.0	1.0	0.0	1.0	0.0
+"Corneal guttata"	1.0	0.0	1.0	1.0	1.0
+"Descemet Membrane Folds"	1.0	0.0	0.0	0.0	0.0
+"Corneal stromal edema"	1.0	0.0	0.0	0.0	1.0

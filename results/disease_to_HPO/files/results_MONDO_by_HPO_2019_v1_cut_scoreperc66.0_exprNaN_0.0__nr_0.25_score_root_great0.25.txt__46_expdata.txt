@@ -1,0 +1,9 @@
+	"MONDO.0009911"	"MONDO.0011245"	"MONDO.0013820"	"MONDO.0013821"	"MONDO.0013822"
+"Anteverted nares"	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0
+"Depressed nasal bridge"	0.0	1.0	1.0	1.0	1.0
+"Abnormality of cardiovascular system morphology"	1.0	1.0	1.0	1.0	1.0
+"Coarse facial features"	0.0	0.0	1.0	1.0	1.0
+"Thick eyebrow"	0.0	1.0	1.0	1.0	1.0
+"Macroglossia"	0.0	0.0	1.0	1.0	1.0

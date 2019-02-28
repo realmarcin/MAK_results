@@ -1,0 +1,7 @@
+	"MONDO.0007058"	"MONDO.0007178"	"MONDO.0008886"	"MONDO.0008899"
+"Attached earlobe"	0.0	1.0	1.0	1.0
+"Absent ethmoidal sinuses"	0.0	0.0	0.0	1.0
+"Tubular metacarpal bones"	0.0	0.0	0.0	1.0
+"Abnormality of dental eruption"	0.0	0.0	0.0	1.0
+"Twelfth rib hypoplasia"	0.0	0.0	0.0	1.0
+"Hypoplastic 5th lumbar vertebrae"	1.0	0.0	0.0	1.0

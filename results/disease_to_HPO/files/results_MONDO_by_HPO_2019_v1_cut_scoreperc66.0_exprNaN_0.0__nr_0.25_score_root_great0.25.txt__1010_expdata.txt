@@ -1,0 +1,8 @@
+	"MONDO.0007776"	"MONDO.0008488"	"MONDO.0011987"	"MONDO.0013535"
+"HP:0000007"	0.0	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0
+"Abdominal pain"	0.0	0.0	1.0	0.0
+"Neoplasm of the pancreas"	0.0	0.0	1.0	0.0
+"Pancreatic calcification"	0.0	0.0	1.0	0.0
+"Chronic pancreatitis"	0.0	0.0	1.0	0.0
+"Insulin-dependent but ketosis-resistant diabetes"	0.0	0.0	1.0	0.0

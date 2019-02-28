@@ -1,0 +1,6 @@
+	"MONDO.0007981"	"MONDO.0008146"	"MONDO.0008625"	"MONDO.0009329"	"MONDO.0009803"	"MONDO.0013809"
+"Chondrosarcoma"	0.0	1.0	0.0	0.0	0.0	1.0
+"Multiple enchondromatosis"	1.0	1.0	1.0	0.0	0.0	1.0
+"Abnormality of long bone morphology"	0.0	1.0	0.0	0.0	1.0	0.0
+"Hemangiomatosis"	0.0	0.0	0.0	1.0	0.0	1.0
+"Neoplasm of the adrenal cortex"	0.0	0.0	0.0	0.0	0.0	1.0

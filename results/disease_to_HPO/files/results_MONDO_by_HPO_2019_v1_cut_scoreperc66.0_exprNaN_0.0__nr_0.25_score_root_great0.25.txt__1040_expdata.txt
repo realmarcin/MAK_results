@@ -1,0 +1,10 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0011996"	"MONDO.0013174"	"MONDO.0013883"
+"HP:0000007"	1.0	0.0	1.0	1.0	1.0
+"Global developmental delay"	0.0	0.0	1.0	0.0	0.0
+"Micrognathia"	0.0	0.0	1.0	0.0	0.0
+"Delayed skeletal maturation"	0.0	0.0	1.0	0.0	0.0
+"Glaucoma"	0.0	0.0	1.0	0.0	0.0
+"Short philtrum"	1.0	0.0	1.0	1.0	0.0
+"HP:0001276"	0.0	0.0	1.0	0.0	0.0
+"Widely-spaced maxillary central incisors"	0.0	0.0	1.0	0.0	0.0
+"Central hypotonia"	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0013910"	"MONDO.0014116"	"MONDO.0014274"	"MONDO.0014304"	"MONDO.0014772"	"MONDO.0014997"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Panhypopituitarism"	0.0	0.0	0.0	0.0	1.0	0.0
+"Recurrent upper respiratory tract infections"	0.0	0.0	0.0	0.0	1.0	0.0
+"Inferior vermis hypoplasia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Cleft lip"	0.0	0.0	0.0	0.0	1.0	0.0
+"Central hypothyroidism"	0.0	0.0	0.0	0.0	1.0	0.0

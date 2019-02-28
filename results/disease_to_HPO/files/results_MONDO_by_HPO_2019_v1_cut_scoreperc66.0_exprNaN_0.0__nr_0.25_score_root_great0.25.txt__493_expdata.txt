@@ -1,0 +1,10 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0013174"	"MONDO.0013883"
+"Hypertelorism"	1.0	1.0	1.0	1.0
+"Small nail"	1.0	0.0	0.0	0.0
+"Short nose"	1.0	1.0	0.0	1.0
+"Short toe"	1.0	0.0	0.0	0.0
+"Delayed ossification of carpal bones"	1.0	0.0	0.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	0.0	1.0
+"Anteriorly placed anus"	1.0	0.0	0.0	0.0
+"Large eyes"	1.0	0.0	0.0	0.0
+"Tented upper lip vermilion"	1.0	1.0	0.0	1.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Progressive external ophthalmoplegia"
+"2" "Sensory ataxic neuropathy"
+"3" "Atrophy/Degeneration involving the spinal cord"

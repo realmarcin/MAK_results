@@ -1,0 +1,17 @@
+	"MONDO.0009862"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0014211"
+"Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0
+"Depressivity"	1.0	0.0	0.0	0.0
+"Dry skin"	1.0	0.0	0.0	0.0
+"Eczema"	1.0	0.0	0.0	0.0
+"Fair hair"	1.0	0.0	0.0	0.0
+"HP:0007513"	1.0	0.0	0.0	0.0
+"Cataract"	1.0	0.0	0.0	0.0
+"Cerebral calcification"	1.0	0.0	0.0	0.0
+"Aminoaciduria"	1.0	0.0	0.0	0.0
+"Scleroderma"	1.0	0.0	0.0	0.0
+"Prenatal maternal abnormality"	1.0	0.0	0.0	0.0
+"Hyperphenylalaninemia"	1.0	0.0	0.0	0.0
+"HP:0410066"	1.0	0.0	0.0	0.0
+"Phenylpyruvic acidemia"	1.0	0.0	0.0	0.0
+"Reduced phenylalanine hydroxylase activity"	1.0	0.0	0.0	0.0
+"Maternal hyperphenylalaninemia"	1.0	0.0	0.0	0.0

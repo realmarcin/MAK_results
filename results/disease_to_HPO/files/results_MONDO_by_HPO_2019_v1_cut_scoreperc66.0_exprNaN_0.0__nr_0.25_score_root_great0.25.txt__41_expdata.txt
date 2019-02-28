@@ -1,0 +1,4 @@
+	"MONDO.0009433"	"MONDO.0009744"	"MONDO.0009925"	"MONDO.0010187"	"MONDO.0010226"	"MONDO.0010359"	"MONDO.0010811"
+"Bulging epiphyses"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Enlargement of the wrists"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Enlargement of the ankles"	1.0	0.0	1.0	1.0	1.0	1.0	1.0

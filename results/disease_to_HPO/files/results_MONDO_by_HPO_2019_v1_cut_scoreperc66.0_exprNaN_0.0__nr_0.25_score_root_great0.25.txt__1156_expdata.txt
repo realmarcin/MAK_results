@@ -1,0 +1,9 @@
+	"MONDO.0010061"	"MONDO.0014505"	"MONDO.0014522"	"MONDO.0014672"	"MONDO.0014718"	"MONDO.0054748"
+"Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hallucinations"	0.0	0.0	0.0	0.0	1.0	0.0
+"Confusion"	0.0	0.0	0.0	0.0	1.0	0.0
+"Paranoia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Mutism"	0.0	0.0	0.0	0.0	1.0	0.0
+"Spastic tetraparesis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Spastic tetraplegia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Lafora bodies"	0.0	0.0	0.0	0.0	1.0	0.0

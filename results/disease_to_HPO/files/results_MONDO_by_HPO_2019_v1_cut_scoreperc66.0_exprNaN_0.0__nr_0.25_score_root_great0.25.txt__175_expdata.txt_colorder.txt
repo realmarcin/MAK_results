@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Spastic paraplegia"
+"3" "Hyperreflexia"
+"4" "Scissor gait"
+"5" "Bilateral single transverse palmar creases"
+"6" "Abnormality of the hip bone"

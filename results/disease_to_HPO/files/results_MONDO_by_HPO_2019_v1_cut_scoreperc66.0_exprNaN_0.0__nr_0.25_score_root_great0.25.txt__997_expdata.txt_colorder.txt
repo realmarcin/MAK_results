@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Cafe-au-lait spot"
+"3" "Brachycephaly"
+"4" "Hypospadias"
+"5" "Intellectual disability, mild"
+"6" "Unilateral renal agenesis"

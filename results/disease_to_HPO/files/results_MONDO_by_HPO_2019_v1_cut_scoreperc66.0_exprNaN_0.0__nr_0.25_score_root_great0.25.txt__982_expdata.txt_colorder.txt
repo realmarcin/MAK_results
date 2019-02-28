@@ -1,0 +1,8 @@
+"x"
+"1" "Muscular hypotonia"
+"2" "Hypoplasia of the corpus callosum"
+"3" "Short stature"
+"4" "Myopia"
+"5" "Heat intolerance"
+"6" "Absent eyebrow"
+"7" "Cerebellar hypoplasia"

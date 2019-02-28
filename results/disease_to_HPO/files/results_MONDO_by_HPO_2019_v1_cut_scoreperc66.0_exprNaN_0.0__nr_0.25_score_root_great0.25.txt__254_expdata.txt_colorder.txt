@@ -1,0 +1,7 @@
+"x"
+"1" "Mental deterioration"
+"2" "Urinary incontinence"
+"3" "Abnormality of the periventricular white matter"
+"4" "Peripheral demyelination"
+"5" "Loss of speech"
+"6" "CNS demyelination"

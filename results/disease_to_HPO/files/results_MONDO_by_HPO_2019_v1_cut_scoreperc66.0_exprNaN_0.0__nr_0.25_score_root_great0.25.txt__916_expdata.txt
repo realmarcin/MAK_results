@@ -1,0 +1,11 @@
+	"MONDO.0007104"	"MONDO.0013343"	"MONDO.0013717"	"MONDO.0014730"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Ventriculomegaly"	0.0	0.0	0.0	1.0
+"Peripheral neuropathy"	0.0	1.0	0.0	1.0
+"Hypermetropia"	0.0	0.0	0.0	1.0
+"Glaucoma"	0.0	0.0	0.0	1.0
+"Astigmatism"	0.0	0.0	0.0	1.0
+"Babinski sign"	0.0	0.0	0.0	1.0
+"Neonatal hypotonia"	0.0	0.0	0.0	1.0
+"Distal lower limb amyotrophy"	0.0	0.0	0.0	1.0
+"HP:0012511"	0.0	0.0	0.0	1.0

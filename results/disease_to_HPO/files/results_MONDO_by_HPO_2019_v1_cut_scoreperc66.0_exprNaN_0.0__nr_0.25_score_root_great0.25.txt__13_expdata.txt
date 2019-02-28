@@ -1,0 +1,5 @@
+	"MONDO.0008897"	"MONDO.0009718"	"MONDO.0010036"
+"Abnormality of the ribs"	1.0	1.0	1.0
+"Micromelia"	1.0	1.0	1.0
+"Increased number of teeth"	0.0	1.0	1.0
+"HP:0008056"	1.0	1.0	1.0

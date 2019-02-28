@@ -1,0 +1,9 @@
+	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013220"	"MONDO.0013298"
+"HP:0000007"	0.0	0.0	1.0	0.0
+"Pulmonic stenosis"	0.0	0.0	1.0	0.0
+"Genu varum"	0.0	0.0	1.0	0.0
+"Carious teeth"	0.0	0.0	1.0	0.0
+"Genu valgum"	0.0	0.0	1.0	0.0
+"Hypoplasia of teeth"	0.0	0.0	1.0	0.0
+"Hyperphosphaturia"	0.0	0.0	1.0	0.0
+"Hypophosphatemic rickets"	0.0	0.0	1.0	0.0

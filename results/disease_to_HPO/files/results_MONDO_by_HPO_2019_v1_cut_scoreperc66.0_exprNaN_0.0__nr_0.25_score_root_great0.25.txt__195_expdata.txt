@@ -1,0 +1,8 @@
+	"MONDO.0009954"	"MONDO.0010335"	"MONDO.0010378"	"MONDO.0010418"	"MONDO.0013579"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0
+"Bulbous nose"	1.0	0.0	1.0	0.0	1.0
+"Hyperactivity"	0.0	1.0	1.0	0.0	1.0
+"Cerebral cortical atrophy"	1.0	1.0	0.0	1.0	1.0
+"Intellectual disability, severe"	1.0	1.0	1.0	0.0	1.0
+"Febrile seizures"	1.0	0.0	0.0	0.0	1.0
+"Small for gestational age"	0.0	0.0	1.0	0.0	1.0

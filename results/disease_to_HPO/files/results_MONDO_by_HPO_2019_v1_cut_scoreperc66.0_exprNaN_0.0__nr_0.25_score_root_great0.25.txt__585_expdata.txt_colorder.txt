@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Clinodactyly"
+"3" "Radial deviation of finger"
+"4" "Feeding difficulties in infancy"
+"5" "2-3 toe syndactyly"
+"6" "Hyperhidrosis"

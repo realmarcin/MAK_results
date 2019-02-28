@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Intrauterine growth retardation"
+"3" "Spasticity"
+"4" "Micropenis"
+"5" "Elevated hepatic transaminases"
+"6" "Rod-cone dystrophy"
+"7" "Cystoid macular edema"

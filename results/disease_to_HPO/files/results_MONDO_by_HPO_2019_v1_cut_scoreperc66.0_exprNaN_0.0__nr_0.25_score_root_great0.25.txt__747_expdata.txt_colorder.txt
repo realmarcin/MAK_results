@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Spastic paraplegia"
+"3" "Scissor gait"
+"4" "Polyneuropathy"
+"5" "Absent Achilles reflex"
+"6" "Abnormality of the knee"
+"7" "Hyperactive patellar reflex"

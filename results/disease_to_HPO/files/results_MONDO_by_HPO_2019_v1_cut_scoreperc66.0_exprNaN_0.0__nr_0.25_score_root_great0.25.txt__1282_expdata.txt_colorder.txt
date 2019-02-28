@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Hydronephrosis"
+"3" "Renal cyst"
+"4" "Optic nerve dysplasia"
+"5" "Decreased testicular size"
+"6" "Anencephaly"

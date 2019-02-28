@@ -1,0 +1,6 @@
+"x"
+"1" "Elevated imprint of the transverse sinuses"
+"2" "Thinning and bulging of the posterior fossa bones"
+"3" "Posterior fossa cyst at the fourth ventricle"
+"4" "Partial absence of cerebellar vermis"
+"5" "Proximal finger joint hyperextensibility"

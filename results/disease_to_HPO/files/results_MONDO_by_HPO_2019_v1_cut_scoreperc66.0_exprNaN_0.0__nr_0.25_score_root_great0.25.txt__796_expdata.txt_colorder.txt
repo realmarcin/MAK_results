@@ -1,0 +1,8 @@
+"x"
+"1" "Seizures"
+"2" "Hemiparesis"
+"3" "HP:0000006"
+"4" "Hematuria"
+"5" "Hemangioma"
+"6" "Gastrointestinal hemorrhage"
+"7" "Horner syndrome"

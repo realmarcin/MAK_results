@@ -1,0 +1,10 @@
+	"MONDO.0013350"	"MONDO.0013511"	"MONDO.0060760"	"MONDO.0020848"
+"Microcephaly"	1.0	0.0	0.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"High forehead"	1.0	0.0	0.0	0.0
+"Opisthotonus"	1.0	0.0	0.0	0.0
+"Vomiting"	1.0	0.0	0.0	0.0
+"Inverted nipples"	1.0	0.0	0.0	0.0
+"Temperature instability"	1.0	0.0	0.0	0.0
+"Type I transferrin isoform profile"	1.0	0.0	0.0	0.0

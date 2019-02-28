@@ -1,0 +1,8 @@
+"x"
+"1" "Platyspondyly"
+"2" "Micromelia"
+"3" "Hypoplastic pelvis"
+"4" "Disproportionate short-trunk short stature"
+"5" "Metaphyseal dysplasia"
+"6" "Broad foot"
+"7" "Enlargement of the costochondral junction"

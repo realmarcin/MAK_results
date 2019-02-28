@@ -1,0 +1,9 @@
+	"MONDO.0007168"	"MONDO.0010118"	"MONDO.0010464"	"MONDO.0013823"	"MONDO.0011578"
+"Micrognathia"	1.0	0.0	1.0	0.0	1.0
+"Frontal bossing"	1.0	1.0	1.0	0.0	1.0
+"Rhizomelia"	1.0	0.0	1.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	1.0	1.0	1.0	0.0
+"11 pairs of ribs"	1.0	0.0	1.0	0.0	0.0
+"Short philtrum"	0.0	0.0	1.0	0.0	1.0
+"Thin ribs"	0.0	0.0	1.0	0.0	0.0
+"Decreased skull ossification"	0.0	0.0	1.0	0.0	1.0

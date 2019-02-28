@@ -1,0 +1,7 @@
+	"MONDO.0007701"	"MONDO.0009977"	"MONDO.0013327"	"MONDO.0013917"	"MONDO.0013919"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0
+"HP:0003812"	0.0	0.0	0.0	1.0	1.0
+"HP:0000113"	0.0	0.0	0.0	1.0	0.0
+"Cerebellar vermis hypoplasia"	0.0	0.0	0.0	1.0	1.0
+"Retinal degeneration"	0.0	1.0	1.0	1.0	1.0
+"Nephronophthisis"	0.0	0.0	1.0	1.0	1.0

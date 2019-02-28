@@ -1,0 +1,7 @@
+	"MONDO.0008792"	"MONDO.0008812"	"MONDO.0010025"	"MONDO.0010526"	"MONDO.0010743"	"MONDO.0011297"	"MONDO.0012629"	"MONDO.0011261"
+"Patent ductus arteriosus"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Neonatal death"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Omphalocele"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Pulmonary hypoplasia"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Occipital encephalocele"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Anencephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Sensorineural hearing impairment"
+"2" "Tinnitus"
+"3" "HP:0003676"
+"4" "HP:0000006"

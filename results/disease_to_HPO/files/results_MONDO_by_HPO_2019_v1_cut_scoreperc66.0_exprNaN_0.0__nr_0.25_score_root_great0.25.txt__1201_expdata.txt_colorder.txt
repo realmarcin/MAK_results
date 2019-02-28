@@ -1,0 +1,6 @@
+"x"
+"1" "Delayed CNS myelination"
+"2" "Inspiratory stridor"
+"3" "Subependymal cysts"
+"4" "Multifocal cerebral white matter abnormalities"
+"5" "D-2-hydroxyglutaric aciduria"

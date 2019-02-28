@@ -1,0 +1,7 @@
+	"MONDO.0007395"	"MONDO.0008212"	"MONDO.0009261"	"MONDO.0009656"	"MONDO.0009657"	"MONDO.0009658"	"MONDO.0009659"	"MONDO.0009663"	"MONDO.0010675"	"MONDO.0011094"
+"Thickened ribs"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Ovoid thoracolumbar vertebrae"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Asymmetric septal hypertrophy"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Dense calvaria"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Heparan sulfate excretion in urine"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cellular metachromasia"	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0007058"	"MONDO.0010211"	"MONDO.0010213"	"MONDO.0010214"	"MONDO.0010218"
+"Conjunctivitis"	0.0	1.0	1.0	1.0	1.0
+"Dermal atrophy"	0.0	1.0	1.0	1.0	1.0
+"Keratitis"	0.0	1.0	1.0	1.0	1.0
+"Ectropion"	0.0	1.0	1.0	1.0	1.0
+"Poikiloderma"	0.0	1.0	1.0	1.0	1.0
+"Telangiectasia"	0.0	1.0	1.0	1.0	1.0
+"Defective DNA repair after ultraviolet radiation damage"	0.0	1.0	1.0	1.0	1.0
+"Melanoma"	0.0	1.0	1.0	1.0	1.0
+"Entropion"	0.0	1.0	1.0	1.0	1.0

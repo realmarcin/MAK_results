@@ -1,0 +1,7 @@
+	"MONDO.0008301"	"MONDO.0008395"	"MONDO.0008436"	"MONDO.0008679"	"MONDO.0008711"	"MONDO.0010429"
+"Delayed skeletal maturation"	1.0	1.0	0.0	1.0	0.0	0.0
+"Obesity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Precocious puberty"	1.0	1.0	1.0	1.0	1.0	1.0
+"Polyphagia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Clitoral hypertrophy"	0.0	0.0	0.0	0.0	0.0	0.0
+"Failure to thrive in infancy"	1.0	1.0	1.0	1.0	0.0	0.0

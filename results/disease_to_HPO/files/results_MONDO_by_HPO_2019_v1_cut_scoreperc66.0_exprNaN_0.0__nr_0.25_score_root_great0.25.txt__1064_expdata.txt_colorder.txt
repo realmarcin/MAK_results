@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Panhypopituitarism"
+"3" "Recurrent upper respiratory tract infections"
+"4" "Inferior vermis hypoplasia"
+"5" "Cleft lip"
+"6" "Central hypothyroidism"

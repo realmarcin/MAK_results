@@ -1,0 +1,7 @@
+	"MONDO.0049222"	"MONDO.0012718"	"MONDO.0014242"	"MONDO.0014826"	"MONDO.0033364"	"MONDO.0060578"	"MONDO.0033371"	"MONDO.0044330"
+"Intellectual disability"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Aniridia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003829"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Language impairment"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0009642"	"MONDO.0009654"	"MONDO.0010080"	"MONDO.0014961"
+"Flexion contracture"	1.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Seizures"	1.0	0.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0	1.0
+"Abnormality of retinal pigmentation"	0.0	1.0	1.0	0.0
+"Developmental regression"	1.0	0.0	1.0	1.0
+"Brain atrophy"	0.0	0.0	1.0	1.0

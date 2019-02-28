@@ -1,0 +1,4 @@
+"x"
+"1" "Biliary tract abnormality"
+"2" "Acholic stools"
+"3" "Abnormality of urine homeostasis"

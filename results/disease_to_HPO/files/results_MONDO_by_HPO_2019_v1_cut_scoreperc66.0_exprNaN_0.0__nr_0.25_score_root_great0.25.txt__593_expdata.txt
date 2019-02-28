@@ -1,0 +1,6 @@
+	"MONDO.0007406"	"MONDO.0010011"	"MONDO.0010750"
+"Metopic suture patent to nasal root"	0.0	1.0	1.0
+"Wide distal femoral metaphysis"	0.0	1.0	0.0
+"Increased density of long bones"	0.0	1.0	0.0
+"Premature posterior fontanelle closure"	0.0	0.0	1.0
+"Multiple suture craniosynostosis"	1.0	0.0	1.0

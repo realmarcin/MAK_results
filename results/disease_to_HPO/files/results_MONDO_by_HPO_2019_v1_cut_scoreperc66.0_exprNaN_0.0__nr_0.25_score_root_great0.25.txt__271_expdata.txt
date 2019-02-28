@@ -1,0 +1,11 @@
+	"MONDO.0010517"	"MONDO.0010531"	"MONDO.0011912"	"MONDO.0013881"
+"Cleft palate"	1.0	0.0	1.0	0.0
+"Pes planus"	1.0	0.0	1.0	0.0
+"Esotropia"	1.0	1.0	1.0	1.0
+"Midface retrusion"	1.0	0.0	1.0	1.0
+"Bifid uvula"	1.0	0.0	1.0	0.0
+"Delayed eruption of teeth"	1.0	0.0	1.0	0.0
+"Optic atrophy"	0.0	1.0	1.0	0.0
+"Thin upper lip vermilion"	1.0	0.0	1.0	0.0
+"Sensorineural hearing impairment"	1.0	1.0	0.0	1.0
+"Gastroesophageal reflux"	0.0	1.0	1.0	0.0

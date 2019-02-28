@@ -1,0 +1,6 @@
+	"MONDO.0007695"	"MONDO.0008000"	"MONDO.0024455"	"MONDO.0008595"	"MONDO.0012669"
+"HP:0000006"	0.0	1.0	1.0	1.0	1.0
+"Fine hair"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the eye"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the hair"	1.0	1.0	1.0	1.0	1.0
+"Abnormal hair pattern"	0.0	0.0	1.0	0.0	0.0

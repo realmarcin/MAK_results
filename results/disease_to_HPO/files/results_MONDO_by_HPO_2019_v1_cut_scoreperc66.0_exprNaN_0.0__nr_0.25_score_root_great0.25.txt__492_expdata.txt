@@ -1,0 +1,8 @@
+	"MONDO.0010397"	"MONDO.0013278"	"MONDO.0013802"	"MONDO.0014950"	"MONDO.0015001"	"MONDO.0044777"
+"Cerebellar atrophy"	0.0	1.0	0.0	1.0	1.0	1.0
+"CNS hypomyelination"	0.0	1.0	0.0	0.0	0.0	1.0
+"Hyperreflexia"	0.0	1.0	0.0	0.0	0.0	1.0
+"Iris coloboma"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0031936"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypsarrhythmia"	1.0	1.0	0.0	1.0	1.0	1.0
+"Epileptic encephalopathy"	1.0	1.0	1.0	1.0	1.0	1.0

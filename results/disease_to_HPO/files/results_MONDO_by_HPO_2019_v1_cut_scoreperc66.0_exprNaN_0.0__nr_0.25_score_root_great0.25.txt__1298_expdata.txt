@@ -1,0 +1,20 @@
+	"MONDO.0009459"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Intrauterine growth retardation"	1.0	0.0	0.0	0.0
+"Fine hair"	1.0	0.0	0.0	0.0
+"Bulbous nose"	1.0	0.0	0.0	0.0
+"Ovoid vertebral bodies"	1.0	0.0	0.0	0.0
+"Renal insufficiency"	1.0	0.0	0.0	0.0
+"Neutropenia"	1.0	0.0	0.0	0.0
+"Hip dislocation"	1.0	0.0	0.0	0.0
+"High pitched voice"	1.0	0.0	0.0	0.0
+"Multiple cafe-au-lait spots"	1.0	0.0	0.0	0.0
+"Lymphopenia"	1.0	0.0	0.0	0.0
+"Recurrent infections"	1.0	0.0	0.0	0.0
+"Focal segmental glomerulosclerosis"	1.0	0.0	0.0	0.0
+"Glomerulopathy"	1.0	0.0	0.0	0.0
+"Increased thyroid-stimulating hormone level"	1.0	0.0	0.0	0.0
+"Thoracic kyphosis"	1.0	0.0	0.0	0.0
+"Transient ischemic attack"	1.0	0.0	0.0	0.0
+"Abnormal T cell morphology"	1.0	0.0	0.0	0.0
+"Lateral displacement of the femoral head"	1.0	0.0	0.0	0.0
+"Abnormal immunoglobulin level"	1.0	0.0	0.0	0.0

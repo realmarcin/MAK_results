@@ -1,0 +1,7 @@
+"x"
+"1" "Broad femoral neck"
+"2" "Arthralgia of the hip"
+"3" "Premature osteoarthritis"
+"4" "Delayed tarsal ossification"
+"5" "Irregularity of vertebral bodies"
+"6" "Flat distal femoral epiphysis"

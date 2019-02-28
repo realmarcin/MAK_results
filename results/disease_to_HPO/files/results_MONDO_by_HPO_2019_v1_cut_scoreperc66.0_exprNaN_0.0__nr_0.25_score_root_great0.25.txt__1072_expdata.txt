@@ -1,0 +1,6 @@
+	"MONDO.0007422"	"MONDO.0007505"	"MONDO.0007637"	"MONDO.0008142"	"MONDO.0008713"	"MONDO.0010126"
+"Abnormality of the stapes"	1.0	1.0	0.0	0.0	0.0	0.0
+"Congenital conductive hearing impairment"	0.0	1.0	1.0	1.0	0.0	0.0
+"Abnormality of the malleus"	0.0	1.0	0.0	0.0	1.0	0.0
+"Absent stapes head"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the incus"	0.0	0.0	0.0	0.0	1.0	0.0

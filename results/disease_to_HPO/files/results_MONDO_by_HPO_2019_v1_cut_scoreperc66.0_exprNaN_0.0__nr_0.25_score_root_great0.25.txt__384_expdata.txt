@@ -1,0 +1,8 @@
+	"MONDO.0009652"	"MONDO.0009653"	"MONDO.0009944"	"MONDO.0010805"	"MONDO.0013616"	"MONDO.0014673"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Mandibular prognathia"	1.0	0.0	1.0	0.0	0.0	0.0
+"Delayed eruption of teeth"	0.0	0.0	1.0	0.0	1.0	0.0
+"Short stature"	1.0	1.0	0.0	1.0	0.0	1.0
+"Scoliosis"	1.0	1.0	1.0	0.0	0.0	1.0
+"Arthralgia"	0.0	1.0	1.0	1.0	0.0	0.0
+"Muscle weakness"	0.0	0.0	1.0	0.0	0.0	1.0

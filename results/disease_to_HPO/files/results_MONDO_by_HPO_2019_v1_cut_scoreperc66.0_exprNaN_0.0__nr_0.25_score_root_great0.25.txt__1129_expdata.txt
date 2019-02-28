@@ -1,0 +1,7 @@
+	"MONDO.0007475"	"MONDO.0007476"	"MONDO.0007618"	"MONDO.0008592"	"MONDO.0016581"	"MONDO.0009087"
+"Congenital cystic adenomatoid malformation of the lung"	0.0	0.0	0.0	0.0	0.0	0.0
+"Duodenal ulcer"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hyperpepsinogenemia I"	1.0	1.0	0.0	0.0	0.0	0.0
+"Small bowel diverticula"	0.0	0.0	0.0	0.0	0.0	1.0
+"Jejunoileal ulceration"	0.0	0.0	0.0	0.0	0.0	1.0
+"Obstructive azoospermia"	0.0	0.0	0.0	0.0	0.0	0.0

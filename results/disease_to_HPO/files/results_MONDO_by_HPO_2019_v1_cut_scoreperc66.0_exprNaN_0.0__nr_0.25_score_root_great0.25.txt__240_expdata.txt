@@ -1,0 +1,8 @@
+	"MONDO.0008812"	"MONDO.0009620"	"MONDO.0012569"
+"HP:0000007"	1.0	1.0	1.0
+"Microcephaly"	1.0	1.0	1.0
+"Microphthalmia"	1.0	1.0	0.0
+"Humeroradial synostosis"	0.0	1.0	0.0
+"Narrow mouth"	1.0	1.0	0.0
+"Oligodactyly"	0.0	1.0	0.0
+"Forearm undergrowth"	0.0	1.0	0.0

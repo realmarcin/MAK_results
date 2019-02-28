@@ -1,0 +1,5 @@
+	"MONDO.0033010"	"MONDO.0007657"	"MONDO.0009562"	"MONDO.0010191"	"MONDO.0012345"	"MONDO.0012445"	"MONDO.0013458"	"MONDO.0013938"	"MONDO.0014271"	"MONDO.0014856"
+"Broad forehead"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Chronic otitis media"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Dental malocclusion"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Impaired smooth pursuit"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

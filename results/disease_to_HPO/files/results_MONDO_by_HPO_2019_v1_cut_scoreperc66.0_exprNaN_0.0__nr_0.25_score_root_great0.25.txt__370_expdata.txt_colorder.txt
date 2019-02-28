@@ -1,0 +1,7 @@
+"x"
+"1" "Obesity"
+"2" "Precocious puberty"
+"3" "Failure to thrive in infancy"
+"4" "Delayed skeletal maturation"
+"5" "Polyphagia"
+"6" "Clitoral hypertrophy"

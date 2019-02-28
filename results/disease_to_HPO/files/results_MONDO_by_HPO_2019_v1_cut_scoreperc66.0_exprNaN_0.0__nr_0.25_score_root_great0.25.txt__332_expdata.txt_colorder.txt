@@ -1,0 +1,5 @@
+"x"
+"1" "Cerebellar hypoplasia"
+"2" "HP:0003577"
+"3" "Hypoplasia of the pons"
+"4" "Cerebral cortical atrophy"

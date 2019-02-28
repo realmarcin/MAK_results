@@ -1,0 +1,7 @@
+	"MONDO.0009475"	"MONDO.0009687"	"MONDO.0010035"	"MONDO.0013913"	"MONDO.0013916"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability, mild"	0.0	0.0	0.0	1.0	0.0
+"Anosmia"	1.0	1.0	1.0	1.0	1.0
+"Blindness"	0.0	1.0	0.0	0.0	0.0
+"Hypogonadotrophic hypogonadism"	0.0	0.0	0.0	1.0	1.0
+"Primary amenorrhea"	0.0	0.0	0.0	1.0	0.0

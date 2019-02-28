@@ -1,0 +1,10 @@
+	"MONDO.0007495"	"MONDO.0011308"	"MONDO.0060659"	"MONDO.0060711"
+"HP:0000006"	1.0	0.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0
+"HP:0003829"	1.0	0.0	1.0	0.0
+"Abnormality of the face"	1.0	0.0	0.0	0.0
+"Writer's cramp"	1.0	0.0	0.0	0.0
+"Orofacial dyskinesia"	1.0	0.0	0.0	0.0
+"Athetosis"	1.0	0.0	0.0	0.0
+"Dyskinesia"	1.0	0.0	0.0	0.0
+"Auras"	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Retinal dysplasia"
+"2" "Global developmental delay"
+"3" "HP:0003577"
+"4" "Hypoplasia of the brainstem"
+"5" "Polymicrogyria"
+"6" "Cortical dysplasia"
+"7" "Cerebellar hypoplasia"

@@ -1,0 +1,8 @@
+"x"
+"1" "Syndactyly"
+"2" "Polydactyly"
+"3" "Chronic otitis media"
+"4" "Hypoplasia of dental enamel"
+"5" "Abnormality of dental enamel"
+"6" "Open bite"
+"7" "HP:0010669"

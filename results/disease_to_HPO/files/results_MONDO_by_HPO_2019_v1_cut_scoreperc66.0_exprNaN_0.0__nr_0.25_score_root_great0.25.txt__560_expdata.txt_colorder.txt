@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperreflexia in upper limbs"
+"2" "Degeneration of the lateral corticospinal tracts"
+"3" "Muscle cramps"
+"4" "Progressive spastic paraplegia"
+"5" "Progressive pes cavus"
+"6" "Spinal cord lesion"

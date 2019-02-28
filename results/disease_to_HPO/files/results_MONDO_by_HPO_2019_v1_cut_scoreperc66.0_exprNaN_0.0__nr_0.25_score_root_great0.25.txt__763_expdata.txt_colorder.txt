@@ -1,0 +1,5 @@
+"x"
+"1" "Progressive ophthalmoplegia"
+"2" "Vascular calcification"
+"3" "Decreased beta-glucocerebrosidase protein and activity"
+"4" "Horizontal supranuclear gaze palsy"

@@ -1,0 +1,6 @@
+	"MONDO.0010044"	"MONDO.0010936"	"MONDO.0011092"	"MONDO.0012868"
+"First dorsal interossei muscle weakness"	1.0	1.0	1.0	1.0
+"Thenar muscle atrophy"	1.0	1.0	1.0	1.0
+"First dorsal interossei muscle atrophy"	1.0	1.0	1.0	1.0
+"Thenar muscle weakness"	1.0	1.0	1.0	1.0
+"Cold-induced hand cramps"	0.0	1.0	1.0	0.0

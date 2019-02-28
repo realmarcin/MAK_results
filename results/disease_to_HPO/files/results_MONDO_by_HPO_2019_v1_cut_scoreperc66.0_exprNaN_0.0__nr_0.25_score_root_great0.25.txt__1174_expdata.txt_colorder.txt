@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of retinal pigmentation"
+"2" "Arterial thrombosis"
+"3" "Disproportionate tall stature"
+"4" "Pulmonary embolism"
+"5" "Arteriovenous malformation"

@@ -1,0 +1,7 @@
+	"MONDO.0008481"	"MONDO.0009192"	"MONDO.0010845"	"MONDO.0010965"	"MONDO.0012110"	"MONDO.0012496"	"MONDO.0033007"
+"Platyspondyly"	1.0	1.0	0.0	0.0	1.0	1.0	1.0
+"Epiphyseal dysplasia"	0.0	1.0	1.0	1.0	0.0	0.0	1.0
+"Irregular epiphyses"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Small epiphyses"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Flattened epiphysis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Knee osteoarthritis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

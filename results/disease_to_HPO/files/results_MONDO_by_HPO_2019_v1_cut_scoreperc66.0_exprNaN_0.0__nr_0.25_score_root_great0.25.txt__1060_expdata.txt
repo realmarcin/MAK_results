@@ -1,0 +1,10 @@
+	"MONDO.0008304"	"MONDO.0008640"	"MONDO.0010749"	"MONDO.0024553"
+"Facial asymmetry"	0.0	0.0	1.0	0.0
+"Melanocytic nevus"	0.0	0.0	1.0	0.0
+"Renal dysplasia"	0.0	0.0	1.0	0.0
+"Oligospermia"	1.0	0.0	1.0	0.0
+"Torticollis"	0.0	0.0	1.0	0.0
+"Varicose veins"	0.0	1.0	1.0	0.0
+"Pyelonephritis"	0.0	0.0	1.0	0.0
+"Keloids"	0.0	0.0	1.0	0.0
+"Unilateral renal atrophy"	0.0	0.0	1.0	0.0

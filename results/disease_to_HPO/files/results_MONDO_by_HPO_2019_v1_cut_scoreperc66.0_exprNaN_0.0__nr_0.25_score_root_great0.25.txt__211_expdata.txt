@@ -1,0 +1,6 @@
+	"MONDO.0007231"	"MONDO.0009180"	"MONDO.0009181"	"MONDO.0024550"	"MONDO.0012742"
+"Nail dysplasia"	1.0	1.0	1.0	1.0	0.0
+"Ankyloglossia"	0.0	1.0	0.0	0.0	1.0
+"Bone marrow hypocellularity"	0.0	0.0	0.0	0.0	0.0
+"Absent toenail"	1.0	1.0	1.0	1.0	1.0
+"Absent fingernail"	1.0	1.0	1.0	1.0	1.0

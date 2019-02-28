@@ -1,0 +1,5 @@
+"x"
+"1" "Increased hematocrit"
+"2" "Increased hemoglobin"
+"3" "HP:0000006"
+"4" "Increased red blood cell mass"

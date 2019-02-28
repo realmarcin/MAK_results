@@ -1,0 +1,8 @@
+	"MONDO.0020607"	"MONDO.0008477"	"MONDO.0008478"	"MONDO.0008479"	"MONDO.0008480"	"MONDO.0012254"
+"Short long bone"	1.0	0.0	0.0	1.0	0.0	0.0
+"Severe short stature"	0.0	1.0	0.0	1.0	0.0	0.0
+"Genu valgum"	1.0	1.0	1.0	1.0	1.0	1.0
+"Anterior rib cupping"	0.0	1.0	0.0	1.0	0.0	0.0
+"Platyspondyly"	1.0	1.0	1.0	1.0	0.0	1.0
+"Coxa vara"	0.0	1.0	1.0	1.0	1.0	1.0
+"Flared femoral metaphysis"	1.0	0.0	0.0	1.0	0.0	1.0

@@ -1,0 +1,10 @@
+	"MONDO.0010941"	"MONDO.0014256"	"MONDO.0014461"	"MONDO.0060549"
+"HP:0000007"	0.0	0.0	1.0	0.0
+"Hypodontia"	0.0	0.0	1.0	0.0
+"Hyperkeratosis"	0.0	0.0	1.0	0.0
+"Epidermal acanthosis"	0.0	0.0	1.0	0.0
+"Asthma"	1.0	0.0	1.0	1.0
+"Hypoplasia of dental enamel"	0.0	0.0	1.0	0.0
+"Anonychia"	0.0	0.0	1.0	0.0
+"Nail dystrophy"	0.0	0.0	1.0	0.0
+"Dysphagia"	0.0	0.0	1.0	0.0

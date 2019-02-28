@@ -1,0 +1,11 @@
+	"MONDO.0020607"	"MONDO.0008472"	"MONDO.0008477"	"MONDO.0008478"	"MONDO.0009131"	"MONDO.0033372"
+"Flared metaphysis"	0.0	0.0	0.0	1.0	0.0	0.0
+"High forehead"	0.0	0.0	0.0	1.0	0.0	0.0
+"Platyspondyly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the rib cage"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the face"	0.0	0.0	0.0	1.0	0.0	0.0
+"Aplastic clavicles"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the foot"	0.0	0.0	0.0	1.0	0.0	0.0
+"Enlarged joints"	0.0	0.0	0.0	1.0	0.0	0.0
+"Irregular, rachitic-like metaphyses"	0.0	0.0	0.0	1.0	0.0	0.0
+"Severe carpal ossification delay"	0.0	0.0	0.0	1.0	0.0	0.0

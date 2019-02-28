@@ -1,0 +1,9 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0010956"	"MONDO.0010957"
+"Ventriculomegaly"	0.0	0.0	0.0	1.0	1.0
+"Headache"	0.0	0.0	0.0	1.0	1.0
+"Dental crowding"	0.0	0.0	0.0	1.0	1.0
+"HP:0003745"	0.0	0.0	0.0	1.0	1.0
+"Overbite"	0.0	0.0	0.0	0.0	1.0
+"Subcapsular cataract"	0.0	0.0	0.0	1.0	1.0
+"Shovel-shaped maxillary central incisors"	0.0	1.0	0.0	1.0	1.0
+"Aqueductal stenosis"	0.0	0.0	0.0	1.0	1.0

@@ -1,0 +1,19 @@
+	"MONDO.0007843"	"MONDO.0008879"	"MONDO.0009997"	"MONDO.0011759"	"MONDO.0011761"	"MONDO.0013234"
+"Coarse facial features"	0.0	0.0	0.0	1.0	1.0	0.0
+"Full cheeks"	0.0	0.0	0.0	1.0	1.0	0.0
+"Splenomegaly"	0.0	0.0	0.0	1.0	1.0	0.0
+"Constrictive median neuropathy"	0.0	0.0	0.0	1.0	1.0	0.0
+"Glaucoma"	0.0	0.0	0.0	1.0	1.0	0.0
+"Aortic regurgitation"	0.0	0.0	0.0	1.0	1.0	0.0
+"Spastic paraparesis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Corneal opacity"	0.0	0.0	0.0	1.0	1.0	0.0
+"Thick vermilion border"	0.0	0.0	0.0	1.0	1.0	0.0
+"HP:0031869"	1.0	0.0	0.0	0.0	0.0	0.0
+"Retinal degeneration"	0.0	0.0	0.0	1.0	1.0	0.0
+"Dysostosis multiplex"	0.0	0.0	0.0	1.0	1.0	0.0
+"HP:0008155"	0.0	0.0	0.0	1.0	1.0	0.0
+"Cerebral palsy"	0.0	0.0	0.0	1.0	1.0	0.0
+"Rhinitis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Hearing abnormality"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the elbow"	1.0	1.0	1.0	1.0	0.0	1.0
+"HP:0040129"	0.0	0.0	0.0	1.0	1.0	0.0

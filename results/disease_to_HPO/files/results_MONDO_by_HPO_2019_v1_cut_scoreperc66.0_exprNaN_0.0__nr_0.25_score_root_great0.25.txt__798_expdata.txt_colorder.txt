@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Natal tooth"
+"3" "Abnormality of the nail"
+"4" "Nevus"
+"5" "Nevus anemicus"
+"6" "Steatocystoma multiplex"

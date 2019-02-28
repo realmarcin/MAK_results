@@ -1,0 +1,17 @@
+	"MONDO.0010219"	"MONDO.0012187"	"MONDO.0014240"	"MONDO.0060490"
+"Conductive hearing impairment"	0.0	1.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	0.0	1.0	0.0	0.0
+"Arnold-Chiari malformation"	0.0	1.0	0.0	0.0
+"Abnormal renal morphology"	0.0	1.0	0.0	0.0
+"Hypothyroidism"	0.0	1.0	0.0	0.0
+"Pallor"	0.0	1.0	0.0	0.0
+"Absent thumb"	0.0	1.0	0.0	0.0
+"Renal hypoplasia"	0.0	1.0	0.0	0.0
+"Triangular face"	0.0	1.0	0.0	0.0
+"Astigmatism"	0.0	1.0	0.0	0.0
+"Fused cervical vertebrae"	0.0	1.0	0.0	0.0
+"Short 1st metacarpal"	0.0	1.0	0.0	0.0
+"Horseshoe kidney"	0.0	1.0	0.0	0.0
+"Bone marrow hypocellularity"	0.0	1.0	0.0	0.0
+"Patent foramen ovale"	0.0	1.0	0.0	0.0
+"Chromosomal breakage induced by crosslinking agents"	0.0	1.0	0.0	0.0

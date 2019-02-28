@@ -1,0 +1,6 @@
+"x"
+"1" "Cutis laxa"
+"2" "Redundant skin"
+"3" "Prematurely aged appearance"
+"4" "Hyperextensible skin"
+"5" "Hyperextensibility of the finger joints"

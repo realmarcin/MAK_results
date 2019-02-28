@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Anosmia"
+"3" "Hypogonadotrophic hypogonadism"
+"4" "Intellectual disability, mild"
+"5" "Blindness"
+"6" "Primary amenorrhea"

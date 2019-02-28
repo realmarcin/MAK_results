@@ -1,0 +1,17 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0011868"
+"Frontal bossing"	0.0	0.0	0.0	1.0
+"Brachyturricephaly"	0.0	0.0	0.0	1.0
+"Choanal atresia"	0.0	0.0	0.0	1.0
+"Short foot"	0.0	0.0	0.0	1.0
+"Telecanthus"	0.0	0.0	0.0	1.0
+"HP:0003745"	0.0	0.0	0.0	1.0
+"Abnormality of the hair"	0.0	0.0	0.0	1.0
+"Depressed nasal ridge"	0.0	0.0	0.0	1.0
+"Optic nerve hypoplasia"	0.0	0.0	0.0	1.0
+"Posteriorly rotated ears"	0.0	0.0	0.0	1.0
+"Joint hypermobility"	0.0	0.0	0.0	1.0
+"High, narrow palate"	0.0	0.0	0.0	1.0
+"Bilateral microphthalmos"	0.0	0.0	0.0	1.0
+"Ethmoidal encephalocele"	0.0	0.0	0.0	1.0
+"Hyperpigmented nevi"	0.0	0.0	0.0	1.0
+"Broad proximal phalanges of the hand"	0.0	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+	"MONDO.0008923"	"MONDO.0009503"	"MONDO.0009654"	"MONDO.0014776"	"MONDO.0014961"
+"Nystagmus"	1.0	1.0	1.0	0.0	1.0
+"Tetraparesis"	0.0	0.0	0.0	0.0	1.0
+"HP:0003678"	0.0	0.0	0.0	0.0	1.0
+"Lactic acidosis"	1.0	1.0	0.0	0.0	1.0
+"Myelopathy"	0.0	0.0	0.0	0.0	1.0
+"Skin erosion"	0.0	0.0	0.0	0.0	1.0
+"Cerebellar edema"	0.0	0.0	0.0	0.0	1.0

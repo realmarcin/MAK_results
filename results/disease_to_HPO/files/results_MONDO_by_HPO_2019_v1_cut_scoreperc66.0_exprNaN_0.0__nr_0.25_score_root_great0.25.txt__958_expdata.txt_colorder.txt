@@ -1,0 +1,4 @@
+"x"
+"1" "Myelodysplasia"
+"2" "Abnormality of reticulocytes"
+"3" "Abnormality of cells of the granulocytic lineage"

@@ -1,0 +1,10 @@
+	"MONDO.0008084"	"MONDO.0024540"	"MONDO.0011145"	"MONDO.0011734"	"MONDO.0012392"
+"Seizures"	1.0	0.0	1.0	0.0	0.0
+"Ataxia"	1.0	0.0	0.0	0.0	0.0
+"Myoclonus"	1.0	1.0	0.0	1.0	0.0
+"Parkinsonism"	1.0	0.0	0.0	0.0	0.0
+"HP:0003678"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the cerebellum"	1.0	0.0	0.0	0.0	0.0
+"Curvilinear intracellular accumulation of autofluorescent lipopigment storage material"	1.0	0.0	1.0	0.0	1.0
+"Fingerprint intracellular accumulation of autofluorescent lipopigment storage material"	1.0	0.0	1.0	0.0	0.0
+"Rectilinear intracellular accumulation of autofluorescent lipopigment storage material"	1.0	0.0	0.0	0.0	0.0

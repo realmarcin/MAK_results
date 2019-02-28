@@ -1,0 +1,15 @@
+	"MONDO.0008923"	"MONDO.0009503"	"MONDO.0009654"	"MONDO.0014776"
+"Genu recurvatum"	0.0	0.0	1.0	0.0
+"Microdontia"	0.0	0.0	1.0	0.0
+"Photophobia"	0.0	0.0	1.0	0.0
+"Palmoplantar keratoderma"	0.0	0.0	1.0	0.0
+"Abnormality of abdomen morphology"	0.0	0.0	1.0	0.0
+"Opacification of the corneal stroma"	0.0	0.0	1.0	0.0
+"Everted lower lip vermilion"	0.0	0.0	1.0	0.0
+"Corneal opacity"	0.0	0.0	1.0	0.0
+"Biparietal narrowing"	0.0	0.0	1.0	0.0
+"Abnormal nasal morphology"	0.0	0.0	1.0	0.0
+"Cerebral dysmyelination"	0.0	0.0	1.0	0.0
+"Developmental stagnation"	0.0	0.0	1.0	0.0
+"Abnormality of ganglioside metabolism"	0.0	0.0	1.0	0.0
+"Abnormality of mucopolysaccharide metabolism"	0.0	0.0	1.0	0.0

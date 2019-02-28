@@ -1,0 +1,8 @@
+	"MONDO.0017991"	"MONDO.0010549"	"MONDO.0010764"	"MONDO.0010905"
+"HP:0001417"	1.0	1.0	0.0	0.0
+"Hearing impairment"	1.0	1.0	0.0	0.0
+"HP:0003621"	0.0	1.0	0.0	0.0
+"Dementia"	0.0	1.0	0.0	0.0
+"Spastic paraplegia"	0.0	1.0	0.0	0.0
+"Blindness"	0.0	1.0	0.0	0.0
+"Lower limb muscle weakness"	0.0	1.0	0.0	0.0

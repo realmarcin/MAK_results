@@ -1,0 +1,7 @@
+"x"
+"1" "Dextrocardia"
+"2" "Septate vagina"
+"3" "Phthisis bulbi"
+"4" "Laterally curved eyebrow"
+"5" "Asymmetry of the ears"
+"6" "Fused teeth"

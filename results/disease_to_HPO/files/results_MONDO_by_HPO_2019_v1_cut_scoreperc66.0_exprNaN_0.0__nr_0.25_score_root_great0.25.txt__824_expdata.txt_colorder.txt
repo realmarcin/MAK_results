@@ -1,0 +1,7 @@
+"x"
+"1" "Agenesis of mandibular central incisor"
+"2" "Aplasia of the epiglottis"
+"3" "Tibial deviation of toes"
+"4" "Abnormality of the aryepiglottic fold"
+"5" "Cleft lower alveolar ridge"
+"6" "Cleft mandible"

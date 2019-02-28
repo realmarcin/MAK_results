@@ -1,0 +1,7 @@
+"x"
+"1" "Chronic obstructive pulmonary disease"
+"2" "HP:0000007"
+"3" "Fever"
+"4" "Sensory neuropathy"
+"5" "Respiratory insufficiency"
+"6" "Blotching pigmentation of the skin"

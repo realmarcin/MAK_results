@@ -1,0 +1,8 @@
+"x"
+"1" "Cryptorchidism"
+"2" "Micropenis"
+"3" "Hypogonadism"
+"4" "Perineal hypospadias"
+"5" "Bifid scrotum"
+"6" "Azoospermia"
+"7" "Gynecomastia"

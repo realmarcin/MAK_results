@@ -1,0 +1,10 @@
+	"MONDO.0008966"	"MONDO.0009170"	"MONDO.0009437"	"MONDO.0010788"	"MONDO.0010981"	"MONDO.0011937"	"MONDO.0009859"
+"Microphthalmia"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Malar flattening"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Facial asymmetry"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Clinodactyly of the 5th finger"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Hypothyroidism"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Bifid scrotum"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Renal hypoplasia"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Chorioretinal coloboma"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+"Anophthalmia"	1.0	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0007776"	"MONDO.0008320"	"MONDO.0008488"	"MONDO.0013535"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0
+"Hemolytic anemia"	0.0	1.0	0.0	0.0
+"Edema"	0.0	1.0	0.0	0.0
+"Pruritus"	0.0	1.0	0.0	0.0
+"Hypertriglyceridemia"	0.0	1.0	0.0	0.0
+"HP:0011463"	0.0	1.0	0.0	0.0
+"Cholelithiasis"	0.0	1.0	0.0	0.0
+"Hepatic failure"	0.0	1.0	0.0	0.0

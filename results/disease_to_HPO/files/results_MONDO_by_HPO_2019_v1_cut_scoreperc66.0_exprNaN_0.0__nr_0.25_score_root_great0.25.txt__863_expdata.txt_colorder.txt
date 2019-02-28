@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormal urine potassium concentration"
+"2" "Low maternal serum estriol"
+"3" "Abnormality of the Leydig cells"
+"4" "Midshaft hypospadias"
+"5" "Decreased circulating androgen level"

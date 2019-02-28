@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Short stature"
+"3" "HP:0000007"
+"4" "Spasticity"
+"5" "Microphthalmia"
+"6" "Remnants of the hyaloid vascular system"
+"7" "Leukocoria"

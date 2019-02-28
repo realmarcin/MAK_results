@@ -1,0 +1,7 @@
+"x"
+"1" "Diarrhea"
+"2" "Abdominal pain"
+"3" "Type I diabetes mellitus"
+"4" "Hypoparathyroidism"
+"5" "Vitiligo"
+"6" "HP:0004319"

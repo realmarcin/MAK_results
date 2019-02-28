@@ -1,0 +1,6 @@
+	"MONDO.0007700"	"MONDO.0007925"	"MONDO.0011920"	"MONDO.0013421"	"MONDO.0013767"	"MONDO.0014803"
+"HP:0000006"	1.0	1.0	1.0	0.0	1.0	1.0
+"Hemangioma"	0.0	1.0	0.0	0.0	0.0	1.0
+"Macrocephaly"	0.0	1.0	0.0	0.0	0.0	1.0
+"Hashimoto thyroiditis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Intestinal polyposis"	0.0	1.0	0.0	0.0	0.0	1.0

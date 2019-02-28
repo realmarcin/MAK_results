@@ -1,0 +1,6 @@
+	"MONDO.0013749"	"MONDO.0014624"	"MONDO.0014632"
+"HP:0000007"	0.0	1.0	1.0
+"Microcephaly"	0.0	1.0	1.0
+"Intellectual disability"	0.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0

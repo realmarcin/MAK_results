@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Nystagmus"
+"3" "Strabismus"
+"4" "HP:0000007"
+"5" "Microcephaly"
+"6" "Generalized hypotonia"
+"7" "Hypertelorism"

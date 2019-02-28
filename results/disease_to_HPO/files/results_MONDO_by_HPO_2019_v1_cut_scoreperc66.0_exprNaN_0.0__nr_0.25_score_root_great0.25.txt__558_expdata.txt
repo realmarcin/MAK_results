@@ -1,0 +1,6 @@
+	"MONDO.0008724"	"MONDO.0008860"	"MONDO.0009865"	"MONDO.0009867"	"MONDO.0054742"
+"Hepatic steatosis"	1.0	0.0	1.0	1.0	1.0
+"Exercise-induced rhabdomyolysis"	1.0	0.0	0.0	0.0	0.0
+"Hepatic failure"	0.0	1.0	1.0	1.0	1.0
+"Hepatocellular necrosis"	1.0	0.0	0.0	0.0	0.0
+"Impaired gluconeogenesis"	0.0	0.0	1.0	1.0	0.0

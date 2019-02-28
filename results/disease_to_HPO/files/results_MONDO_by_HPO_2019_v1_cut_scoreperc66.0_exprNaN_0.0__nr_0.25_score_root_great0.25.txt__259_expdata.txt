@@ -1,0 +1,9 @@
+	"MONDO.0010047"	"MONDO.0011740"	"MONDO.0012640"	"MONDO.0012867"	"MONDO.0013166"	"MONDO.0013181"
+"Seizures"	1.0	1.0	1.0	1.0	0.0	1.0
+"Spastic paraplegia"	1.0	0.0	1.0	1.0	1.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	0.0	1.0	1.0
+"Knee flexion contracture"	0.0	0.0	1.0	0.0	1.0	0.0
+"Babinski sign"	1.0	1.0	1.0	1.0	1.0	1.0
+"Delayed gross motor development"	0.0	0.0	1.0	0.0	0.0	1.0
+"Ankle contracture"	0.0	0.0	1.0	0.0	1.0	0.0
+"Flexion contracture of toe"	0.0	0.0	1.0	0.0	1.0	0.0

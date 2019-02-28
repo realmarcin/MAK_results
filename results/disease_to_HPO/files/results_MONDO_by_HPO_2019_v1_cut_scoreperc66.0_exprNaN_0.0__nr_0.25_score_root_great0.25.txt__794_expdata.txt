@@ -1,0 +1,9 @@
+	"MONDO.0008201"	"MONDO.0008996"	"MONDO.0009591"	"MONDO.0010460"	"MONDO.0011469"	"MONDO.0013077"
+"HP:0000007"	0.0	1.0	1.0	0.0	0.0	1.0
+"HP:0000006"	1.0	0.0	0.0	0.0	1.0	1.0
+"Mental deterioration"	1.0	0.0	1.0	0.0	0.0	1.0
+"Gliosis"	1.0	0.0	0.0	1.0	1.0	1.0
+"Dysphagia"	1.0	0.0	1.0	1.0	0.0	0.0
+"Peripheral demyelination"	0.0	0.0	1.0	0.0	0.0	0.0
+"CNS demyelination"	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the periventricular white matter"	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Syndactyly"
+"2" "HP:0000006"
+"3" "Intellectual disability"
+"4" "Midface retrusion"
+"5" "Short toe"
+"6" "Short chin"

@@ -1,0 +1,7 @@
+	"MONDO.0007668"	"MONDO.0009329"	"MONDO.0009561"	"MONDO.0010931"	"MONDO.0011984"	"MONDO.0012055"
+"Hypertelorism"	0.0	1.0	1.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	0.0	0.0
+"Microphthalmia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Abnormality of the vertebral column"	0.0	1.0	0.0	1.0	0.0	0.0
+"Anophthalmia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Cleft eyelid"	0.0	0.0	1.0	1.0	0.0	0.0

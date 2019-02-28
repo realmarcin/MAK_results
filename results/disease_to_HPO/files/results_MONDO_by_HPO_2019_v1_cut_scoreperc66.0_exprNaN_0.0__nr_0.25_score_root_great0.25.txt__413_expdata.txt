@@ -1,0 +1,10 @@
+	"MONDO.0008226"	"MONDO.0009504"	"MONDO.0009795"	"MONDO.0010148"
+"Hypertelorism"	0.0	1.0	1.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0
+"Pectus excavatum"	0.0	1.0	1.0	0.0
+"Microcephaly"	0.0	1.0	1.0	0.0
+"Intellectual disability"	0.0	1.0	1.0	0.0
+"Global developmental delay"	0.0	1.0	1.0	0.0
+"High palate"	0.0	1.0	1.0	0.0
+"Epicanthus"	0.0	1.0	1.0	0.0
+"Abnormality of eye movement"	0.0	1.0	1.0	0.0

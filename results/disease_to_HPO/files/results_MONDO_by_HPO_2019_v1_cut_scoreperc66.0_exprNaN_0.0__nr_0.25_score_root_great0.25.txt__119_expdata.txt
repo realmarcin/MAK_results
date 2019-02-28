@@ -1,0 +1,5 @@
+	"MONDO.0007684"	"MONDO.0009428"	"MONDO.0009429"
+"Skin dimple over apex of long bone angulation"	1.0	1.0	1.0
+"Phosphoethanolaminuria"	0.0	1.0	1.0
+"Elevated urine pyrophosphate"	0.0	1.0	1.0
+"Elevated plasma pyrophosphate"	0.0	1.0	1.0

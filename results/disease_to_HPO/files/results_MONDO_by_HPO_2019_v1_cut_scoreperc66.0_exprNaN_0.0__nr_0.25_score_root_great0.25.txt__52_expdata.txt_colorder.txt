@@ -1,0 +1,7 @@
+"x"
+"1" "Global developmental delay"
+"2" "Absent speech"
+"3" "Seizures"
+"4" "Poor head control"
+"5" "Generalized hypotonia"
+"6" "Hypoplasia of the corpus callosum"

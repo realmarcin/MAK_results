@@ -1,0 +1,13 @@
+	"MONDO.0007668"	"MONDO.0009916"	"MONDO.0011984"	"MONDO.0012055"
+"Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
+"Dislocated radial head"	0.0	1.0	0.0	0.0
+"Primary amenorrhea"	0.0	1.0	0.0	0.0
+"Clitoral hypertrophy"	0.0	1.0	0.0	0.0
+"Ambiguous genitalia, female"	0.0	1.0	0.0	0.0
+"Fused labia minora"	0.0	1.0	0.0	0.0
+"Short mandibular condyles"	0.0	1.0	0.0	0.0
+"Ulnar radial head dislocation"	0.0	1.0	0.0	0.0
+"Mandibular condyle hypoplasia"	0.0	1.0	0.0	0.0
+"Hypoplasia of the premaxilla"	0.0	1.0	0.0	0.0
+"Deformed humerus"	0.0	1.0	0.0	0.0
+"HP:0040253"	0.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+"x"
+"1" "Generalized hyperreflexia"
+"2" "Abnormality of erythrocytes"
+"3" "Progressive inspiratory stridor"
+"4" "Paroxysmal involuntary eye movements"
+"5" "Hypoglycorrhachia"
+"6" "Paroxysmal lethargy"

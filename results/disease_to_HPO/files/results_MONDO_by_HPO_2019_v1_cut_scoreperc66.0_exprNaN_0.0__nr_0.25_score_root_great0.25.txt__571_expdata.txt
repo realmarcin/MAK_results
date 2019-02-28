@@ -1,0 +1,9 @@
+	"MONDO.0007559"	"MONDO.0007561"	"MONDO.0013077"	"MONDO.0014836"	"MONDO.0060659"
+"Mental deterioration"	0.0	0.0	1.0	1.0	1.0
+"Hemiparesis"	0.0	0.0	1.0	0.0	1.0
+"EEG abnormality"	1.0	1.0	1.0	0.0	1.0
+"HP:0003829"	0.0	0.0	1.0	0.0	1.0
+"Confusion"	0.0	0.0	1.0	0.0	1.0
+"Lethargy"	0.0	0.0	1.0	0.0	1.0
+"Meningitis"	0.0	0.0	1.0	0.0	1.0
+"Herpes simplex encephalitis"	0.0	0.0	1.0	0.0	1.0

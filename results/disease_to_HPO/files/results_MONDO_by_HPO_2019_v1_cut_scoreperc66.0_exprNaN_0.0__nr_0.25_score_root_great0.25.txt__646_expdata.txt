@@ -1,0 +1,7 @@
+	"MONDO.0007957"	"MONDO.0010572"	"MONDO.0011360"
+"Midline central nervous system lipomas"	1.0	0.0	1.0
+"Nonossified fifth metatarsal"	0.0	1.0	0.0
+"Vertical clivus"	0.0	1.0	1.0
+"Undulate clavicles"	0.0	1.0	0.0
+"HP:0002056"	0.0	0.0	1.0
+"Hypoplasia of the olfactory bulb"	0.0	0.0	1.0

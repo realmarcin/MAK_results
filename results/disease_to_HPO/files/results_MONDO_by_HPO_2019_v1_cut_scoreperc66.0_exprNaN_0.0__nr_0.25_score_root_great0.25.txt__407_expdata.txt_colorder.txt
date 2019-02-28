@@ -1,0 +1,7 @@
+"x"
+"1" "Hypotelorism"
+"2" "2-3 toe syndactyly"
+"3" "Scaphocephaly"
+"4" "Holoprosencephaly"
+"5" "Abnormality of the fingernails"
+"6" "Absent nares"

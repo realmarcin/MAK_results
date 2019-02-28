@@ -1,0 +1,7 @@
+	"MONDO.0008112"	"MONDO.0009474"	"MONDO.0009935"	"MONDO.0012211"	"MONDO.0012456"
+"Thin anteverted nares"	1.0	1.0	0.0	0.0	0.0
+"Conotruncal defect"	0.0	1.0	0.0	0.0	1.0
+"Abnormality of the pulmonary veins"	0.0	1.0	1.0	0.0	0.0
+"Abnormal cardiac ventricle morphology"	0.0	1.0	0.0	0.0	0.0
+"HP:0005120"	0.0	1.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the inner ear"	0.0	1.0	0.0	1.0	0.0

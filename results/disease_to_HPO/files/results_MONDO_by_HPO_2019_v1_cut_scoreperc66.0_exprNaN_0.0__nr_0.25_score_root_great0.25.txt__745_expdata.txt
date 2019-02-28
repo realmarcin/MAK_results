@@ -1,0 +1,8 @@
+	"MONDO.0009409"	"MONDO.0010455"	"MONDO.0010497"	"MONDO.0011628"	"MONDO.0013873"	"MONDO.0013971"
+"Microcephaly"	0.0	0.0	1.0	0.0	1.0	0.0
+"Intellectual disability"	1.0	1.0	1.0	0.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	0.0	0.0	1.0	0.0
+"Short stature"	0.0	0.0	1.0	0.0	1.0	0.0
+"Autism"	1.0	1.0	0.0	1.0	0.0	1.0
+"Microphallus"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0031418"	0.0	0.0	1.0	0.0	0.0	0.0

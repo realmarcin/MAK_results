@@ -1,0 +1,9 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0013174"	"MONDO.0013883"	"MONDO.0014996"
+"Intellectual disability"	1.0	0.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Osteopenia"	0.0	0.0	0.0	0.0	1.0
+"High, narrow palate"	0.0	0.0	0.0	0.0	1.0
+"Self-injurious behavior"	0.0	0.0	0.0	0.0	1.0
+"Sparse eyebrow"	0.0	0.0	0.0	0.0	1.0
+"Nasogastric tube feeding"	0.0	0.0	0.0	0.0	1.0
+"Recurrent hand flapping"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,4 @@
+	"MONDO.0007549"	"MONDO.0007550"	"MONDO.0007552"	"MONDO.0009184"	"MONDO.0010977"	"MONDO.0011399"	"MONDO.0019568"
+"Milia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Atrophic scars"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Elevated maternal serum alpha-fetoprotein"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

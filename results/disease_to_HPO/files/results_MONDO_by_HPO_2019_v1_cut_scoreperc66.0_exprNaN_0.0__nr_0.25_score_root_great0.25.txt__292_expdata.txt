@@ -1,0 +1,9 @@
+	"MONDO.0021020"	"MONDO.0009719"	"MONDO.0010141"
+"Constipation"	1.0	1.0	1.0
+"Dry skin"	1.0	1.0	1.0
+"Goiter"	1.0	1.0	0.0
+"Increased thyroid-stimulating hormone level"	1.0	1.0	0.0
+"Hypothermia"	1.0	0.0	0.0
+"Large posterior fontanelle"	1.0	0.0	0.0
+"Thyroid agenesis"	1.0	0.0	0.0
+"Ectopic thyroid"	1.0	0.0	0.0

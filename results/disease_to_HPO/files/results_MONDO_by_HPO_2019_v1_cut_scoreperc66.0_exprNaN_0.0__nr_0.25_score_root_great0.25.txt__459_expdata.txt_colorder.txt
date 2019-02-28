@@ -1,0 +1,7 @@
+"x"
+"1" "Compensatory chin elevation"
+"2" "Congenital fibrosis of extraocular muscles"
+"3" "Restrictive external ophthalmoplegia"
+"4" "Nonprogressive restrictive external ophthalmoplegia"
+"5" "HP:0031721"
+"6" "HP:0031723"

@@ -1,0 +1,7 @@
+"x"
+"1" "Eosinophilia"
+"2" "HP:0000007"
+"3" "Neutropenia"
+"4" "Growth abnormality"
+"5" "Abnormality of the skeletal system"
+"6" "Cerebral calcification"

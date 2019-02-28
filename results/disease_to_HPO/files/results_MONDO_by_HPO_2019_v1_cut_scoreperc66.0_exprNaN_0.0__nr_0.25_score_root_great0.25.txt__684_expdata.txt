@@ -1,0 +1,7 @@
+	"MONDO.0007734"	"MONDO.0007820"	"MONDO.0008812"	"MONDO.0012565"	"MONDO.0013643"
+"Hypotelorism"	1.0	1.0	1.0	1.0	1.0
+"Holoprosencephaly"	1.0	1.0	0.0	1.0	1.0
+"Aprosencephaly"	0.0	0.0	1.0	0.0	0.0
+"Abnormal external genitalia"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the nares"	0.0	0.0	1.0	0.0	0.0
+"Abnormal morphology of the radius"	0.0	0.0	1.0	0.0	0.0

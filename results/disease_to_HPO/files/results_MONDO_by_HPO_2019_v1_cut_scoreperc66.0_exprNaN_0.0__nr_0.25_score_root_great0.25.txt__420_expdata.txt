@@ -1,0 +1,11 @@
+	"MONDO.0013337"	"MONDO.0013618"	"MONDO.0014086"	"MONDO.0054666"
+"Strabismus"	1.0	1.0	1.0	0.0
+"Downslanted palpebral fissures"	1.0	1.0	1.0	1.0
+"Pulmonic stenosis"	0.0	1.0	0.0	0.0
+"Optic nerve hypoplasia"	1.0	1.0	0.0	0.0
+"Abnormal facial shape"	0.0	1.0	1.0	0.0
+"Macrocephaly"	1.0	1.0	1.0	1.0
+"Cranial asymmetry"	0.0	1.0	0.0	0.0
+"Abnormal pulmonary valve morphology"	0.0	1.0	0.0	0.0
+"Unilateral cryptorchidism"	0.0	1.0	0.0	0.0
+"Speech apraxia"	0.0	1.0	0.0	1.0

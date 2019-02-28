@@ -1,0 +1,7 @@
+	"MONDO.0013054"	"MONDO.0014177"	"MONDO.0014788"	"MONDO.0015011"
+"Strabismus"	1.0	1.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Low-set ears"	1.0	1.0	1.0	1.0
+"Decreased motor nerve conduction velocity"	0.0	1.0	0.0	0.0
+"Slender nose"	0.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+	"MONDO.0007155"	"MONDO.0007865"	"MONDO.0007971"	"MONDO.0010886"	"MONDO.0012017"	"MONDO.0012018"
+"Arteriovenous fistula"	0.0	1.0	0.0	1.0	1.0	1.0
+"Lymphangioma"	0.0	1.0	0.0	0.0	0.0	0.0
+"Peripheral arteriovenous fistula"	1.0	1.0	1.0	0.0	0.0	1.0
+"Hypertrophy of the upper limb"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypertrophy of the lower limb"	0.0	0.0	0.0	0.0	0.0	1.0

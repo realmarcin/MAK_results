@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Thin upper lip vermilion"
+"3" "Upslanted palpebral fissure"
+"4" "Seizures"
+"5" "Frontal bossing"
+"6" "Broad nasal tip"
+"7" "Deeply set eye"

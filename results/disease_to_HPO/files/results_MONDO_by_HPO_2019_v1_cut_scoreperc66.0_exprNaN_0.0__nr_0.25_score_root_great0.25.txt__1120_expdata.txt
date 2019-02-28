@@ -1,0 +1,6 @@
+	"MONDO.0009267"	"MONDO.0009637"	"MONDO.0012472"	"MONDO.0012535"	"MONDO.0012720"	"MONDO.0014073"	"MONDO.0014133"
+"CNS demyelination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Encephalopathy"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Hyperkinesis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of glycosphingolipid metabolism"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Generalized clonic seizures"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

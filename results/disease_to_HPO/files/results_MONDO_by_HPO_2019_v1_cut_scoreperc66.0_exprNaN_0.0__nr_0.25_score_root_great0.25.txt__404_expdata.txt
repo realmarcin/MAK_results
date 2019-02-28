@@ -1,0 +1,11 @@
+	"MONDO.0009735"	"MONDO.0011239"	"MONDO.0011718"	"MONDO.0012382"	"MONDO.0012383"	"MONDO.0012397"
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0
+"Intellectual disability"	1.0	1.0	1.0	0.0	1.0	0.0
+"Diabetes mellitus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Type II diabetes mellitus"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperinsulinemic hypoglycemia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the autonomic nervous system"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hand tremor"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoketotic hypoglycemia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoglycemic seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoglycemic coma"	1.0	1.0	1.0	1.0	1.0	1.0

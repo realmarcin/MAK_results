@@ -1,0 +1,14 @@
+	"MONDO.0007668"	"MONDO.0008719"	"MONDO.0011984"	"MONDO.0012055"
+"Muscular hypotonia"	0.0	1.0	0.0	0.0
+"Generalized hypotonia"	0.0	1.0	0.0	0.0
+"Osteolytic defects of the phalanges of the hand"	0.0	1.0	0.0	0.0
+"Foot acroosteolysis"	0.0	1.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	1.0	0.0	0.0
+"HP:0003677"	0.0	1.0	0.0	0.0
+"Gastroesophageal reflux"	0.0	1.0	0.0	0.0
+"Areflexia"	0.0	1.0	0.0	0.0
+"Decreased nerve conduction velocity"	0.0	1.0	0.0	0.0
+"Decreased corneal reflex"	0.0	1.0	0.0	0.0
+"Decreased sensory nerve conduction velocity"	0.0	1.0	0.0	0.0
+"Paronychia"	0.0	1.0	0.0	0.0
+"Episodic hyperhidrosis"	0.0	1.0	0.0	0.0

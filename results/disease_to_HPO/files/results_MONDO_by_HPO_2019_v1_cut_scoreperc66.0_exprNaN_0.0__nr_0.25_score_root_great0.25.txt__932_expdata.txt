@@ -1,0 +1,12 @@
+	"MONDO.0007497"	"MONDO.0010858"	"MONDO.0011783"	"MONDO.0013061"
+"Paranoia"	0.0	0.0	1.0	1.0
+"Dyslexia"	0.0	1.0	0.0	1.0
+"Hypomimic face"	1.0	0.0	0.0	1.0
+"Brain atrophy"	0.0	1.0	0.0	0.0
+"Generalized cerebral atrophy/hypoplasia"	0.0	0.0	1.0	1.0
+"Inappropriate sexual behavior"	0.0	1.0	0.0	0.0
+"Dysgraphia"	0.0	1.0	0.0	0.0
+"Alexia"	0.0	1.0	0.0	0.0
+"Abulia"	0.0	1.0	0.0	0.0
+"Visual agnosia"	0.0	1.0	0.0	0.0
+"HP:0030784"	0.0	1.0	0.0	0.0

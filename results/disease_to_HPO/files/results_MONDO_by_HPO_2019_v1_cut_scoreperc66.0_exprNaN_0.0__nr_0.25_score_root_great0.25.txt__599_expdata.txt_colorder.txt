@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Intestinal bleeding"
+"3" "Reduced factor VIII activity"
+"4" "Reduced factor IX activity"
+"5" "Colonic varices"
+"6" "Reduced factor VII activity"

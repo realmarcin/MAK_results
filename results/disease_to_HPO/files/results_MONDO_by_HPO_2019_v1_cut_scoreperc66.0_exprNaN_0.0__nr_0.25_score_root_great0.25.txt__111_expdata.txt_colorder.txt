@@ -1,0 +1,5 @@
+"x"
+"1" "Exocrine pancreatic insufficiency"
+"2" "Diabetes mellitus"
+"3" "Hypothyroidism"
+"4" "Renal Fanconi syndrome"

@@ -1,0 +1,8 @@
+"x"
+"1" "Thin vermilion border"
+"2" "Right bundle branch block"
+"3" "Abnormality of the ribs"
+"4" "Delayed closure of the anterior fontanelle"
+"5" "Spotty hyperpigmentation"
+"6" "Abnormality of the forearm"
+"7" "Wide cranial sutures"

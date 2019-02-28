@@ -1,0 +1,8 @@
+"x"
+"1" "Recurrent fractures"
+"2" "Osteopenia"
+"3" "Scoliosis"
+"4" "Diaphyseal cortical sclerosis"
+"5" "Thickened cortex of long bones"
+"6" "Mandibular osteomyelitis"
+"7" "Broad jaw"

@@ -1,0 +1,7 @@
+	"MONDO.0010383"	"MONDO.0010483"	"MONDO.0011300"	"MONDO.0011783"
+"Bradykinesia"	1.0	1.0	1.0	1.0
+"Mask-like facies"	1.0	1.0	1.0	0.0
+"Hyperactive deep tendon reflexes"	0.0	1.0	1.0	0.0
+"Diffuse cerebral atrophy"	1.0	1.0	0.0	1.0
+"Dilation of lateral ventricles"	0.0	1.0	0.0	0.0
+"Dilated third ventricle"	0.0	1.0	0.0	0.0

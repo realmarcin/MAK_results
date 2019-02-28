@@ -1,0 +1,6 @@
+	"MONDO.0007535"	"MONDO.0009013"	"MONDO.0009966"	"MONDO.0011948"
+"Nephroblastomatosis"	0.0	0.0	1.0	1.0
+"Nephrogenic rest"	0.0	0.0	1.0	1.0
+"Distal ileal atresia"	0.0	0.0	1.0	0.0
+"Abnormality of pancreas morphology"	1.0	0.0	1.0	0.0
+"Naevus flammeus of the eyelid"	0.0	1.0	1.0	0.0

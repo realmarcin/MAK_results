@@ -1,0 +1,11 @@
+	"MONDO.0008112"	"MONDO.0008996"	"MONDO.0060489"	"MONDO.0060664"
+"Ventricular septal defect"	1.0	1.0	1.0	1.0
+"Atrial septal defect"	1.0	1.0	1.0	1.0
+"Toe syndactyly"	1.0	1.0	0.0	0.0
+"Micrognathia"	1.0	1.0	0.0	0.0
+"High forehead"	1.0	1.0	0.0	0.0
+"Cataract"	1.0	1.0	0.0	0.0
+"Hip dislocation"	1.0	1.0	0.0	0.0
+"Aplasia/Hypoplasia of the middle phalanges of the hand"	1.0	1.0	0.0	0.0
+"Upslanted palpebral fissure"	1.0	1.0	0.0	0.0
+"Premature loss of primary teeth"	1.0	1.0	0.0	0.0

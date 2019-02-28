@@ -1,0 +1,5 @@
+"x"
+"1" "Cataplexy"
+"2" "Narcolepsy"
+"3" "Excessive daytime sleepiness"
+"4" "Hypnopompic hallucinations"

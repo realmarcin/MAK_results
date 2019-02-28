@@ -1,0 +1,6 @@
+	"MONDO.0007245"	"MONDO.0009580"	"MONDO.0010501"	"MONDO.0010651"
+"Cortical irregularity"	1.0	1.0	0.0	0.0
+"Anterior concavity of thoracic vertebrae"	0.0	1.0	0.0	1.0
+"Prominent coccyx"	0.0	1.0	1.0	0.0
+"Abnormality of the septum pellucidum"	0.0	0.0	1.0	0.0
+"Thickened ears"	0.0	0.0	1.0	0.0

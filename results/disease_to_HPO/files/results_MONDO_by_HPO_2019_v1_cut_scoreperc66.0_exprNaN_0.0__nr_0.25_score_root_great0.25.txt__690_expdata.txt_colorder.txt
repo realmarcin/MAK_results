@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Increased circulating gonadotropin level"
+"3" "Hypergonadotropic hypogonadism"
+"4" "Osteoporosis"
+"5" "Macular dystrophy"
+"6" "Gonadal dysgenesis"
+"7" "Decreased testicular size"

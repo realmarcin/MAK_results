@@ -1,0 +1,5 @@
+	"MONDO.0008063"	"MONDO.0009119"	"MONDO.0011398"	"MONDO.0012180"	"MONDO.0013653"
+"Excessive daytime sleepiness"	1.0	0.0	1.0	1.0	1.0
+"Cataplexy"	1.0	1.0	1.0	1.0	1.0
+"Hypnopompic hallucinations"	1.0	0.0	0.0	0.0	0.0
+"Narcolepsy"	1.0	1.0	1.0	1.0	1.0

@@ -1,0 +1,9 @@
+	"MONDO.0024264"	"MONDO.0010219"	"MONDO.0014240"	"MONDO.0060490"
+"Craniosynostosis"	1.0	0.0	0.0	0.0
+"Absent septum pellucidum"	1.0	0.0	0.0	0.0
+"Preauricular skin tag"	1.0	0.0	0.0	0.0
+"Low-set, posteriorly rotated ears"	1.0	0.0	0.0	0.0
+"Arrhinencephaly"	1.0	0.0	0.0	0.0
+"Lissencephaly"	1.0	0.0	0.0	0.0
+"Frontal encephalocele"	1.0	0.0	0.0	0.0
+"Septo-optic dysplasia"	1.0	0.0	0.0	0.0

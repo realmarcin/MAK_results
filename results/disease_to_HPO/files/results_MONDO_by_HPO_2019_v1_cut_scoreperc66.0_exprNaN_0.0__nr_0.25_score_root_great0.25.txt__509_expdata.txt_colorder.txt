@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Obesity"
+"3" "Epicanthus"
+"4" "Thick eyebrow"
+"5" "Gastroesophageal reflux"
+"6" "Protruding ear"
+"7" "Concave nasal ridge"

@@ -1,0 +1,5 @@
+"x"
+"1" "Short sacroiliac notch"
+"2" "Shortening of all phalanges of the toes"
+"3" "Anterior tibial bowing"
+"4" "Poorly ossified cervical vertebrae"

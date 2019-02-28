@@ -1,0 +1,6 @@
+"x"
+"1" "Enhancement of the C-reflex"
+"2" "Jerk-locked premyoclonus spikes"
+"3" "EEG with photoparoxysmal response"
+"4" "Giant somatosensory evoked potentials"
+"5" "EEG with irregular generalized spike and wave complexes"

@@ -1,0 +1,6 @@
+	"MONDO.0007134"	"MONDO.0007136"	"MONDO.0007854"	"MONDO.0007872"	"MONDO.0008139"	"MONDO.0013369"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Palmoplantar keratoderma"	0.0	0.0	1.0	0.0	0.0	0.0
+"Nail dysplasia"	1.0	1.0	1.0	0.0	0.0	1.0
+"Anonychia"	1.0	1.0	0.0	0.0	0.0	1.0
+"Nail dystrophy"	1.0	1.0	1.0	0.0	0.0	1.0

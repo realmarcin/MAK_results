@@ -1,0 +1,6 @@
+	"MONDO.0008812"	"MONDO.0009536"	"MONDO.0024553"	"MONDO.0011063"
+"Aprosencephaly"	1.0	0.0	0.0	1.0
+"Abnormal external genitalia"	1.0	1.0	1.0	0.0
+"Intestinal lymphedema"	0.0	1.0	0.0	0.0
+"Chemosis"	0.0	1.0	0.0	0.0
+"Abnormal morphology of the radius"	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0007131"	"MONDO.0007644"	"MONDO.0008214"	"MONDO.0008551"	"MONDO.0011810"
+"Pectus excavatum"	0.0	0.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Recurrent respiratory infections"	1.0	1.0	0.0	1.0	0.0
+"Short ribs"	0.0	0.0	0.0	1.0	0.0
+"Fibular hypoplasia"	0.0	0.0	0.0	0.0	1.0
+"Bell-shaped thorax"	0.0	0.0	0.0	1.0	0.0
+"Pseudoarthrosis"	0.0	0.0	0.0	0.0	1.0

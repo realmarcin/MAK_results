@@ -1,0 +1,11 @@
+	"MONDO.0007297"	"MONDO.0008112"	"MONDO.0010168"	"MONDO.0014834"
+"Microphthalmia"	0.0	1.0	0.0	1.0
+"Ventricular septal defect"	0.0	1.0	0.0	1.0
+"Ataxia"	1.0	1.0	1.0	0.0
+"Abnormality of the pinna"	0.0	1.0	0.0	1.0
+"Nystagmus"	1.0	1.0	1.0	0.0
+"Dysarthria"	1.0	1.0	1.0	0.0
+"Truncal ataxia"	0.0	0.0	1.0	0.0
+"HP:0100490"	0.0	1.0	0.0	1.0
+"Hyperactive deep tendon reflexes"	1.0	1.0	1.0	1.0
+"Global brain atrophy"	0.0	0.0	0.0	1.0

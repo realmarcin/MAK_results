@@ -1,0 +1,7 @@
+"x"
+"1" "Short hallux"
+"2" "Cleft upper lip"
+"3" "Atrial septal defect"
+"4" "High forehead"
+"5" "Abnormal form of the vertebral bodies"
+"6" "Aplasia/Hypoplasia of the cerebellum"

@@ -1,0 +1,8 @@
+	"MONDO.0010058"	"MONDO.0010059"	"MONDO.0013289"	"MONDO.0014277"	"MONDO.0014457"	"MONDO.0014991"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0003593"	1.0	0.0	0.0	0.0	0.0	0.0
+"Fasciculations"	1.0	0.0	0.0	0.0	0.0	0.0
+"Pes cavus"	1.0	0.0	0.0	0.0	0.0	0.0
+"Spinal muscular atrophy"	1.0	1.0	0.0	0.0	0.0	0.0
+"Proximal amyotrophy"	1.0	0.0	0.0	0.0	0.0	0.0

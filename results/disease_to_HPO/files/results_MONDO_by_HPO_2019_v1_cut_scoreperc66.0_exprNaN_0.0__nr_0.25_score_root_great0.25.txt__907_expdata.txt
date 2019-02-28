@@ -1,0 +1,9 @@
+	"MONDO.0010061"	"MONDO.0014388"	"MONDO.0014505"	"MONDO.0014522"	"MONDO.0014672"	"MONDO.0054748"
+"Periventricular leukomalacia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0	0.0	1.0	1.0
+"Apraxia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Premature ovarian insufficiency"	0.0	1.0	0.0	0.0	0.0	0.0
+"Neurodegeneration"	0.0	1.0	0.0	0.0	0.0	0.0
+"Loss of speech"	0.0	1.0	0.0	0.0	0.0	0.0
+"Progressive leukoencephalopathy"	0.0	1.0	0.0	0.0	0.0	0.0

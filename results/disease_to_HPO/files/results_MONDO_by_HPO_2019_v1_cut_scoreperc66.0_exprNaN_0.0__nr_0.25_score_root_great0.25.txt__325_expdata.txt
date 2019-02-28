@@ -1,0 +1,4 @@
+	"MONDO.0007208"	"MONDO.0008583"	"MONDO.0044206"	"MONDO.0009227"	"MONDO.0009254"	"MONDO.0009782"	"MONDO.0010610"
+"Intestinal malrotation"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+"Stillbirth"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Hypoplastic fingernail"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

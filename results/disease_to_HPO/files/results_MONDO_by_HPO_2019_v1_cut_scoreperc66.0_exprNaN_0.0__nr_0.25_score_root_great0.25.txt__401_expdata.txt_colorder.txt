@@ -1,0 +1,6 @@
+"x"
+"1" "Hepatosplenomegaly"
+"2" "Osteopetrosis"
+"3" "Extramedullary hematopoiesis"
+"4" "Diaphyseal sclerosis"
+"5" "Cranial hyperostosis"

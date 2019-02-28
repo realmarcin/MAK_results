@@ -1,0 +1,6 @@
+"x"
+"1" "Primary hypercorticolism"
+"2" "Decreased circulating ACTH level"
+"3" "Mood changes"
+"4" "Pigmented micronodular adrenocortical disease"
+"5" "Paradoxical increased cortisol secretion on dexamethasone suppression test"

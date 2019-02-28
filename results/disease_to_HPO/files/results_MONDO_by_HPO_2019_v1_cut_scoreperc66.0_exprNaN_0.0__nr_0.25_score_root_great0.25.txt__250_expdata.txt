@@ -1,0 +1,10 @@
+	"MONDO.0014812"	"MONDO.0015005"	"MONDO.0015008"	"MONDO.0044329"
+"Esotropia"	1.0	0.0	1.0	0.0
+"Intellectual disability"	1.0	0.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Delayed speech and language development"	1.0	0.0	1.0	0.0
+"Hypermetropia"	1.0	0.0	1.0	1.0
+"Deeply set eye"	1.0	0.0	1.0	0.0
+"Astigmatism"	1.0	1.0	1.0	0.0
+"Muscular hypotonia of the trunk"	1.0	0.0	1.0	0.0
+"Limb hypertonia"	1.0	0.0	1.0	0.0

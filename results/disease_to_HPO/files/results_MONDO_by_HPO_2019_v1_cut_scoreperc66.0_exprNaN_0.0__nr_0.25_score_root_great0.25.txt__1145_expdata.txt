@@ -1,0 +1,9 @@
+	"MONDO.0008304"	"MONDO.0024553"	"MONDO.0011501"	"MONDO.0014874"	"MONDO.0012650"
+"Pectus excavatum"	0.0	0.0	1.0	0.0	1.0
+"Facial asymmetry"	0.0	0.0	0.0	0.0	1.0
+"Tall stature"	1.0	0.0	0.0	0.0	1.0
+"Narrow chest"	0.0	0.0	0.0	0.0	1.0
+"Nevus flammeus"	0.0	0.0	0.0	1.0	1.0
+"Lymphangioma"	0.0	0.0	0.0	0.0	1.0
+"Hemihypertrophy of lower limb"	0.0	0.0	0.0	0.0	1.0
+"Hemihypertrophy of upper limb"	0.0	0.0	0.0	0.0	1.0

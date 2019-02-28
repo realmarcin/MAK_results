@@ -1,0 +1,5 @@
+	"MONDO.0007535"	"MONDO.0019073"	"MONDO.0009066"	"MONDO.0009480"	"MONDO.0010798"
+"Hypothyroidism"	1.0	1.0	0.0	1.0	0.0
+"Exocrine pancreatic insufficiency"	1.0	1.0	1.0	1.0	1.0
+"Diabetes mellitus"	0.0	1.0	1.0	1.0	1.0
+"Renal Fanconi syndrome"	0.0	1.0	1.0	0.0	1.0

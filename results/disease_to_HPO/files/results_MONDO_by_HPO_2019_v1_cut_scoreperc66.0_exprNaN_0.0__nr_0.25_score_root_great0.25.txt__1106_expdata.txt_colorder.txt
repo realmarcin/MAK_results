@@ -1,0 +1,6 @@
+"x"
+"1" "Epidermoid cyst"
+"2" "Colon cancer"
+"3" "Multiple gastric polyps"
+"4" "Adrenocortical adenoma"
+"5" "Adrenocortical carcinoma"

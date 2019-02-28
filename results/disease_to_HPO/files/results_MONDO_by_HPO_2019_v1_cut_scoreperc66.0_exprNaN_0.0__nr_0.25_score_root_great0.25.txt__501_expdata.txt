@@ -1,0 +1,8 @@
+	"MONDO.0007605"	"MONDO.0011653"	"MONDO.0030917"	"MONDO.0030918"
+"Long philtrum"	1.0	1.0	0.0	0.0
+"Strabismus"	1.0	1.0	0.0	0.0
+"Ventricular septal defect"	1.0	1.0	0.0	0.0
+"Ventriculomegaly"	1.0	1.0	0.0	0.0
+"HP:0003745"	1.0	1.0	0.0	0.0
+"Gastroesophageal reflux"	1.0	1.0	0.0	0.0
+"HP:0000113"	1.0	1.0	0.0	0.0

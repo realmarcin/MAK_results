@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0009556"
+"2" "Large fontanelles"
+"3" "High forehead"
+"4" "Osteopenia"
+"5" "Short humerus"

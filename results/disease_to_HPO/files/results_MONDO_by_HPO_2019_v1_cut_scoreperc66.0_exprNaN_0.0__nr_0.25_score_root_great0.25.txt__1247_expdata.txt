@@ -1,0 +1,9 @@
+	"MONDO.0007480"	"MONDO.0008972"	"MONDO.0008995"	"MONDO.0009130"	"MONDO.0010094"
+"Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	0.0	1.0	1.0
+"Hydroureter"	0.0	0.0	0.0	0.0	0.0
+"Xerostomia"	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the skin"	0.0	0.0	0.0	0.0	0.0
+"Congenital hip dislocation"	0.0	0.0	0.0	0.0	0.0
+"Severe short stature"	1.0	1.0	1.0	1.0	1.0
+"HP:0008155"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,31 @@
+	"MONDO.0007043"	"MONDO.0007044"	"MONDO.0007406"	"MONDO.0009039"
+"Abnormal heart morphology"	1.0	0.0	0.0	0.0
+"Malar flattening"	1.0	0.0	0.0	0.0
+"Oxycephaly"	1.0	0.0	0.0	0.0
+"Low-set ears"	1.0	0.0	0.0	0.0
+"Narrow nose"	1.0	0.0	0.0	0.0
+"Buphthalmos"	1.0	0.0	0.0	0.0
+"Abnormality of the nasolacrimal system"	1.0	0.0	0.0	0.0
+"Hallux valgus"	1.0	0.0	0.0	0.0
+"Intellectual disability, moderate"	1.0	0.0	0.0	0.0
+"Abnormality of pelvic girdle bone morphology"	1.0	0.0	0.0	0.0
+"Skull asymmetry"	1.0	0.0	0.0	0.0
+"Radioulnar synostosis"	1.0	0.0	0.0	0.0
+"Breast carcinoma"	1.0	0.0	0.0	0.0
+"Long nose"	1.0	0.0	0.0	0.0
+"HP:0003828"	1.0	0.0	0.0	0.0
+"Flat forehead"	1.0	0.0	0.0	0.0
+"Microtia"	1.0	0.0	0.0	0.0
+"Prominent crus of helix"	1.0	0.0	0.0	0.0
+"Partial duplication of the distal phalanx of the 2nd finger"	1.0	0.0	0.0	0.0
+"Partial duplication of the distal phalanx of the 3rd finger"	1.0	0.0	0.0	0.0
+"Absent first metatarsal"	1.0	0.0	0.0	0.0
+"Cleft of chin"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0
+"Triphalangeal thumb"	1.0	0.0	0.0	0.0
+"Prominent nasal bridge"	1.0	0.0	0.0	0.0
+"External ear malformation"	1.0	0.0	0.0	0.0
+"Blepharospasm"	1.0	0.0	0.0	0.0
+"Hypotelorism"	1.0	0.0	0.0	0.0
+"Abnormality of the antihelix"	1.0	0.0	0.0	0.0
+"Proximal radio-ulnar synostosis"	1.0	0.0	0.0	0.0

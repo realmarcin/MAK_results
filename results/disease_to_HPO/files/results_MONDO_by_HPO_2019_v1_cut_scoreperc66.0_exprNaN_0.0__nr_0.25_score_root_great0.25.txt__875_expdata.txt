@@ -1,0 +1,17 @@
+	"MONDO.0008426"	"MONDO.0009486"	"MONDO.0011011"	"MONDO.0013171"	"MONDO.0014557"
+"Wide nasal bridge"	1.0	0.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0
+"Scoliosis"	1.0	0.0	0.0	0.0	1.0
+"Specific learning disability"	1.0	1.0	0.0	0.0	0.0
+"Cerebellar atrophy"	0.0	0.0	0.0	0.0	1.0
+"Cerebral atrophy"	0.0	0.0	0.0	0.0	1.0
+"Gastroesophageal reflux"	1.0	0.0	0.0	1.0	1.0
+"Adducted thumb"	0.0	0.0	0.0	0.0	1.0
+"Elbow flexion contracture"	0.0	0.0	0.0	0.0	1.0
+"Knee flexion contracture"	0.0	0.0	0.0	0.0	1.0
+"Short columella"	1.0	0.0	0.0	0.0	1.0
+"HP:0003577"	0.0	0.0	0.0	0.0	1.0
+"Neonatal respiratory distress"	1.0	1.0	0.0	0.0	0.0
+"Congenital contracture"	0.0	0.0	0.0	0.0	1.0
+"Pursed lips"	0.0	0.0	0.0	0.0	1.0
+"Enlarged naris"	0.0	0.0	0.0	0.0	1.0

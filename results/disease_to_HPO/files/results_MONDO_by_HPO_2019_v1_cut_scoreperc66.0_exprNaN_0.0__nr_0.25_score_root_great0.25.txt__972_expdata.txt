@@ -1,0 +1,10 @@
+	"MONDO.0009348"	"MONDO.0011159"	"MONDO.0002974"	"MONDO.0013768"
+"Increased antibody level in blood"	1.0	0.0	0.0	1.0
+"Pulmonary infiltrates"	1.0	0.0	0.0	0.0
+"Leukemia"	0.0	0.0	0.0	1.0
+"Polyarticular arthritis"	1.0	0.0	0.0	0.0
+"Monocytosis"	0.0	0.0	0.0	1.0
+"Histiocytosis"	1.0	0.0	0.0	0.0
+"Increased alpha-globulin"	1.0	0.0	0.0	0.0
+"Lymphoproliferative disorder"	0.0	0.0	0.0	1.0
+"Decreased lymphocyte apoptosis"	0.0	1.0	1.0	1.0

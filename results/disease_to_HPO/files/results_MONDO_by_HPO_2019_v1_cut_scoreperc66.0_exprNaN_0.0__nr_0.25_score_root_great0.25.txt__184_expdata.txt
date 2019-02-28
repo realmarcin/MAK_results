@@ -1,0 +1,8 @@
+	"MONDO.0014200"	"MONDO.0014206"	"MONDO.0014859"	"MONDO.0030920"	"MONDO.0024520"	"MONDO.0060745"
+"Downslanted palpebral fissures"	0.0	1.0	0.0	1.0	0.0	0.0
+"Intellectual disability"	0.0	1.0	1.0	1.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0	1.0	1.0	1.0
+"High palate"	0.0	1.0	0.0	0.0	1.0	1.0
+"Epicanthus"	0.0	0.0	0.0	1.0	1.0	1.0
+"Absent speech"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0031936"	0.0	1.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Seizures"
+"2" "HP:0000007"
+"3" "Generalized hypotonia"
+"4" "Short distal phalanx of finger"
+"5" "Brachydactyly"
+"6" "Small nail"
+"7" "Vesicoureteral reflux"

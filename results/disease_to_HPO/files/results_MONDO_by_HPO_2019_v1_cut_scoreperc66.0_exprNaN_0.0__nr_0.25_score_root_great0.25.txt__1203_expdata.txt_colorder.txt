@@ -1,0 +1,6 @@
+"x"
+"1" "Mitral valve prolapse"
+"2" "Ventricular septal defect"
+"3" "Atrial septal defect"
+"4" "Hypogonadism"
+"5" "Delayed puberty"

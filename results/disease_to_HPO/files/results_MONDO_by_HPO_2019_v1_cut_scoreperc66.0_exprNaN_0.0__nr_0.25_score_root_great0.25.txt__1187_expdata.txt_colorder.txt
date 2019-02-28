@@ -1,0 +1,8 @@
+"x"
+"1" "Spasticity"
+"2" "Myopathy"
+"3" "Facial palsy"
+"4" "Proximal muscle weakness"
+"5" "Focal segmental glomerulosclerosis"
+"6" "Neurodegeneration"
+"7" "Metabolic alkalosis"

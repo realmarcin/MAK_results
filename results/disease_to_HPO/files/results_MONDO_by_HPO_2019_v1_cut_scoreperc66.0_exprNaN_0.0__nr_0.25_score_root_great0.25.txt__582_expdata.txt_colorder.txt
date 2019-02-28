@@ -1,0 +1,7 @@
+"x"
+"1" "Cardiomyopathy"
+"2" "Elevated serum creatine phosphokinase"
+"3" "Polyneuropathy"
+"4" "Hyporeflexia of lower limbs"
+"5" "Progressive distal muscle weakness"
+"6" "Myofibrillar myopathy"

@@ -1,0 +1,26 @@
+	"MONDO.0009876"	"MONDO.0010196"	"MONDO.0012014"	"MONDO.0013671"
+"Hypoplasia of the maxilla"	0.0	1.0	1.0	0.0
+"Brachydactyly"	0.0	1.0	1.0	0.0
+"Brachycephaly"	0.0	1.0	1.0	0.0
+"Broad skull"	0.0	1.0	1.0	0.0
+"Lumbar hyperlordosis"	0.0	1.0	1.0	0.0
+"Depressed nasal bridge"	0.0	1.0	1.0	0.0
+"Shallow orbits"	0.0	1.0	1.0	0.0
+"Narrow palate"	0.0	1.0	1.0	0.0
+"Broad palm"	0.0	1.0	1.0	0.0
+"Spinal canal stenosis"	0.0	1.0	1.0	0.0
+"Glaucoma"	0.0	1.0	1.0	0.0
+"Blindness"	0.0	1.0	1.0	0.0
+"Ectopia lentis"	0.0	1.0	1.0	0.0
+"Broad ribs"	0.0	1.0	1.0	0.0
+"Mitral regurgitation"	0.0	1.0	1.0	0.0
+"Misalignment of teeth"	0.0	1.0	1.0	0.0
+"Broad metatarsal"	0.0	1.0	1.0	0.0
+"Joint stiffness"	0.0	1.0	1.0	0.0
+"Proportionate short stature"	0.0	1.0	1.0	0.0
+"Broad metacarpals"	0.0	1.0	1.0	0.0
+"Microspherophakia"	0.0	1.0	1.0	0.0
+"Abnormality of dental morphology"	0.0	1.0	1.0	0.0
+"Thin bony cortex"	0.0	1.0	1.0	0.0
+"Shallow anterior chamber"	0.0	1.0	1.0	0.0
+"Broad phalanges of the hand"	0.0	1.0	1.0	0.0

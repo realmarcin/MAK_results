@@ -1,0 +1,6 @@
+	"MONDO.0007581"	"MONDO.0007648"	"MONDO.0007722"
+"Abnormality of the thorax"	0.0	0.0	1.0
+"HP:0000006"	1.0	1.0	1.0
+"Dysphagia"	1.0	0.0	0.0
+"Volvulus"	0.0	1.0	0.0
+"Hiatus hernia"	1.0	1.0	1.0

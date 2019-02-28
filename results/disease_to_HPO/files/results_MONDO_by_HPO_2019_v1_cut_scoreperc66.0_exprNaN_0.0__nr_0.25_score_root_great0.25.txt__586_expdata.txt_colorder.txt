@@ -1,0 +1,7 @@
+"x"
+"1" "Bifid uvula"
+"2" "2-3 toe syndactyly"
+"3" "Submucous cleft hard palate"
+"4" "Hypotelorism"
+"5" "Overlapping toe"
+"6" "Symphalangism affecting the phalanges of the hand"

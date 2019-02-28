@@ -1,0 +1,5 @@
+"x"
+"1" "Hyperlysinuria"
+"2" "Argininuria"
+"3" "Ornithinuria"
+"4" "Dibasicaminoaciduria"

@@ -1,0 +1,5 @@
+	"MONDO.0006689"	"MONDO.0009196"	"MONDO.0010104"
+"HP:0000007"	0.0	1.0	1.0
+"Talipes equinovarus"	0.0	1.0	0.0
+"Erythema"	0.0	1.0	0.0
+"Abnormality of the dentition"	1.0	1.0	1.0

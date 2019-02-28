@@ -1,0 +1,10 @@
+	"MONDO.0009838"	"MONDO.0011956"	"MONDO.0013077"	"MONDO.0013634"	"MONDO.0024566"
+"HP:0000007"	1.0	0.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0	0.0
+"Papilledema"	1.0	0.0	0.0	0.0	0.0
+"Cerebral edema"	0.0	1.0	0.0	1.0	0.0
+"Encephalopathy"	0.0	1.0	0.0	1.0	0.0
+"Choroid plexus papilloma"	1.0	0.0	0.0	0.0	0.0
+"Hemiplegia/hemiparesis"	1.0	0.0	0.0	0.0	0.0

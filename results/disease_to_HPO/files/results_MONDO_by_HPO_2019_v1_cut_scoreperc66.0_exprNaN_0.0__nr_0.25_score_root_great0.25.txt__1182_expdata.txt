@@ -1,0 +1,8 @@
+	"MONDO.0008370"	"MONDO.0009178"	"MONDO.0009438"	"MONDO.0011864"	"MONDO.0014305"	"MONDO.0014306"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
+"Thin upper lip vermilion"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0003584"	0.0	1.0	0.0	0.0	0.0	0.0
+"Short philtrum"	0.0	1.0	0.0	0.0	0.0	0.0
+"Thick upper lip vermilion"	0.0	1.0	0.0	0.0	0.0	0.0
+"Lens subluxation"	0.0	1.0	0.0	0.0	0.0	0.0
+"Dystrophic toenail"	0.0	1.0	0.0	0.0	0.0	0.0

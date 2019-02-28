@@ -1,0 +1,9 @@
+	"MONDO.0010460"	"MONDO.0012791"	"MONDO.0013862"	"MONDO.0014396"	"MONDO.0014641"	"MONDO.0014642"
+"Hyporeflexia"	0.0	0.0	1.0	1.0	1.0	1.0
+"HP:0003676"	1.0	0.0	0.0	1.0	1.0	1.0
+"Bulbar palsy"	0.0	0.0	0.0	1.0	1.0	1.0
+"Amyotrophic lateral sclerosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Apathy"	0.0	1.0	0.0	0.0	1.0	1.0
+"Frontotemporal dementia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Cerebral cortical atrophy"	0.0	0.0	0.0	1.0	1.0	1.0
+"Disinhibition"	0.0	1.0	0.0	0.0	1.0	1.0

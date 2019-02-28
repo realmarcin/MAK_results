@@ -1,0 +1,12 @@
+	"MONDO.0010288"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0014211"
+"Hypoplasia of the maxilla"	1.0	0.0	0.0	0.0
+"Urinary incontinence"	1.0	0.0	0.0	0.0
+"Urinary bladder sphincter dysfunction"	1.0	0.0	0.0	0.0
+"Short distal phalanx of finger"	1.0	0.0	0.0	0.0
+"Lower limb muscle weakness"	1.0	0.0	0.0	0.0
+"Urinary urgency"	1.0	0.0	0.0	0.0
+"Functional abnormality of the bladder"	1.0	0.0	0.0	0.0
+"Motor aphasia"	1.0	0.0	0.0	0.0
+"Lower limb amyotrophy"	1.0	0.0	0.0	0.0
+"Abnormality of the hallux"	1.0	0.0	0.0	0.0
+"Functional abnormality of the gastrointestinal tract"	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0024265"	"MONDO.0012163"	"MONDO.0013153"	"MONDO.0014190"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Progressive visual loss"	1.0	0.0	0.0	1.0
+"Macular scar"	0.0	0.0	0.0	1.0
+"Drusen"	1.0	1.0	1.0	1.0
+"Foveal hyperpigmentation"	0.0	1.0	0.0	0.0
+"Choroidal neovascularization"	0.0	0.0	0.0	1.0

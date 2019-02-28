@@ -1,0 +1,10 @@
+	"MONDO.0007046"	"MONDO.0008428"	"MONDO.0011173"	"MONDO.0013673"
+"Cryptorchidism"	1.0	1.0	1.0	1.0
+"Downslanted palpebral fissures"	1.0	1.0	1.0	1.0
+"Joint laxity"	0.0	1.0	0.0	0.0
+"Pectus excavatum"	1.0	1.0	1.0	1.0
+"Pectus carinatum"	0.0	1.0	0.0	0.0
+"Inguinal hernia"	1.0	1.0	1.0	1.0
+"Dolichocephaly"	0.0	1.0	0.0	0.0
+"Joint hypermobility"	0.0	1.0	0.0	0.0
+"Joint hyperflexibility"	0.0	1.0	0.0	0.0

@@ -1,0 +1,4 @@
+	"MONDO.0007894"	"MONDO.0008547"	"MONDO.0008694"	"MONDO.0009162"	"MONDO.0009926"	"MONDO.0010027"	"MONDO.0011054"	"MONDO.0013756"	"MONDO.0013025"
+"Angiokeratoma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Excessive wrinkled skin"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the endocardium"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

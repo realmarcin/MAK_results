@@ -1,0 +1,5 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Left ventricular hypertrophy"
+"3" "HP:0000007"
+"4" "Feeding difficulties"

@@ -1,0 +1,6 @@
+"x"
+"1" "Hypoplasia of the corpus callosum"
+"2" "Intellectual disability, severe"
+"3" "Hypoplasia of the brainstem"
+"4" "Heterotopia"
+"5" "HP:0031882"

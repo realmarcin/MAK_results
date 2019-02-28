@@ -1,0 +1,5 @@
+"x"
+"1" "Aplasia/Hypoplasia of the skin"
+"2" "Lack of skin elasticity"
+"3" "Abnormal hair pattern"
+"4" "HP:0007513"

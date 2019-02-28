@@ -1,0 +1,7 @@
+"x"
+"1" "Duodenal ulcer"
+"2" "Hyperpepsinogenemia I"
+"3" "Small bowel diverticula"
+"4" "Jejunoileal ulceration"
+"5" "Congenital cystic adenomatoid malformation of the lung"
+"6" "Obstructive azoospermia"

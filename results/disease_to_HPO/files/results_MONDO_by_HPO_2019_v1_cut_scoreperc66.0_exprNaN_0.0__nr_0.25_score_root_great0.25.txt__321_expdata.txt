@@ -1,0 +1,8 @@
+	"MONDO.0009520"	"MONDO.0010018"	"MONDO.0013017"	"MONDO.0013607"
+"Hepatomegaly"	0.0	1.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Splenomegaly"	0.0	1.0	1.0	0.0
+"Hypopigmentation of the skin"	0.0	1.0	0.0	1.0
+"Subcutaneous nodule"	0.0	1.0	1.0	0.0
+"Pulmonary infiltrates"	1.0	1.0	0.0	0.0
+"Petechiae"	0.0	1.0	1.0	0.0

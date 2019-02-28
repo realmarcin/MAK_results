@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Pectus excavatum"
+"3" "Recurrent respiratory infections"
+"4" "Short ribs"
+"5" "Fibular hypoplasia"
+"6" "Bell-shaped thorax"
+"7" "Pseudoarthrosis"

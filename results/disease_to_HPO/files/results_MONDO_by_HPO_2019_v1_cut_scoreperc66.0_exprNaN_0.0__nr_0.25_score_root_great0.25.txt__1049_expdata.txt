@@ -1,0 +1,7 @@
+	"MONDO.0010476"	"MONDO.0012539"	"MONDO.0013243"	"MONDO.0044299"	"MONDO.0014824"	"MONDO.0014897"
+"Overweight"	1.0	0.0	1.0	1.0	0.0	1.0
+"Minicore myopathy"	0.0	1.0	0.0	0.0	0.0	1.0
+"Gastrostomy tube feeding in infancy"	0.0	0.0	0.0	0.0	1.0	1.0
+"Extra-axial cerebrospinal fluid accumulation"	0.0	0.0	0.0	0.0	1.0	0.0
+"Reduced brain N-acetyl aspartate level by MRS"	0.0	0.0	0.0	0.0	1.0	0.0
+"HP:0010647"	0.0	0.0	0.0	0.0	0.0	1.0

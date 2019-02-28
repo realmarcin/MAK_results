@@ -1,0 +1,16 @@
+	"MONDO.0007253"	"MONDO.0008751"	"MONDO.0010412"	"MONDO.0014029"
+"Ophthalmoplegia"	1.0	0.0	0.0	0.0
+"Pectus excavatum"	1.0	0.0	0.0	0.0
+"Lumbar hyperlordosis"	1.0	0.0	0.0	0.0
+"Hearing impairment"	1.0	0.0	0.0	0.0
+"Bifid uvula"	1.0	0.0	0.0	0.0
+"Clinodactyly of the 5th finger"	1.0	0.0	0.0	0.0
+"Finger syndactyly"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0
+"Short phalanx of finger"	1.0	0.0	0.0	0.0
+"Abnormality of the rib cage"	1.0	0.0	0.0	0.0
+"Down-sloping shoulders"	1.0	0.0	0.0	0.0
+"Thoracolumbar scoliosis"	1.0	0.0	0.0	0.0
+"Camptodactyly of toe"	1.0	0.0	0.0	0.0
+"Overlapping toe"	1.0	0.0	0.0	0.0
+"HP:0001883"	1.0	0.0	0.0	0.0

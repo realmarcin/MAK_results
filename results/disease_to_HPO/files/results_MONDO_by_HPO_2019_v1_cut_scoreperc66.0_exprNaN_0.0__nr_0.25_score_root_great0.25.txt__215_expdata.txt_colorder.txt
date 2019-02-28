@@ -1,0 +1,7 @@
+"x"
+"1" "Congestive heart failure"
+"2" "Dilated cardiomyopathy"
+"3" "HP:0000006"
+"4" "Left ventricular hypertrophy"
+"5" "Left ventricular noncompaction"
+"6" "Porencephalic cyst"

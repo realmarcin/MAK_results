@@ -1,0 +1,8 @@
+"x"
+"1" "Cerebral atrophy"
+"2" "Dementia"
+"3" "Memory impairment"
+"4" "Sensorineural hearing impairment"
+"5" "Sensory neuropathy"
+"6" "Head tremor"
+"7" "Bradykinesia"

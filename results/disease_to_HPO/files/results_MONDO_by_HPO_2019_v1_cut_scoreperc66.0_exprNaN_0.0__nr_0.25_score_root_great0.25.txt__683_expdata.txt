@@ -1,0 +1,6 @@
+	"MONDO.0020701"	"MONDO.0008517"	"MONDO.0010882"	"MONDO.0011985"	"MONDO.0012272"	"MONDO.0013065"
+"Metatarsal synostosis"	0.0	1.0	1.0	1.0	0.0	1.0
+"Hallux varus"	1.0	0.0	0.0	0.0	0.0	1.0
+"Cutaneous syndactyly of toes"	0.0	0.0	0.0	0.0	0.0	1.0
+"Limited interphalangeal movement"	0.0	0.0	0.0	0.0	0.0	1.0
+"Metacarpal synostosis"	0.0	1.0	1.0	1.0	1.0	1.0

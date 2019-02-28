@@ -1,0 +1,6 @@
+"x"
+"1" "Global developmental delay"
+"2" "Amelogenesis imperfecta"
+"3" "Unexplained fevers"
+"4" "Metaphyseal dysplasia"
+"5" "Diaphyseal dysplasia"

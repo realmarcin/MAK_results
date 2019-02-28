@@ -1,0 +1,7 @@
+	"MONDO.0007317"	"MONDO.0042979"	"MONDO.0010594"
+"Antegonial notching of mandible"	0.0	1.0	1.0
+"Anteriorly placed odontoid process"	1.0	0.0	1.0
+"Partial fusion of carpals"	0.0	0.0	1.0
+"Increased density of long bone diaphyses"	0.0	0.0	1.0
+"Coat hanger sign of ribs"	0.0	0.0	1.0
+"Partial fusion of tarsals"	0.0	0.0	1.0

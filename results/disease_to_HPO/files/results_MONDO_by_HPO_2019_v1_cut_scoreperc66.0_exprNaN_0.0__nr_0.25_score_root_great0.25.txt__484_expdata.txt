@@ -1,0 +1,5 @@
+	"MONDO.0008417"	"MONDO.0008493"	"MONDO.0008924"	"MONDO.0009204"	"MONDO.0009313"	"MONDO.0010197"
+"HP:0007513"	0.0	0.0	0.0	0.0	0.0	0.0
+"Lack of skin elasticity"	1.0	1.0	1.0	0.0	1.0	1.0
+"Aplasia/Hypoplasia of the skin"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormal hair pattern"	0.0	0.0	0.0	1.0	0.0	0.0

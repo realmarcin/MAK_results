@@ -1,0 +1,6 @@
+	"MONDO.0007896"	"MONDO.0008548"	"MONDO.0008702"	"MONDO.0008703"	"MONDO.0008971"	"MONDO.0009499"	"MONDO.0010014"	"MONDO.0010967"	"MONDO.0013224"	"MONDO.0013796"
+"Ovoid vertebral bodies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Short ribs"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Lateral clavicle hook"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Increased fibular diameter"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Snail-like ilia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,14 @@
+	"MONDO.0010581"	"MONDO.0016532"	"MONDO.0013600"	"MONDO.0014416"
+"Hypothyroidism"	1.0	1.0	1.0	1.0
+"Recurrent respiratory infections"	0.0	1.0	1.0	0.0
+"Abnormality of the dentition"	0.0	0.0	0.0	1.0
+"Diabetes mellitus"	1.0	1.0	1.0	1.0
+"Type I diabetes mellitus"	1.0	0.0	1.0	0.0
+"Interstitial pneumonitis"	0.0	0.0	0.0	1.0
+"Recurrent infections"	0.0	0.0	0.0	1.0
+"Delayed puberty"	0.0	0.0	1.0	1.0
+"Celiac disease"	0.0	0.0	0.0	1.0
+"Hepatosplenomegaly"	0.0	1.0	1.0	0.0
+"Villous atrophy"	1.0	1.0	1.0	0.0
+"Ileus"	1.0	0.0	0.0	0.0
+"Immune dysregulation"	1.0	0.0	1.0	0.0

@@ -1,0 +1,5 @@
+	"MONDO.0007904"	"MONDO.0008316"	"MONDO.0010258"	"MONDO.0011099"	"MONDO.0011362"	"MONDO.0013225"
+"Prostate cancer"	1.0	1.0	1.0	1.0	1.0	0.0
+"Lung adenocarcinoma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Soft tissue sarcoma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Neoplasm of the central nervous system"	0.0	0.0	0.0	0.0	1.0	1.0

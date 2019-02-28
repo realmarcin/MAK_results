@@ -1,0 +1,5 @@
+	"MONDO.0007135"	"MONDO.0008284"	"MONDO.0009096"	"MONDO.0009151"	"MONDO.0009152"	"MONDO.0009774"
+"Nail dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Dystrophic fingernails"	1.0	1.0	1.0	1.0	1.0	1.0
+"Persistence of primary teeth"	0.0	0.0	0.0	0.0	0.0	0.0
+"Dystrophic toenail"	1.0	1.0	1.0	1.0	1.0	1.0

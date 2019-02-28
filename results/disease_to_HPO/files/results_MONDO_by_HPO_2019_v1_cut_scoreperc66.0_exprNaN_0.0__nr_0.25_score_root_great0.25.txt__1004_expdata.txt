@@ -1,0 +1,11 @@
+	"MONDO.0009263"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Short stature"	1.0	0.0	1.0	1.0
+"Platyspondyly"	1.0	0.0	1.0	0.0
+"Dystonia"	1.0	0.0	0.0	0.0
+"Abnormality of the face"	1.0	0.0	0.0	0.0
+"Abnormality of blood and blood-forming tissues"	1.0	0.0	0.0	0.0
+"Hypoplastic acetabulae"	1.0	0.0	0.0	0.0
+"Slurred speech"	1.0	0.0	0.0	0.0
+"Decreased beta-galactosidase activity"	1.0	0.0	0.0	0.0
+"Diffuse cerebral atrophy"	1.0	0.0	0.0	0.0
+"Foam cells"	1.0	0.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "Cervical subluxation"
+"2" "Chondroitin sulfate excretion in urine"
+"3" "Large elbow"
+"4" "Intimal thickening in the coronary arteries"

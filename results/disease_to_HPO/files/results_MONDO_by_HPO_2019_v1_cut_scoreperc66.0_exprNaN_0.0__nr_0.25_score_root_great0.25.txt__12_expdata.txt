@@ -1,0 +1,5 @@
+	"MONDO.0009466"	"MONDO.0010070"	"MONDO.0014809"
+"HP:0000007"	1.0	1.0	1.0
+"Intrauterine growth retardation"	1.0	1.0	0.0
+"Abdominal distention"	1.0	1.0	1.0
+"Polyhydramnios"	1.0	1.0	1.0

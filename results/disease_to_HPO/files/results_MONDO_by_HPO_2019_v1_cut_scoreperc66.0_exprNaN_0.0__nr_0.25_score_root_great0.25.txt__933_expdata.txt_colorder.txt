@@ -1,0 +1,4 @@
+"x"
+"1" "Basal lamina 'onion bulb' formation"
+"2" "Prolonged brainstem auditory evoked potentials"
+"3" "Abnormal pupillary light reflex"

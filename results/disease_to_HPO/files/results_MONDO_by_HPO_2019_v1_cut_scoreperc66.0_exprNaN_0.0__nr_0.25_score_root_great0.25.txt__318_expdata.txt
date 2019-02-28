@@ -1,0 +1,8 @@
+	"MONDO.0012073"	"MONDO.0013479"	"MONDO.0014099"	"MONDO.0014432"
+"Acanthosis nigricans"	1.0	1.0	1.0	1.0
+"Polycystic ovaries"	1.0	1.0	1.0	1.0
+"Abdominal obesity"	0.0	0.0	0.0	1.0
+"Proximal muscle weakness in upper limbs"	0.0	0.0	0.0	1.0
+"Loss of gluteal subcutaneous adipose tissue"	1.0	1.0	1.0	1.0
+"Abnormality of lipid metabolism"	0.0	0.0	0.0	1.0
+"Abnormality of the labia majora"	0.0	0.0	0.0	1.0

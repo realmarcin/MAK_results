@@ -1,0 +1,11 @@
+	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0010612"	"MONDO.0014211"
+"Seizures"	0.0	1.0	1.0	1.0
+"Absent septum pellucidum"	0.0	0.0	1.0	0.0
+"Coarse facial features"	0.0	0.0	1.0	0.0
+"Increased intracranial pressure"	0.0	0.0	1.0	0.0
+"Joint stiffness"	0.0	0.0	1.0	0.0
+"Holoprosencephaly"	0.0	0.0	1.0	0.0
+"Aqueductal stenosis"	0.0	0.0	1.0	0.0
+"HP:0001419"	1.0	1.0	1.0	0.0
+"Corticospinal tract hypoplasia"	0.0	0.0	1.0	0.0
+"Flexion contracture of thumb"	0.0	0.0	1.0	0.0

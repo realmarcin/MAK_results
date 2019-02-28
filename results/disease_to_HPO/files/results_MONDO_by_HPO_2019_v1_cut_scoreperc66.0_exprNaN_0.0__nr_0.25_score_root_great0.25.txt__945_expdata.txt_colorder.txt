@@ -1,0 +1,7 @@
+"x"
+"1" "Increased total iron binding capacity"
+"2" "Copper accumulation in liver"
+"3" "Post-partum hemorrhage"
+"4" "Oral cavity bleeding"
+"5" "Hemosiderinuria"
+"6" "Abnormal proerythroblast morphology"

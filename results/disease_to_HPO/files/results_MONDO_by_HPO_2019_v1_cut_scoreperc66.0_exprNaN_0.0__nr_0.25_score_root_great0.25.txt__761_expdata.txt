@@ -1,0 +1,6 @@
+	"MONDO.0009707"	"MONDO.0012513"	"MONDO.0012625"	"MONDO.0013972"	"MONDO.0014645"	"MONDO.0014776"	"MONDO.0014782"
+"Acute necrotizing encephalopathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Abnormal mitochondria in muscle tissue"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Decreased activity of mitochondrial complex I"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Decreased activity of mitochondrial complex III"	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+"Decreased activity of mitochondrial complex IV"	0.0	1.0	0.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,5 @@
+	"MONDO.0007763"	"MONDO.0008811"	"MONDO.0009388"	"MONDO.0013534"
+"Increased circulating chylomicron levels"	1.0	0.0	1.0	0.0
+"Lipemia retinalis"	0.0	1.0	1.0	0.0
+"Eruptive xanthomas"	0.0	1.0	1.0	1.0
+"Lactescent serum"	0.0	0.0	1.0	0.0

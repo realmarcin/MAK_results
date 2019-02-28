@@ -1,0 +1,7 @@
+	"MONDO.0007230"	"MONDO.0008412"	"MONDO.0008608"	"MONDO.0008900"
+"Short 4th toe"	1.0	1.0	0.0	1.0
+"Short 2nd toe"	0.0	0.0	0.0	1.0
+"Deformed radius"	0.0	1.0	0.0	0.0
+"Axillary apocrine gland hypoplasia"	0.0	1.0	0.0	0.0
+"Short 5th toe"	0.0	1.0	0.0	1.0
+"Short 3rd toe"	0.0	0.0	1.0	1.0

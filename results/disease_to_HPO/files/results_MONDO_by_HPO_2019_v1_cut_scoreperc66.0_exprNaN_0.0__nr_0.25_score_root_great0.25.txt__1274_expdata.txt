@@ -1,0 +1,6 @@
+	"MONDO.0009505"	"MONDO.0009612"	"MONDO.0011230"	"MONDO.0013762"	"MONDO.0014191"	"MONDO.0014489"	"MONDO.0014649"	"MONDO.0014849"
+"Lactic acidosis"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Cytochrome C oxidase-negative muscle fibers"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Ethylmalonic aciduria"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Focal T2 hyperintense basal ganglia lesion"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the retinal vasculature"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

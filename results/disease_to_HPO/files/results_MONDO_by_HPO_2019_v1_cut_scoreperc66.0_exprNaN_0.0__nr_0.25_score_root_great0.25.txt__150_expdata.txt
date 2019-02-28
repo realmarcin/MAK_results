@@ -1,0 +1,7 @@
+	"MONDO.0008072"	"MONDO.0008586"	"MONDO.0009290"	"MONDO.0011304"	"MONDO.0011919"
+"HP:0000006"	1.0	1.0	0.0	1.0	0.0
+"Hypertension"	1.0	1.0	1.0	1.0	1.0
+"Renal insufficiency"	1.0	0.0	1.0	0.0	1.0
+"Proteinuria"	1.0	1.0	1.0	1.0	1.0
+"Hematuria"	0.0	0.0	1.0	0.0	1.0
+"Focal segmental glomerulosclerosis"	0.0	0.0	1.0	1.0	1.0

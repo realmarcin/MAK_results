@@ -1,0 +1,8 @@
+"x"
+"1" "Genu valgum"
+"2" "Platyspondyly"
+"3" "Coxa vara"
+"4" "Flared femoral metaphysis"
+"5" "Short long bone"
+"6" "Severe short stature"
+"7" "Anterior rib cupping"

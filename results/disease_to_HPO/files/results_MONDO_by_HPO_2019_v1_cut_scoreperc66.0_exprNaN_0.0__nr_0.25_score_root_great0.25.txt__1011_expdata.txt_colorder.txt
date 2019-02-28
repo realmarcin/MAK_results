@@ -1,0 +1,8 @@
+"x"
+"1" "Craniosynostosis"
+"2" "Hallux valgus"
+"3" "Shortening of all middle phalanges of the fingers"
+"4" "Cone-shaped epiphyses of the phalanges of the hand"
+"5" "Shortening of all distal phalanges of the fingers"
+"6" "Carpal bone malsegmentation"
+"7" "Cone-shaped epiphyses of the toes"

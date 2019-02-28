@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Spasticity"
+"3" "Seizures"
+"4" "Fasciculations"
+"5" "Oral-pharyngeal dysphagia"

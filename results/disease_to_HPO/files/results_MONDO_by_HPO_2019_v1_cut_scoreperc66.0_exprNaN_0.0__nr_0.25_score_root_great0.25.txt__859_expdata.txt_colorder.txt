@@ -1,0 +1,6 @@
+"x"
+"1" "Hip pain"
+"2" "Knee pain"
+"3" "Elevated alkaline phosphatase of bone origin"
+"4" "HP:0031374"
+"5" "HP:0040131"

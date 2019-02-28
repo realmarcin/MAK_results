@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Generalized hypotonia"
+"3" "Periventricular leukomalacia"
+"4" "Kyphoscoliosis"
+"5" "Proximal renal tubular acidosis"
+"6" "Neuronal loss in the cerebral cortex"
+"7" "Abnormality of movement"

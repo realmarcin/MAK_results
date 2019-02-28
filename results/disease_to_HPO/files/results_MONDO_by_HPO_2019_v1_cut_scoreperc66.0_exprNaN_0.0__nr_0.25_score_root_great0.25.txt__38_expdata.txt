@@ -1,0 +1,7 @@
+	"MONDO.0007496"	"MONDO.0008200"	"MONDO.0015278"	"MONDO.0010477"	"MONDO.0014797"
+"Sleep disturbance"	1.0	1.0	1.0	1.0	0.0
+"Dementia"	0.0	1.0	1.0	1.0	1.0
+"Parkinsonism"	1.0	1.0	1.0	1.0	1.0
+"Rigidity"	1.0	1.0	1.0	1.0	1.0
+"Bradykinesia"	1.0	1.0	1.0	1.0	0.0
+"HP:0012332"	0.0	1.0	1.0	1.0	1.0

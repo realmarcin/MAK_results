@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0003577"
+"2" "Hydrocephalus"
+"3" "Dandy-Walker malformation"
+"4" "Holoprosencephaly"
+"5" "Brain atrophy"
+"6" "Hydranencephaly"

@@ -1,0 +1,9 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0010668"	"MONDO.0014236"
+"Abnormality of the skin"	0.0	0.0	1.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0
+"11 pairs of ribs"	0.0	0.0	1.0	0.0
+"Prominent nose"	0.0	0.0	1.0	0.0
+"Coxa valga"	0.0	0.0	1.0	0.0
+"Patellar dislocation"	0.0	0.0	1.0	0.0
+"Patellar subluxation"	0.0	0.0	1.0	0.0
+"HP:0001419"	1.0	1.0	1.0	0.0

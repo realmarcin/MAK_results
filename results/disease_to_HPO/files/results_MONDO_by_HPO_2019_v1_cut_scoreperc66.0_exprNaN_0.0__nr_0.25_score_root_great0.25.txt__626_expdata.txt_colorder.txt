@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Pancreatic hypoplasia"
+"3" "Intrauterine growth retardation"
+"4" "Diabetes mellitus"
+"5" "Neonatal insulin-dependent diabetes mellitus"
+"6" "Azoospermia"
+"7" "Upper eyelid edema"

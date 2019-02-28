@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Drusen"
+"3" "Progressive visual loss"
+"4" "Macular scar"
+"5" "Foveal hyperpigmentation"
+"6" "Choroidal neovascularization"

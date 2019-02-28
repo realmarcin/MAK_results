@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperinsulinemic hypoglycemia"
+"2" "Recurrent hypoglycemia"
+"3" "Hypoglycemic seizures"
+"4" "Hypoglycemic coma"
+"5" "Abnormal C-peptide level"
+"6" "Neonatal hypoglycemia"

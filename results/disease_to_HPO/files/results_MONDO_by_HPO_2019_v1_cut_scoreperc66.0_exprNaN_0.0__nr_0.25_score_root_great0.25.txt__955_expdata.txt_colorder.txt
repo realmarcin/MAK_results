@@ -1,0 +1,4 @@
+"x"
+"1" "Dry hair"
+"2" "Facial hypertrichosis"
+"3" "Hyperpigmentation in sun-exposed areas"

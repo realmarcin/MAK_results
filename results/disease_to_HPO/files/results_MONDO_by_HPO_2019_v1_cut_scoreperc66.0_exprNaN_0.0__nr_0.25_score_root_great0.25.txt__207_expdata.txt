@@ -1,0 +1,8 @@
+	"MONDO.0013168"	"MONDO.0014612"	"MONDO.0014814"	"MONDO.0054636"
+"HP:0000007"	1.0	1.0	1.0	0.0
+"Generalized hypotonia"	0.0	1.0	1.0	0.0
+"Nystagmus"	0.0	1.0	1.0	0.0
+"Visual impairment"	0.0	1.0	1.0	0.0
+"Spasticity"	0.0	1.0	1.0	1.0
+"Leukodystrophy"	1.0	1.0	1.0	1.0
+"Abnormality of the periventricular white matter"	0.0	1.0	1.0	0.0

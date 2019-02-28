@@ -1,0 +1,7 @@
+"x"
+"1" "Attached earlobe"
+"2" "Hypoplastic 5th lumbar vertebrae"
+"3" "Absent ethmoidal sinuses"
+"4" "Tubular metacarpal bones"
+"5" "Abnormality of dental eruption"
+"6" "Twelfth rib hypoplasia"

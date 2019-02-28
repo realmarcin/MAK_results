@@ -1,0 +1,11 @@
+	"MONDO.0007161"	"MONDO.0007950"	"MONDO.0011605"	"MONDO.0012914"	"MONDO.0013125"
+"Microphthalmia"	0.0	0.0	1.0	0.0	1.0
+"Nystagmus"	0.0	1.0	1.0	1.0	0.0
+"Cataract"	1.0	1.0	1.0	1.0	1.0
+"Myopia"	1.0	1.0	1.0	0.0	1.0
+"Mitral valve prolapse"	1.0	0.0	1.0	0.0	0.0
+"Retinal detachment"	1.0	1.0	1.0	0.0	1.0
+"Visual loss"	1.0	0.0	1.0	0.0	0.0
+"Amblyopia"	0.0	1.0	1.0	0.0	0.0
+"Thoracic kyphosis"	0.0	0.0	1.0	0.0	1.0
+"Joint hyperflexibility"	1.0	0.0	1.0	0.0	0.0

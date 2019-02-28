@@ -1,0 +1,7 @@
+	"MONDO.0011230"	"MONDO.0011867"	"MONDO.0013762"	"MONDO.0014191"	"MONDO.0014489"	"MONDO.0014649"	"MONDO.0014849"	"MONDO.0014934"
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Brittle hair"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the cerebellum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Lymphopenia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Hypochromic microcytic anemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Sideroblastic anemia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

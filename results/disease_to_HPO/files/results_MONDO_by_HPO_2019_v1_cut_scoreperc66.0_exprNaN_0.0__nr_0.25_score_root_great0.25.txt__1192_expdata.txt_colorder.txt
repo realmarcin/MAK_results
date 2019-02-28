@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0001417"
+"2" "Menstrual irregularities"
+"3" "Increased circulating gonadotropin level"
+"4" "Premature ovarian insufficiency"

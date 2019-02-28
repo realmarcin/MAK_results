@@ -1,0 +1,9 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0013800"	"MONDO.0014236"
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0
+"Low-set ears"	1.0	1.0	1.0	0.0
+"Wormian bones"	0.0	0.0	1.0	0.0
+"Wide anterior fontanel"	0.0	0.0	1.0	0.0
+"Short palpebral fissure"	0.0	0.0	1.0	0.0
+"HP:0008897"	0.0	0.0	1.0	0.0
+"Poor suck"	0.0	0.0	1.0	0.0

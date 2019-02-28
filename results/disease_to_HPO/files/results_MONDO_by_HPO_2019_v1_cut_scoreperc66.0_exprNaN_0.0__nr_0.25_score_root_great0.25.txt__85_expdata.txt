@@ -1,0 +1,9 @@
+	"MONDO.0011965"	"MONDO.0013994"	"MONDO.0014271"	"MONDO.0014272"	"MONDO.0014772"
+"Cryptorchidism"	1.0	0.0	1.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0
+"Micropenis"	0.0	1.0	1.0	1.0	1.0
+"HP:0003577"	1.0	1.0	1.0	1.0	1.0
+"Scrotal hypoplasia"	0.0	0.0	1.0	1.0	0.0
+"Abnormal glycosylation"	0.0	0.0	1.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Cutaneous finger syndactyly"
+"3" "Type B brachydactyly"
+"4" "Aplasia/Hypoplasia of the distal phalanges of the hand"
+"5" "Aplasia/Hypoplasia of the distal phalanges of the toes"

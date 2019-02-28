@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Dry skin"
+"3" "Cognitive impairment"
+"4" "Scaling skin"
+"5" "Erythroderma"
+"6" "Abnormality of the coagulation cascade"
+"7" "Abnormality of vision"

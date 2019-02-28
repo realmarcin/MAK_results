@@ -1,0 +1,7 @@
+"x"
+"1" "Malar flattening"
+"2" "Midface retrusion"
+"3" "Bowing of the long bones"
+"4" "Shallow orbits"
+"5" "Short phalanx of finger"
+"6" "Cardiomegaly"

@@ -1,0 +1,9 @@
+	"MONDO.0013812"	"MONDO.0014577"	"MONDO.0014649"	"MONDO.0044696"
+"Joint laxity"	0.0	0.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Short nose"	0.0	0.0	1.0	0.0
+"Hypopigmentation of the skin"	0.0	0.0	1.0	0.0
+"Deeply set eye"	0.0	0.0	1.0	0.0
+"Absent speech"	0.0	0.0	1.0	1.0
+"Sandal gap"	0.0	0.0	1.0	0.0

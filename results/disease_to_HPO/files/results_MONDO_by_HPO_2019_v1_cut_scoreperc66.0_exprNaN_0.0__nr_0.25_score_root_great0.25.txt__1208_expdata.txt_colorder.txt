@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Cataract"
+"3" "HP:0000113"
+"4" "Retinal dystrophy"
+"5" "Microcoria"
+"6" "Congenital blindness"
+"7" "Hypoplasia of the retina"

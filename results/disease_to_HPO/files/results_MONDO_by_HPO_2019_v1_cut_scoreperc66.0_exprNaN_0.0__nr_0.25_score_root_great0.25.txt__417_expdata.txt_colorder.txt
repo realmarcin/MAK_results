@@ -1,0 +1,7 @@
+"x"
+"1" "Microcephaly"
+"2" "Flat occiput"
+"3" "Autistic behavior"
+"4" "Poor speech"
+"5" "Encephalopathy"
+"6" "Death in infancy"

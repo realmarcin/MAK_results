@@ -1,0 +1,5 @@
+	"MONDO.0008465"	"MONDO.0008801"	"MONDO.0009158"	"MONDO.0009233"	"MONDO.0009527"	"MONDO.0010165"
+"Hand oligodactyly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Aplasia of the ulna"	0.0	0.0	0.0	0.0	0.0	1.0
+"Foot oligodactyly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the ulna"	0.0	0.0	0.0	0.0	0.0	0.0

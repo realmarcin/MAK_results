@@ -1,0 +1,7 @@
+"x"
+"1" "Depressivity"
+"2" "Paresthesia"
+"3" "Anxiety"
+"4" "Muscle weakness"
+"5" "Urinary incontinence"
+"6" "CNS demyelination"

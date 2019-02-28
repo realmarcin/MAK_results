@@ -1,0 +1,6 @@
+"x"
+"1" "Seizures"
+"2" "Global developmental delay"
+"3" "Generalized hypotonia"
+"4" "Cerebral atrophy"
+"5" "Spasticity"

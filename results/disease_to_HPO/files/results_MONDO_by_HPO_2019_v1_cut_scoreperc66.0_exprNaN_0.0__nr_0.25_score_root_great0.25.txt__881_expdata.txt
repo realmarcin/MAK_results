@@ -1,0 +1,6 @@
+	"MONDO.0007204"	"MONDO.0007682"	"MONDO.0007804"	"MONDO.0007960"	"MONDO.0008130"
+"Chronic disseminated intravascular coagulation"	1.0	0.0	0.0	0.0	0.0
+"Cerebellar medulloblastoma"	1.0	1.0	0.0	1.0	0.0
+"Total ophthalmoplegia"	0.0	0.0	0.0	1.0	1.0
+"Abnormal brain FDG positron emission tomography"	0.0	0.0	1.0	1.0	0.0
+"Cerebellar ataxia associated with quadrupedal gait"	0.0	0.0	0.0	1.0	0.0

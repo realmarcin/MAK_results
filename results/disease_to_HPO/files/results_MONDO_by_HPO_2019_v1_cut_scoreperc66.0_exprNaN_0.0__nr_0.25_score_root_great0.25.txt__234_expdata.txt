@@ -1,0 +1,9 @@
+	"MONDO.0010313"	"MONDO.0010401"	"MONDO.0010680"	"MONDO.0012715"
+"Skeletal muscle atrophy"	1.0	1.0	1.0	0.0
+"Arrhythmia"	1.0	1.0	1.0	1.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0
+"HP:0011463"	0.0	0.0	1.0	0.0
+"Waddling gait"	0.0	1.0	1.0	0.0
+"Calf muscle hypertrophy"	0.0	0.0	1.0	1.0
+"Abnormal EKG"	1.0	0.0	1.0	0.0
+"Calf muscle pseudohypertrophy"	1.0	0.0	1.0	0.0

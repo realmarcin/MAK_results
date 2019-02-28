@@ -1,0 +1,9 @@
+	"MONDO.0015278"	"MONDO.0010161"	"MONDO.0011488"	"MONDO.0011639"	"MONDO.0044315"
+"Dystonia"	1.0	0.0	1.0	1.0	1.0
+"Spasticity"	1.0	0.0	1.0	1.0	1.0
+"Tremor"	1.0	1.0	0.0	1.0	1.0
+"Neurological speech impairment"	0.0	1.0	1.0	0.0	0.0
+"Mutism"	0.0	0.0	1.0	1.0	0.0
+"4-Hydroxyphenylpyruvic aciduria"	0.0	1.0	0.0	0.0	0.0
+"Caudate atrophy"	0.0	0.0	1.0	0.0	1.0
+"Herpetiform corneal ulceration"	0.0	1.0	0.0	0.0	0.0

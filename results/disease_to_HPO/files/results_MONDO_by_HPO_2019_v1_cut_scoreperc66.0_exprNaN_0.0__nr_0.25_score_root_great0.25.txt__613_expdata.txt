@@ -1,0 +1,10 @@
+	"MONDO.0007927"	"MONDO.0008400"	"MONDO.0008857"	"MONDO.0009892"	"MONDO.0012106"	"MONDO.0013541"
+"Pallor"	1.0	0.0	0.0	0.0	0.0	1.0
+"Myelodysplasia"	0.0	0.0	0.0	1.0	0.0	1.0
+"Fever"	1.0	1.0	1.0	0.0	1.0	1.0
+"Bruising susceptibility"	0.0	0.0	0.0	1.0	0.0	1.0
+"Leukocytosis"	0.0	0.0	1.0	1.0	0.0	1.0
+"Weight loss"	0.0	1.0	1.0	1.0	1.0	1.0
+"Acute leukemia"	0.0	0.0	0.0	1.0	0.0	1.0
+"Pancytopenia"	0.0	1.0	0.0	0.0	0.0	1.0
+"Hypercoagulability"	1.0	0.0	0.0	0.0	0.0	1.0

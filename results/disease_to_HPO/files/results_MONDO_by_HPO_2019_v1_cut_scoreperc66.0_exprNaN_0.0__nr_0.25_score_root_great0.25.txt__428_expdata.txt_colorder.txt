@@ -1,0 +1,4 @@
+"x"
+"1" "Spinal cord compression"
+"2" "Abnormality of the metacarpal bones"
+"3" "Visceral angiomatosis"

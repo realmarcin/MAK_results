@@ -1,0 +1,7 @@
+"x"
+"1" "Atypical scarring of skin"
+"2" "Deep philtrum"
+"3" "Gastroesophageal reflux"
+"4" "Everted lower lip vermilion"
+"5" "Low-set, posteriorly rotated ears"
+"6" "Reduced number of teeth"

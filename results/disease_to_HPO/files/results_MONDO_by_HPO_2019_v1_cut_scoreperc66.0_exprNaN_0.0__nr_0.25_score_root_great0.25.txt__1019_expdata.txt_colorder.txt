@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Hyperpigmentation of the skin"
+"3" "Alcoholism"
+"4" "Fragile skin"
+"5" "Hypertrichosis"
+"6" "Hepatic fibrosis"
+"7" "Porphyrinuria"

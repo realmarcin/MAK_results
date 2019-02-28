@@ -1,0 +1,10 @@
+	"MONDO.0012398"	"MONDO.0012418"	"MONDO.0012545"	"MONDO.0013081"
+"Brachydactyly"	1.0	1.0	1.0	1.0
+"Syndactyly"	1.0	1.0	0.0	1.0
+"Clinodactyly"	1.0	1.0	0.0	0.0
+"HP:0000006"	1.0	1.0	0.0	1.0
+"Microphthalmia"	1.0	0.0	0.0	0.0
+"Short stature"	1.0	0.0	0.0	1.0
+"Peters anomaly"	1.0	0.0	0.0	0.0
+"Increased intraocular pressure"	1.0	0.0	0.0	0.0
+"Iris coloboma"	1.0	0.0	0.0	0.0

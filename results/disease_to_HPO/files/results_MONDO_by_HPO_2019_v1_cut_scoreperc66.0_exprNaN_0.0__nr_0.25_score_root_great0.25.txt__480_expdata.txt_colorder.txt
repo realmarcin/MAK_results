@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Short stature"
+"3" "HP:0000007"
+"4" "Seizures"
+"5" "Primary amenorrhea"
+"6" "Congenital sensorineural hearing impairment"
+"7" "Hypoplasia of the uterus"

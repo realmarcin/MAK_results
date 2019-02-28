@@ -1,0 +1,12 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0010991"
+"Micrognathia"	0.0	0.0	0.0	1.0
+"HP:0003745"	0.0	0.0	0.0	1.0
+"Renal dysplasia"	0.0	0.0	0.0	1.0
+"Abnormality of the vertebral column"	0.0	0.0	0.0	1.0
+"Hypoplasia of the uterus"	0.0	0.0	0.0	1.0
+"Renal agenesis"	0.0	0.0	0.0	1.0
+"Ectopic kidney"	0.0	0.0	0.0	1.0
+"Bicornuate uterus"	0.0	0.0	0.0	1.0
+"Vertebral segmentation defect"	0.0	0.0	0.0	1.0
+"Cerebellar cyst"	0.0	0.0	0.0	1.0
+"Aplasia/hypoplasia of the uterus"	0.0	0.0	0.0	1.0

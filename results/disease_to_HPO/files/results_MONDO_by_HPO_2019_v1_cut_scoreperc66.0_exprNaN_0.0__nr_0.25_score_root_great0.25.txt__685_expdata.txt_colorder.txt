@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperextensible skin"
+"2" "Long philtrum"
+"3" "Pectus excavatum"
+"4" "Pectus carinatum"
+"5" "Platyspondyly"
+"6" "Exostoses"

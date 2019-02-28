@@ -1,0 +1,8 @@
+	"MONDO.0007295"	"MONDO.0010313"	"MONDO.0010685"	"MONDO.0012546"	"MONDO.0014656"	"MONDO.0014923"
+"Skeletal muscle atrophy"	1.0	1.0	1.0	0.0	0.0	1.0
+"Myopathy"	1.0	0.0	1.0	1.0	1.0	0.0
+"HP:0003677"	1.0	0.0	1.0	1.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0	1.0
+"Difficulty walking"	0.0	1.0	0.0	1.0	0.0	1.0
+"Difficulty running"	0.0	0.0	1.0	1.0	1.0	0.0
+"Gowers sign"	0.0	0.0	1.0	1.0	0.0	0.0

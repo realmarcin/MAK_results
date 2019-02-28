@@ -1,0 +1,8 @@
+	"MONDO.0007418"	"MONDO.0007839"	"MONDO.0012270"	"MONDO.0012775"
+"Pectus excavatum"	0.0	1.0	1.0	0.0
+"Microphthalmia"	0.0	1.0	1.0	0.0
+"Facial asymmetry"	0.0	1.0	1.0	0.0
+"Hypospadias"	0.0	1.0	1.0	0.0
+"Bipolar affective disorder"	1.0	1.0	1.0	1.0
+"Schizophrenia"	1.0	1.0	0.0	1.0
+"Attention deficit hyperactivity disorder"	0.0	1.0	1.0	1.0

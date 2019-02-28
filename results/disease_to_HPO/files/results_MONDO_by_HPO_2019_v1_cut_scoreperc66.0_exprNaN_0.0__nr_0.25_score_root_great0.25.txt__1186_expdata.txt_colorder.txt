@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Hyperkeratosis"
+"3" "Fused cervical vertebrae"
+"4" "Respiratory distress"
+"5" "Fetal distress"
+"6" "Stomatitis"
+"7" "Periostitis"

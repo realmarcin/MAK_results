@@ -1,0 +1,8 @@
+"x"
+"1" "Glaucoma"
+"2" "Cataract"
+"3" "Retinal detachment"
+"4" "Lens subluxation"
+"5" "Astigmatism"
+"6" "Miosis"
+"7" "Megalocornea"

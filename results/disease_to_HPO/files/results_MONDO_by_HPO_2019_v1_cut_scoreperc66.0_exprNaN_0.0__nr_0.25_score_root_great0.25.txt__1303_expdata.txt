@@ -1,0 +1,27 @@
+	"MONDO.0007104"	"MONDO.0010157"	"MONDO.0013343"	"MONDO.0013717"
+"Downslanted palpebral fissures"	0.0	1.0	0.0	0.0
+"Brachydactyly"	0.0	1.0	0.0	0.0
+"Clinodactyly"	0.0	1.0	0.0	0.0
+"Hydronephrosis"	0.0	1.0	0.0	0.0
+"Low-set ears"	0.0	1.0	0.0	0.0
+"Epicanthus"	0.0	1.0	0.0	0.0
+"Specific learning disability"	0.0	1.0	0.0	0.0
+"Hoarse voice"	0.0	1.0	0.0	0.0
+"Short foot"	0.0	1.0	0.0	0.0
+"Anxiety"	0.0	1.0	0.0	0.0
+"Sleep disturbance"	0.0	1.0	0.0	0.0
+"Prominent nose"	0.0	1.0	0.0	0.0
+"Camptodactyly"	0.0	1.0	0.0	0.0
+"Babinski sign"	0.0	1.0	0.0	0.0
+"Dysuria"	0.0	1.0	0.0	0.0
+"Overbite"	0.0	1.0	0.0	0.0
+"Psychosis"	0.0	1.0	0.0	0.0
+"Hammertoe"	0.0	1.0	0.0	0.0
+"Slurred speech"	0.0	1.0	0.0	0.0
+"Abnormality of the thumb"	0.0	1.0	0.0	0.0
+"Knee clonus"	0.0	1.0	0.0	0.0
+"Hyperextensible hand joints"	0.0	1.0	0.0	0.0
+"Speech apraxia"	0.0	1.0	0.0	0.0
+"Hyperplasia of midface"	0.0	1.0	0.0	0.0
+"Abnormality of the nares"	0.0	1.0	0.0	0.0
+"HP:0025269"	0.0	1.0	0.0	0.0

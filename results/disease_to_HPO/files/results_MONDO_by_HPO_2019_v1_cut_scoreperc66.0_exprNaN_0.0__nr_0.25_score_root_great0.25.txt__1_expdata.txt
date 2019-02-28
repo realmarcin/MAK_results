@@ -1,0 +1,11 @@
+	"MONDO.0007274"	"MONDO.0008193"	"MONDO.0011545"
+"Episodic paroxysmal anxiety"	1.0	1.0	1.0
+"Recurrent paroxysmal headache"	1.0	1.0	1.0
+"Hypertension associated with pheochromocytoma"	1.0	1.0	1.0
+"Glomus jugular tumor"	1.0	1.0	1.0
+"Extraadrenal pheochromocytoma"	1.0	1.0	1.0
+"Adrenal pheochromocytoma"	1.0	1.0	1.0
+"Pulsatile tinnitus"	1.0	1.0	1.0
+"Chemodectoma"	1.0	1.0	1.0
+"Loss of voice"	0.0	1.0	1.0
+"Elevated circulating catecholamine level"	0.0	1.0	1.0

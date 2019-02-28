@@ -1,0 +1,12 @@
+	"MONDO.0008437"	"MONDO.0008721"	"MONDO.0009336"	"MONDO.0010123"
+"Coma"	0.0	0.0	1.0	0.0
+"Dysphasia"	0.0	0.0	1.0	0.0
+"Acute kidney injury"	0.0	0.0	1.0	0.0
+"Purpura"	0.0	0.0	1.0	0.0
+"Hyperlipidemia"	0.0	0.0	1.0	0.0
+"Schistocytosis"	0.0	0.0	1.0	1.0
+"Decreased serum complement factor I"	0.0	0.0	1.0	0.0
+"Decreased serum complement factor H"	0.0	0.0	1.0	0.0
+"Decreased serum complement factor B"	0.0	0.0	1.0	0.0
+"Decreased serum complement C3"	0.0	0.0	1.0	0.0
+"Anuria"	0.0	0.0	1.0	0.0

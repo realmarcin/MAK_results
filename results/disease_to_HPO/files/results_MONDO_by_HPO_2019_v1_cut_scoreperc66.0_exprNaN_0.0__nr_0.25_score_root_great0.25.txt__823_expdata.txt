@@ -1,0 +1,5 @@
+	"MONDO.0007523"	"MONDO.0008463"	"MONDO.0010100"	"MONDO.0012640"	"MONDO.0013829"	"MONDO.0060533"
+"Narrow maxilla"	1.0	1.0	0.0	1.0	0.0	1.0
+"Glabellar reflex"	0.0	0.0	1.0	1.0	1.0	0.0
+"HP:0012662"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of jaw muscles"	0.0	0.0	0.0	1.0	0.0	0.0

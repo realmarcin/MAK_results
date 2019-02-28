@@ -1,0 +1,7 @@
+"x"
+"1" "Testicular neoplasm"
+"2" "Parathyroid carcinoma"
+"3" "Infantile hypercalcemia"
+"4" "Thyroid carcinoma"
+"5" "Renal hamartoma"
+"6" "Renal cortical adenoma"

@@ -1,0 +1,4 @@
+"x"
+"1" "Malabsorption of Vitamin B12"
+"2" "Absence of intrinsic factor"
+"3" "Megaloblastic erythroid hyperplasia"

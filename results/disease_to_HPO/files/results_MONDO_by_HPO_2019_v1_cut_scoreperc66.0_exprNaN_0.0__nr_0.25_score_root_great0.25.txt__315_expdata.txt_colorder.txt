@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Delayed speech and language development"
+"3" "EEG abnormality"
+"4" "Dysarthria"
+"5" "Generalized myoclonic seizures"
+"6" "Gait ataxia"
+"7" "Tremor"

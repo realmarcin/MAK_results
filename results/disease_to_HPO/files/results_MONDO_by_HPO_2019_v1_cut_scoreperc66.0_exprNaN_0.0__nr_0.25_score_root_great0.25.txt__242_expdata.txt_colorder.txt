@@ -1,0 +1,8 @@
+"x"
+"1" "Elevated serum creatine phosphokinase"
+"2" "Skeletal muscle atrophy"
+"3" "Myopathy"
+"4" "HP:0003677"
+"5" "Difficulty walking"
+"6" "Difficulty running"
+"7" "Gowers sign"

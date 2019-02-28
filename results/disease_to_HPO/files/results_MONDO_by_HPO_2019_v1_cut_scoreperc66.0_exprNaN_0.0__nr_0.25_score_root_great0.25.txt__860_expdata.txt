@@ -1,0 +1,6 @@
+	"MONDO.0010527"	"MONDO.0011018"	"MONDO.0012112"	"MONDO.0012113"	"MONDO.0013072"	"MONDO.0013292"
+"Left ventricular septal hypertrophy"	1.0	0.0	0.0	1.0	1.0	1.0
+"T-wave inversion"	0.0	1.0	1.0	1.0	0.0	1.0
+"HP:0031319"	0.0	0.0	0.0	0.0	0.0	1.0
+"Decreased muscle glycogen content"	0.0	0.0	0.0	0.0	0.0	1.0
+"HP:0040014"	0.0	0.0	0.0	0.0	0.0	1.0

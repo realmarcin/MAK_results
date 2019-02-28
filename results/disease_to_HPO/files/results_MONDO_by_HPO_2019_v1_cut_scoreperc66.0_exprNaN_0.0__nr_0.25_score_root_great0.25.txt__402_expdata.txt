@@ -1,0 +1,7 @@
+	"MONDO.0009296"	"MONDO.0010283"	"MONDO.0010363"	"MONDO.0010393"	"MONDO.0010783"
+"Hemolytic anemia"	1.0	0.0	0.0	1.0	0.0
+"Exercise-induced muscle cramps"	1.0	1.0	0.0	1.0	0.0
+"Exercise intolerance"	1.0	1.0	1.0	1.0	0.0
+"Reticulocytosis"	1.0	0.0	0.0	1.0	0.0
+"Exercise-induced myoglobinuria"	1.0	0.0	1.0	1.0	0.0
+"Increased muscle glycogen content"	1.0	0.0	0.0	0.0	1.0

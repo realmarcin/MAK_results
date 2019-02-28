@@ -1,0 +1,6 @@
+	"MONDO.0009246"	"MONDO.0009247"	"MONDO.0010554"	"MONDO.0011176"
+"Concentric hypertrophic cardiomyopathy"	0.0	1.0	1.0	1.0
+"Abnormal echocardiogram"	1.0	1.0	1.0	1.0
+"Decreased pyruvate carboxylase activity"	1.0	1.0	1.0	1.0
+"Mitochondrial malic enzyme reduced"	1.0	1.0	1.0	1.0
+"Diabetic ketoacidosis"	0.0	1.0	1.0	1.0

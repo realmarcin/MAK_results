@@ -1,0 +1,6 @@
+"x"
+"1" "Multiple enchondromatosis"
+"2" "Chondrosarcoma"
+"3" "Abnormality of long bone morphology"
+"4" "Hemangiomatosis"
+"5" "Neoplasm of the adrenal cortex"

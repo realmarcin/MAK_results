@@ -1,0 +1,11 @@
+	"MONDO.0013891"	"MONDO.0014755"	"MONDO.0014960"	"MONDO.0010666"
+"Oligohydramnios"	0.0	1.0	0.0	0.0
+"Intrauterine growth retardation"	0.0	1.0	0.0	0.0
+"Polyneuropathy"	0.0	1.0	0.0	0.0
+"Renal dysplasia"	0.0	1.0	0.0	0.0
+"HP:0008897"	0.0	1.0	0.0	0.0
+"Peripheral demyelination"	0.0	1.0	0.0	0.0
+"Pain"	0.0	1.0	0.0	0.0
+"Small for gestational age"	0.0	1.0	0.0	0.0
+"Elevated serum creatinine"	0.0	1.0	0.0	0.0
+"Abnormal renal corticomedullary differentiation"	0.0	1.0	0.0	0.0

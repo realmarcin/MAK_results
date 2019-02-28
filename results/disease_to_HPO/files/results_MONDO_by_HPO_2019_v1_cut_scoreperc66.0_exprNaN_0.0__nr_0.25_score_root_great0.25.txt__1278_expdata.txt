@@ -1,0 +1,16 @@
+	"MONDO.0008751"	"MONDO.0010412"	"MONDO.0011129"	"MONDO.0014029"
+"Long philtrum"	0.0	0.0	1.0	0.0
+"Wide nasal bridge"	0.0	0.0	1.0	0.0
+"Webbed neck"	0.0	0.0	1.0	0.0
+"Triangular face"	0.0	0.0	1.0	0.0
+"Absent phalangeal crease"	0.0	0.0	1.0	0.0
+"Tarsal synostosis"	0.0	0.0	1.0	0.0
+"Narrow face"	0.0	0.0	1.0	0.0
+"Abnormality of the ear"	0.0	0.0	1.0	0.0
+"Ulnar deviation of the wrist"	0.0	0.0	1.0	0.0
+"Vertebral segmentation defect"	0.0	0.0	1.0	0.0
+"Overlapping fingers"	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the radius"	0.0	0.0	1.0	0.0
+"Prominent nasolabial fold"	0.0	0.0	1.0	0.0
+"Abnormality of the hip bone"	0.0	0.0	1.0	0.0
+"Round ear"	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+	"MONDO.0008559"	"MONDO.0008964"	"MONDO.0009212"	"MONDO.0009892"	"MONDO.0010120"	"MONDO.0013362"
+"Hyperextensible skin"	0.0	0.0	0.0	0.0	0.0	0.0
+"Gastrointestinal hemorrhage"	1.0	1.0	1.0	1.0	1.0	1.0
+"Bruising susceptibility"	1.0	1.0	1.0	1.0	1.0	1.0
+"Gingival bleeding"	1.0	1.0	1.0	1.0	1.0	1.0
+"Epistaxis"	1.0	1.0	1.0	1.0	1.0	1.0

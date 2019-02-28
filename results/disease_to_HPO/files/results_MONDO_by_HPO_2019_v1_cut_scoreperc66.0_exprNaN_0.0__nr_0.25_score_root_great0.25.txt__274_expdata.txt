@@ -1,0 +1,8 @@
+	"MONDO.0007612"	"MONDO.0009080"	"MONDO.0013660"	"MONDO.0014405"	"MONDO.0014781"
+"Brachydactyly"	0.0	1.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0	0.0
+"Small nail"	1.0	0.0	1.0	0.0	0.0
+"Vesicoureteral reflux"	0.0	0.0	1.0	1.0	0.0
+"Short distal phalanx of finger"	1.0	1.0	1.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0007534"	"MONDO.0008167"	"MONDO.0008242"	"MONDO.0008367"	"MONDO.0009949"	"MONDO.0013536"
+"HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0
+"HP:0001425"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hemolytic anemia"	0.0	1.0	1.0	0.0	1.0	0.0
+"Elliptocytosis"	1.0	1.0	0.0	1.0	1.0	1.0
+"Anemia of inadequate production"	0.0	1.0	0.0	0.0	0.0	0.0
+"Glyoxalase deficiency"	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Self-mutilation"
+"2" "Abnormality of the kidney"
+"3" "Short attention span"
+"4" "Facial grimacing"
+"5" "High axial triradius"

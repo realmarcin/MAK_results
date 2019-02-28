@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0009231"	"MONDO.0011984"	"MONDO.0012055"
+"Abnormality of the thorax"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Joint contracture of the hand"	0.0	1.0	0.0	0.0
+"Abnormality of the liver"	0.0	1.0	0.0	0.0
+"HP:0100490"	0.0	1.0	0.0	0.0
+"Abnormality of the neck"	0.0	1.0	0.0	0.0
+"HP:0100646"	0.0	1.0	1.0	0.0
+"Retroperitoneal fibrosis"	0.0	1.0	0.0	0.0
+"Sclerosing cholangitis"	0.0	1.0	0.0	0.0

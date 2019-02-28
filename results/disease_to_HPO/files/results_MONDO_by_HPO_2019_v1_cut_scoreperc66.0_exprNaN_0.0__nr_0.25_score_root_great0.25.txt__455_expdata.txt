@@ -1,0 +1,5 @@
+	"MONDO.0009040"	"MONDO.0024264"	"MONDO.0009998"	"MONDO.0010010"
+"Midface capillary hemangioma"	1.0	0.0	1.0	1.0
+"Frontal encephalocele"	0.0	1.0	1.0	0.0
+"Premature separation of centromeric heterochromatin"	0.0	0.0	1.0	1.0
+"Tetraphocomelia"	0.0	0.0	1.0	0.0

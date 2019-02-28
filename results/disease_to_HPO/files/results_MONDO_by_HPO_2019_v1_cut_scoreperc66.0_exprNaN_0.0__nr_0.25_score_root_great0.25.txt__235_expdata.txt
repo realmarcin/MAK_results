@@ -1,0 +1,11 @@
+	"MONDO.0008714"	"MONDO.0009570"	"MONDO.0010423"	"MONDO.0011473"
+"HP:0001596"	1.0	0.0	1.0	1.0
+"Failure to thrive"	1.0	1.0	1.0	1.0
+"Dry skin"	1.0	0.0	0.0	1.0
+"Blepharitis"	1.0	0.0	0.0	1.0
+"Irritability"	1.0	1.0	0.0	0.0
+"Chronic diarrhea"	1.0	0.0	1.0	1.0
+"Furrowed tongue"	1.0	0.0	0.0	1.0
+"Weight loss"	1.0	0.0	1.0	0.0
+"Abnormality of the eyebrow"	1.0	0.0	0.0	1.0
+"Skin ulcer"	1.0	0.0	1.0	1.0

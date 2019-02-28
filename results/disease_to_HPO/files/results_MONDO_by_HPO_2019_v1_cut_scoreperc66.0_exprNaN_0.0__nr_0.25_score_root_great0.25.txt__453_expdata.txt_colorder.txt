@@ -1,0 +1,4 @@
+"x"
+"1" "Progressive distal muscular atrophy"
+"2" "Progressive choreoathetosis"
+"3" "Self-mutilation of tongue and lips due to involuntary movements"

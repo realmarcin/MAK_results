@@ -1,0 +1,8 @@
+"x"
+"1" "Nail dysplasia"
+"2" "Abnormality of female internal genitalia"
+"3" "Urinary bladder inflammation"
+"4" "Type B brachydactyly"
+"5" "Aplasia/Hypoplasia of the distal phalanges of the hand"
+"6" "Palmar hyperhidrosis"
+"7" "Urethral obstruction"

@@ -1,0 +1,8 @@
+"x"
+"1" "Palpitations"
+"2" "HP:0003745"
+"3" "Muscle weakness"
+"4" "Goiter"
+"5" "Hypokalemia"
+"6" "Hyperthyroidism"
+"7" "Periodic paralysis"

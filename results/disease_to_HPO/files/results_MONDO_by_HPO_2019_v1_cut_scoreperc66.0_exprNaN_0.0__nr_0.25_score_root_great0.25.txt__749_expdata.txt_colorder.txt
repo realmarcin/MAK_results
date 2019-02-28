@@ -1,0 +1,8 @@
+"x"
+"1" "Abnormal joint morphology"
+"2" "Low-set ears"
+"3" "Cardiomegaly"
+"4" "Polyhydramnios"
+"5" "Neonatal death"
+"6" "Stillbirth"
+"7" "Nonimmune hydrops fetalis"

@@ -1,0 +1,10 @@
+	"MONDO.0008022"	"MONDO.0014048"	"MONDO.0014049"	"MONDO.0033373"
+"Micrognathia"	1.0	1.0	1.0	1.0
+"Webbed neck"	0.0	0.0	0.0	1.0
+"Knee dislocation"	0.0	0.0	0.0	1.0
+"Squared iliac bones"	0.0	0.0	0.0	1.0
+"Bilateral ptosis"	0.0	0.0	0.0	1.0
+"Shoulder dislocation"	0.0	0.0	0.0	1.0
+"Thin eyebrow"	0.0	0.0	0.0	1.0
+"Ventral hernia"	0.0	0.0	0.0	1.0
+"HP:0025232"	0.0	0.0	0.0	1.0

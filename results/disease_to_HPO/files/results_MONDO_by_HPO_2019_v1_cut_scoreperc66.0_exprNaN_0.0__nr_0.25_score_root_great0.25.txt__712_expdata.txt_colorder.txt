@@ -1,0 +1,7 @@
+"x"
+"1" "Abnormality of the skin"
+"2" "HP:0000007"
+"3" "Abnormality of the thorax"
+"4" "Abnormality of the respiratory system"
+"5" "Limitation of joint mobility"
+"6" "Contractures of the joints of the lower limbs"

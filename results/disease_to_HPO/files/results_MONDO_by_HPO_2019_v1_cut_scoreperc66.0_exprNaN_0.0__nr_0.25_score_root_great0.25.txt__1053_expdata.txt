@@ -1,0 +1,7 @@
+	"MONDO.0007773"	"MONDO.0008224"	"MONDO.0008370"	"MONDO.0009968"	"MONDO.0011423"	"MONDO.0013235"
+"Hyperchloremic acidosis"	1.0	0.0	1.0	0.0	1.0	0.0
+"Periodic hyperkalemic paralysis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Episodic flaccid weakness"	0.0	1.0	0.0	0.0	0.0	1.0
+"Periodic paralysis"	0.0	0.0	0.0	1.0	0.0	1.0
+"Bicarbonate-wasting renal tubular acidosis"	0.0	0.0	0.0	1.0	1.0	0.0
+"Increased red cell osmotic resistance"	0.0	0.0	0.0	0.0	1.0	0.0

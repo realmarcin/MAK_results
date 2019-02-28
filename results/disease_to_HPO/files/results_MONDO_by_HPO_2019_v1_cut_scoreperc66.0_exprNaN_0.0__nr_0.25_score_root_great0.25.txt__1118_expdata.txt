@@ -1,0 +1,8 @@
+	"MONDO.0013910"	"MONDO.0014116"	"MONDO.0014220"	"MONDO.0014274"	"MONDO.0014304"	"MONDO.0014997"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Alacrima"	0.0	0.0	1.0	0.0	0.0	0.0
+"Anisocoria"	0.0	0.0	1.0	0.0	0.0	0.0
+"Nasal speech"	0.0	0.0	1.0	0.0	0.0	0.0
+"Sensory impairment"	0.0	0.0	1.0	0.0	0.0	0.0
+"Orthostatic hypotension"	0.0	0.0	1.0	0.0	0.0	0.0
+"Achalasia"	0.0	0.0	1.0	0.0	0.0	0.0

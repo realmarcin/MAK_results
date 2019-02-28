@@ -1,0 +1,7 @@
+	"MONDO.0008048"	"MONDO.0010248"	"MONDO.0010531"	"MONDO.0010849"	"MONDO.0011300"	"MONDO.0013595"
+"Clumsiness"	1.0	0.0	0.0	0.0	1.0	0.0
+"Slow saccadic eye movements"	0.0	0.0	0.0	0.0	1.0	1.0
+"Intention tremor"	0.0	0.0	1.0	1.0	0.0	1.0
+"Dysmetria"	0.0	0.0	1.0	1.0	1.0	1.0
+"Incoordination"	1.0	1.0	1.0	1.0	1.0	1.0
+"Slurred speech"	1.0	1.0	0.0	1.0	1.0	0.0

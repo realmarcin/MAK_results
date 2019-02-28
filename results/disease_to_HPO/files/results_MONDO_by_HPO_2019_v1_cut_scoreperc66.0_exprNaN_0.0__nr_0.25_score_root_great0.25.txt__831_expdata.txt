@@ -1,0 +1,9 @@
+	"MONDO.0011047"	"MONDO.0011421"	"MONDO.0014059"	"MONDO.0014421"
+"HP:0000007"	1.0	0.0	1.0	0.0
+"Short stature"	1.0	1.0	1.0	0.0
+"Triangular face"	1.0	0.0	0.0	0.0
+"Relative macrocephaly"	1.0	0.0	1.0	0.0
+"Microretrognathia"	1.0	0.0	0.0	0.0
+"Delayed epiphyseal ossification"	1.0	0.0	0.0	0.0
+"HP:0025369"	1.0	0.0	0.0	0.0
+"Calcification of cartilage"	1.0	0.0	0.0	0.0

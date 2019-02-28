@@ -1,0 +1,9 @@
+	"MONDO.0007143"	"MONDO.0009201"	"MONDO.0010355"
+"Aplasia/Hypoplasia of the 3rd toe"	1.0	0.0	0.0
+"2-4 finger syndactyly"	1.0	1.0	0.0
+"Satyr ear"	1.0	0.0	0.0
+"Stahl ear"	1.0	0.0	1.0
+"Hypermobility of interphalangeal joints"	0.0	1.0	0.0
+"Hyperextensible skin of face"	0.0	1.0	0.0
+"Hyperextensible skin of chest"	0.0	1.0	0.0
+"Partial duplication of eyebrows"	0.0	1.0	0.0

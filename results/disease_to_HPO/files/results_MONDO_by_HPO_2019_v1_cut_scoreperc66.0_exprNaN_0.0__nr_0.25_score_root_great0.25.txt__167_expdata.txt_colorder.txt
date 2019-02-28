@@ -1,0 +1,6 @@
+"x"
+"1" "Respiratory alkalosis"
+"2" "Protein avoidance"
+"3" "Episodic ammonia intoxication"
+"4" "Hyperglutaminemia"
+"5" "Hypoargininemia"

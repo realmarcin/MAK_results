@@ -1,0 +1,6 @@
+"x"
+"1" "Motor delay"
+"2" "Intellectual disability, moderate"
+"3" "HP:0000007"
+"4" "Aggressive behavior"
+"5" "Absent speech"

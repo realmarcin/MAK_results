@@ -1,0 +1,20 @@
+	"MONDO.0008414"	"MONDO.0008416"	"MONDO.0011553"
+"Hypertelorism"	0.0	1.0	0.0
+"Syndactyly"	0.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0
+"Frontal bossing"	0.0	1.0	0.0
+"Short stature"	0.0	1.0	0.0
+"Hallucinations"	1.0	1.0	1.0
+"Delusions"	1.0	1.0	1.0
+"EEG abnormality"	1.0	0.0	0.0
+"Flat occiput"	0.0	1.0	0.0
+"Protruding ear"	0.0	1.0	0.0
+"Mask-like facies"	0.0	0.0	1.0
+"Renal agenesis"	0.0	1.0	0.0
+"Ectopic kidney"	0.0	1.0	0.0
+"Schizophrenia"	1.0	1.0	1.0
+"Psychotic episodes"	0.0	0.0	1.0
+"Social and occupational deterioration"	1.0	1.0	0.0
+"Partially duplicated kidney"	0.0	1.0	0.0
+"HP:0100396"	0.0	1.0	0.0
+"Disturbance of facial expression"	0.0	0.0	1.0

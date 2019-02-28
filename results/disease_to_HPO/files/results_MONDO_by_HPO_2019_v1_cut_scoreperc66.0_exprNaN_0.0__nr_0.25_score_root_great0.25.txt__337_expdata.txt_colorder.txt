@@ -1,0 +1,6 @@
+"x"
+"1" "Pulmonary fibrosis"
+"2" "Restrictive ventilatory defect"
+"3" "Chronic otitis media"
+"4" "Glomerulopathy"
+"5" "Diabetes insipidus"

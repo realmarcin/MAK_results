@@ -1,0 +1,10 @@
+	"MONDO.0008012"	"MONDO.0008390"	"MONDO.0009151"	"MONDO.0009182"	"MONDO.0009443"	"MONDO.0010001"	"MONDO.0011885"	"MONDO.0013019"	"MONDO.0013523"	"MONDO.0014311"
+"Nail dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Hypoplastic labia majora"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Nevus flammeus"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Clitoral hypoplasia"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Renal duplication"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Right ventricular outlet obstruction"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bifid distal phalanx of toe"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Duplication of the distal phalanx of hand"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Bifid tongue"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

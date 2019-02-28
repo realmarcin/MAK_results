@@ -1,0 +1,8 @@
+	"MONDO.0009690"	"MONDO.0009691"	"MONDO.0011601"	"MONDO.0012157"	"MONDO.0014582"	"MONDO.0014589"
+"Ptosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Bulbar palsy"	1.0	1.0	1.0	1.0	0.0	0.0
+"HP:0003577"	1.0	0.0	1.0	0.0	1.0	1.0
+"Respiratory insufficiency due to muscle weakness"	1.0	1.0	1.0	1.0	0.0	0.0
+"Ophthalmoparesis"	1.0	1.0	1.0	1.0	0.0	0.0
+"Poor suck"	1.0	0.0	1.0	1.0	0.0	0.0
+"Decreased miniature endplate potentials"	1.0	0.0	1.0	1.0	0.0	0.0

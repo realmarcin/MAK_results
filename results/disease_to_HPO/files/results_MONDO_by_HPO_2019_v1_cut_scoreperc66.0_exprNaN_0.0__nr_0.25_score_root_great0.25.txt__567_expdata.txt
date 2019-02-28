@@ -1,0 +1,7 @@
+	"MONDO.0007193"	"MONDO.0008318"	"MONDO.0012124"	"MONDO.0012861"	"MONDO.0012869"	"MONDO.0013793"	"MONDO.0014798"
+"Superficial thrombophlebitis"	1.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Warfarin-induced skin necrosis"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Cerebral venous thrombosis"	0.0	1.0	0.0	0.0	1.0	1.0	0.0
+"Reduced protein C activity"	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+"Hypercoagulability"	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+"Reduced protein S activity"	0.0	0.0	1.0	0.0	1.0	1.0	0.0

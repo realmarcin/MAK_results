@@ -1,0 +1,7 @@
+	"MONDO.0007109"	"MONDO.0009479"	"MONDO.0010423"	"MONDO.0011226"	"MONDO.0013172"
+"Anal canal squamous carcinoma"	1.0	1.0	0.0	0.0	0.0
+"Severe viral infections"	0.0	1.0	0.0	0.0	0.0
+"Cerebral vasculitis"	0.0	1.0	0.0	0.0	1.0
+"Lymph node hypoplasia"	0.0	0.0	1.0	1.0	1.0
+"HP:0005372"	0.0	0.0	0.0	0.0	1.0
+"Squamous cell carcinoma of the vulva"	0.0	1.0	0.0	0.0	0.0

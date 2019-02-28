@@ -1,0 +1,8 @@
+"x"
+"1" "Synophrys"
+"2" "Thin upper lip vermilion"
+"3" "Downturned corners of mouth"
+"4" "Posteriorly rotated ears"
+"5" "Deeply set eye"
+"6" "Upslanted palpebral fissure"
+"7" "Short philtrum"

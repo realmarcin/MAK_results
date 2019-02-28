@@ -1,0 +1,9 @@
+	"MONDO.0007293"	"MONDO.0007328"	"MONDO.0010972"	"MONDO.0012349"	"MONDO.0013826"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Diarrhea"	0.0	0.0	0.0	0.0	1.0
+"Abdominal pain"	1.0	1.0	1.0	1.0	1.0
+"Multicystic kidney dysplasia"	0.0	0.0	1.0	0.0	0.0
+"Maturity-onset diabetes of the young"	0.0	0.0	0.0	1.0	0.0
+"Microscopic hematuria"	0.0	0.0	1.0	0.0	0.0
+"Vitamin B12 deficiency"	0.0	0.0	0.0	0.0	1.0
+"Abnormality of exocrine pancreas physiology"	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Esophageal atresia"
+"2" "Tracheoesophageal fistula"
+"3" "Peters anomaly"
+"4" "Cleft soft palate"
+"5" "Facial hypotonia"

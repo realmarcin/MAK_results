@@ -1,0 +1,7 @@
+"x"
+"1" "Nail dystrophy"
+"2" "Nail dysplasia"
+"3" "Palmoplantar hyperhidrosis"
+"4" "Epidermoid cyst"
+"5" "Dry hair"
+"6" "Steatocystoma multiplex"

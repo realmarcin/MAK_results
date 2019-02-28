@@ -1,0 +1,8 @@
+	"MONDO.0010059"	"MONDO.0013289"	"MONDO.0014277"	"MONDO.0014457"	"MONDO.0014991"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Recurrent otitis media"	0.0	1.0	1.0	1.0	0.0
+"Failure to thrive"	0.0	1.0	1.0	1.0	0.0
+"Autoimmune hemolytic anemia"	0.0	0.0	1.0	0.0	0.0
+"Eczema"	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the intestine"	0.0	0.0	1.0	0.0	0.0
+"Decreased number of CD8+ T cells"	0.0	0.0	1.0	0.0	0.0

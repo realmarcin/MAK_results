@@ -1,0 +1,8 @@
+	"MONDO.0008140"	"MONDO.0010555"	"MONDO.0010993"	"MONDO.0011643"	"MONDO.0033258"	"MONDO.0013668"
+"Brachydactyly"	0.0	1.0	1.0	1.0	1.0	0.0
+"Toe syndactyly"	0.0	1.0	0.0	0.0	0.0	0.0
+"Radioulnar synostosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Clinodactyly of the 5th finger"	1.0	0.0	0.0	0.0	1.0	1.0
+"Short stature"	1.0	1.0	1.0	1.0	0.0	1.0
+"Finger syndactyly"	0.0	0.0	0.0	0.0	0.0	1.0
+"Increased mean corpuscular volume"	1.0	0.0	0.0	0.0	0.0	0.0

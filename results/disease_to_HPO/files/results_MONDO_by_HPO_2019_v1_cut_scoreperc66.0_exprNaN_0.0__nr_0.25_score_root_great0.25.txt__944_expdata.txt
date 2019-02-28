@@ -1,0 +1,6 @@
+	"MONDO.0008365"	"MONDO.0008577"	"MONDO.0008578"	"MONDO.0008654"	"MONDO.0010114"	"MONDO.0010876"
+"HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
+"Peripheral neuropathy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Vesicoureteral reflux"	0.0	0.0	0.0	1.0	0.0	0.0
+"Raynaud phenomenon"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the skeletal system"	1.0	1.0	1.0	1.0	1.0	1.0

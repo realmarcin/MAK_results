@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0002878"
+"2" "Decreased fetal movement"
+"3" "Polyhydramnios"
+"4" "External ophthalmoplegia"
+"5" "Cavernous hemangioma"
+"6" "Myopathic facies"

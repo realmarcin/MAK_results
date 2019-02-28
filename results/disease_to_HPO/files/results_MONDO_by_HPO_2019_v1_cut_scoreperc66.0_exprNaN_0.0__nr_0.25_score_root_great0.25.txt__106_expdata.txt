@@ -1,0 +1,9 @@
+	"MONDO.0011439"	"MONDO.0013533"	"MONDO.0014812"
+"Hypertelorism"	1.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0
+"Seizures"	0.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0
+"Micrognathia"	1.0	0.0	1.0
+"Delayed speech and language development"	1.0	0.0	1.0
+"Cerebral atrophy"	0.0	1.0	1.0

@@ -1,0 +1,9 @@
+	"MONDO.0007052"	"MONDO.0008093"	"MONDO.0010562"	"MONDO.0011878"	"MONDO.0011879"	"MONDO.0020851"
+"Large hands"	1.0	0.0	1.0	0.0	0.0	0.0
+"Tapered finger"	1.0	0.0	1.0	0.0	0.0	0.0
+"Highly arched eyebrow"	1.0	0.0	1.0	0.0	0.0	0.0
+"Thick lower lip vermilion"	1.0	0.0	1.0	0.0	0.0	0.0
+"Thick eyebrow"	1.0	0.0	1.0	0.0	0.0	0.0
+"Everted lower lip vermilion"	1.0	0.0	1.0	0.0	0.0	0.0
+"Craniofacial hyperostosis"	1.0	0.0	1.0	0.0	0.0	0.0
+"Thick nasal alae"	1.0	0.0	1.0	0.0	0.0	0.0

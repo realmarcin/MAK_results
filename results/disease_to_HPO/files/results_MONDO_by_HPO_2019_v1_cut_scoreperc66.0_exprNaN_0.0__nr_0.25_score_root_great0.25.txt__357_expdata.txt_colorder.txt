@@ -1,0 +1,4 @@
+"x"
+"1" "Fetal distress"
+"2" "Abnormal liver function tests during pregnancy"
+"3" "Increased serum bile acid concentration during pregnancy"

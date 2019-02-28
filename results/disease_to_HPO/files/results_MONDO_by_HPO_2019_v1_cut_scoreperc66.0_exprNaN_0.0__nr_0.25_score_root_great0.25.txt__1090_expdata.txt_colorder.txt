@@ -1,0 +1,7 @@
+"x"
+"1" "Bowel incontinence"
+"2" "Recurrent urinary tract infections"
+"3" "Microcephaly"
+"4" "Arachnodactyly"
+"5" "Short stature"
+"6" "Abnormality of the periventricular white matter"

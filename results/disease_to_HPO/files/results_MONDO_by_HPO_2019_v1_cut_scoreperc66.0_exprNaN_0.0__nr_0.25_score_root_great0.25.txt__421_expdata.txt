@@ -1,0 +1,9 @@
+	"MONDO.0009712"	"MONDO.0009713"	"MONDO.0010261"	"MONDO.0014419"	"MONDO.0014897"
+"Motor delay"	1.0	1.0	0.0	1.0	1.0
+"Facial palsy"	1.0	1.0	0.0	1.0	0.0
+"Hip contracture"	1.0	0.0	1.0	1.0	0.0
+"Knee flexion contracture"	1.0	0.0	1.0	0.0	0.0
+"Ankle contracture"	1.0	0.0	1.0	0.0	0.0
+"Respiratory insufficiency"	1.0	1.0	0.0	1.0	0.0
+"Tented upper lip vermilion"	1.0	1.0	0.0	0.0	0.0
+"Type 1 muscle fiber atrophy"	1.0	1.0	0.0	0.0	0.0

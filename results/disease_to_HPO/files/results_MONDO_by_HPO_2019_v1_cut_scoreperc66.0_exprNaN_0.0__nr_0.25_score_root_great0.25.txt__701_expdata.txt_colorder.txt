@@ -1,0 +1,8 @@
+"x"
+"1" "Joint laxity"
+"2" "Thin vermilion border"
+"3" "Coarse hair"
+"4" "Decreased muscle mass"
+"5" "Epiphyseal dysplasia"
+"6" "Enlarged joints"
+"7" "Complex palmar dermatoglyphic pattern"

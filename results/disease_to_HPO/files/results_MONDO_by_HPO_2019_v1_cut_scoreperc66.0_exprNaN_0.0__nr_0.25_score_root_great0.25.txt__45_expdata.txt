@@ -1,0 +1,9 @@
+	"MONDO.0015243"	"MONDO.0007292"	"MONDO.0013360"	"MONDO.0014201"	"MONDO.0018473"
+"Tinnitus"	1.0	0.0	1.0	1.0	1.0
+"Headache"	1.0	1.0	1.0	1.0	1.0
+"Adrenal hyperplasia"	1.0	0.0	1.0	1.0	1.0
+"Intracranial hemorrhage"	1.0	1.0	1.0	1.0	1.0
+"Nausea"	1.0	0.0	1.0	1.0	1.0
+"Epistaxis"	1.0	0.0	1.0	1.0	1.0
+"Hypokalemia"	1.0	0.0	1.0	1.0	1.0
+"Abnormal circulating renin"	1.0	0.0	1.0	1.0	1.0

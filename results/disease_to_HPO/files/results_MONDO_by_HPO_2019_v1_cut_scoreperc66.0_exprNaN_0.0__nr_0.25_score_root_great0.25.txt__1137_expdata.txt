@@ -1,0 +1,10 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0010836"	"MONDO.0014236"
+"Epicanthus inversus"	0.0	0.0	1.0	1.0
+"Broad distal phalanx of finger"	0.0	0.0	1.0	0.0
+"Proximal placement of thumb"	0.0	0.0	1.0	0.0
+"Enlarged interphalangeal joints"	0.0	0.0	1.0	0.0
+"Edema of the dorsum of hands"	0.0	0.0	1.0	0.0
+"Edema of the dorsum of feet"	0.0	0.0	1.0	0.0
+"HP:0009662"	0.0	0.0	1.0	0.0
+"HP:0025537"	0.0	0.0	1.0	0.0
+"HP:0025538"	0.0	0.0	1.0	0.0

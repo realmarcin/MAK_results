@@ -1,0 +1,9 @@
+	"MONDO.0009718"	"MONDO.0010087"	"MONDO.0010117"	"MONDO.0010894"
+"HP:0000007"	1.0	0.0	1.0	0.0
+"Short neck"	1.0	0.0	1.0	0.0
+"Flat face"	1.0	0.0	1.0	0.0
+"Genu valgum"	1.0	0.0	1.0	0.0
+"Gait disturbance"	1.0	0.0	1.0	0.0
+"Elbow dislocation"	1.0	0.0	1.0	0.0
+"Hyperlordosis"	1.0	0.0	1.0	0.0
+"Abnormality of the metaphysis"	1.0	0.0	1.0	0.0

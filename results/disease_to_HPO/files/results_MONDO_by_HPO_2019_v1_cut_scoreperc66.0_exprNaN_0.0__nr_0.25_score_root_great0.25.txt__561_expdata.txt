@@ -1,0 +1,9 @@
+	"MONDO.0011428"	"MONDO.0012206"	"MONDO.0012713"	"MONDO.0012897"	"MONDO.0013646"	"MONDO.0015004"
+"HP:0000007"	1.0	0.0	1.0	1.0	1.0	1.0
+"Abnormality of the eye"	0.0	0.0	1.0	0.0	0.0	0.0
+"Brisk reflexes"	0.0	0.0	1.0	0.0	0.0	0.0
+"Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0
+"Dysphagia"	0.0	1.0	1.0	0.0	1.0	1.0
+"Gaze-evoked horizontal nystagmus"	0.0	0.0	1.0	0.0	1.0	0.0
+"Dysphonia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Craniofacial dystonia"	0.0	0.0	1.0	0.0	0.0	1.0

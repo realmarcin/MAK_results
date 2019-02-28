@@ -1,0 +1,11 @@
+	"MONDO.0012793"	"MONDO.0013891"	"MONDO.0014960"	"MONDO.0010666"
+"Seizures"	1.0	0.0	0.0	0.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0
+"Gait ataxia"	1.0	0.0	0.0	0.0
+"HP:0003676"	1.0	0.0	0.0	0.0
+"External ophthalmoplegia"	1.0	0.0	0.0	0.0
+"Lactic acidosis"	1.0	0.0	1.0	0.0
+"Aminoaciduria"	1.0	0.0	0.0	0.0
+"Progressive neurologic deterioration"	1.0	0.0	0.0	0.0
+"Cachexia"	1.0	0.0	0.0	0.0
+"Proximal tubulopathy"	1.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0009713"	"MONDO.0010684"	"MONDO.0011437"	"MONDO.0011870"	"MONDO.0014776"	"MONDO.0014808"
+"Polyhydramnios"	1.0	1.0	0.0	1.0	1.0	1.0
+"External ophthalmoplegia"	1.0	1.0	0.0	0.0	0.0	0.0
+"Cavernous hemangioma"	0.0	1.0	0.0	0.0	0.0	0.0
+"HP:0002878"	1.0	1.0	1.0	1.0	1.0	1.0
+"Decreased fetal movement"	1.0	1.0	1.0	1.0	1.0	1.0
+"Myopathic facies"	1.0	0.0	0.0	0.0	0.0	0.0

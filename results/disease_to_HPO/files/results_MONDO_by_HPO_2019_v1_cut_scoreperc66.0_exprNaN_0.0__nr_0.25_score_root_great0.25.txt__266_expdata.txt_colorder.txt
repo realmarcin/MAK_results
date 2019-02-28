@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Nail dysplasia"
+"3" "Nail dystrophy"
+"4" "Anonychia"
+"5" "Palmoplantar keratoderma"

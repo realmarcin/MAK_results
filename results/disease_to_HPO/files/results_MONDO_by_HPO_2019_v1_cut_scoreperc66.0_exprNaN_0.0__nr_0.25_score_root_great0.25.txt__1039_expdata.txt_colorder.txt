@@ -1,0 +1,6 @@
+"x"
+"1" "Pruritus"
+"2" "Intrahepatic cholestasis"
+"3" "Fetal distress"
+"4" "Abnormal liver function tests during pregnancy"
+"5" "Increased serum bile acid concentration during pregnancy"

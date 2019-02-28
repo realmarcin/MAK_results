@@ -1,0 +1,14 @@
+	"MONDO.0023807"	"MONDO.0009350"	"MONDO.0012563"	"MONDO.0012565"
+"Bifid uvula"	1.0	0.0	0.0	0.0
+"HP:0001425"	1.0	1.0	0.0	0.0
+"Constipation"	1.0	0.0	0.0	0.0
+"Submucous cleft hard palate"	1.0	0.0	0.0	0.0
+"Hypoglycemia"	0.0	1.0	0.0	0.0
+"Cyclopia"	1.0	1.0	0.0	0.0
+"Proboscis"	1.0	1.0	0.0	0.0
+"Adrenal hypoplasia"	1.0	1.0	0.0	0.0
+"Diabetes insipidus"	1.0	1.0	0.0	0.0
+"Single ventricle"	1.0	1.0	0.0	0.0
+"Aplasia of the nose"	1.0	1.0	0.0	0.0
+"Facial cleft"	0.0	1.0	0.0	0.0
+"Ethmocephaly"	0.0	1.0	0.0	0.0

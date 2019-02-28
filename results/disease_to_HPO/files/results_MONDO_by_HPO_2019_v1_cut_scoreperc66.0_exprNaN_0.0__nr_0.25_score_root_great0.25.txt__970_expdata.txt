@@ -1,0 +1,10 @@
+	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013021"	"MONDO.0013298"
+"Lower limb undergrowth"	0.0	0.0	1.0	0.0
+"Acne"	0.0	0.0	1.0	0.0
+"Short stature"	0.0	1.0	1.0	1.0
+"Hirsutism"	0.0	0.0	1.0	0.0
+"Platyspondyly"	0.0	1.0	1.0	0.0
+"Secondary amenorrhea"	0.0	0.0	1.0	0.0
+"Lumbar scoliosis"	0.0	0.0	1.0	0.0
+"Premature pubarche"	0.0	0.0	1.0	0.0
+"Spondyloepimetaphyseal dysplasia"	0.0	0.0	1.0	0.0

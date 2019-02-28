@@ -1,0 +1,6 @@
+"x"
+"1" "Hypoplasia of the corpus callosum"
+"2" "Ventriculomegaly"
+"3" "Polymicrogyria"
+"4" "Seizures"
+"5" "Pachygyria"

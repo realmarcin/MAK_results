@@ -1,0 +1,12 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"	"MONDO.0027451"
+"Aortic regurgitation"	0.0	0.0	0.0	1.0
+"Knee flexion contracture"	0.0	0.0	0.0	1.0
+"Hip dysplasia"	0.0	0.0	0.0	1.0
+"Pointed chin"	0.0	0.0	0.0	1.0
+"Decreased body weight"	0.0	0.0	0.0	1.0
+"Tricuspid regurgitation"	0.0	0.0	0.0	1.0
+"Laryngomalacia"	0.0	0.0	0.0	1.0
+"Narrow naris"	0.0	0.0	0.0	1.0
+"Biventricular hypertrophy"	0.0	0.0	0.0	1.0
+"Bilateral cryptorchidism"	0.0	0.0	0.0	1.0
+"Broad columella"	0.0	0.0	0.0	1.0

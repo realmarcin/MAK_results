@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0003676"
+"2" "Elevated serum creatine phosphokinase"
+"3" "Hypertrophic cardiomyopathy"
+"4" "Scapular winging"
+"5" "Scapuloperoneal weakness"
+"6" "Back pain"

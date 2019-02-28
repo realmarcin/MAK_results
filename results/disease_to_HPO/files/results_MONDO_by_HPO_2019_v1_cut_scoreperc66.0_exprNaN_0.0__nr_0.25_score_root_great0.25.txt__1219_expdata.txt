@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0010981"	"MONDO.0011984"	"MONDO.0012055"
+"Cleft palate"	0.0	1.0	0.0	0.0
+"Cleft upper lip"	0.0	1.0	0.0	0.0
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Depressed nasal ridge"	0.0	1.0	0.0	0.0
+"Micromelia"	0.0	1.0	0.0	0.0
+"Hypotelorism"	0.0	1.0	0.0	0.0
+"Anterior hypopituitarism"	0.0	1.0	0.0	0.0
+"Overlapping fingers"	0.0	1.0	0.0	0.0
+"Dysplastic corpus callosum"	0.0	1.0	0.0	0.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Abnormality of the ankles"
+"2" "Cleft soft palate"
+"3" "Progressive fusion 2nd-5th pip joints"

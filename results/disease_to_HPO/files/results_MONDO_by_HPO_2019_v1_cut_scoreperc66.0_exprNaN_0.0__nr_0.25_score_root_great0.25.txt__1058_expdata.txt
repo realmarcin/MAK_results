@@ -1,0 +1,10 @@
+	"MONDO.0009946"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0014211"
+"Hepatomegaly"	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	0.0	0.0	1.0
+"Intellectual disability"	1.0	0.0	0.0	0.0
+"Generalized hypotonia"	1.0	0.0	0.0	1.0
+"Cerebral cortical atrophy"	1.0	0.0	0.0	0.0
+"Respiratory distress"	1.0	0.0	0.0	0.0
+"Neonatal respiratory distress"	1.0	0.0	0.0	0.0
+"Fetal distress"	1.0	0.0	0.0	0.0
+"Prenatal movement abnormality"	1.0	0.0	0.0	0.0

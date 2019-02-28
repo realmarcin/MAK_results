@@ -1,0 +1,25 @@
+	"MONDO.0012120"	"MONDO.0014478"	"MONDO.0014506"	"MONDO.0014596"
+"Long philtrum"	1.0	0.0	0.0	0.0
+"Muscular hypotonia"	1.0	0.0	0.0	0.0
+"HP:0003812"	1.0	0.0	0.0	0.0
+"Brachycephaly"	1.0	0.0	0.0	0.0
+"Frontal bossing"	1.0	0.0	0.0	0.0
+"Depressed nasal bridge"	1.0	0.0	0.0	0.0
+"Short nose"	1.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	1.0	0.0	0.0	0.0
+"Abnormality of the cardiac septa"	1.0	0.0	0.0	0.0
+"Skeletal dysplasia"	1.0	0.0	0.0	0.0
+"Cerebellar atrophy"	1.0	0.0	0.0	0.0
+"Wide intermamillary distance"	1.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0
+"Edema"	1.0	0.0	0.0	0.0
+"Abnormal facial shape"	1.0	0.0	0.0	0.0
+"Pericardial effusion"	1.0	0.0	0.0	0.0
+"Hepatosplenomegaly"	1.0	0.0	0.0	0.0
+"Inverted nipples"	1.0	0.0	0.0	0.0
+"Ascites"	1.0	0.0	0.0	0.0
+"Hepatic failure"	1.0	0.0	0.0	0.0
+"Delayed CNS myelination"	1.0	0.0	0.0	0.0
+"Poor speech"	1.0	0.0	0.0	0.0
+"Epileptic encephalopathy"	1.0	1.0	1.0	1.0
+"Global brain atrophy"	1.0	0.0	0.0	0.0

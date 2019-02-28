@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0003676"
+"2" "HP:0000007"
+"3" "Stage 5 chronic kidney disease"
+"4" "Nephronophthisis"
+"5" "HP:0000006"
+"6" "Renal cyst"

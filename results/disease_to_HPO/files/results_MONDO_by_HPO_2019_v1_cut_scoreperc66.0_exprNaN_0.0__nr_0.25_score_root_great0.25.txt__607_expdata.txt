@@ -1,0 +1,7 @@
+	"MONDO.0007806"	"MONDO.0009319"	"MONDO.0010675"	"MONDO.0011610"	"MONDO.0013515"
+"Pectus excavatum"	0.0	1.0	1.0	0.0	0.0
+"Congestive heart failure"	0.0	1.0	1.0	0.0	0.0
+"Obstructive sleep apnea"	0.0	1.0	1.0	0.0	0.0
+"Dolichocephaly"	0.0	1.0	1.0	0.0	0.0
+"Scaphocephaly"	0.0	1.0	1.0	0.0	0.0
+"HP:0004782"	1.0	1.0	0.0	1.0	1.0

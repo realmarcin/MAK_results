@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0000006"
+"2" "Cleft palate"
+"3" "Cleft upper lip"
+"4" "Osteochondritis Dissecans"

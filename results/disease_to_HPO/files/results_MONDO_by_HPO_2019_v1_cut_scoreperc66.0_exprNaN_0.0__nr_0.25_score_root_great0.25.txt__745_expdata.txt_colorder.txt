@@ -1,0 +1,8 @@
+"x"
+"1" "Intellectual disability"
+"2" "Autism"
+"3" "Microcephaly"
+"4" "Global developmental delay"
+"5" "Short stature"
+"6" "Microphallus"
+"7" "HP:0031418"

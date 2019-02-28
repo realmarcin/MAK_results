@@ -1,0 +1,16 @@
+	"MONDO.0024535"	"MONDO.0009280"	"MONDO.0009515"	"MONDO.0009982"	"MONDO.0009984"
+"HP:0003812"	1.0	0.0	1.0	0.0	0.0
+"Absent septum pellucidum"	1.0	0.0	0.0	0.0	0.0
+"Esophageal atresia"	1.0	0.0	0.0	0.0	0.0
+"Abnormality of cardiovascular system morphology"	1.0	0.0	1.0	0.0	0.0
+"Obesity"	1.0	0.0	1.0	1.0	1.0
+"Sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0
+"Short finger"	1.0	0.0	0.0	0.0	0.0
+"Optic nerve hypoplasia"	1.0	0.0	0.0	0.0	0.0
+"Iris coloboma"	0.0	1.0	1.0	0.0	0.0
+"Polydactyly"	1.0	0.0	0.0	0.0	0.0
+"Polydipsia"	1.0	0.0	0.0	0.0	0.0
+"Maternal diabetes"	1.0	0.0	0.0	0.0	0.0
+"Tracheoesophageal fistula"	1.0	0.0	0.0	0.0	0.0
+"Hypoplasia of penis"	1.0	0.0	1.0	1.0	0.0
+"Septo-optic dysplasia"	1.0	0.0	0.0	0.0	0.0

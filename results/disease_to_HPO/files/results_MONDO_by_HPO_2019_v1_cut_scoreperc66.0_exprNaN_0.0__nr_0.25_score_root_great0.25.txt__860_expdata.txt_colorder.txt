@@ -1,0 +1,6 @@
+"x"
+"1" "Left ventricular septal hypertrophy"
+"2" "T-wave inversion"
+"3" "HP:0031319"
+"4" "Decreased muscle glycogen content"
+"5" "HP:0040014"

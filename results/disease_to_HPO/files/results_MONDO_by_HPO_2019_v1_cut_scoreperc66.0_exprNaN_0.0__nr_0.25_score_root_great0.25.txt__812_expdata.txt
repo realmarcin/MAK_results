@@ -1,0 +1,8 @@
+	"MONDO.0009950"	"MONDO.0013970"	"MONDO.0014399"	"MONDO.0014577"	"MONDO.0014849"	"MONDO.0054726"
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0	1.0	1.0
+"Periventricular leukomalacia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Kyphoscoliosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Proximal renal tubular acidosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Neuronal loss in the cerebral cortex"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of movement"	0.0	0.0	0.0	0.0	1.0	0.0

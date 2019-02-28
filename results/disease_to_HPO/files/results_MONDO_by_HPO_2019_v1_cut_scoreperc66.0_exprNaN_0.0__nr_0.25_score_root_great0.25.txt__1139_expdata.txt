@@ -1,0 +1,10 @@
+	"MONDO.0010904"	"MONDO.0012471"	"MONDO.0012592"	"MONDO.0013298"
+"Rhizomelia"	0.0	1.0	0.0	0.0
+"Biconcave vertebral bodies"	0.0	1.0	1.0	0.0
+"Photophobia"	0.0	1.0	0.0	0.0
+"Visual impairment"	0.0	1.0	0.0	0.0
+"Reduced visual acuity"	0.0	1.0	0.0	0.0
+"Amelogenesis imperfecta"	0.0	1.0	0.0	0.0
+"Short humerus"	0.0	1.0	0.0	0.0
+"Short clavicles"	0.0	1.0	0.0	0.0
+"Prominent deltoid tuberosities"	0.0	1.0	0.0	0.0

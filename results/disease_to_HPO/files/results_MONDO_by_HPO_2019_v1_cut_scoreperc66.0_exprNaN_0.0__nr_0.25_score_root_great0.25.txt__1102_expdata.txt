@@ -1,0 +1,10 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0012612"	"MONDO.0013174"	"MONDO.0013883"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0
+"Megalencephaly"	0.0	0.0	1.0	0.0	0.0
+"Premature birth"	0.0	0.0	1.0	0.0	0.0
+"Polyhydramnios"	0.0	0.0	1.0	0.0	0.0
+"Difficulty walking"	0.0	0.0	1.0	0.0	0.0
+"Diabetes insipidus"	0.0	0.0	1.0	0.0	0.0
+"Astrocytosis"	0.0	0.0	1.0	0.0	0.0
+"Large forehead"	0.0	0.0	1.0	0.0	0.0
+"Hyperplasia of midface"	0.0	0.0	1.0	0.0	0.0

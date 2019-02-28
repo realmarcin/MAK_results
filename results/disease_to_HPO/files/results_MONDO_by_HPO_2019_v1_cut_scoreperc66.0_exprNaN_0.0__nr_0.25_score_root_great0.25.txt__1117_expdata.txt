@@ -1,0 +1,8 @@
+	"MONDO.0011423"	"MONDO.0011864"	"MONDO.0011994"	"MONDO.0014296"	"MONDO.0014305"	"MONDO.0014306"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	0.0	0.0	0.0	0.0	0.0
+"Band keratopathy"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyperchloremic acidosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Proximal renal tubular acidosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Bicarbonate-wasting renal tubular acidosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Increased red cell osmotic resistance"	1.0	0.0	0.0	0.0	0.0	0.0

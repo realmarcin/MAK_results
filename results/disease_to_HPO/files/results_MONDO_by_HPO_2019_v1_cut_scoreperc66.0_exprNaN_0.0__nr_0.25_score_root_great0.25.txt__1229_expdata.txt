@@ -1,0 +1,13 @@
+	"MONDO.0010941"	"MONDO.0012596"	"MONDO.0014256"	"MONDO.0060549"
+"HP:0003621"	0.0	1.0	0.0	0.0
+"Renal insufficiency"	0.0	1.0	0.0	0.0
+"Recurrent urinary tract infections"	0.0	1.0	0.0	0.0
+"Vasculitis"	0.0	1.0	0.0	0.0
+"Pyelonephritis"	0.0	1.0	0.0	0.0
+"Recurrent skin infections"	0.0	1.0	0.0	0.0
+"Decreased serum complement factor I"	0.0	1.0	0.0	0.0
+"Decreased serum complement factor H"	0.0	1.0	0.0	0.0
+"Decreased serum complement C3"	0.0	1.0	0.0	0.0
+"Recurrent Haemophilus influenzae infections"	0.0	1.0	0.0	0.0
+"Recurrent streptococcus pneumoniae infections"	0.0	1.0	0.0	0.0
+"Recurrent meningitis"	0.0	1.0	0.0	0.0

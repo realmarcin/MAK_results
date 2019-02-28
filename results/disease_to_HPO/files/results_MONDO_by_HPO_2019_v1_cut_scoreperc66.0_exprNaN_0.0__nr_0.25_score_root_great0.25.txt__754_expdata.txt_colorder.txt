@@ -1,0 +1,6 @@
+"x"
+"1" "Uterine prolapse"
+"2" "Lumbar kyphosis"
+"3" "HP:0000429"
+"4" "Drumstick terminal phalanges"
+"5" "Thick nasal septum"

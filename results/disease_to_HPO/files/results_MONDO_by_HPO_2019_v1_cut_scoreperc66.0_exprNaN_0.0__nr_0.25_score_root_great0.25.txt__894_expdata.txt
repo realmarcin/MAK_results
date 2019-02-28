@@ -1,0 +1,5 @@
+	"MONDO.0007087"	"MONDO.0007279"	"MONDO.0007291"	"MONDO.0007372"	"MONDO.0009542"	"MONDO.0009600"	"MONDO.0011017"
+"Glomerulonephritis"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Anterior polar cataract"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
+"Azotemia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Plasmacytosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

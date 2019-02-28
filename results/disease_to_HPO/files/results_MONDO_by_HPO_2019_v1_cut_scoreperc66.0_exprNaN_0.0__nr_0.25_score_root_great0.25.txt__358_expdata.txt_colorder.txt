@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertelorism"
+"2" "HP:0000006"
+"3" "Microcephaly"
+"4" "Trigonocephaly"
+"5" "Metopic synostosis"
+"6" "Pointed frontal hairline"

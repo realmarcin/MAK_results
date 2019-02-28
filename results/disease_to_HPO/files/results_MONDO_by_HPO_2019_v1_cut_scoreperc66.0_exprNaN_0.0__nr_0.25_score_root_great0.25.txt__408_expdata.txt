@@ -1,0 +1,9 @@
+	"MONDO.0017178"	"MONDO.0011711"	"MONDO.0011712"	"MONDO.0012080"
+"HP:0001425"	1.0	1.0	1.0	1.0
+"HP:0001426"	1.0	1.0	1.0	1.0
+"Language impairment"	0.0	1.0	1.0	0.0
+"Restrictive behavior"	0.0	0.0	0.0	1.0
+"Inflexible adherence to routines or rituals"	0.0	0.0	0.0	1.0
+"Impaired use of nonverbal behaviors"	0.0	0.0	0.0	1.0
+"Deficit in nonword repetition"	0.0	1.0	1.0	0.0
+"Deficit in phonologic short-term memory"	0.0	1.0	1.0	0.0

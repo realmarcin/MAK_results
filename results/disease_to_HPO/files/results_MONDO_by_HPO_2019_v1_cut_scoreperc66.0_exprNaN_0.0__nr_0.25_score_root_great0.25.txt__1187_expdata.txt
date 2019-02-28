@@ -1,0 +1,8 @@
+	"MONDO.0013910"	"MONDO.0014116"	"MONDO.0014274"	"MONDO.0014304"	"MONDO.0014548"	"MONDO.0014997"
+"Spasticity"	1.0	1.0	1.0	1.0	1.0	0.0
+"Myopathy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Facial palsy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Proximal muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0
+"Focal segmental glomerulosclerosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Neurodegeneration"	0.0	0.0	0.0	0.0	1.0	0.0
+"Metabolic alkalosis"	0.0	0.0	0.0	0.0	1.0	0.0

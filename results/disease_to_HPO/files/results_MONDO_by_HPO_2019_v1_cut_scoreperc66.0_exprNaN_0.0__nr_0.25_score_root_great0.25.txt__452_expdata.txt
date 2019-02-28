@@ -1,0 +1,4 @@
+	"MONDO.0009124"	"MONDO.0009905"	"MONDO.0012085"	"MONDO.0012335"
+"Nocturia"	1.0	1.0	0.0	1.0
+"Intermittent hypothermia"	1.0	0.0	1.0	0.0
+"Retrograde ejaculation"	1.0	0.0	0.0	0.0

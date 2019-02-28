@@ -1,0 +1,8 @@
+	"MONDO.0012212"	"MONDO.0013910"	"MONDO.0014116"	"MONDO.0014274"	"MONDO.0014304"	"MONDO.0014997"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Dry skin"	1.0	0.0	0.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0	0.0	0.0
+"Scaling skin"	1.0	0.0	0.0	0.0	0.0	0.0
+"Erythroderma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the coagulation cascade"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of vision"	1.0	0.0	0.0	0.0	0.0	0.0

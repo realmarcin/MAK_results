@@ -1,0 +1,16 @@
+	"MONDO.0008646"	"MONDO.0008751"	"MONDO.0010412"	"MONDO.0014029"
+"Hypodontia"	1.0	0.0	0.0	0.0
+"Tapered finger"	1.0	0.0	0.0	0.0
+"Short foot"	1.0	0.0	0.0	0.0
+"Short toe"	1.0	0.0	0.0	0.0
+"Arrhythmia"	1.0	0.0	0.0	0.0
+"Pierre-Robin sequence"	1.0	0.0	0.0	0.0
+"Short 4th metacarpal"	1.0	0.0	0.0	0.0
+"Syncope"	1.0	0.0	0.0	0.0
+"Tachycardia"	1.0	0.0	0.0	0.0
+"High, narrow palate"	1.0	0.0	0.0	0.0
+"Glossoptosis"	1.0	0.0	0.0	0.0
+"Joint dislocation"	1.0	0.0	0.0	0.0
+"Abnormality of the mandible"	1.0	0.0	0.0	0.0
+"Posteriorly placed tongue"	1.0	0.0	0.0	0.0
+"Abnormality of the sense of smell"	1.0	0.0	0.0	0.0

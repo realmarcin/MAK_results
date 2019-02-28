@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the cardiac septa"
+"2" "Limited elbow extension"
+"3" "Epicanthus"
+"4" "Macrotia"

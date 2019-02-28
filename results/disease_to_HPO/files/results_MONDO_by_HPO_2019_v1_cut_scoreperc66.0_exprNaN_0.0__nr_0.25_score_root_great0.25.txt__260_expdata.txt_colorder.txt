@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Prolonged partial thromboplastin time"
+"3" "Reduced factor XII activity"
+"4" "Prolonged whole-blood clotting time"
+"5" "Reduced kininogen activity"

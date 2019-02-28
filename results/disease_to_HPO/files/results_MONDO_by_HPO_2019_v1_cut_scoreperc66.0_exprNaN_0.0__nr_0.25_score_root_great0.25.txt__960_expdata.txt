@@ -1,0 +1,4 @@
+	"MONDO.0009983"	"MONDO.0010833"	"MONDO.0011526"	"MONDO.0014433"	"MONDO.0014434"	"MONDO.0014435"	"MONDO.0014436"	"MONDO.0014446"	"MONDO.0014449"
+"Chordee"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"External genital hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Cerebral white matter hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

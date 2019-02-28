@@ -1,0 +1,6 @@
+"x"
+"1" "Metaphyseal cupping of metacarpals"
+"2" "Enlargement of the proximal femoral epiphysis"
+"3" "Metaphyseal cupping of proximal phalanges"
+"4" "Broad middle phalanx of finger"
+"5" "Distal shortening of limbs"

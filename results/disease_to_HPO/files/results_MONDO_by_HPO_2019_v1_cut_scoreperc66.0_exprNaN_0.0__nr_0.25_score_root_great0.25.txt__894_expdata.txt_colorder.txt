@@ -1,0 +1,5 @@
+"x"
+"1" "Anterior polar cataract"
+"2" "Glomerulonephritis"
+"3" "Azotemia"
+"4" "Plasmacytosis"

@@ -1,0 +1,10 @@
+	"MONDO.0008175"	"MONDO.0009180"	"MONDO.0009183"	"MONDO.0009184"	"MONDO.0019568"
+"Hoarse voice"	1.0	0.0	1.0	0.0	0.0
+"Hypoplasia of dental enamel"	0.0	1.0	1.0	1.0	1.0
+"Nail dystrophy"	1.0	1.0	1.0	1.0	0.0
+"Milia"	0.0	1.0	1.0	1.0	1.0
+"Aplasia cutis congenita"	0.0	0.0	1.0	1.0	0.0
+"Death in infancy"	0.0	0.0	1.0	1.0	0.0
+"Atrophic scars"	0.0	1.0	1.0	1.0	1.0
+"Junctional split"	0.0	0.0	1.0	1.0	0.0
+"Skin erosion"	0.0	0.0	1.0	0.0	1.0

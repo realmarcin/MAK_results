@@ -1,0 +1,10 @@
+	"MONDO.0009501"	"MONDO.0011101"	"MONDO.0054817"
+"Flexion contracture"	0.0	0.0	1.0
+"Broad forehead"	0.0	0.0	1.0
+"Buphthalmos"	0.0	0.0	1.0
+"Short nose"	0.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	1.0
+"Osteopenia"	0.0	0.0	1.0
+"Retrognathia"	0.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	1.0
+"Narrow forehead"	0.0	0.0	1.0

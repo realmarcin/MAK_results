@@ -1,0 +1,5 @@
+"x"
+"1" "Myocardial fibrosis"
+"2" "Pericardial constriction"
+"3" "HP:0007348"
+"4" "Hypoglycosylation of alpha-dystroglycan"

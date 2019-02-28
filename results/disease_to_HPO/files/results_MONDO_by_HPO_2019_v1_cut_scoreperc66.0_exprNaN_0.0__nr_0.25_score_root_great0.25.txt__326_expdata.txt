@@ -1,0 +1,8 @@
+	"MONDO.0012120"	"MONDO.0013268"	"MONDO.0013397"	"MONDO.0060759"
+"Generalized hypotonia"	1.0	1.0	1.0	0.0
+"Broad forehead"	0.0	1.0	1.0	0.0
+"Short nose"	1.0	1.0	1.0	1.0
+"Inability to walk"	0.0	1.0	0.0	1.0
+"Short chin"	0.0	1.0	1.0	0.0
+"Abnormality of the periventricular white matter"	0.0	1.0	0.0	0.0
+"Epileptic encephalopathy"	1.0	1.0	0.0	0.0

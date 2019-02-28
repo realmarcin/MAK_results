@@ -1,0 +1,12 @@
+	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0011613"	"MONDO.0014211"
+"Aggressive behavior"	0.0	1.0	1.0	1.0
+"Death in infancy"	0.0	0.0	1.0	0.0
+"Poor suck"	0.0	0.0	1.0	0.0
+"Encephalopathy"	0.0	0.0	1.0	0.0
+"Hyperglycinemia"	0.0	0.0	1.0	0.0
+"Central hypotonia"	0.0	0.0	1.0	0.0
+"Recurrent singultus"	0.0	0.0	1.0	0.0
+"Breathing dysregulation"	0.0	0.0	1.0	0.0
+"EEG with burst suppression"	0.0	0.0	1.0	0.0
+"Respiratory acidosis"	0.0	0.0	1.0	0.0
+"Abnormal metabolic brain imaging by MRS"	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0008328"	"MONDO.0008387"	"MONDO.0008928"	"MONDO.0010650"	"MONDO.0011866"	"MONDO.0012839"
+"Cataract"	1.0	0.0	1.0	1.0	0.0	1.0
+"Glaucoma"	1.0	1.0	1.0	1.0	1.0	0.0
+"Retinal detachment"	0.0	0.0	1.0	1.0	1.0	1.0
+"Astigmatism"	0.0	0.0	0.0	1.0	1.0	0.0
+"Miosis"	0.0	0.0	1.0	1.0	0.0	0.0
+"Lens subluxation"	1.0	0.0	0.0	1.0	0.0	1.0
+"Megalocornea"	0.0	1.0	0.0	1.0	0.0	0.0

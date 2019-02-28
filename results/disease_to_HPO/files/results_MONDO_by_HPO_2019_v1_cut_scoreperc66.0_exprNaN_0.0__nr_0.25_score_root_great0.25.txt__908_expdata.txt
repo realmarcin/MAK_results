@@ -1,0 +1,9 @@
+	"MONDO.0010061"	"MONDO.0014505"	"MONDO.0014522"	"MONDO.0014672"	"MONDO.0054748"	"MONDO.0008882"
+"Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Nystagmus"	1.0	1.0	0.0	1.0	1.0	1.0
+"EEG abnormality"	0.0	0.0	0.0	0.0	0.0	1.0
+"Behavioral abnormality"	0.0	0.0	0.0	0.0	0.0	1.0
+"Spina bifida occulta"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormal form of the vertebral bodies"	0.0	0.0	0.0	0.0	0.0	1.0
+"EMG abnormality"	0.0	0.0	0.0	0.0	0.0	1.0
+"Abnormality of the pharynx"	0.0	0.0	0.0	0.0	0.0	1.0

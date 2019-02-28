@@ -1,0 +1,6 @@
+"x"
+"1" "Poor coordination"
+"2" "Broad-based gait"
+"3" "Delayed gross motor development"
+"4" "HP:0031936"
+"5" "Autistic behavior"

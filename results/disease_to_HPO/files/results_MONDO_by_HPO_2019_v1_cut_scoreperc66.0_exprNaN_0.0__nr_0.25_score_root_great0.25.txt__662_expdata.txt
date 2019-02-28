@@ -1,0 +1,10 @@
+	"MONDO.0008020"	"MONDO.0010364"	"MONDO.0010859"	"MONDO.0014264"
+"Short neck"	1.0	0.0	1.0	1.0
+"Short nose"	0.0	1.0	1.0	1.0
+"Renal cyst"	0.0	0.0	0.0	1.0
+"Cerebral atrophy"	0.0	0.0	1.0	1.0
+"Short 5th finger"	0.0	1.0	0.0	1.0
+"Renal hypoplasia"	0.0	0.0	0.0	1.0
+"Vertebral fusion"	0.0	0.0	0.0	1.0
+"Renal agenesis"	1.0	0.0	0.0	1.0
+"Coloboma"	0.0	0.0	0.0	1.0

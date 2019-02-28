@@ -1,0 +1,8 @@
+"x"
+"1" "Elevated serum creatine phosphokinase"
+"2" "External ophthalmoplegia"
+"3" "Frequent falls"
+"4" "Type 2 muscle fiber atrophy"
+"5" "Abnormality of the pupil"
+"6" "Exercise-induced myalgia"
+"7" "Weakness of the intrinsic hand muscles"

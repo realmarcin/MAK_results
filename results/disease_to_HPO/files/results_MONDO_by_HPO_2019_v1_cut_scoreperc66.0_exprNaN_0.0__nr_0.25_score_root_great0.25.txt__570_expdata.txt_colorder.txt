@@ -1,0 +1,8 @@
+"x"
+"1" "External genital hypoplasia"
+"2" "Cryptorchidism"
+"3" "Hypertelorism"
+"4" "Short neck"
+"5" "Renal insufficiency"
+"6" "Delayed skeletal maturation"
+"7" "Adrenal hypoplasia"

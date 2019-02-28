@@ -1,0 +1,7 @@
+"x"
+"1" "Intellectual disability"
+"2" "Global developmental delay"
+"3" "Obesity"
+"4" "HP:0000007"
+"5" "HP:0000006"
+"6" "Delayed speech and language development"

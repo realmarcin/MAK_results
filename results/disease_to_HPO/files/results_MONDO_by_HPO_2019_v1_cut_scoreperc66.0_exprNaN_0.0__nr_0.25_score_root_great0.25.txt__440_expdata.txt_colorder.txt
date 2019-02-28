@@ -1,0 +1,5 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Muscular hypotonia"
+"3" "Abnormality of metabolism/homeostasis"
+"4" "Choreoathetosis"

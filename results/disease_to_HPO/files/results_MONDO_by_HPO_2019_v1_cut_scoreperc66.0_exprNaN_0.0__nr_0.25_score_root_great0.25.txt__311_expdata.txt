@@ -1,0 +1,9 @@
+	"MONDO.0013547"	"MONDO.0013878"	"MONDO.0014199"	"MONDO.0014465"	"MONDO.0014649"
+"Long philtrum"	1.0	1.0	0.0	0.0	0.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0
+"Epicanthus"	0.0	1.0	1.0	0.0	0.0
+"Thin upper lip vermilion"	0.0	1.0	0.0	0.0	1.0
+"Organic aciduria"	0.0	1.0	0.0	1.0	0.0
+"Encephalopathy"	1.0	1.0	1.0	1.0	0.0
+"Rotary nystagmus"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Irregular carpal bones"
+"2" "Increased serum beta-hexosaminidase"
+"3" "Increased serum iduronate sulfatase activity"
+"4" "Deficiency of N-acetylglucosamine-1-phosphotransferase"
+"5" "Soft tissue swelling of interphalangeal joints"

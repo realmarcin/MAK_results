@@ -1,0 +1,7 @@
+	"MONDO.0008052"	"MONDO.0011329"	"MONDO.0012019"	"MONDO.0012035"	"MONDO.0014384"
+"Flexion contracture"	1.0	1.0	0.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"HP:0003677"	1.0	1.0	1.0	0.0	1.0
+"Elevated serum creatine phosphokinase"	1.0	1.0	1.0	0.0	1.0
+"Generalized muscle weakness"	0.0	1.0	1.0	0.0	1.0
+"Areflexia of lower limbs"	1.0	0.0	0.0	0.0	1.0

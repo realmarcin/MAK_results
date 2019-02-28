@@ -1,0 +1,7 @@
+"x"
+"1" "Peripheral retinal atrophy"
+"2" "Impaired epinephrine-induced platelet aggregation"
+"3" "Impaired collagen-induced platelet aggregation"
+"4" "Impaired ADP-induced platelet aggregation"
+"5" "Absent foveal reflex"
+"6" "Comedonal acne"

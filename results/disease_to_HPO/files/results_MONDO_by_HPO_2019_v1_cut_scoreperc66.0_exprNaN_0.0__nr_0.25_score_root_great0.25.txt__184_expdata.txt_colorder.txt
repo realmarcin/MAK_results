@@ -1,0 +1,8 @@
+"x"
+"1" "Absent speech"
+"2" "Intellectual disability"
+"3" "Seizures"
+"4" "HP:0031936"
+"5" "High palate"
+"6" "Epicanthus"
+"7" "Downslanted palpebral fissures"

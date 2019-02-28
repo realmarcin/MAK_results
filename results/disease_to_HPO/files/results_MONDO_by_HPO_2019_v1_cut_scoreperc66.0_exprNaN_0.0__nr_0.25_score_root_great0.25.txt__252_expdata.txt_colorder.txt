@@ -1,0 +1,7 @@
+"x"
+"1" "Elevated serum creatine phosphokinase"
+"2" "Muscular dystrophy"
+"3" "Cardiomyopathy"
+"4" "Difficulty climbing stairs"
+"5" "Weak cry"
+"6" "HP:0002878"

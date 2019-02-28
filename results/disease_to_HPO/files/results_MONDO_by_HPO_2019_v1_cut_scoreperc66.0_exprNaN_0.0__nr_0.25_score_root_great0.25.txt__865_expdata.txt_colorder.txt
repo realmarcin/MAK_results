@@ -1,0 +1,6 @@
+"x"
+"1" "Head titubation"
+"2" "Rotary nystagmus"
+"3" "Congenital laryngeal stridor"
+"4" "Progressive spastic quadriplegia"
+"5" "Reduction of oligodendroglia"

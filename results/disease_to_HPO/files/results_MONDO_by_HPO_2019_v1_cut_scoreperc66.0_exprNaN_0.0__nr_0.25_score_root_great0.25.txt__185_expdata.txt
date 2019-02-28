@@ -1,0 +1,9 @@
+	"MONDO.0007036"	"MONDO.0013293"	"MONDO.0013565"
+"Hypertelorism"	0.0	1.0	1.0
+"Global developmental delay"	0.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	1.0
+"Frontal bossing"	0.0	1.0	1.0
+"Depressed nasal bridge"	0.0	1.0	1.0
+"Low-set ears"	0.0	1.0	1.0
+"Tremor"	0.0	1.0	1.0
+"Thin vermilion border"	0.0	1.0	1.0

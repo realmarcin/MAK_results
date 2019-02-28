@@ -1,0 +1,7 @@
+"x"
+"1" "Language impairment"
+"2" "Disinhibition"
+"3" "Apathy"
+"4" "Frontotemporal dementia"
+"5" "Personality changes"
+"6" "Paraparesis"

@@ -1,0 +1,7 @@
+	"MONDO.0009118"	"MONDO.0009411"	"MONDO.0009412"	"MONDO.0012804"	"MONDO.0013826"
+"Diarrhea"	1.0	1.0	1.0	1.0	1.0
+"Abdominal pain"	1.0	1.0	0.0	1.0	1.0
+"Type I diabetes mellitus"	0.0	1.0	1.0	0.0	0.0
+"Hypoparathyroidism"	0.0	1.0	1.0	0.0	0.0
+"Vitiligo"	0.0	1.0	1.0	0.0	0.0
+"HP:0004319"	0.0	1.0	1.0	0.0	0.0

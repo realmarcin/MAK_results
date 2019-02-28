@@ -1,0 +1,7 @@
+"x"
+"1" "Elevated plasma branched chain amino acids"
+"2" "Abnormal cardiac ventricular function"
+"3" "HP:0031796"
+"4" "Recurrent infections of the middle ear"
+"5" "Hyperisoleucinemia"
+"6" "Increased urine alpha-ketoglutarate concentration"

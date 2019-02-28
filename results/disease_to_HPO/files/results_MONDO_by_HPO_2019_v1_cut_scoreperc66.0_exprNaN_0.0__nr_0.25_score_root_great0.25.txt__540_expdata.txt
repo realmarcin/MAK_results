@@ -1,0 +1,9 @@
+	"MONDO.0008465"	"MONDO.0024550"	"MONDO.0010958"	"MONDO.0012193"	"MONDO.0012536"
+"Cleft palate"	1.0	1.0	0.0	0.0	0.0
+"Intellectual disability"	1.0	1.0	1.0	0.0	0.0
+"Hearing impairment"	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the pinna"	1.0	1.0	1.0	1.0	1.0
+"Hand oligodactyly"	1.0	1.0	0.0	0.0	0.0
+"Split hand"	1.0	1.0	0.0	0.0	0.0
+"Split foot"	1.0	1.0	0.0	0.0	0.0
+"Foot oligodactyly"	1.0	1.0	0.0	0.0	0.0

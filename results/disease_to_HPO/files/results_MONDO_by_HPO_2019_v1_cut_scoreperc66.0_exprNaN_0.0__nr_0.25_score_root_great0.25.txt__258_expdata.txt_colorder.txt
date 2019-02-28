@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Nystagmus"
+"3" "Strabismus"
+"4" "Freckling"
+"5" "Iris hypopigmentation"
+"6" "Partial albinism"
+"7" "Albinism"

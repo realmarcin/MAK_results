@@ -1,0 +1,10 @@
+	"MONDO.0013511"	"MONDO.0014368"	"MONDO.0014860"	"MONDO.0054729"	"MONDO.0060760"	"MONDO.0020848"
+"HP:0003676"	0.0	0.0	0.0	1.0	1.0	0.0
+"Choreoathetosis"	0.0	0.0	1.0	0.0	1.0	0.0
+"Absent speech"	0.0	1.0	1.0	1.0	0.0	0.0
+"Postnatal microcephaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Visual loss"	0.0	0.0	0.0	1.0	0.0	0.0
+"Rigidity"	0.0	0.0	1.0	0.0	0.0	0.0
+"Leukoencephalopathy"	0.0	0.0	0.0	1.0	0.0	0.0
+"Optic disc pallor"	0.0	0.0	0.0	1.0	0.0	0.0
+"Developmental regression"	0.0	1.0	1.0	1.0	1.0	0.0

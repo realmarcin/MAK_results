@@ -1,0 +1,8 @@
+	"MONDO.0009925"	"MONDO.0010187"	"MONDO.0011731"
+"HP:0000007"	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0
+"Frontal bossing"	1.0	1.0	1.0
+"Failure to thrive"	1.0	1.0	1.0
+"Abdominal wall muscle weakness"	1.0	1.0	0.0
+"Secondary hyperparathyroidism"	1.0	1.0	0.0

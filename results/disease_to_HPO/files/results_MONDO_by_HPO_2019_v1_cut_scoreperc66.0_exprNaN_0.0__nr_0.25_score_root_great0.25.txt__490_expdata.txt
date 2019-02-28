@@ -1,0 +1,8 @@
+	"MONDO.0008954"	"MONDO.0008955"	"MONDO.0013931"	"MONDO.0013933"	"MONDO.0013937"	"MONDO.0013943"
+"Cubitus valgus"	1.0	1.0	0.0	1.0	0.0	0.0
+"Metatarsus adductus"	1.0	1.0	0.0	1.0	0.0	0.0
+"Pigmentary retinopathy"	1.0	1.0	0.0	1.0	0.0	0.0
+"Clitoral hypertrophy"	1.0	1.0	0.0	1.0	0.0	0.0
+"Brushfield spots"	1.0	1.0	0.0	1.0	0.0	0.0
+"Intrahepatic biliary dysgenesis"	1.0	1.0	0.0	1.0	0.0	0.0
+"Abnormality of the helix"	1.0	1.0	0.0	1.0	0.0	0.0

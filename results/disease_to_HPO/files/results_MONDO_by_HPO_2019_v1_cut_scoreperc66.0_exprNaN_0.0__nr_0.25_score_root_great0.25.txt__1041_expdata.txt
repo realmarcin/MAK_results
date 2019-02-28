@@ -1,0 +1,10 @@
+	"MONDO.0008923"	"MONDO.0009069"	"MONDO.0009503"	"MONDO.0009654"	"MONDO.0014776"
+"Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0
+"Anemia"	0.0	1.0	0.0	0.0	0.0
+"Increased serum lactate"	1.0	1.0	0.0	0.0	1.0
+"Exertional dyspnea"	0.0	1.0	0.0	0.0	0.0
+"Renal tubular dysfunction"	0.0	1.0	0.0	0.0	0.0
+"Glycosuria"	0.0	1.0	0.0	0.0	0.0
+"Hyperphosphaturia"	0.0	1.0	0.0	0.0	0.0
+"Cytochrome C oxidase-negative muscle fibers"	0.0	1.0	0.0	0.0	0.0
+"Renal Fanconi syndrome"	0.0	1.0	0.0	0.0	0.0

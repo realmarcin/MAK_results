@@ -1,0 +1,6 @@
+	"MONDO.0007525"	"MONDO.0008652"	"MONDO.0010562"	"MONDO.0013427"
+"Uterine prolapse"	1.0	0.0	1.0	1.0
+"Lumbar kyphosis"	0.0	1.0	1.0	0.0
+"HP:0000429"	0.0	0.0	1.0	0.0
+"Drumstick terminal phalanges"	0.0	0.0	1.0	0.0
+"Thick nasal septum"	0.0	0.0	1.0	0.0

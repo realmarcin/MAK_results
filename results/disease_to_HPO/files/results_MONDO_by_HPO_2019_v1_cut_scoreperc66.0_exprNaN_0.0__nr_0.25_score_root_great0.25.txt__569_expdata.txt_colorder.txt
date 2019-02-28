@@ -1,0 +1,8 @@
+"x"
+"1" "Seizures"
+"2" "Global developmental delay"
+"3" "Generalized hypotonia"
+"4" "Bipolar affective disorder"
+"5" "Narrow nasal ridge"
+"6" "Attention deficit hyperactivity disorder"
+"7" "Polyphagia"

@@ -1,0 +1,7 @@
+	"MONDO.0009389"	"MONDO.0049222"	"MONDO.0011439"	"MONDO.0013585"	"MONDO.0013924"
+"HP:0000007"	1.0	0.0	1.0	0.0	1.0
+"Intellectual disability"	1.0	0.0	1.0	0.0	0.0
+"Aggressive behavior"	0.0	0.0	1.0	0.0	1.0
+"Delayed speech and language development"	1.0	0.0	1.0	0.0	0.0
+"Bimanual synkinesia"	0.0	0.0	1.0	0.0	1.0
+"Impulsivity"	0.0	1.0	1.0	1.0	1.0

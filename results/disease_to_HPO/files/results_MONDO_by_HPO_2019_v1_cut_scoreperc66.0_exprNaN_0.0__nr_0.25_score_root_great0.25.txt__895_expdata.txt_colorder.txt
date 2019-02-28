@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Amenorrhea"
+"3" "Hirsutism"
+"4" "Abnormality of metabolism/homeostasis"
+"5" "Obesity"
+"6" "Oligomenorrhea"
+"7" "Enlarged polycystic ovaries"

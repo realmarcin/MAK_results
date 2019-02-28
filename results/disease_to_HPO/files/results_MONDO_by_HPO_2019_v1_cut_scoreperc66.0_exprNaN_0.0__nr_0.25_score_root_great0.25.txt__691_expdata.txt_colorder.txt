@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Encephalocele"
+"3" "Parietal foramina"
+"4" "Symmetrical, oval parietal bone defects"
+"5" "Aplasia cutis congenita of scalp"
+"6" "HP:0001425"
+"7" "Cleft upper lip"

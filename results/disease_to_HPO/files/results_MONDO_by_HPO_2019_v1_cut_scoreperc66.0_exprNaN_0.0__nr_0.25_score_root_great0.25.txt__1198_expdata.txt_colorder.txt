@@ -1,0 +1,7 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Pachygyria"
+"3" "Renal cyst"
+"4" "CNS hypomyelination"
+"5" "Renal hypoplasia"
+"6" "Renal dysplasia"

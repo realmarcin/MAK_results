@@ -1,0 +1,10 @@
+	"MONDO.0007077"	"MONDO.0010346"	"MONDO.0010372"	"MONDO.0010391"	"MONDO.0010723"
+"HP:0001417"	1.0	1.0	1.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0	1.0	1.0
+"Sensorineural hearing impairment"	1.0	0.0	0.0	1.0	0.0
+"Visual impairment"	1.0	1.0	0.0	1.0	1.0
+"Giant melanosomes in melanocytes"	1.0	1.0	0.0	1.0	0.0
+"Abnormality of the pupil"	0.0	1.0	0.0	0.0	0.0
+"Adult onset sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0
+"Nystagmus-induced head nodding"	0.0	1.0	0.0	1.0	0.0
+"Depigmented fundus"	0.0	1.0	0.0	1.0	0.0

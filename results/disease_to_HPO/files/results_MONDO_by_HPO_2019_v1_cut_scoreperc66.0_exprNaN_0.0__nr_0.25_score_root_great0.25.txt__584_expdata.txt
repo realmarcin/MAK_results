@@ -1,0 +1,7 @@
+	"MONDO.0009428"	"MONDO.0009595"	"MONDO.0009602"	"MONDO.0009648"	"MONDO.0010181"	"MONDO.0010904"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
+"Short metacarpal"	0.0	1.0	1.0	0.0	0.0	0.0
+"Cone-shaped epiphyses of the phalanges of the hand"	0.0	1.0	1.0	0.0	0.0	1.0
+"Micromelia"	1.0	1.0	1.0	0.0	0.0	0.0
+"Metaphyseal dysplasia"	0.0	1.0	1.0	0.0	0.0	0.0
+"Metaphyseal irregularity"	0.0	1.0	1.0	0.0	0.0	0.0

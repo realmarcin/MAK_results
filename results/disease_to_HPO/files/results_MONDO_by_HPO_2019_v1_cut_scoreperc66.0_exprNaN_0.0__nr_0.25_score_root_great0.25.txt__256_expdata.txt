@@ -1,0 +1,7 @@
+	"MONDO.0007125"	"MONDO.0007509"	"MONDO.0010027"	"MONDO.0010537"	"MONDO.0013091"	"MONDO.0013272"
+"Wide nasal bridge"	1.0	0.0	1.0	0.0	1.0	1.0
+"Supernumerary nipple"	1.0	0.0	0.0	0.0	1.0	0.0
+"Hypodontia"	1.0	1.0	1.0	0.0	1.0	0.0
+"Sparse eyelashes"	1.0	0.0	0.0	0.0	1.0	1.0
+"Underdeveloped nasal alae"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hypotrichosis"	1.0	0.0	1.0	1.0	1.0	0.0

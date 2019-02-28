@@ -1,0 +1,6 @@
+"x"
+"1" "Gastrointestinal hemorrhage"
+"2" "Bruising susceptibility"
+"3" "Gingival bleeding"
+"4" "Epistaxis"
+"5" "Hyperextensible skin"

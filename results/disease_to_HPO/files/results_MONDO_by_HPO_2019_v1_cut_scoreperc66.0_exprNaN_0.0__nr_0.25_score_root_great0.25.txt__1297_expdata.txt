@@ -1,0 +1,20 @@
+	"MONDO.0009965"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Hepatomegaly"	1.0	0.0	0.0	0.0
+"Microcephaly"	1.0	0.0	0.0	0.0
+"Ataxia"	1.0	0.0	0.0	0.0
+"High palate"	1.0	0.0	0.0	0.0
+"Cone-shaped epiphysis"	1.0	0.0	0.0	0.0
+"Renal cyst"	1.0	0.0	0.0	0.0
+"Wide mouth"	1.0	0.0	0.0	0.0
+"HP:0003593"	1.0	0.0	0.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	0.0
+"Stage 5 chronic kidney disease"	1.0	0.0	0.0	0.0
+"Cholestasis"	1.0	0.0	0.0	0.0
+"Macroglossia"	1.0	0.0	0.0	0.0
+"Widely spaced teeth"	1.0	0.0	0.0	0.0
+"Visual loss"	1.0	0.0	0.0	0.0
+"Renal dysplasia"	1.0	0.0	0.0	0.0
+"Prominent forehead"	1.0	0.0	0.0	0.0
+"Narrow forehead"	1.0	0.0	0.0	0.0
+"Hepatic fibrosis"	1.0	0.0	0.0	0.0
+"Nephronophthisis"	1.0	0.0	0.0	0.0

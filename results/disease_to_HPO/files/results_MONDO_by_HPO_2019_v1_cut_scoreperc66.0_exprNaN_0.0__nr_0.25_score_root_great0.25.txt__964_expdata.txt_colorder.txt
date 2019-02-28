@@ -1,0 +1,7 @@
+"x"
+"1" "Vesicoureteral reflux"
+"2" "HP:0000006"
+"3" "HP:0000007"
+"4" "Malabsorption"
+"5" "Poikiloderma"
+"6" "Chorioretinal scar"

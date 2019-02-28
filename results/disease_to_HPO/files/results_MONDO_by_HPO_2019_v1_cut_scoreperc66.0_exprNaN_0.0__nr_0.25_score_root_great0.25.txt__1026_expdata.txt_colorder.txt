@@ -1,0 +1,7 @@
+"x"
+"1" "Iridocyclitis"
+"2" "Abnormal salivary gland morphology"
+"3" "Chorioretinitis"
+"4" "Abnormality of T cell physiology"
+"5" "Enlarged lacrimal glands"
+"6" "Generalized lymphadenopathy"

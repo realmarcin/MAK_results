@@ -1,0 +1,10 @@
+	"MONDO.0009501"	"MONDO.0011101"	"MONDO.0014298"
+"Syndactyly"	0.0	0.0	1.0
+"Postaxial hand polydactyly"	0.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	1.0
+"Renal hypoplasia"	0.0	0.0	1.0
+"Abnormal facial shape"	0.0	0.0	1.0
+"Coloboma"	0.0	0.0	1.0
+"Undetectable electroretinogram"	0.0	0.0	1.0
+"Molar tooth sign on MRI"	0.0	0.0	1.0
+"Retinal dysplasia"	0.0	0.0	1.0

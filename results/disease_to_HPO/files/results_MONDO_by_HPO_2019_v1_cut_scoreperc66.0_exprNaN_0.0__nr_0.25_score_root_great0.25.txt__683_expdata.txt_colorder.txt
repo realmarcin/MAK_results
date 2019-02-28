@@ -1,0 +1,6 @@
+"x"
+"1" "Metacarpal synostosis"
+"2" "Metatarsal synostosis"
+"3" "Hallux varus"
+"4" "Cutaneous syndactyly of toes"
+"5" "Limited interphalangeal movement"

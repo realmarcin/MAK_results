@@ -1,0 +1,5 @@
+	"MONDO.0012551"	"MONDO.0014573"	"MONDO.0014627"	"MONDO.0014935"	"MONDO.0014941"	"MONDO.0044324"	"MONDO.0033481"	"MONDO.0033366"	"MONDO.0054764"	"MONDO.0054765"
+"Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Gait ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
+"Mental deterioration"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Vertical supranuclear gaze palsy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

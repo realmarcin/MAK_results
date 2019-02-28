@@ -1,0 +1,6 @@
+"x"
+"1" "Congenital conductive hearing impairment"
+"2" "Abnormality of the stapes"
+"3" "Abnormality of the malleus"
+"4" "Absent stapes head"
+"5" "Abnormality of the incus"

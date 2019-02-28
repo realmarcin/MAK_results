@@ -1,0 +1,5 @@
+"x"
+"1" "Ectopia lentis"
+"2" "Spina bifida occulta"
+"3" "Hiatus hernia"
+"4" "Reduced number of teeth"

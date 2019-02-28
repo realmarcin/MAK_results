@@ -1,0 +1,7 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Brittle hair"
+"3" "Abnormality of the cerebellum"
+"4" "Lymphopenia"
+"5" "Hypochromic microcytic anemia"
+"6" "Sideroblastic anemia"

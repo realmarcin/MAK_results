@@ -1,0 +1,4 @@
+"x"
+"1" "Minimal change glomerulonephritis"
+"2" "Steroid-resistant nephrotic syndrome"
+"3" "HP:0031266"

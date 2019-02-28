@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Hyperreflexia"
+"3" "Posterior fossa cyst"
+"4" "Tall stature"
+"5" "Retrognathia"
+"6" "Lethargy"
+"7" "High-pitched cry"

@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0011927"
+"2" "Aplasia/Hypoplasia of the breasts"
+"3" "Ureterovesical stenosis"
+"4" "Pseudocoarctation of the aorta"
+"5" "Abnormality of the scrotum"

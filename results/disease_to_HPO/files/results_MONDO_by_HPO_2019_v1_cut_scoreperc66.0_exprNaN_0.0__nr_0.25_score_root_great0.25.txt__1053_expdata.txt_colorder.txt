@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperchloremic acidosis"
+"2" "Episodic flaccid weakness"
+"3" "Periodic paralysis"
+"4" "Bicarbonate-wasting renal tubular acidosis"
+"5" "Periodic hyperkalemic paralysis"
+"6" "Increased red cell osmotic resistance"

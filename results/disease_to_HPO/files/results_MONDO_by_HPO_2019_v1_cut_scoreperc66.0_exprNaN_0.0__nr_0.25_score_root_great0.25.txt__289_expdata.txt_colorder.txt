@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Craniosynostosis"
+"3" "Oxycephaly"
+"4" "Turricephaly"
+"5" "Delayed speech and language development"
+"6" "Scaphocephaly"

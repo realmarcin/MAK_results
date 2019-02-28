@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the immune system"
+"2" "HP:0000006"
+"3" "Fever"
+"4" "Abnormality of the coagulation cascade"

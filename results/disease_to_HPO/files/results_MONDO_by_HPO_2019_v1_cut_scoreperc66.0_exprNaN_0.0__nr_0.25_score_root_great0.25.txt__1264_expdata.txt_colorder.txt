@@ -1,0 +1,7 @@
+"x"
+"1" "Clinodactyly of the 5th finger"
+"2" "Bilateral single transverse palmar creases"
+"3" "HP:0000006"
+"4" "Rhizomelia"
+"5" "Abnormality of the clavicle"
+"6" "Diaphyseal thickening"

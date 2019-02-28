@@ -1,0 +1,7 @@
+	"MONDO.0012590"	"MONDO.0012684"	"MONDO.0014142"	"MONDO.0014684"	"MONDO.0054588"	"MONDO.0030910"
+"Seizures"	1.0	1.0	1.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	0.0	0.0
+"Hypoplasia of the corpus callosum"	1.0	0.0	0.0	1.0	1.0	1.0
+"Absent speech"	1.0	1.0	1.0	1.0	1.0	1.0
+"Poor head control"	0.0	1.0	1.0	1.0	1.0	1.0

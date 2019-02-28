@@ -1,0 +1,4 @@
+"x"
+"1" "Rimmed vacuoles"
+"2" "Muscle fiber splitting"
+"3" "Quadriceps muscle weakness"

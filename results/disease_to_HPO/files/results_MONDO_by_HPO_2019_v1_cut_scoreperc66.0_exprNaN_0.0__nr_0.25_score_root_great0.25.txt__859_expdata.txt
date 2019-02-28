@@ -1,0 +1,6 @@
+	"MONDO.0008179"	"MONDO.0008321"	"MONDO.0008475"	"MONDO.0010044"	"MONDO.0010932"	"MONDO.0014278"
+"Elevated alkaline phosphatase of bone origin"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hip pain"	1.0	1.0	1.0	1.0	0.0	1.0
+"Knee pain"	0.0	0.0	1.0	1.0	1.0	0.0
+"HP:0031374"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0040131"	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0008723"	"MONDO.0010289"	"MONDO.0012825"	"MONDO.0013871"
+"Seizures"	1.0	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"Failure to thrive"	1.0	1.0	0.0	1.0
+"Myopathy"	1.0	1.0	0.0	0.0
+"HP:0003623"	1.0	0.0	1.0	0.0
+"Progressive external ophthalmoplegia"	1.0	0.0	0.0	0.0
+"Abnormality of the cerebral white matter"	1.0	0.0	0.0	1.0
+"Episodic metabolic acidosis"	1.0	0.0	0.0	0.0

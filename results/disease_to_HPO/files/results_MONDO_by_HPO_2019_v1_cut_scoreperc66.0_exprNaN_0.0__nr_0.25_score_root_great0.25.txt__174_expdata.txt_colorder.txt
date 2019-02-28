@@ -1,0 +1,5 @@
+"x"
+"1" "Increased CSF lactate"
+"2" "Decreased activity of the pyruvate dehydrogenase complex"
+"3" "Hyperalaninemia"
+"4" "Basal ganglia cysts"

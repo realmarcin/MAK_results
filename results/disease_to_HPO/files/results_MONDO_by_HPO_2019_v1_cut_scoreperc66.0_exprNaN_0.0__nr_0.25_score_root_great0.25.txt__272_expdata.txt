@@ -1,0 +1,8 @@
+	"MONDO.0008725"	"MONDO.0009712"	"MONDO.0010060"	"MONDO.0013734"	"MONDO.0014209"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Pectus excavatum"	0.0	1.0	1.0	1.0	0.0
+"Congenital hip dislocation"	0.0	1.0	1.0	0.0	0.0
+"High palate"	1.0	1.0	1.0	1.0	0.0
+"Dysphagia"	1.0	1.0	0.0	1.0	0.0
+"Respiratory distress"	0.0	0.0	1.0	1.0	0.0
+"Hypertrichosis"	1.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+	"MONDO.0008889"	"MONDO.0013088"	"MONDO.0013113"
+"HP:0000006"	1.0	1.0	1.0
+"Chronic bronchitis"	1.0	1.0	1.0
+"Bronchiectasis"	1.0	1.0	1.0
+"Elevated sweat chloride"	1.0	1.0	0.0

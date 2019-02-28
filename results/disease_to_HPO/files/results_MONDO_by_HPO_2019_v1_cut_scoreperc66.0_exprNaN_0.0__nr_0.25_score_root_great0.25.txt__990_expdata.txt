@@ -1,0 +1,11 @@
+	"MONDO.0008725"	"MONDO.0009712"	"MONDO.0011870"	"MONDO.0012930"	"MONDO.0014942"	"MONDO.0044208"
+"Arachnodactyly"	0.0	0.0	0.0	1.0	1.0	0.0
+"High palate"	1.0	1.0	0.0	1.0	1.0	1.0
+"Oval face"	0.0	0.0	0.0	1.0	0.0	0.0
+"Joint contracture of the hand"	0.0	0.0	0.0	1.0	0.0	0.0
+"Camptodactyly"	0.0	0.0	0.0	1.0	1.0	1.0
+"High, narrow palate"	1.0	0.0	0.0	1.0	0.0	0.0
+"Scaphocephaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Poor suck"	0.0	1.0	0.0	1.0	0.0	0.0
+"Akinesia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Overlapping fingers"	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Elevated plasma acylcarnitine levels"
+"2" "Dicarboxylic aciduria"
+"3" "Elevated creatine kinase after exercise"
+"4" "Vitamin B2 deficiency"
+"5" "HP:0012363"

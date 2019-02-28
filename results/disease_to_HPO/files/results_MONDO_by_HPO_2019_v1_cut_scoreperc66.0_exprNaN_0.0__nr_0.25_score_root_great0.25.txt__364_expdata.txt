@@ -1,0 +1,7 @@
+	"MONDO.0009480"	"MONDO.0009978"	"MONDO.0010263"
+"Septate vagina"	1.0	0.0	1.0
+"Dextrocardia"	1.0	1.0	1.0
+"Phthisis bulbi"	0.0	1.0	1.0
+"Laterally curved eyebrow"	0.0	0.0	1.0
+"Asymmetry of the ears"	0.0	0.0	1.0
+"Fused teeth"	0.0	0.0	1.0

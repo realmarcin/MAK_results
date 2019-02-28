@@ -1,0 +1,7 @@
+	"MONDO.0009064"	"MONDO.0009362"	"MONDO.0013159"	"MONDO.0013173"	"MONDO.0014117"	"MONDO.0014121"	"MONDO.0014171"	"MONDO.0014172"
+"Hydronephrosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Seizures"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+"Renal cyst"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Optic nerve dysplasia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Decreased testicular size"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+"Anencephaly"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Microcephaly"
+"2" "Global developmental delay"
+"3" "Short stature"
+"4" "Hyperactivity"
+"5" "Strabismus"

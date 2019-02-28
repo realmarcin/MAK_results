@@ -1,0 +1,7 @@
+"x"
+"1" "Thoracic hypoplasia"
+"2" "Protuberant abdomen"
+"3" "Short nose"
+"4" "Enlarged kidney"
+"5" "Cystic renal dysplasia"
+"6" "Premature closure of fontanelles"

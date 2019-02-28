@@ -1,0 +1,6 @@
+"x"
+"1" "Muscle fiber hypertrophy"
+"2" "HP:0031237"
+"3" "Necrotizing myopathy"
+"4" "Congenital encephalopathy"
+"5" "HP:0012764"

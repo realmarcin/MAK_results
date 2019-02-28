@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Micrognathia"
+"3" "Depressed nasal bridge"
+"4" "Rhizomelia"
+"5" "Proptosis"
+"6" "Coronal cleft vertebrae"
+"7" "Delayed gross motor development"

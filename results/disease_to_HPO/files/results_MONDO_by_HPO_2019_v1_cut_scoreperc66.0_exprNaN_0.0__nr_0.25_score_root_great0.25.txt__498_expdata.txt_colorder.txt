@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Sloping forehead"
+"3" "Short stature"
+"4" "HP:0000007"
+"5" "Seizures"
+"6" "Ventriculomegaly"
+"7" "Dilated cardiomyopathy"

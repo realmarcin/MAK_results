@@ -1,0 +1,7 @@
+	"MONDO.0009227"	"MONDO.0011109"	"MONDO.0011199"	"MONDO.0012186"	"MONDO.0012256"
+"Broad ischia"	1.0	1.0	0.0	1.0	0.0
+"Sclerotic humeral metaphysis"	0.0	0.0	0.0	1.0	0.0
+"Osteoporotic metatarsal"	0.0	0.0	0.0	1.0	0.0
+"Irregular patellae"	0.0	0.0	0.0	1.0	1.0
+"Costochondral joint sclerosis"	0.0	0.0	0.0	1.0	0.0
+"Osteoporotic tarsals"	0.0	0.0	0.0	1.0	0.0

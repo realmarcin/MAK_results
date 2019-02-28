@@ -1,0 +1,10 @@
+	"MONDO.0007949"	"MONDO.0008022"	"MONDO.0013741"	"MONDO.0014048"	"MONDO.0014049"
+"Pectus excavatum"	1.0	1.0	0.0	1.0	1.0
+"Abnormality of the skin"	1.0	0.0	0.0	0.0	0.0
+"Growth abnormality"	1.0	0.0	0.0	0.0	0.0
+"Humeroradial synostosis"	0.0	0.0	1.0	0.0	0.0
+"High palate"	1.0	1.0	0.0	1.0	1.0
+"Scoliosis"	1.0	1.0	0.0	1.0	1.0
+"Anterior segment dysgenesis"	1.0	0.0	0.0	0.0	0.0
+"Varicocele"	0.0	1.0	0.0	1.0	1.0
+"Oligodactyly"	0.0	0.0	1.0	0.0	0.0

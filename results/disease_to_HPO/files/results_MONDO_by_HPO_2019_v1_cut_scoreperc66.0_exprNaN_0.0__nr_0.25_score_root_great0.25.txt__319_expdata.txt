@@ -1,0 +1,8 @@
+	"MONDO.0007472"	"MONDO.0008945"	"MONDO.0009980"	"MONDO.0011964"
+"Optic nerve coloboma"	0.0	1.0	0.0	1.0
+"Retinal dystrophy"	1.0	1.0	1.0	1.0
+"Impaired smooth pursuit"	0.0	1.0	0.0	1.0
+"Abnormality of saccadic eye movements"	0.0	1.0	0.0	1.0
+"Abnormality of ocular smooth pursuit"	0.0	1.0	0.0	1.0
+"Dysgenesis of the cerebellar vermis"	0.0	1.0	0.0	1.0
+"Brainstem dysplasia"	0.0	1.0	0.0	1.0

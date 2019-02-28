@@ -1,0 +1,9 @@
+	"MONDO.0009069"	"MONDO.0009259"	"MONDO.0011309"	"MONDO.0014208"
+"Aminoaciduria"	1.0	1.0	1.0	1.0
+"Chronic lactic acidosis"	0.0	0.0	1.0	0.0
+"Renal Fanconi syndrome"	1.0	0.0	1.0	0.0
+"Increased serum iron"	0.0	0.0	1.0	0.0
+"Increased serum pyruvate"	0.0	0.0	1.0	0.0
+"Death in early adulthood"	0.0	0.0	1.0	0.0
+"Elevated hepatic iron concentration"	0.0	0.0	1.0	0.0
+"Decreased transferrin saturation"	0.0	0.0	1.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0007084"	"MONDO.0008175"	"MONDO.0011582"	"MONDO.0014356"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Palmoplantar hyperkeratosis"	1.0	1.0	0.0	0.0
+"Leukonychia"	1.0	0.0	0.0	1.0
+"Nail dysplasia"	1.0	1.0	0.0	0.0
+"Congenital alopecia totalis"	1.0	0.0	0.0	0.0
+"Nail dystrophy"	0.0	1.0	0.0	1.0
+"Palmoplantar hyperhidrosis"	0.0	1.0	0.0	0.0
+"Epidermoid cyst"	0.0	1.0	0.0	0.0
+"Steatocystoma multiplex"	0.0	1.0	0.0	0.0

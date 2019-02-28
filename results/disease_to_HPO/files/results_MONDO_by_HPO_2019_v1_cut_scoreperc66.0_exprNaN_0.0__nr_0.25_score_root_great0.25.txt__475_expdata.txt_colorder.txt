@@ -1,0 +1,5 @@
+"x"
+"1" "Aplasia/Hypoplasia of the eyebrow"
+"2" "Sparse or absent eyelashes"
+"3" "Hypoplasia of the epiglottis"
+"4" "Laryngeal hypoplasia"

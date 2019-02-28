@@ -1,0 +1,7 @@
+	"MONDO.0007440"	"MONDO.0009940"	"MONDO.0014196"	"MONDO.0014451"
+"HP:0000007"	0.0	0.0	1.0	1.0
+"Broad nasal tip"	0.0	0.0	1.0	1.0
+"Smooth philtrum"	0.0	0.0	0.0	1.0
+"Hypoplastic nipples"	0.0	0.0	0.0	1.0
+"Absent nipple"	0.0	0.0	0.0	1.0
+"Small earlobe"	0.0	0.0	0.0	1.0

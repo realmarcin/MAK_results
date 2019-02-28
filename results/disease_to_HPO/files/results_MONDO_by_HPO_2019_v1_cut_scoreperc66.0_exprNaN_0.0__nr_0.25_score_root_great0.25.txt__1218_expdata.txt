@@ -1,0 +1,11 @@
+	"MONDO.0009393"	"MONDO.0009548"	"MONDO.0013378"	"MONDO.0036484"
+"Hepatomegaly"	0.0	1.0	0.0	0.0
+"Broad forehead"	0.0	1.0	0.0	0.0
+"Growth abnormality"	0.0	1.0	0.0	0.0
+"Large for gestational age"	0.0	1.0	0.0	0.0
+"Recurrent respiratory infections"	0.0	1.0	0.0	0.0
+"Median cleft palate"	0.0	1.0	0.0	0.0
+"Respiratory insufficiency"	0.0	1.0	0.0	0.0
+"Respiratory infections in early life"	0.0	1.0	0.0	0.0
+"Abnormality of calvarial morphology"	0.0	1.0	0.0	0.0
+"Abnormality of the fontanelles or cranial sutures"	0.0	1.0	0.0	0.0

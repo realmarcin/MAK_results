@@ -1,0 +1,9 @@
+	"MONDO.0007530"	"MONDO.0007660"	"MONDO.0008058"	"MONDO.0008096"	"MONDO.0008319"	"MONDO.0008662"
+"Hypertelorism"	0.0	1.0	0.0	0.0	1.0	0.0
+"Seizures"	0.0	1.0	0.0	0.0	1.0	0.0
+"Broad nasal tip"	0.0	1.0	0.0	0.0	0.0	0.0
+"Round face"	0.0	1.0	0.0	0.0	1.0	0.0
+"Subcutaneous nodule"	0.0	1.0	0.0	0.0	1.0	0.0
+"Open mouth"	0.0	1.0	0.0	0.0	1.0	0.0
+"Nevus"	1.0	0.0	1.0	1.0	1.0	1.0
+"Generalized hirsutism"	0.0	1.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Depressivity"
+"2" "Tremor"
+"3" "HP:0003678"
+"4" "Bradykinesia"
+"5" "Personality changes"
+"6" "Supranuclear gaze palsy"
+"7" "Global brain atrophy"

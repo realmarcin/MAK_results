@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Narrow palate"
+"3" "Hypoplastic fingernail"
+"4" "Bilateral single transverse palmar creases"
+"5" "Hyperhidrosis"
+"6" "Small hand"
+"7" "Abnormality of the eyebrow"

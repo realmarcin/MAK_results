@@ -1,0 +1,7 @@
+"x"
+"1" "Bowel incontinence"
+"2" "Hyperkinesis"
+"3" "Drooling"
+"4" "Drowsiness"
+"5" "Muscular hypotonia of the trunk"
+"6" "Hypervalinemia"

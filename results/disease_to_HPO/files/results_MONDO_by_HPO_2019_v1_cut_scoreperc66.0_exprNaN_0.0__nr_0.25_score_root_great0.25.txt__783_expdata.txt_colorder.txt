@@ -1,0 +1,5 @@
+"x"
+"1" "Ulnar deviation of the 3rd finger"
+"2" "Complete duplication of distal phalanx of the thumb"
+"3" "Opposable triphalangeal thumb"
+"4" "Ulnar deviation of thumb"

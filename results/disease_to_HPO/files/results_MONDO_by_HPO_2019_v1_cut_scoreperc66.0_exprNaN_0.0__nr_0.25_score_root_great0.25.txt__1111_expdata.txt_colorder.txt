@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Eosinophilia"
+"3" "HP:0003593"
+"4" "Immunodeficiency"
+"5" "Protracted diarrhea"
+"6" "Decrease in T cell count"
+"7" "Susceptibility to herpesvirus"

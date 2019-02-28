@@ -1,0 +1,8 @@
+	"MONDO.0009911"	"MONDO.0014337"	"MONDO.0014742"	"MONDO.0014758"	"MONDO.0015022"
+"Synophrys"	1.0	1.0	1.0	1.0	1.0
+"Thin upper lip vermilion"	1.0	1.0	1.0	1.0	1.0
+"Deeply set eye"	1.0	0.0	1.0	0.0	1.0
+"Short philtrum"	1.0	0.0	0.0	1.0	0.0
+"Posteriorly rotated ears"	1.0	0.0	1.0	1.0	1.0
+"Upslanted palpebral fissure"	1.0	1.0	0.0	1.0	0.0
+"Downturned corners of mouth"	1.0	1.0	1.0	1.0	1.0

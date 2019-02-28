@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormal dermatoglyphics"
+"2" "Pectus carinatum"
+"3" "Posteriorly rotated ears"
+"4" "Ulnar deviation of finger"
+"5" "Tracheomalacia"

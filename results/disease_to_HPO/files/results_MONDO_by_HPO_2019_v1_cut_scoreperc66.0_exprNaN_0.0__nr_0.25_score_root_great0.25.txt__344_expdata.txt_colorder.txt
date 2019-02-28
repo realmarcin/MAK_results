@@ -1,0 +1,5 @@
+"x"
+"1" "Jaundice"
+"2" "Fever"
+"3" "Abnormality of skin pigmentation"
+"4" "Abnormality of the skeletal system"

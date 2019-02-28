@@ -1,0 +1,8 @@
+	"MONDO.0009618"	"MONDO.0010486"	"MONDO.0011049"	"MONDO.0013119"	"MONDO.0013589"	"MONDO.0014120"	"MONDO.0014715"
+"Ptosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0001417"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the pinna"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Microcornea"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Coloboma"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Pendular nystagmus"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

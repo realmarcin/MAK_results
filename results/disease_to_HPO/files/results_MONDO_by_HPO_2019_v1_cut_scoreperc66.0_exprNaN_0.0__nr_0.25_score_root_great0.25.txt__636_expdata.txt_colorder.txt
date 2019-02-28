@@ -1,0 +1,5 @@
+"x"
+"1" "Hypoplastic facial bones"
+"2" "Deformed sella turcica"
+"3" "Delayed femoral head ossification"
+"4" "Multicentric femoral head ossification"

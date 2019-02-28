@@ -1,0 +1,7 @@
+	"MONDO.0007933"	"MONDO.0010907"	"MONDO.0012675"	"MONDO.0012679"	"MONDO.0013110"	"MONDO.0013499"
+"Oral cleft"	0.0	1.0	0.0	0.0	0.0	0.0
+"Schizophrenia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Cholelithiasis"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0010982"	0.0	1.0	1.0	1.0	1.0	1.0
+"Acute lymphoblastic leukemia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Cleft lip"	0.0	1.0	0.0	0.0	0.0	0.0

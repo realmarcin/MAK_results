@@ -1,0 +1,9 @@
+	"MONDO.0008103"	"MONDO.0012112"	"MONDO.0012113"	"MONDO.0012737"	"MONDO.0013292"	"MONDO.0013370"
+"Vertigo"	0.0	0.0	1.0	0.0	1.0	0.0
+"Ventricular arrhythmia"	0.0	0.0	0.0	1.0	1.0	0.0
+"Palpitations"	0.0	1.0	1.0	0.0	1.0	0.0
+"Exertional dyspnea"	0.0	1.0	0.0	0.0	1.0	0.0
+"Ventricular hypertrophy"	0.0	0.0	0.0	0.0	1.0	1.0
+"Ventricular fibrillation"	1.0	1.0	1.0	0.0	1.0	0.0
+"Left ventricular septal hypertrophy"	0.0	0.0	1.0	0.0	1.0	0.0
+"T-wave inversion"	0.0	1.0	1.0	0.0	1.0	0.0

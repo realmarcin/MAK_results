@@ -1,0 +1,8 @@
+	"MONDO.0009618"	"MONDO.0011049"	"MONDO.0013119"	"MONDO.0013589"	"MONDO.0014120"	"MONDO.0014715"	"MONDO.0014794"
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Blepharitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Psoriasiform dermatitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Ichthyosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Congenital cataract"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Decreased circulating low-density lipoprotein levels"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypocholesterolemia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

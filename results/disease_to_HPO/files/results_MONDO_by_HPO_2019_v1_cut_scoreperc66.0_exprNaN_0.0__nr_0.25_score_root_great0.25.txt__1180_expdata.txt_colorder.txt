@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of cardiovascular system morphology"
+"2" "Hypodontia"
+"3" "Vesicoureteral reflux"
+"4" "Hip dysplasia"
+"5" "Joint hypermobility"

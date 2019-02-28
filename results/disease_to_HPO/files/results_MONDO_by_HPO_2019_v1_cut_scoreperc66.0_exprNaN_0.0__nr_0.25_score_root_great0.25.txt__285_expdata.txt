@@ -1,0 +1,5 @@
+	"MONDO.0009166"	"MONDO.0012430"	"MONDO.0013060"
+"Deep white matter hypodensities"	1.0	0.0	1.0
+"Chronic CSF lymphocytosis"	1.0	1.0	0.0
+"Increased CSF interferon alpha"	1.0	0.0	0.0
+"Chilblain lesions"	1.0	0.0	1.0

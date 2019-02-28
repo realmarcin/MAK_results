@@ -1,0 +1,7 @@
+	"MONDO.0007358"	"MONDO.0010602"	"MONDO.0007598"	"MONDO.0024525"	"MONDO.0010843"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Intestinal bleeding"	1.0	1.0	0.0	0.0	1.0
+"Colonic varices"	1.0	0.0	0.0	0.0	0.0
+"Reduced factor VIII activity"	0.0	1.0	1.0	0.0	0.0
+"Reduced factor VII activity"	0.0	1.0	0.0	0.0	0.0
+"Reduced factor IX activity"	0.0	0.0	1.0	1.0	0.0

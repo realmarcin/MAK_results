@@ -1,0 +1,8 @@
+"x"
+"1" "Arthralgia"
+"2" "Myalgia"
+"3" "Episodic fever"
+"4" "Urticaria"
+"5" "Headache"
+"6" "HP:0003593"
+"7" "Recurrent aphthous stomatitis"

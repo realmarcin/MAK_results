@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Intellectual disability, mild"
+"3" "Abnormality of cardiovascular system morphology"
+"4" "Scoliosis"
+"5" "HP:0003829"

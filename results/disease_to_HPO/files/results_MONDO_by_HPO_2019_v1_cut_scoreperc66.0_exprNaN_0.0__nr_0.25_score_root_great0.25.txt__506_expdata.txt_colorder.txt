@@ -1,0 +1,8 @@
+"x"
+"1" "Toe syndactyly"
+"2" "Conductive hearing impairment"
+"3" "Midface retrusion"
+"4" "Short palm"
+"5" "Short metacarpal"
+"6" "Short metatarsal"
+"7" "Broad face"

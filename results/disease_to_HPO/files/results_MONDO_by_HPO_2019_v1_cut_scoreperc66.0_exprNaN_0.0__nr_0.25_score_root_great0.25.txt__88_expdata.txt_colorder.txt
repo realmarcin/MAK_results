@@ -1,0 +1,7 @@
+"x"
+"1" "Nail dysplasia"
+"2" "Nail dystrophy"
+"3" "HP:0001596"
+"4" "Conjunctivitis"
+"5" "Photophobia"
+"6" "Blepharitis"

@@ -1,0 +1,8 @@
+"x"
+"1" "Soft skin"
+"2" "Osteopenia"
+"3" "Skeletal muscle atrophy"
+"4" "Proximal muscle weakness"
+"5" "Bruising susceptibility"
+"6" "Hyperextensible skin"
+"7" "Joint hypermobility"

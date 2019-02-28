@@ -1,0 +1,9 @@
+	"MONDO.0007356"	"MONDO.0007379"	"MONDO.0008387"	"MONDO.0011120"	"MONDO.0011234"	"MONDO.0011866"
+"Glaucoma"	1.0	1.0	1.0	1.0	1.0	1.0
+"Peters anomaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Rieger anomaly"	0.0	0.0	1.0	1.0	0.0	0.0
+"Enlarged cisterna magna"	0.0	0.0	0.0	1.0	0.0	0.0
+"Posterior embryotoxon"	1.0	0.0	1.0	1.0	1.0	0.0
+"Axenfeld anomaly"	0.0	0.0	0.0	1.0	0.0	0.0
+"Ectopia pupillae"	0.0	1.0	0.0	1.0	1.0	1.0
+"Abnormal iris vasculature"	0.0	0.0	0.0	1.0	0.0	0.0

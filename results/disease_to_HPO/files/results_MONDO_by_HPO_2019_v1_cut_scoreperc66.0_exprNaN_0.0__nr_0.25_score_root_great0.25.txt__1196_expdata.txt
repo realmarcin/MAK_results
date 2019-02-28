@@ -1,0 +1,10 @@
+	"MONDO.0007145"	"MONDO.0007593"	"MONDO.0009030"	"MONDO.0009031"	"MONDO.0011091"	"MONDO.0011408"
+"Peripheral neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0	0.0
+"Coarctation of aorta"	1.0	0.0	0.0	0.0	0.0	0.0
+"Macular coloboma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Facial palsy"	1.0	1.0	1.0	1.0	1.0	1.0
+"Linear nevus sebaceous"	1.0	0.0	0.0	0.0	0.0	0.0
+"Interrupted aortic arch"	1.0	0.0	0.0	0.0	0.0	0.0
+"Diabetes mellitus"	0.0	0.0	0.0	1.0	0.0	0.0
+"Recurrent external ophthalmoplegia"	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,11 @@
+	"MONDO.0010577"	"MONDO.0011640"	"MONDO.0012855"	"MONDO.0013218"	"MONDO.0013848"
+"Patent ductus arteriosus"	0.0	0.0	0.0	1.0	0.0
+"Micrognathia"	0.0	1.0	0.0	1.0	0.0
+"Short stature"	0.0	1.0	0.0	1.0	0.0
+"HP:0003593"	0.0	1.0	0.0	1.0	0.0
+"Reticulocytopenia"	0.0	0.0	0.0	1.0	0.0
+"Respiratory distress"	0.0	1.0	0.0	1.0	0.0
+"Ectopic kidney"	0.0	0.0	0.0	1.0	0.0
+"Anemia"	0.0	0.0	0.0	1.0	0.0
+"Congenital diaphragmatic hernia"	0.0	1.0	0.0	1.0	0.0
+"Broad neck"	0.0	1.0	0.0	1.0	0.0

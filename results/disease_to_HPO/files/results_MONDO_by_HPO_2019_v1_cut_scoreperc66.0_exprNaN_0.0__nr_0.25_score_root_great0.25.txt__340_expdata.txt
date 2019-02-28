@@ -1,0 +1,12 @@
+	"MONDO.0008863"	"MONDO.0009252"	"MONDO.0009666"	"MONDO.0009667"	"MONDO.0011629"
+"HP:0001596"	1.0	0.0	1.0	1.0	0.0
+"Skin rash"	0.0	0.0	1.0	1.0	0.0
+"Apnea"	0.0	1.0	1.0	0.0	1.0
+"HP:0001276"	0.0	0.0	1.0	1.0	0.0
+"Coma"	1.0	1.0	1.0	1.0	1.0
+"Keratoconjunctivitis"	0.0	0.0	1.0	1.0	0.0
+"Tachypnea"	0.0	0.0	1.0	1.0	1.0
+"Organic aciduria"	1.0	0.0	1.0	1.0	1.0
+"Hyperventilation"	0.0	1.0	1.0	1.0	0.0
+"Desquamation of skin soon after birth"	0.0	0.0	1.0	1.0	0.0
+"Perioral eczema"	0.0	0.0	1.0	1.0	0.0

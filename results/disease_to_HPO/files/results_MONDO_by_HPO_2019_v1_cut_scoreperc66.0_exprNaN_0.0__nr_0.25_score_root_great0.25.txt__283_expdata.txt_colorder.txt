@@ -1,0 +1,5 @@
+"x"
+"1" "Flattened metatarsal heads"
+"2" "Flattened metacarpal heads"
+"3" "Synovial hypertrophy"
+"4" "Generalized morning stiffness"

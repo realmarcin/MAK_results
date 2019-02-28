@@ -1,0 +1,9 @@
+	"MONDO.0010514"	"MONDO.0013353"	"MONDO.0014607"	"MONDO.0014700"	"MONDO.0044319"	"MONDO.0036483"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Gastroesophageal reflux"	1.0	0.0	1.0	1.0	1.0	1.0
+"Open mouth"	0.0	1.0	1.0	1.0	0.0	1.0
+"Feeding difficulties"	1.0	0.0	1.0	1.0	1.0	1.0
+"Impaired pain sensation"	0.0	0.0	0.0	1.0	0.0	0.0
+"Facial hypotonia"	0.0	0.0	1.0	1.0	0.0	0.0
+"Tented upper lip vermilion"	0.0	0.0	0.0	1.0	0.0	0.0

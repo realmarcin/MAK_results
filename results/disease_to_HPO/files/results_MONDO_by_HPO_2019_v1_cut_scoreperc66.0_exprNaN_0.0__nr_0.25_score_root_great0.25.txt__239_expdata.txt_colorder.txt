@@ -1,0 +1,4 @@
+"x"
+"1" "Limb hypertonia"
+"2" "Partial agenesis of the corpus callosum"
+"3" "Temperature instability"

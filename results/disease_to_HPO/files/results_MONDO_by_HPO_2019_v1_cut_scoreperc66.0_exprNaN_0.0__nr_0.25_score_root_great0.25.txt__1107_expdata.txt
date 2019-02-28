@@ -1,0 +1,8 @@
+	"MONDO.0009393"	"MONDO.0013378"	"MONDO.0014956"	"MONDO.0036484"
+"HP:0000007"	0.0	0.0	1.0	0.0
+"Reduced visual acuity"	0.0	0.0	1.0	1.0
+"Secondary amenorrhea"	0.0	0.0	1.0	0.0
+"Goiter"	0.0	0.0	1.0	0.0
+"Premature ovarian insufficiency"	0.0	0.0	1.0	0.0
+"Retinal dystrophy"	0.0	0.0	1.0	0.0
+"Pulmonary fibrosis"	0.0	0.0	1.0	0.0

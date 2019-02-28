@@ -1,0 +1,6 @@
+	"MONDO.0007284"	"MONDO.0009319"	"MONDO.0012342"	"MONDO.0013651"
+"Narrow nose"	0.0	1.0	0.0	0.0
+"Glaucoma"	1.0	1.0	1.0	0.0
+"Sparse eyelashes"	0.0	1.0	0.0	1.0
+"Sparse body hair"	0.0	1.0	0.0	1.0
+"Congenital cataract"	1.0	1.0	1.0	0.0

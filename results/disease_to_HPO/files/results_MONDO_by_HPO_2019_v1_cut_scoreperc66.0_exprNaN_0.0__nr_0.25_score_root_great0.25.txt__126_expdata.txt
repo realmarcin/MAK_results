@@ -1,0 +1,6 @@
+	"MONDO.0010220"	"MONDO.0011382"	"MONDO.0013033"
+"HP:0000007"	1.0	1.0	1.0
+"Seizures"	1.0	1.0	0.0
+"Muscular hypotonia"	1.0	1.0	0.0
+"Generalized hypotonia"	1.0	1.0	0.0
+"Blindness"	1.0	1.0	0.0

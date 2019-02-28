@@ -1,0 +1,5 @@
+	"MONDO.0008339"	"MONDO.0008409"	"MONDO.0009669"	"MONDO.0009927"	"MONDO.0010717"	"MONDO.0011149"
+"Multiple pterygia"	1.0	0.0	1.0	1.0	1.0	1.0
+"Amyoplasia"	0.0	1.0	1.0	0.0	1.0	0.0
+"Hypoplastic heart"	0.0	0.0	1.0	0.0	1.0	0.0
+"Abnormal cervical curvature"	0.0	0.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Folate deficiency"
+"2" "Biliary tract obstruction"
+"3" "Gastritis"
+"4" "Folate-unresponsive megaloblastic anemia"
+"5" "Microscopic nephrocalcinosis"

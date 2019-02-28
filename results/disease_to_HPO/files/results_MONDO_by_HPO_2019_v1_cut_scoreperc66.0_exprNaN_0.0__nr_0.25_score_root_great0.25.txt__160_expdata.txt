@@ -1,0 +1,6 @@
+	"MONDO.0010170"	"MONDO.0010172"	"MONDO.0011187"	"MONDO.0011196"	"MONDO.0011559"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Congenital sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0
+"Areflexia"	0.0	0.0	0.0	1.0	0.0
+"Rod-cone dystrophy"	1.0	1.0	1.0	1.0	1.0
+"Vestibular areflexia"	0.0	0.0	0.0	1.0	0.0

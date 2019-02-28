@@ -1,0 +1,9 @@
+	"MONDO.0007954"	"MONDO.0008022"	"MONDO.0014048"	"MONDO.0014049"
+"Hypoplasia of the maxilla"	1.0	1.0	1.0	1.0
+"Flat face"	1.0	0.0	0.0	0.0
+"Dental malocclusion"	1.0	0.0	0.0	0.0
+"Scoliosis"	1.0	1.0	1.0	1.0
+"Large earlobe"	1.0	0.0	0.0	0.0
+"Depressed nasal ridge"	1.0	0.0	0.0	0.0
+"Open bite"	1.0	0.0	0.0	0.0
+"Varicocele"	0.0	1.0	1.0	1.0

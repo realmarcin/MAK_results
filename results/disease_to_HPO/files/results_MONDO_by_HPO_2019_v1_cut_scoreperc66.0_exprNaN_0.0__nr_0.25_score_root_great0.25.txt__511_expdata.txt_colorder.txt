@@ -1,0 +1,8 @@
+"x"
+"1" "Hepatomegaly"
+"2" "Failure to thrive"
+"3" "Jaundice"
+"4" "Galactosuria"
+"5" "Impairment of galactose metabolism"
+"6" "Hypergalactosemia"
+"7" "Nausea and vomiting"

@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertriglyceridemia"
+"2" "Hypercholesterolemia"
+"3" "Intrahepatic cholestasis"
+"4" "Hyperbilirubinemia"
+"5" "Hypermethioninemia"
+"6" "Elevated plasma citrulline"

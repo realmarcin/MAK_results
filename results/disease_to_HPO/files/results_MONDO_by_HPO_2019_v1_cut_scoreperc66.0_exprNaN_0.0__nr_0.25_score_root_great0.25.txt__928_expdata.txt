@@ -1,0 +1,8 @@
+	"MONDO.0007333"	"MONDO.0008138"	"MONDO.0008545"	"MONDO.0009223"	"MONDO.0009527"
+"Aplasia/Hypoplasia of the ulna"	1.0	0.0	0.0	1.0	0.0
+"Hand monodactyly"	1.0	0.0	1.0	1.0	0.0
+"HP:0009556"	1.0	0.0	0.0	1.0	0.0
+"Aplasia of the ulna"	0.0	0.0	0.0	1.0	0.0
+"Foot monodactyly"	0.0	0.0	1.0	1.0	0.0
+"Bifid femur"	0.0	0.0	0.0	1.0	0.0
+"Aplasia/Hypoplasia of the tibia"	0.0	0.0	0.0	1.0	0.0

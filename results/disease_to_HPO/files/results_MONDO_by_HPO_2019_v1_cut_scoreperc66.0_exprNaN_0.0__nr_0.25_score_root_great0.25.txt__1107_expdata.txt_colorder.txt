@@ -1,0 +1,8 @@
+"x"
+"1" "Reduced visual acuity"
+"2" "HP:0000007"
+"3" "Secondary amenorrhea"
+"4" "Goiter"
+"5" "Premature ovarian insufficiency"
+"6" "Retinal dystrophy"
+"7" "Pulmonary fibrosis"

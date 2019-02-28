@@ -1,0 +1,8 @@
+	"MONDO.0007130"	"MONDO.0007208"	"MONDO.0007435"	"MONDO.0007688"	"MONDO.0007755"	"MONDO.0008127"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Narrow palate"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoplastic fingernail"	0.0	1.0	0.0	0.0	0.0	0.0
+"Bilateral single transverse palmar creases"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperhidrosis"	0.0	1.0	0.0	0.0	0.0	0.0
+"Small hand"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the eyebrow"	0.0	1.0	0.0	0.0	0.0	0.0

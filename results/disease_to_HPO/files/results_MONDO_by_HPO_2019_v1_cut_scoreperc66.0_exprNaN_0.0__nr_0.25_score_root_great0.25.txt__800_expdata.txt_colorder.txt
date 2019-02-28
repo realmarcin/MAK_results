@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertelorism"
+"2" "HP:0000007"
+"3" "Microphthalmia"
+"4" "Abnormality of the vertebral column"
+"5" "Anophthalmia"
+"6" "Cleft eyelid"

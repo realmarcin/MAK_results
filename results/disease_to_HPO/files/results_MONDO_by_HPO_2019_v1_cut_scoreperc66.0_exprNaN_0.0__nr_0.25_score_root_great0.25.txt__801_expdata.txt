@@ -1,0 +1,7 @@
+	"MONDO.0007553"	"MONDO.0010129"	"MONDO.0011421"	"MONDO.0012191"	"MONDO.0013249"	"MONDO.0014421"
+"HP:0000007"	1.0	1.0	0.0	1.0	1.0	0.0
+"Sensorineural hearing impairment"	0.0	1.0	0.0	1.0	0.0	0.0
+"Stage 5 chronic kidney disease"	0.0	0.0	0.0	1.0	1.0	0.0
+"Nail dystrophy"	1.0	0.0	0.0	1.0	0.0	0.0
+"Nephritis"	0.0	1.0	0.0	1.0	0.0	0.0
+"Pretibial blistering"	1.0	0.0	0.0	1.0	0.0	0.0

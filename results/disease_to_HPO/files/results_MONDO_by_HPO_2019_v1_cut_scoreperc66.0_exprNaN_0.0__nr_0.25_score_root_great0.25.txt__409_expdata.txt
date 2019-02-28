@@ -1,0 +1,7 @@
+	"MONDO.0007355"	"MONDO.0007883"	"MONDO.0008054"	"MONDO.0008376"	"MONDO.0011301"	"MONDO.0012046"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0001425"	0.0	0.0	0.0	0.0	1.0	1.0
+"Abnormality of the nervous system"	0.0	0.0	1.0	0.0	0.0	0.0
+"Retinal detachment"	1.0	1.0	1.0	1.0	1.0	1.0
+"Lattice retinal degeneration"	0.0	1.0	0.0	0.0	0.0	0.0
+"Severe Myopia"	0.0	0.0	1.0	0.0	1.0	1.0

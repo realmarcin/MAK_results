@@ -1,0 +1,9 @@
+	"MONDO.0008311"	"MONDO.0009106"	"MONDO.0010203"	"MONDO.0012127"
+"HP:0000007"	1.0	1.0	0.0	0.0
+"Short stature"	1.0	1.0	0.0	0.0
+"Narrow mouth"	1.0	1.0	0.0	0.0
+"Failure to thrive"	1.0	1.0	0.0	0.0
+"Thrombocytosis"	1.0	1.0	0.0	0.0
+"Proptosis"	1.0	1.0	0.0	0.0
+"Prominent forehead"	1.0	1.0	0.0	0.0
+"Sparse hair"	1.0	1.0	0.0	0.0

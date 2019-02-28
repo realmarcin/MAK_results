@@ -1,0 +1,4 @@
+"x"
+"1" "Cleft soft palate"
+"2" "Abnormality of parotid gland"
+"3" "Hypoplasia of the pharynx"

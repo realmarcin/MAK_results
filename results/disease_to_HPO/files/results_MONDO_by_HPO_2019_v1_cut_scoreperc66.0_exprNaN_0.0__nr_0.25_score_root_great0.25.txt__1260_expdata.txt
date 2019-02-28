@@ -1,0 +1,13 @@
+	"MONDO.0007104"	"MONDO.0010047"	"MONDO.0013343"	"MONDO.0013717"
+"Retrognathia"	0.0	1.0	0.0	0.0
+"Multiple lentigines"	0.0	1.0	0.0	0.0
+"Babinski sign"	0.0	1.0	0.0	0.0
+"Hip dislocation"	0.0	1.0	0.0	0.0
+"Narrow face"	0.0	1.0	0.0	0.0
+"Horseshoe kidney"	0.0	1.0	0.0	0.0
+"Waddling gait"	0.0	1.0	0.0	0.0
+"Vitiligo"	0.0	1.0	0.0	0.0
+"Hyperpigmentation in sun-exposed areas"	0.0	1.0	0.0	0.0
+"Silver-gray hair"	0.0	1.0	0.0	0.0
+"Premature graying of body hair"	0.0	1.0	0.0	0.0
+"HP:0012701"	0.0	1.0	0.0	0.0

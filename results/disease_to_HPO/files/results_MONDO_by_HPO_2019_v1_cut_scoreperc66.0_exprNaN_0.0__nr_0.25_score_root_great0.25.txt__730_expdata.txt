@@ -1,0 +1,7 @@
+	"MONDO.0008855"	"MONDO.0011010"	"MONDO.0012130"	"MONDO.0014078"
+"CNS hypomyelination"	0.0	1.0	1.0	0.0
+"Cerebral hypomyelination"	0.0	1.0	1.0	0.0
+"Severe global developmental delay"	0.0	1.0	1.0	1.0
+"Limb muscle weakness"	0.0	1.0	0.0	0.0
+"EMG: myopathic abnormalities"	0.0	1.0	0.0	0.0
+"Axial muscle weakness"	0.0	1.0	0.0	0.0

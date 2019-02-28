@@ -1,0 +1,7 @@
+"x"
+"1" "Exercise intolerance"
+"2" "Exercise-induced muscle cramps"
+"3" "Exercise-induced myoglobinuria"
+"4" "Hemolytic anemia"
+"5" "Reticulocytosis"
+"6" "Increased muscle glycogen content"

@@ -1,0 +1,9 @@
+	"MONDO.0009273"	"MONDO.0010993"	"MONDO.0042486"	"MONDO.0014592"
+"High forehead"	1.0	1.0	1.0	1.0
+"Arnold-Chiari type I malformation"	0.0	1.0	0.0	0.0
+"Radioulnar synostosis"	0.0	1.0	0.0	0.0
+"Sparse scalp hair"	0.0	1.0	0.0	0.0
+"Craniofacial asymmetry"	0.0	1.0	0.0	0.0
+"Broad eyebrow"	0.0	1.0	0.0	0.0
+"Pericarditis"	0.0	1.0	0.0	0.0
+"Broad philtrum"	0.0	1.0	0.0	0.0

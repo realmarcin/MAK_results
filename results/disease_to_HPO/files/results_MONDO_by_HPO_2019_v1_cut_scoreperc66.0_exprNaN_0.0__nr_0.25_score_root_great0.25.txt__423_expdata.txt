@@ -1,0 +1,8 @@
+	"MONDO.0007124"	"MONDO.0007236"	"MONDO.0007879"	"MONDO.0010286"	"MONDO.0010532"	"MONDO.0010855"
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0	0.0
+"Wide nasal bridge"	0.0	1.0	0.0	0.0	0.0	1.0
+"HP:0000006"	1.0	1.0	1.0	0.0	0.0	1.0
+"Hypospadias"	0.0	1.0	0.0	0.0	0.0	1.0
+"Telecanthus"	0.0	1.0	0.0	0.0	0.0	1.0
+"Aplasia cutis congenita"	0.0	1.0	0.0	0.0	0.0	1.0
+"Non-midline cleft lip"	1.0	1.0	1.0	1.0	1.0	0.0

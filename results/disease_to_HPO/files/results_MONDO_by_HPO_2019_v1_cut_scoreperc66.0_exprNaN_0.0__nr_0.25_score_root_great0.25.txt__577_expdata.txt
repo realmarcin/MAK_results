@@ -1,0 +1,7 @@
+	"MONDO.0008041"	"MONDO.0008906"	"MONDO.0011889"	"MONDO.0012560"	"MONDO.0014761"	"MONDO.0013433"
+"HP:0000007"	0.0	1.0	0.0	1.0	1.0	0.0
+"Neutropenia"	0.0	0.0	1.0	1.0	1.0	0.0
+"Immunodeficiency"	0.0	1.0	1.0	1.0	1.0	1.0
+"Anemia"	0.0	0.0	0.0	0.0	1.0	1.0
+"Meningitis"	0.0	1.0	0.0	0.0	1.0	0.0
+"Chronic oral candidiasis"	0.0	1.0	0.0	0.0	1.0	0.0

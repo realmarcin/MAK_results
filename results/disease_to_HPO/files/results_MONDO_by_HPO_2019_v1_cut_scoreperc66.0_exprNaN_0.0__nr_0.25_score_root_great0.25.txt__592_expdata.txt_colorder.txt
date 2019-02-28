@@ -1,0 +1,6 @@
+"x"
+"1" "Numerous pigmented freckles"
+"2" "Patchy hypo- and hyperpigmentation"
+"3" "Morphological abnormality of the central nervous system"
+"4" "HP:0031287"
+"5" "Abnormal size of the palpebral fissures"

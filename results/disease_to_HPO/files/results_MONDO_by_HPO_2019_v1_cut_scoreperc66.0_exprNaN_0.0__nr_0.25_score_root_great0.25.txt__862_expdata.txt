@@ -1,0 +1,6 @@
+	"MONDO.0007984"	"MONDO.0008431"	"MONDO.0008828"	"MONDO.0009602"	"MONDO.0010277"	"MONDO.0010464"
+"Distal shortening of limbs"	0.0	0.0	0.0	0.0	0.0	1.0
+"Enlargement of the proximal femoral epiphysis"	1.0	0.0	1.0	0.0	0.0	0.0
+"Metaphyseal cupping of metacarpals"	1.0	0.0	0.0	1.0	1.0	1.0
+"Metaphyseal cupping of proximal phalanges"	1.0	0.0	0.0	0.0	0.0	1.0
+"Broad middle phalanx of finger"	1.0	1.0	0.0	0.0	0.0	0.0

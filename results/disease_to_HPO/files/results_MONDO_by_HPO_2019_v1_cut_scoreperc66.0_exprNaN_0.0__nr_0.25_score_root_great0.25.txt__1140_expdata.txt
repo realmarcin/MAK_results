@@ -1,0 +1,7 @@
+	"MONDO.0008122"	"MONDO.0008622"	"MONDO.0009871"	"MONDO.0009873"	"MONDO.0011178"	"MONDO.0014385"
+"Intellectual disability"	0.0	0.0	0.0	1.0	0.0	0.0
+"HP:0003828"	0.0	0.0	0.0	1.0	0.0	0.0
+"Hypogonadism"	0.0	0.0	0.0	1.0	0.0	0.0
+"Sensorineural hearing impairment"	0.0	0.0	0.0	1.0	0.0	0.0
+"Anhidrosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Dry hair"	1.0	1.0	1.0	1.0	0.0	1.0

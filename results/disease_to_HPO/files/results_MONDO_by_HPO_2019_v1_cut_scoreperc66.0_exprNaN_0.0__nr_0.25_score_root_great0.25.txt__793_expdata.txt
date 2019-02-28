@@ -1,0 +1,7 @@
+	"MONDO.0013910"	"MONDO.0014116"	"MONDO.0014274"	"MONDO.0014304"	"MONDO.0014511"	"MONDO.0014562"	"MONDO.0014993"	"MONDO.0014997"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Highly arched eyebrow"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Coarse facial features"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Thin upper lip vermilion"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+"Spasticity"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0

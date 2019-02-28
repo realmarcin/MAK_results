@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Short stature"
+"3" "Global developmental delay"
+"4" "Elbow dislocation"
+"5" "Bowing of the long bones"
+"6" "Delayed closure of the anterior fontanelle"

@@ -1,0 +1,5 @@
+	"MONDO.0007538"	"MONDO.0009668"	"MONDO.0033004"
+"Short nasal bridge"	1.0	1.0	0.0
+"Uncontrolled eye movements"	0.0	1.0	0.0
+"Hypoplasia of the retina"	0.0	1.0	1.0
+"Enlarged flash visual evoked potentials"	0.0	1.0	0.0

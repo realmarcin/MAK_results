@@ -1,0 +1,8 @@
+	"MONDO.0007110"	"MONDO.0009199"	"MONDO.0011420"	"MONDO.0012148"	"MONDO.0013026"	"MONDO.0013136"
+"HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hyperkeratosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Fused cervical vertebrae"	0.0	0.0	0.0	0.0	1.0	0.0
+"Respiratory distress"	0.0	0.0	0.0	0.0	1.0	0.0
+"Fetal distress"	0.0	0.0	0.0	0.0	1.0	0.0
+"Stomatitis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Periostitis"	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Progressive flexion contractures"
+"2" "Projectile vomiting"
+"3" "Diffuse cerebral sclerosis"
+"4" "Hypochloremic metabolic alkalosis"
+"5" "Sudanophilic leukodystrophy"

@@ -1,0 +1,7 @@
+"x"
+"1" "Severe global developmental delay"
+"2" "CNS hypomyelination"
+"3" "Cerebral hypomyelination"
+"4" "Limb muscle weakness"
+"5" "EMG: myopathic abnormalities"
+"6" "Axial muscle weakness"

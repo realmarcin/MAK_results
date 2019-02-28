@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Microcephaly"
+"3" "Intellectual disability"
+"4" "Seizures"
+"5" "Global developmental delay"

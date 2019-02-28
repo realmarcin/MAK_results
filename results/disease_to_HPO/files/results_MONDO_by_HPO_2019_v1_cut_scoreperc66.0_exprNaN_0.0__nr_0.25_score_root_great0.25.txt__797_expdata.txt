@@ -1,0 +1,8 @@
+	"MONDO.0010602"	"MONDO.0007598"	"MONDO.0009207"	"MONDO.0009208"
+"HP:0000007"	0.0	0.0	1.0	1.0
+"Intracranial hemorrhage"	0.0	0.0	0.0	0.0
+"Abnormal bleeding"	0.0	0.0	1.0	1.0
+"Reduced factor VIII activity"	1.0	1.0	1.0	1.0
+"Reduced factor IX activity"	0.0	1.0	0.0	0.0
+"Spontaneous hematomas"	0.0	0.0	0.0	0.0
+"Reduced factor V activity"	0.0	0.0	1.0	1.0

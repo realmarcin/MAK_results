@@ -1,0 +1,7 @@
+	"MONDO.0008685"	"MONDO.0010646"	"MONDO.0010994"	"MONDO.0012375"	"MONDO.0012394"	"MONDO.0012735"	"MONDO.0044696"
+"Proteinuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Hematuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Shoulder muscle hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Malrotation of small bowel"	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+"Periventricular cysts"	1.0	1.0	0.0	0.0	1.0	0.0	1.0
+"Hypoplastic pubic rami"	1.0	0.0	0.0	1.0	0.0	0.0	0.0

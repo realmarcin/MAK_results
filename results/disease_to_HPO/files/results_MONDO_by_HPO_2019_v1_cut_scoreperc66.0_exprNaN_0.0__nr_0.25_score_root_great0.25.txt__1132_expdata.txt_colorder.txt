@@ -1,0 +1,7 @@
+"x"
+"1" "Decreased circulating low-density lipoprotein levels"
+"2" "Hypotriglyceridemia"
+"3" "Increased circulating high-density lipoprotein levels"
+"4" "Expressive language delay"
+"5" "Increased hepatocellular lipid droplets"
+"6" "Abnormality of vitamin metabolism"

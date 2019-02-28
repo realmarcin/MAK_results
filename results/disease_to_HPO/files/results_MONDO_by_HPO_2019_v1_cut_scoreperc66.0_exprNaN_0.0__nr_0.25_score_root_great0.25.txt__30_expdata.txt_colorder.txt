@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0001425"
+"2" "Sudden cardiac death"
+"3" "Syncope"
+"4" "Ventricular fibrillation"
+"5" "Prolonged QT interval"
+"6" "Torsade de pointes"
+"7" "Abnormality of the ear"

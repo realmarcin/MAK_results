@@ -1,0 +1,6 @@
+"x"
+"1" "Aplasia/Hypoplasia of the phalanges of the hand"
+"2" "Aplasia/Hypoplasia involving the metacarpal bones"
+"3" "Aplasia/Hypoplasia of metatarsal bones"
+"4" "Aplasia/Hypoplasia of the phalanges of the toes"
+"5" "Persistent cloaca"

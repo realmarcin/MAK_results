@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Reduced visual acuity"
+"3" "Microcornea"
+"4" "Astigmatism"
+"5" "Keratoconus"
+"6" "Congenital cataract"
+"7" "Hypoplasia of the iris"

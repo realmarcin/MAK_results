@@ -1,0 +1,5 @@
+"x"
+"1" "Strabismus"
+"2" "HP:0000007"
+"3" "Nystagmus"
+"4" "Intellectual disability"

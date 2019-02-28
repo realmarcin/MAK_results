@@ -1,0 +1,4 @@
+"x"
+"1" "Histidinuria"
+"2" "Rounded middle phalanx of finger"
+"3" "Impaired histidine renal tubular absorption"

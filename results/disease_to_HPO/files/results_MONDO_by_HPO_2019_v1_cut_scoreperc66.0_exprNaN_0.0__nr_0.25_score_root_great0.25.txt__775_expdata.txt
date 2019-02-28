@@ -1,0 +1,10 @@
+	"MONDO.0008017"	"MONDO.0008226"	"MONDO.0009927"	"MONDO.0010148"	"MONDO.0012657"
+"Ptosis"	1.0	0.0	1.0	0.0	0.0
+"Micrognathia"	1.0	0.0	1.0	0.0	0.0
+"Facial asymmetry"	1.0	0.0	1.0	0.0	0.0
+"Skeletal muscle atrophy"	0.0	0.0	1.0	0.0	1.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	1.0	0.0	1.0
+"Hip dislocation"	1.0	0.0	1.0	0.0	0.0
+"Turricephaly"	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the tongue"	0.0	1.0	1.0	1.0	0.0
+"Symphalangism affecting the phalanges of the hand"	1.0	0.0	1.0	0.0	0.0

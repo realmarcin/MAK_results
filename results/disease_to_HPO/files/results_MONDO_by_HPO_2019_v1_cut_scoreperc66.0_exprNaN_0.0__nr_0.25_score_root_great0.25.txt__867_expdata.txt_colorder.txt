@@ -1,0 +1,4 @@
+"x"
+"1" "Edema"
+"2" "Focal segmental glomerulosclerosis"
+"3" "Diffuse mesangial sclerosis"

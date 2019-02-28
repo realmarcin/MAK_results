@@ -1,0 +1,5 @@
+"x"
+"1" "Skin dimple over apex of long bone angulation"
+"2" "Phosphoethanolaminuria"
+"3" "Elevated urine pyrophosphate"
+"4" "Elevated plasma pyrophosphate"

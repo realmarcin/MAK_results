@@ -1,0 +1,11 @@
+	"MONDO.0010462"	"MONDO.0010469"	"MONDO.0010472"	"MONDO.0013182"
+"Anteverted nares"	0.0	0.0	1.0	1.0
+"Microcephaly"	0.0	0.0	1.0	1.0
+"Toe syndactyly"	0.0	0.0	1.0	1.0
+"Micrognathia"	0.0	0.0	1.0	1.0
+"Malar flattening"	1.0	0.0	0.0	1.0
+"Clinodactyly of the 5th finger"	0.0	0.0	1.0	1.0
+"High palate"	0.0	0.0	1.0	1.0
+"Synophrys"	1.0	0.0	1.0	1.0
+"Failure to thrive"	0.0	1.0	0.0	1.0
+"Abnormality of the outer ear"	0.0	0.0	0.0	1.0

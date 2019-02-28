@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0001425"
+"2" "HP:0000006"
+"3" "HP:0003621"
+"4" "Absence seizures"
+"5" "Morning myoclonic jerks"
+"6" "EEG with polyspike wave complexes"
+"7" "Generalized tonic-clonic seizures on awakening"

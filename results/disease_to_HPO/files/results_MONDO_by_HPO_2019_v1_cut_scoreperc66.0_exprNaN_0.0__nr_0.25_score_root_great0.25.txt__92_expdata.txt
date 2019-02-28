@@ -1,0 +1,5 @@
+	"MONDO.0012354"	"MONDO.0012730"	"MONDO.0060662"
+"HP:0000006"	1.0	1.0	0.0
+"Increased red blood cell mass"	1.0	0.0	0.0
+"Increased hematocrit"	1.0	1.0	1.0
+"Increased hemoglobin"	1.0	1.0	1.0

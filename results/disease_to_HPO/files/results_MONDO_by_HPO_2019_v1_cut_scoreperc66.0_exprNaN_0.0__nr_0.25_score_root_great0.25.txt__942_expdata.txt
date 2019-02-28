@@ -1,0 +1,7 @@
+	"MONDO.0007364"	"MONDO.0009545"	"MONDO.0010656"	"MONDO.0010668"	"MONDO.0010880"
+"Congenital kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0
+"Calf muscle hypoplasia"	1.0	0.0	0.0	0.0	0.0
+"Crumpled ear"	1.0	0.0	0.0	0.0	1.0
+"Patellar subluxation"	1.0	1.0	0.0	1.0	0.0
+"Abnormally folded helix"	1.0	0.0	1.0	0.0	0.0
+"HP:0010577"	0.0	0.0	0.0	0.0	1.0

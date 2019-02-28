@@ -1,0 +1,10 @@
+	"MONDO.0008726"	"MONDO.0024565"	"MONDO.0013401"
+"Arachnodactyly"	0.0	1.0	0.0
+"Craniosynostosis"	0.0	1.0	0.0
+"Choanal stenosis"	0.0	1.0	0.0
+"Choanal atresia"	0.0	1.0	0.0
+"Pear-shaped nose"	0.0	1.0	0.0
+"Increased circulating ACTH level"	1.0	1.0	1.0
+"Increased serum testosterone level"	0.0	1.0	0.0
+"Female external genitalia in individual with 46,XY karyotype"	1.0	1.0	1.0
+"Adrenocorticotropic hormone excess"	1.0	1.0	1.0

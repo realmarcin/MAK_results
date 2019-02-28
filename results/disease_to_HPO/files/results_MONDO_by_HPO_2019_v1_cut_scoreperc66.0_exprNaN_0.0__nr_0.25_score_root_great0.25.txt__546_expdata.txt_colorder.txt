@@ -1,0 +1,8 @@
+"x"
+"1" "Short stature"
+"2" "HP:0000007"
+"3" "Microcephaly"
+"4" "Intrauterine growth retardation"
+"5" "Acute myeloid leukemia"
+"6" "Abnormality of skin pigmentation"
+"7" "Retinal dystrophy"

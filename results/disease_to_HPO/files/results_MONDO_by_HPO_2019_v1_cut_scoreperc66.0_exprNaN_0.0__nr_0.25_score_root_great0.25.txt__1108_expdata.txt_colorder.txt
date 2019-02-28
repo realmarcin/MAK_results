@@ -1,0 +1,7 @@
+"x"
+"1" "Drusen"
+"2" "Vitelliform-like macular lesions"
+"3" "Choroidal neovascularization"
+"4" "Metamorphopsia"
+"5" "Moderate visual impairment"
+"6" "Peau d'orange"

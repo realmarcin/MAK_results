@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Failure to thrive"
+"3" "Nystagmus"
+"4" "Myopia"
+"5" "Feeding difficulties in infancy"
+"6" "Strabismus"

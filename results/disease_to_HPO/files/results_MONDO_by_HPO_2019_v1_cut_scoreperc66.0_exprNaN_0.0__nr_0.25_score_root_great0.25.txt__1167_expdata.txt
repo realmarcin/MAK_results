@@ -1,0 +1,7 @@
+	"MONDO.0007544"	"MONDO.0007895"	"MONDO.0009718"	"MONDO.0010646"	"MONDO.0010703"
+"Long eyelashes in irregular rows"	0.0	0.0	1.0	0.0	0.0
+"Hypoplasia of the abdominal wall musculature"	0.0	0.0	0.0	0.0	0.0
+"HP:0008038"	0.0	0.0	0.0	0.0	0.0
+"Elevated aldolase level"	1.0	0.0	1.0	0.0	0.0
+"Odontogenic neoplasm"	0.0	0.0	1.0	1.0	1.0
+"Abnormally straight spine"	0.0	1.0	1.0	0.0	0.0

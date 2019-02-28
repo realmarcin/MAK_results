@@ -1,0 +1,14 @@
+	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0010395"	"MONDO.0014211"
+"Depressed nasal bridge"	0.0	0.0	1.0	0.0
+"Midface retrusion"	0.0	0.0	1.0	0.0
+"HP:0003677"	0.0	0.0	1.0	0.0
+"Horizontal nystagmus"	0.0	0.0	1.0	0.0
+"Metaphyseal chondrodysplasia"	0.0	0.0	1.0	0.0
+"Reduced bone mineral density"	0.0	0.0	1.0	0.0
+"Toe walking"	0.0	0.0	1.0	0.0
+"Diffuse cerebral atrophy"	0.0	0.0	1.0	0.0
+"Enlargement of the wrists"	0.0	0.0	1.0	0.0
+"Abnormality of the optic nerve"	0.0	0.0	1.0	0.0
+"Abnormal brainstem MRI signal intensity"	0.0	0.0	1.0	0.0
+"HP:0030866"	0.0	0.0	1.0	0.0
+"Abnormality of the astrocytes"	0.0	0.0	1.0	0.0

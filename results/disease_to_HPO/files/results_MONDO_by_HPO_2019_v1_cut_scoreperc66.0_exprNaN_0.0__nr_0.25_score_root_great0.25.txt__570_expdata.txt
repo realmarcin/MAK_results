@@ -1,0 +1,8 @@
+	"MONDO.0008336"	"MONDO.0009027"	"MONDO.0009572"	"MONDO.0013055"	"MONDO.0014445"	"MONDO.0014449"
+"Cryptorchidism"	0.0	1.0	1.0	1.0	0.0	0.0
+"Hypertelorism"	1.0	1.0	1.0	0.0	0.0	0.0
+"Short neck"	1.0	1.0	1.0	0.0	0.0	0.0
+"Delayed skeletal maturation"	0.0	1.0	0.0	1.0	0.0	0.0
+"Renal insufficiency"	0.0	1.0	0.0	0.0	1.0	1.0
+"Adrenal hypoplasia"	0.0	0.0	1.0	0.0	0.0	0.0
+"External genital hypoplasia"	1.0	0.0	1.0	1.0	1.0	1.0

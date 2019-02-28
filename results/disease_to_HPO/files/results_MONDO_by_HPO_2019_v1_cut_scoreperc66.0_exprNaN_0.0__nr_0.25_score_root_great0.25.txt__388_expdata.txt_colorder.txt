@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Short thumb"
+"3" "Chromosomal breakage induced by crosslinking agents"
+"4" "Microcephaly"
+"5" "Cafe-au-lait spot"
+"6" "Intrauterine growth retardation"
+"7" "Bone marrow hypocellularity"

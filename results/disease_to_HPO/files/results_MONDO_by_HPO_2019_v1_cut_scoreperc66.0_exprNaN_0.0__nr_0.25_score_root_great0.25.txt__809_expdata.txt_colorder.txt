@@ -1,0 +1,8 @@
+"x"
+"1" "Reduced visual acuity"
+"2" "Myopia"
+"3" "Nystagmus"
+"4" "Coloboma"
+"5" "Microcornea"
+"6" "Increased intraocular pressure"
+"7" "Macular atrophy"

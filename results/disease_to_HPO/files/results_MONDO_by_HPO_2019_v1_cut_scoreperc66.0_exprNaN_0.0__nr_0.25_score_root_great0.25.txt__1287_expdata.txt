@@ -1,0 +1,20 @@
+	"MONDO.0024527"	"MONDO.0008758"	"MONDO.0009873"	"MONDO.0010868"
+"Wide nasal bridge"	1.0	0.0	0.0	0.0
+"Global developmental delay"	1.0	0.0	0.0	0.0
+"Mandibular prognathia"	1.0	0.0	0.0	0.0
+"Long nose"	1.0	0.0	0.0	0.0
+"Epicanthus"	1.0	0.0	0.0	0.0
+"Freckling"	1.0	0.0	0.0	0.0
+"HP:0003676"	1.0	0.0	0.0	0.0
+"Oval face"	1.0	0.0	0.0	0.0
+"Sparse eyelashes"	1.0	0.0	0.0	0.0
+"Prominent nasal bridge"	1.0	0.0	0.0	0.0
+"Chronic kidney disease"	1.0	0.0	0.0	0.0
+"Sparse and thin eyebrow"	1.0	0.0	0.0	0.0
+"Reduced subcutaneous adipose tissue"	1.0	0.0	0.0	0.0
+"Membranoproliferative glomerulonephritis"	1.0	0.0	0.0	0.0
+"Facial telangiectasia in butterfly midface distribution"	1.0	0.0	0.0	0.0
+"Pulmonary lymphangiectasia"	1.0	0.0	0.0	0.0
+"HP:0007543"	1.0	0.0	0.0	0.0
+"Telangiectasia of extensor surfaces"	1.0	0.0	0.0	0.0
+"Thick vermilion border"	1.0	0.0	0.0	0.0

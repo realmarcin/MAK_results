@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Ventriculomegaly"
+"3" "Fatigue"
+"4" "Kinetic tremor"
+"5" "Restrictive cardiomyopathy"
+"6" "Upper limb postural tremor"

@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Vomiting"
+"3" "Papule"
+"4" "Epidermal acanthosis"
+"5" "Long eyelashes"
+"6" "Pustule"
+"7" "Recurrent bronchiolitis"

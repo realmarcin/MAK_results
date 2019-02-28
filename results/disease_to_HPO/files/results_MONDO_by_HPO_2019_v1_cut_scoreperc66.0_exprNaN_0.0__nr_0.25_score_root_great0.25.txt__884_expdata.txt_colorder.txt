@@ -1,0 +1,6 @@
+"x"
+"1" "Absence of pectoralis minor muscle"
+"2" "Aplasia/Hypoplasia of the sternum"
+"3" "Finger symphalangism"
+"4" "Neoplasm of the breast"
+"5" "HP:0007519"

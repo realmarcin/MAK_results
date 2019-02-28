@@ -1,0 +1,8 @@
+	"MONDO.0007497"	"MONDO.0010093"	"MONDO.0012790"	"MONDO.0014034"	"MONDO.0014664"
+"Cryptorchidism"	0.0	1.0	0.0	0.0	1.0
+"Delayed skeletal maturation"	0.0	1.0	0.0	0.0	1.0
+"Decreased body weight"	0.0	1.0	0.0	0.0	1.0
+"Prominent forehead"	0.0	1.0	0.0	0.0	1.0
+"Limb dystonia"	1.0	1.0	1.0	1.0	0.0
+"Finger clinodactyly"	0.0	1.0	0.0	0.0	1.0
+"Ambiguous genitalia"	0.0	1.0	0.0	0.0	1.0

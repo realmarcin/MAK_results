@@ -1,0 +1,4 @@
+"x"
+"1" "Dementia"
+"2" "Tortuous cerebral arteries"
+"3" "Recurrent cerebral hemorrhage"

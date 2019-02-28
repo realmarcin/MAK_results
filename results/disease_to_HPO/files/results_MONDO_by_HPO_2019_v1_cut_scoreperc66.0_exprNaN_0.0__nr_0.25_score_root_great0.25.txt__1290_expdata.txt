@@ -1,0 +1,21 @@
+	"MONDO.0007668"	"MONDO.0009747"	"MONDO.0011984"	"MONDO.0012055"
+"Intellectual disability"	0.0	1.0	0.0	0.0
+"Global developmental delay"	0.0	1.0	0.0	0.0
+"Thickened skin"	0.0	1.0	0.0	0.0
+"Self-mutilation"	0.0	1.0	0.0	0.0
+"Hyperactivity"	0.0	1.0	0.0	0.0
+"Nail dysplasia"	0.0	1.0	0.0	0.0
+"Lichenification"	0.0	1.0	0.0	0.0
+"Opacification of the corneal stroma"	0.0	1.0	0.0	0.0
+"Keratitis"	0.0	1.0	0.0	0.0
+"Irritability"	0.0	1.0	0.0	0.0
+"Recurrent corneal erosions"	0.0	1.0	0.0	0.0
+"Self-injurious behavior"	0.0	1.0	0.0	0.0
+"Emotional lability"	0.0	1.0	0.0	0.0
+"HP:0004782"	0.0	1.0	0.0	0.0
+"Corneal scarring"	0.0	1.0	0.0	0.0
+"Corneal ulceration"	0.0	1.0	0.0	0.0
+"Abnormality of dental color"	0.0	1.0	0.0	0.0
+"Neuropathic arthropathy"	0.0	1.0	0.0	0.0
+"Lack of skin elasticity"	0.0	1.0	0.0	0.0
+"Postural hypotension with compensatory tachycardia"	0.0	1.0	0.0	0.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Neonatal death"
+"2" "HP:0001417"
+"3" "Hand oligodactyly"
+"4" "Endocardial fibroelastosis"
+"5" "Abnormality of the genitourinary system"
+"6" "Aplasia of the ulna"
+"7" "Hydrops fetalis"

@@ -1,0 +1,7 @@
+"x"
+"1" "Mydriasis"
+"2" "Retinal infarction"
+"3" "Periventricular white matter hyperdensities"
+"4" "Saccular conjunctival dilatations"
+"5" "Abnormal distribution of retinal arterioles and venules"
+"6" "Hyperperistalsis"

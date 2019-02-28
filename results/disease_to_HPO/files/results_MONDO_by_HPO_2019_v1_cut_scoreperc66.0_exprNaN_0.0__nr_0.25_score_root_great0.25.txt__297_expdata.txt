@@ -1,0 +1,9 @@
+	"MONDO.0007496"	"MONDO.0015278"	"MONDO.0011552"	"MONDO.0011707"	"MONDO.0012445"	"MONDO.0014797"
+"Gait ataxia"	1.0	0.0	1.0	0.0	1.0	0.0
+"Parkinsonism"	1.0	1.0	1.0	1.0	0.0	1.0
+"Neurofibrillary tangles"	0.0	0.0	0.0	0.0	1.0	1.0
+"Rigidity"	1.0	1.0	1.0	1.0	0.0	1.0
+"Bradykinesia"	1.0	1.0	1.0	1.0	1.0	0.0
+"Intention tremor"	0.0	1.0	0.0	0.0	1.0	0.0
+"HP:0011463"	1.0	0.0	0.0	0.0	1.0	0.0
+"Parkinsonism with favorable response to dopaminergic medication"	1.0	1.0	1.0	1.0	0.0	0.0

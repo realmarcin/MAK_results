@@ -1,0 +1,10 @@
+	"MONDO.0009399"	"MONDO.0010257"	"MONDO.0010463"	"MONDO.0013174"	"MONDO.0013883"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0
+"Peripheral neuropathy"	0.0	0.0	1.0	0.0	0.0
+"Hirsutism"	0.0	0.0	1.0	0.0	0.0
+"IgA deficiency"	0.0	0.0	1.0	0.0	0.0
+"IgM deficiency"	0.0	0.0	1.0	0.0	0.0
+"Protruding ear"	0.0	0.0	1.0	0.0	0.0
+"Unsteady gait"	0.0	0.0	1.0	0.0	0.0
+"IgG deficiency"	0.0	0.0	1.0	0.0	0.0
+"Prominent glabella"	0.0	0.0	1.0	0.0	0.0

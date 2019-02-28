@@ -1,0 +1,7 @@
+"x"
+"1" "Small epiphyses"
+"2" "Irregular epiphyses"
+"3" "Platyspondyly"
+"4" "Epiphyseal dysplasia"
+"5" "Flattened epiphysis"
+"6" "Knee osteoarthritis"

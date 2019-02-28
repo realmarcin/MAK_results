@@ -1,0 +1,8 @@
+	"MONDO.0007351"	"MONDO.0007721"	"MONDO.0008137"	"MONDO.0009121"	"MONDO.0012052"	"MONDO.0014427"
+"HP:0000006"	1.0	0.0	1.0	0.0	1.0	1.0
+"Ventriculomegaly"	1.0	0.0	1.0	0.0	0.0	0.0
+"Growth delay"	1.0	0.0	1.0	0.0	0.0	0.0
+"Reduced visual acuity"	1.0	0.0	1.0	0.0	0.0	1.0
+"Vesicoureteral reflux"	1.0	0.0	1.0	0.0	0.0	0.0
+"Corneal opacity"	1.0	0.0	1.0	0.0	1.0	0.0
+"Optic nerve aplasia"	1.0	0.0	1.0	0.0	0.0	0.0

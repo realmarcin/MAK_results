@@ -1,0 +1,8 @@
+	"MONDO.0010474"	"MONDO.0012246"	"MONDO.0013390"	"MONDO.0014612"	"MONDO.0060621"	"MONDO.0030921"
+"Kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Spasticity"	1.0	1.0	1.0	1.0	1.0	0.0
+"Cardiomegaly"	1.0	0.0	0.0	0.0	0.0	0.0
+"Congestive heart failure"	1.0	0.0	0.0	0.0	0.0	0.0
+"Atrial flutter"	1.0	0.0	0.0	0.0	0.0	0.0
+"Macroorchidism"	1.0	0.0	0.0	0.0	0.0	0.0
+"Contractures of the large joints"	1.0	0.0	0.0	0.0	0.0	0.0

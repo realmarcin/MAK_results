@@ -1,0 +1,10 @@
+	"MONDO.0010247"	"MONDO.0011508"	"MONDO.0012615"	"MONDO.0014648"	"MONDO.0024569"
+"Anisopoikilocytosis"	0.0	0.0	0.0	1.0	0.0
+"HP:0003593"	1.0	1.0	1.0	1.0	1.0
+"Broad-based gait"	0.0	0.0	0.0	1.0	0.0
+"Renal tubular acidosis"	0.0	0.0	0.0	1.0	0.0
+"Acanthocytosis"	0.0	0.0	0.0	1.0	0.0
+"Hyperammonemia"	0.0	0.0	0.0	1.0	0.0
+"Epileptic encephalopathy"	0.0	0.0	0.0	1.0	0.0
+"Schistocytosis"	0.0	0.0	0.0	1.0	0.0
+"Abnormal glycosylation"	0.0	0.0	0.0	1.0	0.0

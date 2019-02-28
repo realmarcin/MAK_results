@@ -1,0 +1,11 @@
+	"MONDO.0007164"	"MONDO.0007347"	"MONDO.0008044"	"MONDO.0054736"
+"HP:0000006"	1.0	1.0	1.0	0.0
+"Hearing impairment"	0.0	1.0	1.0	0.0
+"Ataxia"	1.0	1.0	1.0	1.0
+"Bilateral sensorineural hearing impairment"	0.0	0.0	1.0	0.0
+"Dysarthria"	1.0	0.0	1.0	0.0
+"Progressive gait ataxia"	0.0	0.0	1.0	0.0
+"Progressive cerebellar ataxia"	1.0	0.0	1.0	0.0
+"EMG: neuropathic changes"	0.0	0.0	1.0	0.0
+"Areflexia of lower limbs"	0.0	0.0	1.0	0.0
+"Generalized amyotrophy"	0.0	0.0	1.0	0.0

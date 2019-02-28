@@ -1,0 +1,8 @@
+	"MONDO.0008941"	"MONDO.0012212"	"MONDO.0013337"	"MONDO.0013988"	"MONDO.0014142"	"MONDO.0014772"
+"Hypertelorism"	0.0	0.0	0.0	0.0	0.0	1.0
+"Strabismus"	1.0	1.0	1.0	1.0	1.0	0.0
+"HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0
+"Microcephaly"	1.0	1.0	1.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	0.0	1.0	1.0	1.0
+"Nystagmus"	1.0	1.0	1.0	1.0	1.0	1.0

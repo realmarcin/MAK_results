@@ -1,0 +1,5 @@
+	"MONDO.0007517"	"MONDO.0008464"	"MONDO.0008466"	"MONDO.0008467"	"MONDO.0008545"	"MONDO.0008608"	"MONDO.0008720"	"MONDO.0011537"	"MONDO.0014970"
+"Split hand"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Split foot"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Increased urinary sedoheptulose"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+"Neonatal asphyxia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

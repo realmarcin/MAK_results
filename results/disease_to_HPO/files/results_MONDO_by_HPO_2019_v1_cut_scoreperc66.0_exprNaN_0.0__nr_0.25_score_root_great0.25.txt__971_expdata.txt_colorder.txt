@@ -1,0 +1,8 @@
+"x"
+"1" "Cirrhosis"
+"2" "Ridged nail"
+"3" "Premature loss of teeth"
+"4" "Dermal atrophy"
+"5" "Myelodysplasia"
+"6" "Oral leukoplakia"
+"7" "Bone marrow hypocellularity"

@@ -1,0 +1,7 @@
+"x"
+"1" "Proteinuria"
+"2" "Stage 5 chronic kidney disease"
+"3" "Hypertension"
+"4" "Nephrotic syndrome"
+"5" "Microscopic hematuria"
+"6" "Reduced muscle carnitine level"

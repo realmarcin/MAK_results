@@ -1,0 +1,7 @@
+	"MONDO.0008116"	"MONDO.0008587"	"MONDO.0008644"	"MONDO.0009672"	"MONDO.0013567"	"MONDO.0013797"
+"Lumbar hyperlordosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Esophageal atresia"	1.0	1.0	1.0	0.0	1.0	1.0
+"Hyperlordosis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Tracheoesophageal fistula"	1.0	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the hip bone"	0.0	0.0	0.0	1.0	0.0	0.0
+"Abnormality of the palate"	0.0	0.0	0.0	1.0	0.0	0.0

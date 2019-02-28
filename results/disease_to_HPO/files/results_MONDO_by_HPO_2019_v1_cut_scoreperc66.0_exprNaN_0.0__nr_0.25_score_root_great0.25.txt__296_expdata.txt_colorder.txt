@@ -1,0 +1,7 @@
+"x"
+"1" "Incoordination"
+"2" "Dysmetria"
+"3" "Slurred speech"
+"4" "Intention tremor"
+"5" "Clumsiness"
+"6" "Slow saccadic eye movements"

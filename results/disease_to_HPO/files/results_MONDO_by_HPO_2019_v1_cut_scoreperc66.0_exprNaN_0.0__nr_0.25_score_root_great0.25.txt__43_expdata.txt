@@ -1,0 +1,8 @@
+	"MONDO.0011439"	"MONDO.0014893"	"MONDO.0014932"
+"Microcephaly"	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0
+"Dental crowding"	0.0	1.0	1.0
+"Thick eyebrow"	1.0	1.0	1.0
+"Synophrys"	1.0	1.0	1.0
+"Delayed speech and language development"	1.0	1.0	0.0
+"Poor speech"	0.0	1.0	1.0

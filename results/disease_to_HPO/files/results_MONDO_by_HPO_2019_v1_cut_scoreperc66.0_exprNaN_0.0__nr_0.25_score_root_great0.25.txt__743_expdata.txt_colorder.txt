@@ -1,0 +1,4 @@
+"x"
+"1" "Elevated hepatic transaminases"
+"2" "Cholelithiasis"
+"3" "Iron deficiency anemia"

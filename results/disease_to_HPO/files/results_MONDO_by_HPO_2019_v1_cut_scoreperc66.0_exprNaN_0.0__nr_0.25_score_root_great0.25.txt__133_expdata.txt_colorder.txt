@@ -1,0 +1,7 @@
+"x"
+"1" "Hepatomegaly"
+"2" "HP:0000007"
+"3" "Splenomegaly"
+"4" "Jaundice"
+"5" "Feeding difficulties"
+"6" "Retinal atrophy"

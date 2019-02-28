@@ -1,0 +1,6 @@
+"x"
+"1" "Lack of spontaneous play"
+"2" "Restrictive behavior"
+"3" "Increased serum serotonin"
+"4" "Impaired ability to form peer relationships"
+"5" "Lack of peer relationships"

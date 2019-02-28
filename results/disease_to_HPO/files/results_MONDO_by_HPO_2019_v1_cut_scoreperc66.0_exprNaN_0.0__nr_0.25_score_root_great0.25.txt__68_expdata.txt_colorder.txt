@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Global developmental delay"
+"3" "Short stature"
+"4" "Intellectual disability"
+"5" "Kyphoscoliosis"
+"6" "Deeply set eye"
+"7" "Anteverted ears"

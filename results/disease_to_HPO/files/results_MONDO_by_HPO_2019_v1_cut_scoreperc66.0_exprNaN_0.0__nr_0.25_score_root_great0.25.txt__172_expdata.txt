@@ -1,0 +1,4 @@
+	"MONDO.0007535"	"MONDO.0009775"	"MONDO.0011929"
+"Ureteral duplication"	1.0	0.0	1.0
+"Urogenital fistula"	1.0	0.0	1.0
+"Intestinal duplication"	0.0	1.0	1.0

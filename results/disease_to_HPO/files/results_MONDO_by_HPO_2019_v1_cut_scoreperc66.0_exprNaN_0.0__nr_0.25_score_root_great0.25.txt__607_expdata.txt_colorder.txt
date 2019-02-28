@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0004782"
+"2" "Pectus excavatum"
+"3" "Congestive heart failure"
+"4" "Obstructive sleep apnea"
+"5" "Dolichocephaly"
+"6" "Scaphocephaly"

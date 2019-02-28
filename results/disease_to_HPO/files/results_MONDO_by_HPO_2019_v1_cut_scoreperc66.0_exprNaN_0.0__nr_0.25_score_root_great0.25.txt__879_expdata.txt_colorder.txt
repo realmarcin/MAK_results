@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Abnormality of the mouth"
+"3" "Ichthyosis"
+"4" "Thick nail"
+"5" "Subungual hyperkeratosis"
+"6" "Erythema"

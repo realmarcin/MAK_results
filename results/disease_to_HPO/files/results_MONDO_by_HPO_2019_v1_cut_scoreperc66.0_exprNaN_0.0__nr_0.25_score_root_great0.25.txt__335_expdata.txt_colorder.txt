@@ -1,0 +1,7 @@
+"x"
+"1" "Palmoplantar keratoderma"
+"2" "Dry skin"
+"3" "Sclerodactyly"
+"4" "Nail dystrophy"
+"5" "Lack of skin elasticity"
+"6" "Aplasia/Hypoplasia of the skin"

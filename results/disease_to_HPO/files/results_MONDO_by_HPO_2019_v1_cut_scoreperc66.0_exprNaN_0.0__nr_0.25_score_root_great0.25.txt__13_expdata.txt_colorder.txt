@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the ribs"
+"2" "Micromelia"
+"3" "HP:0008056"
+"4" "Increased number of teeth"

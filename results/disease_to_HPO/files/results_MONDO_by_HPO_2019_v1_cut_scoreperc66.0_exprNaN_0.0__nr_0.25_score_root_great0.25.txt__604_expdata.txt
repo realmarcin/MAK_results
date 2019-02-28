@@ -1,0 +1,7 @@
+	"MONDO.0007378"	"MONDO.0008467"	"MONDO.0010270"	"MONDO.0013614"	"MONDO.0044725"
+"Strabismus"	1.0	1.0	1.0	1.0	1.0
+"Hypermetropia"	0.0	0.0	0.0	0.0	1.0
+"Cataract"	1.0	1.0	1.0	1.0	1.0
+"Pericardial effusion"	0.0	0.0	0.0	0.0	1.0
+"Camptodactyly"	0.0	0.0	0.0	0.0	1.0
+"Overlapping toe"	0.0	0.0	0.0	0.0	1.0

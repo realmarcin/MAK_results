@@ -1,0 +1,8 @@
+	"MONDO.0024524"	"MONDO.0011252"	"MONDO.0014991"
+"HP:0000006"	1.0	1.0	0.0
+"HP:0003593"	1.0	1.0	0.0
+"Torsion dystonia"	1.0	1.0	0.0
+"Macular hyperpigmentation"	1.0	0.0	0.0
+"Hyperpigmented/hypopigmented macules"	1.0	0.0	0.0
+"Macule"	1.0	0.0	0.0
+"Macular hypopigmentation"	1.0	0.0	0.0

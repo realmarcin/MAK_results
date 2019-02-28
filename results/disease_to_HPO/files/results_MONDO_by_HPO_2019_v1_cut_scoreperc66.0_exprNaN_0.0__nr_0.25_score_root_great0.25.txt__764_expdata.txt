@@ -1,0 +1,6 @@
+	"MONDO.0013749"	"MONDO.0013904"	"MONDO.0014058"	"MONDO.0014426"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Elevated alpha-fetoprotein"	0.0	0.0	0.0	1.0
+"Perimembranous ventricular septal defect"	1.0	0.0	0.0	0.0
+"Melanoma"	0.0	0.0	1.0	0.0
+"Horizontal pendular nystagmus"	0.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0001417"
+"2" "HP:0001419"
+"3" "Intellectual disability, mild"
+"4" "Synophrys"

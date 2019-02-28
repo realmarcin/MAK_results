@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0001417"
+"2" "Progressive visual loss"
+"3" "Constriction of peripheral visual field"
+"4" "Nyctalopia"
+"5" "Chorioretinal degeneration"
+"6" "Immotile cilia"

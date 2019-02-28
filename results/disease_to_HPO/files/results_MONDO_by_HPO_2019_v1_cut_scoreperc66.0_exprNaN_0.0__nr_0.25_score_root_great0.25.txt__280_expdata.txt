@@ -1,0 +1,9 @@
+	"MONDO.0009009"	"MONDO.0009011"	"MONDO.0009076"	"MONDO.0014933"
+"Hypertelorism"	1.0	1.0	0.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Patent ductus arteriosus"	1.0	1.0	1.0	0.0
+"Broad hallux"	1.0	1.0	0.0	1.0
+"Coarctation of aorta"	1.0	1.0	0.0	0.0
+"Complete atrioventricular canal defect"	1.0	1.0	0.0	0.0
+"Hamartoma of tongue"	1.0	0.0	0.0	0.0
+"Benign neoplasm of the central nervous system"	1.0	0.0	0.0	0.0

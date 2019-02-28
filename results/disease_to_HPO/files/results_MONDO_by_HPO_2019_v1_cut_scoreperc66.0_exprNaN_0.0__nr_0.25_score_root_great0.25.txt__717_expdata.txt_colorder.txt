@@ -1,0 +1,7 @@
+"x"
+"1" "Azoospermia"
+"2" "HP:0000007"
+"3" "Cryptozoospermia"
+"4" "HP:0001425"
+"5" "Decreased testicular size"
+"6" "HP:0001450"

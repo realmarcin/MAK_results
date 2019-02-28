@@ -1,0 +1,7 @@
+"x"
+"1" "Hypercalciuria"
+"2" "Nephrocalcinosis"
+"3" "Proximal tubulopathy"
+"4" "Low-molecular-weight proteinuria"
+"5" "Hypophosphatemia"
+"6" "Nephrolithiasis"

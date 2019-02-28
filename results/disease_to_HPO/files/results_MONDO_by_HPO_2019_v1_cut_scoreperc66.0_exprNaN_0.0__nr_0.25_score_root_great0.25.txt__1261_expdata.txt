@@ -1,0 +1,15 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0011225"
+"HP:0003745"	0.0	0.0	0.0	1.0
+"Abnormality of the immune system"	0.0	0.0	0.0	1.0
+"Tremor"	0.0	0.0	0.0	1.0
+"Fasciculations"	0.0	0.0	0.0	1.0
+"Degeneration of anterior horn cells"	0.0	0.0	0.0	1.0
+"HP:0003587"	0.0	0.0	0.0	1.0
+"EMG: neuropathic changes"	0.0	0.0	0.0	1.0
+"Upper limb muscle weakness"	0.0	0.0	0.0	1.0
+"Interosseus muscle atrophy"	0.0	0.0	0.0	1.0
+"EMG abnormality"	0.0	0.0	0.0	1.0
+"Distal upper limb amyotrophy"	0.0	0.0	0.0	1.0
+"Abnormality of peripheral nerve conduction"	0.0	0.0	0.0	1.0
+"Cervical spinal cord atrophy"	0.0	0.0	0.0	1.0
+"HP:0031372"	0.0	0.0	0.0	1.0

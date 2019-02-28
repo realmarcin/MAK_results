@@ -1,0 +1,10 @@
+	"MONDO.0012144"	"MONDO.0014206"	"MONDO.0014368"	"MONDO.0018816"
+"Microcephaly"	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0
+"Broad nasal tip"	0.0	1.0	0.0	1.0
+"Cataract"	1.0	0.0	0.0	1.0
+"Absent speech"	1.0	1.0	1.0	1.0
+"Irritability"	0.0	0.0	1.0	1.0
+"Stereotypy"	0.0	0.0	0.0	1.0
+"Feeding difficulties"	0.0	1.0	1.0	1.0

@@ -1,0 +1,8 @@
+	"MONDO.0007590"	"MONDO.0007641"	"MONDO.0008134"	"MONDO.0011152"
+"Blindness"	1.0	1.0	1.0	1.0
+"Subcapsular cataract"	1.0	0.0	0.0	1.0
+"Retinal exudate"	1.0	0.0	0.0	1.0
+"Posterior vitreous detachment"	1.0	0.0	0.0	1.0
+"Falciform retinal fold"	1.0	0.0	0.0	1.0
+"Peripheral retinal avascularization"	1.0	0.0	0.0	1.0
+"Vitreous hemorrhage"	1.0	0.0	0.0	1.0

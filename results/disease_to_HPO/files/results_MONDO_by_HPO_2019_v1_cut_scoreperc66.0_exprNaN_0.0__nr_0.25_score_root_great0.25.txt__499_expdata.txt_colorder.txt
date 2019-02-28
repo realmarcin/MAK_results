@@ -1,0 +1,5 @@
+"x"
+"1" "Cerebellar atrophy"
+"2" "Gait ataxia"
+"3" "Mental deterioration"
+"4" "Vertical supranuclear gaze palsy"

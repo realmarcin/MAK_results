@@ -1,0 +1,7 @@
+"x"
+"1" "Angioedema"
+"2" "Telangiectasia macularis eruptiva perstans"
+"3" "Cutaneous mastocytosis"
+"4" "Episodic upper airway obstruction"
+"5" "Mastocytosis"
+"6" "Chronic leukemia"

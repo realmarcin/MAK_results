@@ -1,0 +1,7 @@
+"x"
+"1" "Hypoplasia of the ulna"
+"2" "Hypoplasia of the radius"
+"3" "Short femur"
+"4" "Fibular hypoplasia"
+"5" "Short tibia"
+"6" "Short humerus"

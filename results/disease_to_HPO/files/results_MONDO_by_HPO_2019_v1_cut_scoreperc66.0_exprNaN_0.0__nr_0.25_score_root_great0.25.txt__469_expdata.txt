@@ -1,0 +1,7 @@
+	"MONDO.0007285"	"MONDO.0008594"	"MONDO.0008664"	"MONDO.0012528"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Microphthalmia"	0.0	0.0	0.0	1.0
+"Cataract"	1.0	1.0	1.0	1.0
+"Membranous cataract"	1.0	0.0	0.0	0.0
+"Vitreoretinopathy"	0.0	0.0	1.0	0.0
+"Optically empty vitreous"	0.0	0.0	1.0	0.0

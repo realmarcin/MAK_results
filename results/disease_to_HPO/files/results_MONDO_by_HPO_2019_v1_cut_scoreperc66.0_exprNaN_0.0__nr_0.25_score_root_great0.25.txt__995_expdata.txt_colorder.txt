@@ -1,0 +1,7 @@
+"x"
+"1" "Hyperlordosis"
+"2" "Waddling gait"
+"3" "Scapular winging"
+"4" "Myopathy"
+"5" "Facial palsy"
+"6" "Elevated serum creatine phosphokinase"

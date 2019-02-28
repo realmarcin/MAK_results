@@ -1,0 +1,10 @@
+	"MONDO.0009788"	"MONDO.0010830"	"MONDO.0011428"	"MONDO.0013686"	"MONDO.0015004"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Ataxia"	1.0	1.0	1.0	1.0	1.0
+"Visual impairment"	1.0	0.0	0.0	1.0	1.0
+"Choreoathetosis"	1.0	0.0	0.0	0.0	0.0
+"Spasticity"	1.0	1.0	0.0	1.0	1.0
+"Dysarthria"	1.0	1.0	1.0	1.0	1.0
+"Gait disturbance"	1.0	1.0	0.0	0.0	1.0
+"Chorea"	1.0	0.0	1.0	0.0	1.0
+"3-Methylglutaconic aciduria"	1.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,7 @@
+	"MONDO.0007625"	"MONDO.0008400"	"MONDO.0009093"	"MONDO.0024546"	"MONDO.0013075"	"MONDO.0013358"
+"Seizures"	1.0	0.0	1.0	1.0	1.0	1.0
+"HP:0003745"	0.0	1.0	0.0	1.0	1.0	1.0
+"Hemiparesis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Cerebral calcification"	1.0	0.0	1.0	1.0	1.0	0.0
+"Optic neuropathy"	0.0	1.0	0.0	0.0	0.0	0.0
+"Bone cyst"	1.0	1.0	1.0	1.0	1.0	1.0

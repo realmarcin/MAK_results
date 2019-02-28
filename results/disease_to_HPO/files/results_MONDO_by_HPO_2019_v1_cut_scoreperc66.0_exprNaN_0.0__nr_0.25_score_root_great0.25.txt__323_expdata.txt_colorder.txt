@@ -1,0 +1,8 @@
+"x"
+"1" "Global developmental delay"
+"2" "Downslanted palpebral fissures"
+"3" "HP:0000007"
+"4" "Generalized hypotonia"
+"5" "Focal seizures"
+"6" "Thick corpus callosum"
+"7" "Absence seizures"

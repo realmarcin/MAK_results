@@ -1,0 +1,5 @@
+"x"
+"1" "Cerebellar atrophy"
+"2" "Dystonia"
+"3" "Spasticity"
+"4" "Ventricular septal defect"

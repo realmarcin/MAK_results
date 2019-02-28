@@ -1,0 +1,9 @@
+	"MONDO.0007668"	"MONDO.0010221"	"MONDO.0011477"	"MONDO.0011984"	"MONDO.0012055"	"MONDO.0013501"
+"HP:0000007"	0.0	1.0	1.0	0.0	0.0	1.0
+"Ectopia lentis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Emphysema"	0.0	0.0	1.0	0.0	0.0	0.0
+"Recurrent bronchitis"	0.0	1.0	1.0	0.0	0.0	1.0
+"Nasal polyposis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Bronchiectasis"	0.0	1.0	1.0	0.0	0.0	0.0
+"Chronic sinusitis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Bronchiolitis"	0.0	0.0	1.0	0.0	0.0	0.0

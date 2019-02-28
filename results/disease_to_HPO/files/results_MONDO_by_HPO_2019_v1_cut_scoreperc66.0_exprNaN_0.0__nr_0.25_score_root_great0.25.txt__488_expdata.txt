@@ -1,0 +1,9 @@
+	"MONDO.0008407"	"MONDO.0010871"	"MONDO.0012194"	"MONDO.0012411"	"MONDO.0013299"
+"Clumsiness"	0.0	1.0	0.0	1.0	0.0
+"HP:0003677"	1.0	1.0	1.0	1.0	1.0
+"HP:0003829"	0.0	1.0	1.0	0.0	1.0
+"Peroneal muscle atrophy"	1.0	1.0	0.0	0.0	0.0
+"Rimmed vacuoles"	0.0	1.0	1.0	1.0	0.0
+"Mildly elevated creatine phosphokinase"	1.0	1.0	0.0	1.0	0.0
+"Distal upper limb muscle weakness"	0.0	1.0	0.0	0.0	0.0
+"HP:0031374"	0.0	1.0	0.0	0.0	0.0

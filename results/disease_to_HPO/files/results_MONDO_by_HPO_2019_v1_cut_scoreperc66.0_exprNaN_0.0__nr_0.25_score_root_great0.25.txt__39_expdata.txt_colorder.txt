@@ -1,0 +1,7 @@
+"x"
+"1" "Splenomegaly"
+"2" "Reticulocytosis"
+"3" "Hyperbilirubinemia"
+"4" "Hemolytic anemia"
+"5" "Jaundice"
+"6" "Spherocytosis"

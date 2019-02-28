@@ -1,0 +1,5 @@
+"x"
+"1" "Frontal bossing"
+"2" "Proptosis"
+"3" "Relative macrocephaly"
+"4" "Camptodactyly"

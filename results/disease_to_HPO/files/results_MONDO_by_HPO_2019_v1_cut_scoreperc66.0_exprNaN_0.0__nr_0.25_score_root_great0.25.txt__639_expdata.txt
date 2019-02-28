@@ -1,0 +1,14 @@
+	"MONDO.0024537"	"MONDO.0008892"	"MONDO.0013868"	"MONDO.0014657"	"MONDO.0014940"
+"Ataxia"	0.0	1.0	1.0	1.0	0.0
+"Scoliosis"	0.0	1.0	0.0	0.0	1.0
+"Bulbar palsy"	1.0	1.0	1.0	0.0	1.0
+"Clumsiness"	0.0	1.0	1.0	0.0	0.0
+"Kyphosis"	0.0	1.0	0.0	0.0	1.0
+"External ophthalmoplegia"	0.0	1.0	0.0	1.0	0.0
+"Stridor"	0.0	1.0	0.0	0.0	1.0
+"Tongue fasciculations"	0.0	1.0	1.0	0.0	0.0
+"Neck muscle weakness"	0.0	1.0	1.0	0.0	1.0
+"Respiratory insufficiency"	0.0	1.0	1.0	1.0	0.0
+"Diaphragmatic weakness"	1.0	1.0	0.0	0.0	0.0
+"Progressive inspiratory stridor"	1.0	0.0	0.0	0.0	0.0
+"Generalized hyperreflexia"	1.0	0.0	0.0	0.0	0.0

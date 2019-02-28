@@ -1,0 +1,6 @@
+	"MONDO.0007263"	"MONDO.0011014"	"MONDO.0012125"
+"Laryngospasm"	0.0	1.0	1.0
+"Partial development of the penile shaft"	0.0	0.0	1.0
+"Dysplastic testes"	0.0	0.0	1.0
+"Bronchospasm"	1.0	0.0	1.0
+"Staccato cry"	0.0	0.0	1.0

@@ -1,0 +1,8 @@
+"x"
+"1" "Sparse scalp hair"
+"2" "Global developmental delay"
+"3" "Micrognathia"
+"4" "Hypospadias"
+"5" "Proptosis"
+"6" "Short clavicles"
+"7" "Aplastic clavicles"

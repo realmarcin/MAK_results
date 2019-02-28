@@ -1,0 +1,7 @@
+"x"
+"1" "Generalized hypotonia"
+"2" "Degeneration of anterior horn cells"
+"3" "Spinal muscular atrophy"
+"4" "Congenital contracture"
+"5" "Hypoplasia of the pons"
+"6" "Hypoplasia of the ventral pons"

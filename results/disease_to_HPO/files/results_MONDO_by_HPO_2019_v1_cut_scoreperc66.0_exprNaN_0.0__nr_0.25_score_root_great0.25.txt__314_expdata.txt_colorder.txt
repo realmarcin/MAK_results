@@ -1,0 +1,5 @@
+"x"
+"1" "Periodontitis"
+"2" "Gingivitis"
+"3" "Recurrent gram-negative bacterial infections"
+"4" "Recurrent staphylococcal infections"

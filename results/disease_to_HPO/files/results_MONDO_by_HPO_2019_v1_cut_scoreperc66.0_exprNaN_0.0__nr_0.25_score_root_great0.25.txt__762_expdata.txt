@@ -1,0 +1,5 @@
+	"MONDO.0008250"	"MONDO.0008306"	"MONDO.0009481"	"MONDO.0010011"	"MONDO.0010165"
+"Pilonidal sinus"	1.0	0.0	0.0	0.0	1.0
+"Occipital meningocele"	0.0	0.0	1.0	0.0	1.0
+"Aplasia/Hypoplasia of the pubic bone"	0.0	0.0	0.0	1.0	1.0
+"Aplasia/Hypoplasia of the sacrum"	0.0	1.0	0.0	0.0	1.0

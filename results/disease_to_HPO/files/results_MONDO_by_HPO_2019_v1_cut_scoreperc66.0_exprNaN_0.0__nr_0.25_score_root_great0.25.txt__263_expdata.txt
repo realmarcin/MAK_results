@@ -1,0 +1,6 @@
+	"MONDO.0008978"	"MONDO.0009439"	"MONDO.0010145"	"MONDO.0010146"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Hearing impairment"	0.0	0.0	0.0	1.0
+"Abnormality of the skeletal system"	1.0	1.0	1.0	1.0
+"HP:0009556"	0.0	0.0	1.0	1.0
+"Chondrosarcoma"	1.0	0.0	0.0	0.0

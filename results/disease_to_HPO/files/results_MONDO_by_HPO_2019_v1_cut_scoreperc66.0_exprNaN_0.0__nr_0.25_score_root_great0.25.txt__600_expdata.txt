@@ -1,0 +1,10 @@
+	"MONDO.0009686"	"MONDO.0009929"	"MONDO.0012128"	"MONDO.0013223"	"MONDO.0014130"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"HP:0003581"	1.0	0.0	0.0	1.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	0.0
+"Distal muscle weakness"	1.0	0.0	1.0	1.0	0.0
+"Muscular dystrophy"	1.0	0.0	1.0	1.0	1.0
+"Deposits immunoreactive to beta-amyloid protein"	1.0	0.0	0.0	0.0	0.0
+"Decreased Achilles reflex"	1.0	0.0	0.0	0.0	0.0
+"Muscle fibrillation"	1.0	0.0	0.0	0.0	0.0
+"Decreased/absent ankle reflexes"	1.0	0.0	0.0	0.0	0.0

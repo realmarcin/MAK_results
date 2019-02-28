@@ -1,0 +1,5 @@
+	"MONDO.0009425"	"MONDO.0009729"	"MONDO.0024557"	"MONDO.0011755"	"MONDO.0011756"	"MONDO.0013304"
+"Polyuria"	1.0	1.0	1.0	1.0	1.0	1.0
+"Polydipsia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Renal corticomedullary cysts"	0.0	1.0	1.0	1.0	1.0	1.0
+"Hyposthenuria"	1.0	1.0	0.0	0.0	0.0	0.0

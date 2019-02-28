@@ -1,0 +1,12 @@
+	"MONDO.0010024"	"MONDO.0010939"	"MONDO.0011088"	"MONDO.0011226"	"MONDO.0012165"
+"Diarrhea"	1.0	1.0	1.0	1.0	1.0
+"Pneumonia"	1.0	1.0	1.0	1.0	0.0
+"Severe combined immunodeficiency"	0.0	1.0	1.0	1.0	1.0
+"Aplasia of the thymus"	0.0	0.0	0.0	1.0	0.0
+"Genital ulcers"	0.0	0.0	0.0	1.0	0.0
+"Cutaneous anergy"	0.0	1.0	0.0	0.0	0.0
+"Abnormality of the lymph nodes"	0.0	1.0	0.0	0.0	0.0
+"Recurrent upper respiratory tract infections"	0.0	1.0	0.0	1.0	0.0
+"Panhypogammaglobulinemia"	1.0	1.0	1.0	1.0	0.0
+"Lymph node hypoplasia"	0.0	0.0	0.0	1.0	0.0
+"Absent tonsils"	0.0	0.0	0.0	1.0	0.0

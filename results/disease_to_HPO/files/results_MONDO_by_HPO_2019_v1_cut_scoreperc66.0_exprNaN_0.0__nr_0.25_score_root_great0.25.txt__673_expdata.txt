@@ -1,0 +1,5 @@
+	"MONDO.0009989"	"MONDO.0012608"	"MONDO.0013297"	"MONDO.0014427"
+"Foveoschisis"	1.0	1.0	0.0	0.0
+"Abnormal light- and dark-adapted electroretinogram"	0.0	1.0	0.0	0.0
+"Optic disc drusen"	0.0	1.0	0.0	1.0
+"Scleral thickening"	0.0	1.0	1.0	0.0

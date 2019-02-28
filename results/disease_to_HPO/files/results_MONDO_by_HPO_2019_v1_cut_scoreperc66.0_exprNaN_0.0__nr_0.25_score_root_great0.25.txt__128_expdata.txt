@@ -1,0 +1,4 @@
+	"MONDO.0012883"	"MONDO.0013643"	"MONDO.0013912"	"MONDO.0014578"	"MONDO.0014772"
+"Cleft palate"	1.0	1.0	1.0	1.0	1.0
+"Microretrognathia"	0.0	0.0	0.0	1.0	0.0
+"Cleft lip"	1.0	1.0	1.0	1.0	1.0

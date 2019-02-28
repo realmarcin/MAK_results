@@ -1,0 +1,7 @@
+"x"
+"1" "Tritanomaly"
+"2" "Red-green dyschromatopsia"
+"3" "Centrocecal scotoma"
+"4" "Abnormal amplitude of pattern reversal visual evoked potentials"
+"5" "Anterior cortical cataract"
+"6" "Subepithelial corneal opacities"

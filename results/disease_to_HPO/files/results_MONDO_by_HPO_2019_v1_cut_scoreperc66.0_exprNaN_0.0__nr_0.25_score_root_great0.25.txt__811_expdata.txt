@@ -1,0 +1,8 @@
+	"MONDO.0009292"	"MONDO.0009638"	"MONDO.0010783"	"MONDO.0012546"	"MONDO.0013226"	"MONDO.0014390"
+"Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Atrial fibrillation"	0.0	0.0	0.0	0.0	1.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	1.0	1.0
+"Tachycardia"	0.0	0.0	0.0	0.0	1.0	0.0
+"Generalized muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0
+"Skeletal muscle hypertrophy"	0.0	0.0	0.0	0.0	1.0	0.0
+"Muscle stiffness"	0.0	0.0	0.0	0.0	1.0	0.0

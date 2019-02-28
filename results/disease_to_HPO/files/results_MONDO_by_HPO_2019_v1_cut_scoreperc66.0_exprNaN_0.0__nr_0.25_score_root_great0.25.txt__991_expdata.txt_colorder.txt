@@ -1,0 +1,8 @@
+"x"
+"1" "Secundum atrial septal defect"
+"2" "Downslanted palpebral fissures"
+"3" "Malar flattening"
+"4" "Depressed nasal bridge"
+"5" "Midface retrusion"
+"6" "Short neck"
+"7" "Epicanthus"

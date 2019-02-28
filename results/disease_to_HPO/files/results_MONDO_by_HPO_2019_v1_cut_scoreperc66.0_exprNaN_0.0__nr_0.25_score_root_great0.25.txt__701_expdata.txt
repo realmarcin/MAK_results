@@ -1,0 +1,8 @@
+	"MONDO.0007058"	"MONDO.0009546"	"MONDO.0009584"	"MONDO.0011255"	"MONDO.0011912"	"MONDO.0012056"
+"Joint laxity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Decreased muscle mass"	0.0	1.0	0.0	0.0	0.0	0.0
+"Coarse hair"	1.0	1.0	0.0	0.0	1.0	0.0
+"Thin vermilion border"	1.0	0.0	1.0	1.0	1.0	1.0
+"Epiphyseal dysplasia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Enlarged joints"	0.0	1.0	0.0	0.0	0.0	0.0
+"Complex palmar dermatoglyphic pattern"	0.0	1.0	0.0	0.0	0.0	0.0

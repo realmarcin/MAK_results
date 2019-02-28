@@ -1,0 +1,13 @@
+	"MONDO.0007668"	"MONDO.0011984"	"MONDO.0012055"	"MONDO.0014255"
+"Low-set ears"	0.0	0.0	0.0	1.0
+"Dental malocclusion"	0.0	0.0	0.0	1.0
+"Intellectual disability, moderate"	0.0	0.0	0.0	1.0
+"Carious teeth"	0.0	0.0	0.0	1.0
+"Preauricular pit"	0.0	0.0	0.0	1.0
+"Alacrima"	0.0	0.0	0.0	1.0
+"Mixed hearing impairment"	0.0	0.0	0.0	1.0
+"Lacrimal duct stenosis"	0.0	0.0	0.0	1.0
+"Microretrognathia"	0.0	0.0	0.0	1.0
+"Blue sclerae"	0.0	0.0	0.0	1.0
+"Mastoiditis"	0.0	0.0	0.0	1.0
+"Scapular winging"	0.0	0.0	0.0	1.0

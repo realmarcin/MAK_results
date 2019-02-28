@@ -1,0 +1,5 @@
+"x"
+"1" "Hyperpigmentation of the skin"
+"2" "Adrenal insufficiency"
+"3" "Skin rash"
+"4" "Abnormality of the liver"

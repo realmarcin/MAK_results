@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Intellectual disability"
+"3" "Thick eyebrow"
+"4" "Synophrys"
+"5" "Dental crowding"
+"6" "Delayed speech and language development"
+"7" "Poor speech"

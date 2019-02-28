@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Global developmental delay"
+"3" "Delayed speech and language development"
+"4" "Abnormality of cardiovascular system morphology"
+"5" "Camptodactyly of toe"
+"6" "Toe clinodactyly"

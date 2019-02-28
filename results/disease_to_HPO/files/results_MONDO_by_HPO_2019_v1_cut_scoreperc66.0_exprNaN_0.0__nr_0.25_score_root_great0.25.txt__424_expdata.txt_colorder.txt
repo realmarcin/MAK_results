@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Failure to thrive"
+"3" "Elevated serum creatine phosphokinase"
+"4" "Kyphoscoliosis"
+"5" "Arthralgia"
+"6" "Posteriorly rotated ears"
+"7" "Lymphadenopathy"

@@ -1,0 +1,9 @@
+	"MONDO.0024546"	"MONDO.0010222"	"MONDO.0010569"	"MONDO.0010625"	"MONDO.0024552"	"MONDO.0012497"
+"Hydroureter"	0.0	0.0	0.0	1.0	1.0	0.0
+"Intellectual disability"	1.0	1.0	0.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	0.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0	1.0	1.0
+"Scoliosis"	1.0	0.0	1.0	1.0	0.0	1.0
+"Webbed neck"	0.0	1.0	0.0	0.0	1.0	0.0
+"Narrow chest"	1.0	0.0	0.0	0.0	1.0	0.0
+"Overfolded helix"	0.0	1.0	0.0	0.0	1.0	1.0

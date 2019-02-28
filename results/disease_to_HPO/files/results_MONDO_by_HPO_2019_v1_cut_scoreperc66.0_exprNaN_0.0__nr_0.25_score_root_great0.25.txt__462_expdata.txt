@@ -1,0 +1,13 @@
+	"MONDO.0007078"	"MONDO.0007460"	"MONDO.0008364"
+"HP:0000006"	1.0	1.0	1.0
+"Hearing impairment"	1.0	0.0	0.0
+"Blue irides"	1.0	0.0	0.0
+"Hypopigmentation of the skin"	1.0	1.0	1.0
+"White eyebrow"	1.0	0.0	0.0
+"White eyelashes"	1.0	0.0	0.0
+"HP:0007513"	1.0	0.0	0.0
+"Hypopigmentation of the fundus"	1.0	1.0	0.0
+"Congenital sensorineural hearing impairment"	1.0	0.0	0.0
+"Bilateral sensorineural hearing impairment"	1.0	0.0	0.0
+"Abnormality of the anterior chamber"	1.0	0.0	0.0
+"Hypopigmentation of hair"	1.0	1.0	0.0

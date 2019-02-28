@@ -1,0 +1,4 @@
+"x"
+"1" "Hallux varus"
+"2" "Radial head subluxation"
+"3" "Hyperechogenic kidneys"

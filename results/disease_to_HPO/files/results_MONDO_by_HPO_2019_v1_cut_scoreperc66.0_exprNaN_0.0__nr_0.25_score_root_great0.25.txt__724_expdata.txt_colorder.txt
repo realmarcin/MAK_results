@@ -1,0 +1,7 @@
+"x"
+"1" "Seizures"
+"2" "Global developmental delay"
+"3" "Intellectual disability"
+"4" "Aniridia"
+"5" "HP:0003829"
+"6" "Language impairment"

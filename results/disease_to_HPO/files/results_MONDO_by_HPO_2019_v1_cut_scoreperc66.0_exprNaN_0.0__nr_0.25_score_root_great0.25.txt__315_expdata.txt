@@ -1,0 +1,8 @@
+	"MONDO.0010353"	"MONDO.0010451"	"MONDO.0010655"	"MONDO.0044326"
+"Intellectual disability"	1.0	1.0	1.0	1.0
+"Delayed speech and language development"	0.0	1.0	1.0	1.0
+"Gait ataxia"	0.0	0.0	0.0	1.0
+"Dysarthria"	0.0	0.0	1.0	1.0
+"Tremor"	0.0	0.0	0.0	1.0
+"EEG abnormality"	1.0	0.0	1.0	1.0
+"Generalized myoclonic seizures"	0.0	1.0	0.0	1.0

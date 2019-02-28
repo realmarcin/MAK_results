@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000007"
+"2" "Congenital sensorineural hearing impairment"
+"3" "Rod-cone dystrophy"
+"4" "Areflexia"
+"5" "Vestibular areflexia"

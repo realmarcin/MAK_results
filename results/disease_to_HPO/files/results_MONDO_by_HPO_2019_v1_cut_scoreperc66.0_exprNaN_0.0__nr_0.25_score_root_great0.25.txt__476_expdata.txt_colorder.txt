@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Decreased fetal movement"
+"3" "Atrial septal defect"
+"4" "Proximal muscle weakness in lower limbs"
+"5" "Tongue fasciculations"
+"6" "Sprengel anomaly"

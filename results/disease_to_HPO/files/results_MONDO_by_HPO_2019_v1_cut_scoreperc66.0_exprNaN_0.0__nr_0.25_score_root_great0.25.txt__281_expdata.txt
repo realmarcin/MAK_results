@@ -1,0 +1,9 @@
+	"MONDO.0007493"	"MONDO.0007494"	"MONDO.0013118"	"MONDO.0013674"
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Gait ataxia"	0.0	1.0	1.0	0.0
+"Depressivity"	1.0	0.0	1.0	1.0
+"Gait disturbance"	1.0	1.0	0.0	0.0
+"Dysphagia"	0.0	1.0	1.0	0.0
+"Torsion dystonia"	1.0	1.0	0.0	0.0
+"Torticollis"	1.0	1.0	0.0	0.0
+"Blepharospasm"	1.0	1.0	0.0	0.0

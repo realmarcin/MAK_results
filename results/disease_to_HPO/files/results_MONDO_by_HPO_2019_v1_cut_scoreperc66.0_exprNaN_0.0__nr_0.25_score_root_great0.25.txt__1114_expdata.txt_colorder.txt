@@ -1,0 +1,8 @@
+"x"
+"1" "Menorrhagia"
+"2" "HP:0003676"
+"3" "Myelodysplasia"
+"4" "Impaired collagen-induced platelet aggregation"
+"5" "Impaired thrombin-induced platelet aggregation"
+"6" "Reduced quantity of Von Willebrand factor"
+"7" "Abnormality of the menstrual cycle"

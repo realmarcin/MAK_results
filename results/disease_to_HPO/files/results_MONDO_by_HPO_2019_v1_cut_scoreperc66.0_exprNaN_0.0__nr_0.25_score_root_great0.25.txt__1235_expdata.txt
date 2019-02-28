@@ -1,0 +1,11 @@
+	"MONDO.0008370"	"MONDO.0009523"	"MONDO.0011864"	"MONDO.0014306"
+"HP:0007513"	0.0	1.0	0.0	0.0
+"Palmoplantar keratoderma"	0.0	1.0	0.0	0.0
+"Nephrolithiasis"	0.0	1.0	0.0	0.0
+"Hypotrichosis"	0.0	1.0	0.0	0.0
+"Decreased fertility"	0.0	1.0	0.0	0.0
+"Delayed puberty"	0.0	1.0	0.0	0.0
+"Abnormality of the eyebrow"	0.0	1.0	0.0	0.0
+"Shagreen patch"	0.0	1.0	0.0	0.0
+"Irregular hyperpigmentation"	0.0	1.0	0.0	0.0
+"Hypoplasia of penis"	0.0	1.0	0.0	0.0

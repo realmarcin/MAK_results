@@ -1,0 +1,11 @@
+	"MONDO.0007100"	"MONDO.0008170"	"MONDO.0008586"	"MONDO.0009516"	"MONDO.0011518"
+"HP:0000006"	1.0	1.0	1.0	0.0	1.0
+"Hypertension"	1.0	1.0	1.0	0.0	1.0
+"Intrauterine growth retardation"	0.0	0.0	1.0	0.0	0.0
+"Proteinuria"	1.0	0.0	1.0	1.0	0.0
+"Edema"	1.0	0.0	1.0	0.0	0.0
+"Thrombocytopenia"	0.0	1.0	1.0	0.0	0.0
+"Elevated hepatic transaminases"	0.0	0.0	1.0	0.0	0.0
+"Preeclampsia"	0.0	0.0	1.0	0.0	0.0
+"Maternal hypertension"	0.0	0.0	1.0	0.0	1.0
+"Eclampsia"	0.0	0.0	1.0	0.0	0.0

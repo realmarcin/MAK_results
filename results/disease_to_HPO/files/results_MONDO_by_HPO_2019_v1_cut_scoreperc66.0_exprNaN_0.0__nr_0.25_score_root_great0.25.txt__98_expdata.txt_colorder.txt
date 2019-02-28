@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertension"
+"2" "Hyperkalemia"
+"3" "Pseudohypoaldosteronism"
+"4" "Hyperchloremic metabolic acidosis"
+"5" "Hyperchloremia"
+"6" "Metabolic acidosis"

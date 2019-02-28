@@ -1,0 +1,4 @@
+"x"
+"1" "Obsessive-compulsive trait"
+"2" "Motor tics"
+"3" "Abnormality of the caudate nucleus"

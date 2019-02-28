@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Colon cancer"
+"3" "Abnormality of the cardiovascular system"
+"4" "Adenomatous colonic polyposis"
+"5" "Abnormality of the eye"
+"6" "Abnormality of the genitourinary system"
+"7" "Acute myeloid leukemia"

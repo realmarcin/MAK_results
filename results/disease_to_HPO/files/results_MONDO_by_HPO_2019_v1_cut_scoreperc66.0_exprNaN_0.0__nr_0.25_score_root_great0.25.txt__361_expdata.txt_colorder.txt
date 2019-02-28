@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Nail dystrophy"
+"3" "Steatocystoma multiplex"
+"4" "Palmoplantar keratoderma"
+"5" "Nephrolithiasis"
+"6" "Adenoma sebaceum"

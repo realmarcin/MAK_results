@@ -1,0 +1,7 @@
+"x"
+"1" "Broad ischia"
+"2" "Irregular patellae"
+"3" "Sclerotic humeral metaphysis"
+"4" "Osteoporotic metatarsal"
+"5" "Costochondral joint sclerosis"
+"6" "Osteoporotic tarsals"

@@ -1,0 +1,6 @@
+"x"
+"1" "Paraplegia"
+"2" "Severe short stature"
+"3" "Proptosis"
+"4" "Decreased body weight"
+"5" "Prominent forehead"

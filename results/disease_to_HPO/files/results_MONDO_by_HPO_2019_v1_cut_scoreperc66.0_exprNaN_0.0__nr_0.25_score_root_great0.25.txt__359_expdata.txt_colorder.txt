@@ -1,0 +1,4 @@
+"x"
+"1" "Abnormality of the face"
+"2" "Unusual dermatoglyphics"
+"3" "Chin with vertical crease"

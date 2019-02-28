@@ -1,0 +1,8 @@
+	"MONDO.0007896"	"MONDO.0009786"	"MONDO.0013224"	"MONDO.0013796"
+"Bell-shaped thorax"	0.0	1.0	1.0	1.0
+"Protuberant abdomen"	1.0	1.0	0.0	1.0
+"Metaphyseal cupping"	1.0	1.0	1.0	1.0
+"Hypoplastic pubic bone"	1.0	1.0	0.0	1.0
+"Hypoplastic ischia"	1.0	1.0	1.0	1.0
+"Severe platyspondyly"	1.0	1.0	1.0	0.0
+"Iliac crest serration"	0.0	0.0	1.0	0.0

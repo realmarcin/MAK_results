@@ -1,0 +1,8 @@
+	"MONDO.0007327"	"MONDO.0007520"	"MONDO.0007544"	"MONDO.0008299"	"MONDO.0011691"	"MONDO.0012196"
+"Single transverse palmar crease"	0.0	0.0	0.0	1.0	0.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"Scoliosis"	0.0	0.0	1.0	0.0	0.0	1.0
+"Osteopenia"	0.0	0.0	0.0	0.0	1.0	1.0
+"Kyphosis"	0.0	0.0	1.0	0.0	0.0	1.0
+"Low posterior hairline"	0.0	1.0	0.0	0.0	0.0	1.0
+"Torticollis"	1.0	0.0	0.0	0.0	0.0	1.0

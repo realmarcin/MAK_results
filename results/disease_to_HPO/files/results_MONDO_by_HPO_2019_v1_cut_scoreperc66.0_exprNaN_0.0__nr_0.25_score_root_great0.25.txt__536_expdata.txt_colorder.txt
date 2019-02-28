@@ -1,0 +1,5 @@
+"x"
+"1" "Short nasal bridge"
+"2" "Hypoplasia of the retina"
+"3" "Uncontrolled eye movements"
+"4" "Enlarged flash visual evoked potentials"

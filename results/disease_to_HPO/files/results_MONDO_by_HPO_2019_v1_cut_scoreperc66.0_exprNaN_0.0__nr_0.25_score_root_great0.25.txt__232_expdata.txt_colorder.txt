@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Scoliosis"
+"3" "Intellectual disability"
+"4" "Ataxia"
+"5" "Absence seizures"
+"6" "Eyelid myoclonus"

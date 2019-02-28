@@ -1,0 +1,6 @@
+	"MONDO.0010299"	"MONDO.0011783"	"MONDO.0011799"	"MONDO.0060760"
+"Dystonia"	1.0	1.0	1.0	1.0
+"Spasticity"	1.0	1.0	1.0	1.0
+"Dysarthria"	1.0	1.0	1.0	1.0
+"Dysphagia"	1.0	1.0	1.0	1.0
+"Behavioral abnormality"	1.0	1.0	0.0	0.0

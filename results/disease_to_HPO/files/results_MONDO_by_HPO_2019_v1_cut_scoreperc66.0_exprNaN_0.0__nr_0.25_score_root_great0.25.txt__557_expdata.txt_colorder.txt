@@ -1,0 +1,6 @@
+"x"
+"1" "Elbow dislocation"
+"2" "Patellar dislocation"
+"3" "Hypoplastic distal humeri"
+"4" "Limited elbow flexion/extension"
+"5" "Rhizomelic arm shortening"

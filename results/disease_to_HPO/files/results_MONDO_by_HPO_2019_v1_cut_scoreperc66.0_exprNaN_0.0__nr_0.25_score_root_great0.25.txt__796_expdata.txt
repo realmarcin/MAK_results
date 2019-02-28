@@ -1,0 +1,8 @@
+	"MONDO.0007117"	"MONDO.0011308"	"MONDO.0060659"	"MONDO.0060711"
+"HP:0000006"	1.0	0.0	0.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0
+"Hematuria"	1.0	0.0	0.0	0.0
+"Hemiparesis"	1.0	0.0	1.0	0.0
+"Hemangioma"	1.0	0.0	0.0	0.0
+"Gastrointestinal hemorrhage"	1.0	0.0	0.0	0.0
+"Horner syndrome"	1.0	0.0	0.0	0.0

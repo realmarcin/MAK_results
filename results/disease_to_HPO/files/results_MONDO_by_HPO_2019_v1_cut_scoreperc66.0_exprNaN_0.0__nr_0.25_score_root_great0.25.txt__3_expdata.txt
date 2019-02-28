@@ -1,0 +1,6 @@
+	"MONDO.0008200"	"MONDO.0010821"	"MONDO.0014232"	"MONDO.0014234"	"MONDO.0014340"	"MONDO.0014605"
+"Parkinsonism"	1.0	1.0	1.0	1.0	0.0	1.0
+"Tremor"	1.0	1.0	1.0	1.0	1.0	1.0
+"Rigidity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Bradykinesia"	1.0	1.0	1.0	1.0	0.0	1.0
+"Postural instability"	1.0	1.0	1.0	1.0	1.0	1.0

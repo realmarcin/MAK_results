@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0009329"	"MONDO.0011984"	"MONDO.0012055"
+"Hypertelorism"	0.0	1.0	0.0	0.0
+"Joint laxity"	0.0	1.0	0.0	0.0
+"Abnormal vertebral morphology"	0.0	1.0	0.0	0.0
+"Abnormality of the vertebral column"	0.0	1.0	0.0	0.0
+"Acrocyanosis"	0.0	1.0	0.0	0.0
+"Spinal cord tumor"	0.0	1.0	0.0	0.0
+"Phimosis"	0.0	1.0	0.0	0.0
+"Joint hyperflexibility"	0.0	1.0	0.0	0.0
+"Hemangiomatosis"	0.0	1.0	0.0	0.0

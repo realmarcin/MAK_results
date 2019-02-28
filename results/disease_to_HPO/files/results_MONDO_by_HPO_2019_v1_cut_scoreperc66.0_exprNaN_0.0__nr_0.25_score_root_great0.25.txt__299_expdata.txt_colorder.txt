@@ -1,0 +1,7 @@
+"x"
+"1" "Broad forehead"
+"2" "Triangular face"
+"3" "Intrauterine growth retardation"
+"4" "Convex nasal ridge"
+"5" "Pointed chin"
+"6" "Laryngomalacia"

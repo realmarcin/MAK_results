@@ -1,0 +1,7 @@
+	"MONDO.0008175"	"MONDO.0008887"	"MONDO.0009181"	"MONDO.0012531"	"MONDO.0013369"	"MONDO.0014325"
+"Nail dysplasia"	1.0	1.0	1.0	0.0	1.0	0.0
+"Nail dystrophy"	1.0	1.0	1.0	1.0	1.0	1.0
+"Palmoplantar hyperhidrosis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Epidermoid cyst"	1.0	0.0	0.0	0.0	0.0	1.0
+"Dry hair"	1.0	1.0	0.0	0.0	0.0	0.0
+"Steatocystoma multiplex"	1.0	0.0	0.0	0.0	0.0	0.0

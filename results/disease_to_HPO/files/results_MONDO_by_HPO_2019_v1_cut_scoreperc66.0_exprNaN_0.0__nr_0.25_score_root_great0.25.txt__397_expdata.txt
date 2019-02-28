@@ -1,0 +1,4 @@
+	"MONDO.0007124"	"MONDO.0007335"	"MONDO.0007411"	"MONDO.0008960"	"MONDO.0012605"
+"Ankyloblepharon"	1.0	1.0	1.0	1.0	1.0
+"Intercrural pterygium"	0.0	1.0	0.0	0.0	0.0
+"Lip pit"	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"MONDO.0007104"	"MONDO.0009569"	"MONDO.0013343"	"MONDO.0013717"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"HP:0003674"	0.0	1.0	0.0	0.0
+"Spasticity"	1.0	1.0	0.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Apraxia"	0.0	1.0	0.0	0.0
+"Abnormality of extrapyramidal motor function"	0.0	1.0	0.0	0.0
+"Personality disorder"	0.0	1.0	0.0	0.0
+"Akinetic mutism"	0.0	1.0	0.0	0.0
+"Abnormality of peripheral nerve conduction"	0.0	1.0	0.0	0.0
+"Frontotemporal cerebral atrophy"	0.0	1.0	0.0	0.0
+"Dysgraphia"	0.0	1.0	0.0	0.0

@@ -1,0 +1,5 @@
+	"MONDO.0009225"	"MONDO.0009581"	"MONDO.0013614"
+"Strabismus"	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	0.0
+"Nystagmus"	1.0	1.0	1.0

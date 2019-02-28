@@ -1,0 +1,4 @@
+"x"
+"1" "Abnormality of the cerebellar vermis"
+"2" "Aplasia/Hypoplasia involving the skeletal musculature"
+"3" "Fixed facial expression"

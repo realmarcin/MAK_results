@@ -1,0 +1,11 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0010665"	"MONDO.0014236"
+"Long hallux"	0.0	0.0	1.0	0.0
+"Thick lower lip vermilion"	0.0	0.0	1.0	0.0
+"Broad-based gait"	0.0	0.0	1.0	0.0
+"Hyperextensibility of the finger joints"	0.0	0.0	1.0	0.0
+"Recurrent fractures"	0.0	0.0	1.0	0.0
+"Nasal speech"	0.0	0.0	1.0	0.0
+"High, narrow palate"	0.0	0.0	1.0	0.0
+"Severe Myopia"	0.0	0.0	1.0	0.0
+"Narrow palm"	0.0	0.0	1.0	0.0
+"Long palm"	0.0	0.0	1.0	0.0

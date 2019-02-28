@@ -1,0 +1,11 @@
+	"MONDO.0008153"	"MONDO.0009810"	"MONDO.0009811"
+"Metatarsal osteolysis"	1.0	1.0	0.0
+"Carpal osteolysis"	1.0	1.0	0.0
+"Metacarpal osteolysis"	1.0	1.0	1.0
+"Osteolysis involving tarsal bones"	1.0	1.0	0.0
+"Widened metacarpal shaft"	0.0	1.0	0.0
+"Interphalangeal joint erosions"	0.0	1.0	0.0
+"Peripheral opacification of the cornea"	0.0	1.0	0.0
+"Thin metatarsal cortices"	0.0	1.0	0.0
+"Ankylosis of feet small joints"	0.0	1.0	0.0
+"Distal tapering of metatarsals"	0.0	1.0	0.0

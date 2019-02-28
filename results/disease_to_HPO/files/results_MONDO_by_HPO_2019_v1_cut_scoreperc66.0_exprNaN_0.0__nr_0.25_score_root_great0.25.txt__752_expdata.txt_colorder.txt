@@ -1,0 +1,5 @@
+"x"
+"1" "Finger swelling"
+"2" "Fibroblast metachromasia"
+"3" "Shoe-shaped sella turcica"
+"4" "Progressive joint destruction"

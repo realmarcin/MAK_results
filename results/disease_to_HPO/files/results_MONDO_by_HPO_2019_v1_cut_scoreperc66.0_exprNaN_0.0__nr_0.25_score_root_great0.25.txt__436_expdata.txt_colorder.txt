@@ -1,0 +1,6 @@
+"x"
+"1" "Breech presentation"
+"2" "Wide anterior fontanel"
+"3" "Shawl scrotum"
+"4" "Large fontanelles"
+"5" "Delayed cranial suture closure"

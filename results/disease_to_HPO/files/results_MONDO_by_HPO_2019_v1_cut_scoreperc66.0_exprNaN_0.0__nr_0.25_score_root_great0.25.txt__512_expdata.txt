@@ -1,0 +1,9 @@
+	"MONDO.0011054"	"MONDO.0011613"	"MONDO.0012408"	"MONDO.0012813"	"MONDO.0013388"
+"Generalized hypotonia"	0.0	1.0	0.0	1.0	1.0
+"Hypoplasia of the corpus callosum"	0.0	1.0	0.0	1.0	1.0
+"Cerebral atrophy"	0.0	0.0	0.0	1.0	1.0
+"Generalized tonic seizures"	0.0	0.0	0.0	1.0	1.0
+"Hypsarrhythmia"	0.0	0.0	0.0	1.0	1.0
+"Poor gross motor coordination"	0.0	0.0	0.0	0.0	1.0
+"Epileptic spasms"	1.0	0.0	0.0	1.0	1.0
+"EEG with burst suppression"	0.0	1.0	1.0	1.0	1.0

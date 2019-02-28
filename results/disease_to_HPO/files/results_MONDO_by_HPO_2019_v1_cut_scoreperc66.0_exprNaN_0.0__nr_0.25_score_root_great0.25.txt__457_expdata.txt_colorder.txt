@@ -1,0 +1,5 @@
+"x"
+"1" "Fundus atrophy"
+"2" "Eye poking"
+"3" "Hyperthreoninuria"
+"4" "Hyperthreoninemia"

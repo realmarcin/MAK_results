@@ -1,0 +1,11 @@
+	"MONDO.0007994"	"MONDO.0008412"	"MONDO.0009935"	"MONDO.0010719"
+"Abnormality of the humerus"	1.0	1.0	0.0	0.0
+"Absent gallbladder"	1.0	0.0	1.0	0.0
+"Abnormal lung lobation"	1.0	0.0	1.0	0.0
+"Oligodactyly"	1.0	0.0	0.0	1.0
+"Ectrodactyly"	1.0	0.0	0.0	1.0
+"Asplenia"	1.0	0.0	1.0	0.0
+"Absent hand"	1.0	1.0	0.0	0.0
+"Perineal fistula"	1.0	0.0	0.0	1.0
+"Rectal atresia"	1.0	0.0	0.0	1.0
+"Abnormality of the radius"	1.0	1.0	0.0	0.0

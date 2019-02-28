@@ -1,0 +1,7 @@
+	"MONDO.0007342"	"MONDO.0009085"	"MONDO.0009732"	"MONDO.0010610"	"MONDO.0012272"	"MONDO.0060568"
+"HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
+"Rhizomelia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Clinodactyly of the 5th finger"	1.0	1.0	0.0	0.0	1.0	0.0
+"Bilateral single transverse palmar creases"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of the clavicle"	1.0	0.0	0.0	0.0	0.0	0.0
+"Diaphyseal thickening"	1.0	0.0	0.0	0.0	0.0	0.0

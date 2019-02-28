@@ -1,0 +1,13 @@
+	"MONDO.0008339"	"MONDO.0008751"	"MONDO.0010412"	"MONDO.0014029"
+"Cleft palate"	1.0	0.0	0.0	1.0
+"Ptosis"	1.0	0.0	0.0	1.0
+"Short neck"	1.0	0.0	0.0	1.0
+"Scoliosis"	1.0	0.0	0.0	1.0
+"Hemivertebrae"	1.0	0.0	0.0	0.0
+"Arthrogryposis multiplex congenita"	1.0	0.0	0.0	1.0
+"Elbow flexion contracture"	1.0	0.0	0.0	1.0
+"Camptodactyly"	1.0	0.0	0.0	1.0
+"Vertebral fusion"	1.0	0.0	0.0	0.0
+"Spondylolisthesis"	1.0	0.0	0.0	0.0
+"Low-set, posteriorly rotated ears"	1.0	0.0	0.0	0.0
+"Multiple pterygia"	1.0	0.0	0.0	0.0

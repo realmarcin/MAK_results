@@ -1,0 +1,10 @@
+	"MONDO.0008312"	"MONDO.0009000"	"MONDO.0014060"	"MONDO.0014427"
+"Microcephaly"	1.0	1.0	0.0	0.0
+"Intellectual disability"	1.0	1.0	0.0	0.0
+"Micrognathia"	1.0	1.0	0.0	0.0
+"Motor delay"	1.0	1.0	0.0	0.0
+"Short stature"	1.0	1.0	0.0	0.0
+"Sensorineural hearing impairment"	1.0	1.0	0.0	0.0
+"Small for gestational age"	1.0	1.0	0.0	0.0
+"Delayed puberty"	1.0	1.0	0.0	0.0
+"Thoracic scoliosis"	1.0	1.0	0.0	0.0

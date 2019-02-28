@@ -1,0 +1,7 @@
+	"MONDO.0009127"	"MONDO.0009900"	"MONDO.0009945"	"MONDO.0014809"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Abdominal distention"	0.0	0.0	0.0	1.0
+"Inflammation of the large intestine"	0.0	0.0	0.0	1.0
+"Polyhydramnios"	1.0	1.0	1.0	1.0
+"Congenital pyloric atresia"	0.0	0.0	1.0	0.0
+"Secretory diarrhea"	0.0	0.0	0.0	1.0

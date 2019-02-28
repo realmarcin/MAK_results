@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0001417"
+"2" "Hearing impairment"
+"3" "HP:0003621"
+"4" "Dementia"
+"5" "Spastic paraplegia"
+"6" "Blindness"
+"7" "Lower limb muscle weakness"

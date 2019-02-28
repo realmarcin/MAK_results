@@ -1,0 +1,7 @@
+"x"
+"1" "Talipes equinovarus"
+"2" "HP:0100490"
+"3" "Malar flattening"
+"4" "Short stature"
+"5" "Scoliosis"
+"6" "Low-set, posteriorly rotated ears"

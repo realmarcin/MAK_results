@@ -1,0 +1,8 @@
+"x"
+"1" "Hypertelorism"
+"2" "Downslanted palpebral fissures"
+"3" "Global developmental delay"
+"4" "Low-set ears"
+"5" "High palate"
+"6" "Depressed nasal bridge"
+"7" "Epicanthus"

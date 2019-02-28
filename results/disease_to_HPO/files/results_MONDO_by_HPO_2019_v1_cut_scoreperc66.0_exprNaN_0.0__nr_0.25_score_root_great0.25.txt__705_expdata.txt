@@ -1,0 +1,22 @@
+	"MONDO.0007522"	"MONDO.0009033"	"MONDO.0009163"	"MONDO.0011430"	"MONDO.0013720"
+"Xerostomia"	1.0	0.0	0.0	1.0	0.0
+"Blue irides"	1.0	0.0	0.0	1.0	0.0
+"Ectodermal dysplasia"	1.0	1.0	1.0	1.0	1.0
+"Nail pits"	1.0	0.0	0.0	1.0	0.0
+"Sparse axillary hair"	1.0	0.0	0.0	1.0	0.0
+"Fair hair"	1.0	0.0	0.0	1.0	0.0
+"Hypoplastic nipples"	1.0	0.0	0.0	1.0	0.0
+"HP:0007513"	1.0	0.0	0.0	1.0	0.0
+"Blepharitis"	1.0	0.0	0.0	1.0	0.0
+"Selective tooth agenesis"	1.0	0.0	0.0	1.0	0.0
+"Abnormality of the nasopharynx"	1.0	0.0	0.0	1.0	0.0
+"Central diabetes insipidus"	1.0	0.0	0.0	1.0	0.0
+"Bladder diverticulum"	1.0	0.0	0.0	1.0	0.0
+"Ureterocele"	1.0	0.0	0.0	1.0	0.0
+"Duplicated collecting system"	1.0	0.0	0.0	1.0	0.0
+"Transverse vaginal septum"	1.0	0.0	0.0	1.0	0.0
+"Absence of Stensen duct"	1.0	0.0	0.0	1.0	0.0
+"Depressed nasal tip"	1.0	0.0	0.0	1.0	0.0
+"Dacryocystitis"	1.0	0.0	0.0	1.0	0.0
+"Growth hormone deficiency"	1.0	0.0	0.0	1.0	0.0
+"Sparse pubic hair"	1.0	0.0	0.0	1.0	0.0

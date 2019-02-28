@@ -1,0 +1,12 @@
+	"MONDO.0010046"	"MONDO.0010049"	"MONDO.0010734"	"MONDO.0024556"	"MONDO.0011804"
+"Nystagmus"	1.0	1.0	1.0	1.0	1.0
+"Dysarthria"	1.0	1.0	1.0	1.0	1.0
+"Spastic paraplegia"	1.0	1.0	1.0	1.0	1.0
+"Pes cavus"	1.0	1.0	1.0	1.0	1.0
+"Dysphagia"	0.0	1.0	0.0	1.0	1.0
+"Babinski sign"	1.0	1.0	1.0	1.0	1.0
+"Lower limb spasticity"	1.0	1.0	1.0	1.0	1.0
+"Lower limb muscle weakness"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the cerebral white matter"	0.0	1.0	0.0	0.0	1.0
+"Spastic gait"	1.0	1.0	1.0	1.0	1.0
+"Upper limb muscle weakness"	1.0	1.0	0.0	0.0	1.0

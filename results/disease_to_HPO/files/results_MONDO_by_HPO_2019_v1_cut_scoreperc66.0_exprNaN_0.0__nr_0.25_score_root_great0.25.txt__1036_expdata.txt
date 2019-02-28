@@ -1,0 +1,9 @@
+	"MONDO.0008390"	"MONDO.0008518"	"MONDO.0010001"	"MONDO.0010669"	"MONDO.0010882"	"MONDO.0011041"
+"Right ventricular outlet obstruction"	1.0	0.0	1.0	0.0	0.0	0.0
+"Bifid distal phalanx of toe"	1.0	1.0	1.0	0.0	0.0	0.0
+"Duplication of the distal phalanx of hand"	1.0	0.0	1.0	0.0	0.0	0.0
+"Thoracic hemivertebrae"	0.0	0.0	1.0	1.0	0.0	1.0
+"Absent uvula"	0.0	0.0	1.0	0.0	1.0	0.0
+"Absent spinous processes of lower thoracic and lumbar vertebrae"	0.0	0.0	0.0	0.0	0.0	1.0
+"Narrow anterio-posterior vertebral body diameter"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hypoplastic female external genitalia"	0.0	0.0	1.0	0.0	0.0	0.0

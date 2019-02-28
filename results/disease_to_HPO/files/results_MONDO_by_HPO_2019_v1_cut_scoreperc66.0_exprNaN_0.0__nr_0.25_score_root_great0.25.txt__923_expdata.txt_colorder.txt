@@ -1,0 +1,6 @@
+"x"
+"1" "Milia"
+"2" "Wide nasal bridge"
+"3" "Hydrocephalus"
+"4" "Frontal bossing"
+"5" "Carious teeth"

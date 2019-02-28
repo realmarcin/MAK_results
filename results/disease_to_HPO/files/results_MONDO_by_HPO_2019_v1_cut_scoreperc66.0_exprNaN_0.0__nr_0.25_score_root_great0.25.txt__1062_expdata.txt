@@ -1,0 +1,10 @@
+	"MONDO.0008820"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Short stature"	1.0	0.0	1.0	1.0
+"Myocardial infarction"	1.0	0.0	0.0	0.0
+"Chronic kidney disease"	1.0	0.0	0.0	0.0
+"Delayed puberty"	1.0	0.0	0.0	0.0
+"Gastric ulcer"	1.0	0.0	0.0	0.0
+"Dysplasia of second lumbar vertebra"	1.0	0.0	0.0	0.0
+"Calcification of the aorta"	1.0	0.0	0.0	0.0
+"Central retinal vessel vascular tortuosity"	1.0	0.0	0.0	0.0
+"Central fundal arteriolar microaneurysms"	1.0	0.0	0.0	0.0

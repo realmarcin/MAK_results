@@ -1,0 +1,5 @@
+"x"
+"1" "Polyuria"
+"2" "Polydipsia"
+"3" "Renal corticomedullary cysts"
+"4" "Hyposthenuria"

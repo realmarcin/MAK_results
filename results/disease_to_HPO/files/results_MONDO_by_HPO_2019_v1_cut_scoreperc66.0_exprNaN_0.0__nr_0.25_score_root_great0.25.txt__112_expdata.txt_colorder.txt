@@ -1,0 +1,5 @@
+"x"
+"1" "Hyporeflexia"
+"2" "Areflexia"
+"3" "Distal sensory impairment"
+"4" "Distal muscle weakness"

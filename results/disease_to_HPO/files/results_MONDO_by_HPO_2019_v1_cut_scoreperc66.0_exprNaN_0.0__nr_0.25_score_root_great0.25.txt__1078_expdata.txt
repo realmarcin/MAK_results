@@ -1,0 +1,13 @@
+	"MONDO.0008104"	"MONDO.0011038"	"MONDO.0012562"	"MONDO.0013357"	"MONDO.0014423"
+"HP:0000007"	0.0	1.0	0.0	0.0	0.0
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Renal insufficiency"	0.0	1.0	0.0	0.0	0.0
+"Stage 5 chronic kidney disease"	0.0	0.0	1.0	0.0	0.0
+"Vesicoureteral reflux"	0.0	1.0	1.0	1.0	1.0
+"Renal dysplasia"	0.0	1.0	0.0	0.0	0.0
+"HP:0003829"	0.0	0.0	1.0	0.0	0.0
+"Ureterocele"	0.0	0.0	0.0	0.0	0.0
+"Ureteropelvic junction obstruction"	0.0	0.0	1.0	0.0	0.0
+"Cystic renal dysplasia"	0.0	1.0	0.0	0.0	0.0
+"Pulmonary hypoplasia"	0.0	1.0	0.0	0.0	0.0
+"Hyperechogenic kidneys"	0.0	1.0	0.0	0.0	0.0

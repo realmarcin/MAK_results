@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Pectus excavatum"
+"3" "Low posterior hairline"
+"4" "Lamellar cataract"
+"5" "Generalized hypertrichosis"
+"6" "Generalized hirsutism"
+"7" "Abnormality of the palate"

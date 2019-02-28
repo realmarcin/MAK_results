@@ -1,0 +1,9 @@
+	"MONDO.0007653"	"MONDO.0008761"	"MONDO.0009493"	"MONDO.0011732"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Abdominal distention"	0.0	0.0	0.0	1.0
+"Chronic diarrhea"	0.0	0.0	0.0	1.0
+"Metabolic acidosis"	0.0	0.0	0.0	1.0
+"Hypertonic dehydration"	0.0	0.0	0.0	1.0
+"Glycosuria"	0.0	0.0	0.0	1.0
+"Abnormal oral glucose tolerance"	0.0	0.0	0.0	1.0
+"Hyperactive bowel sounds"	0.0	0.0	0.0	1.0

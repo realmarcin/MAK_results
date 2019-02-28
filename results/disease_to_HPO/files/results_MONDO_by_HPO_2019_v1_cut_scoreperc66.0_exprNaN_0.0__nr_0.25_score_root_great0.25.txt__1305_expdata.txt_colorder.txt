@@ -1,0 +1,5 @@
+"x"
+"1" "Renal insufficiency"
+"2" "Pyloric stenosis"
+"3" "Hyperpigmentation of the skin"
+"4" "Fragile nails"

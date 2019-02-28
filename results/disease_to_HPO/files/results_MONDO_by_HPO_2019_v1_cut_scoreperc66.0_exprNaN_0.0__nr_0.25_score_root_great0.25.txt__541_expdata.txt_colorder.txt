@@ -1,0 +1,8 @@
+"x"
+"1" "Radioulnar synostosis"
+"2" "Short stature"
+"3" "Brachydactyly"
+"4" "Clinodactyly of the 5th finger"
+"5" "Toe syndactyly"
+"6" "Finger syndactyly"
+"7" "Increased mean corpuscular volume"

@@ -1,0 +1,6 @@
+"x"
+"1" "Distal upper limb amyotrophy"
+"2" "Cervical spinal cord atrophy"
+"3" "Interosseus muscle atrophy"
+"4" "HP:0031372"
+"5" "Impaired visually enhanced vestibulo-ocular reflex"

@@ -1,0 +1,7 @@
+"x"
+"1" "Vesicoureteral reflux"
+"2" "Tetralogy of Fallot"
+"3" "Renal hypoplasia"
+"4" "Renal dysplasia"
+"5" "Anteriorly placed anus"
+"6" "Recurrent urinary tract infections"

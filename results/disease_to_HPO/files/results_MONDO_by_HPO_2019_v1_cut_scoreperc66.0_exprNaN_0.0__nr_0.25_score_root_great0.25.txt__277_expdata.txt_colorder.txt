@@ -1,0 +1,8 @@
+"x"
+"1" "Elevated serum creatine phosphokinase"
+"2" "Muscular dystrophy"
+"3" "Difficulty climbing stairs"
+"4" "HP:0001425"
+"5" "Pelvic girdle amyotrophy"
+"6" "Limb-girdle muscle atrophy"
+"7" "Syncope"

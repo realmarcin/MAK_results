@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Global developmental delay"
+"3" "Cerebral cortical atrophy"
+"4" "Intellectual disability, severe"
+"5" "Short stature"
+"6" "Nystagmus"
+"7" "Coarse facial features"

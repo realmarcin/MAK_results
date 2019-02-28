@@ -1,0 +1,5 @@
+"x"
+"1" "Chronic diarrhea"
+"2" "High palate"
+"3" "Inguinal hernia"
+"4" "Coarse hair"

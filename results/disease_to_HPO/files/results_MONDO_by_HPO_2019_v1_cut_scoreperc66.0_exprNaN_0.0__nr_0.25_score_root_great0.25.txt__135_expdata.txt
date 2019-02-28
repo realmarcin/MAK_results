@@ -1,0 +1,7 @@
+	"MONDO.0008099"	"MONDO.0008336"	"MONDO.0020643"	"MONDO.0011229"	"MONDO.0013734"	"MONDO.0014508"
+"Talipes equinovarus"	1.0	1.0	1.0	1.0	1.0	1.0
+"Malar flattening"	0.0	1.0	1.0	1.0	0.0	1.0
+"Short stature"	0.0	1.0	1.0	1.0	0.0	1.0
+"Scoliosis"	1.0	0.0	1.0	0.0	1.0	1.0
+"HP:0100490"	1.0	1.0	1.0	0.0	1.0	1.0
+"Low-set, posteriorly rotated ears"	0.0	1.0	1.0	0.0	0.0	1.0

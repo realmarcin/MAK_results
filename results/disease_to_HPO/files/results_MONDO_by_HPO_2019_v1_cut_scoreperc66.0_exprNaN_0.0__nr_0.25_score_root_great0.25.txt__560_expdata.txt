@@ -1,0 +1,7 @@
+	"MONDO.0011490"	"MONDO.0011533"	"MONDO.0011787"	"MONDO.0011902"	"MONDO.0012767"	"MONDO.0013963"	"MONDO.0014828"	"MONDO.0007757"
+"Degeneration of the lateral corticospinal tracts"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Muscle cramps"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Progressive spastic paraplegia"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Progressive pes cavus"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
+"Hyperreflexia in upper limbs"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Spinal cord lesion"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

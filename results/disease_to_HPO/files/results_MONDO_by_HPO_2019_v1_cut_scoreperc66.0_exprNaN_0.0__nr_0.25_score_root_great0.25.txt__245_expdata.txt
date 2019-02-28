@@ -1,0 +1,8 @@
+	"MONDO.0010999"	"MONDO.0011731"	"MONDO.0012120"	"MONDO.0013397"	"MONDO.0014531"	"MONDO.0060759"
+"HP:0000007"	1.0	1.0	1.0	0.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	0.0	1.0	1.0	1.0	1.0	0.0
+"Cerebellar atrophy"	1.0	0.0	1.0	0.0	1.0	0.0
+"Cognitive impairment"	0.0	0.0	1.0	1.0	1.0	0.0
+"Hyperreflexia"	1.0	0.0	1.0	0.0	1.0	1.0
+"Poor speech"	0.0	0.0	1.0	0.0	1.0	0.0

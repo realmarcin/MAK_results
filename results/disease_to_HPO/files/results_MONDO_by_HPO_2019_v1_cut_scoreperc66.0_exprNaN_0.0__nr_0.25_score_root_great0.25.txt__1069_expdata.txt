@@ -1,0 +1,6 @@
+	"MONDO.0007733"	"MONDO.0008704"	"MONDO.0010005"	"MONDO.0010501"	"MONDO.0011456"	"MONDO.0014723"
+"Aplasia/Hypoplasia of the breasts"	0.0	0.0	1.0	0.0	0.0	0.0
+"HP:0011927"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ureterovesical stenosis"	0.0	0.0	1.0	0.0	0.0	0.0
+"Pseudocoarctation of the aorta"	0.0	0.0	0.0	0.0	1.0	0.0
+"Abnormality of the scrotum"	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Fever"
+"2" "Myalgia"
+"3" "Abnormal shape of the occiput"

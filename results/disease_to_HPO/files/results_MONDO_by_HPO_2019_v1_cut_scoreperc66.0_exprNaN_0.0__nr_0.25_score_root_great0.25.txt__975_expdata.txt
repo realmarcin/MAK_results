@@ -1,0 +1,9 @@
+	"MONDO.0010247"	"MONDO.0011508"	"MONDO.0012615"	"MONDO.0024569"	"MONDO.0014729"	"MONDO.0033363"
+"Opisthotonus"	0.0	0.0	0.0	0.0	1.0	0.0
+"Visual impairment"	0.0	0.0	0.0	0.0	1.0	1.0
+"Tetraparesis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Microvesicular hepatic steatosis"	0.0	0.0	0.0	0.0	1.0	0.0
+"Increased serum lactate"	0.0	0.0	0.0	0.0	1.0	1.0
+"Feeding difficulties"	0.0	0.0	0.0	1.0	1.0	1.0
+"Status epilepticus"	1.0	0.0	0.0	1.0	1.0	1.0
+"Epileptic encephalopathy"	0.0	0.0	0.0	0.0	1.0	1.0

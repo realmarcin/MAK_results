@@ -1,0 +1,23 @@
+	"MONDO.0008729"	"MONDO.0008730"	"MONDO.0012214"	"MONDO.0024565"
+"Osteoporosis"	1.0	1.0	0.0	1.0
+"Hirsutism"	1.0	1.0	0.0	1.0
+"Adrenogenital syndrome"	1.0	1.0	0.0	1.0
+"Lower limb spasticity"	0.0	0.0	1.0	0.0
+"Aortic root dilatation"	1.0	1.0	0.0	1.0
+"Urinary urgency"	0.0	0.0	1.0	0.0
+"Decreased circulating cortisol level"	1.0	1.0	0.0	1.0
+"Clitoral hypertrophy"	1.0	1.0	0.0	1.0
+"Spastic gait"	0.0	0.0	1.0	0.0
+"Premature adrenarche"	1.0	1.0	0.0	1.0
+"Enlarged polycystic ovaries"	1.0	1.0	0.0	1.0
+"Ambiguous genitalia, female"	1.0	1.0	0.0	1.0
+"Congenital adrenal hyperplasia"	1.0	1.0	0.0	1.0
+"Increased circulating ACTH level"	1.0	1.0	0.0	1.0
+"Generalized hyperpigmentation"	1.0	1.0	0.0	1.0
+"Decreased fertility in females"	1.0	1.0	0.0	1.0
+"Adrenocorticotropic hormone excess"	1.0	1.0	0.0	1.0
+"Female sexual dysfunction"	1.0	1.0	0.0	1.0
+"Urogenital sinus anomaly"	1.0	1.0	0.0	1.0
+"Decreased fertility in males"	1.0	1.0	0.0	1.0
+"Ectopic adrenal gland"	1.0	1.0	0.0	1.0
+"Hyperpigmented genitalia"	1.0	1.0	0.0	1.0

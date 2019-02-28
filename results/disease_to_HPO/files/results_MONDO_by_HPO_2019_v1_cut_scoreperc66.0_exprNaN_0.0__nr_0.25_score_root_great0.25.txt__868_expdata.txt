@@ -1,0 +1,14 @@
+	"MONDO.0009169"	"MONDO.0011005"	"MONDO.0014342"	"MONDO.0014833"
+"Micrognathia"	1.0	0.0	0.0	0.0
+"Ataxia"	0.0	0.0	1.0	1.0
+"Intrauterine growth retardation"	1.0	1.0	0.0	1.0
+"Delayed speech and language development"	0.0	0.0	1.0	1.0
+"Cerebral atrophy"	0.0	0.0	0.0	1.0
+"Abnormality of metabolism/homeostasis"	1.0	1.0	0.0	0.0
+"Premature birth"	1.0	0.0	0.0	0.0
+"Absent speech"	0.0	0.0	0.0	1.0
+"Polyhydramnios"	1.0	1.0	0.0	0.0
+"Akinesia"	1.0	1.0	0.0	0.0
+"Hydranencephaly"	1.0	0.0	0.0	0.0
+"Externally rotated hips"	0.0	0.0	0.0	0.0
+"EEG with focal spikes"	0.0	0.0	0.0	1.0

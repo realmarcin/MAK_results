@@ -1,0 +1,6 @@
+	"MONDO.0011179"	"MONDO.0011308"	"MONDO.0011595"	"MONDO.0060659"	"MONDO.0060711"
+"HP:0000006"	1.0	0.0	1.0	0.0	0.0
+"Migraine"	1.0	0.0	1.0	0.0	0.0
+"Focal seizures"	1.0	0.0	1.0	0.0	0.0
+"Generalized seizures"	1.0	0.0	1.0	0.0	0.0
+"Focal seizures, afebril"	1.0	0.0	1.0	0.0	0.0

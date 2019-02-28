@@ -1,0 +1,7 @@
+	"MONDO.0009530"	"MONDO.0009564"	"MONDO.0011544"
+"Elevated plasma branched chain amino acids"	1.0	1.0	0.0
+"HP:0031796"	0.0	1.0	0.0
+"Abnormal cardiac ventricular function"	1.0	0.0	1.0
+"Recurrent infections of the middle ear"	0.0	0.0	1.0
+"Hyperisoleucinemia"	1.0	0.0	0.0
+"Increased urine alpha-ketoglutarate concentration"	1.0	0.0	0.0

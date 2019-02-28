@@ -1,0 +1,8 @@
+"x"
+"1" "Micrognathia"
+"2" "HP:0000007"
+"3" "Microcephaly"
+"4" "Arthrogryposis multiplex congenita"
+"5" "Global developmental delay"
+"6" "Low-set ears"
+"7" "Rocker bottom foot"

@@ -1,0 +1,7 @@
+	"MONDO.0011308"	"MONDO.0012948"	"MONDO.0060659"	"MONDO.0060711"
+"Syndactyly"	0.0	1.0	0.0	0.0
+"HP:0000006"	0.0	1.0	0.0	0.0
+"Intellectual disability"	0.0	1.0	0.0	0.0
+"Midface retrusion"	0.0	1.0	0.0	0.0
+"Short toe"	0.0	1.0	0.0	0.0
+"Short chin"	0.0	1.0	0.0	0.0

@@ -1,0 +1,11 @@
+	"MONDO.0007712"	"MONDO.0014037"	"MONDO.0014321"	"MONDO.0033012"
+"Strabismus"	1.0	1.0	1.0	1.0
+"Intellectual disability"	0.0	1.0	1.0	1.0
+"Motor delay"	0.0	0.0	0.0	1.0
+"Long eyelashes"	0.0	0.0	0.0	1.0
+"Thin upper lip vermilion"	0.0	1.0	0.0	1.0
+"Nystagmus"	0.0	0.0	1.0	1.0
+"Abnormality of visual evoked potentials"	0.0	0.0	0.0	1.0
+"Frequent falls"	0.0	0.0	0.0	1.0
+"Optic disc pallor"	0.0	0.0	1.0	1.0
+"Hypoplasia of the pons"	0.0	0.0	0.0	1.0

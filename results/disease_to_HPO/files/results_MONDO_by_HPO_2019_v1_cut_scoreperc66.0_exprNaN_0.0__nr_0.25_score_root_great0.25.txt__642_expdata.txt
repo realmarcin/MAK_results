@@ -1,0 +1,4 @@
+	"MONDO.0030909"	"MONDO.0014374"	"MONDO.0014753"	"MONDO.0014819"	"MONDO.0014862"	"MONDO.0033281"
+"Minimal change glomerulonephritis"	1.0	1.0	1.0	0.0	1.0	1.0
+"Steroid-resistant nephrotic syndrome"	0.0	1.0	0.0	1.0	0.0	0.0
+"HP:0031266"	0.0	1.0	0.0	0.0	0.0	0.0

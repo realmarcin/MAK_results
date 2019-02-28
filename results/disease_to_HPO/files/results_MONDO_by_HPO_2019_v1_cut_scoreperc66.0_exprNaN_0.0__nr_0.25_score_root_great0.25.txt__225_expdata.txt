@@ -1,0 +1,5 @@
+	"MONDO.0007857"	"MONDO.0008281"	"MONDO.0010197"	"MONDO.0011720"
+"Esophageal neoplasm"	1.0	1.0	0.0	1.0
+"Neoplasm of the colon"	0.0	1.0	0.0	1.0
+"Neoplasm of the rectum"	0.0	1.0	0.0	1.0
+"Neoplasm of the small intestine"	0.0	1.0	1.0	1.0

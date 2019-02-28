@@ -1,0 +1,7 @@
+"x"
+"1" "Autoimmunity"
+"2" "Pulmonary fibrosis"
+"3" "Weight loss"
+"4" "Pericarditis"
+"5" "Sinusitis"
+"6" "Pleuritis"

@@ -1,0 +1,5 @@
+"x"
+"1" "Dysgraphia"
+"2" "Orofacial dyskinesia"
+"3" "Abnormality of the thyroid gland"
+"4" "Death in early adulthood"

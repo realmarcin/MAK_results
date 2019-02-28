@@ -1,0 +1,8 @@
+	"MONDO.0007687"	"MONDO.0009213"	"MONDO.0010192"	"MONDO.0012900"	"MONDO.0013332"	"MONDO.0014520"
+"HP:0003676"	1.0	0.0	0.0	0.0	0.0	0.0
+"Myelodysplasia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Menorrhagia"	1.0	1.0	1.0	1.0	1.0	1.0
+"Impaired collagen-induced platelet aggregation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Impaired thrombin-induced platelet aggregation"	1.0	0.0	0.0	0.0	0.0	0.0
+"Reduced quantity of Von Willebrand factor"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the menstrual cycle"	1.0	0.0	0.0	0.0	0.0	0.0

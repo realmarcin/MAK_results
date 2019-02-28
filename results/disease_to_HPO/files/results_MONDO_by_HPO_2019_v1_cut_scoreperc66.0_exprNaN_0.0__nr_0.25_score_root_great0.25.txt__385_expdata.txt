@@ -1,0 +1,8 @@
+	"MONDO.0009770"	"MONDO.0010486"	"MONDO.0013119"	"MONDO.0014355"	"MONDO.0054782"
+"HP:0000007"	1.0	0.0	1.0	1.0	0.0
+"Microphthalmia"	1.0	1.0	0.0	0.0	0.0
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0
+"Short stature"	1.0	1.0	1.0	1.0	0.0
+"Spasticity"	1.0	0.0	1.0	1.0	0.0
+"Remnants of the hyaloid vascular system"	1.0	0.0	0.0	0.0	0.0
+"Leukocoria"	1.0	0.0	0.0	0.0	0.0

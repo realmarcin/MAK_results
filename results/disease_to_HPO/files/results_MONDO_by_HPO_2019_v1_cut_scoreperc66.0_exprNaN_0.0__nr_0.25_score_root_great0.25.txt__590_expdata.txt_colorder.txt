@@ -1,0 +1,6 @@
+"x"
+"1" "Severe B lymphocytopenia"
+"2" "Absent cellular immunity"
+"3" "Absent specific antibody response"
+"4" "Reduced red cell adenosine deaminase activity"
+"5" "HP:0025379"

@@ -1,0 +1,4 @@
+	"MONDO.0009020"	"MONDO.0010650"	"MONDO.0012405"
+"Congenital corneal dystrophy"	1.0	0.0	1.0
+"Mosaic corneal dystrophy"	0.0	1.0	0.0
+"Increased corneal thickness"	0.0	1.0	1.0

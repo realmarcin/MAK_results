@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of the skeletal system"
+"2" "HP:0000006"
+"3" "Peripheral neuropathy"
+"4" "Vesicoureteral reflux"
+"5" "Raynaud phenomenon"

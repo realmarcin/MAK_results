@@ -1,0 +1,7 @@
+	"MONDO.0009258"	"MONDO.0009383"	"MONDO.0010205"	"MONDO.0011873"	"MONDO.0011875"	"MONDO.0014286"
+"Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Jaundice"	1.0	1.0	1.0	1.0	1.0	1.0
+"Feeding difficulties"	1.0	0.0	1.0	0.0	0.0	0.0
+"Retinal atrophy"	0.0	0.0	0.0	0.0	0.0	0.0

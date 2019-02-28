@@ -1,0 +1,12 @@
+	"MONDO.0007511"	"MONDO.0009182"	"MONDO.0010156"	"MONDO.0012808"
+"Strabismus"	1.0	0.0	1.0	0.0
+"Hepatomegaly"	0.0	0.0	1.0	0.0
+"HP:0000007"	0.0	1.0	1.0	1.0
+"HP:0001596"	1.0	1.0	1.0	0.0
+"Ataxia"	0.0	0.0	1.0	0.0
+"Microtia"	0.0	0.0	1.0	1.0
+"Muscle weakness"	0.0	0.0	1.0	0.0
+"Myopathy"	0.0	1.0	1.0	0.0
+"Abnormality of blood and blood-forming tissues"	0.0	0.0	1.0	0.0
+"Subcapsular cataract"	0.0	0.0	1.0	0.0
+"Hepatic steatosis"	0.0	0.0	1.0	0.0

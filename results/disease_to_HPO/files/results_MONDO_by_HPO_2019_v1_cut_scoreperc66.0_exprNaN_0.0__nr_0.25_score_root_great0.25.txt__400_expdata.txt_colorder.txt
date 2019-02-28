@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Retinal degeneration"
+"3" "Nephronophthisis"
+"4" "HP:0003812"
+"5" "Cerebellar vermis hypoplasia"
+"6" "HP:0000113"

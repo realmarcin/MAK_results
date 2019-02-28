@@ -1,0 +1,8 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0010999"	"MONDO.0013397"	"MONDO.0014166"	"MONDO.0014236"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0	0.0
+"Bipolar affective disorder"	0.0	0.0	0.0	0.0	0.0	1.0
+"Narrow nasal ridge"	0.0	0.0	0.0	0.0	0.0	1.0
+"Attention deficit hyperactivity disorder"	0.0	0.0	0.0	0.0	0.0	1.0
+"Polyphagia"	0.0	0.0	0.0	0.0	0.0	1.0

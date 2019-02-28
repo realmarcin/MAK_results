@@ -1,0 +1,7 @@
+"x"
+"1" "Immunodeficiency"
+"2" "HP:0000007"
+"3" "Neutropenia"
+"4" "Anemia"
+"5" "Meningitis"
+"6" "Chronic oral candidiasis"

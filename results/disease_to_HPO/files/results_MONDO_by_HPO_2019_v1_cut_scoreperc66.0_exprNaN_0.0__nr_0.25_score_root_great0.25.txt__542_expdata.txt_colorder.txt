@@ -1,0 +1,7 @@
+"x"
+"1" "U-Shaped upper lip vermilion"
+"2" "Hypertelorism"
+"3" "Pectus excavatum"
+"4" "Toe syndactyly"
+"5" "Blepharophimosis"
+"6" "Inguinal hernia"

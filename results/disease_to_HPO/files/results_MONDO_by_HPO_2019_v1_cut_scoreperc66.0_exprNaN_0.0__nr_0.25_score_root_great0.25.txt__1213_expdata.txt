@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0008901"	"MONDO.0011984"	"MONDO.0012055"
+"HP:0000007"	0.0	1.0	0.0	0.0
+"Patent ductus arteriosus"	0.0	1.0	0.0	0.0
+"Arachnodactyly"	0.0	1.0	0.0	0.0
+"Scoliosis"	0.0	1.0	0.0	0.0
+"Skeletal dysplasia"	0.0	1.0	0.0	0.0
+"Joint contracture of the hand"	0.0	1.0	0.0	0.0
+"Camptodactyly"	0.0	1.0	0.0	0.0
+"Abnormality of the face"	0.0	1.0	0.0	0.0
+"Hammertoe"	0.0	1.0	0.0	0.0

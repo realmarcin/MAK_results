@@ -1,0 +1,11 @@
+	"MONDO.0010250"	"MONDO.0010277"	"MONDO.0011774"	"MONDO.0013015"	"MONDO.0014344"
+"Brachydactyly"	1.0	1.0	1.0	1.0	0.0
+"Abnormality of the nail"	0.0	0.0	0.0	1.0	0.0
+"Platyspondyly"	1.0	1.0	1.0	1.0	0.0
+"Short finger"	0.0	1.0	1.0	1.0	0.0
+"Hypoplastic ilia"	0.0	0.0	1.0	0.0	0.0
+"J-shaped sella turcica"	0.0	0.0	1.0	0.0	0.0
+"Functional respiratory abnormality"	0.0	0.0	0.0	1.0	0.0
+"Cervical cord compression"	0.0	0.0	1.0	0.0	0.0
+"Cervical subluxation"	0.0	0.0	1.0	0.0	0.0
+"Absent nasal bridge"	0.0	0.0	0.0	1.0	0.0

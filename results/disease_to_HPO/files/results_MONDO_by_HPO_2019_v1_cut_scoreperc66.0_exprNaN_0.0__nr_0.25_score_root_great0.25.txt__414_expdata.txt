@@ -1,0 +1,10 @@
+	"MONDO.0009071"	"MONDO.0009579"	"MONDO.0015006"	"MONDO.0054761"
+"Intellectual disability"	1.0	1.0	1.0	0.0
+"Seizures"	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0
+"HP:0003812"	1.0	0.0	0.0	0.0
+"Growth delay"	1.0	0.0	0.0	0.0
+"Opisthotonus"	1.0	0.0	0.0	0.0
+"Metabolic acidosis"	1.0	0.0	1.0	0.0
+"Aminoaciduria"	1.0	0.0	0.0	1.0
+"Nonketotic hyperglycinemia"	1.0	0.0	0.0	0.0

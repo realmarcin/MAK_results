@@ -1,0 +1,7 @@
+"x"
+"1" "Tracheoesophageal fistula"
+"2" "Esophageal atresia"
+"3" "Lumbar hyperlordosis"
+"4" "Hyperlordosis"
+"5" "Abnormality of the hip bone"
+"6" "Abnormality of the palate"

@@ -1,0 +1,8 @@
+	"MONDO.0044204"	"MONDO.0010814"	"MONDO.0011043"	"MONDO.0012193"	"MONDO.0012437"	"MONDO.0014407"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Intrauterine growth retardation"	1.0	0.0	1.0	0.0	1.0	0.0
+"Azoospermia"	0.0	0.0	0.0	0.0	0.0	0.0
+"Diabetes mellitus"	1.0	0.0	0.0	1.0	1.0	0.0
+"Pancreatic hypoplasia"	1.0	0.0	1.0	0.0	1.0	1.0
+"Neonatal insulin-dependent diabetes mellitus"	1.0	1.0	0.0	1.0	0.0	0.0
+"Upper eyelid edema"	0.0	0.0	0.0	0.0	0.0	0.0

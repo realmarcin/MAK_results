@@ -1,0 +1,8 @@
+	"MONDO.0007341"	"MONDO.0010703"	"MONDO.0011526"	"MONDO.0013081"	"MONDO.0014434"	"MONDO.0014435"
+"Syndactyly"	0.0	1.0	1.0	1.0	1.0	1.0
+"Chronic otitis media"	1.0	1.0	0.0	0.0	0.0	0.0
+"Hypoplasia of dental enamel"	1.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of dental enamel"	1.0	1.0	0.0	0.0	0.0	0.0
+"Polydactyly"	0.0	1.0	1.0	1.0	1.0	1.0
+"Open bite"	1.0	1.0	0.0	0.0	0.0	0.0
+"HP:0010669"	1.0	1.0	0.0	0.0	0.0	0.0

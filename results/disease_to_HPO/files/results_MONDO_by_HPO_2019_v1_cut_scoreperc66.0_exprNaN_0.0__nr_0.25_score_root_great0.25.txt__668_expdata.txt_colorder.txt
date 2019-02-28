@@ -1,0 +1,6 @@
+"x"
+"1" "Edema of the dorsum of hands"
+"2" "Edema of the dorsum of feet"
+"3" "HP:0009662"
+"4" "HP:0025537"
+"5" "HP:0025538"

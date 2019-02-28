@@ -1,0 +1,8 @@
+	"MONDO.0007346"	"MONDO.0008571"	"MONDO.0008686"	"MONDO.0009281"	"MONDO.0010235"	"MONDO.0011058"	"MONDO.0013194"	"MONDO.0014330"
+"HP:0000006"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+"Stroke"	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
+"Shortened PR interval"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Palpitations"	0.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0
+"Paroxysmal supraventricular tachycardia"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Prolonged QRS complex"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"Ventricular preexcitation with multiple accessory pathways"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

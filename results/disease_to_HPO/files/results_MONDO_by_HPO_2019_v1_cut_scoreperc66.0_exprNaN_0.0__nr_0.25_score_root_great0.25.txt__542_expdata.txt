@@ -1,0 +1,7 @@
+	"MONDO.0009321"	"MONDO.0011148"	"MONDO.0011360"	"MONDO.0011577"	"MONDO.0012375"	"MONDO.0012456"	"MONDO.0013054"
+"Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
+"Pectus excavatum"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Toe syndactyly"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Blepharophimosis"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"Inguinal hernia"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+"U-Shaped upper lip vermilion"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

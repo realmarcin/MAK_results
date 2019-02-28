@@ -1,0 +1,11 @@
+	"MONDO.0007615"	"MONDO.0008131"	"MONDO.0010913"	"MONDO.0011182"
+"Ptosis"	0.0	1.0	1.0	0.0
+"HP:0000006"	1.0	1.0	1.0	0.0
+"Global developmental delay"	0.0	1.0	1.0	0.0
+"Agenesis of corpus callosum"	0.0	0.0	1.0	0.0
+"Specific learning disability"	0.0	1.0	1.0	0.0
+"Peripheral axonal neuropathy"	0.0	0.0	1.0	0.0
+"Facial palsy"	0.0	1.0	1.0	0.0
+"Joint contracture of the hand"	0.0	0.0	1.0	0.0
+"HP:0100490"	0.0	0.0	1.0	0.0
+"Wrist flexion contracture"	0.0	0.0	1.0	0.0

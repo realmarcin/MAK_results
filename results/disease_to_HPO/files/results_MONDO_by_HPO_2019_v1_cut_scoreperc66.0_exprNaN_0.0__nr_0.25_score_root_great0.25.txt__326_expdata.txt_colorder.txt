@@ -1,0 +1,8 @@
+"x"
+"1" "Short nose"
+"2" "Generalized hypotonia"
+"3" "Broad forehead"
+"4" "Inability to walk"
+"5" "Short chin"
+"6" "Epileptic encephalopathy"
+"7" "Abnormality of the periventricular white matter"

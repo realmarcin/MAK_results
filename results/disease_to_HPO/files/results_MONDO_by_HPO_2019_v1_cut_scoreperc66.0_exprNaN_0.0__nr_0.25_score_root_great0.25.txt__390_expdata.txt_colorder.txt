@@ -1,0 +1,5 @@
+"x"
+"1" "Hand oligodactyly"
+"2" "Foot oligodactyly"
+"3" "Aplasia of the ulna"
+"4" "Abnormality of the ulna"

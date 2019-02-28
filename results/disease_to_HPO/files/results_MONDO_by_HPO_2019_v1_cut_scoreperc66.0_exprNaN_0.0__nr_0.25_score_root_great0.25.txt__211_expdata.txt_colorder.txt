@@ -1,0 +1,6 @@
+"x"
+"1" "Absent toenail"
+"2" "Absent fingernail"
+"3" "Nail dysplasia"
+"4" "Ankyloglossia"
+"5" "Bone marrow hypocellularity"

@@ -1,0 +1,11 @@
+	"MONDO.0010397"	"MONDO.0010479"	"MONDO.0014372"	"MONDO.0014729"	"MONDO.0015001"
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0
+"Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0
+"Low anterior hairline"	0.0	0.0	1.0	0.0	0.0
+"Broad nasal tip"	0.0	0.0	1.0	0.0	0.0
+"Short philtrum"	0.0	0.0	1.0	0.0	0.0
+"Narrow forehead"	0.0	0.0	1.0	0.0	0.0
+"Periorbital fullness"	0.0	0.0	1.0	0.0	0.0
+"Hypsarrhythmia"	1.0	1.0	1.0	0.0	1.0
+"Hypoplasia of the pons"	0.0	0.0	1.0	0.0	0.0
+"Epileptic encephalopathy"	1.0	1.0	1.0	1.0	1.0

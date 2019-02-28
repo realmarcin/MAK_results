@@ -1,0 +1,5 @@
+	"MONDO.0007701"	"MONDO.0008787"	"MONDO.0009060"	"MONDO.0010168"	"MONDO.0012408"
+"HP:0010895"	0.0	0.0	1.0	0.0	1.0
+"HP:0010918"	0.0	0.0	1.0	0.0	0.0
+"Urocanic aciduria"	0.0	0.0	0.0	1.0	0.0
+"Abnormality of histidine metabolism"	0.0	0.0	0.0	1.0	1.0

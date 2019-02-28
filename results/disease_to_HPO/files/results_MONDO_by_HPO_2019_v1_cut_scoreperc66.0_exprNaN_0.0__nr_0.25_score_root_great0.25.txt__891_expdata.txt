@@ -1,0 +1,5 @@
+	"MONDO.0009328"	"MONDO.0009665"	"MONDO.0009679"	"MONDO.0010283"	"MONDO.0013475"	"MONDO.0014974"	"MONDO.0014975"
+"Myocardial fibrosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+"Pericardial constriction"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0007348"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Hypoglycosylation of alpha-dystroglycan"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

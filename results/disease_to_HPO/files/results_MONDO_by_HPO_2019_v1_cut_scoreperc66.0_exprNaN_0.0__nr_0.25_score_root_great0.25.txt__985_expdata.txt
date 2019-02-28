@@ -1,0 +1,9 @@
+	"MONDO.0007311"	"MONDO.0007313"	"MONDO.0008046"	"MONDO.0010057"	"MONDO.0010736"	"MONDO.0011469"
+"Peripheral neuropathy"	0.0	0.0	0.0	0.0	1.0	1.0
+"HP:0003581"	0.0	0.0	0.0	1.0	1.0	1.0
+"Gliosis"	0.0	1.0	0.0	0.0	0.0	1.0
+"Gait disturbance"	0.0	0.0	1.0	0.0	1.0	1.0
+"Tetraplegia"	0.0	0.0	0.0	0.0	0.0	1.0
+"Sensory neuropathy"	0.0	1.0	0.0	0.0	1.0	1.0
+"Mildly elevated creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperlipidemia"	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+	"MONDO.0011412"	"MONDO.0012286"	"MONDO.0012704"	"MONDO.0014408"	"MONDO.0014535"	"MONDO.0044721"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	0.0
+"Pachygyria"	0.0	1.0	1.0	0.0	1.0	1.0
+"Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ventriculomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Polymicrogyria"	1.0	1.0	1.0	1.0	1.0	1.0

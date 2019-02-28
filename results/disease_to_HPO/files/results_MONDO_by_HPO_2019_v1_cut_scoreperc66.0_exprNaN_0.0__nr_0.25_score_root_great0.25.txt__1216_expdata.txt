@@ -1,0 +1,11 @@
+	"MONDO.0007668"	"MONDO.0011984"	"MONDO.0012055"	"MONDO.0013501"
+"Recurrent otitis media"	0.0	0.0	0.0	1.0
+"Recurrent respiratory infections"	0.0	0.0	0.0	1.0
+"Chronic mucocutaneous candidiasis"	0.0	0.0	0.0	1.0
+"Recurrent bronchitis"	0.0	0.0	0.0	1.0
+"Folliculitis"	0.0	0.0	0.0	1.0
+"Recurrent Staphylococcus aureus infections"	0.0	0.0	0.0	1.0
+"Recurrent sinusitis"	0.0	0.0	0.0	1.0
+"Pustule"	0.0	0.0	0.0	1.0
+"Chronic furunculosis"	0.0	0.0	0.0	1.0
+"HP:0031292"	0.0	0.0	0.0	1.0

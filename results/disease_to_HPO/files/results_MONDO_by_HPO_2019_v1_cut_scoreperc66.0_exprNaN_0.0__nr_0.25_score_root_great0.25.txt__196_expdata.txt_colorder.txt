@@ -1,0 +1,8 @@
+"x"
+"1" "Micrognathia"
+"2" "Vesicoureteral reflux"
+"3" "Cryptorchidism"
+"4" "Atrial septal defect"
+"5" "Small nail"
+"6" "Limited elbow extension"
+"7" "Hyperactivity"

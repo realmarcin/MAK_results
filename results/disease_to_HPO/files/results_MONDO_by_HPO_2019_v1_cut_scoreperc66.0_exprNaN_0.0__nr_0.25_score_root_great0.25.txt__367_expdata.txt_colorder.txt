@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000006"
+"2" "Ataxia"
+"3" "Skeletal muscle atrophy"
+"4" "Spasticity"
+"5" "Fasciculations"
+"6" "Diabetes mellitus"

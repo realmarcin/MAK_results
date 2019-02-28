@@ -1,0 +1,7 @@
+"x"
+"1" "Absence of lymph node germinal center"
+"2" "Impaired Ig class switch recombination"
+"3" "Impaired memory B-cell generation"
+"4" "IgE deficiency"
+"5" "Dysgammaglobulinemia"
+"6" "Chronic hepatitis"

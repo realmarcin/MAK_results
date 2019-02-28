@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Muscular hypotonia"
+"3" "Generalized hypotonia"
+"4" "Frontal bossing"
+"5" "Failure to thrive"
+"6" "Abdominal wall muscle weakness"
+"7" "Secondary hyperparathyroidism"

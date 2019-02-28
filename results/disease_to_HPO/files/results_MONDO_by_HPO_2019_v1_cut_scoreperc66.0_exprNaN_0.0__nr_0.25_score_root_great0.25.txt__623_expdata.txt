@@ -1,0 +1,12 @@
+	"MONDO.0008855"	"MONDO.0011102"	"MONDO.0014420"	"MONDO.0015012"
+"Strabismus"	1.0	0.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Midface retrusion"	0.0	1.0	0.0	1.0
+"Hyperactivity"	0.0	0.0	0.0	1.0
+"Hypermetropia"	0.0	0.0	0.0	1.0
+"Myopia"	1.0	0.0	1.0	1.0
+"Macrotia"	0.0	0.0	0.0	1.0
+"Facial diplegia"	0.0	0.0	0.0	1.0
+"Amblyopia"	0.0	0.0	1.0	1.0
+"Brain atrophy"	0.0	0.0	0.0	1.0
+"Hyperkinesis"	0.0	0.0	0.0	1.0

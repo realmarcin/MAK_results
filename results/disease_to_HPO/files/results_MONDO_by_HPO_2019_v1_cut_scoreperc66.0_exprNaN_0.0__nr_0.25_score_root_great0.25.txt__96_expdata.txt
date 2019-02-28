@@ -1,0 +1,8 @@
+	"MONDO.0010910"	"MONDO.0013830"	"MONDO.0013835"	"MONDO.0020841"
+"HP:0000007"	1.0	1.0	1.0	0.0
+"HP:0003593"	1.0	1.0	1.0	1.0
+"Dry skin"	1.0	0.0	1.0	0.0
+"Cutaneous photosensitivity"	1.0	1.0	1.0	1.0
+"Freckling"	1.0	1.0	1.0	0.0
+"Increased cellular sensitivity to UV light"	1.0	1.0	1.0	0.0
+"Telangiectasia"	1.0	0.0	1.0	0.0

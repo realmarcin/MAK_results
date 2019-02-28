@@ -1,0 +1,6 @@
+	"MONDO.0008787"	"MONDO.0009817"	"MONDO.0019409"	"MONDO.0013017"	"MONDO.0014095"	"MONDO.0014805"
+"Diaphyseal sclerosis"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hepatosplenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Osteopetrosis"	0.0	1.0	1.0	1.0	0.0	0.0
+"Extramedullary hematopoiesis"	0.0	1.0	1.0	1.0	0.0	0.0
+"Cranial hyperostosis"	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,4 @@
+"x"
+"1" "Pseudobulbar behavioral symptoms"
+"2" "Spasticity of facial muscles"
+"3" "Spasticity of pharyngeal muscles"

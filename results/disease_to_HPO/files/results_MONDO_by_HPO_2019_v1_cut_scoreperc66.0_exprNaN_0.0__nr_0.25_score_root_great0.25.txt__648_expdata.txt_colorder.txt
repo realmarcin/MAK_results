@@ -1,0 +1,4 @@
+"x"
+"1" "Abnormality of the thumb"
+"2" "Hyperextensible hand joints"
+"3" "Abnormal morphology of the left ventricle"

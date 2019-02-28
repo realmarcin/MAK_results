@@ -1,0 +1,8 @@
+"x"
+"1" "Nystagmus"
+"2" "Lactic acidosis"
+"3" "Tetraparesis"
+"4" "HP:0003678"
+"5" "Myelopathy"
+"6" "Skin erosion"
+"7" "Cerebellar edema"

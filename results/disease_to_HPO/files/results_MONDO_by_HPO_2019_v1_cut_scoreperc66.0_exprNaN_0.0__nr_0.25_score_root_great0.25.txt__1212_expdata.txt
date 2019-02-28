@@ -1,0 +1,9 @@
+	"MONDO.0007668"	"MONDO.0009201"	"MONDO.0011984"	"MONDO.0012055"
+"Long eyelashes"	0.0	1.0	0.0	0.0
+"2-3 toe syndactyly"	0.0	1.0	0.0	0.0
+"2-4 finger syndactyly"	0.0	1.0	0.0	0.0
+"Periorbital wrinkles"	0.0	1.0	0.0	0.0
+"Hypermobility of interphalangeal joints"	0.0	1.0	0.0	0.0
+"Hyperextensible skin of face"	0.0	1.0	0.0	0.0
+"Hyperextensible skin of chest"	0.0	1.0	0.0	0.0
+"Partial duplication of eyebrows"	0.0	1.0	0.0	0.0

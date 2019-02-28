@@ -1,0 +1,6 @@
+"x"
+"1" "Intrauterine growth retardation"
+"2" "HP:0003577"
+"3" "Microcephaly"
+"4" "Congestive heart failure"
+"5" "Hyperalaninemia"

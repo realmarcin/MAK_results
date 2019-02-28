@@ -1,0 +1,7 @@
+	"MONDO.0007745"	"MONDO.0007763"	"MONDO.0011506"	"MONDO.0011799"	"MONDO.0013535"	"MONDO.0014253"
+"Expressive language delay"	0.0	0.0	0.0	0.0	0.0	0.0
+"Increased circulating high-density lipoprotein levels"	1.0	0.0	0.0	0.0	1.0	0.0
+"Decreased circulating low-density lipoprotein levels"	0.0	1.0	1.0	1.0	1.0	1.0
+"Increased hepatocellular lipid droplets"	0.0	0.0	0.0	0.0	0.0	0.0
+"Hypotriglyceridemia"	1.0	0.0	1.0	0.0	1.0	0.0
+"Abnormality of vitamin metabolism"	0.0	0.0	0.0	0.0	0.0	0.0

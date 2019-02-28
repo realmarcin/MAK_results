@@ -1,0 +1,8 @@
+	"MONDO.0009217"	"MONDO.0010265"	"MONDO.0011680"	"MONDO.0013469"	"MONDO.0013875"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Failure to thrive"	1.0	1.0	1.0	1.0	1.0
+"Congenital sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0
+"Hypoglycemia"	0.0	0.0	1.0	0.0	1.0
+"Renal tubular dysfunction"	1.0	0.0	1.0	0.0	0.0
+"Generalized aminoaciduria"	1.0	0.0	1.0	0.0	0.0
+"Abnormality of the intestine"	0.0	0.0	1.0	0.0	0.0

@@ -1,0 +1,10 @@
+	"MONDO.0017884"	"MONDO.0012154"	"MONDO.0014005"	"MONDO.0014205"	"MONDO.0014629"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0
+"Depressivity"	0.0	1.0	1.0	1.0	1.0
+"Basal ganglia calcification"	0.0	0.0	1.0	1.0	1.0
+"HP:0003676"	0.0	0.0	0.0	1.0	1.0
+"Choreoathetosis"	0.0	0.0	0.0	0.0	1.0
+"Dementia"	0.0	0.0	1.0	1.0	1.0
+"Dysarthria"	0.0	0.0	0.0	1.0	1.0
+"Migraine"	0.0	0.0	1.0	1.0	0.0
+"HP:0031814"	0.0	0.0	0.0	0.0	1.0

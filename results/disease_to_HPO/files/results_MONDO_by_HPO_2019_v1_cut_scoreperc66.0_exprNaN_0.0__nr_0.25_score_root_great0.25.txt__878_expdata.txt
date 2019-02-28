@@ -1,0 +1,7 @@
+	"MONDO.0007562"	"MONDO.0008625"	"MONDO.0011125"	"MONDO.0011766"	"MONDO.0012220"	"MONDO.0012254"
+"Premature osteoarthritis"	0.0	0.0	0.0	1.0	0.0	0.0
+"Broad femoral neck"	1.0	1.0	1.0	1.0	1.0	1.0
+"Delayed tarsal ossification"	0.0	0.0	0.0	1.0	0.0	0.0
+"Arthralgia of the hip"	0.0	1.0	0.0	1.0	0.0	1.0
+"Irregularity of vertebral bodies"	0.0	0.0	0.0	0.0	0.0	1.0
+"Flat distal femoral epiphysis"	0.0	0.0	0.0	0.0	0.0	1.0

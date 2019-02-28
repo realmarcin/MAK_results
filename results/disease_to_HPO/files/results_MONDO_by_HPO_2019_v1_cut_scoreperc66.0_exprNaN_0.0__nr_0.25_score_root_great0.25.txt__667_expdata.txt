@@ -1,0 +1,10 @@
+	"MONDO.0007144"	"MONDO.0008319"	"MONDO.0009353"	"MONDO.0010716"	"MONDO.0010890"
+"Kyphoscoliosis"	0.0	1.0	1.0	0.0	0.0
+"Cataract"	0.0	1.0	1.0	0.0	0.0
+"Myopia"	0.0	1.0	1.0	0.0	0.0
+"Retinal detachment"	0.0	0.0	1.0	0.0	0.0
+"Arterial thrombosis"	0.0	1.0	1.0	0.0	0.0
+"Abnormality of retinal pigmentation"	0.0	1.0	1.0	0.0	0.0
+"Disproportionate tall stature"	0.0	1.0	1.0	0.0	0.0
+"Pulmonary embolism"	0.0	1.0	1.0	0.0	0.0
+"Arteriovenous malformation"	1.0	1.0	1.0	1.0	1.0

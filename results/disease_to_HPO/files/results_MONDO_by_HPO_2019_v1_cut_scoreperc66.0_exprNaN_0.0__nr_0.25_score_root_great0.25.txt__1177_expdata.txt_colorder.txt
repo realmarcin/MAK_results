@@ -1,0 +1,8 @@
+"x"
+"1" "Microcephaly"
+"2" "Ptosis"
+"3" "HP:0001417"
+"4" "Abnormality of the pinna"
+"5" "Microcornea"
+"6" "Coloboma"
+"7" "Pendular nystagmus"

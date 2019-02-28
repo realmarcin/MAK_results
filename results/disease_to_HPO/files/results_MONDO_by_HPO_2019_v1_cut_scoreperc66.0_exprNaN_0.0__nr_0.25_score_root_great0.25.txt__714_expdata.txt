@@ -1,0 +1,7 @@
+	"MONDO.0007430"	"MONDO.0008134"	"MONDO.0008135"	"MONDO.0008611"	"MONDO.0012544"	"MONDO.0012626"
+"Tritanomaly"	1.0	1.0	1.0	1.0	1.0	1.0
+"Centrocecal scotoma"	1.0	0.0	1.0	0.0	0.0	0.0
+"Red-green dyschromatopsia"	1.0	1.0	1.0	0.0	0.0	1.0
+"Abnormal amplitude of pattern reversal visual evoked potentials"	1.0	0.0	1.0	0.0	0.0	0.0
+"Anterior cortical cataract"	0.0	1.0	0.0	0.0	0.0	0.0
+"Subepithelial corneal opacities"	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0008198"	"MONDO.0011308"	"MONDO.0012307"	"MONDO.0012310"	"MONDO.0060659"	"MONDO.0060711"
+"Cleft upper lip"	1.0	0.0	0.0	0.0	0.0	0.0
+"HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0
+"Encephalocele"	1.0	0.0	1.0	1.0	0.0	0.0
+"Parietal foramina"	1.0	0.0	1.0	1.0	0.0	0.0
+"HP:0001425"	1.0	0.0	1.0	0.0	0.0	0.0
+"Symmetrical, oval parietal bone defects"	1.0	0.0	1.0	1.0	0.0	0.0
+"Aplasia cutis congenita of scalp"	1.0	0.0	1.0	1.0	0.0	0.0

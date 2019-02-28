@@ -1,0 +1,6 @@
+"x"
+"1" "Reduced visual acuity"
+"2" "Retinal exudate"
+"3" "Exudative vitreoretinopathy"
+"4" "Tractional retinal detachment"
+"5" "Shallow anterior chamber"

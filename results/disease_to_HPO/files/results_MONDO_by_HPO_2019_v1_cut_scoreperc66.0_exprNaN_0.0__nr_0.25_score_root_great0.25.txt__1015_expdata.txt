@@ -1,0 +1,13 @@
+	"MONDO.0009066"	"MONDO.0009288"	"MONDO.0009289"	"MONDO.0009290"	"MONDO.0009725"
+"Osteoporosis"	0.0	1.0	1.0	0.0	0.0
+"Recurrent bacterial infections"	0.0	0.0	1.0	0.0	0.0
+"Decreased muscle mass"	0.0	1.0	0.0	0.0	0.0
+"Oral ulcer"	0.0	0.0	1.0	0.0	0.0
+"Abnormal bleeding"	0.0	1.0	0.0	0.0	0.0
+"Elevated hepatic transaminases"	0.0	1.0	1.0	0.0	0.0
+"Enlarged kidney"	0.0	1.0	1.0	0.0	0.0
+"Pancreatitis"	0.0	1.0	1.0	0.0	0.0
+"Protuberant abdomen"	0.0	1.0	1.0	0.0	0.0
+"Lipemia retinalis"	0.0	1.0	1.0	0.0	0.0
+"Doll-like facies"	0.0	1.0	1.0	0.0	0.0
+"Intermittent diarrhea"	0.0	1.0	0.0	0.0	0.0

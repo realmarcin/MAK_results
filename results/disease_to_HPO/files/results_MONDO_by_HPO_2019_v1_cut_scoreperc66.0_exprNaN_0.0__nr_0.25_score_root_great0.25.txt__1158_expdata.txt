@@ -1,0 +1,9 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0010999"	"MONDO.0013397"	"MONDO.0014166"	"MONDO.0014236"
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Chorioretinal coloboma"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the ribs"	1.0	0.0	0.0	0.0	0.0	0.0
+"Aplasia/Hypoplasia of the cerebellar vermis"	1.0	0.0	0.0	0.0	0.0	0.0
+"Meckel diverticulum"	1.0	0.0	0.0	0.0	0.0	0.0
+"Abnormality of the posterior cranial fossa"	1.0	0.0	0.0	0.0	0.0	0.0
+"Dilation of lateral ventricles"	1.0	0.0	0.0	0.0	0.0	0.0
+"Central hypotonia"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,13 @@
+	"MONDO.0008299"	"MONDO.0011735"	"MONDO.0011429"
+"Proximal finger joint hyperextensibility"	0.0	0.0	0.0
+"Partial-complete absence of 5th phalanges"	1.0	0.0	0.0
+"Absent fifth metatarsal"	1.0	0.0	0.0
+"Aplasia of the 5th metacarpal"	1.0	0.0	0.0
+"Fusion of midcervical facet joints"	0.0	1.0	0.0
+"Global systolic dysfunction"	0.0	1.0	0.0
+"Limitation of neck motion"	0.0	1.0	0.0
+"Cervical vertebral bodies with decreased anteroposterior diameter"	0.0	1.0	0.0
+"Abnormality of the internal auditory canal"	0.0	0.0	1.0
+"Enlarged cochlear aqueduct"	0.0	0.0	1.0
+"Severe conductive hearing impairment"	0.0	0.0	1.0
+"Vitamin B1 deficiency"	0.0	0.0	1.0

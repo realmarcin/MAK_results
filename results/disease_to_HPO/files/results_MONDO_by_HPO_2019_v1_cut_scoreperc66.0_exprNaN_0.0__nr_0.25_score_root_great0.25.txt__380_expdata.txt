@@ -1,0 +1,8 @@
+	"MONDO.0008866"	"MONDO.0009797"	"MONDO.0009919"	"MONDO.0009979"	"MONDO.0013070"	"MONDO.0013458"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Myopia"	0.0	1.0	1.0	1.0	0.0	1.0
+"Progressive visual loss"	1.0	0.0	1.0	0.0	0.0	0.0
+"Constriction of peripheral visual field"	1.0	0.0	0.0	1.0	1.0	1.0
+"Chorioretinal atrophy"	1.0	1.0	0.0	0.0	0.0	0.0
+"Nyctalopia"	0.0	1.0	0.0	1.0	0.0	1.0
+"Retinal degeneration"	1.0	0.0	0.0	0.0	0.0	1.0

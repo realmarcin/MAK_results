@@ -1,0 +1,7 @@
+"x"
+"1" "Hepatomegaly"
+"2" "Splenomegaly"
+"3" "Diarrhea"
+"4" "Sleep disturbance"
+"5" "Joint stiffness"
+"6" "Dysostosis multiplex"

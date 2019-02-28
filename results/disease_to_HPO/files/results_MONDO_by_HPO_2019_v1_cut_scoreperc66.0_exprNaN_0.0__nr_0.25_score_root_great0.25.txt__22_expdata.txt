@@ -1,0 +1,11 @@
+	"MONDO.0007309"	"MONDO.0008393"	"MONDO.0011476"
+"Pes cavus"	1.0	1.0	1.0
+"Distal amyotrophy"	1.0	1.0	1.0
+"Areflexia"	1.0	1.0	1.0
+"Hammertoe"	1.0	1.0	1.0
+"Distal muscle weakness"	1.0	1.0	1.0
+"Distal sensory impairment"	1.0	1.0	1.0
+"Decreased number of peripheral myelinated nerve fibers"	1.0	1.0	1.0
+"Onion bulb formation"	1.0	1.0	1.0
+"Decreased motor nerve conduction velocity"	1.0	1.0	1.0
+"Spinocerebellar atrophy"	0.0	0.0	0.0

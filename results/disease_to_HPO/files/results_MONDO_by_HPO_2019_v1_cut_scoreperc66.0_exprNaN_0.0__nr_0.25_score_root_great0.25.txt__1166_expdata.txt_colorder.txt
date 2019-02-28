@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormality of mitochondrial metabolism"
+"2" "Hemianopia"
+"3" "Neoplasm of the thyroid gland"
+"4" "Decreased corneal sensation"
+"5" "HP:0032046"

@@ -1,0 +1,7 @@
+	"MONDO.0008524"	"MONDO.0033006"	"MONDO.0010955"
+"Specific anti-polysaccharide antibody deficiency"	0.0	1.0	1.0
+"Abnormal delayed hypersensitivity skin test"	0.0	1.0	1.0
+"Absent microvilli on the surface of peripheral blood lymphocytes"	0.0	1.0	1.0
+"Large vessel vasculitis"	1.0	1.0	1.0
+"Small vessel vasculitis"	0.0	1.0	1.0
+"Oral bleeding"	0.0	1.0	1.0

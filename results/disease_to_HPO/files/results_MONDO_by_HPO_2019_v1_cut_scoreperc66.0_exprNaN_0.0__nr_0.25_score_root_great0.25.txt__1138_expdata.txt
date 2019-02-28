@@ -1,0 +1,10 @@
+	"MONDO.0009717"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+"Pectus carinatum"	1.0	0.0	0.0	0.0
+"Kyphoscoliosis"	1.0	0.0	0.0	0.0
+"Genu valgum"	1.0	0.0	0.0	0.0
+"Firm muscles"	1.0	0.0	0.0	0.0
+"Irregular femoral epiphysis"	1.0	0.0	0.0	0.0
+"Myotonia"	1.0	0.0	0.0	0.0
+"Vertebral wedging"	1.0	0.0	1.0	0.0
+"Bell-shaped thorax"	1.0	0.0	0.0	0.0
+"Skeletal muscle hypertrophy"	1.0	0.0	0.0	0.0

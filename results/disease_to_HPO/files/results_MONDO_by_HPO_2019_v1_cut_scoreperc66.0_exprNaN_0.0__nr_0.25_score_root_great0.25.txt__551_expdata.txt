@@ -1,0 +1,10 @@
+	"MONDO.0010306"	"MONDO.0012021"	"MONDO.0012270"	"MONDO.0012915"	"MONDO.0012916"	"MONDO.0014611"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
+"Cataract"	0.0	0.0	1.0	1.0	1.0	1.0
+"Nasal speech"	0.0	1.0	1.0	0.0	0.0	0.0
+"Narrow face"	1.0	1.0	1.0	0.0	0.0	0.0
+"Horseshoe kidney"	0.0	0.0	1.0	0.0	0.0	1.0
+"Chronic lung disease"	0.0	0.0	0.0	0.0	0.0	1.0
+"Thick hair"	0.0	0.0	0.0	0.0	0.0	1.0
+"Aspiration pneumonia"	0.0	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,14 @@
+	"MONDO.0011614"	"MONDO.0011660"	"MONDO.0014232"	"MONDO.0014234"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Intellectual disability"	0.0	0.0	1.0	0.0
+"Cognitive impairment"	0.0	0.0	1.0	0.0
+"HP:0003677"	1.0	1.0	1.0	0.0
+"Bradykinesia"	1.0	1.0	1.0	1.0
+"Postural instability"	1.0	0.0	1.0	1.0
+"Blepharospasm"	0.0	1.0	0.0	0.0
+"Weak voice"	0.0	0.0	0.0	1.0
+"Resting tremor"	1.0	1.0	0.0	0.0
+"Shuffling gait"	0.0	0.0	1.0	1.0
+"Psychotic episodes"	0.0	1.0	0.0	0.0
+"Hypometric saccades"	0.0	0.0	1.0	0.0
+"Staring gaze"	0.0	0.0	0.0	1.0

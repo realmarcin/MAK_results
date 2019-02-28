@@ -1,0 +1,11 @@
+	"MONDO.0007104"	"MONDO.0013343"	"MONDO.0013717"	"MONDO.0014021"
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Muscle weakness"	1.0	0.0	1.0	1.0
+"Hyperreflexia"	1.0	1.0	1.0	1.0
+"Arthrogryposis multiplex congenita"	0.0	0.0	0.0	1.0
+"Onion bulb formation"	0.0	0.0	0.0	1.0
+"Optic neuropathy"	0.0	0.0	0.0	1.0
+"Central scotoma"	0.0	0.0	0.0	1.0
+"Decreased sensory nerve conduction velocity"	0.0	0.0	0.0	1.0
+"Tibialis muscle weakness"	0.0	0.0	0.0	1.0
+"Focal white matter lesions"	0.0	0.0	0.0	1.0

@@ -1,0 +1,9 @@
+	"MONDO.0007690"	"MONDO.0008210"	"MONDO.0010005"	"MONDO.0013890"	"MONDO.0013025"
+"Fine hair"	1.0	0.0	1.0	1.0	1.0
+"Mesoaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0
+"Mesoaxial foot polydactyly"	0.0	1.0	0.0	0.0	0.0
+"Triangular mouth"	0.0	1.0	0.0	0.0	0.0
+"Distal/middle symphalangism of 5th finger"	0.0	1.0	0.0	0.0	0.0
+"Parasomnia"	0.0	1.0	0.0	0.0	0.0
+"No permanent dentition"	0.0	1.0	0.0	0.0	0.0
+"Symphalangism of the 5th finger"	0.0	1.0	0.0	0.0	0.0

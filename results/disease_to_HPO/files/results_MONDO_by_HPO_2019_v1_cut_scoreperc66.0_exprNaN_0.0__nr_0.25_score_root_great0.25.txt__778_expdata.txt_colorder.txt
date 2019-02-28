@@ -1,0 +1,5 @@
+"x"
+"1" "Impaired smooth pursuit"
+"2" "Broad forehead"
+"3" "Chronic otitis media"
+"4" "Dental malocclusion"

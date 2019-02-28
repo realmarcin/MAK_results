@@ -1,0 +1,9 @@
+	"MONDO.0011479"	"MONDO.0012076"	"MONDO.0013467"
+"HP:0000006"	1.0	1.0	1.0
+"Micrognathia"	0.0	0.0	1.0
+"Malar flattening"	0.0	0.0	1.0
+"Oligodontia"	1.0	1.0	1.0
+"Sparse scalp hair"	0.0	1.0	0.0
+"Retrognathia"	0.0	0.0	1.0
+"Cleft soft palate"	0.0	0.0	1.0
+"Adenomatous colonic polyposis"	0.0	1.0	0.0

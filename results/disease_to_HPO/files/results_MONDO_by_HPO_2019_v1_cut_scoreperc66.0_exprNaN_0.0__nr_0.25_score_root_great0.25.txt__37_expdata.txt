@@ -1,0 +1,4 @@
+	"MONDO.0007158"	"MONDO.0008339"	"MONDO.0002629"	"MONDO.0010840"	"MONDO.0014303"
+"Elbow flexion contracture"	1.0	1.0	1.0	1.0	0.0
+"Hip contracture"	1.0	1.0	1.0	1.0	0.0
+"Knee flexion contracture"	1.0	1.0	1.0	1.0	1.0

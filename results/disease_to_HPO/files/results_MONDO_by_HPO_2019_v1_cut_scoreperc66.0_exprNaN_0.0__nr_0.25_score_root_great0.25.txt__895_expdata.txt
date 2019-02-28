@@ -1,0 +1,8 @@
+	"MONDO.0007776"	"MONDO.0008488"	"MONDO.0009118"	"MONDO.0009376"	"MONDO.0010174"	"MONDO.0013535"
+"HP:0000006"	1.0	1.0	1.0	0.0	1.0	0.0
+"Hirsutism"	1.0	1.0	0.0	0.0	0.0	0.0
+"Obesity"	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormality of metabolism/homeostasis"	0.0	1.0	1.0	0.0	0.0	0.0
+"Amenorrhea"	1.0	1.0	0.0	1.0	1.0	0.0
+"Oligomenorrhea"	0.0	1.0	0.0	0.0	0.0	0.0
+"Enlarged polycystic ovaries"	0.0	1.0	0.0	0.0	0.0	0.0

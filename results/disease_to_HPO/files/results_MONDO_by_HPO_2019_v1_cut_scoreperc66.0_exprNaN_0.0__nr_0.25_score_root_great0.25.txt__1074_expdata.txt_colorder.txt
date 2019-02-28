@@ -1,0 +1,7 @@
+"x"
+"1" "Myelofibrosis"
+"2" "Arterial thrombosis"
+"3" "Budd-Chiari syndrome"
+"4" "Increased megakaryocyte count"
+"5" "Portal vein thrombosis"
+"6" "Hepatic vein thrombosis"

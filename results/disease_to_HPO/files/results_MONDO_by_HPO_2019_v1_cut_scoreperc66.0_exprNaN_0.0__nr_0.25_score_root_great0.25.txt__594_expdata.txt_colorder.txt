@@ -1,0 +1,7 @@
+"x"
+"1" "Percussion myotonia"
+"2" "EMG: myotonic runs"
+"3" "Myotonia with warm-up phenomenon"
+"4" "Handgrip myotonia"
+"5" "HP:0025605"
+"6" "Muscle hypertrophy of the lower extremities"

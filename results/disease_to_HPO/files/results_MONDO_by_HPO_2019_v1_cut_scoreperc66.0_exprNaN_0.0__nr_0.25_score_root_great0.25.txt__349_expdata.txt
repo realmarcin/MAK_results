@@ -1,0 +1,13 @@
+	"MONDO.0008710"	"MONDO.0010025"	"MONDO.0010070"	"MONDO.0011948"
+"Abnormality of the pinna"	1.0	1.0	0.0	0.0
+"Short long bone"	1.0	1.0	0.0	0.0
+"Inguinal hernia"	0.0	1.0	1.0	1.0
+"Depressed nasal ridge"	1.0	0.0	0.0	1.0
+"Thoracic hypoplasia"	1.0	0.0	0.0	1.0
+"Missing ribs"	0.0	0.0	1.0	1.0
+"Disproportionate short-trunk short stature"	0.0	0.0	1.0	1.0
+"HP:0009826"	1.0	1.0	0.0	0.0
+"Enlarged kidney"	1.0	0.0	0.0	1.0
+"Cystic renal dysplasia"	1.0	1.0	0.0	1.0
+"Protuberant abdomen"	1.0	1.0	0.0	1.0
+"Short thorax"	0.0	1.0	0.0	1.0

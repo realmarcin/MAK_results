@@ -1,0 +1,8 @@
+	"MONDO.0014408"	"MONDO.0044305"	"MONDO.0060621"
+"HP:0000006"	1.0	1.0	0.0
+"Intellectual disability"	1.0	1.0	0.0
+"Seizures"	1.0	1.0	0.0
+"Global developmental delay"	0.0	1.0	1.0
+"Hypoplasia of the corpus callosum"	1.0	0.0	1.0
+"Ventriculomegaly"	1.0	1.0	1.0
+"Delayed myelination"	0.0	1.0	1.0

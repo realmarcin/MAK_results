@@ -1,0 +1,6 @@
+"x"
+"1" "Encephalopathy"
+"2" "CNS demyelination"
+"3" "Hyperkinesis"
+"4" "Abnormality of glycosphingolipid metabolism"
+"5" "Generalized clonic seizures"

@@ -1,0 +1,7 @@
+"x"
+"1" "Hypertension"
+"2" "Pulmonary arterial hypertension"
+"3" "Strabismus"
+"4" "Clinodactyly of the 5th finger"
+"5" "Narrow mouth"
+"6" "HP:0003745"

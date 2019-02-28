@@ -1,0 +1,10 @@
+	"MONDO.0010904"	"MONDO.0011471"	"MONDO.0012592"	"MONDO.0013298"
+"Short stature"	0.0	1.0	1.0	1.0
+"Abnormality of the cardiac septa"	0.0	1.0	0.0	0.0
+"Cerebellar vermis hypoplasia"	0.0	1.0	0.0	0.0
+"Pancytopenia"	0.0	1.0	0.0	0.0
+"Amegakaryocytic thrombocytopenia"	0.0	1.0	0.0	0.0
+"Abnormal form of the vertebral bodies"	0.0	1.0	0.0	0.0
+"Decreased skull ossification"	0.0	1.0	0.0	0.0
+"Megakaryocytopenia"	0.0	1.0	0.0	0.0
+"Abnormal hemoglobin"	0.0	1.0	0.0	0.0

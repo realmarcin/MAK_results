@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0003593"
+"2" "Cutaneous photosensitivity"
+"3" "HP:0000007"
+"4" "Freckling"
+"5" "Increased cellular sensitivity to UV light"
+"6" "Dry skin"
+"7" "Telangiectasia"

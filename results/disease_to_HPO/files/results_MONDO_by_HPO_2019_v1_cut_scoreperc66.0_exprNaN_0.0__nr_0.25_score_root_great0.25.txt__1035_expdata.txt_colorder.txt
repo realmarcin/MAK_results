@@ -1,0 +1,7 @@
+"x"
+"1" "Anencephaly"
+"2" "Patent ductus arteriosus"
+"3" "Omphalocele"
+"4" "Pulmonary hypoplasia"
+"5" "Neonatal death"
+"6" "Occipital encephalocele"

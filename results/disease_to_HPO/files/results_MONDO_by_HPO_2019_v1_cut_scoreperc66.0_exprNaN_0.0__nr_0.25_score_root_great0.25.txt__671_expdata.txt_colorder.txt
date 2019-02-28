@@ -1,0 +1,5 @@
+"x"
+"1" "Hypocupremia"
+"2" "Early balding"
+"3" "HP:0031877"
+"4" "Aplasia/Hypoplasia of the fovea"

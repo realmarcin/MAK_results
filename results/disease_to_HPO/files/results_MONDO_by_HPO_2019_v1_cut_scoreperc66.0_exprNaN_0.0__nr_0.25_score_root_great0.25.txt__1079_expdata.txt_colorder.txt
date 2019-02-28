@@ -1,0 +1,6 @@
+"x"
+"1" "Adducted thumb"
+"2" "Talipes equinovarus"
+"3" "Flexion contracture"
+"4" "Kyphoscoliosis"
+"5" "Joint stiffness"

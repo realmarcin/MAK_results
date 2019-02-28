@@ -1,0 +1,9 @@
+	"MONDO.0007847"	"MONDO.0009068"	"MONDO.0009194"	"MONDO.0012357"	"MONDO.0013895"	"MONDO.0033485"
+"Hypertelorism"	1.0	0.0	1.0	0.0	1.0	1.0
+"Clinodactyly"	1.0	0.0	0.0	0.0	1.0	1.0
+"Global developmental delay"	1.0	0.0	1.0	0.0	1.0	1.0
+"Long eyelashes"	0.0	0.0	0.0	0.0	0.0	1.0
+"Hyperuricemia"	0.0	1.0	1.0	1.0	0.0	0.0
+"Renal insufficiency"	0.0	1.0	1.0	1.0	0.0	0.0
+"Proximal placement of thumb"	0.0	0.0	0.0	0.0	0.0	1.0
+"Sparse hair"	0.0	0.0	0.0	0.0	1.0	1.0

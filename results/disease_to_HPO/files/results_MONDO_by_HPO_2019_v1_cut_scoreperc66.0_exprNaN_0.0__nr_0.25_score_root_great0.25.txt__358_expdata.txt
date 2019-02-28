@@ -1,0 +1,7 @@
+	"MONDO.0007779"	"MONDO.0008678"	"MONDO.0013775"
+"Hypertelorism"	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0
+"Microcephaly"	0.0	0.0	1.0
+"Trigonocephaly"	0.0	0.0	1.0
+"Metopic synostosis"	0.0	0.0	1.0
+"Pointed frontal hairline"	0.0	1.0	0.0

@@ -1,0 +1,4 @@
+"x"
+"1" "HP:0001276"
+"2" "Death in infancy"
+"3" "Transient hyperphenylalaninemia"

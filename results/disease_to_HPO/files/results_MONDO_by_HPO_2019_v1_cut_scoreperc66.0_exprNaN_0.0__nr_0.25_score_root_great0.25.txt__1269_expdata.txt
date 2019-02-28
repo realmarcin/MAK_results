@@ -1,0 +1,14 @@
+	"MONDO.0010450"	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"
+"Short phalanx of finger"	1.0	0.0	0.0	0.0
+"Cerebral hemorrhage"	1.0	0.0	0.0	0.0
+"Stroke-like episode"	1.0	0.0	0.0	0.0
+"Azoospermia"	1.0	0.0	0.0	0.0
+"Premature graying of hair"	1.0	0.0	0.0	0.0
+"Broad finger"	1.0	0.0	0.0	0.0
+"Abnormal hand morphology"	1.0	0.0	0.0	0.0
+"Small hand"	1.0	0.0	0.0	0.0
+"Growth hormone deficiency"	1.0	0.0	0.0	0.0
+"Hypergonadotropic hypogonadism"	1.0	0.0	0.0	0.0
+"Moyamoya phenomenon"	1.0	0.0	0.0	0.0
+"Abnormal morphology of the left ventricle"	1.0	0.0	0.0	0.0
+"Abnormality of the nares"	1.0	0.0	0.0	0.0

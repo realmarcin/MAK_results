@@ -1,0 +1,5 @@
+"x"
+"1" "Abnormality of the neck"
+"2" "Large fontanelles"
+"3" "Short clavicles"
+"4" "Aplasia/Hypoplasia of the clavicles"

@@ -1,0 +1,12 @@
+	"MONDO.0007907"	"MONDO.0013479"	"MONDO.0014099"	"MONDO.0014432"
+"Advanced eruption of teeth"	1.0	0.0	0.0	0.0
+"Polycystic ovaries"	1.0	1.0	1.0	1.0
+"Atherosclerosis"	1.0	0.0	0.0	0.0
+"Loss of subcutaneous adipose tissue in limbs"	1.0	1.0	1.0	1.0
+"Labial pseudohypertrophy"	1.0	0.0	0.0	0.0
+"Adipose tissue loss"	1.0	0.0	0.0	0.0
+"Increased intramuscular fat"	1.0	0.0	0.0	0.0
+"Loss of truncal subcutaneous adipose tissue"	1.0	0.0	0.0	0.0
+"Enlarged peripheral nerve"	1.0	0.0	0.0	0.0
+"Cellulitis"	1.0	0.0	0.0	0.0
+"Abnormality of complement system"	1.0	0.0	0.0	0.0

@@ -1,0 +1,12 @@
+	"MONDO.0008909"	"MONDO.0009131"	"MONDO.0009194"	"MONDO.0009314"	"MONDO.0013055"	"MONDO.0054549"
+"Cone-shaped epiphyses of the phalanges of the hand"	0.0	1.0	1.0	0.0	0.0	0.0
+"Dry skin"	0.0	0.0	0.0	1.0	1.0	1.0
+"Kyphosis"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hip dislocation"	0.0	1.0	1.0	0.0	0.0	0.0
+"Barrel-shaped chest"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hyperlordosis"	0.0	1.0	1.0	0.0	0.0	0.0
+"HP:0008897"	1.0	1.0	0.0	1.0	1.0	0.0
+"Carpal bone hypoplasia"	0.0	1.0	1.0	0.0	0.0	0.0
+"Hypoplasia of the odontoid process"	0.0	1.0	1.0	0.0	0.0	0.0
+"Short thorax"	0.0	1.0	1.0	0.0	0.0	0.0
+"Abnormality of the metaphysis"	0.0	1.0	1.0	0.0	0.0	0.0

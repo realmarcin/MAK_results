@@ -1,0 +1,11 @@
+	"MONDO.0010200"	"MONDO.0011534"	"MONDO.0013890"	"MONDO.0054771"
+"Brachydactyly"	0.0	1.0	1.0	1.0
+"Syndactyly"	0.0	1.0	1.0	0.0
+"HP:0000007"	1.0	1.0	1.0	0.0
+"Optic atrophy"	0.0	1.0	1.0	0.0
+"Deep philtrum"	1.0	1.0	0.0	0.0
+"Bilateral sensorineural hearing impairment"	0.0	1.0	0.0	0.0
+"Hitchhiker thumb"	0.0	1.0	0.0	0.0
+"Talon cusp"	0.0	1.0	0.0	0.0
+"Diastema"	0.0	1.0	0.0	1.0
+"Blue sclerae"	1.0	1.0	0.0	0.0

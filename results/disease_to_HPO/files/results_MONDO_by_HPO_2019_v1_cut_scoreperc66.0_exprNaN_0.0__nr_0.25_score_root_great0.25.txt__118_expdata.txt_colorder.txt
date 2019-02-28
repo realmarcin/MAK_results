@@ -1,0 +1,5 @@
+"x"
+"1" "Hypertensive retinopathy"
+"2" "Episodic hypertension"
+"3" "Elevated urinary norepinephrine"
+"4" "Positive regitine blocking test"

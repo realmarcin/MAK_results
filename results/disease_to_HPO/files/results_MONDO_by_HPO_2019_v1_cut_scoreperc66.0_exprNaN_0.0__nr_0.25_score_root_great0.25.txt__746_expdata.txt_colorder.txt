@@ -1,0 +1,8 @@
+"x"
+"1" "Bimanual synkinesia"
+"2" "HP:0000006"
+"3" "Agenesis of corpus callosum"
+"4" "HP:0003829"
+"5" "Intellectual disability"
+"6" "Radial deviation of thumb terminal phalanx"
+"7" "Epididymal cyst"

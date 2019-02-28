@@ -1,0 +1,11 @@
+	"MONDO.0010904"	"MONDO.0012559"	"MONDO.0012592"	"MONDO.0013298"
+"Pes planus"	0.0	1.0	0.0	0.0
+"Growth abnormality"	0.0	1.0	0.0	0.0
+"Clinodactyly of the 5th finger"	0.0	1.0	0.0	0.0
+"Aplasia of metacarpal bones"	0.0	1.0	0.0	0.0
+"Ulnar deviation of finger"	0.0	1.0	0.0	0.0
+"HP:0100807"	0.0	1.0	0.0	0.0
+"Marked delay in bone age"	0.0	1.0	0.0	0.0
+"Carpal bone aplasia"	0.0	1.0	0.0	0.0
+"Hypoplasia of the femoral head"	0.0	1.0	0.0	0.0
+"Absent metacarpal epiphyses"	0.0	1.0	0.0	0.0

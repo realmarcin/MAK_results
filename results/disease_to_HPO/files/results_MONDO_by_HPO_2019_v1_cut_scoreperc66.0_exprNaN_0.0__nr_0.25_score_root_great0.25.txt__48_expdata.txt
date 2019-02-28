@@ -1,0 +1,4 @@
+	"MONDO.0007815"	"MONDO.0010294"	"MONDO.0010296"	"MONDO.0013958"
+"Ectodermal dysplasia"	0.0	1.0	1.0	0.0
+"Immunodeficiency"	1.0	1.0	1.0	1.0
+"Recurrent infections"	1.0	1.0	1.0	1.0

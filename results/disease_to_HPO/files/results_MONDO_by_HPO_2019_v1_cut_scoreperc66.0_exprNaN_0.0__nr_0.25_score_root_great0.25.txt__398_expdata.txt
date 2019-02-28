@@ -1,0 +1,7 @@
+	"MONDO.0007586"	"MONDO.0007587"	"MONDO.0007875"	"MONDO.0009319"	"MONDO.0010573"
+"Rib exostoses"	1.0	1.0	1.0	1.0	0.0
+"Scapular exostoses"	1.0	1.0	1.0	0.0	0.0
+"Madelung-like forearm deformities"	1.0	1.0	0.0	0.0	0.0
+"Protuberances at ends of long bones"	1.0	1.0	0.0	0.0	0.0
+"Pelvic bone exostoses"	1.0	1.0	0.0	0.0	1.0
+"Peripheral nerve compression"	1.0	1.0	0.0	0.0	0.0

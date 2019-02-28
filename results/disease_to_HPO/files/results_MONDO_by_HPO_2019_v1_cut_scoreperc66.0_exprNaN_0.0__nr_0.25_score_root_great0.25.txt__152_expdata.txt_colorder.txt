@@ -1,0 +1,7 @@
+"x"
+"1" "Dysphagia"
+"2" "Dysarthria"
+"3" "Gait disturbance"
+"4" "HP:0003676"
+"5" "Spasticity"
+"6" "Hyperreflexia"

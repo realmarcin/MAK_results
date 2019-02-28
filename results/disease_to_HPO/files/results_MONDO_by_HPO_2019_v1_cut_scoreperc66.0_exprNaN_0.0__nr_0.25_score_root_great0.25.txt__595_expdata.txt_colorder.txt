@@ -1,0 +1,6 @@
+"x"
+"1" "Hereditary nonpolyposis colorectal carcinoma"
+"2" "HP:0000006"
+"3" "Endometrial carcinoma"
+"4" "HP:0003829"
+"5" "Ovarian neoplasm"

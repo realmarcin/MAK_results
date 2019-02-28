@@ -1,0 +1,9 @@
+	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0012888"	"MONDO.0014236"
+"Eczema"	0.0	0.0	1.0	0.0
+"Abnormality of skin pigmentation"	0.0	0.0	1.0	0.0
+"Cutis laxa"	0.0	0.0	1.0	0.0
+"Ichthyosis"	0.0	1.0	1.0	0.0
+"Hypertrichosis"	0.0	0.0	1.0	0.0
+"Cerebellar vermis hypoplasia"	0.0	0.0	1.0	0.0
+"Reduced antithrombin III activity"	0.0	0.0	1.0	0.0
+"Microcytic anemia"	0.0	0.0	1.0	0.0

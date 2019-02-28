@@ -1,0 +1,7 @@
+"x"
+"1" "Large vessel vasculitis"
+"2" "Specific anti-polysaccharide antibody deficiency"
+"3" "Abnormal delayed hypersensitivity skin test"
+"4" "Absent microvilli on the surface of peripheral blood lymphocytes"
+"5" "Small vessel vasculitis"
+"6" "Oral bleeding"

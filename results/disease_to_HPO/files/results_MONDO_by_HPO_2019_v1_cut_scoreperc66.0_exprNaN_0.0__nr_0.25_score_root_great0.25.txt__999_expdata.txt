@@ -1,0 +1,11 @@
+	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0010396"	"MONDO.0014211"
+"Hypertension"	0.0	0.0	1.0	0.0
+"Cardiomyopathy"	0.0	0.0	1.0	0.0
+"Hyperuricemia"	0.0	0.0	1.0	0.0
+"Sensorineural hearing impairment"	0.0	0.0	1.0	0.0
+"Arrhythmia"	0.0	0.0	1.0	0.0
+"Uric acid nephrolithiasis"	0.0	0.0	1.0	0.0
+"Hyperuricosuria"	1.0	0.0	1.0	0.0
+"HP:0001419"	1.0	1.0	1.0	0.0
+"Abnormal aortic morphology"	0.0	0.0	1.0	0.0
+"Abnormality of skeletal muscles"	0.0	0.0	1.0	0.0

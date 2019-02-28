@@ -1,0 +1,9 @@
+	"MONDO.0008022"	"MONDO.0014048"	"MONDO.0014049"	"MONDO.0014832"
+"Pectus excavatum"	1.0	1.0	1.0	1.0
+"HP:0000006"	1.0	1.0	1.0	1.0
+"Narrow nose"	0.0	0.0	0.0	1.0
+"Prominent nasal bridge"	0.0	0.0	0.0	1.0
+"Scaphocephaly"	0.0	0.0	0.0	1.0
+"Varicocele"	1.0	1.0	1.0	0.0
+"Severe Myopia"	0.0	0.0	0.0	1.0
+"Pes valgus"	0.0	0.0	0.0	1.0

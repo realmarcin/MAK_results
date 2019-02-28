@@ -1,0 +1,8 @@
+	"MONDO.0008350"	"MONDO.0008913"	"MONDO.0009123"	"MONDO.0011036"	"MONDO.0011148"	"MONDO.0012193"	"MONDO.0013464"	"MONDO.0013569"	"MONDO.0013771"
+"Downslanted palpebral fissures"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Malar flattening"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Depressed nasal bridge"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Midface retrusion"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Short neck"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Epicanthus"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Secundum atrial septal defect"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

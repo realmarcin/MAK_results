@@ -1,0 +1,10 @@
+	"MONDO.0007776"	"MONDO.0008488"	"MONDO.0010940"	"MONDO.0013535"
+"HP:0000006"	1.0	1.0	1.0	0.0
+"Jaundice"	0.0	0.0	1.0	0.0
+"Elevated alkaline phosphatase"	0.0	0.0	1.0	0.0
+"Elevated hepatic transaminases"	0.0	0.0	1.0	0.0
+"Cholangitis"	0.0	0.0	1.0	0.0
+"Pancreatitis"	0.0	0.0	1.0	0.0
+"Hepatic fibrosis"	0.0	0.0	1.0	0.0
+"Cholecystitis"	0.0	0.0	1.0	0.0
+"Cholesterol gallstones"	0.0	0.0	1.0	0.0

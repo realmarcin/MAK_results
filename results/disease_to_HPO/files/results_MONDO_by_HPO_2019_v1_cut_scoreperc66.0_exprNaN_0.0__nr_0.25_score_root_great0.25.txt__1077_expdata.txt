@@ -1,0 +1,11 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0009012"
+"Cleft palate"	1.0	0.0	1.0	1.0
+"Syndactyly"	0.0	0.0	0.0	1.0
+"Encephalocele"	0.0	0.0	0.0	1.0
+"HP:0003745"	0.0	0.0	0.0	1.0
+"Abnormality of the rib cage"	0.0	0.0	0.0	1.0
+"Hand polydactyly"	0.0	0.0	0.0	1.0
+"Abnormal lung lobation"	0.0	0.0	0.0	1.0
+"Gastroschisis"	0.0	0.0	0.0	1.0
+"Bladder exstrophy"	0.0	0.0	0.0	1.0
+"Ectopia cordis"	0.0	0.0	0.0	1.0

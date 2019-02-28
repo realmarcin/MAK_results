@@ -1,0 +1,8 @@
+	"MONDO.0007538"	"MONDO.0007612"	"MONDO.0014383"
+"HP:0000006"	1.0	1.0	1.0
+"Muscular hypotonia"	1.0	1.0	0.0
+"High palate"	1.0	1.0	0.0
+"Scoliosis"	1.0	1.0	1.0
+"Umbilical hernia"	1.0	1.0	1.0
+"Posteriorly rotated ears"	1.0	1.0	0.0
+"Joint hypermobility"	1.0	0.0	0.0

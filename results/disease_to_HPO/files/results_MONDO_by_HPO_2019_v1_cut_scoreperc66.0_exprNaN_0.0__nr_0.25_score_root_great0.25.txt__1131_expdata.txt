@@ -1,0 +1,10 @@
+	"MONDO.0009098"	"MONDO.0009393"	"MONDO.0013378"	"MONDO.0036484"
+"Microphthalmia"	1.0	0.0	1.0	0.0
+"Remnants of the hyaloid vascular system"	1.0	0.0	0.0	0.0
+"Persistent pupillary membrane"	1.0	0.0	0.0	0.0
+"Leukocoria"	1.0	0.0	0.0	0.0
+"Uveitis"	1.0	0.0	0.0	0.0
+"Shallow anterior chamber"	1.0	0.0	0.0	0.0
+"Phthisis bulbi"	1.0	0.0	0.0	0.0
+"Retinal nonattachment"	1.0	0.0	0.0	0.0
+"Hyphema"	1.0	0.0	0.0	0.0

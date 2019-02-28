@@ -1,0 +1,9 @@
+	"MONDO.0011179"	"MONDO.0011308"	"MONDO.0012947"	"MONDO.0013484"	"MONDO.0060659"	"MONDO.0060711"
+"HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0
+"Seizures"	0.0	1.0	1.0	1.0	1.0	1.0
+"Facial asymmetry"	0.0	0.0	0.0	1.0	0.0	0.0
+"Severe global developmental delay"	0.0	0.0	0.0	1.0	0.0	0.0
+"Stereotypy"	1.0	0.0	0.0	1.0	0.0	0.0
+"Autistic behavior"	0.0	0.0	1.0	1.0	0.0	0.0
+"Polyphagia"	0.0	0.0	0.0	1.0	0.0	0.0
+"Delayed myelination"	0.0	0.0	0.0	1.0	0.0	0.0

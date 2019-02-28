@@ -1,0 +1,8 @@
+"x"
+"1" "Limb dystonia"
+"2" "Cryptorchidism"
+"3" "Delayed skeletal maturation"
+"4" "Decreased body weight"
+"5" "Prominent forehead"
+"6" "Finger clinodactyly"
+"7" "Ambiguous genitalia"

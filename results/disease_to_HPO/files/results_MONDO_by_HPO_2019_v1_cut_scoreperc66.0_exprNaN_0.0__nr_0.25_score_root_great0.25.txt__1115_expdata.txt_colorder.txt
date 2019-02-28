@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0011462"
+"2" "IgA deposition in the glomerulus"
+"3" "Mesangial hypercellularity"
+"4" "Open angle glaucoma"

@@ -1,0 +1,7 @@
+	"MONDO.0007152"	"MONDO.0008704"	"MONDO.0011065"	"MONDO.0012911"	"MONDO.0013965"
+"Hypoplasia of the radius"	1.0	1.0	1.0	0.0	1.0
+"Hypoplasia of the ulna"	1.0	1.0	1.0	1.0	1.0
+"Short femur"	0.0	1.0	1.0	1.0	0.0
+"Short humerus"	0.0	1.0	0.0	0.0	0.0
+"Fibular hypoplasia"	0.0	1.0	1.0	1.0	0.0
+"Short tibia"	0.0	1.0	1.0	1.0	0.0

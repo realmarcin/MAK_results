@@ -1,0 +1,6 @@
+"x"
+"1" "White forelock"
+"2" "Heterochromia iridis"
+"3" "Premature graying of hair"
+"4" "Hypopigmented skin patches"
+"5" "Blue irides"

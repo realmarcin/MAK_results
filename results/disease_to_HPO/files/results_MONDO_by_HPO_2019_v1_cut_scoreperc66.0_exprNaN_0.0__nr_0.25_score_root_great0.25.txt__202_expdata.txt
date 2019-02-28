@@ -1,0 +1,9 @@
+	"MONDO.0007300"	"MONDO.0014018"	"MONDO.0014792"	"MONDO.0033043"	"MONDO.0054666"
+"Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	0.0	1.0
+"Macrocephaly"	1.0	1.0	0.0	0.0	1.0
+"Syringomyelia"	0.0	0.0	1.0	0.0	0.0
+"Pointed chin"	1.0	1.0	1.0	1.0	1.0
+"High anterior hairline"	1.0	0.0	1.0	0.0	0.0
+"Autistic behavior"	0.0	0.0	1.0	0.0	0.0

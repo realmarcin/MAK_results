@@ -1,0 +1,6 @@
+"x"
+"1" "Hashimoto thyroiditis"
+"2" "HP:0000006"
+"3" "Hemangioma"
+"4" "Macrocephaly"
+"5" "Intestinal polyposis"

@@ -1,0 +1,10 @@
+	"MONDO.0007668"	"MONDO.0011984"	"MONDO.0012055"	"MONDO.0014389"
+"Diastema"	0.0	0.0	0.0	1.0
+"Median cleft lip"	0.0	0.0	0.0	1.0
+"Abnormality of the mandible"	0.0	0.0	0.0	1.0
+"Irregular dentition"	0.0	0.0	0.0	1.0
+"Abnormality of the maxilla"	0.0	0.0	0.0	1.0
+"Abnormality of the midface"	0.0	0.0	0.0	1.0
+"Cleft lower lip"	0.0	0.0	0.0	1.0
+"Fusion of gums"	0.0	0.0	0.0	1.0
+"Abnormality of orbicularis oris muscle"	0.0	0.0	0.0	1.0

@@ -1,0 +1,14 @@
+	"MONDO.0009478"	"MONDO.0010219"	"MONDO.0014240"	"MONDO.0060490"
+"Hydronephrosis"	1.0	0.0	0.0	0.0
+"Microphthalmia"	1.0	0.0	0.0	0.0
+"Intestinal malrotation"	1.0	0.0	0.0	0.0
+"Wide mouth"	1.0	0.0	0.0	0.0
+"Myopathy"	1.0	0.0	0.0	0.0
+"Peters anomaly"	1.0	0.0	0.0	0.0
+"Duodenal atresia"	1.0	0.0	0.0	0.0
+"Stillbirth"	1.0	0.0	0.0	0.0
+"Short columella"	1.0	0.0	0.0	0.0
+"Cerebellar vermis hypoplasia"	1.0	0.0	0.0	0.0
+"Retinal vascular tortuosity"	1.0	0.0	0.0	0.0
+"Jejunal atresia"	1.0	0.0	0.0	0.0
+"Bilateral renal hypoplasia"	1.0	0.0	0.0	0.0

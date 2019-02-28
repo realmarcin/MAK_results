@@ -1,0 +1,8 @@
+	"MONDO.0010111"	"MONDO.0011585"	"MONDO.0012188"	"MONDO.0012569"	"MONDO.0012981"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Microcephaly"	0.0	1.0	0.0	1.0	0.0
+"Cafe-au-lait spot"	0.0	1.0	0.0	1.0	0.0
+"Intrauterine growth retardation"	0.0	1.0	1.0	0.0	0.0
+"Short thumb"	0.0	1.0	1.0	1.0	0.0
+"Bone marrow hypocellularity"	0.0	1.0	1.0	0.0	0.0
+"Chromosomal breakage induced by crosslinking agents"	0.0	1.0	1.0	1.0	0.0

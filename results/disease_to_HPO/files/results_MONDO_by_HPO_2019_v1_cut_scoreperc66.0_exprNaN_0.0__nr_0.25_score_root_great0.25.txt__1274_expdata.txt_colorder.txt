@@ -1,0 +1,6 @@
+"x"
+"1" "Lactic acidosis"
+"2" "Cytochrome C oxidase-negative muscle fibers"
+"3" "Ethylmalonic aciduria"
+"4" "Focal T2 hyperintense basal ganglia lesion"
+"5" "Abnormality of the retinal vasculature"

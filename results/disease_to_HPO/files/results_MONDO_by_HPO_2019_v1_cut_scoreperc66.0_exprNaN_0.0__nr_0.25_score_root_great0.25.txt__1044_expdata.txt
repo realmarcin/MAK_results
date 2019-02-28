@@ -1,0 +1,8 @@
+	"MONDO.0012246"	"MONDO.0013168"	"MONDO.0013390"	"MONDO.0014612"	"MONDO.0060621"	"MONDO.0030921"
+"HP:0000007"	1.0	1.0	1.0	1.0	0.0	0.0
+"Posterior fossa cyst"	0.0	1.0	0.0	0.0	0.0	0.0
+"Tall stature"	0.0	1.0	0.0	0.0	0.0	0.0
+"Retrognathia"	0.0	1.0	0.0	0.0	0.0	0.0
+"Hyperreflexia"	0.0	1.0	1.0	1.0	0.0	1.0
+"Lethargy"	0.0	1.0	0.0	0.0	0.0	0.0
+"High-pitched cry"	0.0	1.0	0.0	0.0	0.0	0.0

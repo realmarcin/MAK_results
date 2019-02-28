@@ -1,0 +1,15 @@
+	"MONDO.0011664"	"MONDO.0012214"	"MONDO.0012867"	"MONDO.0014021"	"MONDO.0014703"
+"Motor delay"	0.0	0.0	0.0	0.0	1.0
+"Cataract"	0.0	1.0	0.0	0.0	1.0
+"Abnormality of the urinary system"	0.0	1.0	0.0	0.0	0.0
+"Pseudobulbar paralysis"	0.0	1.0	0.0	0.0	1.0
+"Absent speech"	0.0	0.0	0.0	0.0	1.0
+"Premature ovarian insufficiency"	0.0	1.0	0.0	0.0	0.0
+"Postural tremor"	0.0	0.0	0.0	0.0	1.0
+"Urinary retention"	0.0	0.0	0.0	0.0	1.0
+"Primitive reflex"	0.0	0.0	0.0	0.0	1.0
+"Impaired vibration sensation at ankles"	0.0	1.0	0.0	0.0	1.0
+"Toe walking"	0.0	1.0	0.0	0.0	1.0
+"Decreased serum testosterone level"	0.0	1.0	0.0	0.0	0.0
+"Hyperreflexia in upper limbs"	0.0	0.0	0.0	0.0	1.0
+"HP:0031064"	0.0	0.0	0.0	0.0	1.0

@@ -1,0 +1,6 @@
+"x"
+"1" "Truncal ataxia"
+"2" "Limb ataxia"
+"3" "Gait ataxia"
+"4" "Gaze-evoked nystagmus"
+"5" "Intention tremor"

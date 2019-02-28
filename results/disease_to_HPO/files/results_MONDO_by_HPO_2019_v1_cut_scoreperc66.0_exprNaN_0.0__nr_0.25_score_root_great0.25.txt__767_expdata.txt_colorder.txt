@@ -1,0 +1,6 @@
+"x"
+"1" "Visual hallucinations"
+"2" "Auditory hallucinations"
+"3" "Fingerprint intracellular accumulation of autofluorescent lipopigment storage material"
+"4" "Rectilinear intracellular accumulation of autofluorescent lipopigment storage material"
+"5" "Granular osmiophilic deposits (GROD) in cells"

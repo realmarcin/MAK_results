@@ -1,0 +1,6 @@
+"x"
+"1" "High-grade hypermetropia"
+"2" "Tibial bowing"
+"3" "Femoral bowing"
+"4" "Metaphyseal widening"
+"5" "Metaphyseal cupping"

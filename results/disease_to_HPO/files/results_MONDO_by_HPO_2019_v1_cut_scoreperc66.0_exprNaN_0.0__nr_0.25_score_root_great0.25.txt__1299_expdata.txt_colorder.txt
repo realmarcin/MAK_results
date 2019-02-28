@@ -1,0 +1,5 @@
+"x"
+"1" "Hypocalcemia"
+"2" "Anal atresia"
+"3" "Delayed eruption of teeth"
+"4" "Lacrimation abnormality"

@@ -1,0 +1,8 @@
+	"MONDO.0008996"	"MONDO.0010207"	"MONDO.0011042"	"MONDO.0011291"	"MONDO.0013312"	"MONDO.0014493"
+"Global developmental delay"	1.0	0.0	0.0	1.0	0.0	0.0
+"Micrognathia"	1.0	0.0	0.0	1.0	0.0	0.0
+"Hypospadias"	1.0	0.0	0.0	1.0	0.0	0.0
+"Sparse scalp hair"	1.0	1.0	1.0	1.0	1.0	1.0
+"Proptosis"	1.0	0.0	0.0	1.0	0.0	0.0
+"Short clavicles"	1.0	0.0	0.0	1.0	0.0	0.0
+"Aplastic clavicles"	1.0	0.0	0.0	1.0	0.0	0.0

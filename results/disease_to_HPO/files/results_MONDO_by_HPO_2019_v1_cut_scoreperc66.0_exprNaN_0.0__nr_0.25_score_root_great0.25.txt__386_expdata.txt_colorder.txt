@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Hematuria"
+"3" "Recurrent urinary tract infections"
+"4" "Nephrolithiasis"
+"5" "Dysuria"
+"6" "Pain"
+"7" "Pollakisuria"

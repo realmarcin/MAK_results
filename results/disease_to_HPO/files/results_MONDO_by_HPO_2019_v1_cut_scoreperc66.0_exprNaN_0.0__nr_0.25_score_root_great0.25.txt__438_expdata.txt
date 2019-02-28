@@ -1,0 +1,6 @@
+	"MONDO.0009224"	"MONDO.0009572"	"MONDO.0010467"	"MONDO.0010636"	"MONDO.0010637"
+"Decreased circulating luteinizing hormone level"	1.0	0.0	0.0	1.0	1.0
+"Olfactory lobe agenesis"	0.0	1.0	1.0	1.0	1.0
+"Leydig cell insensitivity to gonadotropin"	0.0	0.0	0.0	1.0	1.0
+"Hypothalamic gonadotropin-releasing hormone deficiency"	0.0	0.0	0.0	1.0	1.0
+"Decreased circulating follicle stimulating hormone level"	0.0	0.0	0.0	1.0	1.0

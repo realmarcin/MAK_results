@@ -1,0 +1,7 @@
+"x"
+"1" "Intellectual disability"
+"2" "Global developmental delay"
+"3" "Generalized hypotonia"
+"4" "Aggressive behavior"
+"5" "Agitation"
+"6" "Seizures"

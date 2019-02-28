@@ -1,0 +1,5 @@
+	"MONDO.0008475"	"MONDO.0009660"	"MONDO.0009661"	"MONDO.0011774"
+"Cervical subluxation"	1.0	1.0	1.0	1.0
+"Chondroitin sulfate excretion in urine"	0.0	1.0	0.0	0.0
+"Large elbow"	0.0	1.0	0.0	0.0
+"Intimal thickening in the coronary arteries"	0.0	0.0	1.0	0.0

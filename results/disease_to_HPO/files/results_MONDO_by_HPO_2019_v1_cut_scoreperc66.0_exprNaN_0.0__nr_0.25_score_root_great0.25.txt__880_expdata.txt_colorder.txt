@@ -1,0 +1,6 @@
+"x"
+"1" "Decerebrate rigidity"
+"2" "HP:0031358"
+"3" "Punctate periventricular T2 hyperintense foci"
+"4" "Gallbladder dysfunction"
+"5" "HP:0004355"

@@ -1,0 +1,8 @@
+	"MONDO.0008288"	"MONDO.0000902"	"MONDO.0010654"	"MONDO.0012505"	"MONDO.0013699"
+"Pectus excavatum"	0.0	0.0	1.0	1.0	0.0
+"Microcephaly"	0.0	1.0	1.0	1.0	0.0
+"Intellectual disability"	0.0	1.0	1.0	1.0	0.0
+"Hearing impairment"	0.0	0.0	1.0	1.0	0.0
+"High palate"	0.0	0.0	1.0	1.0	0.0
+"Joint contracture of the hand"	1.0	1.0	1.0	1.0	1.0
+"Camptodactyly"	0.0	1.0	1.0	0.0	1.0

@@ -1,0 +1,10 @@
+	"MONDO.0014410"	"MONDO.0014719"	"MONDO.0014767"	"MONDO.0014863"	"MONDO.0044314"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	1.0	1.0	1.0	1.0
+"HP:0003828"	1.0	0.0	0.0	1.0	1.0
+"Nystagmus"	0.0	0.0	1.0	1.0	0.0
+"HP:0003593"	1.0	1.0	1.0	1.0	0.0
+"Cognitive impairment"	1.0	0.0	0.0	1.0	0.0
+"Supranuclear gaze palsy"	0.0	0.0	0.0	1.0	0.0
+"Exotropia"	0.0	0.0	0.0	1.0	0.0
+"Abnormal pyramidal signs"	0.0	1.0	0.0	1.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0009132"	"MONDO.0013928"	"MONDO.0013931"	"MONDO.0013937"	"MONDO.0013943"
+"Hepatomegaly"	0.0	1.0	1.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0
+"Generalized hypotonia"	1.0	1.0	1.0	0.0	1.0
+"Feeding difficulties in infancy"	1.0	1.0	1.0	1.0	1.0
+"Epiphyseal stippling"	0.0	1.0	1.0	1.0	1.0
+"Generalized neonatal hypotonia"	0.0	1.0	1.0	1.0	1.0

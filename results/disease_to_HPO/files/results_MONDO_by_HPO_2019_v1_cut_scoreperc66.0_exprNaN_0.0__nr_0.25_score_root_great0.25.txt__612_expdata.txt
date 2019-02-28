@@ -1,0 +1,8 @@
+	"MONDO.0007524"	"MONDO.0009496"	"MONDO.0010646"	"MONDO.0011047"
+"Constipation"	1.0	0.0	1.0	0.0
+"Gastroesophageal reflux"	1.0	0.0	1.0	0.0
+"Subcutaneous nodule"	1.0	0.0	1.0	0.0
+"Hip dislocation"	1.0	0.0	1.0	0.0
+"Atypical scarring of skin"	1.0	0.0	1.0	0.0
+"Gingivitis"	1.0	0.0	1.0	0.0
+"Joint swelling"	0.0	0.0	1.0	0.0

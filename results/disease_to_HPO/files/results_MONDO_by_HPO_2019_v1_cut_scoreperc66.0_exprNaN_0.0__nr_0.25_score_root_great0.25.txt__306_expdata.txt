@@ -1,0 +1,9 @@
+	"MONDO.0010290"	"MONDO.0010431"	"MONDO.0010490"	"MONDO.0049223"	"MONDO.0014952"
+"Intellectual disability"	1.0	1.0	1.0	1.0	1.0
+"Global developmental delay"	1.0	0.0	1.0	1.0	0.0
+"Mandibular prognathia"	0.0	0.0	0.0	1.0	1.0
+"Smooth philtrum"	0.0	0.0	0.0	1.0	0.0
+"Hyperactivity"	1.0	0.0	1.0	1.0	1.0
+"Macrotia"	0.0	0.0	1.0	1.0	0.0
+"Narrow face"	0.0	0.0	0.0	1.0	0.0
+"Long face"	1.0	1.0	1.0	1.0	1.0

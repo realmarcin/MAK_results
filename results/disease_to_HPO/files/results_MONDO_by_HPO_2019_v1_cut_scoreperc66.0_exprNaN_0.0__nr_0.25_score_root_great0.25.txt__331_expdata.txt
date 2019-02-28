@@ -1,0 +1,8 @@
+	"MONDO.0018690"	"MONDO.0012394"	"MONDO.0014350"	"MONDO.0014424"	"MONDO.0014633"	"MONDO.0014824"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
+"Low-set ears"	1.0	1.0	0.0	1.0	1.0	0.0
+"Brisk reflexes"	1.0	0.0	0.0	0.0	0.0	0.0
+"CNS hypomyelination"	1.0	1.0	0.0	1.0	1.0	0.0
+"HP:0003593"	1.0	0.0	0.0	1.0	0.0	0.0
+"Prominent metopic ridge"	1.0	0.0	0.0	0.0	0.0	0.0

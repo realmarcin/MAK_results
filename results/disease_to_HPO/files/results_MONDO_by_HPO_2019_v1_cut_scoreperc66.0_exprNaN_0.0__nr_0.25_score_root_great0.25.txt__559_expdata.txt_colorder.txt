@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Recurrent skin infections"
+"3" "Failure to thrive"
+"4" "Recurrent infections"
+"5" "Monocytosis"

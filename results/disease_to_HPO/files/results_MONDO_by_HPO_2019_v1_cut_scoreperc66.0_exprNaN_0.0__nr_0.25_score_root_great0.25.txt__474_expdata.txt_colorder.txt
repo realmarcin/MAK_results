@@ -1,0 +1,6 @@
+"x"
+"1" "HP:0000006"
+"2" "Nephroblastoma"
+"3" "HP:0001428"
+"4" "Polycythemia"
+"5" "Neurological speech impairment"

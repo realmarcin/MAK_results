@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0000007"
+"2" "Acute kidney injury"
+"3" "Acute tubular necrosis"
+"4" "Uric acid nephrolithiasis"
+"5" "Hypouricemia"
+"6" "Increased urinary urate"

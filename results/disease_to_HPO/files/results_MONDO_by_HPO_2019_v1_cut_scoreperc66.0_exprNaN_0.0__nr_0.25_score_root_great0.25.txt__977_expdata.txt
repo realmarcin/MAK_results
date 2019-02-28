@@ -1,0 +1,10 @@
+	"MONDO.0009401"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0011613"	"MONDO.0012401"	"MONDO.0014211"
+"Aggressive behavior"	1.0	0.0	1.0	1.0	1.0	1.0
+"Hyperactivity"	1.0	0.0	0.0	1.0	1.0	1.0
+"Nephropathy"	1.0	0.0	0.0	0.0	0.0	0.0
+"Stereotypy"	1.0	0.0	0.0	0.0	1.0	0.0
+"Schizophrenia"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyperglycinuria"	1.0	0.0	0.0	1.0	0.0	0.0
+"Hydroxyprolinuria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Prolinuria"	1.0	0.0	0.0	0.0	0.0	0.0
+"Hyperprolinemia"	1.0	0.0	0.0	0.0	0.0	0.0

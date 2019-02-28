@@ -1,0 +1,8 @@
+"x"
+"1" "Hyperreflexia"
+"2" "Hypsarrhythmia"
+"3" "Umbilical hernia"
+"4" "Adducted thumb"
+"5" "Camptodactyly"
+"6" "Distal arthrogryposis"
+"7" "HP:0002878"

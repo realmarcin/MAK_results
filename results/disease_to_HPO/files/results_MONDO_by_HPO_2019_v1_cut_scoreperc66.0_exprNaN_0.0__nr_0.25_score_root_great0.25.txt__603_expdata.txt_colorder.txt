@@ -1,0 +1,7 @@
+"x"
+"1" "HP:0009556"
+"2" "Dilatation"
+"3" "Exostoses"
+"4" "Bladder diverticulum"
+"5" "Hypothermia"
+"6" "Venous insufficiency"

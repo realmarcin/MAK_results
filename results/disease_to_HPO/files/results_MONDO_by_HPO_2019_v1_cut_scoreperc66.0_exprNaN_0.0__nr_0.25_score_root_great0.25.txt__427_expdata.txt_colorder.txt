@@ -1,0 +1,4 @@
+"x"
+"1" "Rhabdomyolysis"
+"2" "Decreased activity of mitochondrial complex I"
+"3" "Decreased activity of mitochondrial complex III"

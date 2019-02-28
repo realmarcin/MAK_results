@@ -1,0 +1,6 @@
+	"MONDO.0008055"	"MONDO.0008749"	"MONDO.0008764"	"MONDO.0012106"	"MONDO.0012765"	"MONDO.0013557"
+"Chronic otitis media"	0.0	0.0	1.0	1.0	0.0	0.0
+"Restrictive ventilatory defect"	1.0	1.0	0.0	1.0	1.0	1.0
+"Pulmonary fibrosis"	1.0	1.0	1.0	1.0	1.0	1.0
+"Glomerulopathy"	0.0	0.0	1.0	1.0	0.0	0.0
+"Diabetes insipidus"	0.0	0.0	1.0	1.0	0.0	0.0

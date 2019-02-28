@@ -1,0 +1,7 @@
+	"MONDO.0020682"	"MONDO.0007861"	"MONDO.0009061"	"MONDO.0009162"
+"Spontaneous neonatal pneumothorax"	0.0	0.0	1.0	1.0
+"Cystic lung disease"	0.0	0.0	1.0	0.0
+"Recurrent mandibular subluxations"	0.0	0.0	0.0	1.0
+"Abnormality of primary molar morphology"	0.0	0.0	0.0	1.0
+"Frontal open bite"	0.0	0.0	0.0	1.0
+"Abnormality of subcutaneous fat tissue"	1.0	0.0	0.0	1.0

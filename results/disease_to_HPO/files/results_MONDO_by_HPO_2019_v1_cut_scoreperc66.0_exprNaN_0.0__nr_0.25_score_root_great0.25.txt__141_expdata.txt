@@ -1,0 +1,8 @@
+	"MONDO.0011436"	"MONDO.0011831"	"MONDO.0012400"	"MONDO.0013836"
+"Intellectual disability"	1.0	1.0	1.0	0.0
+"Seizures"	1.0	1.0	1.0	0.0
+"Global developmental delay"	1.0	1.0	1.0	0.0
+"Pachygyria"	1.0	1.0	1.0	1.0
+"Hemiparesis"	1.0	0.0	1.0	0.0
+"Cerebellar hypoplasia"	0.0	1.0	1.0	1.0
+"Spastic tetraparesis"	1.0	1.0	0.0	0.0

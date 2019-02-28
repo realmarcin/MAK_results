@@ -1,0 +1,7 @@
+"x"
+"1" "Midline central nervous system lipomas"
+"2" "Vertical clivus"
+"3" "Nonossified fifth metatarsal"
+"4" "Undulate clavicles"
+"5" "HP:0002056"
+"6" "Hypoplasia of the olfactory bulb"

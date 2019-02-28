@@ -1,0 +1,8 @@
+	"MONDO.0013879"	"MONDO.0013880"	"MONDO.0014613"	"MONDO.0014614"	"MONDO.0014696"	"MONDO.0014708"
+"HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
+"HP:0003581"	1.0	1.0	1.0	1.0	1.0	0.0
+"HP:0003829"	1.0	1.0	1.0	1.0	1.0	1.0
+"Premature graying of hair"	1.0	1.0	1.0	0.0	0.0	0.0
+"Pulmonary fibrosis"	1.0	1.0	1.0	1.0	0.0	0.0
+"Bone marrow hypocellularity"	1.0	1.0	1.0	0.0	0.0	0.0
+"Myeloid leukemia"	1.0	1.0	0.0	0.0	0.0	1.0

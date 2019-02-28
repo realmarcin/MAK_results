@@ -1,0 +1,7 @@
+	"MONDO.0008573"	"MONDO.0010145"	"MONDO.0010146"	"MONDO.0010573"	"MONDO.0010652"
+"Dilatation"	0.0	0.0	0.0	1.0	1.0
+"HP:0009556"	1.0	1.0	1.0	1.0	0.0
+"Exostoses"	0.0	0.0	0.0	1.0	1.0
+"Bladder diverticulum"	0.0	0.0	0.0	1.0	1.0
+"Hypothermia"	0.0	0.0	0.0	1.0	1.0
+"Venous insufficiency"	0.0	0.0	0.0	1.0	1.0

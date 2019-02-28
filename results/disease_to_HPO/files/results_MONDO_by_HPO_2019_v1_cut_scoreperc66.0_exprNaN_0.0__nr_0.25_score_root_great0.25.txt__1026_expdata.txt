@@ -1,0 +1,7 @@
+	"MONDO.0007193"	"MONDO.0007314"	"MONDO.0007912"	"MONDO.0008400"	"MONDO.0008524"	"MONDO.0008760"	"MONDO.0010626"	"MONDO.0014340"
+"Iridocyclitis"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
+"Chorioretinitis"	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
+"Enlarged lacrimal glands"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Generalized lymphadenopathy"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+"Abnormal salivary gland morphology"	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+"Abnormality of T cell physiology"	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0

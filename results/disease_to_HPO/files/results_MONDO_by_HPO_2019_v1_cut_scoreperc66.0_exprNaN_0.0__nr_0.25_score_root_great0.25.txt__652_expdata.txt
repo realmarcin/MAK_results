@@ -1,0 +1,4 @@
+	"MONDO.0008088"	"MONDO.0009749"	"MONDO.0011010"	"MONDO.0012251"	"MONDO.0013960"	"MONDO.0014260"
+"Decreased motor nerve conduction velocity"	1.0	1.0	1.0	1.0	1.0	1.0
+"Weakness of the intrinsic hand muscles"	0.0	0.0	0.0	0.0	0.0	1.0
+"Triceps weakness"	0.0	0.0	0.0	0.0	0.0	1.0

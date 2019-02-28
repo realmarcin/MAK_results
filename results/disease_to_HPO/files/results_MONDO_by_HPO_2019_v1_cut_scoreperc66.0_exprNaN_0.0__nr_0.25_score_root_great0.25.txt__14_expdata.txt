@@ -1,0 +1,10 @@
+	"MONDO.0007618"	"MONDO.0009584"	"MONDO.0009857"	"MONDO.0014508"
+"Cryptorchidism"	1.0	1.0	1.0	1.0
+"Cleft palate"	1.0	1.0	1.0	1.0
+"Joint laxity"	1.0	1.0	1.0	1.0
+"Seizures"	1.0	1.0	1.0	1.0
+"Atrial septal defect"	1.0	1.0	1.0	1.0
+"Intrauterine growth retardation"	1.0	1.0	1.0	1.0
+"Umbilical hernia"	1.0	0.0	1.0	1.0
+"HP:0008897"	1.0	1.0	1.0	1.0
+"Facial hypertrichosis"	1.0	0.0	1.0	0.0

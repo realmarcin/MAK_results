@@ -1,0 +1,7 @@
+	"MONDO.0010169"	"MONDO.0011187"	"MONDO.0011830"	"MONDO.0013936"	"MONDO.0013946"	"MONDO.0014002"
+"HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
+"Intellectual disability"	1.0	0.0	1.0	0.0	1.0	0.0
+"Motor delay"	1.0	1.0	1.0	1.0	0.0	1.0
+"Sensorineural hearing impairment"	1.0	0.0	1.0	0.0	1.0	0.0
+"Rod-cone dystrophy"	1.0	1.0	1.0	1.0	1.0	1.0
+"Ascending aortic dilation"	0.0	0.0	0.0	0.0	0.0	0.0

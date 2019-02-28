@@ -1,0 +1,5 @@
+	"MONDO.0007820"	"MONDO.0010324"	"MONDO.0010373"	"MONDO.0011214"
+"Prominent median palatal raphe"	1.0	1.0	1.0	1.0
+"Maxillary lateral incisor microdontia"	0.0	1.0	1.0	0.0
+"Heavy supraorbital ridges"	0.0	1.0	1.0	0.0
+"Exaggerated median tongue furrow"	0.0	1.0	1.0	0.0

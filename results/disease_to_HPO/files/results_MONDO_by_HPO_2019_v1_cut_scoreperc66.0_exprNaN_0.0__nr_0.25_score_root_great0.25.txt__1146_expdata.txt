@@ -1,0 +1,9 @@
+	"MONDO.0024540"	"MONDO.0009845"	"MONDO.0011145"	"MONDO.0011734"	"MONDO.0012392"
+"HP:0000007"	1.0	1.0	1.0	0.0	1.0
+"Global developmental delay"	0.0	1.0	0.0	0.0	0.0
+"Ataxia"	0.0	1.0	0.0	0.0	0.0
+"Cataract"	0.0	1.0	0.0	0.0	0.0
+"Skin rash"	0.0	1.0	0.0	0.0	0.0
+"Dysarthria"	0.0	1.0	0.0	0.0	0.0
+"Diplopia"	0.0	1.0	0.0	0.0	0.0
+"Confusion"	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,8 @@
+	"MONDO.0008764"	"MONDO.0009051"	"MONDO.0010469"	"MONDO.0010471"	"MONDO.0014353"	"MONDO.0014687"
+"Hypertension"	1.0	1.0	0.0	0.0	1.0	0.0
+"Delayed skeletal maturation"	0.0	0.0	1.0	0.0	0.0	0.0
+"Polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0
+"Premature ovarian insufficiency"	0.0	1.0	1.0	0.0	0.0	0.0
+"High pitched voice"	0.0	0.0	1.0	1.0	0.0	1.0
+"Abdominal obesity"	0.0	1.0	1.0	0.0	1.0	0.0
+"Truncal obesity"	1.0	1.0	1.0	1.0	1.0	1.0

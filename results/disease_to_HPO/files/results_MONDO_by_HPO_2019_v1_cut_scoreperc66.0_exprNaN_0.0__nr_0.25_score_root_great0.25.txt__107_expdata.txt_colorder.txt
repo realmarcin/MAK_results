@@ -1,0 +1,5 @@
+"x"
+"1" "Nail dysplasia"
+"2" "Dystrophic fingernails"
+"3" "Dystrophic toenail"
+"4" "Persistence of primary teeth"

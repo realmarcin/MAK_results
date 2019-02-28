@@ -1,0 +1,7 @@
+	"MONDO.0007065"	"MONDO.0008148"	"MONDO.0008992"	"MONDO.0010117"	"MONDO.0012592"
+"Abnormality of pelvic girdle bone morphology"	1.0	1.0	1.0	1.0	1.0
+"Disproportionate short-limb short stature"	0.0	1.0	0.0	1.0	0.0
+"Genu valgum"	0.0	0.0	0.0	1.0	0.0
+"HP:0009826"	0.0	0.0	1.0	1.0	0.0
+"Metaphyseal dysplasia"	0.0	0.0	0.0	0.0	0.0
+"Pulmonary insufficiency"	1.0	1.0	0.0	0.0	0.0

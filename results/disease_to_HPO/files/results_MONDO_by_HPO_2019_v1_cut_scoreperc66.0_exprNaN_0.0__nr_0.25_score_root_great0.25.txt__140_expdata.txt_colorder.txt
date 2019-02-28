@@ -1,0 +1,8 @@
+"x"
+"1" "Ventriculomegaly"
+"2" "HP:0000006"
+"3" "Intellectual disability"
+"4" "Seizures"
+"5" "Global developmental delay"
+"6" "Hypoplasia of the corpus callosum"
+"7" "Delayed myelination"

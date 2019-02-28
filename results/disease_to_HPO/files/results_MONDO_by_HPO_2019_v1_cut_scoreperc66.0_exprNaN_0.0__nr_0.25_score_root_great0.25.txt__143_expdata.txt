@@ -1,0 +1,8 @@
+	"MONDO.0013890"	"MONDO.0014578"	"MONDO.0014916"	"MONDO.0054752"
+"Brachydactyly"	1.0	0.0	1.0	1.0
+"HP:0000007"	1.0	1.0	1.0	1.0
+"Midface retrusion"	0.0	1.0	1.0	1.0
+"Narrow chest"	0.0	1.0	1.0	1.0
+"Respiratory distress"	0.0	0.0	1.0	1.0
+"Relative macrocephaly"	0.0	1.0	0.0	1.0
+"Postaxial polydactyly"	0.0	1.0	1.0	1.0

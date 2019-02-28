@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000007"
+"2" "Global developmental delay"
+"3" "Nystagmus"
+"4" "HP:0003593"
+"5" "Lactic acidosis"
+"6" "Seizures"
+"7" "Generalized hypotonia"

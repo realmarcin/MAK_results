@@ -1,7 +1,0 @@
-"x"
-"1" "Orphanet.252054"
-"2" "OMIM.193300"
-"3" "OMIM.200990"
-"4" "Orphanet.54595"
-"5" "Orphanet.73256"
-"6" "Orphanet.892"

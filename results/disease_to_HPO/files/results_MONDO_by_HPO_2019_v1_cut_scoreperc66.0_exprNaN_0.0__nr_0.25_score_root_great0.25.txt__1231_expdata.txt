@@ -1,0 +1,13 @@
+	"MONDO.0010941"	"MONDO.0013864"	"MONDO.0014256"	"MONDO.0060549"
+"IgA deficiency"	0.0	1.0	0.0	0.0
+"IgM deficiency"	0.0	1.0	0.0	0.0
+"Growth delay"	0.0	1.0	0.0	0.0
+"Hypothyroidism"	0.0	1.0	0.0	0.0
+"HP:0003676"	0.0	1.0	0.0	0.0
+"Thrombocytopenia"	0.0	1.0	0.0	0.0
+"Neutropenia"	0.0	1.0	0.0	0.0
+"Clubbing of fingers"	0.0	1.0	0.0	0.0
+"Pancytopenia"	0.0	1.0	0.0	0.0
+"Chronic lung disease"	0.0	1.0	0.0	0.0
+"HP:0002583"	0.0	1.0	0.0	0.0
+"Gastritis"	0.0	1.0	0.0	0.0

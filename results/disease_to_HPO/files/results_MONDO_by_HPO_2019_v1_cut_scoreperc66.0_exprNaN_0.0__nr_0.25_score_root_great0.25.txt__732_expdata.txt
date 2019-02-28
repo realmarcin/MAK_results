@@ -1,0 +1,7 @@
+	"MONDO.0007981"	"MONDO.0008521"	"MONDO.0009997"	"MONDO.0011048"	"MONDO.0011502"	"MONDO.0011532"
+"HP:0000006"	1.0	1.0	0.0	0.0	1.0	1.0
+"Global developmental delay"	0.0	0.0	0.0	1.0	0.0	1.0
+"Short stature"	0.0	0.0	0.0	1.0	1.0	1.0
+"Elbow dislocation"	0.0	1.0	0.0	0.0	0.0	1.0
+"Bowing of the long bones"	1.0	0.0	0.0	0.0	0.0	1.0
+"Delayed closure of the anterior fontanelle"	0.0	0.0	0.0	0.0	1.0	1.0

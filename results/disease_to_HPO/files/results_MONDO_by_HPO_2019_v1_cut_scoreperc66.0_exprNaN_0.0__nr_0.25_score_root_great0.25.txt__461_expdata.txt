@@ -1,0 +1,5 @@
+	"MONDO.0010042"	"MONDO.0010467"	"MONDO.0013181"	"MONDO.0014340"
+"Impaired tactile sensation"	1.0	0.0	0.0	0.0
+"Abnormality of the pons"	1.0	1.0	0.0	0.0
+"HP:0012896"	1.0	0.0	1.0	1.0
+"HP:0012104"	1.0	0.0	0.0	1.0

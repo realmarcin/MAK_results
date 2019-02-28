@@ -1,0 +1,6 @@
+"x"
+"1" "Abnormal echocardiogram"
+"2" "Decreased pyruvate carboxylase activity"
+"3" "Mitochondrial malic enzyme reduced"
+"4" "Concentric hypertrophic cardiomyopathy"
+"5" "Diabetic ketoacidosis"

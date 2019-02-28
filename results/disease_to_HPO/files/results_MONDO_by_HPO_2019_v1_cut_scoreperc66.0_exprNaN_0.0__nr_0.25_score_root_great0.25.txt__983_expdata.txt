@@ -1,0 +1,10 @@
+	"MONDO.0009282"	"MONDO.0009398"	"MONDO.0009757"	"MONDO.0011872"	"MONDO.0012124"
+"Hypertriglyceridemia"	0.0	0.0	0.0	1.0	0.0
+"Decreased circulating high-density lipoprotein levels"	0.0	0.0	0.0	1.0	0.0
+"Dyspnea"	0.0	1.0	0.0	1.0	0.0
+"Increased circulating low-density lipoprotein levels"	0.0	0.0	0.0	1.0	0.0
+"Sea-blue histiocytosis"	0.0	0.0	1.0	1.0	0.0
+"Bone-marrow foam cells"	0.0	0.0	1.0	1.0	0.0
+"Diffuse reticular or finely nodular infiltrations"	0.0	0.0	1.0	1.0	0.0
+"Foam cells with lamellar inclusion bodies"	0.0	0.0	1.0	1.0	0.0
+"Abnormal macular morphology"	0.0	0.0	0.0	1.0	1.0

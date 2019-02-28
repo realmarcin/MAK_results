@@ -1,0 +1,8 @@
+"x"
+"1" "HP:0000006"
+"2" "Hip osteoarthritis"
+"3" "Hip pain"
+"4" "Hip contracture"
+"5" "Hip dysplasia"
+"6" "Coxa valga"
+"7" "Protrusio acetabuli"

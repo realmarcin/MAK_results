@@ -1,0 +1,5 @@
+"x"
+"1" "HP:0012896"
+"2" "Abnormality of the pons"
+"3" "HP:0012104"
+"4" "Impaired tactile sensation"

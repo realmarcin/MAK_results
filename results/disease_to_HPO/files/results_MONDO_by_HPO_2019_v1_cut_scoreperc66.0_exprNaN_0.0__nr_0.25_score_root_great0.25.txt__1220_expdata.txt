@@ -1,0 +1,11 @@
+	"MONDO.0007668"	"MONDO.0010160"	"MONDO.0011984"	"MONDO.0012055"
+"Cafe-au-lait spot"	0.0	1.0	0.0	0.0
+"Agenesis of corpus callosum"	0.0	1.0	0.0	0.0
+"Abnormality of abdomen morphology"	0.0	1.0	0.0	0.0
+"Basal cell carcinoma"	0.0	1.0	0.0	0.0
+"Hypermelanotic macule"	0.0	1.0	0.0	0.0
+"Neuroblastoma"	0.0	1.0	0.0	0.0
+"Leukemia"	0.0	1.0	0.0	0.0
+"Lymphoma"	0.0	1.0	0.0	0.0
+"Axillary freckling"	0.0	1.0	0.0	0.0
+"Rhabdomyosarcoma"	0.0	1.0	0.0	0.0

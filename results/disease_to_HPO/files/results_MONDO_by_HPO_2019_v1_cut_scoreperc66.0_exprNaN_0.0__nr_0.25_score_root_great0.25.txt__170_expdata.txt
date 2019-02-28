@@ -1,0 +1,11 @@
+	"MONDO.0008370"	"MONDO.0008765"	"MONDO.0008766"
+"HP:0000007"	0.0	1.0	1.0
+"Intellectual disability"	0.0	1.0	1.0
+"Photophobia"	0.0	1.0	1.0
+"Cataract"	0.0	1.0	1.0
+"Keratoconus"	0.0	1.0	1.0
+"Blindness"	0.0	1.0	1.0
+"Pigmentary retinopathy"	0.0	1.0	1.0
+"Decreased light- and dark-adapted electroretinogram amplitude"	0.0	1.0	1.0
+"Fundus atrophy"	0.0	1.0	1.0
+"Eye poking"	0.0	1.0	1.0

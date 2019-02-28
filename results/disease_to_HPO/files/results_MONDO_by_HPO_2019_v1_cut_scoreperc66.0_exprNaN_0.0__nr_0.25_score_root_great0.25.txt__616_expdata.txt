@@ -1,0 +1,7 @@
+	"MONDO.0010402"	"MONDO.0010893"	"MONDO.0012019"	"MONDO.0013308"
+"HP:0003676"	1.0	0.0	0.0	1.0
+"Back pain"	1.0	0.0	0.0	0.0
+"Elevated serum creatine phosphokinase"	1.0	0.0	1.0	0.0
+"Hypertrophic cardiomyopathy"	1.0	0.0	0.0	1.0
+"Scapular winging"	1.0	0.0	1.0	0.0
+"Scapuloperoneal weakness"	1.0	0.0	1.0	0.0

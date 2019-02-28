@@ -1,0 +1,4 @@
+"x"
+"1" "Congenital corneal dystrophy"
+"2" "Increased corneal thickness"
+"3" "Mosaic corneal dystrophy"

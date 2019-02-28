@@ -1,0 +1,11 @@
+	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008381"	"MONDO.0008959"
+"Osteosarcoma"	0.0	0.0	1.0	0.0
+"Vitritis"	0.0	0.0	1.0	0.0
+"Retinal calcification"	0.0	0.0	1.0	0.0
+"Leukemia"	0.0	0.0	1.0	0.0
+"Vitreous hemorrhage"	0.0	0.0	1.0	0.0
+"Lymphoma"	0.0	0.0	1.0	0.0
+"Leukocoria"	0.0	0.0	1.0	0.0
+"Retinoblastoma"	0.0	0.0	1.0	0.0
+"Pinealoma"	0.0	0.0	1.0	0.0
+"Ewing's sarcoma"	0.0	0.0	1.0	0.0

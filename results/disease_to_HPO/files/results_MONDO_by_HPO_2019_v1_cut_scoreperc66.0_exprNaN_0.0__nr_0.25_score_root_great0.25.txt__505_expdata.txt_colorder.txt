@@ -1,0 +1,7 @@
+"x"
+"1" "Pectus carinatum"
+"2" "Hip dislocation"
+"3" "Long face"
+"4" "Broad ribs"
+"5" "High, narrow palate"
+"6" "Broad clavicles"

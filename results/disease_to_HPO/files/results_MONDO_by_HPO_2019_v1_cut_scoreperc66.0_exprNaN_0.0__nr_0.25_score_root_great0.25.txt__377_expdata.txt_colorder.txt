@@ -1,0 +1,6 @@
+"x"
+"1" "Glaucoma"
+"2" "Congenital cataract"
+"3" "Sparse eyelashes"
+"4" "Sparse body hair"
+"5" "Narrow nose"
