@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"thrombophilia due to thrombin defect"	"congenital secretory chloride diarrhea 1"	"congenital factor X deficiency"	"Chuvash polycythemia"	"THC3"	"THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome"
 "Hyperextensible skin"	0.0	0.0	0.0	0.0	0.0	0.0
 "Gastrointestinal hemorrhage"	1.0	1.0	1.0	1.0	1.0	1.0
 "Bruising susceptibility"	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"parastremmatic dwarfism"	"arterial calcification, generalized, of infancy, 1"	"velo-facial-skeletal syndrome"	"microcephaly 4, primary, autosomal recessive"
 "Inspiratory stridor"	1.0	1.0	1.0	1.0
 "Subependymal cysts"	0.0	0.0	1.0	0.0
 "3-Methylglutaric aciduria"	0.0	0.0	0.0	0.0

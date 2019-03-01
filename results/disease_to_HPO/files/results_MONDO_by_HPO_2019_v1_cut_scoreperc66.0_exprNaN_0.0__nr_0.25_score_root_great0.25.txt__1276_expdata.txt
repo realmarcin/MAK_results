@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dihydropteridine reductase deficiency"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"primary ciliary dyskinesia 26"
 "Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0
 "Depressivity"	1.0	0.0	0.0	0.0
 "Dry skin"	1.0	0.0	0.0	0.0

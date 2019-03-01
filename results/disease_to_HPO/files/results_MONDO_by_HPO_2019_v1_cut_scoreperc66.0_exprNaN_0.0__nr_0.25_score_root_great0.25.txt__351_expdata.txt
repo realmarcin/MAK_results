@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"SPGF2"	"mastocytosis"	"generalized basaloid follicular hamartoma syndrome"	"chromosome 1q21.1 deletion syndrome"	"CLAPO syndrome"
 "Microphthalmia"	0.0	0.0	1.0	0.0	1.0
 "Nystagmus"	0.0	1.0	1.0	1.0	0.0
 "Cataract"	1.0	1.0	1.0	1.0	1.0

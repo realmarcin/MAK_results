@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"trichodysplasia-xeroderma syndrome"	"chondroitin-6-sulfaturia, defective cellular immunity, nephrotic syndrome"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"taurodontism, microdontia, and dens invaginatus"	"glycosylphosphatidylinositol biosynthesis defect 15"
 "Anteverted nares"	0.0	1.0	0.0	1.0	1.0
 "Depressed nasal bridge"	0.0	0.0	0.0	1.0	1.0
 "Platyspondyly"	0.0	1.0	1.0	1.0	0.0

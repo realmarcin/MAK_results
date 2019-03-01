@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant Parkinson disease 1"	"familial pancreatic carcinoma"	"multiple epiphyseal dysplasia type 5"	"lymphedema, hereditary, type III"
 "Substantia nigra gliosis"	1.0	1.0	1.0	0.0
 "Lewy bodies"	1.0	1.0	1.0	1.0
 "HP:0031435"	0.0	1.0	0.0	0.0

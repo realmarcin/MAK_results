@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"reticular dystrophy of retinal pigment epithelium"	"Marshall-Smith syndrome"	"immunodeficiency, common variable, 1"	"vasculitis due to ADA2 deficiency"
 "Bicuspid aortic valve"	0.0	1.0	0.0	0.0
 "Short palm"	0.0	1.0	0.0	0.0
 "Specific learning disability"	0.0	1.0	0.0	0.0

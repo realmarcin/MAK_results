@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinal telangiectasia and hypogammaglobulinemia"	"methylmalonic aciduria and homocystinuria type cblF"	"Newfoundland cone-rod dystrophy"	"dilated cardiomyopathy 1M"	"Kahrizi syndrome"	"nephrotic syndrome, type 10"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormal electroretinogram"	0.0	0.0	1.0	0.0	0.0	0.0
 "Macular degeneration"	0.0	0.0	1.0	0.0	0.0	0.0

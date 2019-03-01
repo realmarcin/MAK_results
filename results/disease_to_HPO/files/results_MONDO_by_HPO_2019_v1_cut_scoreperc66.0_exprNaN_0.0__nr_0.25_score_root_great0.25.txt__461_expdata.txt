@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spastic diplegia and mental retardation"	"Xq27.3q28 duplication syndrome"	"amelogenesis imperfecta hypomaturation type 2A3"	"atrial fibrillation, familial, 15"
 "Impaired tactile sensation"	1.0	0.0	0.0	0.0
 "Abnormality of the pons"	1.0	1.0	0.0	0.0
 "HP:0012896"	1.0	0.0	1.0	1.0

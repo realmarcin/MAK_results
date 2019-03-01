@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acne inversa, familial, 1"	"primary intestinal lymphangiectasia"	"chylous ascites"	"periodontitis, chronic, adult"	"tongue, pigmented fungiform papillae of"	"autosomal recessive nonsyndromic deafness 51"
 "Vertigo"	1.0	0.0	0.0	1.0	0.0	0.0
 "Arthralgia"	1.0	0.0	0.0	1.0	0.0	0.0
 "Migraine"	1.0	0.0	0.0	1.0	1.0	0.0

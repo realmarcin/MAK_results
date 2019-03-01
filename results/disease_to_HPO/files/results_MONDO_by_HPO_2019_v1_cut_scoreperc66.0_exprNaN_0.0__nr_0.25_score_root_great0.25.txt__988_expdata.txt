@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cancer, familial, with 1N vitro Radioresistance"	"LAP"	"hereditary mucoepithelial dysplasia"	"pectus excavatum-macrocephaly-dysplastic nails syndrome"	"osteogenesis imperfecta type 14"
 "HP:0000006"	1.0	1.0	1.0	1.0	0.0
 "Facial asymmetry"	1.0	0.0	1.0	0.0	0.0
 "Deep philtrum"	0.0	0.0	1.0	0.0	0.0

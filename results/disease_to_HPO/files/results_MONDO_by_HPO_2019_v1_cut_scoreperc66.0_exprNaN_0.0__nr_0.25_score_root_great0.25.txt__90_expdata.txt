@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypocalcified amelogenesis imperfecta"	"gingival fibromatosis-progressive deafness syndrome"	"myopathy, tubular aggregate, 2"
 "HP:0000006"	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	0.0
 "High palate"	1.0	1.0	0.0

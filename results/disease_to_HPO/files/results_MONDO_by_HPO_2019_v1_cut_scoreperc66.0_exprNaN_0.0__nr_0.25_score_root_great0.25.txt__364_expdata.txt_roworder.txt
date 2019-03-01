@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "Alport.syndrome.intellectual.disability.midface.hypoplasia.elliptocytosis.syndrome"
+"2" "Joubert.syndrome.with.oculorenal.defect"
+"3" "retinal.degeneration.nanophthalmos.glaucoma.syndrome"

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"OFC1"	"cutis laxa, autosomal dominant 1"	"Charcot-Marie-Tooth disease-deafness-intellectual disability syndrome"	"isolated microphthalmia 5"
 "Ankyloblepharon"	1.0	1.0	1.0	1.0	1.0
 "Intercrural pterygium"	0.0	1.0	0.0	0.0	0.0
 "Lip pit"	1.0	1.0	0.0	0.0	0.0

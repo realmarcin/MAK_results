@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypertrophic osteoarthropathy, primary, autosomal recessive, 1"	"familial hemophagocytic lymphohistiocytosis 4"	"congenital reticular ichthyosiform erythroderma"	"Koolen de Vries syndrome"	"autosomal recessive optic atrophy, OPA7 type"	"CLAPO syndrome"
 "Posterior scalloping of vertebral bodies"	1.0	1.0	0.0	1.0	0.0	0.0
 "Streaky metaphyseal sclerosis"	0.0	1.0	0.0	0.0	1.0	0.0
 "Delayed patellar ossification"	0.0	1.0	0.0	0.0	0.0	1.0

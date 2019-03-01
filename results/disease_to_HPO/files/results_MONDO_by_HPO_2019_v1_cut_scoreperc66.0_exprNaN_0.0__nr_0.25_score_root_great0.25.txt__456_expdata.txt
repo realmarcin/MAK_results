@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cardiac lipidosis, familial"	"X-linked parkinsonism-spasticity syndrome"	"bleeding disorder, platelet-type, 21"	"microcephaly, growth restriction, and increased sister chromatid exchange 2"
 "HP:0000007"	1.0	0.0	1.0	0.0
 "Angioedema"	1.0	1.0	0.0	0.0
 "Oligomenorrhea"	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Bloom syndrome"	"alveolar soft part sarcoma (disease)"	"CAD-CDG"	"orofaciodigital syndrome XV"
 "Widow's peak"	0.0	1.0	1.0	0.0
 "Thick eyebrow"	1.0	1.0	1.0	1.0
 "Atopic dermatitis"	0.0	1.0	0.0	0.0

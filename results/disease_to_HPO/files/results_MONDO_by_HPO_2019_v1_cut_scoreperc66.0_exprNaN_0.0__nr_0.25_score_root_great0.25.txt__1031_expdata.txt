@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"reticular dystrophy of retinal pigment epithelium"	"apparent mineralocorticoid excess"	"immunodeficiency, common variable, 1"	"vasculitis due to ADA2 deficiency"
 "Postaxial hand polydactyly"	0.0	1.0	0.0	0.0
 "Growth abnormality"	0.0	1.0	0.0	0.0
 "Short stature"	1.0	1.0	0.0	1.0

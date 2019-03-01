@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"linear skin defects with multiple congenital anomalies 2"	"spinocerebellar ataxia type 26"	"autosomal recessive limb-girdle muscular dystrophy type 2Q"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"	"intellectual disability, autosomal dominant 55, with seizures"
 "Kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0	0.0
 "Spasticity"	1.0	1.0	1.0	1.0	1.0	0.0
 "Cardiomegaly"	1.0	0.0	0.0	0.0	0.0	0.0

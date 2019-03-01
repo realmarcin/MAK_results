@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"apert syndrome"	"cleidocranial dysplasia"	"extrasystoles-short stature-hyperpigmentation-microcephaly syndrome"	"fibula, recurrent dislocation of head of"	"Roussy-Levy syndrome"	"Pilarowski-Bjornsson syndrome"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Malar flattening"	1.0	0.0	0.0	0.0	1.0	0.0

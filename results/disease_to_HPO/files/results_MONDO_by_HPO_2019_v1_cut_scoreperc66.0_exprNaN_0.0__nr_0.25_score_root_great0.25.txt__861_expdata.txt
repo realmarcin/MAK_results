@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"arteritis, familial granulomatous, with juvenile polyarthritis"	"knuckle pads"	"delayed membranous cranial ossification"	"2q37 microdeletion syndrome"	"Parkes Weber syndrome"	"myopathy, myosin storage, autosomal dominant"
 "Arteriovenous fistula"	0.0	1.0	0.0	1.0	1.0	1.0
 "Lymphangioma"	0.0	1.0	0.0	0.0	0.0	0.0
 "Peripheral arteriovenous fistula"	1.0	1.0	1.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acute monocytic leukemia"	"theophylline Biotransformation"	"achondrogenesis type II"	"acromesomelic dysplasia, Grebe type"	"chondrodysplasia calcificans Metaphysealis"	"Krabbe disease"	"craniometadiaphyseal dysplasia, wormian bone type"	"autosomal recessive nonsyndromic deafness 7"	"rhabdoid tumor predisposition syndrome 2"	"chromosome 17q12 duplication syndrome"
 "Ovoid vertebral bodies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Short ribs"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Lateral clavicle hook"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

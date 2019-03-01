@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"coracoclavicular joint, anomalous"	"masticatory muscles, hypertrophy of"	"c syndrome"	"glycogen storage disease due to hepatic glycogen synthase deficiency"	"Beemer-Langer syndrome"	"Gomez-Lopez-Hernandez syndrome"	"COL4A1-related familial vascular leukoencephalopathy"	"BNAR syndrome"	"autosomal recessive limb-girdle muscular dystrophy type 2P"	"psoriasis 15, pustular, susceptibility to"
 "Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Diarrhea"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

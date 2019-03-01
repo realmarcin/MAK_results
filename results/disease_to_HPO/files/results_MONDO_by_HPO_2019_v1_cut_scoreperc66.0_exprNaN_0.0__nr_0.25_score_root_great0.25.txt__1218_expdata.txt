@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ornithine translocase deficiency"	"renal hypomagnesemia 5 with ocular involvement"	"orofacial cleft 10"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "Hepatomegaly"	0.0	1.0	0.0	0.0
 "Broad forehead"	0.0	1.0	0.0	0.0
 "Growth abnormality"	0.0	1.0	0.0	0.0

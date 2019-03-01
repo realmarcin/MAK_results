@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myotonia congenita, autosomal dominant"	"pseudohypoparathyroidism type 2"	"Leber congenital amaurosis 1"	"microcephaly 5, primary, autosomal recessive"	"LMPH1B"	"Hermansky-Pudlak syndrome 5"
 "Chronic otitis media"	0.0	0.0	1.0	1.0	0.0	0.0
 "Restrictive ventilatory defect"	1.0	1.0	0.0	1.0	1.0	1.0
 "Pulmonary fibrosis"	1.0	1.0	1.0	1.0	1.0	1.0

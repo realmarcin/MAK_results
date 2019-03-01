@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"growth delay-hydrocephaly-lung hypoplasia syndrome"	"Alagille syndrome due to a NOTCH2 point mutation"	"intellectual disability, autosomal recessive 13"
 "HP:0000007"	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0

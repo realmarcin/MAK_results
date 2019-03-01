@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital lipoid adrenal hyperplasia due to STAR deficency"	"congenital multicore myopathy with external ophthalmoplegia"	"infantile onset spinocerebellar ataxia"	"microphthalmia, syndromic 11"	"early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Pectus excavatum"	0.0	1.0	1.0	1.0	0.0
 "Congenital hip dislocation"	0.0	1.0	1.0	0.0	0.0

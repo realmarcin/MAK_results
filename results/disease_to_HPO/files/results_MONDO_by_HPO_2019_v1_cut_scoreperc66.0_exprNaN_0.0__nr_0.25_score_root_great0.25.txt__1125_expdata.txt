@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pyruvate dehydrogenase phosphatase deficiency"	"mirror movements 3"	"hypomyelinating leukodystrophy 9"	"lissencephaly 7 with cerebellar hypoplasia"
 "Long philtrum"	1.0	0.0	0.0	0.0
 "Muscular hypotonia"	1.0	0.0	0.0	0.0
 "HP:0003812"	1.0	0.0	0.0	0.0

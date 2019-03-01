@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary folate malabsorption"	"isolated hemihyperplasia"	"Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"	"dehydratase deficiency"	"Reis-Bucklers corneal dystrophy"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	0.0	0.0	0.0	1.0	0.0
 "Colon cancer"	0.0	0.0	1.0	0.0	1.0

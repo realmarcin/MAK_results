@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"macular corneal dystrophy"	"Melnick-Needles syndrome"	"polyposis syndrome, hereditary mixed, 2"
 "Congenital corneal dystrophy"	1.0	0.0	1.0
 "Mosaic corneal dystrophy"	0.0	1.0	0.0
 "Increased corneal thickness"	0.0	1.0	1.0

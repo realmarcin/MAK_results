@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cleidocranial dysplasia, recessive form"	"Wilson disease"	"Chitotriosidase deficiency"	"retinitis pigmentosa 61"	"complement component 4b deficiency"	"congenital myopathy with internal nuclei and atypical cores"	"STAT3-related early-onset multisystem autoimmune disease"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Thick eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "HP:0008897"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

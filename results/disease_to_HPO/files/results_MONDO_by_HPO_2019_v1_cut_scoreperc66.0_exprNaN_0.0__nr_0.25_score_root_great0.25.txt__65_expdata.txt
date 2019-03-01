@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary spastic paraplegia 4"	"spastic paraplegia-epilepsy-intellectual disability syndrome"	"CODAS syndrome"	"epilepsy, familial focal, with variable foci 1"	"autosomal dominant nonsyndromic deafness 41"
 "Urinary incontinence"	1.0	1.0	1.0	1.0	0.0
 "Degeneration of the lateral corticospinal tracts"	1.0	1.0	1.0	1.0	0.0
 "Urinary bladder sphincter dysfunction"	1.0	1.0	1.0	1.0	0.0

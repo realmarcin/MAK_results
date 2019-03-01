@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Cooks syndrome"	"Muir-Torre syndrome"	"encephalomalacia, multilocular"	"epidermolysis bullosa simplex with muscular dystrophy"	"epidermolysis bullosa with diaphragmatic hernia"	"oculorenocerebellar syndrome"
 "Nail dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Type B brachydactyly"	1.0	0.0	0.0	0.0	0.0	0.0
 "Aplasia/Hypoplasia of the distal phalanges of the hand"	1.0	0.0	0.0	0.0	0.0	0.0

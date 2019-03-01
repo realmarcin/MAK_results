@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intellectual disability, anterior maxillary protrusion, and strabismus"	"cone-rod dystrophy 17"	"retinal dystrophy with inner retinal dysfunction and ganglion cell anomalies"	"Parkinson disease 22, autosomal dominant; PARK22"	"neurodevelopmental disorder with hypotonia, seizures, and absent language; NDHSAL"
 "Hypertelorism"	1.0	1.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	1.0	0.0	1.0	1.0
 "Coarse facial features"	0.0	1.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"apparent mineralocorticoid excess"	"Fraser syndrome 1"	"seizures-intellectual disability due to hydroxylysinuria syndrome"	"hypermetabolism due to defect 1N mitochondria"	"brain demyelination due to methionine adenosyltransferase deficiency"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	0.0	1.0

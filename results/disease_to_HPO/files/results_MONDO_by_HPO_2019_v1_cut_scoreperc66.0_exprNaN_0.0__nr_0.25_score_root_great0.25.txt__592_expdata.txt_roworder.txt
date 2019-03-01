@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.2"
-"3" "MONDO.0008741.1"
+"1" "xeroderma.pigmentosum.group.G"
+"2" "curry.Jones.syndrome"
+"3" "X.linked.non.progressive.cerebellar.ataxia"

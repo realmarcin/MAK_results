@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Schilder disease"	"constitutional mismatch repair deficiency syndrome"	"PARC syndrome"	"spinocerebellar ataxia, autosomal recessive 25"
 "HP:0000007"	0.0	0.0	0.0	0.0
 "Agenesis of corpus callosum"	0.0	0.0	1.0	0.0
 "Cerebral atrophy"	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alopecia-intellectual disability syndrome 1"	"microcephaly-cardiomyopathy syndrome"	"Sandhoff disease"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Short stature"	1.0	1.0	1.0

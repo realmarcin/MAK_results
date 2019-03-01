@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pyruvate kinase deficiency of red cells"	"branched-chain keto acid dehydrogenase kinase deficiency"	"PCNA-related progressive neurodegenerative photosensitivy syndrome"	"short-rib thoracic dysplasia 13 with or without polydactyly"	"autosomal recessive nonsyndromic deafness 105"	"spermatogenic failure 22"
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	0.0	1.0	1.0
 "Periventricular leukomalacia"	1.0	0.0	0.0	0.0	0.0	0.0

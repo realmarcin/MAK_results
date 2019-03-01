@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MYP18"	"X-linked myopathy with excessive autophagy"	"microcephaly 4, primary, autosomal recessive"	"annular epidermolytic ichthyosis"	"spinocerebellar ataxia type 42"	"congenital secretory sodium diarrhea 8"
 "Polyhydramnios"	1.0	1.0	0.0	1.0	1.0	1.0
 "External ophthalmoplegia"	1.0	1.0	0.0	0.0	0.0	0.0
 "Cavernous hemangioma"	0.0	1.0	0.0	0.0	0.0	0.0

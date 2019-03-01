@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.2"
-"3" "MONDO.0008741.1"
+"1" "split.hand.foot.malformation.3"
+"2" "vasculitis.due.to.ADA2.deficiency"
+"3" "immunodeficiency..common.variable..1"

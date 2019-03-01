@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"channelopathy-associated congenital insensitivity to pain"	"Perlman syndrome"	"bladder exstrophy (disease)"	"dilated cardiomyopathy 1C"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Depressed nasal bridge"	1.0	0.0	0.0	1.0
 "Bifid uvula"	0.0	1.0	0.0	1.0

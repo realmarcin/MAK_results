@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Blount disease, infantile"	"myopathy with giant abnormal mitochondria"	"phosphoenolpyruvate carboxykinase deficiency, cytosolic"	"X-linked cone dysfunction syndrome with myopia"	"maturity-onset diabetes of the young type 3"	"maturity-onset diabetes of the young type 7"	"triosephosphate isomerase deficiency"
 "Rhabdomyolysis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Decreased activity of mitochondrial complex I"	0.0	1.0	0.0	0.0	0.0	1.0	0.0
 "Decreased activity of mitochondrial complex III"	0.0	1.0	0.0	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MAFD1"	"cerebrofaciothoracic dysplasia"	"pycnodysostosis"	"Hirschsprung disease, cardiac defects, and autonomic dysfunction"
 "HP:0000007"	0.0	1.0	0.0	1.0
 "Cerebral cortical atrophy"	0.0	1.0	0.0	0.0
 "Rigidity"	0.0	1.0	0.0	1.0

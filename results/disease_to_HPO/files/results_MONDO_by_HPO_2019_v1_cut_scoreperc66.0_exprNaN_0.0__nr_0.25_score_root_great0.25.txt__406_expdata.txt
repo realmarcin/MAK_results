@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"generalized basaloid follicular hamartoma syndrome"	"hereditary spastic paraplegia 41"	"chromosome 16q22 deletion syndrome"	"severe intellectual disability-progressive spastic diplegia syndrome"	"age related macular degeneration 13"	"schwannomatosis 2"
 "Shawl scrotum"	0.0	1.0	1.0	0.0	0.0	0.0
 "Large fontanelles"	0.0	0.0	1.0	0.0	0.0	0.0
 "Long toe"	1.0	1.0	1.0	1.0	1.0	1.0

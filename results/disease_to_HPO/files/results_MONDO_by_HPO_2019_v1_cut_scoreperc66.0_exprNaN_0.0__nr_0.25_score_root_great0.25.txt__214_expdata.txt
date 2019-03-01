@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"microphthalmia, isolated, with corectopia"	"Czeizel-Losonci syndrome"	"dextrocardia with unusual facies and microphthalmia"	"pantothenate kinase-associated neurodegeneration"	"hypertelorism-preauricular sinus-punctual pits-deafness syndrome"	"cholestasis, progressive familial intrahepatic, 4"
 "Strabismus"	1.0	1.0	0.0	1.0	1.0	1.0
 "Microphthalmia"	1.0	0.0	1.0	1.0	0.0	1.0
 "Nystagmus"	1.0	1.0	0.0	1.0	1.0	1.0

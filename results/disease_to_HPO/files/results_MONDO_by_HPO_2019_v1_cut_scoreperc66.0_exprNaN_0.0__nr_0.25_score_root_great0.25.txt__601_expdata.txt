@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anal sphincter dysplasia"	"giant neutrophil leukocytes"	"persistent hyperplastic primary vitreous, autosomal recessive"	"Unverricht-Lundborg syndrome"	"hypotrichosis-lymphedema-telangiectasia syndrome"	"myofibrillar myopathy 6"
 "Apraxia"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0003678"	1.0	1.0	1.0	1.0	1.0	1.0
 "Extrapyramidal dyskinesia"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"progressive osseous heteroplasia"	"autosomal recessive distal osteolysis syndrome"	"osteoma of middle ear"
 "Metatarsal osteolysis"	1.0	1.0	0.0
 "Carpal osteolysis"	1.0	1.0	0.0
 "Metacarpal osteolysis"	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal recessive palmoplantar keratoderma and congenital alopecia"	"pyruvate dehydrogenase E3-binding protein deficiency"	"orofaciodigital syndrome type II"	"mucopolysaccharidoses, unclassified types"	"spinocerebellar ataxia type 42"	"autosomal recessive limb-girdle muscular dystrophy type 2Z"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	0.0	0.0	1.0	0.0	0.0	1.0
 "Generalized hypotonia"	1.0	0.0	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypogonadotropic hypogonadism 8 with or without anosmia"	"complex cortical dysplasia with other brain malformations 2"	"myopathy due to myoadenylate deaminase deficiency"	"L-ferritin deficiency"	"hereditary spastic paraplegia 61"	"nephronophthisis 20"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Alacrima"	0.0	0.0	1.0	0.0	0.0	0.0
 "Anisocoria"	0.0	0.0	1.0	0.0	0.0	0.0

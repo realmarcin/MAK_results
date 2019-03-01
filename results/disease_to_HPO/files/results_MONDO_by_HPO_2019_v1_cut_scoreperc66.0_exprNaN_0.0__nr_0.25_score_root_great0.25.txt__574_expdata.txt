@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Wilson disease"	"Charcot-Marie-Tooth disease type 4G"	"congenital myopathy with internal nuclei and atypical cores"	"keratoconus 9"
 "Brachydactyly"	0.0	1.0	1.0	1.0
 "Syndactyly"	0.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	0.0

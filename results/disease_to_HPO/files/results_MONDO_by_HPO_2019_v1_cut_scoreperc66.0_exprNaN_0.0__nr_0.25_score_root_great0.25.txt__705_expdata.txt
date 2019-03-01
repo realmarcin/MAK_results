@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, classic type"	"temtamy syndrome"	"encephalomalacia, multilocular"	"pulverulent cataract"	"complement component 4b deficiency"
 "Xerostomia"	1.0	0.0	0.0	1.0	0.0
 "Blue irides"	1.0	0.0	0.0	1.0	0.0
 "Ectodermal dysplasia"	1.0	1.0	1.0	1.0	1.0

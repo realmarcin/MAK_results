@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"diabetes insipidus, nephrogenic, X-linked"	"Lennox-Gastaut syndrome"	"insomnia (disease)"	"ACTH-independent macronodular adrenal hyperplasia 2"
 "Hypothyroidism"	1.0	1.0	1.0	1.0
 "Recurrent respiratory infections"	0.0	1.0	1.0	0.0
 "Abnormality of the dentition"	0.0	0.0	0.0	1.0

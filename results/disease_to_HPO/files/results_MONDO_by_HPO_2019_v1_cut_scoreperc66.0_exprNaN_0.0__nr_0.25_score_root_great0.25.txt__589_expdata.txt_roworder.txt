@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "hypomyelinating.leukodystrophy.2"
+"2" "cardiac.rhythm.disease"
+"3" "pleuropulmonary.blastoma"

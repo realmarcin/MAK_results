@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mucolipidosis type III gamma"	"mucolipidosis type IV"	"pyloric atresia"	"bladder exstrophy (disease)"	"pigmented nodular adrenocortical disease, primary, 3"	"cataract 44"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Mandibular prognathia"	1.0	0.0	1.0	0.0	0.0	0.0
 "Delayed eruption of teeth"	0.0	0.0	1.0	0.0	1.0	0.0

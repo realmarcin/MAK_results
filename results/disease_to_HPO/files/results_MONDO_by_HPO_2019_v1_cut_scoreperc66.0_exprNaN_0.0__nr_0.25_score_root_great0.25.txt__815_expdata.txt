@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"primary biliary cholangitis 1"	"uterine corpus leiomyoma"	"metachromatic leukodystrophy, adult-onset, with normal arylsulfatase a"	"osteoarthritis susceptibility 1"	"Buschke-Ollendorff syndrome"	"cutaneous photosensitivity-lethal colitis syndrome"	"dysautonomia-like disorder"	"Gaucher disease type II"	"Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome"	"beta-mannosidosis"	"intellectual disability, autosomal recessive 1"	"mucopolysaccharidosis type 7"	"idiopathic juvenile osteoporosis"	"autoimmune lymphoproliferative syndrome type 2A"	"dyskeratosis congenita, autosomal dominant 3"
 "Avascular necrosis of the capital femoral epiphysis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Aseptic necrosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Cartilage destruction"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

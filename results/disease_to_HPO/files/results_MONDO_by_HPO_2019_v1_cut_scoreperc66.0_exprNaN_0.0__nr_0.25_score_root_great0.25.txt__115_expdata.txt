@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Guttmacher syndrome"	"familial reactive perforating collagenosis"	"sarcosinemia"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"Partington syndrome"
 "Strabismus"	1.0	1.0	1.0	0.0	1.0
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0

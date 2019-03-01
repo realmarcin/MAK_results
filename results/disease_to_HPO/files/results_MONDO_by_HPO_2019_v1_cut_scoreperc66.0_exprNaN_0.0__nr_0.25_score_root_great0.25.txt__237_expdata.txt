@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"methylmalonic aciduria and homocystinuria type cblD"	"dermatitis, atopic"	"sudden infant death-dysgenesis of the testes syndrome"	"extraskeletal myxoid chondrosarcoma"	"Seckel syndrome 6"	"hypomyelination with brain stem and spinal cord involvement and leg spasticity"
 "Strabismus"	0.0	1.0	1.0	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	0.0

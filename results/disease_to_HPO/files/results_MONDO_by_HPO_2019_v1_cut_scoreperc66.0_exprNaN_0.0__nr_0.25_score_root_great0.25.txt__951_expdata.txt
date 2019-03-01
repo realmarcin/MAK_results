@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"floating-Harbor syndrome"	"focal epithelial hyperplasia of the oral mucosa"	"spinocerebellar ataxia type 1"	"alopecia - contractures - dwarfism - intellectual disability syndrome"	"cerebral sclerosis similar to Pelizaeus-Merzbacher disease"	"Grubben-de Cock-Borghgraef syndrome"	"idiopathic ventricular fibrillation, non Brugada type"	"primary ciliary dyskinesia 6"	"bleeding diathesis due to thromboxane synthesis deficiency"
 "Atherosclerosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Glossitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Neutral hyperaminoaciduria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

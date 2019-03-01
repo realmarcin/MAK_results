@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"laurin-Sandrow syndrome"	"Danon disease"	"Caroli disease"	"trimethylaminuria (disease)"	"mesoaxial synostotic syndactyly with phalangeal reduction"
 "Compensatory chin elevation"	1.0	1.0	1.0	0.0	1.0
 "Congenital fibrosis of extraocular muscles"	1.0	0.0	1.0	1.0	1.0
 "Restrictive external ophthalmoplegia"	1.0	0.0	0.0	1.0	1.0

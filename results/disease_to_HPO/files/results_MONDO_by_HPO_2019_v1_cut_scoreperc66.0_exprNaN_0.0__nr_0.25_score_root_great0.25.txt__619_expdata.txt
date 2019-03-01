@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ear antitragus, tag at base of"	"syndesmodysplasic dwarfism"	"amyotrophic lateral sclerosis type 10"	"severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome"	"Joubert syndrome 23"
 "Cryptorchidism"	0.0	1.0	0.0	0.0	1.0
 "Delayed skeletal maturation"	0.0	1.0	0.0	0.0	1.0
 "Decreased body weight"	0.0	1.0	0.0	0.0	1.0

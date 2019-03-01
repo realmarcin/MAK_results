@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"chronic myelogenous leukemia, BCR-ABL1 positive"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0
 "Global developmental delay"	0.0	0.0	1.0	0.0	0.0
 "Micrognathia"	0.0	0.0	1.0	0.0	0.0

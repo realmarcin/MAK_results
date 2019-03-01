@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"bifid nose, autosomal recessive"	"orotic aciduria"	"peroxisomal acyl-CoA oxidase deficiency"	"reticular dystrophy of the retinal pigment epithelium"	"spermatogenic failure 7"	"hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Myopia"	0.0	1.0	1.0	1.0	0.0	1.0
 "Progressive visual loss"	1.0	0.0	1.0	0.0	0.0	0.0

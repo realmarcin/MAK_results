@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"autosomal dominant popliteal pterygium syndrome"	"isolated cleft palate"	"MALT lymphoma"	"parietal foramina with cleidocranial dysplasia"	"tibia, hypoplasia or aplasia of, with polydactyly"	"amyotrophic lateral sclerosis type 4"	"melanoma-pancreatic cancer syndrome"	"hereditary cryohydrocytosis with reduced stomatin"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
 "Cleft upper lip"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
 "Osteochondritis Dissecans"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

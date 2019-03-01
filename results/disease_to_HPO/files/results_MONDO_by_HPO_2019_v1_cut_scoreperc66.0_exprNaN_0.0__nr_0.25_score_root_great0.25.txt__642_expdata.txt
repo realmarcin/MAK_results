@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intellectual disability, X-linked, syndromic, Houge type"	"nephronophthisis 18"	"autosomal recessive isolated optic atrophy"	"autosomal dominant Robinow syndrome 3"	"cerebral palsy, spastic quadriplegic, 3; CPSQ3"	"polycystic kidney disease 5"
 "Minimal change glomerulonephritis"	1.0	1.0	1.0	0.0	1.0	1.0
 "Steroid-resistant nephrotic syndrome"	0.0	1.0	0.0	1.0	0.0	0.0
 "HP:0031266"	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"chlorpropamide-alcohol flushing"	"hypokalemic periodic paralysis, type 1"	"inherited genitourinary tract anomalies (disease)"
 "Antegonial notching of mandible"	0.0	1.0	1.0
 "Anteriorly placed odontoid process"	1.0	0.0	1.0
 "Partial fusion of carpals"	0.0	0.0	1.0

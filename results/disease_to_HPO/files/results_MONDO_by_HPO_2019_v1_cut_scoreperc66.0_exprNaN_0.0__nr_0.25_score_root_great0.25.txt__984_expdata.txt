@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anal sphincter myopathy, internal"	"pronation-supination of the forearm, impairment of"	"van Bogaert-Hozay syndrome"	"terminal osseous dysplasia-pigmentary defects syndrome"	"retinitis pigmentosa 13"	"striatal degeneration, autosomal dominant 2; ADSD2"
 "Bowel incontinence"	1.0	1.0	0.0	1.0	1.0	0.0
 "Drooling"	0.0	0.0	0.0	1.0	0.0	1.0
 "Drowsiness"	0.0	0.0	1.0	0.0	0.0	0.0

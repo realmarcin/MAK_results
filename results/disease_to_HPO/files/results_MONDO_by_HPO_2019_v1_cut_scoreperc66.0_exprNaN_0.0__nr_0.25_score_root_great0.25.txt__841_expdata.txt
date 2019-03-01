@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"	"severe intellectual disability-progressive spastic diplegia syndrome"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0
 "Wide nasal bridge"	1.0	0.0	1.0	1.0	1.0
 "Inappropriate laughter"	0.0	0.0	0.0	0.0	1.0

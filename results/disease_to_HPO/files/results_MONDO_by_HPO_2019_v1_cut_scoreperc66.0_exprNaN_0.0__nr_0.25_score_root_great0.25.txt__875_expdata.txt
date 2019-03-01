@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Shprintzen-Goldberg syndrome"	"autosomal recessive Kenny-Caffey syndrome"	"skeletal dysplasia-epilepsy-short stature syndrome"	"purine nucleoside phosphorylase deficiency"	"ataxia - oculomotor apraxia type 4"
 "Wide nasal bridge"	1.0	0.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0
 "Scoliosis"	1.0	0.0	0.0	0.0	1.0

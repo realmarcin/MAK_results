@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"tibial torsion, bilateral medial"	"tibia, absence of, with congenital deafness"	"Kerion celsi"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"	"X-linked intellectual disability-seizures-psoriasis syndrome"
 "Dilatation"	0.0	0.0	0.0	1.0	1.0
 "HP:0009556"	1.0	1.0	1.0	1.0	0.0
 "Exostoses"	0.0	0.0	0.0	1.0	1.0

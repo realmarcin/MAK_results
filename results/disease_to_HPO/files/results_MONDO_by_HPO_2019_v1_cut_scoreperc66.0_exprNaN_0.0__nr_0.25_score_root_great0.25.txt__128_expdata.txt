@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acute promyelocytic leukemia"	"hyperuricemic nephropathy, familial juvenile type 3"	"hypogonadotropic hypogonadism 10 with or without anosmia"	"congenital myasthenic syndrome 17"	"orofacial cleft 15"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0
 "Microretrognathia"	0.0	0.0	0.0	1.0	0.0
 "Cleft lip"	1.0	1.0	1.0	1.0	1.0

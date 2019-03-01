@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Hooft disease"	"3-methylglutaconic aciduria type 1"	"methylmalonic aciduria and homocystinuria type cblC"	"methylmalonic aciduria and homocystinuria type cblD"	"vitamin D-dependent rickets, type 2A"	"hypogonadotropic hypogonadism 14 with or without anosmia"	"retinitis pigmentosa 80"
 "Megaloblastic anemia"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
 "Homocystinuria"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Hyperhomocystinemia"	1.0	1.0	1.0	1.0	1.0	1.0	0.0

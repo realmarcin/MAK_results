@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Gaucher disease type III"	"mitochondrial myopathy"	"Aicardi-Goutieres syndrome 4"	"holoprosencephaly, recurrent infections, and monocytosis"	"Krabbe disease, atypical, due to saposin a deficiency"	"dilated cardiomyopathy 1II"	"epileptic encephalopathy, early infantile, 16"
 "CNS demyelination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Encephalopathy"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
 "Hyperkinesis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

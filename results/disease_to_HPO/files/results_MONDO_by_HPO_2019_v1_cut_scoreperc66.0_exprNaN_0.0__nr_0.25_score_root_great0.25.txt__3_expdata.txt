@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant Parkinson disease 1"	"familial developmental dysphasia"	"craniosynostosis 5, susceptibility to"	"reticulate acropigmentation of Kitamura"	"atrial fibrillation, familial, 15"	"microcephaly-corpus callosum hypoplasia-intellectual disability-facial dysmorphism syndrome"
 "Parkinsonism"	1.0	1.0	1.0	1.0	0.0	1.0
 "Tremor"	1.0	1.0	1.0	1.0	1.0	1.0
 "Rigidity"	1.0	1.0	1.0	1.0	1.0	1.0

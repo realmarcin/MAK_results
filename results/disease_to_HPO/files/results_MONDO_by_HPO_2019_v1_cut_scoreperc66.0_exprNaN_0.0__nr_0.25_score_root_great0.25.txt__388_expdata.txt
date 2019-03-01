@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"odontotrichomelic syndrome"	"autosomal recessive distal spinal muscular atrophy 2"	"neuronal ceroid lipofuscinosis 9"	"MMVP3"	"hereditary spherocytosis type 4"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	0.0	1.0	0.0
 "Cafe-au-lait spot"	0.0	1.0	0.0	1.0	0.0

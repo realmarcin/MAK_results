@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Patterson-Stevenson-Fontaine syndrome"	"anosmia for isobutyric acid"	"Ehlers-Danlos syndrome, fibronectinemic type"	"Fibulo-ulnar hypoplasia-renal anomalies syndrome"	"lipase deficiency, combined"	"ulna hypoplasia-intellectual disability syndrome"
 "Hand oligodactyly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Aplasia of the ulna"	0.0	0.0	0.0	0.0	0.0	1.0
 "Foot oligodactyly"	1.0	1.0	1.0	1.0	1.0	1.0

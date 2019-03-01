@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hydatidiform mole, recurrent, 1"	"hepatic veno-occlusive disease-immunodeficiency syndrome"	"otoonychoperoneal syndrome"	"syndromic X-linked intellectual disability Abidi type"	"X-linked Alport syndrome"
 "Cryptorchidism"	1.0	1.0	0.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	1.0
 "Depressed nasal bridge"	1.0	1.0	1.0	1.0	1.0

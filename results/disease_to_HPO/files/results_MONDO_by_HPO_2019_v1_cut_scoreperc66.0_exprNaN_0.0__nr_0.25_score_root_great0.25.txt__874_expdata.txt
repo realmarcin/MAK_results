@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"DPM3-CDG"	"retinitis pigmentosa 27"	"hereditary spastic paraplegia 52"	"immunodeficiency-centromeric instability-facial anomalies syndrome 2"
 "Pes planus"	0.0	0.0	1.0	0.0
 "Genu recurvatum"	0.0	0.0	1.0	0.0
 "High palate"	1.0	0.0	1.0	1.0

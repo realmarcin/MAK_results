@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ornithine translocase deficiency"	"orofacial cleft 10"	"cholestasis, progressive familial intrahepatic, 4"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "Strabismus"	0.0	0.0	1.0	0.0
 "Pes planus"	0.0	0.0	1.0	0.0
 "HP:0000006"	0.0	0.0	1.0	0.0

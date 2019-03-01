@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"holoprosencephaly 3"	"short-limb skeletal dysplasia with severe combined immunodeficiency"	"saccharopinuria"	"syndromic X-linked intellectual disability 34"	"nephronophthisis 3"	"PMP22-RAI1 contiguous gene duplication syndrome"
 "Aplasia/Hypoplasia of the breasts"	0.0	0.0	1.0	0.0	0.0	0.0
 "HP:0011927"	1.0	1.0	1.0	1.0	1.0	1.0
 "Ureterovesical stenosis"	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myotonic dystrophy type 1"	"Naegeli-Franceschetti-Jadassohn syndrome"	"parastremmatic dwarfism"	"Richieri Costa-da Silva syndrome"	"cerebral palsy, spastic quadriplegic, 1"
 "EMG: myotonic runs"	1.0	0.0	0.0	1.0	0.0
 "Myotonia with warm-up phenomenon"	1.0	0.0	0.0	1.0	0.0
 "Percussion myotonia"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nocturnal enuresis, 2"	"retinitis pigmentosa 67"	"hypogonadotropic hypogonadism 22 with or without anosmia"	"congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay"
 "HP:0000007"	0.0	0.0	1.0	0.0
 "Hypodontia"	0.0	0.0	1.0	0.0
 "Hyperkeratosis"	0.0	0.0	1.0	0.0

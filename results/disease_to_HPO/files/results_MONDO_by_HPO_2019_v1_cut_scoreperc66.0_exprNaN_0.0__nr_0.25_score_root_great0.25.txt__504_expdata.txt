@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant prognathism"	"familial reactive perforating collagenosis"	"progressive retinal dystrophy due to retinol transport defect"	"cone-rod dystrophy 20"
 "Microcephaly"	1.0	1.0	0.0	0.0
 "Intellectual disability"	1.0	1.0	0.0	0.0
 "Micrognathia"	1.0	1.0	0.0	0.0

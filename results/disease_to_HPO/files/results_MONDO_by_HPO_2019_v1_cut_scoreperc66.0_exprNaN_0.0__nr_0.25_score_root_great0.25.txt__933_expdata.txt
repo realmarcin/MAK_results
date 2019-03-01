@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spastic paraplegia-precocious puberty syndrome"	"familial apolipoprotein C-II deficiency"	"Griscelli syndrome type 1"	"trichoepithelioma, multiple familial, 1"	"sinoatrial node dysfunction and deafness"	"autosomal recessive nonsyndromic deafness 70"
 "Basal lamina 'onion bulb' formation"	1.0	0.0	1.0	1.0	1.0	0.0
 "Prolonged brainstem auditory evoked potentials"	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormal pupillary light reflex"	0.0	0.0	0.0	1.0	0.0	0.0

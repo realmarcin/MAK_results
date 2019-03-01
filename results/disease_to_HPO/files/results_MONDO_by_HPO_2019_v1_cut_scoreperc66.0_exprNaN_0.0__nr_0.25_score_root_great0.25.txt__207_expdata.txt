@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dilated cardiomyopathy 1DD"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"advanced sleep phase syndrome 3"	"Skraban-Deardorff syndrome"
 "HP:0000007"	1.0	1.0	1.0	0.0
 "Generalized hypotonia"	0.0	1.0	1.0	0.0
 "Nystagmus"	0.0	1.0	1.0	0.0

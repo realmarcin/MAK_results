@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Leber congenital amaurosis 2"	"amaurosis-hypertrichosis syndrome"	"Dandy-Walker malformation-postaxial polydactyly syndrome"	"Glanzmann's thrombasthenia"	"amyotrophic lateral sclerosis type 12"
 "Fundus atrophy"	1.0	1.0	1.0	0.0	1.0
 "Eye poking"	1.0	1.0	0.0	0.0	0.0
 "Hyperthreoninuria"	1.0	0.0	0.0	1.0	0.0

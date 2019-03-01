@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"adenosine deaminase, elevated, hemolytic anemia due to"	"familial hemophagocytic lymphohistiocytosis type 1"	"hereditary spastic paraplegia 8"
 "Severe B lymphocytopenia"	1.0	0.0	1.0
 "Absent specific antibody response"	1.0	0.0	0.0
 "Reduced red cell adenosine deaminase activity"	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal recessive palmoplantar keratoderma and congenital alopecia"	"pyruvate dehydrogenase E3-binding protein deficiency"	"mucopolysaccharidoses, unclassified types"	"spinocerebellar ataxia type 42"
 "Genu recurvatum"	0.0	0.0	1.0	0.0
 "Microdontia"	0.0	0.0	1.0	0.0
 "Photophobia"	0.0	0.0	1.0	0.0

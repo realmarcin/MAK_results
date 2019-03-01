@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"spinal muscular atrophy, facioscapulohumeral type"	"hereditary spastic paraplegia 6"	"platelet-type bleeding disorder 12"	"Li-Fraumeni syndrome 2"
 "Spasticity"	0.0	0.0	1.0	0.0	1.0
 "Pes cavus"	1.0	1.0	1.0	1.0	1.0
 "Babinski sign"	0.0	1.0	1.0	1.0	1.0

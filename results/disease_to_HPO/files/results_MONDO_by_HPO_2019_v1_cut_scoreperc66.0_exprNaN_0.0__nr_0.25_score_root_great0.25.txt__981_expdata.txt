@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"salivary duct calculi"	"distal arthrogryposis type 10"	"neuroectodermal melanolysosomal disease"	"spinocerebellar ataxia type 11"	"pancreatic agenesis 2"
 "Blurred vision"	1.0	0.0	0.0	0.0	0.0
 "Fever"	1.0	1.0	1.0	1.0	1.0
 "Increased antibody level in blood"	1.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fibrinolytic defect"	"thyroid cancer, nonmedullary, 3"	"intellectual disability, autosomal dominant 51"	"intellectual disability, autosomal dominant 52"
 "Long philtrum"	1.0	1.0	0.0	0.0
 "Strabismus"	1.0	1.0	0.0	0.0
 "Ventricular septal defect"	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypercarotenemia and vitamin a deficiency, autosomal recessive"	"age related macular degeneration 1"	"infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"	"POROK7"
 "Ptosis"	1.0	1.0	0.0	0.0
 "Ophthalmoplegia"	1.0	0.0	0.0	0.0
 "Myopathy"	1.0	0.0	0.0	0.0

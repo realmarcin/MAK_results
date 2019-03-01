@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"AREDYLD syndrome"	"Say-Barber-Miller syndrome"	"MMVP3"
 "HP:0000007"	1.0	1.0	1.0
 "Microcephaly"	1.0	1.0	1.0
 "Microphthalmia"	1.0	1.0	0.0

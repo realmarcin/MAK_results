@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"van der Woude syndrome 1"	"tibial torsion, bilateral medial"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"hypogonadotropic hypogonadism 23 with or without anosmia"	"tibia, absence of, with congenital deafness"	"Kerion celsi"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"
 "Large fontanelles"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
 "High forehead"	0.0	0.0	1.0	0.0	0.0	0.0	1.0
 "Osteopenia"	0.0	0.0	1.0	0.0	0.0	0.0	1.0

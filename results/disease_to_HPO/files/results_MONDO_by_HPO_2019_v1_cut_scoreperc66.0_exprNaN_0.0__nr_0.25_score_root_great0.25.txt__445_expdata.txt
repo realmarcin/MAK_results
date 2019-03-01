@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Weyers ulnar ray/oligodactyly syndrome"	"ECTD6"	"ectodermal dysplasia 7, hair/nail type"
 "HP:0000007"	1.0	1.0	1.0
 "HP:0001596"	0.0	0.0	1.0
 "Sparse scalp hair"	1.0	1.0	0.0

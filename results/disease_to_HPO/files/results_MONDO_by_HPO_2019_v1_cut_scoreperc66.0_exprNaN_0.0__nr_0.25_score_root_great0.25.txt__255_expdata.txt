@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"adrenocortical hypofunction, chronic primary congenital"	"distal osteosclerosis"	"sporadic porphyria cutanea tarda"	"postaxial tetramelic oligodactyly"	"trigger thumb"	"Cushing disease due to pituitary adenoma"
 "Paresthesia"	1.0	1.0	1.0	0.0	1.0	0.0
 "Depressivity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Anxiety"	1.0	0.0	1.0	1.0	0.0	1.0

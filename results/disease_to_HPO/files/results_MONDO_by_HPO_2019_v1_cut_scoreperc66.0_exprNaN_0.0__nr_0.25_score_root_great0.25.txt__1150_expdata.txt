@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"ankyloglossia"	"blepharophimosis, ptosis, and epicanthus inversus syndrome"	"OFC1"	"larynx atresia"	"Carney complex, type 1"	"oculocutaneous albinism type 1A"	"lysosomal acid lipase deficiency"	"syndromic X-linked intellectual disability Siderius type"	"infantile-onset X-linked spinal muscular atrophy"	"combined immunodeficiency due to MALT1 deficiency"
 "Palmoplantar keratoderma"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormality of dental enamel"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Selective tooth agenesis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

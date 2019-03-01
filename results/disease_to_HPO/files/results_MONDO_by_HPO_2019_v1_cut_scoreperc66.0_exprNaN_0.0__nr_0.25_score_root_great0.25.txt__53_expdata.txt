@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant nocturnal frontal lobe epilepsy 2"	"paroxysmal nonkinesigenic dyskinesia 2"	"OTSC4"	"Joubert syndrome 9"	"microcephaly-cerebellar hypoplasia-cardiac conduction defect syndrome"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Microphthalmia"	1.0	1.0	1.0	0.0	1.0

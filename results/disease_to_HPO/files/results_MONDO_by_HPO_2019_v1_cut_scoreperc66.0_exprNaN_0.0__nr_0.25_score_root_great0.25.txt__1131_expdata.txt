@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dextrocardia with unusual facies and microphthalmia"	"ornithine translocase deficiency"	"orofacial cleft 10"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "Microphthalmia"	1.0	0.0	1.0	0.0
 "Remnants of the hyaloid vascular system"	1.0	0.0	0.0	0.0
 "Persistent pupillary membrane"	1.0	0.0	0.0	0.0

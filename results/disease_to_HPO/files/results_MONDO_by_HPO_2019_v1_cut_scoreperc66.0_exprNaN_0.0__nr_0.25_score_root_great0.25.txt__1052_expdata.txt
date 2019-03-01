@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypersensitivity pneumonitis, familial"	"Protrusio acetabuli (disease)"	"holoprosencephaly-radial heart renal anomalies syndrome"	"hydroxyacyl glutathione hydrolase deficiency"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "HP:0000006"	1.0	1.0	1.0	0.0
 "Hemolytic anemia"	0.0	1.0	0.0	0.0

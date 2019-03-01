@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease type 1E"	"cheilitis glandularis"	"neurogenic scapuloperoneal syndrome, Kaeser type"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"
 "Neonatal inspiratory stridor"	1.0	0.0	0.0	0.0
 "Congenital foot contraction deformities"	1.0	0.0	0.0	0.0
 "Peroneal muscle atrophy"	1.0	1.0	1.0	1.0

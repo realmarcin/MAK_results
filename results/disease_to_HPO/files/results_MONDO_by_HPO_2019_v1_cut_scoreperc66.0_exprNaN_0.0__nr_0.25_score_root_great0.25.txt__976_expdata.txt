@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital lobar emphysema"	"nephronophthisis 4"	"immunodeficiency, common variable, 3"	"encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome"	"basal ganglia calcification, idiopathic, 5"	"microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome"
 "HP:0000007"	0.0	0.0	1.0	1.0	1.0	0.0
 "Fever"	0.0	0.0	0.0	1.0	0.0	0.0
 "Sensory neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0

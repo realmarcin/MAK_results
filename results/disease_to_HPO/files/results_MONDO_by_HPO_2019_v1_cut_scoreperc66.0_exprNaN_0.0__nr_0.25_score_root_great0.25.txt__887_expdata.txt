@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Singleton-Merten syndrome 1"	"monosodium glutamate sensitivity"	"Norum disease"	"retinitis pigmentosa inversa with deafness"	"late-adult onset retinitis pigmentosa"
 "HP:0003812"	1.0	0.0	1.0	0.0	0.0
 "Absent septum pellucidum"	1.0	0.0	0.0	0.0	0.0
 "Esophageal atresia"	1.0	0.0	0.0	0.0	0.0

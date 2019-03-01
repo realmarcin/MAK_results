@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"chondrosarcoma (disease)"	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"retinitis pigmentosa"	"lung agenesis-heart defect-thumb anomalies syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Proteinuria"	1.0	0.0	0.0	0.0
 "Nephrotic syndrome"	1.0	0.0	0.0	0.0

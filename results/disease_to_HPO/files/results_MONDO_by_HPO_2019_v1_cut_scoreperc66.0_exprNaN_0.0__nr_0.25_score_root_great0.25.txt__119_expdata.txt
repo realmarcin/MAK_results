@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"granulomatous disease, chronic, autosomal dominant type"	"childhood hypophosphatasia"	"hypophosphatemia, renal, with intracerebral calcifications"
 "Skin dimple over apex of long bone angulation"	1.0	1.0	1.0
 "Phosphoethanolaminuria"	0.0	1.0	1.0
 "Elevated urine pyrophosphate"	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"3-hydroxy-3-methylglutaryl-CoA synthase deficiency"	"autosomal dominant nonsyndromic deafness 22"	"craniosynostosis 5, susceptibility to"	"reticulate acropigmentation of Kitamura"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Intellectual disability"	0.0	0.0	1.0	0.0
 "Cognitive impairment"	0.0	0.0	1.0	0.0

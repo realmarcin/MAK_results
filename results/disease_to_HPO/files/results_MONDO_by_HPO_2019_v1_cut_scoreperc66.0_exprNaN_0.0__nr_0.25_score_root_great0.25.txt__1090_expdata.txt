@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis type 1"	"anal sphincter myopathy, internal"	"pronation-supination of the forearm, impairment of"	"McKusick-Kaufman syndrome"	"retinitis pigmentosa 13"	"diffuse panbronchiolitis"	"intellectual disability with optic atrophy, facial dysmorphism, microcephaly, and short stature"	"Brugada syndrome 3"
 "Microcephaly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Arachnodactyly"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Short stature"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

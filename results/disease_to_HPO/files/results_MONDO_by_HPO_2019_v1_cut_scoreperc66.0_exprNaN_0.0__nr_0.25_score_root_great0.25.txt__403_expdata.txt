@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autoimmune disease"	"OTSC1"	"hemochromatosis type 1"	"X-linked mendelian susceptibility to mycobacterial diseases due to CYBB deficiency"	"NTHL1-related attenuated familial adenomatous polyposis"	"arthrogryposis multiplex congenita, neurogenic, with myelin defect"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of cardiovascular system morphology"	1.0	0.0	1.0	0.0	0.0	0.0
 "Scoliosis"	0.0	0.0	1.0	0.0	0.0	1.0

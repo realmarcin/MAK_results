@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"blepharocheilodontic syndrome 1"	"mannose 6-phosphate receptor recognition defect, Lebanese type"	"cleidocranial dysplasia, recessive form"	"dilated cardiomyopathy 1I"	"bilateral frontoparietal polymicrogyria"	"thyroid dyshormonogenesis 6"	"immunodeficiency due to ficolin3 deficiency"	"chromosome 17q12 deletion syndrome"	"epileptic encephalopathy, early infantile, 13"
 "Cleft soft palate"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of parotid gland"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Hypoplasia of the pharynx"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

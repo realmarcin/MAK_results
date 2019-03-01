@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mesoaxial hexadactyly and cardiac malformation"	"hyperinsulinemic hypoglycemia, familial, 2"	"neonatal diabetes mellitus with congenital hypothyroidism"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Optic atrophy"	1.0	0.0	1.0

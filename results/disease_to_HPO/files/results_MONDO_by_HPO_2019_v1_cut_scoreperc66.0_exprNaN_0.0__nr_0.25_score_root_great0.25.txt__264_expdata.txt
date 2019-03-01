@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"orofaciodigital syndrome V"	"polysyndactyly"	"triphalangeal thumb, Nonopposable"	"Say-field-Coldwell syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Triphalangeal thumb"	1.0	1.0	1.0	1.0
 "Polydactyly"	0.0	0.0	0.0	1.0

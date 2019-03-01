@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anonychia with flexural pigmentation"	"IgAD1"	"Pelger-Huet anomaly"	"thoracolaryngopelvic dysplasia"	"horizontal gaze palsy with progressive scoliosis"
 "Pectus excavatum"	0.0	0.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Recurrent respiratory infections"	1.0	1.0	0.0	1.0	0.0

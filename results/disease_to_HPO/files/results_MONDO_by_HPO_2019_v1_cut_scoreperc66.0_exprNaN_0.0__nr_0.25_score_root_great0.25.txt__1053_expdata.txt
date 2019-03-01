@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperproglucagonemia"	"hyperkalemic periodic paralysis"	"reticular dystrophy of retinal pigment epithelium"	"renal tubular acidosis, distal, with progressive nerve deafness"	"autosomal recessive limb-girdle muscular dystrophy type 2E"	"pancreatic cancer, susceptibility to, 2"
 "Hyperchloremic acidosis"	1.0	0.0	1.0	0.0	1.0	0.0
 "Periodic hyperkalemic paralysis"	1.0	0.0	0.0	0.0	0.0	0.0
 "Episodic flaccid weakness"	0.0	1.0	0.0	0.0	0.0	1.0

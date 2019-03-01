@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"laurin-Sandrow syndrome"	"optic atrophy, hearing loss, and peripheral neuropathy, autosomal dominant"	"Caroli disease"	"trimethylaminuria (disease)"
 "Ptosis"	0.0	1.0	1.0	0.0
 "HP:0000006"	1.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	1.0	1.0	0.0

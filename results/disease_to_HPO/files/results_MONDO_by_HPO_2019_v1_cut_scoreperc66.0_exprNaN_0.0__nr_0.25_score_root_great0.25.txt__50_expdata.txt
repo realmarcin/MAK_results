@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic aneurysm, familial abdominal, 1"	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"hereditary spastic paraplegia 51"
 "Hypernatriuria"	0.0	1.0	1.0	1.0	1.0	1.0
 "Vomiting"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hyperkalemia"	0.0	1.0	1.0	1.0	1.0	1.0

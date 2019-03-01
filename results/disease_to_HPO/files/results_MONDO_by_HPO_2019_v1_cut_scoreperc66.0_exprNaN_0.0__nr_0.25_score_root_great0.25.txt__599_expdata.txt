@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"comedones, familial Dyskeratotic"	"hemophilia A"	"factors VIII, IX and XI, combined deficiency of"	"FRTS1"	"DYX2"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Intestinal bleeding"	1.0	1.0	0.0	0.0	1.0
 "Colonic varices"	1.0	0.0	0.0	0.0	0.0

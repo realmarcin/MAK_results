@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Liddle syndrome 1"	"spondylometaphyseal dysplasia, Kozlowski type"	"spondylometaphyseal dysplasia, Schmidt type"	"spondylometaphyseal dysplasia, 'corner fracture' type"	"odontochondrodysplasia"	"multiple epiphyseal dysplasia, with miniepiphyses"
 "Short long bone"	1.0	0.0	0.0	1.0	0.0	0.0
 "Severe short stature"	0.0	1.0	0.0	1.0	0.0	0.0
 "Genu valgum"	1.0	1.0	1.0	1.0	1.0	1.0

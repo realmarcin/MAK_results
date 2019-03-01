@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary spastic paraplegia 16"	"moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome"	"early-onset parkinsonism-intellectual disability syndrome"	"Wilms tumor 6; WT6"	"Paget disease of bone 6; PDB6"	"spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy"	"blepharocheilodontic syndrome 2"	"epileptic encephalopathy, early infantile, 59"	"neurodegeneration with brain iron accumulation 7"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
 "HP:0012332"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Small hand"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

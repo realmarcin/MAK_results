@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pacman dysplasia"	"junctional epidermolysis bullosa, non-Herlitz type"	"junctional epidermolysis bullosa with pyloric atresia"	"epidermolysis bullosa with diaphragmatic hernia"	"Ehlers-Danlos syndrome type 2"
 "Hoarse voice"	1.0	0.0	1.0	0.0	0.0
 "Hypoplasia of dental enamel"	0.0	1.0	1.0	1.0	1.0
 "Nail dystrophy"	1.0	1.0	1.0	1.0	0.0

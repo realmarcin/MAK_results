@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypogonadotropic hypogonadism 6 with or without anosmia"	"agammaglobulinemia 3, autosomal recessive"	"agammaglobulinemia 5, autosomal dominant"	"ataxia with oculomotor apraxia type 3"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Recurrent bacterial infections"	1.0	1.0	1.0	0.0
 "HP:0003593"	1.0	1.0	1.0	1.0

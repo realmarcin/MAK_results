@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "hereditary.spastic.paraplegia.51"
+"2" "Antley.Bixler.syndrome.with.genital.anomalies.and.disordered.steroidogenesis"
+"3" "familial.adrenal.hypoplasia.with.absent.pituitary.luteinizing.hormone"

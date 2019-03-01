@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"tricho-retino-dento-digital syndrome"	"Undritz anomaly"	"intellectual disability, autosomal dominant 14"	"uncombable hair syndrome 3; UHS3"	"Seckel syndrome 10"
 "Pili canaliculi"	1.0	1.0	1.0	1.0	1.0	1.0
 "Progressive alopecia"	1.0	0.0	0.0	0.0	0.0	0.0
 "Decreased number of sweat glands"	1.0	0.0	0.0	0.0	0.0	0.0

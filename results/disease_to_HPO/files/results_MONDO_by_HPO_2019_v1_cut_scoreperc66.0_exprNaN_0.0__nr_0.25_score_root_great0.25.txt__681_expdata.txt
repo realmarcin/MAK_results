@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"X-linked distal spinal muscular atrophy type 3"	"hypospadias 1, X-linked"	"leukoencephalopathy-metaphyseal chondrodysplasia syndrome"	"intellectual disability, X-linked 1"	"Bartter disease type 4a"	"lung fibrosis-immunodeficiency-46,XX gonadal dysgenesis syndrome"
 "Pectus excavatum"	0.0	1.0	0.0	1.0	0.0	0.0
 "Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Long nose"	1.0	0.0	0.0	1.0	0.0	0.0

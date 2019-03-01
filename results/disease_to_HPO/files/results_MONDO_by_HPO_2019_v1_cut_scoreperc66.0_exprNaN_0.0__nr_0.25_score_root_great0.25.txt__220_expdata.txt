@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"arrhythmogenic right ventricular dysplasia 1"	"short-limb skeletal dysplasia with severe combined immunodeficiency"	"Hunter-McAlpine craniosynostosis"	"pseudohypoparathyroidism type 1C"	"lethal congenital contracture syndrome 4"
 "Hypoplasia of the radius"	1.0	1.0	1.0	0.0	1.0
 "Hypoplasia of the ulna"	1.0	1.0	1.0	1.0	1.0
 "Short femur"	0.0	1.0	1.0	1.0	0.0

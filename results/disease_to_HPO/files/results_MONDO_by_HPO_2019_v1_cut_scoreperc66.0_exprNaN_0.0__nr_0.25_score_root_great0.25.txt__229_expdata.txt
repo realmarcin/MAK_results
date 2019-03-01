@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"exostoses, multiple, type 1"	"Cowden syndrome 1"	"Cronkhite-Canada syndrome"	"spinocerebellar ataxia type 4"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Multiple exostoses"	1.0	1.0	1.0	1.0
 "Spastic tetraparesis"	0.0	1.0	0.0	0.0

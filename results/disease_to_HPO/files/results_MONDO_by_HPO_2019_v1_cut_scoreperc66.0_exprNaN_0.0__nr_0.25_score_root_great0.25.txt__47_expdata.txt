@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial recurrent peripheral facial palsy"	"Sjogren syndrome"	"Spondyloenchondrodysplasia with immune dysregulation"	"atrioventricular septal defect 4"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Ventricular septal defect"	0.0	1.0	1.0	1.0
 "Atrial septal defect"	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"xylosidase deficiency"	"hemochromatosis type 2A"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
 "Flared metaphysis"	0.0	1.0	0.0	0.0
 "Aniridia"	0.0	1.0	0.0	0.0
 "Micropenis"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spinocerebellar ataxia type 2"	"talonavicular coalition"	"Brown-Vialetto-van Laere syndrome 1"	"hypercarotenemia and vitamin a deficiency, autosomal recessive"	"Duane-radial ray syndrome"	"nemaline myopathy 1"	"cataract 35"	"hereditary spastic paraplegia 49"	"auriculocondylar syndrome 3"	"dystonia 27"	"primary ciliary dyskinesia 32"	"adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency"	"autosomal recessive limb-girdle muscular dystrophy type 2Y"	"neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset; NADGP"
 "Babinski sign"	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Postural instability"	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
 "Unsteady gait"	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 2"	"facial paresis, hereditary congenital, 3"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3"	"congenital stationary night blindness 1G"	"cerebrooculofacioskeletal syndrome 3"	"ring chromosome 14"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0003581"	1.0	1.0	1.0	1.0	1.0	0.0
 "HP:0003829"	1.0	1.0	1.0	1.0	1.0	1.0

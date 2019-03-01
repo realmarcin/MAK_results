@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hawkinsinuria"	"chromosome 5q deletion syndrome"	"autosomal dominant nonsyndromic deafness 48"	"type II complement component 8 deficiency"	"autoimmune lymphoproliferative syndrome type 4"	"spasticity-ataxia-gait anomalies syndrome"
 "HP:0000006"	1.0	1.0	1.0	0.0	1.0	1.0
 "Hemangioma"	0.0	1.0	0.0	0.0	0.0	1.0
 "Macrocephaly"	0.0	1.0	0.0	0.0	0.0	1.0

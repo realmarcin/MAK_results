@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"exostoses of heel"	"olivopontocerebellar atrophy 5"	"pacman dysplasia"	"trigeminal neuralgia"	"tricho-retino-dento-digital syndrome"	"Woronets trait"	"Chiari malformation type II"	"bronchiectasis with or without elevated sweat chloride 1"	"Cohen syndrome"	"congenital factor V deficiency"	"cloacal exstrophy (disease)"	"pili torti-developmental delay-neurological abnormalities syndrome"	"pilodental dysplasia-refractive errors syndrome"	"woolly hair-hypotrichosis-everted lower lip-outstanding ears syndrome"	"amelogenesis imperfecta hypomaturation type 2A5"
 "Dry hair"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Facial hypertrichosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Hyperpigmentation in sun-exposed areas"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

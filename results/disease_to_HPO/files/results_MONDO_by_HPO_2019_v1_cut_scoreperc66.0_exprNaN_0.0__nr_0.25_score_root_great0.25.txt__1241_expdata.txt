@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"lethal osteosclerotic bone dysplasia"	"xylosidase deficiency"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
 "Pathologic fracture"	1.0	0.0	0.0	0.0
 "Barrel-shaped chest"	1.0	0.0	0.0	0.0
 "Iris atrophy"	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mitochondrial complex V (ATP synthase) deficiency nuclear type 3"	"Charcot-Marie-Tooth disease type 4B3"	"Charcot-Marie-Tooth disease recessive intermediate d"	"periodic fever-infantile enterocolitis-autoinflammatory syndrome"	"autosomal dominant nonsyndromic deafness 67"	"heart and brain malformation syndrome; HBMS"	"infantile-onset periodic fever-panniculitis-dermatosis syndrome"	"intellectual disability, autosomal dominant 50"	"leukodystrophy, hypomyelinating, 17"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0
 "Intrauterine growth retardation"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Congestive heart failure"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

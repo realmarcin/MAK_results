@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypertrophic osteoarthropathy, primary, autosomal recessive, 1"	"X-linked Opitz G/BBB syndrome"	"X-linked complicated corpus callosum dysgenesis"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"linear skin defects with multiple congenital anomalies 1"	"congenital stationary night blindness autosomal dominant 3"
 "Hydroureter"	0.0	0.0	0.0	1.0	1.0	0.0
 "Intellectual disability"	1.0	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	0.0	1.0	1.0	1.0

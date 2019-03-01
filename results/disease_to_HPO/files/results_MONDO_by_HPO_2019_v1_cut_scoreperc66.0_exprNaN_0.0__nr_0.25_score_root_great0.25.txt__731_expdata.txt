@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"oculopharyngeal muscular dystrophy"	"tracheobronchopathia osteochondroplastica"	"velocardiofacial syndrome"	"juvenile spinal muscular atrophy"	"atrial heart septal defect 3"	"chromosome 17q12 deletion syndrome"
 "Lumbar hyperlordosis"	0.0	0.0	0.0	1.0	0.0	0.0
 "Esophageal atresia"	1.0	1.0	1.0	0.0	1.0	1.0
 "Hyperlordosis"	0.0	0.0	0.0	1.0	0.0	0.0

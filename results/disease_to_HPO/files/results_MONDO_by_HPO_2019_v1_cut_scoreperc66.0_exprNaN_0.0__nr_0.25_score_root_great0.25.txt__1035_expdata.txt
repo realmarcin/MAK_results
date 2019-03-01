@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial angiolipomatosis"	"AREDYLD syndrome"	"short stature-obesity syndrome"	"Fabry disease"	"X-linked thrombocytopenia with normal platelets"	"autosomal dominant nocturnal frontal lobe epilepsy 2"	"paroxysmal nonkinesigenic dyskinesia 2"	"spondyloepiphyseal dysplasia, Nishimura type"
 "Patent ductus arteriosus"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Neonatal death"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Omphalocele"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

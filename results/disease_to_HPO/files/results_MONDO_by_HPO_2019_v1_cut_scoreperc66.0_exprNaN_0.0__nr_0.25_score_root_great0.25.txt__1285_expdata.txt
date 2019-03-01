@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"lymphedema-distichiasis syndrome"	"mitochondrial DNA depletion syndrome 4a"	"pilodental dysplasia-refractive errors syndrome"	"rippling muscle disease 1"
 "Pulmonary arterial hypertension"	1.0	0.0	0.0	0.0
 "Sinusitis"	1.0	0.0	0.0	0.0
 "Nephropathy"	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"achalasia (disease)"	"gamma-glutamyl transpeptidase deficiency"	"glutathione synthetase deficiency with 5-oxoprolinuria"	"spinal muscular atrophy with mental retardation"	"autosomal dominant nonsyndromic deafness 59"	"bilateral parasagittal parieto-occipital polymicrogyria"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hemolytic anemia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Spherocytosis"	0.0	0.0	0.0	1.0	0.0	1.0

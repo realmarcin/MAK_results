@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital stationary night blindness autosomal dominant 2"	"arthrogryposis due to muscular dystrophy"	"Bruck syndrome 1"	"X-linked scapuloperoneal muscular dystrophy"	"LEOPARD syndrome 3"	"spondyloepiphyseal dysplasia, Stanescu type"
 "Pectus excavatum"	0.0	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	0.0	1.0	1.0	1.0
 "Generalized hypotonia"	0.0	1.0	0.0	0.0	1.0	1.0

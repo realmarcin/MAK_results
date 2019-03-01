@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"emphysema, hereditary pulmonary"	"convulsive disorder, familial, with prenatal or early onset"	"NPHP3-related Meckel-like syndrome"	"pontocerebellar hypoplasia type 3"
 "Nephroblastomatosis"	0.0	0.0	1.0	1.0
 "Nephrogenic rest"	0.0	0.0	1.0	1.0
 "Distal ileal atresia"	0.0	0.0	1.0	0.0

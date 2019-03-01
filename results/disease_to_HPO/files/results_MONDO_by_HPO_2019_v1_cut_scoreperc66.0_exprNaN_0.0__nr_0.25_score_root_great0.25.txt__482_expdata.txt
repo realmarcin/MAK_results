@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"syndactyly type 5"	"acrocallosal syndrome"	"right atrial isomerism (disease)"	"Hirschsprung disease with ulnar polydactyly, polysyndactyly of big toes, and ventricular septal defect"	"ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome"	"Jumping Frenchmen of Maine"	"orofaciodigital syndrome IX"	"Bartter disease type 4a"	"chromosome 1q21.1 duplication syndrome"
 "Hand polydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Foot polydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Hypothalamic hamartoma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

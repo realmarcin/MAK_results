@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"autosomal recessive early-onset Parkinson disease 6"	"primary ciliary dyskinesia 26"
 "Aggressive behavior"	0.0	1.0	1.0	1.0
 "Death in infancy"	0.0	0.0	1.0	0.0
 "Poor suck"	0.0	0.0	1.0	0.0

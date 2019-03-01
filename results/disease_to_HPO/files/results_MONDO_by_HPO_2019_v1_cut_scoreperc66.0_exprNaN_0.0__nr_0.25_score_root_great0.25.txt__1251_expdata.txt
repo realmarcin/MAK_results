@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"combined immunodeficiency due to DOCK8 deficiency"	"xylosidase deficiency"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
 "Hydronephrosis"	1.0	0.0	0.0	0.0
 "Microphthalmia"	1.0	0.0	0.0	0.0
 "Intestinal malrotation"	1.0	0.0	0.0	0.0

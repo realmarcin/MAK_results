@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hematuria, benign familial"	"hyperproglucagonemia"	"malignant hyperthermia, susceptibility to, 3"	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"embryonal rhabdomyosarcoma (disease)"	"autosomal dominant striatal neurodegeneration type 1"	"hereditary spastic paraplegia 51"	"pseudohypoaldosteronism type 2C"	"Wiskott-Aldrich syndrome 2"	"pseudohypoaldosteronism type 2E"	"microphthalmia, isolated, with coloboma 7"
 "Hypernatriuria"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Adrenogenital syndrome"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Neonatal hypoglycemia"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

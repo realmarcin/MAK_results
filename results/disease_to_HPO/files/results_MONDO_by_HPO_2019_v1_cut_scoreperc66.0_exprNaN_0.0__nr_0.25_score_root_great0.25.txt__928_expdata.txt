@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"van der Woude syndrome 1"	"syndromic orbital border hypoplasia"	"thalassemia, beta+, silent allele"	"hypogonadotropic hypogonadism 23 with or without anosmia"	"lipase deficiency, combined"
 "Aplasia/Hypoplasia of the ulna"	1.0	0.0	0.0	1.0	0.0
 "Hand monodactyly"	1.0	0.0	1.0	1.0	0.0
 "HP:0009556"	1.0	0.0	0.0	1.0	0.0

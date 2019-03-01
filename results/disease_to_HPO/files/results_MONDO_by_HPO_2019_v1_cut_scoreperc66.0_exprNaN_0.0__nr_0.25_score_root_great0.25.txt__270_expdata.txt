@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Seckel syndrome 1"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"factor V and factor VIII, combined deficiency of, type 1"	"panhypopituitarism, X-linked"	"intellectual disability, autosomal recessive 42"
 "Wide nasal bridge"	0.0	1.0	1.0	1.0	0.0
 "Single transverse palmar crease"	1.0	0.0	0.0	1.0	0.0
 "Talipes equinovarus"	1.0	0.0	0.0	1.0	1.0

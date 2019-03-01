@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease type 1E"	"cheilitis glandularis"	"autosomal dominant myoglobinuria"	"spinal muscular atrophy, Ryukyuan type"	"split hand-foot malformation 2"	"congenital amegakaryocytic thrombocytopenia"
 "Peripheral neuropathy"	0.0	0.0	0.0	0.0	1.0	1.0
 "HP:0003581"	0.0	0.0	0.0	1.0	1.0	1.0
 "Gliosis"	0.0	1.0	0.0	0.0	0.0	1.0

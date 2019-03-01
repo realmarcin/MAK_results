@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"absent tibia-polydactyly-arachnoid cyst syndrome"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Cleft palate"	0.0	1.0	0.0	0.0
 "Cleft upper lip"	0.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	0.0	0.0

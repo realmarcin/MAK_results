@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pseudohypoparathyroidism type 2"	"alpha-mannosidosis"	"congenital bilateral aplasia of vas deferens from CFTR mutation"	"alpha-N-acetylgalactosaminidase deficiency type 1"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "HP:0001425"	1.0	0.0	0.0	1.0
 "Abnormality of the hair"	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Liddle syndrome 1"	"spondyloepiphyseal dysplasia, MacDermot type"	"spondylometaphyseal dysplasia, Kozlowski type"	"spondylometaphyseal dysplasia, Schmidt type"	"Riley-Day syndrome"	"epileptic encephalopathy, early infantile, 63"
 "Flared metaphysis"	0.0	0.0	0.0	1.0	0.0	0.0
 "High forehead"	0.0	0.0	0.0	1.0	0.0	0.0
 "Platyspondyly"	1.0	1.0	1.0	1.0	1.0	1.0

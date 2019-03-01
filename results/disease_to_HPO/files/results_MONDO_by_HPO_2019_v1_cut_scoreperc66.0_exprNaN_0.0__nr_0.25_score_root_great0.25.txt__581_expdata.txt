@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pacman dysplasia"	"bronchiectasis with or without elevated sweat chloride 1"	"epidermolysis bullosa simplex with muscular dystrophy"	"xeroderma pigmentosum group B"	"hypertrophic cardiomyopathy 7"	"pachyonychia congenita 4"
 "Nail dysplasia"	1.0	1.0	1.0	0.0	1.0	0.0
 "Nail dystrophy"	1.0	1.0	1.0	1.0	1.0	1.0
 "Palmoplantar hyperhidrosis"	1.0	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"craniofacial-deafness-hand syndrome"	"Pechet factor deficiency"	"GM1 gangliosidosis type 2"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis type 4A"	"mucus inspissation of respiratory tract"	"muscular dystrophy, cardiac type"	"dilated cardiomyopathy 1C"
 "Thickened ribs"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
 "Ovoid thoracolumbar vertebrae"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
 "Asymmetric septal hypertrophy"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0

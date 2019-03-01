@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypogonadism with low-grade mental deficiency and microcephaly"	"hypogonadism, male"	"whistling face syndrome, recessive form"	"nephronophthisis 11"	"fetal akinesia-cerebral and retinal hemorrhage syndrome"	"lissencephaly 8; LIS8"
 "Breast hypoplasia"	0.0	1.0	0.0	0.0	1.0	0.0
 "Increased circulating gonadotropin level"	1.0	1.0	0.0	0.0	1.0	0.0
 "Decreased fertility"	1.0	0.0	1.0	0.0	0.0	0.0

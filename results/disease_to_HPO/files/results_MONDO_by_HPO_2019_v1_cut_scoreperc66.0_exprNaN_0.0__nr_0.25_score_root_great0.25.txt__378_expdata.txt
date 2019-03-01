@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cervical hypertrichosis with underlying kyphoscoliosis"	"familial multinodular goiter"	"congenital high-molecular-weight kininogen deficiency"	"geroderma osteodysplastica"	"Gillessen-Kaesbach-Nishimura syndrome"
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0
 "Ventricular septal defect"	1.0	0.0	1.0	1.0	0.0
 "Micrognathia"	1.0	0.0	1.0	1.0	0.0

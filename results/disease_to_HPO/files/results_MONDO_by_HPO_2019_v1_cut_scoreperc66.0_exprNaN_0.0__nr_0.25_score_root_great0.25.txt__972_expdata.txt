@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"classic Hodgkin lymphoma"	"autosomal dominant nonsyndromic deafness 13"	"cervical cancer"	"arterial calcification, generalized, of infancy, 2"
 "Increased antibody level in blood"	1.0	0.0	0.0	1.0
 "Pulmonary infiltrates"	1.0	0.0	0.0	0.0
 "Leukemia"	0.0	0.0	0.0	1.0

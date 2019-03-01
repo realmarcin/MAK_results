@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hemangiomatosis, cutaneous, with associated features"	"biotinidase deficiency"	"arthrogryposis due to muscular dystrophy"	"syndromic X-linked intellectual disability Lubs type"	"hypertrophic cardiomyopathy 18"	"sudden cardiac failure, alcohol-induced; SCFAI"	"spastic paraplegia 78, autosomal recessive; SPG78"
 "Myocardial fibrosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Pericardial constriction"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "HP:0007348"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

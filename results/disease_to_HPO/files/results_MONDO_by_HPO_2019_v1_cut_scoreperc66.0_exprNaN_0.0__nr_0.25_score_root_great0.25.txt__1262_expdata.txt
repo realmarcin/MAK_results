@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"glucose-galactose malabsorption"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Polycythemia"	0.0	0.0	1.0	0.0
 "Pallor"	0.0	0.0	1.0	0.0
 "Relative macrocephaly"	0.0	0.0	1.0	0.0

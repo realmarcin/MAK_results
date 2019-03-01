@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"electroencephalographic peculiarity: 14 and 6 per sec. positive spike phenomenon"	"nevus flammeus of nape of neck"	"polycystic ovary syndrome"	"teeth, supernumerary"	"toes, relative length of first and second"	"pseudotumor cerebri"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the nail"	0.0	0.0	1.0	0.0	1.0	0.0
 "Nevus"	1.0	1.0	0.0	0.0	0.0	0.0

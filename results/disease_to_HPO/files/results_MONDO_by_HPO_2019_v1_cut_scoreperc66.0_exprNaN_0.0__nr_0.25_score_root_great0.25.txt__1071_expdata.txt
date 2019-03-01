@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myofibromatosis, infantile, 1"	"multiple epiphyseal dysplasia, Lowry type"	"nephropathy, progressive tubulointerstitial, with cholestatic liver disease"	"Fanconi anemia complementation group i"	"hereditary spastic paraplegia 28"
 "Broad ischia"	1.0	1.0	0.0	1.0	0.0
 "Sclerotic humeral metaphysis"	0.0	0.0	0.0	1.0	0.0
 "Osteoporotic metatarsal"	0.0	0.0	0.0	1.0	0.0

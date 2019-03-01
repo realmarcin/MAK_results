@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"androgen insensitivity syndrome"	"atrial fibrillation, familial, 6"	"hereditary spastic paraplegia 43"	"spermatogenic failure 18"	"spermatogenic failure 27"	"developmental delay, intellectual disability, obesity, and dysmorphic features"
 "HP:0001417"	1.0	0.0	0.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	0.0	0.0	1.0	0.0

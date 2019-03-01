@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
 "Syndactyly"	0.0	0.0	1.0
 "Intellectual disability"	0.0	0.0	1.0
 "Global developmental delay"	1.0	1.0	1.0

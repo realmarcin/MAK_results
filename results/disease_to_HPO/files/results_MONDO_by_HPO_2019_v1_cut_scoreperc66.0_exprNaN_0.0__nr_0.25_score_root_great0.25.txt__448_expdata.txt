@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"peroneal nerve, accessory deep"	"acetylation, slow"	"Imerslund-Grasbeck syndrome"	"peroneus tertius muscle, absence of"
 "Malabsorption of Vitamin B12"	1.0	0.0	1.0	1.0
 "Absence of intrinsic factor"	0.0	1.0	1.0	0.0
 "Megaloblastic erythroid hyperplasia"	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"primary ciliary dyskinesia 13"	"Usher syndrome type 3B"	"congenital myasthenic syndrome 13"
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0
 "Bicuspid aortic valve"	0.0	0.0	0.0	1.0	0.0

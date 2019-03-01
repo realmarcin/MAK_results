@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"retinitis pigmentosa"	"lymphoproliferative syndrome, X-linked, 1"	"lung agenesis-heart defect-thumb anomalies syndrome"
 "IgA deficiency"	1.0	0.0	1.0	0.0
 "Hemolytic anemia"	0.0	0.0	1.0	0.0
 "Immunodeficiency"	0.0	0.0	1.0	0.0

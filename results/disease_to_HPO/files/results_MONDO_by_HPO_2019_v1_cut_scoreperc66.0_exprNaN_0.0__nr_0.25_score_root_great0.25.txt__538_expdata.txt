@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"B-cell chronic lymphocytic leukemia"	"leukocyte nuclear appendages, hereditary prevalence of"	"Stimmler syndrome"
 "HP:0001444"	1.0	1.0	0.0
 "Acute monocytic leukemia"	1.0	0.0	1.0
 "Congenital agranulocytosis"	0.0	0.0	1.0

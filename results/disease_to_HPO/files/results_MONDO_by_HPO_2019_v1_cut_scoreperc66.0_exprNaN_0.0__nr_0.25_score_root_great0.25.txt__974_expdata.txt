@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cleidocranial dysplasia, recessive form"	"syndactyly type 8"	"Chitotriosidase deficiency"	"retinitis pigmentosa 61"	"STAT3-related early-onset multisystem autoimmune disease"	"congenital myasthenic syndrome 17"	"Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome"
 "Abducens palsy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Postaxial polydactyly"	0.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Molar tooth sign on MRI"	0.0	0.0	1.0	1.0	1.0	1.0	1.0

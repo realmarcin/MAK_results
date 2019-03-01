@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"multiple synostoses syndrome 2"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"	"optic atrophy 11; OPA11"	"severe combined immunodeficiency due to LAT deficiency"	"intellectual developmental disorder with neuropsychiatric features"
 "Seizures"	1.0	1.0	0.0	0.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0
 "Ventriculomegaly"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nevus, epidermal"	"storm syndrome"	"Morquio syndrome C"	"Fanconi anemia complementation group L"	"myopia, high, with cataract and vitreoretinal degeneration"	"hypertrophic cardiomyopathy 21"
 "Myelodysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of reticulocytes"	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormality of cells of the granulocytic lineage"	0.0	0.0	0.0	0.0	0.0	0.0

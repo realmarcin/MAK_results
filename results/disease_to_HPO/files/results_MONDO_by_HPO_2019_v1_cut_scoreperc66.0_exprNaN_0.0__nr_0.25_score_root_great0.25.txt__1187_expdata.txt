@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypogonadotropic hypogonadism 8 with or without anosmia"	"complex cortical dysplasia with other brain malformations 2"	"L-ferritin deficiency"	"hereditary spastic paraplegia 61"	"long QT syndrome 14"	"nephronophthisis 20"
 "Spasticity"	1.0	1.0	1.0	1.0	1.0	0.0
 "Myopathy"	0.0	0.0	0.0	0.0	1.0	0.0
 "Facial palsy"	0.0	0.0	0.0	0.0	1.0	0.0

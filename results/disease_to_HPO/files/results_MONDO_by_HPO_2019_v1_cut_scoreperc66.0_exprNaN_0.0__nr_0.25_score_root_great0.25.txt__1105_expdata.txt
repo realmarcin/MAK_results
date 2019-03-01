@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Monophalangy of great toe"	"Rombo syndrome"	"Zlotogora-Ogur syndrome"	"junctional epidermolysis bullosa Herlitz type"	"autosomal recessive congenital ichthyosis 4B"	"ectodermal dysplasia-blindness syndrome"	"tubulointerstitial nephritis and uveitis syndrome"	"spondyloepimetaphyseal dysplasia, Pakistani type"	"Nestor-Guillermo progeria syndrome"	"autosomal recessive spinocerebellar ataxia 15"
 "Nail dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Hypoplastic labia majora"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Nevus flammeus"	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

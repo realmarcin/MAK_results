@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Waardenburg syndrome type 2D"	"severe early-onset pulmonary alveolar proteinosis due to MARS deficiency"	"melanoma, cutaneous malignant, susceptibility to, 10"	"isolated neonatal sclerosing cholangitis"
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0

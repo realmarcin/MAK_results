@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ENUR1"	"KTCN5"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 7"	"neurodevelopmental disorder with cerebellar atrophy and with or without seizures"
 "HP:0000007"	1.0	1.0	1.0	0.0
 "HP:0003593"	1.0	1.0	1.0	1.0
 "Dry skin"	1.0	0.0	1.0	0.0

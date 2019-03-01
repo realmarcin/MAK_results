@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypervitaminosis a, susceptibility to"	"X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection and neoplasia"	"intellectual disability, X-linked 102"	"propionic acidemia"	"IMAGe syndrome"	"leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome"
 "Microcephaly"	0.0	0.0	1.0	0.0	1.0	0.0
 "Intellectual disability"	1.0	1.0	1.0	0.0	1.0	1.0
 "Global developmental delay"	0.0	1.0	0.0	0.0	1.0	0.0

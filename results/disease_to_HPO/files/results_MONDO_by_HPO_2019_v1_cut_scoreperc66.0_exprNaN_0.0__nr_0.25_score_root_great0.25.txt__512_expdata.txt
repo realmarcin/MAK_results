@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal recessive amelia"	"autosomal recessive early-onset Parkinson disease 6"	"microphthalmia, isolated, with coloboma 3"	"retinitis pigmentosa 29"	"epileptic encephalopathy, early infantile, 11"
 "Generalized hypotonia"	0.0	1.0	0.0	1.0	1.0
 "Hypoplasia of the corpus callosum"	0.0	1.0	0.0	1.0	1.0
 "Cerebral atrophy"	0.0	0.0	0.0	1.0	1.0

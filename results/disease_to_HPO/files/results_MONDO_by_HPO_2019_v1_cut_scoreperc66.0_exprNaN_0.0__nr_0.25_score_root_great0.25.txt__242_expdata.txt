@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"rolandic epilepsy"	"intellectual disability, X-linked 63"	"MYP1"	"nephrotic syndrome, type 3"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 2"	"peeling skin syndrome 5; PSS5"
 "Skeletal muscle atrophy"	1.0	1.0	1.0	0.0	0.0	1.0
 "Myopathy"	1.0	0.0	1.0	1.0	1.0	0.0
 "HP:0003677"	1.0	0.0	1.0	1.0	0.0	1.0

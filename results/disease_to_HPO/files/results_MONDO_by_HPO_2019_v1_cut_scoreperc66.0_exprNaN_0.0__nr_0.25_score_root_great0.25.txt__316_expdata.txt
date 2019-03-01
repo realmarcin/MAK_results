@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hemifacial hypertrophy"	"Futcher line"	"autosomal dominant optic atrophy, classic form"	"PHGDH deficiency"
 "Blindness"	1.0	1.0	1.0	1.0
 "Subcapsular cataract"	1.0	0.0	0.0	1.0
 "Retinal exudate"	1.0	0.0	0.0	1.0

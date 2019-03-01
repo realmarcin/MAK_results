@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"gray platelet syndrome"	"HYPRPP"	"keratosis, familial actinic"	"2q37 microdeletion syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Erythema"	0.0	0.0	1.0	0.0
 "Hyperhidrosis"	1.0	1.0	1.0	1.0

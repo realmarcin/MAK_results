@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"hypertrichotic osteochondrodysplasia Cantu type"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Anterior cervical hypertrichosis"	0.0	1.0	0.0	0.0
 "Sensory neuropathy"	0.0	1.0	0.0	0.0
 "Dandy-Walker malformation"	0.0	1.0	0.0	0.0

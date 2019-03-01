@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"osteogenesis imperfecta type 2"	"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures"	"southeast Asian ovalocytosis"	"mandibulofacial dysostosis with ptosis, autosomal dominant"	"OTSC7"	"deafness, unilateral, with delayed endolymphatic hydrops"	"severe combined immunodeficiency due to IKK2 deficiency"	"leukodystrophy, hypomyelinating, 14"
 "Wormian bones"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Recurrent fractures"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Dentinogenesis imperfecta"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

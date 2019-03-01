@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Sakati-Nyhan syndrome"	"neurofibromatosis, type IV, of Riccardi"	"cone-rod dystrophy 7"	"congenital myasthenic syndrome 4A"	"hypercalcemia, infantile, 2; HCINF2"
 "Epiretinal membrane"	1.0	0.0	0.0	1.0	1.0
 "Photoreceptor layer loss on macular OCT"	0.0	0.0	0.0	1.0	1.0
 "Macular hole"	0.0	0.0	0.0	1.0	0.0

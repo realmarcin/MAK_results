@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"giant axonal neuropathy 1"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
 "HP:0012332"	0.0	1.0	0.0	0.0
 "Decreased motor nerve conduction velocity"	0.0	1.0	0.0	0.0
 "Abnormality of the foot"	0.0	1.0	0.0	0.0

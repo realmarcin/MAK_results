@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"keratoderma hereditarium mutilans"	"earring holes, natural"	"melorheostosis"	"OTSC1"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Conductive hearing impairment"	1.0	0.0	0.0	1.0
 "Facial palsy"	1.0	0.0	1.0	0.0

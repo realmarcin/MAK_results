@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dyschondrosteosis-nephritis syndrome"	"uncombable hair syndrome"	"neuropathy, hereditary sensory and autonomic, type 2A"	"mesomelic dwarfism-cleft palate-camptodactyly syndrome"	"autosomal recessive nonsyndromic deafness 17"
 "Hypoplasia of the radius"	1.0	1.0	1.0	1.0	1.0
 "Hypoplasia of the ulna"	1.0	1.0	1.0	1.0	0.0
 "Radial bowing"	1.0	1.0	1.0	1.0	1.0

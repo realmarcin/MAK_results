@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypertrophic cardiomyopathy 1"	"CFM1"	"mammary-digital-nail syndrome"	"dilated cardiomyopathy 1U"	"dilated cardiomyopathy 1V"
 "HP:0001425"	1.0	1.0	1.0	1.0	1.0
 "Sudden cardiac death"	1.0	1.0	1.0	1.0	1.0
 "Syncope"	1.0	1.0	1.0	1.0	1.0

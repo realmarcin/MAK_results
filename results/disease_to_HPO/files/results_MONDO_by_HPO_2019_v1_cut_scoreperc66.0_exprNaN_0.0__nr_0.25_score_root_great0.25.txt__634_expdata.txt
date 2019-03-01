@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"	"familial episodic pain syndrome with predominantly upper body involvement"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Muscle weakness"	1.0	0.0	1.0	1.0
 "Hyperreflexia"	1.0	1.0	1.0	1.0

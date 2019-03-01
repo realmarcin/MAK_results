@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.2"
-"3" "MONDO.0008741.1"
+"1" "pontocerebellar.hypoplasia.type.4"
+"2" "autosomal.recessive.Parkinson.disease.14"
+"3" "cerebellar.ataxia..mental.retardation..and.dysequilibrium.syndrome.2"

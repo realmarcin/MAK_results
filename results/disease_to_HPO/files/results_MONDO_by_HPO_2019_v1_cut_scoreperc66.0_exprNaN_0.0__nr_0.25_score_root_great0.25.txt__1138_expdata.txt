@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Schwartz-Jampel syndrome"	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
 "Pectus carinatum"	1.0	0.0	0.0	0.0
 "Kyphoscoliosis"	1.0	0.0	0.0	0.0
 "Genu valgum"	1.0	0.0	0.0	0.0

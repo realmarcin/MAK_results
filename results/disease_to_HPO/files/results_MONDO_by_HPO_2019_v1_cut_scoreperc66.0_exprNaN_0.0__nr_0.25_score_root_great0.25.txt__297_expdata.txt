@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dystonia 12"	"familial pancreatic carcinoma"	"SCZD10"	"familial dyskinesia and facial myokymia"	"autosomal recessive nonsyndromic deafness 59"	"lymphedema, hereditary, type III"
 "Gait ataxia"	1.0	0.0	1.0	0.0	1.0	0.0
 "Parkinsonism"	1.0	1.0	1.0	1.0	0.0	1.0
 "Neurofibrillary tangles"	0.0	0.0	0.0	0.0	1.0	1.0

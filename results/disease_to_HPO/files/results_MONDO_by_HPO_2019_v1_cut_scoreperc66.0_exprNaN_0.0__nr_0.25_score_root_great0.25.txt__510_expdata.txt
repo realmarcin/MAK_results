@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital dyserythropoietic anemia type 2"	"chromosome Xp11.22 duplication syndrome"	"neural tube defects, X-linked"	"palmoplantar keratoderma, Bothnian type"	"amelogenesis imperfecta hypomaturation type 2A4"	"amyotrohpic lateral sclerosis type 22"
 "Esotropia"	0.0	0.0	0.0	0.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0
 "Gaze-evoked nystagmus"	1.0	0.0	0.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"juvenile amyotrophic lateral sclerosis with dementia"	"immunodeficiency due to CD25 deficiency"	"hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration"
 "Pseudobulbar behavioral symptoms"	1.0	1.0	1.0
 "Spasticity of facial muscles"	1.0	1.0	0.0
 "Spasticity of pharyngeal muscles"	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Crigler-Najjar syndrome type 1"	"familial atrial myxoma"	"tiglic acidemia"
 "Constipation"	1.0	1.0	1.0
 "Dry skin"	1.0	1.0	1.0
 "Goiter"	1.0	1.0	0.0

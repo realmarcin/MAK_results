@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Clouston syndrome"	"Rosselli-Gulienetti syndrome"	"X-linked Ehlers-Danlos syndrome"	"epidermolysis bullosa simplex with pyloric atresia"	"ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive"	"autosomal recessive nonsyndromic deafness 84B"
 "Frontal bossing"	0.0	1.0	1.0	1.0	0.0	0.0
 "Depressed nasal bridge"	0.0	1.0	1.0	0.0	0.0	1.0
 "HP:0001425"	1.0	1.0	1.0	0.0	0.0	0.0

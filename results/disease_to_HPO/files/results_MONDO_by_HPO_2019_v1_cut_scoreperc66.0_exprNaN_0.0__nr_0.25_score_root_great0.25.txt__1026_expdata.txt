@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"primary biliary cholangitis 1"	"chemodectoma, intraabdominal, with cutaneous angiolipomas"	"lithium transport"	"salivary duct calculi"	"syringomas, multiple"	"beta-ketothiolase deficiency"	"X-linked hyper-IgM syndrome"	"atrial fibrillation, familial, 15"
 "Iridocyclitis"	1.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0
 "Chorioretinitis"	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
 "Enlarged lacrimal glands"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

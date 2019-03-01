@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neuronal ceroid lipofuscinosis 8 northern epilepsy variant"	"osteogenesis imperfecta type 7"	"amyotrophic lateral sclerosis type 16"	"pancytopenia due to IKZF1 mutations"	"epileptic encephalopathy, infantile or early childhood, 2"
 "HP:0000006"	0.0	1.0	1.0	1.0	0.0
 "Failure to thrive"	0.0	1.0	1.0	0.0	0.0
 "Recurrent infections"	0.0	1.0	0.0	0.0	1.0

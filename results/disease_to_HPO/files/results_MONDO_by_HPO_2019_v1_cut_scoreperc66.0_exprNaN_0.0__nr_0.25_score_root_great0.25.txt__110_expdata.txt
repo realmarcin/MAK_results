@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"meralgia paraesthetica, familial"	"epileptic encephalopathy, early infantile, 24"	"orofaciodigital syndrome XV"	"immunoskeletal dysplasia with neurodevelopmental abnormalities"
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Low-set ears"	1.0	1.0	0.0	1.0

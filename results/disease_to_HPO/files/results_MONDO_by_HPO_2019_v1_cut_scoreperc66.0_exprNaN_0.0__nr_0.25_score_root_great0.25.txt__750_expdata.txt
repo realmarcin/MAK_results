@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"inherited Creutzfeldt-Jakob disease"	"carnitine palmitoyl transferase 1A deficiency"	"intellectual disability, X-linked 63"	"multiple epiphyseal dysplasia, Al-Gazali type"	"VVS"	"amyotrophic lateral sclerosis type 18"
 "Fatigue"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscle cramps"	1.0	1.0	1.0	0.0	0.0	0.0
 "Myalgia"	1.0	1.0	1.0	1.0	1.0	1.0

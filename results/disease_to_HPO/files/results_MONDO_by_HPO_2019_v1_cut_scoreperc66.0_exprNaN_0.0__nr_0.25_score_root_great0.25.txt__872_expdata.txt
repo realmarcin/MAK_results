@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hairy ears"	"Brunner syndrome"	"Charcot-Marie-Tooth peroneal muscular atrophy and Friedreich ataxia, combined"	"endometrial cancer"
 "Tinnitus"	0.0	1.0	0.0	0.0
 "Hearing impairment"	0.0	1.0	0.0	0.0
 "Alacrima"	0.0	0.0	0.0	1.0

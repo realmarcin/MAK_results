@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"long QT syndrome 1"	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"osteogenesis imperfecta type 14"
 "Hypodontia"	1.0	0.0	0.0	0.0
 "Tapered finger"	1.0	0.0	0.0	0.0
 "Short foot"	1.0	0.0	0.0	0.0

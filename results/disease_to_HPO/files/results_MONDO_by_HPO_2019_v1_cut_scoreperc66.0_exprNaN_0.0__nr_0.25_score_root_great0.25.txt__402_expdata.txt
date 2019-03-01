@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"glycoprotein storage disease"	"syndromic X-linked intellectual disability Lubs type"	"intellectual disability, X-linked 91"	"intellectual disability, X-linked 93"	"Alzheimer disease, susceptibility to, mitochondrial"
 "Hemolytic anemia"	1.0	0.0	0.0	1.0	0.0
 "Exercise-induced muscle cramps"	1.0	1.0	0.0	1.0	0.0
 "Exercise intolerance"	1.0	1.0	1.0	1.0	0.0

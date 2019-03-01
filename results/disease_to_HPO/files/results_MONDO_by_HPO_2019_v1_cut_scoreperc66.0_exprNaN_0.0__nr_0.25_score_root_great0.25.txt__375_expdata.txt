@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"rolandic epilepsy, mental retardation, and speech dyspraxia, X-linked"	"midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis; MFHIEN"	"craniosynostosis 4"	"Martinez-Frias syndrome"	"NAFLD2"
 "Frontal bossing"	1.0	1.0	0.0	0.0	1.0
 "Camptodactyly"	0.0	1.0	0.0	0.0	1.0
 "Proptosis"	0.0	1.0	1.0	0.0	1.0

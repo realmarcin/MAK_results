@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pyruvate dehydrogenase phosphatase deficiency"	"frontonasal dysplasia with alopecia and genital anomaly"	"acne inversa, familial, 2"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
 "Generalized hypotonia"	1.0	1.0	1.0	0.0
 "Broad forehead"	0.0	1.0	1.0	0.0
 "Short nose"	1.0	1.0	1.0	1.0

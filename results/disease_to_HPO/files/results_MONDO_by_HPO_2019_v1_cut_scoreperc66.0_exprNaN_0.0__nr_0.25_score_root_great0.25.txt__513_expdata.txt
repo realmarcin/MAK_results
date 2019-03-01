@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"atelosteogenesis type III"	"Threoninemia"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"autosomal dominant nonsyndromic deafness 4B"	"familial papillary thyroid carcinoma with renal papillary neoplasia"
 "Micrognathia"	1.0	0.0	1.0	0.0	1.0
 "Frontal bossing"	1.0	1.0	1.0	0.0	1.0
 "Rhizomelia"	1.0	0.0	1.0	0.0	1.0

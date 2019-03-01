@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intellectual disability, X-linked 58"	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Broad palm"	1.0	0.0	0.0	0.0
 "Pneumonia"	1.0	0.0	0.0	0.0
 "Short finger"	1.0	0.0	0.0	0.0

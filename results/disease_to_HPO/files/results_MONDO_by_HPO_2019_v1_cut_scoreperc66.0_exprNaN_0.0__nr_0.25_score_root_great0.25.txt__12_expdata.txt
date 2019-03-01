@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neuronal intestinal pseudoobstruction"	"BCYM1A"	"DDX41-related hematologic malignancy predisposition syndrome"
 "HP:0000007"	1.0	1.0	1.0
 "Intrauterine growth retardation"	1.0	1.0	0.0
 "Abdominal distention"	1.0	1.0	1.0

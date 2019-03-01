@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperprolinemia type 2"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"autosomal recessive early-onset Parkinson disease 6"	"congenital stromal corneal dystrophy"	"primary ciliary dyskinesia 26"
 "Aggressive behavior"	1.0	0.0	1.0	1.0	1.0	1.0
 "Hyperactivity"	1.0	0.0	0.0	1.0	1.0	1.0
 "Nephropathy"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"second branchial cleft anomaly"	"spondylolisthesis (disease)"	"maple syrup urine disease"	"spondyloepiphyseal dysplasia tarda, autosomal recessive"	"spondyloepimetaphyseal dysplasia with joint laxity, type 1, with or without fractures"	"hereditary spastic paraplegia 13"
 "Childhood-onset short-trunk short stature"	1.0	1.0	0.0	0.0	1.0	0.0
 "Increased urinary disaccharide excretion"	0.0	0.0	1.0	0.0	1.0	0.0
 "Squared-off platyspondyly"	0.0	0.0	0.0	1.0	1.0	0.0

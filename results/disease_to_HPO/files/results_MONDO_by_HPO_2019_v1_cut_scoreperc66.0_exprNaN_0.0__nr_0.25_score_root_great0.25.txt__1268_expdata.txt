@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"hereditary spastic paraplegia 38"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
 "Dysdiadochokinesis"	0.0	1.0	0.0	0.0
 "External ophthalmoplegia"	0.0	1.0	0.0	0.0
 "Mask-like facies"	0.0	1.0	0.0	0.0

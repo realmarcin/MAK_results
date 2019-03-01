@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"multiple acyl-CoA dehydrogenase deficiency"	"hyperphosphatasia with intellectual disability syndrome 1"	"Niemann-Pick disease, type C1"	"Griscelli syndrome type 2"	"sudden infant death-dysgenesis of the testes syndrome"
 "Hypertriglyceridemia"	0.0	0.0	0.0	1.0	0.0
 "Decreased circulating high-density lipoprotein levels"	0.0	0.0	0.0	1.0	0.0
 "Dyspnea"	0.0	1.0	0.0	1.0	0.0

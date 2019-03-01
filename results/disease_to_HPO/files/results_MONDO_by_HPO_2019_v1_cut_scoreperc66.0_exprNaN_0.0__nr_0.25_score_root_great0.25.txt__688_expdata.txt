@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pulmonary venoocclusive disease"	"urocanic aciduria (disease)"	"X-linked spermatogenic failure 1"
 "HP:0001417"	0.0	0.0	1.0
 "Hand oligodactyly"	0.0	1.0	0.0
 "Neonatal death"	1.0	1.0	1.0

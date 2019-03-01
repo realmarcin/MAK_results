@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aromatase excess syndrome"	"patterned macular dystrophy 1"	"saccharopinuria"	"congenital myopathy with internal nuclei and atypical cores"	"chromosome 6q24-q25 deletion syndrome"
 "Fine hair"	1.0	0.0	1.0	1.0	1.0
 "Mesoaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0
 "Mesoaxial foot polydactyly"	0.0	1.0	0.0	0.0	0.0

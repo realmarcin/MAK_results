@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Diamond-Blackfan anemia 1"	"factor VIII and Factor IX, combined deficiency of"	"congenital factor X deficiency"	"NAFLD1"	"TMEM199-CDG"
 "Hemosiderinuria"	1.0	0.0	0.0	0.0	0.0
 "Increased total iron binding capacity"	1.0	0.0	0.0	1.0	0.0
 "Copper accumulation in liver"	0.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"leishmaniasis, tegumentary, susceptibility to"	"gracile syndrome"	"intellectual disability, autosomal dominant 4"	"cataract 36"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
 "HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0
 "Seizures"	0.0	1.0	1.0	1.0	1.0	1.0
 "Facial asymmetry"	0.0	0.0	0.0	1.0	0.0	0.0

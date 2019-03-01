@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial focal alopecia"	"pacman dysplasia"	"multiple mitochondrial dysfunctions syndrome 1"	"mitochondrial complex III deficiency nuclear type 7"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Palmoplantar hyperkeratosis"	1.0	1.0	0.0	0.0
 "Leukonychia"	1.0	0.0	0.0	1.0

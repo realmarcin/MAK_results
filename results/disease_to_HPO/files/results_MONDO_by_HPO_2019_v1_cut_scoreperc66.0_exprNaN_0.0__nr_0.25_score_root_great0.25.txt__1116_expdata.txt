@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spinocerebellar ataxia type 26"	"autosomal recessive limb-girdle muscular dystrophy type 2Q"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"	"intellectual disability, autosomal dominant 55, with seizures"	"epileptic encephalopathy, infantile or early childhood, 3"
 "Umbilical hernia"	0.0	0.0	0.0	0.0	0.0	1.0
 "Hyperreflexia"	0.0	1.0	1.0	0.0	1.0	1.0
 "Adducted thumb"	0.0	0.0	0.0	0.0	0.0	1.0

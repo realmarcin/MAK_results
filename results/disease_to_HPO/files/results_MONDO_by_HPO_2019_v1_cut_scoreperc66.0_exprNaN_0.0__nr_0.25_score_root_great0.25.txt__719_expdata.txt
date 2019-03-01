@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"isolated congenital digital clubbing"	"benign paroxysmal tonic upgaze of childhood with ataxia"	"microcephaly-cervical spine fusion anomalies syndrome"	"hereditary spastic paraplegia 28"	"autosomal recessive nonsyndromic deafness 47"	"hereditary spastic paraplegia 41"
 "Patellar hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Mild global developmental delay"	0.0	0.0	0.0	0.0	0.0	1.0
 "Shallow acetabular fossae"	0.0	0.0	0.0	0.0	1.0	1.0

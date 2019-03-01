@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"indifference to pain, congenital, autosomal dominant"	"succinic acidemia"	"autosomal recessive nonsyndromic deafness 16"	"breath-holding Spells"	"even-plus syndrome"
 "Skeletal muscle atrophy"	1.0	0.0	1.0	0.0	0.0
 "Autoimmunity"	1.0	0.0	0.0	0.0	0.0
 "Feeding difficulties in infancy"	1.0	0.0	0.0	0.0	0.0

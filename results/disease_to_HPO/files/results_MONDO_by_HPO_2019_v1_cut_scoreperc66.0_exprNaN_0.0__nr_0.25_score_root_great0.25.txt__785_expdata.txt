@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"lymphedema-cerebral arteriovenous anomaly syndrome"	"polyneuropathy-hand defect syndrome"	"hepatic veno-occlusive disease-immunodeficiency syndrome"	"cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome"	"brachydactyly type A1D"
 "Conical incisor"	0.0	0.0	1.0	0.0	0.0
 "Intestinal lymphangiectasia"	1.0	1.0	1.0	1.0	1.0
 "Thyroid lymphangiectasia"	0.0	0.0	1.0	0.0	0.0

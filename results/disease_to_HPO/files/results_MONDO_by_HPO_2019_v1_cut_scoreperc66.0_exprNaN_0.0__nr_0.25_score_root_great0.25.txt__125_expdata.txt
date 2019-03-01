@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"piebaldism"	"macrocephaly-spastic paraplegia-dysmorphism syndrome"	"Diamond-Blackfan anemia 15 with mandibulofacial dysostosis"	"FTDALS4"	"candidiasis, familial, 9"
 "Apathy"	1.0	1.0	0.0	1.0	1.0
 "Frontotemporal dementia"	1.0	1.0	0.0	1.0	1.0
 "Paraparesis"	0.0	0.0	0.0	0.0	0.0

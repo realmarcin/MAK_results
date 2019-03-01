@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Pick disease"	"familial chronic myelocytic leukemia-like syndrome"	"episodic ataxia type 3"	"ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant"	"myopia 24, autosomal dominant"	"mosaic variegated aneuploidy syndrome 3"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Myoclonus"	0.0	1.0	0.0	1.0	1.0	0.0

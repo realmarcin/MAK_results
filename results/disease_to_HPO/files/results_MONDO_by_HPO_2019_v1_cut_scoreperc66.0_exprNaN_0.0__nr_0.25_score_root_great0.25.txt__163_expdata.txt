@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"bone pain, periodic"	"Huntington disease-like 2"	"combined immunodeficiency with faciooculoskeletal anomalies"	"epileptic encephalopathy, early infantile, 13"
 "Hyperextensible skin"	0.0	1.0	0.0	1.0
 "Soft skin"	1.0	1.0	0.0	1.0
 "Osteopenia"	1.0	0.0	1.0	1.0

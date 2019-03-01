@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"isolated anhidrosis with normal sweat glands"	"masticatory muscles, hypertrophy of"	"cardiac lipidosis, familial"	"Neu-Laxova syndrome 1"	"X-linked parkinsonism-spasticity syndrome"	"cataract 11 multiple types"
 "Angioedema"	1.0	1.0	1.0	1.0	1.0	1.0
 "Telangiectasia macularis eruptiva perstans"	0.0	1.0	0.0	0.0	0.0	0.0
 "Cutaneous mastocytosis"	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency"	"fetal iodine syndrome"	"Wolman disease with hypolipoproteinemia and acanthocytosis"	"hereditary spastic paraplegia 51"	"PHAVER syndrome"
 "Low maternal serum estriol"	0.0	1.0	0.0	0.0	1.0	0.0
 "Abnormality of the Leydig cells"	0.0	0.0	1.0	0.0	1.0	0.0
 "Abnormal urine potassium concentration"	1.0	0.0	0.0	1.0	1.0	0.0

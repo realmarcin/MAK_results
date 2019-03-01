@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"combined immunodeficiency due to moesin deficiency"	"intellectual disability, anterior maxillary protrusion, and strabismus"	"epileptic encephalopathy, early infantile, 32"	"neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to a point mutation"	"intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies"	"short-rib thoracic dysplasia 18 with polydactyly"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Gastroesophageal reflux"	1.0	0.0	1.0	1.0	1.0	1.0

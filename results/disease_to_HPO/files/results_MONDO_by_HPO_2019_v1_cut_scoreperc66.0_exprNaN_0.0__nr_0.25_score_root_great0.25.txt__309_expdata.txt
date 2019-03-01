@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Joubert syndrome 10"	"MRT11"	"MRT23"	"MRT25"	"MRT28"	"colorectal cancer, hereditary nonpolyposis, type 5"	"familial cold autoinflammatory syndrome 4"	"intellectual disability, autosomal dominant 41; MRD41"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Motor delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability, moderate"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

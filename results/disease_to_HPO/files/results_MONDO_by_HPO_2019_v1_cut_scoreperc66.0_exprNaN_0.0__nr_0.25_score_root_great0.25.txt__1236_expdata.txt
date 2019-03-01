@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"torsion dystonia 13"
 "Abnormality of the mouth"	0.0	0.0	0.0	1.0
 "Glomerulonephritis"	0.0	0.0	0.0	1.0
 "Anterior uveitis"	0.0	0.0	0.0	1.0

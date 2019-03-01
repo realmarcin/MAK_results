@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"agenesis of the corpus callosum with peripheral neuropathy"	"apparent mineralocorticoid excess"	"Lambotte syndrome"	"neonatal diabetes mellitus with congenital hypothyroidism"	"Loeys-Dietz syndrome 4"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Frontal bossing"	1.0	1.0	0.0	0.0	0.0

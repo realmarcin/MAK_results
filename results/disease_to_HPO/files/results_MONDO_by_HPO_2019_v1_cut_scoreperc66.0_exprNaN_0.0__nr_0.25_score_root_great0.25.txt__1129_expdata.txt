@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"duodenal ulcer, hyperpepsinogenemic 1"	"familial Dupuytren contracture"	"Eng-Strom syndrome"	"tricho-dento-osseous syndrome"	"conotruncal heart malformations"	"deafness, neural, congenital moderate"
 "Congenital cystic adenomatoid malformation of the lung"	0.0	0.0	0.0	0.0	0.0	0.0
 "Duodenal ulcer"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hyperpepsinogenemia I"	1.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Wilson-Turner syndrome"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Long hallux"	0.0	0.0	1.0	0.0
 "Thick lower lip vermilion"	0.0	0.0	1.0	0.0
 "Broad-based gait"	0.0	0.0	1.0	0.0

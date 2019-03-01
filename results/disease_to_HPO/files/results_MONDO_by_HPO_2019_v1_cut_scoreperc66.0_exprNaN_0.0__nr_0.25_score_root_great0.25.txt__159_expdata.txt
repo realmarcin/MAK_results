@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"GCCD3"	"ectodermal dysplasia-syndactyly syndrome 1"
 "Osteoporosis"	1.0	1.0	0.0	1.0
 "Hirsutism"	1.0	1.0	0.0	1.0
 "Adrenogenital syndrome"	1.0	1.0	0.0	1.0

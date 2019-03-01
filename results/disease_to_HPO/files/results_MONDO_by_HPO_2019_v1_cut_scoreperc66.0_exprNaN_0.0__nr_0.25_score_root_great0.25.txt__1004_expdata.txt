@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"gapo syndrome"	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
 "Short stature"	1.0	0.0	1.0	1.0
 "Platyspondyly"	1.0	0.0	1.0	0.0
 "Dystonia"	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Book syndrome"	"mirror movements 1"	"thrombophilia due to protein C deficiency, autosomal dominant"	"Athabaskan brainstem dysgenesis syndrome"	"Alzheimer disease, familial early-onset, with Coexisting amyloid and prion pathology"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Neoplasm"	0.0	0.0	0.0	1.0	1.0
 "HP:0003581"	0.0	0.0	0.0	0.0	1.0

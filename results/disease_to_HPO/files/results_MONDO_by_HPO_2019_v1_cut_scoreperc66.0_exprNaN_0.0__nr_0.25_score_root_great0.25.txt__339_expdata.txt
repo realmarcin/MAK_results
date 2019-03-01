@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"angel-shaped phalango-epiphyseal dysplasia"	"congenital disorder of glycosylation, type i/IIx"	"Ramon syndrome"	"Usher syndrome type 1"	"X-linked cone-rod dystrophy 3"	"X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome"	"intellectual disability, X-linked 61; MRX61"	"NRCLP3"	"frontonasal dysplasia - severe microphthalmia - severe facial clefting syndrome"	"developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency"	"Feingold syndrome type 2"	"acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome"	"3-methylglutaconic aciduria type 9"
 "Broad-based gait"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0
 "Protruding tongue"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Intellectual disability, severe"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

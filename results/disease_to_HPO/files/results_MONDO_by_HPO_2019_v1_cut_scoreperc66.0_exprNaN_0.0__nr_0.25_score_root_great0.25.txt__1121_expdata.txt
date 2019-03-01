@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial cylindromatosis"	"multiple self-healing squamous epithelioma"	"hip dysplasia, Beukes type"	"zinc, elevated plasma"	"metaphyseal chondrodysplasia, Pena type"	"hypomagnesemia, seizures, and mental retardation"	"radioulnar synostosis-microcephaly-scoliosis syndrome"
 "Anteverted nares"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Limited elbow extension"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Lumbar hyperlordosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Plagiocephaly"	0.0	0.0	0.0	1.0
 "Intellectual disability, moderate"	0.0	0.0	0.0	1.0

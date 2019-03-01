@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"graying of hair, precocious"	"Fanconi anemia complementation group C"	"Waardenburg syndrome type 4A"	"cardiomyopathy, familial restrictive, 3"	"brachydactyly, type A1, with short stature, scoliosis, microcephaly, ptosis, hearing loss, and mental retardation"	"46,XX ovarian dysgenesis-short stature syndrome"
 "HP:0003676"	1.0	0.0	0.0	0.0	0.0	0.0
 "Myelodysplasia"	1.0	0.0	0.0	0.0	0.0	0.0
 "Menorrhagia"	1.0	1.0	1.0	1.0	1.0	1.0

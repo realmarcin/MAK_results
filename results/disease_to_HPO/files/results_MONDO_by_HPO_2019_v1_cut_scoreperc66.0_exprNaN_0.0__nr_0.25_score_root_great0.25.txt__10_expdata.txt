@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"L-ferritin deficiency"	"cardiomyopathy, dilated, with woolly hair, keratoderma, and tooth agenesis"	"nephronophthisis 20"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0

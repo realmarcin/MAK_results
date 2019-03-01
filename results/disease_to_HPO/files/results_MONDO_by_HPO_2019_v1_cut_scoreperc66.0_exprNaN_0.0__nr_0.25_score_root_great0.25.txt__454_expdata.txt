@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"megacystis-microcolon-intestinal hypoperistalsis syndrome"	"cylindrical spirals myopathy"	"amyotrophic neuralgia"	"neurofibromatosis-pheochromocytoma-duodenal carcinoid syndrome"	"pulmonary capillary hemangiomatosis"	"proximal myopathy with extrapyramidal signs"
 "Schwannoma"	0.0	1.0	1.0	0.0	0.0	1.0
 "Spinal cord tumor"	1.0	0.0	1.0	1.0	1.0	1.0
 "Symmetric spinal nerve root neurofibromas"	0.0	0.0	0.0	1.0	0.0	0.0

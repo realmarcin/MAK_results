@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hepatic fibrosis-renal cysts-intellectual disability syndrome"	"Loeys-Dietz syndrome 1"	"neuropathy, hereditary sensory and autonomic, type 1C"	"CHTD3"	"autosomal recessive limb-girdle muscular dystrophy type 2T"	"orofacial cleft 15"
 "Hypertelorism"	0.0	0.0	0.0	0.0	0.0	1.0
 "Strabismus"	1.0	1.0	1.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0

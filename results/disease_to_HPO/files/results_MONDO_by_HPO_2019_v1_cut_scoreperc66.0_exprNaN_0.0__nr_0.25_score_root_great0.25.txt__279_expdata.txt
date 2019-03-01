@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"deafness, X-linked 6"	"multiple synostoses syndrome 2"	"myopia 22, autosomal dominant"	"STING-associated vasculopathy with onset in infancy"	"Charcot-Marie-Tooth disease type 4K"	"dyskinesia, limb and orofacial, infantile-onset; IOLOD"
 "Global developmental delay"	1.0	0.0	1.0	1.0	1.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	1.0	0.0	1.0	1.0	1.0
 "Postnatal microcephaly"	1.0	0.0	0.0	1.0	1.0	0.0

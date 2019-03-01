@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pacman dysplasia"	"polycystic ovary syndrome"	"teeth, supernumerary"	"dyssegmental dysplasia, Rolland-Desbuquois type"	"pantothenate kinase-associated neurodegeneration"	"pseudotumor cerebri"	"Martinez-Frias syndrome"	"otofacioosseous-gonadal syndrome"	"congenital primary aphakia"	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques"	"myopia 25, autosomal dominant; MYP25"	"epileptic encephalopathy, early infantile, 51; EIEE51"
 "Dermal atrophy"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Obstructive sleep apnea"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Short ribs"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

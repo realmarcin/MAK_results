@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"antecubital pterygium syndrome"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"	"Werdnig-Hoffmann disease"	"3MC syndrome 2"	"pyruvate dehydrogenase E1-alpha deficiency"	"premature aging syndrome, Okamoto type"
 "Multiple pterygia"	1.0	0.0	1.0	1.0	1.0	1.0
 "Amyoplasia"	0.0	1.0	1.0	0.0	1.0	0.0
 "Hypoplastic heart"	0.0	0.0	1.0	0.0	1.0	0.0

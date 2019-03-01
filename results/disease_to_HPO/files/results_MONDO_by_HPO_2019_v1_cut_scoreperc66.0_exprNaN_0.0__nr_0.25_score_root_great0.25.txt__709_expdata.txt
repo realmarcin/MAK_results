@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Achard syndrome"	"cryofibrinogenemia, familial primary"	"Gorham-Stout disease"	"hypogonadotropic hypogonadism 7 with or without anosmia"	"theophylline Biotransformation"	"cramps, familial adolescent"	"Neu-Laxova syndrome 1"	"MRX73"	"pituitary adenoma, growth hormone-secreting, 2"	"brachyolmia-amelogenesis imperfecta syndrome"	"Martinez-Frias syndrome"	"epilepsy, idiopathic generalized, susceptibility to, 11"	"epilepsy, childhood absence, susceptibility to, 5"	"fever-associated acute infantile liver failure syndrome"	"Crane-Heise syndrome"
 "Acanthosis nigricans"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Thick lower lip vermilion"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Macroglossia"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ankyloglossia"	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"free sialic acid storage disease, infantile form"	"Borjeson-Forssman-Lehmann syndrome"	"glycogen storage disease IXc"	"chromosome 14q11-q22 deletion syndrome"
 "Wide nasal bridge"	1.0	0.0	1.0	0.0	1.0	1.0
 "Supernumerary nipple"	1.0	0.0	0.0	0.0	1.0	0.0
 "Hypodontia"	1.0	1.0	1.0	0.0	1.0	0.0

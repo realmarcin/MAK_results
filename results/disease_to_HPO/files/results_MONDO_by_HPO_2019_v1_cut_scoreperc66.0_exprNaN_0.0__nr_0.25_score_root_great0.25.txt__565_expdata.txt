@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dyschromatosis universalis hereditaria 1"	"spondyloepimetaphyseal dysplasia, Shohat type"	"Seckel syndrome 10"
 "HP:0000006"	1.0	1.0	0.0
 "HP:0003593"	1.0	1.0	0.0
 "Torsion dystonia"	1.0	1.0	0.0

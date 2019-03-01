@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant distal renal tubular acidosis"	"spheroid body myopathy"	"hereditary cryohydrocytosis with normal stomatin"	"episodic ataxia type 6"	"Roifman syndrome"	"autosomal dominant nonsyndromic deafness 69"
 "Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hemolytic anemia"	0.0	1.0	1.0	1.0	1.0	1.0
 "Jaundice"	0.0	1.0	1.0	1.0	1.0	1.0

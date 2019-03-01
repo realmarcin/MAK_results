@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"setting-Sun phenomenon, familial benign"	"hereditary spastic paraplegia 28"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
 "Generalized joint laxity"	0.0	1.0	0.0	0.0
 "Lumbar hyperlordosis"	0.0	1.0	0.0	0.0
 "Genu varum"	0.0	1.0	0.0	0.0

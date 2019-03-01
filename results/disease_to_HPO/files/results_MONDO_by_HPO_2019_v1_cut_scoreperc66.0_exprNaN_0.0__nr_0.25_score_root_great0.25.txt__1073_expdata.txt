@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial angiolipomatosis"	"L-2-hydroxyglutaric aciduria"	"alpha thalassemia-X-linked intellectual disability syndrome"	"Fabry disease"	"spondyloepimetaphyseal dysplasia, di rocco type"
 "Hydrocephalus"	0.0	0.0	0.0	0.0	1.0
 "HP:0003577"	1.0	1.0	1.0	0.0	1.0
 "Dandy-Walker malformation"	0.0	0.0	0.0	0.0	1.0

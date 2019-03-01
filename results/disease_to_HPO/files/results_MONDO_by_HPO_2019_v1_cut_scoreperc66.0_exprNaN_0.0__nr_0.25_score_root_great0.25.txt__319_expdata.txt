@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"basal laminar drusen"	"myoclonic cerebellar dyssynergia"	"retinal telangiectasia and hypogammaglobulinemia"	"DPAGT1-CDG"
 "Optic nerve coloboma"	0.0	1.0	0.0	1.0
 "Retinal dystrophy"	1.0	1.0	1.0	1.0
 "Impaired smooth pursuit"	0.0	1.0	0.0	1.0

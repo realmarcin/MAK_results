@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alcohol dependence"	"allergic bronchopulmonary aspergillosis"	"urban-Rogers-Meyer syndrome"	"brachyolmia, Maroteaux type"	"early infantile epileptic encephalopathy without suppression burst"	"hyperlipoproteinemia type 3"
 "Left ventricular hypertrophy"	0.0	0.0	0.0	1.0	1.0	0.0
 "Abnormality of the urinary system"	0.0	1.0	0.0	0.0	0.0	0.0
 "Adrenogenital syndrome"	0.0	1.0	0.0	0.0	0.0	0.0

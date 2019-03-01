@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mediosternal depigmentation line"	"occipital horn syndrome"	"autosomal recessive nonsyndromic deafness 14"
 "Midline central nervous system lipomas"	1.0	0.0	1.0
 "Nonossified fifth metatarsal"	0.0	1.0	0.0
 "Vertical clivus"	0.0	1.0	1.0

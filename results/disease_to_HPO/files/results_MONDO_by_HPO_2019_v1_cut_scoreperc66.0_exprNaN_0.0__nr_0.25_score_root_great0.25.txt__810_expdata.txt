@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intellectual disability, autosomal dominant 10"	"obesity due to congenital leptin deficiency"	"intellectual disability-facial dysmorphism syndrome due to SETD5 haploinsufficiency"	"epidermolysis bullosa simplex with nail dystrophy"	"Shashi-Pena syndrome; SHAPNS"	"myofibrillar myopathy 8"
 "Polymicrogyria"	0.0	0.0	0.0	0.0	1.0	1.0
 "Absent speech"	1.0	1.0	0.0	1.0	1.0	1.0
 "HP:0031936"	0.0	0.0	0.0	0.0	1.0	1.0

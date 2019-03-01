@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"atrioventricular septal defect 3"	"immunodeficiency, common variable, 1"	"LIPE-related familial partial lipodystrophy"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0
 "Coarse facial features"	1.0	0.0	1.0

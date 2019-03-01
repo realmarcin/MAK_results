@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"xylosidase deficiency"	"modifier, X-linked, for Neurofunctional defects"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
 "Anal atresia"	0.0	1.0	0.0	0.0
 "Overriding aorta"	0.0	1.0	0.0	0.0
 "Intellectual disability, progressive"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Clouston syndrome"	"lysosomal acid phosphatase deficiency"	"trichothiodystrophy 4, nonphotosensitive"	"metaphyseal chondrodysplasia, Pena type"	"leukodystrophy and acquired microcephaly with or without dystonia;"
 "Fine hair"	1.0	1.0	1.0	1.0	1.0
 "Cognitive impairment"	0.0	1.0	0.0	1.0	0.0
 "Sparse eyelashes"	1.0	0.0	1.0	1.0	1.0

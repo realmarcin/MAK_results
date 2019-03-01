@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"rigid spine muscular dystrophy 1"	"three M syndrome 3"	"retinitis pigmentosa-juvenile cataract-short stature-intellectual disability syndrome"
 "Epidermal acanthosis"	1.0	1.0	0.0
 "Psoriasiform dermatitis"	1.0	1.0	1.0
 "Parakeratosis"	1.0	1.0	0.0

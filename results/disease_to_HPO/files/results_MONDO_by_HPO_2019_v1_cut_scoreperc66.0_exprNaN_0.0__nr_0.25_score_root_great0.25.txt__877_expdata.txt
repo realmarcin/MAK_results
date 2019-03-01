@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dystonia 5"	"gracile syndrome"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
 "HP:0000006"	1.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0
 "HP:0003829"	1.0	0.0	1.0	0.0

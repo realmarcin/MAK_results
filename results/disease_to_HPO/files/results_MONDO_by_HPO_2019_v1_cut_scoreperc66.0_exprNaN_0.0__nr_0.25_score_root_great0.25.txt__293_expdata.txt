@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fragile X syndrome"	"X-linked intellectual disability, Cantagrel type"	"MYP3"	"ALG12-CDG"
 "Bradykinesia"	1.0	1.0	1.0	1.0
 "Mask-like facies"	1.0	1.0	1.0	0.0
 "Hyperactive deep tendon reflexes"	0.0	1.0	1.0	0.0

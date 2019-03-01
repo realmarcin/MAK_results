@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital macroglossia"	"salivary duct calculi"	"Beemer-Ertbruggen syndrome"	"Chuvash polycythemia"	"microcephaly 5, primary, autosomal recessive"	"complex cortical dysplasia with other brain malformations 1"
 "Pallor"	1.0	0.0	0.0	0.0	0.0	1.0
 "Myelodysplasia"	0.0	0.0	0.0	1.0	0.0	1.0
 "Fever"	1.0	1.0	1.0	0.0	1.0	1.0

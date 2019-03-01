@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"foveal hypoplasia 1"	"mastocytosis"	"Bangstad syndrome"	"epidermolysis bullosa dystrophica Neurotrophica"	"Dahlberg-borer-Newcomer syndrome"	"FRAXE intellectual disability"	"Qazi Markouizos syndrome"	"intellectual disability, autosomal recessive 12"	"intellectual disability, autosomal recessive 6"	"renal hypomagnesemia 4"	"inflammatory bowel disease 25"	"Joubert syndrome 20"	"dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities; DYTOABG"	"Joubert syndrome 30"	"short-rib thoracic dysplasia 19 with or without polydactyly"
 "Thick upper lip vermilion"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Enlarged epiphyses"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Exaggerated cupid's bow"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

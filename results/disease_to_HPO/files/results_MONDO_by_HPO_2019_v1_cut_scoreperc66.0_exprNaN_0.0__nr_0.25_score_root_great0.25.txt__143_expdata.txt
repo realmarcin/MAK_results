@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital myopathy with internal nuclei and atypical cores"	"congenital myasthenic syndrome 17"	"epileptic encephalopathy, early infantile, 41; EIEE41"	"multiple synostoses syndrome 4"
 "Brachydactyly"	1.0	0.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Midface retrusion"	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"blue diaper syndrome"	"hepatic fibrosis-renal cysts-intellectual disability syndrome"	"microcephaly and chorioretinopathy 1"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"microcephaly 9, primary, autosomal recessive"	"familial cold autoinflammatory syndrome 4"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Short stature"	1.0	1.0	1.0	0.0	0.0	1.0
 "Polyneuropathy"	0.0	0.0	0.0	0.0	0.0	1.0

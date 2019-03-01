@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"enhanced S-cone syndrome"	"autosomal recessive lower motor neuron disease with childhood onset"	"autosomal dominant limb-girdle muscular dystrophy type 1H"	"cone-rod dystrophy 20"
 "Foveoschisis"	1.0	1.0	0.0	0.0
 "Abnormal light- and dark-adapted electroretinogram"	0.0	1.0	0.0	0.0
 "Optic disc drusen"	0.0	1.0	0.0	1.0

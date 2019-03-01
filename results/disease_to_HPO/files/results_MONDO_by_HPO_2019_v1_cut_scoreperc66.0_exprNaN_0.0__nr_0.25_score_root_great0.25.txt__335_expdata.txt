@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"platelet aggregation, spontaneous"	"sclerocornea, autosomal dominant"	"congenital cataract-ichthyosis syndrome"	"keratosis follicularis-dwarfism-cerebral atrophy syndrome"	"xeroderma pigmentosum group B"
 "Dry skin"	0.0	1.0	1.0	1.0	0.0
 "Palmoplantar keratoderma"	1.0	1.0	1.0	1.0	1.0
 "Nail dystrophy"	0.0	0.0	1.0	0.0	1.0

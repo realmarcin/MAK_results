@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial temporal lobe epilepsy 2"	"periodic fever-infantile enterocolitis-autoinflammatory syndrome"	"hereditary spastic paraplegia 73"	"autosomal dominant nonsyndromic deafness 67"	"Shashi-Pena syndrome; SHAPNS"	"nephronophthisis 20"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	0.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	0.0

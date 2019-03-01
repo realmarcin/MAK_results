@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Diamond-Blackfan anemia 1"	"Ethanolaminosis"	"short stature due to partial GHR deficiency"	"drug metabolism, poor, CYP2D6-related"	"subepithelial mucinous corneal dystrophy"	"hereditary hypotrichosis with recurrent skin vesicles"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hyperkeratosis"	0.0	0.0	0.0	0.0	1.0	0.0
 "Fused cervical vertebrae"	0.0	0.0	0.0	0.0	1.0	0.0

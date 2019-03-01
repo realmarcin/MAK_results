@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"oculocerebrofacial syndrome, Kaufman type"	"mulibrey nanism"	"intellectual disability, X-linked 106"	"patterned macular dystrophy 2"	"growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy; GRIDHH"
 "Headache"	1.0	0.0	0.0	0.0	0.0
 "Absent frontal sinuses"	1.0	0.0	0.0	0.0	0.0
 "Pneumonia"	1.0	0.0	0.0	0.0	0.0

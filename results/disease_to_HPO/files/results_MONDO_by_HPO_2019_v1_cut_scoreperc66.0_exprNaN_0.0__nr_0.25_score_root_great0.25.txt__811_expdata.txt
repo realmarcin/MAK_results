@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"glycogen storage disease due to glycogen branching enzyme deficiency"	"mitochondrial myopathy with a defect 1N mitochondrial-protein transport"	"Alzheimer disease, susceptibility to, mitochondrial"	"nephrotic syndrome, type 3"	"combined immunodeficiency with faciooculoskeletal anomalies"	"hypotrichosis 13"
 "Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Atrial fibrillation"	0.0	0.0	0.0	0.0	1.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	1.0	1.0

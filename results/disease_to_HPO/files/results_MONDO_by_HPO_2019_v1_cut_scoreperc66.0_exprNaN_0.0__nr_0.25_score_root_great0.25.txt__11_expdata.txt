@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Jervell and Lange-Nielsen syndrome 2"	"Meckel syndrome, type 8"	"chromosome 11p13 deletion syndrome, distal"
 "Hypertelorism"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"SPGF2"	"mastocytosis"	"chondroitin-6-sulfaturia, defective cellular immunity, nephrotic syndrome"	"hypertrophic neuropathy and cataract"	"mild spondyloepiphyseal dysplasia due to COL2A1 mutation with early-onset osteoarthritis"	"renal hypomagnesemia 4"
 "Anteverted nares"	1.0	1.0	1.0	1.0	1.0	1.0
 "Arachnodactyly"	1.0	0.0	0.0	0.0	1.0	0.0
 "Depressed nasal bridge"	1.0	1.0	0.0	1.0	1.0	1.0

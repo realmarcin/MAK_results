@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"metaphyseal dysplasia-maxillary hypoplasia-brachydacty syndrome"	"slipped femoral capital epiphyses"	"camptodactyly-arthropathy-coxa vara-pericarditis syndrome"	"metaphyseal modeling abnormality, skin lesions, and spastic paraplegia"	"syndromic X-linked intellectual disability Shashi type"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"
 "Distal shortening of limbs"	0.0	0.0	0.0	0.0	0.0	1.0
 "Enlargement of the proximal femoral epiphysis"	1.0	0.0	1.0	0.0	0.0	0.0
 "Metaphyseal cupping of metacarpals"	1.0	0.0	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary spastic paraplegia 3A"	"medium chain acyl-CoA dehydrogenase deficiency"	"hemosiderosis, pulmonary, with deficiency of gamma-a globulin"	"absent thumb-short stature-immunodeficiency syndrome"
 "Coma"	0.0	0.0	1.0	0.0
 "Dysphasia"	0.0	0.0	1.0	0.0
 "Acute kidney injury"	0.0	0.0	1.0	0.0

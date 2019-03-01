@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Greenberg dysplasia"	"type 1 diabetes mellitus 6"	"neuroferritinopathy"	"COG8-CDG"	"epileptic encephalopathy with global cerebral demyelination"	"Stevens-Johnson syndrome"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	0.0
 "Atrial septal defect"	0.0	1.0	0.0	1.0	0.0	0.0
 "Depressed nasal bridge"	1.0	1.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"milia, multiple eruptive"	"bulimia nervosa, susceptibility to, 1"	"migraine with or without aura, susceptibility to, 6"	"nonsyndromic congenital nail disorder 8"	"migraine with or without aura, susceptibility to, 11"	"autosomal recessive nonsyndromic deafness 66"
 "HP:0001417"	0.0	0.0	0.0	0.0	0.0	0.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Photophobia"	1.0	1.0	1.0	1.0	1.0	1.0

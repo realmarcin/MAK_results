@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"syringomas, multiple"	"Galloway-Mowat syndrome 2, X-linked"	"ectodermal dysplasia with intellectual disability and syndactyly"
 "Specific anti-polysaccharide antibody deficiency"	0.0	1.0	1.0
 "Abnormal delayed hypersensitivity skin test"	0.0	1.0	1.0
 "Absent microvilli on the surface of peripheral blood lymphocytes"	0.0	1.0	1.0

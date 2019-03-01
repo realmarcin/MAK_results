@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ataxia with myoclonic epilepsy and presenile dementia"	"chondrodysplasia Blomstrand type"	"erythema of acral regions"	"lysine malabsorption syndrome"	"Miyoshi muscular dystrophy 1"	"Beemer-Langer syndrome"	"transcobalamin II deficiency"	"low phospholipid associated cholelithiasis"	"nocturnal enuresis, 2"	"congenital myasthenic syndrome 1A"	"autosomal dominant nonsyndromic deafness 15"	"osteofibrous dysplasia"	"Cornelia de Lange syndrome 4"	"agammaglobulinemia 7, autosomal recessive"	"retinitis pigmentosa 67"	"congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay"
 "Pneumonia"	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Diverticulosis of trachea"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Tracheobronchmegaly"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

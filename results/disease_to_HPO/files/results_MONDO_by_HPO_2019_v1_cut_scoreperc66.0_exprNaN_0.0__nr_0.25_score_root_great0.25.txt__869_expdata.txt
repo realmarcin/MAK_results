@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Chiari malformation type I"	"May-Hegglin anomaly"	"cardiospondylocarpofacial syndrome"	"purpura simplex"	"Sturge-Weber syndrome"	"Cushing disease due to pituitary adenoma"	"cutaneous photosensitivity-lethal colitis syndrome"	"Ehlers-Danlos syndrome, cardiac valvular type"	"MRX73"	"blepharophimosis - intellectual disability syndrome, Verloes type"	"arrhythmogenic right ventricular dysplasia 11"	"combined oxidative phosphorylation defect type 2"	"susceptibility to viral and mycobacterial infections"
 "Obesity"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Immunodeficiency"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Striae distensae"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

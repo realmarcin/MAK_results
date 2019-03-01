@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nasal alar collapse, bilateral"	"prolactin-producing pituitary gland adenoma"	"KRT14-related epidermolysis bullosa simplex"	"generalized epilepsy with febrile seizures plus, type 2"	"arrhythmogenic right ventricular dysplasia 9"	"sclerosteosis 2"
 "Paroxysmal drowsiness"	1.0	0.0	0.0	0.0	1.0	0.0
 "Abnormal rapid eye movement sleep"	1.0	0.0	0.0	0.0	1.0	0.0
 "Hypnagogic hallucinations"	1.0	0.0	0.0	0.0	1.0	0.0

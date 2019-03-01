@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypoglycemia, leucine-induced"	"Richards-Rundle syndrome"	"microcephalic primordial dwarfism, Toriello type"	"mitochondrial complex III deficiency nuclear type 4"	"polymicrogyria, bilateral perisylvian, autosomal recessive"	"immunodeficiency 37"
 "Ketonuria"	1.0	1.0	1.0	0.0	1.0	1.0
 "Ketotic hypoglycemia"	1.0	0.0	0.0	0.0	0.0	1.0
 "Abnormality of the gastrointestinal tract"	1.0	0.0	0.0	0.0	0.0	0.0

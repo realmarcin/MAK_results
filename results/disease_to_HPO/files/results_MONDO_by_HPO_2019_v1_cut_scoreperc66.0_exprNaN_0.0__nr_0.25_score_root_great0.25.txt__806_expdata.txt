@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MONDO:0023807"	"Holzgreve-Wagner-Rehder syndrome"	"holoprosencephaly 9"	"Fanconi anemia complementation group N"
 "Bifid uvula"	1.0	0.0	0.0	0.0
 "HP:0001425"	1.0	1.0	0.0	0.0
 "Constipation"	1.0	0.0	0.0	0.0

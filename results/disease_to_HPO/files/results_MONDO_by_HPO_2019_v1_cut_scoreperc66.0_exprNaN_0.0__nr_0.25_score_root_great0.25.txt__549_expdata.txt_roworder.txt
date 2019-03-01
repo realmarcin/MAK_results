@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "Charcot.Marie.Tooth.disease.dominant.intermediate.E"
+"2" "familial.atrial.myxoma"
+"3" "tiglic.acidemia"

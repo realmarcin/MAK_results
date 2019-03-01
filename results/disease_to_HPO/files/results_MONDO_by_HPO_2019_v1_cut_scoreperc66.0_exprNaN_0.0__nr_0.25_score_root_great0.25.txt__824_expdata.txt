@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"incisors, rotation of upper central"	"autosomal recessive Robinow syndrome"	"autosomal dominant auditory neuropathy 1"	"STAT3-related early-onset multisystem autoimmune disease"
 "Agenesis of mandibular central incisor"	1.0	1.0	0.0	0.0
 "Abnormality of the aryepiglottic fold"	0.0	1.0	0.0	0.0
 "Aplasia of the epiglottis"	0.0	1.0	0.0	1.0

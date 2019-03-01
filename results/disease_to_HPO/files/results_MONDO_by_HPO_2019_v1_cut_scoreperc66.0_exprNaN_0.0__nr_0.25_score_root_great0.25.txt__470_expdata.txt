@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dysplastic nevus syndrome"	"melanoma, malignant familial intraocular"	"Melkersson-Rosenthal syndrome"	"Pierson syndrome"	"inflammatory skin and bowel disease, neonatal, 1"	"congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0	0.0
 "Cutaneous melanoma"	1.0	1.0	1.0	1.0	1.0	1.0

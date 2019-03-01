@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"plasma cell myeloma"	"Chuvash polycythemia"	"ring chromosome 14"	"Coffin-Siris syndrome 5"	"premature ovarian failure 13"
 "Arterial thrombosis"	0.0	1.0	0.0	0.0	0.0
 "Myelofibrosis"	1.0	1.0	1.0	1.0	1.0
 "Budd-Chiari syndrome"	0.0	1.0	0.0	0.0	0.0

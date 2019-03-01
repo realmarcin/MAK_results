@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"progeria-short stature-pigmented nevi syndrome"	"Joubert syndrome with hepatic defect"	"Riley-Day syndrome"	"lathosterolosis"	"congenital myasthenic syndrome 17"
 "Hypoplastic facial bones"	1.0	1.0	1.0	1.0	1.0
 "Deformed sella turcica"	0.0	0.0	1.0	1.0	0.0
 "Delayed femoral head ossification"	0.0	0.0	0.0	1.0	0.0

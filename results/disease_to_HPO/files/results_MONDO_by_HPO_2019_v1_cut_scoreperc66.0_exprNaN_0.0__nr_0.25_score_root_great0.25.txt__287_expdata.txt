@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypertrophic cardiomyopathy 3"	"hypertrophic cardiomyopathy 4"	"dilated cardiomyopathy 1A"	"oculoauricular syndrome"	"dilated cardiomyopathy 1EE"	"retinitis pigmentosa 45"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Arrhythmia"	0.0	0.0	0.0	1.0	0.0	0.0
 "Hypertrophic cardiomyopathy"	1.0	1.0	1.0	1.0	1.0	1.0

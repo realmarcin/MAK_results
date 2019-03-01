@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypertrophic cardiomyopathy 2"	"magnesium, elevated red cell"	"mitochondrial myopathy"	"prolactin deficiency, isolated"	"von Willebrand disease 3"	"trichothiodystrophy 5, nonphotosensitive"
 "Strabismus"	1.0	1.0	0.0	0.0	0.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary sclerosing poikiloderma, Weary type"	"acrodermatitis enteropathica"	"Moynahan syndrome"	"celiac disease, susceptibility to, 1"
 "Turricephaly"	1.0	1.0	1.0	0.0
 "Abnormal toenail morphology"	1.0	1.0	1.0	1.0
 "Beaked nails"	0.0	0.0	0.0	0.0

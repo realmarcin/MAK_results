@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cerebellar ataxia and neurosensory deafness"	"46,XY sex reversal 7"	"Cole-Carpenter syndrome 2"
 "HP:0000007"	1.0	1.0	1.0
 "Short stature"	1.0	1.0	1.0
 "Optic atrophy"	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"immune deficiency disease"	"neurodegeneration with brain iron accumulation 2A"	"syndromic X-linked intellectual disability 7"	"MERRF syndrome"	"Griscelli syndrome type 2"	"sudden infant death-dysgenesis of the testes syndrome"
 "Upper limb undergrowth"	0.0	0.0	0.0	0.0	0.0	1.0
 "Increased urinary O-linked sialopeptides"	0.0	1.0	0.0	0.0	0.0	0.0
 "Urinary excretion of sialylated oligosaccharides"	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"deafness, X-linked 1"	"cerebellar degeneration-related autoantigen 3"	"Joubert syndrome 8"	"dilated cardiomyopathy 2B"
 "Cleft palate"	0.0	1.0	1.0	1.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0
 "HP:0000006"	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal recessive cerebellar ataxia-blindness-deafness syndrome"	"epileptic encephalopathy, early infantile, 27"	"retinal dystrophy and obesity"	"osteogenesis imperfecta type 17"	"epileptic encephalopathy, early infantile, 34; EIEE34"	"Fanconi anemia, complementation group S"
 "Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hallucinations"	0.0	0.0	0.0	0.0	1.0	0.0
 "Confusion"	0.0	0.0	0.0	0.0	1.0	0.0

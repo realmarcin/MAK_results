@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"camptodactyly syndrome, Guadalajara type 1"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Abnormality of the skin"	0.0	1.0	0.0	0.0
 "Hyperphosphatemia"	0.0	1.0	0.0	0.0
 "Nephrocalcinosis"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ciliary dyskinesia, primary, 36, X-linked; CILD36"	"contractures-ectodermal dysplasia-cleft lip/palate syndrome"	"autosomal recessive nonsyndromic deafness 37"	"congenital nephrotic syndrome - interstitial lung disease - epidermolysis bullosa syndrome"
 "Cleft palate"	1.0	0.0	1.0	0.0
 "Pes planus"	1.0	0.0	1.0	0.0
 "Esotropia"	1.0	1.0	1.0	1.0

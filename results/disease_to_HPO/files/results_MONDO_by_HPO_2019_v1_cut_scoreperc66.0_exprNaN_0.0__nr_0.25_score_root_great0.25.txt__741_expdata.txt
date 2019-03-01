@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Leri pleonosteosis"	"thanatophoric dysplasia type 2"	"pseudoprogeria syndrome"	"Ellis-van Creveld syndrome"	"autosomal recessive multiple pterygium syndrome"	"free sialic acid storage disease, infantile form"	"autosomal recessive amelia"	"hypertrophic osteoarthropathy, primary, autosomal recessive, 2"	"chromosome 6q24-q25 deletion syndrome"
 "Angiokeratoma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Excessive wrinkled skin"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the endocardium"	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

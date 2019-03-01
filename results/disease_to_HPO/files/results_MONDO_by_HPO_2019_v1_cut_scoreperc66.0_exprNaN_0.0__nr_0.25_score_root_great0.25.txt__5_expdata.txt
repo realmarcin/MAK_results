@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alcohol dependence"	"microcephaly-albinism-digital anomalies syndrome"	"focal segmental glomerulosclerosis 1"	"pseudopseudohypoparathyroidism"
 "Elevated circulating parathyroid hormone level"	1.0	1.0	1.0	1.0
 "Paresthesia"	1.0	1.0	1.0	1.0
 "Pseudohypoparathyroidism"	1.0	1.0	1.0	1.0

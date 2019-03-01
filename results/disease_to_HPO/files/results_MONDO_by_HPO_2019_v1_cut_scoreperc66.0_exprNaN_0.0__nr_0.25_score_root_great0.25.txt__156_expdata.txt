@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mitochondrial DNA depletion syndrome 9"	"neurofaciodigitorenal syndrome"	"MRX14"	"juvenile cataract-microcornea-renal glucosuria syndrome"	"Aicardi-Goutieres syndrome 5"	"epileptic encephalopathy, early infantile, 27"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	0.0	0.0

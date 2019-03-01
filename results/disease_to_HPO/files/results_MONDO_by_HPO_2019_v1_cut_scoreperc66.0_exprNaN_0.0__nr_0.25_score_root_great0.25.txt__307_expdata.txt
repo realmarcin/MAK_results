@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant medullary cystic kidney disease with or without hyperuricemia"	"pseudoarthrogryposis"	"CCAL1"	"Wiedemann-Steiner syndrome"	"hereditary spastic paraplegia 36"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Hypertension"	1.0	1.0	1.0	1.0	1.0
 "Decreased circulating renin level"	0.0	1.0	0.0	1.0	0.0

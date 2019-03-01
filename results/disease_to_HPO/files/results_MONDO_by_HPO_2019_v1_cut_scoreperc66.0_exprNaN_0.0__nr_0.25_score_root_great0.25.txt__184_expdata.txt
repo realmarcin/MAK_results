@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aldosterone-producing adenoma with seizures and neurological abnormalities"	"severe early-onset pulmonary alveolar proteinosis due to MARS deficiency"	"epileptic encephalopathy, early infantile, 37; EIEE37"	"intellectual disability, autosomal dominant 54"	"renal hypodysplasia/aplasia 3"	"intellectual developmental disorder with or without epilepsy or cerebellar ataxia"
 "Downslanted palpebral fissures"	0.0	1.0	0.0	1.0	0.0	0.0
 "Intellectual disability"	0.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	0.0	1.0	1.0	1.0	1.0	1.0

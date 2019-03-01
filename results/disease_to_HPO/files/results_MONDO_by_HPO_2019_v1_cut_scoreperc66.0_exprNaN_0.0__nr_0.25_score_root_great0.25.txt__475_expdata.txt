@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Bjornstad syndrome"	"cutaneous porphyria"	"Weyers ulnar ray/oligodactyly syndrome"	"choroidal dystrophy, central areolar 2"	"distal arthrogryposis type 5D"	"amelogenesis imperfecta hypomaturation type 2A5"
 "Hypoplasia of the epiglottis"	0.0	0.0	0.0	0.0	0.0	0.0
 "Laryngeal hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0
 "Aplasia/Hypoplasia of the eyebrow"	1.0	1.0	1.0	1.0	1.0	1.0

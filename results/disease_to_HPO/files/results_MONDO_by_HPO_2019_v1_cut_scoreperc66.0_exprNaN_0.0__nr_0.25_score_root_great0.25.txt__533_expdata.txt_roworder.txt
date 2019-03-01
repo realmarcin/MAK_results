@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.1"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.2"
+"1" "cerebral.sclerosis.similar.to.Pelizaeus.Merzbacher.disease"
+"2" "myoclonus.cerebellar.ataxia.deafness.syndrome"
+"3" "severe.neonatal.onset.encephalopathy.with.microcephaly"

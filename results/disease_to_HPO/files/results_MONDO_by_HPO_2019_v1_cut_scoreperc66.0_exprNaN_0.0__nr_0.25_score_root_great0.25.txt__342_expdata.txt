@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"delayed membranous cranial ossification"	"microcephaly-deafness-intellectual disability syndrome"	"protoporphyria, erythropoietic"	"Ruvalcaba syndrome"	"splenomegaly syndrome with splenic Germinal center hypoplasia and reduced circulating T helper cells"	"frontometaphyseal dysplasia 1"	"wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia"	"choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome"
 "Hemangioma"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0
 "Lower limb asymmetry"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Arteriovenous malformation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

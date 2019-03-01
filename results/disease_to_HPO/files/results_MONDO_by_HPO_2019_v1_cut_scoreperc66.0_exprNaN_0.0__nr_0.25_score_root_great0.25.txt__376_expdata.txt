@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"oculocutaneous albinism type 2"	"oculocutaneous albinism type 3"	"MRX52"	"Clark-Baraitser syndrome"	"vitiligo-associated multiple autoimmune disease susceptibility 1"	"MONDO:0011750"
 "Blue irides"	1.0	1.0	0.0	0.0	1.0	0.0
 "Thickened skin"	0.0	0.0	0.0	0.0	1.0	1.0
 "Freckling"	1.0	1.0	1.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spinocerebellar ataxia type 37"	"ITPA-related encephalopathy"	"Seckel syndrome 9"	"macrocephaly, dysmorphic facies, and psychomotor retardation; MDFPMR"	"retinitis pigmentosa 78"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0
 "HP:0003828"	1.0	0.0	0.0	1.0	1.0

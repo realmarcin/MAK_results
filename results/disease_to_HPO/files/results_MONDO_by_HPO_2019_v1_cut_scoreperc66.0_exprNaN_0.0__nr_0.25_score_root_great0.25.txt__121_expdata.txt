@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Balkan nephropathy"	"mucopolysaccharidoses, unclassified types"	"branched-chain keto acid dehydrogenase kinase deficiency"	"Perrault syndrome 2"	"sideroblastic anemia 3"	"hypomyelinating leukodystrophy 13"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	0.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	0.0	1.0

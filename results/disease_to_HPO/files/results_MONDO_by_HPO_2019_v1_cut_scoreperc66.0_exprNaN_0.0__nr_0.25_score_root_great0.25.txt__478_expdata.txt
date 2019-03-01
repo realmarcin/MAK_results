@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis with polyglucosan bodies"	"McKusick-Kaufman syndrome"	"ichthyosis-intellectual disability-dwarfism-renal impairment syndrome"	"immunodeficiency with defective T-cell response to interleukin 1"	"autosomal recessive spinocerebellar ataxia 13"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	0.0	1.0	0.0	0.0	1.0
 "Dementia"	1.0	1.0	1.0	1.0	0.0

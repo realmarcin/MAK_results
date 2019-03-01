@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"brachydactyly type A2"	"chylous ascites"	"spondyloepiphyseal dysplasia tarda, Kohn type"
 "Flattened metatarsal heads"	1.0	1.0	1.0
 "Synovial hypertrophy"	0.0	1.0	0.0
 "Generalized morning stiffness"	0.0	1.0	0.0

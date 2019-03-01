@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alopecia-intellectual disability syndrome 1"	"Waardenburg syndrome type 2B"	"retinitis pigmentosa 35"	"hereditary sensory neuropathy-deafness-dementia syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Global developmental delay"	0.0	1.0	1.0	1.0
 "Pachygyria"	0.0	1.0	1.0	1.0

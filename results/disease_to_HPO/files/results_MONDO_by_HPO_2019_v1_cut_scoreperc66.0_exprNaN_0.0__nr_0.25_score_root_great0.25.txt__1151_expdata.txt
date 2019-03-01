@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic aneurysm, familial abdominal, 1"	"palmoplantar keratoderma, nonepidermolytic"	"cataract 22 multiple types"	"obesity due to leptin receptor gene deficiency"	"pontocerebellar hypoplasia type 7"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0	0.0
 "Hydroureter"	0.0	0.0	0.0	0.0	0.0
 "Hydronephrosis"	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"oxoglutaricaciduria"	"autosomal recessive palmoplantar keratoderma and congenital alopecia"	"3-methylglutaconic aciduria type 4"	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"optic atrophy, hearing loss, and peripheral neuropathy, autosomal recessive"	"cataract 40"	"autosomal recessive proximal renal tubular acidosis"	"acetyl-CoA acetyltransferase-2 deficiency"	"mitochondrial pyruvate carrier deficiency"	"uncombable hair syndrome 2; UHS2"	"spermatogenic failure 22"
 "3-Methylglutaconic aciduria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Exercise-induced lactic acidemia"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Decreased activity of mitochondrial ATP synthase complex"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

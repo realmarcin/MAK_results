@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial temporal lobe epilepsy 2"	"Joubert syndrome 20"	"STT3B-CDG"	"palmoplantar keratoderma, Nagashima type"	"orofacial cleft 15"
 "Cryptorchidism"	1.0	0.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0

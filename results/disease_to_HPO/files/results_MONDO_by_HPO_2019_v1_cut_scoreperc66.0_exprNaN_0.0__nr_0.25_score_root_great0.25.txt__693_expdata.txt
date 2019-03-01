@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"coloboma of macula"	"hiatus hernia (disease)"	"orofaciodigital syndrome X"	"von Voss-Cherstvoy syndrome"	"ALG1-CDG"	"cone-rod dystrophy 20"
 "HP:0000006"	1.0	0.0	1.0	0.0	1.0	1.0
 "Ventriculomegaly"	1.0	0.0	1.0	0.0	0.0	0.0
 "Growth delay"	1.0	0.0	1.0	0.0	0.0	0.0

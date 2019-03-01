@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cerebral sarcoma"	"hereditary spastic paraplegia 54"	"Paget disease of bone 6; PDB6"	"spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy"	"ovarian dysgenesis 5"
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	0.0	1.0

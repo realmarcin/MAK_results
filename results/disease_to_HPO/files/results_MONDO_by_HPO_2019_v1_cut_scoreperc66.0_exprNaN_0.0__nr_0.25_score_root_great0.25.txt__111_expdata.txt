@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"emphysema, hereditary pulmonary"	"hypotrichosis-lymphedema-telangiectasia-renal defect syndrome"	"juvenile nephropathic cystinosis"	"Joubert syndrome with oculorenal defect"	"proximal tubulopathy-diabetes mellitus-cerebellar ataxia syndrome"
 "Hypothyroidism"	1.0	1.0	0.0	1.0	0.0
 "Exocrine pancreatic insufficiency"	1.0	1.0	1.0	1.0	1.0
 "Diabetes mellitus"	0.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"brachydactyly type C"	"congenital nephrotic syndrome, Finnish type"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"intellectual disability, keratoconus, febrile seizures, and sinoatrial block"	"Usher syndrome type 2D"	"Pilarowski-Bjornsson syndrome"
 "HP:0000006"	1.0	0.0	0.0	0.0	1.0	0.0
 "Cutaneous finger syndactyly"	1.0	0.0	0.0	0.0	1.0	0.0
 "Type B brachydactyly"	1.0	0.0	0.0	0.0	1.0	0.0

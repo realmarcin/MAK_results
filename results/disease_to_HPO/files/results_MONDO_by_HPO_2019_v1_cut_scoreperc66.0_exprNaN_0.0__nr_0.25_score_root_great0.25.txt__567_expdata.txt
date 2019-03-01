@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"primary biliary cholangitis 1"	"Proteus syndrome"	"sudden infant death-dysgenesis of the testes syndrome"	"premature ovarian failure 6"	"intellectual disability, autosomal dominant 22"	"encephalomyopathy, mitochondrial, due to voltage-dependent anion channel deficiency"	"brachydactyly type A1D"
 "Superficial thrombophlebitis"	1.0	1.0	0.0	1.0	1.0	1.0	0.0
 "Warfarin-induced skin necrosis"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
 "Cerebral venous thrombosis"	0.0	1.0	0.0	0.0	1.0	1.0	0.0

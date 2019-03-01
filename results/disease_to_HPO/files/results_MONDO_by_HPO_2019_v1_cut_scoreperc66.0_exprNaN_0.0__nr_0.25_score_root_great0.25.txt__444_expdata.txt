@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anal sphincter dysplasia"	"Dermatoleukodystrophy"	"dystrophic epidermolysis bullosa pruriginosa"	"advanced sleep phase syndrome 1"	"hydrolethalus syndrome 2"
 "Cerebral atrophy"	1.0	1.0	1.0	1.0	1.0
 "Sensorineural hearing impairment"	0.0	0.0	1.0	0.0	1.0
 "Dementia"	0.0	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic aneurysm, familial abdominal, 1"	"hypotrichosis 2"	"taurodontia-absent teeth-sparse hair syndrome"	"autoimmune lymphoproliferative syndrome type 1"	"aromatase deficiency"	"DOCK2 deficiency"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
 "Anteverted nares"	1.0	1.0	0.0	1.0	0.0	1.0
 "Single transverse palmar crease"	1.0	0.0	1.0	0.0	1.0	0.0

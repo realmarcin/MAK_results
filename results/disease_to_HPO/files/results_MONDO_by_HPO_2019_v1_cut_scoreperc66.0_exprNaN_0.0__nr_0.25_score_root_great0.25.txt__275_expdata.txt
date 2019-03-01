@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Goldenhar syndrome"	"Joubert syndrome with hepatic defect"	"46,XX sex reversal 4"	"neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities"
 "Ventricular septal defect"	1.0	1.0	1.0	1.0
 "Atrial septal defect"	1.0	1.0	1.0	1.0
 "Toe syndactyly"	1.0	1.0	0.0	0.0

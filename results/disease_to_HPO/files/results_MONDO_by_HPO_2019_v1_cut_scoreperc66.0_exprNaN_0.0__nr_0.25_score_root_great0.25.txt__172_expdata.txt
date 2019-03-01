@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"emphysema, hereditary pulmonary"	"Oguchi disease-1"	"chromosome 1p36 deletion syndrome"
 "Ureteral duplication"	1.0	0.0	1.0
 "Urogenital fistula"	1.0	0.0	1.0
 "Intestinal duplication"	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"setting-Sun phenomenon, familial benign"	"primary immunodeficiency syndrome due to p14 deficiency"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
 "Pes planus"	0.0	1.0	0.0	0.0
 "Growth abnormality"	0.0	1.0	0.0	0.0
 "Clinodactyly of the 5th finger"	0.0	1.0	0.0	0.0

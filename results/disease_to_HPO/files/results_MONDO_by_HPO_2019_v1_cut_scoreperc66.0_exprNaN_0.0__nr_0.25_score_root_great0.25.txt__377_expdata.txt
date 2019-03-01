@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cataract 20 multiple types"	"pantothenate kinase-associated neurodegeneration"	"7q11.23 microduplication syndrome"	"intellectual disability, autosomal recessive 18"
 "Narrow nose"	0.0	1.0	0.0	0.0
 "Glaucoma"	1.0	1.0	1.0	0.0
 "Sparse eyelashes"	0.0	1.0	0.0	1.0

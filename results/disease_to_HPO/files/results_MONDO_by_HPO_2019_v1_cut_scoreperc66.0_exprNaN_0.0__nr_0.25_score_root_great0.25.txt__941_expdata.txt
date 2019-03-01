@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cirrhosis, familial, with antigenemia"	"osteomesopyknosis"	"multicentric osteolysis, nodulosis, and arthropathy"	"osteomalacia, sclerosing, with cerebral calcification"	"Leber optic atrophy and dystonia"
 "HP:0000006"	1.0	1.0	0.0	0.0	0.0
 "Neoplasm"	1.0	0.0	0.0	0.0	0.0
 "Abnormality of metabolism/homeostasis"	1.0	0.0	0.0	0.0	0.0

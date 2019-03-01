@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intellectual disability, x-linked 107"	"hypotonia with lactic acidemia and hyperammonemia"	"van Maldergem syndrome 2"	"nucleoside diphosphate-linked moiety X Motif 15 deficiency; NUDT15D"	"epileptic encephalopathy, early infantile, 55"	"neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures"	"epileptic encephalopathy, early infantile, 62"	"hyperekplexia 4"
 "Intellectual disability"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

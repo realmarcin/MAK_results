@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Chudley-McCullough syndrome"	"epilepsy, familial focal, with variable foci 1"	"diffuse panbronchiolitis"	"autosomal recessive limb-girdle muscular dystrophy type 2I"	"distal myopathy with early respiratory muscle involvement"	"autosomal recessive nonsyndromic deafness 96"
 "Lower limb muscle weakness"	1.0	1.0	1.0	1.0	1.0	1.0
 "Ankle clonus"	1.0	1.0	1.0	1.0	1.0	1.0
 "Impaired vibration sensation in the lower limbs"	1.0	1.0	1.0	1.0	1.0	1.0

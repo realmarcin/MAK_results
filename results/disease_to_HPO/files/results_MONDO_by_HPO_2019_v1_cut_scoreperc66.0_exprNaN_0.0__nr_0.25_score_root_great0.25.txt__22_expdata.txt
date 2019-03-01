@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease type 1A"	"Rubinstein-Taybi syndrome due to CREBBP mutations"	"MHC class I deficiency"
 "Pes cavus"	1.0	1.0	1.0
 "Distal amyotrophy"	1.0	1.0	1.0
 "Areflexia"	1.0	1.0	1.0

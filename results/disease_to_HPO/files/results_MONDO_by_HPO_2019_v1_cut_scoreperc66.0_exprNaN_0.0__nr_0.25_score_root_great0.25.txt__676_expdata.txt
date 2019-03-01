@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"bilateral frontoparietal polymicrogyria"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Low-set ears"	1.0	1.0	1.0	0.0
 "Cutaneous finger syndactyly"	0.0	0.0	1.0	0.0

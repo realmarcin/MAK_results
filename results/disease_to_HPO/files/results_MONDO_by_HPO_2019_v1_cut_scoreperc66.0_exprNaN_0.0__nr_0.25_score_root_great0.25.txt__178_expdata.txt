@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"chondrocalcinosis due to apatite crystal deposition"	"multiple epiphyseal dysplasia, Beighton type"	"Buschke-Ollendorff syndrome"	"amyotrophic lateral sclerosis type 21"	"spinocerebellar ataxia type 17"
 "Osteoarthritis"	1.0	1.0	1.0	1.0	1.0
 "Joint dislocation"	1.0	1.0	1.0	1.0	1.0
 "Flat distal femoral epiphysis"	0.0	0.0	0.0	0.0	0.0

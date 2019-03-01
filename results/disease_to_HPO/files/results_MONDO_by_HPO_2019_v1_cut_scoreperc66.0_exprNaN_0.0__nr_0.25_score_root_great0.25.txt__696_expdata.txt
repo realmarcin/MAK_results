@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"emphysema, hereditary pulmonary"	"hypergonadotropic hypogonadism-cataract syndrome"	"2q37 microdeletion syndrome"	"nanophthalmos 4"	"infantile multisystem neurologic-endocrine-pancreatic disease"
 "Mandibular prognathia"	1.0	0.0	0.0	0.0	1.0
 "Large for gestational age"	1.0	1.0	0.0	0.0	0.0
 "Macroglossia"	1.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"X-linked corneal dermoid"	"Aarskog-Scott syndrome, X-linked"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 6"	"chondrodysplasia with joint dislocations, gPAPP type"
 "Microphthalmia"	0.0	1.0	0.0	0.0	0.0
 "Reduced visual acuity"	1.0	1.0	1.0	1.0	1.0
 "Deeply set eye"	0.0	1.0	0.0	0.0	0.0

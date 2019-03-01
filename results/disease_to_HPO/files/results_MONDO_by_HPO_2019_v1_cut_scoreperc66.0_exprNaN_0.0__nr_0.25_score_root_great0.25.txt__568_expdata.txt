@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cleidorhizomelic syndrome"	"ornithine carbamoyltransferase deficiency"	"Sebastian syndrome"	"lymphoproliferative syndrome 1"	"Bardet-Biedl syndrome 5"	"Bardet-Biedl syndrome 7"
 "Syndactyly"	0.0	1.0	1.0	1.0	1.0	1.0
 "Chronic otitis media"	1.0	1.0	0.0	0.0	0.0	0.0
 "Hypoplasia of dental enamel"	1.0	1.0	0.0	0.0	0.0	0.0

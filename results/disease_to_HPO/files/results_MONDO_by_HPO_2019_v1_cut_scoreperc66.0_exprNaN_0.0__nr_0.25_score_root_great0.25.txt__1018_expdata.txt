@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Friedreich ataxia and congenital glaucoma"	"nonarteritic anterior ischemic optic neuropathy, susceptibility to"	"Charcot-Marie-Tooth disease X-linked recessive 2"	"Charcot-Marie-Tooth disease X-linked recessive 3"	"severe combined immunodeficiency due to DCLRE1C deficiency"	"hereditary spastic paraplegia 47"	"MITF-related melanoma and renal cell carcinoma predisposition syndrome"
 "Interosseus muscle atrophy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Distal upper limb amyotrophy"	0.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Cervical spinal cord atrophy"	1.0	0.0	0.0	0.0	1.0	0.0	0.0

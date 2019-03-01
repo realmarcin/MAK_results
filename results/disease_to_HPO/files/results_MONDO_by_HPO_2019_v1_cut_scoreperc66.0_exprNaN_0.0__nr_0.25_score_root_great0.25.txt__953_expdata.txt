@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"brachydactyly type A1A"	"craniosynostosis-Dandy-Walker malformation-hydrocephalus syndrome"	"Hashimoto thyroiditis"	"Halothane hepatitis"	"premature ovarian failure 7"
 "Hallux varus"	1.0	1.0	1.0	1.0	1.0
 "Radial head subluxation"	0.0	0.0	0.0	0.0	0.0
 "Hyperechogenic kidneys"	0.0	0.0	0.0	0.0	0.0

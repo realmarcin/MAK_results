@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cataract 32 multiple types"	"neuronal ceroid lipofuscinosis 3"	"ornithine translocase deficiency"	"metaphyseal chondrodysplasia, Pena type"	"microphthalmia with hyperopia, retinal degeneration, macrophakia, and dental anomalies"	"microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma"	"intellectual disability, X-linked, syndromic, 35"	"susceptibility to respiratory infections associated with CD8alpha chain mutation"	"GEFSP4"	"autosomal dominant limb-girdle muscular dystrophy type 1H"	"retinitis pigmentosa 48"	"Leber congenital amaurosis 11"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "Tibial bowing"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Femoral bowing"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Metaphyseal widening"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

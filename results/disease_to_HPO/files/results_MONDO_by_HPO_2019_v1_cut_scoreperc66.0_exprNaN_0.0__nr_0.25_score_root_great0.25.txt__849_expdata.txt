@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"arms, malformation of"	"keratosis palmaris et plantaris-clinodactyly syndrome"	"chromosome 5q deletion syndrome"	"frontometaphyseal dysplasia 1"	"insomnia (disease)"	"platelet-activating factor acetylhydrolase deficiency (disease)"
 "Abnormality of the large intestine"	1.0	1.0	1.0	0.0	0.0	0.0
 "Diffuse palmoplantar hyperkeratosis"	0.0	1.0	0.0	0.0	0.0	0.0
 "Esophageal carcinoma"	0.0	1.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"atypical hemolytic-uremic syndrome with I factor anomaly"	"atypical hemolytic-uremic syndrome with B factor anomaly"	"atypical hemolytic-uremic syndrome with C3 anomaly"	"atypical hemolytic-uremic syndrome with thrombomodulin anomaly"	"glycogen storage disease due to muscle beta-enolase deficiency"
 "HP:0000007"	1.0	0.0	0.0	0.0	0.0
 "Hypertension"	1.0	1.0	1.0	1.0	1.0
 "Proteinuria"	1.0	1.0	1.0	1.0	1.0

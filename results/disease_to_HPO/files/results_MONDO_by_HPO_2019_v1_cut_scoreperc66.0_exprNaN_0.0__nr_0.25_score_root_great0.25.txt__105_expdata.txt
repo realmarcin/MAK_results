@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acute monocytic leukemia"	"OPA6"	"rhabdoid tumor predisposition syndrome 2"	"chromosome 17q12 duplication syndrome"
 "Bell-shaped thorax"	0.0	1.0	1.0	1.0
 "Protuberant abdomen"	1.0	1.0	0.0	1.0
 "Metaphyseal cupping"	1.0	1.0	1.0	1.0

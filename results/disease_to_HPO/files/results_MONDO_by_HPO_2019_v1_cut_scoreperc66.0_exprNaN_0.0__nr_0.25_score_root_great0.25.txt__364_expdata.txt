@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Joubert syndrome with oculorenal defect"	"retinal degeneration-nanophthalmos-glaucoma syndrome"	"Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome"
 "Septate vagina"	1.0	0.0	1.0
 "Dextrocardia"	1.0	1.0	1.0
 "Phthisis bulbi"	0.0	1.0	1.0

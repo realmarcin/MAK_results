@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"gingival fibromatosis-progressive deafness syndrome"	"split hand-foot malformation 1 with sensorineural hearing loss"	"isolated focal cortical dysplasia type II"	"spinocerebellar ataxia type 25"	"STING-associated vasculopathy with onset in infancy"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the skin"	0.0	1.0	0.0	1.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0

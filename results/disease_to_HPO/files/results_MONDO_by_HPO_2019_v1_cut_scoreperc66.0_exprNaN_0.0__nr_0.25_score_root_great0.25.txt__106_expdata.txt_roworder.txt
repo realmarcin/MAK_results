@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "metabolic.encephalomyopathic.crises..recurrent..with.rhabdomyolysis..cardiac.arrhythmias..and.neurodegeneration..MECRCN"
+"2" "spinocerebellar.ataxia.type.12"
+"3" "hyperlipidemia.due.to.hepatic.triglyceride.lipase.deficiency"

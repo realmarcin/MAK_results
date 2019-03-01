@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dysplasia epiphysealis hemimelica"	"PPR1"	"neuropathy, congenital, with arthrogryposis multiplex"	"postaxial tetramelic oligodactyly"	"neuronal ceroid lipofuscinosis 2"	"Unverricht-Lundborg syndrome"	"familial pancreatic carcinoma"	"agammaglobulinemia 6, autosomal recessive"
 "Visual hallucinations"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Auditory hallucinations"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Fingerprint intracellular accumulation of autofluorescent lipopigment storage material"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"femoral-facial syndrome"	"myotonia congenita, autosomal dominant"	"granulocytopenia with immunoglobulin abnormality"	"microcephaly 5, primary, autosomal recessive"
 "Sinusitis"	1.0	0.0	0.0	1.0
 "Autoimmunity"	1.0	1.0	1.0	1.0
 "Pulmonary fibrosis"	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"extrasystoles-short stature-hyperpigmentation-microcephaly syndrome"	"myopathy, distal, infantile-onset"	"radial heads, posterior dislocation of"	"autoimmune thrombocytopenic purpura"	"cramps, familial adolescent"	"junctional epidermolysis bullosa with pyloric atresia"	"nephrotic syndrome, type 4"	"X-linked myopathy with excessive autophagy"	"otopalatodigital syndrome type 1"	"combined immunodeficiency with faciooculoskeletal anomalies"	"osteogenesis imperfecta type 12"	"combined malonic and methylmalonic acidemia"	"autosomal dominant nonsyndromic deafness 40"	"hereditary thrombocytopenia with early-onset myelofibrosis"
 "Atrial septal defect"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Pulmonic stenosis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Pyloric stenosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

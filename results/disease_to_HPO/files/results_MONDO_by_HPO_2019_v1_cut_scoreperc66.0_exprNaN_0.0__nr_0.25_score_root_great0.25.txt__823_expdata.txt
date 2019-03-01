@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, hypermobility type"	"split-hand and split-foot with hypodontia"	"Tay-Sachs disease"	"Charcot-Marie-Tooth disease type 4J"	"UV-sensitive syndrome 2"	"microcephaly, short stature, and limb abnormalities"
 "Narrow maxilla"	1.0	1.0	0.0	1.0	0.0	1.0
 "Glabellar reflex"	0.0	0.0	1.0	1.0	1.0	0.0
 "HP:0012662"	0.0	0.0	0.0	1.0	0.0	0.0

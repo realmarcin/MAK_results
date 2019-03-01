@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ovarian dysgenesis 2"	"CFTDX"	"MRX88"	"intellectual disability, X-linked 100"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"Loeys-Dietz syndrome 1"
 "Microcephaly"	0.0	1.0	0.0	0.0	1.0	1.0
 "Seizures"	0.0	0.0	0.0	0.0	1.0	1.0
 "Muscular hypotonia"	0.0	0.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis type 18"	"encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy; PEBEL"	"Fanconi anemia complementation group v"	"Miles-Carpenter syndrome"
 "Pneumonia"	0.0	0.0	1.0	0.0
 "Eczema"	0.0	0.0	1.0	0.0
 "Abnormal facial shape"	0.0	0.0	1.0	0.0

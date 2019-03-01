@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pyruvate dehydrogenase E1-beta deficiency"	"thrombocythemia 3"	"paroxysmal nocturnal hemoglobinuria 2"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"
 "Hypertelorism"	1.0	1.0	0.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0

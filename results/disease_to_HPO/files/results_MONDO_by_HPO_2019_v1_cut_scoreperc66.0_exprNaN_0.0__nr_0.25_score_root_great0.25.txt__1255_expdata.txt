@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dentin dysplasia type II"	"trichomegaly"	"acro-renal-mandibular syndrome"	"Tay-Sachs disease AB variant"	"teeth, fused"	"tooth agenesis, selective, X-linked, 1"
 "Frontal bossing"	0.0	1.0	0.0	0.0	0.0	0.0
 "Taurodontia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the hair"	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Athrombia, essential"	"familial hemophagocytic lymphohistiocytosis type 1"	"MERRF syndrome"	"dystrophic epidermolysis bullosa pruriginosa"	"Cowden syndrome 4"	"epileptic encephalopathy, early infantile, 16"
 "Decreased corneal sensation"	0.0	0.0	0.0	0.0	0.0	0.0
 "Hemianopia"	0.0	0.0	1.0	0.0	0.0	0.0
 "Abnormality of mitochondrial metabolism"	1.0	1.0	1.0	1.0	1.0	1.0

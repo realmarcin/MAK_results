@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"microcytic anemia with liver iron overload"	"autosomal recessive osteopetrosis 5"	"idiopathic juvenile osteoporosis"	"hypotrichosis 5"	"dilated cardiomyopathy 1JJ"	"16p13.2 microdeletion syndrome"
 "Diaphyseal sclerosis"	0.0	1.0	1.0	0.0	0.0	0.0
 "Hepatosplenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Osteopetrosis"	0.0	1.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cyanosis, transient neonatal"	"severe early-onset pulmonary alveolar proteinosis due to MARS deficiency"	"epileptic encephalopathy, early infantile, 37; EIEE37"	"intellectual disability, autosomal dominant 53"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"	"osteopetrosis, autosomal dominant 3"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	1.0	1.0

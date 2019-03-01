@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"severe neonatal-onset encephalopathy with microcephaly"	"lymphedema, hereditary, 1C"	"infantile cerebellar-retinal degeneration"	"aortic aneurysm, familial thoracic 10"	"atrial fibrillation, familial, 18; ATFB18"	"premature ovarian failure 14"
 "Cerebellar atrophy"	0.0	1.0	0.0	1.0	1.0	1.0
 "CNS hypomyelination"	0.0	1.0	0.0	0.0	0.0	1.0
 "Hyperreflexia"	0.0	1.0	0.0	0.0	0.0	1.0

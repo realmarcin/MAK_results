@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"sarcoidosis, susceptibility to, 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Eczema"	0.0	0.0	1.0	0.0
 "Abnormality of skin pigmentation"	0.0	0.0	1.0	0.0
 "Cutis laxa"	0.0	0.0	1.0	0.0

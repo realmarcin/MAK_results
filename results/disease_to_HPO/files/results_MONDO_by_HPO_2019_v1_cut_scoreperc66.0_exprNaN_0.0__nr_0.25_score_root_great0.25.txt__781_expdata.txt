@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic aneurysm, familial abdominal, 1"	"FG syndrome 1"	"combined oxidative phosphorylation defect type 13"	"amyotrophic lateral sclerosis type 20"	"congenital insensitivity to pain-hypohidrosis syndrome"
 "Cryptorchidism"	1.0	1.0	0.0	0.0	0.0
 "Shawl scrotum"	1.0	1.0	0.0	0.0	0.0
 "Cleft palate"	1.0	1.0	0.0	0.0	0.0

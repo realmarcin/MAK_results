@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial benign copper deficiency"	"migraine, familial hemiplegic, 2"	"Duane retraction syndrome 2"	"Senior-Loken syndrome 5"	"MYP7"	"lethal congenital contracture syndrome 3"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0001425"	1.0	1.0	1.0	1.0	1.0	0.0
 "Generalized tonic-clonic seizures"	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Mononen-Karnes-Senac syndrome"	"14q22q23 microdeletion syndrome"	"autosomal recessive severe congenital neutropenia due to JAGN1 deficiency"
 "Widely spaced toes"	1.0	1.0	0.0
 "Cervical spinal canal stenosis"	1.0	0.0	1.0
 "Scheuermann-like vertebral changes"	1.0	0.0	0.0

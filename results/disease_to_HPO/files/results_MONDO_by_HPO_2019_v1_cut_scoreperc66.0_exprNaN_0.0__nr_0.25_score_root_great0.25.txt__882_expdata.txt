@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Treacher-Collins syndrome 1"	"mannose 6-phosphate receptor recognition defect, Lebanese type"	"Shprintzen-Goldberg syndrome"	"Tuftsin deficiency"	"lethal faciocardiomelic dysplasia"
 "Sparse lower eyelashes"	1.0	1.0	0.0	0.0	1.0
 "Abnormality of parotid gland"	0.0	1.0	0.0	0.0	0.0
 "Projection of scalp hair onto lateral cheek"	0.0	1.0	0.0	1.0	0.0

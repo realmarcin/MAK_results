@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"familial adrenal hypoplasia with absent pituitary luteinizing hormone"	"hereditary spastic paraplegia 51"
 "Adrenal insufficiency"	0.0	0.0	1.0
 "Aplasia of the uterus"	0.0	0.0	1.0
 "Generalized bronze hyperpigmentation"	0.0	0.0	1.0

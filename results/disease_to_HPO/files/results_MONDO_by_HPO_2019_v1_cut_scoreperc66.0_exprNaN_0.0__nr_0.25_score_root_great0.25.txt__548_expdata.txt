@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Krabbe disease"	"neuropathy, hereditary sensory, atypical"	"familial meningioma"	"Warburg micro syndrome 4"	"hereditary spastic paraplegia 63"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Talipes equinovarus"	1.0	1.0	0.0	0.0	0.0
 "Anterior rib cupping"	1.0	0.0	0.0	0.0	0.0

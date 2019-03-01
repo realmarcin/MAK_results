@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"microphthalmia-ankyloblepharon-intellectual disability syndrome"	"brachyolmia-amelogenesis imperfecta syndrome"	"hypertrophic cardiomyopathy 10"	"EIG3"	"Emery-Dreifuss muscular dystrophy 5, autosomal dominant"	"chromosome 4q21 deletion syndrome"
 "Left ventricular septal hypertrophy"	1.0	0.0	0.0	1.0	1.0	1.0
 "T-wave inversion"	0.0	1.0	1.0	1.0	0.0	1.0
 "HP:0031319"	0.0	0.0	0.0	0.0	0.0	1.0

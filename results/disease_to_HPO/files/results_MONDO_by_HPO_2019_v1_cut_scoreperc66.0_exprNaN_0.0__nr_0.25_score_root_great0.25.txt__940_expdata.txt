@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"CANDF1"	"cardiac rhythm disease"	"triple-A syndrome"	"peripheral cone dystrophy"	"permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome"
 "Hepatic necrosis"	1.0	1.0	1.0	0.0	0.0
 "Fulminant hepatic failure"	0.0	0.0	1.0	0.0	1.0
 "Decreased activity of 3-hydroxyacyl-CoA dehydrogenase"	0.0	0.0	1.0	1.0	0.0

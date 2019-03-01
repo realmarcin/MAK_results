@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, hypermobility type"	"aggressive periodontitis"	"Mounier-Kuhn syndrome"	"muscular dystrophy, congenital, with severe central nervous system atrophy and absence of large myelinated fibers"	"cone-rod dystrophy 6"
 "Arachnodactyly"	1.0	0.0	0.0	0.0	1.0
 "Microcornea"	1.0	0.0	0.0	0.0	1.0
 "Retinal detachment"	1.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital lactic acidosis, Saguenay-Lac-Saint-Jean type"	"gamma-glutamylcysteine synthetase deficiency"	"familial gestational hyperthyroidism"	"Charcot-Marie-Tooth disease type 2R"
 "Aminoaciduria"	1.0	1.0	1.0	1.0
 "Chronic lactic acidosis"	0.0	0.0	1.0	0.0
 "Renal Fanconi syndrome"	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"lactic aciduria due to D-lactic acid"	"Winchester syndrome"	"heterotaxy, visceral, 6, autosomal"	"short stature due to GHSR deficiency"	"hereditary spherocytosis type 2"	"cataract 45"
 "Loss of facial adipose tissue"	0.0	0.0	0.0	0.0	0.0	0.0
 "C1-C2 subluxation"	0.0	0.0	0.0	0.0	0.0	0.0
 "Poor motor coordination"	1.0	1.0	1.0	1.0	0.0	1.0

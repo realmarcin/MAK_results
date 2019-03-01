@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"focal facial dermal dysplasia type I"	"metachondromatosis"	"ophthalmoplegia-intellectual disability-lingua scrotalis syndrome"	"medium chain acyl-CoA dehydrogenase deficiency"	"fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement"
 "Fourth cranial nerve palsy"	1.0	1.0	0.0	0.0	1.0
 "Internal ophthalmoplegia"	0.0	0.0	1.0	0.0	1.0
 "Adrenocorticotropin deficient adrenal insufficiency"	0.0	0.0	0.0	1.0	1.0

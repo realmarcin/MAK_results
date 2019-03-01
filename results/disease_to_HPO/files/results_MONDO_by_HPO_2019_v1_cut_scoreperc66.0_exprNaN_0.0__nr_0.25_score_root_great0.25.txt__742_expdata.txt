@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"primary ciliary dyskinesia 26"	"distal 16p11.2 microdeletion syndrome"
 "Patent ductus arteriosus"	0.0	0.0	0.0	1.0
 "Intellectual disability"	0.0	0.0	0.0	1.0
 "Seizures"	0.0	1.0	1.0	1.0

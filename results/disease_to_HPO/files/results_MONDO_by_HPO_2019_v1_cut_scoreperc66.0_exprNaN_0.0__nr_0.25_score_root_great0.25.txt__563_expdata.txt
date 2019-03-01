@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MHC class II deficiency"	"autosomal recessive nonsyndromic deafness 93"	"platelet-type bleeding disorder 15"	"mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Hydrocephalus"	0.0	0.0	1.0	0.0
 "Hearing impairment"	1.0	1.0	1.0	1.0

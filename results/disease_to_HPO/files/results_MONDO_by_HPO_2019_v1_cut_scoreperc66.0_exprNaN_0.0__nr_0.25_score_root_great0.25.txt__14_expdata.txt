@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Eng-Strom syndrome"	"intellectual disability, Buenos-Aires type"	"persistent Mullerian duct syndrome"	"vitelliform macular dystrophy 4"
 "Cryptorchidism"	1.0	1.0	1.0	1.0
 "Cleft palate"	1.0	1.0	1.0	1.0
 "Joint laxity"	1.0	1.0	1.0	1.0

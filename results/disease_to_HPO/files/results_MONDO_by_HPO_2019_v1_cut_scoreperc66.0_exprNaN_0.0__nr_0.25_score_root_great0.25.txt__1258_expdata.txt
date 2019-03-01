@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cyanosis, transient neonatal"	"cataract 38"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"	"osteopetrosis, autosomal dominant 3"
 "HP:0003745"	0.0	1.0	0.0	0.0
 "Hemivertebrae"	0.0	1.0	0.0	0.0
 "Absent speech"	0.0	1.0	0.0	0.0

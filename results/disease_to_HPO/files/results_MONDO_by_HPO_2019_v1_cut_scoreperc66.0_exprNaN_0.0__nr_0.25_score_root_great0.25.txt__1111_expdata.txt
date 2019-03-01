@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"immunoglobulin d level 1N plasma, low"	"lymphoblastic leukemia, acute, with lymphomatous features"	"retinitis pigmentosa"	"lung agenesis-heart defect-thumb anomalies syndrome"	"Loeys-Dietz syndrome 2"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Eosinophilia"	0.0	0.0	0.0	0.0	0.0	1.0
 "HP:0003593"	0.0	0.0	0.0	0.0	0.0	1.0

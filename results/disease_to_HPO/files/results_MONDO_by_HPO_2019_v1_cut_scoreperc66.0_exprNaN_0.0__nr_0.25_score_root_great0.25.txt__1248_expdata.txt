@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"hemochromatosis type 2B"	"chromosome 17q21.31 duplication syndrome"
 "HP:0000007"	0.0	0.0	1.0	0.0
 "Pulmonic stenosis"	0.0	0.0	1.0	0.0
 "Genu varum"	0.0	0.0	1.0	0.0

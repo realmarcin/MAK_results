@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"vitelliform macular dystrophy 1"	"familial hypertryptophanemia"	"corticosteroid-binding globulin deficiency"	"autosomal recessive osteopetrosis 6"	"neurodegenerative syndrome due to cerebral folate transport deficiency"	"Fanconi anemia complementation group P"
 "Oral cleft"	0.0	1.0	0.0	0.0	0.0	0.0
 "Schizophrenia"	0.0	0.0	0.0	0.0	0.0	1.0
 "Cholelithiasis"	0.0	0.0	1.0	0.0	0.0	0.0

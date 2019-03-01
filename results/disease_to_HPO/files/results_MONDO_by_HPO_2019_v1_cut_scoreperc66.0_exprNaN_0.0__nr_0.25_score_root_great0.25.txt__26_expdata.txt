@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"episodic kinesigenic dyskinesia 1"	"dystonia with Ringbinden"	"myotonic dystrophy type 2"	"cataract, congenital, with mental impairment and dentate gyrus atrophy"	"FGFR2-related bent bone dysplasia"
 "Torsion dystonia"	1.0	1.0	1.0	1.0	0.0
 "Torticollis"	1.0	1.0	1.0	1.0	1.0
 "Blepharospasm"	1.0	1.0	1.0	1.0	1.0

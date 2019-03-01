@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary benign intraepithelial dyskeratosis"	"X-linked hypohidrotic ectodermal dysplasia"	"HEC syndrome"	"osteosclerosis-ichthyosis-premature ovarian failure syndrome"	"hyperlipidemia due to hepatic triglyceride lipase deficiency"	"autosomal recessive spinocerebellar ataxia 20"
 "Cirrhosis"	1.0	1.0	0.0	0.0	0.0	0.0
 "Ridged nail"	1.0	1.0	0.0	0.0	0.0	0.0
 "Premature loss of teeth"	1.0	1.0	0.0	0.0	0.0	0.0

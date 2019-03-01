@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fused mandibular incisors"	"hypospadias, hypertelorism, upper 51D coloboma, and mixed-type hearing loss"	"lethal neonatal spasticity-epileptic encephalopathy syndrome"
 "Cleft upper lip"	1.0	0.0	0.0
 "HP:0000006"	1.0	1.0	1.0
 "Microphthalmia"	1.0	1.0	1.0

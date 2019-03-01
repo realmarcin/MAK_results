@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fragile site, Distamycin a type, rare, fra(16)(q22.1)"	"porphyria due to ALA dehydratase deficiency"	"mosaic variegated aneuploidy syndrome 2"	"Emery-Dreifuss muscular dystrophy 7, autosomal dominant"	"schizophrenia 19"	"immunodeficiency 11b with atopic dermatitis"	"Galloway-Mowat syndrome 5"	"epileptic encephalopathy, early infantile, 62"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

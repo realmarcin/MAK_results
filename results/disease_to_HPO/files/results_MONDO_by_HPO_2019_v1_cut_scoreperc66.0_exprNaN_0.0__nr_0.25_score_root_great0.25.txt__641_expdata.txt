@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ACys amyloidosis"	"familial visceral amyloidosis"	"amyotrophic dystonic paraplegia"	"epithelial recurrent erosion dystrophy"	"atrial fibrillation, familial, 3"	"MYP5"
 "Lattice corneal dystrophy"	1.0	0.0	1.0	1.0	1.0	1.0
 "Generalized amyloid deposition"	1.0	1.0	0.0	0.0	0.0	0.0
 "Cardiac amyloidosis"	1.0	0.0	0.0	0.0	0.0	0.0

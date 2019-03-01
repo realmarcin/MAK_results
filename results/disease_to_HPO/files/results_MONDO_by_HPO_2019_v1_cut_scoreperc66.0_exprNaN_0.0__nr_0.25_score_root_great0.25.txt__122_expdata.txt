@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Dahlberg-borer-Newcomer syndrome"	"macular dystrophy, X-linked"	"Majeed syndrome"	"inflammatory bowel disease 13"	"renal hypodysplasia/aplasia 2"	"erythrokeratodermia variabilis et progressiva 5"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	0.0
 "Frontal bossing"	1.0	1.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"AREDYLD syndrome"	"lymphoblastic transformation, intrinsic defect 1N"	"myopathy, lactic acidosis, and sideroblastic anemia 1"	"hidrotic ectodermal dysplasia, Christianson-Fourie type"
 "Aprosencephaly"	1.0	0.0	0.0	1.0
 "Abnormal external genitalia"	1.0	1.0	1.0	0.0
 "Intestinal lymphedema"	0.0	1.0	0.0	0.0

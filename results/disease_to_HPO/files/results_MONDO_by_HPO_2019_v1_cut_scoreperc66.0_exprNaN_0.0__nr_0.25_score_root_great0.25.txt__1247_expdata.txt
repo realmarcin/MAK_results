@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dwarfism with stiff joints and ocular abnormalities"	"rhizomelic chondrodysplasia punctata type 1"	"Yunis-Varon syndrome"	"Dyggve-Melchior-Clausen disease"	"spondylocarpotarsal synostosis syndrome"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0	0.0
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0
 "Hydroureter"	0.0	0.0	0.0	0.0	0.0

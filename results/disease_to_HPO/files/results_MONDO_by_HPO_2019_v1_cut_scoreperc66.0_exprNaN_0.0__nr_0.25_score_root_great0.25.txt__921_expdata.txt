@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"isolated cryptophthalmia"	"neurohypophyseal diabetes insipidus"	"Rapp-Hodgkin syndrome"	"radial ray hypoplasia-choanal atresia syndrome"	"acheiropody"	"autism susceptibility 1"	"lung cancer"	"celiac disease, susceptibility to, 1"	"cramps, familial adolescent"	"X-linked hydrocephalus with stenosis of the aqueduct of Sylvius"	"syndromic X-linked intellectual disability type 10"
 "Pectus carinatum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
 "Posteriorly rotated ears"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
 "Ulnar deviation of finger"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0

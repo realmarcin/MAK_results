@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"ALG12-CDG"	"autosomal recessive nonsyndromic deafness 33"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"
 "Dystonia"	1.0	1.0	1.0	1.0
 "Spasticity"	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0

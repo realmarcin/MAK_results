@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"absence of fingerprints-congenital milia syndrome"	"renal cysts and diabetes syndrome"	"IgE responsiveness, atopic"	"raindrop hypopigmentation"	"schizophrenia (disease)"	"rhizomelic syndrome, Urbach type"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the immune system"	1.0	1.0	1.0	1.0	1.0	1.0
 "Fever"	0.0	0.0	0.0	1.0	0.0	1.0

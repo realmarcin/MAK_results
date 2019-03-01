@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Onychotrichodysplasia and neutropenia"	"frontometaphyseal dysplasia 1"	"cardiac arrhythmia, ankyrin-b-related"	"chromosome 1p36 deletion syndrome"
 "Intellectual disability"	0.0	1.0	1.0	0.0
 "Toe syndactyly"	0.0	1.0	1.0	0.0
 "Abnormality of the pinna"	0.0	1.0	1.0	0.0

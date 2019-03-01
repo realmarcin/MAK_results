@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cerebral amyloid angiopathy, APP-related"	"peroxisome biogenesis disorder 12A (Zellweger)"	"intellectual disability, autosomal dominant 30"	"skin creases, congenital symmetric circumferential, 2; CSCSC2"
 "Flexion contracture"	0.0	0.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	1.0

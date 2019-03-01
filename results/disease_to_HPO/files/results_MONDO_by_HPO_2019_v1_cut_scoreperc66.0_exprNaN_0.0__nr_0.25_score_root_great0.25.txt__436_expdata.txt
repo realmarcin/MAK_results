@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ebstein anomaly"	"hypertelorism and tetralogy of fallot"	"Krabbe disease"	"nemaline myopathy 7"	"spermatogenic failure 17; SPGF17"
 "Shawl scrotum"	1.0	1.0	0.0	0.0	0.0
 "Large fontanelles"	0.0	1.0	0.0	0.0	1.0
 "Delayed cranial suture closure"	0.0	1.0	0.0	1.0	0.0

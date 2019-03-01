@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinitis pigmentosa-intellectual disability-deafness-hypogenitalism syndrome"	"Hirschsprung disease, susceptibility to, 2"	"Sebastian syndrome"	"Bardet-Biedl syndrome 4"	"Bardet-Biedl syndrome 5"	"Bardet-Biedl syndrome 7"	"Bardet-Biedl syndrome 8"	"Bardet-Biedl syndrome 18"	"congenital analbuminemia"
 "Chordee"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "External genital hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Cerebral white matter hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

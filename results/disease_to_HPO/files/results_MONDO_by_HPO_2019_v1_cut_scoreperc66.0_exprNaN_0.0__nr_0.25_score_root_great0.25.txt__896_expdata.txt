@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intussusception"	"hypoinsulinemic hypoglycemia and body hemihypertrophy"	"acrofacial dysostosis, Palagonia type"	"colobomatous macrophthalmia-microcornea syndrome"	"branchiootic syndrome 1"	"hyperinsulinemic hypoglycemia, familial, 4"	"progressive encephalopathy with leukodystrophy due to DECR deficiency"
 "Neonatal hypoglycemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Hyperinsulinemic hypoglycemia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Recurrent hypoglycemia"	0.0	0.0	0.0	1.0	0.0	1.0	0.0

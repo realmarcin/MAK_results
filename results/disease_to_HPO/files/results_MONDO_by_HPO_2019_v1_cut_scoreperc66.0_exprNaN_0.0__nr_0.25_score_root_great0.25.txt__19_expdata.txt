@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary spastic paraplegia 15"	"frontotemporal dementia, chromosome 3-linked"	"ribbing disease"	"thrombophilia due to protein S deficiency, autosomal dominant"
 "First dorsal interossei muscle weakness"	1.0	1.0	1.0	1.0
 "Thenar muscle atrophy"	1.0	1.0	1.0	1.0
 "First dorsal interossei muscle atrophy"	1.0	1.0	1.0	1.0

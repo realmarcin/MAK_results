@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"tyrosinemia type II"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Cafe-au-lait spot"	0.0	1.0	0.0	0.0
 "Agenesis of corpus callosum"	0.0	1.0	0.0	0.0
 "Abnormality of abdomen morphology"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741"
+"1" "intellectual.disability..autosomal.recessive.13"
+"2" "Alagille.syndrome.due.to.a.NOTCH2.point.mutation"
+"3" "growth.delay.hydrocephaly.lung.hypoplasia.syndrome"

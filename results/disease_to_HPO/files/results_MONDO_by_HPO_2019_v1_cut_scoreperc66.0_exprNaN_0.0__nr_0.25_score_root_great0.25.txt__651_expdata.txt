@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperpigmentation of eyelid"	"protoporphyria, erythropoietic"	"congenital stationary night blindness 2A"	"growth failure, microcephaly, mental retardation, cataracts, large joint contractures, osteoporosis, cortical dysplasia, and cerebellar atrophy"	"cerebrooculofacioskeletal syndrome 2"	"aortic aneurysm, familial thoracic 11, susceptibility to"
 "Infantile hypercalcemia"	1.0	0.0	0.0	1.0	0.0	0.0
 "Renal cortical adenoma"	1.0	0.0	0.0	0.0	0.0	0.0
 "Parathyroid carcinoma"	1.0	0.0	0.0	1.0	1.0	1.0

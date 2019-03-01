@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial apolipoprotein C-II deficiency"	"MYMY1"	"spinocerebellar ataxia-dysmorphism syndrome"	"autosomal recessive nonsyndromic deafness 12"	"trichoepithelioma, multiple familial, 1"	"Hirschsprung disease, susceptibility to, 3"	"autosomal recessive nonsyndromic deafness 70"	"short-rib thoracic dysplasia 15 with polydactyly; SRTD15"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Hyperhidrosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Orthostatic hypotension"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

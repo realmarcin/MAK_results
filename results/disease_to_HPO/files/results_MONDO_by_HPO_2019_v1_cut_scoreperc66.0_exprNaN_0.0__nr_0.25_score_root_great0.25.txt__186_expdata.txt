@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acquired polycythemia vera"	"Schinzel-Giedion syndrome"	"childhood absence epilepsy"	"lethal short-limb skeletal dysplasia, Al Gazali type"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Micrognathia"	1.0	1.0	1.0	1.0

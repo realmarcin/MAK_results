@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"short-limb skeletal dysplasia with severe combined immunodeficiency"	"aplasia cutis congenita-intestinal lymphangiectasia syndrome"	"Fibulo-ulnar hypoplasia-renal anomalies syndrome"	"ulna hypoplasia-intellectual disability syndrome"	"X-linked Opitz G/BBB syndrome"	"macrocephaly-autism syndrome"
 "Aplasia/Hypoplasia involving the metacarpal bones"	1.0	0.0	1.0	1.0	0.0	1.0
 "Aplasia/Hypoplasia of metatarsal bones"	1.0	0.0	1.0	1.0	0.0	1.0
 "Aplasia/Hypoplasia of the phalanges of the hand"	0.0	1.0	1.0	1.0	1.0	1.0

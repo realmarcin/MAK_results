@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperlysinemia due to defect 1N lysine transport into mitochondria"	"intellectual disability, x-linked 107"	"spinocerebellar ataxia type 12"	"hydrolethalus syndrome 2"	"osteogenesis imperfecta type 13"
 "HP:0000007"	1.0	0.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	0.0	0.0
 "Aggressive behavior"	0.0	0.0	1.0	0.0	1.0

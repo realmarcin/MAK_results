@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX53"	"retinitis pigmentosa 23"	"Asperger syndrome, X-linked, susceptibility to, 1"	"primary ciliary dyskinesia 26"
 "Generalized tonic-clonic seizures"	0.0	1.0	0.0	0.0
 "Parkinsonism"	0.0	1.0	0.0	0.0
 "Apraxia"	0.0	1.0	0.0	0.0

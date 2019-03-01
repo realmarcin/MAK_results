@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Balkan nephropathy"	"autosomal recessive palmoplantar keratoderma and congenital alopecia"	"pyruvate dehydrogenase E3-binding protein deficiency"	"mucopolysaccharidoses, unclassified types"	"spinocerebellar ataxia type 42"
 "HP:0003593"	1.0	1.0	1.0	1.0	1.0
 "Depressivity"	1.0	0.0	0.0	0.0	0.0
 "Brittle hair"	1.0	0.0	0.0	0.0	0.0

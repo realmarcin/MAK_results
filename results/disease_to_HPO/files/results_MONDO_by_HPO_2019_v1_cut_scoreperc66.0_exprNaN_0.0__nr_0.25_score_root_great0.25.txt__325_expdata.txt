@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Boomerang dysplasia"	"inherited torticollis (disease)"	"otospondylomegaepiphyseal dysplasia, autosomal recessive"	"myofibromatosis, infantile, 1"	"fucosidosis"	"ophthalmoplegia totalis with ptosis and miosis"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"
 "Intestinal malrotation"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
 "Stillbirth"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
 "Hypoplastic fingernail"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

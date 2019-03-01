@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anus, imperforate"	"anti-glomerular basement membrane disease"	"sulfite oxidase deficiency due to molybdenum cofactor deficiency type A"	"muscular dystrophy, congenital, with severe central nervous system atrophy and absence of large myelinated fibers"	"cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome"
 "Brachydactyly"	0.0	1.0	1.0	0.0	0.0
 "Syndactyly"	0.0	0.0	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0

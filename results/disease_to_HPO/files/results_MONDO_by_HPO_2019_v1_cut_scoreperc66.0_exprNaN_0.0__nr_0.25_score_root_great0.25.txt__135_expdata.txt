@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital stationary night blindness autosomal dominant 2"	"pterygium colli, isolated"	"autism susceptibility 1"	"ethylmalonic encephalopathy"	"microphthalmia, syndromic 11"	"vitelliform macular dystrophy 4"
 "Talipes equinovarus"	1.0	1.0	1.0	1.0	1.0	1.0
 "Malar flattening"	0.0	1.0	1.0	1.0	0.0	1.0
 "Short stature"	0.0	1.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Morquio syndrome C"	"MRX77"	"McLeod neuroacanthocytosis syndrome"	"pituitary hormone deficiency, combined, 6"	"Fanconi anemia complementation group L"	"structural heart defects and renal anomalies syndrome"	"mucocutaneous lymph node syndrome"
 "Thrombocytopenia"	1.0	1.0	1.0	0.0	1.0	1.0	0.0
 "Myelodysplasia"	1.0	1.0	0.0	0.0	1.0	1.0	0.0
 "Multiple cafe-au-lait spots"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

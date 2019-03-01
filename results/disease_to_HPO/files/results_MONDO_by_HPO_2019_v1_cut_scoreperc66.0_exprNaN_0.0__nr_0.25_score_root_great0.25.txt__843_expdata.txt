@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"	"intellectual disability, autosomal recessive 58; MRT58"
 "Intellectual disability"	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0
 "Osteopenia"	0.0	0.0	0.0	0.0	1.0

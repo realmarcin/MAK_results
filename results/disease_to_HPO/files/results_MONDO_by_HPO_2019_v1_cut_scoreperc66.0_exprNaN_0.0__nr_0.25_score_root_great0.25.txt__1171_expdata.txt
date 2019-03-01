@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"annular pancreas"	"Joubert syndrome with hepatic defect"	"Senior-Loken syndrome 1"	"atrioventricular defect-blepharophimosis-radial and anal defect syndrome"	"skeletal dysplasia-epilepsy-short stature syndrome"	"holoprosencephaly 9"
 "Renal malrotation"	0.0	0.0	0.0	0.0	1.0	0.0
 "Increased lacrimation"	1.0	0.0	0.0	0.0	0.0	0.0
 "Depressed nasal tip"	1.0	0.0	0.0	0.0	0.0	1.0

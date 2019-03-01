@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "platelet.type.bleeding.disorder.8"
+"2" "aortic.aneurysm..familial.thoracic.6"
+"3" "Diamond.Blackfan.anemia.like"

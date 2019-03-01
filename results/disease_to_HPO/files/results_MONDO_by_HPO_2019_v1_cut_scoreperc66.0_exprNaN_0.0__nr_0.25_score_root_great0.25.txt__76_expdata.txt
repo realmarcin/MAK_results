@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX92"	"mosaic variegated aneuploidy syndrome 2"	"van Maldergem syndrome 2"
 "Strabismus"	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0

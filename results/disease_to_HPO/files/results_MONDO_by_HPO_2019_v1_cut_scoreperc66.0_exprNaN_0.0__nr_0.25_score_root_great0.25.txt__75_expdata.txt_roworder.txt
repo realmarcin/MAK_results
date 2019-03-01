@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.1"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.2"
+"1" "autosomal.recessive.nonsyndromic.deafness.21"
+"2" "retinitis.pigmentosa.18"
+"3" "autosomal.recessive.nonsyndromic.deafness.1B"

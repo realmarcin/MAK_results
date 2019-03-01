@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary mucoepithelial dysplasia"	"aggressive periodontitis"	"3MC syndrome 2"	"Mounier-Kuhn syndrome"	"MGS"
 "Ptosis"	1.0	0.0	1.0	0.0	0.0
 "Micrognathia"	1.0	0.0	1.0	0.0	0.0
 "Facial asymmetry"	1.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"recombinant 8 syndrome"	"toe, misshapen"	"toe, rotated fifth"	"NYS4"	"thanatophoric dysplasia, Glasgow variant"	"recessive aplasia cutis congenita of limbs"
 "HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
 "Peripheral neuropathy"	0.0	0.0	0.0	0.0	1.0	0.0
 "Vesicoureteral reflux"	0.0	0.0	0.0	1.0	0.0	0.0

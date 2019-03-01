@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"	"microcephaly 16, primary, autosomal recessive; MCPH16"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Ventriculomegaly"	0.0	0.0	0.0	1.0
 "Peripheral neuropathy"	0.0	1.0	0.0	1.0

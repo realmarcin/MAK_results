@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Patterson-Stevenson-Fontaine syndrome"	"frontometaphyseal dysplasia 1"	"cardiac arrhythmia, ankyrin-b-related"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"osteogenesis imperfecta type 7"
 "Cleft palate"	1.0	1.0	0.0	0.0	0.0
 "Intellectual disability"	1.0	1.0	1.0	0.0	0.0
 "Hearing impairment"	1.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"familial adrenal hypoplasia with absent pituitary luteinizing hormone"	"hereditary spastic paraplegia 51"
 "Hypospadias"	1.0	1.0	1.0	0.0	1.0	0.0
 "Adrenal hyperplasia"	0.0	1.0	1.0	0.0	1.0	0.0
 "Gynecomastia"	1.0	1.0	1.0	1.0	1.0	1.0

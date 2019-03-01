@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"achalasia microcephaly syndrome"	"hereditary hypophosphatemic rickets with hypercalciuria"	"laryngo-onycho-cutaneous syndrome"	"neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency"	"nystagmus, congenital, autosomal recessive"	"chronic recurrent multifocal osteomyelitis (disease)"	"autosomal recessive osteopetrosis 3"	"Pyle disease"	"Sjogren-Larsson syndrome"	"FEB2"	"nephronophthisis 7"	"optic atrophy-intellectual disability syndrome"	"long QT syndrome 15"	"periventricular nodular heterotopia 7; PVNH7"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Multiple joint dislocation"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormal cartilage matrix"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

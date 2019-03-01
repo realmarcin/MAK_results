@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MYH7-related late-onset scapuloperoneal muscular dystrophy"	"spinocerebellar ataxia type 5"	"hyper-IgM syndrome type 3"	"MEDNIK syndrome"	"dilated cardiomyopathy 1GG"	"congenital stationary night blindness 1F"	"hydrocephalus, nonsyndromic, autosomal recessive 2"	"congenital myasthenic syndrome 7"	"PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation"	"spinocerebellar ataxia 43; SCA43"	"epileptic encephalopathy, early infantile, 38; EIEE38"
 "Hyporeflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Areflexia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Distal muscle weakness"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

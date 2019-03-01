@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"platelet aggregation, spontaneous"	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	"IGAN2"	"alacrima, achalasia, and mental retardation syndrome"
 "Lichenification"	1.0	0.0	0.0	0.0
 "Hypergranulosis"	1.0	1.0	1.0	1.0
 "Orthokeratosis"	1.0	1.0	1.0	1.0

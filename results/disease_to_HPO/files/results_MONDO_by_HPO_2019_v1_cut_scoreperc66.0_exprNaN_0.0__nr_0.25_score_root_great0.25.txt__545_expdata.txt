@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ectodermal dysplasia with adrenal cyst"	"ciliary dyskinesia, primary, 36, X-linked; CILD36"	"epileptic encephalopathy with global cerebral demyelination"	"congenital nephrotic syndrome - interstitial lung disease - epidermolysis bullosa syndrome"	"Leber congenital amaurosis with early-onset deafness"
 "Pes planus"	0.0	1.0	1.0	0.0	0.0
 "Esotropia"	0.0	1.0	0.0	1.0	0.0
 "Midface retrusion"	0.0	1.0	0.0	1.0	1.0

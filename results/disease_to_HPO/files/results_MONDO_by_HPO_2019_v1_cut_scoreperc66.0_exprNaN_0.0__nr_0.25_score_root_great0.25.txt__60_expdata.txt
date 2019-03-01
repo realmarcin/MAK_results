@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"atherosclerosis-deafness-diabetes-epilepsy-nephropathy syndrome"	"AA2"	"maturity-onset diabetes of the young type 11"	"COG6-CGD"	"myopathy, centronuclear, 5"	"Cole-Carpenter syndrome 2"	"frontometaphyseal dysplasia 2; FMD2"	"spinocerebellar ataxia 46"	"epileptic encephalopathy, early infantile, 57"
 "Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Gait ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

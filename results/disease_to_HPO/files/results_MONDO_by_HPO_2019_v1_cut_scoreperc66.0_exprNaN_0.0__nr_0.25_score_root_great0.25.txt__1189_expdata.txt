@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"metabolic myopathy due to lactate transporter defect"	"alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"	"peroxisome biogenesis disorder 1B"	"anterior segment dysgenesis 6"	"orofaciodigital syndrome 18"	"microcephaly 21, primary, autosomal recessive"
 "HP:0000007"	0.0	1.0	0.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	0.0	0.0	1.0	0.0	0.0
 "Delayed speech and language development"	0.0	0.0	0.0	1.0	1.0	1.0

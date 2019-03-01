@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"factor VII and Factor VIII, combined deficiency of"	"platelet disorder, undefined"	"thrombophilia due to activated protein C resistance"	"Brugada syndrome 6"
 "Recurrent thrombophlebitis"	1.0	1.0	1.0	1.0
 "Elevated factor V activity"	1.0	0.0	0.0	0.0
 "Spontaneous platelet aggregation"	0.0	1.0	0.0	0.0

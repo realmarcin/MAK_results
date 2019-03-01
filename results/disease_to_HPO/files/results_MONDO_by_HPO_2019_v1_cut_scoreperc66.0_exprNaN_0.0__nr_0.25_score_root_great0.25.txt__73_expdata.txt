@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Langer mesomelic dysplasia"	"Werner syndrome"	"Charcot-Marie-Tooth disease recessive intermediate a"	"alternating hemiplegia of childhood 2"
 "Brachydactyly"	0.0	1.0	1.0	1.0
 "Pulmonic stenosis"	1.0	1.0	1.0	1.0
 "Aortic valve stenosis"	0.0	1.0	1.0	1.0

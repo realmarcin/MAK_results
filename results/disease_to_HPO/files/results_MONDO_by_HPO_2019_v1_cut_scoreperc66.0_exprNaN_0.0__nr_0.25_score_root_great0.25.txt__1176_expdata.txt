@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"microcephaly-cardiomyopathy syndrome"	"fine-Lubinsky syndrome"	"autosomal recessive nonsyndromic deafness 77"	"focal segmental glomerulosclerosis 6"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13"	"primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"	"Meier-Gorlin syndrome 6"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Blepharitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Psoriasiform dermatitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

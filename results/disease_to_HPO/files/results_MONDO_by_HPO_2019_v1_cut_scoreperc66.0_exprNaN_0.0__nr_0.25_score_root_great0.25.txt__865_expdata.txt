@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"contractures-ectodermal dysplasia-cleft lip/palate syndrome"	"X-linked lethal multiple pterygium syndrome"	"avascular necrosis of femoral head, primary, 1"	"autosomal recessive limb-girdle muscular dystrophy type 2L"	"cataract 38"	"intellectual disability-hypotonia-spasticity-sleep disorder syndrome"
 "Congenital laryngeal stridor"	0.0	1.0	0.0	0.0	0.0	0.0
 "Progressive spastic quadriplegia"	0.0	1.0	0.0	0.0	0.0	0.0
 "Rotary nystagmus"	0.0	1.0	1.0	0.0	0.0	0.0

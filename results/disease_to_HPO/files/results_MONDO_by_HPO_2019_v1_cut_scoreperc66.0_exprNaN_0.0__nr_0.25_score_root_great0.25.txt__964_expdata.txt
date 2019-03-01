@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"NYS4"	"congenital bilateral aplasia of vas deferens from CFTR mutation"	"Von Willebrand disease, X-linked form"	"holoprosencephaly 7"	"Potocki-Lupski syndrome"	"severe combined immunodeficiency due to DNA-PKcs deficiency"
 "HP:0000007"	0.0	1.0	0.0	0.0	0.0	0.0
 "HP:0000006"	0.0	0.0	0.0	1.0	1.0	1.0
 "Vesicoureteral reflux"	1.0	0.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"malignant hyperthermia, susceptibility to, 2"	"cataract 16 multiple types"	"inflammatory skin and bowel disease, neonatal, 2"	"microphthalmia, isolated, with coloboma 10"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Micropenis"	0.0	0.0	0.0	1.0
 "Sex reversal"	1.0	1.0	1.0	1.0

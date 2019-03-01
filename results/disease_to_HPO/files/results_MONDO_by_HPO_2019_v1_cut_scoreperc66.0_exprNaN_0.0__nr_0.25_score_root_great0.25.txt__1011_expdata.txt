@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"pigmented nodular adrenocortical disease, primary, 3"	"chromosome 17q21.31 duplication syndrome"
 "Craniosynostosis"	1.0	0.0	1.0	0.0
 "Hallux valgus"	1.0	0.0	1.0	0.0
 "Shortening of all middle phalanges of the fingers"	1.0	0.0	0.0	0.0

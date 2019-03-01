@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"metaphyseal chondrodysplasia, Pena type"	"familial hemophagocytic lymphohistiocytosis 4"	"palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome"	"amelogenesis imperfecta hypomaturation type 2A2"	"episodic pain syndrome, familial, 2"
 "Anteverted nares"	1.0	1.0	0.0	0.0	0.0
 "Muscular hypotonia"	1.0	1.0	0.0	0.0	0.0
 "Depressed nasal bridge"	1.0	1.0	0.0	0.0	0.0

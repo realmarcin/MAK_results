@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dermal Ridges, patternless"	"Sneddon syndrome"	"isolated anterior cervical hypertrichosis"	"acral peeling skin syndrome"	"hereditary spastic paraplegia 42"	"heterotaxy, visceral, 6, autosomal"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Short stature"	1.0	1.0	1.0	1.0	1.0	0.0

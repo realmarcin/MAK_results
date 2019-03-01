@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"tricho-retino-dento-digital syndrome"	"Woronets trait"	"infantile convulsions and choreoathetosis"	"amelogenesis imperfecta hypomaturation type 2A5"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Sparse body hair"	0.0	1.0	1.0	0.0
 "Slow-growing hair"	0.0	1.0	0.0	1.0

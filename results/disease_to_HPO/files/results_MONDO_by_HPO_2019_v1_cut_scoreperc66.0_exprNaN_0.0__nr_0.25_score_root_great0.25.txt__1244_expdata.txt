@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"facial spasm"	"Charcot-Marie-Tooth disease type 2D"	"hereditary spastic paraplegia 10"	"pontocerebellar hypoplasia type 2B"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0
 "Hydroureter"	0.0	0.0	0.0	0.0
 "Xerostomia"	0.0	0.0	0.0	0.0

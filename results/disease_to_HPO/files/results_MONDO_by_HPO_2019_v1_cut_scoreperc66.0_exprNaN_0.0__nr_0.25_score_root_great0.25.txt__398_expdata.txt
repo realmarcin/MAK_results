@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"exostoses, multiple, type 2"	"external auditory canal atresia-vertical talus-hypertelorism syndrome"	"Larsen syndrome"	"pantothenate kinase-associated neurodegeneration"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"
 "Rib exostoses"	1.0	1.0	1.0	1.0	0.0
 "Scapular exostoses"	1.0	1.0	1.0	0.0	0.0
 "Madelung-like forearm deformities"	1.0	1.0	0.0	0.0	0.0

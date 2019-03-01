@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"tooth agenesis, selective, 4"	"Scheuermann disease"	"metaphyseal chondrodysplasia, Pena type"	"thumb, distal hyperextensibility of"	"syndromic X-linked intellectual disability Abidi type"	"inflammatory bowel disease 3"	"rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome"	"pyruvate dehydrogenase phosphatase deficiency"	"DK1-CDG"	"complement factor I deficiency"	"Joubert syndrome 24"	"neurodevelopmental disorder with hypotonia, neuropathy, and deafness"
 "Limited elbow extension"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Epicanthus"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormality of the cardiac septa"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autoimmune disease"	"May-Hegglin anomaly"	"nasal groove, familial transverse"	"combined immunodeficiency due to DOCK8 deficiency"	"persistent Mullerian duct syndrome"	"amyotrophic lateral sclerosis type 15"	"ataxia - oculomotor apraxia type 4"	"language delay and attention deficit-hyperactivity disorder/cognitive impairment with or without cardiac arrhythmia; LADCI"	"intellectual disability, autosomal dominant 48"
 "Ventriculomegaly"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
 "Short columella"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0008897"	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"episodic ataxia type 2"	"Bartter disease type 5"	"otopalatodigital syndrome type 2"	"X-linked hypohidrotic ectodermal dysplasia"
 "Asymmetric short stature"	1.0	0.0	0.0	0.0
 "Hemihypotrophy of lower limb"	1.0	0.0	1.0	0.0
 "Abnormality of thyroid physiology"	0.0	1.0	0.0	0.0

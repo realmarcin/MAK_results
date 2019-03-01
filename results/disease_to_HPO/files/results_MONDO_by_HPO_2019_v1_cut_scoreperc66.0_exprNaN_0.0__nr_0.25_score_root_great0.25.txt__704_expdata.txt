@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Leber congenital amaurosis 1"	"cutaneous photosensitivity-lethal colitis syndrome"	"epsilon-trimethyllysine hydroxylase deficiency"	"Cornelia de Lange syndrome 5"	"PGM3-CDG"	"retinitis pigmentosa 73"
 "Hypertension"	1.0	1.0	0.0	0.0	1.0	0.0
 "Delayed skeletal maturation"	0.0	0.0	1.0	0.0	0.0	0.0
 "Polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial apolipoprotein C-II deficiency"	"cataract-intellectual disability-hypogonadism syndrome"	"autosomal recessive osteopetrosis 7"	"Hirschsprung disease, susceptibility to, 3"	"PGM1-CDG"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Skeletal muscle atrophy"	1.0	0.0	1.0	1.0	0.0
 "Polyneuropathy"	1.0	1.0	1.0	1.0	1.0

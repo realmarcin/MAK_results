@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "Charcot.Marie.Tooth.disease.with.ptosis.and.parkinsonism"
+"2" "complement.component.7.deficiency"
+"3" "Malan.overgrowth.syndrome"

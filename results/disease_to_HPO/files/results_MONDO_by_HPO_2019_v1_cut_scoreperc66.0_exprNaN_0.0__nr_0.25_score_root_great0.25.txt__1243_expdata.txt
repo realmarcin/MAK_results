@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dystonia 12"	"spastic paraplegia, optic atrophy, and dementia"	"CGF1"	"X-linked sideroblastic anemia"	"X-linked intellectual disability-hypotonic face syndrome"	"craniosynostosis, Adelaide type"	"SCZD10"	"juvenile cataract-microcornea-renal glucosuria syndrome"	"porencephaly-microcephaly-bilateral congenital cataract syndrome"	"familial progressive hyperpigmentation"	"lower motor neuron syndrome with late-adult onset"	"spermatogenic failure 13"	"14q32 duplication syndrome"
 "Brisk reflexes"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Corticospinal tract pallor"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Craniofacial dystonia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

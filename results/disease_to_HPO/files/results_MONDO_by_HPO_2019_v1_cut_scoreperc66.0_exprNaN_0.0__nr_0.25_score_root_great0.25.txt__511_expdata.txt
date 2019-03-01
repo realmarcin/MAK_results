@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"very long chain acyl-CoA dehydrogenase deficiency"	"diastematomyelia"	"classic galactosemia"	"gamma-glutamylcysteine synthetase deficiency"	"glutaric acidemia type 3"	"hypogonadotropic hypogonadism 14 with or without anosmia"
 "Hepatomegaly"	0.0	1.0	1.0	1.0	1.0	0.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	0.0	0.0
 "Jaundice"	0.0	1.0	1.0	1.0	1.0	0.0

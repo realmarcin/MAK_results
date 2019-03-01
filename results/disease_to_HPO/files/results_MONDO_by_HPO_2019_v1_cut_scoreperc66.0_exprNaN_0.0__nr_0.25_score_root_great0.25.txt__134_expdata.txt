@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spastic ataxia 1"	"spinocerebellar ataxia type 7"	"Friedreich ataxia and congenital glaucoma"	"atrophia maculosa varioliformis cutis, familial"	"proximal 16p11.2 microdeletion syndrome"	"epileptic encephalopathy, early infantile, 26"
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscle weakness"	1.0	0.0	1.0	1.0	1.0	1.0

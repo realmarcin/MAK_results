@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypotrichosis 4"	"pantothenate kinase-associated neurodegeneration"	"muscular dystrophy, cardiac type"	"dimethylglycine dehydrogenase deficiency"	"osteogenesis imperfecta type 6"
 "Pectus excavatum"	0.0	1.0	1.0	0.0	0.0
 "Congestive heart failure"	0.0	1.0	1.0	0.0	0.0
 "Obstructive sleep apnea"	0.0	1.0	1.0	0.0	0.0

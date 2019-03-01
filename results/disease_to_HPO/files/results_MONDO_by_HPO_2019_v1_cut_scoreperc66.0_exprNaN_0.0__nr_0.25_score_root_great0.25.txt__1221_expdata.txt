@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
 "Dislocated radial head"	0.0	1.0	0.0	0.0
 "Primary amenorrhea"	0.0	1.0	0.0	0.0

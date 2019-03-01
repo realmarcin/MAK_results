@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hemifacial hypertrophy"	"PHGDH deficiency"	"seizures, benign familial infantile, 2"	"hypophosphatemic rickets, autosomal recessive, 2"
 "Reduced visual acuity"	1.0	1.0	1.0	1.0
 "Retinal exudate"	1.0	1.0	1.0	1.0
 "Exudative vitreoretinopathy"	1.0	1.0	1.0	1.0

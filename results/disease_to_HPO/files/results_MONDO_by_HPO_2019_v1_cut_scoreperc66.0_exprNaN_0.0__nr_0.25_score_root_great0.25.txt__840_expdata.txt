@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cheilitis glandularis"	"autosomal dominant myoglobinuria"	"autosomal dominant centronuclear myopathy"	"polyhydramnios, megalencephaly, and symptomatic epilepsy"
 "Myoclonus"	0.0	1.0	0.0	0.0
 "HP:0003621"	0.0	1.0	1.0	0.0
 "Dementia"	1.0	1.0	0.0	0.0

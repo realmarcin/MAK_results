@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"osteogenesis imperfecta type 2"	"osteogenesis imperfecta type 4"	"osteoglophonic dwarfism"	"multicentric carpo-tarsal osteolysis with or without nephropathy"	"ulnar-mammary syndrome"	"osteogenesis imperfecta type 3"	"primary ciliary dyskinesia 20"	"spermatogenic failure 30"
 "Scoliosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Osteopenia"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0
 "Recurrent fractures"	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0

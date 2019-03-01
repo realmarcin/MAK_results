@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dysmyelination with jaundice"	"X-linked hypohidrotic ectodermal dysplasia"	"HEC syndrome"	"osteosclerosis-ichthyosis-premature ovarian failure syndrome"	"cobblestone lissencephaly without muscular or ocular involvement"	"autosomal recessive spinocerebellar ataxia 20"	"Noonan syndrome 9"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Hyperpigmentation of the skin"	1.0	1.0	0.0	0.0	0.0	0.0	0.0

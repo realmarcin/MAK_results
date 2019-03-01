@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myopathy, tubular aggregate, 1"	"myopathy, centronuclear, 2"	"autosomal recessive nonsyndromic deafness 16"	"spondyloepiphyseal dysplasia, Kimberley type"	"long QT syndrome 12"
 "Abnormality of the cardiovascular system"	0.0	0.0	0.0	1.0	0.0
 "Type 1 muscle fiber predominance"	1.0	1.0	1.0	1.0	0.0
 "EMG: myopathic abnormalities"	0.0	1.0	1.0	1.0	1.0

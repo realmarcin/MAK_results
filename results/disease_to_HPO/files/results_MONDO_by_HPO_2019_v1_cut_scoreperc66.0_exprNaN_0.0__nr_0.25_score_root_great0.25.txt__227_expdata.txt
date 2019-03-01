@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pseudoaminopterin syndrome"	"acromesomelic dysplasia, Demirhan type"	"trichilemmal cyst"	"episodic kinesigenic dyskinesia 2"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "HP:0003593"	0.0	0.0	0.0	1.0
 "Vestibular dysfunction"	0.0	1.0	0.0	0.0

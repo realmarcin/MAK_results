@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Sotos syndrome 1"	"lymphoma, non-Hodgkin, familial"	"Seckel syndrome 8"
 "Delayed fine motor development"	1.0	1.0	1.0
 "Delayed social development"	1.0	0.0	0.0
 "HP:0025405"	1.0	0.0	1.0

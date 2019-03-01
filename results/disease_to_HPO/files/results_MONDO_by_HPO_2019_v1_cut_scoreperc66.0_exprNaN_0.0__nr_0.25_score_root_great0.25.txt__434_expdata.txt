@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial acanthosis nigricans"	"multiple congenital anomalies-hypotonia-seizures syndrome 2"	"Tukel syndrome"	"acral peeling skin syndrome"	"chromosome 17q12 deletion syndrome"	"vertebral, cardiac, renal, and limb defects syndrome 2"
 "Cleft palate"	1.0	1.0	0.0	0.0	1.0	1.0
 "Esotropia"	1.0	0.0	0.0	1.0	0.0	0.0
 "Cutis marmorata"	1.0	0.0	0.0	1.0	0.0	0.0

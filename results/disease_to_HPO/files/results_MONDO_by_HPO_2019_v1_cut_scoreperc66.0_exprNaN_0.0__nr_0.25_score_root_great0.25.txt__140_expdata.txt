@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3"	"ectodermal dysplasia 13, hair/tooth type"	"neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"
 "HP:0000006"	1.0	1.0	0.0
 "Intellectual disability"	1.0	1.0	0.0
 "Seizures"	1.0	1.0	0.0

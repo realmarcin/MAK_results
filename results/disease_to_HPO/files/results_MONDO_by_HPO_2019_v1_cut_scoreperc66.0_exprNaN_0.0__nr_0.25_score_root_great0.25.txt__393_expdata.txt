@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acropectorovertebral dysplasia"	"Balkan nephropathy"	"Joubert syndrome with hepatic defect"	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"thymic aplasia with fetal death"	"cerebrooculofacioskeletal syndrome 4"
 "Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hearing impairment"	1.0	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"centra precocious puberty 1"	"arrhythmogenic right ventricular dysplasia 3"	"autosomal recessive nonsyndromic deafness 18A"	"Parkes Weber syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Postaxial hand polydactyly"	1.0	1.0	0.0	0.0
 "Short 2nd toe"	1.0	0.0	0.0	0.0

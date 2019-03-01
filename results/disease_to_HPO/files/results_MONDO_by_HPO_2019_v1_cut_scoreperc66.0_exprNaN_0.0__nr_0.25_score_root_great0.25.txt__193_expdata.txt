@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nonsyndromic congenital nail disorder 6"	"clonic hemifacial spasm"	"Fanconi anemia complementation group D2"	"Fanconi anemia complementation group A"	"glycogen storage disease due to GLUT2 deficiency"	"Roberts syndrome"	"Wiskott-Aldrich syndrome, autosomal dominant form"
 "Complete duplication of thumb phalanx"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Anemic pallor"	0.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Deficient excision of UV-induced pyrimidine dimers in DNA"	0.0	0.0	1.0	1.0	1.0	0.0	1.0

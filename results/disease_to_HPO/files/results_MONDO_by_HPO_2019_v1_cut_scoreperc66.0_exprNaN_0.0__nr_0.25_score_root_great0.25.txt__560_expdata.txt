@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"diffuse panbronchiolitis"	"temtamy preaxial brachydactyly syndrome"	"autosomal recessive limb-girdle muscular dystrophy type 2I"	"Charcot-Marie-Tooth disease type 1F"	"age related macular degeneration 11"	"autosomal recessive nonsyndromic deafness 93"	"immunodeficiency-centromeric instability-facial anomalies syndrome 3"	"hyperkeratosis-hyperpigmentation syndrome"
 "Degeneration of the lateral corticospinal tracts"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Muscle cramps"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Progressive spastic paraplegia"	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

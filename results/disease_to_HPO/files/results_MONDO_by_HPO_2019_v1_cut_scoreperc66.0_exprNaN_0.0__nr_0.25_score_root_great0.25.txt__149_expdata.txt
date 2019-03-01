@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Birk-Barel syndrome"	"mosaic variegated aneuploidy syndrome 2"	"Bardet-Biedl syndrome 14"	"Bardet-Biedl syndrome 16"	"polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
 "HP:0000007"	1.0	0.0	1.0	1.0	0.0
 "HP:0000006"	0.0	1.0	0.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0

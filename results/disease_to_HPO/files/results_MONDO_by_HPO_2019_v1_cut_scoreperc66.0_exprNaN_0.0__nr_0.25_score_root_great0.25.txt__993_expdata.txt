@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyloidosis, primary localized cutaneous, 1"	"Pallister-hall syndrome"	"pelvic lipomatosis with crossed renal ectopia"	"fragile X syndrome"	"MYP3"
 "Hearing impairment"	1.0	0.0	1.0	1.0	0.0
 "Nystagmus"	1.0	0.0	1.0	1.0	1.0
 "Hyporeflexia"	1.0	0.0	0.0	1.0	0.0

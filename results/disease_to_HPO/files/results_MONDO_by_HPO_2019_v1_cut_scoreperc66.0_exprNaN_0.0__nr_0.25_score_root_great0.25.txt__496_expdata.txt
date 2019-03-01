@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myxedema"	"Sugarman brachydactyly"	"three M syndrome 1"	"maturity-onset diabetes of the young type 3"
 "HP:0000007"	1.0	0.0	1.0	0.0
 "Short neck"	1.0	0.0	1.0	0.0
 "Flat face"	1.0	0.0	1.0	0.0

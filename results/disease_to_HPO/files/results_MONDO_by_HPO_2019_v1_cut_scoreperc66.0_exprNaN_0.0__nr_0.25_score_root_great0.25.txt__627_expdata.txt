@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypophosphatemia, renal, with intracerebral calcifications"	"osteoma of middle ear"	"setting-Sun phenomenon, familial benign"	"Gaucher disease perinatal lethal"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
 "HP:0000007"	1.0	1.0	0.0	1.0	0.0	0.0
 "Short stature"	1.0	1.0	0.0	1.0	1.0	1.0
 "Intellectual disability, mild"	0.0	1.0	0.0	1.0	0.0	1.0

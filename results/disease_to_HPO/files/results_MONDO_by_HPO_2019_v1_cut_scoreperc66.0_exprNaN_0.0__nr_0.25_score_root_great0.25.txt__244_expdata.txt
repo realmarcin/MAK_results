@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"femoral-facial syndrome"	"erythema of acral regions"	"Vici syndrome"	"hypospadias 2, X-linked"	"Galloway-Mowat syndrome 2, X-linked"	"Axenfeld-Rieger syndrome type 2"
 "Sinusitis"	1.0	1.0	0.0	1.0	1.0	1.0
 "Pneumonia"	0.0	1.0	0.0	1.0	1.0	0.0
 "Immunodeficiency"	1.0	1.0	0.0	1.0	1.0	1.0

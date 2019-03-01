@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fallot complex-intellectual disability-growth delay syndrome"	"glucose-galactose malabsorption"	"pyruvate dehydrogenase phosphatase deficiency"	"acne inversa, familial, 2"	"amyotrohpic lateral sclerosis type 22"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	0.0	1.0	1.0	1.0	1.0	0.0

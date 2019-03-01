@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 1"	"macrocephaly/megalencephaly syndrome, autosomal recessive"	"progesterone resistance"	"Summitt syndrome"	"androgen insensitivity syndrome"
 "HP:0001276"	1.0	1.0	1.0	1.0	1.0
 "Transient hyperphenylalaninemia"	0.0	0.0	1.0	0.0	0.0
 "Death in infancy"	1.0	1.0	0.0	1.0	1.0

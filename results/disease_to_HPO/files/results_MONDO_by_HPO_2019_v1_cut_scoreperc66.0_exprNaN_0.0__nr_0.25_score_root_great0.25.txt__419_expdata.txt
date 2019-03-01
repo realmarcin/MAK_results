@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Greenberg dysplasia"	"Kniest-like dysplasia with pursed lips and ectopia lentis"	"neurodegeneration with brain iron accumulation 2A"	"familial thyroid dyshormonogenesis"	"familial isolated deficiency of vitamin E"	"disorder of sex development-intellectual disability syndrome"	"trisomy 18-like syndrome"	"autosomal dominant nonsyndromic deafness 12"	"peroxisome biogenesis disorder 4B"	"peroxisome biogenesis disorder 6B"	"peroxisome biogenesis disorder 8B"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
 "Low-set ears"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

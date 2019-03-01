@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"brachydactyly type A1A"	"syndactyly-polydactyly-ear lobe syndrome"	"aphalangy-syndactyly-microcephaly syndrome"	"hyper-IgM syndrome type 4"	"intellectual disability, keratoconus, febrile seizures, and sinoatrial block"	"premature ovarian failure 7"
 "Metatarsal synostosis"	0.0	1.0	1.0	1.0	0.0	1.0
 "Hallux varus"	1.0	0.0	0.0	0.0	0.0	1.0
 "Cutaneous syndactyly of toes"	0.0	0.0	0.0	0.0	0.0	1.0

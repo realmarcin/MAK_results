@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anal sphincter myopathy, internal"	"hirsutism-skeletal dysplasia-intellectual disability syndrome"	"congenital velopharyngeal incompetence"	"pheochromocytoma-islet cell tumor syndrome"	"pronation-supination of the forearm, impairment of"	"von Hippel-Lindau disease"	"glaucoma 1, open angle, f"	"cerebroretinal microangiopathy with calcifications and cysts 1"	"bronchiectasis with or without elevated sweat chloride 2"	"Diamond-Blackfan anemia 12"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Constipation"	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0
 "HP:0031284"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

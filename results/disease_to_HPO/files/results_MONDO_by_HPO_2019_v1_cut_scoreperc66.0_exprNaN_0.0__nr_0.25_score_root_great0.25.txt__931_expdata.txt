@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 1"	"Bowen-Conradi syndrome"	"Roberts syndrome"	"Hurler-Scheie syndrome"	"autosomal dominant nonsyndromic deafness 21"	"hypokalemic periodic paralysis, type 2"
 "Coarse facial features"	0.0	0.0	0.0	1.0	1.0	0.0
 "Full cheeks"	0.0	0.0	0.0	1.0	1.0	0.0
 "Splenomegaly"	0.0	0.0	0.0	1.0	1.0	0.0

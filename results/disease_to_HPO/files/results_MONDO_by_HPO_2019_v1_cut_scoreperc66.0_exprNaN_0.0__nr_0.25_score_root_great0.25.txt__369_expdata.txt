@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"muscle cramps, familial"	"PYCR1-related de Barsy syndrome"	"Cowden syndrome 6"	"urofacial syndrome 2"
 "Pectus excavatum"	1.0	1.0	1.0	1.0
 "Micrognathia"	1.0	1.0	1.0	1.0
 "Abnormality of the pinna"	0.0	1.0	0.0	0.0

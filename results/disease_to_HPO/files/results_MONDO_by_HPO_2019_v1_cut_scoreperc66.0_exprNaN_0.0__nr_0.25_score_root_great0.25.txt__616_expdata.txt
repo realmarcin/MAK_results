@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"syndromic X-linked intellectual disability 94"	"malignant hyperthermia, susceptibility to, 4"	"spondyloepiphyseal dysplasia, Kimberley type"	"Noonan syndrome-like disorder with juvenile myelomonocytic leukemia"
 "HP:0003676"	1.0	0.0	0.0	1.0
 "Back pain"	1.0	0.0	0.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	0.0	1.0	0.0

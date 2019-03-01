@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"red cell permeability defect"	"Greenberg dysplasia"	"neurocutaneous melanocytosis"	"vitamin B12-responsive methylmalonic acidemia type cblA"	"syndromic X-linked intellectual disability Shashi type"	"syndromic X-linked intellectual disability Claes-Jensen type"	"velo-facial-skeletal syndrome"	"pyruvate dehydrogenase phosphatase deficiency"	"SLEB6"	"hereditary spastic paraplegia 45"	"ITPA-related encephalopathy"	"OPA8"	"nephrotic syndrome, type 11; NPHS11"	"dyskinesia, limb and orofacial, infantile-onset; IOLOD"
 "Inspiratory stridor"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Delayed CNS myelination"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Subependymal cysts"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

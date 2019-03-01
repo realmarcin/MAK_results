@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Baraitser-winter syndrome 2"	"epileptic encephalopathy, early infantile, 17"	"short-rib thoracic dysplasia 13 with or without polydactyly"	"early-onset progressive encephalopathy-hearing loss-pons hypoplasia-brain atrophy syndrome"
 "Plagiocephaly"	0.0	1.0	0.0	0.0
 "Short foot"	0.0	1.0	0.0	0.0
 "Thick eyebrow"	0.0	1.0	0.0	0.0

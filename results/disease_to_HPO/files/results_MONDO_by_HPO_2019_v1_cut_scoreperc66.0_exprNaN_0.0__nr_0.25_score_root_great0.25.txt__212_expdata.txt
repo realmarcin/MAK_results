@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Usher syndrome type 2A"	"polydactyly, postaxial, type A2"	"lissencephaly due to LIS1 mutation"	"peroxisome biogenesis disorder 6A (Zellweger)"	"hypogonadotropic hypogonadism 15 with or without anosmia"	"autosomal dominant nocturnal frontal lobe epilepsy 5"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	0.0	1.0	0.0
 "Motor delay"	1.0	1.0	1.0	1.0	0.0	1.0

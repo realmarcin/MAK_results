@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"diaminopentanuria"	"megalocornea (disease)"	"Leber hereditary optic neuropathy"	"spondylocamptodactyly syndrome"	"hereditary hemorrhagic telangiectasia type 4"
 "Hydroureter"	1.0	0.0	0.0	1.0	0.0
 "Hydronephrosis"	1.0	0.0	0.0	1.0	0.0
 "Sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0

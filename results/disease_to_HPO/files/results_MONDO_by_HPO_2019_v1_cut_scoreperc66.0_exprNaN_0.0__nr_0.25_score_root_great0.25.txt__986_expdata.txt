@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"muscle cramps, familial"	"Cowden syndrome 6"	"urofacial syndrome 2"	"epileptic encephalopathy, early infantile, 64"
 "Micrognathia"	1.0	1.0	1.0	1.0
 "Webbed neck"	0.0	0.0	0.0	1.0
 "Knee dislocation"	0.0	0.0	0.0	1.0

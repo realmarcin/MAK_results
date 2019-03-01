@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant Parkinson disease 1"	"Perry syndrome"	"sulfite oxidase deficiency due to molybdenum cofactor deficiency type B"	"monocyte chemotactic disorder"	"absent radius-anogenital anomalies syndrome"
 "Long philtrum"	0.0	0.0	1.0	1.0	1.0
 "Ventriculomegaly"	0.0	0.0	1.0	1.0	1.0
 "Frontal bossing"	0.0	0.0	1.0	1.0	1.0

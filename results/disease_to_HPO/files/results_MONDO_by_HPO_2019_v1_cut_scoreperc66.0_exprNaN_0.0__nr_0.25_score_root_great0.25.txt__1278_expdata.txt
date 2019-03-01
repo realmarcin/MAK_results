@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"glaucoma type 1C"	"osteogenesis imperfecta type 14"
 "Long philtrum"	0.0	0.0	1.0	0.0
 "Wide nasal bridge"	0.0	0.0	1.0	0.0
 "Webbed neck"	0.0	0.0	1.0	0.0

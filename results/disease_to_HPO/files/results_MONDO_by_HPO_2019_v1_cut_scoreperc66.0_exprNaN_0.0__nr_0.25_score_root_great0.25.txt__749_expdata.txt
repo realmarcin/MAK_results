@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cornea guttata with anterior polar cataracts"	"osteoglophonic dwarfism"	"spondyloepimetaphyseal dysplasia-hypotrichosis syndrome"	"campomelia, Cumming type"	"otospondylomegaepiphyseal dysplasia, autosomal recessive"	"diaphanospondylodysostosis"
 "Low-set ears"	0.0	0.0	0.0	0.0	1.0	1.0
 "Cardiomegaly"	0.0	0.0	0.0	0.0	1.0	1.0
 "Polyhydramnios"	0.0	0.0	0.0	0.0	1.0	1.0

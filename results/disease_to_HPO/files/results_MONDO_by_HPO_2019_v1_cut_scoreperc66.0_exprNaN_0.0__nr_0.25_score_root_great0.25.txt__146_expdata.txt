@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cervical ribs, Sprengel anomaly, anal atresia, and urethral obstruction"	"autosomal recessive nonsyndromic deafness 39"	"parathyroid gland carcinoma"	"autosomal recessive nonsyndromic deafness 49"	"autosomal recessive nonsyndromic deafness 44"	"MORM syndrome"	"atrial heart septal defect 5"	"Emery-Dreifuss muscular dystrophy 3, autosomal recessive"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Prelingual sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

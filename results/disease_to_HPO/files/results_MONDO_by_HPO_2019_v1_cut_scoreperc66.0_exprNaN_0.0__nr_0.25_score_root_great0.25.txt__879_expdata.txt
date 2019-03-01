@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MAFD1"	"gelatinous drop-like corneal dystrophy"	"ichthyosis-intellectual disability-dwarfism-renal impairment syndrome"	"Plasmodium falciparum blood infection level"	"palant cleft palate syndrome"	"pycnodysostosis"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the mouth"	0.0	1.0	0.0	1.0	0.0	0.0
 "Erythema"	0.0	0.0	0.0	1.0	0.0	0.0

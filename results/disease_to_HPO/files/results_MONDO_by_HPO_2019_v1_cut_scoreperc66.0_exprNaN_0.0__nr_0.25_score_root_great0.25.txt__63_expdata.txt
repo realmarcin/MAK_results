@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Sillence syndrome"	"tricho-dento-osseous syndrome"	"ataxia telangiectasia"	"Rh deficiency syndrome"	"tardive dyskinesia (disease)"
 "Muscular hypotonia"	0.0	0.0	1.0	0.0	1.0
 "Ataxia"	1.0	1.0	1.0	1.0	1.0
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0

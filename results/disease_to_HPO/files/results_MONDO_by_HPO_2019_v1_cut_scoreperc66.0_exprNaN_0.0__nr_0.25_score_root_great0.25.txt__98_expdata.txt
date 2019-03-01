@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperproglucagonemia"	"autosomal dominant striatal neurodegeneration type 1"	"pseudohypoaldosteronism type 2C"	"Wiskott-Aldrich syndrome 2"	"pseudohypoaldosteronism type 2E"	"microphthalmia, isolated, with coloboma 7"
 "Hypertension"	1.0	1.0	1.0	1.0	1.0	1.0
 "Metabolic acidosis"	0.0	0.0	0.0	1.0	0.0	1.0
 "Hyperkalemia"	1.0	1.0	1.0	1.0	1.0	1.0

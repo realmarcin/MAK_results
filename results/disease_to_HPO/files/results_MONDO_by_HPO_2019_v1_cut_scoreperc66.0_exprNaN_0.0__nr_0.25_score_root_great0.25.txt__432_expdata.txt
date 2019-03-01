@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome"	"autoimmune hemolytic anemia"	"Ethanolaminosis"	"reticulum cell sarcoma"	"epilepsy, idiopathic generalized, susceptibility to, 11"	"cardiomyopathy-hypotonia-lactic acidosis syndrome"
 "Hepatomegaly"	1.0	1.0	0.0	1.0	1.0	1.0
 "Splenomegaly"	1.0	1.0	0.0	1.0	1.0	1.0
 "Dry skin"	0.0	1.0	1.0	0.0	1.0	1.0

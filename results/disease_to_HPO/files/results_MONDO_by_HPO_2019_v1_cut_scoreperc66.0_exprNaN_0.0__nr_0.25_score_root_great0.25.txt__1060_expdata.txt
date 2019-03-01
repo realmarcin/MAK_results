@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"premature chromatid separation trait"	"vasculitis, lymphocytic, nodular"	"trigonocephaly-short stature-developmental delay syndrome"	"myopathy, lactic acidosis, and sideroblastic anemia 1"
 "Facial asymmetry"	0.0	0.0	1.0	0.0
 "Melanocytic nevus"	0.0	0.0	1.0	0.0
 "Renal dysplasia"	0.0	0.0	1.0	0.0

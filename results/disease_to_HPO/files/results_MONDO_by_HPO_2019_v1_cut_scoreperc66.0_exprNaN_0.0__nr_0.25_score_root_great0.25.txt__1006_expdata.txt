@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Sotos syndrome 1"	"Wilms tumor type 1"	"juvenile Paget disease"	"3-methylglutaconic aciduria type 1"	"Charlevoix-Saguenay spastic ataxia"	"peroxisome biogenesis disorder 1B"	"Spondylospinal thoracic dysostosis"	"autosomal dominant nonsyndromic deafness 23"	"intellectual disability with optic atrophy, facial dysmorphism, microcephaly, and short stature"	"osteogenesis imperfecta type 5"	"Charcot-Marie-Tooth disease type 4J"	"intellectual disability, anterior maxillary protrusion, and strabismus"	"vasculitis due to ADA2 deficiency"	"Meckel syndrome 13"	"Fraser syndrome 2"	"3-methylglutaconic aciduria type 9"
 "Broad-based gait"	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
 "Poor coordination"	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0
 "Delayed gross motor development"	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0

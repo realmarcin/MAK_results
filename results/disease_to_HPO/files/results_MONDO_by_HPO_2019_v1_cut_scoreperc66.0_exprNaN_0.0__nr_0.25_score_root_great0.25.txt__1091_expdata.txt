@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dyskeratosis congenita, autosomal recessive 1"	"familial renal glucosuria"	"choroid plexus papilloma"	"renin-angiotensin-aldosterone system-blocker-induced angioedema"	"congenital bile acid synthesis defect 1"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0
 "Xerostomia"	0.0	0.0	1.0	0.0	0.0
 "Cutaneous photosensitivity"	0.0	0.0	1.0	0.0	0.0

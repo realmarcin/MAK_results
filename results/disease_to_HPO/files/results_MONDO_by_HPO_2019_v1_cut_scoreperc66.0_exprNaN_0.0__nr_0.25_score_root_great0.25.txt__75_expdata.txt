@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinitis pigmentosa 18"	"autosomal recessive nonsyndromic deafness 21"	"autosomal recessive nonsyndromic deafness 1B"
 "HP:0000006"	1.0	1.0	1.0
 "HP:0003621"	0.0	1.0	0.0
 "High-frequency hearing impairment"	1.0	1.0	1.0

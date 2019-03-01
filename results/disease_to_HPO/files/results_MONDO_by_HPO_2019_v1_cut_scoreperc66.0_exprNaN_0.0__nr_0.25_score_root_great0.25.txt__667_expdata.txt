@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic arch interruption, facial palsy, and retinal coloboma"	"protoporphyria, erythropoietic"	"homocystinuria due to methylene tetrahydrofolate reductase deficiency"	"X-linked lethal multiple pterygium syndrome"	"acrocardiofacial syndrome"
 "Kyphoscoliosis"	0.0	1.0	1.0	0.0	0.0
 "Cataract"	0.0	1.0	1.0	0.0	0.0
 "Myopia"	0.0	1.0	1.0	0.0	0.0

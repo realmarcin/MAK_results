@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"	"polyglucosan body myopathy 1 with or without immunodeficiency"
 "Diastema"	0.0	0.0	0.0	1.0
 "Median cleft lip"	0.0	0.0	0.0	1.0
 "Abnormality of the mandible"	0.0	0.0	0.0	1.0

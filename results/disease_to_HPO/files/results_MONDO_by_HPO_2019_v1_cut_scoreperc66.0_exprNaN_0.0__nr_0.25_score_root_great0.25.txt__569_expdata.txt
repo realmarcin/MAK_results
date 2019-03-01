@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"fallot complex-intellectual disability-growth delay syndrome"	"acne inversa, familial, 2"	"paroxysmal nocturnal hemoglobinuria 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0	0.0

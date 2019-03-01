@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ackerman syndrome"	"ataxia telangiectasia"	"atransferrinemia"	"ciliary discoordination due to random ciliary orientation"	"Aicardi-Goutieres syndrome 1"	"Keutel syndrome"	"autosomal recessive osteopetrosis 1"	"progesterone resistance"	"young syndrome"	"cyclic vomiting syndrome"	"autosomal recessive congenital ichthyosis 4A"	"breast-ovarian cancer, familial, susceptibility to, 1"	"congenital disorder of glycosylation type 1E"	"combined oxidative phosphorylation defect type 21"	"spermatogenic failure 15; SPGF15"
 "Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of metabolism/homeostasis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0

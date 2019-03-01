@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nasal alar collapse, bilateral"	"diverticulosis, small-intestinal"	"dystrophic epidermolysis bullosa pruriginosa"	"arrhythmogenic right ventricular dysplasia 9"	"Parkinson disease 18, autosomal dominant, susceptibility to"
 "Excessive daytime sleepiness"	1.0	0.0	1.0	1.0	1.0
 "Cataplexy"	1.0	1.0	1.0	1.0	1.0
 "Hypnopompic hallucinations"	1.0	0.0	0.0	0.0	0.0

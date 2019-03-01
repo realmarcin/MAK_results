@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Carpenter syndrome 1"	"situs inversus"	"pontocerebellar hypoplasia type 3"	"growth delay due to insulin-like growth factor type 1 deficiency"	"familial juvenile hyperuricemic nephropathy type 2"	"chromosome 17q12 duplication syndrome"
 "Short nose"	1.0	0.0	1.0	0.0	0.0	1.0
 "Thoracic hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Enlarged kidney"	1.0	0.0	1.0	0.0	1.0	0.0

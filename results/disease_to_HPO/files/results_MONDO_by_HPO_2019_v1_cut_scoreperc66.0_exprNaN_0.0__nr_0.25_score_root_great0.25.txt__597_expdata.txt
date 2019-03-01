@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"bone pain, periodic"	"craniorhiny"	"dwarfism, Levi type"	"infantile hypophosphatasia"	"keratoconus posticus circumscriptus"	"X-linked hypophosphatemic rickets"
 "Stenosis of the medullary cavity of the long bones"	1.0	0.0	1.0	0.0	1.0	0.0
 "Calvarial osteosclerosis"	0.0	1.0	1.0	0.0	1.0	0.0
 "Cortical thickening of long bone diaphyses"	0.0	0.0	1.0	0.0	1.0	0.0

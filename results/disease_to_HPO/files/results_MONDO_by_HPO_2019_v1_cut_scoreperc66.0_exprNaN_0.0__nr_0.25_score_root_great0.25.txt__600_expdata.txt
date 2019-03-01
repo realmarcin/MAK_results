@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"musk, inability to smell"	"neonatal acute respiratory distress due to SP-B deficiency"	"dextro-looped transposition of the great arteries 1"	"autosomal recessive spondylometaphyseal dysplasia, Megarbane type"	"Dowling-Degos disease 2"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "HP:0003581"	1.0	0.0	0.0	1.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	0.0

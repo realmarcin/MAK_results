@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"bundle branch block, familial isolated complete right"	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"glycogen storage disease IXb"	"Charcot-Marie-Tooth disease type 4B2"	"autosomal dominant nonsyndromic deafness 18"	"colorectal cancer, hereditary nonpolyposis, type 8"	"early infantile epileptic encephalopathy without suppression burst"	"macular degeneration, early-onset"	"autosomal recessive cutis laxa type 2d"
 "Left anterior fascicular block"	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0
 "Biventricular hypertrophy"	0.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
 "HP:0012250"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

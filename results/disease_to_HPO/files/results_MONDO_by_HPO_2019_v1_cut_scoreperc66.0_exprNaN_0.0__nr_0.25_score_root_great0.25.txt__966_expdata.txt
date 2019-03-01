@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"xylosidase deficiency"	"hypospadias, hypertelorism, upper 51D coloboma, and mixed-type hearing loss"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
 "Synophrys"	0.0	1.0	0.0	0.0
 "Micropenis"	1.0	1.0	1.0	1.0
 "Hypoplastic labia majora"	0.0	1.0	0.0	0.0

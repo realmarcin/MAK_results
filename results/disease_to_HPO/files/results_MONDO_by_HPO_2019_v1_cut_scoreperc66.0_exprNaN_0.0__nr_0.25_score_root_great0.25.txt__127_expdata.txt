@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myopathy with storage of glycoproteins and Glycosaminoglycans"	"cerebral palsy, spastic quadriplegic, 1"	"spondyloepiphyseal dysplasia, Kimberley type"	"craniosynostosis-intracranial calcifications syndrome"	"hypotrichosis 12"
 "Flexion contracture"	1.0	1.0	0.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "HP:0003677"	1.0	1.0	1.0	0.0	1.0

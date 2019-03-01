@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"adducted thumbs-arthrogryposis syndrome, Christian type"	"beta-aminoisobutyric acid, urinary excretion of"	"glycogen storage disease due to phosphoglycerate mutase deficiency"	"lethal congenital glycogen storage disease of heart"	"combined oxidative phosphorylation deficiency 35"
 "Hepatic steatosis"	1.0	0.0	1.0	1.0	1.0
 "Exercise-induced rhabdomyolysis"	1.0	0.0	0.0	0.0	0.0
 "Hepatic failure"	0.0	1.0	1.0	1.0	1.0

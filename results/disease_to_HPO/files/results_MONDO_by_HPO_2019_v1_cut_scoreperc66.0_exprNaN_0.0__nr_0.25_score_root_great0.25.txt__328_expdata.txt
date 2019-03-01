@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"popliteal cyst"	"agenesis of the corpus callosum with peripheral neuropathy"	"Partington syndrome"	"pigmented nodular adrenocortical disease, primary, 2"	"colorectal cancer, hereditary nonpolyposis, type 4"
 "Pectus excavatum"	0.0	0.0	1.0	1.0	0.0
 "Microcephaly"	0.0	1.0	1.0	1.0	0.0
 "Intellectual disability"	0.0	1.0	1.0	1.0	0.0

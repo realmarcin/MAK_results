@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"floating-Harbor syndrome"	"absence deformity of leg-cataract syndrome"	"keratosis pilaris atrophicans"	"autosomal recessive nonsyndromic deafness 27"	"apolipoprotein c-III deficiency"
 "Blurred vision"	0.0	0.0	1.0	0.0	0.0
 "Decreased circulating high-density lipoprotein levels"	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the liver"	0.0	0.0	1.0	0.0	0.0

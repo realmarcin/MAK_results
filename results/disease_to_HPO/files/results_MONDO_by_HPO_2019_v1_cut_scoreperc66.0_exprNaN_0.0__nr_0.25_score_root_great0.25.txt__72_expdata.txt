@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"syringomas, multiple"	"Werner syndrome"	"nystagmus 1, congenital, X-linked"	"Charcot-Marie-Tooth disease recessive intermediate a"
 "Scoliosis"	0.0	1.0	1.0	1.0
 "Cataract"	1.0	1.0	1.0	1.0
 "Glaucoma"	1.0	1.0	1.0	1.0

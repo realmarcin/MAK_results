@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, classic type"	"Schilbach-Rott syndrome"	"cervical hypertrichosis-peripheral neuropathy syndrome"	"Diamond-Blackfan anemia 8"	"epileptic encephalopathy, early infantile, 47; EIEE47"	"focal facial dermal dysplasia type II"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0	1.0
 "Conductive hearing impairment"	1.0	1.0	1.0	0.0	0.0	1.0
 "Microtia"	1.0	1.0	1.0	0.0	0.0	1.0

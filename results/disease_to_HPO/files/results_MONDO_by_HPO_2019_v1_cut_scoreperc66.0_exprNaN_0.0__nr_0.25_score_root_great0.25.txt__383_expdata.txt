@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ptosis, hereditary congenital 2"	"Cornelia de Lange syndrome 5"	"X-linked chondrodysplasia punctata 1"	"syndactyly type 8"	"Charcot-Marie-Tooth disease type 4G"	"retinitis pigmentosa 61"
 "Cleft palate"	1.0	1.0	1.0	0.0	1.0	1.0
 "Brachydactyly"	1.0	1.0	1.0	1.0	1.0	0.0
 "Malar flattening"	1.0	1.0	1.0	0.0	0.0	0.0

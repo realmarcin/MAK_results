@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"thyroid hormone resistance, generalized, autosomal recessive"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"albinism-deafness syndrome"	"syndromic X-linked intellectual disability 12"	"primary ciliary dyskinesia 26"
 "Intellectual disability"	1.0	0.0	0.0	1.0	1.0	0.0
 "Seizures"	1.0	0.0	1.0	1.0	1.0	1.0
 "Brachycephaly"	0.0	0.0	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nonpapillary renal cell carcinoma"	"XK aprosencephaly"	"hyperlysinemia (disease)"	"apolipoprotein c-III deficiency"
 "Increased circulating chylomicron levels"	1.0	0.0	1.0	0.0
 "Lipemia retinalis"	0.0	1.0	1.0	0.0
 "Eruptive xanthomas"	0.0	1.0	1.0	1.0

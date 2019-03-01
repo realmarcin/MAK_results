@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spinocerebellar ataxia type 2"	"distal myopathy, Welander type"	"dilated cardiomyopathy 1J"	"autosomal recessive limb-girdle muscular dystrophy type 2K"	"EOE1"	"hyperbiliverdinemia"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0
 "Gait ataxia"	1.0	0.0	1.0	1.0	1.0	1.0

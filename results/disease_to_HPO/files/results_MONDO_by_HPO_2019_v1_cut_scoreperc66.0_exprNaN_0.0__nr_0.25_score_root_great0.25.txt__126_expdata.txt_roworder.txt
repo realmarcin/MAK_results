@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "young.syndrome"
+"2" "sickle.cell.anemia"
+"3" "cerebral.palsy..spastic.quadriplegic..2"

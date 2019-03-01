@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"muscle cramps, familial"	"Cowden syndrome 6"	"urofacial syndrome 2"	"intellectual disability, autosomal recessive 53"
 "Pectus excavatum"	1.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Narrow nose"	0.0	0.0	0.0	1.0

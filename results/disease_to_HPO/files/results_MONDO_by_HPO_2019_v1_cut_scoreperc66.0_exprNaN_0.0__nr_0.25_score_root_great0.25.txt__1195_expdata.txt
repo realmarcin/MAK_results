@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial multinodular goiter"	"polydactyly of a triphalangeal thumb"	"polydactyly of an index finger"	"calcaneonavicular coalition"	"benign familial neonatal-infantile seizures 1"
 "Renal cyst"	1.0	0.0	0.0	0.0	0.0
 "Triphalangeal thumb"	1.0	0.0	0.0	0.0	0.0
 "Multicystic kidney dysplasia"	1.0	0.0	0.0	0.0	0.0

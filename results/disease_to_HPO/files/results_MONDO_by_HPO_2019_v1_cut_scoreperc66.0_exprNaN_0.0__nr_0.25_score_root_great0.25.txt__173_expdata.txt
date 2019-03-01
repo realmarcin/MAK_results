@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"complement component 6 deficiency"	"immunodeficiency, common variable, 4"	"amyotrophic lateral sclerosis type 14"	"hypopigmentation-punctate palmoplantar keratoderma syndrome"	"sacral agenesis-abnormal ossification of the vertebral bodies-persistent notochordal canal syndrome"
 "Recurrent otitis media"	1.0	1.0	1.0	1.0	1.0
 "Recurrent sinusitis"	1.0	1.0	1.0	1.0	1.0
 "Decreased number of CD3+ T cells"	0.0	0.0	0.0	0.0	0.0

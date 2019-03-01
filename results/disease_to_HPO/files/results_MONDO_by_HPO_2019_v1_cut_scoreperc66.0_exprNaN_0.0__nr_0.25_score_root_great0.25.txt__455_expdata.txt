@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"craniosynostosis-mental retardation syndrome of 51N and Gettig"	"hypothyroidism, congenital, nongoitrous, 2"	"Richieri Costa-Pereira syndrome"	"Schinzel-Giedion syndrome"
 "Midface capillary hemangioma"	1.0	0.0	1.0	1.0
 "Frontal encephalocele"	0.0	1.0	1.0	0.0
 "Premature separation of centromeric heterochromatin"	0.0	0.0	1.0	1.0

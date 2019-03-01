@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant centronuclear myopathy"	"X-linked spondyloepimetaphyseal dysplasia"	"contractures-ectodermal dysplasia-cleft lip/palate syndrome"	"palmoplantar keratoderma, Bothnian type"	"MYP3"	"hyperbiliverdinemia"
 "Clumsiness"	1.0	0.0	0.0	0.0	1.0	0.0
 "Slow saccadic eye movements"	0.0	0.0	0.0	0.0	1.0	1.0
 "Intention tremor"	0.0	0.0	1.0	1.0	0.0	1.0

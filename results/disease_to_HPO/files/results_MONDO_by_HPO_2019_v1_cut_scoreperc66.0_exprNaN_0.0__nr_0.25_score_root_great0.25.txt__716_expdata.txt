@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Brachymorphism-onychodysplasia-dysphalangism syndrome"	"intestinal schistosomiasis"	"down syndrome"	"camptodactyly with fibrous tissue hyperplasia and skeletal dysplasia"
 "Short 4th toe"	1.0	1.0	0.0	1.0
 "Short 2nd toe"	0.0	0.0	0.0	1.0
 "Deformed radius"	0.0	1.0	0.0	0.0

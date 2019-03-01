@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome"	"myoclonic cerebellar dyssynergia"	"McKusick-Kaufman syndrome"	"torticollis-keloids-cryptorchidism-renal dysplasia syndrome"	"chromosome 19p13.13 deletion syndrome"	"oocyte maturation defect 2"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0	0.0
 "Dementia"	1.0	0.0	1.0	0.0	0.0	1.0
 "Parkinsonism"	1.0	0.0	0.0	0.0	0.0	0.0

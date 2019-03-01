@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"inherited pseudoxanthoma elasticum"	"vitamin K-dependent clotting factors, combined deficiency of, type 1"	"glucose-galactose malabsorption"
 "HP:0000007"	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0

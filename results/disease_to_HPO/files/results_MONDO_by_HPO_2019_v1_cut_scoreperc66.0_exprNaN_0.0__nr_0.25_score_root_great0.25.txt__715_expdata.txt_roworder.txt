@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.1"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.2"
+"1" "facial.abnormalities..kyphoscoliosis..and.mental.retardation"
+"2" "aortic.arch.anomaly.facial.dysmorphism.intellectual.disability.syndrome"
+"3" "syndromic.X.linked.intellectual.disability.Claes.Jensen.type"

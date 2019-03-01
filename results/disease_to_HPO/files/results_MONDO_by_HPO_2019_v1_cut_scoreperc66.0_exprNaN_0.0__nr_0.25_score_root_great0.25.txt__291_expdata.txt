@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinal detachment"	"choroideremia-deafness-obesity syndrome"	"MASA syndrome"	"retinitis pigmentosa 6"	"X-linked retinoschisis"	"nephrotic syndrome 16"
 "HP:0001417"	0.0	1.0	1.0	1.0	1.0	0.0
 "Progressive visual loss"	1.0	1.0	1.0	0.0	0.0	1.0
 "Constriction of peripheral visual field"	0.0	1.0	1.0	1.0	1.0	0.0

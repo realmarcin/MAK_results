@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dens evaginatus"	"autosomal dominant optic atrophy, classic form"	"optic atrophy with negative Electroretinograms"	"humerus trochlea aplasia"	"brachydactyly-syndactyly syndrome"	"Meckel syndrome, type 4"
 "Tritanomaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Centrocecal scotoma"	1.0	0.0	1.0	0.0	0.0	0.0
 "Red-green dyschromatopsia"	1.0	1.0	1.0	0.0	0.0	1.0

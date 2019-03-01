@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"glomuvenous malformation"	"Epstein syndrome"	"familial juvenile hyperuricemic nephropathy type 1"	"lymphedema-atrial septal defects-facial changes syndrome"	"cerebral cavernous malformation 2"	"Okt4 epitope deficiency"	"severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome"
 "Hypertension"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Proteinuria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Nephrotic syndrome"	1.0	0.0	0.0	1.0	0.0	0.0	0.0

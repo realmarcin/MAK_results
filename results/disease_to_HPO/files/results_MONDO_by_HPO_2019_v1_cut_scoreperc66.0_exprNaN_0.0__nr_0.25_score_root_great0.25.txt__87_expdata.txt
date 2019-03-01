@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"prolactin deficiency, isolated"	"complex cortical dysplasia with other brain malformations 5"	"Parkinson disease 22, autosomal dominant; PARK22"	"radioulnar synostosis with amegakaryocytic thrombocytopenia 2; RUSAT2"	"intellectual developmental disorder with dysmorphic facies and ptosis; IDDDFP"
 "Synophrys"	1.0	1.0	1.0	1.0	1.0
 "Thin upper lip vermilion"	1.0	1.0	1.0	1.0	1.0
 "Deeply set eye"	1.0	0.0	1.0	0.0	1.0

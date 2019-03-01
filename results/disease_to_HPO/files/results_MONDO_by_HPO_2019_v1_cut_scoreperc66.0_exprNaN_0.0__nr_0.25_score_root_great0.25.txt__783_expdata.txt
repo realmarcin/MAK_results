@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"brachydactyly type D"	"polydactyly of an index finger"	"scalp defects-postaxial polydactyly syndrome"	"triphalangeal thumb, Nonopposable"	"dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema"
 "Ulnar deviation of the 3rd finger"	1.0	0.0	1.0	0.0	1.0
 "Opposable triphalangeal thumb"	0.0	1.0	0.0	0.0	0.0
 "Complete duplication of distal phalanx of the thumb"	1.0	1.0	0.0	1.0	0.0

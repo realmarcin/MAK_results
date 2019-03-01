@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neurofibromatosis type 6"	"intellectual disability, autosomal recessive 1"	"syndromic X-linked intellectual disability 34"	"Menkes disease"
 "Cortical irregularity"	1.0	1.0	0.0	0.0
 "Anterior concavity of thoracic vertebrae"	0.0	1.0	0.0	1.0
 "Prominent coccyx"	0.0	1.0	1.0	0.0

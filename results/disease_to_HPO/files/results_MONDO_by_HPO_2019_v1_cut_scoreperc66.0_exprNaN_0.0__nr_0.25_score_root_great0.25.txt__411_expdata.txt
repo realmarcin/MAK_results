@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"holoprosencephaly 1"	"osteopenia-intellectual disability-sparse hair syndrome"	"hereditary spastic paraplegia 8"	"congenital disorder of glycosylation, type IIq"
 "Fatigue"	1.0	1.0	0.0	0.0
 "Skin rash"	1.0	1.0	0.0	0.0
 "Pruritus"	1.0	1.0	1.0	1.0

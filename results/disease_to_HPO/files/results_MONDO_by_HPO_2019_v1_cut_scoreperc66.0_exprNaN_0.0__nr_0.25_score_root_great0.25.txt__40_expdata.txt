@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"porencephaly-cerebellar hypoplasia-internal malformations syndrome"	"LEOPARD syndrome 3"	"neuropathy, hereditary sensory, type 1D"	"peho-like syndrome"
 "Hypertelorism"	1.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Depressed nasal bridge"	1.0	1.0	1.0	0.0

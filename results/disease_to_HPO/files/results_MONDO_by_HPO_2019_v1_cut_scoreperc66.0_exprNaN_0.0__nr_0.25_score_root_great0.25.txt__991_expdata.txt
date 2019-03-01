@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pulmonic stenosis and deafness"	"cardiac valvular defect, developmental"	"dopamine beta-hydroxylase deficiency"	"porencephaly-cerebellar hypoplasia-internal malformations syndrome"	"Spondylospinal thoracic dysostosis"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"episodic ataxia type 5"	"short-rib thoracic dysplasia 7 with or without polydactyly"	"transient infantile hypertriglyceridemia and hepatosteatosis"
 "Downslanted palpebral fissures"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
 "Malar flattening"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0
 "Depressed nasal bridge"	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0

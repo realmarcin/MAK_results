@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"craniofacial-deafness-hand syndrome"	"dentin dysplasia type II"	"dentin dysplasia-sclerotic bones syndrome"	"deoxyribose-5-phosphate aldolase deficiency"	"congenital unilateral hypoplasia of depressor anguli oris"	"Charcot-Marie-Tooth disease type 4D"
 "Cortical sclerosis"	1.0	0.0	0.0	1.0	0.0	0.0
 "Periapical bone loss"	0.0	1.0	0.0	0.0	1.0	0.0
 "Obliteration of the pulp chamber"	0.0	1.0	0.0	0.0	0.0	0.0

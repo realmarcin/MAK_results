@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"AA2"	"Cole-Carpenter syndrome 2"	"dystonia 27"	"frontometaphyseal dysplasia 2; FMD2"	"arthrogryposis, distal, with impaired proprioception and touch; DAIPT"	"Al Kaissi syndrome"	"spinocerebellar ataxia 46"	"epileptic encephalopathy, early infantile, 57"	"neurodegeneration with brain iron accumulation 8"	"amyloidosis, primary localized cutaneous, 3"
 "Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Gait ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
 "Mental deterioration"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"metabolic myopathy due to lactate transporter defect"	"peroxisome biogenesis disorder 1B"	"leukodystrophy, hypomyelinating, 17"
 "Flexion contracture"	0.0	0.0	1.0
 "Broad forehead"	0.0	0.0	1.0
 "Buphthalmos"	0.0	0.0	1.0

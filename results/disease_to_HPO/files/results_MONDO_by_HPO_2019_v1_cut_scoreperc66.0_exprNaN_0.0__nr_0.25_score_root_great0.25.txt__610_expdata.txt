@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, dermatosparaxis type"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A1"	"cone-rod dystrophy 6"	"Hermansky-Pudlak syndrome 9"	"epileptic encephalopathy, early infantile, 64"
 "Joint laxity"	1.0	1.0	1.0	0.0	0.0
 "Arachnodactyly"	1.0	1.0	1.0	0.0	0.0
 "Scoliosis"	1.0	1.0	1.0	0.0	0.0

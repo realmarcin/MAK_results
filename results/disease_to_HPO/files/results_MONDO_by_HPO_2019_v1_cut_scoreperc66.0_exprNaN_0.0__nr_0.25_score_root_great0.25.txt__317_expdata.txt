@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"erythema nodosum, familial"	"noduli Cutanei, multiple, with urinary tract abnormalities"	"long QT syndrome 10"	"histiocytoma, Angiomatoid fibrous"	"myxoid liposarcoma"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Left ventricular hypertrophy"	0.0	1.0	0.0	1.0	0.0
 "Aortic regurgitation"	1.0	1.0	0.0	0.0	0.0

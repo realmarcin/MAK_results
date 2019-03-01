@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, spondylocheirodysplastic type"	"Cowden syndrome 2"	"antithrombin III deficiency"
 "HP:0000006"	1.0	1.0	1.0
 "Hypercoagulability"	1.0	0.0	1.0
 "Disseminated intravascular coagulation"	0.0	1.0	0.0

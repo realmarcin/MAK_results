@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acrocraniofacial dysostosis"	"camptodactyly syndrome, Guadalajara type 1"	"Haim-Munk syndrome"	"orofaciodigital syndrome III"	"vitamin D-dependent rickets, type 2B"	"retinitis pigmentosa 56"
 "Syndactyly"	1.0	0.0	0.0	0.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Thin upper lip vermilion"	0.0	0.0	0.0	1.0	0.0	1.0

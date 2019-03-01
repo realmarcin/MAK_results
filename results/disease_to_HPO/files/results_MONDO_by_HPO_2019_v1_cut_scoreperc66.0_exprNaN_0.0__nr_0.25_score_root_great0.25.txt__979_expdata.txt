@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"growth hormone secreting pituitary adenoma 1"	"nevus, epidermal"	"colonic atresia (disease)"	"Worth syndrome"	"neuronopathy, distal hereditary motor, type 7B"	"spermatogenic failure 30"
 "Large hands"	1.0	0.0	1.0	0.0	0.0	0.0
 "Tapered finger"	1.0	0.0	1.0	0.0	0.0	0.0
 "Highly arched eyebrow"	1.0	0.0	1.0	0.0	0.0	0.0

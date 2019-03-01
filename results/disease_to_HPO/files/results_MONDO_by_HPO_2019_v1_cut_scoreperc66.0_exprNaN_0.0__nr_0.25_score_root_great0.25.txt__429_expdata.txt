@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"glaucoma 1, open angle, P"	"ring dermoid of cornea"	"cataract-ataxia-deafness syndrome"	"Melnick-Needles syndrome"	"pontocerebellar hypoplasia type 1A"	"pyogenic bacterial infections due to MyD88 deficiency"
 "Cataract"	1.0	0.0	1.0	1.0	0.0	1.0
 "Glaucoma"	1.0	1.0	1.0	1.0	1.0	0.0
 "Retinal detachment"	0.0	0.0	1.0	1.0	1.0	1.0

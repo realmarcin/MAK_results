@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant myoglobinuria"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"	"pachygyria-intellectual disability-epilepsy syndrome"	"rippling muscle disease 2"	"B4GALT1-CDG"	"myofibromatosis, infantile, 2"
 "Abducens palsy"	0.0	1.0	0.0	1.0	0.0	0.0
 "Facial palsy"	1.0	1.0	0.0	0.0	0.0	0.0
 "HP:0003829"	0.0	1.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital lipoid adrenal hyperplasia due to STAR deficency"	"congenital multicore myopathy with external ophthalmoplegia"	"annular epidermolytic ichthyosis"	"autosomal recessive severe congenital neutropenia due to G6PC3 deficiency"	"epileptic encephalopathy, early infantile, 45; EIEE45"	"specific granule deficiency 2"
 "Arachnodactyly"	0.0	0.0	0.0	1.0	1.0	0.0
 "High palate"	1.0	1.0	0.0	1.0	1.0	1.0
 "Oval face"	0.0	0.0	0.0	1.0	0.0	0.0

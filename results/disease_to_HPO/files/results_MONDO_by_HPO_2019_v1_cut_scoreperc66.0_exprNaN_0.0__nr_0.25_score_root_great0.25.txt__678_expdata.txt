@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"eosinophilia, familial"	"desmoid tumor"	"Grant syndrome"	"micrognathia-recurrent infections-behavioral abnormalities-mild intellectual disability syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Intrauterine growth retardation"	0.0	0.0	1.0	1.0
 "Abnormality of the hair"	0.0	1.0	1.0	0.0

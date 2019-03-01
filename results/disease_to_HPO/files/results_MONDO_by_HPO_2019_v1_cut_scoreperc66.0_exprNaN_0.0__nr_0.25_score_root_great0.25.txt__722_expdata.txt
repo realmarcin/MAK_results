@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"oculoauriculovertebral spectrum with radial defects"	"FRAXE intellectual disability"	"frontoocular syndrome"	"AHDC1-related intellectual disability - obstructive sleep apnea - mild dysmorphism syndrome"
 "Intellectual disability"	0.0	1.0	1.0	1.0
 "Mandibular prognathia"	0.0	1.0	0.0	1.0
 "Thick lower lip vermilion"	0.0	1.0	0.0	1.0

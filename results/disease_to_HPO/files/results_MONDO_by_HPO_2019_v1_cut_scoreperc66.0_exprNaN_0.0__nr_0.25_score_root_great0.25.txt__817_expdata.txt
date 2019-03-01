@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"distal osteosclerosis"	"Chediak-Higashi syndrome"	"pelviscapular dysplasia"	"testes, rudimentary"	"familial chronic myelocytic leukemia-like syndrome"	"ALG3-CDG"	"cataract 9 multiple types"	"oculocutaneous albinism type 4"	"Meckel syndrome, type 3"	"spinocerebellar ataxia type 18"	"nemaline myopathy 6"	"congenital muscular dystrophy merosin-positive"	"porencephaly-microcephaly-bilateral congenital cataract syndrome"	"TCR-alpha-beta-positive T-cell deficiency"	"epileptic encephalopathy, early infantile, 61"
 "Diplopia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Episodic ataxia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Myokymia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

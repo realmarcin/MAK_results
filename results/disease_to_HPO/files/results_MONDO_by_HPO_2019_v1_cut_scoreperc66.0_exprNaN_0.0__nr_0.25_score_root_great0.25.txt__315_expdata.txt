@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"deafness-intellectual disability, Martin-Probst type syndrome"	"intellectual disability, X-linked 41"	"X-linked intellectual disability with marfanoid habitus"	"developmental delay and seizures with or without movement abnormalities"
 "Intellectual disability"	1.0	1.0	1.0	1.0
 "Delayed speech and language development"	0.0	1.0	1.0	1.0
 "Gait ataxia"	0.0	0.0	0.0	1.0

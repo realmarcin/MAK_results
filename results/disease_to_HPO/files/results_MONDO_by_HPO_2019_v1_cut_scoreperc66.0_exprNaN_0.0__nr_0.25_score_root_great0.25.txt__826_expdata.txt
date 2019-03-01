@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"glaucoma 1, open angle, P"	"retinitis pigmentosa 1"	"Leber congenital amaurosis 8"	"dystonia 24"
 "Mydriasis"	1.0	0.0	1.0	0.0
 "Saccular conjunctival dilatations"	0.0	1.0	0.0	0.0
 "Abnormal distribution of retinal arterioles and venules"	0.0	1.0	0.0	0.0

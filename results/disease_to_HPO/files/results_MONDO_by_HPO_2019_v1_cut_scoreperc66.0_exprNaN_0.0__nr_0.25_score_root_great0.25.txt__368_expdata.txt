@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"ectodermal dysplasia-syndactyly syndrome 1"	"hereditary spastic paraplegia 51"
 "Arachnodactyly"	0.0	1.0	0.0
 "Craniosynostosis"	0.0	1.0	0.0
 "Choanal stenosis"	0.0	1.0	0.0

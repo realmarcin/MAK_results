@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"	"complement factor b deficiency"
 "Low-set ears"	0.0	0.0	0.0	1.0
 "Dental malocclusion"	0.0	0.0	0.0	1.0
 "Intellectual disability, moderate"	0.0	0.0	0.0	1.0

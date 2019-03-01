@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"anemia, nonspherocytic hemolytic, associated with abnormality of red cell membrane"	"FEB6"	"rhabdoid tumor predisposition syndrome 1"	"Carney triad"	"combined immunodeficiency due to partial RAG1 deficiency"
 "Cirrhosis"	0.0	0.0	1.0	0.0	0.0
 "High forehead"	0.0	0.0	1.0	0.0	0.0
 "Hyperkeratosis"	1.0	1.0	1.0	1.0	1.0

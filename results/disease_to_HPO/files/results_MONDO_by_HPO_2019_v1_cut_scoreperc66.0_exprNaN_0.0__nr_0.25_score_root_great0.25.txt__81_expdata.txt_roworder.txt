@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "fused.mandibular.incisors"
+"2" "hypospadias..hypertelorism..upper.51D.coloboma..and.mixed.type.hearing.loss"
+"3" "lethal.neonatal.spasticity.epileptic.encephalopathy.syndrome"

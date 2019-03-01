@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"skeletal dysplasia-intellectual disability syndrome"	"Ehlers-Danlos syndrome, musculocontractural type 2"
 "Abnormality of the skin"	0.0	0.0	1.0	0.0
 "Generalized hypotonia"	1.0	1.0	1.0	0.0
 "11 pairs of ribs"	0.0	0.0	1.0	0.0

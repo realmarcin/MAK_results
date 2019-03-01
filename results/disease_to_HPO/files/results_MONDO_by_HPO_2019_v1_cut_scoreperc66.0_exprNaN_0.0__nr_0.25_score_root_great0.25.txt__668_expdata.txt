@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"toe, fifth, number of phalanges 1N"	"Keutel syndrome"	"Pelger-Huet-like anomaly and episodic fever with abdominal pain"	"congenital thrombotic thrombocytopenic purpura"	"NNO1"
 "Edema of the dorsum of hands"	0.0	1.0	1.0	1.0	1.0
 "Edema of the dorsum of feet"	0.0	1.0	1.0	1.0	1.0
 "HP:0009662"	0.0	0.0	0.0	0.0	1.0

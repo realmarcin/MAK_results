@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acrorenal syndrome"	"brachydactyly type A3"	"brachydactyly-elbow wrist dysplasia syndrome"	"congenital nephrotic syndrome, Finnish type"	"spinocerebellar ataxia, autosomal recessive 1"
 "Abnormality of the thorax"	1.0	0.0	0.0	0.0	1.0
 "Pectus excavatum"	1.0	0.0	1.0	0.0	1.0
 "HP:0000006"	1.0	1.0	1.0	0.0	1.0

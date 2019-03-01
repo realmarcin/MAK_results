@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Bardet-Biedl syndrome 1"	"Joubert syndrome with hepatic defect"	"bilateral microtia-deafness-cleft palate syndrome"	"focal segmental glomerulosclerosis 7"
 "Hypertelorism"	1.0	1.0	1.0	0.0
 "Generalized hypotonia"	0.0	1.0	1.0	0.0
 "Atrial septal defect"	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aplasia cutis congenita (disease)"	"cardiac valvular defect, developmental"	"prenatal bowing"	"EJM4"	"retinitis pigmentosa 54"	"NYS7"
 "HP:0000007"	0.0	1.0	1.0	0.0	0.0	0.0
 "Clinodactyly of the 5th finger"	0.0	0.0	1.0	0.0	0.0	0.0
 "Epicanthus"	0.0	0.0	1.0	0.0	0.0	0.0

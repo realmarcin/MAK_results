@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neuropathy, congenital, with arthrogryposis multiplex"	"Jervell and Lange-Nielsen syndrome 1"	"colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome"	"Cardioneuromyopathy with hyaline masses and nemaline rods"	"2-methylbutyryl-CoA dehydrogenase deficiency"
 "Seizures"	1.0	0.0	1.0	0.0	0.0
 "Ataxia"	1.0	0.0	0.0	0.0	0.0
 "Myoclonus"	1.0	1.0	0.0	1.0	0.0

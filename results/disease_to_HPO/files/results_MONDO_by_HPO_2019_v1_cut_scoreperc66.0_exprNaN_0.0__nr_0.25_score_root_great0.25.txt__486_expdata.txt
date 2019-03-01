@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neuropathy, hereditary sensorimotor, with upper motor neuron, visual pathway and autonomic disturbance"	"neuropathy, hereditary sensory and autonomic, type 1A"	"hyper-IgM syndrome type 2"	"split hand-foot malformation 4"	"surfactant metabolism dysfunction, pulmonary, 5"
 "HP:0000006"	1.0	0.0	1.0	0.0	1.0
 "Abnormality of the cranial nerves"	0.0	0.0	1.0	0.0	0.0
 "Distal amyotrophy"	1.0	1.0	1.0	0.0	1.0

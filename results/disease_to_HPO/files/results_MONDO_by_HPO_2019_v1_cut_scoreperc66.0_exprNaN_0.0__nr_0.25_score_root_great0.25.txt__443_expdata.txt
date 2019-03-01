@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Fanconi-like syndrome"	"Simpson-Golabi-Behmel syndrome type 2"	"autosomal recessive congenital ichthyosis 3"	"retinitis pigmentosa 38"	"3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	1.0
 "Congenital sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0

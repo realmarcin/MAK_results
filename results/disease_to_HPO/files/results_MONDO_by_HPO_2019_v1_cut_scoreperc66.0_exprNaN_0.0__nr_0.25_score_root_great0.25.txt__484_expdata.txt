@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"sclerocornea, autosomal dominant"	"overhydrated hereditary stomatocytosis"	"congenital cataract-ichthyosis syndrome"	"lethal faciocardiomelic dysplasia"	"Grubben-de Cock-Borghgraef syndrome"	"whistling face syndrome, recessive form"
 "HP:0007513"	0.0	0.0	0.0	0.0	0.0	0.0
 "Lack of skin elasticity"	1.0	1.0	1.0	0.0	1.0	1.0
 "Aplasia/Hypoplasia of the skin"	1.0	1.0	1.0	1.0	1.0	1.0

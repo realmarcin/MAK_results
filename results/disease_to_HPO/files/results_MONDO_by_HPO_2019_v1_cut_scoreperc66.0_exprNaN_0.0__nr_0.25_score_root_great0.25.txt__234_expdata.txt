@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"intellectual disability, X-linked 63"	"X-linked myopathy with postural muscle atrophy"	"X-linked Emery-Dreifuss muscular dystrophy"	"MGR12"
 "Skeletal muscle atrophy"	1.0	1.0	1.0	0.0
 "Arrhythmia"	1.0	1.0	1.0	1.0
 "Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0

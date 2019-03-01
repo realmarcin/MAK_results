@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"leukocyte adhesion deficiency 1"	"choroidal osteoma, bilateral"	"hydrocephalus-costovertebral dysplasia-Sprengel anomaly syndrome"	"spondylocostal dysostosis 3, autosomal recessive"	"autosomal recessive nonsyndromic deafness 86"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Diarrhea"	0.0	0.0	0.0	0.0	1.0
 "Abdominal pain"	1.0	1.0	1.0	1.0	1.0

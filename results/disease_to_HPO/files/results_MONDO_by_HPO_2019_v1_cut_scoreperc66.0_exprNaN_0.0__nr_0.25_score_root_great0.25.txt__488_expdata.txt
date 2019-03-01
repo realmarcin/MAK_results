@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neurogenic scapuloperoneal syndrome, Kaeser type"	"succinic acidemia"	"ANIB3"	"giant axonal neuropathy 2"	"chromosome 6q11-q14 deletion syndrome"
 "Clumsiness"	0.0	1.0	0.0	1.0	0.0
 "HP:0003677"	1.0	1.0	1.0	1.0	1.0
 "HP:0003829"	0.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Brown-Vialetto-van Laere syndrome 1"	"methemoglobinemia type 4"	"fragile X-associated tremor/ataxia syndrome"	"Crigler-Najjar syndrome type 2"	"spinocerebellar ataxia type 27"
 "Progressive inspiratory stridor"	1.0	0.0	0.0	0.0	0.0
 "Generalized hyperreflexia"	1.0	0.0	0.0	1.0	1.0
 "Abnormality of erythrocytes"	0.0	1.0	1.0	1.0	0.0

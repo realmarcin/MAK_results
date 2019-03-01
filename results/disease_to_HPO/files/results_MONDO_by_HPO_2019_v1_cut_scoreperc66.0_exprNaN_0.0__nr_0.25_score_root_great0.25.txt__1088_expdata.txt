@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cleidocranial dysplasia"	"deafness-vitiligo-achalasia syndrome"	"congenital nephrotic syndrome, Finnish type"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"intellectual disability, keratoconus, febrile seizures, and sinoatrial block"	"Pilarowski-Bjornsson syndrome"
 "Hypertelorism"	1.0	0.0	0.0	0.0	0.0	1.0
 "Flat face"	1.0	0.0	0.0	0.0	0.0	1.0
 "High forehead"	1.0	0.0	0.0	0.0	0.0	1.0

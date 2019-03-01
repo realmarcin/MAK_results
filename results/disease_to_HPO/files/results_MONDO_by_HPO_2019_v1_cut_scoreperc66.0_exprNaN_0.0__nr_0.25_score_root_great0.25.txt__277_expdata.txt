@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"muscular dystrophy, pseudohypertrophic, with Internalized capillaries"	"autosomal recessive limb-girdle muscular dystrophy type 2B"	"musk, inability to smell"	"torsion dystonia with onset in infancy"	"ALG8-CDG"
 "HP:0001425"	1.0	0.0	1.0	0.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0
 "Syncope"	1.0	0.0	0.0	0.0	0.0

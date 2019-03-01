@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"facial hemiatrophy"	"vestibulocochlear dysfunction, progressive"	"autosomal recessive nonsyndromic deafness 46"	"alpha-2-macroglobulin deficiency"	"oocyte maturation defect 4"
 "HP:0003680"	1.0	1.0	1.0	1.0	1.0
 "Thin glomerular basement membrane"	1.0	0.0	0.0	0.0	0.0
 "Nasal regurgitation"	0.0	0.0	0.0	0.0	1.0

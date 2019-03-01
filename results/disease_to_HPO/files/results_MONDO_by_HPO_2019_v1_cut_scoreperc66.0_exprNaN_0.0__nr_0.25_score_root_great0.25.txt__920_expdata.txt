@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Blount disease, infantile"	"woolly hair (disease)"	"glutaryl-CoA dehydrogenase deficiency"	"X-linked intellectual disability-psychosis-macroorchidism syndrome"	"autosomal dominant nonsyndromic deafness 9"	"Pseudopili annulati"	"eculizumab, poor response to"
 "HP:0003745"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Muscle weakness"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Goiter"	1.0	0.0	0.0	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"multiple epiphyseal dysplasia, Beighton type"	"urate-binding globulin, decrease 1N"	"trichothiodystrophy 1, photosensitive"	"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome"	"Griscelli syndrome type 3"	"multiple epiphyseal dysplasia, with miniepiphyses"
 "Premature osteoarthritis"	0.0	0.0	0.0	1.0	0.0	0.0
 "Broad femoral neck"	1.0	1.0	1.0	1.0	1.0	1.0
 "Delayed tarsal ossification"	0.0	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"craniofaciofrontodigital syndrome"	"CADASIL 1"	"incisors, long upper central"	"paramyotonia congenita of Von Eulenburg"	"split-hand and split-foot with hypodontia"	"teeth present at birth (disease)"	"hypogonadotropic hypogonadism 18 with or without anosmia"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the dentition"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Lower lip pit"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

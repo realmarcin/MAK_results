@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"May-Hegglin anomaly"	"muscle cramps, familial"	"Cowden syndrome 6"	"urofacial syndrome 2"
 "Hypoplasia of the maxilla"	1.0	1.0	1.0	1.0
 "Flat face"	1.0	0.0	0.0	0.0
 "Dental malocclusion"	1.0	0.0	0.0	0.0

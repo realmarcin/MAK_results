@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"
 "Hypertelorism"	1.0	1.0	1.0	1.0
 "Small nail"	1.0	0.0	0.0	0.0
 "Short nose"	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypoplasminogenemia"	"constriction rings syndrome"	"autosomal recessive nonsyndromic deafness 1A"	"epileptic encephalopathy, early infantile, 44; EIEE44"
 "Hypertelorism"	1.0	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Patent ductus arteriosus"	1.0	1.0	1.0	0.0

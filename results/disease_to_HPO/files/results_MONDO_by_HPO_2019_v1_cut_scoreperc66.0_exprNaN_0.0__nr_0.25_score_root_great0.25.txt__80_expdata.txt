@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"kapur-Toriello syndrome"	"Kallmann syndrome with spastic paraplegia"	"keratosis follicularis spinulosa decalvans, X-linked"	"microcephaly 7, primary, autosomal recessive"
 "Cryptorchidism"	1.0	1.0	1.0	1.0
 "High palate"	0.0	1.0	1.0	1.0
 "Micropenis"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ventricular septal defect 3"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 8"	"facial dysmorphism-immunodeficiency-livedo-short stature syndrome"	"nanophthalmos 4"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Elevated alpha-fetoprotein"	0.0	0.0	0.0	1.0
 "Perimembranous ventricular septal defect"	1.0	0.0	0.0	0.0

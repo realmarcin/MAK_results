@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"esophageal ring, lower"	"nonsyndromic congenital nail disorder 3"	"intellectual disability, autosomal dominant 5"	"congenital generalized lipodystrophy type 4"	"mitochondrial DNA depletion syndrome 11"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "HP:0003581"	0.0	0.0	0.0	0.0	1.0
 "Squamous cell carcinoma"	1.0	1.0	0.0	0.0	0.0

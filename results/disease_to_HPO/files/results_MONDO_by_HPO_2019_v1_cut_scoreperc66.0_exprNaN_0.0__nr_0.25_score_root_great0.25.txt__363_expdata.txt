@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"elastosis perforans serpiginosa"	"ichthyosis-cheek-eyebrow syndrome"	"inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 1"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 2"	"grouped pigmentation of the retina"	"Vici syndrome"	"Beemer-Langer syndrome"	"hemophilia A with vascular abnormality"
 "Rectal abscess"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
 "Eczematoid dermatitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Granulomatosis"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0

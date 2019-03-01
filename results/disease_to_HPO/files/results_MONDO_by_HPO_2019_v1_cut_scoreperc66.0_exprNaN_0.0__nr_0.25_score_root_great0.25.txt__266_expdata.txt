@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Cooks syndrome"	"genetic anorectal anomalies"	"keratolytic winter erythema"	"LADD syndrome"	"OSLAM syndrome"	"hypertrophic cardiomyopathy 7"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Palmoplantar keratoderma"	0.0	0.0	1.0	0.0	0.0	0.0
 "Nail dysplasia"	1.0	1.0	1.0	0.0	0.0	1.0

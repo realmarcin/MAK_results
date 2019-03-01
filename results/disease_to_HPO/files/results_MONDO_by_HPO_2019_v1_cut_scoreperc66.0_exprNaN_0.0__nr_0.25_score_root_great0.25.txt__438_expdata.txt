@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fetal iodine syndrome"	"autosomal recessive familial Mediterranean fever"	"Xq27.3q28 duplication syndrome"	"Kallmann syndrome with spastic paraplegia"	"keratosis follicularis spinulosa decalvans, X-linked"
 "Decreased circulating luteinizing hormone level"	1.0	0.0	0.0	1.0	1.0
 "Olfactory lobe agenesis"	0.0	1.0	1.0	1.0	1.0
 "Leydig cell insensitivity to gonadotropin"	0.0	0.0	0.0	1.0	1.0

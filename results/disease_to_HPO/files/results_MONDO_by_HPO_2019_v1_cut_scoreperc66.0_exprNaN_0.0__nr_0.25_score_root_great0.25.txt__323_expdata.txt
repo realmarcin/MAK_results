@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"X-linked dominant chondrodysplasia, Chassaing-Lacombe type"	"primary ciliary dyskinesia 24"	"hereditary spastic paraplegia 74"	"Rahman syndrome"
 "Downslanted palpebral fissures"	0.0	1.0	1.0	1.0
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

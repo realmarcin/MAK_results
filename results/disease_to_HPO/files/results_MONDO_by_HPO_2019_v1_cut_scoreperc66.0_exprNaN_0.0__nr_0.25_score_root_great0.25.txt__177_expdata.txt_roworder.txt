@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.1"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.2"
+"1" "Warburg.micro.syndrome.3"
+"2" "Kabuki.syndrome.2"
+"3" "Ehlers.Danlos.syndrome..musculocontractural.type.2"

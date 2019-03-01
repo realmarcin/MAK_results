@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Chiari malformation type II"	"citrulline transport defect"	"hyperammonemia due to N-acetylglutamate synthase deficiency"	"juvenile Paget disease"	"otopalatodigital syndrome type 1"	"polymicrogyria, bilateral perisylvian, autosomal recessive"
 "Respiratory alkalosis"	1.0	1.0	1.0	0.0	1.0	1.0
 "Episodic ammonia intoxication"	1.0	1.0	1.0	0.0	1.0	0.0
 "Protein avoidance"	1.0	1.0	1.0	1.0	1.0	0.0

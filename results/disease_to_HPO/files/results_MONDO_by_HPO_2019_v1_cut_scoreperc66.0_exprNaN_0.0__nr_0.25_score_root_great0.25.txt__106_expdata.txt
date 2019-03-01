@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spinocerebellar ataxia type 12"	"hyperlipidemia due to hepatic triglyceride lipase deficiency"	"metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration; MECRCN"
 "Hypertelorism"	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0

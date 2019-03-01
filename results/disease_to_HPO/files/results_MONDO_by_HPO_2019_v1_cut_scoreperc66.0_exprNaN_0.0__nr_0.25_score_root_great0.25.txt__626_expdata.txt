@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Shwachman-Diamond syndrome 1"	"chondrodysplasia-pseudohermaphroditism syndrome"	"myelodysplasia, immunodeficiency, facial dysmorphism, short stature, and psychomotor delay"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"cataract 21 multiple types"	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intrauterine growth retardation"	1.0	0.0	1.0	0.0	1.0	0.0
 "Azoospermia"	0.0	0.0	0.0	0.0	0.0	0.0

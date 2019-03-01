@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"split hand-foot malformation 3"	"immunodeficiency, common variable, 1"	"vasculitis due to ADA2 deficiency"
 "HP:0000007"	1.0	1.0	1.0
 "Spastic paraplegia"	1.0	1.0	1.0
 "Hyperreflexia"	1.0	0.0	1.0

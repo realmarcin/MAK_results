@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"HCVS"	"elliptocytosis 1"	"Leber congenital amaurosis 8"	"infantile liver failure syndrome 1"	"macular dystrophy with central cone involvement"
 "Coronary artery dissection"	1.0	0.0	0.0	1.0	0.0
 "Dilatation of the thoracic aorta"	0.0	1.0	1.0	1.0	1.0
 "Coronary artery aneurysm"	0.0	0.0	0.0	1.0	0.0

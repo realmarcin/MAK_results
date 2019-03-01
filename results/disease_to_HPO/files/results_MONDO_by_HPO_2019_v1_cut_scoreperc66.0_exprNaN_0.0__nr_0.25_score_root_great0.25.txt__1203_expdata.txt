@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amelia and terminal transverse hemimelia"	"multiple sclerosis, susceptibility to 1"	"Ehlers-Danlos syndrome, arthrochalasis type"	"hypertelorism (disease)"	"psoriasis 1, susceptibility to"	"vulvovaginitis, allergic seminal"	"lung cancer"	"cardioauditory syndrome of Sanchez Cascos"	"lymphoblastic transformation, Inhibition of"	"hypospadias 1, X-linked"	"alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"	"Muenke syndrome"	"pontocerebellar hypoplasia type 1B"	"cardiofaciocutaneous syndrome 3"
 "Ventricular septal defect"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Atrial septal defect"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Hypogonadism"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

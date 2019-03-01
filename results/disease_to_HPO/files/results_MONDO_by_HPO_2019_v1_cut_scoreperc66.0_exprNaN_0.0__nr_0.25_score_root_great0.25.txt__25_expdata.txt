@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial encephalopathy with neuroserpin inclusion bodies"	"myopathy, autophagic vacuolar, infantile-onset"	"dilated cardiomyopathy 1X"	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3"	"hyperproinsulinemia"	"severe combined immunodeficiency due to LAT deficiency"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	0.0
 "Pachygyria"	0.0	1.0	1.0	0.0	1.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0	1.0

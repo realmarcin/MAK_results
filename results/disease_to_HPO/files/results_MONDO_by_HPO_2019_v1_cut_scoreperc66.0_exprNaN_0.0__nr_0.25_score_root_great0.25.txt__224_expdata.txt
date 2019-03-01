@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fused mandibular incisors"	"MRX81"	"premature ovarian failure 2B"	"progressive familial intrahepatic cholestasis type 3"
 "Prominent median palatal raphe"	1.0	1.0	1.0	1.0
 "Maxillary lateral incisor microdontia"	0.0	1.0	1.0	0.0
 "Heavy supraorbital ridges"	0.0	1.0	1.0	0.0

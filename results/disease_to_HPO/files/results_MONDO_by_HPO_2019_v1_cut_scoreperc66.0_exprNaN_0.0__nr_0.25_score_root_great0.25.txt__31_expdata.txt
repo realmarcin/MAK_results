@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dysautonomia-like disorder"	"dystonia 23"	"peroxisome biogenesis disorder 4B"	"peroxisome biogenesis disorder 6B"	"peroxisome biogenesis disorder 8B"
 "Hepatomegaly"	0.0	1.0	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0

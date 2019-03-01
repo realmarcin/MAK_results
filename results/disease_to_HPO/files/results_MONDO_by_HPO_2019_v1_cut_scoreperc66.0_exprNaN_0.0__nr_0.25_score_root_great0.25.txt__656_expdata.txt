@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"cataract 35"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
 "Spastic paraplegia"	0.0	1.0	1.0	0.0
 "Hyperreflexia"	1.0	1.0	1.0	1.0
 "Postural instability"	0.0	1.0	0.0	0.0

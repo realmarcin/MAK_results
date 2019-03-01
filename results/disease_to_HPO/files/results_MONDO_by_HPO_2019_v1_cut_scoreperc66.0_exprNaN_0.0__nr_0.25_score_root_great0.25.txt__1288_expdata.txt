@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autoimmune lymphoproliferative syndrome type 1"	"congenital primary aphakia"	"chromosome 17q12 deletion syndrome"	"epileptic encephalopathy, early infantile, 46; EIEE46"
 "Skull asymmetry"	1.0	0.0	0.0	0.0
 "Alopecia of scalp"	1.0	0.0	0.0	0.0
 "Visual impairment"	1.0	0.0	0.0	0.0

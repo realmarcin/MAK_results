@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"pyruvate dehydrogenase E1-beta deficiency"	"Warburg micro syndrome 3"	"Ehlers-Danlos syndrome, kyphoscoliotic and deafness type"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"	"autosomal recessive cutis laxa type 2d"	"congenital muscular dystrophy with cataracts and intellectual disability"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
 "Atrial septal defect"	0.0	0.0	0.0	0.0	1.0	1.0
 "Disproportionate tall stature"	0.0	0.0	0.0	0.0	1.0	1.0

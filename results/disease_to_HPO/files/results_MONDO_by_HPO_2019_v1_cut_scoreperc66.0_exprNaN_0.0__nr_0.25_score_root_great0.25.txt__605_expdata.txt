@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"avascular necrosis of femoral head, primary, 1"	"GLC1M"	"primary ciliary dyskinesia 9"	"colorectal cancer, hereditary nonpolyposis, type 7"	"Catel-Manzke syndrome"
 "CNS hypomyelination"	0.0	0.0	0.0	0.0	0.0
 "Cerebral hypomyelination"	1.0	1.0	1.0	1.0	1.0
 "Intention tremor"	1.0	1.0	0.0	1.0	1.0

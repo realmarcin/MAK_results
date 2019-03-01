@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypersensitivity pneumonitis, familial"	"holoprosencephaly-radial heart renal anomalies syndrome"	"inherited susceptibility to asthma"	"hydroxyacyl glutathione hydrolase deficiency"
 "HP:0000006"	1.0	1.0	1.0	0.0
 "Jaundice"	0.0	0.0	1.0	0.0
 "Elevated alkaline phosphatase"	0.0	0.0	1.0	0.0

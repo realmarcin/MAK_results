@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"progeria-short stature-pigmented nevi syndrome"	"diastematomyelia"	"intellectual disability, Wolff type"	"autosomal recessive limb-girdle muscular dystrophy type 2J"
 "HP:0000007"	1.0	1.0	0.0	0.0
 "Short stature"	1.0	1.0	0.0	0.0
 "Narrow mouth"	1.0	1.0	0.0	0.0

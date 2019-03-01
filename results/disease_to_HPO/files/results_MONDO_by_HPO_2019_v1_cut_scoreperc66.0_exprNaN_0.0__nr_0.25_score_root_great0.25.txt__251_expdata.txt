@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"very long chain acyl-CoA dehydrogenase deficiency"	"intellectual disability, X-linked 72"	"extraskeletal myxoid chondrosarcoma"	"Seckel syndrome 6"
 "Seizures"	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

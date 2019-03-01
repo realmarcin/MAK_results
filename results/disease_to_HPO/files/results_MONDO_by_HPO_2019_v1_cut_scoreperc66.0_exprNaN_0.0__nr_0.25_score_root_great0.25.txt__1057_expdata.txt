@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spermatogenic failure 6"	"deafness, X-linked 1"	"Joubert syndrome 8"	"dilated cardiomyopathy 2B"
 "Cleft palate"	1.0	0.0	1.0	1.0
 "Micrognathia"	1.0	0.0	0.0	0.0
 "Abnormal renal morphology"	1.0	0.0	0.0	0.0

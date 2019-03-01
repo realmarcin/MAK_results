@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"severe neonatal-onset encephalopathy with microcephaly"	"Charcot-Marie-Tooth disease X-linked dominant 6"	"cone-rod dystrophy 19"	"hereditary spastic paraplegia 75"	"atrial fibrillation, familial, 18; ATFB18"
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0
 "Low anterior hairline"	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"gastroesophageal reflux disease"	"Guttmacher syndrome"	"Rombo syndrome"	"synovial chondromatosis, familial, with dwarfism"	"temtamy syndrome"	"ovarian dysgenesis 1"	"microcephaly 1, primary, autosomal recessive"	"Richieri Costa-Pereira syndrome"	"free sialic acid storage disease, infantile form"	"retinal ischemic syndrome-digestive tract small vessel hyalinosis-diffuse cerebral calcifications syndrome"	"acromesomelic dysplasia, Maroteaux type"
 "Brachydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Radial deviation of finger"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Clinodactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

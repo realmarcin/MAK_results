@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alternating hemiplegia of childhood 1"	"cataract 7"	"familial cerebral cavernous malformation"	"cornea plana 1, autosomal dominant"	"lysine malabsorption syndrome"	"metaphyseal dysplasia, anetoderma, and optic atrophy"	"Naxos disease"
 "Glomerulonephritis"	1.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Anterior polar cataract"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
 "Azotemia"	1.0	0.0	0.0	0.0	0.0	0.0	0.0

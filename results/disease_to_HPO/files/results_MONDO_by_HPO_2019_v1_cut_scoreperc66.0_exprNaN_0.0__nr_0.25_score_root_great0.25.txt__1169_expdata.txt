@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"primary intestinal lymphangiectasia"	"chylous ascites"	"tongue, pigmented fungiform papillae of"	"autosomal recessive nonsyndromic deafness 51"	"cloverleaf skull-multiple congenital anomalies syndrome"
 "Nail pits"	0.0	0.0	0.0	0.0	1.0
 "Psoriasiform dermatitis"	0.0	0.0	0.0	0.0	1.0
 "Pericardial effusion"	0.0	0.0	0.0	0.0	1.0

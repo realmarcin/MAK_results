@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MNG2"	"osteopathia striata with cranial sclerosis"	"SSR4-CDG"	"intellectual disability, X-linked 105; MRX105"	"thrombocytopenia with elevated serum IgA and renal disease"
 "Intellectual disability"	1.0	0.0	1.0	1.0	0.0
 "Seizures"	1.0	0.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	0.0

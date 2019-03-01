@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"bilateral frontoparietal polymicrogyria"	"pyruvate dehydrogenase E1-beta deficiency"	"Heimler syndrome 2"	"congenital muscular dystrophy with cataracts and intellectual disability"	"neuronal intranuclear inclusion disease"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	0.0	1.0

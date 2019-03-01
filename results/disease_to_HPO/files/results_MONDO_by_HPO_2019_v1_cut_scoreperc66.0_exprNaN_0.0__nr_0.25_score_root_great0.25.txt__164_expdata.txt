@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"diaphragmatic hernia 2"	"thiamine-responsive megaloblastic anemia syndrome"	"autosomal recessive nonsyndromic deafness 20"	"trichotillomania"	"megalencephalic leukoencephalopathy with subcortical cysts 2B, remitting, with or without mental retardation"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	0.0	1.0
 "Motor delay"	0.0	0.0	1.0	0.0	1.0

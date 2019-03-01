@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"reticular dystrophy of retinal pigment epithelium"	"Leber congenital amaurosis 2"	"amaurosis-hypertrichosis syndrome"
 "HP:0000007"	0.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0
 "Photophobia"	0.0	1.0	1.0

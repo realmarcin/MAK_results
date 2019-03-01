@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"gracile syndrome"	"chromosome 6pter-p24 deletion syndrome"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
 "Syndactyly"	0.0	1.0	0.0	0.0
 "HP:0000006"	0.0	1.0	0.0	0.0
 "Intellectual disability"	0.0	1.0	0.0	0.0

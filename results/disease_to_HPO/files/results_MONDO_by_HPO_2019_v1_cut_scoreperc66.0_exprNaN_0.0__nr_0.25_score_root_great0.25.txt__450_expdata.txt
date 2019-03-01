@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinitis pigmentosa 63"	"DDH2"	"arrhythmogenic right ventricular dysplasia 13"	"epileptic encephalopathy, early infantile, 25"
 "Defective T cell proliferation"	1.0	0.0	1.0	1.0
 "HP:0031123"	0.0	1.0	1.0	0.0
 "Decreased number of CD3+ T cells"	0.0	0.0	1.0	0.0

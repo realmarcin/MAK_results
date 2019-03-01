@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, progeroid type 1"	"isolated cloverleaf skull syndrome"	"cystic fibrosis"	"Ellis-van Creveld syndrome"
 "Spontaneous neonatal pneumothorax"	0.0	0.0	1.0	1.0
 "Cystic lung disease"	0.0	0.0	1.0	0.0
 "Recurrent mandibular subluxations"	0.0	0.0	0.0	1.0

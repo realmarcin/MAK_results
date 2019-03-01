@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"phosphoribosylpyrophosphate synthetase superactivity"	"primary ciliary dyskinesia 26"
 "Depressed nasal bridge"	0.0	0.0	1.0	0.0
 "Midface retrusion"	0.0	0.0	1.0	0.0
 "HP:0003677"	0.0	0.0	1.0	0.0

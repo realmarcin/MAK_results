@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"DDH1"	"Haim-Munk syndrome"	"Borjeson-Forssman-Lehmann syndrome"	"acne inversa, familial, 3"	"congenital adrenal insufficiency"	"amyotrophic lateral sclerosis type 14"	"epileptic encephalopathy, early infantile, 51; EIEE51"
 "Acne inversa"	1.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Perifolliculitis"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
 "Chronic furunculosis"	0.0	1.0	0.0	1.0	1.0	1.0	0.0

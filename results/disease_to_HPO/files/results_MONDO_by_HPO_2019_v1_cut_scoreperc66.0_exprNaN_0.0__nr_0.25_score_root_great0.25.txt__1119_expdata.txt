@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Loeys-Dietz syndrome 1"	"hypogonadotropic hypogonadism 8 with or without anosmia"	"complex cortical dysplasia with other brain malformations 2"	"L-ferritin deficiency"	"hereditary spastic paraplegia 61"	"nephronophthisis 20"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dry skin"	1.0	0.0	0.0	0.0	0.0	0.0
 "Cognitive impairment"	1.0	0.0	0.0	0.0	0.0	0.0

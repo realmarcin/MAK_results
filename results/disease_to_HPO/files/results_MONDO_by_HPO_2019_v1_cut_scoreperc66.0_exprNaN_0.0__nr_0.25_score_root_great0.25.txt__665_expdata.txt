@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Richards-Rundle syndrome"	"polycystic kidney, cataract, and congenital blindness"	"fundus dystrophy, pseudoinflammatory, recessive form"	"pulmonary arteriovenous malformation (disease)"	"osteogenesis imperfecta type 8"	"coronary artery disease, autosomal dominant 2"
 "Interstitial pulmonary abnormality"	0.0	0.0	0.0	1.0	0.0	0.0
 "Pulmonary arterial hypertension"	0.0	0.0	0.0	1.0	0.0	0.0
 "HP:0001425"	0.0	0.0	0.0	1.0	1.0	1.0

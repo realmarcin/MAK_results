@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"electroencephalographic peculiarity: 14 and 6 per sec. positive spike phenomenon"	"cylindrical spirals myopathy"	"nevus flammeus of nape of neck"	"autosomal dominant vitreoretinochoroidopathy"	"cramps, familial adolescent"	"factor V and factor VIII, combined deficiency of, type 1"	"biotinidase deficiency"	"wrinkly skin syndrome"	"ALG13-CDG"	"chromosome 3q29 microduplication syndrome"	"Carpenter syndrome 2"	"hereditary spastic paraplegia 74"	"encephalopathy, progressive, early-onset, with brain atrophy and thin corpus callosum; PEBAT"	"pituitary adenoma 5, multiple types"
 "Arrhythmia"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Hypertrophic cardiomyopathy"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Nevus"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

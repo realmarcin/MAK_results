@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"gingival fibromatosis-progressive deafness syndrome"	"split hand-foot malformation 1 with sensorineural hearing loss"	"arthrogryposis, Perthes disease, and upward gaze palsy"	"STING-associated vasculopathy with onset in infancy"	"combined oxidative phosphorylation deficiency 29; COXPD29"
 "Brachydactyly"	0.0	1.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0

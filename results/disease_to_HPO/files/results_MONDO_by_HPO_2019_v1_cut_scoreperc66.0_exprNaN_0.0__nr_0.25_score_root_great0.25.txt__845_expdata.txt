@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"electroencephalographic peculiarity: 14 and 6 per sec. positive spike phenomenon"	"familial ossifying fibroma"	"cylindrical spirals myopathy"	"nevus flammeus of nape of neck"	"protoporphyria, erythropoietic"	"autosomal dominant vitreoretinochoroidopathy"
 "Hypertelorism"	0.0	1.0	0.0	0.0	1.0	0.0
 "Seizures"	0.0	1.0	0.0	0.0	1.0	0.0
 "Broad nasal tip"	0.0	1.0	0.0	0.0	0.0	0.0

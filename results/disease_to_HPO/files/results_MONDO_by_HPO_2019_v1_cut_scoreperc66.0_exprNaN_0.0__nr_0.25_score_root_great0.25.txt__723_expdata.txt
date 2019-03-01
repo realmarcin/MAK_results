@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"noduli Cutanei, multiple, with urinary tract abnormalities"	"hypertrophic cardiomyopathy 10"	"EIG3"	"long QT syndrome 10"	"chromosome 4q21 deletion syndrome"	"long QT syndrome 6"
 "Vertigo"	0.0	0.0	1.0	0.0	1.0	0.0
 "Ventricular arrhythmia"	0.0	0.0	0.0	1.0	1.0	0.0
 "Palpitations"	0.0	1.0	1.0	0.0	1.0	0.0

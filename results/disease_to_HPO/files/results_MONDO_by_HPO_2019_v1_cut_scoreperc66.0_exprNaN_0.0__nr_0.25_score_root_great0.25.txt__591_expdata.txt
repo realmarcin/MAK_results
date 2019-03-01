@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"primary release disorder of platelets"	"autoimmune lymphoproliferative syndrome type 2A"	"Reynolds syndrome"
 "Priapism"	1.0	1.0	0.0
 "Increased red cell sickling tendency"	0.0	1.0	0.0
 "Decreased glucosephosphate isomerase activity"	0.0	0.0	1.0

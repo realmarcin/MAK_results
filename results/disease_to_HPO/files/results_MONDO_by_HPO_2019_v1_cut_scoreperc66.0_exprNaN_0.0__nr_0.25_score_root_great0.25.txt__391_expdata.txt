@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"exostoses of heel"	"platelet-type bleeding disorder 16"	"right atrial isomerism (disease)"	"Cohen syndrome"	"Fibulo-ulnar hypoplasia-renal anomalies syndrome"	"renal hypomagnesemia 4"
 "Hypoplastic iliac wing"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hypoplastic pelvis"	1.0	1.0	1.0	1.0	1.0	1.0
 "Slender long bone"	0.0	0.0	0.0	0.0	0.0	0.0

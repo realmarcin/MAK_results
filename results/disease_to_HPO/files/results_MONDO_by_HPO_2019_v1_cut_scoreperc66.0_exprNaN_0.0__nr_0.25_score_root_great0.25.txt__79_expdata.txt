@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dementia/parkinsonism with non-Alzheimer amyloid plaques"	"metaphyseal chondrodysplasia, Jansen type"	"nephrotic syndrome, type 6"
 "HP:0000006"	1.0	1.0	1.0
 "HP:0003581"	1.0	1.0	0.0
 "Urinary incontinence"	1.0	1.0	0.0

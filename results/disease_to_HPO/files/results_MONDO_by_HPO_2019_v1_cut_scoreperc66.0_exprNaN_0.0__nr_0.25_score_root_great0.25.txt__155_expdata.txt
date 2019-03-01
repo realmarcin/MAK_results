@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Alzheimer disease type 1"	"nephrogenic diabetes insipidus-intracranial calcification syndrome"	"primary hypergonadotropic hypogonadism-partial alopecia syndrome"	"optic atrophy, hearing loss, and peripheral neuropathy, autosomal recessive"	"subaortic stenosis, membranous"	"xeroderma pigmentosum group C"	"xeroderma pigmentosum group E"	"acute leukemia (disease)"	"combined immunodeficiency, X-linked"	"Usher syndrome type 1D"	"spermatogenic failure 10"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Fine hair"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Choreoathetosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"oculoauriculovertebral spectrum with radial defects"	"DiGeorge syndrome"	"frontoocular syndrome"	"spermatogenic failure 11"	"schwannomatosis 2"	"myopia 25, autosomal dominant; MYP25"
 "Long philtrum"	0.0	0.0	1.0	1.0	1.0	0.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0	1.0	1.0	1.0

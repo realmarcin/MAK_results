@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"central core myopathy"	"MAFD1"	"peripheral neuropathy, ataxia, focal necrotizing encephalopathy, and spongy degeneration of brain"	"pycnodysostosis"
 "HP:0000007"	1.0	0.0	1.0	0.0
 "HP:0003674"	0.0	0.0	1.0	0.0
 "Periodontitis"	1.0	0.0	1.0	0.0

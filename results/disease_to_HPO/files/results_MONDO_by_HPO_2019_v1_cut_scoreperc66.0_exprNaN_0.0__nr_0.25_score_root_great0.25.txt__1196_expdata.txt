@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aplasia cutis congenita (disease)"	"facial spasm"	"cranial nerves, recurrent paresis of"	"craniodiaphyseal dysplasia"	"Charcot-Marie-Tooth disease type 2D"	"hereditary spastic paraplegia 10"
 "Peripheral neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0	0.0
 "Coarctation of aorta"	1.0	0.0	0.0	0.0	0.0	0.0

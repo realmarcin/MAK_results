@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Joubert syndrome with oculorenal defect"	"X-linked congenital hemolytic anemia"	"multiple epiphyseal dysplasia, Lowry type"	"primary ciliary dyskinesia 20"	"spermatogenic failure 30"
 "Single transverse palmar crease"	1.0	0.0	1.0	0.0	0.0
 "HP:0000007"	1.0	0.0	1.0	1.0	0.0
 "Muscular hypotonia"	1.0	0.0	1.0	0.0	0.0

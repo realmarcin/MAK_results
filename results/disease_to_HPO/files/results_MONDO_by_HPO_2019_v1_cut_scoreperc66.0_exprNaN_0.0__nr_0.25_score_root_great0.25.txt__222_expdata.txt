@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Noonan syndrome with multiple lentigines"	"arteriosclerosis, severe juvenile"	"cutis marmorata telangiectatica congenita (disease)"	"German syndrome"	"primary ciliary dyskinesia 6"	"plasma fibronectin deficiency"
 "Hyperextensible skin"	0.0	1.0	0.0	1.0	0.0	0.0
 "Cutis laxa"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hyperextensibility of the finger joints"	1.0	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"arthrogryposis, distal, with hypopituitarism, mental retardation, and facial anomalies"	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
 "Short stature"	1.0	0.0	1.0	1.0
 "Myocardial infarction"	1.0	0.0	0.0	0.0
 "Chronic kidney disease"	1.0	0.0	0.0	0.0

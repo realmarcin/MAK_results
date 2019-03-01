@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alopecia-intellectual disability syndrome 1"	"microcephaly-cardiomyopathy syndrome"	"3MC syndrome 1"	"fine-Lubinsky syndrome"	"cholestasis-pigmentary retinopathy-cleft palate syndrome"	"autosomal recessive nonsyndromic deafness 77"	"focal segmental glomerulosclerosis 6"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13"	"primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0
 "Global developmental delay"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

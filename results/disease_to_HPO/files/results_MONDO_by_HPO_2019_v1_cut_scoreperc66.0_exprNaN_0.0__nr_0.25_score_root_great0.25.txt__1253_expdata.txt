@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"46,XX sex reversal 3"	"primary ciliary dyskinesia 26"
 "Pachygyria"	0.0	0.0	1.0	0.0
 "Polymicrogyria"	0.0	0.0	1.0	0.0
 "Micrognathia"	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant vibratory urticaria"	"visceral steatosis, congenital"	"spinal dysplasia, Anhalt type"	"thiopurine S-methyltransferase deficiency"
 "Abnormality of the thorax"	0.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	0.0	1.0
 "Abnormality of the skin"	1.0	1.0	1.0	1.0

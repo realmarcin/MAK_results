@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary coproporphyria"	"flood factor deficiency"	"Behr syndrome"	"skeletal dysplasia-epilepsy-short stature syndrome"	"combined immunodeficiency due to MALT1 deficiency"	"ataxia - oculomotor apraxia type 4"
 "Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	0.0
 "Wide nasal bridge"	1.0	1.0	1.0	1.0	0.0	1.0
 "Muscular hypotonia"	1.0	0.0	1.0	1.0	0.0	0.0

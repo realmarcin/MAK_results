@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fascial dystrophy, congenital"	"Niemann-Pick disease, type C1"	"sudden infant death-dysgenesis of the testes syndrome"	"cone-rod dystrophy 11"	"hereditary spastic paraplegia 18"	"Seckel syndrome 6"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	0.0	1.0
 "Kyphoscoliosis"	0.0	0.0	0.0	1.0	0.0	1.0

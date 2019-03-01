@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"scapula, contour of vertebral border of"	"temtamy syndrome"	"Pseudouridinuria and mental defect"	"syndactyly-telecanthus-anogenital and renal malformations syndrome"	"epileptic encephalopathy, early infantile, 47; EIEE47"
 "2-3 toe syndactyly"	1.0	0.0	1.0	0.0	1.0
 "Scaphocephaly"	0.0	1.0	0.0	0.0	1.0
 "Hypotelorism"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Caffey disease"	"Friedreich ataxia, so-called, with optic atrophy and sensorineural deafness"	"complement component C1r/C1s deficiency"	"low phospholipid associated cholelithiasis"	"hypotrichosis 5"
 "Abnormality of the lymph nodes"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the spleen"	1.0	0.0	0.0	0.0	0.0
 "Abnormality of bone marrow cell morphology"	1.0	0.0	0.0	0.0	0.0

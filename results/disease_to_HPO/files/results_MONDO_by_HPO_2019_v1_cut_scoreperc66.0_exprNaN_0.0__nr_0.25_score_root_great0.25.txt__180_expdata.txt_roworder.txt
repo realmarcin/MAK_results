@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "X14q32.duplication.syndrome"
+"2" "exudative.vitreoretinopathy.4"
+"3" "interstitial.lung.disease.due.to.ABCA3.deficiency"

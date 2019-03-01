@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Lynch syndrome 1"	"congenital anomalies of kidney and urinary tract type 2"	"ptosis-vocal cord paralysis syndrome"	"Rett syndrome"	"retinitis pigmentosa 72"	"pyogenic bacterial infections due to MyD88 deficiency"
 "Esotropia"	0.0	0.0	0.0	0.0	0.0	1.0
 "Cataract"	1.0	1.0	0.0	1.0	1.0	1.0
 "Retinal detachment"	1.0	0.0	1.0	1.0	1.0	1.0

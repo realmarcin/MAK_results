@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hereditary renal hypouricemia"	"Frank-Ter Haar syndrome"	"epidermolysis bullosa simplex, generalized, with scarring and hair loss; EBSSH"	"microcephaly 20, primary, autosomal recessive"
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

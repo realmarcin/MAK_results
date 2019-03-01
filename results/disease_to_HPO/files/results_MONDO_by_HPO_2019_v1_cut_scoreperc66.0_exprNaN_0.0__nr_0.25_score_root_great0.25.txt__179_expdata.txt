@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"syndromic X-linked intellectual disability 17"	"mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria"	"immunodeficiency, common variable, 7"	"dilated cardiomyopathy 1NN"	"FTDALS4"	"candidiasis, familial, 9"
 "Hyporeflexia"	0.0	0.0	1.0	1.0	1.0	1.0
 "HP:0003676"	1.0	0.0	0.0	1.0	1.0	1.0
 "Bulbar palsy"	0.0	0.0	0.0	1.0	1.0	1.0

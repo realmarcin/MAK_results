@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"thyroid cancer, nonmedullary, 2"	"ventricular extrasystoles with syncopal episodes-perodactyly-robin sequence syndrome"	"cervical hypertrichosis-peripheral neuropathy syndrome"	"recessive X-linked ichthyosis"
 "Cleft palate"	1.0	1.0	1.0	0.0
 "Specific learning disability"	1.0	1.0	1.0	0.0
 "Umbilical hernia"	1.0	1.0	0.0	1.0

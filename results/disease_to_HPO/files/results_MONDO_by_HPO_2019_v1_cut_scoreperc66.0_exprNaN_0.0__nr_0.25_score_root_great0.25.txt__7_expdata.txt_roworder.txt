@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.2"
-"3" "MONDO.0008741.1"
+"1" "alopecia.intellectual.disability.syndrome.1"
+"2" "Sandhoff.disease"
+"3" "microcephaly.cardiomyopathy.syndrome"

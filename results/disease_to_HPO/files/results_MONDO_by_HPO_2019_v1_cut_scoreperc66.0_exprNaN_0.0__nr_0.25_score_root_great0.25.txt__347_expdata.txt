@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mitochondrial myopathy"	"pellagra-like syndrome"	"permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome"	"microphthalmia, isolated, with coloboma 3"	"holoprosencephaly, recurrent infections, and monocytosis"	"encephalopathy due to prosaposin deficiency"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Premature birth"	0.0	1.0	0.0	1.0	0.0	0.0
 "Metabolic acidosis"	0.0	0.0	1.0	1.0	1.0	1.0

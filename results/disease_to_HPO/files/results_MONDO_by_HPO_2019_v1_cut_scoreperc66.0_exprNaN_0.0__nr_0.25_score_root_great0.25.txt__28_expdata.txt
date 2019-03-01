@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypokalemic periodic paralysis, type 2"	"fetal valproate syndrome"	"familial papillary thyroid carcinoma with renal papillary neoplasia"
 "Rhizomelia"	0.0	1.0	1.0
 "Abnormality of the metaphysis"	1.0	1.0	1.0
 "Abnormality of epiphysis morphology"	1.0	1.0	1.0

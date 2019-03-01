@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypersensitivity pneumonitis, familial"	"Protrusio acetabuli (disease)"	"holoprosencephaly-radial heart renal anomalies syndrome"	"cutis laxa, autosomal recessive, type 1A"	"MYP19"	"hydroxyacyl glutathione hydrolase deficiency"
 "HP:0000007"	0.0	1.0	0.0	1.0	1.0	0.0
 "Diarrhea"	0.0	0.0	0.0	1.0	1.0	0.0
 "Erythema"	0.0	1.0	0.0	1.0	0.0	0.0

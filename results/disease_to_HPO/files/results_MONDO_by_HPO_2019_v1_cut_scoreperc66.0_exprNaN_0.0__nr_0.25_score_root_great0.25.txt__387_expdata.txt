@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B1"	"intellectual disability, autosomal recessive 13"	"congenital muscular dystrophy with intellectual disability and severe epilepsy"	"autosomal dominant childhood-onset proximal spinal muscular atrophy with contractures"	"female infertility due to zona pellucida defect"
 "Global developmental delay"	0.0	1.0	0.0	1.0	1.0
 "Polymicrogyria"	0.0	1.0	0.0	0.0	1.0
 "Cortical dysplasia"	0.0	0.0	0.0	1.0	1.0

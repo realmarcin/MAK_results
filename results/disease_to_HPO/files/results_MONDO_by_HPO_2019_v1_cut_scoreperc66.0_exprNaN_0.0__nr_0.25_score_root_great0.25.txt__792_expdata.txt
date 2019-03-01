@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"scalp-ear-nipple syndrome"	"Dohle bodies and leukemia"	"occipital horn syndrome"	"glaucoma type 1C"	"familial scaphocephaly syndrome, McGillivray type"	"familial cold autoinflammatory syndrome 3"
 "Downslanted palpebral fissures"	0.0	0.0	1.0	1.0	0.0	0.0
 "Encephalocele"	1.0	1.0	1.0	0.0	1.0	1.0
 "Micrognathia"	0.0	0.0	1.0	1.0	0.0	0.0

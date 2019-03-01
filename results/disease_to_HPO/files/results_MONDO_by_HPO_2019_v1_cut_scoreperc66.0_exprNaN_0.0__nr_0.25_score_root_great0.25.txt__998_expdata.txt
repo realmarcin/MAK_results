@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hypouricemia, renal, 2"	"amyotrophic lateral sclerosis type 18"	"encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy; PEBEL"	"Miles-Carpenter syndrome"
 "Seizures"	1.0	0.0	0.0	0.0
 "Generalized hypotonia"	1.0	1.0	1.0	0.0
 "Gait ataxia"	1.0	0.0	0.0	0.0

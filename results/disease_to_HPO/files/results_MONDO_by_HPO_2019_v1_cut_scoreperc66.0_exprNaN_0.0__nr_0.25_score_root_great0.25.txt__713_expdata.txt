@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"diabetes mellitus, noninsulin-dependent"	"hypertrichosis cubiti-short stature syndrome"	"spondyloepimetaphyseal dysplasia-abnormal dentition syndrome"	"type 1 diabetes mellitus 10"	"keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome"	"congenital generalized lipodystrophy type 3"
 "HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
 "Diabetes mellitus"	1.0	1.0	1.0	1.0	1.0	0.0
 "Type I diabetes mellitus"	1.0	0.0	1.0	0.0	0.0	1.0

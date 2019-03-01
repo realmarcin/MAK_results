@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"muscle cramps, familial"	"hypogonadotropic hypogonadism 5 with or without anosmia"	"Cowden syndrome 6"	"urofacial syndrome 2"
 "Pectus excavatum"	1.0	0.0	1.0	1.0
 "Micrognathia"	1.0	0.0	1.0	1.0
 "High palate"	1.0	0.0	1.0	1.0

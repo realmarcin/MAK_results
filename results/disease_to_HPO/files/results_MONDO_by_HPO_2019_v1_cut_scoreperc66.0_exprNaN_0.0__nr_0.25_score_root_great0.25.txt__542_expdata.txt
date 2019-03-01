@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hallux varus-preaxial polysyndactyly syndrome"	"Spondylospinal thoracic dysostosis"	"autosomal recessive nonsyndromic deafness 14"	"myopathy, proximal, and ophthalmoplegia"	"autosomal recessive nonsyndromic deafness 47"	"congenital primary aphakia"	"microcephaly, growth retardation, cataract, hearing loss, and unusual appearance"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
 "Toe syndactyly"	0.0	1.0	0.0	0.0	1.0	0.0	0.0

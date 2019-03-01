@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"branchial myoclonus with spastic paraparesis and cerebellar ataxia"	"hairy nose tip"	"Passovoy factor defect"	"chondromalacia patellae"	"Klippel-Feil syndrome 2, autosomal recessive"	"Joubert syndrome with hepatic defect"	"fibular hypoplasia and complex brachydactyly"	"spondyloperipheral dysplasia-short ulna syndrome"	"thalidomide susceptibility"	"X-linked hypophosphatemic rickets"	"myelolymphatic insufficiency"	"Salla disease"	"oligodontia-cancer predisposition syndrome"	"diaphragmatic hernia 3"
 "Large fontanelles"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Short clavicles"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Abnormality of the neck"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

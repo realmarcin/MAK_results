@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Bjornstad syndrome"	"myofibrillar myopathy 2"	"keratosis palmoplantaris striata 2"	"autoinflammation-PLCG2-associated antibody deficiency-immune dysregulation"
 "HP:0000007"	0.0	1.0	0.0	1.0
 "Failure to thrive"	0.0	1.0	0.0	1.0
 "Dysphagia"	0.0	1.0	0.0	1.0

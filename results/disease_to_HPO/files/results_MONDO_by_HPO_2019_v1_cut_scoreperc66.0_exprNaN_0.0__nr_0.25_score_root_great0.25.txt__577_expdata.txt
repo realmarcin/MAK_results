@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"myoclonic epilepsy, Hartung type"	"carbimazole sensitivity"	"Charcot-Marie-Tooth disease type 2I"	"invasive pneumococcal disease, recurrent isolated, 1"	"hereditary pediatric BehC'et-like disease"	"primary sclerosing cholangitis"
 "HP:0000007"	0.0	1.0	0.0	1.0	1.0	0.0
 "Neutropenia"	0.0	0.0	1.0	1.0	1.0	0.0
 "Immunodeficiency"	0.0	1.0	1.0	1.0	1.0	1.0

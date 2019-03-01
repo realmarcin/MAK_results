@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fibromatosis, gingival, 1"	"median nodule of the upper lip"	"mullerian aplasia and hyperandrogenism"	"polyposis, gastric, Dos Santos and de Magalhaes 1980"	"Peutz-Jeghers syndrome"	"polyposis of gastric fundus without polyposis coli"	"pancreatic agenesis 1"
 "Colon cancer"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Basal cell carcinoma"	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Neoplasm of the stomach"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

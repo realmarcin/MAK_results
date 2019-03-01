@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Guttmacher syndrome"	"Ruvalcaba syndrome"	"Sneddon syndrome"	"Wilms tumor type 1"	"Goodman syndrome"	"intellectual disability, X-linked 96"
 "Delayed skeletal maturation"	1.0	1.0	0.0	1.0	0.0	0.0
 "Obesity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Precocious puberty"	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neuropathy, with paraprotein 1N serum, cerebrospinal fluid and urine"	"giant axonal neuropathy 1"	"Matthew-wood syndrome"	"MEDNIK syndrome"	"sinoatrial node dysfunction and deafness"	"immunodeficiency, common variable, 10"
 "Decreased motor nerve conduction velocity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Weakness of the intrinsic hand muscles"	0.0	0.0	0.0	0.0	0.0	1.0
 "Triceps weakness"	0.0	0.0	0.0	0.0	0.0	1.0

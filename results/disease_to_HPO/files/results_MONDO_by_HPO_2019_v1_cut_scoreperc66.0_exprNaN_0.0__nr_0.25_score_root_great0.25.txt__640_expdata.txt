@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ATHS"	"laryngeal abductor paralysis"	"hyperdibasic aminoaciduria type 1"	"Kifafa seizure disorder"	"nephronophthisis 1"	"glioma susceptibility 9"
 "Cervical kyphosis"	1.0	1.0	1.0	1.0	1.0	1.0
 "Multiple carpal ossification centers"	0.0	1.0	0.0	0.0	0.0	0.0
 "Dislocated wrist"	0.0	1.0	0.0	0.0	0.0	0.0

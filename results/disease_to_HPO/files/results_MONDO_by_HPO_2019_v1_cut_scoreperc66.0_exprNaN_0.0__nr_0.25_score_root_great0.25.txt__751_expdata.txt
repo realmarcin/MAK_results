@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Aicardi-Goutieres syndrome 6"	"Parkinson disease 22, autosomal dominant; PARK22"	"nephrotic syndrome, type 11; NPHS11"	"radioulnar synostosis with amegakaryocytic thrombocytopenia 2; RUSAT2"
 "Frontal bossing"	0.0	0.0	1.0	0.0
 "Bulbous nose"	1.0	1.0	0.0	1.0
 "Tapered finger"	0.0	0.0	1.0	1.0

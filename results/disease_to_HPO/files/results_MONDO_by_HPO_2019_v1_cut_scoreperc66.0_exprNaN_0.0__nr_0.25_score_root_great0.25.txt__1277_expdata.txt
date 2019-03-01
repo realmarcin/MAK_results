@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"xylosidase deficiency"	"Fanconi anemia complementation group j"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
 "Conductive hearing impairment"	0.0	1.0	0.0	0.0
 "Abnormality of cardiovascular system morphology"	0.0	1.0	0.0	0.0
 "Arnold-Chiari malformation"	0.0	1.0	0.0	0.0

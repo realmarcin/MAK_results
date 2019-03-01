@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"eyebrow duplication-syndactyly syndrome"	"myopathy, myosin storage, autosomal recessive"	"anauxetic dysplasia 1"	"Stickler syndrome, type I, nonsyndromic ocular"	"PSMNSW"	"triosephosphate isomerase deficiency"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	0.0	1.0	1.0	0.0	0.0	0.0
 "Global developmental delay"	0.0	0.0	1.0	1.0	0.0	0.0

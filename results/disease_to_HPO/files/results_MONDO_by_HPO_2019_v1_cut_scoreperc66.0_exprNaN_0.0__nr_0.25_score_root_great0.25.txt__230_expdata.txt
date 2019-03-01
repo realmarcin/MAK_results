@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"LADD syndrome"	"melorheostosis"	"OSLAM syndrome"	"osteoporosis"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Lacrimal duct atresia"	1.0	0.0	1.0	0.0
 "Dacryocystitis"	1.0	0.0	0.0	1.0

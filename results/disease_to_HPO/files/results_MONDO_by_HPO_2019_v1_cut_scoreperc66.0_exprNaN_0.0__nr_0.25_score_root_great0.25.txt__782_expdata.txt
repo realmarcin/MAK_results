@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"rheumatoid arthritis"	"Revesz syndrome"	"Rett syndrome"	"testicular microlithiasis (disease)"	"pigmented nodular adrenocortical disease, primary, 1"
 "Retinoschisis"	1.0	1.0	1.0	0.0	0.0
 "Cystic retinal degeneration"	0.0	0.0	1.0	0.0	0.0
 "Electronegative electroretinogram"	0.0	0.0	1.0	1.0	1.0

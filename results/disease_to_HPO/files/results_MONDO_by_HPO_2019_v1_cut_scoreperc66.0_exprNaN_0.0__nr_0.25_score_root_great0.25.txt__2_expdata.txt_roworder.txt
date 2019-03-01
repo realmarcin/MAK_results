@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "intellectual.disability..X.linked.46"
+"2" "testicular.anomalies.with.or.without.congenital.heart.disease"
+"3" "orofaciodigital.syndrome.XV"

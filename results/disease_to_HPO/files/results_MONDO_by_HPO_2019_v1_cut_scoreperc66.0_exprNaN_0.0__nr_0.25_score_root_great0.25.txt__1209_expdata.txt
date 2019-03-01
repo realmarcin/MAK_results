@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"globulin anomaly involving beta (2A)-globulin"	"campomelia, Cumming type"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Abnormal joint morphology"	0.0	1.0	0.0	0.0
 "Coronary artery calcification"	0.0	1.0	0.0	0.0
 "Periarticular calcification"	0.0	1.0	0.0	0.0

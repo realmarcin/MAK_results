@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Saethre-Chotzen syndrome"	"cervical hypertrichosis with underlying kyphoscoliosis"	"Hurler syndrome"	"microphthalmia, isolated, with coloboma 6"
 "Anomalous tracheal cartilage"	1.0	1.0	0.0	0.0
 "Acrobrachycephaly"	1.0	0.0	0.0	0.0
 "Cervical C5/C6 vertebrae fusion"	1.0	0.0	0.0	1.0

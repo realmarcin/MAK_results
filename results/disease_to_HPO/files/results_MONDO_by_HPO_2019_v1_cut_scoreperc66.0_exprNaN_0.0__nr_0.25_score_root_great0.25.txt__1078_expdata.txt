@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Noonan syndrome 1"	"cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome"	"holoprosencephaly 7"	"chromosome 17q11.2 deletion syndrome, 1.4Mb"	"severe combined immunodeficiency due to DNA-PKcs deficiency"
 "HP:0000007"	0.0	1.0	0.0	0.0	0.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Renal insufficiency"	0.0	1.0	0.0	0.0	0.0

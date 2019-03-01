@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Stimmler syndrome"	"complement component C1r/C1s deficiency"	"hypogonadotropic hypogonadism 24 without anosmia"	"Hartnup disease"	"macrosomia-microphthalmia-cleft palate syndrome"	"neutrophil actin dysfunction"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0	1.0
 "Growth abnormality"	1.0	1.0	0.0	0.0	0.0	0.0
 "Eosinophilia"	1.0	1.0	1.0	1.0	1.0	1.0

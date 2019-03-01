@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acropectorovertebral dysplasia"	"xeroderma pigmentosum group C"	"xeroderma pigmentosum group E"	"xeroderma pigmentosum variant type"	"46,XX sex reversal 2"
 "Conjunctivitis"	0.0	1.0	1.0	1.0	1.0
 "Dermal atrophy"	0.0	1.0	1.0	1.0	1.0
 "Keratitis"	0.0	1.0	1.0	1.0	1.0

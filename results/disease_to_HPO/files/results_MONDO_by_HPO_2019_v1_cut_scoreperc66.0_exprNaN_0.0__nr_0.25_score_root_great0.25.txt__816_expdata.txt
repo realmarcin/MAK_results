@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"familial hyperaldosteronism type III"	"NGLY1-deficiency"	"glucocorticoid resistance"	"intellectual disability, autosomal dominant 38"
 "HP:0000007"	0.0	1.0	1.0	0.0	1.0
 "Microcephaly"	0.0	1.0	1.0	0.0	0.0
 "Low-set ears"	0.0	1.0	1.0	0.0	0.0

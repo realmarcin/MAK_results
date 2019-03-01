@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ribose-5-P isomerase deficiency"	"dilated cardiomyopathy 1HH"	"nephrotic syndrome, type 8"	"Bardet-Biedl syndrome 2"
 "Acanthosis nigricans"	1.0	1.0	1.0	1.0
 "Polycystic ovaries"	1.0	1.0	1.0	1.0
 "Abdominal obesity"	0.0	0.0	0.0	1.0

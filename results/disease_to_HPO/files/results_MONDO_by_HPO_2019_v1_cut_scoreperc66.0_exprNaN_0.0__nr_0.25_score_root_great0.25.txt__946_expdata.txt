@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Goldenhar syndrome"	"isovaleric acid, inability to smell"	"pulmonary hypertension, primary, autosomal recessive"	"MPDU1-CDG"	"congenital primary aphakia"
 "Thin anteverted nares"	1.0	1.0	0.0	0.0	0.0
 "Conotruncal defect"	0.0	1.0	0.0	0.0	1.0
 "Abnormality of the pulmonary veins"	0.0	1.0	1.0	0.0	0.0

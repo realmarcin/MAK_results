@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"focal epithelial hyperplasia of the oral mucosa"	"salivary duct calculi"	"Dermatoleukodystrophy"	"hypertrophic osteoarthropathy, primary, autosomal recessive, 1"	"herpes simplex encephalitis, susceptibility to, 2"	"Seckel syndrome 4"
 "Seizures"	1.0	0.0	1.0	1.0	1.0	1.0
 "HP:0003745"	0.0	1.0	0.0	1.0	1.0	1.0
 "Hemiparesis"	0.0	0.0	0.0	0.0	1.0	0.0

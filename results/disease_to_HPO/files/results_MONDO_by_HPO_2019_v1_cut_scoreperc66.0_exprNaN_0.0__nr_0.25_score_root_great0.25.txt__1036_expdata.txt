@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Rombo syndrome"	"calcaneonavicular coalition"	"ectodermal dysplasia-blindness syndrome"	"syndactyly type 8"	"aphalangy-syndactyly-microcephaly syndrome"	"ectodermal dysplasia with natal teeth, Turnpenny type"
 "Right ventricular outlet obstruction"	1.0	0.0	1.0	0.0	0.0	0.0
 "Bifid distal phalanx of toe"	1.0	1.0	1.0	0.0	0.0	0.0
 "Duplication of the distal phalanx of hand"	1.0	0.0	1.0	0.0	0.0	0.0

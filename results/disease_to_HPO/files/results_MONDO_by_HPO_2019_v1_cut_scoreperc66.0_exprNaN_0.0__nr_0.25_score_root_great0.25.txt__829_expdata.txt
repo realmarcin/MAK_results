@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"immunoglobulin d level 1N plasma, low"	"lymphoblastic leukemia, acute, with lymphomatous features"	"retinitis pigmentosa"	"camptodactyly syndrome, Guadalajara type 3"
 "IgM deficiency"	0.0	1.0	0.0	1.0
 "Secundum atrial septal defect"	0.0	0.0	0.0	1.0
 "Gonadal dysgenesis"	0.0	0.0	0.0	1.0

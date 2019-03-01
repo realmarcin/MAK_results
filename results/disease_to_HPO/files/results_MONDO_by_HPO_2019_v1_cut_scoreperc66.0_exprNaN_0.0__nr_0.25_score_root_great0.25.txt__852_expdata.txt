@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"genochondromatosis"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"subacute sclerosing panencephalitis"	"intellectual disability, autosomal dominant 29"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Papule"	0.0	0.0	0.0	0.0	1.0
 "Epidermal acanthosis"	0.0	0.0	0.0	0.0	1.0

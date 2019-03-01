@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "brachydactyly.arterial.hypertension.syndrome"
+"2" "SHFLD1"
+"3" "dwarfism..familial..with.muscle.spasms"

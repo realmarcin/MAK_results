@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Beemer-Langer syndrome"	"low phospholipid associated cholelithiasis"	"congenital myasthenic syndrome 1A"	"autosomal dominant nonsyndromic deafness 15"	"BNAR syndrome"
 "Diarrhea"	1.0	1.0	1.0	1.0	1.0
 "Pneumonia"	1.0	1.0	1.0	1.0	0.0
 "Severe combined immunodeficiency"	0.0	1.0	1.0	1.0	1.0

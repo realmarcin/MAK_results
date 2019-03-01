@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"torsion dystonia 4"	"episodic kinesigenic dyskinesia 1"	"Nijmegen breakage syndrome-like disorder"	"neurodegeneration with brain iron accumulation 4"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Gait ataxia"	0.0	1.0	1.0	0.0
 "Depressivity"	1.0	0.0	1.0	1.0

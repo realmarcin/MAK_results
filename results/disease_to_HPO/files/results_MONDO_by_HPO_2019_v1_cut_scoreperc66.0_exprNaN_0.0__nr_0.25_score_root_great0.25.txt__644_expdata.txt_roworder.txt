@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741.2"
-"2" "MONDO.0008741"
-"3" "MONDO.0008741.1"
+"1" "inherited.genitourinary.tract.anomalies..disease."
+"2" "chlorpropamide.alcohol.flushing"
+"3" "hypokalemic.periodic.paralysis..type.1"

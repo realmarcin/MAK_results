@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spondyloepimetaphyseal dysplasia, Strudwick type"	"Sprengel deformity (disease)"	"occipital horn syndrome"	"isolated anterior cervical hypertrichosis"
 "Toe syndactyly"	0.0	0.0	1.0	1.0
 "Conductive hearing impairment"	0.0	0.0	1.0	1.0
 "Midface retrusion"	0.0	0.0	1.0	1.0

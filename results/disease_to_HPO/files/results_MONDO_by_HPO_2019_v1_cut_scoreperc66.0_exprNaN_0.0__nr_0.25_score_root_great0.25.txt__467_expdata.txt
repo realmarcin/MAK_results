@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"dwarfism, low-birth-weight type, with unresponsiveness to growth hormone"	"polysyndactyly-cardiac malformation syndrome"	"pyridoxine-dependent epilepsy"	"DDX41-related hematologic malignancy predisposition syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Abdominal distention"	0.0	0.0	0.0	1.0
 "Inflammation of the large intestine"	0.0	0.0	0.0	1.0

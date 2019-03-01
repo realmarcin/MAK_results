@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"acne inversa, familial, 1"	"progressive bulbar palsy"	"epidermodysplasia verruciformis"	"periodontitis, chronic, adult"
 "Paresthesia"	1.0	1.0	1.0	0.0
 "Arthralgia"	1.0	1.0	1.0	1.0
 "Arthritis"	1.0	0.0	1.0	1.0

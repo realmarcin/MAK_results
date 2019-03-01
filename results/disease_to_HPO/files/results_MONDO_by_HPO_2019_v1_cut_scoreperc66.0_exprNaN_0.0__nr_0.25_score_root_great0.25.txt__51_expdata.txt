@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"primary biliary cholangitis 1"	"syringomas, multiple"	"spinocerebellar ataxia type 11"	"multiple epiphyseal dysplasia, Al-Gazali type"	"intellectual disability, autosomal recessive 61"	"acrogeria"
 "Arthralgia"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0003677"	0.0	0.0	0.0	0.0	1.0	0.0
 "Fever"	1.0	1.0	1.0	1.0	1.0	1.0

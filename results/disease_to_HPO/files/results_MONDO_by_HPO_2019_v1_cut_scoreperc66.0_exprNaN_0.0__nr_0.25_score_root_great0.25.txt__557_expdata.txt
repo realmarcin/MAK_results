@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"atelosteogenesis type III"	"ATHS"	"omphalocele, autosomal"	"neuropathy, hereditary sensory and autonomic, type 2A"	"lethal omphalocele-cleft palate syndrome"
 "Elbow dislocation"	1.0	1.0	1.0	1.0	1.0
 "Patellar dislocation"	0.0	0.0	1.0	1.0	0.0
 "Rhizomelic arm shortening"	0.0	0.0	1.0	0.0	0.0

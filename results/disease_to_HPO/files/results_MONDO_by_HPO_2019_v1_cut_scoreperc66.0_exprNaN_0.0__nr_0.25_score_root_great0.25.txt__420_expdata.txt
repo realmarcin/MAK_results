@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neuropathy, hereditary sensory and autonomic, type 1C"	"craniofacial anomalies and anterior segment dysgenesis syndrome"	"osteogenesis imperfecta type 15"	"ovarian dysgenesis 5"
 "Strabismus"	1.0	1.0	1.0	0.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0
 "Pulmonic stenosis"	0.0	1.0	0.0	0.0

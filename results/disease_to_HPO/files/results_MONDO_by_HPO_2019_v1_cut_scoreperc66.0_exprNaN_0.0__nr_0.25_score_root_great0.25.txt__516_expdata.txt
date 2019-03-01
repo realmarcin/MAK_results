@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alcohol dependence"	"focal segmental glomerulosclerosis 1"	"pseudopseudohypoparathyroidism"	"chromosome 1q21.1 deletion syndrome"
 "Broad distal phalanx of the thumb"	1.0	0.0	1.0	0.0
 "Hypogonadism"	1.0	0.0	1.0	0.0
 "Choroid plexus calcification"	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"brachydactyly type A1A"	"brachydactyly type A3"	"van der Woude syndrome 1"	"Birt-Hogg-Dube syndrome"	"Hashimoto thyroiditis"	"Goldenhar syndrome"	"tarsal coalition"	"Wolff-Parkinson-white syndrome (disease)"	"cleidocranial dysplasia, recessive form"	"thrombocythemia 2"
 "Cleft upper lip"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
 "Atrial septal defect"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
 "High forehead"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0

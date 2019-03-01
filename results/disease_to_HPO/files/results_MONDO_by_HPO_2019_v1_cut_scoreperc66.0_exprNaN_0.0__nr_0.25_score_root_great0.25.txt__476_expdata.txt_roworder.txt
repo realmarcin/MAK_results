@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "lethal.congenital.contracture.syndrome.1"
+"2" "long.QT.syndrome.15"
+"3" "periventricular.nodular.heterotopia.7..PVNH7"

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MRX53"	"Atkin-Flaitz syndrome"	"Asperger syndrome, X-linked, susceptibility to, 1"	"CFTDX"	"primary ciliary dyskinesia 26"
 "HP:0001417"	0.0	1.0	0.0	0.0	0.0
 "Intellectual disability"	0.0	1.0	0.0	1.0	0.0
 "Short stature"	0.0	1.0	0.0	1.0	0.0

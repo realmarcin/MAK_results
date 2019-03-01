@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"3-methylglutaconic aciduria type 1"	"arrhythmogenic right ventricular dysplasia 12"	"MRT16"	"Warburg micro syndrome 3"	"porencephaly 2"	"Joubert syndrome 20"	"melanoma, cutaneous malignant, susceptibility to, 10"	"intellectual disability, autosomal dominant 34"	"Charcot-Marie-Tooth disease axonal type 2X"	"familial progressive retinal dystrophy-iris coloboma-congenital cataract syndrome"	"heart and brain malformation syndrome; HBMS"	"epileptic encephalopathy, early infantile, 37; EIEE37"	"epileptic encephalopathy, early infantile, 65"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spondylometaphyseal dysplasia, 'corner fracture' type"	"thanatophoric dysplasia type 2"	"theophylline Biotransformation"	"nephronophthisis 1"	"BCYM1B"	"spastic paraparesis-deafness syndrome"
 "Shortening of all phalanges of the toes"	0.0	0.0	0.0	0.0	0.0	0.0
 "Anterior tibial bowing"	0.0	0.0	0.0	0.0	0.0	0.0
 "Poorly ossified cervical vertebrae"	0.0	0.0	0.0	0.0	0.0	0.0

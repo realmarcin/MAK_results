@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"metachromatic leukodystrophy, adult-onset, with normal arylsulfatase a"	"tarsal-carpal coalition syndrome"	"Roberts syndrome"	"epilepsy-microcephaly-skeletal dysplasia syndrome"	"Wolfram syndrome 2"	"hereditary spastic paraplegia 13"
 "HP:0000006"	1.0	1.0	0.0	0.0	1.0	1.0
 "Global developmental delay"	0.0	0.0	0.0	1.0	0.0	1.0
 "Short stature"	0.0	0.0	0.0	1.0	1.0	1.0

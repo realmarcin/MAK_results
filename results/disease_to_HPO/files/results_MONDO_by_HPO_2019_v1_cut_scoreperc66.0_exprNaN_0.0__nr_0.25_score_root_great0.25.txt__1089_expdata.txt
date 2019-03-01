@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"diaphragmatic hernia, congenital 1"	"inherited torticollis (disease)"	"blepharophimosis-ptosis-esotropia-syndactyly-short stature syndrome"	"cardiomyopathy associated with myopathy and sudden death"	"seizures, benign familial neonatal, autosomal recessive"	"spermatogenic failure, Y-linked, 2"
 "Acanthosis nigricans"	0.0	0.0	0.0	0.0	1.0	0.0
 "Intellectual disability, mild"	0.0	0.0	0.0	0.0	1.0	0.0
 "Hypertriglyceridemia"	0.0	0.0	0.0	0.0	1.0	0.0

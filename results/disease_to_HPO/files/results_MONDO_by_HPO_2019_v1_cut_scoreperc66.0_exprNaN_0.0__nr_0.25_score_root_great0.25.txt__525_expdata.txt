@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease axonal type 2H"	"hypertrichosis, hyperkeratosis, mental retardation, and distinctive facial features"	"Kostmann syndrome"	"autosomal recessive nonsyndromic deafness 63"	"LEOPARD syndrome 2"	"glycogen storage disease due to muscle and heart glycogen synthase deficiency"	"factor XIII, A subunit, deficiency of"	"LEOPARD syndrome 3"	"neuropathy, hereditary sensory, type 1D"	"autosomal recessive limb-girdle muscular dystrophy type 2S"	"retinitis pigmentosa 74"	"spondylocostal dysostosis 6, autosomal recessive"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Webbed neck"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Asymmetry of the thorax"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

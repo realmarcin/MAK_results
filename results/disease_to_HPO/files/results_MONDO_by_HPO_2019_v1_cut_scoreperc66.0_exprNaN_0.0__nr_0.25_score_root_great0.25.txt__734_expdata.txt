@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cryptotia, familial"	"congenital macroglossia"	"granulocytopenia with immunoglobulin abnormality"	"holoprosencephaly 1"	"microcephaly 5, primary, autosomal recessive"
 "Cutis marmorata"	1.0	1.0	0.0	0.0	0.0
 "Peripheral neuropathy"	0.0	1.0	0.0	1.0	0.0
 "Fever"	1.0	1.0	1.0	1.0	1.0

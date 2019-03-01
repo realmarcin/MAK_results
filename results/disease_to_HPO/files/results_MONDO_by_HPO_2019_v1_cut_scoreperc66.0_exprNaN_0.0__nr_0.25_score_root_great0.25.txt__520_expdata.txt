@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic arch anomaly-facial dysmorphism-intellectual disability syndrome"	"familial calcium pyrophosphate deposition"	"coloboma of macula-brachydactyly type B syndrome"	"dermal Ridges, patternless"	"childhood absence epilepsy"	"Diamond-Blackfan anemia 8"	"Cowden syndrome 7"	"epileptic encephalopathy, early infantile, 46; EIEE46"
 "Tetralogy of Fallot"	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Vesicoureteral reflux"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Renal hypoplasia"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0

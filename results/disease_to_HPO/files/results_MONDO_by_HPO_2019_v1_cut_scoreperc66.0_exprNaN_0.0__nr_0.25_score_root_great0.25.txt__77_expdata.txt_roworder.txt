@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "pelvic.organ.prolapse..susceptibility.to"
+"2" "symphalangism.with.multiple.anomalies.of.hands.and.feet"
+"3" "early.onset.Parkinson.disease.20"

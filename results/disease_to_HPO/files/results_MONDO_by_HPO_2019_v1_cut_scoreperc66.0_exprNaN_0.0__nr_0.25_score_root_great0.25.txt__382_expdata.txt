@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"xylosidase deficiency"	"reticuloendotheliosis, X-linked"	"tetrasomy 12p"	"hypospadias, hypertelorism, upper 51D coloboma, and mixed-type hearing loss"	"periventricular nodular heterotopia 6"	"pontocerebellar hypoplasia type 2E"
 "Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hypogonadism"	0.0	1.0	1.0	1.0	0.0	1.0
 "Micropenis"	1.0	1.0	0.0	1.0	1.0	1.0

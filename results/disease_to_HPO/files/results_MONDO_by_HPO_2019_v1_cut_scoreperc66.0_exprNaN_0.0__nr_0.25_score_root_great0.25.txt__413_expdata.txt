@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aggressive periodontitis"	"mitochondrial DNA depletion syndrome 9"	"orofaciodigital syndrome IX"	"Mounier-Kuhn syndrome"
 "Hypertelorism"	0.0	1.0	1.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Pectus excavatum"	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"aortic aneurysm, familial abdominal, 1"	"mucolipidosis type III gamma"	"Cornelia de Lange syndrome 2"	"severe X-linked mitochondrial encephalomyopathy"	"neuroferritinopathy"	"encephalopathy due to GLUT1 deficiency"
 "Hyperopic astigmatism"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0001470"	1.0	0.0	0.0	0.0	0.0	0.0
 "Penoscrotal hypospadias"	0.0	0.0	0.0	0.0	0.0	0.0

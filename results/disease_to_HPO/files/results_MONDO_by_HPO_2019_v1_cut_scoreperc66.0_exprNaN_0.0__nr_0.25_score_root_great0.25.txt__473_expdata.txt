@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"fibrinolytic defect"	"gingival fibromatosis-progressive deafness syndrome"	"premature chromatid separation trait"	"triphalangeal thumb with double phalanges"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"leprosy, susceptibility to, 3"	"achromatopsia 3"
 "Long penis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Elfin facies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Female pseudohermaphroditism"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0

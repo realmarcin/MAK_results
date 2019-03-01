@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"generalized dominant dystrophic epidermolysis bullosa"	"epidermolysis bullosa simplex Dowling-Meara type"	"pretibial dystrophic epidermolysis bullosa"	"epidermolysis bullosa with diaphragmatic hernia"	"Brody myopathy"	"alpha thalassemia"	"Ehlers-Danlos syndrome type 2"
 "Milia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Atrophic scars"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Elevated maternal serum alpha-fetoprotein"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

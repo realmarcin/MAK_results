@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"palmoplantar keratoderma, nonepidermolytic"	"cataract 22 multiple types"	"obesity due to leptin receptor gene deficiency"	"pontocerebellar hypoplasia type 7"
 "Diarrhea"	1.0	0.0	0.0	0.0
 "Obesity"	1.0	1.0	1.0	1.0
 "HP:0003745"	1.0	0.0	0.0	0.0

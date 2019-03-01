@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"orofaciodigital syndrome VIII"	"Clark-Baraitser syndrome"	"cone dystrophy, X-linked, with tapetal-like sheen"	"X-linked corneal dermoid"
 "Nystagmus"	1.0	1.0	1.0	0.0
 "Abnormality of metabolism/homeostasis"	0.0	1.0	1.0	0.0
 "Photophobia"	1.0	0.0	1.0	1.0

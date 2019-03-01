@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"methylmalonic acidemia with homocystinuria, type cblJ"	"chromosome 17q21.31 duplication syndrome"
 "Long philtrum"	0.0	0.0	1.0	0.0
 "Arachnodactyly"	0.0	0.0	1.0	0.0
 "Dislocated radial head"	0.0	0.0	1.0	0.0

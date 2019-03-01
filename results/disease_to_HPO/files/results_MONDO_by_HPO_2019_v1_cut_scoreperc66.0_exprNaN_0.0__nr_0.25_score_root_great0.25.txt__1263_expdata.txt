@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"	"autosomal recessive cutis laxa type 2d"
 "Aortic regurgitation"	0.0	0.0	0.0	1.0
 "Knee flexion contracture"	0.0	0.0	0.0	1.0
 "Hip dysplasia"	0.0	0.0	0.0	1.0

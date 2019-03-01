@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"chromosome 16p12.1 deletion syndrome, 520kb"	"platelet signal processing defect"	"familial spontaneous pneumothorax"	"retinitis pigmentosa 19"	"generalized epilepsy with febrile seizures plus, type 7"	"Steel syndrome"
 "Peripheral retinal atrophy"	1.0	0.0	0.0	0.0	1.0	1.0
 "Impaired collagen-induced platelet aggregation"	0.0	0.0	1.0	0.0	0.0	0.0
 "Impaired epinephrine-induced platelet aggregation"	0.0	1.0	1.0	1.0	0.0	0.0

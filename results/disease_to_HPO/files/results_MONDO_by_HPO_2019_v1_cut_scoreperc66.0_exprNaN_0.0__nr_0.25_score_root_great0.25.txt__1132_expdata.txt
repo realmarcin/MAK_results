@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Gilbert syndrome"	"nonpapillary renal cell carcinoma"	"familial infantile myoclonic epilepsy"	"autosomal recessive nonsyndromic deafness 33"	"hydroxyacyl glutathione hydrolase deficiency"	"autoimmune lymphoproliferative syndrome type 3"
 "Expressive language delay"	0.0	0.0	0.0	0.0	0.0	0.0
 "Increased circulating high-density lipoprotein levels"	1.0	0.0	0.0	0.0	1.0	0.0
 "Decreased circulating low-density lipoprotein levels"	0.0	1.0	1.0	1.0	1.0	1.0

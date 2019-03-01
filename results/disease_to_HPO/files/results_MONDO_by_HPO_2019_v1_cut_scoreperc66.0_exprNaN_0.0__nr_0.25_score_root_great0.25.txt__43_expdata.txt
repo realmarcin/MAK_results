@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spinocerebellar ataxia type 12"	"Okur-Chung neurodevelopmental syndrome; OCNDS"	"orofaciodigital syndrome XV"
 "Microcephaly"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Dental crowding"	0.0	1.0	1.0

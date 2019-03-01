@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinal cone dystrophy type 1"	"Wilms tumor type 1"	"dissecting cellulitis of the scalp"	"CGF1"	"mitochondrial myopathy with reversible cytochrome C oxidase deficiency"	"oncocytic neoplasm"	"pontocerebellar hypoplasia type 1A"	"Brugada syndrome 2"
 "Retinal arteriolar tortuosity"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
 "Corticospinal tract atrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormal visual field test"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

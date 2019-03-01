@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cutaneous photosensitivity-lethal colitis syndrome"	"Nijmegen breakage syndrome-like disorder"	"neurodegeneration with brain iron accumulation 4"	"craniosynostosis 6"
 "Ptosis"	0.0	1.0	0.0	1.0
 "Hearing impairment"	0.0	1.0	1.0	0.0
 "Depressivity"	1.0	1.0	1.0	1.0

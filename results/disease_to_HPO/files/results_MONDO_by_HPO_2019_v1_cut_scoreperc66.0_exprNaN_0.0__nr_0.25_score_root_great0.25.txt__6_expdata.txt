@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"thromboangiitis obliterans"	"FL1"	"metaphyseal anadysplasia 2"
 "HP:0000006"	1.0	1.0	1.0
 "Chronic bronchitis"	1.0	1.0	1.0
 "Bronchiectasis"	1.0	1.0	1.0

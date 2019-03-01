@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Ehlers-Danlos syndrome, arthrochalasis type"	"congenital vertical talus"	"colonic atresia (disease)"	"susceptibility to viral and mycobacterial infections"
 "Uterine prolapse"	1.0	0.0	1.0	1.0
 "Lumbar kyphosis"	0.0	1.0	1.0	0.0
 "HP:0000429"	0.0	0.0	1.0	0.0

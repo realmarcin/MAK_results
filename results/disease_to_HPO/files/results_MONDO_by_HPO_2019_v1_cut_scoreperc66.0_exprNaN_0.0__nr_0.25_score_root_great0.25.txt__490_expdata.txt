@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"peroxisome biogenesis disorder 2A (Zellweger)"	"cerebrooculofacioskeletal syndrome 1"	"peroxisome biogenesis disorder 4B"	"peroxisome biogenesis disorder 5B"	"peroxisome biogenesis disorder 6B"	"peroxisome biogenesis disorder 8B"
 "Cubitus valgus"	1.0	1.0	0.0	1.0	0.0	0.0
 "Metatarsus adductus"	1.0	1.0	0.0	1.0	0.0	0.0
 "Pigmentary retinopathy"	1.0	1.0	0.0	1.0	0.0	0.0

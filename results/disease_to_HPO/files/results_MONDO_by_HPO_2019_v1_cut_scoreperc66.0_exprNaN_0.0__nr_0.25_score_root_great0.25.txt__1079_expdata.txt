@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"congenital thrombotic thrombocytopenic purpura"	"cleft palate with or without ankyloglossia, X-linked"	"X-linked hydrocephalus with stenosis of the aqueduct of Sylvius"	"loose anagen syndrome"	"hyperinsulinemic hypoglycemia, familial, 2"	"microcephaly 2, primary, autosomal recessive, with or without cortical malformations"	"long QT syndrome 9"	"autosomal recessive ataxia due to ubiquinone deficiency"	"DPM3-CDG"	"familial steroid-resistant nephrotic syndrome with sensorineural deafness"	"neuropathy, hereditary motor and sensory, type 6B"	"14q32 duplication syndrome"	"seizures-scoliosis-macrocephaly syndrome"	"retinitis pigmentosa 75"
 "Flexion contracture"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Talipes equinovarus"	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
 "Kyphoscoliosis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

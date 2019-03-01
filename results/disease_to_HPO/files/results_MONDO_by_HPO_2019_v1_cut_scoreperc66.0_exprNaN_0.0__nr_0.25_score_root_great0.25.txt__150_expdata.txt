@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"IGAN1"	"esophageal atresia/tracheoesophageal fistula"	"glycogen storage disease II"	"cerebral cavernous malformation 2"	"autoimmune disease, susceptibility to, 1"
 "HP:0000006"	1.0	1.0	0.0	1.0	0.0
 "Hypertension"	1.0	1.0	1.0	1.0	1.0
 "Renal insufficiency"	1.0	0.0	1.0	0.0	1.0

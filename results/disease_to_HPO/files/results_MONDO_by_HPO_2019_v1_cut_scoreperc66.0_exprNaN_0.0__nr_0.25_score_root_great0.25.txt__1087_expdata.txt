@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"metachondromatosis"	"sporadic porphyria cutanea tarda"	"Aphalangy-hemivertebrae-urogenital-intestinal dysgenesis syndrome"	"Beemer-Ertbruggen syndrome"	"autosomal dominant nonsyndromic deafness 13"	"cervical cancer"
 "Increased IgG level"	0.0	0.0	0.0	1.0	1.0	1.0
 "Rheumatoid factor positive"	0.0	0.0	0.0	1.0	1.0	1.0
 "Increased IgM level"	0.0	0.0	0.0	1.0	1.0	1.0

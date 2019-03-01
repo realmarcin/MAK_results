@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"band keratopathy"	"reticular dystrophy of the retinal pigment epithelium"	"red-green color blindness"	"cone dystrophy, X-linked, with tapetal-like sheen"	"autosomal recessive nonsyndromic deafness 4"	"progressive familial heart block type IB"
 "HP:0000007"	1.0	1.0	0.0	0.0	0.0	1.0
 "Optic atrophy"	0.0	1.0	0.0	0.0	0.0	0.0
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0	1.0

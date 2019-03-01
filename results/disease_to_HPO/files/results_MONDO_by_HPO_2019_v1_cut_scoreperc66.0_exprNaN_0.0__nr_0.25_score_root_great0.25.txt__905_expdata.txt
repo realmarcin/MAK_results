@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"adenosine deaminase, elevated, hemolytic anemia due to"	"congenital bile acid synthesis defect 2"	"NYS5"	"lymphoproliferative syndrome, X-linked, 1"	"spinocerebellar ataxia type 13"	"Cree mental retardation syndrome"	"ovarian hyperstimulation syndrome"	"tropical pancreatitis"
 "Absence of lymph node germinal center"	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0
 "Dysgammaglobulinemia"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Chronic hepatitis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0

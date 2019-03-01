@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Balkan nephropathy"	"immunodeficiency 27A"	"immunodeficiency-centromeric instability-facial anomalies syndrome 1"	"carnitine palmitoyl transferase II deficiency, severe infantile form"	"inherited susceptibility to asthma"	"epilepsy, idiopathic generalized, susceptibility to, 11"	"faciocardiomelic syndrome"	"three M syndrome 3"	"agammaglobulinemia 7, autosomal recessive"
 "Cholangitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Cholesterol gallstones"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Chronic hepatitis due to cryptospridium infection"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

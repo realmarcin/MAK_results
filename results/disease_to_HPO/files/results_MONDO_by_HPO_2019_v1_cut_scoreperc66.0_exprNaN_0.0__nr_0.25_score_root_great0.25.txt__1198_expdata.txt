@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ossification of the posterior longitudinal ligament of the spine"	"microphthalmia with cyst, bilateral facial clefts, and limb anomalies"	"lipoic acid synthetase deficiency"	"branched-chain keto acid dehydrogenase kinase deficiency"	"catecholaminergic polymorphic ventricular tachycardia 5"	"limb-girdle muscular dystrophy due to POMK deficiency"	"intellectual disability, autosomal recessive 50"	"autosomal recessive nonsyndromic deafness 105"	"spinocerebellar ataxia, autosomal recessive 24; SCAR24"
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Pachygyria"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Renal cyst"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"XFE progeroid syndrome"	"arrhythmogenic right ventricular dysplasia 12"	"autosomal recessive limb-girdle muscular dystrophy type 2T"	"combined oxidative phosphorylation defect type 26"	"noonan syndrome-like disorder with loose anagen hair 2"	"intellectual disability, autosomal dominant 45"
 "Seizures"	1.0	1.0	1.0	0.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	0.0	0.0

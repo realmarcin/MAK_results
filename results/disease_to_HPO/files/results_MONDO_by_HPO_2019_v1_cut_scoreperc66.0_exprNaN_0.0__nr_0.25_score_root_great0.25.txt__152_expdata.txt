@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"tooth ankylosis"	"oculopharyngodistal myopathy"	"pelvic lipomatosis with crossed renal ectopia"	"Diamond-Blackfan anemia 15 with mandibulofacial dysostosis"	"Czech dysplasia, metatarsal type"	"amyotrophic lateral sclerosis type 10"	"primary ciliary dyskinesia 10"	"intellectual disability-severe speech delay-mild dysmorphism syndrome"	"Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2a2b;"	"dystonia 28, childhood-onset; DYT28"	"mental retardation, autosomal dominant 58"
 "HP:0003676"	0.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
 "Spasticity"	0.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0

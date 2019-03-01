@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"MHC class II deficiency"	"macroepiphyseal dysplasia with osteoporosis, wrinkled skin, and aged appearance"	"Ullrich congenital muscular dystrophy 1"	"encephalopathy due to GLUT1 deficiency"	"autosomal recessive limb-girdle muscular dystrophy type 2O"
 "Mandibular prognathia"	0.0	1.0	0.0	1.0	0.0
 "Dental crowding"	1.0	0.0	0.0	1.0	0.0
 "Hypogonadism"	1.0	0.0	1.0	0.0	0.0

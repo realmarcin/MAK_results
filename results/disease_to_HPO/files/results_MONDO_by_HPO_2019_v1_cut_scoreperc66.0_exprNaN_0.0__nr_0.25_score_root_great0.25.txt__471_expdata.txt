@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"malignant mesothelioma (disease)"	"synovial chondromatosis, familial, with dwarfism"	"tarsal coalition"	"cleidocranial dysplasia, recessive form"
 "Cleft soft palate"	0.0	0.0	0.0	1.0
 "Progressive fusion 2nd-5th pip joints"	0.0	1.0	0.0	0.0
 "Abnormality of the ankles"	1.0	1.0	1.0	1.0

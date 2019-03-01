@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Cushing disease due to pituitary adenoma"	"fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement"	"arrhythmogenic right ventricular dysplasia 11"	"combined oxidative phosphorylation defect type 2"	"epileptic encephalopathy, early infantile, 21"
 "Mood changes"	1.0	0.0	1.0	1.0	0.0
 "Primary hypercorticolism"	1.0	0.0	1.0	1.0	1.0
 "Decreased circulating ACTH level"	1.0	1.0	1.0	1.0	0.0

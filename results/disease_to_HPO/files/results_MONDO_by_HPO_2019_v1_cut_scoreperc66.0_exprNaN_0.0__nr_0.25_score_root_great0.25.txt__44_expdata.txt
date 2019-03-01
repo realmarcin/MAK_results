@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"endometriosis, susceptibility to, 1"	"hyperpigmentation of eyelid"	"growth failure, microcephaly, mental retardation, cataracts, large joint contractures, osteoporosis, cortical dysplasia, and cerebellar atrophy"	"cerebrooculofacioskeletal syndrome 2"	"retinitis pigmentosa 41"
 "Elevated circulating parathyroid hormone level"	1.0	1.0	1.0	1.0	1.0
 "Peptic ulcer"	1.0	1.0	1.0	1.0	0.0
 "Hyperparathyroidism"	1.0	1.0	1.0	1.0	1.0

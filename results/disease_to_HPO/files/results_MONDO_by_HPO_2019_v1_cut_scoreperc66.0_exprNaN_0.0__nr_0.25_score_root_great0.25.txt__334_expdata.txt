@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Crouzon syndrome"	"Silver-Russell syndrome"	"peroxisome biogenesis disorder 1A (Zellweger)"	"autosomal dominant nonsyndromic deafness 18"	"epilepsy, familial adult myoclonic, 2"	"distal myopathy with posterior leg and anterior hand involvement"
 "Self-mutilation"	1.0	1.0	1.0	0.0	1.0	1.0
 "Facial grimacing"	1.0	1.0	0.0	0.0	0.0	0.0
 "Abnormality of the kidney"	1.0	1.0	1.0	1.0	1.0	0.0

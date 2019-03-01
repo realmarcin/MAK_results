@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal dominant primary microcephaly"	"spondylometaphyseal dysplasia, 'corner fracture' type"	"Riley-Day syndrome"	"spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome"	"epileptic encephalopathy, early infantile, 63"
 "Platyspondyly"	1.0	1.0	1.0	1.0	1.0
 "Broad foot"	0.0	0.0	1.0	1.0	0.0
 "Hypoplastic pelvis"	1.0	1.0	0.0	1.0	0.0

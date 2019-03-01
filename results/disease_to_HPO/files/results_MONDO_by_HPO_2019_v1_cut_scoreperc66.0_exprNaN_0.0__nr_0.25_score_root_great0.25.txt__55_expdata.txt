@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"alternating hemiplegia of childhood 1"	"Alstrom syndrome"	"amelogenesis imperfecta type 1E"	"Lesch-Nyhan phenotype with normal HGPRT"
 "Lenticonus"	1.0	0.0	1.0	1.0
 "Thickening of the glomerular basement membrane"	1.0	1.0	1.0	1.0
 "Diffuse glomerular basement membrane lamellation"	1.0	1.0	1.0	1.0

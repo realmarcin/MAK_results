@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"retinitis pigmentosa 29"	"epileptic encephalopathy, early infantile, 11"	"infantile cerebellar-retinal degeneration"	"basal ganglia calcification, idiopathic, 4"	"premature ovarian failure 14"
 "Generalized tonic seizures"	1.0	1.0	0.0	0.0	0.0
 "Spastic tetraparesis"	0.0	1.0	0.0	0.0	1.0
 "Hypsarrhythmia"	1.0	1.0	0.0	1.0	1.0

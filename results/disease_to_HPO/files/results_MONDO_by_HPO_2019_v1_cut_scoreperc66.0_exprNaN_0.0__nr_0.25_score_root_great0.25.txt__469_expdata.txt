@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cataract 1 multiple types"	"FMDF"	"autosomal dominant neovascular inflammatory vitreoretinopathy"	"hypogonadotropic hypogonadism 4 with or without anosmia"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Microphthalmia"	0.0	0.0	0.0	1.0
 "Cataract"	1.0	1.0	1.0	1.0

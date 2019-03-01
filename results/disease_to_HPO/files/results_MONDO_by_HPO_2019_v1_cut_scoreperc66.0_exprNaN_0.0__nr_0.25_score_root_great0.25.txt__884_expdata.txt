@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"chromosome 5q deletion syndrome"	"narcolepsy 1"	"polycystic kidney disease 1"	"cryptorchidism (disease)"	"cataract 18"
 "Absence of pectoralis minor muscle"	0.0	1.0	1.0	0.0	0.0
 "Aplasia/Hypoplasia of the sternum"	0.0	0.0	1.0	1.0	0.0
 "HP:0007519"	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Brachmann-de Lange-like facial changes with microcephaly, metatarsus adductus, and developmental delay"	"Prader-Willi syndrome"	"myopathy, tubular aggregate, 2"	"46,XY sex reversal 10"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	1.0
 "Ataxia"	0.0	1.0	0.0	1.0

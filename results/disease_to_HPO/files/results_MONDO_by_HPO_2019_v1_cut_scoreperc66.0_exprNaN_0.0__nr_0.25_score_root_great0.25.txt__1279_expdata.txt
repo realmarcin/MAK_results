@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cancer, familial, with 1N vitro Radioresistance"	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"osteogenesis imperfecta type 14"
 "Ophthalmoplegia"	1.0	0.0	0.0	0.0
 "Pectus excavatum"	1.0	0.0	0.0	0.0
 "Lumbar hyperlordosis"	1.0	0.0	0.0	0.0

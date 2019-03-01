@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cardiomyopathy associated with myopathy and sudden death"	"candidiasis, familial, 8"	"LIPE-related familial partial lipodystrophy"
 "Wide nasal bridge"	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	0.0

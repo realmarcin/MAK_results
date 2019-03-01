@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"branchiooculofacial syndrome"	"Goldenhar syndrome"	"spastic paraplegia-nephritis-deafness syndrome"	"distal hereditary motor neuropathy type 1"	"Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome"	"hereditary spastic paraplegia 2"	"autosomal dominant nonsyndromic deafness 21"	"pseudohypoaldosteronism type 2B"	"lower motor neuron syndrome with late-adult onset"	"microcephaly 16, primary, autosomal recessive; MCPH16"
 "Blepharophimosis"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Umbilical hernia"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Microcornea"	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

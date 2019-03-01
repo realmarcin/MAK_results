@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"spermatogenic failure 6"	"Brachmann-de Lange-like facial changes with microcephaly, metatarsus adductus, and developmental delay"	"tarsal-carpal coalition syndrome"	"upper limb mesomelic dysplasia"	"Gorlin-Chaudhry-Moss syndrome"
 "Ureteropelvic junction obstruction"	0.0	0.0	0.0	0.0	0.0
 "Aplasia/Hypoplasia of the radius"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the ulna"	1.0	1.0	1.0	1.0	1.0

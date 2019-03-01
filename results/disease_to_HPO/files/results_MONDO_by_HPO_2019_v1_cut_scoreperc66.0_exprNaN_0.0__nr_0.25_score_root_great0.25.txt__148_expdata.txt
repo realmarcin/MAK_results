@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"microcephaly, growth retardation, cataract, hearing loss, and unusual appearance"	"myopia 22, autosomal dominant"	"autosomal recessive limb-girdle muscular dystrophy type 2W"	"optic atrophy 11; OPA11"
 "Strabismus"	1.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

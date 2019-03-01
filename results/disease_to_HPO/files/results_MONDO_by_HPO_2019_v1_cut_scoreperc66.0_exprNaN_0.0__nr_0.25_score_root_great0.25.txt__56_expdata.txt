@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"46,XY complete gonadal dysgenesis"	"aromatic L-amino acid decarboxylase deficiency"	"spinocerebellar ataxia type 36"	"encephalopathy, acute, infection-induced, susceptibility to, 4"	"amelogenesis imperfecta type 3B"
 "HP:0000006"	0.0	1.0	1.0	1.0	0.0
 "Tinnitus"	1.0	0.0	1.0	1.0	1.0
 "Sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0

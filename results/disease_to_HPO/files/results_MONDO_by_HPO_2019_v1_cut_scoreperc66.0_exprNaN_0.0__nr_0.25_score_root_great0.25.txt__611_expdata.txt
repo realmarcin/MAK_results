@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ectodermal dysplasia, trichoodontoonychial type"	"distal arthrogryposis type 10"	"Wolcott-Rallison syndrome"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"macular dystrophy, X-linked"
 "Cryptorchidism"	0.0	0.0	0.0	1.0	1.0
 "Ventriculomegaly"	0.0	0.0	0.0	1.0	1.0
 "Inguinal hernia"	0.0	0.0	0.0	1.0	1.0

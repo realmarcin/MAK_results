@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"dominant pericentral pigmentary retinopathy"	"CHAND syndrome"
 "Osteosarcoma"	0.0	0.0	1.0	0.0
 "Vitritis"	0.0	0.0	1.0	0.0
 "Retinal calcification"	0.0	0.0	1.0	0.0

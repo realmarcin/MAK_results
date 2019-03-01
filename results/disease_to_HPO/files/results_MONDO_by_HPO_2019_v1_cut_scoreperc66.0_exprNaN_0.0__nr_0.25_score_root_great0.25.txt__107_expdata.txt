@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"nonsyndromic congenital nail disorder 6"	"polyposis of gastric fundus without polyposis coli"	"hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia"	"Zlotogora-Ogur syndrome"	"ectopia lentis 2, isolated, autosomal recessive"	"cloacal exstrophy (disease)"
 "Nail dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dystrophic fingernails"	1.0	1.0	1.0	1.0	1.0	1.0
 "Persistence of primary teeth"	0.0	0.0	0.0	0.0	0.0	0.0

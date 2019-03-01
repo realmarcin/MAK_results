@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"cyanosis, transient neonatal"	"intellectual disability, autosomal dominant 9"	"intellectual disability, autosomal dominant 40"	"polycystic liver disease 2; PCLD2"	"epileptic encephalopathy, early infantile, 58"
 "Intellectual disability"	1.0	1.0	0.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0
 "Myoclonus"	0.0	1.0	0.0	1.0	1.0

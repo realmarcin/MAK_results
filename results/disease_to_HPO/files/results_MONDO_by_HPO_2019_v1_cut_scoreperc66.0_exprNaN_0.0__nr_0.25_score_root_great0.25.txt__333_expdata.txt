@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Sotos syndrome 1"	"chromosome Xp11.22 duplication syndrome"	"Charcot-Marie-Tooth disease, axonal, with vocal cord paresis, autosomal recessive"	"colorectal cancer, hereditary nonpolyposis, type 7"
 "HP:0003812"	1.0	0.0	1.0	1.0
 "Hypodontia"	0.0	0.0	1.0	1.0
 "Cerebellar atrophy"	1.0	0.0	1.0	1.0

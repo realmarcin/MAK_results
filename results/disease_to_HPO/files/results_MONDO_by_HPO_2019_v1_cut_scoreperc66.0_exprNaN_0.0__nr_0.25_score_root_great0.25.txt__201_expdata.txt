@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ectodermal dysplasia with adrenal cyst"	"Greenberg dysplasia"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"guanidinoacetate methyltransferase deficiency"	"intellectual disability, autosomal recessive 42"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0	1.0	1.0
 "Micrognathia"	1.0	1.0	1.0	1.0	0.0

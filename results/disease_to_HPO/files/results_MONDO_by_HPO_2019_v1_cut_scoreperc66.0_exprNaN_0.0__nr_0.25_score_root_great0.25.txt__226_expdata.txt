@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"COFS syndrome"	"amyotrophic lateral sclerosis type 17"	"maturity-onset diabetes of the young type 14"	"progressive scapulohumeroperoneal distal myopathy"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Visual loss"	0.0	0.0	1.0	0.0
 "Congenital cataract"	1.0	1.0	1.0	1.0

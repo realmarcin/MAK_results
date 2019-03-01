@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease type 1E"	"cheilitis glandularis"	"Shprintzen-Goldberg syndrome"	"deafness, neural, congenital moderate"	"radioulnar synostosis-developmental delay-hypotonia syndrome"	"microbrachycephaly-ptosis-cleft lip syndrome"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"	"ossification of the posterior longitudinal ligament of the spine"	"neuroferritinopathy"	"familial digital arthropathy-brachydactyly"	"autosomal recessive nonsyndromic deafness 79"	"CIDEC-related familial partial lipodystrophy"	"autosomal dominant nonsyndromic deafness 40"
 "High palate"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Inguinal hernia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Chronic diarrhea"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"chondrocalcinosis due to apatite crystal deposition"	"factor 9 and Factor XI, combined deficiency of"	"laryngo-onycho-cutaneous syndrome"	"spinocerebellar ataxia type 17"
 "Joint dislocation"	1.0	1.0	1.0	1.0
 "Multiple joint dislocation"	0.0	0.0	1.0	0.0
 "Abnormal cartilage matrix"	0.0	0.0	1.0	0.0

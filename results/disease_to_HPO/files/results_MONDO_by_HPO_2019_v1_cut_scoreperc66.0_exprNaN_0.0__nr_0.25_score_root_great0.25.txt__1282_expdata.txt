@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ocular cystinosis"	"growth delay-hydrocephaly-lung hypoplasia syndrome"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B1"	"intellectual disability, autosomal recessive 13"	"Charcot-Marie-Tooth disease type 4B3"	"autosomal dominant childhood-onset proximal spinal muscular atrophy with contractures"	"complex cortical dysplasia with other brain malformations 4"	"spermatogenic failure 12"
 "Hydronephrosis"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Seizures"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Renal cyst"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

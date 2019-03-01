@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"complement component 7 deficiency"	"Malan overgrowth syndrome"
 "Hyporeflexia"	1.0	1.0	1.0
 "Pes cavus"	1.0	1.0	1.0
 "Distal amyotrophy"	1.0	1.0	1.0

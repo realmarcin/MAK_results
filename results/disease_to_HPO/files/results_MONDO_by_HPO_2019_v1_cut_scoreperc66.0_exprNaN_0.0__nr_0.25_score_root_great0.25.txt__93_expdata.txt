@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"hyperpigmentation with or without hypopigmentation, familial progressive"	"nasopharyngeal carcinoma, susceptibility to, 2"	"hypotrichosis 10"	"brachycephaly, trichomegaly, and developmental delay"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Hyperpigmentation of the skin"	1.0	1.0	1.0	1.0
 "Anemia"	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"neurodegeneration with brain iron accumulation 5"	"Joubert syndrome 6"	"neuronopathy, distal hereditary motor, type 2C"	"myasthenic syndrome, congenital, 22"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"	"portal hypertension, noncirrhotic; NCPH"
 "Overweight"	1.0	0.0	1.0	1.0	0.0	1.0
 "Minicore myopathy"	0.0	1.0	0.0	0.0	0.0	1.0
 "Gastrostomy tube feeding in infancy"	0.0	0.0	0.0	0.0	1.0	1.0

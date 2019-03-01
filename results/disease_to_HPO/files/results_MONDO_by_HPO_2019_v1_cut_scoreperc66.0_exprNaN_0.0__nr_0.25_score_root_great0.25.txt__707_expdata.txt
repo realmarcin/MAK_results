@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"formiminoglutamic aciduria"	"scurvy"	"primary hypergonadotropic hypogonadism-partial alopecia syndrome"	"Rothmund-Thomson syndrome"	"schneckenbecken dysplasia"
 "HP:0001596"	0.0	1.0	1.0	0.0	1.0
 "Diabetes mellitus"	0.0	1.0	1.0	0.0	0.0
 "Type I diabetes mellitus"	0.0	1.0	0.0	0.0	1.0

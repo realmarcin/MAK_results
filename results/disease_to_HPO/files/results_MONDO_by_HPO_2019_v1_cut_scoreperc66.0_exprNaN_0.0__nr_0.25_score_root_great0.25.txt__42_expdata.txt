@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"mosaic variegated aneuploidy syndrome 2"	"myofibrillar myopathy 7"	"ectodermal dysplasia 13, hair/tooth type"
 "HP:0000006"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0

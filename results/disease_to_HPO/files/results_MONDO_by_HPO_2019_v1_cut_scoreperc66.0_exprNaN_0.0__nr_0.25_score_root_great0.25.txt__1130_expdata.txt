@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ornithine translocase deficiency"	"autosomal recessive nonsyndromic deafness 67"	"orofacial cleft 10"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Microphthalmia"	0.0	1.0	1.0	0.0
 "Aniridia"	0.0	1.0	0.0	0.0

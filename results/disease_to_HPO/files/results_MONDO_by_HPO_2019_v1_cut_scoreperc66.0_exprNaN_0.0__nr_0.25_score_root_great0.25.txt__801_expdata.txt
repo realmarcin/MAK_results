@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"epidermolysis bullosa with deficiency of galactosylhydroxylysyl glucosyltransferase"	"thymic-renal-anal-lung dysplasia"	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"hepatoencephalopathy due to combined oxidative phosphorylation defect type 1"	"autosomal recessive nonsyndromic deafness 84A"	"glucocorticoid resistance"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	0.0
 "Sensorineural hearing impairment"	0.0	1.0	0.0	1.0	0.0	0.0
 "Stage 5 chronic kidney disease"	0.0	0.0	0.0	1.0	1.0	0.0

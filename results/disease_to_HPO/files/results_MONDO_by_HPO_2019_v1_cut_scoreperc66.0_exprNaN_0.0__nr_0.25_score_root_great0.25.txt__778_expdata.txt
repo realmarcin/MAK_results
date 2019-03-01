@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"erythrokeratodermia variabilis et progressiva 1"	"giant neutrophil leukocytes"	"beta-mannosidosis"	"von Willebrand disease 3"	"acral peeling skin syndrome"	"autosomal recessive nonsyndromic deafness 59"	"hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome"	"peroxisome biogenesis disorder 7A (Zellweger)"	"STT3B-CDG"	"combined oxidative phosphorylation defect type 30"
 "Broad forehead"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Chronic otitis media"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Dental malocclusion"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

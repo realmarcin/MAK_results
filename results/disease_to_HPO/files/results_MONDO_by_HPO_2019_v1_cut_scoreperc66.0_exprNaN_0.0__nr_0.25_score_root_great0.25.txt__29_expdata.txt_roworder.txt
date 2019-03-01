@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.2"
-"3" "MONDO.0008741.1"
+"1" "mesoaxial.hexadactyly.and.cardiac.malformation"
+"2" "neonatal.diabetes.mellitus.with.congenital.hypothyroidism"
+"3" "hyperinsulinemic.hypoglycemia..familial..2"

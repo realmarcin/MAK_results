@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Riley-Day syndrome"	"dyskeratosis congenita, X-linked"	"spondylometaphyseal dysplasia, Golden type"	"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome"
 "Lumbar hyperlordosis"	1.0	1.0	1.0	0.0
 "Short neck"	1.0	1.0	1.0	0.0
 "Scoliosis"	1.0	1.0	1.0	0.0

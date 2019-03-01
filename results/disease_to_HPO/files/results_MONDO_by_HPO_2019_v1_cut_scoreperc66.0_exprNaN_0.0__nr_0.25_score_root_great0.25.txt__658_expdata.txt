@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"xeroderma pigmentosum, autosomal dominant, mild"	"isolated anencephaly/exencephaly"	"cholesterol pneumonia"	"congenital sucrase-isomaltase deficiency"	"anemia, congenital dyserythropoietic, type 1a"	"Mowat-Wilson syndrome"	"autosomal dominant Parkinson disease 4"	"primary ciliary dyskinesia 7"	"Reynolds syndrome"
 "Nonspherocytic hemolytic anemia"	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
 "Abnormality of metabolism/homeostasis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Cholelithiasis"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Perry syndrome"	"Joubert syndrome with hepatic defect"	"metachromatic leukodystrophy, juvenile form"	"syndromic X-linked intellectual disability 17"	"congenital amegakaryocytic thrombocytopenia"	"Santos syndrome"
 "HP:0000007"	0.0	1.0	1.0	0.0	0.0	1.0
 "HP:0000006"	1.0	0.0	0.0	0.0	1.0	1.0
 "Mental deterioration"	1.0	0.0	1.0	0.0	0.0	1.0

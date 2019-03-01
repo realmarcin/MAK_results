@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial juvenile hypertrophy of the breast"	"Treacher-Collins syndrome 1"	"skeletal dysplasia and progressive central nervous system degeneration, lethal"	"MPDU1-CDG"
 "Cleft palate"	1.0	1.0	0.0	1.0
 "HP:0003828"	1.0	1.0	1.0	0.0
 "Preauricular pit"	1.0	0.0	1.0	1.0

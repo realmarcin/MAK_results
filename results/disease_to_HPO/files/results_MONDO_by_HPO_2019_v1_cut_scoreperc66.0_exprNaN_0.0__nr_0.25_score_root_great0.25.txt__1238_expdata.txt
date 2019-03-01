@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"POROK1"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"primary ciliary dyskinesia 26"
 "Intellectual disability"	1.0	0.0	0.0	0.0
 "Hemolytic anemia"	1.0	0.0	0.0	0.0
 "Tetraparesis"	1.0	0.0	0.0	0.0

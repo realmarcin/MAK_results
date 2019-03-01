@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Lynch syndrome 1"	"Meesmann corneal dystrophy"	"ring dermoid of cornea"	"neural tube defects, folate-sensitive"	"auriculocondylar syndrome 1"	"pontocerebellar hypoplasia type 1A"
 "Glaucoma"	1.0	1.0	1.0	1.0	1.0	1.0
 "Peters anomaly"	0.0	0.0	0.0	1.0	0.0	0.0
 "Rieger anomaly"	0.0	0.0	1.0	1.0	0.0	0.0

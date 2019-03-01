@@ -1,4 +1,4 @@
 "x"
-"1" "MONDO.0008741"
-"2" "MONDO.0008741.1"
-"3" "MONDO.0008741.2"
+"1" "pseudohypoparathyroidism.type.1A"
+"2" "discrimination..Two.point..reduction.1N"
+"3" "Raynaud.disease"

@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"Netherton syndrome"	"colobomatous macrophthalmia-microcornea syndrome"	"primary ciliary dyskinesia 2"	"hyperinsulinemic hypoglycemia, familial, 4"	"primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency"	"brachydactyly, coloboma, and anterior segment dysgenesis"
 "HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	0.0	1.0	0.0
 "Diabetes mellitus"	0.0	1.0	0.0	0.0	0.0	0.0

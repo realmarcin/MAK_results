@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"autosomal recessive distal spinal muscular atrophy 1"	"arrhythmogenic right ventricular dysplasia 8"	"cortical dysplasia-focal epilepsy syndrome"	"familial steroid-resistant nephrotic syndrome with sensorineural deafness"
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	0.0

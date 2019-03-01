@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"ventricular septal defect 3"	"BRWNS"	"hypomyelinating leukodystrophy 10"
 "HP:0000007"	0.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0

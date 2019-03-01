@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"familial visceral amyloidosis"	"multiple endocrine neoplasia type 2A"	"phlebectasia of lips"	"psoriasis 1, susceptibility to"	"aganglionosis, total intestinal"	"polydactyly, postaxial, type A5"	"MRX89"	"cerebral cavernous malformation 3"	"gracile syndrome"	"encephalomyopathy, mitochondrial, due to voltage-dependent anion channel deficiency"	"Verheij syndrome"
 "Hypertelorism"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
 "Ptosis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0
 "Short stature"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0

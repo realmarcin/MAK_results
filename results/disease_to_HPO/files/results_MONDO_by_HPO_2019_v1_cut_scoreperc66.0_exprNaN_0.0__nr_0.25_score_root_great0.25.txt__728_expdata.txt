@@ -1,4 +1,4 @@
-	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
+	"holoprosencephaly 3"	"pulmonary capillary hemangiomatosis"	"cervical hypertrichosis-peripheral neuropathy syndrome"	"methemoglobin reductase deficiency"	"pulmonary alveolar microlithiasis"	"cardiac valvular dysplasia, X-linked"
 "Abnormal vertebral morphology"	1.0	1.0	1.0	1.0	1.0	1.0
 "First degree atrioventricular block"	1.0	0.0	0.0	0.0	0.0	0.0
 "Secundum atrial septal defect"	1.0	0.0	0.0	0.0	0.0	0.0
