@@ -1,4 +1,4 @@
-	"MONDO.0009273"	"MONDO.0010285"	"MONDO.0042486"	"MONDO.0014592"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Limited elbow extension"	0.0	1.0	0.0	0.0
 "Abnormal hand morphology"	0.0	1.0	0.0	0.0
 "Organic aciduria"	0.0	1.0	0.0	0.0

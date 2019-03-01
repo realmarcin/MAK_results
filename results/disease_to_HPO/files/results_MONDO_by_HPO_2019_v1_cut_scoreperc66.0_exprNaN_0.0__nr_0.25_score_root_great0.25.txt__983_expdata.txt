@@ -1,4 +1,4 @@
-	"MONDO.0009282"	"MONDO.0009398"	"MONDO.0009757"	"MONDO.0011872"	"MONDO.0012124"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypertriglyceridemia"	0.0	0.0	0.0	1.0	0.0
 "Decreased circulating high-density lipoprotein levels"	0.0	0.0	0.0	1.0	0.0
 "Dyspnea"	0.0	1.0	0.0	1.0	0.0

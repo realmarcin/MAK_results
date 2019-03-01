@@ -1,4 +1,4 @@
-	"MONDO.0012871"	"MONDO.0013482"	"MONDO.0014825"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypertelorism"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0

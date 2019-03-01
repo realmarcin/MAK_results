@@ -1,4 +1,4 @@
-	"MONDO.0008043"	"MONDO.0008950"	"MONDO.0010397"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the dentate nucleus"	1.0	1.0	0.0
 "EEG with generalized slow activity"	0.0	1.0	1.0
 "HP:0031290"	0.0	1.0	0.0

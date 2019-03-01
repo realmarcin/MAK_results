@@ -1,4 +1,4 @@
-	"MONDO.0008919"	"MONDO.0012625"	"MONDO.0013050"	"MONDO.0014014"	"MONDO.0014813"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Dicarboxylic aciduria"	1.0	1.0	0.0	1.0	0.0
 "Elevated plasma acylcarnitine levels"	1.0	1.0	0.0	1.0	1.0
 "Vitamin B2 deficiency"	0.0	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0020682"	"MONDO.0007861"	"MONDO.0009061"	"MONDO.0009162"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Spontaneous neonatal pneumothorax"	0.0	0.0	1.0	1.0
 "Cystic lung disease"	0.0	0.0	1.0	0.0
 "Recurrent mandibular subluxations"	0.0	0.0	0.0	1.0

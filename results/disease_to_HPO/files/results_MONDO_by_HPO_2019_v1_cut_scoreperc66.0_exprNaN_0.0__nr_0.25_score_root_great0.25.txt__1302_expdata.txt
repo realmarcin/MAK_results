@@ -1,4 +1,4 @@
-	"MONDO.0007364"	"MONDO.0008751"	"MONDO.0010412"	"MONDO.0014029"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Patent ductus arteriosus"	1.0	0.0	0.0	0.0
 "Ventricular septal defect"	1.0	0.0	0.0	0.0
 "Atrial septal defect"	1.0	0.0	0.0	0.0

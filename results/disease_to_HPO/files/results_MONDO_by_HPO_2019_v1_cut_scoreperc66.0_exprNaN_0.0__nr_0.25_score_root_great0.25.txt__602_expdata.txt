@@ -1,4 +1,4 @@
-	"MONDO.0008587"	"MONDO.0013797"	"MONDO.0014947"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Esophageal atresia"	1.0	1.0	0.0
 "Peters anomaly"	0.0	1.0	0.0
 "Cleft soft palate"	0.0	1.0	0.0

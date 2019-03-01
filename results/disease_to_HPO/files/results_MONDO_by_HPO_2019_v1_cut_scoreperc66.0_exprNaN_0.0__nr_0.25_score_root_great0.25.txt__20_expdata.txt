@@ -1,4 +1,4 @@
-	"MONDO.0009246"	"MONDO.0009247"	"MONDO.0010554"	"MONDO.0011176"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Concentric hypertrophic cardiomyopathy"	0.0	1.0	1.0	1.0
 "Abnormal echocardiogram"	1.0	1.0	1.0	1.0
 "Decreased pyruvate carboxylase activity"	1.0	1.0	1.0	1.0

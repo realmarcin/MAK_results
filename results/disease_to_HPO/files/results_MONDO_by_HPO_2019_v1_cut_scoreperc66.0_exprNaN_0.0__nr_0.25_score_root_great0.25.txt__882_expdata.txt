@@ -1,4 +1,4 @@
-	"MONDO.0007944"	"MONDO.0007945"	"MONDO.0008426"	"MONDO.0008613"	"MONDO.0009204"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Sparse lower eyelashes"	1.0	1.0	0.0	0.0	1.0
 "Abnormality of parotid gland"	0.0	1.0	0.0	0.0	0.0
 "Projection of scalp hair onto lateral cheek"	0.0	1.0	0.0	1.0	0.0

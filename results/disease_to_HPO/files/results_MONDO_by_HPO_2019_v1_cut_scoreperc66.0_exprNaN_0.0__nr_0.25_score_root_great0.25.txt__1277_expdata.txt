@@ -1,4 +1,4 @@
-	"MONDO.0010219"	"MONDO.0012187"	"MONDO.0014240"	"MONDO.0060490"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Conductive hearing impairment"	0.0	1.0	0.0	0.0
 "Abnormality of cardiovascular system morphology"	0.0	1.0	0.0	0.0
 "Arnold-Chiari malformation"	0.0	1.0	0.0	0.0

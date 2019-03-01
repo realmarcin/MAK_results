@@ -1,4 +1,4 @@
-	"MONDO.0007211"	"MONDO.0007332"	"MONDO.0010928"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the face"	1.0	1.0	1.0
 "Unusual dermatoglyphics"	1.0	0.0	0.0
 "Chin with vertical crease"	0.0	1.0	0.0

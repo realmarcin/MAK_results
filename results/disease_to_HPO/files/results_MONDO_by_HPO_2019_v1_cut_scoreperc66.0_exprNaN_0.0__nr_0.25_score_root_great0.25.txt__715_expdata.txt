@@ -1,4 +1,4 @@
-	"MONDO.0007143"	"MONDO.0009201"	"MONDO.0010355"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aplasia/Hypoplasia of the 3rd toe"	1.0	0.0	0.0
 "2-4 finger syndactyly"	1.0	1.0	0.0
 "Satyr ear"	1.0	0.0	0.0

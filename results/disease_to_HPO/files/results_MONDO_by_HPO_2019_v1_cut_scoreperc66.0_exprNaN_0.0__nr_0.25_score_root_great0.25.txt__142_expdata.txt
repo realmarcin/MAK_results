@@ -1,4 +1,4 @@
-	"MONDO.0011738"	"MONDO.0013580"	"MONDO.0014709"	"MONDO.0024607"	"MONDO.0011327"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0007627"	"MONDO.0007979"	"MONDO.0008130"	"MONDO.0008721"	"MONDO.0010912"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Fourth cranial nerve palsy"	1.0	1.0	0.0	0.0	1.0
 "Internal ophthalmoplegia"	0.0	0.0	1.0	0.0	1.0
 "Adrenocorticotropin deficient adrenal insufficiency"	0.0	0.0	0.0	1.0	1.0

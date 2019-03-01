@@ -1,4 +1,4 @@
-	"MONDO.0010290"	"MONDO.0010431"	"MONDO.0010490"	"MONDO.0049223"	"MONDO.0014952"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	0.0
 "Mandibular prognathia"	0.0	0.0	0.0	1.0	1.0

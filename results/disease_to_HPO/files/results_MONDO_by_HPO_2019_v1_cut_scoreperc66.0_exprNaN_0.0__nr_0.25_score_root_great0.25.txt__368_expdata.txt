@@ -1,4 +1,4 @@
-	"MONDO.0008726"	"MONDO.0024565"	"MONDO.0013401"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Arachnodactyly"	0.0	1.0	0.0
 "Craniosynostosis"	0.0	1.0	0.0
 "Choanal stenosis"	0.0	1.0	0.0

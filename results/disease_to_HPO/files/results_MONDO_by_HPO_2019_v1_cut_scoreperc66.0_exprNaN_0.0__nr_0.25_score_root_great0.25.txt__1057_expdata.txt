@@ -1,4 +1,4 @@
-	"MONDO.0007060"	"MONDO.0010577"	"MONDO.0012855"	"MONDO.0013848"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cleft palate"	1.0	0.0	1.0	1.0
 "Micrognathia"	1.0	0.0	0.0	0.0
 "Abnormal renal morphology"	1.0	0.0	0.0	0.0

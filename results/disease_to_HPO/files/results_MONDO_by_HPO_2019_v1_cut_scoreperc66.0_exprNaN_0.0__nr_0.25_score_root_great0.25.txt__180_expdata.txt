@@ -1,4 +1,4 @@
-	"MONDO.0011151"	"MONDO.0012582"	"MONDO.0014707"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Small foramen magnum"	0.0	0.0	1.0
 "Delayed cranial suture closure"	1.0	1.0	1.0
 "Wormian bones"	1.0	1.0	1.0

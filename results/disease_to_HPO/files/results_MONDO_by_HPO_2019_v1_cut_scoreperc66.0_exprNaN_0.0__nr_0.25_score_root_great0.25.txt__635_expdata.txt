@@ -1,4 +1,4 @@
-	"MONDO.0009781"	"MONDO.0024550"	"MONDO.0010958"	"MONDO.0011929"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intellectual disability"	0.0	1.0	1.0	0.0
 "Toe syndactyly"	0.0	1.0	1.0	0.0
 "Abnormality of the pinna"	0.0	1.0	1.0	0.0

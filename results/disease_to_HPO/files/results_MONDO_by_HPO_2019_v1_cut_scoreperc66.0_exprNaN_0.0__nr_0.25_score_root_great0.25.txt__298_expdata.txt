@@ -1,4 +1,4 @@
-	"MONDO.0007046"	"MONDO.0008428"	"MONDO.0011173"	"MONDO.0013673"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cryptorchidism"	1.0	1.0	1.0	1.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0
 "Joint laxity"	0.0	1.0	0.0	0.0

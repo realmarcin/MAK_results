@@ -1,4 +1,4 @@
-	"MONDO.0007820"	"MONDO.0008953"	"MONDO.0009163"	"MONDO.0009271"	"MONDO.0013483"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cleft upper lip"	1.0	1.0	1.0	1.0	1.0
 "Postaxial hand polydactyly"	0.0	1.0	1.0	1.0	1.0
 "Abnormality of chromosome segregation"	1.0	0.0	0.0	0.0	0.0

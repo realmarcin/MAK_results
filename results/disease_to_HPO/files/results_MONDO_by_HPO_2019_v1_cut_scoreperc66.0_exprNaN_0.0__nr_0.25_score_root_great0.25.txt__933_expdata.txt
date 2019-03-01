@@ -1,4 +1,4 @@
-	"MONDO.0008443"	"MONDO.0008810"	"MONDO.0008962"	"MONDO.0042977"	"MONDO.0013960"	"MONDO.0013978"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Basal lamina 'onion bulb' formation"	1.0	0.0	1.0	1.0	1.0	0.0
 "Prolonged brainstem auditory evoked potentials"	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormal pupillary light reflex"	0.0	0.0	0.0	1.0	0.0	0.0

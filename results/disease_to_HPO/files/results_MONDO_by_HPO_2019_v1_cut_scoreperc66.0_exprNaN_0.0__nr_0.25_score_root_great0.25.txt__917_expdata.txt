@@ -1,4 +1,4 @@
-	"MONDO.0007216"	"MONDO.0008158"	"MONDO.0008517"	"MONDO.0010882"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cutaneous finger syndactyly"	0.0	1.0	1.0	0.0
 "2-3 toe syndactyly"	0.0	0.0	1.0	0.0
 "Metatarsal synostosis"	0.0	0.0	1.0	1.0

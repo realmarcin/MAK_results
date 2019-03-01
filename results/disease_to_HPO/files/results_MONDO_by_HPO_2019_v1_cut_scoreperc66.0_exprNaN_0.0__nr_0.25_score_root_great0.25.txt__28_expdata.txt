@@ -1,4 +1,4 @@
-	"MONDO.0013234"	"MONDO.0012275"	"MONDO.0011578"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Rhizomelia"	0.0	1.0	1.0
 "Abnormality of the metaphysis"	1.0	1.0	1.0
 "Abnormality of epiphysis morphology"	1.0	1.0	1.0

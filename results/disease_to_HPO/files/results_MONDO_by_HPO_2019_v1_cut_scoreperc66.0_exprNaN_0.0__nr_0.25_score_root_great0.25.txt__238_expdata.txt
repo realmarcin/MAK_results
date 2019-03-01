@@ -1,4 +1,4 @@
-	"MONDO.0008854"	"MONDO.0008996"	"MONDO.0012854"	"MONDO.0014451"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypertelorism"	1.0	1.0	1.0	0.0
 "Generalized hypotonia"	0.0	1.0	1.0	0.0
 "Atrial septal defect"	0.0	1.0	1.0	0.0

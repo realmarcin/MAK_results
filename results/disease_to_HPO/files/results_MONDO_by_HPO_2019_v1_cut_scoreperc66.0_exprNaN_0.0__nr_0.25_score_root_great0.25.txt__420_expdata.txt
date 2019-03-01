@@ -1,4 +1,4 @@
-	"MONDO.0013337"	"MONDO.0013618"	"MONDO.0014086"	"MONDO.0054666"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Strabismus"	1.0	1.0	1.0	0.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0
 "Pulmonic stenosis"	0.0	1.0	0.0	0.0

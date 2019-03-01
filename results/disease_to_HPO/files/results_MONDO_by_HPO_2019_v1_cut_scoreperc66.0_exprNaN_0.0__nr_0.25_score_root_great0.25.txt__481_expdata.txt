@@ -1,4 +1,4 @@
-	"MONDO.0007637"	"MONDO.0009561"	"MONDO.0011360"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Dermoid cyst"	1.0	0.0	1.0
 "Bifid nasal tip"	1.0	1.0	1.0
 "Median cleft palate"	1.0	0.0	1.0

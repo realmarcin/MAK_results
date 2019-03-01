@@ -1,4 +1,4 @@
-	"MONDO.0007668"	"MONDO.0008898"	"MONDO.0011984"	"MONDO.0012055"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the skin"	0.0	1.0	0.0	0.0
 "Hyperphosphatemia"	0.0	1.0	0.0	0.0
 "Nephrocalcinosis"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008290"	"MONDO.0010300"	"MONDO.0010340"	"MONDO.0014211"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intellectual disability"	1.0	0.0	0.0	0.0
 "Hemolytic anemia"	1.0	0.0	0.0	0.0
 "Tetraparesis"	1.0	0.0	0.0	0.0

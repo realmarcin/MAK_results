@@ -1,4 +1,4 @@
-	"MONDO.0007244"	"MONDO.0007633"	"MONDO.0009005"	"MONDO.0010939"	"MONDO.0013017"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the lymph nodes"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the spleen"	1.0	0.0	0.0	0.0	0.0
 "Abnormality of bone marrow cell morphology"	1.0	0.0	0.0	0.0	0.0

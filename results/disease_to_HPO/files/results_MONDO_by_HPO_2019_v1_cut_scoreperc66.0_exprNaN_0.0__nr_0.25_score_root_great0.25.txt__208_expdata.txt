@@ -1,4 +1,4 @@
-	"MONDO.0008022"	"MONDO.0009243"	"MONDO.0014048"	"MONDO.0014049"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Congenital hip dislocation"	0.0	1.0	0.0	0.0
 "Hearing impairment"	1.0	1.0	1.0	1.0
 "Scoliosis"	1.0	1.0	1.0	1.0

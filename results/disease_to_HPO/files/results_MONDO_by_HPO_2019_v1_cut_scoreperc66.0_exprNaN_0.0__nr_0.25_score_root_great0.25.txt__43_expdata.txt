@@ -1,4 +1,4 @@
-	"MONDO.0011439"	"MONDO.0014893"	"MONDO.0014932"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Microcephaly"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Dental crowding"	0.0	1.0	1.0

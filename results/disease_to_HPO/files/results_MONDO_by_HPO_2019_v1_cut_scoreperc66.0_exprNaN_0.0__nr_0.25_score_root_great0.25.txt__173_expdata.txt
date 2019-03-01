@@ -1,4 +1,4 @@
-	"MONDO.0012908"	"MONDO.0013284"	"MONDO.0013501"	"MONDO.0014227"	"MONDO.0014314"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Recurrent otitis media"	1.0	1.0	1.0	1.0	1.0
 "Recurrent sinusitis"	1.0	1.0	1.0	1.0	1.0
 "Decreased number of CD3+ T cells"	0.0	0.0	0.0	0.0	0.0

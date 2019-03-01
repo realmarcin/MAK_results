@@ -1,4 +1,4 @@
-	"MONDO.0007040"	"MONDO.0008081"	"MONDO.0011355"	"MONDO.0011600"	"MONDO.0014851"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Epiretinal membrane"	1.0	0.0	0.0	1.0	1.0
 "Photoreceptor layer loss on macular OCT"	0.0	0.0	0.0	1.0	1.0
 "Macular hole"	0.0	0.0	0.0	1.0	0.0

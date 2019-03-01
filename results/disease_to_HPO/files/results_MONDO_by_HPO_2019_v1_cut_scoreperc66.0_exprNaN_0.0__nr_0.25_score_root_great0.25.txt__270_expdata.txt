@@ -1,4 +1,4 @@
-	"MONDO.0008869"	"MONDO.0009113"	"MONDO.0009206"	"MONDO.0010712"	"MONDO.0014348"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Wide nasal bridge"	0.0	1.0	1.0	1.0	0.0
 "Single transverse palmar crease"	1.0	0.0	0.0	1.0	0.0
 "Talipes equinovarus"	1.0	0.0	0.0	1.0	1.0

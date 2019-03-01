@@ -1,4 +1,4 @@
-	"MONDO.0007104"	"MONDO.0010157"	"MONDO.0013343"	"MONDO.0013717"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Downslanted palpebral fissures"	0.0	1.0	0.0	0.0
 "Brachydactyly"	0.0	1.0	0.0	0.0
 "Clinodactyly"	0.0	1.0	0.0	0.0

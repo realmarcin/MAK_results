@@ -1,4 +1,4 @@
-	"MONDO.0008820"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Short stature"	1.0	0.0	1.0	1.0
 "Myocardial infarction"	1.0	0.0	0.0	0.0
 "Chronic kidney disease"	1.0	0.0	0.0	0.0

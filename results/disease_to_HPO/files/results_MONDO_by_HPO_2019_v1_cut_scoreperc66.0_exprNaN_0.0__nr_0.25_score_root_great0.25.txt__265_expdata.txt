@@ -1,4 +1,4 @@
-	"MONDO.0011271"	"MONDO.0013627"	"MONDO.0014495"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Epidermal acanthosis"	1.0	1.0	0.0
 "Psoriasiform dermatitis"	1.0	1.0	1.0
 "Parakeratosis"	1.0	1.0	0.0

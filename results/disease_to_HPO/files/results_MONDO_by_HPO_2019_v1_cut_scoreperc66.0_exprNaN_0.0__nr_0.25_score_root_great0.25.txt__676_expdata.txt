@@ -1,4 +1,4 @@
-	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0011738"	"MONDO.0014236"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Low-set ears"	1.0	1.0	1.0	0.0
 "Cutaneous finger syndactyly"	0.0	0.0	1.0	0.0

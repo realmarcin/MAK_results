@@ -1,4 +1,4 @@
-	"MONDO.0009459"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intrauterine growth retardation"	1.0	0.0	0.0	0.0
 "Fine hair"	1.0	0.0	0.0	0.0
 "Bulbous nose"	1.0	0.0	0.0	0.0

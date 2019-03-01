@@ -1,4 +1,4 @@
-	"MONDO.0007994"	"MONDO.0008412"	"MONDO.0009935"	"MONDO.0010719"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the humerus"	1.0	1.0	0.0	0.0
 "Absent gallbladder"	1.0	0.0	1.0	0.0
 "Abnormal lung lobation"	1.0	0.0	1.0	0.0

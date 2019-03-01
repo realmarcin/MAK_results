@@ -1,4 +1,4 @@
-	"MONDO.0009457"	"MONDO.0009539"	"MONDO.0019200"	"MONDO.0012759"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "IgM deficiency"	0.0	1.0	0.0	1.0
 "Secundum atrial septal defect"	0.0	0.0	0.0	1.0
 "Gonadal dysgenesis"	0.0	0.0	0.0	1.0

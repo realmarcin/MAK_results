@@ -1,4 +1,4 @@
-	"MONDO.0010538"	"MONDO.0012324"	"MONDO.0014456"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Widely spaced toes"	1.0	1.0	0.0
 "Cervical spinal canal stenosis"	1.0	0.0	1.0
 "Scheuermann-like vertebral changes"	1.0	0.0	0.0

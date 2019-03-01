@@ -1,4 +1,4 @@
-	"MONDO.0010899"	"MONDO.0011966"	"MONDO.0012706"	"MONDO.0012707"	"MONDO.0014640"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Focal seizures with impairment of consciousness or awareness"	1.0	1.0	1.0	1.0	0.0
 "Focal seizures without impairment of consciousness or awareness"	1.0	1.0	1.0	1.0	0.0
 "Auditory auras"	1.0	0.0	0.0	0.0	1.0

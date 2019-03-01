@@ -1,4 +1,4 @@
-	"MONDO.0007495"	"MONDO.0009054"	"MONDO.0014205"	"MONDO.0054588"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cryptorchidism"	0.0	1.0	0.0	0.0
 "Hyperextensible skin"	0.0	1.0	0.0	0.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0

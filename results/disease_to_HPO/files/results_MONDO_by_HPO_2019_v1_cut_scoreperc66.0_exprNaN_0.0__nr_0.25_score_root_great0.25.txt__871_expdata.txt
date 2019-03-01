@@ -1,4 +1,4 @@
-	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008959"	"MONDO.0010761"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abducens palsy"	0.0	0.0	0.0	1.0
 "Short neck"	1.0	0.0	1.0	1.0
 "Congenital sensorineural hearing impairment"	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0010393"	"MONDO.0010680"	"MONDO.0013179"	"MONDO.0014143"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Muscular hypotonia"	0.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Motor delay"	0.0	1.0	1.0	1.0

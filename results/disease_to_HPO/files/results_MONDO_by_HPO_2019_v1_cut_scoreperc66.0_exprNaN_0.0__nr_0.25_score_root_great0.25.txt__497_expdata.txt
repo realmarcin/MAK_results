@@ -1,4 +1,4 @@
-	"MONDO.0011258"	"MONDO.0011970"	"MONDO.0012124"	"MONDO.0012639"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Lymphedema"	1.0	1.0	0.0	0.0
 "Hepatomegaly"	1.0	1.0	1.0	0.0
 "Patent ductus arteriosus"	0.0	1.0	1.0	0.0

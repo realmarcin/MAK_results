@@ -1,4 +1,4 @@
-	"MONDO.0007087"	"MONDO.0008763"	"MONDO.0010521"	"MONDO.0010642"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Lenticonus"	1.0	0.0	1.0	1.0
 "Thickening of the glomerular basement membrane"	1.0	1.0	1.0	1.0
 "Diffuse glomerular basement membrane lamellation"	1.0	1.0	1.0	1.0

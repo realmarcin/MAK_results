@@ -1,4 +1,4 @@
-	"MONDO.0020607"	"MONDO.0009194"	"MONDO.0009651"	"MONDO.0009652"	"MONDO.0009653"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Irregular carpal bones"	1.0	1.0	0.0	1.0	0.0
 "Deficiency of N-acetylglucosamine-1-phosphotransferase"	0.0	0.0	1.0	1.0	0.0
 "Increased serum beta-hexosaminidase"	0.0	0.0	1.0	1.0	1.0

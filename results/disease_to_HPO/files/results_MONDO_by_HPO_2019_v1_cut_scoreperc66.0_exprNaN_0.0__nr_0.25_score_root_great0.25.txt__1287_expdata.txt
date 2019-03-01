@@ -1,4 +1,4 @@
-	"MONDO.0024527"	"MONDO.0008758"	"MONDO.0009873"	"MONDO.0010868"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Wide nasal bridge"	1.0	0.0	0.0	0.0
 "Global developmental delay"	1.0	0.0	0.0	0.0
 "Mandibular prognathia"	1.0	0.0	0.0	0.0

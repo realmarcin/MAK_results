@@ -1,4 +1,4 @@
-	"MONDO.0007079"	"MONDO.0015243"	"MONDO.0009905"	"MONDO.0013360"	"MONDO.0014201"	"MONDO.0018473"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Left ventricular hypertrophy"	0.0	0.0	0.0	1.0	1.0	0.0
 "Abnormality of the urinary system"	0.0	1.0	0.0	0.0	0.0	0.0
 "Adrenogenital syndrome"	0.0	1.0	0.0	0.0	0.0	0.0

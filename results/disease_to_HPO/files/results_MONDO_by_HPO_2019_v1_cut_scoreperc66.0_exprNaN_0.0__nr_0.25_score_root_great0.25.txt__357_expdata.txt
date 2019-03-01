@@ -1,4 +1,4 @@
-	"MONDO.0007830"	"MONDO.0009946"	"MONDO.0012939"	"MONDO.0013026"	"MONDO.0013997"	"MONDO.0015011"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Fetal distress"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormal liver function tests during pregnancy"	1.0	0.0	0.0	0.0	1.0	0.0
 "Increased serum bile acid concentration during pregnancy"	1.0	0.0	0.0	0.0	1.0	0.0

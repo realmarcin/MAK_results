@@ -1,4 +1,4 @@
-	"MONDO.0007668"	"MONDO.0009329"	"MONDO.0011984"	"MONDO.0012055"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypertelorism"	0.0	1.0	0.0	0.0
 "Joint laxity"	0.0	1.0	0.0	0.0
 "Abnormal vertebral morphology"	0.0	1.0	0.0	0.0

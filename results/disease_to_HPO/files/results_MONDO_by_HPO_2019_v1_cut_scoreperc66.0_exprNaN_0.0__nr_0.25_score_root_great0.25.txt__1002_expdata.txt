@@ -1,4 +1,4 @@
-	"MONDO.0010219"	"MONDO.0012565"	"MONDO.0014240"	"MONDO.0060490"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
 "Postaxial hand polydactyly"	0.0	1.0	0.0	0.0
 "Micropenis"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0009169"	"MONDO.0011005"	"MONDO.0014342"	"MONDO.0014833"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Micrognathia"	1.0	0.0	0.0	0.0
 "Ataxia"	0.0	0.0	1.0	1.0
 "Intrauterine growth retardation"	1.0	1.0	0.0	1.0

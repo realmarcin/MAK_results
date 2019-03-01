@@ -1,4 +1,4 @@
-	"MONDO.0009872"	"MONDO.0009902"	"MONDO.0011221"	"MONDO.0013137"	"MONDO.0014028"	"MONDO.0014385"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypoplasia of the epiglottis"	0.0	0.0	0.0	0.0	0.0	0.0
 "Laryngeal hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0
 "Aplasia/Hypoplasia of the eyebrow"	1.0	1.0	1.0	1.0	1.0	1.0

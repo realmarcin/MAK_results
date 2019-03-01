@@ -1,4 +1,4 @@
-	"MONDO.0008852"	"MONDO.0012456"	"MONDO.0013293"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Seizures"	1.0	1.0	1.0
 "Hearing impairment"	0.0	1.0	1.0
 "Synophrys"	0.0	1.0	1.0

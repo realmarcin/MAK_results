@@ -1,4 +1,4 @@
-	"MONDO.0007712"	"MONDO.0010659"	"MONDO.0011538"	"MONDO.0014358"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intellectual disability"	0.0	1.0	1.0	1.0
 "Mandibular prognathia"	0.0	1.0	0.0	1.0
 "Thick lower lip vermilion"	0.0	1.0	0.0	1.0

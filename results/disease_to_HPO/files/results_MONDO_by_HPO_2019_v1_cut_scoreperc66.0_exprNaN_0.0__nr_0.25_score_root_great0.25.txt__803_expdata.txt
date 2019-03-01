@@ -1,4 +1,4 @@
-	"MONDO.0007907"	"MONDO.0013479"	"MONDO.0014099"	"MONDO.0014432"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Advanced eruption of teeth"	1.0	0.0	0.0	0.0
 "Polycystic ovaries"	1.0	1.0	1.0	1.0
 "Atherosclerosis"	1.0	0.0	0.0	0.0

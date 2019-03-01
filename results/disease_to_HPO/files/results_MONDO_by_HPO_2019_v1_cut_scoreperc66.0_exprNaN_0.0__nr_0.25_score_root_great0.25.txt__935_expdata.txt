@@ -1,4 +1,4 @@
-	"MONDO.0008063"	"MONDO.0010911"	"MONDO.0010976"	"MONDO.0011461"	"MONDO.0012180"	"MONDO.0013679"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Paroxysmal drowsiness"	1.0	0.0	0.0	0.0	1.0	0.0
 "Abnormal rapid eye movement sleep"	1.0	0.0	0.0	0.0	1.0	0.0
 "Hypnagogic hallucinations"	1.0	0.0	0.0	0.0	1.0	0.0

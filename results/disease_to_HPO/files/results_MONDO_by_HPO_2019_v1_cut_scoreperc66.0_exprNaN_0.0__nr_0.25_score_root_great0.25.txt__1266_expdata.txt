@@ -1,4 +1,4 @@
-	"MONDO.0009595"	"MONDO.0010904"	"MONDO.0012592"	"MONDO.0013298"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Narrow palate"	1.0	0.0	0.0	0.0
 "Convex nasal ridge"	1.0	0.0	0.0	0.0
 "Short metatarsal"	1.0	0.0	0.0	0.0

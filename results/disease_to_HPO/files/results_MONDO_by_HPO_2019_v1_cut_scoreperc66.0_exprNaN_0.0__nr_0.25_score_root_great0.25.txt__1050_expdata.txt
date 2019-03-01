@@ -1,4 +1,4 @@
-	"MONDO.0007233"	"MONDO.0008475"	"MONDO.0009563"	"MONDO.0010072"	"MONDO.0010075"	"MONDO.0011532"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Childhood-onset short-trunk short stature"	1.0	1.0	0.0	0.0	1.0	0.0
 "Increased urinary disaccharide excretion"	0.0	0.0	1.0	0.0	1.0	0.0
 "Squared-off platyspondyly"	0.0	0.0	0.0	1.0	1.0	0.0

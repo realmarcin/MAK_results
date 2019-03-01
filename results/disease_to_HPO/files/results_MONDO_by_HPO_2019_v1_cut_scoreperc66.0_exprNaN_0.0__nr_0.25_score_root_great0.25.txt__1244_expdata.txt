@@ -1,4 +1,4 @@
-	"MONDO.0007593"	"MONDO.0011091"	"MONDO.0011408"	"MONDO.0012890"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0
 "Hydroureter"	0.0	0.0	0.0	0.0
 "Xerostomia"	0.0	0.0	0.0	0.0

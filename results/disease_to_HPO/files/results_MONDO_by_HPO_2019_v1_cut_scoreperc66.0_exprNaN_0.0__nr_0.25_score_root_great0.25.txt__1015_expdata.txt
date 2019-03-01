@@ -1,4 +1,4 @@
-	"MONDO.0009066"	"MONDO.0009288"	"MONDO.0009289"	"MONDO.0009290"	"MONDO.0009725"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Osteoporosis"	0.0	1.0	1.0	0.0	0.0
 "Recurrent bacterial infections"	0.0	0.0	1.0	0.0	0.0
 "Decreased muscle mass"	0.0	1.0	0.0	0.0	0.0

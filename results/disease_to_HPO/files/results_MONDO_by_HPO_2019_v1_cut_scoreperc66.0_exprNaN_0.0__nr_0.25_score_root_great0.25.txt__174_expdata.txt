@@ -1,4 +1,4 @@
-	"MONDO.0010718"	"MONDO.0014564"	"MONDO.0014857"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Increased CSF lactate"	1.0	1.0	1.0
 "Decreased activity of the pyruvate dehydrogenase complex"	1.0	1.0	0.0
 "Hyperalaninemia"	1.0	0.0	1.0

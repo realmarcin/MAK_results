@@ -1,4 +1,4 @@
-	"MONDO.0007631"	"MONDO.0008258"	"MONDO.0008259"	"MONDO.0011137"	"MONDO.0013470"	"MONDO.0014061"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Peripheral retinal atrophy"	1.0	0.0	0.0	0.0	1.0	1.0
 "Impaired collagen-induced platelet aggregation"	0.0	0.0	1.0	0.0	0.0	0.0
 "Impaired epinephrine-induced platelet aggregation"	0.0	1.0	1.0	1.0	0.0	0.0

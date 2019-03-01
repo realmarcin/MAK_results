@@ -1,4 +1,4 @@
-	"MONDO.0008781"	"MONDO.0011664"	"MONDO.0011798"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Pseudobulbar behavioral symptoms"	1.0	1.0	1.0
 "Spasticity of facial muscles"	1.0	1.0	0.0
 "Spasticity of pharyngeal muscles"	1.0	1.0	0.0

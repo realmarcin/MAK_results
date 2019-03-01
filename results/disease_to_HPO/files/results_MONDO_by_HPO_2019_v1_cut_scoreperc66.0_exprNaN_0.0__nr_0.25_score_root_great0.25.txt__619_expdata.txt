@@ -1,4 +1,4 @@
-	"MONDO.0007497"	"MONDO.0010093"	"MONDO.0012790"	"MONDO.0014034"	"MONDO.0014664"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cryptorchidism"	0.0	1.0	0.0	0.0	1.0
 "Delayed skeletal maturation"	0.0	1.0	0.0	0.0	1.0
 "Decreased body weight"	0.0	1.0	0.0	0.0	1.0

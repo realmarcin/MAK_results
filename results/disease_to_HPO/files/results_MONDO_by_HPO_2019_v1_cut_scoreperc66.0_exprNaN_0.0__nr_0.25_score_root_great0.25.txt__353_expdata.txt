@@ -1,4 +1,4 @@
-	"MONDO.0000914"	"MONDO.0009896"	"MONDO.0010741"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Dens in dente"	1.0	1.0	1.0
 "Short pointed phalanges"	0.0	1.0	0.0
 "Vaginal hernia"	0.0	1.0	0.0

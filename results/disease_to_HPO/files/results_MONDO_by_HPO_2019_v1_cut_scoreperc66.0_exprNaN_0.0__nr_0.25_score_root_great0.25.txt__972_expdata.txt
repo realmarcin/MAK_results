@@ -1,4 +1,4 @@
-	"MONDO.0009348"	"MONDO.0011159"	"MONDO.0002974"	"MONDO.0013768"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Increased antibody level in blood"	1.0	0.0	0.0	1.0
 "Pulmonary infiltrates"	1.0	0.0	0.0	0.0
 "Leukemia"	0.0	0.0	0.0	1.0

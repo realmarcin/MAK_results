@@ -1,4 +1,4 @@
-	"MONDO.0010383"	"MONDO.0010483"	"MONDO.0011300"	"MONDO.0011783"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Bradykinesia"	1.0	1.0	1.0	1.0
 "Mask-like facies"	1.0	1.0	1.0	0.0
 "Hyperactive deep tendon reflexes"	0.0	1.0	1.0	0.0

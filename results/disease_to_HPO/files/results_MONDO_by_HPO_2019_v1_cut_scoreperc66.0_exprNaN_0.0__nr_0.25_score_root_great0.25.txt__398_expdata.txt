@@ -1,4 +1,4 @@
-	"MONDO.0007586"	"MONDO.0007587"	"MONDO.0007875"	"MONDO.0009319"	"MONDO.0010573"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Rib exostoses"	1.0	1.0	1.0	1.0	0.0
 "Scapular exostoses"	1.0	1.0	1.0	0.0	0.0
 "Madelung-like forearm deformities"	1.0	1.0	0.0	0.0	0.0

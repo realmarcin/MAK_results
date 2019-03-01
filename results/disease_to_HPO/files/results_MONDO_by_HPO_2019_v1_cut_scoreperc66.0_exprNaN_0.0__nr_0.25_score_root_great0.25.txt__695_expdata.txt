@@ -1,4 +1,4 @@
-	"MONDO.0024531"	"MONDO.0009709"	"MONDO.0011364"	"MONDO.0012019"	"MONDO.0013062"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the cardiovascular system"	0.0	0.0	0.0	1.0	0.0
 "Type 1 muscle fiber predominance"	1.0	1.0	1.0	1.0	0.0
 "EMG: myopathic abnormalities"	0.0	1.0	1.0	1.0	1.0

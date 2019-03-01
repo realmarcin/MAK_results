@@ -1,4 +1,4 @@
-	"MONDO.0007257"	"MONDO.0007263"	"MONDO.0009279"	"MONDO.0012174"	"MONDO.0012192"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hepatic necrosis"	1.0	1.0	1.0	0.0	0.0
 "Fulminant hepatic failure"	0.0	0.0	1.0	0.0	1.0
 "Decreased activity of 3-hydroxyacyl-CoA dehydrogenase"	0.0	0.0	1.0	1.0	0.0

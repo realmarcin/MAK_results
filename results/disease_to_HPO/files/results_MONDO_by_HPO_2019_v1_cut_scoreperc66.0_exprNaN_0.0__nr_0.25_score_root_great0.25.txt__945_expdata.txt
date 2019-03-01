@@ -1,4 +1,4 @@
-	"MONDO.0007110"	"MONDO.0007597"	"MONDO.0009212"	"MONDO.0021105"	"MONDO.0014790"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hemosiderinuria"	1.0	0.0	0.0	0.0	0.0
 "Increased total iron binding capacity"	1.0	0.0	0.0	1.0	0.0
 "Copper accumulation in liver"	0.0	0.0	0.0	1.0	1.0

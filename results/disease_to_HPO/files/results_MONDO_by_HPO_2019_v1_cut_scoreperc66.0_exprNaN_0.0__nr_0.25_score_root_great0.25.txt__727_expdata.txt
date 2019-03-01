@@ -1,4 +1,4 @@
-	"MONDO.0010250"	"MONDO.0011279"	"MONDO.0011908"	"MONDO.0012312"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Delayed ossification of carpal bones"	1.0	0.0	1.0	1.0
 "Beaking of vertebral bodies"	0.0	1.0	0.0	1.0
 "Broad toe"	0.0	0.0	0.0	1.0

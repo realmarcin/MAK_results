@@ -1,4 +1,4 @@
-	"MONDO.0008306"	"MONDO.0010011"	"MONDO.0010832"	"MONDO.0011929"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Gastrointestinal obstruction"	1.0	0.0	0.0	0.0
 "Bifid sacrum"	1.0	0.0	0.0	1.0
 "Presacral teratoma"	1.0	0.0	0.0	0.0

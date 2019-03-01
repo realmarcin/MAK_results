@@ -1,4 +1,4 @@
-	"MONDO.0007104"	"MONDO.0012260"	"MONDO.0013343"	"MONDO.0013717"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Spastic paraplegia"	0.0	1.0	1.0	0.0
 "Hyperreflexia"	1.0	1.0	1.0	1.0
 "Postural instability"	0.0	1.0	0.0	0.0

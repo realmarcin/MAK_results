@@ -1,4 +1,4 @@
-	"MONDO.0009670"	"MONDO.0014550"	"MONDO.0014966"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "HP:0000007"	1.0	1.0	1.0
 "Atrial septal defect"	1.0	0.0	0.0
 "Sprengel anomaly"	0.0	0.0	0.0

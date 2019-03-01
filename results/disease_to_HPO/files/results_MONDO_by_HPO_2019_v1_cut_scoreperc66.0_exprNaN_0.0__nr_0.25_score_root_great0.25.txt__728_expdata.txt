@@ -1,4 +1,4 @@
-	"MONDO.0007733"	"MONDO.0009329"	"MONDO.0009405"	"MONDO.0009604"	"MONDO.0009928"	"MONDO.0010753"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormal vertebral morphology"	1.0	1.0	1.0	1.0	1.0	1.0
 "First degree atrioventricular block"	1.0	0.0	0.0	0.0	0.0	0.0
 "Secundum atrial septal defect"	1.0	0.0	0.0	0.0	0.0	0.0

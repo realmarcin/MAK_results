@@ -1,4 +1,4 @@
-	"MONDO.0007135"	"MONDO.0007713"	"MONDO.0009214"	"MONDO.0009215"	"MONDO.0009216"	"MONDO.0009997"	"MONDO.0010954"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Complete duplication of thumb phalanx"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Anemic pallor"	0.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Deficient excision of UV-induced pyrimidine dimers in DNA"	0.0	0.0	1.0	1.0	1.0	0.0	1.0

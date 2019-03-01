@@ -1,4 +1,4 @@
-	"MONDO.0009648"	"MONDO.0009655"	"MONDO.0009727"	"MONDO.0009810"	"MONDO.0010646"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Fibroblast metachromasia"	1.0	1.0	0.0	0.0	0.0
 "Shoe-shaped sella turcica"	1.0	0.0	0.0	0.0	0.0
 "Progressive joint destruction"	0.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0011158"	"MONDO.0012456"	"MONDO.0013797"	"MONDO.0014947"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Skull asymmetry"	1.0	0.0	0.0	0.0
 "Alopecia of scalp"	1.0	0.0	0.0	0.0
 "Visual impairment"	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0008196"	"MONDO.0008817"	"MONDO.0010925"	"MONDO.0011437"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Inspiratory stridor"	1.0	1.0	1.0	1.0
 "Subependymal cysts"	0.0	0.0	1.0	0.0
 "3-Methylglutaric aciduria"	0.0	0.0	0.0	0.0

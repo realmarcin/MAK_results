@@ -1,4 +1,4 @@
-	"MONDO.0008812"	"MONDO.0009536"	"MONDO.0024553"	"MONDO.0011063"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aprosencephaly"	1.0	0.0	0.0	1.0
 "Abnormal external genitalia"	1.0	1.0	1.0	0.0
 "Intestinal lymphedema"	0.0	1.0	0.0	0.0

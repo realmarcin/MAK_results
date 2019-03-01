@@ -1,4 +1,4 @@
-	"MONDO.0010581"	"MONDO.0016532"	"MONDO.0013600"	"MONDO.0014416"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypothyroidism"	1.0	1.0	1.0	1.0
 "Recurrent respiratory infections"	0.0	1.0	1.0	0.0
 "Abnormality of the dentition"	0.0	0.0	0.0	1.0

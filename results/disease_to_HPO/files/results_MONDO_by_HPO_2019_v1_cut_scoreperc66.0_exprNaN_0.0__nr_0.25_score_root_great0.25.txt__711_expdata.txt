@@ -1,4 +1,4 @@
-	"MONDO.0010397"	"MONDO.0010479"	"MONDO.0014372"	"MONDO.0014729"	"MONDO.0015001"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0
 "Low anterior hairline"	0.0	0.0	1.0	0.0	0.0

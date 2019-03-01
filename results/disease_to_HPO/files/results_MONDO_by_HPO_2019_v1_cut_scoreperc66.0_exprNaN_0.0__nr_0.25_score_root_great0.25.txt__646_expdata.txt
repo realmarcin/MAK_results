@@ -1,4 +1,4 @@
-	"MONDO.0007957"	"MONDO.0010572"	"MONDO.0011360"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Midline central nervous system lipomas"	1.0	0.0	1.0
 "Nonossified fifth metatarsal"	0.0	1.0	0.0
 "Vertical clivus"	0.0	1.0	1.0

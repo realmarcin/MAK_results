@@ -1,4 +1,4 @@
-	"MONDO.0009273"	"MONDO.0042486"	"MONDO.0012517"	"MONDO.0014592"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Preaxial hand polydactyly"	0.0	0.0	1.0	0.0
 "Esophageal atresia"	0.0	0.0	1.0	0.0
 "Deep philtrum"	0.0	0.0	1.0	0.0

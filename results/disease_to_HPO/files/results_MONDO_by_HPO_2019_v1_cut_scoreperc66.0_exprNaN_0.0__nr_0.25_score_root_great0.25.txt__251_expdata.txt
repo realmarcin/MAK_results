@@ -1,4 +1,4 @@
-	"MONDO.0008723"	"MONDO.0010289"	"MONDO.0012825"	"MONDO.0013871"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Seizures"	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0007917"	"MONDO.0008809"	"MONDO.0009338"	"MONDO.0014455"	"MONDO.0014798"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Conical incisor"	0.0	0.0	1.0	0.0	0.0
 "Intestinal lymphangiectasia"	1.0	1.0	1.0	1.0	1.0
 "Thyroid lymphangiectasia"	0.0	0.0	1.0	0.0	0.0

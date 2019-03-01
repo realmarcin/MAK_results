@@ -1,4 +1,4 @@
-	"MONDO.0007589"	"MONDO.0009720"	"MONDO.0012138"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Bacterial endocarditis"	1.0	1.0	0.0
 "Pulmonic valve myxoma"	0.0	1.0	0.0
 "Cardiac myxoma"	0.0	1.0	1.0

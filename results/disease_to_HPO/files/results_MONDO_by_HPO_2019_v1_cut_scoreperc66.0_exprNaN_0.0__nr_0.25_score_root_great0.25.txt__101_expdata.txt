@@ -1,4 +1,4 @@
-	"MONDO.0011156"	"MONDO.0011364"	"MONDO.0011861"	"MONDO.0014878"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Rimmed vacuoles"	1.0	1.0	1.0	1.0
 "Muscle fiber splitting"	1.0	1.0	1.0	1.0
 "Quadriceps muscle weakness"	0.0	0.0	1.0	0.0

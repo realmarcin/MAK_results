@@ -1,4 +1,4 @@
-	"MONDO.0008056"	"MONDO.0008059"	"MONDO.0008196"	"MONDO.0009716"	"MONDO.0011329"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "EMG: myotonic runs"	1.0	0.0	0.0	1.0	0.0
 "Myotonia with warm-up phenomenon"	1.0	0.0	0.0	1.0	0.0
 "Percussion myotonia"	1.0	1.0	1.0	1.0	1.0

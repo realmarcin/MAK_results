@@ -1,4 +1,4 @@
-	"MONDO.0009071"	"MONDO.0009579"	"MONDO.0015006"	"MONDO.0054761"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

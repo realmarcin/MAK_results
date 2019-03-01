@@ -1,4 +1,4 @@
-	"MONDO.0009388"	"MONDO.0010722"	"MONDO.0014805"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Jaundice"	1.0	1.0	1.0
 "Hepatosplenomegaly"	1.0	1.0	1.0
 "Lactescent serum"	1.0	0.0	0.0

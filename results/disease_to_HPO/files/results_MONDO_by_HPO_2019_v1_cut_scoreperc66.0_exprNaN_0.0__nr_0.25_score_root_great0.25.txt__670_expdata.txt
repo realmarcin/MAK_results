@@ -1,4 +1,4 @@
-	"MONDO.0008475"	"MONDO.0009660"	"MONDO.0009661"	"MONDO.0011774"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Cervical subluxation"	1.0	1.0	1.0	1.0
 "Chondroitin sulfate excretion in urine"	0.0	1.0	0.0	0.0
 "Large elbow"	0.0	1.0	0.0	0.0

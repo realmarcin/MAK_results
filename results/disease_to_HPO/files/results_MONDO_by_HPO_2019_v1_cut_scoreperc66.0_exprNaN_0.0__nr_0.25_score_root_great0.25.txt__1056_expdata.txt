@@ -1,4 +1,4 @@
-	"MONDO.0010300"	"MONDO.0010320"	"MONDO.0010340"	"MONDO.0014211"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Generalized tonic-clonic seizures"	0.0	1.0	0.0	0.0
 "Parkinsonism"	0.0	1.0	0.0	0.0
 "Apraxia"	0.0	1.0	0.0	0.0

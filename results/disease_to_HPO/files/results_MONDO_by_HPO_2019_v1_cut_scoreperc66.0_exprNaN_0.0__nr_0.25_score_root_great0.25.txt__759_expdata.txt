@@ -1,4 +1,4 @@
-	"MONDO.0007794"	"MONDO.0020607"	"MONDO.0010622"	"MONDO.0014842"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aplasia/hypoplasia of the extremities"	1.0	0.0	1.0	0.0
 "Childhood onset short-limb short stature"	1.0	1.0	0.0	0.0
 "Elevated 8-dehydrocholesterol"	0.0	0.0	1.0	0.0

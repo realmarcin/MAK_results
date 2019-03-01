@@ -1,4 +1,4 @@
-	"MONDO.0008328"	"MONDO.0008377"	"MONDO.0013453"	"MONDO.0014019"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Mydriasis"	1.0	0.0	1.0	0.0
 "Saccular conjunctival dilatations"	0.0	1.0	0.0	0.0
 "Abnormal distribution of retinal arterioles and venules"	0.0	1.0	0.0	0.0

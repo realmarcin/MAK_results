@@ -1,4 +1,4 @@
-	"MONDO.0013350"	"MONDO.0013511"	"MONDO.0060760"	"MONDO.0020848"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Microcephaly"	1.0	0.0	0.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

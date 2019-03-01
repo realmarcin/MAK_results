@@ -1,4 +1,4 @@
-	"MONDO.0010463"	"MONDO.0014202"	"MONDO.0014644"	"MONDO.0044323"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Downslanted palpebral fissures"	0.0	1.0	1.0	1.0
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

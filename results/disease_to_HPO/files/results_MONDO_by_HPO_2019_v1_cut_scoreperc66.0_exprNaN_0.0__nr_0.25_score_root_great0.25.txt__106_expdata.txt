@@ -1,4 +1,4 @@
-	"MONDO.0011439"	"MONDO.0013533"	"MONDO.0014812"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypertelorism"	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0

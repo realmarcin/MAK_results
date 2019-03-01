@@ -1,4 +1,4 @@
-	"MONDO.0008261"	"MONDO.0008713"	"MONDO.0008755"	"MONDO.0008930"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Turricephaly"	1.0	1.0	1.0	0.0
 "Abnormal toenail morphology"	1.0	1.0	1.0	1.0
 "Beaked nails"	0.0	0.0	0.0	0.0

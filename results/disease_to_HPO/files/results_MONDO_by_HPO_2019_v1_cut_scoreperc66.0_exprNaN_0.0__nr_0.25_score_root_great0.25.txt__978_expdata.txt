@@ -1,4 +1,4 @@
-	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"	"MONDO.0014775"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Plagiocephaly"	0.0	0.0	0.0	1.0
 "Intellectual disability, moderate"	0.0	0.0	0.0	1.0

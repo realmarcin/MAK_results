@@ -1,4 +1,4 @@
-	"MONDO.0008131"	"MONDO.0008898"	"MONDO.0009268"	"MONDO.0011811"	"MONDO.0011946"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Progressive ophthalmoplegia"	1.0	0.0	0.0	1.0	0.0
 "Vascular calcification"	0.0	1.0	1.0	0.0	0.0
 "Decreased beta-glucocerebrosidase protein and activity"	0.0	0.0	1.0	0.0	1.0

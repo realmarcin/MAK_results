@@ -1,4 +1,4 @@
-	"MONDO.0007825"	"MONDO.0009999"	"MONDO.0012196"	"MONDO.0014414"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Agenesis of mandibular central incisor"	1.0	1.0	0.0	0.0
 "Abnormality of the aryepiglottic fold"	0.0	1.0	0.0	0.0
 "Aplasia of the epiglottis"	0.0	1.0	0.0	1.0

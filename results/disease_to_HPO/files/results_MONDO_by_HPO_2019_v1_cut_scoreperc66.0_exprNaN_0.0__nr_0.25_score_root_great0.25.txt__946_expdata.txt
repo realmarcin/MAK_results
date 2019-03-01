@@ -1,4 +1,4 @@
-	"MONDO.0008112"	"MONDO.0009474"	"MONDO.0009935"	"MONDO.0012211"	"MONDO.0012456"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Thin anteverted nares"	1.0	1.0	0.0	0.0	0.0
 "Conotruncal defect"	0.0	1.0	0.0	0.0	1.0
 "Abnormality of the pulmonary veins"	0.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0009300"	"MONDO.0009385"	"MONDO.0010107"	"MONDO.0014845"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Osteoporosis"	1.0	0.0	0.0	0.0
 "Increased circulating gonadotropin level"	1.0	1.0	0.0	0.0

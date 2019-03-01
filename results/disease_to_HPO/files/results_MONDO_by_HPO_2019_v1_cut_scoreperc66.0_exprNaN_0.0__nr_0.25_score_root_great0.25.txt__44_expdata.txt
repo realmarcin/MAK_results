@@ -1,4 +1,4 @@
-	"MONDO.0007541"	"MONDO.0007769"	"MONDO.0012005"	"MONDO.0012553"	"MONDO.0012796"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Elevated circulating parathyroid hormone level"	1.0	1.0	1.0	1.0	1.0
 "Peptic ulcer"	1.0	1.0	1.0	1.0	0.0
 "Hyperparathyroidism"	1.0	1.0	1.0	1.0	1.0

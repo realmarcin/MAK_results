@@ -1,4 +1,4 @@
-	"MONDO.0008724"	"MONDO.0008860"	"MONDO.0009865"	"MONDO.0009867"	"MONDO.0054742"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hepatic steatosis"	1.0	0.0	1.0	1.0	1.0
 "Exercise-induced rhabdomyolysis"	1.0	0.0	0.0	0.0	0.0
 "Hepatic failure"	0.0	1.0	1.0	1.0	1.0

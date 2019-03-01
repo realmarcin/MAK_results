@@ -1,4 +1,4 @@
-	"MONDO.0008304"	"MONDO.0008640"	"MONDO.0010749"	"MONDO.0024553"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Facial asymmetry"	0.0	0.0	1.0	0.0
 "Melanocytic nevus"	0.0	0.0	1.0	0.0
 "Renal dysplasia"	0.0	0.0	1.0	0.0

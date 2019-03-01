@@ -1,4 +1,4 @@
-	"MONDO.0007404"	"MONDO.0008202"	"MONDO.0013061"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Depressivity"	1.0	1.0	1.0
 "Tremor"	1.0	1.0	1.0
 "Supranuclear gaze palsy"	1.0	0.0	1.0

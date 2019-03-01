@@ -1,4 +1,4 @@
-	"MONDO.0007311"	"MONDO.0007313"	"MONDO.0008407"	"MONDO.0008409"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Neonatal inspiratory stridor"	1.0	0.0	0.0	0.0
 "Congenital foot contraction deformities"	1.0	0.0	0.0	0.0
 "Peroneal muscle atrophy"	1.0	1.0	1.0	1.0

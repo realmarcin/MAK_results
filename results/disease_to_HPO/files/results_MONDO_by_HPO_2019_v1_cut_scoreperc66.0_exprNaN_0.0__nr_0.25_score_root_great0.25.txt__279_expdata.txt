@@ -1,4 +1,4 @@
-	"MONDO.0010484"	"MONDO.0012394"	"MONDO.0014177"	"MONDO.0014405"	"MONDO.0014733"	"MONDO.0014834"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Global developmental delay"	1.0	0.0	1.0	1.0	1.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	1.0	0.0	1.0	1.0	1.0
 "Postnatal microcephaly"	1.0	0.0	0.0	1.0	1.0	0.0

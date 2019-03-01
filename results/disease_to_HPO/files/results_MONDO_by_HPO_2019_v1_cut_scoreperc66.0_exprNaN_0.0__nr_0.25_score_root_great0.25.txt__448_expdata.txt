@@ -1,4 +1,4 @@
-	"MONDO.0008229"	"MONDO.0009472"	"MONDO.0009853"	"MONDO.0009854"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Malabsorption of Vitamin B12"	1.0	0.0	1.0	1.0
 "Absence of intrinsic factor"	0.0	1.0	1.0	0.0
 "Megaloblastic erythroid hyperplasia"	0.0	0.0	1.0	0.0

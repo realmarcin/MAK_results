@@ -1,4 +1,4 @@
-	"MONDO.0010247"	"MONDO.0011508"	"MONDO.0012615"	"MONDO.0024569"	"MONDO.0027694"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0
 "Arnold-Chiari type I malformation"	0.0	0.0	0.0	0.0	1.0
 "Generalized tonic-clonic seizures"	1.0	1.0	0.0	0.0	1.0

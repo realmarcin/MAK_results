@@ -1,4 +1,4 @@
-	"MONDO.0008438"	"MONDO.0008439"	"MONDO.0010879"	"MONDO.0024556"	"MONDO.0011994"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Urinary incontinence"	1.0	1.0	1.0	1.0	0.0
 "Degeneration of the lateral corticospinal tracts"	1.0	1.0	1.0	1.0	0.0
 "Urinary bladder sphincter dysfunction"	1.0	1.0	1.0	1.0	0.0

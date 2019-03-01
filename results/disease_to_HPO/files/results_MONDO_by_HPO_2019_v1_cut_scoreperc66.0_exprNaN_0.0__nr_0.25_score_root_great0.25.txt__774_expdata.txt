@@ -1,4 +1,4 @@
-	"MONDO.0007828"	"MONDO.0010871"	"MONDO.0011364"	"MONDO.0011861"	"MONDO.0014801"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Skeletal muscle atrophy"	1.0	0.0	1.0	0.0	0.0
 "Autoimmunity"	1.0	0.0	0.0	0.0	0.0
 "Feeding difficulties in infancy"	1.0	0.0	0.0	0.0	0.0

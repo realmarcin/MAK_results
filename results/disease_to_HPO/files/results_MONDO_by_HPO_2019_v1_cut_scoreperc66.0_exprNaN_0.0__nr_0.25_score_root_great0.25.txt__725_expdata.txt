@@ -1,4 +1,4 @@
-	"MONDO.0007204"	"MONDO.0007708"	"MONDO.0010684"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "External ophthalmoplegia"	0.0	0.0	1.0
 "Cavernous hemangioma"	1.0	1.0	1.0
 "Neonatal respiratory distress"	0.0	0.0	1.0

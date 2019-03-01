@@ -1,4 +1,4 @@
-	"MONDO.0007307"	"MONDO.0007827"	"MONDO.0008483"	"MONDO.0008959"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hemivertebrae"	0.0	0.0	1.0	0.0
 "Cervical segmentation defect"	0.0	0.0	1.0	0.0
 "Sprengel anomaly"	1.0	0.0	1.0	1.0

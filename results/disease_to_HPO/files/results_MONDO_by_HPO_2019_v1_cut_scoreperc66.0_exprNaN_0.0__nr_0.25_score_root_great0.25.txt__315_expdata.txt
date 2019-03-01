@@ -1,4 +1,4 @@
-	"MONDO.0010353"	"MONDO.0010451"	"MONDO.0010655"	"MONDO.0044326"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Intellectual disability"	1.0	1.0	1.0	1.0
 "Delayed speech and language development"	0.0	1.0	1.0	1.0
 "Gait ataxia"	0.0	0.0	0.0	1.0

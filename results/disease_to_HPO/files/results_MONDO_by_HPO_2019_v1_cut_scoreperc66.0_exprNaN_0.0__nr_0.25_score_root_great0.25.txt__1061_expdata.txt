@@ -1,4 +1,4 @@
-	"MONDO.0010904"	"MONDO.0012256"	"MONDO.0012592"	"MONDO.0013298"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Generalized joint laxity"	0.0	1.0	0.0	0.0
 "Lumbar hyperlordosis"	0.0	1.0	0.0	0.0
 "Genu varum"	0.0	1.0	0.0	0.0

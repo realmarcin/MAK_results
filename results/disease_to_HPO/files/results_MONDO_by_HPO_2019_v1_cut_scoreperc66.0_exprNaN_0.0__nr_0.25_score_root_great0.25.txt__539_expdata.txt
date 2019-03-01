@@ -1,4 +1,4 @@
-	"MONDO.0008153"	"MONDO.0009810"	"MONDO.0009811"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Metatarsal osteolysis"	1.0	1.0	0.0
 "Carpal osteolysis"	1.0	1.0	0.0
 "Metacarpal osteolysis"	1.0	1.0	1.0

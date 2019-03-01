@@ -1,4 +1,4 @@
-	"MONDO.0012873"	"MONDO.0012878"	"MONDO.0013144"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "HP:0000006"	1.0	1.0	1.0
 "Hypercoagulability"	1.0	0.0	1.0
 "Disseminated intravascular coagulation"	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0007326"	"MONDO.0008046"	"MONDO.0008409"	"MONDO.0008696"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Progressive choreoathetosis"	1.0	0.0	0.0	1.0
 "Progressive distal muscular atrophy"	0.0	1.0	1.0	1.0
 "Self-mutilation of tongue and lips due to involuntary movements"	0.0	0.0	0.0	1.0

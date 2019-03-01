@@ -1,4 +1,4 @@
-	"MONDO.0010859"	"MONDO.0011864"	"MONDO.0014431"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0
 "Coarse facial features"	1.0	0.0	1.0

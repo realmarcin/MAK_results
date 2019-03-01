@@ -1,4 +1,4 @@
-	"MONDO.0010216"	"MONDO.0010404"	"MONDO.0011134"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Morphological abnormality of the central nervous system"	1.0	0.0	0.0
 "Numerous pigmented freckles"	1.0	0.0	1.0
 "HP:0031287"	1.0	0.0	0.0

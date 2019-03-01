@@ -1,4 +1,4 @@
-	"MONDO.0007474"	"MONDO.0007627"	"MONDO.0009701"	"MONDO.0011814"	"MONDO.0014881"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Impaired ocular adduction"	1.0	1.0	0.0	1.0	1.0
 "Impaired convergence"	1.0	0.0	0.0	1.0	0.0
 "Impaired ocular abduction"	1.0	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0007073"	"MONDO.0007450"	"MONDO.0007508"	"MONDO.0008405"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Mandibular prognathia"	0.0	1.0	0.0	1.0
 "Thin skin"	1.0	1.0	1.0	0.0
 "Ectodermal dysplasia"	1.0	1.0	1.0	0.0

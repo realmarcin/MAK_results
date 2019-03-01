@@ -1,4 +1,4 @@
-	"MONDO.0054581"	"MONDO.0008702"	"MONDO.0008996"	"MONDO.0010625"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Vitritis"	1.0	0.0	0.0	0.0
 "Retinal vasculitis"	1.0	0.0	0.0	0.0
 "Central retinal artery occlusion"	1.0	0.0	0.0	0.0

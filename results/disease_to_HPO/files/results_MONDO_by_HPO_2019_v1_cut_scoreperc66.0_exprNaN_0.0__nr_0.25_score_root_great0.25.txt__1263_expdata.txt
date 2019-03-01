@@ -1,4 +1,4 @@
-	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"	"MONDO.0027451"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aortic regurgitation"	0.0	0.0	0.0	1.0
 "Knee flexion contracture"	0.0	0.0	0.0	1.0
 "Hip dysplasia"	0.0	0.0	0.0	1.0

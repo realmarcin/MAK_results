@@ -1,4 +1,4 @@
-	"MONDO.0004948"	"MONDO.0007898"	"MONDO.0008743"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "HP:0001444"	1.0	1.0	0.0
 "Acute monocytic leukemia"	1.0	0.0	1.0
 "Congenital agranulocytosis"	0.0	0.0	1.0

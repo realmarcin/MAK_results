@@ -1,4 +1,4 @@
-	"MONDO.0009478"	"MONDO.0010219"	"MONDO.0014240"	"MONDO.0060490"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hydronephrosis"	1.0	0.0	0.0	0.0
 "Microphthalmia"	1.0	0.0	0.0	0.0
 "Intestinal malrotation"	1.0	0.0	0.0	0.0

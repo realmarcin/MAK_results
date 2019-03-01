@@ -1,4 +1,4 @@
-	"MONDO.0009073"	"MONDO.0009075"	"MONDO.0009076"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Proximal finger joint hyperextensibility"	0.0	0.0	0.0
 "Elevated imprint of the transverse sinuses"	1.0	1.0	1.0
 "Thinning and bulging of the posterior fossa bones"	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"MONDO.0007065"	"MONDO.0009974"	"MONDO.0011339"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Severe B lymphocytopenia"	1.0	0.0	1.0
 "Absent specific antibody response"	1.0	0.0	0.0
 "Reduced red cell adenosine deaminase activity"	1.0	0.0	0.0

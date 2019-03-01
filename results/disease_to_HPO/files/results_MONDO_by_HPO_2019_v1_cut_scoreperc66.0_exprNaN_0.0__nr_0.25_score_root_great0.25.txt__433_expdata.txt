@@ -1,4 +1,4 @@
-	"MONDO.0008927"	"MONDO.0009132"	"MONDO.0009280"	"MONDO.0009984"	"MONDO.0010788"	"MONDO.0010790"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Delayed skeletal maturation"	0.0	0.0	0.0	1.0	1.0	1.0
 "Sensorineural hearing impairment"	1.0	0.0	1.0	1.0	1.0	1.0
 "Abnormality of retinal pigmentation"	1.0	0.0	0.0	1.0	1.0	1.0

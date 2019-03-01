@@ -1,4 +1,4 @@
-	"MONDO.0010453"	"MONDO.0013582"	"MONDO.0014242"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Strabismus"	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0

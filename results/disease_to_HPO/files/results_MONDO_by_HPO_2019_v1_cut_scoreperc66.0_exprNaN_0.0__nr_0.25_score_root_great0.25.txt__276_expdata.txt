@@ -1,4 +1,4 @@
-	"MONDO.0008704"	"MONDO.0008808"	"MONDO.0009233"	"MONDO.0010165"	"MONDO.0010222"	"MONDO.0011537"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aplasia/Hypoplasia involving the metacarpal bones"	1.0	0.0	1.0	1.0	0.0	1.0
 "Aplasia/Hypoplasia of metatarsal bones"	1.0	0.0	1.0	1.0	0.0	1.0
 "Aplasia/Hypoplasia of the phalanges of the hand"	0.0	1.0	1.0	1.0	1.0	1.0

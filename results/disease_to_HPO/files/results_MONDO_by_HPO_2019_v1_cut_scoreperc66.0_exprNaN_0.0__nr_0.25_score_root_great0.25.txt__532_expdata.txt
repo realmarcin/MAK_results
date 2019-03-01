@@ -1,4 +1,4 @@
-	"MONDO.0007346"	"MONDO.0013753"	"MONDO.0008286"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aortic valve atresia"	1.0	1.0	0.0
 "Abnormality of the left ventricular outflow tract"	1.0	0.0	0.0
 "Hypoplastic aortic arch"	1.0	0.0	1.0

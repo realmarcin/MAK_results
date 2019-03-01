@@ -1,4 +1,4 @@
-	"MONDO.0007668"	"MONDO.0009201"	"MONDO.0011984"	"MONDO.0012055"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Long eyelashes"	0.0	1.0	0.0	0.0
 "2-3 toe syndactyly"	0.0	1.0	0.0	0.0
 "2-4 finger syndactyly"	0.0	1.0	0.0	0.0

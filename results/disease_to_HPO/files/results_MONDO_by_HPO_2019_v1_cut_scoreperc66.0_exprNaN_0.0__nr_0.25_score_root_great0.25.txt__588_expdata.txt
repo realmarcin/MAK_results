@@ -1,4 +1,4 @@
-	"MONDO.0007386"	"MONDO.0012731"	"MONDO.0013453"	"MONDO.0024568"	"MONDO.0014515"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Coronary artery dissection"	1.0	0.0	0.0	1.0	0.0
 "Dilatation of the thoracic aorta"	0.0	1.0	1.0	1.0	1.0
 "Coronary artery aneurysm"	0.0	0.0	0.0	1.0	0.0

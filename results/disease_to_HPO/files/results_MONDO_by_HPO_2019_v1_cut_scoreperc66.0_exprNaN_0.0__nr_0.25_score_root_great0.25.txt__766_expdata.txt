@@ -1,4 +1,4 @@
-	"MONDO.0008105"	"MONDO.0010310"	"MONDO.0010744"	"MONDO.0011471"	"MONDO.0011556"	"MONDO.0014759"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Amegakaryocytic thrombocytopenia"	1.0	0.0	0.0	1.0	1.0	0.0
 "Limited pronation/supination of forearm"	0.0	0.0	0.0	0.0	1.0	1.0
 "Congenital thrombocytopenia"	0.0	1.0	1.0	0.0	1.0	1.0

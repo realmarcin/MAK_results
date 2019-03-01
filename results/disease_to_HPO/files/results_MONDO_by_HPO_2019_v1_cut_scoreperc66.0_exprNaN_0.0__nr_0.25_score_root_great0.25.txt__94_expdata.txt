@@ -1,4 +1,4 @@
-	"MONDO.0011775"	"MONDO.0013211"	"MONDO.0013270"	"MONDO.0014238"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Progressive hearing impairment"	1.0	0.0	1.0	0.0
 "Progressive sensorineural hearing impairment"	1.0	1.0	0.0	1.0

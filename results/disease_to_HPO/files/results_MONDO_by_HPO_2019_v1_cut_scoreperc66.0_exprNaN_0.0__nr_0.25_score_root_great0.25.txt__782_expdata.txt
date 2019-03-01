@@ -1,4 +1,4 @@
-	"MONDO.0008383"	"MONDO.0009990"	"MONDO.0010726"	"MONDO.0012494"	"MONDO.0012509"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Retinoschisis"	1.0	1.0	1.0	0.0	0.0
 "Cystic retinal degeneration"	0.0	0.0	1.0	0.0	0.0
 "Electronegative electroretinogram"	0.0	0.0	1.0	1.0	1.0

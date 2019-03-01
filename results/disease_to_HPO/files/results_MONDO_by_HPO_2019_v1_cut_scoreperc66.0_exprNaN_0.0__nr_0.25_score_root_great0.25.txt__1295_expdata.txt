@@ -1,4 +1,4 @@
-	"MONDO.0010904"	"MONDO.0011945"	"MONDO.0012592"	"MONDO.0013298"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Low-set ears"	0.0	1.0	0.0	0.0
 "Narrow nose"	0.0	1.0	0.0	0.0
 "Autoimmune thrombocytopenia"	0.0	1.0	0.0	0.0

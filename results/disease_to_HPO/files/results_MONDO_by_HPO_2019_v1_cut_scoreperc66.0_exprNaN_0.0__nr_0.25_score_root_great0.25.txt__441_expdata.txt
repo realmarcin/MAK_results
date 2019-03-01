@@ -1,4 +1,4 @@
-	"MONDO.0008726"	"MONDO.0008731"	"MONDO.0013401"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Adrenal insufficiency"	0.0	0.0	1.0
 "Aplasia of the uterus"	0.0	0.0	1.0
 "Generalized bronze hyperpigmentation"	0.0	0.0	1.0

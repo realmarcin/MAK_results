@@ -1,4 +1,4 @@
-	"MONDO.0007043"	"MONDO.0007044"	"MONDO.0007406"	"MONDO.0009039"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormal heart morphology"	1.0	0.0	0.0	0.0
 "Malar flattening"	1.0	0.0	0.0	0.0
 "Oxycephaly"	1.0	0.0	0.0	0.0

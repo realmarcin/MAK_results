@@ -1,4 +1,4 @@
-	"MONDO.0007615"	"MONDO.0010281"	"MONDO.0010913"	"MONDO.0011182"	"MONDO.0012271"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Compensatory chin elevation"	1.0	1.0	1.0	0.0	1.0
 "Congenital fibrosis of extraocular muscles"	1.0	0.0	1.0	1.0	1.0
 "Restrictive external ophthalmoplegia"	1.0	0.0	0.0	1.0	1.0

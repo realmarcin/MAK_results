@@ -1,4 +1,4 @@
-	"MONDO.0009876"	"MONDO.0010196"	"MONDO.0012014"	"MONDO.0013671"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hypoplasia of the maxilla"	0.0	1.0	1.0	0.0
 "Brachydactyly"	0.0	1.0	1.0	0.0
 "Brachycephaly"	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"MONDO.0011151"	"MONDO.0013524"	"MONDO.0013720"	"MONDO.0013890"	"MONDO.0014214"	"MONDO.0054813"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Right bundle branch block"	0.0	1.0	0.0	0.0	0.0	0.0
 "Abnormality of the ribs"	0.0	1.0	0.0	0.0	0.0	0.0
 "Delayed closure of the anterior fontanelle"	0.0	1.0	0.0	0.0	0.0	0.0

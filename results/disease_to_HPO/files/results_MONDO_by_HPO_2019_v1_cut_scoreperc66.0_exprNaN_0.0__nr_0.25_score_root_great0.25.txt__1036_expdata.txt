@@ -1,4 +1,4 @@
-	"MONDO.0008390"	"MONDO.0008518"	"MONDO.0010001"	"MONDO.0010669"	"MONDO.0010882"	"MONDO.0011041"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Right ventricular outlet obstruction"	1.0	0.0	1.0	0.0	0.0	0.0
 "Bifid distal phalanx of toe"	1.0	1.0	1.0	0.0	0.0	0.0
 "Duplication of the distal phalanx of hand"	1.0	0.0	1.0	0.0	0.0	0.0

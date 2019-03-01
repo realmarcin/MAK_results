@@ -1,4 +1,4 @@
-	"MONDO.0014812"	"MONDO.0015005"	"MONDO.0015008"	"MONDO.0044329"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Esotropia"	1.0	0.0	1.0	0.0
 "Intellectual disability"	1.0	0.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

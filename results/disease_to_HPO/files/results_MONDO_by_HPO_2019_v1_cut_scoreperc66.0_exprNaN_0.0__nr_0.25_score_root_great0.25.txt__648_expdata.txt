@@ -1,4 +1,4 @@
-	"MONDO.0008564"	"MONDO.0008601"	"MONDO.0009232"	"MONDO.0010157"	"MONDO.0010926"	"MONDO.0013566"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Abnormality of the thumb"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hyperextensible hand joints"	0.0	0.0	0.0	1.0	1.0	0.0
 "Abnormal morphology of the left ventricle"	0.0	0.0	0.0	0.0	0.0	0.0

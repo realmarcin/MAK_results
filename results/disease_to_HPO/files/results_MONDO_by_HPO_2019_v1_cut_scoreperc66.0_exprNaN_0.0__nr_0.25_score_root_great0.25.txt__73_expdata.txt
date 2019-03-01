@@ -1,4 +1,4 @@
-	"MONDO.0009588"	"MONDO.0010196"	"MONDO.0012014"	"MONDO.0013900"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Brachydactyly"	0.0	1.0	1.0	1.0
 "Pulmonic stenosis"	1.0	1.0	1.0	1.0
 "Aortic valve stenosis"	0.0	1.0	1.0	1.0

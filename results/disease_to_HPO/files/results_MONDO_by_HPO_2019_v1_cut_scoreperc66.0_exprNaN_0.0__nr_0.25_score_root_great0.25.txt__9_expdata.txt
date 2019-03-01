@@ -1,4 +1,4 @@
-	"MONDO.0007312"	"MONDO.0012412"	"MONDO.0013885"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Hyporeflexia"	1.0	1.0	1.0
 "Pes cavus"	1.0	1.0	1.0
 "Distal amyotrophy"	1.0	1.0	1.0

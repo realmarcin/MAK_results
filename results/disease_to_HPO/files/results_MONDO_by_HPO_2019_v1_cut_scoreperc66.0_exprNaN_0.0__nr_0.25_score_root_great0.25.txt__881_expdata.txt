@@ -1,4 +1,4 @@
-	"MONDO.0007204"	"MONDO.0007682"	"MONDO.0007804"	"MONDO.0007960"	"MONDO.0008130"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Chronic disseminated intravascular coagulation"	1.0	0.0	0.0	0.0	0.0
 "Cerebellar medulloblastoma"	1.0	1.0	0.0	1.0	0.0
 "Total ophthalmoplegia"	0.0	0.0	0.0	1.0	1.0

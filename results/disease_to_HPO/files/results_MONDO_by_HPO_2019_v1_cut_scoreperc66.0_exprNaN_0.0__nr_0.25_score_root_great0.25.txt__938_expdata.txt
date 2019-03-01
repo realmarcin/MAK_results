@@ -1,4 +1,4 @@
-	"MONDO.0024537"	"MONDO.0009605"	"MONDO.0010382"	"MONDO.0011725"	"MONDO.0012247"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Progressive inspiratory stridor"	1.0	0.0	0.0	0.0	0.0
 "Generalized hyperreflexia"	1.0	0.0	0.0	1.0	1.0
 "Abnormality of erythrocytes"	0.0	1.0	1.0	1.0	0.0

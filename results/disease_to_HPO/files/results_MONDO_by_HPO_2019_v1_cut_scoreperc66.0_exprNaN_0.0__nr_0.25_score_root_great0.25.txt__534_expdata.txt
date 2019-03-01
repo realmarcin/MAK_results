@@ -1,4 +1,4 @@
-	"MONDO.0008874"	"MONDO.0009805"	"MONDO.0010817"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Dysharmonic delayed bone age"	1.0	0.0	1.0
 "Severe generalized osteoporosis"	1.0	1.0	0.0
 "Dislocation of the femoral head"	1.0	0.0	0.0

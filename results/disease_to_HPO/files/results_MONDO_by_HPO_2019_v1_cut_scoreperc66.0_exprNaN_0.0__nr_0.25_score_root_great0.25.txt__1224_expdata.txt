@@ -1,4 +1,4 @@
-	"MONDO.0008215"	"MONDO.0009507"	"MONDO.0010682"	"MONDO.0012928"	"MONDO.0013276"	"MONDO.0044321"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "4-5 finger syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0
 "Hyposegmentation of neutrophil nuclei"	1.0	1.0	1.0	1.0	0.0	0.0
 "Impaired neutrophil bactericidal activity"	0.0	1.0	0.0	0.0	1.0	0.0

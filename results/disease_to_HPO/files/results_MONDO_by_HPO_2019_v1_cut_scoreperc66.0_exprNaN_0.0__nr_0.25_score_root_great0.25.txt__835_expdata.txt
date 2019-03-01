@@ -1,4 +1,4 @@
-	"MONDO.0009069"	"MONDO.0009259"	"MONDO.0011309"	"MONDO.0014208"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Aminoaciduria"	1.0	1.0	1.0	1.0
 "Chronic lactic acidosis"	0.0	0.0	1.0	0.0
 "Renal Fanconi syndrome"	1.0	0.0	1.0	0.0

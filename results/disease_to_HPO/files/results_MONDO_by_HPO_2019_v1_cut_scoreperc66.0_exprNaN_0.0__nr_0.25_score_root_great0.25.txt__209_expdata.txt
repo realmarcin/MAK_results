@@ -1,4 +1,4 @@
-	"MONDO.0007418"	"MONDO.0007839"	"MONDO.0012270"	"MONDO.0012775"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Pectus excavatum"	0.0	1.0	1.0	0.0
 "Microphthalmia"	0.0	1.0	1.0	0.0
 "Facial asymmetry"	0.0	1.0	1.0	0.0

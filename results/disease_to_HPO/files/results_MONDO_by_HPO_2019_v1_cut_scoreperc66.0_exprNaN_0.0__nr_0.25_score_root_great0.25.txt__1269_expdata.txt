@@ -1,4 +1,4 @@
-	"MONDO.0010450"	"MONDO.0010465"	"MONDO.0010499"	"MONDO.0014236"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Short phalanx of finger"	1.0	0.0	0.0	0.0
 "Cerebral hemorrhage"	1.0	0.0	0.0	0.0
 "Stroke-like episode"	1.0	0.0	0.0	0.0

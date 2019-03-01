@@ -1,4 +1,4 @@
-	"MONDO.0009719"	"MONDO.0010141"	"MONDO.0013758"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Congenital hip dislocation"	0.0	0.0	1.0
 "Hoarse voice"	1.0	1.0	1.0
 "Dry skin"	1.0	1.0	1.0

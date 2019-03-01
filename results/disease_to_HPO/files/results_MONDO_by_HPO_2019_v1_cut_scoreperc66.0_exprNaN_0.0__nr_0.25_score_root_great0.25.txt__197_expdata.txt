@@ -1,4 +1,4 @@
-	"MONDO.0010336"	"MONDO.0010372"	"MONDO.0010567"	"MONDO.0010579"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Nystagmus"	1.0	1.0	1.0	0.0
 "Abnormality of metabolism/homeostasis"	0.0	1.0	1.0	0.0
 "Photophobia"	1.0	0.0	1.0	1.0

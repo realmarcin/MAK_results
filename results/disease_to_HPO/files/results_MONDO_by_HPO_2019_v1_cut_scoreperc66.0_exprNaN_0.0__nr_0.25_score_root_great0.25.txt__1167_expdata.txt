@@ -1,4 +1,4 @@
-	"MONDO.0007544"	"MONDO.0007895"	"MONDO.0009718"	"MONDO.0010646"	"MONDO.0010703"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Long eyelashes in irregular rows"	0.0	0.0	1.0	0.0	0.0
 "Hypoplasia of the abdominal wall musculature"	0.0	0.0	0.0	0.0	0.0
 "HP:0008038"	0.0	0.0	0.0	0.0	0.0

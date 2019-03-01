@@ -1,4 +1,4 @@
-	"MONDO.0008093"	"MONDO.0008496"	"MONDO.0009647"	"MONDO.0013566"	"MONDO.0013670"	"MONDO.0013852"
+	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"	"MONDO.0008741"
 "Myelodysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of reticulocytes"	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormality of cells of the granulocytic lineage"	0.0	0.0	0.0	0.0	0.0	0.0
