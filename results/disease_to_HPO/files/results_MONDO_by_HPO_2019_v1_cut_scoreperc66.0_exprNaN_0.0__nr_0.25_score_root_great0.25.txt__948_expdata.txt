@@ -1,4 +1,4 @@
-	"metabolic myopathy due to lactate transporter defect"	"peroxisome biogenesis disorder 1B"	"chromosome 5q12 deletion syndrome"
+	"kuru, susceptibility to"	"Athabaskan brainstem dysgenesis syndrome"	"Joubert syndrome 22"
 "Syndactyly"	0.0	0.0	1.0
 "Postaxial hand polydactyly"	0.0	0.0	1.0
 "Intrauterine growth retardation"	0.0	0.0	1.0

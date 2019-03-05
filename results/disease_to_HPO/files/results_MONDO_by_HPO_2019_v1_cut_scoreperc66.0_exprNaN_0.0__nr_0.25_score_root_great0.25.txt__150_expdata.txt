@@ -1,4 +1,4 @@
-	"IGAN1"	"esophageal atresia/tracheoesophageal fistula"	"glycogen storage disease II"	"cerebral cavernous malformation 2"	"autoimmune disease, susceptibility to, 1"
+	"autosomal dominant progressive nephropathy with hypertension"	"HELLP syndrome"	"glycogen storage disease IC"	"focal segmental glomerulosclerosis 1"	"focal segmental glomerulosclerosis 3, susceptibility to"
 "HP:0000006"	1.0	1.0	0.0	1.0	0.0
 "Hypertension"	1.0	1.0	1.0	1.0	1.0
 "Renal insufficiency"	1.0	0.0	1.0	0.0	1.0

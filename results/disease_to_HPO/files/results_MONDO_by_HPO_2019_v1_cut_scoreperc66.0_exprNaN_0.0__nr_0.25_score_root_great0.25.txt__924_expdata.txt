@@ -1,4 +1,4 @@
-	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"retinitis pigmentosa"	"lung agenesis-heart defect-thumb anomalies syndrome"	"deaf blind hypopigmentation syndrome, Yemenite type"
+	"hemosiderosis, pulmonary, with deficiency of gamma-a globulin"	"retinal telangiectasia and hypogammaglobulinemia"	"spastic paraplegia and Evans syndrome"	"T-cell immunodeficiency, congenital alopecia, and nail dystrophy"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Ridged nail"	0.0	0.0	0.0	1.0
 "Nail pits"	0.0	0.0	0.0	1.0

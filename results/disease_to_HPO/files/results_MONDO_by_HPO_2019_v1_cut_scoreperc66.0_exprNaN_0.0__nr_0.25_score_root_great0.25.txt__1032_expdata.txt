@@ -1,4 +1,4 @@
-	"genochondromatosis"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"subacute sclerosing panencephalitis"	"myelodysplasia, immunodeficiency, facial dysmorphism, short stature, and psychomotor delay"	"ventriculomegaly with defects of the radius and kidney"	"autosomal recessive nonsyndromic deafness 65"	"dilated cardiomyopathy 1R"
+	"gastric mucosal hypertrophy"	"beta-ketothiolase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"pancreatic insufficiency, combined exocrine"	"Martinez-Frias syndrome"	"medium chain 3-ketoacyl-Coa thiolase deficiency"	"EOE1"	"EOE2"
 "Failure to thrive"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
 "Eosinophilia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
 "Vomiting"	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0

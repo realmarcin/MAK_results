@@ -1,4 +1,4 @@
-	"microcolon (disease)"	"xanthinuria type II"	"hemolytic anemia due to adenylate kinase deficiency"	"Heimler syndrome 2"	"immunoskeletal dysplasia with neurodevelopmental abnormalities"	"retinitis pigmentosa 79"
+	"Galloway-Mowat syndrome 1"	"SLC35A1-CDG"	"chromosome 15q26-qter deletion syndrome"	"ring chromosome 14"	"brachycephaly, trichomegaly, and developmental delay"	"intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Flat occiput"	1.0	1.0	1.0	1.0	1.0	1.0
 "Death in infancy"	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"glucose-galactose malabsorption"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"fumaric aciduria"	"chromosome 22q13 duplication syndrome"
 "Polycythemia"	0.0	0.0	1.0	0.0
 "Pallor"	0.0	0.0	1.0	0.0
 "Relative macrocephaly"	0.0	0.0	1.0	0.0

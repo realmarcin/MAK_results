@@ -1,4 +1,4 @@
-	"autosomal dominant Alport syndrome"	"central core myopathy"	"cyclic hematopoiesis"	"hereditary sclerosing poikiloderma, Weary type"	"congenital secretory chloride diarrhea 1"	"conotruncal heart malformations"	"peripheral neuropathy, ataxia, focal necrotizing encephalopathy, and spongy degeneration of brain"
+	"alopecia-epilepsy-pyorrhea-intellectual disability syndrome"	"leukocyte adhesion deficiency 1"	"neutropenia, chronic familial"	"Kindler syndrome"	"Chediak-Higashi syndrome"	"hypoplasminogenemia"	"periodontitis, chronic, adult"
 "Periodontitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Gingivitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Recurrent gram-negative bacterial infections"	0.0	1.0	0.0	0.0	0.0	0.0	0.0

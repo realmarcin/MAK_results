@@ -1,4 +1,4 @@
-	"microcytic anemia with liver iron overload"	"autosomal recessive osteopetrosis 5"	"idiopathic juvenile osteoporosis"	"hypotrichosis 5"	"dilated cardiomyopathy 1JJ"	"16p13.2 microdeletion syndrome"
+	"pyridoxine-responsive sideroblastic anemia"	"autosomal recessive osteopetrosis 2"	"autosomal recessive osteopetrosis 3"	"leukocyte adhesion deficiency 3"	"severe congenital hypochromic anemia with ringed sideroblasts"	"sideroblastic anemia 3"
 "Diaphyseal sclerosis"	0.0	1.0	1.0	0.0	0.0	0.0
 "Hepatosplenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Osteopetrosis"	0.0	1.0	1.0	1.0	0.0	0.0

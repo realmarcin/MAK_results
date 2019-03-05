@@ -1,4 +1,4 @@
-	"anonychia with flexural pigmentation"	"IgAD1"	"Pelger-Huet anomaly"	"thoracolaryngopelvic dysplasia"	"horizontal gaze palsy with progressive scoliosis"
+	"congenital total pulmonary venous return anomaly"	"gamma-A-globulin, defect 1N assembly of"	"pectus excavatum (disease)"	"thoracic dysostosis, isolated"	"osteofibrous dysplasia"
 "Pectus excavatum"	0.0	0.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Recurrent respiratory infections"	1.0	1.0	0.0	1.0	0.0

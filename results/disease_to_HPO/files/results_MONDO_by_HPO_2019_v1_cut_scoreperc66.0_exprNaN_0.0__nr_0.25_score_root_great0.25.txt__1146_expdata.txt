@@ -1,4 +1,4 @@
-	"Jervell and Lange-Nielsen syndrome 1"	"pelviscapular dysplasia"	"colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome"	"Cardioneuromyopathy with hyaline masses and nemaline rods"	"2-methylbutyryl-CoA dehydrogenase deficiency"
+	"deafness, congenital, and familial myoclonic epilepsy"	"pellagra-like syndrome"	"neuronal ceroid lipofuscinosis 6"	"PSMNSB"	"neuronal ceroid lipofuscinosis 8 northern epilepsy variant"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0
 "Global developmental delay"	0.0	1.0	0.0	0.0	0.0
 "Ataxia"	0.0	1.0	0.0	0.0	0.0

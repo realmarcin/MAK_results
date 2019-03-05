@@ -1,4 +1,4 @@
-	"myopathy with giant abnormal mitochondria"	"maturity-onset diabetes of the young type 7"	"retinitis pigmentosa 37"	"Perrault syndrome 2"	"BENTA disease"	"spinocerebellar ataxia type 42"	"autosomal recessive limb-girdle muscular dystrophy type 2X"
+	"hereditary myopathy with lactic acidosis due to ISCU deficiency"	"fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3"	"acyl-CoA dehydrogenase 9 deficiency"	"leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome"	"hereditary spastic paraplegia 74"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"	"combined oxidative phosphorylation deficiency 29; COXPD29"
 "Acute necrotizing encephalopathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormal mitochondria in muscle tissue"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Decreased activity of mitochondrial complex I"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

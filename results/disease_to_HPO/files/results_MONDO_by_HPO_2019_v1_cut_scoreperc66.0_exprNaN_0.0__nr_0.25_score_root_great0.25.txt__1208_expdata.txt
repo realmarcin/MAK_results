@@ -1,4 +1,4 @@
-	"ornithine translocase deficiency"	"polycystic kidney disease 4"	"orofacial cleft 10"	"Charcot-Marie-Tooth disease, dominant intermediate G"
+	"hyperopia, high"	"polycystic kidney, cataract, and congenital blindness"	"isolated microphthalmia 7"	"Leber congenital amaurosis with early-onset deafness"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Cataract"	0.0	1.0	0.0	0.0
 "HP:0000113"	0.0	1.0	0.0	0.0

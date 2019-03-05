@@ -1,4 +1,4 @@
-	"acute promyelocytic leukemia"	"hyperuricemic nephropathy, familial juvenile type 3"	"hypogonadotropic hypogonadism 10 with or without anosmia"	"congenital myasthenic syndrome 17"	"orofacial cleft 15"
+	"hypogonadotropic hypogonadism 5 with or without anosmia"	"holoprosencephaly 11"	"hypogonadotropic hypogonadism 9 with or without anosmia"	"short-rib thoracic dysplasia 13 with or without polydactyly"	"Joubert syndrome 26"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0
 "Microretrognathia"	0.0	0.0	0.0	1.0	0.0
 "Cleft lip"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"congenitally short costocoracoid ligament"	"Aagenaes syndrome"	"fucosidosis"	"Brooke-Spiegler syndrome"	"Majeed syndrome"
+	"Cornelia de Lange syndrome 1"	"CHARGE syndrome"	"Fryns syndrome"	"Bohring-Opitz syndrome"	"distal 10q deletion syndrome"
 "Cryptorchidism"	1.0	1.0	1.0	0.0	1.0
 "Atrial septal defect"	0.0	1.0	1.0	1.0	1.0
 "Small nail"	0.0	0.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease axonal type 2H"	"hypertrichosis, hyperkeratosis, mental retardation, and distinctive facial features"	"Kostmann syndrome"	"autosomal recessive nonsyndromic deafness 63"	"LEOPARD syndrome 2"	"glycogen storage disease due to muscle and heart glycogen synthase deficiency"	"factor XIII, A subunit, deficiency of"	"LEOPARD syndrome 3"	"neuropathy, hereditary sensory, type 1D"	"autosomal recessive limb-girdle muscular dystrophy type 2S"	"retinitis pigmentosa 74"	"spondylocostal dysostosis 6, autosomal recessive"
+	"Noonan syndrome-like disorder with loose anagen hair 1"	"Noonan syndrome 3"	"Noonan syndrome 4"	"Legius syndrome"	"Noonan syndrome 5"	"LEOPARD syndrome 2"	"Noonan syndrome 6"	"Noonan syndrome 7"	"LEOPARD syndrome 3"	"Noonan syndrome 8"	"Noonan syndrome 9"	"Noonan syndrome 10"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Webbed neck"	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Asymmetry of the thorax"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

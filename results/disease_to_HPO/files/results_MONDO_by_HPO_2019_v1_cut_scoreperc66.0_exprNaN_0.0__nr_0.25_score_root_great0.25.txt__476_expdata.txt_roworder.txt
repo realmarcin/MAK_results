@@ -1,4 +1,4 @@
 "x"
-"1" "lethal.congenital.contracture.syndrome.1"
-"2" "long.QT.syndrome.15"
-"3" "periventricular.nodular.heterotopia.7..PVNH7"
+"1" "Werdnig.Hoffmann.disease"
+"2" "lethal.congenital.contracture.syndrome.6"
+"3" "lethal.congenital.contracture.syndrome.11..LCCS11"

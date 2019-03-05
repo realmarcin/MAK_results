@@ -1,4 +1,4 @@
 "x"
-"1" "fetal.valproate.syndrome"
-"2" "familial.papillary.thyroid.carcinoma.with.renal.papillary.neoplasia"
-"3" "hypokalemic.periodic.paralysis..type.2"
+"1" "spondyloenchondrodysplasia"
+"2" "cloverleaf.skull.multiple.congenital.anomalies.syndrome"
+"3" "brachydactylous.dwarfism..Mseleni.type"

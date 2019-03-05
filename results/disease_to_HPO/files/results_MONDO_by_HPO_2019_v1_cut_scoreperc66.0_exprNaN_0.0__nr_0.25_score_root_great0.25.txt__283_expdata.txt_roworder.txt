@@ -1,4 +1,4 @@
 "x"
-"1" "chylous.ascites"
-"2" "spondyloepiphyseal.dysplasia.tarda..Kohn.type"
-"3" "brachydactyly.type.A2"
+"1" "camptodactyly.arthropathy.coxa.vara.pericarditis.syndrome"
+"2" "spondyloepiphyseal.dysplasia.tarda..autosomal.recessive"
+"3" "brachydactyly.type.A1A"

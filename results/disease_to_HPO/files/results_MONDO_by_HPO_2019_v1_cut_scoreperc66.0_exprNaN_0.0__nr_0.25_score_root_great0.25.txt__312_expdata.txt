@@ -1,4 +1,4 @@
-	"ADan amyloidosis"	"Goldenhar syndrome"	"Usher syndrome type 1"	"dyskinesia, limb and orofacial, infantile-onset; IOLOD"
+	"spinocerebellar ataxia type 31"	"oculodentodigital dysplasia"	"urocanic aciduria (disease)"	"heart and brain malformation syndrome; HBMS"
 "Microphthalmia"	0.0	1.0	0.0	1.0
 "Ventricular septal defect"	0.0	1.0	0.0	1.0
 "Ataxia"	1.0	1.0	1.0	0.0

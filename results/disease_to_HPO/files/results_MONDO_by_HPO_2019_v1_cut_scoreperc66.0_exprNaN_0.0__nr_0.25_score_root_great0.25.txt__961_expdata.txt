@@ -1,4 +1,4 @@
-	"leishmaniasis, tegumentary, susceptibility to"	"gracile syndrome"	"intellectual disability, autosomal dominant 4"	"cataract 36"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
+	"infantile convulsions and choreoathetosis"	"cerebral cavernous malformation 3"	"intellectual disability, autosomal dominant 3"	"obesity, hyperphagia, and developmental delay"	"encephalopathy, acute, infection-induced (herpes-specific), susceptibility to, 8"	"microcephaly 22, primary, autosomal recessive"
 "HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0
 "Seizures"	0.0	1.0	1.0	1.0	1.0	1.0
 "Facial asymmetry"	0.0	0.0	0.0	1.0	0.0	0.0

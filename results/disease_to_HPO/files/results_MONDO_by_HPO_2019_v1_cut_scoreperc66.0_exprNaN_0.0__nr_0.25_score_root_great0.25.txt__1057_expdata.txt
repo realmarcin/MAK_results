@@ -1,4 +1,4 @@
-	"spermatogenic failure 6"	"deafness, X-linked 1"	"Joubert syndrome 8"	"dilated cardiomyopathy 2B"
+	"acrorenal syndrome"	"X-linked mixed deafness with perilymphatic gusher"	"bilateral microtia-deafness-cleft palate syndrome"	"auriculocondylar syndrome 2"
 "Cleft palate"	1.0	0.0	1.0	1.0
 "Micrognathia"	1.0	0.0	0.0	0.0
 "Abnormal renal morphology"	1.0	0.0	0.0	0.0

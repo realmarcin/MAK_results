@@ -1,4 +1,4 @@
-	"ornithine translocase deficiency"	"orofacial cleft 10"	"Chitayat syndrome; CHYTS"	"Charcot-Marie-Tooth disease, dominant intermediate G"
+	"hyperopia, high"	"isolated microphthalmia 7"	"retinal dystrophy with or without extraocular anomalies; RDEOA"	"Leber congenital amaurosis with early-onset deafness"
 "HP:0000007"	0.0	0.0	1.0	0.0
 "Reduced visual acuity"	0.0	0.0	1.0	1.0
 "Secondary amenorrhea"	0.0	0.0	1.0	0.0

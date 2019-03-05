@@ -1,4 +1,4 @@
 "x"
-"1" "young.syndrome"
-"2" "sickle.cell.anemia"
-"3" "cerebral.palsy..spastic.quadriplegic..2"
+"1" "xylosidase.deficiency"
+"2" "leukoencephalopathy.with.vanishing.white.matter"
+"3" "premature.ovarian.failure.10"

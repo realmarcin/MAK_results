@@ -1,4 +1,4 @@
-	"acropectorovertebral dysplasia"	"macrosomia adiposa congenita"	"intellectual disability, Buenos-Aires type"	"mandibulofacial dysostosis-macroblepharon-macrostomia syndrome"	"autosomal recessive nonsyndromic deafness 37"	"Leber congenital amaurosis 9"
+	"acroosteolysis dominant type"	"macroepiphyseal dysplasia with osteoporosis, wrinkled skin, and aged appearance"	"blepharophimosis - intellectual disability syndrome, Ohdo type"	"spondyloepimetaphyseal dysplasia, Shohat type"	"craniolenticulosutural dysplasia"	"Larsen-like osseous dysplasia-short stature syndrome"
 "Joint laxity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Decreased muscle mass"	0.0	1.0	0.0	0.0	0.0	0.0
 "Coarse hair"	1.0	1.0	0.0	0.0	1.0	0.0

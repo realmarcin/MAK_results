@@ -1,4 +1,4 @@
-	"dens evaginatus"	"autosomal dominant optic atrophy, classic form"	"optic atrophy with negative Electroretinograms"	"humerus trochlea aplasia"	"brachydactyly-syndactyly syndrome"	"Meckel syndrome, type 4"
+	"optic atrophy with or without deafness, ophthalmoplegia, myopathy, ataxia, and neuropathy"	"autosomal dominant optic atrophy and cataract"	"autosomal dominant optic atrophy, classic form"	"blue color blindness"	"OPA5"	"retinitis pigmentosa 37"
 "Tritanomaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Centrocecal scotoma"	1.0	0.0	1.0	0.0	0.0	0.0
 "Red-green dyschromatopsia"	1.0	1.0	1.0	0.0	0.0	1.0

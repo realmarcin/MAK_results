@@ -1,4 +1,4 @@
-	"Ebstein anomaly"	"hypertelorism and tetralogy of fallot"	"Krabbe disease"	"nemaline myopathy 7"	"spermatogenic failure 17; SPGF17"
+	"Meier-Gorlin syndrome 1"	"hypertelorism-hypospadias-polysyndactyly syndrome"	"lethal Kniest-like dysplasia"	"osteogenesis imperfecta type 7"	"isolated sedoheptulokinase deficiency"
 "Shawl scrotum"	1.0	1.0	0.0	0.0	0.0
 "Large fontanelles"	0.0	1.0	0.0	0.0	1.0
 "Delayed cranial suture closure"	0.0	1.0	0.0	1.0	0.0

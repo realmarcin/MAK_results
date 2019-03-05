@@ -1,4 +1,4 @@
-	"Greenberg dysplasia"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"Joubert syndrome with orofaciodigital defect"	"OPA5"	"intellectual disability, autosomal recessive 42"	"Stevens-Johnson syndrome"
+	"rhizomelic chondrodysplasia punctata type 1"	"rhizomelic chondrodysplasia punctata type 2"	"van Bogaert-Hozay syndrome"	"deafness with labyrinthine aplasia, microtia, and microdontia"	"short stature with microcephaly and distinctive facies"	"Weissenbacher-Zweymuller syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
 "Micrognathia"	1.0	1.0	1.0	1.0	0.0	1.0
 "Depressed nasal bridge"	1.0	1.0	1.0	0.0	1.0	1.0

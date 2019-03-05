@@ -1,4 +1,4 @@
-	"arteritis, familial granulomatous, with juvenile polyarthritis"	"knuckle pads"	"delayed membranous cranial ossification"	"2q37 microdeletion syndrome"	"Parkes Weber syndrome"	"myopathy, myosin storage, autosomal dominant"
+	"arteriovenous malformations of the brain"	"angioosteohypertrophic syndrome"	"melorheostosis"	"angiokeratoma corporis diffusum with arteriovenous fistulas"	"capillary malformation-arteriovenous malformation syndrome"	"Parkes Weber syndrome"
 "Arteriovenous fistula"	0.0	1.0	0.0	1.0	1.0	1.0
 "Lymphangioma"	0.0	1.0	0.0	0.0	0.0	0.0
 "Peripheral arteriovenous fistula"	1.0	1.0	1.0	0.0	0.0	1.0

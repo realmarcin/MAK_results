@@ -1,4 +1,4 @@
-	"brachydactyly-preaxial hallux varus syndrome"	"hypotrichosis 2"	"hereditary thrombocytopenia with normal platelets-hematological cancer predisposition syndrome"	"Prader-Willi syndrome due to point mutation"
+	"Ballard syndrome"	"Pallister-hall syndrome"	"van Maldergem syndrome 1"	"van Maldergem syndrome 2"
 "Microtia"	0.0	1.0	1.0	1.0
 "Hypospadias"	0.0	1.0	1.0	1.0
 "Skeletal dysplasia"	0.0	1.0	1.0	1.0

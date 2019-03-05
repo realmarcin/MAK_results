@@ -1,4 +1,4 @@
-	"Cole-Carpenter syndrome 1"	"Kasabach-Merritt syndrome"	"X-linked myopathy with excessive autophagy"
+	"blue rubber bleb nevus"	"hemangiomas of small intestine"	"X-linked centronuclear myopathy"
 "External ophthalmoplegia"	0.0	0.0	1.0
 "Cavernous hemangioma"	1.0	1.0	1.0
 "Neonatal respiratory distress"	0.0	0.0	1.0

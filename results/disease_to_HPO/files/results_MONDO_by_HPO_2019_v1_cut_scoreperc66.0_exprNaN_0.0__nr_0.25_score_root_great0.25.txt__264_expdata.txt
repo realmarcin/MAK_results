@@ -1,4 +1,4 @@
-	"orofaciodigital syndrome V"	"polysyndactyly"	"triphalangeal thumb, Nonopposable"	"Say-field-Coldwell syndrome"
+	"polydactyly, postaxial, type A1"	"polydactyly of an index finger"	"triphalangeal thumb with double phalanges"	"triphalangeal thumb, Nonopposable"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Triphalangeal thumb"	1.0	1.0	1.0	1.0
 "Polydactyly"	0.0	0.0	0.0	1.0

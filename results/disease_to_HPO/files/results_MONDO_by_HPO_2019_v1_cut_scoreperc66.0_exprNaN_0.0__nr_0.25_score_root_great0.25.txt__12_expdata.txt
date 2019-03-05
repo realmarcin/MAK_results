@@ -1,4 +1,4 @@
-	"neuronal intestinal pseudoobstruction"	"BCYM1A"	"DDX41-related hematologic malignancy predisposition syndrome"
+	"multiple intestinal atresia"	"spondylocostal dysostosis-anal and genitourinary malformations syndrome"	"congenital secretory sodium diarrhea 8"
 "HP:0000007"	1.0	1.0	1.0
 "Intrauterine growth retardation"	1.0	1.0	0.0
 "Abdominal distention"	1.0	1.0	1.0

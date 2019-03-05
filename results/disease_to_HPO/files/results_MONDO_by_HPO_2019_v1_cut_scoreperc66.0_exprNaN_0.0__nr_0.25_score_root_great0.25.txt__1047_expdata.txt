@@ -1,4 +1,4 @@
-	"otospondylomegaepiphyseal dysplasia, autosomal recessive"	"dwarfism, proportionate, with hip dislocation"	"peroxisome biogenesis disorder 1B"	"homozygous 11P15-p14 deletion syndrome"	"spinocerebellar ataxia type 32"	"intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome"
+	"Greenberg dysplasia"	"dwarfism, mental retardation, and eye abnormality"	"Athabaskan brainstem dysgenesis syndrome"	"PHACE syndrome"	"spinocerebellar ataxia type 35"	"microcephaly-corpus callosum hypoplasia-intellectual disability-facial dysmorphism syndrome"
 "Abnormality of the orbital region"	1.0	1.0	0.0	1.0	1.0	1.0
 "Abnormal cerebral artery morphology"	0.0	0.0	1.0	1.0	0.0	0.0
 "Anomalous branches of internal carotid artery"	0.0	0.0	0.0	1.0	0.0	0.0

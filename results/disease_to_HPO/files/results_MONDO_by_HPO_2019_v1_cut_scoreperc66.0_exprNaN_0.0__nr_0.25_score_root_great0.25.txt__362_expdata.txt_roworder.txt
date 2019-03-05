@@ -1,4 +1,4 @@
 "x"
-"1" "retinitis.pigmentosa.46"
-"2" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.A2"
-"3" "congenital.enteropathy.due.to.enteropeptidase.deficiency"
+"1" "inflammatory.bowel.disease.25"
+"2" "inflammatory.bowel.disease.28"
+"3" "enterocolitis..disease."

@@ -1,4 +1,4 @@
-	"congenital macroglossia"	"salivary duct calculi"	"Beemer-Ertbruggen syndrome"	"Chuvash polycythemia"	"microcephaly 5, primary, autosomal recessive"	"complex cortical dysplasia with other brain malformations 1"
+	"Waldenstrom macroglobulinemia"	"sarcoidosis, susceptibility to, 1"	"immunodeficiency 27A"	"acquired polycythemia vera"	"granulomatosis with polyangiitis"	"deafness-lymphedema-leukemia syndrome"
 "Pallor"	1.0	0.0	0.0	0.0	0.0	1.0
 "Myelodysplasia"	0.0	0.0	0.0	1.0	0.0	1.0
 "Fever"	1.0	1.0	1.0	0.0	1.0	1.0

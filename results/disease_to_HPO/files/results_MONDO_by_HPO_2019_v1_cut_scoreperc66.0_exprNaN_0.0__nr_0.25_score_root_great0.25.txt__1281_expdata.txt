@@ -1,4 +1,4 @@
-	"cochleosaccular degeneration-cataract syndrome"	"Blount disease, infantile"	"woolly hair (disease)"	"glutaryl-CoA dehydrogenase deficiency"	"X-linked intellectual disability-psychosis-macroorchidism syndrome"	"autosomal dominant nonsyndromic deafness 9"	"Pseudopili annulati"	"eculizumab, poor response to"
+	"aorta coarctation"	"thyrotoxic periodic paralysis, susceptibility to, 1"	"Wolff-Parkinson-white syndrome (disease)"	"monosodium glutamate sensitivity"	"heterotopia, periventricular, X-linked dominant"	"susceptibility to ischemic stroke"	"thyrotoxic periodic paralysis, susceptibility to, 2"	"atrial standstill 2"
 "HP:0000006"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Stroke"	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
 "Shortened PR interval"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

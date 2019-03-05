@@ -1,4 +1,4 @@
-	"autosomal dominant centronuclear myopathy"	"X-linked spondyloepimetaphyseal dysplasia"	"contractures-ectodermal dysplasia-cleft lip/palate syndrome"	"palmoplantar keratoderma, Bothnian type"	"MYP3"	"hyperbiliverdinemia"
+	"episodic ataxia type 1"	"X-linked cerebral adrenoleukodystrophy"	"X-linked spinocerebellar ataxia type 3"	"spinocerebellar ataxia type 5"	"Huntington disease-like 1"	"spinocerebellar ataxia type 36"
 "Clumsiness"	1.0	0.0	0.0	0.0	1.0	0.0
 "Slow saccadic eye movements"	0.0	0.0	0.0	0.0	1.0	1.0
 "Intention tremor"	0.0	0.0	1.0	1.0	0.0	1.0

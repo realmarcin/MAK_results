@@ -1,4 +1,4 @@
-	"scalp-ear-nipple syndrome"	"Dohle bodies and leukemia"	"occipital horn syndrome"	"glaucoma type 1C"	"familial scaphocephaly syndrome, McGillivray type"	"familial cold autoinflammatory syndrome 3"
+	"scalp defects-postaxial polydactyly syndrome"	"von Voss-Cherstvoy syndrome"	"otopalatodigital syndrome type 2"	"Sheldon-hall syndrome"	"PFM3"	"Joubert syndrome 16"
 "Downslanted palpebral fissures"	0.0	0.0	1.0	1.0	0.0	0.0
 "Encephalocele"	1.0	1.0	1.0	0.0	1.0	1.0
 "Micrognathia"	0.0	0.0	1.0	1.0	0.0	0.0

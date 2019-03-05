@@ -1,4 +1,4 @@
-	"familial amyloid neuropathy"	"ovarian cancer"	"esophageal atresia/tracheoesophageal fistula"	"absence deformity of leg-cataract syndrome"	"Wiedemann-Steiner syndrome"
+	"familial visceral amyloidosis"	"osteochondrodysplasia, rhizomelic, with callosal agenesis, thrombocytopenia, hydrocephalus, and hypertension"	"HELLP syndrome"	"Norum disease"	"pseudohyperaldosteronism type 2"
 "HP:0000006"	1.0	1.0	1.0	0.0	1.0
 "Hypertension"	1.0	1.0	1.0	0.0	1.0
 "Intrauterine growth retardation"	0.0	0.0	1.0	0.0	0.0

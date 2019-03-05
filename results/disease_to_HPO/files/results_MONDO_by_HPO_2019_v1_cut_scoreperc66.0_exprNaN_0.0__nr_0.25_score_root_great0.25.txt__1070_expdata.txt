@@ -1,4 +1,4 @@
-	"progressive familial heart block type II"	"microcytic anemia with liver iron overload"	"cystic disease of lung"	"Usher syndrome type 1"	"microphthalmia, isolated, with coloboma 3"
+	"hawkinsinuria"	"pyridoxine-responsive sideroblastic anemia"	"cysteine Peptiduria"	"urocanic aciduria (disease)"	"pyridoxal phosphate-responsive seizures"
 "HP:0010895"	0.0	0.0	1.0	0.0	1.0
 "HP:0010918"	0.0	0.0	1.0	0.0	0.0
 "Urocanic aciduria"	0.0	0.0	0.0	1.0	0.0

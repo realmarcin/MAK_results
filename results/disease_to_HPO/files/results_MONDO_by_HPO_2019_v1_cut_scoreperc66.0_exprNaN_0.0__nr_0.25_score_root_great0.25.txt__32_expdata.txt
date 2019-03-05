@@ -1,4 +1,4 @@
-	"Cushing disease due to pituitary adenoma"	"cutaneous photosensitivity-lethal colitis syndrome"	"arrhythmogenic right ventricular dysplasia 11"	"combined oxidative phosphorylation defect type 2"
+	"Cushing syndrome due to macronodular adrenal hyperplasia"	"Cushing disease due to pituitary adenoma"	"pigmented nodular adrenocortical disease, primary, 2"	"pigmented nodular adrenocortical disease, primary, 1"
 "Hypertension"	1.0	1.0	1.0	1.0
 "Osteoporosis"	1.0	1.0	1.0	1.0
 "Depressivity"	1.0	1.0	1.0	1.0

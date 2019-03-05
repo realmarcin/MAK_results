@@ -1,4 +1,4 @@
-	"hairy ears"	"Brunner syndrome"	"Charcot-Marie-Tooth peroneal muscular atrophy and Friedreich ataxia, combined"	"endometrial cancer"
+	"chronic inflammatory demyelinating polyneuropathy"	"X-linked hereditary sensory and autonomic neuropathy with deafness"	"Charcot-Marie-Tooth peroneal muscular atrophy, X-linked, with aplasia cutis congenita"	"hereditary sensory and autonomic neuropathy type 1B"
 "Tinnitus"	0.0	1.0	0.0	0.0
 "Hearing impairment"	0.0	1.0	0.0	0.0
 "Alacrima"	0.0	0.0	0.0	1.0

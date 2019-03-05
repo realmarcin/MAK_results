@@ -1,4 +1,4 @@
-	"SPGF2"	"mastocytosis"	"generalized basaloid follicular hamartoma syndrome"	"chromosome 1q21.1 deletion syndrome"	"CLAPO syndrome"
+	"Stickler syndrome type 1"	"Marshall syndrome"	"spondylo-ocular syndrome"	"pseudopseudohypoparathyroidism"	"spondyloepiphyseal dysplasia, Nishimura type"
 "Microphthalmia"	0.0	0.0	1.0	0.0	1.0
 "Nystagmus"	0.0	1.0	1.0	1.0	0.0
 "Cataract"	1.0	1.0	1.0	1.0	1.0

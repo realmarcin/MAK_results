@@ -1,4 +1,4 @@
-	"van der Woude syndrome 1"	"fibula, recurrent dislocation of head of"	"Kaposi sarcoma, susceptibility to"	"benign paroxysmal tonic upgaze of childhood with ataxia"	"red cell permeability defect"	"exercise intolerance, riboflavin-responsive"
+	"SHFLD1"	"laurin-Sandrow syndrome"	"hypogonadotropic hypogonadism 2 with or without anosmia"	"patella aplasia/hypoplasia"	"recombinant 8 syndrome"	"Meier-Gorlin syndrome 6"
 "Cryptorchidism"	0.0	1.0	1.0	0.0	1.0	1.0
 "Cleft palate"	0.0	0.0	1.0	0.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0

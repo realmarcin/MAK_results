@@ -1,4 +1,4 @@
-	"MNG2"	"osteopathia striata with cranial sclerosis"	"SSR4-CDG"	"intellectual disability, X-linked 105; MRX105"	"thrombocytopenia with elevated serum IgA and renal disease"
+	"intellectual disability, X-linked 72"	"thrombocytopenia, X-linked, with or without dyserythropoietic anemia"	"intellectual disability, X-linked 101"	"intellectual disability, X-linked 104; MRX104"	"X-linked thrombocytopenia with normal platelets"
 "Intellectual disability"	1.0	0.0	1.0	1.0	0.0
 "Seizures"	1.0	0.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	0.0

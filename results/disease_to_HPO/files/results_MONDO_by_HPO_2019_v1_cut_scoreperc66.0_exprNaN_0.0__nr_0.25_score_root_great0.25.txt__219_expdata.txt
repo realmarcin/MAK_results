@@ -1,4 +1,4 @@
-	"eyebrow duplication-syndactyly syndrome"	"myopathy, myosin storage, autosomal recessive"	"anauxetic dysplasia 1"	"Stickler syndrome, type I, nonsyndromic ocular"	"PSMNSW"	"triosephosphate isomerase deficiency"
+	"Ethanolaminosis"	"myopathy with giant abnormal mitochondria"	"B4GALT1-CDG"	"myopathy, autophagic vacuolar, infantile-onset"	"ACACAD"	"myopathy due to myoadenylate deaminase deficiency"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	0.0	1.0	1.0	0.0	0.0	0.0
 "Global developmental delay"	0.0	0.0	1.0	1.0	0.0	0.0

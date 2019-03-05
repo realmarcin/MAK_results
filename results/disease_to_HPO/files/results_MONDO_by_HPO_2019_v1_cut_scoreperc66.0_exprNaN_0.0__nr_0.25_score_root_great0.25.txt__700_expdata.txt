@@ -1,4 +1,4 @@
-	"familial ossifying fibroma"	"median nodule of the upper lip"	"microcephaly and chorioretinopathy 1"	"cataract 24"	"MMVP3"	"hyperphosphatasia with intellectual disability syndrome 6; HPMRS6"
+	"large congenital melanocytic nevus"	"Li-Fraumeni syndrome 1"	"Nijmegen breakage syndrome"	"pleuropulmonary blastoma"	"Fanconi anemia complementation group N"	"Wilms tumor 6; WT6"
 "HP:0000006"	1.0	1.0	0.0	1.0	0.0	0.0
 "Cafe-au-lait spot"	0.0	0.0	1.0	0.0	1.0	0.0
 "Deep philtrum"	1.0	0.0	1.0	0.0	0.0	0.0

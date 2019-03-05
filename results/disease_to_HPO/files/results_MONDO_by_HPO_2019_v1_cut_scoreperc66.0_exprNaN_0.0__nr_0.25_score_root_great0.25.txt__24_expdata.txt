@@ -1,4 +1,4 @@
-	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"ALG12-CDG"	"autosomal recessive nonsyndromic deafness 33"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"
+	"Lesch-Nyhan syndrome"	"spinocerebellar ataxia type 17"	"hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
 "Dystonia"	1.0	1.0	1.0	1.0
 "Spasticity"	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0

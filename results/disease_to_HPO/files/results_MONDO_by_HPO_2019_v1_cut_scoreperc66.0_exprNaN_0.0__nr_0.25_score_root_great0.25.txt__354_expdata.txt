@@ -1,4 +1,4 @@
-	"macular corneal dystrophy"	"Melnick-Needles syndrome"	"polyposis syndrome, hereditary mixed, 2"
+	"congenital hereditary endothelial dystrophy of cornea"	"isolated congenital megalocornea"	"congenital stromal corneal dystrophy"
 "Congenital corneal dystrophy"	1.0	0.0	1.0
 "Mosaic corneal dystrophy"	0.0	1.0	0.0
 "Increased corneal thickness"	0.0	1.0	1.0

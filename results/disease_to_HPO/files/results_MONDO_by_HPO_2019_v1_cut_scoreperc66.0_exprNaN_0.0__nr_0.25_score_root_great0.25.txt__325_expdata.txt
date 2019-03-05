@@ -1,4 +1,4 @@
-	"Boomerang dysplasia"	"inherited torticollis (disease)"	"otospondylomegaepiphyseal dysplasia, autosomal recessive"	"myofibromatosis, infantile, 1"	"fucosidosis"	"ophthalmoplegia totalis with ptosis and miosis"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"
+	"Book syndrome"	"tooth and nail syndrome"	"Greenberg dysplasia"	"fibrochondrogenesis 1"	"Fryns syndrome"	"Onychotrichodysplasia and neutropenia"	"Hirschsprung disease-type D brachydactyly syndrome"
 "Intestinal malrotation"	0.0	0.0	1.0	0.0	1.0	0.0	0.0
 "Stillbirth"	0.0	0.0	1.0	1.0	1.0	0.0	0.0
 "Hypoplastic fingernail"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

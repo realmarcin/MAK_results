@@ -1,4 +1,4 @@
-	"odontotrichomelic syndrome"	"autosomal recessive distal spinal muscular atrophy 2"	"neuronal ceroid lipofuscinosis 9"	"MMVP3"	"hereditary spherocytosis type 4"
+	"tetraamelia syndrome 1"	"Fanconi anemia complementation group D1"	"Fanconi anemia complementation group j"	"Fanconi anemia complementation group N"	"endocrine-cerebro-osteodysplasia syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	0.0	1.0	0.0
 "Cafe-au-lait spot"	0.0	1.0	0.0	1.0	0.0

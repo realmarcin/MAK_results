@@ -1,4 +1,4 @@
-	"brachydactyly type A2"	"dacryocystitis-osteopoikilosis syndrome"	"syndactyly-polydactyly-ear lobe syndrome"	"aphalangy-syndactyly-microcephaly syndrome"
+	"brachydactyly type A1A"	"Buschke-Ollendorff syndrome"	"syndactyly type 5"	"mesomelia-synostoses syndrome"
 "Cutaneous finger syndactyly"	0.0	1.0	1.0	0.0
 "2-3 toe syndactyly"	0.0	0.0	1.0	0.0
 "Metatarsal synostosis"	0.0	0.0	1.0	1.0

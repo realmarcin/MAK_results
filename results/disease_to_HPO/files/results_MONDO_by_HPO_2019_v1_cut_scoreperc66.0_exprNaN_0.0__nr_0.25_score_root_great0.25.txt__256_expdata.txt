@@ -1,4 +1,4 @@
-	"ankyloglossia"	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"free sialic acid storage disease, infantile form"	"Borjeson-Forssman-Lehmann syndrome"	"glycogen storage disease IXc"	"chromosome 14q11-q22 deletion syndrome"
+	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"Rapp-Hodgkin syndrome"	"SHORT syndrome"	"Bazex-Dupre-Christol syndrome"	"chromosome 19q13.11 deletion syndrome"	"frontonasal dysplasia - severe microphthalmia - severe facial clefting syndrome"
 "Wide nasal bridge"	1.0	0.0	1.0	0.0	1.0	1.0
 "Supernumerary nipple"	1.0	0.0	0.0	0.0	1.0	0.0
 "Hypodontia"	1.0	1.0	1.0	0.0	1.0	0.0

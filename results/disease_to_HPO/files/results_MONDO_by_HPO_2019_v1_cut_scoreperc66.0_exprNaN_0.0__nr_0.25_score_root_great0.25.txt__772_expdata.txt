@@ -1,4 +1,4 @@
-	"laurin-Sandrow syndrome"	"optic atrophy, hearing loss, and peripheral neuropathy, autosomal dominant"	"Caroli disease"	"trimethylaminuria (disease)"
+	"congenital fibrosis of extraocular muscles type 1"	"ophthalmoplegia-intellectual disability-lingua scrotalis syndrome"	"fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement"	"fibrosis of extraocular muscles, congenital, 2"
 "Ptosis"	0.0	1.0	1.0	0.0
 "HP:0000006"	1.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	1.0	1.0	0.0

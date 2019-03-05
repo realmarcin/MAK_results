@@ -1,4 +1,4 @@
 "x"
-"1" "palmoplantar.keratoderma.sclerodactyly.syndrome"
-"2" "autosomal.recessive.nonsyndromic.deafness.26"
-"3" "SCZD1"
+"1" "SCZD1"
+"2" "SCZD10"
+"3" "schizophrenia..disease."

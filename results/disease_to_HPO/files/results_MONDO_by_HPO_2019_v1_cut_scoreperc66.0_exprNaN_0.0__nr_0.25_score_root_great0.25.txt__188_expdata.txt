@@ -1,4 +1,4 @@
-	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 1"	"macrocephaly/megalencephaly syndrome, autosomal recessive"	"progesterone resistance"	"Summitt syndrome"	"androgen insensitivity syndrome"
+	"Edinburgh malformation syndrome"	"prominent glabella-microcephaly-hypogenitalism syndrome"	"dehydratase deficiency"	"isolated sulfite oxidase deficiency"	"lissencephaly type 1 due to doublecortin gene mutation"
 "HP:0001276"	1.0	1.0	1.0	1.0	1.0
 "Transient hyperphenylalaninemia"	0.0	0.0	1.0	0.0	0.0
 "Death in infancy"	1.0	1.0	0.0	1.0	1.0

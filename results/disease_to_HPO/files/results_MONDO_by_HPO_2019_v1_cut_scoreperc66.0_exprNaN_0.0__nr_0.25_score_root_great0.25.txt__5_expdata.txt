@@ -1,4 +1,4 @@
-	"alcohol dependence"	"microcephaly-albinism-digital anomalies syndrome"	"focal segmental glomerulosclerosis 1"	"pseudopseudohypoparathyroidism"
+	"pseudohypoparathyroidism type 1A"	"pseudohypoparathyroidism type 2"	"pseudohypoparathyroidism type 1B"	"pseudohypoparathyroidism type 1C"
 "Elevated circulating parathyroid hormone level"	1.0	1.0	1.0	1.0
 "Paresthesia"	1.0	1.0	1.0	1.0
 "Pseudohypoparathyroidism"	1.0	1.0	1.0	1.0

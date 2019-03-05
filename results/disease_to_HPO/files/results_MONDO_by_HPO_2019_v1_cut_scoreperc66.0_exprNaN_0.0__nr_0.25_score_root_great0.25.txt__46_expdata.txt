@@ -1,4 +1,4 @@
-	"prolactin deficiency, isolated"	"ichthyosis, hystrix-like, with deafness"	"intellectual disability, autosomal dominant 15"	"intellectual disability, autosomal dominant 16"	"acrodysostosis 2 with or without hormone resistance"
+	"Wiedemann-Rautenstrauch syndrome"	"Marshall-Smith syndrome"	"intellectual disability, autosomal dominant 14"	"intellectual disability, autosomal dominant 15"	"intellectual disability, autosomal dominant 16"
 "Anteverted nares"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0

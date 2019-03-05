@@ -1,4 +1,4 @@
-	"Ehlers-Danlos syndrome, classic type"	"Schilbach-Rott syndrome"	"cervical hypertrichosis-peripheral neuropathy syndrome"	"Diamond-Blackfan anemia 8"	"epileptic encephalopathy, early infantile, 47; EIEE47"	"focal facial dermal dysplasia type II"
+	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 1"	"Goldenhar syndrome"	"hypertelorism, microtia, facial clefting syndrome"	"Diamond-Blackfan anemia 7"	"short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay; SRMMD"	"oculoauriculofrontonasal syndrome"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0	1.0
 "Conductive hearing impairment"	1.0	1.0	1.0	0.0	0.0	1.0
 "Microtia"	1.0	1.0	1.0	0.0	0.0	1.0

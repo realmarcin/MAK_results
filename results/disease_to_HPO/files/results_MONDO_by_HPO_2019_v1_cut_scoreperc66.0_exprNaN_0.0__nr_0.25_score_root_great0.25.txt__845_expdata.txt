@@ -1,4 +1,4 @@
-	"electroencephalographic peculiarity: 14 and 6 per sec. positive spike phenomenon"	"familial ossifying fibroma"	"cylindrical spirals myopathy"	"nevus flammeus of nape of neck"	"protoporphyria, erythropoietic"	"autosomal dominant vitreoretinochoroidopathy"
+	"elastosis perforans serpiginosa"	"large congenital melanocytic nevus"	"Carney complex, type 1"	"nevus anemicus (disease)"	"Proteus syndrome"	"vitiligo"
 "Hypertelorism"	0.0	1.0	0.0	0.0	1.0	0.0
 "Seizures"	0.0	1.0	0.0	0.0	1.0	0.0
 "Broad nasal tip"	0.0	1.0	0.0	0.0	0.0	0.0

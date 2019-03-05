@@ -1,4 +1,4 @@
 "x"
-"1" "Charcot.Marie.Tooth.disease.type.1A"
-"2" "Rubinstein.Taybi.syndrome.due.to.CREBBP.mutations"
-"3" "MHC.class.I.deficiency"
+"1" "Charcot.Marie.Tooth.disease.type.2A1"
+"2" "Roussy.Levy.syndrome"
+"3" "Charcot.Marie.Tooth.disease.type.4B2"

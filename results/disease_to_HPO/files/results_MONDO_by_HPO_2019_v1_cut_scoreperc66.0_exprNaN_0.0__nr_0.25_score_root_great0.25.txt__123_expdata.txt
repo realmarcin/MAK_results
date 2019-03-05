@@ -1,4 +1,4 @@
-	"intellectual disability, X-linked 41"	"BRWNS"	"intellectual disability, autosomal dominant 46"
+	"MRX89"	"microcephaly 14, primary, autosomal recessive"	"intellectual disability, autosomal dominant 45"
 "Intellectual disability"	1.0	1.0	1.0
 "Seizures"	0.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0

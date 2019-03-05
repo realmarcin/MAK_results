@@ -1,4 +1,4 @@
-	"Clouston syndrome"	"chorea-acanthocytosis"	"Rosselli-Gulienetti syndrome"	"Martinez-Frias syndrome"	"severe combined immunodeficiency due to CTPS1 deficiency"
+	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"pseudoprogeria syndrome"	"ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive"	"ectodermal dysplasia with natal teeth, Turnpenny type"	"hypotrichosis 13"
 "Acanthosis nigricans"	0.0	0.0	0.0	1.0	0.0
 "Hypodontia"	1.0	0.0	1.0	1.0	0.0
 "Ectodermal dysplasia"	1.0	0.0	0.0	1.0	0.0

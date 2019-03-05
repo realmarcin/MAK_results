@@ -1,4 +1,4 @@
-	"hypotrichosis 2"	"glucocorticoid deficiency 1"	"familial angiolipomatosis"	"orofaciodigital syndrome IX"	"combined oxidative phosphorylation deficiency 35"	"spondyloepiphyseal dysplasia, Nishimura type"	"familial osteodysplasia, Anderson type"
+	"Pallister-hall syndrome"	"adrenal hypoplasia, cytomegalic type"	"isolated anencephaly/exencephaly"	"orofaciodigital syndrome IV"	"combined oxidative phosphorylation deficiency 34"	"distal monosomy 13q"	"chromosome Xp21 deletion syndrome"
 "Oligohydramnios"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Toe syndactyly"	1.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Bifid uvula"	1.0	0.0	0.0	1.0	0.0	0.0	0.0

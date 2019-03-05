@@ -1,4 +1,4 @@
-	"multiple endocrine neoplasia type 2A"	"phlebectasia of lips"	"Costello syndrome"
+	"phaeochromocytoma"	"pheochromocytoma-islet cell tumor syndrome"	"apparent mineralocorticoid excess"
 "Episodic hypertension"	1.0	1.0	0.0
 "Hypertensive retinopathy"	1.0	1.0	1.0
 "Elevated urinary norepinephrine"	1.0	1.0	0.0

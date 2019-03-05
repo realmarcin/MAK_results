@@ -1,4 +1,4 @@
-	"neurogenic scapuloperoneal syndrome, Kaeser type"	"succinic acidemia"	"ANIB3"	"giant axonal neuropathy 2"	"chromosome 6q11-q14 deletion syndrome"
+	"Emery-Dreifuss muscular dystrophy 2, autosomal dominant"	"tibial muscular dystrophy"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"Finnish upper limb-onset distal myopathy"	"autosomal dominant limb-girdle muscular dystrophy type 1H"
 "Clumsiness"	0.0	1.0	0.0	1.0	0.0
 "HP:0003677"	1.0	1.0	1.0	1.0	1.0
 "HP:0003829"	0.0	1.0	1.0	0.0	1.0

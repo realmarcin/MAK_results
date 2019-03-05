@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis type 18"	"encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy; PEBEL"	"Fanconi anemia complementation group v"	"Miles-Carpenter syndrome"
+	"congenital myopathy with internal nuclei and atypical cores"	"mitochondrial DNA depletion syndrome 12a (cardiomyopathic type), autosomal dominant; MTDPS12A"	"lung disease, immunodeficiency, and chromosome breakage syndrome;"	"COG7-CDG"
 "Pneumonia"	0.0	0.0	1.0	0.0
 "Eczema"	0.0	0.0	1.0	0.0
 "Abnormal facial shape"	0.0	0.0	1.0	0.0

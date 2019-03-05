@@ -1,4 +1,4 @@
-	"pseudoaminopterin syndrome"	"acromesomelic dysplasia, Demirhan type"	"trichilemmal cyst"	"episodic kinesigenic dyskinesia 2"
+	"autosomal recessive nonsyndromic deafness 3"	"autosomal recessive nonsyndromic deafness 48"	"autosomal recessive nonsyndromic deafness 46"	"autosomal recessive nonsyndromic deafness 24"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "HP:0003593"	0.0	0.0	0.0	1.0
 "Vestibular dysfunction"	0.0	1.0	0.0	0.0

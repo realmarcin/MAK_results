@@ -1,4 +1,4 @@
-	"Achard syndrome"	"isolated microphthalmia 6"	"Fanconi anemia complementation group G"
+	"familial acanthosis nigricans"	"chromosome 4q21 deletion syndrome"	"multiple congenital anomalies-hypotonia-seizures syndrome 1"
 "Hypertelorism"	0.0	1.0	1.0
 "Global developmental delay"	0.0	1.0	1.0
 "Generalized hypotonia"	0.0	1.0	1.0

@@ -1,4 +1,4 @@
 "x"
-"1" "thromboangiitis.obliterans"
-"2" "FL1"
-"3" "metaphyseal.anadysplasia.2"
+"1" "bronchiectasis.with.or.without.elevated.sweat.chloride.1"
+"2" "bronchiectasis.with.or.without.elevated.sweat.chloride.2"
+"3" "bronchiectasis.with.or.without.elevated.sweat.chloride.3"

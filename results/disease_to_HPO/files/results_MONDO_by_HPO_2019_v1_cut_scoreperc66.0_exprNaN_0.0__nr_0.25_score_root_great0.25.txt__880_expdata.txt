@@ -1,4 +1,4 @@
-	"cerebrofaciothoracic dysplasia"	"kuru, susceptibility to"	"metaphyseal acroscyphodysplasia"	"Tay-Sachs disease"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"
+	"cerebrocortical degeneration of infancy"	"Krabbe disease"	"metachromatic leukodystrophy, juvenile form"	"Tay-Sachs disease AB variant"	"multiple mitochondrial dysfunctions syndrome 4"
 "Decerebrate rigidity"	1.0	1.0	1.0	0.0	0.0
 "Gallbladder dysfunction"	0.0	0.0	1.0	0.0	0.0
 "HP:0031358"	0.0	0.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"leukemia, chronic lymphocytic, susceptibility to, 2"	"bifid uvula"	"Wolff-Parkinson-white syndrome (disease)"	"cutaneous photosensitivity-lethal colitis syndrome"	"pyropoikilocytosis, hereditary"	"Harrod syndrome"
+	"primary basilar invagination"	"double uterus-hemivagina-renal agenesis syndrome"	"Wolf-Hirschhorn syndrome"	"Cushing disease due to pituitary adenoma"	"glutathione synthetase deficiency with 5-oxoprolinuria"	"Ayme-Gripp syndrome"
 "Craniofacial asymmetry"	1.0	0.0	1.0	0.0	0.0	1.0
 "Psychotic mentation"	0.0	0.0	0.0	1.0	1.0	0.0
 "5-oxoprolinase deficiency"	0.0	0.0	0.0	0.0	0.0	0.0

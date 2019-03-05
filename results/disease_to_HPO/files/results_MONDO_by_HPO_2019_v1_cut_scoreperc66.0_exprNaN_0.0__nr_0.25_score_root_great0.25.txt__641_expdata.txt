@@ -1,4 +1,4 @@
-	"ACys amyloidosis"	"familial visceral amyloidosis"	"amyotrophic dystonic paraplegia"	"epithelial recurrent erosion dystrophy"	"atrial fibrillation, familial, 3"	"MYP5"
+	"Finnish type amyloidosis"	"ACys amyloidosis"	"amyloidosis, primary localized cutaneous, 1"	"lattice corneal dystrophy type I"	"granular corneal dystrophy type II"	"corneal dystrophy, lattice type 3A"
 "Lattice corneal dystrophy"	1.0	0.0	1.0	1.0	1.0	1.0
 "Generalized amyloid deposition"	1.0	1.0	0.0	0.0	0.0	0.0
 "Cardiac amyloidosis"	1.0	0.0	0.0	0.0	0.0	0.0

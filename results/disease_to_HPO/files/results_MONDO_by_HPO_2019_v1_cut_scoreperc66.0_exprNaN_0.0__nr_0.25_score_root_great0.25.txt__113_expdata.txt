@@ -1,4 +1,4 @@
-	"alcohol dependence"	"amelogenesis imperfecta type 2A1"	"focal segmental glomerulosclerosis 1"	"pseudopseudohypoparathyroidism"
+	"pseudohypoparathyroidism type 1A"	"amelogenesis imperfecta type 1G"	"pseudohypoparathyroidism type 1B"	"pseudohypoparathyroidism type 1C"
 "Brachydactyly"	1.0	0.0	1.0	1.0
 "Short neck"	1.0	0.0	1.0	1.0
 "Short metacarpal"	1.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"arthrogryposis, distal, type 2E"	"macroepiphyseal dysplasia with osteoporosis, wrinkled skin, and aged appearance"	"intellectual disability, X-linked 1"	"skeletal dysplasia-intellectual disability syndrome"	"telangiectasia, hereditary hemorrhagic, type 2"
+	"congenital contractural arachnodactyly"	"macrocephaly/megalencephaly syndrome, autosomal recessive"	"X-linked intellectual disability with marfanoid habitus"	"Prieto syndrome"	"CODAS syndrome"
 "Congenital kyphoscoliosis"	1.0	0.0	0.0	0.0	0.0
 "Calf muscle hypoplasia"	1.0	0.0	0.0	0.0	0.0
 "Crumpled ear"	1.0	0.0	0.0	0.0	1.0

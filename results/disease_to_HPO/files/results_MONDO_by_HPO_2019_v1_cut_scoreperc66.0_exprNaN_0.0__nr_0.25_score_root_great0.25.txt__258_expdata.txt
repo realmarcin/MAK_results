@@ -1,4 +1,4 @@
-	"Hermansky-Pudlak syndrome 1"	"pseudohypoparathyroidism type 2"	"Leber congenital amaurosis 3"	"alpha-N-acetylgalactosaminidase deficiency type 1"
+	"oculocutaneous albinism type 3"	"Hermansky-Pudlak syndrome 1"	"Peters anomaly (disease)"	"Griscelli syndrome type 3"
 "Strabismus"	1.0	0.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Nystagmus"	1.0	1.0	1.0	0.0

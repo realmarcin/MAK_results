@@ -1,4 +1,4 @@
-	"megacystis-microcolon-intestinal hypoperistalsis syndrome"	"cylindrical spirals myopathy"	"amyotrophic neuralgia"	"neurofibromatosis-pheochromocytoma-duodenal carcinoid syndrome"	"pulmonary capillary hemangiomatosis"	"proximal myopathy with extrapyramidal signs"
+	"medulloblastoma"	"Carney complex, type 1"	"schwannomatosis 1"	"neurofibromatosis, familial spinal"	"hemangiomatosis, cutaneous, with associated features"	"schwannomatosis 2"
 "Schwannoma"	0.0	1.0	1.0	0.0	0.0	1.0
 "Spinal cord tumor"	1.0	0.0	1.0	1.0	1.0	1.0
 "Symmetric spinal nerve root neurofibromas"	0.0	0.0	0.0	1.0	0.0	0.0

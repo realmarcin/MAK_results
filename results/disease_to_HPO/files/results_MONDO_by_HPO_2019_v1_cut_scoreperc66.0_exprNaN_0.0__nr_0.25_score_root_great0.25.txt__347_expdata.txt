@@ -1,4 +1,4 @@
-	"mitochondrial myopathy"	"pellagra-like syndrome"	"permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome"	"microphthalmia, isolated, with coloboma 3"	"holoprosencephaly, recurrent infections, and monocytosis"	"encephalopathy due to prosaposin deficiency"
+	"mitochondrial DNA depletion syndrome 3"	"hypomyelinating leukodystrophy 3"	"hepatoencephalopathy due to combined oxidative phosphorylation defect type 1"	"pyridoxal phosphate-responsive seizures"	"combined oxidative phosphorylation defect type 4"	"hypotonia with lactic acidemia and hyperammonemia"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Premature birth"	0.0	1.0	0.0	1.0	0.0	0.0
 "Metabolic acidosis"	0.0	0.0	1.0	1.0	1.0	1.0

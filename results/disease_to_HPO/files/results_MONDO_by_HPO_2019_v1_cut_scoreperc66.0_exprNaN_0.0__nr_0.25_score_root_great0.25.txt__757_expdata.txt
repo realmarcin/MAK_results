@@ -1,4 +1,4 @@
-	"atrial heart septal defect 1"	"SchC6pf-Schulz-Passarge syndrome"	"lissencephaly type 3-metacarpal bone dysplasia syndrome"	"autosomal recessive congenital ichthyosis 5"	"ATFB5"	"eculizumab, poor response to"
+	"atrial standstill 1"	"Ebstein anomaly"	"dilated cardiomyopathy 1E"	"catecholaminergic polymorphic ventricular tachycardia 1"	"atrial fibrillation, familial, 4"	"atrial standstill 2"
 "Premature atrial contractions"	1.0	0.0	1.0	0.0	1.0	0.0
 "Atrial standstill"	1.0	1.0	1.0	1.0	0.0	1.0
 "Atrial cardiomyopathy"	1.0	0.0	0.0	0.0	0.0	1.0

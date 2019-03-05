@@ -1,4 +1,4 @@
-	"PPR1"	"multiple epiphyseal dysplasia type 1"	"Santos syndrome"	"Charcot-Marie-Tooth disease axonal type 2CC"	"neurodevelopmental disorder with poor language and loss of hand skills"
+	"benign occipital epilepsy"	"reading seizures"	"herpes simplex encephalitis, susceptibility to, 2"	"striatal degeneration, autosomal dominant 2; ADSD2"	"encephalopathy, acute, infection-induced (herpes-specific), susceptibility to, 8"
 "Mental deterioration"	0.0	0.0	1.0	1.0	1.0
 "Hemiparesis"	0.0	0.0	1.0	0.0	1.0
 "EEG abnormality"	1.0	1.0	1.0	0.0	1.0

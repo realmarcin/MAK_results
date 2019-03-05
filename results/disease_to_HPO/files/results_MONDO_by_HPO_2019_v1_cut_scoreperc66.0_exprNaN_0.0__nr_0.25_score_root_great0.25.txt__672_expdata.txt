@@ -1,4 +1,4 @@
-	"central core myopathy"	"MAFD1"	"peripheral neuropathy, ataxia, focal necrotizing encephalopathy, and spongy degeneration of brain"	"pycnodysostosis"
+	"leukocyte adhesion deficiency 1"	"deoxyribose-5-phosphate aldolase deficiency"	"periodontitis, chronic, adult"	"pulmonic stenosis (disease)"
 "HP:0000007"	1.0	0.0	1.0	0.0
 "HP:0003674"	0.0	0.0	1.0	0.0
 "Periodontitis"	1.0	0.0	1.0	0.0

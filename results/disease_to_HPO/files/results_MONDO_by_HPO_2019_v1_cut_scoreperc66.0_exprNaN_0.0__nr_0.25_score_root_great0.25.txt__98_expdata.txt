@@ -1,4 +1,4 @@
-	"hyperproglucagonemia"	"autosomal dominant striatal neurodegeneration type 1"	"pseudohypoaldosteronism type 2C"	"Wiskott-Aldrich syndrome 2"	"pseudohypoaldosteronism type 2E"	"microphthalmia, isolated, with coloboma 7"
+	"pseudohypoaldosteronism type 2A"	"familial pseudohyperkalemia"	"pseudohypoaldosteronism type 2B"	"pseudohypoaldosteronism type 2C"	"pseudohypoaldosteronism type 2D"	"pseudohypoaldosteronism type 2E"
 "Hypertension"	1.0	1.0	1.0	1.0	1.0	1.0
 "Metabolic acidosis"	0.0	0.0	0.0	1.0	0.0	1.0
 "Hyperkalemia"	1.0	1.0	1.0	1.0	1.0	1.0

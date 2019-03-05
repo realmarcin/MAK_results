@@ -1,4 +1,4 @@
 "x"
-"1" "Warburg.micro.syndrome.3"
-"2" "Kabuki.syndrome.2"
-"3" "Ehlers.Danlos.syndrome..musculocontractural.type.2"
+"1" "Adams.Oliver.syndrome.2"
+"2" "X.linked.cerebral.cerebellar.coloboma.syndrome.syndrome"
+"3" "chromosome.22q13.duplication.syndrome"

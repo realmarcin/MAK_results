@@ -1,4 +1,4 @@
-	"congenital microcoria"	"microcephaly-micromelia syndrome"	"syndromic X-linked intellectual disability Siderius type"	"Alzheimer disease, susceptibility to, mitochondrial"	"Carney complex - trismus - pseudocamptodactyly syndrome"	"early-onset cerebellar ataxia with retained tendon reflexes"
+	"autosomal dominant primary microcephaly"	"microcephaly-cardiomyopathy syndrome"	"syndromic X-linked intellectual disability Abidi type"	"mitochondrial myopathy with reversible cytochrome C oxidase deficiency"	"carnitine palmitoyl transferase II deficiency, neonatal form"	"anonychia-microcephaly syndrome"
 "HP:0000007"	0.0	1.0	0.0	0.0	1.0	0.0
 "Microcephaly"	1.0	1.0	1.0	0.0	1.0	1.0
 "Seizures"	0.0	1.0	0.0	0.0	1.0	0.0

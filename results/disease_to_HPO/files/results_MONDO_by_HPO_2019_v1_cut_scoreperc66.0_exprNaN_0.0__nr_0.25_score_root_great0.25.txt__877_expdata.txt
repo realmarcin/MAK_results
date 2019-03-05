@@ -1,4 +1,4 @@
-	"dystonia 5"	"gracile syndrome"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
+	"episodic kinesigenic dyskinesia 1"	"cerebral cavernous malformation 3"	"encephalopathy, acute, infection-induced (herpes-specific), susceptibility to, 8"	"microcephaly 22, primary, autosomal recessive"
 "HP:0000006"	1.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0
 "HP:0003829"	1.0	0.0	1.0	0.0

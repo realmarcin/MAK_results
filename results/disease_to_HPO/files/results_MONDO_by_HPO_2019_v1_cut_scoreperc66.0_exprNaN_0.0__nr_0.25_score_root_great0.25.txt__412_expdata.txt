@@ -1,4 +1,4 @@
-	"Stimmler syndrome"	"complement component C1r/C1s deficiency"	"hypogonadotropic hypogonadism 24 without anosmia"	"Hartnup disease"	"macrosomia-microphthalmia-cleft palate syndrome"	"neutrophil actin dysfunction"
+	"neutropenia, severe congenital, 1, autosomal dominant"	"combined inflammatory and immunologic defect"	"hereditary folate malabsorption"	"Halothane hepatitis"	"macrosomia adiposa congenita"	"neutropenia, lethal congenital, with eosinophilia"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0	1.0
 "Growth abnormality"	1.0	1.0	0.0	0.0	0.0	0.0
 "Eosinophilia"	1.0	1.0	1.0	1.0	1.0	1.0

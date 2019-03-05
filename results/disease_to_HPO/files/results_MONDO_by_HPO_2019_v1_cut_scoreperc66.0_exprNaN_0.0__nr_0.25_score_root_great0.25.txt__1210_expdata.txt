@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"Laurence-Moon syndrome"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"laryngo-onycho-cutaneous syndrome"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Abnormality of the eye"	0.0	1.0	0.0	0.0
 "HP:0003593"	0.0	1.0	0.0	0.0

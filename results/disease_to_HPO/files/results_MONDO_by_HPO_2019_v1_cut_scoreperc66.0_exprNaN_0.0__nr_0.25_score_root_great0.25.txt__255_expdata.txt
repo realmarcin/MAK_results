@@ -1,4 +1,4 @@
-	"adrenocortical hypofunction, chronic primary congenital"	"distal osteosclerosis"	"sporadic porphyria cutanea tarda"	"postaxial tetramelic oligodactyly"	"trigger thumb"	"Cushing disease due to pituitary adenoma"
+	"adiposis dolorosa"	"multiple sclerosis, susceptibility to 1"	"acute intermittent porphyria"	"variegate porphyria"	"trigeminal neuralgia"	"Cushing syndrome due to macronodular adrenal hyperplasia"
 "Paresthesia"	1.0	1.0	1.0	0.0	1.0	0.0
 "Depressivity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Anxiety"	1.0	0.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"microphthalmia, isolated, with corectopia"	"Czeizel-Losonci syndrome"	"dextrocardia with unusual facies and microphthalmia"	"pantothenate kinase-associated neurodegeneration"	"hypertelorism-preauricular sinus-punctual pits-deafness syndrome"	"cholestasis, progressive familial intrahepatic, 4"
+	"MCOPCT1"	"Karsch-Neugebauer syndrome"	"persistent hyperplastic primary vitreous, autosomal recessive"	"Hallermann-Streiff syndrome"	"Leber congenital amaurosis 16"	"colobomatous microphthalmia-rhizomelic dysplasia syndrome"
 "Strabismus"	1.0	1.0	0.0	1.0	1.0	1.0
 "Microphthalmia"	1.0	0.0	1.0	1.0	0.0	1.0
 "Nystagmus"	1.0	1.0	0.0	1.0	1.0	1.0

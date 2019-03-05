@@ -1,4 +1,4 @@
-	"autosomal recessive palmoplantar keratoderma and congenital alopecia"	"congenital lactic acidosis, Saguenay-Lac-Saint-Jean type"	"pyruvate dehydrogenase E3-binding protein deficiency"	"mucopolysaccharidoses, unclassified types"	"spinocerebellar ataxia type 42"
+	"Sengers syndrome"	"cytochrome-c oxidase deficiency disease"	"pyruvate dehydrogenase E2 deficiency"	"mucolipidosis type IV"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"
 "Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0
 "Anemia"	0.0	1.0	0.0	0.0	0.0
 "Increased serum lactate"	1.0	1.0	0.0	0.0	1.0

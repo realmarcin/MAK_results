@@ -1,4 +1,4 @@
 "x"
-"1" "MRX92"
-"2" "mosaic.variegated.aneuploidy.syndrome.2"
-"3" "van.Maldergem.syndrome.2"
+"1" "intellectual.disability..X.linked.90"
+"2" "intellectual.disability..autosomal.dominant.2"
+"3" "periventricular.nodular.heterotopia.6"

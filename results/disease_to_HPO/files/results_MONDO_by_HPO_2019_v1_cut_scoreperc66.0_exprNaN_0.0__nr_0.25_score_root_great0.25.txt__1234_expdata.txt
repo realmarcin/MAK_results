@@ -1,4 +1,4 @@
-	"spastic paraplegia-precocious puberty syndrome"	"mitochondrial DNA depletion syndrome 4a"	"pilodental dysplasia-refractive errors syndrome"	"rippling muscle disease 1"
+	"spastic paraplegia-neuropathy-poikiloderma syndrome"	"alopecia universalis"	"Bjornstad syndrome"	"PARC syndrome"
 "Spastic paraplegia"	1.0	0.0	0.0	0.0
 "Distal amyotrophy"	1.0	0.0	0.0	0.0
 "Onion bulb formation"	1.0	0.0	0.0	0.0

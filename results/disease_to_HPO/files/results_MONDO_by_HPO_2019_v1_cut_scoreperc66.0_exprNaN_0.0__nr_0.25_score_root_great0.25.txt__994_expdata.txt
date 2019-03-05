@@ -1,4 +1,4 @@
-	"brachydactyly type A1A"	"brachydactyly type A3"	"van der Woude syndrome 1"	"Birt-Hogg-Dube syndrome"	"Hashimoto thyroiditis"	"Goldenhar syndrome"	"tarsal coalition"	"Wolff-Parkinson-white syndrome (disease)"	"cleidocranial dysplasia, recessive form"	"thrombocythemia 2"
+	"brachydactyly-preaxial hallux varus syndrome"	"brachydactyly type A2"	"SHFLD1"	"fibrodysplasia ossificans progressiva"	"hand-foot-genital syndrome"	"oculodentodigital dysplasia"	"talonavicular coalition"	"Wolf-Hirschhorn syndrome"	"cleft palate-stapes fixation-oligodontia syndrome"	"otofacioosseous-gonadal syndrome"
 "Cleft upper lip"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
 "Atrial septal defect"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0
 "High forehead"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0

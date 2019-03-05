@@ -1,4 +1,4 @@
-	"congenital central hypoventilation syndrome"	"congenital primary aphakia"	"isolated microphthalmia 6"
+	"autism susceptibility 1"	"Kleefstra syndrome 1"	"chromosome 4q21 deletion syndrome"
 "Seizures"	1.0	1.0	1.0
 "Hearing impairment"	0.0	1.0	1.0
 "Synophrys"	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"exostoses, multiple, type 1"	"Cowden syndrome 1"	"Cronkhite-Canada syndrome"	"spinocerebellar ataxia type 4"
+	"exostoses-anetodermia-brachydactyly type E syndrome"	"multiple exostoses with spastic tetraparesis"	"polyposis, intestinal, with multiple exostoses"	"EXT3"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Multiple exostoses"	1.0	1.0	1.0	1.0
 "Spastic tetraparesis"	0.0	1.0	0.0	0.0

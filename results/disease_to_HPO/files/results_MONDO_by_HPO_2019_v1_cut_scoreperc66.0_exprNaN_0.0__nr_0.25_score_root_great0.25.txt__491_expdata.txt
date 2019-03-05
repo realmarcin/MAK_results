@@ -1,4 +1,4 @@
-	"micromelic bone dysplasia with cloverleaf skull"	"intestinal schistosomiasis"	"pulmonary hypertension, primary, autosomal recessive"	"radiation sensitivity of natural killer activity"
+	"microgastria-limb reduction defect syndrome"	"ulnar-mammary syndrome"	"congenital alveolar capillary dysplasia"	"absent radius-anogenital anomalies syndrome"
 "Abnormality of the humerus"	1.0	1.0	0.0	0.0
 "Absent gallbladder"	1.0	0.0	1.0	0.0
 "Abnormal lung lobation"	1.0	0.0	1.0	0.0

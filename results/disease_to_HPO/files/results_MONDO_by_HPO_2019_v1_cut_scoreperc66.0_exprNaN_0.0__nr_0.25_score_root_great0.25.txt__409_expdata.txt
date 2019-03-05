@@ -1,4 +1,4 @@
-	"uveal coloboma-cleft lip and palate-intellectual disability"	"lazy leukocyte syndrome"	"juvenile dermatomyositis"	"retinal venous beading"	"pseudohypoparathyroidism type 1B"	"congenital corneal opacities, cornea guttata, and corectopia"
+	"coloboma of optic nerve (disease)"	"lattice degeneration of retina leading to retinal detachment"	"MYP2"	"retinal detachment"	"MYP3"	"MYP5"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0001425"	0.0	0.0	0.0	0.0	1.0	1.0
 "Abnormality of the nervous system"	0.0	0.0	1.0	0.0	0.0	0.0

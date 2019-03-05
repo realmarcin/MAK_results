@@ -1,4 +1,4 @@
-	"alpha-thalassemia-myelodysplastic syndrome"	"atrial conduction disease"	"intellectual developmental disorder with cardiac arrhythmia; IDDCA"
+	"HSD10 disease"	"intellectual disability, autosomal recessive 46"	"intellectual disability-epilepsy-extrapyramidal syndrome"
 "Intellectual disability"	1.0	1.0	1.0
 "Seizures"	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0

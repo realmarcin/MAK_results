@@ -1,4 +1,4 @@
-	"ABri amyloidosis"	"schizencephaly"	"Bardet-Biedl syndrome 3"	"chromosome 1p36 deletion syndrome"
+	"Currarino triad"	"Schinzel-Giedion syndrome"	"familial caudal dysgenesis"	"caudal duplication"
 "Gastrointestinal obstruction"	1.0	0.0	0.0	0.0
 "Bifid sacrum"	1.0	0.0	0.0	1.0
 "Presacral teratoma"	1.0	0.0	0.0	0.0

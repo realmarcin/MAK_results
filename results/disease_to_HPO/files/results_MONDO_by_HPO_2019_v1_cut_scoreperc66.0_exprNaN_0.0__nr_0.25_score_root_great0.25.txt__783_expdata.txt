@@ -1,4 +1,4 @@
-	"brachydactyly type D"	"polydactyly of an index finger"	"scalp defects-postaxial polydactyly syndrome"	"triphalangeal thumb, Nonopposable"	"dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema"
+	"brachydactyly type C"	"polydactyly of a triphalangeal thumb"	"cleft palate-large ears-small head syndrome"	"triphalangeal thumb with double phalanges"	"WT limb-blood syndrome"
 "Ulnar deviation of the 3rd finger"	1.0	0.0	1.0	0.0	1.0
 "Opposable triphalangeal thumb"	0.0	1.0	0.0	0.0	0.0
 "Complete duplication of distal phalanx of the thumb"	1.0	1.0	0.0	1.0	0.0

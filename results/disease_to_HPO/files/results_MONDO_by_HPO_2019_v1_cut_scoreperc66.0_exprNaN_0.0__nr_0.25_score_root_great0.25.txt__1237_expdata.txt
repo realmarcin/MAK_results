@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis type 18"	"skin creases, congenital symmetric circumferential, 2; CSCSC2"	"encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy; PEBEL"	"Miles-Carpenter syndrome"
+	"congenital myopathy with internal nuclei and atypical cores"	"primary coenzyme Q10 deficiency 8"	"mitochondrial DNA depletion syndrome 12a (cardiomyopathic type), autosomal dominant; MTDPS12A"	"COG7-CDG"
 "Oligohydramnios"	0.0	1.0	0.0	0.0
 "Intrauterine growth retardation"	0.0	1.0	0.0	0.0
 "Polyneuropathy"	0.0	1.0	0.0	0.0

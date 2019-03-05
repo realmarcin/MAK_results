@@ -1,4 +1,4 @@
-	"MHC class II deficiency"	"macroepiphyseal dysplasia with osteoporosis, wrinkled skin, and aged appearance"	"Ullrich congenital muscular dystrophy 1"	"encephalopathy due to GLUT1 deficiency"	"autosomal recessive limb-girdle muscular dystrophy type 2O"
+	"Bardet-Biedl syndrome 1"	"macrocephaly/megalencephaly syndrome, autosomal recessive"	"congenital muscular dystrophy-infantile cataract-hypogonadism syndrome"	"intellectual disability-obesity-prognathism-eye and skin anomalies syndrome"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B2"
 "Mandibular prognathia"	0.0	1.0	0.0	1.0	0.0
 "Dental crowding"	1.0	0.0	0.0	1.0	0.0
 "Hypogonadism"	1.0	0.0	1.0	0.0	0.0

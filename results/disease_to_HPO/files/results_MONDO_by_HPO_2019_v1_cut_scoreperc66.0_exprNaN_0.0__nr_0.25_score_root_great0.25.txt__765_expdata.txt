@@ -1,4 +1,4 @@
-	"hereditary folate malabsorption"	"isolated hemihyperplasia"	"Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"	"dehydratase deficiency"	"Reis-Bucklers corneal dystrophy"
+	"focal epithelial hyperplasia"	"hemangiopericytoma, malignant"	"leukemia, acute myelocytic, with polyposis coli and colon cancer"	"Prepapillary vascular loops"	"MUTYH-related attenuated familial adenomatous polyposis"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	0.0	0.0	0.0	1.0	0.0
 "Colon cancer"	0.0	0.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"acquired polycythemia vera"	"Schinzel-Giedion syndrome"	"childhood absence epilepsy"	"lethal short-limb skeletal dysplasia, Al Gazali type"
+	"Gillessen-Kaesbach-Nishimura syndrome"	"SC phocomelia syndrome"	"atrioventricular defect-blepharophimosis-radial and anal defect syndrome"	"microcephaly-cardiac defect-lung malsegmentation syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Micrognathia"	1.0	1.0	1.0	1.0

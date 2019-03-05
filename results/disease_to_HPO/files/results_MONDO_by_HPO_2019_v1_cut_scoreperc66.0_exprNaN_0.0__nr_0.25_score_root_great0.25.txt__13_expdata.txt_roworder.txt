@@ -1,4 +1,4 @@
 "x"
-"1" "myxedema"
-"2" "congenital.secretory.sodium.diarrhea.3"
-"3" "hyperphosphatemic.familial.tumoral.calcinosis"
+"1" "Schwartz.Jampel.syndrome"
+"2" "Smith.Lemli.Opitz.syndrome"
+"3" "campomelia..Cumming.type"

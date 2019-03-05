@@ -1,4 +1,4 @@
-	"focal epithelial hyperplasia of the oral mucosa"	"salivary duct calculi"	"Dermatoleukodystrophy"	"hypertrophic osteoarthropathy, primary, autosomal recessive, 1"	"herpes simplex encephalitis, susceptibility to, 2"	"Seckel syndrome 4"
+	"Flynn-Aird syndrome"	"sarcoidosis, susceptibility to, 1"	"Nasu-Hakola disease"	"intellectual disability-cataracts-calcified pinnae-myopathy syndrome"	"encephalocraniocutaneous lipomatosis"	"chromosome 17q11.2 deletion syndrome, 1.4Mb"
 "Seizures"	1.0	0.0	1.0	1.0	1.0	1.0
 "HP:0003745"	0.0	1.0	0.0	1.0	1.0	1.0
 "Hemiparesis"	0.0	0.0	0.0	0.0	1.0	0.0

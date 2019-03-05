@@ -1,4 +1,4 @@
-	"multiple epiphyseal dysplasia, Beighton type"	"urate-binding globulin, decrease 1N"	"trichothiodystrophy 1, photosensitive"	"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome"	"Griscelli syndrome type 3"	"multiple epiphyseal dysplasia, with miniepiphyses"
+	"multiple epiphyseal dysplasia type 1"	"Upington disease"	"spondyloepimetaphyseal dysplasia-abnormal dentition syndrome"	"multiple epiphyseal dysplasia type 5"	"spondyloepiphyseal dysplasia tarda, autosomal recessive, Leroy-Spranger type"	"multiple epiphyseal dysplasia, with severe proximal femoral dysplasia"
 "Premature osteoarthritis"	0.0	0.0	0.0	1.0	0.0	0.0
 "Broad femoral neck"	1.0	1.0	1.0	1.0	1.0	1.0
 "Delayed tarsal ossification"	0.0	0.0	0.0	1.0	0.0	0.0

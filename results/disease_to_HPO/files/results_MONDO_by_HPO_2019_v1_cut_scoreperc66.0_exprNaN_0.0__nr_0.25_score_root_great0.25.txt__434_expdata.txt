@@ -1,4 +1,4 @@
-	"familial acanthosis nigricans"	"multiple congenital anomalies-hypotonia-seizures syndrome 2"	"Tukel syndrome"	"acral peeling skin syndrome"	"chromosome 17q12 deletion syndrome"	"vertebral, cardiac, renal, and limb defects syndrome 2"
+	"Adams-Oliver syndrome 1"	"Kabuki syndrome 2"	"chromosome 3q29 microdeletion syndrome"	"7q11.23 microduplication syndrome"	"chromosome 17q12 duplication syndrome"	"vertebral, cardiac, renal, and limb defects syndrome 1"
 "Cleft palate"	1.0	1.0	0.0	0.0	1.0	1.0
 "Esotropia"	1.0	0.0	0.0	1.0	0.0	0.0
 "Cutis marmorata"	1.0	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"keratoderma hereditarium mutilans"	"earring holes, natural"	"corneal dystrophy, Fuchs endothelial, 1"	"Thiemann disease, familial form"	"acrodermatitis enteropathica"	"thymic aplasia with fetal death"
+	"deafness-ear malformation-facial palsy syndrome"	"thickened earlobes-conductive deafness syndrome"	"frontorhiny"	"ossicular malformations, familial"	"acrocraniofacial dysostosis"	"upper limb defect-eye and ear abnormalities syndrome"
 "Abnormality of the stapes"	1.0	1.0	0.0	0.0	0.0	0.0
 "Congenital conductive hearing impairment"	0.0	1.0	1.0	1.0	0.0	0.0
 "Abnormality of the malleus"	0.0	1.0	0.0	0.0	1.0	0.0

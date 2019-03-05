@@ -1,4 +1,4 @@
-	"paroxysmal extreme pain disorder"	"pruritus, hereditary localized"	"spondylolisthesis (disease)"	"hereditary spastic paraplegia 15"	"progressive bifocal chorioretinal atrophy"	"immunodeficiency 18"
+	"inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"	"Protrusio acetabuli (disease)"	"spondyloepiphyseal dysplasia tarda, autosomal dominant"	"hereditary spastic paraplegia 17"	"vitamin D-dependent rickets, type 2B"	"DDH2"
 "Elevated alkaline phosphatase of bone origin"	1.0	0.0	0.0	0.0	0.0	0.0
 "Hip pain"	1.0	1.0	1.0	1.0	0.0	1.0
 "Knee pain"	0.0	0.0	1.0	1.0	1.0	0.0

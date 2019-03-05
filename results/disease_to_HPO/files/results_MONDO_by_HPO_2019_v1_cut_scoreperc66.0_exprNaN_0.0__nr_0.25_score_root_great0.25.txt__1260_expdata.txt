@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"hereditary spastic paraplegia 5A"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
+	"amyotrophic lateral sclerosis type 1"	"hereditary spastic paraplegia 23"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"
 "Retrognathia"	0.0	1.0	0.0	0.0
 "Multiple lentigines"	0.0	1.0	0.0	0.0
 "Babinski sign"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"hypersensitivity pneumonitis, familial"	"holoprosencephaly-radial heart renal anomalies syndrome"	"Dandy-Walker syndrome"	"hydroxyacyl glutathione hydrolase deficiency"
+	"hypersecretion of adrenal androgens, familial"	"polycystic ovary syndrome"	"hereditary renal hypouricemia"	"apolipoprotein c-III deficiency"
 "HP:0000007"	0.0	0.0	1.0	0.0
 "Acute kidney injury"	0.0	0.0	1.0	0.0
 "Acute tubular necrosis"	0.0	0.0	1.0	0.0

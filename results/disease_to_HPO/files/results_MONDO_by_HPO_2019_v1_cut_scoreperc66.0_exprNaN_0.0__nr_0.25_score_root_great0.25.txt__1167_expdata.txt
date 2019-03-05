@@ -1,4 +1,4 @@
-	"eosinophilia, familial"	"platyspondylic dysplasia, Torrance type"	"myxedema"	"macular dystrophy, X-linked"	"ornithine carbamoyltransferase deficiency"
+	"Camurati-Engelmann disease"	"Leri pleonosteosis"	"Schwartz-Jampel syndrome"	"oculocerebrorenal syndrome"	"orofaciodigital syndrome I"
 "Long eyelashes in irregular rows"	0.0	0.0	1.0	0.0	0.0
 "Hypoplasia of the abdominal wall musculature"	0.0	0.0	0.0	0.0	0.0
 "HP:0008038"	0.0	0.0	0.0	0.0	0.0

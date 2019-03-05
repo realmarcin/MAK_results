@@ -1,4 +1,4 @@
-	"MHC class II deficiency"	"autosomal dominant nonsyndromic deafness 12"	"short stature due to primary acid-labile subunit deficiency"	"mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders"
+	"Bardet-Biedl syndrome 1"	"peroxisome biogenesis disorder 1B"	"ataxia - intellectual disability - oculomotor apraxia - cerebellar cysts syndrome"	"optic atrophy 11; OPA11"
 "Strabismus"	1.0	0.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Midface retrusion"	0.0	1.0	0.0	1.0

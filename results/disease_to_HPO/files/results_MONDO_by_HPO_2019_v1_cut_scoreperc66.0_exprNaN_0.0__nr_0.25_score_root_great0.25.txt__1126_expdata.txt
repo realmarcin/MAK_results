@@ -1,4 +1,4 @@
-	"acute monocytic leukemia"	"theophylline Biotransformation"	"achondrogenesis type II"	"acromesomelic dysplasia, Grebe type"	"chondrodysplasia calcificans Metaphysealis"	"Krabbe disease"	"craniometadiaphyseal dysplasia, wormian bone type"	"autosomal recessive nonsyndromic deafness 7"	"rhabdoid tumor predisposition syndrome 2"	"chromosome 17q12 duplication syndrome"
+	"platyspondylic dysplasia, Torrance type"	"thanatophoric dysplasia type 2"	"achondrogenesis type IA"	"achondrogenesis type II"	"chondrodysplasia Blomstrand type"	"lethal Kniest-like dysplasia"	"schneckenbecken dysplasia"	"achondrogenesis type IB"	"autosomal recessive spondylometaphyseal dysplasia, Megarbane type"	"fibrochondrogenesis 2"
 "Ovoid vertebral bodies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Short ribs"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Lateral clavicle hook"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

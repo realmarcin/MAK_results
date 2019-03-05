@@ -1,4 +1,4 @@
 "x"
-"1" "Jervell.and.Lange.Nielsen.syndrome.2"
-"2" "chromosome.11p13.deletion.syndrome..distal"
-"3" "Meckel.syndrome..type.8"
+"1" "intellectual.disability..autosomal.dominant.22"
+"2" "craniofacial.dysplasia.short.stature.ectodermal.anomalies.intellectual.disability.syndrome"
+"3" "chromosome.13q14.deletion.syndrome"

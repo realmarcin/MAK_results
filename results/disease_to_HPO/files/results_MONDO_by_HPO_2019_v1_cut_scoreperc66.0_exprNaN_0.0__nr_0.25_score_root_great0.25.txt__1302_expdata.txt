@@ -1,4 +1,4 @@
-	"arthrogryposis, distal, type 2E"	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"osteogenesis imperfecta type 14"
+	"congenital contractural arachnodactyly"	"microcephaly-albinism-digital anomalies syndrome"	"syndromic X-linked intellectual disability Shrimpton type"	"distal arthrogryposis type 5D"
 "Patent ductus arteriosus"	1.0	0.0	0.0	0.0
 "Ventricular septal defect"	1.0	0.0	0.0	0.0
 "Atrial septal defect"	1.0	0.0	0.0	0.0

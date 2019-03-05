@@ -1,4 +1,4 @@
-	"acropectorovertebral dysplasia"	"Balkan nephropathy"	"Joubert syndrome with hepatic defect"	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"thymic aplasia with fetal death"	"cerebrooculofacioskeletal syndrome 4"
+	"acroosteolysis dominant type"	"mitochondrial complex III deficiency nuclear type 1"	"Yunis-Varon syndrome"	"3-methylglutaconic aciduria type 4"	"upper limb defect-eye and ear abnormalities syndrome"	"cerebrooculofacioskeletal syndrome 2"
 "Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hearing impairment"	1.0	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	0.0	1.0	0.0	0.0

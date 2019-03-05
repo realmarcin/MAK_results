@@ -1,4 +1,4 @@
-	"genochondromatosis"	"hypercholesterolemia, familial"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"subacute sclerosing panencephalitis"
+	"gastric mucosal hypertrophy"	"autosomal recessive infantile hypercalcemia"	"beta-ketothiolase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"pancreatic insufficiency, combined exocrine"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Aortic valve stenosis"	0.0	1.0	0.0	0.0	0.0
 "Abnormality of the eye"	0.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"immunodeficiency, common variable, 1"	"hereditary spastic paraplegia 77"
+	"proximal renal tubular acidosis"	"hereditary spastic paraplegia 24"	"transketolase deficiency"
 "HP:0000007"	0.0	1.0	1.0
 "Patent ductus arteriosus"	0.0	0.0	1.0
 "Self-injurious behavior"	0.0	0.0	1.0

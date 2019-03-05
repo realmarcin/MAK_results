@@ -1,4 +1,4 @@
 "x"
-"1" "pelvic.organ.prolapse..susceptibility.to"
-"2" "symphalangism.with.multiple.anomalies.of.hands.and.feet"
-"3" "early.onset.Parkinson.disease.20"
+"1" "autosomal.dominant.prognathism"
+"2" "distal.symphalangism..disease."
+"3" "craniosynostosis.5..susceptibility.to"

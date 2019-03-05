@@ -1,4 +1,4 @@
-	"dysplastic nevus syndrome"	"melanoma, malignant familial intraocular"	"Melkersson-Rosenthal syndrome"	"Pierson syndrome"	"inflammatory skin and bowel disease, neonatal, 1"	"congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome"
+	"melanoma, cutaneous malignant, susceptibility to, 1"	"dysplastic nevus syndrome"	"melanoma and neural system tumor syndrome"	"melanoma, cutaneous malignant, susceptibility to, 3"	"BAP1-related tumor predisposition syndrome"	"MITF-related melanoma and renal cell carcinoma predisposition syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0	0.0
 "Cutaneous melanoma"	1.0	1.0	1.0	1.0	1.0	1.0

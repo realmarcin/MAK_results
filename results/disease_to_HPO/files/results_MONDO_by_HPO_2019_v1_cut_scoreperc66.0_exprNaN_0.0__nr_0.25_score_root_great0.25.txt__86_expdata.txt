@@ -1,4 +1,4 @@
-	"cyanosis, transient neonatal"	"intellectual disability, autosomal dominant 9"	"intellectual disability, autosomal dominant 40"	"polycystic liver disease 2; PCLD2"	"epileptic encephalopathy, early infantile, 58"
+	"intellectual disability, autosomal dominant 6"	"intellectual disability, autosomal dominant 8"	"microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome"	"epileptic encephalopathy, early infantile, 37; EIEE37"	"epileptic encephalopathy, infantile or early childhood, 2"
 "Intellectual disability"	1.0	1.0	0.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0
 "Myoclonus"	0.0	1.0	0.0	1.0	1.0

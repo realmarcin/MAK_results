@@ -1,4 +1,4 @@
-	"long QT syndrome 1"	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"osteogenesis imperfecta type 14"
+	"ventricular extrasystoles with syncopal episodes-perodactyly-robin sequence syndrome"	"microcephaly-albinism-digital anomalies syndrome"	"syndromic X-linked intellectual disability Shrimpton type"	"distal arthrogryposis type 5D"
 "Hypodontia"	1.0	0.0	0.0	0.0
 "Tapered finger"	1.0	0.0	0.0	0.0
 "Short foot"	1.0	0.0	0.0	0.0

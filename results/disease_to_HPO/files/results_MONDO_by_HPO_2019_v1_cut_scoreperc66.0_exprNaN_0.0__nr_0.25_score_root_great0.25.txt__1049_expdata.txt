@@ -1,4 +1,4 @@
-	"neurodegeneration with brain iron accumulation 5"	"Joubert syndrome 6"	"neuronopathy, distal hereditary motor, type 2C"	"myasthenic syndrome, congenital, 22"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"	"portal hypertension, noncirrhotic; NCPH"
+	"X-linked central congenital hypothyroidism with late-onset testicular enlargement"	"nemaline myopathy 7"	"maturity-onset diabetes of the young type 11"	"motor developmental delay due to 14q32.2 paternally expressed gene defect"	"TBCK-related intellectual disability syndrome"	"congenital muscular dystrophy-respiratory failure-skin abnormalities-joint hyperlaxity syndrome"
 "Overweight"	1.0	0.0	1.0	1.0	0.0	1.0
 "Minicore myopathy"	0.0	1.0	0.0	0.0	0.0	1.0
 "Gastrostomy tube feeding in infancy"	0.0	0.0	0.0	0.0	1.0	1.0

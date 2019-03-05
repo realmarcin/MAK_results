@@ -1,4 +1,4 @@
-	"disseminated sclerosis with narcolepsy"	"autoimmune polyendocrine syndrome type 1"	"scurvy"	"hypertrophic cardiomyopathy 12"	"autosomal recessive nonsyndromic deafness 86"
+	"lactose intolerance (disease)"	"Addison disease"	"autoimmune polyendocrine syndrome type 1"	"diarrhea-vomiting due to trehalase deficiency"	"congenital diarrhea 6"
 "Diarrhea"	1.0	1.0	1.0	1.0	1.0
 "Abdominal pain"	1.0	1.0	0.0	1.0	1.0
 "Type I diabetes mellitus"	0.0	1.0	1.0	0.0	0.0

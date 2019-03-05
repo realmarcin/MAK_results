@@ -1,4 +1,4 @@
-	"MRX89"	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"chromosome 22q13 duplication syndrome"
 "Short phalanx of finger"	1.0	0.0	0.0	0.0
 "Cerebral hemorrhage"	1.0	0.0	0.0	0.0
 "Stroke-like episode"	1.0	0.0	0.0	0.0

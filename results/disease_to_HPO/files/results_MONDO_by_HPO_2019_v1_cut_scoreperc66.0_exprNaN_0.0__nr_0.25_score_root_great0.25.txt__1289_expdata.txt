@@ -1,4 +1,4 @@
-	"progressive osseous heteroplasia"	"septooptic dysplasia"	"tetralogy of fallot and glaucoma"	"autosomal recessive distal osteolysis syndrome"	"hypertrophic osteoarthropathy, primary, autosomal recessive, 2"	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques"	"peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome"	"14q32 duplication syndrome"
+	"multicentric carpo-tarsal osteolysis with or without nephropathy"	"Shprintzen-Goldberg syndrome"	"tetralogy of fallot"	"multicentric osteolysis, nodulosis, and arthropathy"	"PYCR1-related de Barsy syndrome"	"FGFR2-related bent bone dysplasia"	"Cole-Carpenter syndrome 2"	"cutis laxa, autosomal dominant 3"
 "Osteopenia"	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0
 "Supernumerary ribs"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Abdominal wall muscle weakness"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

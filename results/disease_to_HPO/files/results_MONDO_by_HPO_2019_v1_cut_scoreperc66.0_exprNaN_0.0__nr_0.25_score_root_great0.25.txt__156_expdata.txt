@@ -1,4 +1,4 @@
-	"mitochondrial DNA depletion syndrome 9"	"neurofaciodigitorenal syndrome"	"MRX14"	"juvenile cataract-microcornea-renal glucosuria syndrome"	"Aicardi-Goutieres syndrome 5"	"epileptic encephalopathy, early infantile, 27"
+	"pyruvate dehydrogenase E3-binding protein deficiency"	"neurodegeneration with brain iron accumulation 2A"	"X-linked intellectual disability-psychosis-macroorchidism syndrome"	"autosomal recessive ataxia due to ubiquinone deficiency"	"cystic leukoencephalopathy without megalencephaly"	"Perrault syndrome 5"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	0.0	0.0

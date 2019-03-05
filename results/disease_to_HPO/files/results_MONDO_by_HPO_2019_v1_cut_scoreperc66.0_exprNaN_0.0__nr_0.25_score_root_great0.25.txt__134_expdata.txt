@@ -1,4 +1,4 @@
-	"spastic ataxia 1"	"spinocerebellar ataxia type 7"	"Friedreich ataxia and congenital glaucoma"	"atrophia maculosa varioliformis cutis, familial"	"proximal 16p11.2 microdeletion syndrome"	"epileptic encephalopathy, early infantile, 26"
+	"episodic ataxia type 2"	"spinocerebellar ataxia type 1"	"Friedreich ataxia"	"cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome"	"episodic ataxia type 7"	"episodic ataxia type 8"
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscle weakness"	1.0	0.0	1.0	1.0	1.0	1.0

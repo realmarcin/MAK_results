@@ -1,4 +1,4 @@
-	"MAFD1"	"gelatinous drop-like corneal dystrophy"	"ichthyosis-intellectual disability-dwarfism-renal impairment syndrome"	"Plasmodium falciparum blood infection level"	"palant cleft palate syndrome"	"pycnodysostosis"
+	"deoxyribose-5-phosphate aldolase deficiency"	"amyloidosis of gingiva and conjunctiva, with mental retardation"	"ichthyosis-hepatosplenomegaly-cerebellar degeneration syndrome"	"mal de Meleda"	"pachyonychia congenita, autosomal recessive"	"pulmonic stenosis (disease)"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the mouth"	0.0	1.0	0.0	1.0	0.0	0.0
 "Erythema"	0.0	0.0	0.0	1.0	0.0	0.0

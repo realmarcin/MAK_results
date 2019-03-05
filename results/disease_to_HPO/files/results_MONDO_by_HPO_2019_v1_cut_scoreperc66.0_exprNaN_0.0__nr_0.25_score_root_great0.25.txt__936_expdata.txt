@@ -1,4 +1,4 @@
-	"Dandy-Walker syndrome"	"hereditary fructose intolerance"	"fructose utilization"	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"MRX53"	"epileptic encephalopathy, early infantile, 2"
+	"hereditary renal hypouricemia"	"fructose and galactose intolerance"	"hereditary fructose intolerance"	"Lesch-Nyhan syndrome"	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"phosphoribosylpyrophosphate synthetase superactivity"
 "Increased urinary urate"	1.0	0.0	0.0	0.0	0.0	0.0
 "Galactose intolerance"	0.0	1.0	0.0	0.0	0.0	0.0
 "Fructose intolerance"	0.0	1.0	1.0	0.0	0.0	0.0

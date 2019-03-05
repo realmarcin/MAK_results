@@ -1,4 +1,4 @@
-	"fused mandibular incisors"	"hypospadias, hypertelorism, upper 51D coloboma, and mixed-type hearing loss"	"lethal neonatal spasticity-epileptic encephalopathy syndrome"
+	"solitary median maxillary central incisor syndrome"	"arhinia, choanal atresia, and microphthalmia"	"microphthalmia, isolated, with coloboma 7"
 "Cleft upper lip"	1.0	0.0	0.0
 "HP:0000006"	1.0	1.0	1.0
 "Microphthalmia"	1.0	1.0	1.0

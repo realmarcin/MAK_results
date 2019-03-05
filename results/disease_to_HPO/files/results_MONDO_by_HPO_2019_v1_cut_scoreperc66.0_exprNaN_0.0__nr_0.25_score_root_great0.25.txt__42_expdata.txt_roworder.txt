@@ -1,4 +1,4 @@
 "x"
-"1" "myofibrillar.myopathy.7"
-"2" "ectodermal.dysplasia.13..hair.tooth.type"
-"3" "mosaic.variegated.aneuploidy.syndrome.2"
+"1" "epileptic.encephalopathy..early.infantile..43..EIEE43"
+"2" "epileptic.encephalopathy..early.infantile..54"
+"3" "intellectual.disability..autosomal.dominant.2"

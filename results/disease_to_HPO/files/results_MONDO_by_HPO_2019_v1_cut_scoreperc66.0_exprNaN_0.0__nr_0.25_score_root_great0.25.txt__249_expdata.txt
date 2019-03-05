@@ -1,4 +1,4 @@
-	"band keratopathy"	"reticular dystrophy of the retinal pigment epithelium"	"red-green color blindness"	"cone dystrophy, X-linked, with tapetal-like sheen"	"autosomal recessive nonsyndromic deafness 4"	"progressive familial heart block type IB"
+	"corneal dystrophy-perceptive deafness syndrome"	"retinal degeneration-nanophthalmos-glaucoma syndrome"	"blue cone monochromacy"	"X-linked cone-rod dystrophy 1"	"progressive bifocal chorioretinal atrophy"	"Leber congenital amaurosis 5"
 "HP:0000007"	1.0	1.0	0.0	0.0	0.0	1.0
 "Optic atrophy"	0.0	1.0	0.0	0.0	0.0	0.0
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0	1.0

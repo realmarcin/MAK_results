@@ -1,4 +1,4 @@
-	"uterine corpus leiomyoma"	"ulna hypoplasia-intellectual disability syndrome"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"	"autosomal recessive limb-girdle muscular dystrophy type 2J"
+	"Legg-Calve-Perthes disease"	"phocomelia, Schinzel type"	"occipital horn syndrome"	"avascular necrosis of femoral head, primary, 1"
 "Pectus carinatum"	0.0	1.0	1.0	0.0
 "Hip dislocation"	0.0	1.0	1.0	0.0
 "Long face"	0.0	1.0	1.0	0.0

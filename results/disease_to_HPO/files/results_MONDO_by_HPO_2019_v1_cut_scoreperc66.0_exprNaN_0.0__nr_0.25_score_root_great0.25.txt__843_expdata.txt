@@ -1,4 +1,4 @@
-	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"	"intellectual disability, autosomal recessive 58; MRT58"
+	"hyperphosphatasia with intellectual disability syndrome 1"	"intellectual disability, X-linked 21"	"intellectual disability, autosomal recessive 13"	"hyperphosphatasia with intellectual disability syndrome 2"	"neurodevelopmental disorder with hypotonia, seizures, and absent language; NDHSAL"
 "Intellectual disability"	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0
 "Osteopenia"	0.0	0.0	0.0	0.0	1.0

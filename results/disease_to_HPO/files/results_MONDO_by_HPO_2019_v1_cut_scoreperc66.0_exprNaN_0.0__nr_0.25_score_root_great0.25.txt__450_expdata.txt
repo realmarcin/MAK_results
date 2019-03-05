@@ -1,4 +1,4 @@
-	"retinitis pigmentosa 63"	"DDH2"	"arrhythmogenic right ventricular dysplasia 13"	"epileptic encephalopathy, early infantile, 25"
+	"Wiskott-Aldrich syndrome 2"	"combined immunodeficiency due to CD3gamma deficiency"	"immunodeficiency 18"	"severe combined immunodeficiency due to CTPS1 deficiency"
 "Defective T cell proliferation"	1.0	0.0	1.0	1.0
 "HP:0031123"	0.0	1.0	1.0	0.0
 "Decreased number of CD3+ T cells"	0.0	0.0	1.0	0.0

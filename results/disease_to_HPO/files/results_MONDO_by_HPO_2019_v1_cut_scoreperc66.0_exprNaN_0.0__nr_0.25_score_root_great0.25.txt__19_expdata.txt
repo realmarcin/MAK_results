@@ -1,4 +1,4 @@
-	"hereditary spastic paraplegia 15"	"frontotemporal dementia, chromosome 3-linked"	"ribbing disease"	"thrombophilia due to protein S deficiency, autosomal dominant"
+	"hereditary spastic paraplegia 17"	"neuronopathy, distal hereditary motor, type 5A"	"Charcot-Marie-Tooth disease type 2D"	"hereditary spastic paraplegia 38"
 "First dorsal interossei muscle weakness"	1.0	1.0	1.0	1.0
 "Thenar muscle atrophy"	1.0	1.0	1.0	1.0
 "First dorsal interossei muscle atrophy"	1.0	1.0	1.0	1.0

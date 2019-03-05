@@ -1,4 +1,4 @@
-	"hallux varus-preaxial polysyndactyly syndrome"	"Spondylospinal thoracic dysostosis"	"autosomal recessive nonsyndromic deafness 14"	"myopathy, proximal, and ophthalmoplegia"	"autosomal recessive nonsyndromic deafness 47"	"congenital primary aphakia"	"microcephaly, growth retardation, cataract, hearing loss, and unusual appearance"
+	"hall-Riggs syndrome"	"chromosome 18q deletion syndrome"	"acromelic frontonasal dysostosis"	"cerebrooculonasal syndrome"	"brachyphalangy, polydactyly, and tibial aplasia/hypoplasia"	"Kleefstra syndrome 1"	"microcephaly-facio-cardio-skeletal syndrome, Hadziselimovic type"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0	1.0	0.0	0.0
 "Toe syndactyly"	0.0	1.0	0.0	0.0	1.0	0.0	0.0

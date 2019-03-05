@@ -1,4 +1,4 @@
-	"systemic primary carnitine deficiency disease"	"amelocerebrohypohidrotic syndrome"	"Gollop-Wolfgang complex"	"neutrophil actin dysfunction"	"ventriculomegaly with defects of the radius and kidney"	"MGS"
+	"carnitine-acylcarnitine translocase deficiency"	"epidermolysis bullosa with diaphragmatic hernia"	"visceral steatosis, congenital"	"neutropenia, lethal congenital, with eosinophilia"	"medium chain 3-ketoacyl-Coa thiolase deficiency"	"lethal congenital contracture syndrome 3"
 "Hepatomegaly"	1.0	0.0	0.0	0.0	0.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Neonatal death"	0.0	1.0	1.0	1.0	1.0	1.0

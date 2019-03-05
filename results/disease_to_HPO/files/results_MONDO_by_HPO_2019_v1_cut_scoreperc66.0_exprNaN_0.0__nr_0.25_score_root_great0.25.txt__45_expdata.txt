@@ -1,4 +1,4 @@
-	"allergic bronchopulmonary aspergillosis"	"celiac artery stenosis from compression by median arcuate ligament of diaphragm"	"brachyolmia, Maroteaux type"	"early infantile epileptic encephalopathy without suppression burst"	"hyperlipoproteinemia type 3"
+	"glucocorticoid-remediable aldosteronism"	"familial cerebral cavernous malformation"	"familial hyperaldosteronism type III"	"aldosterone-producing adenoma with seizures and neurological abnormalities"	"familial hyperaldosteronism type II"
 "Tinnitus"	1.0	0.0	1.0	1.0	1.0
 "Headache"	1.0	1.0	1.0	1.0	1.0
 "Adrenal hyperplasia"	1.0	0.0	1.0	1.0	1.0

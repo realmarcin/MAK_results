@@ -1,4 +1,4 @@
-	"DiGeorge syndrome"	"Hirschsprung disease, susceptibility to, 2"	"thyroid cancer, nonmedullary, 3"	"epileptic encephalopathy, early infantile, 17"	"Bardet-Biedl syndrome 14"	"Bardet-Biedl syndrome 16"
+	"thumb stiffness-brachydactyly-intellectual disability syndrome"	"Bardet-Biedl syndrome 3"	"Phelan McDermid syndrome"	"mitochondrial DNA depletion syndrome 13"	"Bardet-Biedl syndrome 13"	"Bardet-Biedl syndrome 14"
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Epicanthus"	0.0	0.0	1.0	1.0	0.0	0.0
 "Thick eyebrow"	0.0	0.0	1.0	1.0	0.0	0.0

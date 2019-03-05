@@ -1,4 +1,4 @@
-	"oculoauriculovertebral spectrum with radial defects"	"spermatogenic failure 11"	"premature ovarian failure 8"	"erythrokeratodermia variabilis et progressiva 2"
+	"Bencze syndrome"	"severe intellectual disability-progressive spastic diplegia syndrome"	"optic atrophy-intellectual disability syndrome"	"neurodevelopmental disorder with midbrain and hindbrain malformations"
 "Strabismus"	1.0	1.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0	1.0
 "Motor delay"	0.0	0.0	0.0	1.0

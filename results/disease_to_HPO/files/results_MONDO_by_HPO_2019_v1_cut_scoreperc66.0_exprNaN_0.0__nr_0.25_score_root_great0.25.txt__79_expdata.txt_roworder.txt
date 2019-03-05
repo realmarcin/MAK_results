@@ -1,4 +1,4 @@
 "x"
-"1" "dementia.parkinsonism.with.non.Alzheimer.amyloid.plaques"
-"2" "metaphyseal.chondrodysplasia..Jansen.type"
-"3" "nephrotic.syndrome..type.6"
+"1" "CADASIL.1"
+"2" "metachromatic.leukodystrophy..adult.onset..with.normal.arylsulfatase.a"
+"3" "craniofacial.anomalies.and.anterior.segment.dysgenesis.syndrome"

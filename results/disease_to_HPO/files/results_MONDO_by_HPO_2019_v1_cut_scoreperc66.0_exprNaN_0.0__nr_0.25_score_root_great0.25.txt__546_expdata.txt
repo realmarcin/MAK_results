@@ -1,4 +1,4 @@
-	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"autosomal recessive distal spinal muscular atrophy 2"	"familial hyperaldosteronism type III"	"glucocorticoid resistance"	"MIRAGE syndrome"
+	"short stature due to partial GHR deficiency"	"Fanconi anemia complementation group D1"	"Seckel syndrome 4"	"short stature due to primary acid-labile subunit deficiency"	"bone marrow failure syndrome 3"
 "HP:0000007"	0.0	1.0	1.0	0.0	1.0
 "Microcephaly"	0.0	1.0	1.0	0.0	1.0
 "Short stature"	1.0	1.0	1.0	0.0	1.0

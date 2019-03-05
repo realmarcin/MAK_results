@@ -1,4 +1,4 @@
-	"lymphedema-cerebral arteriovenous anomaly syndrome"	"aspartylglucosaminuria"	"congenital alveolar capillary dysplasia"	"Kufor-Rakeb syndrome"
+	"primary intestinal lymphangiectasia"	"chylous ascites"	"congenital pulmonary lymphangiectasia"	"lung lymphangioleiomyomatosis"
 "Chylous ascites"	1.0	1.0	1.0	0.0
 "Bronchodysplasia"	0.0	0.0	1.0	0.0
 "Pulmonary lymphangiomyomatosis"	0.0	0.0	0.0	1.0

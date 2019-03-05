@@ -1,4 +1,4 @@
-	"arms, malformation of"	"keratosis palmaris et plantaris-clinodactyly syndrome"	"chromosome 5q deletion syndrome"	"frontometaphyseal dysplasia 1"	"insomnia (disease)"	"platelet-activating factor acetylhydrolase deficiency (disease)"
+	"appendicitis, proneness to"	"palmoplantar keratoderma-esophageal carcinoma syndrome"	"Bannayan-Riley-Ruvalcaba syndrome"	"focal dermal hypoplasia"	"autoimmune enteropathy and endocrinopathy - susceptibility to chronic infections syndrome"	"Barrett esophagus"
 "Abnormality of the large intestine"	1.0	1.0	1.0	0.0	0.0	0.0
 "Diffuse palmoplantar hyperkeratosis"	0.0	1.0	0.0	0.0	0.0	0.0
 "Esophageal carcinoma"	0.0	1.0	0.0	0.0	1.0	1.0

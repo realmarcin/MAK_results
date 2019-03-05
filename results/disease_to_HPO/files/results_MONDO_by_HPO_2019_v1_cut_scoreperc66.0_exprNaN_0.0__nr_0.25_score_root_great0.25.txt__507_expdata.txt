@@ -1,4 +1,4 @@
-	"syndromic X-linked intellectual disability Chudley-Schwartz type"	"epsilon-trimethyllysine hydroxylase deficiency"	"ALG13-CDG"	"chromosome 17p13.3 duplication syndrome"
+	"syndromic X-linked intellectual disability Nascimento type"	"Xq27.3q28 duplication syndrome"	"Cornelia de Lange syndrome 5"	"chromosome 17q21.31 duplication syndrome"
 "Anteverted nares"	0.0	0.0	1.0	1.0
 "Microcephaly"	0.0	0.0	1.0	1.0
 "Toe syndactyly"	0.0	0.0	1.0	1.0

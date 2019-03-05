@@ -1,4 +1,4 @@
-	"endocardial fibroelastosis"	"trisomy 18-like syndrome"	"female infertility due to zona pellucida defect"	"heart and brain malformation syndrome; HBMS"
+	"fowler syndrome"	"lissencephaly type 3-metacarpal bone dysplasia syndrome"	"complex cortical dysplasia with other brain malformations 6"	"intellectual disability, autosomal recessive 53"
 "Micrognathia"	1.0	0.0	0.0	0.0
 "Ataxia"	0.0	0.0	1.0	1.0
 "Intrauterine growth retardation"	1.0	1.0	0.0	1.0

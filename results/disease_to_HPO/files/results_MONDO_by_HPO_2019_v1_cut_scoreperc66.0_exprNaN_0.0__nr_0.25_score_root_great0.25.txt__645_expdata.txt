@@ -1,4 +1,4 @@
-	"lipoid proteinosis"	"Marden-Walker syndrome"	"paragangliomas 3"
+	"pyruvate dehydrogenase E3 deficiency"	"maple syrup urine disease"	"dilated cardiomyopathy 1J"
 "Elevated plasma branched chain amino acids"	1.0	1.0	0.0
 "HP:0031796"	0.0	1.0	0.0
 "Abnormal cardiac ventricular function"	1.0	0.0	1.0

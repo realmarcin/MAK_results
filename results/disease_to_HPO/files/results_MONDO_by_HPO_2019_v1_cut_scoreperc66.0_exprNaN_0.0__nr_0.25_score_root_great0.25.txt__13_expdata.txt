@@ -1,4 +1,4 @@
-	"hyperphosphatemic familial tumoral calcinosis"	"myxedema"	"congenital secretory sodium diarrhea 3"
+	"campomelia, Cumming type"	"Schwartz-Jampel syndrome"	"Smith-Lemli-Opitz syndrome"
 "Abnormality of the ribs"	1.0	1.0	1.0
 "Micromelia"	1.0	1.0	1.0
 "Increased number of teeth"	0.0	1.0	1.0

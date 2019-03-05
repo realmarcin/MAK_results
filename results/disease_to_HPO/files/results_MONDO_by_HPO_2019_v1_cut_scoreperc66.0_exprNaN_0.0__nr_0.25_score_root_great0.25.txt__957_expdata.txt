@@ -1,4 +1,4 @@
-	"immune deficiency disease"	"neurodegeneration with brain iron accumulation 2A"	"syndromic X-linked intellectual disability 7"	"MERRF syndrome"	"Griscelli syndrome type 2"	"sudden infant death-dysgenesis of the testes syndrome"
+	"Vici syndrome"	"sialidosis type 2"	"Coats disease"	"MELAS syndrome"	"Niemann-Pick disease type B"	"congenital disorder of glycosylation type 1E"
 "Upper limb undergrowth"	0.0	0.0	0.0	0.0	0.0	1.0
 "Increased urinary O-linked sialopeptides"	0.0	1.0	0.0	0.0	0.0	0.0
 "Urinary excretion of sialylated oligosaccharides"	0.0	1.0	0.0	0.0	0.0	0.0

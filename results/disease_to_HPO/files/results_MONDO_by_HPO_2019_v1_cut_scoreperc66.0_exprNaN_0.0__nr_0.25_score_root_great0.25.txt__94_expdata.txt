@@ -1,4 +1,4 @@
-	"nasopharyngeal carcinoma, susceptibility to, 1"	"dilated cardiomyopathy 1FF"	"Rett syndrome, congenital variant"	"severe intellectual disability-short stature-behavioral abnormalities-facial dysmorphism syndrome"
+	"autosomal recessive nonsyndromic deafness 30"	"autosomal recessive nonsyndromic deafness 25"	"autosomal recessive nonsyndromic deafness 91"	"autosomal recessive nonsyndromic deafness 76"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Progressive hearing impairment"	1.0	0.0	1.0	0.0
 "Progressive sensorineural hearing impairment"	1.0	1.0	0.0	1.0

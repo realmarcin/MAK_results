@@ -1,4 +1,4 @@
-	"premature chromatid separation trait"	"myopathy, lactic acidosis, and sideroblastic anemia 1"	"wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia"	"pontocerebellar hypoplasia, type 2F; PCH2F"	"Cernunnos-XLF deficiency"
+	"familial male-limited precocious puberty"	"lethal hemolytic anemia-genital anomalies syndrome"	"Becker nevus syndrome"	"nevus comedonicus syndrome"	"CLAPO syndrome"
 "Pectus excavatum"	0.0	0.0	1.0	0.0	1.0
 "Facial asymmetry"	0.0	0.0	0.0	0.0	1.0
 "Tall stature"	1.0	0.0	0.0	0.0	1.0

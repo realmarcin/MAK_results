@@ -1,4 +1,4 @@
-	"congenital dyserythropoietic anemia type 2"	"chromosome Xp11.22 duplication syndrome"	"neural tube defects, X-linked"	"palmoplantar keratoderma, Bothnian type"	"amelogenesis imperfecta hypomaturation type 2A4"	"amyotrohpic lateral sclerosis type 22"
+	"cerebellar ataxia, mental retardation, and dysequilibrium syndrome 1"	"X-linked non progressive cerebellar ataxia"	"X-linked sideroblastic anemia with ataxia"	"spinocerebellar ataxia type 5"	"autosomal recessive spinocerebellar ataxia 13"	"autosomal recessive spinocerebellar ataxia 18"
 "Esotropia"	0.0	0.0	0.0	0.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0
 "Gaze-evoked nystagmus"	1.0	0.0	0.0	1.0	0.0	1.0

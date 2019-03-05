@@ -1,4 +1,4 @@
-	"spondylolisthesis (disease)"	"mucopolysaccharidosis type 4B"	"mucopolysaccharidosis type 6"	"autosomal recessive nonsyndromic deafness 30"
+	"spondyloepiphyseal dysplasia tarda, autosomal dominant"	"mucopolysaccharidosis type 4A"	"mucopolysaccharidosis type 4B"	"anauxetic dysplasia 1"
 "Cervical subluxation"	1.0	1.0	1.0	1.0
 "Chondroitin sulfate excretion in urine"	0.0	1.0	0.0	0.0
 "Large elbow"	0.0	1.0	0.0	0.0

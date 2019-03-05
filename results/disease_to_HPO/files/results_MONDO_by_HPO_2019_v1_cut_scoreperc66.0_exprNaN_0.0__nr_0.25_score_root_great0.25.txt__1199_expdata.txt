@@ -1,4 +1,4 @@
-	"cleidocranial dysplasia, recessive form"	"Wilson disease"	"odontoid hypoplasia"	"Chitotriosidase deficiency"	"retinitis pigmentosa 61"	"complement component 4b deficiency"	"STAT3-related early-onset multisystem autoimmune disease"	"congenital myasthenic syndrome 17"	"Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome"
+	"cleft palate-stapes fixation-oligodontia syndrome"	"white forelock with malformations"	"brachydactyly, type A1, with short stature, scoliosis, microcephaly, ptosis, hearing loss, and mental retardation"	"hydrolethalus syndrome 2"	"Meckel syndrome, type 10"	"cranioectodermal dysplasia 4"	"orofaciodigital syndrome type 14"	"short-rib thoracic dysplasia 13 with or without polydactyly"	"short-rib thoracic dysplasia 14 with polydactyly"
 "Brachydactyly"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Small nail"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

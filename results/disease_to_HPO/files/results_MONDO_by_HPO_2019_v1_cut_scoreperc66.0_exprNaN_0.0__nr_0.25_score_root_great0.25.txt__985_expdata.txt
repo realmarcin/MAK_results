@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1E"	"cheilitis glandularis"	"autosomal dominant myoglobinuria"	"spinal muscular atrophy, Ryukyuan type"	"split hand-foot malformation 2"	"congenital amegakaryocytic thrombocytopenia"
+	"Charcot-Marie-Tooth disease, Guadalajara neuronal type"	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"spinal muscular atrophy-progressive myoclonic epilepsy syndrome"	"adult spinal muscular atrophy"	"Kennedy disease"	"hereditary motor and sensory neuropathy, Okinawa type"
 "Peripheral neuropathy"	0.0	0.0	0.0	0.0	1.0	1.0
 "HP:0003581"	0.0	0.0	0.0	1.0	1.0	1.0
 "Gliosis"	0.0	1.0	0.0	0.0	0.0	1.0

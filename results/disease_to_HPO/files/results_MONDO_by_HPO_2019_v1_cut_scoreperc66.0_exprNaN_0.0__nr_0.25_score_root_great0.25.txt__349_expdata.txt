@@ -1,4 +1,4 @@
-	"Carpenter syndrome 1"	"short stature-obesity syndrome"	"BCYM1A"	"pontocerebellar hypoplasia type 3"
+	"acrocephalopolydactyly"	"Beemer-Langer syndrome"	"spondylocostal dysostosis-anal and genitourinary malformations syndrome"	"diaphanospondylodysostosis"
 "Abnormality of the pinna"	1.0	1.0	0.0	0.0
 "Short long bone"	1.0	1.0	0.0	0.0
 "Inguinal hernia"	0.0	1.0	1.0	1.0

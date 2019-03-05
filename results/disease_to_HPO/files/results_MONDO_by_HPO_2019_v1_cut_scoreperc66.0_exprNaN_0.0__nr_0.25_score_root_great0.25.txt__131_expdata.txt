@@ -1,4 +1,4 @@
-	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"autosomal dominant popliteal pterygium syndrome"	"isolated cleft palate"	"MALT lymphoma"	"parietal foramina with cleidocranial dysplasia"	"tibia, hypoplasia or aplasia of, with polydactyly"	"amyotrophic lateral sclerosis type 4"	"melanoma-pancreatic cancer syndrome"	"hereditary cryohydrocytosis with reduced stomatin"
+	"ankyloblepharon filiforme adnatum-cleft palate syndrome"	"van der Woude syndrome 1"	"OFC1"	"hereditary diffuse gastric adenocarcinoma"	"parietal foramina 1"	"Blount disease, infantile"	"Weyers ulnar ray/oligodactyly syndrome"	"van der Woude syndrome 2"	"orofacial cleft 5"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
 "Cleft upper lip"	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
 "Osteochondritis Dissecans"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"immunodeficiency, common variable, 1"	"Loeys-Dietz syndrome 4"	"vasculitis due to ADA2 deficiency"
+	"proximal renal tubular acidosis"	"hereditary spastic paraplegia 24"	"Joubert syndrome 18"	"hereditary spastic paraplegia 63"
 "Joint laxity"	0.0	0.0	1.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0
 "HP:0003812"	0.0	0.0	1.0	0.0

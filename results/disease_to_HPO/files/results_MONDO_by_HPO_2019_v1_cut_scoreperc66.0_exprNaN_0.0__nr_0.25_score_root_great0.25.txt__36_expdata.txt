@@ -1,4 +1,4 @@
-	"cardiomyopathy associated with myopathy and sudden death"	"candidiasis, familial, 8"	"LIPE-related familial partial lipodystrophy"
+	"dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome"	"microphthalmia, syndromic 12"	"intellectual disability, autosomal recessive 45"
 "Wide nasal bridge"	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	0.0

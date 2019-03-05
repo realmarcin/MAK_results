@@ -1,4 +1,4 @@
-	"isolated right ventricular hypoplasia"	"spermatogenic failure 9"	"spermatogenic failure 14"	"Aicardi-Goutieres syndrome 7"	"spermatogenic failure 26"	"spermatogenic failure 32"
+	"congenital bilateral aplasia of vas deferens from CFTR mutation"	"spermatogenic failure 8"	"spermatogenic failure 13"	"spermatogenic failure 14"	"spermatogenic failure 25"	"spermatogenic failure 30"
 "HP:0000007"	1.0	1.0	1.0	1.0	0.0	0.0
 "HP:0001425"	1.0	0.0	0.0	0.0	0.0	0.0
 "Azoospermia"	1.0	1.0	1.0	1.0	1.0	1.0

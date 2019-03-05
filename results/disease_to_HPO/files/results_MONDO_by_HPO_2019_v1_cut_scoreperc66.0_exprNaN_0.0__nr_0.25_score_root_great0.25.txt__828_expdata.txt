@@ -1,4 +1,4 @@
-	"episodic ataxia type 2"	"Bartter disease type 5"	"otopalatodigital syndrome type 2"	"X-linked hypohidrotic ectodermal dysplasia"
+	"asymmetric short stature syndrome"	"intellectual disability, X-linked 99, syndromic, female-restricted; MRXS99F"	"craniofrontonasal syndrome"	"dyskeratosis congenita, X-linked"
 "Asymmetric short stature"	1.0	0.0	0.0	0.0
 "Hemihypotrophy of lower limb"	1.0	0.0	1.0	0.0
 "Abnormality of thyroid physiology"	0.0	1.0	0.0	0.0

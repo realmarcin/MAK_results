@@ -1,4 +1,4 @@
-	"familial focal alopecia"	"pacman dysplasia"	"multiple mitochondrial dysfunctions syndrome 1"	"mitochondrial complex III deficiency nuclear type 7"
+	"autosomal dominant palmoplantar keratoderma and congenital alopecia"	"pachyonychia congenita 2"	"dilated cardiomyopathy with woolly hair and keratoderma"	"cardiomyopathy, dilated, with woolly hair, keratoderma, and tooth agenesis"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Palmoplantar hyperkeratosis"	1.0	1.0	0.0	0.0
 "Leukonychia"	1.0	0.0	0.0	1.0

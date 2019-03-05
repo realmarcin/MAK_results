@@ -1,4 +1,4 @@
 "x"
-"1" "inherited.pseudoxanthoma.elasticum"
-"2" "vitamin.K.dependent.clotting.factors..combined.deficiency.of..type.1"
-"3" "glucose.galactose.malabsorption"
+"1" "vitamin.D.dependent.rickets..type.1"
+"2" "vitamin.D.dependent.rickets..type.2A"
+"3" "fumaric.aciduria"

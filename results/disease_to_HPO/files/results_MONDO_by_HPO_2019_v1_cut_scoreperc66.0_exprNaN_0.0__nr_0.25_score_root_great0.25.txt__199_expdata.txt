@@ -1,4 +1,4 @@
-	"intellectual disability, X-linked, with panhypopituitarism"	"EMWX"	"thrombocytopenia, X-linked, with or without dyserythropoietic anemia"	"N syndrome"	"Norrie disease"
+	"MRX50"	"intellectual disability, X-linked 58"	"MRX73"	"MYP1"	"congenital stationary night blindness 1A"
 "HP:0001417"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability, mild"	1.0	1.0	1.0	0.0	0.0
 "Synophrys"	0.0	0.0	1.0	0.0	0.0

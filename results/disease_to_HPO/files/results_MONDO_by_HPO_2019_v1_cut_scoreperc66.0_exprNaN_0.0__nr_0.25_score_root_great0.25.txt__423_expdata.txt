@@ -1,4 +1,4 @@
-	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"branchiootorenal syndrome 1"	"larynx atresia"	"syndromic X-linked intellectual disability Siderius type"	"infantile-onset X-linked spinal muscular atrophy"	"short tarsus-absence of lower eyelashes syndrome"
+	"ankyloblepharon filiforme adnatum-cleft palate syndrome"	"branchiooculofacial syndrome"	"congenital laryngomalacia"	"syndromic X-linked intellectual disability Abidi type"	"contractures-ectodermal dysplasia-cleft lip/palate syndrome"	"Toriello-Lacassie-Droste syndrome"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0	0.0
 "Wide nasal bridge"	0.0	1.0	0.0	0.0	0.0	1.0
 "HP:0000006"	1.0	1.0	1.0	0.0	0.0	1.0

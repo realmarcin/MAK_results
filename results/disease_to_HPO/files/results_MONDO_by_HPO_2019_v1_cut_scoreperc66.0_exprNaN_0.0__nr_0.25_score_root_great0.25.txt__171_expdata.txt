@@ -1,4 +1,4 @@
-	"spermatogenic failure, Y-linked, 2"	"EJM9"	"inflammatory skin and bowel disease, neonatal, 2"	"microphthalmia, isolated, with coloboma 10"
+	"46,XX testicular disorder of sex development"	"46,XY disorder of sex development due to testicular 17,20-desmolase deficiency"	"46,XY sex reversal 9"	"46,XY sex reversal 10"
 "Sex reversal"	1.0	1.0	1.0	1.0
 "Ambiguous genitalia"	1.0	1.0	1.0	1.0
 "Six lumbar vertebrae"	0.0	0.0	0.0	0.0

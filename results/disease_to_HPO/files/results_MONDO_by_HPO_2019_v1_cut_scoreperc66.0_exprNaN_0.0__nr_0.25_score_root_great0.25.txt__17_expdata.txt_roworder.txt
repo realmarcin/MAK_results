@@ -1,4 +1,4 @@
 "x"
-"1" "Cri.du.chat.syndrome"
-"2" "myofibrillar.myopathy.6"
-"3" "Parotidomegaly..hereditary.bilateral"
+"1" "inherited.Creutzfeldt.Jakob.disease"
+"2" "autosomal.recessive.Parkinson.disease.14"
+"3" "Perry.syndrome"

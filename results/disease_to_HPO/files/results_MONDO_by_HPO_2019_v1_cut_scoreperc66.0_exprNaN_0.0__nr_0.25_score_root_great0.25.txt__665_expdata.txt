@@ -1,4 +1,4 @@
-	"Richards-Rundle syndrome"	"polycystic kidney, cataract, and congenital blindness"	"fundus dystrophy, pseudoinflammatory, recessive form"	"pulmonary arteriovenous malformation (disease)"	"osteogenesis imperfecta type 8"	"coronary artery disease, autosomal dominant 2"
+	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"desquamative interstitial pneumonia"	"autosomal recessive pseudohypoaldosteronism type 1"	"neonatal acute respiratory distress due to SP-B deficiency"	"surfactant metabolism dysfunction, pulmonary, 2"	"interstitial lung disease due to ABCA3 deficiency"
 "Interstitial pulmonary abnormality"	0.0	0.0	0.0	1.0	0.0	0.0
 "Pulmonary arterial hypertension"	0.0	0.0	0.0	1.0	0.0	0.0
 "HP:0001425"	0.0	0.0	0.0	1.0	1.0	1.0

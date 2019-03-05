@@ -1,4 +1,4 @@
-	"Galloway-Mowat syndrome 1"	"mitochondrial myopathy"	"alpha 1-antitrypsin deficiency"	"Leber congenital amaurosis 15"	"intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome"
+	"pseudo-TORCH syndrome"	"mitochondrial DNA depletion syndrome 3"	"COG4-CDG"	"constitutional megaloblastic anemia with severe neurologic disease"	"sulfite oxidase deficiency due to molybdenum cofactor deficiency type C"
 "Hepatomegaly"	1.0	1.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0	0.0
 "Ataxia"	0.0	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"carpal displacement"	"paralysis agitans, juvenile, of Hunt"	"autosomal dominant nocturnal frontal lobe epilepsy 3"
+	"paragangliomas 4"	"paragangliomas 1"	"paragangliomas 3"
 "Episodic paroxysmal anxiety"	1.0	1.0	1.0
 "Recurrent paroxysmal headache"	1.0	1.0	1.0
 "Hypertension associated with pheochromocytoma"	1.0	1.0	1.0

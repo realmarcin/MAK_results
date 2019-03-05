@@ -1,4 +1,4 @@
-	"dystonia 12"	"familial pancreatic carcinoma"	"SCZD10"	"familial dyskinesia and facial myokymia"	"autosomal recessive nonsyndromic deafness 59"	"lymphedema, hereditary, type III"
+	"dystonia 5"	"parkinsonian-pyramidal syndrome"	"TH-deficient dopa-responsive dystonia"	"Kufor-Rakeb syndrome"	"neurodegeneration with brain iron accumulation 2B"	"autosomal recessive early-onset Parksinson disease 23"
 "Gait ataxia"	1.0	0.0	1.0	0.0	1.0	0.0
 "Parkinsonism"	1.0	1.0	1.0	1.0	0.0	1.0
 "Neurofibrillary tangles"	0.0	0.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"lipoma of the conjunctiva"	"dilated cardiomyopathy 1HH"	"nephrotic syndrome, type 8"	"Bardet-Biedl syndrome 2"
+	"familial partial lipodystrophy, Dunnigan type"	"PLIN1-related familial partial lipodystrophy"	"CIDEC-related familial partial lipodystrophy"	"LIPE-related familial partial lipodystrophy"
 "Advanced eruption of teeth"	1.0	0.0	0.0	0.0
 "Polycystic ovaries"	1.0	1.0	1.0	1.0
 "Atherosclerosis"	1.0	0.0	0.0	0.0

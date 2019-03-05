@@ -1,4 +1,4 @@
-	"hereditary coproporphyria"	"anemia, nonspherocytic hemolytic, associated with abnormality of red cell membrane"	"gastroschisis"	"rhabdoid tumor predisposition syndrome 1"
+	"familial benign copper deficiency"	"IRIDA syndrome"	"gapo syndrome"	"MEDNIK syndrome"
 "Early balding"	1.0	0.0	1.0	0.0
 "Hypocupremia"	1.0	1.0	0.0	1.0
 "HP:0031877"	0.0	1.0	0.0	0.0

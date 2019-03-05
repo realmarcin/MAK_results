@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"hereditary arterial and articular multiple calcification syndrome"	"immunodeficiency, common variable, 1"	"hereditary spastic paraplegia 63"	"vasculitis due to ADA2 deficiency"
+	"proximal renal tubular acidosis"	"cataract-hypertrichosis-intellectual disability syndrome"	"hereditary spastic paraplegia 24"	"hereditary spastic paraplegia 61"	"hereditary spastic paraplegia 63"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0	0.0
 "Low posterior hairline"	0.0	1.0	0.0	0.0	0.0

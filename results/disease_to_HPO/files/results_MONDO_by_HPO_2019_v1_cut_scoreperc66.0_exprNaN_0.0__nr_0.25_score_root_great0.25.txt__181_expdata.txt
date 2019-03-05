@@ -1,4 +1,4 @@
-	"congenital myasthenic syndrome 10"	"mycosis fungoides"	"neonatal intrahepatic cholestasis due to citrin deficiency"	"congenital myasthenic syndrome 4C"	"congenital myasthenic syndrome 2C"	"maturity-onset diabetes of the young type 13"
+	"congenital myasthenic syndrome 6"	"congenital myasthenic syndrome 10"	"congenital myasthenic syndrome 4A"	"myasthenic syndrome, congenital, 1B, fast-channel"	"congenital myasthenic syndrome 2A"	"congenital myasthenic syndrome 11"
 "Ptosis"	1.0	1.0	1.0	1.0	1.0	1.0
 "Bulbar palsy"	1.0	1.0	1.0	1.0	0.0	0.0
 "HP:0003577"	1.0	0.0	1.0	0.0	1.0	1.0

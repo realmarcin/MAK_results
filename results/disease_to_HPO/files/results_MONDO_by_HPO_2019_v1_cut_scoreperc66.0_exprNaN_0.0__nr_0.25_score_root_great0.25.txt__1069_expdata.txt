@@ -1,4 +1,4 @@
-	"holoprosencephaly 3"	"short-limb skeletal dysplasia with severe combined immunodeficiency"	"saccharopinuria"	"syndromic X-linked intellectual disability 34"	"nephronophthisis 3"	"PMP22-RAI1 contiguous gene duplication syndrome"
+	"Holt-Oram syndrome"	"acromesomelic dysplasia, Grebe type"	"EEC syndrome"	"intellectual disability, X-linked, syndromic 33"	"patent ductus arteriosus-bicuspid aortic valve-hand anomalies syndrome"	"Roifman syndrome"
 "Aplasia/Hypoplasia of the breasts"	0.0	0.0	1.0	0.0	0.0	0.0
 "HP:0011927"	1.0	1.0	1.0	1.0	1.0	1.0
 "Ureterovesical stenosis"	0.0	0.0	1.0	0.0	0.0	0.0

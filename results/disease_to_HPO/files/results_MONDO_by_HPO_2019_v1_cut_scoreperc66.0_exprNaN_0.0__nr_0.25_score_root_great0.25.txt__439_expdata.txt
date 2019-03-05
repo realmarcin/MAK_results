@@ -1,4 +1,4 @@
-	"muscular dystrophy, congenital, with rapid progression"	"myotonia congenita"	"hyperinsulinism due to glucokinase deficiency"	"encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome"	"portal hypertension, noncirrhotic; NCPH"	"epileptic encephalopathy, early infantile, 45; EIEE45"
+	"Ullrich congenital muscular dystrophy 1"	"myopathy, centronuclear, 2"	"pelvic dysplasia-arthrogryposis of lower limbs syndrome"	"hereditary sensory and autonomic neuropathy type 6"	"congenital muscular dystrophy-respiratory failure-skin abnormalities-joint hyperlaxity syndrome"	"arthrogryposis, distal, with impaired proprioception and touch; DAIPT"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0
 "Motor delay"	1.0	1.0	0.0	0.0	1.0	1.0
 "High palate"	1.0	1.0	0.0	1.0	1.0	1.0

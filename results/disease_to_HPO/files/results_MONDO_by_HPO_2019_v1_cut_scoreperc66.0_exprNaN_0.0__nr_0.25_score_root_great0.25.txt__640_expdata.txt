@@ -1,4 +1,4 @@
-	"ATHS"	"laryngeal abductor paralysis"	"hyperdibasic aminoaciduria type 1"	"Kifafa seizure disorder"	"nephronophthisis 1"	"glioma susceptibility 9"
+	"atelosteogenesis type III"	"Larsen syndrome"	"diastrophic dysplasia"	"Kniest-like dysplasia with pursed lips and ectopia lentis"	"atelosteogenesis type II"	"spondylocostal dysostosis 6, autosomal recessive"
 "Cervical kyphosis"	1.0	1.0	1.0	1.0	1.0	1.0
 "Multiple carpal ossification centers"	0.0	1.0	0.0	0.0	0.0	0.0
 "Dislocated wrist"	0.0	1.0	0.0	0.0	0.0	0.0

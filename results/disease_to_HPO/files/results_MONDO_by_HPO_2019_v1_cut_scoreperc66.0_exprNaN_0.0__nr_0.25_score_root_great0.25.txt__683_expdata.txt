@@ -1,4 +1,4 @@
-	"brachydactyly type A1A"	"syndactyly-polydactyly-ear lobe syndrome"	"aphalangy-syndactyly-microcephaly syndrome"	"hyper-IgM syndrome type 4"	"intellectual disability, keratoconus, febrile seizures, and sinoatrial block"	"premature ovarian failure 7"
+	"brachydactyly-preaxial hallux varus syndrome"	"syndactyly type 5"	"mesomelia-synostoses syndrome"	"synpolydactyly type 2"	"mesoaxial synostotic syndactyly with phalangeal reduction"	"multiple synostoses syndrome 3"
 "Metatarsal synostosis"	0.0	1.0	1.0	1.0	0.0	1.0
 "Hallux varus"	1.0	0.0	0.0	0.0	0.0	1.0
 "Cutaneous syndactyly of toes"	0.0	0.0	0.0	0.0	0.0	1.0

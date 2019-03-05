@@ -1,4 +1,4 @@
-	"branchiootorenal syndrome 1"	"choroideremia"	"early-onset parkinsonism-intellectual disability syndrome"
+	"branchiooculofacial syndrome"	"X-linked chondrodysplasia punctata 1"	"Pallister-W syndrome"
 "Short nasal septum"	1.0	1.0	0.0
 "Postauricular pit"	1.0	0.0	0.0
 "Fusion of middle ear ossicles"	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Seckel syndrome 1"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"factor V and factor VIII, combined deficiency of, type 1"	"panhypopituitarism, X-linked"	"intellectual disability, autosomal recessive 42"
+	"biliary malformation with renal tubular insufficiency"	"rhizomelic chondrodysplasia punctata type 2"	"faciocardiorenal syndrome"	"tarp syndrome"	"short stature with microcephaly and distinctive facies"
 "Wide nasal bridge"	0.0	1.0	1.0	1.0	0.0
 "Single transverse palmar crease"	1.0	0.0	0.0	1.0	0.0
 "Talipes equinovarus"	1.0	0.0	0.0	1.0	1.0

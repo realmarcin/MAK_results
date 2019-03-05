@@ -1,4 +1,4 @@
-	"retinal cone dystrophy type 1"	"Wilms tumor type 1"	"dissecting cellulitis of the scalp"	"CGF1"	"mitochondrial myopathy with reversible cytochrome C oxidase deficiency"	"oncocytic neoplasm"	"pontocerebellar hypoplasia type 1A"	"Brugada syndrome 2"
+	"retinal arterial tortuosity (disease)"	"Williams syndrome"	"pericardial effusion, chronic"	"X-linked immunoneurologic disorder"	"cyclic vomiting syndrome"	"NARP syndrome"	"COL4A1-related familial vascular leukoencephalopathy"	"autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"
 "Retinal arteriolar tortuosity"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0
 "Corticospinal tract atrophy"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormal visual field test"	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

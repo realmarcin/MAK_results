@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"Mayer-Rokitansky-Küster-Hauser syndrome type 2"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"aplasia cutis-myopia syndrome"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Calvarial skull defect"	0.0	1.0	0.0	0.0
 "Abnormality of retinal pigmentation"	0.0	1.0	0.0	0.0

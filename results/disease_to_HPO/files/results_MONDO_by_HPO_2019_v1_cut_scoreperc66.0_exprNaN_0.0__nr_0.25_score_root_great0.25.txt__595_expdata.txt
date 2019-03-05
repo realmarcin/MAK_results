@@ -1,4 +1,4 @@
-	"Joubert syndrome 2"	"hypertrophic cardiomyopathy 14"	"MRT29"	"pancreatic triacylglycerol lipase deficiency"	"peripheral neuropathy-myopathy-hoarseness-hearing loss syndrome"	"lethal encephalopathy due to mitochondrial and peroxisomal fission defect"
+	"endometrial cancer"	"colorectal cancer, hereditary nonpolyposis, type 8"	"colorectal cancer, hereditary nonpolyposis, type 6"	"colorectal cancer, hereditary nonpolyposis, type 4"	"colorectal cancer, hereditary nonpolyposis, type 5"	"colorectal cancer, hereditary nonpolyposis, type 7"
 "HP:0000006"	0.0	0.0	1.0	1.0	1.0	1.0
 "HP:0003829"	0.0	0.0	0.0	0.0	1.0	0.0
 "Hereditary nonpolyposis colorectal carcinoma"	0.0	1.0	1.0	1.0	1.0	1.0

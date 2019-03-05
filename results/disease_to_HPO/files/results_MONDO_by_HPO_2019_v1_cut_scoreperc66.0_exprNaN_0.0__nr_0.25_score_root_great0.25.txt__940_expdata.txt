@@ -1,4 +1,4 @@
-	"CANDF1"	"cardiac rhythm disease"	"triple-A syndrome"	"peripheral cone dystrophy"	"permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome"
+	"hepatocellular carcinoma"	"carcinoid syndrome"	"hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency"	"long chain 3-hydroxyacyl-CoA dehydrogenase deficiency"	"hepatoencephalopathy due to combined oxidative phosphorylation defect type 1"
 "Hepatic necrosis"	1.0	1.0	1.0	0.0	0.0
 "Fulminant hepatic failure"	0.0	0.0	1.0	0.0	1.0
 "Decreased activity of 3-hydroxyacyl-CoA dehydrogenase"	0.0	0.0	1.0	1.0	0.0

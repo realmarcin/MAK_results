@@ -1,4 +1,4 @@
-	"amyloidosis, primary localized cutaneous, 1"	"Pallister-hall syndrome"	"pelvic lipomatosis with crossed renal ectopia"	"fragile X syndrome"	"MYP3"
+	"familial amyloid neuropathy"	"multiple system atrophy"	"adult-onset autosomal dominant demyelinating leukodystrophy"	"fragile X-associated tremor/ataxia syndrome"	"Huntington disease-like 1"
 "Hearing impairment"	1.0	0.0	1.0	1.0	0.0
 "Nystagmus"	1.0	0.0	1.0	1.0	1.0
 "Hyporeflexia"	1.0	0.0	0.0	1.0	0.0

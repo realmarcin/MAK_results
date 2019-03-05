@@ -1,4 +1,4 @@
-	"adrenocortical carcinoma, hereditary"	"peroxisome biogenesis disorder 2B"	"PDA1"	"myofibrillar myopathy 3"
+	"glucocorticoid deficiency 1"	"adrenocortical unresponsiveness to ACTH with postreceptor defect"	"glucocorticoid deficiency 2"	"GCCD3"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Hyperpigmentation of the skin"	1.0	1.0	1.0	1.0
 "Decreased circulating cortisol level"	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
 "x"
-"1" "urocanic.aciduria..disease."
-"2" "X.linked.spermatogenic.failure.1"
-"3" "pulmonary.venoocclusive.disease"
+"1" "ulnar.agenesis.and.endocardial.fibroelastosis"
+"2" "inherited.genitourinary.tract.anomalies..disease."
+"3" "familial.primary.pulmonary.hypoplasia"

@@ -1,4 +1,4 @@
-	"Larsen syndrome"	"tooth agenesis, selective, 4"	"annular pancreas"	"Silver-Russell syndrome"	"conotruncal heart malformations"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis type 4A"	"mucopolysaccharidosis type 6"	"polycystic kidney, cataract, and congenital blindness"	"Hermansky-Pudlak syndrome 7"	"pontocerebellar hypoplasia type 7"	"orofacial cleft 15"
+	"trichorhinophalangeal syndrome type II"	"congenital laryngeal web"	"nasopalpebral lipoma-coloboma syndrome"	"Rubinstein-Taybi syndrome due to CREBBP mutations"	"hypoplasminogenemia"	"Sanfilippo syndrome type A"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis type 4B"	"desquamative interstitial pneumonia"	"Hermansky-Pudlak syndrome 6"	"obesity due to leptin receptor gene deficiency"	"Joubert syndrome 26"
 "Syndactyly"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Deeply set eye"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Joint hypermobility"	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

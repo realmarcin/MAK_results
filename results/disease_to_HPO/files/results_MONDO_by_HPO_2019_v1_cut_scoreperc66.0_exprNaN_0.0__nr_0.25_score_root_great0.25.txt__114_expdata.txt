@@ -1,4 +1,4 @@
-	"hypertrophic cardiomyopathy 2"	"magnesium, elevated red cell"	"mitochondrial myopathy"	"prolactin deficiency, isolated"	"von Willebrand disease 3"	"trichothiodystrophy 5, nonphotosensitive"
+	"cardiofaciocutaneous syndrome 1"	"renal hypomagnesemia 3"	"mitochondrial DNA depletion syndrome 3"	"Wiedemann-Rautenstrauch syndrome"	"pontocerebellar hypoplasia type 2A"	"linear skin defects with multiple congenital anomalies 3"
 "Strabismus"	1.0	1.0	0.0	0.0	0.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	0.0	1.0

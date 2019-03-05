@@ -1,4 +1,4 @@
-	"toe, fifth, number of phalanges 1N"	"Keutel syndrome"	"Pelger-Huet-like anomaly and episodic fever with abdominal pain"	"congenital thrombotic thrombocytopenic purpura"	"NNO1"
+	"tibial torsion, bilateral medial"	"Ketoadipicaciduria"	"PEHO syndrome"	"thrombocytopenia-absent radius syndrome"	"pterygium colli-intellectual disability-digital anomalies syndrome"
 "Edema of the dorsum of hands"	0.0	1.0	1.0	1.0	1.0
 "Edema of the dorsum of feet"	0.0	1.0	1.0	1.0	1.0
 "HP:0009662"	0.0	0.0	0.0	0.0	1.0

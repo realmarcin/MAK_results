@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"Leber congenital amaurosis 2"	"amaurosis-hypertrichosis syndrome"
+	"proximal renal tubular acidosis"	"Leber congenital amaurosis 1"	"Leber congenital amaurosis 2"
 "HP:0000007"	0.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0
 "Photophobia"	0.0	1.0	1.0

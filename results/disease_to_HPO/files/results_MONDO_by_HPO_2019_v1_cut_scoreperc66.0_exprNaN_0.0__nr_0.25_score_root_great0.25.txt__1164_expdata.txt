@@ -1,4 +1,4 @@
-	"osteogenesis imperfecta type 2"	"osteogenesis imperfecta type 4"	"osteoglophonic dwarfism"	"multicentric carpo-tarsal osteolysis with or without nephropathy"	"ulnar-mammary syndrome"	"osteogenesis imperfecta type 3"	"primary ciliary dyskinesia 20"	"spermatogenic failure 30"
+	"osteogenesis imperfecta type 1"	"osteogenesis imperfecta type 2"	"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures"	"gnathodiaphyseal dysplasia"	"Scheuermann disease"	"congenital osteogenesis imperfecta-microcephaly-cataracts syndrome"	"osteogenesis imperfecta type 14"	"osteopetrosis, autosomal dominant 3"
 "Scoliosis"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Osteopenia"	1.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0
 "Recurrent fractures"	1.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0

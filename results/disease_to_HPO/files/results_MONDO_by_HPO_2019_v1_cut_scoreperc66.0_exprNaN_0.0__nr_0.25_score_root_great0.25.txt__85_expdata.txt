@@ -1,4 +1,4 @@
-	"familial temporal lobe epilepsy 2"	"Joubert syndrome 20"	"STT3B-CDG"	"palmoplantar keratoderma, Nagashima type"	"orofacial cleft 15"
+	"DPAGT1-CDG"	"pontocerebellar hypoplasia type 7"	"STT3A-CDG"	"STT3B-CDG"	"Joubert syndrome 26"
 "Cryptorchidism"	1.0	0.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0

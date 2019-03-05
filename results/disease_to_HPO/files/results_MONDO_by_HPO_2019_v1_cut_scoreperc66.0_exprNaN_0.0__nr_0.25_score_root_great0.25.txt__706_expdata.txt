@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"	"BENTA disease"
+	"amyotrophic lateral sclerosis type 1"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"	"hereditary spastic paraplegia 74"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Hyperreflexia"	1.0	1.0	1.0	1.0
 "Visual field defect"	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"cleidocranial dysplasia, recessive form"	"Chitotriosidase deficiency"	"retinitis pigmentosa 61"	"complement component 4b deficiency"	"STAT3-related early-onset multisystem autoimmune disease"
+	"cleft palate-stapes fixation-oligodontia syndrome"	"hydrolethalus syndrome 2"	"Meckel syndrome, type 10"	"cranioectodermal dysplasia 4"	"orofaciodigital syndrome type 14"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Narrow chest"	0.0	0.0	0.0	1.0	0.0
 "Broad distal phalanx of finger"	0.0	0.0	0.0	1.0	0.0

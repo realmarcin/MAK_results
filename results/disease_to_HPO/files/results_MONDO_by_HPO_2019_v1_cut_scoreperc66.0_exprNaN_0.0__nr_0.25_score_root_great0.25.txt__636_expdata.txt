@@ -1,4 +1,4 @@
-	"progeria-short stature-pigmented nevi syndrome"	"Joubert syndrome with hepatic defect"	"Riley-Day syndrome"	"lathosterolosis"	"congenital myasthenic syndrome 17"
+	"progeria"	"Yunis-Varon syndrome"	"Dyggve-Melchior-Clausen disease"	"Smith-McCort dysplasia 1"	"short-rib thoracic dysplasia 13 with or without polydactyly"
 "Hypoplastic facial bones"	1.0	1.0	1.0	1.0	1.0
 "Deformed sella turcica"	0.0	0.0	1.0	1.0	0.0
 "Delayed femoral head ossification"	0.0	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"intellectual disability-sparse hair-brachydactyly syndrome"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Klippel-Feil syndrome 2, autosomal recessive"	"amelia cleft lip palate hydrocephalus iris coloboma"
 "Absent septum pellucidum"	0.0	0.0	0.0	1.0
 "Scoliosis"	1.0	0.0	1.0	1.0
 "HP:0003745"	0.0	0.0	0.0	1.0

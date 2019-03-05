@@ -1,4 +1,4 @@
-	"genochondromatosis"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"familial digital arthropathy-brachydactyly"
+	"gastric mucosal hypertrophy"	"beta-ketothiolase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"glucose-galactose malabsorption"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Abdominal distention"	0.0	0.0	0.0	1.0
 "Chronic diarrhea"	0.0	0.0	0.0	1.0

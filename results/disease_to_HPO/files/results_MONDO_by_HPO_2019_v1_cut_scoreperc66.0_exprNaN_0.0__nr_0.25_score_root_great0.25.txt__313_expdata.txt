@@ -1,4 +1,4 @@
-	"craniofaciofrontodigital syndrome"	"CADASIL 1"	"incisors, long upper central"	"paramyotonia congenita of Von Eulenburg"	"split-hand and split-foot with hypodontia"	"teeth present at birth (disease)"	"hypogonadotropic hypogonadism 18 with or without anosmia"
+	"canine teeth, absence of upper permanent"	"dens 1N dente and palatal invaginations"	"fused mandibular incisors"	"Paramolar tubercle of bolk"	"split lower lip"	"teeth, odd shapes of"	"hypogonadotropic hypogonadism 17 with or without anosmia"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the dentition"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Lower lip pit"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

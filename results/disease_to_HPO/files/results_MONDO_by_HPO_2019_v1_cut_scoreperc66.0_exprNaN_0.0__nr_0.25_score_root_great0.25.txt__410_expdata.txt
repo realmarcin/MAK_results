@@ -1,4 +1,4 @@
-	"malignant hyperthermia, susceptibility to, 2"	"cataract 16 multiple types"	"inflammatory skin and bowel disease, neonatal, 2"	"microphthalmia, isolated, with coloboma 10"
+	"46,XY sex reversal 4"	"46,XY sex reversal 6"	"46,XY sex reversal 9"	"46,XY sex reversal 10"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Micropenis"	0.0	0.0	0.0	1.0
 "Sex reversal"	1.0	1.0	1.0	1.0

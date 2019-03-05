@@ -1,4 +1,4 @@
 "x"
-"1" "autosomal.recessive.distal.osteolysis.syndrome"
-"2" "progressive.osseous.heteroplasia"
-"3" "osteoma.of.middle.ear"
+"1" "multicentric.osteolysis..nodulosis..and.arthropathy"
+"2" "multicentric.carpo.tarsal.osteolysis.with.or.without.nephropathy"
+"3" "autosomal.recessive.distal.osteolysis.syndrome"

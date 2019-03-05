@@ -1,4 +1,4 @@
-	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"	"severe intellectual disability-progressive spastic diplegia syndrome"
+	"hyperphosphatasia with intellectual disability syndrome 1"	"intellectual disability, X-linked 21"	"intellectual disability, autosomal recessive 13"	"hyperphosphatasia with intellectual disability syndrome 2"	"severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0
 "Wide nasal bridge"	1.0	0.0	1.0	1.0	1.0
 "Inappropriate laughter"	0.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"intellectual disability, anterior maxillary protrusion, and strabismus"	"cone-rod dystrophy 17"	"retinal dystrophy with inner retinal dysfunction and ganglion cell anomalies"	"Parkinson disease 22, autosomal dominant; PARK22"	"neurodevelopmental disorder with hypotonia, seizures, and absent language; NDHSAL"
+	"intellectual disability-severe speech delay-mild dysmorphism syndrome"	"short ulna-dysmorphism-hypotonia-intellectual disability syndrome"	"intellectual disability, autosomal dominant 29"	"facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation"	"global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies; GDACCF"
 "Hypertelorism"	1.0	1.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	1.0	0.0	1.0	1.0
 "Coarse facial features"	0.0	1.0	0.0	1.0	1.0

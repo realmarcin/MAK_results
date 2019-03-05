@@ -1,4 +1,4 @@
-	"avascular necrosis of femoral head, primary, 1"	"GLC1M"	"primary ciliary dyskinesia 9"	"colorectal cancer, hereditary nonpolyposis, type 7"	"Catel-Manzke syndrome"
+	"hypomyelinating leukodystrophy 2"	"hypomyelinating leukodystrophy 5"	"hypomyelinating leukodystrophy 6"	"hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism"	"hypomyelinating leukodystrophy 9"
 "CNS hypomyelination"	0.0	0.0	0.0	0.0	0.0
 "Cerebral hypomyelination"	1.0	1.0	1.0	1.0	1.0
 "Intention tremor"	1.0	1.0	0.0	1.0	1.0

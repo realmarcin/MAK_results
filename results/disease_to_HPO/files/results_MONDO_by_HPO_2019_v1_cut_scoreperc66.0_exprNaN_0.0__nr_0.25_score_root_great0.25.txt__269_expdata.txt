@@ -1,4 +1,4 @@
-	"hypogonadotropic hypogonadism 8 with or without anosmia"	"Joubert syndrome 20"	"hereditary spastic paraplegia 61"	"long QT syndrome 14"	"hereditary spastic paraplegia 73"
+	"bilateral generalized polymicrogyria"	"pontocerebellar hypoplasia type 7"	"hereditary spastic paraplegia 64"	"combined oxidative phosphorylation defect type 24"	"postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Microcephaly"	1.0	0.0	1.0	1.0	1.0
 "Generalized hypotonia"	0.0	1.0	0.0	1.0	1.0

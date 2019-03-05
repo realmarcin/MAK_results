@@ -1,4 +1,4 @@
-	"young syndrome"	"sickle cell anemia"	"cerebral palsy, spastic quadriplegic, 2"
+	"xylosidase deficiency"	"leukoencephalopathy with vanishing white matter"	"premature ovarian failure 10"
 "HP:0000007"	1.0	1.0	1.0
 "Seizures"	1.0	1.0	0.0
 "Muscular hypotonia"	1.0	1.0	0.0

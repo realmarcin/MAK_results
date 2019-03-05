@@ -1,4 +1,4 @@
-	"antecubital pterygium syndrome"	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"osteogenesis imperfecta type 14"
+	"autosomal dominant multiple pterygium syndrome"	"microcephaly-albinism-digital anomalies syndrome"	"syndromic X-linked intellectual disability Shrimpton type"	"distal arthrogryposis type 5D"
 "Cleft palate"	1.0	0.0	0.0	1.0
 "Ptosis"	1.0	0.0	0.0	1.0
 "Short neck"	1.0	0.0	0.0	1.0

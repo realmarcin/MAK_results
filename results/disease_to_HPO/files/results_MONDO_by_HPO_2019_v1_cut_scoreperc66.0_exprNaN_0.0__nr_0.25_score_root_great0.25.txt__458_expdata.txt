@@ -1,4 +1,4 @@
-	"nonpapillary renal cell carcinoma"	"XK aprosencephaly"	"hyperlysinemia (disease)"	"apolipoprotein c-III deficiency"
+	"hyperlipoproteinemia type V"	"familial apolipoprotein C-II deficiency"	"familial lipoprotein lipase deficiency"	"hyperlipidemia due to hepatic triglyceride lipase deficiency"
 "Increased circulating chylomicron levels"	1.0	0.0	1.0	0.0
 "Lipemia retinalis"	0.0	1.0	1.0	0.0
 "Eruptive xanthomas"	0.0	1.0	1.0	1.0

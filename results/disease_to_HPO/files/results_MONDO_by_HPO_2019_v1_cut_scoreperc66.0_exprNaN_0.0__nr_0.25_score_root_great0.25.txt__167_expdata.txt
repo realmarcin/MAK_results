@@ -1,4 +1,4 @@
-	"Chiari malformation type II"	"citrulline transport defect"	"hyperammonemia due to N-acetylglutamate synthase deficiency"	"juvenile Paget disease"	"otopalatodigital syndrome type 1"	"polymicrogyria, bilateral perisylvian, autosomal recessive"
+	"argininosuccinic aciduria"	"citrullinemia type I"	"carbamoyl phosphate synthetase I deficiency disease"	"ornithine translocase deficiency"	"ornithine carbamoyltransferase deficiency"	"hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency"
 "Respiratory alkalosis"	1.0	1.0	1.0	0.0	1.0	1.0
 "Episodic ammonia intoxication"	1.0	1.0	1.0	0.0	1.0	0.0
 "Protein avoidance"	1.0	1.0	1.0	1.0	1.0	0.0

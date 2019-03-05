@@ -1,4 +1,4 @@
-	"Wolff-Parkinson-white syndrome (disease)"	"macular dystrophy, X-linked"	"micromelic dwarfism, Fryns type"	"autosomal recessive nonsyndromic deafness 47"	"multiple synostoses syndrome 2"	"Temple-Baraitser syndrome"	"early-onset progressive encephalopathy-hearing loss-pons hypoplasia-brain atrophy syndrome"
+	"Wolf-Hirschhorn syndrome"	"oculocerebrorenal syndrome"	"Harrod syndrome"	"brachyphalangy, polydactyly, and tibial aplasia/hypoplasia"	"congenital brain dysgenesis due to glutamine synthetase deficiency"	"SERKAL syndrome"	"encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities"
 "Proteinuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Hematuria"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Shoulder muscle hypoplasia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0

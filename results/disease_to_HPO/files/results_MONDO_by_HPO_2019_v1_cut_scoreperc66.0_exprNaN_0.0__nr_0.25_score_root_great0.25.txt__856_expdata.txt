@@ -1,4 +1,4 @@
-	"retinal telangiectasia and hypogammaglobulinemia"	"methylmalonic aciduria and homocystinuria type cblF"	"Newfoundland cone-rod dystrophy"	"dilated cardiomyopathy 1M"	"Kahrizi syndrome"	"nephrotic syndrome, type 10"
+	"reticular dystrophy of the retinal pigment epithelium"	"hypercarotenemia and vitamin a deficiency, autosomal recessive"	"Bothnia retinal dystrophy"	"Newfoundland cone-rod dystrophy"	"Leber congenital amaurosis 13"	"cone-rod dystrophy 19"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormal electroretinogram"	0.0	0.0	1.0	0.0	0.0	0.0
 "Macular degeneration"	0.0	0.0	1.0	0.0	0.0	0.0

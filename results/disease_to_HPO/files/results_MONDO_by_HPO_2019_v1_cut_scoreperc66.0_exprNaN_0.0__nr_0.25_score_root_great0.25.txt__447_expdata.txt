@@ -1,4 +1,4 @@
-	"factor VII and Factor VIII, combined deficiency of"	"platelet disorder, undefined"	"thrombophilia due to activated protein C resistance"	"Brugada syndrome 6"
+	"factor 5 excess with spontaneous thrombosis"	"platelet aggregation, spontaneous"	"thrombophilia due to thrombin defect"	"antithrombin III deficiency"
 "Recurrent thrombophlebitis"	1.0	1.0	1.0	1.0
 "Elevated factor V activity"	1.0	0.0	0.0	0.0
 "Spontaneous platelet aggregation"	0.0	1.0	0.0	0.0

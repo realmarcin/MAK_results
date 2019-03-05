@@ -1,4 +1,4 @@
-	"EEM syndrome"	"pallidal degeneration, progressive, with retinitis pigmentosa"	"craniosynostosis with ocular abnormalities and hallucal defects"	"pancreatic insufficiency-anemia-hyperostosis syndrome"
+	"hypothyroidism, congenital, nongoitrous, 5"	"palant cleft palate syndrome"	"growth failure, microcephaly, mental retardation, cataracts, large joint contractures, osteoporosis, cortical dysplasia, and cerebellar atrophy"	"Kahrizi syndrome"
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Motor delay"	0.0	1.0	1.0	1.0
 "Short stature"	0.0	1.0	1.0	0.0

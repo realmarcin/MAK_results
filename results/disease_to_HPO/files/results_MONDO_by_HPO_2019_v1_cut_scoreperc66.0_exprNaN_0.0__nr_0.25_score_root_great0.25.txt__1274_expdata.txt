@@ -1,4 +1,4 @@
-	"lactic aciduria due to D-lactic acid"	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"ossification of the posterior longitudinal ligament of the spine"	"lipoic acid synthetase deficiency"	"catecholaminergic polymorphic ventricular tachycardia 5"	"limb-girdle muscular dystrophy due to POMK deficiency"	"intellectual disability, autosomal recessive 50"	"autosomal recessive nonsyndromic deafness 105"
+	"mitochondrial DNA depletion syndrome 9"	"3-methylglutaconic aciduria type 4"	"ethylmalonic encephalopathy"	"childhood encephalopathy due to thiamine pyrophosphokinase deficiency"	"combined oxidative phosphorylation defect type 17"	"congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome"	"Al-Raqad syndrome"	"TELO2-related intellectual disability-neurodevelopmental disorder"
 "Lactic acidosis"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
 "Cytochrome C oxidase-negative muscle fibers"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Ethylmalonic aciduria"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

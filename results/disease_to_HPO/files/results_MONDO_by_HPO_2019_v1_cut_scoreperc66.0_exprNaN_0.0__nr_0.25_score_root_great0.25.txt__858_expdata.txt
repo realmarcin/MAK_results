@@ -1,4 +1,4 @@
-	"hypogonadism with low-grade mental deficiency and microcephaly"	"hypogonadism, male"	"whistling face syndrome, recessive form"	"nephronophthisis 11"	"fetal akinesia-cerebral and retinal hemorrhage syndrome"	"lissencephaly 8; LIS8"
+	"hypergonadotropic hypogonadism-cataract syndrome"	"primary hypergonadotropic hypogonadism-partial alopecia syndrome"	"Werner syndrome"	"aromatase deficiency"	"estrogen resistance syndrome"	"Seckel syndrome 10"
 "Breast hypoplasia"	0.0	1.0	0.0	0.0	1.0	0.0
 "Increased circulating gonadotropin level"	1.0	1.0	0.0	0.0	1.0	0.0
 "Decreased fertility"	1.0	0.0	1.0	0.0	0.0	0.0

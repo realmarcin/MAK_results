@@ -1,4 +1,4 @@
-	"papillary renal cell carcinoma"	"myopia 6"	"immunoglobulin-mediated membranoproliferative glomerulonephritis"	"severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome"	"autoimmune interstitial lung disease-arthritis syndrome"
+	"Alzheimer disease, familial early-onset, with Coexisting amyloid and prion pathology"	"AD9"	"basal ganglia calcification, idiopathic, 4"	"basal ganglia calcification, idiopathic, 5"	"basal ganglia calcification, idiopathic, 6"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Depressivity"	0.0	1.0	1.0	1.0	1.0
 "Basal ganglia calcification"	0.0	0.0	1.0	1.0	1.0

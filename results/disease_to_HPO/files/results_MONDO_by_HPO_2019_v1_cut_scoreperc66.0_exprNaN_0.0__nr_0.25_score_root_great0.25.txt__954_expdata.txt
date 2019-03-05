@@ -1,4 +1,4 @@
-	"metabolic myopathy due to lactate transporter defect"	"peroxisome biogenesis disorder 1B"	"leukodystrophy, hypomyelinating, 17"
+	"kuru, susceptibility to"	"Athabaskan brainstem dysgenesis syndrome"	"congenital disorder of glycosylation with defective fucosylation"
 "Flexion contracture"	0.0	0.0	1.0
 "Broad forehead"	0.0	0.0	1.0
 "Buphthalmos"	0.0	0.0	1.0

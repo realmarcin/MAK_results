@@ -1,4 +1,4 @@
-	"peripheral motor neuropathy-dysautonomia syndrome"	"Sanfilippo syndrome type A"	"atelosteogenesis type II"	"autosomal recessive distal osteolysis syndrome"	"macular dystrophy, X-linked"
+	"Morquio syndrome C"	"mucopolysaccharidoses, unclassified types"	"proteasome-associated autoinflammatory syndrome 1"	"multicentric osteolysis, nodulosis, and arthropathy"	"oculocerebrorenal syndrome"
 "Fibroblast metachromasia"	1.0	1.0	0.0	0.0	0.0
 "Shoe-shaped sella turcica"	1.0	0.0	0.0	0.0	0.0
 "Progressive joint destruction"	0.0	1.0	0.0	0.0	0.0

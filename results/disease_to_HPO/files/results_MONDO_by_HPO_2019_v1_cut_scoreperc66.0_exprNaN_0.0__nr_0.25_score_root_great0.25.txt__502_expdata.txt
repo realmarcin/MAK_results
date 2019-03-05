@@ -1,4 +1,4 @@
-	"acrokeratosis verruciformis"	"multiple self-healing squamous epithelioma"	"Bart-Pumphrey syndrome"	"nonsyndromic congenital nail disorder 2"	"chromosome 5q deletion syndrome"	"rhiny"
+	"punctate palmoplantar keratoderma type III"	"familial cylindromatosis"	"knuckle pads"	"Bart-Pumphrey syndrome"	"Bannayan-Riley-Ruvalcaba syndrome"	"rheumatoid nodulosis"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intracranial hemorrhage"	0.0	0.0	0.0	0.0	1.0	0.0
 "Subcutaneous nodule"	1.0	1.0	1.0	1.0	1.0	1.0

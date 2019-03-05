@@ -1,4 +1,4 @@
-	"scapula, contour of vertebral border of"	"temtamy syndrome"	"Pseudouridinuria and mental defect"	"syndactyly-telecanthus-anogenital and renal malformations syndrome"	"epileptic encephalopathy, early infantile, 47; EIEE47"
+	"scalp-ear-nipple syndrome"	"cranioectodermal dysplasia 1"	"holoprosencephaly-postaxial polydactyly syndrome"	"syndromic X-linked intellectual disability Turner type"	"short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay; SRMMD"
 "2-3 toe syndactyly"	1.0	0.0	1.0	0.0	1.0
 "Scaphocephaly"	0.0	1.0	0.0	0.0	1.0
 "Hypotelorism"	1.0	1.0	1.0	1.0	1.0

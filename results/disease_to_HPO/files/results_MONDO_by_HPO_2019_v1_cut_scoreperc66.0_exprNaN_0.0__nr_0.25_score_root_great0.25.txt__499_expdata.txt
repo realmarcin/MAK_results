@@ -1,4 +1,4 @@
-	"AA2"	"Cole-Carpenter syndrome 2"	"dystonia 27"	"frontometaphyseal dysplasia 2; FMD2"	"arthrogryposis, distal, with impaired proprioception and touch; DAIPT"	"Al Kaissi syndrome"	"spinocerebellar ataxia 46"	"epileptic encephalopathy, early infantile, 57"	"neurodegeneration with brain iron accumulation 8"	"amyloidosis, primary localized cutaneous, 3"
+	"autosomal recessive ataxia, Beauce type"	"Lichtenstein-Knorr syndrome"	"spinocerebellar ataxia type 41"	"spinocerebellar ataxia, autosomal recessive 24; SCAR24"	"neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset; NADGP"	"spinocerebellar ataxia 44"	"spinocerebellar ataxia 45"	"spinocerebellar ataxia 46"	"neurodegeneration with brain iron accumulation 7"	"neurodegeneration with brain iron accumulation 8"
 "Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Gait ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
 "Mental deterioration"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

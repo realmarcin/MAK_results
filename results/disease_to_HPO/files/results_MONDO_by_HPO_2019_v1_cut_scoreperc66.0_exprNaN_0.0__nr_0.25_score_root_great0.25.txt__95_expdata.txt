@@ -1,4 +1,4 @@
-	"nasal alar collapse, bilateral"	"diverticulosis, small-intestinal"	"dystrophic epidermolysis bullosa pruriginosa"	"arrhythmogenic right ventricular dysplasia 9"	"Parkinson disease 18, autosomal dominant, susceptibility to"
+	"narcolepsy 1"	"disseminated sclerosis with narcolepsy"	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	"NRCLP3"	"narcolepsy 7"
 "Excessive daytime sleepiness"	1.0	0.0	1.0	1.0	1.0
 "Cataplexy"	1.0	1.0	1.0	1.0	1.0
 "Hypnopompic hallucinations"	1.0	0.0	0.0	0.0	0.0

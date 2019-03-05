@@ -1,4 +1,4 @@
-	"3MC syndrome 1"	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked"	"autosomal recessive nonsyndromic deafness 77"	"cardiomyopathy, dilated, with woolly hair, keratoderma, and tooth agenesis"	"leukodystrophy, hypomyelinating, 15"
+	"oculo-palato-cerebral syndrome"	"X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome"	"Nijmegen breakage syndrome-like disorder"	"intellectual disability, autosomal recessive 43"	"combined oxidative phosphorylation deficiency 36"
 "HP:0000007"	1.0	0.0	1.0	1.0	0.0
 "Microphthalmia"	1.0	1.0	0.0	0.0	0.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0

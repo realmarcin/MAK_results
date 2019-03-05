@@ -1,4 +1,4 @@
-	"hereditary arterial and articular multiple calcification syndrome"	"ataxia, spastic, childhood-onset, autosomal recessive, with optic atrophy and mental retardation"	"midline malformations, multiple, with limb abnormalities and hypopituitarism"	"Marshall-Smith syndrome"	"hereditary spastic paraplegia 77"
+	"cataract-hypertrichosis-intellectual disability syndrome"	"congenital heart defect-round face-developmental delay syndrome"	"Timothy syndrome"	"grange syndrome"	"transketolase deficiency"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0
 "Patent ductus arteriosus"	0.0	0.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"autosomal dominant vibratory urticaria"	"visceral steatosis, congenital"	"spinal dysplasia, Anhalt type"	"thiopurine S-methyltransferase deficiency"
+	"dermatosis papulosa nigra"	"fascial dystrophy, congenital"	"atrophia maculosa varioliformis cutis, familial"	"normophosphatemic familial tumoral calcinosis"
 "Abnormality of the thorax"	0.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	0.0	1.0
 "Abnormality of the skin"	1.0	1.0	1.0	1.0

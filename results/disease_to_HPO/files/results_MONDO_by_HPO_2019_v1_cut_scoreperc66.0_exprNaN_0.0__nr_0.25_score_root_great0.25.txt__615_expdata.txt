@@ -1,4 +1,4 @@
-	"diaminopentanuria"	"megalocornea (disease)"	"Leber hereditary optic neuropathy"	"spondylocamptodactyly syndrome"	"hereditary hemorrhagic telangiectasia type 4"
+	"Wolfram syndrome 1"	"thiamine-responsive megaloblastic anemia syndrome"	"Kearns-Sayre syndrome"	"Wolfram syndrome, mitochondrial form"	"xeroderma pigmentosum group B"
 "Hydroureter"	1.0	0.0	0.0	1.0	0.0
 "Hydronephrosis"	1.0	0.0	0.0	1.0	0.0
 "Sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0

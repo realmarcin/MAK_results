@@ -1,4 +1,4 @@
 "x"
-"1" "hypocalcified.amelogenesis.imperfecta"
-"2" "gingival.fibromatosis.progressive.deafness.syndrome"
-"3" "myopathy..tubular.aggregate..2"
+"1" "lateral.meningocele.syndrome"
+"2" "Zimmermann.Laband.syndrome.1"
+"3" "tall.stature.intellectual.disability.facial.dysmorphism.syndrome"

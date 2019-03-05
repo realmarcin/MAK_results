@@ -1,4 +1,4 @@
-	"gingival fibromatosis-progressive deafness syndrome"	"split hand-foot malformation 1 with sensorineural hearing loss"	"arthrogryposis, Perthes disease, and upward gaze palsy"	"STING-associated vasculopathy with onset in infancy"	"combined oxidative phosphorylation deficiency 29; COXPD29"
+	"Zimmermann-Laband syndrome 1"	"DOORS syndrome"	"microcephaly-capillary malformation syndrome"	"Webb-Dattani syndrome"	"hyperphosphatasia with intellectual disability syndrome 6; HPMRS6"
 "Brachydactyly"	0.0	1.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0

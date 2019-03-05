@@ -1,4 +1,4 @@
-	"celiac artery stenosis from compression by median arcuate ligament of diaphragm"	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 1"	"familial multiple lipomatosis"	"lithium transport"	"megacystis-microcolon-intestinal hypoperistalsis syndrome"
+	"familial cerebral cavernous malformation"	"Edinburgh malformation syndrome"	"multiple symmetric lipomatosis"	"familial multiple lipomatosis"	"medulloblastoma"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Peripheral neuropathy"	0.0	0.0	1.0	1.0	0.0
 "Accelerated skeletal maturation"	0.0	1.0	0.0	1.0	0.0

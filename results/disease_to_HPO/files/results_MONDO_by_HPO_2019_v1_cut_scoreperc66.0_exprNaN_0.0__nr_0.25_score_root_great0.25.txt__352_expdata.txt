@@ -1,4 +1,4 @@
-	"extrasystoles-short stature-hyperpigmentation-microcephaly syndrome"	"proximal symphalangism (disease)"	"congenital nephrotic syndrome, Finnish type"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"cataract 45"
+	"external auditory canal atresia-vertical talus-hypertelorism syndrome"	"symphalangism with multiple anomalies of hands and feet"	"nephrosis-deafness-urinary tract-digital malformations syndrome"	"Hirschsprung disease-type D brachydactyly syndrome"	"brachydactyly type A1D"
 "HP:0000006"	1.0	1.0	0.0	0.0	1.0
 "Conductive hearing impairment"	1.0	1.0	1.0	0.0	0.0
 "Hearing impairment"	1.0	1.0	1.0	0.0	0.0

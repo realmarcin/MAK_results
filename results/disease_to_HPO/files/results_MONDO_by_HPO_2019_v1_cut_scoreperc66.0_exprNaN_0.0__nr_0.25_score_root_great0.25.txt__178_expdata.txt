@@ -1,4 +1,4 @@
-	"chondrocalcinosis due to apatite crystal deposition"	"multiple epiphyseal dysplasia, Beighton type"	"Buschke-Ollendorff syndrome"	"amyotrophic lateral sclerosis type 21"	"spinocerebellar ataxia type 17"
+	"familial calcium pyrophosphate deposition"	"multiple epiphyseal dysplasia type 1"	"autosomal dominant osteopetrosis 2"	"hemochromatosis type 4"	"multiple epiphyseal dysplasia, Al-Gazali type"
 "Osteoarthritis"	1.0	1.0	1.0	1.0	1.0
 "Joint dislocation"	1.0	1.0	1.0	1.0	1.0
 "Flat distal femoral epiphysis"	0.0	0.0	0.0	0.0	0.0

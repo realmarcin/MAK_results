@@ -1,4 +1,4 @@
-	"growth delay-hydrocephaly-lung hypoplasia syndrome"	"Alagille syndrome due to a NOTCH2 point mutation"	"intellectual disability, autosomal recessive 13"
+	"hydrocephalus, nonsyndromic, autosomal recessive 1"	"pontocerebellar hypoplasia type 5"	"polymicrogyria with optic nerve hypoplasia"
 "HP:0000007"	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0

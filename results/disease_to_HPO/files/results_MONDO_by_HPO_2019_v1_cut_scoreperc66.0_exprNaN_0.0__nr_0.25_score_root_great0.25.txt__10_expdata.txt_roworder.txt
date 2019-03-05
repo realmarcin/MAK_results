@@ -1,4 +1,4 @@
 "x"
-"1" "L.ferritin.deficiency"
-"2" "cardiomyopathy..dilated..with.woolly.hair..keratoderma..and.tooth.agenesis"
-"3" "nephronophthisis.20"
+"1" "microcephaly.thin.corpus.callosum.intellectual.disability.syndrome"
+"2" "intellectual.disability..autosomal.recessive.43"
+"3" "intellectual.disability..autosomal.recessive.58..MRT58"

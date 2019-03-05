@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"NNO1"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"pterygium colli-intellectual disability-digital anomalies syndrome"	"chromosome 22q13 duplication syndrome"
 "Epicanthus inversus"	0.0	0.0	1.0	1.0
 "Broad distal phalanx of finger"	0.0	0.0	1.0	0.0
 "Proximal placement of thumb"	0.0	0.0	1.0	0.0

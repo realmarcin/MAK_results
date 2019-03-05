@@ -1,4 +1,4 @@
-	"COFS syndrome"	"amyotrophic lateral sclerosis type 17"	"maturity-onset diabetes of the young type 14"	"progressive scapulohumeroperoneal distal myopathy"
+	"cataract 46 juvenile-onset"	"cataract 38"	"cataract 44"	"cataract 45"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Visual loss"	0.0	0.0	1.0	0.0
 "Congenital cataract"	1.0	1.0	1.0	1.0

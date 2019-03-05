@@ -1,4 +1,4 @@
-	"cyanosis, transient neonatal"	"cataract 38"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"	"osteopetrosis, autosomal dominant 3"
+	"intellectual disability, autosomal dominant 6"	"pontine tegmental cap dysplasia"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"	"mental retardation, autosomal dominant 58"
 "HP:0003745"	0.0	1.0	0.0	0.0
 "Hemivertebrae"	0.0	1.0	0.0	0.0
 "Absent speech"	0.0	1.0	0.0	0.0

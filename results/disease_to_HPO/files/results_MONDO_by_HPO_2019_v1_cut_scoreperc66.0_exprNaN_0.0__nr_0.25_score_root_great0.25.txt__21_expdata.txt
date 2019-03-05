@@ -1,4 +1,4 @@
-	"hypogonadotropic hypogonadism 6 with or without anosmia"	"agammaglobulinemia 3, autosomal recessive"	"agammaglobulinemia 5, autosomal dominant"	"ataxia with oculomotor apraxia type 3"
+	"agammaglobulinemia 6, autosomal recessive"	"agammaglobulinemia 2, autosomal recessive"	"agammaglobulinemia 4, autosomal recessive"	"agammaglobulinemia 7, autosomal recessive"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Recurrent bacterial infections"	1.0	1.0	1.0	0.0
 "HP:0003593"	1.0	1.0	1.0	1.0

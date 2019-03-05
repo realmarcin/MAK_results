@@ -1,4 +1,4 @@
-	"orofaciodigital syndrome type II"	"myopathy with giant abnormal mitochondria"	"BENTA disease"	"spinocerebellar ataxia type 42"
+	"mitochondrial complex II deficiency"	"hereditary myopathy with lactic acidosis due to ISCU deficiency"	"hereditary spastic paraplegia 74"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"
 "Increased intramyocellular lipid droplets"	1.0	1.0	0.0	0.0
 "Stress/infection-induced lactic acidosis"	1.0	0.0	0.0	0.0
 "Decreased activity of mitochondrial complex II"	1.0	1.0	1.0	0.0

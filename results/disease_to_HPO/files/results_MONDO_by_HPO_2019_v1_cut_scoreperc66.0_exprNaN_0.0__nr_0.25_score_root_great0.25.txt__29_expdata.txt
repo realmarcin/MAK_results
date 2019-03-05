@@ -1,4 +1,4 @@
-	"mesoaxial hexadactyly and cardiac malformation"	"hyperinsulinemic hypoglycemia, familial, 2"	"neonatal diabetes mellitus with congenital hypothyroidism"
+	"mesangial sclerosis, diffuse renal, with ocular abnormalities"	"PHGDH deficiency"	"3-methylglutaconic aciduria type 5"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Optic atrophy"	1.0	0.0	1.0

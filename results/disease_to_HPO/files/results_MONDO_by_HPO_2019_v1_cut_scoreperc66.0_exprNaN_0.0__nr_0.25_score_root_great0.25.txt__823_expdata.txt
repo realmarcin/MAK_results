@@ -1,4 +1,4 @@
-	"Ehlers-Danlos syndrome, hypermobility type"	"split-hand and split-foot with hypodontia"	"Tay-Sachs disease"	"Charcot-Marie-Tooth disease type 4J"	"UV-sensitive syndrome 2"	"microcephaly, short stature, and limb abnormalities"
+	"Ehlers-Danlos syndrome, classic type"	"split lower lip"	"Tay-Sachs disease AB variant"	"hereditary spastic paraplegia 18"	"hyperekplexia 2"	"congenital heart defects and skeletal malformations syndrome"
 "Narrow maxilla"	1.0	1.0	0.0	1.0	0.0	1.0
 "Glabellar reflex"	0.0	0.0	1.0	1.0	1.0	0.0
 "HP:0012662"	0.0	0.0	0.0	1.0	0.0	0.0

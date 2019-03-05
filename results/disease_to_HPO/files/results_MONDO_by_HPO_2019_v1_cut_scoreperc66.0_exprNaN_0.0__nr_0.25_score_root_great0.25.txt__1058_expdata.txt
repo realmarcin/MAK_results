@@ -1,4 +1,4 @@
-	"hemolytic anemia due to pyrimidine 5' nucleotidase deficiency"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"primary ciliary dyskinesia 26"
+	"pyridoxine-dependent epilepsy"	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"X-linked epilepsy-learning disabilities-behavior disorders syndrome"	"intellectual disability-hypotonia-spasticity-sleep disorder syndrome"
 "Hepatomegaly"	1.0	0.0	0.0	0.0
 "HP:0000007"	1.0	0.0	0.0	1.0
 "Intellectual disability"	1.0	0.0	0.0	0.0

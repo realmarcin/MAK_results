@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"epidermolysis bullosa dystrophica Neurotrophica"	"hypouricemia, hypercalcinuria, and decreased bone density"	"immunodeficiency, common variable, 1"	"hereditary spastic paraplegia 63"	"vasculitis due to ADA2 deficiency"
+	"proximal renal tubular acidosis"	"late-onset localized junctional epidermolysis bullosa-intellectual disability syndrome"	"Bamforth-Lazarus syndrome"	"hereditary spastic paraplegia 24"	"hereditary spastic paraplegia 61"	"hereditary spastic paraplegia 63"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
 "Thin upper lip vermilion"	0.0	1.0	0.0	0.0	0.0	0.0
 "HP:0003584"	0.0	1.0	0.0	0.0	0.0	0.0

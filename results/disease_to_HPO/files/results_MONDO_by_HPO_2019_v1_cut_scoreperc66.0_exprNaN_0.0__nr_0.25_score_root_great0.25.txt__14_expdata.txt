@@ -1,4 +1,4 @@
-	"Eng-Strom syndrome"	"intellectual disability, Buenos-Aires type"	"persistent Mullerian duct syndrome"	"vitelliform macular dystrophy 4"
+	"Coffin-Siris syndrome 1"	"blepharophimosis - intellectual disability syndrome, Ohdo type"	"Peters plus syndrome"	"Catel-Manzke syndrome"
 "Cryptorchidism"	1.0	1.0	1.0	1.0
 "Cleft palate"	1.0	1.0	1.0	1.0
 "Joint laxity"	1.0	1.0	1.0	1.0

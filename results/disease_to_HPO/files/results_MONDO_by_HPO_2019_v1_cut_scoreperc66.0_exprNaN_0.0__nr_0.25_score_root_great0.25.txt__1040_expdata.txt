@@ -1,4 +1,4 @@
-	"hyperphosphatemia, polyuria, and seizures"	"HPCX1"	"chronic myelogenous leukemia, BCR-ABL1 positive"	"primary ciliary dyskinesia 13"	"congenital myasthenic syndrome 13"
+	"hyperphosphatasia with intellectual disability syndrome 1"	"intellectual disability, X-linked 21"	"cataract - congenital heart disease - neural tube defect syndrome"	"intellectual disability, autosomal recessive 13"	"hyperphosphatasia with intellectual disability syndrome 2"
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0
 "Global developmental delay"	0.0	0.0	1.0	0.0	0.0
 "Micrognathia"	0.0	0.0	1.0	0.0	0.0

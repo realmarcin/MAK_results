@@ -1,4 +1,4 @@
-	"hereditary papulotranslucent acrokeratoderma"	"septooptic dysplasia"	"thrombocythemia 2"	"Wolfram-like syndrome"
+	"acrofacial dysostosis, Catania type"	"Shprintzen-Goldberg syndrome"	"otofacioosseous-gonadal syndrome"	"chromosome 15q25 deletion syndrome"
 "Cryptorchidism"	1.0	1.0	1.0	1.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0
 "Joint laxity"	0.0	1.0	0.0	0.0

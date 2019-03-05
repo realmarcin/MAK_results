@@ -1,4 +1,4 @@
-	"pyruvate dehydrogenase phosphatase deficiency"	"frontonasal dysplasia with alopecia and genital anomaly"	"acne inversa, familial, 2"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
+	"ALG9-CDG"	"intellectual disability, autosomal dominant 20"	"chromosome 1p32-p31 deletion syndrome"	"spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits"
 "Generalized hypotonia"	1.0	1.0	1.0	0.0
 "Broad forehead"	0.0	1.0	1.0	0.0
 "Short nose"	1.0	1.0	1.0	1.0

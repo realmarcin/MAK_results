@@ -1,4 +1,4 @@
-	"Ketoadipicaciduria"	"Joubert syndrome 10"	"FECD2"	"MRT25"	"MRT28"	"colorectal cancer, hereditary nonpolyposis, type 5"
+	"Richards-Rundle syndrome"	"intellectual disability, X-linked 97"	"MORM syndrome"	"MRT24"	"MRT25"	"MRT28"
 "Pes planus"	1.0	0.0	0.0	0.0	0.0	0.0
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0	1.0
 "Hearing impairment"	1.0	0.0	0.0	0.0	0.0	0.0

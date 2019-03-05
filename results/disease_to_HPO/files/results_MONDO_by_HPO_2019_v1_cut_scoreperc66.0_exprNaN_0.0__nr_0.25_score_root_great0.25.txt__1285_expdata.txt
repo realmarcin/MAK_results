@@ -1,4 +1,4 @@
-	"lymphedema-distichiasis syndrome"	"mitochondrial DNA depletion syndrome 4a"	"pilodental dysplasia-refractive errors syndrome"	"rippling muscle disease 1"
+	"yellow nail syndrome"	"alopecia universalis"	"Bjornstad syndrome"	"PARC syndrome"
 "Pulmonary arterial hypertension"	1.0	0.0	0.0	0.0
 "Sinusitis"	1.0	0.0	0.0	0.0
 "Nephropathy"	1.0	0.0	0.0	0.0

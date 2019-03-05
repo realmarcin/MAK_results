@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"Leber congenital amaurosis 3"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"	"anterior segment dysgenesis 8"
+	"glioma susceptibility 1"	"Peters anomaly (disease)"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"	"anterior segment dysgenesis 6"
 "HP:0000007"	0.0	1.0	0.0	0.0	1.0
 "Peters anomaly"	0.0	1.0	0.0	0.0	0.0
 "Corneal opacity"	0.0	1.0	0.0	0.0	1.0

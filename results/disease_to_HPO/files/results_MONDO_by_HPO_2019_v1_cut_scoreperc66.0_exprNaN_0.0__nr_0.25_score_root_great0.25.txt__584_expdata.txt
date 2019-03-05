@@ -1,4 +1,4 @@
-	"childhood hypophosphatasia"	"cartilage-hair hypoplasia"	"metaphyseal modeling abnormality, skin lesions, and spastic paraplegia"	"peripheral motor neuropathy-dysautonomia syndrome"	"oculogastrointestinal muscular dystrophy"	"setting-Sun phenomenon, familial benign"
+	"infantile hypophosphatasia"	"metaphyseal chondrodysplasia, Kaitila type"	"metaphyseal dysplasia without hypotrichosis"	"Morquio syndrome C"	"spondylocostal dysostosis 1, autosomal recessive"	"craniosynostosis, Adelaide type"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
 "Short metacarpal"	0.0	1.0	1.0	0.0	0.0	0.0
 "Cone-shaped epiphyses of the phalanges of the hand"	0.0	1.0	1.0	0.0	0.0	1.0

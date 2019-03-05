@@ -1,4 +1,4 @@
 "x"
-"1" "exchondrosis.of.pinna..posterior"
-"2" "hereditary.diffuse.gastric.adenocarcinoma"
-"3" "heterochromia.iridis..disease."
+"1" "esophageal.ring..lower"
+"2" "gastric.volvulus..intrathoracic"
+"3" "hiatus.hernia..disease."

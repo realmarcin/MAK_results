@@ -1,4 +1,4 @@
-	"systemic primary carnitine deficiency disease"	"retinitis pigmentosa 37"	"lethal polymalformative syndrome, Boissel type"	"epidermolysis bullosa simplex due to exophilin 5 deficiency"	"hypomyelinating leukodystrophy 13"
+	"carnitine-acylcarnitine translocase deficiency"	"acyl-CoA dehydrogenase 9 deficiency"	"DPM3-CDG"	"maternal riboflavin deficiency"	"metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration; MECRCN"
 "Dicarboxylic aciduria"	1.0	1.0	0.0	1.0	0.0
 "Elevated plasma acylcarnitine levels"	1.0	1.0	0.0	1.0	1.0
 "Vitamin B2 deficiency"	0.0	0.0	0.0	1.0	0.0

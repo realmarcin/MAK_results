@@ -1,4 +1,4 @@
-	"acropectorovertebral dysplasia"	"holoprosencephaly 2"	"beta-mannosidosis"	"Sjogren-Larsson-like ichthyosis without CNS or eye involvement"	"ouabain resistance"	"hereditary spastic paraplegia 13"
+	"acroosteolysis dominant type"	"microspherophakia-metaphyseal dysplasia syndrome"	"alpha-mannosidosis"	"Sjogren-Larsson syndrome"	"otopalatodigital syndrome type 1"	"mesomelic dysplasia, Savarirayan type"
 "Dislocated radial head"	1.0	0.0	0.0	0.0	1.0	1.0
 "Skeletal dysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Bowing of the long bones"	1.0	0.0	1.0	0.0	1.0	1.0

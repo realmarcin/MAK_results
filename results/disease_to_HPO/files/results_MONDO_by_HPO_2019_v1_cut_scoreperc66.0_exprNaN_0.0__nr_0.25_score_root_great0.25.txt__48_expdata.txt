@@ -1,4 +1,4 @@
-	"immunodeficiency with defective leukocyte and lymphocyte function and with response to histamine-1 antagonist"	"X-linked severe congenital neutropenia"	"AGMX2"	"monocyte and dendritic cell deficiency, autosomal recessive"
+	"immune deficiency, familial variable"	"hypohidrotic ectodermal dysplasia with immunodeficiency"	"anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome"	"mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency"
 "Ectodermal dysplasia"	0.0	1.0	1.0	0.0
 "Immunodeficiency"	1.0	1.0	1.0	1.0
 "Recurrent infections"	1.0	1.0	1.0	1.0

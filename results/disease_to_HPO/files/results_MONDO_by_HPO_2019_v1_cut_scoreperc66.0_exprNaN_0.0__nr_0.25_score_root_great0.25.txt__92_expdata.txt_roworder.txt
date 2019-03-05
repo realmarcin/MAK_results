@@ -1,4 +1,4 @@
 "x"
-"1" "platelet.type.bleeding.disorder.8"
-"2" "aortic.aneurysm..familial.thoracic.6"
-"3" "Diamond.Blackfan.anemia.like"
+"1" "erythrocytosis..familial..3"
+"2" "erythrocytosis..familial..4"
+"3" "erythrocytosis..familial..5"

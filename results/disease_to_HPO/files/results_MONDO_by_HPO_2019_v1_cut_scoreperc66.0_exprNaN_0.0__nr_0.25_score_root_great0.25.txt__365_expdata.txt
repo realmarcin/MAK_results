@@ -1,4 +1,4 @@
-	"Tietz syndrome"	"MRX52"	"Clark-Baraitser syndrome"	"angioma serpiginosum, X-linked"	"retinitis pigmentosa 2"
+	"ocular albinism with congenital sensorineural deafness"	"X-linked recessive ocular albinism"	"Aland island eye disease"	"ocular albinism with late-onset sensorineural deafness"	"X-linked retinal dysplasia"
 "HP:0001417"	1.0	1.0	1.0	1.0	1.0
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0
 "Sensorineural hearing impairment"	1.0	0.0	0.0	1.0	0.0

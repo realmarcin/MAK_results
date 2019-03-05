@@ -1,4 +1,4 @@
-	"alopecia-intellectual disability syndrome 1"	"microcephaly-cardiomyopathy syndrome"	"3MC syndrome 1"	"fine-Lubinsky syndrome"	"autosomal recessive nonsyndromic deafness 77"	"FAME3"	"distal myopathy with posterior leg and anterior hand involvement"	"focal segmental glomerulosclerosis 6"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13"	"primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"
+	"Moynahan syndrome"	"microcephaly 1, primary, autosomal recessive"	"oculo-palato-cerebral syndrome"	"epilepsy-microcephaly-skeletal dysplasia syndrome"	"Nijmegen breakage syndrome-like disorder"	"FWS"	"N-acetylaspartate deficiency"	"Perrault syndrome 3"	"intellectual disability-strabismus syndrome"	"progressive microcephaly-seizures-cortical blindness-developmental delay syndrome"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Inguinal hernia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Self-mutilation"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

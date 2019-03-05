@@ -1,4 +1,4 @@
-	"SCZD1"	"palmoplantar keratoderma-sclerodactyly syndrome"	"autosomal recessive nonsyndromic deafness 26"
+	"schizophrenia (disease)"	"SCZD1"	"SCZD10"
 "Hypertelorism"	0.0	1.0	0.0
 "Syndactyly"	0.0	1.0	0.0
 "HP:0000006"	1.0	1.0	1.0

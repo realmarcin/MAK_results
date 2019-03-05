@@ -1,4 +1,4 @@
-	"Miyoshi muscular dystrophy 1"	"nocturnal enuresis, 2"	"retinitis pigmentosa 67"	"congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay"
+	"muscular hypertonia, lethal"	"inherited susceptibility to asthma"	"complement factor b deficiency"	"immunodeficiency 11b with atopic dermatitis"
 "HP:0000007"	1.0	0.0	0.0	0.0
 "Umbilical hernia"	1.0	0.0	0.0	0.0
 "Pneumonia"	1.0	0.0	1.0	1.0

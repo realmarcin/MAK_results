@@ -1,4 +1,4 @@
-	"hereditary sclerosing poikiloderma, Weary type"	"acrodermatitis enteropathica"	"Moynahan syndrome"	"celiac disease, susceptibility to, 1"
+	"Kindler syndrome"	"acrocraniofacial dysostosis"	"alopecia - contractures - dwarfism - intellectual disability syndrome"	"cataract-intellectual disability-hypogonadism syndrome"
 "Turricephaly"	1.0	1.0	1.0	0.0
 "Abnormal toenail morphology"	1.0	1.0	1.0	1.0
 "Beaked nails"	0.0	0.0	0.0	0.0

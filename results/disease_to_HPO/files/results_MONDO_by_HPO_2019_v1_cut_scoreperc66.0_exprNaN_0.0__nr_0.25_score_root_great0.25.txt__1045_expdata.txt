@@ -1,4 +1,4 @@
-	"myopathy with storage of glycoproteins and Glycosaminoglycans"	"oculopharyngodistal myopathy"	"odontomatosis-aortae esophagus stenosis syndrome"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 2"	"autosomal recessive osteopetrosis 8"	"mitochondrial complex III deficiency nuclear type 2"
+	"myopathy, tubular aggregate, 1"	"oculopharyngeal muscular dystrophy"	"oculopharyngodistal myopathy"	"nemaline myopathy 6"	"mitochondrial DNA depletion syndrome 11"	"mitochondrial DNA deletion syndrome with progressive myopathy"
 "Elevated serum creatine phosphokinase"	1.0	1.0	1.0	0.0	1.0	1.0
 "External ophthalmoplegia"	1.0	0.0	1.0	0.0	0.0	1.0
 "Frequent falls"	1.0	0.0	0.0	0.0	0.0	0.0

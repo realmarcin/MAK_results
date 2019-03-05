@@ -1,4 +1,4 @@
-	"androgen insensitivity syndrome"	"atrial fibrillation, familial, 6"	"hereditary spastic paraplegia 43"	"spermatogenic failure 18"	"spermatogenic failure 27"	"developmental delay, intellectual disability, obesity, and dysmorphic features"
+	"lissencephaly type 1 due to doublecortin gene mutation"	"cerebroretinal microangiopathy with calcifications and cysts 1"	"congenital muscular dystrophy with intellectual disability and severe epilepsy"	"nephrotic syndrome 14"	"leukodystrophy, hypomyelinating, 16"	"Jaberi-Elahi syndrome"
 "HP:0001417"	1.0	0.0	0.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	0.0	0.0	1.0	0.0

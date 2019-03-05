@@ -1,4 +1,4 @@
-	"multiple synostoses syndrome 2"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"	"optic atrophy 11; OPA11"	"severe combined immunodeficiency due to LAT deficiency"	"intellectual developmental disorder with neuropsychiatric features"
+	"congenital brain dysgenesis due to glutamine synthetase deficiency"	"TBCK-related intellectual disability syndrome"	"atypical glycine encephalopathy"	"peho-like syndrome"	"neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies"
 "Seizures"	1.0	1.0	0.0	0.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0
 "Ventriculomegaly"	1.0	1.0	1.0	1.0	1.0

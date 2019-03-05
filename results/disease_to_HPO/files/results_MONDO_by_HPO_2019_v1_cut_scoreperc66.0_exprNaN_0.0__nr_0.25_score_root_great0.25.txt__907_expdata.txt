@@ -1,4 +1,4 @@
-	"autosomal recessive cerebellar ataxia-blindness-deafness syndrome"	"familial median cleft of the upper and lower lips"	"epileptic encephalopathy, early infantile, 27"	"retinal dystrophy and obesity"	"osteogenesis imperfecta type 17"	"Fanconi anemia, complementation group S"
+	"infantile onset spinocerebellar ataxia"	"leukoencephalopathy, progressive, with ovarian failure"	"Perrault syndrome 5"	"progressive myoclonic epilepsy type 7"	"neuropathy, hereditary motor and sensory, type 6B"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "Periventricular leukomalacia"	0.0	1.0	0.0	0.0	0.0	0.0
 "Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Nystagmus"	1.0	1.0	1.0	0.0	1.0	1.0

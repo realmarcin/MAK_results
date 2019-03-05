@@ -1,4 +1,4 @@
-	"fine-Lubinsky syndrome"	"coenzyme Q10 deficiency, primary, 1"	"acyl-CoA dehydrogenase 9 deficiency"	"FAME3"	"Meier-Gorlin syndrome 6"	"retinitis pigmentosa 78"
+	"epilepsy-microcephaly-skeletal dysplasia syndrome"	"intellectual disability, autosomal recessive 2"	"MRT4"	"FWS"	"microcephaly-congenital cataract-psoriasiform dermatitis syndrome"	"mental retardation, autosomal recessive 60"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Microcephaly"	1.0	0.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	0.0	1.0	1.0	1.0	1.0	1.0

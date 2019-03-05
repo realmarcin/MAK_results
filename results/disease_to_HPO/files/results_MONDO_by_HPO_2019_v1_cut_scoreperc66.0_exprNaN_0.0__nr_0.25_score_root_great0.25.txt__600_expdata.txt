@@ -1,4 +1,4 @@
-	"musk, inability to smell"	"neonatal acute respiratory distress due to SP-B deficiency"	"dextro-looped transposition of the great arteries 1"	"autosomal recessive spondylometaphyseal dysplasia, Megarbane type"	"Dowling-Degos disease 2"
+	"Miyoshi muscular dystrophy 1"	"pulmonary alveolar microlithiasis"	"autosomal recessive limb-girdle muscular dystrophy type 2J"	"Miyoshi muscular dystrophy 3"	"autosomal recessive limb-girdle muscular dystrophy type 2R"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "HP:0003581"	1.0	0.0	0.0	1.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	0.0	1.0	1.0	0.0

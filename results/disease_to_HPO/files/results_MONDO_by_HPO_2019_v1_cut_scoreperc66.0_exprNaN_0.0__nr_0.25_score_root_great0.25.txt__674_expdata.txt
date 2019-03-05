@@ -1,4 +1,4 @@
-	"keratoderma hereditarium mutilans"	"earring holes, natural"	"melorheostosis"	"OTSC1"
+	"deafness-ear malformation-facial palsy syndrome"	"thickened earlobes-conductive deafness syndrome"	"Melkersson-Rosenthal syndrome"	"otofaciocervical syndrome 1"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Conductive hearing impairment"	1.0	0.0	0.0	1.0
 "Facial palsy"	1.0	0.0	1.0	0.0

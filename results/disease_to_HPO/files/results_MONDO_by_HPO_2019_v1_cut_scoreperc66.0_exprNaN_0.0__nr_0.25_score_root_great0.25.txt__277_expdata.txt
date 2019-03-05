@@ -1,4 +1,4 @@
-	"muscular dystrophy, pseudohypertrophic, with Internalized capillaries"	"autosomal recessive limb-girdle muscular dystrophy type 2B"	"musk, inability to smell"	"torsion dystonia with onset in infancy"	"ALG8-CDG"
+	"autosomal dominant limb-girdle muscular dystrophy type 1B"	"autosomal recessive limb-girdle muscular dystrophy type 2A"	"Miyoshi muscular dystrophy 1"	"megaconial type congenital muscular dystrophy"	"autosomal recessive limb-girdle muscular dystrophy type 2D"
 "HP:0001425"	1.0	0.0	1.0	0.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0
 "Syncope"	1.0	0.0	0.0	0.0	0.0

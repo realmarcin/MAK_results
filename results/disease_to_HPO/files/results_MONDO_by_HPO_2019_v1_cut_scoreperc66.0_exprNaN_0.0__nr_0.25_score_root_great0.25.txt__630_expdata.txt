@@ -1,4 +1,4 @@
-	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"glucocorticoid resistance"	"intellectual disability, autosomal dominant 38"	"myoclonic dystonia 26"
+	"short stature due to partial GHR deficiency"	"short stature due to primary acid-labile subunit deficiency"	"trichothiodystrophy 2, photosensitive"	"trichothiodystrophy 3, photosensitive"
 "HP:0000007"	0.0	0.0	1.0	1.0
 "Intellectual disability"	0.0	0.0	1.0	1.0
 "Short stature"	1.0	0.0	1.0	1.0

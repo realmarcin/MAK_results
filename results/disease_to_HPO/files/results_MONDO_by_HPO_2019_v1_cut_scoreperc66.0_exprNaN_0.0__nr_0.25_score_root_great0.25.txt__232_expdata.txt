@@ -1,4 +1,4 @@
-	"Brachmann-de Lange-like facial changes with microcephaly, metatarsus adductus, and developmental delay"	"Prader-Willi syndrome"	"myopathy, tubular aggregate, 2"	"46,XY sex reversal 10"
+	"Weismann-Netter syndrome"	"posterior column ataxia"	"tall stature-intellectual disability-facial dysmorphism syndrome"	"myoclonic-atonic epilepsy"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	1.0
 "Ataxia"	0.0	1.0	0.0	1.0

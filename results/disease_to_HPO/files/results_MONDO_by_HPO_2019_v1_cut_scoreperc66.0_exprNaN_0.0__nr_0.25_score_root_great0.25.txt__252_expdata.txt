@@ -1,4 +1,4 @@
-	"intellectual disability, X-linked 63"	"muscular dystrophy, Hemizygous lethal type"	"colorectal cancer, hereditary nonpolyposis, type 2"	"palmoplantar keratoderma, nonepidermolytic, focal 1"	"Hirschsprung disease, cardiac defects, and autonomic dysfunction"	"Noonan syndrome 8"
+	"Becker muscular dystrophy"	"muscular dystrophy, cardiac type"	"autosomal recessive limb-girdle muscular dystrophy type 2K"	"Emery-Dreifuss muscular dystrophy 5, autosomal dominant"	"fatal infantile hypertonic myofibrillar myopathy"	"autosomal recessive limb-girdle muscular dystrophy type 2T"
 "Cardiomyopathy"	1.0	1.0	1.0	1.0	0.0	1.0
 "Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	1.0	1.0
 "Weak cry"	0.0	0.0	0.0	0.0	1.0	0.0

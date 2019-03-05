@@ -1,4 +1,4 @@
-	"very long chain acyl-CoA dehydrogenase deficiency"	"diastematomyelia"	"classic galactosemia"	"gamma-glutamylcysteine synthetase deficiency"	"glutaric acidemia type 3"	"hypogonadotropic hypogonadism 14 with or without anosmia"
+	"short chain acyl-CoA dehydrogenase deficiency"	"trichohepatoenteric syndrome 1"	"galactose epimerase deficiency"	"classic galactosemia"	"multiple acyl-CoA dehydrogenase deficiency"	"methylmalonic acidemia with homocystinuria, type cblJ"
 "Hepatomegaly"	0.0	1.0	1.0	1.0	1.0	0.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	0.0	0.0
 "Jaundice"	0.0	1.0	1.0	1.0	1.0	0.0

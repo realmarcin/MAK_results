@@ -1,4 +1,4 @@
-	"clubfoot"	"deafness-vitiligo-achalasia syndrome"	"congenital nephrotic syndrome, Finnish type"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"intellectual disability, keratoconus, febrile seizures, and sinoatrial block"	"Pilarowski-Bjornsson syndrome"
+	"cleidorhizomelic syndrome"	"conductive deafness-ptosis-skeletal anomalies syndrome"	"nephrosis-deafness-urinary tract-digital malformations syndrome"	"Hirschsprung disease-type D brachydactyly syndrome"	"mesoaxial synostotic syndactyly with phalangeal reduction"	"blepharocheilodontic syndrome 2"
 "HP:0000006"	1.0	0.0	0.0	0.0	0.0	0.0
 "Rhizomelia"	1.0	0.0	0.0	0.0	0.0	0.0
 "Clinodactyly of the 5th finger"	1.0	1.0	0.0	0.0	1.0	0.0

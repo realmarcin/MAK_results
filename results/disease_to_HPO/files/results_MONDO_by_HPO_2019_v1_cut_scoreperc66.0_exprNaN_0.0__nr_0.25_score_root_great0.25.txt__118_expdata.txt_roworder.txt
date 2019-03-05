@@ -1,4 +1,4 @@
 "x"
-"1" "multiple.endocrine.neoplasia.type.2A"
-"2" "phlebectasia.of.lips"
-"3" "Costello.syndrome"
+"1" "phaeochromocytoma"
+"2" "pheochromocytoma.islet.cell.tumor.syndrome"
+"3" "apparent.mineralocorticoid.excess"

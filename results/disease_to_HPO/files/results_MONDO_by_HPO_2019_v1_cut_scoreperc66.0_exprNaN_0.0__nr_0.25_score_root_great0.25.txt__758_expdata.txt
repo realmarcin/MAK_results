@@ -1,4 +1,4 @@
-	"Aicardi-Goutieres syndrome 1"	"MYP18"	"Alzheimer disease, susceptibility to, mitochondrial"	"autosomal recessive nonsyndromic deafness 16"	"atrial heart septal defect 4"
+	"encephalopathy, axonal, with necrotizing myopathy, cardiomyopathy, and cataracts"	"congenital multicore myopathy with external ophthalmoplegia"	"mitochondrial myopathy with reversible cytochrome C oxidase deficiency"	"hereditary proximal myopathy with early respiratory failure"	"autosomal recessive limb-girdle muscular dystrophy type 2L"
 "Congenital encephalopathy"	1.0	0.0	0.0	0.0	0.0
 "Necrotizing myopathy"	1.0	0.0	0.0	1.0	0.0
 "Muscle fiber hypertrophy"	0.0	1.0	1.0	1.0	0.0

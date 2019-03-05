@@ -1,4 +1,4 @@
 "x"
-"1" "hypomyelinating.leukodystrophy.2"
-"2" "cardiac.rhythm.disease"
-"3" "pleuropulmonary.blastoma"
+"1" "sudden.infant.death.dysgenesis.of.the.testes.syndrome"
+"2" "carcinoid.syndrome"
+"3" "autosomal.dominant.hypocalcemia.1"

@@ -1,4 +1,4 @@
-	"lethal congenital contracture syndrome 1"	"long QT syndrome 15"	"periventricular nodular heterotopia 7; PVNH7"
+	"Werdnig-Hoffmann disease"	"lethal congenital contracture syndrome 6"	"lethal congenital contracture syndrome 11; LCCS11"
 "HP:0000007"	1.0	1.0	1.0
 "Atrial septal defect"	1.0	0.0	0.0
 "Sprengel anomaly"	0.0	0.0	0.0

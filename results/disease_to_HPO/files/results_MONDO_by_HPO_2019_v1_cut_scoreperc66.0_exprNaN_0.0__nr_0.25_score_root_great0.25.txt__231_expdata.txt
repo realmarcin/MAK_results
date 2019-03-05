@@ -1,4 +1,4 @@
-	"tricho-retino-dento-digital syndrome"	"Woronets trait"	"infantile convulsions and choreoathetosis"	"amelogenesis imperfecta hypomaturation type 2A5"
+	"uncombable hair syndrome"	"woolly hair (disease)"	"ectodermal dysplasia 4, hair/nail type"	"hypotrichosis 12"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Sparse body hair"	0.0	1.0	1.0	0.0
 "Slow-growing hair"	0.0	1.0	0.0	1.0

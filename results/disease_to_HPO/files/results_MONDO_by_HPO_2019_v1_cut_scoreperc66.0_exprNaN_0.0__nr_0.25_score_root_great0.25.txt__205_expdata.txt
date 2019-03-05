@@ -1,4 +1,4 @@
-	"hydatidiform mole, recurrent, 1"	"hepatic veno-occlusive disease-immunodeficiency syndrome"	"otoonychoperoneal syndrome"	"syndromic X-linked intellectual disability Abidi type"	"X-linked Alport syndrome"
+	"German syndrome"	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"lethal osteosclerotic bone dysplasia"	"Armfield syndrome"	"alpha thalassemia-X-linked intellectual disability syndrome"
 "Cryptorchidism"	1.0	1.0	0.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	1.0
 "Depressed nasal bridge"	1.0	1.0	1.0	1.0	1.0

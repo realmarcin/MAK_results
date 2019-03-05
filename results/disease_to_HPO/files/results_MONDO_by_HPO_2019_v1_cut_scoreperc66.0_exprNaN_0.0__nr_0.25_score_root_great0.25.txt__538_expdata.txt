@@ -1,4 +1,4 @@
-	"B-cell chronic lymphocytic leukemia"	"leukocyte nuclear appendages, hereditary prevalence of"	"Stimmler syndrome"
+	"acute monocytic leukemia"	"B-cell chronic lymphocytic leukemia"	"neutropenia, severe congenital, 1, autosomal dominant"
 "HP:0001444"	1.0	1.0	0.0
 "Acute monocytic leukemia"	1.0	0.0	1.0
 "Congenital agranulocytosis"	0.0	0.0	1.0

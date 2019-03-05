@@ -1,4 +1,4 @@
-	"chordoma (disease)"	"autosomal recessive congenital ichthyosis 2"	"tibia, absence of, with congenital deafness"	"Kerion celsi"
+	"chondrosarcoma (disease)"	"hypouricemia, hypercalcinuria, and decreased bone density"	"tibial hemimelia"	"tibia, absence of, with congenital deafness"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Hearing impairment"	0.0	0.0	0.0	1.0
 "Abnormality of the skeletal system"	1.0	1.0	1.0	1.0

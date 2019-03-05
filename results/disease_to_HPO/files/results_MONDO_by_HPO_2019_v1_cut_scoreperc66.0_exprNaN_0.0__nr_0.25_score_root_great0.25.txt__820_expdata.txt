@@ -1,4 +1,4 @@
-	"median nodule of the upper lip"	"thrombophilia due to protein C deficiency, autosomal dominant"	"MEHMO syndrome"	"Athabaskan brainstem dysgenesis syndrome"	"hereditary proximal myopathy with early respiratory failure"	"congenital generalized lipodystrophy type 4"
+	"Li-Fraumeni syndrome 1"	"familial prostate carcinoma"	"HPCX1"	"prostate cancer, hereditary, 1"	"prostate cancer/brain cancer susceptibility"	"rhabdoid tumor predisposition syndrome 2"
 "Prostate cancer"	1.0	1.0	1.0	1.0	1.0	0.0
 "Lung adenocarcinoma"	1.0	0.0	0.0	0.0	0.0	0.0
 "Soft tissue sarcoma"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"hydatidiform mole, recurrent, 1"	"succinic semialdehyde dehydrogenase deficiency"	"polyposis syndrome, hereditary mixed, 1"	"microcephaly and chorioretinopathy 3"
+	"German syndrome"	"subaortic stenosis-short stature syndrome"	"Potocki-Shaffer syndrome"	"autosomal dominant Robinow syndrome 2"
 "Acne"	0.0	1.0	0.0	0.0
 "Round face"	0.0	1.0	0.0	0.0
 "Wide intermamillary distance"	0.0	1.0	0.0	0.0

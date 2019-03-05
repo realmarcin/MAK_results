@@ -1,4 +1,4 @@
 "x"
-"1" "juvenile.amyotrophic.lateral.sclerosis.with.dementia"
-"2" "immunodeficiency.due.to.CD25.deficiency"
-"3" "hypoprebetalipoproteinemia..acanthocytosis..retinitis.pigmentosa..and.pallidal.degeneration"
+"1" "amyotrophic.lateral.sclerosis.type.2"
+"2" "juvenile.primary.lateral.sclerosis"
+"3" "infantile.onset.ascending.hereditary.spastic.paralysis"

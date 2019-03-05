@@ -1,4 +1,4 @@
-	"DDH1"	"Haim-Munk syndrome"	"Borjeson-Forssman-Lehmann syndrome"	"acne inversa, familial, 3"	"congenital adrenal insufficiency"	"amyotrophic lateral sclerosis type 14"	"epileptic encephalopathy, early infantile, 51; EIEE51"
+	"acne inversa, familial, 1"	"Papillon-Lefevre disease"	"Bazex-Dupre-Christol syndrome"	"acne inversa, familial, 2"	"acne inversa, familial, 3"	"immunodeficiency 51"	"ectodermal dysplasia 12, hypohidrotic/hair/tooth/nail type; ECTD12"
 "Acne inversa"	1.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Perifolliculitis"	0.0	0.0	0.0	1.0	1.0	0.0	0.0
 "Chronic furunculosis"	0.0	1.0	0.0	1.0	1.0	1.0	0.0

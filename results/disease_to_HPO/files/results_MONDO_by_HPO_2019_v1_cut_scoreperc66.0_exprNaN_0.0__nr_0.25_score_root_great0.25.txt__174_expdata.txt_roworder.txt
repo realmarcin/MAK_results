@@ -1,4 +1,4 @@
 "x"
-"1" "absent.radius.anogenital.anomalies.syndrome"
-"2" "congenital.bile.acid.synthesis.defect.5"
-"3" "neurodevelopmental.disorder.with.or.without.anomalies.of.the.brain..eye..or.heart..NEDBEH"
+"1" "pyruvate.dehydrogenase.E1.alpha.deficiency"
+"2" "mitochondrial.short.chain.Enoyl.Coa.hydratase.1.deficiency"
+"3" "combined.oxidative.phosphorylation.defect.type.30"

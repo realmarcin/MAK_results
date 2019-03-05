@@ -1,4 +1,4 @@
 "x"
-"1" "pontocerebellar.hypoplasia.type.4"
-"2" "autosomal.recessive.Parkinson.disease.14"
-"3" "cerebellar.ataxia..mental.retardation..and.dysequilibrium.syndrome.2"
+"1" "Aicardi.Goutieres.syndrome.1"
+"2" "Aicardi.Goutieres.syndrome.5"
+"3" "Aicardi.Goutieres.syndrome.2"

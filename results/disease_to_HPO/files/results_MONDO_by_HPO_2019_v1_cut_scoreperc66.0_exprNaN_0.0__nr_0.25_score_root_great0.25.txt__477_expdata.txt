@@ -1,4 +1,4 @@
-	"chondrocalcinosis due to apatite crystal deposition"	"factor 9 and Factor XI, combined deficiency of"	"laryngo-onycho-cutaneous syndrome"	"spinocerebellar ataxia type 17"
+	"familial calcium pyrophosphate deposition"	"factors VIII, IX and XI, combined deficiency of"	"lethal Larsen-like syndrome"	"multiple epiphyseal dysplasia, Al-Gazali type"
 "Joint dislocation"	1.0	1.0	1.0	1.0
 "Multiple joint dislocation"	0.0	0.0	1.0	0.0
 "Abnormal cartilage matrix"	0.0	0.0	1.0	0.0

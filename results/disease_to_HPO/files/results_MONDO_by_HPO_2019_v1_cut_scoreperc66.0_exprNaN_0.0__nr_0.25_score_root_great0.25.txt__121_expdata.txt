@@ -1,4 +1,4 @@
-	"Balkan nephropathy"	"mucopolysaccharidoses, unclassified types"	"branched-chain keto acid dehydrogenase kinase deficiency"	"Perrault syndrome 2"	"sideroblastic anemia 3"	"hypomyelinating leukodystrophy 13"
+	"mitochondrial complex III deficiency nuclear type 1"	"mucolipidosis type IV"	"combined oxidative phosphorylation defect type 11"	"leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome"	"spasticity-ataxia-gait anomalies syndrome"	"metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration; MECRCN"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	0.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	0.0	1.0

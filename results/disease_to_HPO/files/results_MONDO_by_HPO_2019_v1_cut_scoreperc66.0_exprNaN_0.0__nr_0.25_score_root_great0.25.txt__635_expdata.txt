@@ -1,4 +1,4 @@
-	"Onychotrichodysplasia and neutropenia"	"frontometaphyseal dysplasia 1"	"cardiac arrhythmia, ankyrin-b-related"	"chromosome 1p36 deletion syndrome"
+	"lethal omphalocele-cleft palate syndrome"	"focal dermal hypoplasia"	"agonadism, 46,XY, with mental retardation, short stature, retarded bone age, and multiple extragenital malformations"	"caudal duplication"
 "Intellectual disability"	0.0	1.0	1.0	0.0
 "Toe syndactyly"	0.0	1.0	1.0	0.0
 "Abnormality of the pinna"	0.0	1.0	1.0	0.0

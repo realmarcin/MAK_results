@@ -1,4 +1,4 @@
-	"adducted thumbs-arthrogryposis syndrome, Christian type"	"beta-aminoisobutyric acid, urinary excretion of"	"glycogen storage disease due to phosphoglycerate mutase deficiency"	"lethal congenital glycogen storage disease of heart"	"combined oxidative phosphorylation deficiency 35"
+	"very long chain acyl-CoA dehydrogenase deficiency"	"berry aneurysm, cirrhosis, pulmonary emphysema, and cerebral calcification"	"phosphoenolpyruvate carboxykinase deficiency, mitochondrial"	"phosphoenolpyruvate carboxykinase deficiency, cytosolic"	"combined oxidative phosphorylation deficiency 34"
 "Hepatic steatosis"	1.0	0.0	1.0	1.0	1.0
 "Exercise-induced rhabdomyolysis"	1.0	0.0	0.0	0.0	0.0
 "Hepatic failure"	0.0	1.0	1.0	1.0	1.0

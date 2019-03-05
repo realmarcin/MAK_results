@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"camptodactyly syndrome, Guadalajara type 1"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"	"short stature-delayed bone age due to thyroid hormone metabolism deficiency"
+	"glioma susceptibility 1"	"hyperphosphatemic familial tumoral calcinosis"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"	"talo-patello-scaphoid osteolysis"
 "HP:0000007"	0.0	1.0	0.0	0.0	1.0
 "HP:0003621"	0.0	1.0	0.0	0.0	1.0
 "Short 4th metacarpal"	0.0	0.0	0.0	0.0	1.0

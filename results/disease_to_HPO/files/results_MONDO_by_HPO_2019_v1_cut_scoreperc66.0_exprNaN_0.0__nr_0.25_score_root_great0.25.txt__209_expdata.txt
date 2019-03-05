@@ -1,4 +1,4 @@
-	"Darwinian tubercle of pinna"	"Aase-Smith syndrome"	"Tukel syndrome"	"thrombocytopenia 4"
+	"Darier disease"	"Jacobsen syndrome"	"chromosome 3q29 microdeletion syndrome"	"chromosome 15q13.3 microdeletion syndrome"
 "Pectus excavatum"	0.0	1.0	1.0	0.0
 "Microphthalmia"	0.0	1.0	1.0	0.0
 "Facial asymmetry"	0.0	1.0	1.0	0.0

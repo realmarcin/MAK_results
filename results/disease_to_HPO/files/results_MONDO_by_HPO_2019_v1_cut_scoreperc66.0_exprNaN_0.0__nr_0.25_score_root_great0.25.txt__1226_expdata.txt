@@ -1,4 +1,4 @@
-	"lactic aciduria due to D-lactic acid"	"Winchester syndrome"	"heterotaxy, visceral, 6, autosomal"	"short stature due to GHSR deficiency"	"hereditary spherocytosis type 2"	"cataract 45"
+	"mitochondrial DNA depletion syndrome 9"	"Wilson disease"	"nonprogressive cerebellar atxia with mental retardation"	"severe neurodegenerative syndrome with lipodystrophy"	"OPA8"	"brachydactyly type A1D"
 "Loss of facial adipose tissue"	0.0	0.0	0.0	0.0	0.0	0.0
 "C1-C2 subluxation"	0.0	0.0	0.0	0.0	0.0	0.0
 "Poor motor coordination"	1.0	1.0	1.0	1.0	0.0	1.0

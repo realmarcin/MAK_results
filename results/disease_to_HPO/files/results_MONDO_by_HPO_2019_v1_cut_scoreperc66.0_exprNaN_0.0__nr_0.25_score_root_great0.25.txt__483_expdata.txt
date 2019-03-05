@@ -1,4 +1,4 @@
-	"retinal cone dystrophy 3A"	"autosomal recessive nonsyndromic deafness 62"	"neutral lipid storage myopathy"	"lymphoproliferative syndrome 1"
+	"brachydactyly, coloboma, and anterior segment dysgenesis"	"heart-hand syndrome, Slovenian type"	"brachydactyly-syndactyly syndrome"	"Santos syndrome"
 "Brachydactyly"	1.0	1.0	1.0	1.0
 "Syndactyly"	1.0	1.0	0.0	1.0
 "Clinodactyly"	1.0	1.0	0.0	0.0

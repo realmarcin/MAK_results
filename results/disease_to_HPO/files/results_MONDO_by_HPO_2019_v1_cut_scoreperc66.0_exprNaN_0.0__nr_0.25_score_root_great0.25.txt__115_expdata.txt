@@ -1,4 +1,4 @@
-	"Guttmacher syndrome"	"familial reactive perforating collagenosis"	"sarcosinemia"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"Partington syndrome"
+	"Prader-Willi syndrome"	"Cohen syndrome"	"microbrachycephaly-ptosis-cleft lip syndrome"	"ichthyosis follicularis-alopecia-photophobia syndrome"	"Renpenning syndrome"
 "Strabismus"	1.0	1.0	1.0	0.0	1.0
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0

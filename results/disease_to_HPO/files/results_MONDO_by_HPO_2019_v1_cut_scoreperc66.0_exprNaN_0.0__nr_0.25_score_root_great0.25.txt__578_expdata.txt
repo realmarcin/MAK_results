@@ -1,4 +1,4 @@
-	"conductive deafness-ptosis-skeletal anomalies syndrome"	"Joubert syndrome with orofaciodigital defect"	"hereditary spastic paraplegia 9A"	"acroosteolysis-keloid-like lesions-premature aging syndrome"
+	"conductive deafness-malformed external ear syndrome"	"van Bogaert-Hozay syndrome"	"trisomy 18-like syndrome"	"premature aging syndrome, Okamoto type"
 "HP:0000007"	1.0	1.0	1.0	0.0
 "Micrognathia"	0.0	1.0	1.0	0.0
 "Depressed nasal bridge"	0.0	1.0	0.0	1.0

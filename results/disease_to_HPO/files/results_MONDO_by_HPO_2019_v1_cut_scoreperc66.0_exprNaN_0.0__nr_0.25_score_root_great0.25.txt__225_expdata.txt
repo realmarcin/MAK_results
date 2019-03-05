@@ -1,4 +1,4 @@
-	"keratosis palmaris et plantaris-clinodactyly syndrome"	"polyposis, intestinal, scattered and discrete"	"whistling face syndrome, recessive form"	"spermatogenic failure 3"
+	"palmoplantar keratoderma-esophageal carcinoma syndrome"	"Peutz-Jeghers syndrome"	"Werner syndrome"	"gastrointestinal stromal tumor"
 "Esophageal neoplasm"	1.0	1.0	0.0	1.0
 "Neoplasm of the colon"	0.0	1.0	0.0	1.0
 "Neoplasm of the rectum"	0.0	1.0	0.0	1.0

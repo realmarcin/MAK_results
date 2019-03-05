@@ -1,4 +1,4 @@
-	"coracoclavicular joint, anomalous"	"masticatory muscles, hypertrophy of"	"c syndrome"	"glycogen storage disease due to hepatic glycogen synthase deficiency"	"Beemer-Langer syndrome"	"Gomez-Lopez-Hernandez syndrome"	"COL4A1-related familial vascular leukoencephalopathy"	"BNAR syndrome"	"autosomal recessive limb-girdle muscular dystrophy type 2P"	"psoriasis 15, pustular, susceptibility to"
+	"hereditary coproporphyria"	"mastocytosis"	"progressive familial intrahepatic cholestasis type 1"	"immunodeficiency, common variable, 2"	"combined immunodeficiency due to ZAP70 deficiency"	"progressive familial intrahepatic cholestasis type 2"	"immunodeficiency, common variable, 1"	"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive"	"congenital bile acid synthesis defect 3"	"autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency"
 "Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Diarrhea"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

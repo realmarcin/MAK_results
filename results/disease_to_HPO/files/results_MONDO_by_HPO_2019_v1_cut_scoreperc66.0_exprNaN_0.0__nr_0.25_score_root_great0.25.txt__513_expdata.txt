@@ -1,4 +1,4 @@
-	"atelosteogenesis type III"	"Threoninemia"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"autosomal dominant nonsyndromic deafness 4B"	"familial papillary thyroid carcinoma with renal papillary neoplasia"
+	"atelosteogenesis type I"	"three M syndrome 1"	"X-linked dominant chondrodysplasia, Chassaing-Lacombe type"	"acrodysostosis 2 with or without hormone resistance"	"cloverleaf skull-multiple congenital anomalies syndrome"
 "Micrognathia"	1.0	0.0	1.0	0.0	1.0
 "Frontal bossing"	1.0	1.0	1.0	0.0	1.0
 "Rhizomelia"	1.0	0.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"pigmented nodular adrenocortical disease, primary, 3"	"chromosome 17q21.31 duplication syndrome"
+	"craniosynostosis, Adelaide type"	"osteogenesis imperfecta type 5"	"craniosynostosis and dental anomalies"	"Gorlin-Chaudhry-Moss syndrome"
 "Clinodactyly"	0.0	0.0	1.0	0.0
 "Coronal craniosynostosis"	0.0	0.0	1.0	1.0
 "Flat forehead"	0.0	0.0	1.0	0.0

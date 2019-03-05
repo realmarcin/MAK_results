@@ -1,4 +1,4 @@
-	"optic atrophy, hearing loss, and peripheral neuropathy, autosomal dominant"	"camptodactyly syndrome, Guadalajara type 1"	"Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome"	"autosomal recessive cerebellar ataxia-saccadic intrusion syndrome"	"diaphanospondylodysostosis"
+	"ophthalmoplegia-intellectual disability-lingua scrotalis syndrome"	"hyperphosphatemic familial tumoral calcinosis"	"Gaucher disease type III"	"horizontal gaze palsy with progressive scoliosis"	"Gaucher disease perinatal lethal"
 "Progressive ophthalmoplegia"	1.0	0.0	0.0	1.0	0.0
 "Vascular calcification"	0.0	1.0	1.0	0.0	0.0
 "Decreased beta-glucocerebrosidase protein and activity"	0.0	0.0	1.0	0.0	1.0

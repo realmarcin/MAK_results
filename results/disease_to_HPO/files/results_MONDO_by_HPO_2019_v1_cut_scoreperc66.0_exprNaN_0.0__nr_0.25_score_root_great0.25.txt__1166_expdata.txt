@@ -1,4 +1,4 @@
-	"Athrombia, essential"	"familial hemophagocytic lymphohistiocytosis type 1"	"MERRF syndrome"	"dystrophic epidermolysis bullosa pruriginosa"	"Cowden syndrome 4"	"epileptic encephalopathy, early infantile, 16"
+	"atherosclerosis-deafness-diabetes-epilepsy-nephropathy syndrome"	"reticular dysgenesis"	"MELAS syndrome"	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	"Cowden syndrome 3"	"multiple mitochondrial dysfunctions syndrome 3"
 "Decreased corneal sensation"	0.0	0.0	0.0	0.0	0.0	0.0
 "Hemianopia"	0.0	0.0	1.0	0.0	0.0	0.0
 "Abnormality of mitochondrial metabolism"	1.0	1.0	1.0	1.0	1.0	1.0

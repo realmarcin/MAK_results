@@ -1,4 +1,4 @@
-	"Treacher-Collins syndrome 1"	"mannose 6-phosphate receptor recognition defect, Lebanese type"	"Shprintzen-Goldberg syndrome"	"Tuftsin deficiency"	"lethal faciocardiomelic dysplasia"
+	"Nager acrofacial dysostosis"	"Treacher-Collins syndrome 1"	"omphalocele syndrome, Shprintzen-Goldberg type"	"tuberous sclerosis 1"	"focal facial dermal dysplasia type III"
 "Sparse lower eyelashes"	1.0	1.0	0.0	0.0	1.0
 "Abnormality of parotid gland"	0.0	1.0	0.0	0.0	0.0
 "Projection of scalp hair onto lateral cheek"	0.0	1.0	0.0	1.0	0.0

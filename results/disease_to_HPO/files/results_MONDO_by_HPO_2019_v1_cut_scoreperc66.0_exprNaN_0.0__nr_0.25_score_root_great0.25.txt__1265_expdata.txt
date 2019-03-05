@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Wilson-Turner syndrome"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"syndromic X-linked intellectual disability Snyder type"	"chromosome 22q13 duplication syndrome"
 "Long hallux"	0.0	0.0	1.0	0.0
 "Thick lower lip vermilion"	0.0	0.0	1.0	0.0
 "Broad-based gait"	0.0	0.0	1.0	0.0

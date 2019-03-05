@@ -1,4 +1,4 @@
-	"aortic arch anomaly-facial dysmorphism-intellectual disability syndrome"	"facial abnormalities, kyphoscoliosis, and mental retardation"	"syndromic X-linked intellectual disability Claes-Jensen type"
+	"Townes-Brocks syndrome 1"	"eyebrow duplication-syndactyly syndrome"	"Allan-Herndon-Dudley syndrome"
 "Aplasia/Hypoplasia of the 3rd toe"	1.0	0.0	0.0
 "2-4 finger syndactyly"	1.0	1.0	0.0
 "Satyr ear"	1.0	0.0	0.0

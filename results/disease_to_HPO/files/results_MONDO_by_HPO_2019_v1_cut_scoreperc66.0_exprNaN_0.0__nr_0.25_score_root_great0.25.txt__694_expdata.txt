@@ -1,4 +1,4 @@
-	"metabolic myopathy due to lactate transporter defect"	"peroxisome biogenesis disorder 1B"	"MYP15"	"autoinflammation with arthritis and dyskeratosis"	"microcephaly 21, primary, autosomal recessive"
+	"kuru, susceptibility to"	"Athabaskan brainstem dysgenesis syndrome"	"dopa-responsive dystonia due to sepiapterin reductase deficiency"	"hyperphenylalaninemia, mild, non-bh4-deficient"	"Ververi-Brady syndrome"
 "HP:0000007"	0.0	0.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	0.0	1.0	1.0	0.0
 "Delayed speech and language development"	0.0	0.0	1.0	1.0	1.0

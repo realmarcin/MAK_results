@@ -1,4 +1,4 @@
-	"XY type gonadal dysgenesis-associated anomalies syndrome"	"primary hypergonadotropic hypogonadism-partial alopecia syndrome"	"tetraamelia syndrome 1"	"odontotrichomelic syndrome"	"thalidomide susceptibility"	"Temple-Baraitser syndrome"
+	"46,XY sex reversal 7"	"Woodhouse-Sakati syndrome"	"tetraamelia with ectodermal dysplasia and lacrimal duct abnormalities"	"tetraamelia syndrome 1"	"odontotrichomelic syndrome"	"SERKAL syndrome"
 "Abnormality of the diaphragm"	0.0	0.0	0.0	1.0	0.0	0.0
 "Hypoplasia of the fallopian tube"	1.0	1.0	0.0	1.0	0.0	0.0
 "Tetraamelia"	0.0	0.0	1.0	1.0	1.0	0.0

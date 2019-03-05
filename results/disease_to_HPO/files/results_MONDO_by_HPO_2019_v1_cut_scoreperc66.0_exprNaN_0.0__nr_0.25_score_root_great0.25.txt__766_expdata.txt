@@ -1,4 +1,4 @@
-	"nose, anomalous shape of"	"osteopathia striata with cranial sclerosis"	"thrombocytopenia with elevated serum IgA and renal disease"	"inflammatory bowel disease 3"	"BCC1"	"intellectual disability, autosomal recessive 51; MRT51"
+	"Noonan syndrome 1"	"thrombocytopenia, X-linked, with or without dyserythropoietic anemia"	"X-linked thrombocytopenia with normal platelets"	"congenital amegakaryocytic thrombocytopenia"	"radioulnar synostosis with amegakaryocytic thrombocytopenia 1"	"radioulnar synostosis with amegakaryocytic thrombocytopenia 2; RUSAT2"
 "Amegakaryocytic thrombocytopenia"	1.0	0.0	0.0	1.0	1.0	0.0
 "Limited pronation/supination of forearm"	0.0	0.0	0.0	0.0	1.0	1.0
 "Congenital thrombocytopenia"	0.0	1.0	1.0	0.0	1.0	1.0

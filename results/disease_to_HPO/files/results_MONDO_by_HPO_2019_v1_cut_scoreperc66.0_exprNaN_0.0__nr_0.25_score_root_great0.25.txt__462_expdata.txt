@@ -1,4 +1,4 @@
-	"pseudohypoparathyroidism type 1A"	"discrimination, Two-point, reduction 1N"	"Raynaud disease"
+	"Tietz syndrome"	"dilution, pigmentary"	"raindrop hypopigmentation"
 "HP:0000006"	1.0	1.0	1.0
 "Hearing impairment"	1.0	0.0	0.0
 "Blue irides"	1.0	0.0	0.0

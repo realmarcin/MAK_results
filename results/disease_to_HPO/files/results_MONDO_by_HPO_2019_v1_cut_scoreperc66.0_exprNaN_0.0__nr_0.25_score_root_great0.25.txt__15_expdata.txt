@@ -1,4 +1,4 @@
-	"Noonan syndrome 4"	"congenital myasthenic syndrome 16"	"congenital microcephaly - severe encephalopathy - progressive cerebral atrophy syndrome"
+	"nephrotic syndrome, type 3"	"nephrotic syndrome, type 6"	"nephrotic syndrome, type 9"
 "Proteinuria"	1.0	1.0	1.0
 "Nephrotic syndrome"	1.0	1.0	1.0
 "HP:0003676"	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"fibular hypoplasia and complex brachydactyly"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"fibrosclerosis, multifocal"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Abnormality of the thorax"	0.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Joint contracture of the hand"	0.0	1.0	0.0	0.0

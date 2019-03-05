@@ -1,4 +1,4 @@
-	"facial spasm"	"Charcot-Marie-Tooth disease type 2D"	"hereditary spastic paraplegia 10"	"pontocerebellar hypoplasia type 2B"
+	"familial recurrent peripheral facial palsy"	"facial paresis, hereditary congenital, 1"	"facial paresis, hereditary congenital, 2"	"sarcoidosis, susceptibility to, 2"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0
 "Hydroureter"	0.0	0.0	0.0	0.0
 "Xerostomia"	0.0	0.0	0.0	0.0

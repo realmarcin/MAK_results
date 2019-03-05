@@ -1,4 +1,4 @@
-	"fused mandibular incisors"	"peroxisome biogenesis disorder 1A (Zellweger)"	"encephalomalacia, multilocular"	"geroderma osteodysplastica"	"obesity, hyperphagia, and developmental delay"
+	"solitary median maxillary central incisor syndrome"	"cerebrofaciothoracic dysplasia"	"Ellis-van Creveld syndrome"	"genito-palato-cardiac syndrome"	"Meckel syndrome, type 8"
 "Cleft upper lip"	1.0	1.0	1.0	1.0	1.0
 "Postaxial hand polydactyly"	0.0	1.0	1.0	1.0	1.0
 "Abnormality of chromosome segregation"	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Morquio syndrome C"	"MRX77"	"McLeod neuroacanthocytosis syndrome"	"pituitary hormone deficiency, combined, 6"	"Fanconi anemia complementation group L"	"structural heart defects and renal anomalies syndrome"	"mucocutaneous lymph node syndrome"
+	"monosomy 7 of bone marrow"	"alpha-thalassemia-myelodysplastic syndrome"	"X-linked dyserythropoetic anemia with abnormal platelets and neutropenia"	"beta-thalassemia HBB/LCRB"	"Fanconi anemia complementation group G"	"specific granule deficiency 2"	"dominant beta-thalassemia"
 "Thrombocytopenia"	1.0	1.0	1.0	0.0	1.0	1.0	0.0
 "Myelodysplasia"	1.0	1.0	0.0	0.0	1.0	1.0	0.0
 "Multiple cafe-au-lait spots"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

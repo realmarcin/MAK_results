@@ -1,4 +1,4 @@
-	"Noonan syndrome with multiple lentigines"	"arteriosclerosis, severe juvenile"	"cutis marmorata telangiectatica congenita (disease)"	"German syndrome"	"primary ciliary dyskinesia 6"	"plasma fibronectin deficiency"
+	"Lenz-Majewski hyperostotic dwarfism"	"arterial tortuosity syndrome"	"autosomal recessive cutis laxa type 2, classic type"	"geroderma osteodysplastica"	"body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency"	"cutis laxa - Marfanoid syndrome"
 "Hyperextensible skin"	0.0	1.0	0.0	1.0	0.0	0.0
 "Cutis laxa"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hyperextensibility of the finger joints"	1.0	0.0	0.0	1.0	0.0	0.0

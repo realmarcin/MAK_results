@@ -1,4 +1,4 @@
-	"gastroesophageal reflux disease"	"Guttmacher syndrome"	"Rombo syndrome"	"synovial chondromatosis, familial, with dwarfism"	"temtamy syndrome"	"ovarian dysgenesis 1"	"microcephaly 1, primary, autosomal recessive"	"Richieri Costa-Pereira syndrome"	"free sialic acid storage disease, infantile form"	"retinal ischemic syndrome-digestive tract small vessel hyalinosis-diffuse cerebral calcifications syndrome"	"acromesomelic dysplasia, Maroteaux type"
+	"Banki syndrome"	"Prader-Willi syndrome"	"autosomal dominant Robinow syndrome 1"	"tarsal-carpal coalition syndrome"	"cranioectodermal dysplasia 1"	"GOMBO syndrome"	"microcephalic primordial dwarfism, Toriello type"	"Roberts syndrome"	"SHORT syndrome"	"Joubert syndrome with orofaciodigital defect"	"Muenke syndrome"
 "Brachydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Radial deviation of finger"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Clinodactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

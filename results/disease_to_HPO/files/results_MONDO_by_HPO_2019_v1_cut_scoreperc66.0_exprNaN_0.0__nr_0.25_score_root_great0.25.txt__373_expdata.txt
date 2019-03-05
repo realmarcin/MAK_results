@@ -1,4 +1,4 @@
-	"Hirschsprung disease-nail hypoplasia-dysmorphism syndrome"	"histidinemia"	"Sjogren syndrome"	"HSCR5"
+	"Hirschsprung disease with ulnar polydactyly, polysyndactyly of big toes, and ventricular septal defect"	"Hirschsprung disease-nail hypoplasia-dysmorphism syndrome"	"situs inversus"	"Hirschsprung disease, susceptibility to, 2"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Ventricular septal defect"	1.0	0.0	1.0	0.0
 "Preaxial foot polydactyly"	1.0	0.0	0.0	0.0

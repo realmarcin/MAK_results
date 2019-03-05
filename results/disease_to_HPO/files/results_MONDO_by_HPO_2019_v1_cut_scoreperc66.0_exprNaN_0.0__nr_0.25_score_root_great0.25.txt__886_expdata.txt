@@ -1,4 +1,4 @@
-	"MRX49"	"syndromic X-linked intellectual disability Shashi type"	"autosomal recessive nonsyndromic deafness 30"	"Brugada syndrome 5"	"congenital heart defects, multiple types, 4"
+	"X-linked spondyloepimetaphyseal dysplasia"	"spondyloepimetaphyseal dysplasia, Bieganski type"	"anauxetic dysplasia 1"	"spondyloepimetaphyseal dysplasia, aggrecan type"	"Desbuquois dysplasia 2"
 "Brachydactyly"	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the nail"	0.0	0.0	0.0	1.0	0.0
 "Platyspondyly"	1.0	1.0	1.0	1.0	0.0

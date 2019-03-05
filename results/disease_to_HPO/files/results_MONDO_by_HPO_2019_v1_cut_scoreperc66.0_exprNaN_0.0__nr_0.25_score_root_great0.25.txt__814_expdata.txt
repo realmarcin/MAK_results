@@ -1,4 +1,4 @@
-	"congenital disorder of glycosylation, type i/IIx"	"Riley-Day syndrome"	"chronic Epstein-Barr virus infection syndrome"	"GTP-cyclohydrolase I deficiency"	"Stargardt macular degeneration, absent or hypoplastic corpus callosum, mental retardation, and dysmorphic features"	"peroxisome biogenesis disorder 10b"
+	"MGAT2-CDG"	"Dyggve-Melchior-Clausen disease"	"Wolcott-Rallison syndrome"	"Grubben-de Cock-Borghgraef syndrome"	"microcephaly, growth retardation, cataract, hearing loss, and unusual appearance"	"congenital heart defects and ectodermal dysplasia"
 "Cone-shaped epiphyses of the phalanges of the hand"	0.0	1.0	1.0	0.0	0.0	0.0
 "Dry skin"	0.0	0.0	0.0	1.0	1.0	1.0
 "Kyphosis"	0.0	1.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"fragile X syndrome"	"X-linked intellectual disability, Cantagrel type"	"MYP3"	"ALG12-CDG"
+	"fragile X-associated tremor/ataxia syndrome"	"X-linked parkinsonism-spasticity syndrome"	"Huntington disease-like 1"	"spinocerebellar ataxia type 17"
 "Bradykinesia"	1.0	1.0	1.0	1.0
 "Mask-like facies"	1.0	1.0	1.0	0.0
 "Hyperactive deep tendon reflexes"	0.0	1.0	1.0	0.0

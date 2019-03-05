@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"hereditary spastic paraplegia 38"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
+	"amyotrophic lateral sclerosis type 1"	"hereditary spastic paraplegia 35"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"
 "Dysdiadochokinesis"	0.0	1.0	0.0	0.0
 "External ophthalmoplegia"	0.0	1.0	0.0	0.0
 "Mask-like facies"	0.0	1.0	0.0	0.0

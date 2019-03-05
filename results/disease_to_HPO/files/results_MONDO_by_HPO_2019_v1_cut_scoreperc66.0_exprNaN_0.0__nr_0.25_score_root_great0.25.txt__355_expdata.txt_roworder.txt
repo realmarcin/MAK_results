@@ -1,4 +1,4 @@
 "x"
-"1" "Keipert.syndrome"
-"2" "exudative.vitreoretinopathy.1"
-"3" "muscular.dystrophy.dystroglycanopathy.type.B6"
+"1" "familial.atrial.myxoma"
+"2" "extrasystoles.short.stature.hyperpigmentation.microcephaly.syndrome"
+"3" "Carney.complex...trismus...pseudocamptodactyly.syndrome"

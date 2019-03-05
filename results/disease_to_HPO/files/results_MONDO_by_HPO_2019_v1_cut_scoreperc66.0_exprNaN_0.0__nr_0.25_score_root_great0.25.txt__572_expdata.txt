@@ -1,4 +1,4 @@
-	"peroxisome biogenesis disorder 10A (Zellweger)"	"congenital myasthenic syndrome 7"	"postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome"	"spinocerebellar ataxia 43; SCA43"
+	"young adult-onset distal hereditary motor neuropathy"	"Charcot-Marie-Tooth disease recessive intermediate d"	"Charcot-Marie-Tooth disease axonal type 2U"	"Charcot-Marie-Tooth disease axonal type 2T"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0
 "HP:0000007"	1.0	1.0	0.0	1.0
 "Hydroureter"	0.0	0.0	0.0	0.0

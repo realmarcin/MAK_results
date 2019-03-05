@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis with polyglucosan bodies"	"McKusick-Kaufman syndrome"	"ichthyosis-intellectual disability-dwarfism-renal impairment syndrome"	"immunodeficiency with defective T-cell response to interleukin 1"	"autosomal recessive spinocerebellar ataxia 13"
+	"juvenile amyotrophic lateral sclerosis with dementia"	"normal pressure hydrocephalus"	"ichthyosis-hepatosplenomegaly-cerebellar degeneration syndrome"	"internal carotid arteries, hypoplasia of"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 8"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	0.0	1.0	0.0	0.0	1.0
 "Dementia"	1.0	1.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"peroxisome biogenesis disorder 2A (Zellweger)"	"cerebrooculofacioskeletal syndrome 1"	"peroxisome biogenesis disorder 4B"	"peroxisome biogenesis disorder 5B"	"peroxisome biogenesis disorder 6B"	"peroxisome biogenesis disorder 8B"
+	"peroxisome biogenesis disorder 1A (Zellweger)"	"peroxisome biogenesis disorder 2A (Zellweger)"	"peroxisome biogenesis disorder 4A (Zellweger)"	"peroxisome biogenesis disorder 5A (Zellweger)"	"peroxisome biogenesis disorder 6A (Zellweger)"	"peroxisome biogenesis disorder 8A (Zellweger)"
 "Cubitus valgus"	1.0	1.0	0.0	1.0	0.0	0.0
 "Metatarsus adductus"	1.0	1.0	0.0	1.0	0.0	0.0
 "Pigmentary retinopathy"	1.0	1.0	0.0	1.0	0.0	0.0

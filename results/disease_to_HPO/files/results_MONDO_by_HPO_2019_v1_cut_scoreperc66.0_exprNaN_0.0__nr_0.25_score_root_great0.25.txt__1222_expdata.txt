@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"	"complement factor b deficiency"
+	"glioma susceptibility 1"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"	"otofaciocervical syndrome 2"
 "Low-set ears"	0.0	0.0	0.0	1.0
 "Dental malocclusion"	0.0	0.0	0.0	1.0
 "Intellectual disability, moderate"	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
 "x"
-"1" "immunodeficiency.18"
-"2" "pruritus..hereditary.localized"
-"3" "ketone.compounds..ability.to.smell"
+"1" "DDH2"
+"2" "Protrusio.acetabuli..disease."
+"3" "slipped.femoral.capital.epiphyses"

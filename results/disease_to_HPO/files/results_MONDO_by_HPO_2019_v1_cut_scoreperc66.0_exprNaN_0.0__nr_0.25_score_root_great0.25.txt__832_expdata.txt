@@ -1,4 +1,4 @@
-	"osteogenesis imperfecta type 2"	"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures"	"southeast Asian ovalocytosis"	"mandibulofacial dysostosis with ptosis, autosomal dominant"	"OTSC7"	"deafness, unilateral, with delayed endolymphatic hydrops"	"severe combined immunodeficiency due to IKK2 deficiency"	"leukodystrophy, hypomyelinating, 14"
+	"osteogenesis imperfecta type 1"	"osteogenesis imperfecta type 4"	"OTSC1"	"OTSC3"	"OTSC4"	"OTSC8"	"OTSC10"	"multiple synostoses syndrome 4"
 "Wormian bones"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Recurrent fractures"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Dentinogenesis imperfecta"	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

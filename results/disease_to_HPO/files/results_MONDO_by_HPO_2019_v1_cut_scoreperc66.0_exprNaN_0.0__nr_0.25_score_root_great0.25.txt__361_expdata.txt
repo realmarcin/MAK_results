@@ -1,4 +1,4 @@
-	"steatocystoma multiplex-natal teeth syndrome"	"nemaline myopathy 9"	"retinitis pigmentosa-juvenile cataract-short stature-intellectual disability syndrome"
+	"sebocystomatosis"	"pachyonychia congenita 4"	"psoriasis 15, pustular, susceptibility to"
 "HP:0000006"	1.0	1.0	1.0
 "Palmoplantar keratoderma"	0.0	1.0	0.0
 "Nail dystrophy"	0.0	1.0	1.0

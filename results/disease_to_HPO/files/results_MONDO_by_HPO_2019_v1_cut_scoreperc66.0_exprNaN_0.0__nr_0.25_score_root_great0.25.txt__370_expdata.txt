@@ -1,4 +1,4 @@
-	"Guttmacher syndrome"	"Ruvalcaba syndrome"	"Sneddon syndrome"	"Wilms tumor type 1"	"Goodman syndrome"	"intellectual disability, X-linked 96"
+	"Prader-Willi syndrome"	"Silver-Russell syndrome"	"Smith-Magenis syndrome"	"Williams syndrome"	"Carpenter syndrome 1"	"chromosome Xp11.23-p11.22 duplication syndrome"
 "Delayed skeletal maturation"	1.0	1.0	0.0	1.0	0.0	0.0
 "Obesity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Precocious puberty"	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"POROK1"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"primary ciliary dyskinesia 26"
+	"porencephaly 1"	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"X-linked epilepsy-learning disabilities-behavior disorders syndrome"	"intellectual disability-hypotonia-spasticity-sleep disorder syndrome"
 "Intellectual disability"	1.0	0.0	0.0	0.0
 "Hemolytic anemia"	1.0	0.0	0.0	0.0
 "Tetraparesis"	1.0	0.0	0.0	0.0

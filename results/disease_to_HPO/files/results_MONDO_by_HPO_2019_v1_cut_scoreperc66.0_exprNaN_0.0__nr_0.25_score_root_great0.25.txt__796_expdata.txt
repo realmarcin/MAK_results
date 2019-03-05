@@ -1,4 +1,4 @@
-	"angioedema, hereditary, type 1/2"	"gracile syndrome"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
+	"hereditary neurocutaneous malformation"	"cerebral cavernous malformation 3"	"encephalopathy, acute, infection-induced (herpes-specific), susceptibility to, 8"	"microcephaly 22, primary, autosomal recessive"
 "HP:0000006"	1.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0
 "Hematuria"	1.0	0.0	0.0	0.0

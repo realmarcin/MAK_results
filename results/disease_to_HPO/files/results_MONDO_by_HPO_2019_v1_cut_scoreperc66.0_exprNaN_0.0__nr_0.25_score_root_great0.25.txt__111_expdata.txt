@@ -1,4 +1,4 @@
-	"emphysema, hereditary pulmonary"	"hypotrichosis-lymphedema-telangiectasia-renal defect syndrome"	"juvenile nephropathic cystinosis"	"Joubert syndrome with oculorenal defect"	"proximal tubulopathy-diabetes mellitus-cerebellar ataxia syndrome"
+	"Beckwith-Wiedemann syndrome"	"renal cysts and diabetes syndrome"	"cystinosis, nephropathic"	"Johanson-Blizzard syndrome"	"Pearson syndrome"
 "Hypothyroidism"	1.0	1.0	0.0	1.0	0.0
 "Exocrine pancreatic insufficiency"	1.0	1.0	1.0	1.0	1.0
 "Diabetes mellitus"	0.0	1.0	1.0	1.0	1.0

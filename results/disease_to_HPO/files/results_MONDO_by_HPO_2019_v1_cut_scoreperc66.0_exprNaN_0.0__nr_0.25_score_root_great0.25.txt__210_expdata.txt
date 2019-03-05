@@ -1,4 +1,4 @@
-	"hypogonadotropic hypogonadism 8 with or without anosmia"	"hereditary spastic paraplegia 61"	"neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome"	"myofibrillar myopathy 8"	"epileptic encephalopathy, early infantile, 66"
+	"bilateral generalized polymicrogyria"	"hereditary spastic paraplegia 64"	"3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia"	"lissencephaly 8; LIS8"	"pontocerebellar hypoplasia, type 1d"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	0.0	1.0	1.0	1.0
 "Spasticity"	1.0	1.0	1.0	1.0	1.0

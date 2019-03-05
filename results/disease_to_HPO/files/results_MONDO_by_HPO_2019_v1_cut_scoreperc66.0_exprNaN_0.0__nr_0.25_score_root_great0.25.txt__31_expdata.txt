@@ -1,4 +1,4 @@
-	"dysautonomia-like disorder"	"dystonia 23"	"peroxisome biogenesis disorder 4B"	"peroxisome biogenesis disorder 6B"	"peroxisome biogenesis disorder 8B"
+	"Riley-Day syndrome"	"peroxisome biogenesis disorder 3A (Zellweger)"	"peroxisome biogenesis disorder 4A (Zellweger)"	"peroxisome biogenesis disorder 6A (Zellweger)"	"peroxisome biogenesis disorder 8A (Zellweger)"
 "Hepatomegaly"	0.0	1.0	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0

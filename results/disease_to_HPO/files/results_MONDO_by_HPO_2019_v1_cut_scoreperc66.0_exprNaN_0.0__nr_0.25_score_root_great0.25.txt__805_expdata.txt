@@ -1,4 +1,4 @@
-	"spondylometaphyseal dysplasia, Kozlowski type"	"achondrogenesis type II"	"Greenberg dysplasia"	"autosomal recessive nonsyndromic deafness 7"
+	"spondyloepimetaphyseal dysplasia, Strudwick type"	"achondrogenesis type IA"	"rhizomelic chondrodysplasia punctata type 1"	"achondrogenesis type IB"
 "Frontal bossing"	0.0	1.0	1.0	1.0
 "Flat face"	1.0	1.0	1.0	1.0
 "Hyperkeratosis"	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"spinal muscular atrophy, facioscapulohumeral type"	"hereditary spastic paraplegia 6"	"platelet-type bleeding disorder 12"	"Li-Fraumeni syndrome 2"
+	"Charcot-Marie-Tooth disease type 1E"	"distal hereditary motor neuropathy type 1"	"Charcot-Marie-Tooth disease type 5"	"autosomal recessive distal spinal muscular atrophy 2"	"Charcot-Marie-Tooth disease type 2A2"
 "Spasticity"	0.0	0.0	1.0	0.0	1.0
 "Pes cavus"	1.0	1.0	1.0	1.0	1.0
 "Babinski sign"	0.0	1.0	1.0	1.0	1.0

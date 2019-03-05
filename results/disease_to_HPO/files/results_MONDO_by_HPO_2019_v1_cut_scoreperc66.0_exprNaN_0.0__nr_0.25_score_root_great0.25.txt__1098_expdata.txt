@@ -1,4 +1,4 @@
-	"growth hormone secreting pituitary adenoma 1"	"patterned macular dystrophy 1"	"spinocerebellar ataxia type 12"	"myopathy, autophagic vacuolar, infantile-onset"	"retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome"
+	"acromegaloid facial appearance syndrome"	"Char syndrome"	"microcephaly 4, primary, autosomal recessive"	"Goldberg-Shprintzen megacolon syndrome"	"alkaline ceramidase 3 deficiency"
 "Thick eyebrow"	1.0	1.0	1.0	1.0	1.0
 "Prominent occiput"	0.0	1.0	0.0	0.0	0.0
 "Mesoaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0

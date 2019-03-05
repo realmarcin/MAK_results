@@ -1,4 +1,4 @@
 "x"
-"1" "Cowden.syndrome.2"
-"2" "Ehlers.Danlos.syndrome..spondylocheirodysplastic.type"
-"3" "antithrombin.III.deficiency"
+"1" "heparin.cofactor.2.deficiency"
+"2" "THPH9"
+"3" "hereditary.thrombophilia.due.to.congenital.histidine.rich..poly.L..glycoprotein.deficiency"

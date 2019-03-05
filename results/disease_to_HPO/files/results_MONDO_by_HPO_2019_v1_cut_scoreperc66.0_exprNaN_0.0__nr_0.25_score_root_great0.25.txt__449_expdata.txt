@@ -1,4 +1,4 @@
-	"fundus albipunctatus"	"central cloudy dystrophy of François"	"familial hyperthyroidism due to mutations in TSH receptor"	"immunodeficiency 25"	"cirrhosis - dystonia - polycythemia - hypermanganesemia syndrome"
+	"corneal dystrophy, Fuchs endothelial, 1"	"corneal degeneration, band-shaped spheroid"	"posterior polymorphous corneal dystrophy 3"	"FECD2"	"corneal dystrophy, Fuchs endothelial, 6"
 "Corneal degeneration"	1.0	1.0	0.0	1.0	0.0
 "Corneal guttata"	1.0	0.0	1.0	1.0	1.0
 "Descemet Membrane Folds"	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"progressive familial heart block type II"	"Knobloch syndrome"	"primary hyperoxaluria type 3"	"nephronophthisis 15"	"epilepsy, idiopathic generalized, susceptibility to, 12"
+	"hawkinsinuria"	"retinal degeneration and epilepsy"	"Senior-Loken syndrome 7"	"nephronophthisis 14"	"nephronophthisis 15"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0
 "HP:0003812"	0.0	0.0	0.0	1.0	1.0
 "HP:0000113"	0.0	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"posterior polymorphous corneal dystrophy 1"	"Czeizel-Losonci syndrome"	"syndromic X-linked intellectual disability 7"	"hypertelorism-preauricular sinus-punctual pits-deafness syndrome"	"combined immunodeficiency due to GINS1 deficiency"
+	"granular corneal dystrophy type I"	"Karsch-Neugebauer syndrome"	"Coats disease"	"Leber congenital amaurosis 16"	"Alkuraya-Kucinskas syndrome"
 "Strabismus"	1.0	1.0	1.0	1.0	1.0
 "Hypermetropia"	0.0	0.0	0.0	0.0	1.0
 "Cataract"	1.0	1.0	1.0	1.0	1.0

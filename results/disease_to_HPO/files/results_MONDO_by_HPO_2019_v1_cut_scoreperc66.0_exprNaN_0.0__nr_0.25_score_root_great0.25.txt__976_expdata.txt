@@ -1,4 +1,4 @@
-	"congenital lobar emphysema"	"nephronophthisis 4"	"immunodeficiency, common variable, 3"	"encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome"	"basal ganglia calcification, idiopathic, 5"	"microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome"
+	"emphysema, hereditary pulmonary"	"COPD, severe early onset"	"alpha 1-antitrypsin deficiency"	"hereditary sensory and autonomic neuropathy type 6"	"primary ciliary dyskinesia 25"	"immunodeficiency, common variable, 12"
 "HP:0000007"	0.0	0.0	1.0	1.0	1.0	0.0
 "Fever"	0.0	0.0	0.0	1.0	0.0	0.0
 "Sensory neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0

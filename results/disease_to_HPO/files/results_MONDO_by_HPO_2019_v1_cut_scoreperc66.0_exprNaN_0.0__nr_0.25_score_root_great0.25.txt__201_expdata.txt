@@ -1,4 +1,4 @@
-	"ectodermal dysplasia with adrenal cyst"	"Greenberg dysplasia"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"guanidinoacetate methyltransferase deficiency"	"intellectual disability, autosomal recessive 42"
+	"ectodermal dysplasia syndrome with distinctive facial appearance and preaxial polydactyly of feet"	"rhizomelic chondrodysplasia punctata type 1"	"rhizomelic chondrodysplasia punctata type 2"	"faciocardiomelic syndrome"	"short stature with microcephaly and distinctive facies"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0	1.0	1.0
 "Micrognathia"	1.0	1.0	1.0	1.0	0.0

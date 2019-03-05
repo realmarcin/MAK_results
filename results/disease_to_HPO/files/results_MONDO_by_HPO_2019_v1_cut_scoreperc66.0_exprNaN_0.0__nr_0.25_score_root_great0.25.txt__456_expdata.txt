@@ -1,4 +1,4 @@
-	"cardiac lipidosis, familial"	"X-linked parkinsonism-spasticity syndrome"	"bleeding disorder, platelet-type, 21"	"microcephaly, growth restriction, and increased sister chromatid exchange 2"
+	"carboxypeptidase N deficiency"	"renin-angiotensin-aldosterone system-blocker-induced angioedema"	"premature ovarian failure 13"	"premature ovarian failure 15"
 "HP:0000007"	1.0	0.0	1.0	0.0
 "Angioedema"	1.0	1.0	0.0	0.0
 "Oligomenorrhea"	0.0	0.0	1.0	1.0

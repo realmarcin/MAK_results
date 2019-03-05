@@ -1,4 +1,4 @@
-	"Clouston syndrome"	"Rosselli-Gulienetti syndrome"	"X-linked Ehlers-Danlos syndrome"	"epidermolysis bullosa simplex with pyloric atresia"	"ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive"	"autosomal recessive nonsyndromic deafness 84B"
+	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive"	"X-linked hypohidrotic ectodermal dysplasia"	"ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant"	"ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant"	"ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive"
 "Frontal bossing"	0.0	1.0	1.0	1.0	0.0	0.0
 "Depressed nasal bridge"	0.0	1.0	1.0	0.0	0.0	1.0
 "HP:0001425"	1.0	1.0	1.0	0.0	0.0	0.0

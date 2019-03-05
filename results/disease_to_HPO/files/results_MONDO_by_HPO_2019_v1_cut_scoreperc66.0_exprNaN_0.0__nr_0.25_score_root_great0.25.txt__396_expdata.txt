@@ -1,4 +1,4 @@
-	"familial apolipoprotein C-II deficiency"	"microcephaly-glomerulonephritis-marfanoid habitus syndrome"	"mast syndrome"	"neurologic disease, infantile multisystem, with osseous fragility"	"primary ciliary dyskinesia 13"
+	"polyneuropathy-hand defect syndrome"	"Marden-Walker syndrome"	"Marinesco-Sjogren syndrome"	"neuroectodermal melanolysosomal disease"	"intellectual disability, autosomal recessive 13"
 "Fixed facial expression"	0.0	1.0	0.0	0.0	0.0
 "Abnormality of the cerebellar vermis"	0.0	1.0	1.0	1.0	1.0
 "Aplasia/Hypoplasia involving the skeletal musculature"	1.0	1.0	1.0	0.0	0.0

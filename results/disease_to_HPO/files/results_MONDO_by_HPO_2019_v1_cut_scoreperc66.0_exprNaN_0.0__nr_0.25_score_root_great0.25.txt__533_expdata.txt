@@ -1,4 +1,4 @@
-	"myoclonus-cerebellar ataxia-deafness syndrome"	"cerebral sclerosis similar to Pelizaeus-Merzbacher disease"	"severe neonatal-onset encephalopathy with microcephaly"
+	"myoclonus and ataxia"	"cerebrotendinous xanthomatosis"	"epileptic encephalopathy, early infantile, 2"
 "Abnormality of the dentate nucleus"	1.0	1.0	0.0
 "EEG with generalized slow activity"	0.0	1.0	1.0
 "HP:0031290"	0.0	1.0	0.0

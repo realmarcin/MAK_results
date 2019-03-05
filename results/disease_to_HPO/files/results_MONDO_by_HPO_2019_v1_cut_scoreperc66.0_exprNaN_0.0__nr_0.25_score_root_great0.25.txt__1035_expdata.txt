@@ -1,4 +1,4 @@
-	"familial angiolipomatosis"	"AREDYLD syndrome"	"short stature-obesity syndrome"	"Fabry disease"	"X-linked thrombocytopenia with normal platelets"	"autosomal dominant nocturnal frontal lobe epilepsy 2"	"paroxysmal nonkinesigenic dyskinesia 2"	"spondyloepiphyseal dysplasia, Nishimura type"
+	"isolated anencephaly/exencephaly"	"XK aprosencephaly"	"Beemer-Langer syndrome"	"neural tube defects, X-linked"	"pentalogy of Cantrell"	"Meckel syndrome, type 2"	"Meckel syndrome, type 4"	"distal monosomy 13q"
 "Patent ductus arteriosus"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Neonatal death"	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Omphalocele"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

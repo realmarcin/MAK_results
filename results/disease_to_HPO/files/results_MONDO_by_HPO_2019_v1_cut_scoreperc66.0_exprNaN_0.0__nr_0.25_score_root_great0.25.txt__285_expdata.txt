@@ -1,4 +1,4 @@
-	"pontocerebellar hypoplasia type 4"	"cerebellar ataxia, mental retardation, and dysequilibrium syndrome 2"	"autosomal recessive Parkinson disease 14"
+	"Aicardi-Goutieres syndrome 1"	"Aicardi-Goutieres syndrome 2"	"Aicardi-Goutieres syndrome 5"
 "Deep white matter hypodensities"	1.0	0.0	1.0
 "Chronic CSF lymphocytosis"	1.0	1.0	0.0
 "Increased CSF interferon alpha"	1.0	0.0	0.0

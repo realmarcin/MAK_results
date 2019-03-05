@@ -1,4 +1,4 @@
-	"lipoic acid synthetase deficiency"	"cortisone reductase deficiency 2"	"short-rib thoracic dysplasia 8 with or without polydactyly"	"microcephaly-congenital cataract-psoriasiform dermatitis syndrome"	"sideroblastic anemia 3"	"neurodevelopmental disorder with or without anomalies of the brain, eye, or heart; NEDBEH"
+	"childhood encephalopathy due to thiamine pyrophosphokinase deficiency"	"encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome"	"intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome"	"Paget disease of bone 6; PDB6"	"spasticity-ataxia-gait anomalies syndrome"	"combined oxidative phosphorylation defect type 30"
 "HP:0000007"	1.0	1.0	0.0	0.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	0.0	1.0	1.0
 "Left ventricular hypertrophy"	1.0	1.0	0.0	1.0	1.0	1.0

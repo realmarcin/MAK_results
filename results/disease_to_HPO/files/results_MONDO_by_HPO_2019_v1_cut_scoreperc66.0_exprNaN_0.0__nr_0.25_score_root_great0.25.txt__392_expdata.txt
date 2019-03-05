@@ -1,4 +1,4 @@
-	"hall-Riggs syndrome"	"blepharophimosis - intellectual disability syndrome, MKB type"	"familial dyskinesia and facial myokymia"	"multiple mitochondrial dysfunctions syndrome 2"	"autosomal dominant nonsyndromic deafness 54"	"autosomal recessive severe congenital neutropenia due to CSF3R deficiency"
+	"pantothenate kinase-associated neurodegeneration"	"neurodegeneration with brain iron accumulation 5"	"Kufor-Rakeb syndrome"	"neurodegeneration with brain iron accumulation 4"	"neurodegeneration with brain iron accumulation 6"	"hypermanganesemia with dystonia 2; HMNDYT2"
 "Parkinsonism"	1.0	1.0	1.0	1.0	1.0	1.0
 "Bradykinesia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Distal amyotrophy"	0.0	0.0	0.0	1.0	1.0	0.0

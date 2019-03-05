@@ -1,4 +1,4 @@
-	"ear antitragus, tag at base of"	"macrocephaly-spastic paraplegia-dysmorphism syndrome"	"ALG12-CDG"	"myofibrillar myopathy 6"
+	"dystonia 12"	"semantic dementia"	"spinocerebellar ataxia type 17"	"autosomal recessive Parkinson disease 14"
 "Paranoia"	0.0	0.0	1.0	1.0
 "Dyslexia"	0.0	1.0	0.0	1.0
 "Hypomimic face"	1.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"posterior column ataxia"	"hyper-IgM syndrome type 3"	"juvenile idiopathic arthritis"
+	"postaxial tetramelic oligodactyly"	"Cardioneuromyopathy with hyaline masses and nemaline rods"	"deafness-hypogonadism syndrome"
 "Proximal finger joint hyperextensibility"	0.0	0.0	0.0
 "Partial-complete absence of 5th phalanges"	1.0	0.0	0.0
 "Absent fifth metatarsal"	1.0	0.0	0.0

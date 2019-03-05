@@ -1,4 +1,4 @@
-	"cheilitis glandularis"	"autosomal dominant myoglobinuria"	"autosomal dominant centronuclear myopathy"	"polyhydramnios, megalencephaly, and symptomatic epilepsy"
+	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"spinal muscular atrophy-progressive myoclonic epilepsy syndrome"	"episodic ataxia type 1"	"autosomal recessive lower motor neuron disease with childhood onset"
 "Myoclonus"	0.0	1.0	0.0	0.0
 "HP:0003621"	0.0	1.0	1.0	0.0
 "Dementia"	1.0	1.0	0.0	0.0

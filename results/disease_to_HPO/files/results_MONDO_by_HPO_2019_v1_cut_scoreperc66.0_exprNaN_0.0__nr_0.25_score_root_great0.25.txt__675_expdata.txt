@@ -1,4 +1,4 @@
-	"Baraitser-winter syndrome 2"	"short-rib thoracic dysplasia 13 with or without polydactyly"	"intellectual disability, autosomal recessive 50"	"early-onset progressive encephalopathy-hearing loss-pons hypoplasia-brain atrophy syndrome"
+	"combined oxidative phosphorylation defect type 9"	"lipoyl transferase 1 deficiency"	"Al-Raqad syndrome"	"encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities"
 "Joint laxity"	0.0	0.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"multiple pterygium-malignant hyperthermia syndrome"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Klippel-Feil syndrome 2, autosomal recessive"	"constriction rings syndrome"
 "Cleft palate"	1.0	0.0	1.0	1.0
 "Syndactyly"	0.0	0.0	0.0	1.0
 "Encephalocele"	0.0	0.0	0.0	1.0

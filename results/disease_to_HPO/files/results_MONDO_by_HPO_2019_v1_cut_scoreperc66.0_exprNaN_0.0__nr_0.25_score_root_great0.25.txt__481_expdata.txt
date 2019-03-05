@@ -1,4 +1,4 @@
-	"corneal dystrophy, Fuchs endothelial, 1"	"alpha-mannosidosis"	"autosomal recessive nonsyndromic deafness 14"
+	"frontorhiny"	"oculotrichoanal syndrome"	"acromelic frontonasal dysostosis"
 "Dermoid cyst"	1.0	0.0	1.0
 "Bifid nasal tip"	1.0	1.0	1.0
 "Median cleft palate"	1.0	0.0	1.0

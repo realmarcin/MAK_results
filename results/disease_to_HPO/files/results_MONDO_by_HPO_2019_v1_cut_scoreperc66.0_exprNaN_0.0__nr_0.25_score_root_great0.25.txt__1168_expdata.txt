@@ -1,4 +1,4 @@
-	"Jervell and Lange-Nielsen syndrome 1"	"pyropoikilocytosis, hereditary"	"colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome"	"Cardioneuromyopathy with hyaline masses and nemaline rods"	"2-methylbutyryl-CoA dehydrogenase deficiency"
+	"deafness, congenital, and familial myoclonic epilepsy"	"glutathione synthetase deficiency with 5-oxoprolinuria"	"neuronal ceroid lipofuscinosis 6"	"PSMNSB"	"neuronal ceroid lipofuscinosis 8 northern epilepsy variant"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0
 "Hemolytic anemia"	0.0	1.0	0.0	0.0	0.0
 "Neutropenia"	0.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"progressive osseous heteroplasia"	"autosomal recessive distal osteolysis syndrome"	"osteoma of middle ear"
+	"multicentric carpo-tarsal osteolysis with or without nephropathy"	"multicentric osteolysis, nodulosis, and arthropathy"	"autosomal recessive distal osteolysis syndrome"
 "Metatarsal osteolysis"	1.0	1.0	0.0
 "Carpal osteolysis"	1.0	1.0	0.0
 "Metacarpal osteolysis"	1.0	1.0	1.0

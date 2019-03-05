@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"hypertrichotic osteochondrodysplasia Cantu type"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"cervical hypertrichosis-peripheral neuropathy syndrome"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Anterior cervical hypertrichosis"	0.0	1.0	0.0	0.0
 "Sensory neuropathy"	0.0	1.0	0.0	0.0
 "Dandy-Walker malformation"	0.0	1.0	0.0	0.0

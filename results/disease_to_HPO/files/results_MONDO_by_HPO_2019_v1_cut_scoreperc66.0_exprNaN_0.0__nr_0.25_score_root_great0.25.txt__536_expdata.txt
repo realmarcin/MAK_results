@@ -1,4 +1,4 @@
-	"hypocalcified amelogenesis imperfecta"	"lethal multiple pterygium syndrome"	"polycystic kidney disease 4"
+	"lateral meningocele syndrome"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A3"	"polycystic kidney, cataract, and congenital blindness"
 "Short nasal bridge"	1.0	1.0	0.0
 "Uncontrolled eye movements"	0.0	1.0	0.0
 "Hypoplasia of the retina"	0.0	1.0	1.0

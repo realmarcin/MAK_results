@@ -1,4 +1,4 @@
 "x"
-"1" "autosomal.recessive.nonsyndromic.deafness.14"
-"2" "occipital.horn.syndrome"
-"3" "mediosternal.depigmentation.line"
+"1" "acromelic.frontonasal.dysostosis"
+"2" "otopalatodigital.syndrome.type.2"
+"3" "Pai.syndrome"

@@ -1,4 +1,4 @@
-	"chlorpropamide-alcohol flushing"	"hypokalemic periodic paralysis, type 1"	"inherited genitourinary tract anomalies (disease)"
+	"Chiari malformation type I"	"Andersen-Tawil syndrome"	"frontometaphyseal dysplasia 1"
 "Antegonial notching of mandible"	0.0	1.0	1.0
 "Anteriorly placed odontoid process"	1.0	0.0	1.0
 "Partial fusion of carpals"	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"xylosidase deficiency"	"reticuloendotheliosis, X-linked"	"tetrasomy 12p"	"hypospadias, hypertelorism, upper 51D coloboma, and mixed-type hearing loss"	"periventricular nodular heterotopia 6"	"pontocerebellar hypoplasia type 2E"
+	"46,XX sex reversal 2"	"partial androgen insensitivity syndrome"	"colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome"	"arhinia, choanal atresia, and microphthalmia"	"testicular anomalies with or without congenital heart disease"	"postaxial polydactyly-anterior pituitary anomalies-facial dysmorphism syndrome"
 "Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hypogonadism"	0.0	1.0	1.0	1.0	0.0	1.0
 "Micropenis"	1.0	1.0	0.0	1.0	1.0	1.0

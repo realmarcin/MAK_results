@@ -1,4 +1,4 @@
 "x"
-"1" "Lewy.body.dementia"
-"2" "premature.ovarian.failure.3"
-"3" "epiphyseal.dysplasia..multiple..2"
+"1" "dyslexia..susceptibility.to..1"
+"2" "DYX8"
+"3" "DYX2"

@@ -1,4 +1,4 @@
 "x"
-"1" "autosomal.recessive.nonsyndromic.deafness.21"
-"2" "retinitis.pigmentosa.18"
-"3" "autosomal.recessive.nonsyndromic.deafness.1B"
+"1" "autosomal.dominant.nonsyndromic.deafness.17"
+"2" "autosomal.dominant.nonsyndromic.deafness.7"
+"3" "autosomal.dominant.nonsyndromic.deafness.2B"

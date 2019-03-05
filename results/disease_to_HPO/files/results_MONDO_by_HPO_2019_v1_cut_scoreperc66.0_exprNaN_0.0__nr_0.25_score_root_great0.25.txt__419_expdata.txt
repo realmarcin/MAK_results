@@ -1,4 +1,4 @@
-	"Greenberg dysplasia"	"Kniest-like dysplasia with pursed lips and ectopia lentis"	"neurodegeneration with brain iron accumulation 2A"	"familial thyroid dyshormonogenesis"	"familial isolated deficiency of vitamin E"	"disorder of sex development-intellectual disability syndrome"	"trisomy 18-like syndrome"	"autosomal dominant nonsyndromic deafness 12"	"peroxisome biogenesis disorder 4B"	"peroxisome biogenesis disorder 6B"	"peroxisome biogenesis disorder 8B"
+	"rhizomelic chondrodysplasia punctata type 1"	"Keutel syndrome"	"sialidosis type 2"	"thyroid hormone resistance, generalized, autosomal recessive"	"vitamin K-dependent clotting factors, combined deficiency of, type 1"	"rhizomelic chondrodysplasia punctata type 3"	"lissencephaly type 3-metacarpal bone dysplasia syndrome"	"peroxisome biogenesis disorder 1B"	"peroxisome biogenesis disorder 4A (Zellweger)"	"peroxisome biogenesis disorder 6A (Zellweger)"	"peroxisome biogenesis disorder 8A (Zellweger)"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0
 "Low-set ears"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

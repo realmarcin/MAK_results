@@ -1,4 +1,4 @@
 "x"
-"1" "paralysis.agitans..juvenile..of.Hunt"
-"2" "autosomal.dominant.nocturnal.frontal.lobe.epilepsy.3"
-"3" "carpal.displacement"
+"1" "paragangliomas.1"
+"2" "paragangliomas.3"
+"3" "paragangliomas.4"

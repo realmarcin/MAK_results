@@ -1,4 +1,4 @@
-	"Lynch syndrome 1"	"Meesmann corneal dystrophy"	"ring dermoid of cornea"	"neural tube defects, folate-sensitive"	"auriculocondylar syndrome 1"	"pontocerebellar hypoplasia type 1A"
+	"uveal coloboma-cleft lip and palate-intellectual disability"	"posterior polymorphous corneal dystrophy 1"	"Axenfeld-Rieger syndrome type 1"	"anterior segment dysgenesis 3"	"Axenfeld-Rieger syndrome type 3"	"COL4A1-related familial vascular leukoencephalopathy"
 "Glaucoma"	1.0	1.0	1.0	1.0	1.0	1.0
 "Peters anomaly"	0.0	0.0	0.0	1.0	0.0	0.0
 "Rieger anomaly"	0.0	0.0	1.0	1.0	0.0	0.0

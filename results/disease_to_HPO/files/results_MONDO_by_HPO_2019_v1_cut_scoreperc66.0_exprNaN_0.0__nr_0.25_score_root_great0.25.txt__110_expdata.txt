@@ -1,4 +1,4 @@
-	"meralgia paraesthetica, familial"	"epileptic encephalopathy, early infantile, 24"	"orofaciodigital syndrome XV"	"immunoskeletal dysplasia with neurodevelopmental abnormalities"
+	"intellectual disability, autosomal dominant 1"	"intellectual disability, autosomal dominant 27"	"Alazami-Yuan syndrome; ALYUS"	"brachycephaly, trichomegaly, and developmental delay"
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Low-set ears"	1.0	1.0	0.0	1.0

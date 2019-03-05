@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"pulmonary capillary hemangiomatosis"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"hemangiomatosis, cutaneous, with associated features"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Hypertelorism"	0.0	1.0	0.0	0.0
 "Joint laxity"	0.0	1.0	0.0	0.0
 "Abnormal vertebral morphology"	0.0	1.0	0.0	0.0

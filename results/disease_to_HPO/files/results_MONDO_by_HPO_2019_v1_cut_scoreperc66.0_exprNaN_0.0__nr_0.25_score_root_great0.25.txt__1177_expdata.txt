@@ -1,4 +1,4 @@
-	"microcephaly-cardiomyopathy syndrome"	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked"	"fine-Lubinsky syndrome"	"autosomal recessive nonsyndromic deafness 77"	"focal segmental glomerulosclerosis 6"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13"	"primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"
+	"microcephaly 1, primary, autosomal recessive"	"X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome"	"epilepsy-microcephaly-skeletal dysplasia syndrome"	"Nijmegen breakage syndrome-like disorder"	"Perrault syndrome 3"	"intellectual disability-strabismus syndrome"	"progressive microcephaly-seizures-cortical blindness-developmental delay syndrome"
 "Ptosis"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "HP:0001417"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

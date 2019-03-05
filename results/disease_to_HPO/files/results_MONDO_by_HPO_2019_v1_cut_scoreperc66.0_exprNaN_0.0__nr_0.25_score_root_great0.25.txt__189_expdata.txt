@@ -1,4 +1,4 @@
-	"spinocerebellar ataxia type 2"	"distal myopathy, Welander type"	"dilated cardiomyopathy 1J"	"autosomal recessive limb-girdle muscular dystrophy type 2K"	"EOE1"	"hyperbiliverdinemia"
+	"spinocerebellar ataxia type 6"	"spinocerebellar ataxia type 11"	"spinocerebellar ataxia type 14"	"spinocerebellar ataxia type 27"	"spinocerebellar ataxia type 28"	"spinocerebellar ataxia type 36"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0
 "Gait ataxia"	1.0	0.0	1.0	1.0	1.0	1.0

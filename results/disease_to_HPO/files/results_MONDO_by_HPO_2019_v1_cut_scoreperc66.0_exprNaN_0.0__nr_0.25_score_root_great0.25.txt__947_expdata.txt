@@ -1,4 +1,4 @@
-	"aortic aneurysm, familial abdominal, 1"	"mucolipidosis type III gamma"	"Cornelia de Lange syndrome 2"	"severe X-linked mitochondrial encephalomyopathy"	"neuroferritinopathy"	"encephalopathy due to GLUT1 deficiency"
+	"autosomal dominant Aarskog syndrome"	"pseudo-Hurler polydystrophy"	"NYS5"	"nystagmus 6, congenital, X-linked"	"Sener syndrome"	"intellectual disability-obesity-prognathism-eye and skin anomalies syndrome"
 "Hyperopic astigmatism"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0001470"	1.0	0.0	0.0	0.0	0.0	0.0
 "Penoscrotal hypospadias"	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"absence deformity of leg-cataract syndrome"	"malignant atrophic papulosis"	"idiopathic ventricular fibrillation, non Brugada type"	"autosomal recessive nonsyndromic deafness 27"	"apolipoprotein c-III deficiency"
+	"Norum disease"	"xanthomatosis, susceptibility to"	"autosomal recessive hypercholesterolemia"	"neonatal intrahepatic cholestasis due to citrin deficiency"	"hyperlipidemia due to hepatic triglyceride lipase deficiency"
 "Hypertriglyceridemia"	1.0	0.0	1.0	1.0	1.0
 "Hypercholesterolemia"	0.0	1.0	1.0	1.0	0.0
 "Intrahepatic cholestasis"	0.0	0.0	0.0	1.0	0.0

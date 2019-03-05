@@ -1,4 +1,4 @@
-	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"GCCD3"	"ectodermal dysplasia-syndactyly syndrome 1"
+	"classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"hereditary spastic paraplegia 26"	"congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency"
 "Osteoporosis"	1.0	1.0	0.0	1.0
 "Hirsutism"	1.0	1.0	0.0	1.0
 "Adrenogenital syndrome"	1.0	1.0	0.0	1.0

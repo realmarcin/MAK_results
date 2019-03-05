@@ -1,4 +1,4 @@
-	"postural orthostatic tachycardia syndrome"	"midface hypoplasia, obesity, developmental delay, and neonatal hypotonia"	"immunodeficiency due to ficolin3 deficiency"
+	"tooth agenesis, selective, 3"	"oligodontia-cancer predisposition syndrome"	"orofacial cleft 13"
 "HP:0000006"	1.0	1.0	1.0
 "Micrognathia"	0.0	0.0	1.0
 "Malar flattening"	0.0	0.0	1.0

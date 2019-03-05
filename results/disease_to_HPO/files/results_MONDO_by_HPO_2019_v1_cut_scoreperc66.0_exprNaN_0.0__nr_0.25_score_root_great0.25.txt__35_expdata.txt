@@ -1,4 +1,4 @@
-	"hereditary spastic paraplegia 23"	"spastic paraplegia-glaucoma-intellectual disability syndrome"	"spatial visualization, aptitude for"	"epilepsy, familial focal, with variable foci 1"	"autoimmune lymphoproliferative syndrome type 2B"
+	"hereditary spastic paraplegia 15"	"hereditary spastic paraplegia 5A"	"hereditary spastic paraplegia 2"	"hereditary spastic paraplegia 11"	"hereditary spastic paraplegia 7"
 "Nystagmus"	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0
 "Spastic paraplegia"	1.0	1.0	1.0	1.0	1.0

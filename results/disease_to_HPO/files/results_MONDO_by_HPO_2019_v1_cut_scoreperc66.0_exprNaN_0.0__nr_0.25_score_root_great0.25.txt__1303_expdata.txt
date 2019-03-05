@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"Tryptophanuria with dwarfism"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
+	"amyotrophic lateral sclerosis type 1"	"Troyer syndrome"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"
 "Downslanted palpebral fissures"	0.0	1.0	0.0	0.0
 "Brachydactyly"	0.0	1.0	0.0	0.0
 "Clinodactyly"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"apparent mineralocorticoid excess"	"Fraser syndrome 1"	"seizures-intellectual disability due to hydroxylysinuria syndrome"	"hypermetabolism due to defect 1N mitochondria"	"brain demyelination due to methionine adenosyltransferase deficiency"
+	"cortical blindness-intellectual disability-polydactyly syndrome"	"cataract-nephropathy-encephalopathy syndrome"	"encephalopathy due to hydroxykynureninuria"	"hyperlysinuria with hyperammonemia"	"methemoglobinemia due to deficiency of methemoglobin reductase"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	0.0	1.0

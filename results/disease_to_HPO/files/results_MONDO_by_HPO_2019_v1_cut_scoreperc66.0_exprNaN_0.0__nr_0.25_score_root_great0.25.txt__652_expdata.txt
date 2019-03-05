@@ -1,4 +1,4 @@
-	"neuropathy, with paraprotein 1N serum, cerebrospinal fluid and urine"	"giant axonal neuropathy 1"	"Matthew-wood syndrome"	"MEDNIK syndrome"	"sinoatrial node dysfunction and deafness"	"immunodeficiency, common variable, 10"
+	"hereditary neuropathy with liability to pressure palsies"	"hereditary sensory and autonomic neuropathy with spastic paraplegia"	"muscular dystrophy, congenital, with severe central nervous system atrophy and absence of large myelinated fibers"	"Charcot-Marie-Tooth disease type 4H"	"Charcot-Marie-Tooth disease type 4F"	"neuronopathy, distal hereditary motor, type 2D"
 "Decreased motor nerve conduction velocity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Weakness of the intrinsic hand muscles"	0.0	0.0	0.0	0.0	0.0	1.0
 "Triceps weakness"	0.0	0.0	0.0	0.0	0.0	1.0

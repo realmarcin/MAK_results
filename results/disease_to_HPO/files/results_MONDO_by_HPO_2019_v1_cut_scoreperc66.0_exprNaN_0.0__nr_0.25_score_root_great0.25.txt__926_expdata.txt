@@ -1,4 +1,4 @@
-	"hydatidiform mole, recurrent, 1"	"Harrod syndrome"	"polyposis syndrome, hereditary mixed, 1"	"microcephaly and chorioretinopathy 3"
+	"German syndrome"	"Ayme-Gripp syndrome"	"Potocki-Shaffer syndrome"	"autosomal dominant Robinow syndrome 2"
 "High forehead"	1.0	1.0	1.0	1.0
 "Arnold-Chiari type I malformation"	0.0	1.0	0.0	0.0
 "Radioulnar synostosis"	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
 "x"
-"1" "atrioventricular.septal.defect.3"
-"2" "LIPE.related.familial.partial.lipodystrophy"
-"3" "immunodeficiency..common.variable..1"
+"1" "macrocephaly.spastic.paraplegia.dysmorphism.syndrome"
+"2" "intellectual.disability..autosomal.recessive.45"
+"3" "hereditary.spastic.paraplegia.24"

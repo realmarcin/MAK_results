@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"	"dystonia 24"
+	"amyotrophic lateral sclerosis type 1"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"	"hereditary spastic paraplegia 54"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Periventricular leukomalacia"	0.0	0.0	0.0	1.0
 "Telecanthus"	0.0	0.0	0.0	1.0

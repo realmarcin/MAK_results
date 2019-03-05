@@ -1,4 +1,4 @@
-	"popliteal cyst"	"agenesis of the corpus callosum with peripheral neuropathy"	"Partington syndrome"	"pigmented nodular adrenocortical disease, primary, 2"	"colorectal cancer, hereditary nonpolyposis, type 4"
+	"Greig cephalopolysyndactyly syndrome"	"corpus callosum, agenesis of"	"Renpenning syndrome"	"camptodactyly-tall stature-scoliosis-hearing loss syndrome"	"arthrogryposis, distal, type 1B"
 "Pectus excavatum"	0.0	0.0	1.0	1.0	0.0
 "Microcephaly"	0.0	1.0	1.0	1.0	0.0
 "Intellectual disability"	0.0	1.0	1.0	1.0	0.0

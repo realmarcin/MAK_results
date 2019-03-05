@@ -1,4 +1,4 @@
-	"osteochondritis dissecans (disease)"	"SLI2"	"van der Woude syndrome 2"	"neuronopathy, distal hereditary motor, type 2B"
+	"osteoarthritis susceptibility 1"	"SLI1"	"SLI2"	"ASPG2"
 "HP:0001425"	1.0	1.0	1.0	1.0
 "HP:0001426"	1.0	1.0	1.0	1.0
 "Language impairment"	0.0	1.0	1.0	0.0

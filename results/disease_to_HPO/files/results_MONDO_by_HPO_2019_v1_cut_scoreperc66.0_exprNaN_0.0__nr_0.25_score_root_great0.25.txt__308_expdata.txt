@@ -1,4 +1,4 @@
-	"XK aprosencephaly"	"hyperlysinemia (disease)"	"granulomas, congenital cerebral"	"glioma susceptibility 3"	"congenital cataract-hearing loss-severe developmental delay syndrome"
+	"familial apolipoprotein C-II deficiency"	"familial lipoprotein lipase deficiency"	"glycogen storage disease IXa"	"glycogen storage disease IXc"	"transient infantile hypertriglyceridemia and hepatosteatosis"
 "Hepatomegaly"	1.0	0.0	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0
 "Motor delay"	0.0	0.0	1.0	1.0	0.0

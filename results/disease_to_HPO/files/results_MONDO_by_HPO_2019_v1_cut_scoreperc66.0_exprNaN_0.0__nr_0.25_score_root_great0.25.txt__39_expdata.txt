@@ -1,4 +1,4 @@
-	"autosomal dominant distal renal tubular acidosis"	"spheroid body myopathy"	"hereditary cryohydrocytosis with normal stomatin"	"episodic ataxia type 6"	"Roifman syndrome"	"autosomal dominant nonsyndromic deafness 69"
+	"red cell phospholipid defect with hemolysis"	"hereditary spherocytosis type 1"	"overhydrated hereditary stomatocytosis"	"hereditary spherocytosis type 4"	"hereditary spherocytosis type 2"	"dehydrated hereditary stomatocytosis 2; DHS2"
 "Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hemolytic anemia"	0.0	1.0	1.0	1.0	1.0	1.0
 "Jaundice"	0.0	1.0	1.0	1.0	1.0	1.0

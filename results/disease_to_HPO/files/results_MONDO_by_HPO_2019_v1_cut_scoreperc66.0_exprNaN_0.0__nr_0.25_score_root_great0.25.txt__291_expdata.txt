@@ -1,4 +1,4 @@
-	"retinal detachment"	"choroideremia-deafness-obesity syndrome"	"MASA syndrome"	"retinitis pigmentosa 6"	"X-linked retinoschisis"	"nephrotic syndrome 16"
+	"retinal cone dystrophy type 1"	"choroideremia"	"choroideremia-deafness-obesity syndrome"	"retinitis pigmentosa 2"	"retinitis pigmentosa 6"	"retinitis pigmentosa 80"
 "HP:0001417"	0.0	1.0	1.0	1.0	1.0	0.0
 "Progressive visual loss"	1.0	1.0	1.0	0.0	0.0	1.0
 "Constriction of peripheral visual field"	0.0	1.0	1.0	1.0	1.0	0.0

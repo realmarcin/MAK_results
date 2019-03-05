@@ -1,4 +1,4 @@
-	"spastic paraplegia-precocious puberty syndrome"	"familial apolipoprotein C-II deficiency"	"Griscelli syndrome type 1"	"trichoepithelioma, multiple familial, 1"	"sinoatrial node dysfunction and deafness"	"autosomal recessive nonsyndromic deafness 70"
+	"spastic paraplegia-neuropathy-poikiloderma syndrome"	"polyneuropathy-hand defect syndrome"	"Charcot-Marie-Tooth disease type 4A"	"Charcot-Marie-Tooth disease type 4C"	"Charcot-Marie-Tooth disease type 4F"	"combined oxidative phosphorylation defect type 13"
 "Basal lamina 'onion bulb' formation"	1.0	0.0	1.0	1.0	1.0	0.0
 "Prolonged brainstem auditory evoked potentials"	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormal pupillary light reflex"	0.0	0.0	0.0	1.0	0.0	0.0

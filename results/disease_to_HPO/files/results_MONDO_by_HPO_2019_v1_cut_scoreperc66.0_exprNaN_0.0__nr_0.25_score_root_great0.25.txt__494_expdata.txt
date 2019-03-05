@@ -1,4 +1,4 @@
-	"apert syndrome"	"cleidocranial dysplasia"	"extrasystoles-short stature-hyperpigmentation-microcephaly syndrome"	"fibula, recurrent dislocation of head of"	"Roussy-Levy syndrome"	"Pilarowski-Bjornsson syndrome"
+	"Sakati-Nyhan syndrome"	"blepharocheilodontic syndrome 1"	"external auditory canal atresia-vertical talus-hypertelorism syndrome"	"laurin-Sandrow syndrome"	"Robinow-Sorauf syndrome"	"blepharocheilodontic syndrome 2"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Malar flattening"	1.0	0.0	0.0	0.0	1.0	0.0

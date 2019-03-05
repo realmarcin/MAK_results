@@ -1,4 +1,4 @@
-	"generalized dominant dystrophic epidermolysis bullosa"	"epidermolysis bullosa simplex Dowling-Meara type"	"pretibial dystrophic epidermolysis bullosa"	"epidermolysis bullosa with diaphragmatic hernia"	"Brody myopathy"	"alpha thalassemia"	"Ehlers-Danlos syndrome type 2"
+	"transient bullous dermolysis of the newborn"	"generalized dominant dystrophic epidermolysis bullosa"	"localized epidermolysis bullosa simplex"	"junctional epidermolysis bullosa with pyloric atresia"	"KRT14-related epidermolysis bullosa simplex"	"dystrophic epidermolysis bullosa pruriginosa"	"epidermolysis bullosa simplex superficialis"
 "Milia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Atrophic scars"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Elevated maternal serum alpha-fetoprotein"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

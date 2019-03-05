@@ -1,4 +1,4 @@
-	"CADASIL 1"	"polymyoclonus, infantile"	"tooth agenesis, selective, X-linked, 1"
+	"dens 1N dente and palatal invaginations"	"postaxial polydactyly-dental and vertebral anomalies syndrome"	"taurodontism, microdontia, and dens invaginatus"
 "Dens in dente"	1.0	1.0	1.0
 "Short pointed phalanges"	0.0	1.0	0.0
 "Vaginal hernia"	0.0	1.0	0.0

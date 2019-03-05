@@ -1,4 +1,4 @@
-	"spinocerebellar ataxia type 12"	"hyperlipidemia due to hepatic triglyceride lipase deficiency"	"metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration; MECRCN"
+	"microcephaly 4, primary, autosomal recessive"	"PSPH deficiency"	"cerebellar atrophy, visual impairment, and psychomotor retardation;"
 "Hypertelorism"	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0

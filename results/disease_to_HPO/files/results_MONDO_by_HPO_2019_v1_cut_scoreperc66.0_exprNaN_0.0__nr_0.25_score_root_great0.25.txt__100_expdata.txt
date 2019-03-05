@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"ataxia - deafness - intellectual disability syndrome"	"cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"	"spermatogenic failure 15; SPGF15"
+	"proximal renal tubular acidosis"	"ataxia, deafness, and cardiomyopathy"	"hypomyelinating leukodystrophy 11"	"autosomal recessive cerebellar ataxia - epilepsy - intellectual disability syndrome due to TUD deficiency"
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0	1.0
 "Ataxia"	0.0	1.0	1.0	1.0

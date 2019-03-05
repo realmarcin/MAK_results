@@ -1,4 +1,4 @@
-	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"sterile multifocal osteomyelitis with periostitis and pustulosis"	"chromosome 17q21.31 duplication syndrome"
+	"craniosynostosis, Adelaide type"	"osteogenesis imperfecta type 5"	"spondyloepimetaphyseal dysplasia, Pakistani type"	"Gorlin-Chaudhry-Moss syndrome"
 "Lower limb undergrowth"	0.0	0.0	1.0	0.0
 "Acne"	0.0	0.0	1.0	0.0
 "Short stature"	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"lethal congenital contracture syndrome 2"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Klippel-Feil syndrome 2, autosomal recessive"	"microphthalmia with cyst, bilateral facial clefts, and limb anomalies"
 "Frontal bossing"	0.0	0.0	0.0	1.0
 "Brachyturricephaly"	0.0	0.0	0.0	1.0
 "Choanal atresia"	0.0	0.0	0.0	1.0

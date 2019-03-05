@@ -1,4 +1,4 @@
-	"genochondromatosis"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"subacute sclerosing panencephalitis"	"cataract 12 multiple types"
+	"gastric mucosal hypertrophy"	"beta-ketothiolase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"pancreatic insufficiency, combined exocrine"	"distal renal tubular acidosis with anemia"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Hemolytic anemia"	0.0	0.0	0.0	0.0	1.0
 "Rickets"	0.0	0.0	0.0	0.0	1.0

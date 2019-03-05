@@ -1,4 +1,4 @@
-	"MAFD1"	"pycnodysostosis"	"Hartsfield-Bixler-Demyer syndrome"	"focal segmental glomerulosclerosis 7"
+	"deoxyribose-5-phosphate aldolase deficiency"	"pulmonic stenosis (disease)"	"microcornea-myopic chorioretinal atrophy-telecanthus syndrome"	"breasts and/or nipples, aplasia or hypoplasia of, 2"
 "HP:0000007"	0.0	0.0	1.0	1.0
 "Broad nasal tip"	0.0	0.0	1.0	1.0
 "Smooth philtrum"	0.0	0.0	0.0	1.0

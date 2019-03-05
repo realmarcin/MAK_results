@@ -1,4 +1,4 @@
-	"atherosclerosis-deafness-diabetes-epilepsy-nephropathy syndrome"	"AA2"	"maturity-onset diabetes of the young type 11"	"COG6-CGD"	"myopathy, centronuclear, 5"	"Cole-Carpenter syndrome 2"	"frontometaphyseal dysplasia 2; FMD2"	"spinocerebellar ataxia 46"	"epileptic encephalopathy, early infantile, 57"
+	"ataxia with oculomotor apraxia type 1"	"autosomal recessive ataxia, Beauce type"	"spinocerebellar ataxia type 30"	"cerebellar ataxia, neuropathy, and vestibular areflexia syndrome"	"spinocerebellar ataxia type 38"	"Lichtenstein-Knorr syndrome"	"spinocerebellar ataxia, autosomal recessive 24; SCAR24"	"spinocerebellar ataxia 45"	"spinocerebellar ataxia 46"
 "Cerebellar atrophy"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Gait ataxia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Dysarthria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"berry aneurysm, cirrhosis, pulmonary emphysema, and cerebral calcification"	"hereditary thermosensitive neuropathy"	"asphyxiating thoracic dystrophy 2"	"autosomal recessive limb-girdle muscular dystrophy type 2L"	"GABA aminotransferase deficiency"	"amelogenesis imperfecta hypomaturation type 2A3"	"intellectual disability-hypotonia-spasticity-sleep disorder syndrome"
+	"Behr syndrome"	"amyotrophic lateral sclerosis type 5"	"hereditary spastic paraplegia 32"	"spastic ataxia 2"	"hereditary spastic paraplegia 45"	"hereditary spastic paraplegia 44"	"early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome"
 "Tetraparesis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Myotonia"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Babinski sign"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"arthrogryposis- oculomotor limitation-electroretinal anomalies syndrome"	"cancer, familial, with 1N vitro Radioresistance"	"glaucoma type 1C"	"autosomal recessive limb-girdle muscular dystrophy type 2R"
+	"arthrogryposis, distal, type 1A"	"Gordon syndrome"	"Sheldon-hall syndrome"	"craniosynostosis 3"
 "Single transverse palmar crease"	1.0	1.0	0.0	1.0
 "Congenital hip dislocation"	1.0	1.0	0.0	0.0
 "Talipes equinovarus"	1.0	1.0	1.0	0.0

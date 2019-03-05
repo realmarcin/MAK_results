@@ -1,4 +1,4 @@
-	"emphysema, hereditary pulmonary"	"convulsive disorder, familial, with prenatal or early onset"	"NPHP3-related Meckel-like syndrome"	"pontocerebellar hypoplasia type 3"
+	"Beckwith-Wiedemann syndrome"	"multiple pterygium-malignant hyperthermia syndrome"	"Perlman syndrome"	"diaphanospondylodysostosis"
 "Nephroblastomatosis"	0.0	0.0	1.0	1.0
 "Nephrogenic rest"	0.0	0.0	1.0	1.0
 "Distal ileal atresia"	0.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
 "x"
-"1" "dyschromatosis.universalis.hereditaria.1"
-"2" "spondyloepimetaphyseal.dysplasia..Shohat.type"
-"3" "Seckel.syndrome.10"
+"1" "dyschromatosis.symmetrica.hereditaria"
+"2" "torsion.dystonia.with.onset.in.infancy"
+"3" "uncombable.hair.syndrome.3..UHS3"

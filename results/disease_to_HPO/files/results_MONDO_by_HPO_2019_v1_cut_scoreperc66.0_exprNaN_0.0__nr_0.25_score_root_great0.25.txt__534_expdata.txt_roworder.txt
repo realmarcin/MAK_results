@@ -1,4 +1,4 @@
 "x"
-"1" "Bangstad.syndrome"
-"2" "osteogenesis.imperfecta.type.9"
-"3" "autosomal.dominant.nonsyndromic.deafness.2A"
+"1" "microcephalic.osteodysplastic.primordial.dwarfism..type.3"
+"2" "osteogenesis.imperfecta.type.3"
+"3" "Qazi.Markouizos.syndrome"

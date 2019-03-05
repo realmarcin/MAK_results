@@ -1,4 +1,4 @@
-	"congenital lactic acidosis, Saguenay-Lac-Saint-Jean type"	"gamma-glutamylcysteine synthetase deficiency"	"familial gestational hyperthyroidism"	"Charcot-Marie-Tooth disease type 2R"
+	"cytochrome-c oxidase deficiency disease"	"classic galactosemia"	"gracile syndrome"	"severe early-onset pulmonary alveolar proteinosis due to MARS deficiency"
 "Aminoaciduria"	1.0	1.0	1.0	1.0
 "Chronic lactic acidosis"	0.0	0.0	1.0	0.0
 "Renal Fanconi syndrome"	1.0	0.0	1.0	0.0

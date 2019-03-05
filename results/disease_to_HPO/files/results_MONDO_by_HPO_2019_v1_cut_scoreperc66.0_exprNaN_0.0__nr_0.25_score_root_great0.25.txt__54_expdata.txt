@@ -1,4 +1,4 @@
-	"Ritscher-Schinzel syndrome 1"	"Dandy-Walker malformation-postaxial polydactyly syndrome"	"autosomal recessive nonsyndromic deafness 1A"
+	"Dandy-Walker syndrome"	"facial dysmorphism-macrocephaly-myopia-Dandy-Walker malformation syndrome"	"Dandy-Walker malformation-postaxial polydactyly syndrome"
 "Proximal finger joint hyperextensibility"	0.0	0.0	0.0
 "Elevated imprint of the transverse sinuses"	1.0	1.0	1.0
 "Thinning and bulging of the posterior fossa bones"	1.0	1.0	1.0

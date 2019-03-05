@@ -1,4 +1,4 @@
-	"X-linked cerebral adrenoleukodystrophy"	"lymphoma, non-Hodgkin, familial"	"intellectual disability, autosomal recessive 7"	"OPA8"	"amyotrophic lateral sclerosis type 23"
+	"early infantile epileptic encephalopathy 9"	"familial infantile myoclonic epilepsy"	"intellectual disability, autosomal recessive 6"	"ITPA-related encephalopathy"	"developmental delay and seizures with or without movement abnormalities"
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0
 "Arnold-Chiari type I malformation"	0.0	0.0	0.0	0.0	1.0
 "Generalized tonic-clonic seizures"	1.0	1.0	0.0	0.0	1.0

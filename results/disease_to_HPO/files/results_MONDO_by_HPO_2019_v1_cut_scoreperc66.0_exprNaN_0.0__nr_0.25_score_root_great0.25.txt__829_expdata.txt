@@ -1,4 +1,4 @@
-	"immunoglobulin d level 1N plasma, low"	"lymphoblastic leukemia, acute, with lymphomatous features"	"retinitis pigmentosa"	"camptodactyly syndrome, Guadalajara type 3"
+	"Immunoerythromyeloid hypoplasia"	"lymphoid system deterioration, progressive"	"retinal telangiectasia and hypogammaglobulinemia"	"lung fibrosis-immunodeficiency-46,XX gonadal dysgenesis syndrome"
 "IgM deficiency"	0.0	1.0	0.0	1.0
 "Secundum atrial septal defect"	0.0	0.0	0.0	1.0
 "Gonadal dysgenesis"	0.0	0.0	0.0	1.0

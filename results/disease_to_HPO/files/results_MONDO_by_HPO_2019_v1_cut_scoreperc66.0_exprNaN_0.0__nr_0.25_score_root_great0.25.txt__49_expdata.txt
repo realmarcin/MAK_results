@@ -1,4 +1,4 @@
-	"Hooft disease"	"3-methylglutaconic aciduria type 1"	"methylmalonic aciduria and homocystinuria type cblC"	"methylmalonic aciduria and homocystinuria type cblD"	"vitamin D-dependent rickets, type 2A"	"hypogonadotropic hypogonadism 14 with or without anosmia"	"retinitis pigmentosa 80"
+	"methylcobalamin deficiency type cblE"	"methylcobalamin deficiency type cblG"	"methylmalonic aciduria and homocystinuria type cblF"	"methylmalonic aciduria and homocystinuria type cblC"	"methylmalonic aciduria and homocystinuria type cblD"	"methylmalonic acidemia with homocystinuria, type cblJ"	"combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia"
 "Megaloblastic anemia"	1.0	1.0	1.0	1.0	1.0	0.0	1.0
 "Homocystinuria"	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Hyperhomocystinemia"	1.0	1.0	1.0	1.0	1.0	1.0	0.0

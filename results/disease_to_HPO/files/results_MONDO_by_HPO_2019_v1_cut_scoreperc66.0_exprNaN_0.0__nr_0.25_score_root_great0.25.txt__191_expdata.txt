@@ -1,4 +1,4 @@
-	"congenital stationary night blindness autosomal dominant 2"	"arthrogryposis due to muscular dystrophy"	"Bruck syndrome 1"	"X-linked scapuloperoneal muscular dystrophy"	"LEOPARD syndrome 3"	"spondyloepiphyseal dysplasia, Stanescu type"
+	"mesomelic dwarfism, Nievergelt type"	"Fukuyama congenital muscular dystrophy"	"osteogenesis imperfecta type 9"	"syndromic X-linked intellectual disability 14"	"Noonan syndrome 7"	"neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to a point mutation"
 "Pectus excavatum"	0.0	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	0.0	1.0	1.0	1.0
 "Generalized hypotonia"	0.0	1.0	0.0	0.0	1.0	1.0

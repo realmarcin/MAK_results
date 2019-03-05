@@ -1,4 +1,4 @@
-	"cranioectodermal dysplasia 1"	"Ritscher-Schinzel syndrome 1"	"hyperparathyroidism, neonatal self-limited primary, with hypercalciuria"	"sea-blue histiocyte syndrome"
+	"craniodiaphyseal dysplasia"	"Dandy-Walker syndrome"	"hyperostosis corticalis generalisata"	"sclerosteosis 1"
 "Esotropia"	0.0	0.0	0.0	1.0
 "Cognitive impairment"	0.0	0.0	0.0	1.0
 "Visual loss"	0.0	0.0	0.0	1.0

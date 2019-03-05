@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"hyperinsulinemic hypoglycemia, familial, 2"	"immunodeficiency, common variable, 1"	"vasculitis due to ADA2 deficiency"
+	"proximal renal tubular acidosis"	"PHGDH deficiency"	"hereditary spastic paraplegia 24"	"hereditary spastic paraplegia 63"
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Adducted thumb"	0.0	1.0	0.0	0.0
 "Decreased testicular size"	0.0	1.0	0.0	0.0

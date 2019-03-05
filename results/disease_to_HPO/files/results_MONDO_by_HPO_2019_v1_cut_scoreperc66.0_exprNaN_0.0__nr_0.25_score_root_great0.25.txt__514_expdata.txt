@@ -1,4 +1,4 @@
-	"diabetes insipidus, nephrogenic, X-linked"	"Lennox-Gastaut syndrome"	"insomnia (disease)"	"ACTH-independent macronodular adrenal hyperplasia 2"
+	"immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome"	"immunodeficiency due to CD25 deficiency"	"autoimmune enteropathy and endocrinopathy - susceptibility to chronic infections syndrome"	"STAT3-related early-onset multisystem autoimmune disease"
 "Hypothyroidism"	1.0	1.0	1.0	1.0
 "Recurrent respiratory infections"	0.0	1.0	1.0	0.0
 "Abnormality of the dentition"	0.0	0.0	0.0	1.0

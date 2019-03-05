@@ -1,4 +1,4 @@
-	"hyperlysinemia due to defect 1N lysine transport into mitochondria"	"hemolytic anemia due to pyrimidine 5' nucleotidase deficiency"	"adrenomyodystrophy"	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"Tn Polyagglutination syndrome"	"epileptic encephalopathy, early infantile, 2"
+	"hyperlysinemia (disease)"	"pyridoxine-dependent epilepsy"	"hereditary spastic paraplegia 16"	"Lesch-Nyhan syndrome"	"cataract, ataxia, short stature, and mental retardation"	"phosphoribosylpyrophosphate synthetase superactivity"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	0.0	1.0	1.0	1.0
 "Intellectual disability, mild"	1.0	0.0	1.0	1.0	0.0	0.0

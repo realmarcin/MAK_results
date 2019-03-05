@@ -1,4 +1,4 @@
-	"emphysema, hereditary pulmonary"	"progressive familial intrahepatic cholestasis type 3"	"foveal hypoplasia - optic nerve decussation defect - anterior segment dysgenesis syndrome"	"PSNP2"	"CEDNIK syndrome"
+	"Beckwith-Wiedemann syndrome"	"Pierpont syndrome"	"myofibrillar myopathy 3"	"myofibrillar myopathy 4"	"myofibrillar myopathy 5"
 "HP:0003584"	0.0	0.0	0.0	1.0	0.0
 "Anterior creases of earlobe"	1.0	0.0	0.0	0.0	0.0
 "Muscle fiber splitting"	0.0	0.0	0.0	1.0	1.0

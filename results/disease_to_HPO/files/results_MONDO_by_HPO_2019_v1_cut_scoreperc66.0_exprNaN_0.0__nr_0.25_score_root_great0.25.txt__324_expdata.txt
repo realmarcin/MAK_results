@@ -1,4 +1,4 @@
-	"spondylosis, cervical"	"Wolcott-Rallison syndrome"	"macrothrombocytopenia and progressive sensorineural deafness"	"autosomal recessive nonsyndromic deafness 6"	"growth delay due to insulin-like growth factor type 1 deficiency"	"Koolen de Vries syndrome"	"Galloway-Mowat syndrome 3"
+	"odontochondrodysplasia"	"Lowry-wood syndrome"	"epiphyseal dysplasia, multiple, 2"	"epiphyseal dysplasia, multiple, 3"	"spondyloepimetaphyseal dysplasia, matrilin-3 type"	"spondyloepimetaphyseal dysplasia, GeneviC(ve type"	"epiphyseal dysplasia, multiple, 7"
 "Platyspondyly"	1.0	1.0	0.0	0.0	1.0	1.0	1.0
 "Epiphyseal dysplasia"	0.0	1.0	1.0	1.0	0.0	0.0	1.0
 "Irregular epiphyses"	1.0	1.0	1.0	1.0	1.0	1.0	0.0

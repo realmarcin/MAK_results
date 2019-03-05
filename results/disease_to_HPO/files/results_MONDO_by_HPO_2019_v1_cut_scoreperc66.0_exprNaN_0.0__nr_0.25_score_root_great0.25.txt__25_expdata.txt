@@ -1,4 +1,4 @@
-	"familial encephalopathy with neuroserpin inclusion bodies"	"myopathy, autophagic vacuolar, infantile-onset"	"dilated cardiomyopathy 1X"	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3"	"hyperproinsulinemia"	"severe combined immunodeficiency due to LAT deficiency"
+	"Chudley-McCullough syndrome"	"Goldberg-Shprintzen megacolon syndrome"	"lissencephaly due to TUBA1A mutation"	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2"	"lissencephaly 6 with microcephaly"	"peho-like syndrome"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	0.0
 "Pachygyria"	0.0	1.0	1.0	0.0	1.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0	1.0

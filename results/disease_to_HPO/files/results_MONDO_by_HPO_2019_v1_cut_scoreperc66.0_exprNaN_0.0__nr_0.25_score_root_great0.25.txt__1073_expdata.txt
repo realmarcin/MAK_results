@@ -1,4 +1,4 @@
-	"familial angiolipomatosis"	"L-2-hydroxyglutaric aciduria"	"alpha thalassemia-X-linked intellectual disability syndrome"	"Fabry disease"	"spondyloepimetaphyseal dysplasia, di rocco type"
+	"isolated anencephaly/exencephaly"	"non-immune hydrops fetalis"	"X-linked congenital hemolytic anemia"	"neural tube defects, X-linked"	"hydrocephalus, congenital, 3, with brain anomalies"
 "Hydrocephalus"	0.0	0.0	0.0	0.0	1.0
 "HP:0003577"	1.0	1.0	1.0	0.0	1.0
 "Dandy-Walker malformation"	0.0	0.0	0.0	0.0	1.0

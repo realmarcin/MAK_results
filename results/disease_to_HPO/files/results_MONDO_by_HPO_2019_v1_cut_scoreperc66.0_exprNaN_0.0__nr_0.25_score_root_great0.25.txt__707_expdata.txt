@@ -1,4 +1,4 @@
-	"formiminoglutamic aciduria"	"scurvy"	"primary hypergonadotropic hypogonadism-partial alopecia syndrome"	"Rothmund-Thomson syndrome"	"schneckenbecken dysplasia"
+	"hypogonadotropic hypogonadism 24 without anosmia"	"autoimmune polyendocrine syndrome type 1"	"Woodhouse-Sakati syndrome"	"ectodermal dysplasia-blindness syndrome"	"autoimmune polyendocrinopathy type 2"
 "HP:0001596"	0.0	1.0	1.0	0.0	1.0
 "Diabetes mellitus"	0.0	1.0	1.0	0.0	0.0
 "Type I diabetes mellitus"	0.0	1.0	0.0	0.0	1.0

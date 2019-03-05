@@ -1,4 +1,4 @@
-	"gray platelet syndrome"	"HYPRPP"	"keratosis, familial actinic"	"2q37 microdeletion syndrome"
+	"granulosis rubra nasi"	"Frey syndrome"	"keratolytic winter erythema"	"angiokeratoma corporis diffusum with arteriovenous fistulas"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Erythema"	0.0	0.0	1.0	0.0
 "Hyperhidrosis"	1.0	1.0	1.0	1.0

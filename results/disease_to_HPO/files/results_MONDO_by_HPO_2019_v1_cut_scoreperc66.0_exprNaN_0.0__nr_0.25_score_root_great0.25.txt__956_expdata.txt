@@ -1,4 +1,4 @@
-	"chondrosarcoma (disease)"	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"retinitis pigmentosa"	"lung agenesis-heart defect-thumb anomalies syndrome"
+	"chondroitin-6-sulfaturia, defective cellular immunity, nephrotic syndrome"	"hemosiderosis, pulmonary, with deficiency of gamma-a globulin"	"retinal telangiectasia and hypogammaglobulinemia"	"spastic paraplegia and Evans syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Proteinuria"	1.0	0.0	0.0	0.0
 "Nephrotic syndrome"	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"acrofacial dysostosis Rodriguez type"	"McDonough syndrome"	"hypospadias 2, X-linked"	"Leber congenital amaurosis 5"
+	"acrodermatitis enteropathica"	"Hennekam-Beemer syndrome"	"Bruton-type agammaglobulinemia"	"epidermolysis bullosa simplex due to plakophilin deficiency"
 "HP:0001596"	1.0	0.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	1.0	1.0
 "Dry skin"	1.0	0.0	0.0	1.0

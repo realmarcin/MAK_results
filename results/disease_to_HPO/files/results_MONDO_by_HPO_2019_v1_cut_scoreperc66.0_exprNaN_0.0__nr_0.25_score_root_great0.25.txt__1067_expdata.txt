@@ -1,4 +1,4 @@
-	"ETM2"	"myotonic dystrophy type 2"	"hereditary spastic paraplegia 55"	"basal ganglia calcification, idiopathic, 6"
+	"torsion dystonia 7"	"torsion dystonia 6"	"dystonia 24"	"dystonia 27"
 "HP:0000007"	0.0	0.0	0.0	1.0
 "Dysarthria"	0.0	1.0	0.0	0.0
 "Abnormality of the larynx"	0.0	0.0	1.0	0.0

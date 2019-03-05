@@ -1,4 +1,4 @@
-	"dementia/parkinsonism with non-Alzheimer amyloid plaques"	"metaphyseal chondrodysplasia, Jansen type"	"nephrotic syndrome, type 6"
+	"CADASIL 1"	"metachromatic leukodystrophy, adult-onset, with normal arylsulfatase a"	"craniofacial anomalies and anterior segment dysgenesis syndrome"
 "HP:0000006"	1.0	1.0	1.0
 "HP:0003581"	1.0	1.0	0.0
 "Urinary incontinence"	1.0	1.0	0.0

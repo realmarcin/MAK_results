@@ -1,4 +1,4 @@
-	"hereditary renal hypouricemia"	"Frank-Ter Haar syndrome"	"epidermolysis bullosa simplex, generalized, with scarring and hair loss; EBSSH"	"microcephaly 20, primary, autosomal recessive"
+	"D-glyceric aciduria"	"neurocutaneous melanocytosis"	"epilepsy, early-onset, vitamin B6-dependent; EPVB6D"	"neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities"
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

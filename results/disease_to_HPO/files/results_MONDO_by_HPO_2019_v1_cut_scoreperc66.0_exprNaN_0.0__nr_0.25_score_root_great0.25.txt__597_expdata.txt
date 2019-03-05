@@ -1,4 +1,4 @@
-	"bone pain, periodic"	"craniorhiny"	"dwarfism, Levi type"	"infantile hypophosphatasia"	"keratoconus posticus circumscriptus"	"X-linked hypophosphatemic rickets"
+	"diaphyseal medullary stenosis-bone malignancy syndrome"	"craniometaphyseal dysplasia, autosomal dominant"	"autosomal dominant Kenny-Caffey syndrome"	"hypoparathyroidism-retardation-dysmorphism syndrome"	"autosomal recessive Kenny-Caffey syndrome"	"familial isolated hypoparathyroidism due to agenesis of parathyroid gland"
 "Stenosis of the medullary cavity of the long bones"	1.0	0.0	1.0	0.0	1.0	0.0
 "Calvarial osteosclerosis"	0.0	1.0	1.0	0.0	1.0	0.0
 "Cortical thickening of long bone diaphyses"	0.0	0.0	1.0	0.0	1.0	0.0

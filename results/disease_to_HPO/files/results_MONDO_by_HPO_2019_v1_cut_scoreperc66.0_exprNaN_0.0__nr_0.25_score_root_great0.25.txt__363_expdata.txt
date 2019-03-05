@@ -1,4 +1,4 @@
-	"elastosis perforans serpiginosa"	"ichthyosis-cheek-eyebrow syndrome"	"inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 1"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 2"	"grouped pigmentation of the retina"	"Vici syndrome"	"Beemer-Langer syndrome"	"hemophilia A with vascular abnormality"
+	"Ehlers-Danlos syndrome, autosomal dominant, type unspecified"	"autosomal dominant ichthyosis vulgaris"	"extramammary Paget disease"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-negative"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 1"	"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type 2"	"Nezelof syndrome"	"combined immunodeficiency due to ZAP70 deficiency"	"granulomatous disease, chronic, X-linked"
 "Rectal abscess"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0
 "Eczematoid dermatitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Granulomatosis"	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0

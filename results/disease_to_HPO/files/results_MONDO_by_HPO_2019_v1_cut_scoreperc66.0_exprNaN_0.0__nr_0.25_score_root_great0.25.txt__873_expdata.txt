@@ -1,4 +1,4 @@
-	"methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency"	"Joubert syndrome 15"	"combined oxidative phosphorylation defect type 15"	"primary ciliary dyskinesia 30"
+	"3-methylglutaconic aciduria type 4"	"lipoic acid synthetase deficiency"	"combined oxidative phosphorylation defect type 14"	"progressive encephalopathy with leukodystrophy due to DECR deficiency"
 "Severe global developmental delay"	1.0	1.0	0.0	0.0
 "Thrombocytopenia"	1.0	0.0	1.0	0.0
 "Subvalvular aortic stenosis"	1.0	0.0	0.0	0.0

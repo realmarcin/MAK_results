@@ -1,4 +1,4 @@
-	"hyperargininemia"	"dwarfism, proportionate, with hip dislocation"	"dysmyelination with jaundice"	"encephalopathy, axonal, with necrotizing myopathy, cardiomyopathy, and cataracts"	"Woodhouse-Sakati syndrome"	"spinal muscular atrophy with microcephaly and mental subnormality"	"adult spinal muscular atrophy"	"Leber congenital amaurosis 10"	"Leber congenital amaurosis 13"	"multiple mitochondrial dysfunctions syndrome 3"	"Joubert syndrome 27"
+	"arachnoid cyst"	"dwarfism, mental retardation, and eye abnormality"	"dyskeratosis congenita, autosomal recessive 1"	"encephalomalacia, multilocular"	"hypogonadism with low-grade mental deficiency and microcephaly"	"spinal muscular atrophy with mental retardation"	"spinal muscular atrophy with microcephaly and mental subnormality"	"progressive myoclonic epilepsy type 3"	"microcephaly 7, primary, autosomal recessive"	"hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome"	"Bardet-Biedl syndrome 20; BBS20"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

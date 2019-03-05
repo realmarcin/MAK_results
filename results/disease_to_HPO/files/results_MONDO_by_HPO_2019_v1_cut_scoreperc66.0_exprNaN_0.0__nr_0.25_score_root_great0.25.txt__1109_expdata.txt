@@ -1,4 +1,4 @@
-	"Schilder disease"	"constitutional mismatch repair deficiency syndrome"	"PARC syndrome"	"spinocerebellar ataxia, autosomal recessive 25"
+	"sucrosuria, hiatus hernia and mental retardation"	"T-substance anomaly"	"infantile osteopetrosis with neuroaxonal dysplasia"	"ciliary dyskinesia, primary, 37"
 "HP:0000007"	0.0	0.0	0.0	0.0
 "Agenesis of corpus callosum"	0.0	0.0	1.0	0.0
 "Cerebral atrophy"	0.0	0.0	1.0	0.0

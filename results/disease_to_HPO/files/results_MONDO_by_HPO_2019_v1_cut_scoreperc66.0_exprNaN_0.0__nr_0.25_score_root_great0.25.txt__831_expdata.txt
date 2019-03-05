@@ -1,4 +1,4 @@
-	"deafness-epiphyseal dysplasia-short stature syndrome"	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"microphthalmia, isolated, with coloboma 9"	"glucocorticoid resistance"
+	"short stature, Brussels type"	"short stature due to partial GHR deficiency"	"facial dysmorphism-immunodeficiency-livedo-short stature syndrome"	"short stature due to primary acid-labile subunit deficiency"
 "HP:0000007"	1.0	0.0	1.0	0.0
 "Short stature"	1.0	1.0	1.0	0.0
 "Triangular face"	1.0	0.0	0.0	0.0

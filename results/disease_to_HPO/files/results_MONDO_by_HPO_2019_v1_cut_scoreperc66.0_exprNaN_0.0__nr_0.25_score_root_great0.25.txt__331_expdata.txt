@@ -1,4 +1,4 @@
-	"Holmes-Adie syndrome"	"multiple synostoses syndrome 2"	"Seckel syndrome 8"	"congenital deficiency in alpha-fetoprotein"	"myoclonic-atonic epilepsy"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"
+	"adenylosuccinate lyase deficiency"	"congenital brain dysgenesis due to glutamine synthetase deficiency"	"pontocerebellar hypoplasia type 10"	"severe combined immunodeficiency due to DNA-PKcs deficiency"	"hypomyelinating leukodystrophy 10"	"TBCK-related intellectual disability syndrome"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Low-set ears"	1.0	1.0	0.0	1.0	1.0	0.0

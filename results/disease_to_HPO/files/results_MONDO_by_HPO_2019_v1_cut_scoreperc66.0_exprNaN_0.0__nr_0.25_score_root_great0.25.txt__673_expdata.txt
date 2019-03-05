@@ -1,4 +1,4 @@
-	"enhanced S-cone syndrome"	"autosomal recessive lower motor neuron disease with childhood onset"	"autosomal dominant limb-girdle muscular dystrophy type 1H"	"cone-rod dystrophy 20"
+	"retinoschisis of fovea"	"isolated microphthalmia 5"	"isolated microphthalmia 6"	"nanophthalmos 4"
 "Foveoschisis"	1.0	1.0	0.0	0.0
 "Abnormal light- and dark-adapted electroretinogram"	0.0	1.0	0.0	0.0
 "Optic disc drusen"	0.0	1.0	0.0	1.0

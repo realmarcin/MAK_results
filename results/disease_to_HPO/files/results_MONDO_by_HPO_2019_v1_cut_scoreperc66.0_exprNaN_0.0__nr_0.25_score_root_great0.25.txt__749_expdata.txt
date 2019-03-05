@@ -1,4 +1,4 @@
-	"cornea guttata with anterior polar cataracts"	"osteoglophonic dwarfism"	"spondyloepimetaphyseal dysplasia-hypotrichosis syndrome"	"campomelia, Cumming type"	"otospondylomegaepiphyseal dysplasia, autosomal recessive"	"diaphanospondylodysostosis"
+	"coracoclavicular joint, anomalous"	"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures"	"spondyloarthropathy, susceptibility to, 2"	"hereditary arterial and articular multiple calcification syndrome"	"Greenberg dysplasia"	"Gaucher disease perinatal lethal"
 "Low-set ears"	0.0	0.0	0.0	0.0	1.0	1.0
 "Cardiomegaly"	0.0	0.0	0.0	0.0	1.0	1.0
 "Polyhydramnios"	0.0	0.0	0.0	0.0	1.0	1.0

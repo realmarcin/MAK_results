@@ -1,4 +1,4 @@
-	"progeria-short stature-pigmented nevi syndrome"	"diastematomyelia"	"intellectual disability, Wolff type"	"autosomal recessive limb-girdle muscular dystrophy type 2J"
+	"progeria"	"trichohepatoenteric syndrome 1"	"Winchester syndrome"	"avascular necrosis of femoral head, primary, 1"
 "HP:0000007"	1.0	1.0	0.0	0.0
 "Short stature"	1.0	1.0	0.0	0.0
 "Narrow mouth"	1.0	1.0	0.0	0.0

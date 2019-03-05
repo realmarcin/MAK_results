@@ -1,4 +1,4 @@
-	"primary biliary cholangitis 1"	"syringomas, multiple"	"spinocerebellar ataxia type 11"	"multiple epiphyseal dysplasia, Al-Gazali type"	"intellectual disability, autosomal recessive 61"	"acrogeria"
+	"Behcet disease"	"Blau syndrome"	"pyogenic arthritis-pyoderma gangrenosum-acne syndrome"	"CINCA syndrome"	"deafness, autosomal dominant 34, with or without inflammation"	"mucocutaneous lymph node syndrome"
 "Arthralgia"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0003677"	0.0	0.0	0.0	0.0	1.0	0.0
 "Fever"	1.0	1.0	1.0	1.0	1.0	1.0

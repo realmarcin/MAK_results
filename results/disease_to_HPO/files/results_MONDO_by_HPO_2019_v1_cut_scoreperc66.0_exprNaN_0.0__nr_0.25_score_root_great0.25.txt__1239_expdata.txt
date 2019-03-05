@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"vitamin D-dependent rickets, type 2B"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"anophthalmia plus syndrome"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Choanal atresia"	0.0	1.0	0.0	0.0
 "Blepharophimosis"	0.0	1.0	0.0	0.0
 "Iris coloboma"	0.0	1.0	0.0	0.0

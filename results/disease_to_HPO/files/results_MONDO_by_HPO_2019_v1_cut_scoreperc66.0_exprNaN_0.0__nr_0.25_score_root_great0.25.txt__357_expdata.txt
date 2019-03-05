@@ -1,4 +1,4 @@
-	"insensitivity to pain with hyperplastic Myelinopathy"	"hemolytic anemia due to pyrimidine 5' nucleotidase deficiency"	"Diamond-Blackfan anemia 8"	"subepithelial mucinous corneal dystrophy"	"focal facial dermal dysplasia type IV"	"optic atrophy 11; OPA11"
+	"cholestasis, intrahepatic, of pregnancy, 1"	"pyridoxine-dependent epilepsy"	"Diamond-Blackfan anemia 7"	"sterile multifocal osteomyelitis with periostitis and pustulosis"	"cholestasis, intrahepatic, of pregnancy 3"	"atypical glycine encephalopathy"
 "Fetal distress"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormal liver function tests during pregnancy"	1.0	0.0	0.0	0.0	1.0	0.0
 "Increased serum bile acid concentration during pregnancy"	1.0	0.0	0.0	0.0	1.0	0.0

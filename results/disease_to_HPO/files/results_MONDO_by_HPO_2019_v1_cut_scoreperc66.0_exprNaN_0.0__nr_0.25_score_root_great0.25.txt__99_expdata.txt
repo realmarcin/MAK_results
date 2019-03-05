@@ -1,4 +1,4 @@
-	"xylosidase deficiency"	"gastric cancer"	"IMAGe syndrome"	"renal-hepatic-pancreatic dysplasia 2"
+	"46,XX sex reversal 2"	"brain calcification, Rajab type"	"Seckel syndrome 6"	"microcephaly 11, primary, autosomal recessive"
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0	1.0
 "Short stature"	0.0	1.0	1.0	1.0

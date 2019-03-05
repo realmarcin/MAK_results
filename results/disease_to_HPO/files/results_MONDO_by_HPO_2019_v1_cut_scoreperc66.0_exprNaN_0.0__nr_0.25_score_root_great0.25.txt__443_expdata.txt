@@ -1,4 +1,4 @@
-	"Fanconi-like syndrome"	"Simpson-Golabi-Behmel syndrome type 2"	"autosomal recessive congenital ichthyosis 3"	"retinitis pigmentosa 38"	"3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome"
+	"glycogen storage disease due to GLUT2 deficiency"	"X-linked adrenal hypoplasia congenita"	"homozygous 11P15-p14 deletion syndrome"	"retinitis pigmentosa 59"	"glucocorticoid deficiency 4"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Failure to thrive"	1.0	1.0	1.0	1.0	1.0
 "Congenital sensorineural hearing impairment"	0.0	0.0	1.0	0.0	0.0

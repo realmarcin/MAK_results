@@ -1,4 +1,4 @@
-	"X-linked corneal dermoid"	"Aarskog-Scott syndrome, X-linked"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 6"	"chondrodysplasia with joint dislocations, gPAPP type"
+	"deafness dystonia syndrome"	"exudative vitreoretinopathy 2, X-linked"	"Hermansky-Pudlak syndrome 4"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 8"
 "Microphthalmia"	0.0	1.0	0.0	0.0	0.0
 "Reduced visual acuity"	1.0	1.0	1.0	1.0	1.0
 "Deeply set eye"	0.0	1.0	0.0	0.0	0.0

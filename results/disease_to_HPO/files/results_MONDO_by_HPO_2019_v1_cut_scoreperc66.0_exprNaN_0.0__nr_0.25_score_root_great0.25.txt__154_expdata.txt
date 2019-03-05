@@ -1,4 +1,4 @@
-	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"Alexander disease"	"Bartter disease type 2"	"hypomandibular faciocranial dysostosis"	"hypophosphatemic rickets, X-linked recessive"	"immunodeficiency 47; IMD47"	"pleuropulmonary blastoma"	"Sheldon-hall syndrome"	"developmental malformations-deafness-dystonia syndrome"	"Leber congenital amaurosis 12"	"isolated growth hormone deficiency type IB"	"hereditary spastic paraplegia 51"
+	"congenital lipoid adrenal hyperplasia due to STAR deficency"	"corticosterone methyloxidase type 1 deficiency"	"hypokalemic alkalosis, familial, with specific renal tubulopathy"	"Bartter disease type 2"	"nephrogenic syndrome of inappropriate antidiuresis"	"Bartter disease type 5"	"autosomal dominant hypocalcemia 1"	"Bartter disease type 1"	"Bartter disease type 3"	"corticosterone methyloxidase type 2 deficiency"	"EAST syndrome"	"congenital adrenal insufficiency"
 "Hyponatremia"	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0
 "Renal salt wasting"	1.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Increased circulating renin level"	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

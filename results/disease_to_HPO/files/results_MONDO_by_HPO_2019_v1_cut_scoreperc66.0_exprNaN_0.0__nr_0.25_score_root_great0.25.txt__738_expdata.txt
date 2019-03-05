@@ -1,4 +1,4 @@
-	"Balkan nephropathy"	"immunodeficiency 27A"	"immunodeficiency-centromeric instability-facial anomalies syndrome 1"	"carnitine palmitoyl transferase II deficiency, severe infantile form"	"inherited susceptibility to asthma"	"epilepsy, idiopathic generalized, susceptibility to, 11"	"faciocardiomelic syndrome"	"three M syndrome 3"	"agammaglobulinemia 7, autosomal recessive"
+	"mitochondrial complex III deficiency nuclear type 1"	"MHC class II deficiency"	"immune deficiency disease"	"Caroli disease"	"low phospholipid associated cholelithiasis"	"neonatal ichthyosis-sclerosing cholangitis syndrome"	"cholestasis-pigmentary retinopathy-cleft palate syndrome"	"psoriasis 14, pustular"	"cryptosporidiosis-chronic cholangitis-liver disease syndrome"
 "Cholangitis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Cholesterol gallstones"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Chronic hepatitis due to cryptospridium infection"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

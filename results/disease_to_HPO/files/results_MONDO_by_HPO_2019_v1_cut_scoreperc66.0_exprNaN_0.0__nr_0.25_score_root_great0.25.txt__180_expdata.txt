@@ -1,4 +1,4 @@
-	"exudative vitreoretinopathy 4"	"interstitial lung disease due to ABCA3 deficiency"	"14q32 duplication syndrome"
+	"acroosteolysis-keloid-like lesions-premature aging syndrome"	"osteogenesis imperfecta type 8"	"cutis laxa, autosomal dominant 3"
 "Small foramen magnum"	0.0	0.0	1.0
 "Delayed cranial suture closure"	1.0	1.0	1.0
 "Wormian bones"	1.0	1.0	1.0

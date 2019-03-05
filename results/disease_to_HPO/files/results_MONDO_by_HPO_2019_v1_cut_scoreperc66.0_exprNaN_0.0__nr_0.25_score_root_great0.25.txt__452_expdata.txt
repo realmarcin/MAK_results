@@ -1,4 +1,4 @@
-	"Dubowitz syndrome"	"urban-Rogers-Meyer syndrome"	"primary ciliary dyskinesia 3"	"obesity due to pro-opiomelanocortin deficiency"
+	"dopamine beta-hydroxylase deficiency"	"Gitelman syndrome"	"aromatic L-amino acid decarboxylase deficiency"	"hereditary spastic paraplegia 29"
 "Nocturia"	1.0	1.0	0.0	1.0
 "Intermittent hypothermia"	1.0	0.0	1.0	0.0
 "Retrograde ejaculation"	1.0	0.0	0.0	0.0

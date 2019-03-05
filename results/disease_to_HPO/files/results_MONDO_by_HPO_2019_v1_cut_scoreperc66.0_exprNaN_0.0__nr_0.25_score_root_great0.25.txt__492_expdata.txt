@@ -1,4 +1,4 @@
-	"severe neonatal-onset encephalopathy with microcephaly"	"lymphedema, hereditary, 1C"	"infantile cerebellar-retinal degeneration"	"aortic aneurysm, familial thoracic 10"	"atrial fibrillation, familial, 18; ATFB18"	"premature ovarian failure 14"
+	"epileptic encephalopathy, early infantile, 2"	"epileptic encephalopathy, early infantile, 5"	"epileptic encephalopathy, early infantile, 13"	"epileptic encephalopathy, early infantile, 47; EIEE47"	"epileptic encephalopathy, early infantile, 48; EIEE48"	"epileptic encephalopathy, infantile or early childhood, 3"
 "Cerebellar atrophy"	0.0	1.0	0.0	1.0	1.0	1.0
 "CNS hypomyelination"	0.0	1.0	0.0	0.0	0.0	1.0
 "Hyperreflexia"	0.0	1.0	0.0	0.0	0.0	1.0

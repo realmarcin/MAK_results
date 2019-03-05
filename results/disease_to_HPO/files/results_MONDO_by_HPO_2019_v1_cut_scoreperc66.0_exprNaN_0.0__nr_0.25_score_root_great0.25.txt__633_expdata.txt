@@ -1,4 +1,4 @@
-	"spastic ataxia 1"	"CXB3S"	"myoclonic dystonia 11"	"mosaic variegated aneuploidy syndrome 3"
+	"episodic ataxia type 2"	"cochleosaccular degeneration-cataract syndrome"	"myoclonus-cerebellar ataxia-deafness syndrome"	"psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome"
 "HP:0000006"	1.0	1.0	1.0	0.0
 "Hearing impairment"	0.0	1.0	1.0	0.0
 "Ataxia"	1.0	1.0	1.0	1.0

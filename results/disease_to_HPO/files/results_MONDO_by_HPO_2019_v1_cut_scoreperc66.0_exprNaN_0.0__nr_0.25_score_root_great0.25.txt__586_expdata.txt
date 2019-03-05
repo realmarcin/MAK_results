@@ -1,4 +1,4 @@
-	"aromatase excess syndrome"	"MONDO:0023807"	"obsessive-compulsive disorder"	"polymyoclonus, infantile"	"Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome"	"ATFB1"
+	"Myhre syndrome"	"holoprosencephaly 2"	"Schilbach-Rott syndrome"	"postaxial polydactyly-dental and vertebral anomalies syndrome"	"microphthalmia, syndromic 2"	"choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome"
 "Bifid uvula"	1.0	1.0	1.0	1.0	1.0	1.0
 "2-3 toe syndactyly"	1.0	0.0	0.0	1.0	1.0	1.0
 "Submucous cleft hard palate"	1.0	1.0	1.0	0.0	1.0	0.0

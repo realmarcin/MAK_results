@@ -1,4 +1,4 @@
-	"epidermolysis bullosa with deficiency of galactosylhydroxylysyl glucosyltransferase"	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"Webb-Dattani syndrome"	"glucocorticoid resistance"	"MIRAGE syndrome"
+	"pretibial dystrophic epidermolysis bullosa"	"short stature due to partial GHR deficiency"	"short stature due to GHSR deficiency"	"short stature due to primary acid-labile subunit deficiency"	"bone marrow failure syndrome 3"
 "HP:0000007"	1.0	0.0	1.0	0.0	1.0
 "HP:0000006"	1.0	0.0	1.0	0.0	0.0
 "Hyperkeratosis"	1.0	0.0	0.0	0.0	1.0

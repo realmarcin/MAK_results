@@ -1,4 +1,4 @@
-	"exostoses, multiple, type 2"	"external auditory canal atresia-vertical talus-hypertelorism syndrome"	"Larsen syndrome"	"pantothenate kinase-associated neurodegeneration"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"
+	"exostoses, multiple, type 1"	"exostoses, multiple, type 2"	"trichorhinophalangeal syndrome type II"	"Hallermann-Streiff syndrome"	"occipital horn syndrome"
 "Rib exostoses"	1.0	1.0	1.0	1.0	0.0
 "Scapular exostoses"	1.0	1.0	1.0	0.0	0.0
 "Madelung-like forearm deformities"	1.0	1.0	0.0	0.0	0.0

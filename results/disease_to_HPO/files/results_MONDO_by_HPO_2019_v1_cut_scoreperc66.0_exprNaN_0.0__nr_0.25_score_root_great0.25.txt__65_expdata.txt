@@ -1,4 +1,4 @@
-	"hereditary spastic paraplegia 4"	"spastic paraplegia-epilepsy-intellectual disability syndrome"	"CODAS syndrome"	"epilepsy, familial focal, with variable foci 1"	"autosomal dominant nonsyndromic deafness 41"
+	"hereditary spastic paraplegia 3A"	"hereditary spastic paraplegia 4"	"hereditary spastic paraplegia 6"	"hereditary spastic paraplegia 11"	"hereditary spastic paraplegia 25"
 "Urinary incontinence"	1.0	1.0	1.0	1.0	0.0
 "Degeneration of the lateral corticospinal tracts"	1.0	1.0	1.0	1.0	0.0
 "Urinary bladder sphincter dysfunction"	1.0	1.0	1.0	1.0	0.0

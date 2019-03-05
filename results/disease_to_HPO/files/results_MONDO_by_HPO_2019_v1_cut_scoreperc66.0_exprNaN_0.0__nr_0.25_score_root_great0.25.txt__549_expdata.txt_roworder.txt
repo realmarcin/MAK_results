@@ -1,4 +1,4 @@
 "x"
-"1" "Charcot.Marie.Tooth.disease.dominant.intermediate.E"
-"2" "familial.atrial.myxoma"
-"3" "tiglic.acidemia"
+"1" "congenital.nongoitrous.hypothryoidism.6"
+"2" "myxedema"
+"3" "isolated.thyrotropin.releasing.hormone.deficiency"

@@ -1,4 +1,4 @@
-	"Joubert syndrome with oculorenal defect"	"retinal degeneration-nanophthalmos-glaucoma syndrome"	"Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome"
+	"Johanson-Blizzard syndrome"	"Knobloch syndrome"	"microphthalmia, syndromic 2"
 "Septate vagina"	1.0	0.0	1.0
 "Dextrocardia"	1.0	1.0	1.0
 "Phthisis bulbi"	0.0	1.0	1.0

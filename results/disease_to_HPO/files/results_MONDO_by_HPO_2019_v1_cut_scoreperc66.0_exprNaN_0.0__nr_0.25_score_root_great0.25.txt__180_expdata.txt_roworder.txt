@@ -1,4 +1,4 @@
 "x"
-"1" "X14q32.duplication.syndrome"
-"2" "exudative.vitreoretinopathy.4"
-"3" "interstitial.lung.disease.due.to.ABCA3.deficiency"
+"1" "cutis.laxa..autosomal.dominant.3"
+"2" "acroosteolysis.keloid.like.lesions.premature.aging.syndrome"
+"3" "osteogenesis.imperfecta.type.8"

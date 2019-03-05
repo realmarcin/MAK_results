@@ -1,4 +1,4 @@
 "x"
-"1" "Okur.Chung.neurodevelopmental.syndrome..OCNDS"
-"2" "orofaciodigital.syndrome.XV"
-"3" "spinocerebellar.ataxia.type.12"
+"1" "micrognathia.recurrent.infections.behavioral.abnormalities.mild.intellectual.disability.syndrome"
+"2" "Alazami.Yuan.syndrome..ALYUS"
+"3" "microcephaly.4..primary..autosomal.recessive"

@@ -1,4 +1,4 @@
-	"achromatopsia 2"	"X-linked corneal dermoid"	"megalencephaly-capillary malformation-polymicrogyria syndrome"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 6"	"chondrodysplasia with joint dislocations, gPAPP type"
+	"coloboma, ocular, autosomal recessive"	"deafness dystonia syndrome"	"colobomatous macrophthalmia-microcornea syndrome"	"Hermansky-Pudlak syndrome 4"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 8"
 "Nystagmus"	1.0	0.0	1.0	0.0	0.0	0.0
 "Reduced visual acuity"	1.0	1.0	1.0	1.0	1.0	1.0
 "Myopia"	0.0	1.0	1.0	0.0	0.0	1.0

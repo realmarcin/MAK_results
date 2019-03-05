@@ -1,4 +1,4 @@
-	"Parana hard-skin syndrome"	"AUTS3"	"Santos syndrome"	"neuropathy, hereditary sensory, type 2C"	"febrile seizures, familial, 11"
+	"choroid plexus papilloma"	"familial acute necrotizing encephalopathy"	"herpes simplex encephalitis, susceptibility to, 2"	"encephalopathy, acute, infection-induced, susceptibility to, 4"	"familial temporal lobe epilepsy 5"
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0

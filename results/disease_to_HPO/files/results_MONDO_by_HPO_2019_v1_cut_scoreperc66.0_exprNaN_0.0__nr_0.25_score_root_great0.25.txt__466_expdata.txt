@@ -1,4 +1,4 @@
-	"isovaleric acidemia"	"myasthenia, congenital, refractory to acetylcholinesterase inhibitors"	"Smith-Lemli-Opitz syndrome"	"hypogonadotropic hypogonadism 11 with or without anosmia"	"nephronophthisis 14"
+	"isovaleric acid, inability to smell"	"musk, inability to smell"	"anosmia for butyl mercaptan"	"hypogonadotropic hypogonadism 10 with or without anosmia"	"hypogonadotropic hypogonadism 13 with or without anosmia"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability, mild"	0.0	0.0	0.0	1.0	0.0
 "Anosmia"	1.0	1.0	1.0	1.0	1.0

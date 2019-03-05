@@ -1,4 +1,4 @@
-	"3-hydroxy-3-methylglutaric aciduria"	"second metatarsal-metacarpal syndrome"	"hypotrichosis 5"	"monocytopenia with susceptibility to infections"
+	"letterer-Siwe disease"	"sea-blue histiocyte syndrome"	"leukocyte adhesion deficiency 3"	"Hermansky-Pudlak syndrome 9"
 "Hepatomegaly"	0.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Splenomegaly"	0.0	1.0	1.0	0.0

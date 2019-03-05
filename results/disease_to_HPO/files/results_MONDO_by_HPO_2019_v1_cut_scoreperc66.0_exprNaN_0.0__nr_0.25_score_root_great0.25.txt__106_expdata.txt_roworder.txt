@@ -1,4 +1,4 @@
 "x"
-"1" "metabolic.encephalomyopathic.crises..recurrent..with.rhabdomyolysis..cardiac.arrhythmias..and.neurodegeneration..MECRCN"
-"2" "spinocerebellar.ataxia.type.12"
-"3" "hyperlipidemia.due.to.hepatic.triglyceride.lipase.deficiency"
+"1" "cerebellar.atrophy..visual.impairment..and.psychomotor.retardation."
+"2" "microcephaly.4..primary..autosomal.recessive"
+"3" "PSPH.deficiency"

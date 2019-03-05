@@ -1,4 +1,4 @@
-	"acrocraniofacial dysostosis"	"camptodactyly syndrome, Guadalajara type 1"	"Haim-Munk syndrome"	"orofaciodigital syndrome III"	"vitamin D-dependent rickets, type 2B"	"retinitis pigmentosa 56"
+	"Goodman syndrome"	"hyperphosphatemic familial tumoral calcinosis"	"Papillon-Lefevre disease"	"ichthyosis-oral and digital anomalies syndrome"	"anophthalmia plus syndrome"	"ectodermal dysplasia-cutaneous syndactyly syndrome"
 "Syndactyly"	1.0	0.0	0.0	0.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Thin upper lip vermilion"	0.0	0.0	0.0	1.0	0.0	1.0

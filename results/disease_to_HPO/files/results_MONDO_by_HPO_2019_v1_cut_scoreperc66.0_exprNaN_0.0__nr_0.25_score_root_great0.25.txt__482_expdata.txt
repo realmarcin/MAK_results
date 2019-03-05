@@ -1,4 +1,4 @@
-	"syndactyly type 5"	"acrocallosal syndrome"	"right atrial isomerism (disease)"	"Hirschsprung disease with ulnar polydactyly, polysyndactyly of big toes, and ventricular septal defect"	"ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome"	"Jumping Frenchmen of Maine"	"orofaciodigital syndrome IX"	"Bartter disease type 4a"	"chromosome 1q21.1 duplication syndrome"
+	"syndactyly type 4"	"acro-renal-mandibular syndrome"	"asphyxiating thoracic dystrophy 1"	"Hirschsprung disease-deafness-polydactyly syndrome"	"autosomal recessive congenital ichthyosis 4B"	"Joubert syndrome with oculorenal defect"	"orofaciodigital syndrome IV"	"megalencephaly-capillary malformation-polymicrogyria syndrome"	"chromosome 1q21.1 deletion syndrome"
 "Hand polydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Foot polydactyly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Hypothalamic hamartoma"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

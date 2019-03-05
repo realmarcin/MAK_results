@@ -1,4 +1,4 @@
-	"Cri-du-chat syndrome"	"autosomal dominant optic atrophy, classic form"	"thyroid dyshormonogenesis 2A"	"early-onset X-linked optic atrophy"	"autosomal recessive nonsyndromic deafness 20"	"microcephaly 3, primary, autosomal recessive"
+	"inherited Creutzfeldt-Jakob disease"	"autosomal dominant optic atrophy and cataract"	"familial thyroid dyshormonogenesis"	"OPEM"	"megalencephalic leukoencephalopathy with subcortical cysts 1"	"Huntington disease-like 3"
 "Loss of facial expression"	1.0	0.0	0.0	0.0	0.0	1.0
 "Extrapyramidal muscular rigidity"	1.0	1.0	0.0	0.0	0.0	1.0
 "Akinetic mutism"	1.0	0.0	0.0	0.0	0.0	0.0

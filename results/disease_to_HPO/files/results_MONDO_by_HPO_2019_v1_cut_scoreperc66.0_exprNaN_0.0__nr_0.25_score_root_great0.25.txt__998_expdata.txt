@@ -1,4 +1,4 @@
-	"hypouricemia, renal, 2"	"amyotrophic lateral sclerosis type 18"	"encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy; PEBEL"	"Miles-Carpenter syndrome"
+	"mitochondrial DNA depletion syndrome 8a"	"congenital myopathy with internal nuclei and atypical cores"	"mitochondrial DNA depletion syndrome 12a (cardiomyopathic type), autosomal dominant; MTDPS12A"	"COG7-CDG"
 "Seizures"	1.0	0.0	0.0	0.0
 "Generalized hypotonia"	1.0	1.0	1.0	0.0
 "Gait ataxia"	1.0	0.0	0.0	0.0

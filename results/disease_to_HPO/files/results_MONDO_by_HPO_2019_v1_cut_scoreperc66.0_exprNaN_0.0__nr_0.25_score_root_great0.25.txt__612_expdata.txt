@@ -1,4 +1,4 @@
-	"autosomal dominant Ehlers-Danlos syndrome, vascular type"	"Kniest-like dysplasia with pursed lips and ectopia lentis"	"macular dystrophy, X-linked"	"deafness-epiphyseal dysplasia-short stature syndrome"
+	"Ehlers-Danlos syndrome, hypermobility type"	"Keutel syndrome"	"oculocerebrorenal syndrome"	"short stature, Brussels type"
 "Constipation"	1.0	0.0	1.0	0.0
 "Gastroesophageal reflux"	1.0	0.0	1.0	0.0
 "Subcutaneous nodule"	1.0	0.0	1.0	0.0

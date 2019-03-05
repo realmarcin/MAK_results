@@ -1,4 +1,4 @@
 "x"
-"1" "cochleosaccular.degeneration.cataract.syndrome"
-"2" "Charcot.Marie.Tooth.disease.axonal.type.2P"
-"3" "crossed.polysyndactyly"
+"1" "aorta.coarctation"
+"2" "hypoplastic.left.heart.syndrome.2"
+"3" "PHAVER.syndrome"

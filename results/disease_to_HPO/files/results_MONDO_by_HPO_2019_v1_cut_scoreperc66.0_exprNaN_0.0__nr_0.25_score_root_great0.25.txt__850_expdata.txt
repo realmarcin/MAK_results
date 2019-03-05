@@ -1,4 +1,4 @@
-	"hypertrophic osteoarthropathy, primary, autosomal recessive, 1"	"familial hemophagocytic lymphohistiocytosis 4"	"congenital reticular ichthyosiform erythroderma"	"Koolen de Vries syndrome"	"autosomal recessive optic atrophy, OPA7 type"	"CLAPO syndrome"
+	"intellectual disability-cataracts-calcified pinnae-myopathy syndrome"	"spondyloepimetaphyseal dysplasia with multiple dislocations"	"Czech dysplasia, metatarsal type"	"spondyloepimetaphyseal dysplasia, GeneviC(ve type"	"46,XY sex reversal 3"	"spondyloepiphyseal dysplasia, Nishimura type"
 "Posterior scalloping of vertebral bodies"	1.0	1.0	0.0	1.0	0.0	0.0
 "Streaky metaphyseal sclerosis"	0.0	1.0	0.0	0.0	1.0	0.0
 "Delayed patellar ossification"	0.0	1.0	0.0	0.0	0.0	1.0

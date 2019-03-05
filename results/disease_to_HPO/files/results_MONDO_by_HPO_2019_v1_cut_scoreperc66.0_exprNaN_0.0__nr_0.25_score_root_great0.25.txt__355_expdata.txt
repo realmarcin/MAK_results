@@ -1,4 +1,4 @@
-	"exudative vitreoretinopathy 1"	"Keipert syndrome"	"muscular dystrophy-dystroglycanopathy type B6"
+	"extrasystoles-short stature-hyperpigmentation-microcephaly syndrome"	"familial atrial myxoma"	"Carney complex - trismus - pseudocamptodactyly syndrome"
 "Bacterial endocarditis"	1.0	1.0	0.0
 "Pulmonic valve myxoma"	0.0	1.0	0.0
 "Cardiac myxoma"	0.0	1.0	1.0

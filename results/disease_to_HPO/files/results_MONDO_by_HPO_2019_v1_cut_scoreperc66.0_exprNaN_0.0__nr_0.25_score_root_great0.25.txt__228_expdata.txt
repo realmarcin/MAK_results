@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1E"	"cheilitis glandularis"	"neurogenic scapuloperoneal syndrome, Kaeser type"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"
+	"Charcot-Marie-Tooth disease, Guadalajara neuronal type"	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"Emery-Dreifuss muscular dystrophy 2, autosomal dominant"	"scapuloperoneal spinal muscular atrophy"
 "Neonatal inspiratory stridor"	1.0	0.0	0.0	0.0
 "Congenital foot contraction deformities"	1.0	0.0	0.0	0.0
 "Peroneal muscle atrophy"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"fibrinolytic defect"	"thyroid cancer, nonmedullary, 3"	"intellectual disability, autosomal dominant 51"	"intellectual disability, autosomal dominant 52"
+	"femoral-facial syndrome"	"Phelan McDermid syndrome"	"intellectual disability, autosomal dominant 50"	"intellectual disability, autosomal dominant 51"
 "Long philtrum"	1.0	1.0	0.0	0.0
 "Strabismus"	1.0	1.0	0.0	0.0
 "Ventricular septal defect"	1.0	1.0	0.0	0.0

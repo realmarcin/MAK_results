@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"facial abnormalities, kyphoscoliosis, and mental retardation"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"eyebrow duplication-syndactyly syndrome"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Long eyelashes"	0.0	1.0	0.0	0.0
 "2-3 toe syndactyly"	0.0	1.0	0.0	0.0
 "2-4 finger syndactyly"	0.0	1.0	0.0	0.0

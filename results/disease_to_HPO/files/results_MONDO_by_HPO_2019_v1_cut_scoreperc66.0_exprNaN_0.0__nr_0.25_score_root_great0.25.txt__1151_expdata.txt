@@ -1,4 +1,4 @@
-	"aortic aneurysm, familial abdominal, 1"	"palmoplantar keratoderma, nonepidermolytic"	"cataract 22 multiple types"	"obesity due to leptin receptor gene deficiency"	"pontocerebellar hypoplasia type 7"
+	"autosomal dominant Aarskog syndrome"	"obesity due to prohormone convertase i deficiency"	"obesity due to pro-opiomelanocortin deficiency"	"obesity due to congenital leptin deficiency"	"obesity due to leptin receptor gene deficiency"
 "Dilatation of the abdominal aorta"	0.0	0.0	0.0	0.0	0.0
 "Hydroureter"	0.0	0.0	0.0	0.0	0.0
 "Hydronephrosis"	0.0	0.0	0.0	0.0	0.0

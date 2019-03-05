@@ -1,4 +1,4 @@
-	"adult-onset autosomal dominant demyelinating leukodystrophy"	"Lambert syndrome"	"myoclonic epilepsy, progressive"	"hereditary spastic paraplegia 42"	"Reynolds syndrome"	"structural heart defects and renal anomalies syndrome"
+	"Pelger-Huet anomaly"	"specific granule deficiency 1"	"myelolymphatic insufficiency"	"chromosome 1q41-q42 deletion syndrome"	"hemolytic anemia due to glucophosphate isomerase deficiency"	"specific granule deficiency 2"
 "4-5 finger syndactyly"	0.0	0.0	0.0	0.0	0.0	0.0
 "Hyposegmentation of neutrophil nuclei"	1.0	1.0	1.0	1.0	0.0	0.0
 "Impaired neutrophil bactericidal activity"	0.0	1.0	0.0	0.0	1.0	0.0

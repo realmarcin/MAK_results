@@ -1,4 +1,4 @@
-	"Brown-Vialetto-van Laere syndrome 1"	"progressive familial intrahepatic cholestasis type 1"	"POROK7"	"primary ciliary dyskinesia 32"	"neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset; NADGP"
+	"progressive bulbar palsy"	"Brown-Vialetto-van Laere syndrome 1"	"brown-Vialetto-van Laere syndrome 2"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 2"	"congenital myasthenic syndrome 20"
 "Ataxia"	0.0	1.0	1.0	1.0	0.0
 "Scoliosis"	0.0	1.0	0.0	0.0	1.0
 "Bulbar palsy"	1.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"seizures, benign familial neonatal, 1"	"familial pancreatic carcinoma"	"Eiken syndrome"	"Perrault syndrome 5"
+	"arthrogryposis, distal, type 2E"	"parkinsonian-pyramidal syndrome"	"pancreatic hypoplasia-diabetes-congenital heart disease syndrome"	"autosomal recessive spinocerebellar ataxia 17"
 "Absent antihelix"	1.0	0.0	0.0	0.0
 "Mild microcephaly"	1.0	0.0	1.0	1.0
 "Joint contractures involving the joints of the feet"	1.0	0.0	0.0	0.0

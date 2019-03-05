@@ -1,4 +1,4 @@
-	"primary biliary cholangitis 1"	"alopecia - contractures - dwarfism - intellectual disability syndrome"	"hypospadias 2, X-linked"	"male hypergonadotropic hypogonadism-intellectual disability-skeletal anomalies syndrome"	"ovarian hyperstimulation syndrome"	"microcephaly 5, primary, autosomal recessive"
+	"Behcet disease"	"alkaptonuria"	"Bruton-type agammaglobulinemia"	"isolated growth hormone deficiency type III"	"hyper-IgM syndrome type 5"	"granulomatosis with polyangiitis"
 "Epididymitis"	1.0	0.0	1.0	1.0	1.0	0.0
 "Prostatitis"	0.0	1.0	1.0	1.0	0.0	1.0
 "Enteroviral hepatitis"	0.0	0.0	1.0	1.0	0.0	0.0

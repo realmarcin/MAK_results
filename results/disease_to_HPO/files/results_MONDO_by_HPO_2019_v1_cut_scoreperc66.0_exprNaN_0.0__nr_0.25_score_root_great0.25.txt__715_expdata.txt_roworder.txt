@@ -1,4 +1,4 @@
 "x"
-"1" "facial.abnormalities..kyphoscoliosis..and.mental.retardation"
-"2" "aortic.arch.anomaly.facial.dysmorphism.intellectual.disability.syndrome"
-"3" "syndromic.X.linked.intellectual.disability.Claes.Jensen.type"
+"1" "eyebrow.duplication.syndactyly.syndrome"
+"2" "Townes.Brocks.syndrome.1"
+"3" "Allan.Herndon.Dudley.syndrome"

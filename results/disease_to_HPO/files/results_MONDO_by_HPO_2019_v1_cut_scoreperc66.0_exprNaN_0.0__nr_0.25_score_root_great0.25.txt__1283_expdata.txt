@@ -1,4 +1,4 @@
-	"ocular cystinosis"	"growth delay-hydrocephaly-lung hypoplasia syndrome"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B1"	"intellectual disability, autosomal recessive 13"	"hypogonadotropic hypogonadism 17 with or without anosmia"	"Charcot-Marie-Tooth disease type 4B3"	"complex cortical dysplasia with other brain malformations 4"	"spermatogenic failure 12"
+	"ventriculomegaly-cystic kidney disease"	"hydrocephalus, nonsyndromic, autosomal recessive 1"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6"	"polymicrogyria with optic nerve hypoplasia"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12"	"complex cortical dysplasia with other brain malformations 2"	"complex cortical dysplasia with other brain malformations 3"	"complex cortical dysplasia with other brain malformations 4"
 "Seizures"	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Reduced visual acuity"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Respiratory insufficiency due to muscle weakness"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

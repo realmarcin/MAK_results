@@ -1,4 +1,4 @@
-	"megalencephaly, autosomal dominant"	"Oguchi disease-1"	"Menkes disease"	"chromosome 17q11.2 deletion syndrome, 1.4Mb"
+	"megacystis-microcolon-intestinal hypoperistalsis syndrome"	"cloacal exstrophy (disease)"	"Melnick-Needles syndrome"	"vesicoureteral reflux 3"
 "Hydroureter"	1.0	1.0	0.0	1.0
 "Hydronephrosis"	1.0	1.0	1.0	1.0
 "Vesicoureteral reflux"	1.0	1.0	1.0	1.0

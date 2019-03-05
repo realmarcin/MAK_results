@@ -1,4 +1,4 @@
-	"familial porphyria cutanea tarda"	"prolactin-producing pituitary gland adenoma"	"KRT14-related epidermolysis bullosa simplex"	"generalized epilepsy with febrile seizures plus, type 2"	"sclerosteosis 2"
+	"sporadic porphyria cutanea tarda"	"ENUR1"	"arrhythmogenic right ventricular dysplasia 2"	"arrhythmogenic right ventricular dysplasia 6"	"EDICT syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Hyperpigmentation of the skin"	1.0	0.0	0.0	0.0	0.0
 "Alcoholism"	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"aortic arch anomaly-facial dysmorphism-intellectual disability syndrome"	"familial calcium pyrophosphate deposition"	"coloboma of macula-brachydactyly type B syndrome"	"dermal Ridges, patternless"	"childhood absence epilepsy"	"Diamond-Blackfan anemia 8"	"Cowden syndrome 7"	"epileptic encephalopathy, early infantile, 46; EIEE46"
+	"Townes-Brocks syndrome 1"	"Alagille syndrome due to a JAG1 point mutation"	"renal coloboma syndrome"	"congenital unilateral hypoplasia of depressor anguli oris"	"atrioventricular defect-blepharophimosis-radial and anal defect syndrome"	"Diamond-Blackfan anemia 7"	"even-plus syndrome"	"Sifrim-Hitz-Weiss syndrome; SIHIWES"
 "Tetralogy of Fallot"	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Vesicoureteral reflux"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Renal hypoplasia"	1.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0

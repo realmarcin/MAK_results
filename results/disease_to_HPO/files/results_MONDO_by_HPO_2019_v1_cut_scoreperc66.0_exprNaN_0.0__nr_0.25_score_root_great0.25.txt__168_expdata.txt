@@ -1,4 +1,4 @@
-	"ventricular septal defect 3"	"BRWNS"	"hypomyelinating leukodystrophy 10"
+	"ventricular septal defect 2"	"microcephaly 14, primary, autosomal recessive"	"hypomagnesemia, seizures, and mental retardation"
 "HP:0000007"	0.0	1.0	1.0
 "Microcephaly"	0.0	1.0	1.0
 "Intellectual disability"	0.0	1.0	1.0

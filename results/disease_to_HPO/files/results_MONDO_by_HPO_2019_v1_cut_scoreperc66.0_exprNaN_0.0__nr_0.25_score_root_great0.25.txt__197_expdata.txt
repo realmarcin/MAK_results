@@ -1,4 +1,4 @@
-	"orofaciodigital syndrome VIII"	"Clark-Baraitser syndrome"	"cone dystrophy, X-linked, with tapetal-like sheen"	"X-linked corneal dermoid"
+	"X-linked cone-rod dystrophy 3"	"Aland island eye disease"	"X-linked cone-rod dystrophy 1"	"deafness dystonia syndrome"
 "Nystagmus"	1.0	1.0	1.0	0.0
 "Abnormality of metabolism/homeostasis"	0.0	1.0	1.0	0.0
 "Photophobia"	1.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"granulomatous disease, chronic, autosomal dominant type"	"childhood hypophosphatasia"	"hypophosphatemia, renal, with intracerebral calcifications"
+	"Grant syndrome"	"infantile hypophosphatasia"	"childhood hypophosphatasia"
 "Skin dimple over apex of long bone angulation"	1.0	1.0	1.0
 "Phosphoethanolaminuria"	0.0	1.0	1.0
 "Elevated urine pyrophosphate"	0.0	1.0	1.0

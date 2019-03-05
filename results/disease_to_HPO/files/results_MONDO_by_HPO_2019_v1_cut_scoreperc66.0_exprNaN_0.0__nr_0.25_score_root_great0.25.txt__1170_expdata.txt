@@ -1,4 +1,4 @@
-	"Holmes-Adie syndrome"	"microcephaly, growth retardation, cataract, hearing loss, and unusual appearance"	"familial progressive hyperpigmentation"	"autosomal recessive limb-girdle muscular dystrophy type 2W"	"severe combined immunodeficiency due to LAT deficiency"
+	"adenylosuccinate lyase deficiency"	"microcephaly-facio-cardio-skeletal syndrome, Hadziselimovic type"	"primary microcephaly-epilepsy-permanent neonatal diabetes syndrome"	"severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome"	"peho-like syndrome"
 "Autism"	1.0	0.0	0.0	0.0	0.0
 "Aggressive behavior"	1.0	0.0	0.0	0.0	0.0
 "Self-mutilation"	1.0	0.0	0.0	0.0	0.0

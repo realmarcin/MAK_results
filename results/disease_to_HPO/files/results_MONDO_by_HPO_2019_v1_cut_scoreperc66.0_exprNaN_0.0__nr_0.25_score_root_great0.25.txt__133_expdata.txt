@@ -1,4 +1,4 @@
-	"classic galactosemia"	"transient familial neonatal hyperbilirubinemia"	"Wolman disease with hypolipoproteinemia and acanthocytosis"	"Niemann-Pick disease, type C2"	"epilepsy, idiopathic generalized, susceptibility to, 11"	"neuropathy, hereditary sensory, type 1F"
+	"galactose epimerase deficiency"	"PSHB"	"lysosomal acid lipase deficiency"	"Griscelli syndrome type 2"	"neonatal ichthyosis-sclerosing cholangitis syndrome"	"congenital dyserythropoietic anemia type type 1B"
 "Hepatomegaly"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Splenomegaly"	1.0	1.0	1.0	1.0	1.0	1.0

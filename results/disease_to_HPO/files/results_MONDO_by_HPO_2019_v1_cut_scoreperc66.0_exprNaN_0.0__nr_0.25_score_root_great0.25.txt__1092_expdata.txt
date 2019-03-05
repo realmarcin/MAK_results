@@ -1,4 +1,4 @@
-	"genochondromatosis"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"subacute sclerosing panencephalitis"	"Simpson-Golabi-Behmel syndrome type 2"
+	"gastric mucosal hypertrophy"	"beta-ketothiolase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"pancreatic insufficiency, combined exocrine"	"X-linked adrenal hypoplasia congenita"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Hyperpigmentation of the skin"	0.0	0.0	0.0	0.0	1.0
 "Azoospermia"	0.0	0.0	0.0	0.0	1.0

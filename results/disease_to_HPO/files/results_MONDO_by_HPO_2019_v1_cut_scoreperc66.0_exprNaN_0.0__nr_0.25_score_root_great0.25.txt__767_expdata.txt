@@ -1,4 +1,4 @@
-	"dysplasia epiphysealis hemimelica"	"PPR1"	"neuropathy, congenital, with arthrogryposis multiplex"	"postaxial tetramelic oligodactyly"	"neuronal ceroid lipofuscinosis 2"	"Unverricht-Lundborg syndrome"	"familial pancreatic carcinoma"	"agammaglobulinemia 6, autosomal recessive"
+	"Lewy body dementia"	"benign occipital epilepsy"	"neuronal ceroid lipofuscinosis 4B"	"variegate porphyria"	"neuronal ceroid lipofuscinosis 4A"	"Lafora disease"	"parkinsonian-pyramidal syndrome"	"bilateral parasagittal parieto-occipital polymicrogyria"
 "Visual hallucinations"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Auditory hallucinations"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Fingerprint intracellular accumulation of autofluorescent lipopigment storage material"	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0

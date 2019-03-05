@@ -1,4 +1,4 @@
-	"kapur-Toriello syndrome"	"Kallmann syndrome with spastic paraplegia"	"keratosis follicularis spinulosa decalvans, X-linked"	"microcephaly 7, primary, autosomal recessive"
+	"hypogonadotropic hypogonadism 3 with or without anosmia"	"hypogonadotropic hypogonadism 1 with or without anosmia"	"Kallmann syndrome with spastic paraplegia"	"hypogonadotropic hypogonadism 6 with or without anosmia"
 "Cryptorchidism"	1.0	1.0	1.0	1.0
 "High palate"	0.0	1.0	1.0	1.0
 "Micropenis"	1.0	1.0	1.0	1.0

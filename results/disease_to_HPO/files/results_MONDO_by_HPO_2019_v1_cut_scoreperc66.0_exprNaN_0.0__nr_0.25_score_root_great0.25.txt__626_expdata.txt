@@ -1,4 +1,4 @@
-	"Shwachman-Diamond syndrome 1"	"chondrodysplasia-pseudohermaphroditism syndrome"	"myelodysplasia, immunodeficiency, facial dysmorphism, short stature, and psychomotor delay"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"cataract 21 multiple types"	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2"
+	"pancreatic agenesis 1"	"pancreatic beta cell agenesis with neonatal diabetes mellitus"	"Martinez-Frias syndrome"	"permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome"	"neonatal diabetes mellitus with congenital hypothyroidism"	"pancreatic agenesis 2"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intrauterine growth retardation"	1.0	0.0	1.0	0.0	1.0	0.0
 "Azoospermia"	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"intellectual disability, X-linked 93"	"X-linked Emery-Dreifuss muscular dystrophy"	"hereditary spastic paraplegia 44"	"Noonan syndrome 8"
+	"glycogen storage disease due to phosphoglycerate kinase 1 deficiency"	"Duchenne muscular dystrophy"	"congenital muscular dystrophy due to LMNA mutation"	"autosomal recessive limb-girdle muscular dystrophy type 2T"
 "Muscular hypotonia"	0.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Motor delay"	0.0	1.0	1.0	1.0

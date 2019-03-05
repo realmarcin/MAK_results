@@ -1,4 +1,4 @@
-	"oculoauriculovertebral spectrum with radial defects"	"FRAXE intellectual disability"	"frontoocular syndrome"	"AHDC1-related intellectual disability - obstructive sleep apnea - mild dysmorphism syndrome"
+	"Bencze syndrome"	"syndromic X-linked intellectual disability 12"	"macrocephaly-autism syndrome"	"intellectual disability, autosomal dominant 24"
 "Intellectual disability"	0.0	1.0	1.0	1.0
 "Mandibular prognathia"	0.0	1.0	0.0	1.0
 "Thick lower lip vermilion"	0.0	1.0	0.0	1.0

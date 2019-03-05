@@ -1,4 +1,4 @@
-	"fibrinolytic defect"	"gingival fibromatosis-progressive deafness syndrome"	"premature chromatid separation trait"	"triphalangeal thumb with double phalanges"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency"	"leprosy, susceptibility to, 3"	"achromatopsia 3"
+	"femoral-facial syndrome"	"Zimmermann-Laband syndrome 1"	"familial male-limited precocious puberty"	"trigonocephaly 1"	"classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency"	"congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"	"Donohue syndrome"	"Rabson-Mendenhall syndrome"
 "Long penis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Elfin facies"	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Female pseudohermaphroditism"	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0

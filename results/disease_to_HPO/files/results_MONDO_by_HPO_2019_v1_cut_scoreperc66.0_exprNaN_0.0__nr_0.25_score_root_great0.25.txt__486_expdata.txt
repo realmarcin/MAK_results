@@ -1,4 +1,4 @@
-	"neuropathy, hereditary sensorimotor, with upper motor neuron, visual pathway and autonomic disturbance"	"neuropathy, hereditary sensory and autonomic, type 1A"	"hyper-IgM syndrome type 2"	"split hand-foot malformation 4"	"surfactant metabolism dysfunction, pulmonary, 5"
+	"neuropathy, congenital, with arthrogryposis multiplex"	"neuropathy, hereditary sensorimotor, with upper motor neuron, visual pathway and autonomic disturbance"	"Charcot-Marie-Tooth disease type 4E"	"Charcot-Marie-Tooth disease type 4G"	"peripheral neuropathy-myopathy-hoarseness-hearing loss syndrome"
 "HP:0000006"	1.0	0.0	1.0	0.0	1.0
 "Abnormality of the cranial nerves"	0.0	0.0	1.0	0.0	0.0
 "Distal amyotrophy"	1.0	1.0	1.0	0.0	1.0

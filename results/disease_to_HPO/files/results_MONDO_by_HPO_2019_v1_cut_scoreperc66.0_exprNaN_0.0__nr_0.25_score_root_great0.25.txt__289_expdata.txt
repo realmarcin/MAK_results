@@ -1,4 +1,4 @@
-	"craniosynostosis 1"	"Jackson-Weiss syndrome"	"early-onset Parkinson disease 20"	"thrombocytopenia, anemia, and myelofibrosis"
+	"craniorhiny"	"craniosynostosis 1"	"craniosynostosis 5, susceptibility to"	"craniosynostosis 7"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Oxycephaly"	1.0	1.0	0.0	0.0
 "Craniosynostosis"	1.0	1.0	1.0	1.0

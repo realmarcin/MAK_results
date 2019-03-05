@@ -1,4 +1,4 @@
-	"microphthalmia-ankyloblepharon-intellectual disability syndrome"	"brachyolmia-amelogenesis imperfecta syndrome"	"hypertrophic cardiomyopathy 10"	"EIG3"	"Emery-Dreifuss muscular dystrophy 5, autosomal dominant"	"chromosome 4q21 deletion syndrome"
+	"Fabry disease"	"Naxos disease"	"hypertrophic cardiomyopathy 8"	"hypertrophic cardiomyopathy 10"	"Emery-Dreifuss muscular dystrophy 4, autosomal dominant"	"glycogen storage disease XV"
 "Left ventricular septal hypertrophy"	1.0	0.0	0.0	1.0	1.0	1.0
 "T-wave inversion"	0.0	1.0	1.0	1.0	0.0	1.0
 "HP:0031319"	0.0	0.0	0.0	0.0	0.0	1.0

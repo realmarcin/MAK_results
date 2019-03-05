@@ -1,4 +1,4 @@
-	"hypertrophic osteoarthropathy, primary, autosomal recessive, 1"	"X-linked Opitz G/BBB syndrome"	"X-linked complicated corpus callosum dysgenesis"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"linear skin defects with multiple congenital anomalies 1"	"congenital stationary night blindness autosomal dominant 3"
+	"intellectual disability-cataracts-calcified pinnae-myopathy syndrome"	"CHIME syndrome"	"Aicardi syndrome"	"ichthyosis follicularis-alopecia-photophobia syndrome"	"microphthalmia, syndromic 1"	"Koolen de Vries syndrome"
 "Hydroureter"	0.0	0.0	0.0	1.0	1.0	0.0
 "Intellectual disability"	1.0	1.0	0.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	0.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"Kyrle disease"	"spinal muscular atrophy, type I, with congenital bone fractures"	"hyperekplexia 2"	"Seckel syndrome 10"
+	"hyperekplexia 1"	"spinal muscular atrophy, scapuloperoneal"	"hyperekplexia 3"	"uncombable hair syndrome 3; UHS3"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "HP:0000006"	1.0	0.0	1.0	0.0
 "HP:0003593"	1.0	0.0	1.0	0.0

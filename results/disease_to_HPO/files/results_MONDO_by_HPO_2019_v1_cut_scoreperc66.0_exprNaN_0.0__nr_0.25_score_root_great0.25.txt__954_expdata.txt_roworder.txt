@@ -1,4 +1,4 @@
 "x"
-"1" "leukodystrophy..hypomyelinating..17"
-"2" "metabolic.myopathy.due.to.lactate.transporter.defect"
-"3" "peroxisome.biogenesis.disorder.1B"
+"1" "congenital.disorder.of.glycosylation.with.defective.fucosylation"
+"2" "kuru..susceptibility.to"
+"3" "Athabaskan.brainstem.dysgenesis.syndrome"

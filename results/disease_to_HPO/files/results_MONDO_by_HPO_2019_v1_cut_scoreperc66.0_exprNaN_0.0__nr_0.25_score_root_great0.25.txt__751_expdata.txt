@@ -1,4 +1,4 @@
-	"Aicardi-Goutieres syndrome 6"	"Parkinson disease 22, autosomal dominant; PARK22"	"nephrotic syndrome, type 11; NPHS11"	"radioulnar synostosis with amegakaryocytic thrombocytopenia 2; RUSAT2"
+	"intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome"	"facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation"	"palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome"	"macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome"
 "Frontal bossing"	0.0	0.0	1.0	0.0
 "Bulbous nose"	1.0	1.0	0.0	1.0
 "Tapered finger"	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked"	"focal segmental glomerulosclerosis 6"	"progressive encephalopathy with leukodystrophy due to DECR deficiency"	"leukodystrophy, hypomyelinating, 15"
+	"X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome"	"Perrault syndrome 3"	"microcephaly, short stature, and impaired glucose metabolism 1"	"combined oxidative phosphorylation deficiency 36"
 "HP:0000007"	0.0	1.0	1.0	0.0
 "Microcephaly"	1.0	1.0	1.0	0.0
 "Seizures"	0.0	1.0	1.0	0.0

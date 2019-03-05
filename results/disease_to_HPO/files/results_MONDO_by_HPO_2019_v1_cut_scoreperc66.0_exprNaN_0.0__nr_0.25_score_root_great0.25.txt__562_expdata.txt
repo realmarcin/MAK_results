@@ -1,4 +1,4 @@
-	"rhizomelic chondrodysplasia punctata type 2"	"thyroid hormone resistance, generalized, autosomal recessive"	"phosphoribosylpyrophosphate synthetase superactivity"	"cleft palate with or without ankyloglossia, X-linked"	"autosomal recessive early-onset Parkinson disease 6"	"hemochromatosis type 5"
+	"dihydropyrimidinuria"	"dihydropyrimidine dehydrogenase deficiency"	"leukoencephalopathy-metaphyseal chondrodysplasia syndrome"	"MASA syndrome"	"glycine encephalopathy"	"developmental delay with autism spectrum disorder and gait instability"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	0.0	0.0	1.0	1.0
 "Plagiocephaly"	1.0	0.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"aortic arch interruption, facial palsy, and retinal coloboma"	"cerebellar ataxia-hypogonadism syndrome"	"prolactin deficiency, isolated"	"migraine with or without aura, susceptibility to, 10"	"retinitis pigmentosa 42"	"14q32 duplication syndrome"
+	"aortic arch anomaly-facial dysmorphism-intellectual disability syndrome"	"cerebellar ataxia-ectodermal dysplasia syndrome"	"Wiedemann-Rautenstrauch syndrome"	"Alagille syndrome due to a NOTCH2 point mutation"	"autosomal recessive cutis laxa type 2B"	"cutis laxa, autosomal dominant 3"
 "Broad forehead"	1.0	1.0	1.0	1.0	1.0	1.0
 "Convex nasal ridge"	1.0	0.0	1.0	0.0	0.0	0.0
 "Intrauterine growth retardation"	1.0	0.0	1.0	0.0	1.0	1.0

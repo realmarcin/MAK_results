@@ -1,4 +1,4 @@
-	"ornithine translocase deficiency"	"autosomal recessive nonsyndromic deafness 67"	"orofacial cleft 10"	"Charcot-Marie-Tooth disease, dominant intermediate G"
+	"hyperopia, high"	"congenital primary aphakia"	"isolated microphthalmia 7"	"Leber congenital amaurosis with early-onset deafness"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Microphthalmia"	0.0	1.0	1.0	0.0
 "Aniridia"	0.0	1.0	0.0	0.0

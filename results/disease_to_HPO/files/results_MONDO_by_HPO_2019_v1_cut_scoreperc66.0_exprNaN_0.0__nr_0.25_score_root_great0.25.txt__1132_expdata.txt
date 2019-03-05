@@ -1,4 +1,4 @@
-	"Gilbert syndrome"	"nonpapillary renal cell carcinoma"	"familial infantile myoclonic epilepsy"	"autosomal recessive nonsyndromic deafness 33"	"hydroxyacyl glutathione hydrolase deficiency"	"autoimmune lymphoproliferative syndrome type 3"
+	"cholesterol-ester transfer protein deficiency"	"hyperlipoproteinemia type V"	"familial hypobetalipoproteinemia 2"	"hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration"	"apolipoprotein c-III deficiency"	"familial hypobetalipoproteinemia 1"
 "Expressive language delay"	0.0	0.0	0.0	0.0	0.0	0.0
 "Increased circulating high-density lipoprotein levels"	1.0	0.0	0.0	0.0	1.0	0.0
 "Decreased circulating low-density lipoprotein levels"	0.0	1.0	1.0	1.0	1.0	1.0

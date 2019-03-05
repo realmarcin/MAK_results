@@ -1,4 +1,4 @@
-	"camptodactyly of fingers"	"adult hypophosphatasia"	"ABri amyloidosis"	"Joubert syndrome with oculorenal defect"	"congenital secretory sodium diarrhea 3"	"Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome"	"orofaciodigital syndrome 17"
+	"camptobrachydactyly"	"hypoparathyroidism-deafness-renal disease syndrome"	"Currarino triad"	"Johanson-Blizzard syndrome"	"Smith-Lemli-Opitz syndrome"	"microphthalmia, syndromic 2"	"short-rib thoracic dysplasia 20 with polydactyly"
 "Septate vagina"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Narrow sacroiliac notch"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Absent nasal bridge"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

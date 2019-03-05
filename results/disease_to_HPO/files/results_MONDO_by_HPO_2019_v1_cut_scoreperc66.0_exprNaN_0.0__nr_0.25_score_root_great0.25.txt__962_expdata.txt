@@ -1,4 +1,4 @@
-	"Jervell and Lange-Nielsen syndrome 1"	"action myoclonus-renal failure syndrome"	"colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome"	"Cardioneuromyopathy with hyaline masses and nemaline rods"	"2-methylbutyryl-CoA dehydrogenase deficiency"
+	"deafness, congenital, and familial myoclonic epilepsy"	"Unverricht-Lundborg syndrome"	"neuronal ceroid lipofuscinosis 6"	"PSMNSB"	"neuronal ceroid lipofuscinosis 8 northern epilepsy variant"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	0.0	1.0	0.0	0.0	1.0
 "Cutaneous photosensitivity"	0.0	1.0	0.0	0.0	0.0

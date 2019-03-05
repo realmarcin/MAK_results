@@ -1,4 +1,4 @@
 "x"
-"1" "chromosome.5q12.deletion.syndrome"
-"2" "metabolic.myopathy.due.to.lactate.transporter.defect"
-"3" "peroxisome.biogenesis.disorder.1B"
+"1" "Joubert.syndrome.22"
+"2" "kuru..susceptibility.to"
+"3" "Athabaskan.brainstem.dysgenesis.syndrome"

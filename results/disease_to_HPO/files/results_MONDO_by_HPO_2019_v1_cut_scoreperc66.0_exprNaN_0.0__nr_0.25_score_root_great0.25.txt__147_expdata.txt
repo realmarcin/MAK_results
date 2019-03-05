@@ -1,4 +1,4 @@
-	"femoral-facial syndrome"	"myotonia congenita, autosomal dominant"	"granulocytopenia with immunoglobulin abnormality"	"microcephaly 5, primary, autosomal recessive"
+	"Felty syndrome"	"juvenile dermatomyositis"	"anti-glomerular basement membrane disease"	"granulomatosis with polyangiitis"
 "Sinusitis"	1.0	0.0	0.0	1.0
 "Autoimmunity"	1.0	1.0	1.0	1.0
 "Pulmonary fibrosis"	1.0	1.0	0.0	1.0

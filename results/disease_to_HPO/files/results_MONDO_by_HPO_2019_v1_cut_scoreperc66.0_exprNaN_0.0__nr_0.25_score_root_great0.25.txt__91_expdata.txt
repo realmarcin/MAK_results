@@ -1,4 +1,4 @@
-	"neurogenic arthrogryposis multiplex congenita"	"Joubert syndrome with hepatic defect"	"premature aging syndrome, Okamoto type"	"Tenorio syndrome"	"immunodeficiency 39"	"immunodeficiency, common variable, 12"
+	"arthrogryposis, renal dysfunction, and cholestasis 1"	"Yunis-Varon syndrome"	"Spondylospinal thoracic dysostosis"	"lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome"	"lissencephaly 7 with cerebellar hypoplasia"	"cerebrooculofacioskeletal syndrome 3"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	1.0
 "Microcephaly"	1.0	1.0	0.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	0.0	0.0	1.0	1.0

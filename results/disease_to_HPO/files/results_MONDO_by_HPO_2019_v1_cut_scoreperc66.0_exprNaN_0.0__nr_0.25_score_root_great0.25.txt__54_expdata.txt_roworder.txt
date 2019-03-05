@@ -1,4 +1,4 @@
 "x"
-"1" "Ritscher.Schinzel.syndrome.1"
-"2" "Dandy.Walker.malformation.postaxial.polydactyly.syndrome"
-"3" "autosomal.recessive.nonsyndromic.deafness.1A"
+"1" "Dandy.Walker.syndrome"
+"2" "facial.dysmorphism.macrocephaly.myopia.Dandy.Walker.malformation.syndrome"
+"3" "Dandy.Walker.malformation.postaxial.polydactyly.syndrome"

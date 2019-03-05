@@ -1,4 +1,4 @@
-	"craniofacial-deafness-hand syndrome"	"Pechet factor deficiency"	"GM1 gangliosidosis type 2"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis type 4A"	"mucus inspissation of respiratory tract"	"muscular dystrophy, cardiac type"	"dilated cardiomyopathy 1C"
+	"craniodiaphyseal dysplasia, autosomal dominant"	"pseudoleprechaunism syndrome, Patterson type"	"GM1 gangliosidosis type 1"	"Sanfilippo syndrome type A"	"Sanfilippo syndrome type B"	"Sanfilippo syndrome type C"	"Sanfilippo syndrome type D"	"mucopolysaccharidosis type 7"	"mucopolysaccharidosis type 2"	"mucopolysaccharidosis type 9"
 "Thickened ribs"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
 "Ovoid thoracolumbar vertebrae"	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0
 "Asymmetric septal hypertrophy"	0.0	0.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"vitelliform macular dystrophy 1"	"familial hypertryptophanemia"	"corticosteroid-binding globulin deficiency"	"autosomal recessive osteopetrosis 6"	"neurodegenerative syndrome due to cerebral folate transport deficiency"	"Fanconi anemia complementation group P"
+	"age related macular degeneration 2"	"orofacial cleft 11"	"cholelithiasis"	"ATFB5"	"leukemia, acute lymphocytic, susceptibility to, 1"	"schizophrenia 15"
 "Oral cleft"	0.0	1.0	0.0	0.0	0.0	0.0
 "Schizophrenia"	0.0	0.0	0.0	0.0	0.0	1.0
 "Cholelithiasis"	0.0	0.0	1.0	0.0	0.0	0.0

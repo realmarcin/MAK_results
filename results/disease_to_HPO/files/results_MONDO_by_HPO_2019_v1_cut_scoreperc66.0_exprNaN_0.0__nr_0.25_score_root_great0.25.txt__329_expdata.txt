@@ -1,4 +1,4 @@
-	"palmoplantar keratoderma, nonepidermolytic"	"cataract 22 multiple types"	"obesity due to leptin receptor gene deficiency"	"pontocerebellar hypoplasia type 7"
+	"obesity due to prohormone convertase i deficiency"	"obesity due to pro-opiomelanocortin deficiency"	"obesity due to congenital leptin deficiency"	"obesity due to leptin receptor gene deficiency"
 "Diarrhea"	1.0	0.0	0.0	0.0
 "Obesity"	1.0	1.0	1.0	1.0
 "HP:0003745"	1.0	0.0	0.0	0.0

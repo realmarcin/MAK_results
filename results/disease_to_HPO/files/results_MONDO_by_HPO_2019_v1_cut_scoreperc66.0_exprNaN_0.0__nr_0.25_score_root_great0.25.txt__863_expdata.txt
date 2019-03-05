@@ -1,4 +1,4 @@
-	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency"	"fetal iodine syndrome"	"Wolman disease with hypolipoproteinemia and acanthocytosis"	"hereditary spastic paraplegia 51"	"PHAVER syndrome"
+	"congenital lipoid adrenal hyperplasia due to STAR deficency"	"Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis"	"hypogonadotropic hypogonadism 23 with or without anosmia"	"lysosomal acid lipase deficiency"	"congenital adrenal insufficiency"	"short stature-wormian bones-dextrocardia syndrome"
 "Low maternal serum estriol"	0.0	1.0	0.0	0.0	1.0	0.0
 "Abnormality of the Leydig cells"	0.0	0.0	1.0	0.0	1.0	0.0
 "Abnormal urine potassium concentration"	1.0	0.0	0.0	1.0	1.0	0.0

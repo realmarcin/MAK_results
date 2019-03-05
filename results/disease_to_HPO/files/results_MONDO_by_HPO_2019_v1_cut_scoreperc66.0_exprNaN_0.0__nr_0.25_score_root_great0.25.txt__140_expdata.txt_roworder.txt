@@ -1,4 +1,4 @@
 "x"
-"1" "ectodermal.dysplasia.13..hair.tooth.type"
-"2" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.3"
-"3" "neurodevelopmental.disorder.with.microcephaly..seizures..and.cortical.atrophy"
+"1" "epileptic.encephalopathy..early.infantile..54"
+"2" "megalencephaly.polymicrogyria.polydactyly.hydrocephalus.syndrome.2"
+"3" "microcephaly.19..primary..autosomal.recessive"

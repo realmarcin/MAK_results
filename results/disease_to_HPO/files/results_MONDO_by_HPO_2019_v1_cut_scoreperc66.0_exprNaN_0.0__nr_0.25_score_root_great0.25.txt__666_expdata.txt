@@ -1,4 +1,4 @@
-	"Marshall syndrome"	"muscle cramps, familial"	"familial temporal lobe epilepsy 5"	"Cowden syndrome 6"	"urofacial syndrome 2"
+	"marfanoid hypermobility syndrome"	"Cowden syndrome 1"	"lethal occipital encephalocele-skeletal dysplasia syndrome"	"Cowden syndrome 5"	"Cowden syndrome 6"
 "Pectus excavatum"	1.0	1.0	0.0	1.0	1.0
 "Abnormality of the skin"	1.0	0.0	0.0	0.0	0.0
 "Growth abnormality"	1.0	0.0	0.0	0.0	0.0

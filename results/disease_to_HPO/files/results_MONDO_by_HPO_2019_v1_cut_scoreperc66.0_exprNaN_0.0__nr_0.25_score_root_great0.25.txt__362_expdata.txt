@@ -1,4 +1,4 @@
-	"congenital enteropathy due to enteropeptidase deficiency"	"retinitis pigmentosa 46"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A2"
+	"enterocolitis (disease)"	"inflammatory bowel disease 25"	"inflammatory bowel disease 28"
 "HP:0000007"	1.0	1.0	1.0
 "Rectovaginal fistula"	0.0	1.0	0.0
 "Rectal abscess"	0.0	1.0	0.0

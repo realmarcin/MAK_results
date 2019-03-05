@@ -1,4 +1,4 @@
-	"cryptotia, familial"	"congenital macroglossia"	"granulocytopenia with immunoglobulin abnormality"	"holoprosencephaly 1"	"microcephaly 5, primary, autosomal recessive"
+	"Cryoglobulinemic vasculitis"	"Waldenstrom macroglobulinemia"	"anti-glomerular basement membrane disease"	"classic Hodgkin lymphoma"	"granulomatosis with polyangiitis"
 "Cutis marmorata"	1.0	1.0	0.0	0.0	0.0
 "Peripheral neuropathy"	0.0	1.0	0.0	1.0	0.0
 "Fever"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"adenosine deaminase, elevated, hemolytic anemia due to"	"osteogenesis imperfecta type 4"	"Juberg-Hayward syndrome"	"three M syndrome 1"	"osteogenesis imperfecta type 11"
+	"adenosine deaminase deficiency"	"osteogenesis imperfecta type 2"	"Verloove Vanhorick-Brubakk syndrome"	"thoracomelic dysplasia"	"osteogenesis imperfecta type 5"
 "Abnormality of pelvic girdle bone morphology"	1.0	1.0	1.0	1.0	1.0
 "Disproportionate short-limb short stature"	0.0	1.0	0.0	1.0	0.0
 "Genu valgum"	0.0	0.0	0.0	1.0	0.0

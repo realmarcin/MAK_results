@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1A"	"neuronopathy, distal hereditary motor, type 2A"	"spinal muscular atrophy, facioscapulohumeral type"	"Noonan syndrome-like disorder with loose anagen hair 1"	"Charcot-Marie-Tooth disease type 1F"	"posterior polymorphous corneal dystrophy 2"
+	"Charcot-Marie-Tooth disease type 2A1"	"neuronopathy, distal hereditary motor, type 7A"	"distal hereditary motor neuropathy type 1"	"Charcot-Marie-Tooth disease, axonal, with vocal cord paresis, autosomal recessive"	"Charcot-Marie-Tooth disease axonal type 2H"	"PCWH syndrome"
 "Peripheral neuropathy"	1.0	1.0	0.0	0.0	0.0	1.0
 "Hyporeflexia"	1.0	1.0	0.0	0.0	0.0	1.0
 "Pes cavus"	1.0	1.0	1.0	1.0	1.0	1.0

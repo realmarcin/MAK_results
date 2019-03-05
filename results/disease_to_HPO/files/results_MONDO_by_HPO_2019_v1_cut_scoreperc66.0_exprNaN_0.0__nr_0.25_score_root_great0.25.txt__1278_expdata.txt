@@ -1,4 +1,4 @@
-	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"glaucoma type 1C"	"osteogenesis imperfecta type 14"
+	"microcephaly-albinism-digital anomalies syndrome"	"syndromic X-linked intellectual disability Shrimpton type"	"Sheldon-hall syndrome"	"distal arthrogryposis type 5D"
 "Long philtrum"	0.0	0.0	1.0	0.0
 "Wide nasal bridge"	0.0	0.0	1.0	0.0
 "Webbed neck"	0.0	0.0	1.0	0.0

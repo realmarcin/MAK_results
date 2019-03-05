@@ -1,4 +1,4 @@
-	"dilated cardiomyopathy 1D"	"autosomal agammaglobulinemia"	"glycogen storage disease due to aldolase A deficiency"	"dilated cardiomyopathy 1S"	"microcephaly 8, primary, autosomal recessive"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12"
+	"dilated cardiomyopathy 1C"	"dilated cardiomyopathy 1D"	"dilated cardiomyopathy 2A"	"dilated cardiomyopathy 1R"	"dilated cardiomyopathy 2B"	"dilated cardiomyopathy 1KK"
 "HP:0000006"	1.0	1.0	0.0	1.0	0.0	1.0
 "Left ventricular hypertrophy"	1.0	1.0	0.0	1.0	0.0	1.0
 "Congestive heart failure"	1.0	1.0	1.0	1.0	1.0	1.0

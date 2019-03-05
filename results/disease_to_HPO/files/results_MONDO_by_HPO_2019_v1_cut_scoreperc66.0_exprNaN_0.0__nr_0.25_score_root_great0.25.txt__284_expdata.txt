@@ -1,4 +1,4 @@
-	"carcinoid syndrome"	"ermine phenotype"	"non-eruption of teeth-maxillary hypoplasia-genu valgum syndrome"
+	"Carabelli anomaly of maxillary molar teeth"	"erythema of acral regions"	"teeth, fused"
 "HP:0000007"	0.0	1.0	1.0
 "Talipes equinovarus"	0.0	1.0	0.0
 "Erythema"	0.0	1.0	0.0

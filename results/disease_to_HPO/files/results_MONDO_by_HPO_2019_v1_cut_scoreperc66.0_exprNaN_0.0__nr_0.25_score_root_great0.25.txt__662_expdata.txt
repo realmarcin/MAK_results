@@ -1,4 +1,4 @@
-	"multiple exostoses with spastic tetraparesis"	"X-linked intellectual disability-retinitis pigmentosa syndrome"	"atrioventricular septal defect 3"	"OTSC10"
+	"mullerian aplasia and hyperandrogenism"	"intellectual disability, X-linked 91"	"macrocephaly-spastic paraplegia-dysmorphism syndrome"	"Verheij syndrome"
 "Short neck"	1.0	0.0	1.0	1.0
 "Short nose"	0.0	1.0	1.0	1.0
 "Renal cyst"	0.0	0.0	0.0	1.0

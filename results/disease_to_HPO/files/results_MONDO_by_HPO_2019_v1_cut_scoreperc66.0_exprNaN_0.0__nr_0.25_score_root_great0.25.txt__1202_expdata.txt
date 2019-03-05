@@ -1,4 +1,4 @@
-	"immunodeficiency due to CD25 deficiency"	"GCCD3"	"hereditary spastic paraplegia 38"	"familial episodic pain syndrome with predominantly upper body involvement"	"Adams-Oliver syndrome 6"
+	"juvenile primary lateral sclerosis"	"hereditary spastic paraplegia 26"	"hereditary spastic paraplegia 35"	"hereditary spastic paraplegia 55"	"autosomal recessive complex spastic paraplegia type 9B"
 "Motor delay"	0.0	0.0	0.0	0.0	1.0
 "Cataract"	0.0	1.0	0.0	0.0	1.0
 "Abnormality of the urinary system"	0.0	1.0	0.0	0.0	0.0

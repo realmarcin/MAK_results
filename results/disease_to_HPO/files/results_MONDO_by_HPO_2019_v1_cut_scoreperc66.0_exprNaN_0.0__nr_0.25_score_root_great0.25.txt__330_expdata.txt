@@ -1,4 +1,4 @@
-	"hereditary coproporphyria"	"flood factor deficiency"	"Behr syndrome"	"skeletal dysplasia-epilepsy-short stature syndrome"	"combined immunodeficiency due to MALT1 deficiency"	"ataxia - oculomotor apraxia type 4"
+	"familial benign copper deficiency"	"floating-Harbor syndrome"	"Beemer-Ertbruggen syndrome"	"Matthew-wood syndrome"	"Hartsfield-Bixler-Demyer syndrome"	"congenital contractures of the limbs and face, hypotonia, and developmental delay"
 "Cryptorchidism"	0.0	1.0	1.0	1.0	1.0	0.0
 "Wide nasal bridge"	1.0	1.0	1.0	1.0	0.0	1.0
 "Muscular hypotonia"	1.0	0.0	1.0	1.0	0.0	0.0

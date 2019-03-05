@@ -1,4 +1,4 @@
-	"chondrocalcinosis due to apatite crystal deposition"	"hyperpigmentation of eyelid"	"hypochondroplasia"	"46,XY sex reversal 4"	"urban-Rogers-Meyer syndrome"	"OFC3"	"Sheldon-hall syndrome"	"growth failure, microcephaly, mental retardation, cataracts, large joint contractures, osteoporosis, cortical dysplasia, and cerebellar atrophy"
+	"familial calcium pyrophosphate deposition"	"hyperparathyroidism-jaw tumor syndrome"	"familial hypocalciuric hypercalcemia 2"	"renal hypomagnesemia 2"	"Gitelman syndrome"	"familial hypocalciuric hypercalcemia 3"	"Bartter disease type 1"	"parathyroid gland carcinoma"
 "Polyarticular chondrocalcinosis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Chondrocalcinosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0025369"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

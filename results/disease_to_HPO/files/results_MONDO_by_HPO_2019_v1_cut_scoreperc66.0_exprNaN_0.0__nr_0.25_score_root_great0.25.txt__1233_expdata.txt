@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"acrorenal syndrome, autosomal recessive"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"neuropathy, hereditary sensory and autonomic, type 2A"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Muscular hypotonia"	0.0	1.0	0.0	0.0
 "Generalized hypotonia"	0.0	1.0	0.0	0.0
 "Osteolytic defects of the phalanges of the hand"	0.0	1.0	0.0	0.0

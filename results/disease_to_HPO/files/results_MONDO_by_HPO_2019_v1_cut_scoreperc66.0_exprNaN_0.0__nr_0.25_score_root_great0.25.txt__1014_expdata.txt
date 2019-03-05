@@ -1,4 +1,4 @@
-	"Sakati-Nyhan syndrome"	"neurofibromatosis, type IV, of Riccardi"	"cone-rod dystrophy 7"	"congenital myasthenic syndrome 4A"	"hypercalcemia, infantile, 2; HCINF2"
+	"neurofibromatosis type 2"	"neurofibromatosis, type III, mixed central and peripheral"	"neuroendocrine carcinoma of salivary glands, sensorineural hearing loss, and enamel hypoplasia"	"birdshot chorioretinopathy"	"retinitis pigmentosa and erythrocytic microcytosis; RPEM"
 "Epiretinal membrane"	1.0	0.0	0.0	1.0	1.0
 "Photoreceptor layer loss on macular OCT"	0.0	0.0	0.0	1.0	1.0
 "Macular hole"	0.0	0.0	0.0	1.0	0.0

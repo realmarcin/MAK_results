@@ -1,4 +1,4 @@
 "x"
-"1" "polymyoclonus..infantile"
-"2" "CADASIL.1"
-"3" "tooth.agenesis..selective..X.linked..1"
+"1" "postaxial.polydactyly.dental.and.vertebral.anomalies.syndrome"
+"2" "dens.1N.dente.and.palatal.invaginations"
+"3" "taurodontism..microdontia..and.dens.invaginatus"

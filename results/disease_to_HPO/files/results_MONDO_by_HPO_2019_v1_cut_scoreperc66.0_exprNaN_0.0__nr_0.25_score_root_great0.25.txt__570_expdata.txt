@@ -1,4 +1,4 @@
-	"pterygium colli, isolated"	"cramps, familial adolescent"	"autosomal recessive familial Mediterranean fever"	"Stargardt macular degeneration, absent or hypoplastic corpus callosum, mental retardation, and dysmorphic features"	"Bardet-Biedl syndrome 17"	"congenital analbuminemia"
+	"short stature-craniofacial anomalies-genital hypoplasia syndrome"	"Costello syndrome"	"Meckel syndrome, type 1"	"microcephaly, growth retardation, cataract, hearing loss, and unusual appearance"	"Bardet-Biedl syndrome 16"	"Bardet-Biedl syndrome 19"
 "Cryptorchidism"	0.0	1.0	1.0	1.0	0.0	0.0
 "Hypertelorism"	1.0	1.0	1.0	0.0	0.0	0.0
 "Short neck"	1.0	1.0	1.0	0.0	0.0	0.0

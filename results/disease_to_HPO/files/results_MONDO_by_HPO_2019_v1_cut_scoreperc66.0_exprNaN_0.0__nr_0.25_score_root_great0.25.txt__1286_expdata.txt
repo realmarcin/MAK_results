@@ -1,4 +1,4 @@
-	"microphthalmia with limb anomalies"	"xylosidase deficiency"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+	"anophthalmia/microphthalmia-esophageal atresia syndrome"	"46,XX sex reversal 2"	"testicular anomalies with or without congenital heart disease"	"46,XX sex reversal 4"
 "Esophageal atresia"	1.0	0.0	0.0	0.0
 "Hemivertebrae"	1.0	0.0	0.0	0.0
 "11 pairs of ribs"	1.0	0.0	0.0	0.0

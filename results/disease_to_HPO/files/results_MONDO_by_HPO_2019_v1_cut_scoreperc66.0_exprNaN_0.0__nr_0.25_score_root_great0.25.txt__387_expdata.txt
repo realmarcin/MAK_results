@@ -1,4 +1,4 @@
-	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B1"	"intellectual disability, autosomal recessive 13"	"congenital muscular dystrophy with intellectual disability and severe epilepsy"	"autosomal dominant childhood-onset proximal spinal muscular atrophy with contractures"	"female infertility due to zona pellucida defect"
+	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6"	"polymicrogyria with optic nerve hypoplasia"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 10"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13"	"complex cortical dysplasia with other brain malformations 6"
 "Global developmental delay"	0.0	1.0	0.0	1.0	1.0
 "Polymicrogyria"	0.0	1.0	0.0	0.0	1.0
 "Cortical dysplasia"	0.0	0.0	0.0	1.0	1.0

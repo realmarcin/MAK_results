@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"	"polyglucosan body myopathy 1 with or without immunodeficiency"
+	"glioma susceptibility 1"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"	"familial median cleft of the upper and lower lips"
 "Diastema"	0.0	0.0	0.0	1.0
 "Median cleft lip"	0.0	0.0	0.0	1.0
 "Abnormality of the mandible"	0.0	0.0	0.0	1.0

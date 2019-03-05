@@ -1,4 +1,4 @@
-	"cochleosaccular degeneration-cataract syndrome"	"Charcot-Marie-Tooth disease axonal type 2P"	"crossed polysyndactyly"
+	"aorta coarctation"	"hypoplastic left heart syndrome 2"	"PHAVER syndrome"
 "Aortic valve atresia"	1.0	1.0	0.0
 "Abnormality of the left ventricular outflow tract"	1.0	0.0	0.0
 "Hypoplastic aortic arch"	1.0	0.0	1.0

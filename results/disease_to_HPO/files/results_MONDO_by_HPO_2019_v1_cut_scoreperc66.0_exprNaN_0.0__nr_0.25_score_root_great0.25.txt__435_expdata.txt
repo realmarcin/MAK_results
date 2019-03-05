@@ -1,4 +1,4 @@
-	"Clouston syndrome"	"lysosomal acid phosphatase deficiency"	"trichothiodystrophy 4, nonphotosensitive"	"metaphyseal chondrodysplasia, Pena type"	"leukodystrophy and acquired microcephaly with or without dystonia;"
+	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"short-limb skeletal dysplasia with severe combined immunodeficiency"	"hair defect-photosensitivity-intellectual disability syndrome"	"cartilage-hair hypoplasia"	"woolly hair, autosomal recessive 3"
 "Fine hair"	1.0	1.0	1.0	1.0	1.0
 "Cognitive impairment"	0.0	1.0	0.0	1.0	0.0
 "Sparse eyelashes"	1.0	0.0	1.0	1.0	1.0

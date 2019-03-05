@@ -1,4 +1,4 @@
-	"hyperprolinemia type 2"	"MRX53"	"Asperger syndrome, X-linked, susceptibility to, 1"	"autosomal recessive early-onset Parkinson disease 6"	"congenital stromal corneal dystrophy"	"primary ciliary dyskinesia 26"
+	"hyperprolinemia type 1"	"hypoxanthine guanine phosphoribosyltransferase partial deficiency"	"X-linked epilepsy-learning disabilities-behavior disorders syndrome"	"glycine encephalopathy"	"cortical dysplasia-focal epilepsy syndrome"	"intellectual disability-hypotonia-spasticity-sleep disorder syndrome"
 "Aggressive behavior"	1.0	0.0	1.0	1.0	1.0	1.0
 "Hyperactivity"	1.0	0.0	0.0	1.0	1.0	1.0
 "Nephropathy"	1.0	0.0	0.0	0.0	0.0	0.0

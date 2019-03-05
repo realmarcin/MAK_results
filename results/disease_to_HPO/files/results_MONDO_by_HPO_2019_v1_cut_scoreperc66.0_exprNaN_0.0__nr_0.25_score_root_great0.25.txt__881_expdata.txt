@@ -1,4 +1,4 @@
-	"Cole-Carpenter syndrome 1"	"granddad syndrome"	"Pallister-hall syndrome"	"megacystis-microcolon-intestinal hypoperistalsis syndrome"	"ophthalmoplegia-intellectual disability-lingua scrotalis syndrome"
+	"blue rubber bleb nevus"	"familial multinodular goiter"	"multiple system atrophy"	"medulloblastoma"	"ophthalmoplegia, familial total, with iris transillumination"
 "Chronic disseminated intravascular coagulation"	1.0	0.0	0.0	0.0	0.0
 "Cerebellar medulloblastoma"	1.0	1.0	0.0	1.0	0.0
 "Total ophthalmoplegia"	0.0	0.0	0.0	1.0	1.0

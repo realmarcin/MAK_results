@@ -1,4 +1,4 @@
-	"MNG2"	"Joubert syndrome 10"	"SSR4-CDG"	"osteogenesis imperfecta, type 19"	"intellectual disability-epilepsy-extrapyramidal syndrome"
+	"intellectual disability, X-linked 72"	"intellectual disability, X-linked 97"	"intellectual disability, X-linked 101"	"intellectual disability, x-linked 107"	"Sotos syndrome 3"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	1.0	0.0
 "Mandibular prognathia"	0.0	0.0	0.0	1.0	1.0

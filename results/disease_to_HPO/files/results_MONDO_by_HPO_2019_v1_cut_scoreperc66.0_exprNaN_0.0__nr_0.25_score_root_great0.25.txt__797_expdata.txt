@@ -1,4 +1,4 @@
-	"hemophilia A"	"factors VIII, IX and XI, combined deficiency of"	"factor V and factor VIII, combined deficiency of, with normal protein C and protein C inhibitor"	"faciothoracogenital syndrome"
+	"factor VII and Factor VIII, combined deficiency of"	"factor VIII and Factor IX, combined deficiency of"	"factor V and factor VIII, combined deficiency of, type 1"	"factor V and factor VIII, combined deficiency of, with normal protein C and protein C inhibitor"
 "HP:0000007"	0.0	0.0	1.0	1.0
 "Intracranial hemorrhage"	0.0	0.0	0.0	0.0
 "Abnormal bleeding"	0.0	0.0	1.0	1.0

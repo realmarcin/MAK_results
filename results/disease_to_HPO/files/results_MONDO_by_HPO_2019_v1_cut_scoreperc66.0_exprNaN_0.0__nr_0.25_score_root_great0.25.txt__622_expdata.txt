@@ -1,4 +1,4 @@
-	"Beemer-Langer syndrome"	"low phospholipid associated cholelithiasis"	"congenital myasthenic syndrome 1A"	"autosomal dominant nonsyndromic deafness 15"	"BNAR syndrome"
+	"combined immunodeficiency due to ZAP70 deficiency"	"T-B+ severe combined immunodeficiency due to JAK3 deficiency"	"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive"	"severe combined immunodeficiency due to DCLRE1C deficiency"	"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive"
 "Diarrhea"	1.0	1.0	1.0	1.0	1.0
 "Pneumonia"	1.0	1.0	1.0	1.0	0.0
 "Severe combined immunodeficiency"	0.0	1.0	1.0	1.0	1.0

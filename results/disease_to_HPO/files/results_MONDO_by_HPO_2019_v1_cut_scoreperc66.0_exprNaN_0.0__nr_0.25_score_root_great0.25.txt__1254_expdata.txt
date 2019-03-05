@@ -1,4 +1,4 @@
-	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"cataract 44"	"chromosome 17q21.31 duplication syndrome"
+	"craniosynostosis, Adelaide type"	"osteogenesis imperfecta type 5"	"osteogenesis imperfecta type 17"	"Gorlin-Chaudhry-Moss syndrome"
 "Muscular hypotonia"	0.0	0.0	1.0	0.0
 "Motor delay"	0.0	0.0	1.0	0.0
 "Scoliosis"	0.0	0.0	1.0	0.0

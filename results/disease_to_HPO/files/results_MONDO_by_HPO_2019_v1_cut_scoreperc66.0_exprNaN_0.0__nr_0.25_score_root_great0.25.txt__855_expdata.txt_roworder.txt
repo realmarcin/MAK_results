@@ -1,4 +1,4 @@
 "x"
-"1" "heart..malformation.of"
-"2" "holoprosencephaly.hypokinesia.congenital.contractures.syndrome"
-"3" "Pilarowski.Bjornsson.syndrome"
+"1" "heart.hand.syndrome.type.3"
+"2" "Hirschsprung.disease.type.D.brachydactyly.syndrome"
+"3" "blepharocheilodontic.syndrome.2"

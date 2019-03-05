@@ -1,4 +1,4 @@
-	"Diamond-Blackfan anemia 1"	"factor VIII and Factor IX, combined deficiency of"	"congenital factor X deficiency"	"NAFLD1"	"TMEM199-CDG"
+	"congenital dyserythropoietic anemia type 3"	"hemophilia A"	"congenital factor VII deficiency"	"cirrhosis - dystonia - polycythemia - hypermanganesemia syndrome"	"CCDC115-CDG"
 "Hemosiderinuria"	1.0	0.0	0.0	0.0	0.0
 "Increased total iron binding capacity"	1.0	0.0	0.0	1.0	0.0
 "Copper accumulation in liver"	0.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"Joubert syndrome with hepatic defect"	"woolly hair-hypotrichosis-everted lower lip-outstanding ears syndrome"	"Martinez-Frias syndrome"	"congenital disorder of glycosylation type 1C"	"retinitis pigmentosa 55"	"autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency"
+	"Yunis-Varon syndrome"	"hypotrichosis 8"	"ectodermal dysplasia with natal teeth, Turnpenny type"	"craniosynostosis-anal anomalies-porokeratosis syndrome"	"ectodermal dysplasia-syndactyly syndrome 1"	"woolly hair-palmoplantar keratoderma syndrome"
 "Global developmental delay"	1.0	0.0	0.0	1.0	0.0	0.0
 "Micrognathia"	1.0	0.0	0.0	1.0	0.0	0.0
 "Hypospadias"	1.0	0.0	0.0	1.0	0.0	0.0

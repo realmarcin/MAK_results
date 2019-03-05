@@ -1,4 +1,4 @@
-	"inherited Creutzfeldt-Jakob disease"	"carnitine palmitoyl transferase 1A deficiency"	"intellectual disability, X-linked 63"	"multiple epiphyseal dysplasia, Al-Gazali type"	"VVS"	"amyotrophic lateral sclerosis type 18"
+	"creatine phosphokinase, elevated serum"	"carnitine palmitoyl transferase II deficiency, myopathic form"	"Becker muscular dystrophy"	"CINCA syndrome"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 3"	"congenital myopathy with internal nuclei and atypical cores"
 "Fatigue"	1.0	1.0	1.0	1.0	1.0	1.0
 "Muscle cramps"	1.0	1.0	1.0	0.0	0.0	0.0
 "Myalgia"	1.0	1.0	1.0	1.0	1.0	1.0

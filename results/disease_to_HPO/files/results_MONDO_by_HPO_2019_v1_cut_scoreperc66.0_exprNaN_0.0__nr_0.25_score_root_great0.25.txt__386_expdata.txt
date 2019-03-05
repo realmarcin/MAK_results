@@ -1,4 +1,4 @@
-	"PHOAD"	"cytochrome-c oxidase deficiency disease"	"5-oxoprolinase deficiency (disease)"	"retinitis pigmentosa 58"	"TMEM165-CDG"
+	"nephrolithiasis"	"cystinuria (disease)"	"primary hyperoxaluria type 2"	"primary hyperoxaluria type 3"	"adenine phosphoribosyltransferase deficiency"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Hematuria"	0.0	1.0	1.0	1.0	1.0
 "Recurrent urinary tract infections"	0.0	1.0	1.0	0.0	1.0

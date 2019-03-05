@@ -1,4 +1,4 @@
 "x"
-"1" "fused.mandibular.incisors"
-"2" "hypospadias..hypertelorism..upper.51D.coloboma..and.mixed.type.hearing.loss"
-"3" "lethal.neonatal.spasticity.epileptic.encephalopathy.syndrome"
+"1" "solitary.median.maxillary.central.incisor.syndrome"
+"2" "arhinia..choanal.atresia..and.microphthalmia"
+"3" "microphthalmia..isolated..with.coloboma.7"

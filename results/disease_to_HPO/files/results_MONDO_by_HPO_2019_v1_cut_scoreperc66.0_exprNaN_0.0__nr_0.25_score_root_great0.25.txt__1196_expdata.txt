@@ -1,4 +1,4 @@
-	"aplasia cutis congenita (disease)"	"facial spasm"	"cranial nerves, recurrent paresis of"	"craniodiaphyseal dysplasia"	"Charcot-Marie-Tooth disease type 2D"	"hereditary spastic paraplegia 10"
+	"aortic arch interruption, facial palsy, and retinal coloboma"	"familial recurrent peripheral facial palsy"	"cranial nerves, congenital paresis of"	"cranial nerves, recurrent paresis of"	"facial paresis, hereditary congenital, 1"	"facial paresis, hereditary congenital, 2"
 "Peripheral neuropathy"	0.0	0.0	0.0	1.0	0.0	0.0
 "Abnormality of the pinna"	0.0	0.0	1.0	0.0	0.0	0.0
 "Coarctation of aorta"	1.0	0.0	0.0	0.0	0.0	0.0

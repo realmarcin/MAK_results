@@ -1,4 +1,4 @@
-	"Oguchi disease-2"	"aniridia 2; AN2"	"Skraban-Deardorff syndrome"	"helix syndrome"
+	"chromosome 15q24 deletion syndrome"	"ZTTK syndrome"	"multiple mitochondrial dysfunctions syndrome 5"	"early-onset progressive encephalopathy-hearing loss-pons hypoplasia-brain atrophy syndrome"
 "Wide nasal bridge"	1.0	1.0	0.0	0.0
 "Downslanted palpebral fissures"	1.0	1.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0

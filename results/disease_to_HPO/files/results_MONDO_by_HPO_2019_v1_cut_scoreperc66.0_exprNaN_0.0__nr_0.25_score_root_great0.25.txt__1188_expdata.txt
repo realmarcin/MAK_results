@@ -1,4 +1,4 @@
-	"exudative vitreoretinopathy 4"	"bleeding diathesis due to thromboxane synthesis deficiency"	"complement component 4b deficiency"	"congenital myopathy with internal nuclei and atypical cores"	"short-rib thoracic dysplasia 8 with or without polydactyly"	"ehlers-danlos syndrome, classic-like, 2"
+	"acroosteolysis-keloid-like lesions-premature aging syndrome"	"Nestor-Guillermo progeria syndrome"	"cranioectodermal dysplasia 4"	"short stature-optic atrophy-Pelger-HuC+t anomaly syndrome"	"intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome"	"developmental delay, intellectual disability, obesity, and dysmorphic features"
 "Right bundle branch block"	0.0	1.0	0.0	0.0	0.0	0.0
 "Abnormality of the ribs"	0.0	1.0	0.0	0.0	0.0	0.0
 "Delayed closure of the anterior fontanelle"	0.0	1.0	0.0	0.0	0.0	0.0

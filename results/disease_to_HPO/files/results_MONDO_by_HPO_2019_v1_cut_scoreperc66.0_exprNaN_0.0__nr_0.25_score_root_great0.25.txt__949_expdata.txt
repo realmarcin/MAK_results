@@ -1,4 +1,4 @@
-	"congenital dyserythropoietic anemia type 3"	"Johanson-Blizzard syndrome"	"hypospadias 2, X-linked"	"autosomal dominant nonsyndromic deafness 15"	"polymicrogyria with optic nerve hypoplasia"
+	"anal canal carcinoma"	"combined immunodeficiency due to DOCK8 deficiency"	"Bruton-type agammaglobulinemia"	"severe combined immunodeficiency due to DCLRE1C deficiency"	"purine nucleoside phosphorylase deficiency"
 "Anal canal squamous carcinoma"	1.0	1.0	0.0	0.0	0.0
 "Severe viral infections"	0.0	1.0	0.0	0.0	0.0
 "Cerebral vasculitis"	0.0	1.0	0.0	0.0	1.0

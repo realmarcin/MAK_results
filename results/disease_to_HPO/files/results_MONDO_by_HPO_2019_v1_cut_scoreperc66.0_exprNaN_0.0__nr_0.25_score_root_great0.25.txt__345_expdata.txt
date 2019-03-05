@@ -1,4 +1,4 @@
-	"hypoglossia-hypodactyly syndrome"	"neurohypophyseal diabetes insipidus"	"Rapp-Hodgkin syndrome"	"scapula, contour of vertebral border of"
+	"ADULT syndrome"	"dermo-odonto dysplasia"	"absence of fingerprints-congenital milia syndrome"	"scalp-ear-nipple syndrome"
 "Mandibular prognathia"	0.0	1.0	0.0	1.0
 "Thin skin"	1.0	1.0	1.0	0.0
 "Ectodermal dysplasia"	1.0	1.0	1.0	0.0

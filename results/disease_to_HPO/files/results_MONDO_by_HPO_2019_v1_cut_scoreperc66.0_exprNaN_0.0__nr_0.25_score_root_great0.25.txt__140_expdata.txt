@@ -1,4 +1,4 @@
-	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3"	"ectodermal dysplasia 13, hair/tooth type"	"neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"
+	"megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2"	"epileptic encephalopathy, early infantile, 54"	"microcephaly 19, primary, autosomal recessive"
 "HP:0000006"	1.0	1.0	0.0
 "Intellectual disability"	1.0	1.0	0.0
 "Seizures"	1.0	1.0	0.0

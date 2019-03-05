@@ -1,4 +1,4 @@
-	"MHC class II deficiency"	"autosomal recessive nonsyndromic deafness 93"	"platelet-type bleeding disorder 15"	"mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders"
+	"Bardet-Biedl syndrome 1"	"hereditary spastic paraplegia 53"	"cobblestone lissencephaly without muscular or ocular involvement"	"optic atrophy 11; OPA11"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Hydrocephalus"	0.0	0.0	1.0	0.0
 "Hearing impairment"	1.0	1.0	1.0	1.0

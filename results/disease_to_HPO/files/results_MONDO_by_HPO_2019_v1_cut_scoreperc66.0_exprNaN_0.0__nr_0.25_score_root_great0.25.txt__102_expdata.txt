@@ -1,4 +1,4 @@
-	"hemifacial hypertrophy"	"PHGDH deficiency"	"seizures, benign familial infantile, 2"	"hypophosphatemic rickets, autosomal recessive, 2"
+	"exudative vitreoretinopathy 1"	"exudative vitreoretinopathy 4"	"EVR3"	"exudative vitreoretinopathy 5"
 "Reduced visual acuity"	1.0	1.0	1.0	1.0
 "Retinal exudate"	1.0	1.0	1.0	1.0
 "Exudative vitreoretinopathy"	1.0	1.0	1.0	1.0

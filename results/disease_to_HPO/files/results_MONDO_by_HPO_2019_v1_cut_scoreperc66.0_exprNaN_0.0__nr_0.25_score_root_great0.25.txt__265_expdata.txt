@@ -1,4 +1,4 @@
-	"rigid spine muscular dystrophy 1"	"three M syndrome 3"	"retinitis pigmentosa-juvenile cataract-short stature-intellectual disability syndrome"
+	"psoriasis 2"	"psoriasis 14, pustular"	"psoriasis 15, pustular, susceptibility to"
 "Epidermal acanthosis"	1.0	1.0	0.0
 "Psoriasiform dermatitis"	1.0	1.0	1.0
 "Parakeratosis"	1.0	1.0	0.0

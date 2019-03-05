@@ -1,4 +1,4 @@
-	"Patterson-Stevenson-Fontaine syndrome"	"frontometaphyseal dysplasia 1"	"cardiac arrhythmia, ankyrin-b-related"	"autosomal dominant limb-girdle muscular dystrophy type 1G"	"osteogenesis imperfecta type 7"
+	"split hand-foot malformation 1"	"focal dermal hypoplasia"	"agonadism, 46,XY, with mental retardation, short stature, retarded bone age, and multiple extragenital malformations"	"permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome"	"holoprosencephaly, recurrent infections, and monocytosis"
 "Cleft palate"	1.0	1.0	0.0	0.0	0.0
 "Intellectual disability"	1.0	1.0	1.0	0.0	0.0
 "Hearing impairment"	1.0	1.0	0.0	0.0	0.0

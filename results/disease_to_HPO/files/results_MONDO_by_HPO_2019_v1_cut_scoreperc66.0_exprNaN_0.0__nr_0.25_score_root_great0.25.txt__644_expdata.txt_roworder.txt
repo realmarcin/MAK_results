@@ -1,4 +1,4 @@
 "x"
-"1" "inherited.genitourinary.tract.anomalies..disease."
-"2" "chlorpropamide.alcohol.flushing"
-"3" "hypokalemic.periodic.paralysis..type.1"
+"1" "frontometaphyseal.dysplasia.1"
+"2" "Chiari.malformation.type.I"
+"3" "Andersen.Tawil.syndrome"

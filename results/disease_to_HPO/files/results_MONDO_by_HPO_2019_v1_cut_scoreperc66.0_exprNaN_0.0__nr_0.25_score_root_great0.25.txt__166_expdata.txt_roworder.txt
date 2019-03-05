@@ -1,4 +1,4 @@
 "x"
-"1" "Sotos.syndrome.1"
-"2" "Seckel.syndrome.8"
-"3" "lymphoma..non.Hodgkin..familial"
+"1" "spinocerebellar.ataxia.type.29"
+"2" "pontocerebellar.hypoplasia.type.10"
+"3" "familial.infantile.myoclonic.epilepsy"

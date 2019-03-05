@@ -1,4 +1,4 @@
-	"hypoplasminogenemia"	"constriction rings syndrome"	"autosomal recessive nonsyndromic deafness 1A"	"epileptic encephalopathy, early infantile, 44; EIEE44"
+	"heart defect - tongue hamartoma - polysyndactyly syndrome"	"conotruncal heart malformations"	"Dandy-Walker malformation-postaxial polydactyly syndrome"	"orofaciodigital syndrome XV"
 "Hypertelorism"	1.0	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Patent ductus arteriosus"	1.0	1.0	1.0	0.0

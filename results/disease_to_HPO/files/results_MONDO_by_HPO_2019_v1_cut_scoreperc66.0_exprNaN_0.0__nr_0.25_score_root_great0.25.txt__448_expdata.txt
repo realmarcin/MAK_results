@@ -1,4 +1,4 @@
-	"peroneal nerve, accessory deep"	"acetylation, slow"	"Imerslund-Grasbeck syndrome"	"peroneus tertius muscle, absence of"
+	"pernicious anemia"	"intrinsic factor and r binder, combined congenital deficiency of"	"congenital intrinsic factor deficiency"	"Imerslund-Grasbeck syndrome"
 "Malabsorption of Vitamin B12"	1.0	0.0	1.0	1.0
 "Absence of intrinsic factor"	0.0	1.0	1.0	0.0
 "Megaloblastic erythroid hyperplasia"	0.0	0.0	1.0	0.0

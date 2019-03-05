@@ -1,4 +1,4 @@
-	"emphysema, hereditary pulmonary"	"Oguchi disease-1"	"chromosome 1p36 deletion syndrome"
+	"Beckwith-Wiedemann syndrome"	"cloacal exstrophy (disease)"	"caudal duplication"
 "Ureteral duplication"	1.0	0.0	1.0
 "Urogenital fistula"	1.0	0.0	1.0
 "Intestinal duplication"	0.0	1.0	1.0

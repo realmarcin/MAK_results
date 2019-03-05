@@ -1,4 +1,4 @@
 "x"
-"1" "ermine.phenotype"
-"2" "non.eruption.of.teeth.maxillary.hypoplasia.genu.valgum.syndrome"
-"3" "carcinoid.syndrome"
+"1" "erythema.of.acral.regions"
+"2" "teeth..fused"
+"3" "Carabelli.anomaly.of.maxillary.molar.teeth"

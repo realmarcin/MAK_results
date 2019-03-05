@@ -1,4 +1,4 @@
 "x"
-"1" "Alport.syndrome.intellectual.disability.midface.hypoplasia.elliptocytosis.syndrome"
-"2" "Joubert.syndrome.with.oculorenal.defect"
-"3" "retinal.degeneration.nanophthalmos.glaucoma.syndrome"
+"1" "microphthalmia..syndromic.2"
+"2" "Johanson.Blizzard.syndrome"
+"3" "Knobloch.syndrome"

@@ -1,4 +1,4 @@
-	"primary basilar invagination"	"Rapp-Hodgkin syndrome"	"pretibial dystrophic epidermolysis bullosa"	"epidermolysis bullosa with deficiency of galactosylhydroxylysyl glucosyltransferase"	"epidermolysis bullosa with congenital localized absence of skin and deformity of nails"	"mirror movements 1"	"Cooper-Jabs syndrome"	"X-linked intellectual disability-cerebellar hypoplasia syndrome"	"ornithine carbamoyltransferase deficiency"	"alpha thalassemia"	"Alzheimer disease, familial early-onset, with Coexisting amyloid and prion pathology"
+	"nevoid basal cell carcinoma syndrome"	"absence of fingerprints-congenital milia syndrome"	"localized epidermolysis bullosa simplex"	"pretibial dystrophic epidermolysis bullosa"	"epidermolysis bullosa simplex with mottled pigmentation"	"milia, multiple eruptive"	"atrophoderma vermiculata"	"orofaciodigital syndrome VIII"	"orofaciodigital syndrome I"	"dystrophic epidermolysis bullosa pruriginosa"	"Brooke-Spiegler syndrome"
 "Wide nasal bridge"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Hydrocephalus"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Frontal bossing"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

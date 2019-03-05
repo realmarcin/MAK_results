@@ -1,4 +1,4 @@
-	"plasma cell myeloma"	"Chuvash polycythemia"	"ring chromosome 14"	"Coffin-Siris syndrome 5"	"premature ovarian failure 13"
+	"primary myelofibrosis"	"acquired polycythemia vera"	"14q32 duplication syndrome"	"hereditary thrombocytopenia with early-onset myelofibrosis"	"thrombocytopenia, anemia, and myelofibrosis"
 "Arterial thrombosis"	0.0	1.0	0.0	0.0	0.0
 "Myelofibrosis"	1.0	1.0	1.0	1.0	1.0
 "Budd-Chiari syndrome"	0.0	1.0	0.0	0.0	0.0

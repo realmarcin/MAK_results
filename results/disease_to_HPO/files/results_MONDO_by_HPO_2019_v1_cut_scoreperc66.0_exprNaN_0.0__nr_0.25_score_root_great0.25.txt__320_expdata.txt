@@ -1,4 +1,4 @@
-	"glomuvenous malformation"	"Epstein syndrome"	"familial juvenile hyperuricemic nephropathy type 1"	"lymphedema-atrial septal defects-facial changes syndrome"	"cerebral cavernous malformation 2"	"Okt4 epitope deficiency"	"severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome"
+	"glomerulopathy with fibronectin deposits 1"	"Fechtner syndrome"	"IGAN1"	"glomerulopathy with fibronectin deposits 2"	"focal segmental glomerulosclerosis 1"	"IGAN2"	"IgA nephropathy, susceptibility to, 3; IGAN3"
 "Hypertension"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Proteinuria"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Nephrotic syndrome"	1.0	0.0	0.0	1.0	0.0	0.0	0.0

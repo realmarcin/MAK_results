@@ -1,4 +1,4 @@
-	"AREDYLD syndrome"	"Say-Barber-Miller syndrome"	"MMVP3"
+	"XK aprosencephaly"	"microcephaly-micromelia syndrome"	"Fanconi anemia complementation group N"
 "HP:0000007"	1.0	1.0	1.0
 "Microcephaly"	1.0	1.0	1.0
 "Microphthalmia"	1.0	1.0	0.0

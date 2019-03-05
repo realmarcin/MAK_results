@@ -1,4 +1,4 @@
-	"hawkinsinuria"	"chromosome 5q deletion syndrome"	"autosomal dominant nonsyndromic deafness 48"	"type II complement component 8 deficiency"	"autoimmune lymphoproliferative syndrome type 4"	"spasticity-ataxia-gait anomalies syndrome"
+	"Hashimoto thyroiditis"	"Bannayan-Riley-Ruvalcaba syndrome"	"autoimmune disease, susceptibility to, 1"	"complement component C1s deficiency"	"familial cold autoinflammatory syndrome 3"	"Cowden syndrome 7"
 "HP:0000006"	1.0	1.0	1.0	0.0	1.0	1.0
 "Hemangioma"	0.0	1.0	0.0	0.0	0.0	1.0
 "Macrocephaly"	0.0	1.0	0.0	0.0	0.0	1.0

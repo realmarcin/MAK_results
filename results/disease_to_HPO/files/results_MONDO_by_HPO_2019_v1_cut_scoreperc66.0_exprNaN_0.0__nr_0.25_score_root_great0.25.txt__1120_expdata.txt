@@ -1,4 +1,4 @@
-	"Gaucher disease type III"	"mitochondrial myopathy"	"Aicardi-Goutieres syndrome 4"	"holoprosencephaly, recurrent infections, and monocytosis"	"Krabbe disease, atypical, due to saposin a deficiency"	"dilated cardiomyopathy 1II"	"epileptic encephalopathy, early infantile, 16"
+	"Gaucher disease type II"	"mitochondrial DNA depletion syndrome 3"	"Aicardi-Goutieres syndrome 3"	"combined oxidative phosphorylation defect type 4"	"encephalopathy due to prosaposin deficiency"	"D,L-2-hydroxyglutaric aciduria"	"multiple mitochondrial dysfunctions syndrome 3"
 "CNS demyelination"	0.0	0.0	0.0	0.0	1.0	0.0	0.0
 "Encephalopathy"	1.0	1.0	1.0	1.0	0.0	1.0	1.0
 "Hyperkinesis"	0.0	0.0	0.0	0.0	1.0	0.0	0.0

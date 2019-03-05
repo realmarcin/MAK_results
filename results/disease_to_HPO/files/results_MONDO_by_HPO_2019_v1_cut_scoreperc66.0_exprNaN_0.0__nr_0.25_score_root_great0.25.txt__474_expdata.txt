@@ -1,4 +1,4 @@
-	"Wilms tumor 2"	"WAGR syndrome"	"Wolf-Hirschhorn syndrome"	"hyperinsulinemic hypoglycemia, familial, 1"	"susceptibility to ischemic stroke"	"Charcot-Marie-Tooth disease type 4C"
+	"Wilms tumor type 1"	"Wilms tumor 2"	"Wilms tumor 3"	"nephrotic syndrome, type 4"	"Wilms tumor 4"	"Wilms tumor 5"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0001428"	1.0	1.0	0.0	0.0	0.0	1.0
 "Polycythemia"	0.0	0.0	0.0	0.0	0.0	0.0

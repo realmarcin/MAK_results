@@ -1,4 +1,4 @@
-	"floating-Harbor syndrome"	"focal epithelial hyperplasia of the oral mucosa"	"spinocerebellar ataxia type 1"	"alopecia - contractures - dwarfism - intellectual disability syndrome"	"cerebral sclerosis similar to Pelizaeus-Merzbacher disease"	"Grubben-de Cock-Borghgraef syndrome"	"idiopathic ventricular fibrillation, non Brugada type"	"primary ciliary dyskinesia 6"	"bleeding diathesis due to thromboxane synthesis deficiency"
+	"fish eye disease"	"Flynn-Aird syndrome"	"odontomatosis-aortae esophagus stenosis syndrome"	"alkaptonuria"	"cerebrotendinous xanthomatosis"	"lipodystrophy due to peptidic growth factors deficiency"	"autosomal recessive hypercholesterolemia"	"body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency"	"Nestor-Guillermo progeria syndrome"
 "Atherosclerosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Glossitis"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Neutral hyperaminoaciduria"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

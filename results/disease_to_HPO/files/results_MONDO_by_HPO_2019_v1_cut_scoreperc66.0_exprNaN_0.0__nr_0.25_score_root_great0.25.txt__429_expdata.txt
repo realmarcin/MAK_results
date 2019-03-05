@@ -1,4 +1,4 @@
-	"glaucoma 1, open angle, P"	"ring dermoid of cornea"	"cataract-ataxia-deafness syndrome"	"Melnick-Needles syndrome"	"pontocerebellar hypoplasia type 1A"	"pyogenic bacterial infections due to MyD88 deficiency"
+	"exfoliation syndrome"	"Axenfeld-Rieger syndrome type 1"	"colobomatous optic disc-macular atrophy-chorioretinopathy syndrome"	"isolated congenital megalocornea"	"COL4A1-related familial vascular leukoencephalopathy"	"blindness - scoliosis - arachnodactyly syndrome"
 "Cataract"	1.0	0.0	1.0	1.0	0.0	1.0
 "Glaucoma"	1.0	1.0	1.0	1.0	1.0	0.0
 "Retinal detachment"	0.0	0.0	1.0	1.0	1.0	1.0

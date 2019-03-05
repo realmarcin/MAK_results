@@ -1,4 +1,4 @@
-	"autosomal dominant Opitz G/BBB syndrome"	"Williams syndrome"	"thrombomodulin-related bleeding disorder"
+	"hypertelorism (disease)"	"widow's peak (disease)"	"trigonocephaly 2"
 "Hypertelorism"	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0
 "Microcephaly"	0.0	0.0	1.0

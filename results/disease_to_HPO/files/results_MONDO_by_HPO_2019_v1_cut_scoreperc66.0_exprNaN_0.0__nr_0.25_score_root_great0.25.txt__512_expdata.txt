@@ -1,4 +1,4 @@
-	"autosomal recessive amelia"	"autosomal recessive early-onset Parkinson disease 6"	"microphthalmia, isolated, with coloboma 3"	"retinitis pigmentosa 29"	"epileptic encephalopathy, early infantile, 11"
+	"intellectual disability-sparse hair-brachydactyly syndrome"	"glycine encephalopathy"	"pyridoxal phosphate-responsive seizures"	"epileptic encephalopathy, early infantile, 4"	"KCNQ2-related epileptic encephalopathy"
 "Generalized hypotonia"	0.0	1.0	0.0	1.0	1.0
 "Hypoplasia of the corpus callosum"	0.0	1.0	0.0	1.0	1.0
 "Cerebral atrophy"	0.0	0.0	0.0	1.0	1.0

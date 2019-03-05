@@ -1,4 +1,4 @@
 "x"
-"1" "schizencephaly"
-"2" "ulnar.hypoplasia.split.foot.syndrome"
-"3" "cryofibrinogenemia..familial.primary"
+"1" "Schinzel.Giedion.syndrome"
+"2" "trigonocephaly.short.stature.developmental.delay.syndrome"
+"3" "Crouzon.syndrome"

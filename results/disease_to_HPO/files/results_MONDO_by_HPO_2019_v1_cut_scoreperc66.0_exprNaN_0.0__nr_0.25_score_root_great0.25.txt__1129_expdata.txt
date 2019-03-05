@@ -1,4 +1,4 @@
-	"duodenal ulcer, hyperpepsinogenemic 1"	"familial Dupuytren contracture"	"Eng-Strom syndrome"	"tricho-dento-osseous syndrome"	"conotruncal heart malformations"	"deafness, neural, congenital moderate"
+	"duodenal ulcer due to antral G-cell hyperfunction"	"duodenal ulcer, hyperpepsinogenemic 1"	"Coffin-Siris syndrome 1"	"tremor-nystagmus-duodenal ulcer syndrome"	"hypoplasminogenemia"	"deafness-small bowel diverticulosis-neuropathy syndrome"
 "Congenital cystic adenomatoid malformation of the lung"	0.0	0.0	0.0	0.0	0.0	0.0
 "Duodenal ulcer"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hyperpepsinogenemia I"	1.0	1.0	0.0	0.0	0.0	0.0

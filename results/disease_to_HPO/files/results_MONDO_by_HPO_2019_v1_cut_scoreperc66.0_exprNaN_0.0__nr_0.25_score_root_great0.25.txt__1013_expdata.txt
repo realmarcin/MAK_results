@@ -1,4 +1,4 @@
-	"deafness, X-linked 1"	"genitopatellar syndrome"	"Joubert syndrome 8"	"exudative vitreoretinopathy 5"	"dilated cardiomyopathy 2B"
+	"X-linked mixed deafness with perilymphatic gusher"	"Diamond-Blackfan anemia 15 with mandibulofacial dysostosis"	"bilateral microtia-deafness-cleft palate syndrome"	"Diamond-Blackfan anemia 10"	"auriculocondylar syndrome 2"
 "Patent ductus arteriosus"	0.0	0.0	0.0	1.0	0.0
 "Micrognathia"	0.0	1.0	0.0	1.0	0.0
 "Short stature"	0.0	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis type 1"	"atelosteogenesis type I"	"neuronopathy, distal hereditary motor, type 7A"	"Pick disease"	"spinocerebellar ataxia type 6"	"episodic ataxia type 3"
+	"amyotrophic dystonic paraplegia"	"ataxia with fasciculations"	"muscular atrophy-ataxia-retinitis pigmentosa-diabetes mellitus syndrome"	"photomyoclonus, diabetes mellitus, deafness, nephropathy, and cerebral dysfunction"	"spinocerebellar ataxia with rigidity and peripheral neuropathy"	"episodic ataxia type 4"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Ataxia"	0.0	1.0	1.0	1.0	1.0	1.0
 "Skeletal muscle atrophy"	1.0	0.0	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"noduli Cutanei, multiple, with urinary tract abnormalities"	"hypertrophic cardiomyopathy 10"	"EIG3"	"long QT syndrome 10"	"chromosome 4q21 deletion syndrome"	"long QT syndrome 6"
+	"sick sinus syndrome 2, autosomal dominant"	"hypertrophic cardiomyopathy 8"	"hypertrophic cardiomyopathy 10"	"long QT syndrome 9"	"glycogen storage disease XV"	"hypertrophic cardiomyopathy 7"
 "Vertigo"	0.0	0.0	1.0	0.0	1.0	0.0
 "Ventricular arrhythmia"	0.0	0.0	0.0	1.0	1.0	0.0
 "Palpitations"	0.0	1.0	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"ectodermal dysplasia, trichoodontoonychial type"	"junctional epidermolysis bullosa Herlitz type"	"Troyer syndrome"	"dilated cardiomyopathy 1AA"
+	"Clouston syndrome"	"epidermolysis bullosa simplex with muscular dystrophy"	"Dorfman-Chanarin disease"	"epidermolysis bullosa simplex with pyloric atresia"
 "Strabismus"	1.0	0.0	1.0	0.0
 "Hepatomegaly"	0.0	0.0	1.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0

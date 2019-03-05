@@ -1,4 +1,4 @@
-	"metachromatic leukodystrophy, juvenile form"	"metaphyseal acroscyphodysplasia"	"epilepsy, familial focal, with variable foci 1"	"maturity-onset diabetes of the young type 4"	"hereditary spastic paraplegia 38"	"C1Q deficiency"
+	"metachromatic leukodystrophy due to saposin b deficiency"	"metachromatic leukodystrophy, juvenile form"	"hereditary spastic paraplegia 11"	"Lennox-Gastaut syndrome"	"hereditary spastic paraplegia 35"	"hereditary spastic paraplegia 48"
 "Mental deterioration"	1.0	1.0	1.0	1.0	1.0	1.0
 "Urinary incontinence"	1.0	1.0	1.0	0.0	1.0	1.0
 "Peripheral demyelination"	1.0	1.0	0.0	0.0	1.0	0.0

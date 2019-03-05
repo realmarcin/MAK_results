@@ -1,4 +1,4 @@
 "x"
-"1" "xeroderma.pigmentosum.group.G"
-"2" "curry.Jones.syndrome"
-"3" "X.linked.non.progressive.cerebellar.ataxia"
+"1" "xeroderma.pigmentosum.group.F"
+"2" "deaf.blind.hypopigmentation.syndrome..Yemenite.type"
+"3" "albinism.deafness.syndrome"

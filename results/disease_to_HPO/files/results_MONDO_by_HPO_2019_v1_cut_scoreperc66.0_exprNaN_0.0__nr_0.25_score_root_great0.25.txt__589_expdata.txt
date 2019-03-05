@@ -1,4 +1,4 @@
-	"cardiac rhythm disease"	"pleuropulmonary blastoma"	"hypomyelinating leukodystrophy 2"
+	"carcinoid syndrome"	"autosomal dominant hypocalcemia 1"	"sudden infant death-dysgenesis of the testes syndrome"
 "Laryngospasm"	0.0	1.0	1.0
 "Partial development of the penile shaft"	0.0	0.0	1.0
 "Dysplastic testes"	0.0	0.0	1.0

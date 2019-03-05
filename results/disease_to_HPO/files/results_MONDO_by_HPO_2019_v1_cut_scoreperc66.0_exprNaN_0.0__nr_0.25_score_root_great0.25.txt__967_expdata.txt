@@ -1,4 +1,4 @@
-	"hypothyroidism, congenital, nongoitrous, 5"	"microtia with meatal atresia and conductive deafness"	"mitochondrial complex V (ATP synthase) deficiency, nuclear type 1"	"congenital muscular dystrophy due to integrin alpha-7 deficiency"	"glucocorticoid resistance"	"ichthyosis, congenital, autosomal recessive 12; ARCI12"
+	"ectopia lentis et pupillae"	"microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma"	"short stature due to partial GHR deficiency"	"ichthyosis-short stature-brachydactyly-microspherophakia syndrome"	"short stature due to primary acid-labile subunit deficiency"	"anterior segment dysgenesis 8"
 "HP:0000007"	1.0	1.0	0.0	1.0	0.0	1.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0	0.0	0.0
 "High palate"	0.0	1.0	0.0	0.0	0.0	0.0

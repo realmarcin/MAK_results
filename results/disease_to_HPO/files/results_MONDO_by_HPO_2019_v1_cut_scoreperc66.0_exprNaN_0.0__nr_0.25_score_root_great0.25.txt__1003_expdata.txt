@@ -1,4 +1,4 @@
-	"cyanosis, transient neonatal"	"Joubert syndrome 30"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"	"osteopetrosis, autosomal dominant 3"
+	"intellectual disability, autosomal dominant 6"	"Skraban-Deardorff syndrome"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"	"mental retardation, autosomal dominant 58"
 "Seizures"	1.0	1.0	1.0	1.0
 "Depressed nasal bridge"	0.0	1.0	0.0	0.0
 "Full cheeks"	0.0	1.0	0.0	0.0

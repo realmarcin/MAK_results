@@ -1,4 +1,4 @@
-	"coloboma, ocular, autosomal dominant"	"acne inversa, familial, 1"	"urticaria, familial localized heat"	"periodontitis, chronic, adult"	"multiple epiphyseal dysplasia, Al-Gazali type"	"lipoprotein glomerulopathy"
+	"familial cold autoinflammatory syndrome 1"	"autosomal dominant familial periodic fever"	"Muckle-Wells syndrome"	"hyperimmunoglobulinemia D with periodic fever"	"CINCA syndrome"	"familial cold autoinflammatory syndrome 2"
 "Headache"	1.0	0.0	0.0	1.0	0.0	1.0
 "HP:0003593"	1.0	0.0	1.0	0.0	0.0	1.0
 "Arthralgia"	1.0	1.0	1.0	1.0	1.0	1.0

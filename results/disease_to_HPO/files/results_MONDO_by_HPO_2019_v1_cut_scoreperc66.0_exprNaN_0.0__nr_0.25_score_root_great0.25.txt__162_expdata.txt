@@ -1,4 +1,4 @@
-	"agenesis of the corpus callosum with peripheral neuropathy"	"apparent mineralocorticoid excess"	"Lambotte syndrome"	"neonatal diabetes mellitus with congenital hypothyroidism"	"Loeys-Dietz syndrome 4"
+	"corpus callosum, agenesis of"	"cortical blindness-intellectual disability-polydactyly syndrome"	"Lambert syndrome"	"3-methylglutaconic aciduria type 5"	"Joubert syndrome 18"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Frontal bossing"	1.0	1.0	0.0	0.0	0.0

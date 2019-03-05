@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"bilateral frontoparietal polymicrogyria"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"Cree mental retardation syndrome"	"chromosome 22q13 duplication syndrome"
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Low-set ears"	1.0	1.0	1.0	0.0
 "Cutaneous finger syndactyly"	0.0	0.0	1.0	0.0

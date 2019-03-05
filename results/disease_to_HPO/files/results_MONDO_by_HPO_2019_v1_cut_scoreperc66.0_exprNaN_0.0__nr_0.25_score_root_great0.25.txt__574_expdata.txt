@@ -1,4 +1,4 @@
-	"Wilson disease"	"Charcot-Marie-Tooth disease type 4G"	"congenital myopathy with internal nuclei and atypical cores"	"keratoconus 9"
+	"white forelock with malformations"	"temtamy preaxial brachydactyly syndrome"	"short stature-optic atrophy-Pelger-HuC+t anomaly syndrome"	"orofaciodigital syndrome 18"
 "Brachydactyly"	0.0	1.0	1.0	1.0
 "Syndactyly"	0.0	1.0	1.0	0.0
 "HP:0000007"	1.0	1.0	1.0	0.0

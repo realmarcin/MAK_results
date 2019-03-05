@@ -1,4 +1,4 @@
-	"cleidocranial dysplasia"	"deafness-vitiligo-achalasia syndrome"	"congenital nephrotic syndrome, Finnish type"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"intellectual disability, keratoconus, febrile seizures, and sinoatrial block"	"Pilarowski-Bjornsson syndrome"
+	"blepharocheilodontic syndrome 1"	"conductive deafness-ptosis-skeletal anomalies syndrome"	"nephrosis-deafness-urinary tract-digital malformations syndrome"	"Hirschsprung disease-type D brachydactyly syndrome"	"mesoaxial synostotic syndactyly with phalangeal reduction"	"blepharocheilodontic syndrome 2"
 "Hypertelorism"	1.0	0.0	0.0	0.0	0.0	1.0
 "Flat face"	1.0	0.0	0.0	0.0	0.0	1.0
 "High forehead"	1.0	0.0	0.0	0.0	0.0	1.0

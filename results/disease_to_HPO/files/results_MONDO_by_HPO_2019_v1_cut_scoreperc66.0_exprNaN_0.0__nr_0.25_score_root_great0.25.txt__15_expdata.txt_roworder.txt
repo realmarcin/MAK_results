@@ -1,4 +1,4 @@
 "x"
-"1" "Noonan.syndrome.4"
-"2" "congenital.microcephaly...severe.encephalopathy...progressive.cerebral.atrophy.syndrome"
-"3" "congenital.myasthenic.syndrome.16"
+"1" "nephrotic.syndrome..type.3"
+"2" "nephrotic.syndrome..type.9"
+"3" "nephrotic.syndrome..type.6"

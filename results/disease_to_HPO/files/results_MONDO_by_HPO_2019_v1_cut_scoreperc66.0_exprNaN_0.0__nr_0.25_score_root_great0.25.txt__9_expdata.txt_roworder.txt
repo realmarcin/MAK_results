@@ -1,4 +1,4 @@
 "x"
-"1" "Charcot.Marie.Tooth.disease.with.ptosis.and.parkinsonism"
-"2" "complement.component.7.deficiency"
-"3" "Malan.overgrowth.syndrome"
+"1" "Charcot.Marie.Tooth.disease.type.1E"
+"2" "giant.axonal.neuropathy.2"
+"3" "neuronopathy..distal.hereditary.motor..type.5B"

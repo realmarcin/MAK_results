@@ -1,4 +1,4 @@
-	"platelet aggregation, spontaneous"	"sclerocornea, autosomal dominant"	"congenital cataract-ichthyosis syndrome"	"keratosis follicularis-dwarfism-cerebral atrophy syndrome"	"xeroderma pigmentosum group B"
+	"pityriasis rubra pilaris"	"palmoplantar keratoderma-sclerodactyly syndrome"	"autosomal recessive palmoplantar keratoderma and congenital alopecia"	"keratosis follicularis spinulosa decalvans, X-linked"	"palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome"
 "Dry skin"	0.0	1.0	1.0	1.0	0.0
 "Palmoplantar keratoderma"	1.0	1.0	1.0	1.0	1.0
 "Nail dystrophy"	0.0	0.0	1.0	0.0	1.0

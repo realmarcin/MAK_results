@@ -1,4 +1,4 @@
-	"bilateral frontoparietal polymicrogyria"	"pyruvate dehydrogenase E1-beta deficiency"	"Heimler syndrome 2"	"congenital muscular dystrophy with cataracts and intellectual disability"	"neuronal intranuclear inclusion disease"
+	"Cree mental retardation syndrome"	"developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency"	"ring chromosome 14"	"autosomal recessive cutis laxa type 2d"	"chromosome 17p13.3 duplication syndrome"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	0.0	1.0

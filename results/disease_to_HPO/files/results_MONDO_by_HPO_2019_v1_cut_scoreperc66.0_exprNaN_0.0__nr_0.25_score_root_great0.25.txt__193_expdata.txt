@@ -1,4 +1,4 @@
-	"nonsyndromic congenital nail disorder 6"	"clonic hemifacial spasm"	"Fanconi anemia complementation group D2"	"Fanconi anemia complementation group A"	"glycogen storage disease due to GLUT2 deficiency"	"Roberts syndrome"	"Wiskott-Aldrich syndrome, autosomal dominant form"
+	"Cooks syndrome"	"oculoauriculovertebral spectrum with radial defects"	"Fanconi anemia complementation group C"	"Fanconi anemia complementation group D2"	"Fanconi anemia complementation group A"	"rhizomelic syndrome, Urbach type"	"Fanconi anemia complementation group E"
 "Complete duplication of thumb phalanx"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Anemic pallor"	0.0	0.0	1.0	1.0	1.0	0.0	1.0
 "Deficient excision of UV-induced pyrimidine dimers in DNA"	0.0	0.0	1.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"hypocalcified amelogenesis imperfecta"	"gingival fibromatosis-progressive deafness syndrome"	"myopathy, tubular aggregate, 2"
+	"lateral meningocele syndrome"	"Zimmermann-Laband syndrome 1"	"tall stature-intellectual disability-facial dysmorphism syndrome"
 "HP:0000006"	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	0.0
 "High palate"	1.0	1.0	0.0

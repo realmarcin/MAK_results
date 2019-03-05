@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"sarcoidosis, susceptibility to, 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"SRD5A3-CDG"	"chromosome 22q13 duplication syndrome"
 "Eczema"	0.0	0.0	1.0	0.0
 "Abnormality of skin pigmentation"	0.0	0.0	1.0	0.0
 "Cutis laxa"	0.0	0.0	1.0	0.0

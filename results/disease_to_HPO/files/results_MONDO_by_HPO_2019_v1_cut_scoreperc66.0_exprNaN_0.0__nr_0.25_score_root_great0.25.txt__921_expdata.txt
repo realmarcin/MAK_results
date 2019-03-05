@@ -1,4 +1,4 @@
-	"isolated cryptophthalmia"	"neurohypophyseal diabetes insipidus"	"Rapp-Hodgkin syndrome"	"radial ray hypoplasia-choanal atresia syndrome"	"acheiropody"	"autism susceptibility 1"	"lung cancer"	"celiac disease, susceptibility to, 1"	"cramps, familial adolescent"	"X-linked hydrocephalus with stenosis of the aqueduct of Sylvius"	"syndromic X-linked intellectual disability type 10"
+	"cryptomicrotia-brachydactyly-excess fingertip arch syndrome"	"dermo-odonto dysplasia"	"absence of fingerprints-congenital milia syndrome"	"radial hypoplasia-triphalangeal thumbs-hypospadias-maxillary diastema syndrome"	"achalasia microcephaly syndrome"	"Cooper-Jabs syndrome"	"Tel Hashomer camptodactyly syndrome"	"cataract-intellectual disability-hypogonadism syndrome"	"Costello syndrome"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"Miles-Carpenter syndrome"
 "Pectus carinatum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
 "Posteriorly rotated ears"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0
 "Ulnar deviation of finger"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0

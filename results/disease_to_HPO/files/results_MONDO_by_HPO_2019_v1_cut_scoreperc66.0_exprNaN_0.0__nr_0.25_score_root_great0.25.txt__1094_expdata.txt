@@ -1,4 +1,4 @@
-	"oculocerebrofacial syndrome, Kaufman type"	"mulibrey nanism"	"intellectual disability, X-linked 106"	"patterned macular dystrophy 2"	"growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy; GRIDHH"
+	"primary ciliary dyskinesia 1"	"mucus inspissation of respiratory tract"	"ciliary dyskinesia, primary, 36, X-linked; CILD36"	"susceptibility to respiratory infections associated with CD8alpha chain mutation"	"primary ciliary dyskinesia 35"
 "Headache"	1.0	0.0	0.0	0.0	0.0
 "Absent frontal sinuses"	1.0	0.0	0.0	0.0	0.0
 "Pneumonia"	1.0	0.0	0.0	0.0	0.0

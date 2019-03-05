@@ -1,4 +1,4 @@
-	"hypertrophic cardiomyopathy 3"	"hypertrophic cardiomyopathy 4"	"dilated cardiomyopathy 1A"	"oculoauricular syndrome"	"dilated cardiomyopathy 1EE"	"retinitis pigmentosa 45"
+	"hypertrophic cardiomyopathy 2"	"hypertrophic cardiomyopathy 3"	"hypertrophic cardiomyopathy 4"	"hypertrophic cardiomyopathy 11"	"hypertrophic cardiomyopathy 14"	"hypertrophic cardiomyopathy 9"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Arrhythmia"	0.0	0.0	0.0	1.0	0.0	0.0
 "Hypertrophic cardiomyopathy"	1.0	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"autosomal recessive cerebellar ataxia-blindness-deafness syndrome"	"congenital dyserythropoietic anemia type 4"	"epileptic encephalopathy, early infantile, 27"	"retinal dystrophy and obesity"	"osteogenesis imperfecta type 17"	"Fanconi anemia, complementation group S"
+	"infantile onset spinocerebellar ataxia"	"spastic ataxia 4"	"Perrault syndrome 5"	"progressive myoclonic epilepsy type 7"	"neuropathy, hereditary motor and sensory, type 6B"	"Charcot-Marie-Tooth disease, dominant intermediate G"
 "Nystagmus"	1.0	1.0	1.0	0.0	1.0	1.0
 "Hyporeflexia"	0.0	1.0	1.0	0.0	1.0	1.0
 "Progressive gait ataxia"	0.0	1.0	0.0	0.0	0.0	0.0

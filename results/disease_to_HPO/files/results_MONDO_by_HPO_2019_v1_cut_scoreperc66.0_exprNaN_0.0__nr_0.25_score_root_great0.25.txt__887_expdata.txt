@@ -1,4 +1,4 @@
-	"Singleton-Merten syndrome 1"	"monosodium glutamate sensitivity"	"Norum disease"	"retinitis pigmentosa inversa with deafness"	"late-adult onset retinitis pigmentosa"
+	"septooptic dysplasia"	"triple-A syndrome"	"Laurence-Moon syndrome"	"retinitis pigmentosa"	"retinitis pigmentosa-intellectual disability-deafness-hypogenitalism syndrome"
 "HP:0003812"	1.0	0.0	1.0	0.0	0.0
 "Absent septum pellucidum"	1.0	0.0	0.0	0.0	0.0
 "Esophageal atresia"	1.0	0.0	0.0	0.0	0.0

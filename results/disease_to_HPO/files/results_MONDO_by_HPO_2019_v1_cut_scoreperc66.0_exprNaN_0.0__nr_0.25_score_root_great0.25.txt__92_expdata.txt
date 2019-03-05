@@ -1,4 +1,4 @@
-	"platelet-type bleeding disorder 8"	"aortic aneurysm, familial thoracic 6"	"Diamond-Blackfan anemia-like"
+	"erythrocytosis, familial, 3"	"erythrocytosis, familial, 4"	"erythrocytosis, familial, 5"
 "HP:0000006"	1.0	1.0	0.0
 "Increased red blood cell mass"	1.0	0.0	0.0
 "Increased hematocrit"	1.0	1.0	1.0

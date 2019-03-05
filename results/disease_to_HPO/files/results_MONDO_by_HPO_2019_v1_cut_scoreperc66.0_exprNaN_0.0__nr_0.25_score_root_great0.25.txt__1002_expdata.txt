@@ -1,4 +1,4 @@
-	"xylosidase deficiency"	"Fanconi anemia complementation group N"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+	"46,XX sex reversal 2"	"holoprosencephaly 9"	"testicular anomalies with or without congenital heart disease"	"46,XX sex reversal 4"
 "Hypoplasia of the maxilla"	0.0	1.0	0.0	0.0
 "Postaxial hand polydactyly"	0.0	1.0	0.0	0.0
 "Micropenis"	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"dentin dysplasia type II"	"trichomegaly"	"acro-renal-mandibular syndrome"	"Tay-Sachs disease AB variant"	"teeth, fused"	"tooth agenesis, selective, X-linked, 1"
+	"dentin dysplasia type I"	"tricho-dento-osseous syndrome"	"Ackerman syndrome"	"taurodontism (disease)"	"taurodontia-absent teeth-sparse hair syndrome"	"taurodontism, microdontia, and dens invaginatus"
 "Frontal bossing"	0.0	1.0	0.0	0.0	0.0	0.0
 "Taurodontia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the hair"	0.0	1.0	0.0	0.0	0.0	0.0

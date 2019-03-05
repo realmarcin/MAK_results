@@ -1,4 +1,4 @@
-	"keratoconus 1"	"hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia"	"junctional epidermolysis bullosa, non-Herlitz type"	"postaxial acrofacial dysostosis"
+	"autosomal dominant keratitis-ichthyosis-deafness syndrome"	"dermatoosteolysis, Kirghizian type"	"recessive dystrophic epidermolysis bullosa"	"cutaneous porphyria"
 "Blepharitis"	0.0	0.0	1.0	1.0
 "Nail dystrophy"	1.0	1.0	1.0	0.0
 "Joint contracture of the hand"	0.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
 "x"
-"1" "neurodevelopmental.disorder.with.regression..abnormal.movements..loss.of.speech..and.seizures"
-"2" "Ehlers.Danlos.syndrome..musculocontractural.type.2"
-"3" "Kabuki.syndrome.2"
+"1" "spinocerebellar.ataxia.42..early.onset..severe..with.neurodevelopmental.deficits"
+"2" "chromosome.22q13.duplication.syndrome"
+"3" "X.linked.cerebral.cerebellar.coloboma.syndrome.syndrome"

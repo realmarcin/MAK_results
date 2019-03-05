@@ -1,4 +1,4 @@
-	"Netherton syndrome"	"colobomatous macrophthalmia-microcornea syndrome"	"primary ciliary dyskinesia 2"	"hyperinsulinemic hypoglycemia, familial, 4"	"primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency"	"brachydactyly, coloboma, and anterior segment dysgenesis"
+	"hyperinsulinemic hypoglycemia, familial, 1"	"hyperinsulinism due to glucokinase deficiency"	"hyperinsulinism-hyperammonemia syndrome"	"hyperinsulinism due to INSR deficiency"	"hyperinsulinemic hypoglycemia, familial, 4"	"exercise-induced hyperinsulinism"
 "HP:0000006"	1.0	1.0	1.0	1.0	0.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	0.0	1.0	0.0
 "Diabetes mellitus"	0.0	1.0	0.0	0.0	0.0	0.0

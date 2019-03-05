@@ -1,4 +1,4 @@
-	"polymyoclonus, infantile"	"prenatal bowing"	"Cornelia de Lange syndrome 5"	"African iron overload"	"progressive deafness with stapes fixation"
+	"postaxial polydactyly-dental and vertebral anomalies syndrome"	"urban-Rogers-Meyer syndrome"	"Baratela-Scott syndrome"	"skeletal dysplasia-epilepsy-short stature syndrome"	"rhizomelic dysplasia, Patterson-Lowry type"
 "Brachydactyly"	1.0	1.0	1.0	1.0	1.0
 "Pectus carinatum"	1.0	0.0	1.0	0.0	0.0
 "Toe syndactyly"	1.0	1.0	0.0	0.0	0.0

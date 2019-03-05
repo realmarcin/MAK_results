@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"severe combined immunodeficiency due to DCLRE1C deficiency"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Klippel-Feil syndrome 2, autosomal recessive"	"monomelic amyotrophy"
 "HP:0003745"	0.0	0.0	0.0	1.0
 "Abnormality of the immune system"	0.0	0.0	0.0	1.0
 "Tremor"	0.0	0.0	0.0	1.0

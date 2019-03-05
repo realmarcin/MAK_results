@@ -1,4 +1,4 @@
-	"erythema nodosum, familial"	"noduli Cutanei, multiple, with urinary tract abnormalities"	"long QT syndrome 10"	"histiocytoma, Angiomatoid fibrous"	"myxoid liposarcoma"
+	"aortic aneurysm, familial thoracic 4"	"sick sinus syndrome 2, autosomal dominant"	"long QT syndrome 9"	"dilated cardiomyopathy 1AA"	"long QT syndrome 13"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Left ventricular hypertrophy"	0.0	1.0	0.0	1.0	0.0
 "Aortic regurgitation"	1.0	1.0	0.0	0.0	0.0

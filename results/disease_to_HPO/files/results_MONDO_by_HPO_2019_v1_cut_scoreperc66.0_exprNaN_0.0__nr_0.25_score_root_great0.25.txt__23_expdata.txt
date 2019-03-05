@@ -1,4 +1,4 @@
-	"Kleine-Levin syndrome"	"pigmented paravenous retinochoroidal atrophy"	"Waardenburg syndrome type 2A"	"Weaver syndrome"	"multiple cutaneous and mucosal venous malformations"	"autosomal recessive limb-girdle muscular dystrophy type 2M"	"Waardenburg syndrome type 4C"	"corneal dystrophy, Fuchs endothelial, 3"
+	"Waardenburg syndrome type 3"	"piebald trait-neurologic defects syndrome"	"Waardenburg syndrome type 1"	"Waardenburg syndrome type 4A"	"Waardenburg syndrome type 2B"	"Waardenburg syndrome type 2E"	"Waardenburg syndrome type 4B"	"Waardenburg syndrome type 4C"
 "Blue irides"	1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
 "Premature graying of hair"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
 "White forelock"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

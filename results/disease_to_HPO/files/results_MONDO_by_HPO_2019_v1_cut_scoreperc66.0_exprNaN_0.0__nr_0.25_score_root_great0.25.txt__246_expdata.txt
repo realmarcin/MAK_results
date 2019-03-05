@@ -1,4 +1,4 @@
-	"pancytopenia and occlusive vascular disease"	"Cenani-Lenz syndactyly syndrome"	"chronic Epstein-Barr virus infection syndrome"	"pancreatic insufficiency, combined exocrine"	"dopa-responsive dystonia due to sepiapterin reductase deficiency"	"combined oxidative phosphorylation deficiency 36"
+	"hereditary chronic pancreatitis"	"celiac disease, susceptibility to, 1"	"Wolcott-Rallison syndrome"	"Shwachman-Diamond syndrome 1"	"pancreatic insufficiency-anemia-hyperostosis syndrome"	"Shwachman-Diamond syndrome 2"
 "Hepatomegaly"	0.0	0.0	1.0	1.0	1.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	0.0
 "Global developmental delay"	0.0	0.0	1.0	1.0	1.0	0.0

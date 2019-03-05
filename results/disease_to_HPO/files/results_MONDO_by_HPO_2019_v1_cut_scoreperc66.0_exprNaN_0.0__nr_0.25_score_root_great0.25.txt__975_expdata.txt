@@ -1,4 +1,4 @@
-	"X-linked cerebral adrenoleukodystrophy"	"lymphoma, non-Hodgkin, familial"	"intellectual disability, autosomal recessive 7"	"OPA8"	"hereditary spastic paraplegia 75"	"epileptic encephalopathy, early infantile, 54"
+	"early infantile epileptic encephalopathy 9"	"familial infantile myoclonic epilepsy"	"intellectual disability, autosomal recessive 6"	"ITPA-related encephalopathy"	"combined oxidative phosphorylation defect type 27"	"epileptic encephalopathy, early infantile, 53"
 "Opisthotonus"	0.0	0.0	0.0	0.0	1.0	0.0
 "Visual impairment"	0.0	0.0	0.0	0.0	1.0	1.0
 "Tetraparesis"	0.0	0.0	0.0	0.0	1.0	0.0

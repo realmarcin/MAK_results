@@ -1,4 +1,4 @@
-	"Goldenhar syndrome"	"isovaleric acid, inability to smell"	"pulmonary hypertension, primary, autosomal recessive"	"MPDU1-CDG"	"congenital primary aphakia"
+	"oculodentodigital dysplasia"	"isotretinoin-like syndrome"	"congenital alveolar capillary dysplasia"	"branchiogenic deafness syndrome"	"Kleefstra syndrome 1"
 "Thin anteverted nares"	1.0	1.0	0.0	0.0	0.0
 "Conotruncal defect"	0.0	1.0	0.0	0.0	1.0
 "Abnormality of the pulmonary veins"	0.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Leber congenital amaurosis 1"	"cutaneous photosensitivity-lethal colitis syndrome"	"epsilon-trimethyllysine hydroxylase deficiency"	"Cornelia de Lange syndrome 5"	"PGM3-CDG"	"retinitis pigmentosa 73"
+	"Alstrom syndrome"	"Cushing disease due to pituitary adenoma"	"Xq27.3q28 duplication syndrome"	"Baratela-Scott syndrome"	"abdominal obesity-metabolic syndrome 3"	"short stature, microcephaly, and endocrine dysfunction"
 "Hypertension"	1.0	1.0	0.0	0.0	1.0	0.0
 "Delayed skeletal maturation"	0.0	0.0	1.0	0.0	0.0	0.0
 "Polydactyly"	0.0	0.0	0.0	0.0	0.0	0.0

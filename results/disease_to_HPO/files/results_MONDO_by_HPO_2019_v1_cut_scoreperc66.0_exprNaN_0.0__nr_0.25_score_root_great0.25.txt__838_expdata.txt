@@ -1,4 +1,4 @@
-	"Lynch syndrome 1"	"congenital anomalies of kidney and urinary tract type 2"	"ptosis-vocal cord paralysis syndrome"	"Rett syndrome"	"retinitis pigmentosa 72"	"pyogenic bacterial infections due to MyD88 deficiency"
+	"uveal coloboma-cleft lip and palate-intellectual disability"	"Wagner disease"	"autosomal dominant neovascular inflammatory vitreoretinopathy"	"X-linked retinoschisis"	"exudative vitreoretinopathy 6"	"blindness - scoliosis - arachnodactyly syndrome"
 "Esotropia"	0.0	0.0	0.0	0.0	0.0	1.0
 "Cataract"	1.0	1.0	0.0	1.0	1.0	1.0
 "Retinal detachment"	1.0	0.0	1.0	1.0	1.0	1.0

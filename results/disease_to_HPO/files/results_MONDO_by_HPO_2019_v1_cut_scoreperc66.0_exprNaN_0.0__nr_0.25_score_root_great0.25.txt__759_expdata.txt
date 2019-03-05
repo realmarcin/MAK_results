@@ -1,4 +1,4 @@
-	"hypogonadotropic hypogonadism 7 with or without anosmia"	"Liddle syndrome 1"	"recessive X-linked ichthyosis"	"intellectual disability, autosomal dominant 41; MRD41"
+	"hypochondroplasia"	"pseudoachondroplasia"	"child syndrome"	"trichothiodystrophy 6, nonphotosensitive; TTD6"
 "Aplasia/hypoplasia of the extremities"	1.0	0.0	1.0	0.0
 "Childhood onset short-limb short stature"	1.0	1.0	0.0	0.0
 "Elevated 8-dehydrocholesterol"	0.0	0.0	1.0	0.0

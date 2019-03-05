@@ -1,4 +1,4 @@
-	"porencephaly-cerebellar hypoplasia-internal malformations syndrome"	"LEOPARD syndrome 3"	"neuropathy, hereditary sensory, type 1D"	"peho-like syndrome"
+	"neurofibromatosis-Noonan syndrome"	"Noonan syndrome 7"	"LEOPARD syndrome 3"	"noonan syndrome-like disorder with loose anagen hair 2"
 "Hypertelorism"	1.0	1.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Depressed nasal bridge"	1.0	1.0	1.0	0.0

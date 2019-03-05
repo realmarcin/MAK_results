@@ -1,4 +1,4 @@
-	"prolactin deficiency, isolated"	"complex cortical dysplasia with other brain malformations 5"	"Parkinson disease 22, autosomal dominant; PARK22"	"radioulnar synostosis with amegakaryocytic thrombocytopenia 2; RUSAT2"	"intellectual developmental disorder with dysmorphic facies and ptosis; IDDDFP"
+	"Wiedemann-Rautenstrauch syndrome"	"intellectual disability-facial dysmorphism syndrome due to SETD5 haploinsufficiency"	"facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation"	"macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome"	"hypotonia, ataxia, and delayed development syndrome; HADDS"
 "Synophrys"	1.0	1.0	1.0	1.0	1.0
 "Thin upper lip vermilion"	1.0	1.0	1.0	1.0	1.0
 "Deeply set eye"	1.0	0.0	1.0	0.0	1.0

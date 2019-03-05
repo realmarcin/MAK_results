@@ -1,4 +1,4 @@
-	"congenital multicore myopathy with external ophthalmoplegia"	"MYP18"	"microphthalmia, syndromic 2"	"ataxia - intellectual disability - oculomotor apraxia - cerebellar cysts syndrome"	"portal hypertension, noncirrhotic; NCPH"
+	"congenital fiber-type disproportion myopathy"	"congenital multicore myopathy with external ophthalmoplegia"	"ACLLX"	"myopathy, centronuclear, 5"	"congenital muscular dystrophy-respiratory failure-skin abnormalities-joint hyperlaxity syndrome"
 "Motor delay"	1.0	1.0	0.0	1.0	1.0
 "Facial palsy"	1.0	1.0	0.0	1.0	0.0
 "Hip contracture"	1.0	0.0	1.0	1.0	0.0

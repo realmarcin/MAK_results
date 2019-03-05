@@ -1,4 +1,4 @@
-	"dyschromatosis universalis hereditaria 1"	"spondyloepimetaphyseal dysplasia, Shohat type"	"Seckel syndrome 10"
+	"dyschromatosis symmetrica hereditaria"	"torsion dystonia with onset in infancy"	"uncombable hair syndrome 3; UHS3"
 "HP:0000006"	1.0	1.0	0.0
 "HP:0003593"	1.0	1.0	0.0
 "Torsion dystonia"	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"infantile onset spinocerebellar ataxia"	"aortic aneurysm, familial thoracic 9"	"spinal muscular atrophy with congenital bone fractures 2"	"congenital secretory sodium diarrhea 8"
+	"spinal muscular atrophy, type I, with congenital bone fractures"	"nemaline myopathy 10"	"spinal muscular atrophy with congenital bone fractures 1"	"spinal muscular atrophy with congenital bone fractures 2"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Patent ductus arteriosus"	0.0	0.0	1.0	1.0
 "Global developmental delay"	0.0	0.0	1.0	1.0

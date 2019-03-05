@@ -1,4 +1,4 @@
-	"atrioventricular septal defect 3"	"immunodeficiency, common variable, 1"	"LIPE-related familial partial lipodystrophy"
+	"macrocephaly-spastic paraplegia-dysmorphism syndrome"	"hereditary spastic paraplegia 24"	"intellectual disability, autosomal recessive 45"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0
 "Coarse facial features"	1.0	0.0	1.0

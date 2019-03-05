@@ -1,4 +1,4 @@
-	"Ehlers-Danlos syndrome, spondylocheirodysplastic type"	"Cowden syndrome 2"	"antithrombin III deficiency"
+	"THPH9"	"heparin cofactor 2 deficiency"	"hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency"
 "HP:0000006"	1.0	1.0	1.0
 "Hypercoagulability"	1.0	0.0	1.0
 "Disseminated intravascular coagulation"	0.0	1.0	0.0

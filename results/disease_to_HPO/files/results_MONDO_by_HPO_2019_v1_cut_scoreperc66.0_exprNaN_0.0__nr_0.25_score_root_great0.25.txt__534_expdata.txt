@@ -1,4 +1,4 @@
-	"Bangstad syndrome"	"osteogenesis imperfecta type 9"	"autosomal dominant nonsyndromic deafness 2A"
+	"microcephalic osteodysplastic primordial dwarfism, type 3"	"osteogenesis imperfecta type 3"	"Qazi Markouizos syndrome"
 "Dysharmonic delayed bone age"	1.0	0.0	1.0
 "Severe generalized osteoporosis"	1.0	1.0	0.0
 "Dislocation of the femoral head"	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"cervical ribs, Sprengel anomaly, anal atresia, and urethral obstruction"	"autosomal recessive nonsyndromic deafness 39"	"parathyroid gland carcinoma"	"autosomal recessive nonsyndromic deafness 49"	"autosomal recessive nonsyndromic deafness 44"	"MORM syndrome"	"atrial heart septal defect 5"	"Emery-Dreifuss muscular dystrophy 3, autosomal recessive"
+	"autosomal recessive nonsyndromic deafness 12"	"autosomal recessive nonsyndromic deafness 40"	"autosomal recessive nonsyndromic deafness 39"	"autosomal recessive nonsyndromic deafness 62"	"autosomal recessive nonsyndromic deafness 49"	"autosomal recessive nonsyndromic deafness 44"	"autosomal recessive nonsyndromic deafness 71"	"autosomal recessive nonsyndromic deafness 104"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Prelingual sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

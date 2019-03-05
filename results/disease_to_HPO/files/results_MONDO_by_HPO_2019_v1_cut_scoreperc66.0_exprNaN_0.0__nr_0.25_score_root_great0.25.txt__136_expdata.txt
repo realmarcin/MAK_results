@@ -1,4 +1,4 @@
-	"acne inversa, familial, 1"	"progressive bulbar palsy"	"epidermodysplasia verruciformis"	"periodontitis, chronic, adult"
+	"autosomal dominant familial periodic fever"	"thromboangiitis obliterans"	"eosinophilic fasciitis (disease)"	"hyperimmunoglobulinemia D with periodic fever"
 "Paresthesia"	1.0	1.0	1.0	0.0
 "Arthralgia"	1.0	1.0	1.0	1.0
 "Arthritis"	1.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"aortic aneurysm, familial abdominal, 1"	"hypotrichosis 2"	"taurodontia-absent teeth-sparse hair syndrome"	"autoimmune lymphoproliferative syndrome type 1"	"aromatase deficiency"	"DOCK2 deficiency"
+	"autosomal dominant Aarskog syndrome"	"Pallister-hall syndrome"	"Teebi-Shaltout syndrome"	"Gomez-Lopez-Hernandez syndrome"	"chromosome 6q11-q14 deletion syndrome"	"combined oxidative phosphorylation defect type 25"
 "Hypertelorism"	1.0	1.0	1.0	1.0	1.0	1.0
 "Anteverted nares"	1.0	1.0	0.0	1.0	0.0	1.0
 "Single transverse palmar crease"	1.0	0.0	1.0	0.0	1.0	0.0

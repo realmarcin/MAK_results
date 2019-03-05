@@ -1,4 +1,4 @@
-	"microcephaly-cardiomyopathy syndrome"	"fine-Lubinsky syndrome"	"autosomal recessive nonsyndromic deafness 77"	"focal segmental glomerulosclerosis 6"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13"	"primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"	"Meier-Gorlin syndrome 6"
+	"microcephaly 1, primary, autosomal recessive"	"epilepsy-microcephaly-skeletal dysplasia syndrome"	"Nijmegen breakage syndrome-like disorder"	"Perrault syndrome 3"	"intellectual disability-strabismus syndrome"	"progressive microcephaly-seizures-cortical blindness-developmental delay syndrome"	"microcephaly-congenital cataract-psoriasiform dermatitis syndrome"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Blepharitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0
 "Psoriasiform dermatitis"	0.0	0.0	0.0	0.0	0.0	0.0	1.0

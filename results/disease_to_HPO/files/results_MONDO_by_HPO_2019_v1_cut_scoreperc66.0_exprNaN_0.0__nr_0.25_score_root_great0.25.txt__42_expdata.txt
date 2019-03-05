@@ -1,4 +1,4 @@
-	"mosaic variegated aneuploidy syndrome 2"	"myofibrillar myopathy 7"	"ectodermal dysplasia 13, hair/tooth type"
+	"intellectual disability, autosomal dominant 2"	"epileptic encephalopathy, early infantile, 43; EIEE43"	"epileptic encephalopathy, early infantile, 54"
 "HP:0000006"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0

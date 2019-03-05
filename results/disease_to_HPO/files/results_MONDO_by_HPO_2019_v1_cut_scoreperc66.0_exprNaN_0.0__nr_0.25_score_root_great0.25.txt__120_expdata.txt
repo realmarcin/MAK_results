@@ -1,4 +1,4 @@
-	"angel-shaped phalango-epiphyseal dysplasia"	"Ramon syndrome"	"Dent disease type 1"	"hereditary spastic paraplegia 34"	"retinitis pigmentosa 27"	"Feingold syndrome type 2"
+	"Angelman syndrome"	"leukocyte adhesion deficiency type II"	"corpus callosum agenesis-abnormal genitalia syndrome"	"syndromic X-linked intellectual disability Najm type"	"hereditary spastic paraplegia 51"	"Pitt-Hopkins-like syndrome 2"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	0.0
 "Short stature"	0.0	1.0	1.0	1.0	1.0	0.0

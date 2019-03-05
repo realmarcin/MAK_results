@@ -1,4 +1,4 @@
-	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"Smith-McCort dysplasia 2"	"chromosome 17q21.31 duplication syndrome"
+	"craniosynostosis, Adelaide type"	"osteogenesis imperfecta type 5"	"osteogenesis imperfecta type 15"	"Gorlin-Chaudhry-Moss syndrome"
 "HP:0000007"	0.0	0.0	1.0	0.0
 "Global developmental delay"	0.0	0.0	1.0	0.0
 "Short stature"	0.0	1.0	1.0	1.0

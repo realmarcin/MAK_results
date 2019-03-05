@@ -1,4 +1,4 @@
-	"hypomandibular faciocranial dysostosis"	"nephropathy - deafness - hyperparathyroidism syndrome"	"ataxia-telangiectasia-like disorder 1"	"SLSN3"	"Senior-Loken syndrome 4"	"von Willebrand disease 2"
+	"Bartter disease type 2"	"nephronophthisis 1"	"nephronophthisis 3"	"nephronophthisis 4"	"SLSN3"	"nephronophthisis 11"
 "Polyuria"	1.0	1.0	1.0	1.0	1.0	1.0
 "Polydipsia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Renal corticomedullary cysts"	0.0	1.0	1.0	1.0	1.0	1.0

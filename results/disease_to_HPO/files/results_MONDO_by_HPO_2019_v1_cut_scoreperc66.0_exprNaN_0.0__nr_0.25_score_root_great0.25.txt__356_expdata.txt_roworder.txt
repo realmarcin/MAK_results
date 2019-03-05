@@ -1,4 +1,4 @@
 "x"
-"1" "Gorham.Stout.disease"
-"2" "Ehlers.Danlos.syndrome..periodontal.type.1"
-"3" "autosomal.recessive.faciodigitogenital.syndrome"
+"1" "Beare.Stevenson.cutis.gyrata.syndrome"
+"2" "Ehlers.Danlos.syndrome..progeroid.type.1"
+"3" "faciothoracogenital.syndrome"

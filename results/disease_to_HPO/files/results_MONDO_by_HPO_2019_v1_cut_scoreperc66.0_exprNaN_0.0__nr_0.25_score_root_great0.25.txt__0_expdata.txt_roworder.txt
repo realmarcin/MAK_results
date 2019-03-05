@@ -1,4 +1,4 @@
 "x"
-"1" "alpha.thalassemia.myelodysplastic.syndrome"
-"2" "atrial.conduction.disease"
-"3" "intellectual.developmental.disorder.with.cardiac.arrhythmia..IDDCA"
+"1" "HSD10.disease"
+"2" "intellectual.disability..autosomal.recessive.46"
+"3" "intellectual.disability.epilepsy.extrapyramidal.syndrome"

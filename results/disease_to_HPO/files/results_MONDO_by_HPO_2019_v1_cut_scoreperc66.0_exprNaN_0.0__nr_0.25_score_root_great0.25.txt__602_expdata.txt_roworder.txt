@@ -1,4 +1,4 @@
 "x"
-"1" "chromosome.17q12.deletion.syndrome"
-"2" "tracheobronchopathia.osteochondroplastica"
-"3" "epileptic.encephalopathy..early.infantile..46..EIEE46"
+"1" "chromosome.17q12.duplication.syndrome"
+"2" "esophageal.atresia.tracheoesophageal.fistula"
+"3" "Sifrim.Hitz.Weiss.syndrome..SIHIWES"

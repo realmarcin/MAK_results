@@ -1,4 +1,4 @@
-	"Aagenaes syndrome"	"endocardial fibroelastosis and coarctation of abdominal aorta"	"Bamforth-Lazarus syndrome"	"Leber hereditary optic neuropathy"	"absent tibia-polydactyly-arachnoid cyst syndrome"	"peeling skin syndrome 4"	"PHAVER syndrome"
+	"CHARGE syndrome"	"endocardial fibroelastosis"	"hypothalamic hamartomas"	"Kearns-Sayre syndrome"	"midline malformations, multiple, with limb abnormalities and hypopituitarism"	"microphthalmia with brain and digit anomalies"	"short stature-wormian bones-dextrocardia syndrome"
 "Microphthalmia"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Malar flattening"	1.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Facial asymmetry"	1.0	0.0	0.0	0.0	0.0	1.0	0.0

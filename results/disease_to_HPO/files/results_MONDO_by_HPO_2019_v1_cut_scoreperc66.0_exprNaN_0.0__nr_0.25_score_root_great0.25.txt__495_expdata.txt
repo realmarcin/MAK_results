@@ -1,4 +1,4 @@
-	"Silver-Russell syndrome"	"sebocystomatosis"	"congenital disorder of glycosylation, type i/IIx"	"Borjeson-Forssman-Lehmann syndrome"	"chromosome 2q31.1 duplication syndrome"	"schwannomatosis 2"	"intellectual disability, autosomal dominant 49"	"neurodevelopmental disorder with brain, liver, and lung abnormalities"
+	"Rubinstein-Taybi syndrome due to CREBBP mutations"	"stapes ankylosis with broad thumbs and toes"	"MGAT2-CDG"	"Bazex-Dupre-Christol syndrome"	"THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome"	"chromosome 5q12 deletion syndrome"	"intellectual disability, autosomal dominant 48"	"leukodystrophy, hypomyelinating, 17"
 "Long eyelashes"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Self-mutilation"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Low hanging columella"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

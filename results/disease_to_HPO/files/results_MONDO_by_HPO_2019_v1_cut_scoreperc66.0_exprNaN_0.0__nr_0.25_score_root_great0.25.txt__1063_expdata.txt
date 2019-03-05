@@ -1,4 +1,4 @@
-	"setting-Sun phenomenon, familial benign"	"inflammatory bowel disease 3"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
+	"craniosynostosis, Adelaide type"	"congenital amegakaryocytic thrombocytopenia"	"osteogenesis imperfecta type 5"	"Gorlin-Chaudhry-Moss syndrome"
 "Short stature"	0.0	1.0	1.0	1.0
 "Abnormality of the cardiac septa"	0.0	1.0	0.0	0.0
 "Cerebellar vermis hypoplasia"	0.0	1.0	0.0	0.0

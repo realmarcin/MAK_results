@@ -1,4 +1,4 @@
-	"LADD syndrome"	"melorheostosis"	"OSLAM syndrome"	"osteoporosis"
+	"familial congenital nasolacrimal duct obstruction"	"Melkersson-Rosenthal syndrome"	"syndromic orbital border hypoplasia"	"dacryocystitis-osteopoikilosis syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Lacrimal duct atresia"	1.0	0.0	1.0	0.0
 "Dacryocystitis"	1.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 2"	"facial paresis, hereditary congenital, 3"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3"	"congenital stationary night blindness 1G"	"cerebrooculofacioskeletal syndrome 3"	"ring chromosome 14"
+	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 1"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 2"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3"	"glioma susceptibility 9"	"14q32 duplication syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0003581"	1.0	1.0	1.0	1.0	1.0	0.0
 "HP:0003829"	1.0	1.0	1.0	1.0	1.0	1.0

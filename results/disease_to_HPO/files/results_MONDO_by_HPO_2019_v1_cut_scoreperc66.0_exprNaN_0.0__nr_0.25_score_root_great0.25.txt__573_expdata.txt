@@ -1,4 +1,4 @@
-	"acrorenal syndrome"	"brachydactyly type A3"	"brachydactyly-elbow wrist dysplasia syndrome"	"congenital nephrotic syndrome, Finnish type"	"spinocerebellar ataxia, autosomal recessive 1"
+	"acropectorovertebral dysplasia"	"brachydactyly type A2"	"multiple synostoses syndrome 1"	"nephrosis-deafness-urinary tract-digital malformations syndrome"	"acropectoral syndrome"
 "Abnormality of the thorax"	1.0	0.0	0.0	0.0	1.0
 "Pectus excavatum"	1.0	0.0	1.0	0.0	1.0
 "HP:0000006"	1.0	1.0	1.0	0.0	1.0

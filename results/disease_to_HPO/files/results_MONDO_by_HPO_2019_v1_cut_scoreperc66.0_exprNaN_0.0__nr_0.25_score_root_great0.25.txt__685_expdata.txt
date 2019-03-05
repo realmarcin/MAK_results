@@ -1,4 +1,4 @@
-	"fibrodysplasia ossificans progressiva"	"stiff-person syndrome"	"Schilder disease"	"cutis verticis gyrata, thyroid aplasia, and mental retardation"	"familial hemophagocytic lymphohistiocytosis 3"
+	"fibrinolytic defect"	"Stickler syndrome type 3"	"sucrosuria, hiatus hernia and mental retardation"	"occipital horn syndrome"	"macular degeneration, age-related, 3"
 "Long philtrum"	0.0	1.0	0.0	1.0	0.0
 "Hyperextensible skin"	1.0	0.0	0.0	1.0	1.0
 "Pectus excavatum"	0.0	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked"	"FAME3"	"testicular anomalies with or without congenital heart disease"	"pontocerebellar hypoplasia type 9"
+	"X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome"	"FWS"	"severe intellectual disability-short stature-behavioral abnormalities-facial dysmorphism syndrome"	"Seckel syndrome 8"
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

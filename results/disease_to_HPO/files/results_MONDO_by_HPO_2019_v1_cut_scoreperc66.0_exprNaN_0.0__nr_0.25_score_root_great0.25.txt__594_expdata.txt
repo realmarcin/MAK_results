@@ -1,4 +1,4 @@
-	"myotonic dystrophy type 1"	"Naegeli-Franceschetti-Jadassohn syndrome"	"parastremmatic dwarfism"	"Richieri Costa-da Silva syndrome"	"cerebral palsy, spastic quadriplegic, 1"
+	"myotonia congenita, autosomal dominant"	"cylindrical spirals myopathy"	"paramyotonia congenita of Von Eulenburg"	"myotonia congenita, autosomal recessive"	"autosomal dominant limb-girdle muscular dystrophy type 1D (DNAJB6)"
 "EMG: myotonic runs"	1.0	0.0	0.0	1.0	0.0
 "Myotonia with warm-up phenomenon"	1.0	0.0	0.0	1.0	0.0
 "Percussion myotonia"	1.0	1.0	1.0	1.0	1.0

@@ -1,4 +1,4 @@
 "x"
-"1" "intellectual.disability..autosomal.recessive.13"
-"2" "Alagille.syndrome.due.to.a.NOTCH2.point.mutation"
-"3" "growth.delay.hydrocephaly.lung.hypoplasia.syndrome"
+"1" "polymicrogyria.with.optic.nerve.hypoplasia"
+"2" "pontocerebellar.hypoplasia.type.5"
+"3" "hydrocephalus..nonsyndromic..autosomal.recessive.1"

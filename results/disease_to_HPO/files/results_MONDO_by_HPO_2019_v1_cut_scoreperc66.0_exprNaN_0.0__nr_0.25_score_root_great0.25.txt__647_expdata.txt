@@ -1,4 +1,4 @@
-	"porokeratosis 3, disseminated superficial actinic type"	"acute intermittent porphyria"	"inflammatory bowel disease 21"	"adenine phosphoribosyltransferase deficiency"	"46,XY sex reversal 9"	"progressive microcephaly-seizures-cortical blindness-developmental delay syndrome"
+	"punctate palmoplantar keratoderma type 2"	"porokeratosis 3, disseminated superficial actinic type"	"POROK6"	"POROK7"	"porokeratosis 8, disseminated superficial actinic type"	"porokeratosis 9, multiple types; POROK9"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Papule"	0.0	0.0	0.0	0.0	1.0	0.0
 "Nail dystrophy"	0.0	1.0	0.0	0.0	0.0	0.0

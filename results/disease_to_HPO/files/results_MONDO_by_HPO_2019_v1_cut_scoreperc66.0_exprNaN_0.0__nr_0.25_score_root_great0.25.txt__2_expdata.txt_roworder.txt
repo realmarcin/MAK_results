@@ -1,4 +1,4 @@
 "x"
-"1" "intellectual.disability..X.linked.46"
-"2" "testicular.anomalies.with.or.without.congenital.heart.disease"
-"3" "orofaciodigital.syndrome.XV"
+"1" "X.linked.intellectual.disability..Stocco.dos.Santos.type"
+"2" "severe.intellectual.disability.short.stature.behavioral.abnormalities.facial.dysmorphism.syndrome"
+"3" "Alazami.Yuan.syndrome..ALYUS"

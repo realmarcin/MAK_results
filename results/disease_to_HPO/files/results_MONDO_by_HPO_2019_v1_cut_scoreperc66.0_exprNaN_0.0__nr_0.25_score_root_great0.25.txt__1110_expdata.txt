@@ -1,4 +1,4 @@
-	"congenital total pulmonary venous return anomaly"	"Boomerang dysplasia"	"dentatorubral-pallidoluysian atrophy"	"Myhre syndrome"	"hyperimmunoglobulin G1(A1) syndrome"	"ophthalmomandibulomelic dysplasia"
+	"tooth agenesis, selective, 1"	"Book syndrome"	"primary failure of tooth eruption"	"graying of hair, precocious"	"HYPRPP"	"nonsyndromic congenital nail disorder 5"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Narrow palate"	0.0	1.0	0.0	0.0	0.0	0.0
 "Hypoplastic fingernail"	0.0	1.0	0.0	0.0	0.0	0.0

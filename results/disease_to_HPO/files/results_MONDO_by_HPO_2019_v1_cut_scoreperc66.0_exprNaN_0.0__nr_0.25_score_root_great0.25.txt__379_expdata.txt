@@ -1,4 +1,4 @@
-	"congenitally short costocoracoid ligament"	"hypertelorism, Teebi type"	"multiple pterygium-malignant hyperthermia syndrome"	"Lowry-MacLean syndrome"	"orofacial cleft 5"
+	"Cornelia de Lange syndrome 1"	"autosomal dominant Opitz G/BBB syndrome"	"constriction rings syndrome"	"Tessier number 4 facial cleft"	"orofacial cleft 6, susceptibility to"
 "Cleft palate"	1.0	1.0	1.0	1.0	1.0
 "Cleft upper lip"	1.0	1.0	1.0	1.0	1.0
 "Ventricular septal defect"	1.0	1.0	0.0	0.0	0.0

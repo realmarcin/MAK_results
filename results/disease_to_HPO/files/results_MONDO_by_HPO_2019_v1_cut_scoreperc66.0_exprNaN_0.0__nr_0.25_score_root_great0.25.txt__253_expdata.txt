@@ -1,4 +1,4 @@
-	"beta-ketothiolase deficiency"	"endosteal sclerosis-cerebellar hypoplasia syndrome"	"CPD2"	"Chediak-Higashi syndrome"
+	"oxoglutaricaciduria"	"isolated cerebellar hypoplasia/agenesis"	"hepatic fibrosis-renal cysts-intellectual disability syndrome"	"Griscelli syndrome type 1"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	0.0	1.0
 "Generalized hypotonia"	1.0	1.0	0.0	1.0

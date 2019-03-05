@@ -1,4 +1,4 @@
-	"anal sphincter dysplasia"	"giant neutrophil leukocytes"	"persistent hyperplastic primary vitreous, autosomal recessive"	"Unverricht-Lundborg syndrome"	"hypotrichosis-lymphedema-telangiectasia syndrome"	"myofibrillar myopathy 6"
+	"frontotemporal dementia with motor neuron disease 1"	"Gerstmann-Straussler-Scheinker syndrome"	"hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia"	"Lafora disease"	"Alzheimer disease 3"	"autosomal recessive Parkinson disease 14"
 "Apraxia"	1.0	1.0	1.0	1.0	1.0	1.0
 "HP:0003678"	1.0	1.0	1.0	1.0	1.0	1.0
 "Extrapyramidal dyskinesia"	1.0	0.0	0.0	0.0	0.0	0.0

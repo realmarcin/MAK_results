@@ -1,4 +1,4 @@
 "x"
-"1" "mesoaxial.hexadactyly.and.cardiac.malformation"
-"2" "neonatal.diabetes.mellitus.with.congenital.hypothyroidism"
-"3" "hyperinsulinemic.hypoglycemia..familial..2"
+"1" "mesangial.sclerosis..diffuse.renal..with.ocular.abnormalities"
+"2" "X3.methylglutaconic.aciduria.type.5"
+"3" "PHGDH.deficiency"

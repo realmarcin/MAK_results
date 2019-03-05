@@ -1,4 +1,4 @@
 "x"
-"1" "Galloway.Mowat.syndrome.2..X.linked"
-"2" "ectodermal.dysplasia.with.intellectual.disability.and.syndactyly"
-"3" "syringomas..multiple"
+"1" "Wiskott.Aldrich.syndrome"
+"2" "Wiskott.Aldrich.syndrome..autosomal.dominant.form"
+"3" "Blau.syndrome"

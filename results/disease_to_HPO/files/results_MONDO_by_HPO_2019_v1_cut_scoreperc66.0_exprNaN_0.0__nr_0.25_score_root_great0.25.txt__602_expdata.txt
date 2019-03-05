@@ -1,4 +1,4 @@
-	"tracheobronchopathia osteochondroplastica"	"chromosome 17q12 deletion syndrome"	"epileptic encephalopathy, early infantile, 46; EIEE46"
+	"esophageal atresia/tracheoesophageal fistula"	"chromosome 17q12 duplication syndrome"	"Sifrim-Hitz-Weiss syndrome; SIHIWES"
 "Esophageal atresia"	1.0	1.0	0.0
 "Peters anomaly"	0.0	1.0	0.0
 "Cleft soft palate"	0.0	1.0	0.0

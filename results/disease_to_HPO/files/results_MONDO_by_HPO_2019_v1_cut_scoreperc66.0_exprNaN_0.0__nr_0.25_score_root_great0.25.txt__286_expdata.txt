@@ -1,4 +1,4 @@
-	"Lewy body dementia"	"epiphyseal dysplasia, multiple, 2"	"premature ovarian failure 3"
+	"dyslexia, susceptibility to, 1"	"DYX2"	"DYX8"
 "HP:0000006"	1.0	0.0	1.0
 "HP:0001426"	0.0	0.0	1.0
 "Neurological speech impairment"	1.0	0.0	0.0

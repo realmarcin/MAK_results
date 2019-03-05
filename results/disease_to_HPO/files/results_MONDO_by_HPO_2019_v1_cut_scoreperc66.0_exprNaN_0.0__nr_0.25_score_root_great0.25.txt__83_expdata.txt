@@ -1,4 +1,4 @@
-	"lymphedema-cerebral arteriovenous anomaly syndrome"	"masticatory muscles, hypertrophy of"	"polyposis of gastric fundus without polyposis coli"	"microphthalmia-ankyloblepharon-intellectual disability syndrome"	"epilepsy, familial adult myoclonic, 5"	"Lelis syndrome"
+	"primary intestinal lymphangiectasia"	"mastocytosis"	"Cronkhite-Canada syndrome"	"Fabry disease"	"paroxysmal nocturnal hemoglobinuria 2"	"Carney triad"
 "Diarrhea"	1.0	1.0	1.0	1.0	1.0	1.0
 "Fatigue"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abdominal pain"	1.0	0.0	1.0	1.0	1.0	1.0

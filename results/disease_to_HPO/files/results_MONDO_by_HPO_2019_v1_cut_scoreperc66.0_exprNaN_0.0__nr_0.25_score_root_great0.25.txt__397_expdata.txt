@@ -1,4 +1,4 @@
-	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"OFC1"	"cutis laxa, autosomal dominant 1"	"Charcot-Marie-Tooth disease-deafness-intellectual disability syndrome"	"isolated microphthalmia 5"
+	"ankyloblepharon filiforme adnatum-cleft palate syndrome"	"autosomal dominant popliteal pterygium syndrome"	"isolated cryptophthalmia"	"CHAND syndrome"	"isolated microphthalmia 3"
 "Ankyloblepharon"	1.0	1.0	1.0	1.0	1.0
 "Intercrural pterygium"	0.0	1.0	0.0	0.0	0.0
 "Lip pit"	1.0	1.0	0.0	0.0	0.0

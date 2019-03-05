@@ -1,4 +1,4 @@
-	"channelopathy-associated congenital insensitivity to pain"	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
+	"Schimke immuno-osseous dysplasia"	"craniosynostosis, Adelaide type"	"osteogenesis imperfecta type 5"	"Gorlin-Chaudhry-Moss syndrome"
 "Intrauterine growth retardation"	1.0	0.0	0.0	0.0
 "Fine hair"	1.0	0.0	0.0	0.0
 "Bulbous nose"	1.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
 "x"
-"1" "immunodeficiency.due.to.ficolin3.deficiency"
-"2" "midface.hypoplasia..obesity..developmental.delay..and.neonatal.hypotonia"
-"3" "postural.orthostatic.tachycardia.syndrome"
+"1" "orofacial.cleft.13"
+"2" "oligodontia.cancer.predisposition.syndrome"
+"3" "tooth.agenesis..selective..3"

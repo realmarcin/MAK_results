@@ -1,4 +1,4 @@
-	"hyperlysinemia (disease)"	"X-linked retinal dysplasia"	"16p13.2 microdeletion syndrome"
+	"familial lipoprotein lipase deficiency"	"reticuloendotheliosis, X-linked"	"sideroblastic anemia 3"
 "Jaundice"	1.0	1.0	1.0
 "Hepatosplenomegaly"	1.0	1.0	1.0
 "Lactescent serum"	1.0	0.0	0.0

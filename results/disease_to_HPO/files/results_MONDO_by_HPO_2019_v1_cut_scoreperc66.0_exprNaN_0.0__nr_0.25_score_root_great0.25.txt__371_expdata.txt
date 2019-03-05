@@ -1,4 +1,4 @@
-	"autosomal dominant nocturnal frontal lobe epilepsy 1"	"periventricular heterotopia with microcephaly, autosomal recessive"	"familial temporal lobe epilepsy 4"	"FEB9"	"FTDALS3"
+	"familial temporal lobe epilepsy 1"	"familial temporal lobe epilepsy 2"	"familial temporal lobe epilepsy 3"	"familial temporal lobe epilepsy 4"	"familial temporal lobe epilepsy 7"
 "Focal seizures with impairment of consciousness or awareness"	1.0	1.0	1.0	1.0	0.0
 "Focal seizures without impairment of consciousness or awareness"	1.0	1.0	1.0	1.0	0.0
 "Auditory auras"	1.0	0.0	0.0	0.0	1.0

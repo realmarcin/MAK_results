@@ -1,4 +1,4 @@
-	"anal sphincter dysplasia"	"Dermatoleukodystrophy"	"dystrophic epidermolysis bullosa pruriginosa"	"advanced sleep phase syndrome 1"	"hydrolethalus syndrome 2"
+	"frontotemporal dementia with motor neuron disease 1"	"Nasu-Hakola disease"	"autosomal dominant cerebellar ataxia, deafness and narcolepsy"	"spinocerebellar ataxia type 12"	"hereditary sensory neuropathy-deafness-dementia syndrome"
 "Cerebral atrophy"	1.0	1.0	1.0	1.0	1.0
 "Sensorineural hearing impairment"	0.0	0.0	1.0	0.0	1.0
 "Dementia"	0.0	0.0	1.0	1.0	1.0

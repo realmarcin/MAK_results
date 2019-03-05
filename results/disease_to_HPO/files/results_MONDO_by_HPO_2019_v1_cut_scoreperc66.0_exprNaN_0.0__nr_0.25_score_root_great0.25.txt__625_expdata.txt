@@ -1,4 +1,4 @@
-	"vitelliform macular dystrophy 2"	"Fanconi anemia complementation group C"	"thumbs, congenital Clasped"	"cardiomyopathy, familial restrictive, 3"	"brachydactyly, type A1, with short stature, scoliosis, microcephaly, ptosis, hearing loss, and mental retardation"	"46,XX ovarian dysgenesis-short stature syndrome"
+	"Bernard-Soulier syndrome, type A2, autosomal dominant"	"congenital factor X deficiency"	"beta-thalassemia-X-linked thrombocytopenia syndrome"	"congenital factor XI deficiency"	"factor 5 and Factor VIII, combined deficiency of, 2"	"platelet-type bleeding disorder 19"
 "Splenomegaly"	1.0	0.0	1.0	0.0	0.0	0.0
 "Hemolytic anemia"	1.0	0.0	1.0	0.0	0.0	0.0
 "Stomatocytosis"	1.0	0.0	0.0	0.0	0.0	0.0

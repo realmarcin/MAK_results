@@ -1,4 +1,4 @@
-	"femoral-facial syndrome"	"erythema of acral regions"	"Vici syndrome"	"hypospadias 2, X-linked"	"Galloway-Mowat syndrome 2, X-linked"	"Axenfeld-Rieger syndrome type 2"
+	"Felty syndrome"	"chronic Epstein-Barr virus infection syndrome"	"Nezelof syndrome"	"Bruton-type agammaglobulinemia"	"Wiskott-Aldrich syndrome"	"autosomal agammaglobulinemia"
 "Sinusitis"	1.0	1.0	0.0	1.0	1.0	1.0
 "Pneumonia"	0.0	1.0	0.0	1.0	1.0	0.0
 "Immunodeficiency"	1.0	1.0	0.0	1.0	1.0	1.0

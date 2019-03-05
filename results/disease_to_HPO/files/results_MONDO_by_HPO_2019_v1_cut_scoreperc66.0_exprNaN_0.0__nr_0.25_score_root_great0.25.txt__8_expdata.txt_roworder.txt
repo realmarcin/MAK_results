@@ -1,4 +1,4 @@
 "x"
-"1" "fever..familial.lifelong.persistent"
-"2" "intellectual.disability.dysmorphism.hypogonadism.diabetes.mellitus.syndrome"
-"3" "hypertelorism.preauricular.sinus.punctual.pits.deafness.syndrome"
+"1" "fetal.iodine.syndrome"
+"2" "intellectual.disability..autosomal.recessive.1"
+"3" "Leber.congenital.amaurosis.16"

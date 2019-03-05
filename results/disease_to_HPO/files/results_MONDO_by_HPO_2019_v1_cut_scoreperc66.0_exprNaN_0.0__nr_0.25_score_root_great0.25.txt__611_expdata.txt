@@ -1,4 +1,4 @@
-	"ectodermal dysplasia, trichoodontoonychial type"	"distal arthrogryposis type 10"	"Wolcott-Rallison syndrome"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"macular dystrophy, X-linked"
+	"Clouston syndrome"	"temporal arteritis"	"Lowry-wood syndrome"	"ichthyosis follicularis-alopecia-photophobia syndrome"	"oculocerebrorenal syndrome"
 "Cryptorchidism"	0.0	0.0	0.0	1.0	1.0
 "Ventriculomegaly"	0.0	0.0	0.0	1.0	1.0
 "Inguinal hernia"	0.0	0.0	0.0	1.0	1.0

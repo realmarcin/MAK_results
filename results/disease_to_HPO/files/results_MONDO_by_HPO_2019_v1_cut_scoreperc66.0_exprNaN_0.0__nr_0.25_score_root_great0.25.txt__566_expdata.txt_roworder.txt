@@ -1,4 +1,4 @@
 "x"
-"1" "ankyloblepharon.ectodermal.defects.cleft.lip.palate.syndrome"
-"2" "hereditary.cryohydrocytosis.with.reduced.stomatin"
-"3" "ragweed.sensitivity"
+"1" "ankyloblepharon.filiforme.adnatum.cleft.palate.syndrome"
+"2" "orofacial.cleft.5"
+"3" "radius..aplasia.of..with.cleft.lip.palate"

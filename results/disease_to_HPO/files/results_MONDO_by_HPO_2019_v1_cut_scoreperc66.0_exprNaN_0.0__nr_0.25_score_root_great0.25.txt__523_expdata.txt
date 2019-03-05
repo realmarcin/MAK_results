@@ -1,4 +1,4 @@
-	"Balkan nephropathy"	"congenital lactic acidosis, Saguenay-Lac-Saint-Jean type"	"D-glyceric aciduria"	"Acrootoocular syndrome"	"absent radius-anogenital anomalies syndrome"
+	"mitochondrial complex III deficiency nuclear type 1"	"cytochrome-c oxidase deficiency disease"	"congenital lactic acidosis, Saguenay-Lac-Saint-Jean type"	"peroxisomal acyl-CoA oxidase deficiency"	"pyruvate dehydrogenase E1-alpha deficiency"
 "Seizures"	1.0	1.0	1.0	1.0	1.0
 "Muscular hypotonia"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0

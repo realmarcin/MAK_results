@@ -1,4 +1,4 @@
 "x"
-"1" "X.linked.myopathy.with.excessive.autophagy"
-"2" "Cole.Carpenter.syndrome.1"
-"3" "Kasabach.Merritt.syndrome"
+"1" "X.linked.centronuclear.myopathy"
+"2" "blue.rubber.bleb.nevus"
+"3" "hemangiomas.of.small.intestine"

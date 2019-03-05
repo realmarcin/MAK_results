@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"autosomal recessive limb-girdle muscular dystrophy type 2L"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
+	"amyotrophic lateral sclerosis type 1"	"spastic ataxia 2"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Hypodontia"	0.0	1.0	0.0	0.0
 "Spasticity"	1.0	1.0	0.0	1.0

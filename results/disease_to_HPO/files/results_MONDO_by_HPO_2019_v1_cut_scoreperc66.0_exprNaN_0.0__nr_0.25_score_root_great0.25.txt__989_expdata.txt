@@ -1,4 +1,4 @@
-	"upper limb mesomelic dysplasia"	"Roberts syndrome"	"proximal myopathy with focal depletion of mitochondria"	"nephropathy, progressive tubulointerstitial, with cholestatic liver disease"	"hypokalemic periodic paralysis, type 2"
+	"ulna metaphyseal dysplasia syndrome"	"rhizomelic syndrome, Urbach type"	"Satoyoshi syndrome"	"spondyloepimetaphyseal dysplasia, Missouri type"	"brachydactylous dwarfism, Mseleni type"
 "Pes planus"	0.0	0.0	1.0	0.0	0.0
 "HP:0001596"	0.0	0.0	1.0	0.0	0.0
 "Short stature"	1.0	0.0	1.0	1.0	1.0

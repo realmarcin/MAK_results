@@ -1,4 +1,4 @@
-	"familial pancreatic carcinoma"	"tyrosinemia type I"	"microcephaly 3, primary, autosomal recessive"	"Diamond-Blackfan anemia 15 with mandibulofacial dysostosis"	"craniosynostosis 7"
+	"parkinsonian-pyramidal syndrome"	"tyrosinemia type II"	"Huntington disease-like 3"	"neuroferritinopathy"	"Lopes-Maciel-Rodan syndrome"
 "Dystonia"	1.0	0.0	1.0	1.0	1.0
 "Spasticity"	1.0	0.0	1.0	1.0	1.0
 "Tremor"	1.0	1.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"juvenile nephropathic cystinosis"	"glycogen storage disease due to glucose-6-phosphatase deficiency type IB"	"glycogen storage disease IC"	"glycogen storage disease II"	"nemaline myopathy 2"
+	"cystinosis, nephropathic"	"glycogen storage disease due to glucose-6-phosphatase deficiency type IA"	"glycogen storage disease due to glucose-6-phosphatase deficiency type IB"	"glycogen storage disease IC"	"nail-patella-like renal disease"
 "Osteoporosis"	0.0	1.0	1.0	0.0	0.0
 "Recurrent bacterial infections"	0.0	0.0	1.0	0.0	0.0
 "Decreased muscle mass"	0.0	1.0	0.0	0.0	0.0

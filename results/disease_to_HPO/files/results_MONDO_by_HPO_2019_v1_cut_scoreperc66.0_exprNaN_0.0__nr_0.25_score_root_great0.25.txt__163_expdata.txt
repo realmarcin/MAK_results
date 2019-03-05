@@ -1,4 +1,4 @@
-	"bone pain, periodic"	"Huntington disease-like 2"	"combined immunodeficiency with faciooculoskeletal anomalies"	"epileptic encephalopathy, early infantile, 13"
+	"diaphyseal medullary stenosis-bone malignancy syndrome"	"Ehlers-Danlos syndrome due to tenascin-X deficiency"	"congenital generalized lipodystrophy type 4"	"Ehlers-Danlos syndrome, kyphoscoliotic and deafness type"
 "Hyperextensible skin"	0.0	1.0	0.0	1.0
 "Soft skin"	1.0	1.0	0.0	1.0
 "Osteopenia"	1.0	0.0	1.0	1.0

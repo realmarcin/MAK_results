@@ -1,4 +1,4 @@
-	"chylomicronemia, familial, due to circulating inhibitor of lipoprotein lipase"	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 1"	"eosinophilia, familial"	"posterior column ataxia"	"amyotrophic lateral sclerosis type 3"	"autosomal dominant auditory neuropathy 1"
+	"paroxysmal nonkinesigenic dyskinesia 1"	"Edinburgh malformation syndrome"	"Camurati-Engelmann disease"	"postaxial tetramelic oligodactyly"	"Camurati-Engelmann disease, type 2"	"arthrogryposis-severe scoliosis syndrome"
 "Single transverse palmar crease"	0.0	0.0	0.0	1.0	0.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	1.0
 "Scoliosis"	0.0	0.0	1.0	0.0	0.0	1.0

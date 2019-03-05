@@ -1,4 +1,4 @@
-	"Crouzon syndrome"	"Silver-Russell syndrome"	"peroxisome biogenesis disorder 1A (Zellweger)"	"autosomal dominant nonsyndromic deafness 18"	"epilepsy, familial adult myoclonic, 2"	"distal myopathy with posterior leg and anterior hand involvement"
+	"Cri-du-chat syndrome"	"Rubinstein-Taybi syndrome due to CREBBP mutations"	"cerebrofaciothoracic dysplasia"	"transaldolase deficiency"	"chromosome 1p36 deletion syndrome"	"N-acetylaspartate deficiency"
 "Self-mutilation"	1.0	1.0	1.0	0.0	1.0	1.0
 "Facial grimacing"	1.0	1.0	0.0	0.0	0.0	0.0
 "Abnormality of the kidney"	1.0	1.0	1.0	1.0	1.0	0.0

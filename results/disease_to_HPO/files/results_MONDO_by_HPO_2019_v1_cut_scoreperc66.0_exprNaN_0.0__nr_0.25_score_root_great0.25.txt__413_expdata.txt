@@ -1,4 +1,4 @@
-	"aggressive periodontitis"	"mitochondrial DNA depletion syndrome 9"	"orofaciodigital syndrome IX"	"Mounier-Kuhn syndrome"
+	"normokalemic periodic paralysis"	"pyruvate dehydrogenase E3-binding protein deficiency"	"orofaciodigital syndrome IV"	"tongue, pigmented fungiform papillae of"
 "Hypertelorism"	0.0	1.0	1.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Pectus excavatum"	0.0	1.0	1.0	0.0

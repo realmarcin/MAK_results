@@ -1,4 +1,4 @@
 "x"
-"1" "steatocystoma.multiplex.natal.teeth.syndrome"
-"2" "nemaline.myopathy.9"
-"3" "retinitis.pigmentosa.juvenile.cataract.short.stature.intellectual.disability.syndrome"
+"1" "sebocystomatosis"
+"2" "pachyonychia.congenita.4"
+"3" "psoriasis.15..pustular..susceptibility.to"

@@ -1,4 +1,4 @@
-	"Takayasu arteritis"	"Charcot-Marie-Tooth disease X-linked dominant 1"	"DFNY1"	"cone-rod dystrophy 1"
+	"anus, imperforate"	"cerebral sclerosis, diffuse, scholz type"	"retinitis pigmentosa Y-linked"	"setting-Sun phenomenon, familial benign"
 "HP:0001417"	1.0	1.0	0.0	0.0
 "Hearing impairment"	1.0	1.0	0.0	0.0
 "HP:0003621"	0.0	1.0	0.0	0.0

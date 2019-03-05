@@ -1,4 +1,4 @@
-	"xeroderma pigmentosum, autosomal dominant, mild"	"isolated anencephaly/exencephaly"	"cholesterol pneumonia"	"congenital sucrase-isomaltase deficiency"	"anemia, congenital dyserythropoietic, type 1a"	"Mowat-Wilson syndrome"	"autosomal dominant Parkinson disease 4"	"primary ciliary dyskinesia 7"	"Reynolds syndrome"
+	"dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema"	"anemia, nonspherocytic hemolytic, possibly due to defect 1N porphyrin metabolism"	"cholestasis with gallstone, ataxia, and visual disturbance"	"hemolytic anemia due to diphosphoglycerate mutase deficiency"	"congenital dyserythropoietic anemia type 2"	"non-spherocytic hemolytic anemia due to hexokinase deficiency"	"benign recurrent intrahepatic cholestasis type 2"	"glycogen storage disease due to aldolase A deficiency"	"hemolytic anemia due to glucophosphate isomerase deficiency"
 "Nonspherocytic hemolytic anemia"	0.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0
 "Abnormality of metabolism/homeostasis"	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0
 "Cholelithiasis"	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0

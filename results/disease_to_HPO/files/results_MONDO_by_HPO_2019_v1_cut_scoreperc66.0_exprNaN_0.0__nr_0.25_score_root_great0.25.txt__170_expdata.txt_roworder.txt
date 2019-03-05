@@ -1,4 +1,4 @@
 "x"
-"1" "Leber.congenital.amaurosis.2"
-"2" "amaurosis.hypertrichosis.syndrome"
-"3" "reticular.dystrophy.of.retinal.pigment.epithelium"
+"1" "Leber.congenital.amaurosis.1"
+"2" "Leber.congenital.amaurosis.2"
+"3" "proximal.renal.tubular.acidosis"

@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"giant axonal neuropathy 1"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
+	"amyotrophic lateral sclerosis type 1"	"hereditary sensory and autonomic neuropathy with spastic paraplegia"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"
 "HP:0012332"	0.0	1.0	0.0	0.0
 "Decreased motor nerve conduction velocity"	0.0	1.0	0.0	0.0
 "Abnormality of the foot"	0.0	1.0	0.0	0.0

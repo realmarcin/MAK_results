@@ -1,4 +1,4 @@
-	"isolated growth hormone deficiency type II"	"ABri amyloidosis"	"Jumping Frenchmen of Maine"	"schizencephaly"	"ulna hypoplasia-intellectual disability syndrome"
+	"pilonidal sinus (disease)"	"Currarino triad"	"Joubert syndrome with oculorenal defect"	"Schinzel-Giedion syndrome"	"phocomelia, Schinzel type"
 "Pilonidal sinus"	1.0	0.0	0.0	0.0	1.0
 "Occipital meningocele"	0.0	0.0	1.0	0.0	1.0
 "Aplasia/Hypoplasia of the pubic bone"	0.0	0.0	0.0	1.0	1.0

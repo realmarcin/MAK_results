@@ -1,4 +1,4 @@
-	"retinitis pigmentosa 29"	"epileptic encephalopathy, early infantile, 11"	"infantile cerebellar-retinal degeneration"	"basal ganglia calcification, idiopathic, 4"	"premature ovarian failure 14"
+	"epileptic encephalopathy, early infantile, 4"	"KCNQ2-related epileptic encephalopathy"	"epileptic encephalopathy, early infantile, 13"	"epileptic encephalopathy, early infantile, 15"	"epileptic encephalopathy, infantile or early childhood, 3"
 "Generalized tonic seizures"	1.0	1.0	0.0	0.0	0.0
 "Spastic tetraparesis"	0.0	1.0	0.0	0.0	1.0
 "Hypsarrhythmia"	1.0	1.0	0.0	1.0	1.0

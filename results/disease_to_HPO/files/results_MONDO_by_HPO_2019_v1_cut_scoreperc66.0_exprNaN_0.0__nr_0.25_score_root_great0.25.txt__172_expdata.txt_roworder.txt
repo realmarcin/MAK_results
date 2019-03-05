@@ -1,4 +1,4 @@
 "x"
-"1" "chromosome.1p36.deletion.syndrome"
-"2" "emphysema..hereditary.pulmonary"
-"3" "Oguchi.disease.1"
+"1" "caudal.duplication"
+"2" "Beckwith.Wiedemann.syndrome"
+"3" "cloacal.exstrophy..disease."

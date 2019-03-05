@@ -1,4 +1,4 @@
-	"Loeys-Dietz syndrome 1"	"hypogonadotropic hypogonadism 8 with or without anosmia"	"complex cortical dysplasia with other brain malformations 2"	"L-ferritin deficiency"	"hereditary spastic paraplegia 61"	"nephronophthisis 20"
+	"MPDU1-CDG"	"bilateral generalized polymicrogyria"	"hypomyelination with brain stem and spinal cord involvement and leg spasticity"	"microcephaly-thin corpus callosum-intellectual disability syndrome"	"hereditary spastic paraplegia 64"	"intellectual disability, autosomal recessive 58; MRT58"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Dry skin"	1.0	0.0	0.0	0.0	0.0	0.0
 "Cognitive impairment"	1.0	0.0	0.0	0.0	0.0	0.0

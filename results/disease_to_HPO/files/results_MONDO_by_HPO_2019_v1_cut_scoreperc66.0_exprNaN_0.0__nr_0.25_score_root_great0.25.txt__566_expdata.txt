@@ -1,4 +1,4 @@
-	"ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"	"ragweed sensitivity"	"hereditary cryohydrocytosis with reduced stomatin"
+	"ankyloblepharon filiforme adnatum-cleft palate syndrome"	"radius, aplasia of, with cleft lip/palate"	"orofacial cleft 5"
 "Cleft palate"	1.0	1.0	1.0
 "Cleft upper lip"	1.0	1.0	1.0
 "HP:0000006"	1.0	0.0	1.0

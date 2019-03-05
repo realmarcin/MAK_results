@@ -1,4 +1,4 @@
-	"ENUR1"	"KTCN5"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 7"	"neurodevelopmental disorder with cerebellar atrophy and with or without seizures"
+	"UV-sensitive syndrome 1"	"UV-sensitive syndrome 2"	"UV-sensitive syndrome 3"	"protoporphyria, erythropoietic, 2"
 "HP:0000007"	1.0	1.0	1.0	0.0
 "HP:0003593"	1.0	1.0	1.0	1.0
 "Dry skin"	1.0	0.0	1.0	0.0

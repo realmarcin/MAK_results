@@ -1,4 +1,4 @@
-	"Sakati-Nyhan syndrome"	"acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome"	"Hennekam-Beemer syndrome"	"macrocephaly-spastic paraplegia-dysmorphism syndrome"	"spinocerebellar ataxia type 18"	"autosomal recessive limb-girdle muscular dystrophy type 2K"
+	"neurofibromatosis type 2"	"chorea-acanthocytosis"	"mast syndrome"	"semantic dementia"	"spinocerebellar ataxia type 21"	"spinocerebellar ataxia type 27"
 "Orofacial dyskinesia"	0.0	1.0	0.0	0.0	0.0	1.0
 "Abnormality of the thyroid gland"	0.0	1.0	0.0	0.0	0.0	0.0
 "Death in early adulthood"	0.0	1.0	0.0	0.0	0.0	0.0

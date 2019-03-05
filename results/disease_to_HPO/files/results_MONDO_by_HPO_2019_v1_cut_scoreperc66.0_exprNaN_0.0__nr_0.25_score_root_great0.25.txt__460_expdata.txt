@@ -1,4 +1,4 @@
-	"antecubital pterygium syndrome"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"	"Werdnig-Hoffmann disease"	"3MC syndrome 2"	"pyruvate dehydrogenase E1-alpha deficiency"	"premature aging syndrome, Okamoto type"
+	"autosomal dominant multiple pterygium syndrome"	"scapuloperoneal spinal muscular atrophy"	"lethal multiple pterygium syndrome"	"autosomal recessive multiple pterygium syndrome"	"X-linked lethal multiple pterygium syndrome"	"Spondylospinal thoracic dysostosis"
 "Multiple pterygia"	1.0	0.0	1.0	1.0	1.0	1.0
 "Amyoplasia"	0.0	1.0	1.0	0.0	1.0	0.0
 "Hypoplastic heart"	0.0	0.0	1.0	0.0	1.0	0.0

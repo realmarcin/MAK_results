@@ -1,4 +1,4 @@
-	"conductive deafness-ptosis-skeletal anomalies syndrome"	"histidinuria due to a renal tubular defect"	"familial lipochrome histiocytosis"	"Sandhoff disease"	"acroosteolysis-keloid-like lesions-premature aging syndrome"	"intellectual disability, autosomal recessive 42"
+	"conductive deafness-malformed external ear syndrome"	"histidinemia"	"histidinuria due to a renal tubular defect"	"saccharopinuria"	"premature aging syndrome, Okamoto type"	"short stature with microcephaly and distinctive facies"
 "Histidinuria"	0.0	1.0	1.0	1.0	0.0	0.0
 "Rounded middle phalanx of finger"	0.0	0.0	1.0	0.0	0.0	0.0
 "Impaired histidine renal tubular absorption"	0.0	0.0	1.0	0.0	0.0	0.0

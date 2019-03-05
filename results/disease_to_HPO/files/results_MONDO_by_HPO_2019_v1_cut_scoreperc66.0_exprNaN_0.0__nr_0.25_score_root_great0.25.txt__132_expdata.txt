@@ -1,4 +1,4 @@
-	"Waardenburg syndrome type 2D"	"severe early-onset pulmonary alveolar proteinosis due to MARS deficiency"	"melanoma, cutaneous malignant, susceptibility to, 10"	"isolated neonatal sclerosing cholangitis"
+	"hereditary cryohydrocytosis with reduced stomatin"	"severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome"	"Aicardi-Goutieres syndrome 7"	"neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination"
 "Microcephaly"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	1.0

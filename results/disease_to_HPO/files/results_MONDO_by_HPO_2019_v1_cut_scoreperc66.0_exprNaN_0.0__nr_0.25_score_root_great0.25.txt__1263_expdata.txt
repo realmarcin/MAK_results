@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"	"autosomal recessive cutis laxa type 2d"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"chromosome 22q13 duplication syndrome"	"autosomal recessive cutis laxa type 2c"
 "Aortic regurgitation"	0.0	0.0	0.0	1.0
 "Knee flexion contracture"	0.0	0.0	0.0	1.0
 "Hip dysplasia"	0.0	0.0	0.0	1.0

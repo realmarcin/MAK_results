@@ -1,4 +1,4 @@
-	"anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome"	"NYS5"	"Joubert syndrome 13"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 2"	"facial paresis, hereditary congenital, 3"	"ring chromosome 14"
+	"X-linked severe congenital neutropenia"	"immunodeficiency without anhidrotic ectodermal dysplasia"	"monocytopenia with susceptibility to infections"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 1"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 2"	"14q32 duplication syndrome"
 "Recurrent mycobacterium avium complex infections"	0.0	1.0	1.0	0.0	0.0	0.0
 "Abnormal natural killer morphology"	0.0	0.0	1.0	0.0	0.0	0.0
 "Monocytopenia"	1.0	0.0	1.0	0.0	0.0	0.0

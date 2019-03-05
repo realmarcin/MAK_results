@@ -1,4 +1,4 @@
 "x"
-"1" "hyper.IgM.syndrome.type.3"
-"2" "juvenile.idiopathic.arthritis"
-"3" "posterior.column.ataxia"
+"1" "Cardioneuromyopathy.with.hyaline.masses.and.nemaline.rods"
+"2" "deafness.hypogonadism.syndrome"
+"3" "postaxial.tetramelic.oligodactyly"

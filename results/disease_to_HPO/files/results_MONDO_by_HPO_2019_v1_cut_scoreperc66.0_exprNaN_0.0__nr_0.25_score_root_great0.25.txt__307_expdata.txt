@@ -1,4 +1,4 @@
-	"autosomal dominant medullary cystic kidney disease with or without hyperuricemia"	"pseudoarthrogryposis"	"CCAL1"	"Wiedemann-Steiner syndrome"	"hereditary spastic paraplegia 36"
+	"polycystic kidney disease 1"	"Liddle syndrome 1"	"polycystic kidney disease 3"	"pseudohyperaldosteronism type 2"	"polycystic kidney disease 2"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Hypertension"	1.0	1.0	1.0	1.0	1.0
 "Decreased circulating renin level"	0.0	1.0	0.0	1.0	0.0

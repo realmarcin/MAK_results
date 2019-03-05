@@ -1,4 +1,4 @@
 "x"
-"1" "childhood.hypophosphatasia"
-"2" "hypophosphatemia..renal..with.intracerebral.calcifications"
-"3" "granulomatous.disease..chronic..autosomal.dominant.type"
+"1" "infantile.hypophosphatasia"
+"2" "childhood.hypophosphatasia"
+"3" "Grant.syndrome"

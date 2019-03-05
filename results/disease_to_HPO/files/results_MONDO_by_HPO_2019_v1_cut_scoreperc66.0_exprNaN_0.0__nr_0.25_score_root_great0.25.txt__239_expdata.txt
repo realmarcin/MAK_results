@@ -1,4 +1,4 @@
-	"thyroid dyshormonogenesis 6"	"primary ciliary dyskinesia 3"	"hyperproinsulinemia"	"autosomal recessive limb-girdle muscular dystrophy type 2W"	"combined oxidative phosphorylation defect type 30"	"amelogenesis imperfecta, type Ij; AI1J"	"intellectual disability, autosomal dominant 45"
+	"Amish lethal microcephaly"	"aromatic L-amino acid decarboxylase deficiency"	"lissencephaly 6 with microcephaly"	"severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome"	"intellectual disability, autosomal dominant 42"	"spastic paraplegia, intellectual disability, nystagmus, and obesity;"	"epileptic encephalopathy, early infantile, 55"
 "Partial agenesis of the corpus callosum"	1.0	0.0	1.0	1.0	0.0	1.0	0.0
 "Temperature instability"	1.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Limb hypertonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0

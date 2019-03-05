@@ -1,4 +1,4 @@
-	"MHC class II deficiency"	"Matthew-wood syndrome"	"myofibrillar myopathy 2"	"platelet-type bleeding disorder 15"
+	"Bardet-Biedl syndrome 1"	"muscular dystrophy, congenital, with severe central nervous system atrophy and absence of large myelinated fibers"	"leukoencephalopathy, arthritis, colitis, and hypogammaglobulinema"	"cobblestone lissencephaly without muscular or ocular involvement"
 "CNS hypomyelination"	0.0	1.0	1.0	0.0
 "Cerebral hypomyelination"	0.0	1.0	1.0	0.0
 "Severe global developmental delay"	0.0	1.0	1.0	1.0

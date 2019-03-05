@@ -1,4 +1,4 @@
-	"sitosterolemia"	"essential fructosuria"	"holocarboxylase synthetase deficiency"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A3"	"MOGS-CDG"
+	"3-methylcrotonyl-CoA carboxylase 2 deficiency"	"fructose-1,6-bisphosphatase deficiency"	"biotinidase deficiency"	"holocarboxylase synthetase deficiency"	"propionic acidemia"
 "HP:0001596"	1.0	0.0	1.0	1.0	0.0
 "Skin rash"	0.0	0.0	1.0	1.0	0.0
 "Apnea"	0.0	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"cerebral sarcoma"	"hereditary spastic paraplegia 54"	"Paget disease of bone 6; PDB6"	"spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy"	"ovarian dysgenesis 5"
+	"Sotos syndrome 1"	"autism, susceptibility to, 18"	"Luscan-Lumish syndrome; LLs"	"Gabriele de Vries syndrome"	"Pilarowski-Bjornsson syndrome"
 "Downslanted palpebral fissures"	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0
 "Seizures"	1.0	1.0	1.0	0.0	1.0

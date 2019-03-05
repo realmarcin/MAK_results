@@ -1,4 +1,4 @@
-	"MAFD1"	"pycnodysostosis"	"complex cortical dysplasia with other brain malformations 6"	"cerebellar-facial-dental syndrome"
+	"deoxyribose-5-phosphate aldolase deficiency"	"pulmonic stenosis (disease)"	"atrial fibrillation, familial, 15"	"chronic atrial and intestinal dysrhythmia"
 "HP:0000007"	0.0	0.0	1.0	1.0
 "Pulmonic stenosis"	0.0	1.0	0.0	1.0
 "Bicuspid aortic valve"	0.0	0.0	0.0	1.0

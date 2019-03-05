@@ -1,4 +1,4 @@
-	"holoprosencephaly 1"	"osteopenia-intellectual disability-sparse hair syndrome"	"hereditary spastic paraplegia 8"	"congenital disorder of glycosylation, type IIq"
+	"classic Hodgkin lymphoma"	"chronic recurrent multifocal osteomyelitis (disease)"	"Omenn syndrome"	"isolated neonatal sclerosing cholangitis"
 "Fatigue"	1.0	1.0	0.0	0.0
 "Skin rash"	1.0	1.0	0.0	0.0
 "Pruritus"	1.0	1.0	1.0	1.0

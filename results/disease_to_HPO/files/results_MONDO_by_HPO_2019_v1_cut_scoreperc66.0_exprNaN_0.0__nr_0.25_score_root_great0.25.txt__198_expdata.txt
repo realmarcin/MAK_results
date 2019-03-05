@@ -1,4 +1,4 @@
-	"duodenal ulcer due to antral G-cell hyperfunction"	"focal facial dermal dysplasia type I"	"myopathy, granulovacuolar lobular, with electrical myotonia"	"Smith-McCort dysplasia 1"	"transketolase deficiency"
+	"Duane syndrome type 1"	"familial congenital palsy of trochlear nerve"	"Carey-Fineman-Ziter syndrome"	"Duane-radial ray syndrome"	"Duane retraction syndrome 3 with or without deafness"
 "Impaired ocular adduction"	1.0	1.0	0.0	1.0	1.0
 "Impaired convergence"	1.0	0.0	0.0	1.0	0.0
 "Impaired ocular abduction"	1.0	0.0	1.0	1.0	1.0

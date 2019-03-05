@@ -1,4 +1,4 @@
-	"NYS4"	"congenital bilateral aplasia of vas deferens from CFTR mutation"	"Von Willebrand disease, X-linked form"	"holoprosencephaly 7"	"Potocki-Lupski syndrome"	"severe combined immunodeficiency due to DNA-PKcs deficiency"
+	"VUR1"	"retinal ischemic syndrome-digestive tract small vessel hyalinosis-diffuse cerebral calcifications syndrome"	"vesicoureteral reflux, X-linked"	"congenital anomalies of kidney and urinary tract 1, susceptibility to"	"vesicoureteral reflux 2"	"vesicoureteral reflux 8"
 "HP:0000007"	0.0	1.0	0.0	0.0	0.0	0.0
 "HP:0000006"	0.0	0.0	0.0	1.0	1.0	1.0
 "Vesicoureteral reflux"	1.0	0.0	1.0	1.0	1.0	1.0

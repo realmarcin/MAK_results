@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"Tel Hashomer camptodactyly syndrome"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"camptodactyly with fibrous tissue hyperplasia and skeletal dysplasia"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "HP:0000007"	0.0	1.0	0.0	0.0
 "Patent ductus arteriosus"	0.0	1.0	0.0	0.0
 "Arachnodactyly"	0.0	1.0	0.0	0.0

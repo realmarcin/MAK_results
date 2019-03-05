@@ -1,4 +1,4 @@
 "x"
-"1" "Say.Barber.Miller.syndrome"
-"2" "AREDYLD.syndrome"
-"3" "MMVP3"
+"1" "microcephaly.micromelia.syndrome"
+"2" "XK.aprosencephaly"
+"3" "Fanconi.anemia.complementation.group.N"

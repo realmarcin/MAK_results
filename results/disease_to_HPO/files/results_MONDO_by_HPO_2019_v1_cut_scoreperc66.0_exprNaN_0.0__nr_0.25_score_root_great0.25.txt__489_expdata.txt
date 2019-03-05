@@ -1,4 +1,4 @@
-	"Bjornstad syndrome"	"myofibrillar myopathy 2"	"keratosis palmoplantaris striata 2"	"autoinflammation-PLCG2-associated antibody deficiency-immune dysregulation"
+	"pili torti-developmental delay-neurological abnormalities syndrome"	"leukoencephalopathy, arthritis, colitis, and hypogammaglobulinema"	"cerebral palsy, spastic quadriplegic, 2"	"peroxisome biogenesis disorder 8B"
 "HP:0000007"	0.0	1.0	0.0	1.0
 "Failure to thrive"	0.0	1.0	0.0	1.0
 "Dysphagia"	0.0	1.0	0.0	1.0

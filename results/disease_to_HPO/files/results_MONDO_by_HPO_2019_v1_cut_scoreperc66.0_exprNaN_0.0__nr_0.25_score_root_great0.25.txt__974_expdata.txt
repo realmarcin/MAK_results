@@ -1,4 +1,4 @@
-	"cleidocranial dysplasia, recessive form"	"syndactyly type 8"	"Chitotriosidase deficiency"	"retinitis pigmentosa 61"	"STAT3-related early-onset multisystem autoimmune disease"	"congenital myasthenic syndrome 17"	"Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome"
+	"cleft palate-stapes fixation-oligodontia syndrome"	"skeletal dysplasia-intellectual disability syndrome"	"hydrolethalus syndrome 2"	"Meckel syndrome, type 10"	"orofaciodigital syndrome type 14"	"short-rib thoracic dysplasia 13 with or without polydactyly"	"short-rib thoracic dysplasia 14 with polydactyly"
 "Abducens palsy"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "Postaxial polydactyly"	0.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Molar tooth sign on MRI"	0.0	0.0	1.0	1.0	1.0	1.0	1.0

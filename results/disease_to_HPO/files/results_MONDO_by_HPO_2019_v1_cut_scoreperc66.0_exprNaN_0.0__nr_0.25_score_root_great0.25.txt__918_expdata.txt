@@ -1,4 +1,4 @@
-	"congenital heart defect-round face-developmental delay syndrome"	"cone-rod dystrophy 17"	"pontocerebellar hypoplasia, type 11"	"erythrokeratodermia variabilis et progressiva 5"	"neurodevelopmental disorder with epilepsy and hypoplasia of the corpus callosum"
+	"growth delay due to insulin-like growth factor I resistance"	"short ulna-dysmorphism-hypotonia-intellectual disability syndrome"	"Al Kaissi syndrome"	"neurodevelopmental disorder with dysmorphic facies and distal limb anomalies"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"
 "Long philtrum"	1.0	1.0	1.0	0.0	1.0
 "Clinodactyly"	1.0	1.0	1.0	1.0	1.0
 "High forehead"	0.0	1.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"syndromic X-linked intellectual disability 94"	"malignant hyperthermia, susceptibility to, 4"	"spondyloepiphyseal dysplasia, Kimberley type"	"Noonan syndrome-like disorder with juvenile myelomonocytic leukemia"
+	"X-linked myopathy with postural muscle atrophy"	"myopathy, lactic acidosis, and sideroblastic anemia 1"	"myopathy, myosin storage, autosomal dominant"	"myopathy, lactic acidosis, and sideroblastic anemia 2"
 "HP:0003676"	1.0	0.0	0.0	1.0
 "Back pain"	1.0	0.0	0.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	0.0	1.0	0.0

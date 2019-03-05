@@ -1,4 +1,4 @@
 "x"
-"1" "hyperlysinemia..disease."
-"2" "X.linked.retinal.dysplasia"
-"3" "X16p13.2.microdeletion.syndrome"
+"1" "familial.lipoprotein.lipase.deficiency"
+"2" "reticuloendotheliosis..X.linked"
+"3" "sideroblastic.anemia.3"

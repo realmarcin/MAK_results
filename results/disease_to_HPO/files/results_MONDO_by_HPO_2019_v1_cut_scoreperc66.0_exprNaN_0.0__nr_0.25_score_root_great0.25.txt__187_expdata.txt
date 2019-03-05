@@ -1,4 +1,4 @@
-	"cryptotia, familial"	"Aphalangy-hemivertebrae-urogenital-intestinal dysgenesis syndrome"	"granulocytopenia with immunoglobulin abnormality"	"embryonal rhabdomyosarcoma (disease)"	"tongue, pigmented fungiform papillae of"	"multiple epiphyseal dysplasia, Al-Gazali type"	"epileptic encephalopathy, early infantile, 5"	"Dowling-Degos disease 4"	"pancreatic agenesis 2"	"microcephaly 13, primary, autosomal recessive"
+	"Cryoglobulinemic vasculitis"	"Takayasu arteritis"	"anti-glomerular basement membrane disease"	"myoglobinuria, acute recurrent, autosomal recessive"	"Kerion celsi"	"CINCA syndrome"	"Reynolds syndrome"	"vasculitis due to ADA2 deficiency"	"STING-associated vasculopathy with onset in infancy"	"periodic fever-infantile enterocolitis-autoinflammatory syndrome"
 "Fever"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Myalgia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormal shape of the occiput"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

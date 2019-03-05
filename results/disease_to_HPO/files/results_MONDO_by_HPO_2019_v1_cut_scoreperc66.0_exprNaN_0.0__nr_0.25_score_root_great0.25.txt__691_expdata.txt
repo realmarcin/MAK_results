@@ -1,4 +1,4 @@
-	"parietal foramina with cleidocranial dysplasia"	"gracile syndrome"	"familial scaphocephaly syndrome, McGillivray type"	"fibrosis of extraocular muscles, congenital, with synergistic divergence"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
+	"parietal foramina 1"	"cerebral cavernous malformation 3"	"PFM3"	"parietal foramina 2"	"encephalopathy, acute, infection-induced (herpes-specific), susceptibility to, 8"	"microcephaly 22, primary, autosomal recessive"
 "Cleft upper lip"	1.0	0.0	0.0	0.0	0.0	0.0
 "HP:0000006"	1.0	0.0	1.0	1.0	0.0	0.0
 "Encephalocele"	1.0	0.0	1.0	1.0	0.0	0.0

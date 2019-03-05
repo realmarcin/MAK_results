@@ -1,4 +1,4 @@
-	"autosomal dominant myoglobinuria"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"	"pachygyria-intellectual disability-epilepsy syndrome"	"rippling muscle disease 2"	"B4GALT1-CDG"	"myofibromatosis, infantile, 2"
+	"spinal muscular atrophy-progressive myoclonic epilepsy syndrome"	"scapuloperoneal spinal muscular atrophy"	"autosomal dominant congenital benign spinal muscular atrophy"	"Charcot-Marie-Tooth disease axonal type 2C"	"distal spinal muscular atrophy type 3"	"autosomal dominant childhood-onset proximal spinal muscular atrophy with contractures"
 "Abducens palsy"	0.0	1.0	0.0	1.0	0.0	0.0
 "Facial palsy"	1.0	1.0	0.0	0.0	0.0	0.0
 "HP:0003829"	0.0	1.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"xylosidase deficiency"	"modifier, X-linked, for Neurofunctional defects"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+	"46,XX sex reversal 2"	"linear skin defects with multiple congenital anomalies 1"	"testicular anomalies with or without congenital heart disease"	"46,XX sex reversal 4"
 "Anal atresia"	0.0	1.0	0.0	0.0
 "Overriding aorta"	0.0	1.0	0.0	0.0
 "Intellectual disability, progressive"	0.0	1.0	0.0	0.0

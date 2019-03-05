@@ -1,4 +1,4 @@
-	"X-linked intellectual disability, Cabezas type"	"MYP17"	"Tukel syndrome"	"chromosome 1q21.1 duplication syndrome"	"chromosome 2p16.1-p15 deletion syndrome"	"multiple mitochondrial dysfunctions syndrome 4"
+	"creatine transporter deficiency"	"chromosome 22q11.2 microduplication syndrome"	"chromosome 3q29 microdeletion syndrome"	"chromosome 1q21.1 deletion syndrome"	"chromosome 1q21.1 duplication syndrome"	"cognitive impairment - coarse facies - heart defects - obesity - pulmonary involvement - short stature - skeletal dysplasia syndrome"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Cataract"	0.0	0.0	1.0	1.0	1.0	1.0

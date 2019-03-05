@@ -1,4 +1,4 @@
-	"Friedreich ataxia and congenital glaucoma"	"frontofacionasal dysplasia"	"Abruzzo-Erickson syndrome"	"intestinal hypomagnesemia 1"
+	"Friedreich ataxia"	"Friedreich ataxia and congenital glaucoma"	"Charcot-Marie-Tooth peroneal muscular atrophy and Friedreich ataxia, combined"	"FRDA2"
 "Concentric hypertrophic cardiomyopathy"	0.0	1.0	1.0	1.0
 "Abnormal echocardiogram"	1.0	1.0	1.0	1.0
 "Decreased pyruvate carboxylase activity"	1.0	1.0	1.0	1.0

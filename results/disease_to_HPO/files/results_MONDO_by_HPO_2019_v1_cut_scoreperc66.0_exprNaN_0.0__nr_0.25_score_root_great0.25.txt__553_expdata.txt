@@ -1,4 +1,4 @@
-	"hairy palms and soles"	"migraine with or without aura, susceptibility to, 1"	"autosomal dominant Robinow syndrome 1"	"trichoepitheliomas, multiple desmoplastic"	"Legius syndrome"
+	"hairy nose tip"	"MONDO:0023807"	"ringed hair disease"	"FMDF"	"Tented eyebrows"
 "HP:0000006"	0.0	1.0	1.0	1.0	1.0
 "Fine hair"	0.0	0.0	1.0	0.0	0.0
 "Abnormality of the eye"	0.0	0.0	0.0	0.0	1.0

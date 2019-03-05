@@ -1,4 +1,4 @@
-	"genochondromatosis"	"alpha-2-deficient collagen disease"	"Richards-Rundle syndrome"	"subacute sclerosing panencephalitis"	"intellectual disability, autosomal dominant 29"
+	"gastric mucosal hypertrophy"	"beta-ketothiolase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"pancreatic insufficiency, combined exocrine"	"inflammatory skin and bowel disease, neonatal, 2"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Papule"	0.0	0.0	0.0	0.0	1.0
 "Epidermal acanthosis"	0.0	0.0	0.0	0.0	1.0

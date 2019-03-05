@@ -1,4 +1,4 @@
-	"pseudo-von Willebrand disease"	"fundus dystrophy, pseudoinflammatory, recessive form"	"Wiskott-Aldrich syndrome 2"	"microphthalmia, isolated, with coloboma 7"
+	"autosomal dominant pseudohypoaldosteronism type 1"	"autosomal recessive pseudohypoaldosteronism type 1"	"pseudohypoaldosteronism type 2C"	"pseudohypoaldosteronism type 2E"
 "Metabolic acidosis"	1.0	1.0	1.0	1.0
 "Hypoglycemia"	0.0	0.0	0.0	0.0
 "Hyperkalemia"	1.0	1.0	1.0	1.0

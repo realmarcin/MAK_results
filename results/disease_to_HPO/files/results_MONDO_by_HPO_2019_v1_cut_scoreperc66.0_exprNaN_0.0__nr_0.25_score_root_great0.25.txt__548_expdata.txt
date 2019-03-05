@@ -1,4 +1,4 @@
-	"Krabbe disease"	"neuropathy, hereditary sensory, atypical"	"familial meningioma"	"Warburg micro syndrome 4"	"hereditary spastic paraplegia 63"
+	"lethal Kniest-like dysplasia"	"giant axonal neuropathy 1"	"autosomal recessive limb-girdle muscular dystrophy type 2I"	"hereditary spastic paraplegia 57"	"hereditary spastic paraplegia 61"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Talipes equinovarus"	1.0	1.0	0.0	0.0	0.0
 "Anterior rib cupping"	1.0	0.0	0.0	0.0	0.0

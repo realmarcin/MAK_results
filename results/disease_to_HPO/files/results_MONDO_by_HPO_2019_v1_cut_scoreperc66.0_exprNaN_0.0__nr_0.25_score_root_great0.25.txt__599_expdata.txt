@@ -1,4 +1,4 @@
-	"comedones, familial Dyskeratotic"	"hemophilia A"	"factors VIII, IX and XI, combined deficiency of"	"FRTS1"	"DYX2"
+	"colonic varices without portal hypertension"	"factor VII and Factor VIII, combined deficiency of"	"factor VIII and Factor IX, combined deficiency of"	"factor 9 and Factor XI, combined deficiency of"	"multiple cutaneous and mucosal venous malformations"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Intestinal bleeding"	1.0	1.0	0.0	0.0	1.0
 "Colonic varices"	1.0	0.0	0.0	0.0	0.0

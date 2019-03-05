@@ -1,4 +1,4 @@
-	"Duane syndrome type 1"	"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive"	"inflammatory bowel disease 28"	"combined oxidative phosphorylation defect type 17"
+	"basal laminar drusen"	"patterned macular dystrophy 2"	"CACD3"	"age related macular degeneration 13"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Progressive visual loss"	1.0	0.0	0.0	1.0
 "Macular scar"	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"pulmonary capillary hemangiomatosis"	"alpha-mannosidosis"	"vitamin D-dependent rickets, type 2B"	"synpolydactyly type 2"	"Larsen-like osseous dysplasia-short stature syndrome"
+	"glioma susceptibility 1"	"hemangiomatosis, cutaneous, with associated features"	"oculotrichoanal syndrome"	"anophthalmia plus syndrome"	"autoimmune thyroid disease, susceptibility to, 3"	"ANIB2"
 "Hypertelorism"	0.0	1.0	1.0	1.0	0.0	0.0
 "HP:0000007"	0.0	1.0	1.0	1.0	0.0	0.0
 "Microphthalmia"	0.0	0.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"rolandic epilepsy, mental retardation, and speech dyspraxia, X-linked"	"midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis; MFHIEN"	"craniosynostosis 4"	"Martinez-Frias syndrome"	"NAFLD2"
+	"invasive pneumococcal disease, recurrent isolated, 2"	"Meester-Loeys syndrome; MRLS"	"dwarfism, familial, with muscle spasms"	"ectodermal dysplasia with natal teeth, Turnpenny type"	"syndromic multisystem autoimmune disease due to Itch deficiency"
 "Frontal bossing"	1.0	1.0	0.0	0.0	1.0
 "Camptodactyly"	0.0	1.0	0.0	0.0	1.0
 "Proptosis"	0.0	1.0	1.0	0.0	1.0

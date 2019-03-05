@@ -1,4 +1,4 @@
-	"fetal iodine syndrome"	"autosomal recessive familial Mediterranean fever"	"Xq27.3q28 duplication syndrome"	"Kallmann syndrome with spastic paraplegia"	"keratosis follicularis spinulosa decalvans, X-linked"
+	"hypogonadotropic hypogonadism 23 with or without anosmia"	"Meckel syndrome, type 1"	"multiple congenital anomalies-hypotonia-seizures syndrome 2"	"hypogonadotropic hypogonadism 1 with or without anosmia"	"Kallmann syndrome with spastic paraplegia"
 "Decreased circulating luteinizing hormone level"	1.0	0.0	0.0	1.0	1.0
 "Olfactory lobe agenesis"	0.0	1.0	1.0	1.0	1.0
 "Leydig cell insensitivity to gonadotropin"	0.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
-	"Perry syndrome"	"Joubert syndrome with hepatic defect"	"metachromatic leukodystrophy, juvenile form"	"syndromic X-linked intellectual disability 17"	"congenital amegakaryocytic thrombocytopenia"	"Santos syndrome"
+	"autosomal dominant Parkinson disease 1"	"Yunis-Varon syndrome"	"metachromatic leukodystrophy due to saposin b deficiency"	"amyotrophic lateral sclerosis type 15"	"hereditary motor and sensory neuropathy, Okinawa type"	"herpes simplex encephalitis, susceptibility to, 2"
 "HP:0000007"	0.0	1.0	1.0	0.0	0.0	1.0
 "HP:0000006"	1.0	0.0	0.0	0.0	1.0	1.0
 "Mental deterioration"	1.0	0.0	1.0	0.0	0.0	1.0

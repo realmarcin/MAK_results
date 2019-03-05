@@ -1,4 +1,4 @@
-	"second branchial cleft anomaly"	"protoporphyria, erythropoietic"	"hyperdibasic aminoaciduria type 1"	"neuroectodermal melanolysosomal disease"	"FEB2"	"autosomal dominant nonsyndromic deafness 41"	"pontocerebellar hypoplasia type 9"
+	"autosomal dominant brachyolmia"	"Proteus syndrome"	"diastrophic dysplasia"	"neuroblastoma, susceptibility to"	"ossification of the posterior longitudinal ligament of the spine"	"hereditary spastic paraplegia 25"	"Seckel syndrome 8"
 "Spinal cord compression"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of the metacarpal bones"	0.0	1.0	1.0	0.0	0.0	0.0	0.0
 "Visceral angiomatosis"	0.0	1.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"hydatidiform mole, recurrent, 1"	"polyposis syndrome, hereditary mixed, 1"	"atypical Gaucher disease due to saposin C deficiency"	"microcephaly and chorioretinopathy 3"
+	"German syndrome"	"Potocki-Shaffer syndrome"	"mandibulofacial dysostosis-microcephaly syndrome"	"autosomal dominant Robinow syndrome 2"
 "Preaxial hand polydactyly"	0.0	0.0	1.0	0.0
 "Esophageal atresia"	0.0	0.0	1.0	0.0
 "Deep philtrum"	0.0	0.0	1.0	0.0

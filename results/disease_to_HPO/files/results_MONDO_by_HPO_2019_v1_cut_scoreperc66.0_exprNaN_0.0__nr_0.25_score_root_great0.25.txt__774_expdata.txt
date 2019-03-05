@@ -1,4 +1,4 @@
-	"indifference to pain, congenital, autosomal dominant"	"succinic acidemia"	"autosomal recessive nonsyndromic deafness 16"	"breath-holding Spells"	"even-plus syndrome"
+	"inclusion body myositis"	"tibial muscular dystrophy"	"hereditary proximal myopathy with early respiratory failure"	"distal myopathy with early respiratory muscle involvement"	"progressive scapulohumeroperoneal distal myopathy"
 "Skeletal muscle atrophy"	1.0	0.0	1.0	0.0	0.0
 "Autoimmunity"	1.0	0.0	0.0	0.0	0.0
 "Feeding difficulties in infancy"	1.0	0.0	0.0	0.0	0.0

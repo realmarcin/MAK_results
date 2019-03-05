@@ -1,4 +1,4 @@
-	"pruritus, hereditary localized"	"ketone compounds, ability to smell"	"immunodeficiency 18"
+	"Protrusio acetabuli (disease)"	"slipped femoral capital epiphyses"	"DDH2"
 "HP:0000006"	1.0	1.0	1.0
 "Hip osteoarthritis"	0.0	1.0	1.0
 "Hip contracture"	1.0	0.0	0.0

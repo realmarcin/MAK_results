@@ -1,4 +1,4 @@
-	"torsion dystonia 4"	"episodic kinesigenic dyskinesia 1"	"Nijmegen breakage syndrome-like disorder"	"neurodegeneration with brain iron accumulation 4"
+	"early-onset generalized limb-onset dystonia"	"torsion dystonia 4"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 5"	"Wolfram-like syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Gait ataxia"	0.0	1.0	1.0	0.0
 "Depressivity"	1.0	0.0	1.0	1.0

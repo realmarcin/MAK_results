@@ -1,4 +1,4 @@
-	"aromatase excess syndrome"	"patterned macular dystrophy 1"	"saccharopinuria"	"congenital myopathy with internal nuclei and atypical cores"	"chromosome 6q24-q25 deletion syndrome"
+	"Myhre syndrome"	"Char syndrome"	"EEC syndrome"	"short stature-optic atrophy-Pelger-HuC+t anomaly syndrome"	"acrogeria"
 "Fine hair"	1.0	0.0	1.0	1.0	1.0
 "Mesoaxial hand polydactyly"	0.0	1.0	0.0	0.0	0.0
 "Mesoaxial foot polydactyly"	0.0	1.0	0.0	0.0	0.0

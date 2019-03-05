@@ -1,4 +1,4 @@
-	"Townes-Brocks syndrome 1"	"achondrogenesis type II"	"Joubert syndrome with hepatic defect"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"
+	"antiphospholipid syndrome"	"achondrogenesis type IA"	"Yunis-Varon syndrome"	"ichthyosis follicularis-alopecia-photophobia syndrome"
 "Vitritis"	1.0	0.0	0.0	0.0
 "Retinal vasculitis"	1.0	0.0	0.0	0.0
 "Central retinal artery occlusion"	1.0	0.0	0.0	0.0

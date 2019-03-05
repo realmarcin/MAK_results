@@ -1,4 +1,4 @@
-	"ossification of the posterior longitudinal ligament of the spine"	"microphthalmia with cyst, bilateral facial clefts, and limb anomalies"	"lipoic acid synthetase deficiency"	"catecholaminergic polymorphic ventricular tachycardia 5"	"limb-girdle muscular dystrophy due to POMK deficiency"	"intellectual disability, autosomal recessive 50"	"autosomal recessive nonsyndromic deafness 105"	"spinocerebellar ataxia, autosomal recessive 24; SCAR24"
+	"ethylmalonic encephalopathy"	"pontocerebellar hypoplasia type 1A"	"childhood encephalopathy due to thiamine pyrophosphokinase deficiency"	"combined oxidative phosphorylation defect type 17"	"congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome"	"Al-Raqad syndrome"	"TELO2-related intellectual disability-neurodevelopmental disorder"	"epileptic encephalopathy, early infantile, 44; EIEE44"
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Brittle hair"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
 "Abnormality of the cerebellum"	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

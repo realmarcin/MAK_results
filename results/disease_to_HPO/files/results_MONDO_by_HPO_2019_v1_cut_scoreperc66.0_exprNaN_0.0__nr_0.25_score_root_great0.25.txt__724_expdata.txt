@@ -1,4 +1,4 @@
-	"intellectual disability, x-linked 107"	"hypotonia with lactic acidemia and hyperammonemia"	"van Maldergem syndrome 2"	"nucleoside diphosphate-linked moiety X Motif 15 deficiency; NUDT15D"	"epileptic encephalopathy, early infantile, 55"	"neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures"	"epileptic encephalopathy, early infantile, 62"	"hyperekplexia 4"
+	"intellectual disability, X-linked, syndromic, Houge type"	"renal hypomagnesemia 4"	"periventricular nodular heterotopia 6"	"chromosome 11p13 deletion syndrome, distal"	"mosaic variegated aneuploidy syndrome 3"	"neurodevelopmental disorder with microcephaly, ataxia, and seizures"	"epilepsy, familial focal, with variable foci 4"	"glycosylphosphatidylinositol biosynthesis defect 17"
 "Intellectual disability"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

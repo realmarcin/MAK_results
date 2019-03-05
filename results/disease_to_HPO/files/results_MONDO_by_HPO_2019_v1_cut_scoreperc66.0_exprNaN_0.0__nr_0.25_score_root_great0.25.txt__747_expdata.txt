@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"immunodeficiency, common variable, 1"	"autosomal dominant nonsyndromic deafness 41"	"Warburg micro syndrome 4"	"hereditary spastic paraplegia 63"	"vasculitis due to ADA2 deficiency"
+	"proximal renal tubular acidosis"	"hereditary spastic paraplegia 24"	"hereditary spastic paraplegia 25"	"hereditary spastic paraplegia 57"	"hereditary spastic paraplegia 61"	"hereditary spastic paraplegia 63"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
 "Polyneuropathy"	0.0	0.0	0.0	0.0	1.0	0.0
 "Spastic paraplegia"	0.0	1.0	1.0	1.0	1.0	1.0

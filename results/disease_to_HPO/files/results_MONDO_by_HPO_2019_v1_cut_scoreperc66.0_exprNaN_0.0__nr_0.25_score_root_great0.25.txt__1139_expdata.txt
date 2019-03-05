@@ -1,4 +1,4 @@
-	"setting-Sun phenomenon, familial benign"	"Aicardi-Goutieres syndrome 3"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
+	"craniosynostosis, Adelaide type"	"rhizomelic dysplasia, scoliosis, and retinitis pigmentosa"	"osteogenesis imperfecta type 5"	"Gorlin-Chaudhry-Moss syndrome"
 "Rhizomelia"	0.0	1.0	0.0	0.0
 "Biconcave vertebral bodies"	0.0	1.0	1.0	0.0
 "Photophobia"	0.0	1.0	0.0	0.0

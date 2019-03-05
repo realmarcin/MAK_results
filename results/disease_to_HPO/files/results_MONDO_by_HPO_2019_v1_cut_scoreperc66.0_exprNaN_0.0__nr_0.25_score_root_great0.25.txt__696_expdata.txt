@@ -1,4 +1,4 @@
-	"emphysema, hereditary pulmonary"	"hypergonadotropic hypogonadism-cataract syndrome"	"2q37 microdeletion syndrome"	"nanophthalmos 4"	"infantile multisystem neurologic-endocrine-pancreatic disease"
+	"Beckwith-Wiedemann syndrome"	"hypoinsulinemic hypoglycemia and body hemihypertrophy"	"angiokeratoma corporis diffusum with arteriovenous fistulas"	"hereditary persistence of alpha-fetoprotein"	"Tenorio syndrome"
 "Mandibular prognathia"	1.0	0.0	0.0	0.0	1.0
 "Large for gestational age"	1.0	1.0	0.0	0.0	0.0
 "Macroglossia"	1.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"isolated congenital digital clubbing"	"benign paroxysmal tonic upgaze of childhood with ataxia"	"microcephaly-cervical spine fusion anomalies syndrome"	"hereditary spastic paraplegia 28"	"autosomal recessive nonsyndromic deafness 47"	"hereditary spastic paraplegia 41"
+	"clubfoot"	"patella aplasia/hypoplasia"	"Say-Barber-Miller syndrome"	"multiple epiphyseal dysplasia, with miniepiphyses"	"brachyphalangy, polydactyly, and tibial aplasia/hypoplasia"	"chromosome 17q23.1-q23.2 deletion syndrome"
 "Patellar hypoplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Mild global developmental delay"	0.0	0.0	0.0	0.0	0.0	1.0
 "Shallow acetabular fossae"	0.0	0.0	0.0	0.0	1.0	1.0

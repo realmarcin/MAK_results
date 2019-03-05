@@ -1,4 +1,4 @@
-	"myoclonic epilepsy, Hartung type"	"carbimazole sensitivity"	"Charcot-Marie-Tooth disease type 2I"	"invasive pneumococcal disease, recurrent isolated, 1"	"hereditary pediatric BehC'et-like disease"	"primary sclerosing cholangitis"
+	"transient myeloproliferative syndrome (disease)"	"predisposition to invasive fungal disease due to CARD9 deficiency"	"immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency"	"primary immunodeficiency syndrome due to p14 deficiency"	"TFRC-related combined immunodeficiency"	"Cernunnos-XLF deficiency"
 "HP:0000007"	0.0	1.0	0.0	1.0	1.0	0.0
 "Neutropenia"	0.0	0.0	1.0	1.0	1.0	0.0
 "Immunodeficiency"	0.0	1.0	1.0	1.0	1.0	1.0

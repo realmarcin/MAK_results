@@ -1,4 +1,4 @@
-	"polyposis, intestinal, scattered and discrete"	"MHC class II deficiency"	"congenital bile acid synthesis defect 4"	"non-spherocytic hemolytic anemia due to hexokinase deficiency"	"succinic semialdehyde dehydrogenase deficiency"	"acrocapitofemoral dysplasia"	"autosomal recessive limb-girdle muscular dystrophy type 2P"
+	"Peutz-Jeghers syndrome"	"Bardet-Biedl syndrome 1"	"Aagenaes syndrome"	"congenital bile acid synthesis defect 2"	"subaortic stenosis-short stature syndrome"	"congenital bile acid synthesis defect 1"	"congenital bile acid synthesis defect 3"
 "Biliary tract abnormality"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Acholic stools"	0.0	0.0	1.0	0.0	0.0	1.0	1.0
 "Abnormality of urine homeostasis"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"hypoplastic left heart syndrome 1"	"neuronal ceroid lipofuscinosis 1"	"inherited pseudoxanthoma elasticum"	"vitamin K-dependent clotting factors, combined deficiency of, type 1"	"46,XY sex reversal 2"	"Dent disease type 2"	"benign prostatic hyperplasia (disease)"
+	"hereditary hypophosphatemic rickets with hypercalciuria"	"neurologic disease, infantile multisystem, with osseous fragility"	"vitamin D-dependent rickets, type 1"	"vitamin D-dependent rickets, type 2A"	"Dent disease type 1"	"hypophosphatemic rickets, X-linked recessive"	"vitamin D hydroxylation-deficient rickets, type 1B"
 "Bulging epiphyses"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Enlargement of the wrists"	1.0	0.0	1.0	1.0	1.0	1.0	1.0
 "Enlargement of the ankles"	1.0	0.0	1.0	1.0	1.0	1.0	1.0

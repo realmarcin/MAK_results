@@ -1,4 +1,4 @@
-	"senile plaque formation"	"Stickler syndrome type 2"	"Ehlers-Danlos syndrome, Beasley-Cohen type"	"autosomal systemic lupus erythematosus"	"severe combined immunodeficiency due to CORO1A deficiency"	"myopathy due to calsequestrin and SERCA1 protein overload"
+	"seizures, benign familial neonatal, autosomal recessive"	"EIG7"	"EIG3"	"febrile seizures, familial, 11"	"epilepsy, familial adult myoclonic, 5"	"progressive myoclonic epilepsy type 8"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	0.0	0.0	0.0	0.0	0.0	1.0
 "HP:0003812"	0.0	0.0	1.0	0.0	0.0	0.0

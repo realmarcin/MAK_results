@@ -1,4 +1,4 @@
-	"cleidocranial dysplasia, recessive form"	"Wilson disease"	"Chitotriosidase deficiency"	"retinitis pigmentosa 61"	"complement component 4b deficiency"	"congenital myopathy with internal nuclei and atypical cores"	"STAT3-related early-onset multisystem autoimmune disease"
+	"cleft palate-stapes fixation-oligodontia syndrome"	"white forelock with malformations"	"hydrolethalus syndrome 2"	"Meckel syndrome, type 10"	"cranioectodermal dysplasia 4"	"short stature-optic atrophy-Pelger-HuC+t anomaly syndrome"	"orofaciodigital syndrome type 14"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Thick eyebrow"	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "HP:0008897"	0.0	0.0	0.0	0.0	0.0	1.0	0.0

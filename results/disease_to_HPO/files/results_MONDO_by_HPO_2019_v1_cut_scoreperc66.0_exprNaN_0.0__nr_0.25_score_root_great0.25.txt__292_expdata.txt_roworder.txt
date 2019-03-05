@@ -1,4 +1,4 @@
 "x"
-"1" "Crigler.Najjar.syndrome.type.1"
-"2" "familial.atrial.myxoma"
-"3" "tiglic.acidemia"
+"1" "hypothyroidism..congenital..nongoitrous..2"
+"2" "myxedema"
+"3" "isolated.thyrotropin.releasing.hormone.deficiency"

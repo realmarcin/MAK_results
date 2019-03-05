@@ -1,4 +1,4 @@
-	"Carpenter syndrome 1"	"hydrocephaly-tall stature-joint laxity syndrome"	"short stature-obesity syndrome"	"crossed polysyndactyly"
+	"acrocephalopolydactyly"	"growth delay-hydrocephaly-lung hypoplasia syndrome"	"Beemer-Langer syndrome"	"PHAVER syndrome"
 "Hydrocephalus"	0.0	1.0	1.0	0.0
 "Lower limb undergrowth"	0.0	1.0	0.0	0.0
 "Intestinal malrotation"	0.0	1.0	1.0	0.0

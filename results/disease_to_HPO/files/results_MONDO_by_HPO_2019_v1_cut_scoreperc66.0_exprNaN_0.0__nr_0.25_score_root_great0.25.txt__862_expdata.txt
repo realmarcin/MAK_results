@@ -1,4 +1,4 @@
-	"metaphyseal dysplasia-maxillary hypoplasia-brachydacty syndrome"	"slipped femoral capital epiphyses"	"camptodactyly-arthropathy-coxa vara-pericarditis syndrome"	"metaphyseal modeling abnormality, skin lesions, and spastic paraplegia"	"syndromic X-linked intellectual disability Shashi type"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"
+	"Schmid metaphyseal chondrodysplasia"	"skeletal dysplasia with delayed epiphyseal and carpal bone ossification"	"progressive pseudorheumatoid arthropathy of childhood"	"metaphyseal dysplasia without hypotrichosis"	"spondyloepimetaphyseal dysplasia, Bieganski type"	"X-linked dominant chondrodysplasia, Chassaing-Lacombe type"
 "Distal shortening of limbs"	0.0	0.0	0.0	0.0	0.0	1.0
 "Enlargement of the proximal femoral epiphysis"	1.0	0.0	1.0	0.0	0.0	0.0
 "Metaphyseal cupping of metacarpals"	1.0	0.0	0.0	1.0	1.0	1.0

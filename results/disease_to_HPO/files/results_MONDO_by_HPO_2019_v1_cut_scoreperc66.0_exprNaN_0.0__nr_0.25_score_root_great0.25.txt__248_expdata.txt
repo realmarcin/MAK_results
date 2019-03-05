@@ -1,4 +1,4 @@
-	"Riley-Day syndrome"	"dyskeratosis congenita, X-linked"	"spondylometaphyseal dysplasia, Golden type"	"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome"
+	"Dyggve-Melchior-Clausen disease"	"Dyggve-Melchior-Clausen syndrome, X-linked"	"spondyloepiphyseal dysplasia tarda, X-linked"	"multiple epiphyseal dysplasia type 5"
 "Lumbar hyperlordosis"	1.0	1.0	1.0	0.0
 "Short neck"	1.0	1.0	1.0	0.0
 "Scoliosis"	1.0	1.0	1.0	0.0

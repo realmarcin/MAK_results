@@ -1,4 +1,4 @@
 "x"
-"1" "autoimmune.lymphoproliferative.syndrome.type.2A"
-"2" "Reynolds.syndrome"
-"3" "primary.release.disorder.of.platelets"
+"1" "sickle.cell.anemia"
+"2" "hemolytic.anemia.due.to.glucophosphate.isomerase.deficiency"
+"3" "priapism..familial.idiopathic"

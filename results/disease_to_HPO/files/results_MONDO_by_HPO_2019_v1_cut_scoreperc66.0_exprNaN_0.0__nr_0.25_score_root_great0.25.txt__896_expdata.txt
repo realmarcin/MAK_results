@@ -1,4 +1,4 @@
-	"intussusception"	"hypoinsulinemic hypoglycemia and body hemihypertrophy"	"acrofacial dysostosis, Palagonia type"	"colobomatous macrophthalmia-microcornea syndrome"	"branchiootic syndrome 1"	"hyperinsulinemic hypoglycemia, familial, 4"	"progressive encephalopathy with leukodystrophy due to DECR deficiency"
+	"islet cell adenomatosis"	"hypoglycemia, leucine-induced"	"hyperinsulinemic hypoglycemia, familial, 2"	"hyperinsulinism due to glucokinase deficiency"	"MPI-CDG"	"hyperinsulinism due to INSR deficiency"	"microcephaly, short stature, and impaired glucose metabolism 1"
 "Neonatal hypoglycemia"	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Hyperinsulinemic hypoglycemia"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Recurrent hypoglycemia"	0.0	0.0	0.0	1.0	0.0	1.0	0.0

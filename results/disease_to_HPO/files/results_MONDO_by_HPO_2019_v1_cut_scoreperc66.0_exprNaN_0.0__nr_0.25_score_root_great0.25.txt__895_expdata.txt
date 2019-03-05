@@ -1,4 +1,4 @@
-	"hypersensitivity pneumonitis, familial"	"holoprosencephaly-radial heart renal anomalies syndrome"	"disseminated sclerosis with narcolepsy"	"carbamoyl phosphate synthetase I deficiency disease"	"Valinemia"	"hydroxyacyl glutathione hydrolase deficiency"
+	"hypersecretion of adrenal androgens, familial"	"polycystic ovary syndrome"	"lactose intolerance (disease)"	"hymen, imperforate"	"Mayer-Rokitansky-Kuster-Hauser syndrome type 1"	"apolipoprotein c-III deficiency"
 "HP:0000006"	1.0	1.0	1.0	0.0	1.0	0.0
 "Hirsutism"	1.0	1.0	0.0	0.0	0.0	0.0
 "Obesity"	0.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"methylmalonic aciduria and homocystinuria type cblD"	"dermatitis, atopic"	"sudden infant death-dysgenesis of the testes syndrome"	"extraskeletal myxoid chondrosarcoma"	"Seckel syndrome 6"	"hypomyelination with brain stem and spinal cord involvement and leg spasticity"
+	"methylmalonic aciduria and homocystinuria type cblC"	"congenital disorder of glycosylation type 1C"	"congenital disorder of glycosylation type 1E"	"hypomyelinating leukodystrophy 4"	"TMEM165-CDG"	"cardiofaciocutaneous syndrome 4"
 "Strabismus"	0.0	1.0	1.0	1.0	0.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"Ehlers-Danlos syndrome, classic type"	"temtamy syndrome"	"encephalomalacia, multilocular"	"pulverulent cataract"	"complement component 4b deficiency"
+	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 1"	"cranioectodermal dysplasia 1"	"Ellis-van Creveld syndrome"	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3"	"cranioectodermal dysplasia 4"
 "Xerostomia"	1.0	0.0	0.0	1.0	0.0
 "Blue irides"	1.0	0.0	0.0	1.0	0.0
 "Ectodermal dysplasia"	1.0	1.0	1.0	1.0	1.0

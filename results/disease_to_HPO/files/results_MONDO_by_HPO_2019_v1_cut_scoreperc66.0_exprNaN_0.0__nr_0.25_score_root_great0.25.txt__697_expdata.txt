@@ -1,4 +1,4 @@
-	"abducens nerve palsy"	"familial calcium pyrophosphate deposition"	"adult hypophosphatasia"	"cerebroretinal microangiopathy with calcifications and cysts 1"	"isolated microphthalmia 8"	"microcephaly, short stature, and limb abnormalities"
+	"prune belly syndrome"	"Alagille syndrome due to a JAG1 point mutation"	"hypoparathyroidism-deafness-renal disease syndrome"	"diastasis recti and weakness of the linea alba"	"urofacial syndrome 2"	"congenital heart defects and skeletal malformations syndrome"
 "Hydronephrosis"	1.0	0.0	1.0	0.0	1.0	0.0
 "Constipation"	1.0	0.0	0.0	1.0	1.0	1.0
 "Renal insufficiency"	1.0	0.0	1.0	0.0	1.0	0.0

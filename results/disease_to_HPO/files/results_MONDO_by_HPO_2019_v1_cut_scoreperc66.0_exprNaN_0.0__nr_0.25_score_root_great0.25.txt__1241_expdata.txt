@@ -1,4 +1,4 @@
-	"lethal osteosclerotic bone dysplasia"	"xylosidase deficiency"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+	"osteoporosis-pseudoglioma syndrome"	"46,XX sex reversal 2"	"testicular anomalies with or without congenital heart disease"	"46,XX sex reversal 4"
 "Pathologic fracture"	1.0	0.0	0.0	0.0
 "Barrel-shaped chest"	1.0	0.0	0.0	0.0
 "Iris atrophy"	1.0	0.0	0.0	0.0

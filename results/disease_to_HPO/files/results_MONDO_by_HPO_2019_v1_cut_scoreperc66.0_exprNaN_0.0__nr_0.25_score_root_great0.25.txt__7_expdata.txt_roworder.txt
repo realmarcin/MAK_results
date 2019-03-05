@@ -1,4 +1,4 @@
 "x"
-"1" "alopecia.intellectual.disability.syndrome.1"
-"2" "Sandhoff.disease"
-"3" "microcephaly.cardiomyopathy.syndrome"
+"1" "Moynahan.syndrome"
+"2" "saccharopinuria"
+"3" "microcephaly.1..primary..autosomal.recessive"

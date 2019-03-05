@@ -1,4 +1,4 @@
-	"hypertrophic cardiomyopathy 1"	"CFM1"	"mammary-digital-nail syndrome"	"dilated cardiomyopathy 1U"	"dilated cardiomyopathy 1V"
+	"long QT syndrome 1"	"long QT syndrome 3"	"long QT syndrome 2"	"long QT syndrome 6"	"long QT syndrome 5"
 "HP:0001425"	1.0	1.0	1.0	1.0	1.0
 "Sudden cardiac death"	1.0	1.0	1.0	1.0	1.0
 "Syncope"	1.0	1.0	1.0	1.0	1.0

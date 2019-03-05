@@ -1,4 +1,4 @@
 "x"
-"1" "lethal.multiple.pterygium.syndrome"
-"2" "hypocalcified.amelogenesis.imperfecta"
-"3" "polycystic.kidney.disease.4"
+"1" "muscular.dystrophy.dystroglycanopathy..congenital.with.brain.and.eye.anomalies...type.A3"
+"2" "lateral.meningocele.syndrome"
+"3" "polycystic.kidney..cataract..and.congenital.blindness"

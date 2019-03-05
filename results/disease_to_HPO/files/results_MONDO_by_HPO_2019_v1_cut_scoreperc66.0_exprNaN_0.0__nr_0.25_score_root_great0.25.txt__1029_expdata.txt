@@ -1,4 +1,4 @@
-	"primary intestinal lymphangiectasia"	"chylous ascites"	"tongue, pigmented fungiform papillae of"	"autosomal recessive nonsyndromic deafness 51"
+	"systemic lupus erythematosus (disease)"	"camptodactyly-arthropathy-coxa vara-pericarditis syndrome"	"Kerion celsi"	"SLEB6"
 "Congenital finger flexion contractures"	0.0	1.0	0.0	0.0
 "Arthritis"	1.0	1.0	0.0	1.0
 "Flattened metatarsal heads"	0.0	1.0	0.0	0.0

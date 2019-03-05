@@ -1,4 +1,4 @@
-	"autosomal recessive distal spinal muscular atrophy 1"	"arrhythmogenic right ventricular dysplasia 8"	"cortical dysplasia-focal epilepsy syndrome"	"familial steroid-resistant nephrotic syndrome with sensorineural deafness"
+	"microcephaly 2, primary, autosomal recessive, with or without cortical malformations"	"lissencephaly due to LIS1 mutation"	"complex cortical dysplasia with other brain malformations 7"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 7"
 "Intellectual disability"	1.0	1.0	1.0	0.0
 "Seizures"	1.0	1.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	0.0

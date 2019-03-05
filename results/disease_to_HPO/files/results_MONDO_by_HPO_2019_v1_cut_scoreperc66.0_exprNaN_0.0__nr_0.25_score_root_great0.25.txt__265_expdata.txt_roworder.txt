@@ -1,4 +1,4 @@
 "x"
-"1" "three.M.syndrome.3"
-"2" "rigid.spine.muscular.dystrophy.1"
-"3" "retinitis.pigmentosa.juvenile.cataract.short.stature.intellectual.disability.syndrome"
+"1" "psoriasis.14..pustular"
+"2" "psoriasis.2"
+"3" "psoriasis.15..pustular..susceptibility.to"

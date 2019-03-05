@@ -1,4 +1,4 @@
-	"dystonia 12"	"autosomal dominant Parkinson disease 1"	"familial pancreatic carcinoma"	"blepharophimosis - intellectual disability syndrome, MKB type"	"lymphedema, hereditary, type III"
+	"dystonia 5"	"late-onset Parkinson disease"	"parkinsonian-pyramidal syndrome"	"neurodegeneration with brain iron accumulation 5"	"autosomal recessive early-onset Parksinson disease 23"
 "Sleep disturbance"	1.0	1.0	1.0	1.0	0.0
 "Dementia"	0.0	1.0	1.0	1.0	1.0
 "Parkinsonism"	1.0	1.0	1.0	1.0	1.0

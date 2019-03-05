@@ -1,4 +1,4 @@
-	"hereditary spastic paraplegia 16"	"moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome"	"early-onset parkinsonism-intellectual disability syndrome"	"Wilms tumor 6; WT6"	"Paget disease of bone 6; PDB6"	"spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy"	"blepharocheilodontic syndrome 2"	"epileptic encephalopathy, early infantile, 59"	"neurodegeneration with brain iron accumulation 7"
+	"syndromic X-linked intellectual disability Siderius type"	"intellectual disability, X-linked 19"	"Pallister-W syndrome"	"lamb-Shaffer syndrome; LAMSHF"	"Luscan-Lumish syndrome; LLs"	"Gabriele de Vries syndrome"	"mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome"	"neurodevelopmental disorder with poor language and loss of hand skills"	"hypotonia, ataxia, developmental delay, and tooth enamel defect syndrome"
 "Intellectual disability"	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0
 "HP:0012332"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
 "Small hand"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0

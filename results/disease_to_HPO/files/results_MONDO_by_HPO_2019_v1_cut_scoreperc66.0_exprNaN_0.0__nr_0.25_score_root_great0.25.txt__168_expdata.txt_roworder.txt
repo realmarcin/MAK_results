@@ -1,4 +1,4 @@
 "x"
-"1" "BRWNS"
-"2" "hypomyelinating.leukodystrophy.10"
-"3" "ventricular.septal.defect.3"
+"1" "microcephaly.14..primary..autosomal.recessive"
+"2" "hypomagnesemia..seizures..and.mental.retardation"
+"3" "ventricular.septal.defect.2"

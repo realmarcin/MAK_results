@@ -1,4 +1,4 @@
 "x"
-"1" "hair.defect.photosensitivity.intellectual.disability.syndrome"
-"2" "familial.benign.flecked.retina"
-"3" "autosomal.dominant.nonsyndromic.deafness.27"
+"1" "congenital.factor.XII.deficiency"
+"2" "congenital.high.molecular.weight.kininogen.deficiency"
+"3" "inherited.prekallikrein.deficiency"

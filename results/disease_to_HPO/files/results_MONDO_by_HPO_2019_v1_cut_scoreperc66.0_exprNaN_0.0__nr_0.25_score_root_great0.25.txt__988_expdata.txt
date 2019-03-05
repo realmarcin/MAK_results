@@ -1,4 +1,4 @@
-	"cancer, familial, with 1N vitro Radioresistance"	"LAP"	"hereditary mucoepithelial dysplasia"	"pectus excavatum-macrocephaly-dysplastic nails syndrome"	"osteogenesis imperfecta type 14"
+	"Gordon syndrome"	"laryngeal abductor paralysis"	"trismus-pseudocamptodactyly syndrome"	"aphalangy-syndactyly-microcephaly syndrome"	"distal arthrogryposis type 5D"
 "HP:0000006"	1.0	1.0	1.0	1.0	0.0
 "Facial asymmetry"	1.0	0.0	1.0	0.0	0.0
 "Deep philtrum"	0.0	0.0	1.0	0.0	0.0

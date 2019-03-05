@@ -1,4 +1,4 @@
-	"Perrault syndrome 1"	"hyperleucine-Isoleucinemia"	"testicular regression syndrome"	"spinocerebellar ataxia, autosomal recessive 22; SCAR22"
+	"ovarian dysgenesis 1"	"Leydig cell hypoplasia, type 1"	"testes, rudimentary"	"premature ovarian failure 12; POF12"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Osteoporosis"	1.0	0.0	0.0	0.0
 "Increased circulating gonadotropin level"	1.0	1.0	0.0	0.0

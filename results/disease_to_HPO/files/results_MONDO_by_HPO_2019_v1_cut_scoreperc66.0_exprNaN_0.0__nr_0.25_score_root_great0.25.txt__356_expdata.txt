@@ -1,4 +1,4 @@
-	"Gorham-Stout disease"	"Ehlers-Danlos syndrome, periodontal type 1"	"autosomal recessive faciodigitogenital syndrome"
+	"Beare-Stevenson cutis gyrata syndrome"	"Ehlers-Danlos syndrome, progeroid type 1"	"faciothoracogenital syndrome"
 "Prominent scrotal raphe"	1.0	0.0	1.0
 "Preauricular skin furrow"	1.0	0.0	0.0
 "Palmoplantar cutis gyrata"	1.0	1.0	0.0

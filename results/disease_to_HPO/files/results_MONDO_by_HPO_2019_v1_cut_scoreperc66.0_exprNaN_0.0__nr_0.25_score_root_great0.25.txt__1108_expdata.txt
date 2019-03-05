@@ -1,4 +1,4 @@
-	"Duane syndrome type 1"	"chromosome 16p12.1 deletion syndrome, 520kb"	"retinal telangiectasia and hypogammaglobulinemia"	"autoimmune thyroid disease, susceptibility to, 3"	"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive"	"inflammatory bowel disease 28"	"vitelliform macular dystrophy 5"
+	"basal laminar drusen"	"North Carolina macular dystrophy"	"reticular dystrophy of the retinal pigment epithelium"	"vitelliform macular dystrophy 3"	"patterned macular dystrophy 2"	"CACD3"	"vitelliform macular dystrophy 4"
 "Drusen"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Vitelliform-like macular lesions"	0.0	0.0	0.0	1.0	0.0	0.0	1.0
 "Choroidal neovascularization"	0.0	0.0	0.0	1.0	0.0	0.0	0.0

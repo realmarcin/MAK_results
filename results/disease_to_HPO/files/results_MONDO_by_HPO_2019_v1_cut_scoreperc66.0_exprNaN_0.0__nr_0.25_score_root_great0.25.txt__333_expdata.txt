@@ -1,4 +1,4 @@
-	"Sotos syndrome 1"	"chromosome Xp11.22 duplication syndrome"	"Charcot-Marie-Tooth disease, axonal, with vocal cord paresis, autosomal recessive"	"colorectal cancer, hereditary nonpolyposis, type 7"
+	"spinocerebellar ataxia type 29"	"X-linked non progressive cerebellar ataxia"	"leukoencephalopathy-ataxia-hypodontia-hypomyelination syndrome"	"hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism"
 "HP:0003812"	1.0	0.0	1.0	1.0
 "Hypodontia"	0.0	0.0	1.0	1.0
 "Cerebellar atrophy"	1.0	0.0	1.0	1.0

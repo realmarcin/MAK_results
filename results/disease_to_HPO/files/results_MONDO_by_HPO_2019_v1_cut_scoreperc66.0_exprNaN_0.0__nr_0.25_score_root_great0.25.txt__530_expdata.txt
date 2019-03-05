@@ -1,4 +1,4 @@
-	"isolated growth hormone deficiency type IA"	"Werner syndrome"	"Charcot-Marie-Tooth disease recessive intermediate a"	"hydatidiform mole, recurrent, 2"
+	"achromatopsia 3"	"Weill-Marchesani syndrome 1"	"glaucoma-ectopia-microspherophakia-stiff joints-short stature syndrome"	"myopia, high, with cataract and vitreoretinal degeneration"
 "Hypoplasia of the maxilla"	0.0	1.0	1.0	0.0
 "Brachydactyly"	0.0	1.0	1.0	0.0
 "Brachycephaly"	0.0	1.0	1.0	0.0

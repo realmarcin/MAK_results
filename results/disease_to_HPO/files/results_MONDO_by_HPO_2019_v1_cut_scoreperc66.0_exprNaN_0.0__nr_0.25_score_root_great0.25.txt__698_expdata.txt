@@ -1,4 +1,4 @@
-	"Greenberg dysplasia"	"type 1 diabetes mellitus 6"	"neuroferritinopathy"	"COG8-CDG"	"epileptic encephalopathy with global cerebral demyelination"	"Stevens-Johnson syndrome"
+	"rhizomelic chondrodysplasia punctata type 1"	"lymphedema-atrial septal defects-facial changes syndrome"	"Sener syndrome"	"craniofacial dysplasia - osteopenia syndrome"	"Stargardt macular degeneration, absent or hypoplastic corpus callosum, mental retardation, and dysmorphic features"	"Weissenbacher-Zweymuller syndrome"
 "HP:0000007"	1.0	1.0	0.0	1.0	1.0	0.0
 "Atrial septal defect"	0.0	1.0	0.0	1.0	0.0	0.0
 "Depressed nasal bridge"	1.0	1.0	0.0	0.0	0.0	1.0

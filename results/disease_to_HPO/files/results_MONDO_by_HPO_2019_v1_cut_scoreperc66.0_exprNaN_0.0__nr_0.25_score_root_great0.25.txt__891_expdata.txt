@@ -1,4 +1,4 @@
-	"hemangiomatosis, cutaneous, with associated features"	"biotinidase deficiency"	"arthrogryposis due to muscular dystrophy"	"syndromic X-linked intellectual disability Lubs type"	"hypertrophic cardiomyopathy 18"	"sudden cardiac failure, alcohol-induced; SCFAI"	"spastic paraplegia 78, autosomal recessive; SPG78"
+	"congenital heart block"	"mulibrey nanism"	"Fukuyama congenital muscular dystrophy"	"Danon disease"	"hypertrophic cardiomyopathy 17"	"sudden cardiac failure, infantile; SCFI"	"sudden cardiac failure, alcohol-induced; SCFAI"
 "Myocardial fibrosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Pericardial constriction"	0.0	1.0	0.0	0.0	0.0	0.0	0.0
 "HP:0007348"	0.0	0.0	1.0	0.0	0.0	0.0	0.0

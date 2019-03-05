@@ -1,4 +1,4 @@
-	"salivary duct calculi"	"mesomelic dwarfism, Reinhardt-Pfeiffer type"	"Chuvash polycythemia"	"renal and mullerian duct hypoplasia"	"Alzheimer disease 4"	"microcephaly 5, primary, autosomal recessive"
+	"sarcoidosis, susceptibility to, 1"	"inflammatory bowel disease 11"	"acquired polycythemia vera"	"inflammatory bowel disease 1"	"Carney-Stratakis syndrome"	"granulomatosis with polyangiitis"
 "HP:0001426"	0.0	1.0	0.0	1.0	0.0	0.0
 "Abdominal pain"	0.0	1.0	1.0	1.0	1.0	1.0
 "Inflammation of the large intestine"	1.0	1.0	0.0	0.0	0.0	0.0

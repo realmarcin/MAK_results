@@ -1,4 +1,4 @@
-	"optic atrophy, hearing loss, and peripheral neuropathy, autosomal recessive"	"neuronal ceroid lipofuscinosis 8"	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3"	"distal myopathy, Tateyama type"	"dystonia 28, childhood-onset; DYT28"
+	"3-methylglutaconic aciduria type 3"	"CARASIL"	"aceruloplasminemia"	"alpha-methylacyl-CoA racemase deficiency"	"dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities; DYTOABG"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Ataxia"	1.0	1.0	1.0	1.0	1.0
 "Visual impairment"	1.0	0.0	0.0	1.0	1.0

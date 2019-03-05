@@ -1,4 +1,4 @@
-	"laurin-Sandrow syndrome"	"Danon disease"	"Caroli disease"	"trimethylaminuria (disease)"	"mesoaxial synostotic syndactyly with phalangeal reduction"
+	"congenital fibrosis of extraocular muscles type 1"	"ptosis, hereditary congenital 2"	"fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement"	"fibrosis of extraocular muscles, congenital, 2"	"Tukel syndrome"
 "Compensatory chin elevation"	1.0	1.0	1.0	0.0	1.0
 "Congenital fibrosis of extraocular muscles"	1.0	0.0	1.0	1.0	1.0
 "Restrictive external ophthalmoplegia"	1.0	0.0	0.0	1.0	1.0

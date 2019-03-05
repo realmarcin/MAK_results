@@ -1,4 +1,4 @@
 "x"
-"1" "oculoosteocutaneous.syndrome"
-"2" "craniosynostosis.fibular.aplasia.syndrome"
-"3" "syndactyly.type.4"
+"1" "brachydactyly..type.A2..with.microcephaly"
+"2" "craniosynostosis.with.anomalies.of.the.cranial.base.and.digits"
+"3" "syndactyly.type.3"

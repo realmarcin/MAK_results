@@ -1,4 +1,4 @@
-	"branchiootic syndrome 1"	"rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome"	"sudden infant death-dysgenesis of the testes syndrome"	"hereditary spastic paraplegia 18"
+	"MPI-CDG"	"ALG8-CDG"	"congenital disorder of glycosylation type 1E"	"COG1-CDG"
 "Lymphedema"	1.0	1.0	0.0	0.0
 "Hepatomegaly"	1.0	1.0	1.0	0.0
 "Patent ductus arteriosus"	0.0	1.0	1.0	0.0

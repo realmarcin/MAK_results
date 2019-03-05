@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"retinitis pigmentosa Y-linked"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Klippel-Feil syndrome 2, autosomal recessive"	"Wildervanck syndrome"
 "Abducens palsy"	0.0	0.0	0.0	1.0
 "Short neck"	1.0	0.0	1.0	1.0
 "Congenital sensorineural hearing impairment"	0.0	0.0	0.0	1.0

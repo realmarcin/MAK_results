@@ -1,4 +1,4 @@
-	"neuronal ceroid lipofuscinosis 4B"	"congenital velopharyngeal incompetence"	"glaucoma 1, open angle, f"	"familial pseudohyperkalemia"
+	"multiple endocrine neoplasia type 2B"	"paroxysmal extreme pain disorder"	"familial gestational hyperthyroidism"	"familial hyperthyroidism due to mutations in TSH receptor"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Hyperactivity"	0.0	0.0	1.0	1.0
 "Sleep disturbance"	0.0	0.0	1.0	1.0

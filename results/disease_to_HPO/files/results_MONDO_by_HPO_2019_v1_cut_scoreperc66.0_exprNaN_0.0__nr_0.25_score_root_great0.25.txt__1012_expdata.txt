@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis type 18"	"peroxisome biogenesis disorder 12A (Zellweger)"	"hypotonia, infantile, with psychomotor retardation and characteristic facies 1"	"encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy; PEBEL"	"Miles-Carpenter syndrome"
+	"congenital myopathy with internal nuclei and atypical cores"	"peroxisome biogenesis disorder 11B"	"mitochondrial DNA depletion syndrome 12"	"mitochondrial DNA depletion syndrome 12a (cardiomyopathic type), autosomal dominant; MTDPS12A"	"COG7-CDG"
 "HP:0000007"	0.0	1.0	1.0	0.0	0.0
 "Skeletal muscle atrophy"	0.0	0.0	1.0	0.0	0.0
 "Obesity"	0.0	0.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"metachromatic leukodystrophy, adult-onset, with normal arylsulfatase a"	"osteogenesis imperfecta type 1"	"urate-binding globulin, decrease 1N"	"pulmonary capillary hemangiomatosis"	"congenital osteogenesis imperfecta-microcephaly-cataracts syndrome"	"cerebellar ataxia, neuropathy, and vestibular areflexia syndrome"
+	"metachondromatosis"	"Ollier disease"	"Upington disease"	"hemangiomatosis, cutaneous, with associated features"	"osteodysplasty, precocious, of Danks, Mayne, and Kozlowski"	"Maffucci syndrome"
 "Chondrosarcoma"	0.0	1.0	0.0	0.0	0.0	1.0
 "Multiple enchondromatosis"	1.0	1.0	1.0	0.0	0.0	1.0
 "Abnormality of long bone morphology"	0.0	1.0	0.0	0.0	1.0	0.0

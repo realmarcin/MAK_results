@@ -1,4 +1,4 @@
-	"insensitivity to pain with hyperplastic Myelinopathy"	"pseudoachondroplasia"	"focal facial dermal dysplasia type IV"	"erythrokeratodermia variabilis et progressiva 3"	"neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies"	"exudative vitreoretinopathy 7"	"amyotrophic lateral sclerosis, susceptibility to, 25"	"spermatogenic failure 28"	"distal monosomy 13q"
+	"cholestasis, intrahepatic, of pregnancy, 1"	"pruritus, hereditary localized"	"cholestasis, intrahepatic, of pregnancy 3"	"erythrokeratodermia variabilis et progressiva 2"	"erythrokeratodermia variabilis et progressiva 4"	"ichthyosis, congenital, autosomal recessive 14"	"amyloidosis, primary localized cutaneous, 3"	"peeling skin syndrome 6"	"epidermolysis bullosa simplex with circinate migratory erythema"
 "Pruritus"	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0
 "Intrahepatic cholestasis"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Fetal distress"	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

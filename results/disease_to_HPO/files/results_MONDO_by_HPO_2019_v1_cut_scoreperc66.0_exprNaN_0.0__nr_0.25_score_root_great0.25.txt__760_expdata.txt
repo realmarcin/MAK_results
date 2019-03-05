@@ -1,4 +1,4 @@
-	"neurofibromatosis type 6"	"intellectual disability, autosomal recessive 1"	"syndromic X-linked intellectual disability 34"	"Menkes disease"
+	"Caffey disease"	"Frank-Ter Haar syndrome"	"intellectual disability, X-linked, syndromic 33"	"Melnick-Needles syndrome"
 "Cortical irregularity"	1.0	1.0	0.0	0.0
 "Anterior concavity of thoracic vertebrae"	0.0	1.0	0.0	1.0
 "Prominent coccyx"	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration; MECRCN"	"epilepsy, early-onset, vitamin B6-dependent; EPVB6D"	"amelogenesis imperfecta, type Ij; AI1J"	"osteogenesis imperfecta, type 18"
+	"cerebellar atrophy, visual impairment, and psychomotor retardation;"	"dystonia 28, childhood-onset; DYT28"	"spastic paraplegia, intellectual disability, nystagmus, and obesity;"	"leukodystrophy, hypomyelinating, 15"
 "Esotropia"	1.0	0.0	1.0	0.0
 "Intellectual disability"	1.0	0.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0

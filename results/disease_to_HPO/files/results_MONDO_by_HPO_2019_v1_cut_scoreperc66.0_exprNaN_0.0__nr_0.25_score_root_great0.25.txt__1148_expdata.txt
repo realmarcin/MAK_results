@@ -1,4 +1,4 @@
-	"dystonia 5"	"autosomal recessive cutis laxa type 2, classic type"	"severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome"	"noonan syndrome-like disorder with loose anagen hair 2"
+	"episodic kinesigenic dyskinesia 1"	"ALDH18A1-related de Barsy syndrome"	"basal ganglia calcification, idiopathic, 5"	"neurodevelopmental disorder with involuntary movements"
 "Cryptorchidism"	0.0	1.0	0.0	0.0
 "Hyperextensible skin"	0.0	1.0	0.0	0.0
 "Pectus excavatum"	0.0	1.0	0.0	0.0

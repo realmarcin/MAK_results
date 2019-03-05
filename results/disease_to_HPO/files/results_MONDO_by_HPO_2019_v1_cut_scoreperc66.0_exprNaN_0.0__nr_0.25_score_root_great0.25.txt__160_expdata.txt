@@ -1,4 +1,4 @@
-	"Usher syndrome type 3A"	"VACTERL with hydrocephalus"	"polydactyly, postaxial, type A2"	"amyotrophic lateral sclerosis type 5"	"benign recurrent intrahepatic cholestasis type 2"
+	"Usher syndrome type 2A"	"Usher syndrome type 1C"	"Usher syndrome type 1F"	"Usher syndrome type 1E"	"Usher syndrome type 2C"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Congenital sensorineural hearing impairment"	1.0	1.0	1.0	1.0	1.0
 "Areflexia"	0.0	0.0	0.0	1.0	0.0

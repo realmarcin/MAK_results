@@ -1,4 +1,4 @@
-	"diaphragmatic hernia, congenital 1"	"inherited torticollis (disease)"	"blepharophimosis-ptosis-esotropia-syndactyly-short stature syndrome"	"cardiomyopathy associated with myopathy and sudden death"	"seizures, benign familial neonatal, autosomal recessive"	"spermatogenic failure, Y-linked, 2"
+	"hepatic adenomas, familial"	"tooth and nail syndrome"	"Bangstad syndrome"	"dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome"	"congenital generalized lipodystrophy type 2"	"46,XX testicular disorder of sex development"
 "Acanthosis nigricans"	0.0	0.0	0.0	0.0	1.0	0.0
 "Intellectual disability, mild"	0.0	0.0	0.0	0.0	1.0	0.0
 "Hypertriglyceridemia"	0.0	0.0	0.0	0.0	1.0	0.0

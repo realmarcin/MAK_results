@@ -1,4 +1,4 @@
-	"arthritis, sacroiliac"	"citrullinemia type I"	"Hartnup disease"	"Dubin-Johnson syndrome"	"hyperbilirubinemia, conjugated, type 3"	"Keipert syndrome"	"absent thumb-short stature-immunodeficiency syndrome"	"Niemann-Pick disease, type C2"
+	"arteritis, familial granulomatous, with juvenile polyarthritis"	"cirrhosis, familial"	"Halothane hepatitis"	"Rotor syndrome"	"Dubin-Johnson syndrome"	"familial atrial myxoma"	"congenital thrombotic thrombocytopenic purpura"	"Griscelli syndrome type 2"
 "Abnormality of skin pigmentation"	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
 "Jaundice"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Fever"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

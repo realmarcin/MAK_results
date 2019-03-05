@@ -1,4 +1,4 @@
-	"leishmaniasis, tegumentary, susceptibility to"	"gracile syndrome"	"nonsyndromic congenital nail disorder 7"	"neurodevelopmental disorder with poor language and loss of hand skills"	"Jaberi-Elahi syndrome"
+	"infantile convulsions and choreoathetosis"	"cerebral cavernous malformation 3"	"seizures, benign familial infantile, 2"	"encephalopathy, acute, infection-induced (herpes-specific), susceptibility to, 8"	"microcephaly 22, primary, autosomal recessive"
 "HP:0000006"	1.0	0.0	1.0	0.0	0.0
 "Migraine"	1.0	0.0	1.0	0.0	0.0
 "Focal seizures"	1.0	0.0	1.0	0.0	0.0

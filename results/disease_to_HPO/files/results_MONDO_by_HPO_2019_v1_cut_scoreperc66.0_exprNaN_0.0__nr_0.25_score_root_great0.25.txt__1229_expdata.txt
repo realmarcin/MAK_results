@@ -1,4 +1,4 @@
-	"nocturnal enuresis, 2"	"PSAT deficiency"	"retinitis pigmentosa 67"	"congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay"
+	"inherited susceptibility to asthma"	"complement factor I deficiency"	"complement factor b deficiency"	"immunodeficiency 11b with atopic dermatitis"
 "HP:0003621"	0.0	1.0	0.0	0.0
 "Renal insufficiency"	0.0	1.0	0.0	0.0
 "Recurrent urinary tract infections"	0.0	1.0	0.0	0.0

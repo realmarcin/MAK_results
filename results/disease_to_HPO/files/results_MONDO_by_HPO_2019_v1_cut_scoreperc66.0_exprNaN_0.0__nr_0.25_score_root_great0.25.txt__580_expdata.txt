@@ -1,4 +1,4 @@
-	"X-linked cerebral adrenoleukodystrophy"	"lymphoma, non-Hodgkin, familial"	"intellectual disability, autosomal recessive 7"	"OPA8"
+	"early infantile epileptic encephalopathy 9"	"familial infantile myoclonic epilepsy"	"intellectual disability, autosomal recessive 6"	"ITPA-related encephalopathy"
 "HP:0000007"	0.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Intellectual disability, mild"	0.0	1.0	0.0	0.0

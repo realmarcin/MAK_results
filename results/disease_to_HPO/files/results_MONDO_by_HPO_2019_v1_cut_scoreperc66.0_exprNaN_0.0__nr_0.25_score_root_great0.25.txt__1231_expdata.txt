@@ -1,4 +1,4 @@
-	"nocturnal enuresis, 2"	"Cornelia de Lange syndrome 4"	"retinitis pigmentosa 67"	"congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay"
+	"inherited susceptibility to asthma"	"combined immunodeficiency due to LRBA deficiency"	"complement factor b deficiency"	"immunodeficiency 11b with atopic dermatitis"
 "IgA deficiency"	0.0	1.0	0.0	0.0
 "IgM deficiency"	0.0	1.0	0.0	0.0
 "Growth delay"	0.0	1.0	0.0	0.0

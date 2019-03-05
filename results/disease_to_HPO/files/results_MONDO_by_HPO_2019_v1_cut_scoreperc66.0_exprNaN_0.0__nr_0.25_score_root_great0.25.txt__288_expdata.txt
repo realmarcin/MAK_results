@@ -1,4 +1,4 @@
-	"absence of fingerprints-congenital milia syndrome"	"renal cysts and diabetes syndrome"	"IgE responsiveness, atopic"	"raindrop hypopigmentation"	"schizophrenia (disease)"	"rhizomelic syndrome, Urbach type"
+	"echo virus 11 sensitivity"	"globulin anomaly involving beta (2A)-globulin"	"immune suppression"	"ragweed sensitivity"	"intestinal schistosomiasis"	"rheumatic fever-related antigen"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Abnormality of the immune system"	1.0	1.0	1.0	1.0	1.0	1.0
 "Fever"	0.0	0.0	0.0	1.0	0.0	1.0

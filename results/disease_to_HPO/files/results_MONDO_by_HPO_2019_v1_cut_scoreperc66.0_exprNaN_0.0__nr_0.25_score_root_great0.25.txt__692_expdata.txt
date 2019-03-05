@@ -1,4 +1,4 @@
-	"spinal muscular atrophy, type I, with congenital bone fractures"	"agammaglobulinemia 4, autosomal recessive"	"DDH2"	"hyperphosphatasia with intellectual disability syndrome 5"	"Seckel syndrome 10"
+	"spinal muscular atrophy, scapuloperoneal"	"agammaglobulinemia 3, autosomal recessive"	"combined immunodeficiency due to CD3gamma deficiency"	"autosomal recessive severe congenital neutropenia due to JAGN1 deficiency"	"uncombable hair syndrome 3; UHS3"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Recurrent otitis media"	0.0	1.0	1.0	1.0	0.0
 "Failure to thrive"	0.0	1.0	1.0	1.0	0.0

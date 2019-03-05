@@ -1,4 +1,4 @@
-	"blue rubber bleb nevus"	"cataract 20 multiple types"	"primary open angle glaucoma"	"multiple benign circumferential skin creases on limbs"	"microtia with meatal atresia and conductive deafness"	"congenital muscular dystrophy due to integrin alpha-7 deficiency"
+	"blepharoptosis-myopia-ectopia lentis syndrome"	"cataract 42"	"glaucoma 1, open angle, A"	"congenital microcoria"	"microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma"	"ichthyosis-short stature-brachydactyly-microspherophakia syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0	0.0	0.0
 "Epicanthus"	0.0	0.0	0.0	0.0	0.0	0.0
 "Umbilical hernia"	0.0	0.0	0.0	0.0	0.0	0.0

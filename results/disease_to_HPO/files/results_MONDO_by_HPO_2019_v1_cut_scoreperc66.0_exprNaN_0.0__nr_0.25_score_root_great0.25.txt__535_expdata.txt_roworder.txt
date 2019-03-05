@@ -1,4 +1,4 @@
 "x"
-"1" "Mononen.Karnes.Senac.syndrome"
-"2" "X14q22q23.microdeletion.syndrome"
-"3" "autosomal.recessive.severe.congenital.neutropenia.due.to.JAGN1.deficiency"
+"1" "Borjeson.Forssman.Lehmann.syndrome"
+"2" "lethal.acantholytic.epidermolysis.bullosa"
+"3" "cataract.growth.hormone.deficiency.sensory.neuropathy.sensorineural.hearing.loss.skeletal.dysplasia.syndrome"

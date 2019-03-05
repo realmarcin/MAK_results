@@ -1,4 +1,4 @@
-	"bifid nose, autosomal recessive"	"orotic aciduria"	"peroxisomal acyl-CoA oxidase deficiency"	"reticular dystrophy of the retinal pigment epithelium"	"spermatogenic failure 7"	"hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome"
+	"Bietti crystalline corneoretinal dystrophy"	"gyrate atrophy"	"fundus dystrophy, pseudoinflammatory, recessive form"	"retinal degeneration-nanophthalmos-glaucoma syndrome"	"autosomal recessive optic atrophy, OPA7 type"	"Leber congenital amaurosis 15"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Myopia"	0.0	1.0	1.0	1.0	0.0	1.0
 "Progressive visual loss"	1.0	0.0	1.0	0.0	0.0	0.0

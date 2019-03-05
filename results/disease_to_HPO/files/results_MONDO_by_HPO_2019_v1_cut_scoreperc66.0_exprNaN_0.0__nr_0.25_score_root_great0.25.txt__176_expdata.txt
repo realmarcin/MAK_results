@@ -1,4 +1,4 @@
-	"atelosteogenesis type III"	"short-limb skeletal dysplasia with severe combined immunodeficiency"	"brachydactyly, type A2, with microcephaly"	"disorder of sex development-intellectual disability syndrome"	"dyssegmental dysplasia-glaucoma syndrome"	"hereditary spastic paraplegia 19"	"juvenile myelomonocytic leukemia"
+	"atelosteogenesis type I"	"acromesomelic dysplasia, Grebe type"	"kyphomelic dysplasia"	"rhizomelic chondrodysplasia punctata type 3"	"multiple epiphyseal dysplasia, Lowry type"	"ALG12-CDG"	"acrocapitofemoral dysplasia"
 "Short femur"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Short humerus"	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Hypoplastic nasal septum"	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"autosomal dominant Parkinson disease 1"	"Perry syndrome"	"sulfite oxidase deficiency due to molybdenum cofactor deficiency type B"	"monocyte chemotactic disorder"	"absent radius-anogenital anomalies syndrome"
+	"late-onset Parkinson disease"	"autosomal dominant Parkinson disease 1"	"sulfite oxidase deficiency due to molybdenum cofactor deficiency type A"	"sulfite oxidase deficiency due to molybdenum cofactor deficiency type B"	"pyruvate dehydrogenase E1-alpha deficiency"
 "Long philtrum"	0.0	0.0	1.0	1.0	1.0
 "Ventriculomegaly"	0.0	0.0	1.0	1.0	1.0
 "Frontal bossing"	0.0	0.0	1.0	1.0	1.0

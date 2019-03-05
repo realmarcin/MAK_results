@@ -1,4 +1,4 @@
-	"ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3"	"Czech dysplasia, metatarsal type"	"spondylometaphyseal dysplasia, East African type"	"congenital factor XI deficiency"	"chromosome 8q21.11 deletion syndrome"	"dystonia 28, childhood-onset; DYT28"
+	"aceruloplasminemia"	"autosomal dominant striatal neurodegeneration type 1"	"DYTCA"	"torsion dystonia 17"	"autosomal recessive spinocerebellar ataxia 11"	"dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities; DYTOABG"
 "HP:0000007"	1.0	0.0	1.0	1.0	1.0	1.0
 "Abnormality of the eye"	0.0	0.0	1.0	0.0	0.0	0.0
 "Brisk reflexes"	0.0	0.0	1.0	0.0	0.0	0.0

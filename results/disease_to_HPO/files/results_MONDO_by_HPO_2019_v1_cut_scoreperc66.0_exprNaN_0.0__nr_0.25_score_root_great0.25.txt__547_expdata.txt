@@ -1,4 +1,4 @@
-	"Silver-Russell syndrome"	"autosomal recessive nonsyndromic deafness 18A"	"nemaline myopathy 5"	"autosomal recessive nonsyndromic deafness 37"	"pancreatic insufficiency-anemia-hyperostosis syndrome"
+	"Rubinstein-Taybi syndrome due to CREBBP mutations"	"capillary infantile hemangioma"	"frontoocular syndrome"	"craniolenticulosutural dysplasia"	"Kahrizi syndrome"
 "Hypoplasia of the maxilla"	1.0	0.0	0.0	1.0	0.0
 "Joint laxity"	1.0	0.0	0.0	1.0	0.0
 "Pes planus"	1.0	0.0	0.0	1.0	0.0

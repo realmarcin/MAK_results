@@ -1,4 +1,4 @@
-	"Ruvalcaba syndrome"	"Joubert syndrome with hepatic defect"	"SHOX-related short stature"	"chromosome Xp11.22 duplication syndrome"	"alpha 1-antitrypsin deficiency"
+	"Silver-Russell syndrome"	"Yunis-Varon syndrome"	"CFTDX"	"X-linked non progressive cerebellar ataxia"	"COG4-CDG"
 "Cryptorchidism"	1.0	1.0	0.0	0.0	0.0
 "Syndactyly"	1.0	1.0	0.0	0.0	0.0
 "Hypospadias"	1.0	1.0	0.0	0.0	0.0

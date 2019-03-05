@@ -1,4 +1,4 @@
-	"Ehlers-Danlos syndrome, hypermobility type"	"aggressive periodontitis"	"Mounier-Kuhn syndrome"	"muscular dystrophy, congenital, with severe central nervous system atrophy and absence of large myelinated fibers"	"cone-rod dystrophy 6"
+	"Ehlers-Danlos syndrome, classic type"	"normokalemic periodic paralysis"	"tongue, pigmented fungiform papillae of"	"cleft lip/palate-intestinal malrotation-cardiopathy syndrome"	"Ehlers-Danlos syndrome, musculocontractural type 1"
 "Arachnodactyly"	1.0	0.0	0.0	0.0	1.0
 "Microcornea"	1.0	0.0	0.0	0.0	1.0
 "Retinal detachment"	1.0	0.0	0.0	0.0	1.0

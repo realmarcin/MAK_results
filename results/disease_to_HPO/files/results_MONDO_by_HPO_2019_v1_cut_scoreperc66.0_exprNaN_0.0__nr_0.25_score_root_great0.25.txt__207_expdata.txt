@@ -1,4 +1,4 @@
-	"dilated cardiomyopathy 1DD"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"advanced sleep phase syndrome 3"	"Skraban-Deardorff syndrome"
+	"GABA aminotransferase deficiency"	"multiple mitochondrial dysfunctions syndrome 4"	"hypomyelinating leukodystrophy 13"	"multiple mitochondrial dysfunctions syndrome 5"
 "HP:0000007"	1.0	1.0	1.0	0.0
 "Generalized hypotonia"	0.0	1.0	1.0	0.0
 "Nystagmus"	0.0	1.0	1.0	0.0

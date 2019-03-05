@@ -1,4 +1,4 @@
-	"exostoses of heel"	"platelet-type bleeding disorder 16"	"right atrial isomerism (disease)"	"Cohen syndrome"	"Fibulo-ulnar hypoplasia-renal anomalies syndrome"	"renal hypomagnesemia 4"
+	"Cockayne syndrome type 2"	"thoracolaryngopelvic dysplasia"	"asphyxiating thoracic dystrophy 1"	"Cockayne syndrome type 1"	"Fuhrmann syndrome"	"spondyloepiphyseal dysplasia, Cantu type"
 "Hypoplastic iliac wing"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hypoplastic pelvis"	1.0	1.0	1.0	1.0	1.0	1.0
 "Slender long bone"	0.0	0.0	0.0	0.0	0.0	0.0

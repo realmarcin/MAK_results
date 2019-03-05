@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease with ptosis and parkinsonism"	"complement component 7 deficiency"	"Malan overgrowth syndrome"
+	"Charcot-Marie-Tooth disease type 1E"	"giant axonal neuropathy 2"	"neuronopathy, distal hereditary motor, type 5B"
 "Hyporeflexia"	1.0	1.0	1.0
 "Pes cavus"	1.0	1.0	1.0
 "Distal amyotrophy"	1.0	1.0	1.0

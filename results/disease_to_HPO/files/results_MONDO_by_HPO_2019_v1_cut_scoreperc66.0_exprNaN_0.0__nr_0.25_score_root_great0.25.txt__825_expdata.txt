@@ -1,4 +1,4 @@
-	"acropectorovertebral dysplasia"	"aurocephalosyndactyly"	"Sabinas brittle hair syndrome"	"camptodactyly syndrome, Guadalajara type 2"
+	"acroosteolysis dominant type"	"auriculoosteodysplasia"	"Branchioskeletogenital syndrome"	"camptodactyly syndrome, Guadalajara type 1"
 "Attached earlobe"	0.0	1.0	1.0	1.0
 "Absent ethmoidal sinuses"	0.0	0.0	0.0	1.0
 "Tubular metacarpal bones"	0.0	0.0	0.0	1.0

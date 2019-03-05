@@ -1,4 +1,4 @@
-	"ectrodactyly-cleft palate syndrome"	"split hand-foot malformation 1"	"Karsch-Neugebauer syndrome"	"Czeizel-Losonci syndrome"	"thalassemia, beta+, silent allele"	"down syndrome"	"congenital isolated adrenocorticotropic hormone deficiency (disease)"	"macrocephaly-autism syndrome"	"spermatogenic failure 17; SPGF17"
+	"ectrodactyly and ectodermal dysplasia without cleft lip/palate"	"split-hand and split-foot with hypodontia"	"Patterson-Stevenson-Fontaine syndrome"	"Karsch-Neugebauer syndrome"	"tetramelic monodactyly"	"triphalangeal thumbs-brachyectrodactyly syndrome"	"acrorenal syndrome, autosomal recessive"	"split hand-foot malformation 4"	"isolated sedoheptulokinase deficiency"
 "Split hand"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Split foot"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0
 "Increased urinary sedoheptulose"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0

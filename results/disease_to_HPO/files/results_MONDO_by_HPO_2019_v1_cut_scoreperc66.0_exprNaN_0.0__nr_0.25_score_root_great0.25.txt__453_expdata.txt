@@ -1,4 +1,4 @@
-	"paroxysmal nonkinesigenic dyskinesia 1"	"autosomal dominant myoglobinuria"	"MYH7-related late-onset scapuloperoneal muscular dystrophy"	"acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome"
+	"choreoathetosis, familial inverted"	"spinal muscular atrophy-progressive myoclonic epilepsy syndrome"	"scapuloperoneal spinal muscular atrophy"	"chorea-acanthocytosis"
 "Progressive choreoathetosis"	1.0	0.0	0.0	1.0
 "Progressive distal muscular atrophy"	0.0	1.0	1.0	1.0
 "Self-mutilation of tongue and lips due to involuntary movements"	0.0	0.0	0.0	1.0

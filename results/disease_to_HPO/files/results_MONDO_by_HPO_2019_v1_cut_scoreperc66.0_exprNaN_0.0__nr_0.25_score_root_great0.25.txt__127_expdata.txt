@@ -1,4 +1,4 @@
-	"myopathy with storage of glycoproteins and Glycosaminoglycans"	"cerebral palsy, spastic quadriplegic, 1"	"spondyloepiphyseal dysplasia, Kimberley type"	"craniosynostosis-intracranial calcifications syndrome"	"hypotrichosis 12"
+	"myopathy, tubular aggregate, 1"	"autosomal dominant limb-girdle muscular dystrophy type 1D (DNAJB6)"	"myopathy, myosin storage, autosomal dominant"	"autosomal dominant limb-girdle muscular dystrophy type 1F"	"myopathy, tubular aggregate, 2"
 "Flexion contracture"	1.0	1.0	0.0	1.0	1.0
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "HP:0003677"	1.0	1.0	1.0	0.0	1.0

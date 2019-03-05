@@ -1,4 +1,4 @@
 "x"
-"1" "congenital.primary.aphakia"
-"2" "isolated.microphthalmia.6"
-"3" "congenital.central.hypoventilation.syndrome"
+"1" "Kleefstra.syndrome.1"
+"2" "chromosome.4q21.deletion.syndrome"
+"3" "autism.susceptibility.1"

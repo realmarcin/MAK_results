@@ -1,4 +1,4 @@
-	"XFE progeroid syndrome"	"arrhythmogenic right ventricular dysplasia 12"	"autosomal recessive limb-girdle muscular dystrophy type 2T"	"combined oxidative phosphorylation defect type 26"	"noonan syndrome-like disorder with loose anagen hair 2"	"intellectual disability, autosomal dominant 45"
+	"Pitt-Hopkins syndrome"	"pontocerebellar hypoplasia type 6"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B14"	"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9"	"neurodevelopmental disorder with involuntary movements"	"epileptic encephalopathy, early infantile, 55"
 "Seizures"	1.0	1.0	1.0	0.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"ocular albinism with congenital sensorineural deafness"	"familial multinodular goiter"	"lactic acidosis, chronic adult form"	"sarcoidosis, susceptibility to, 1"	"tetraamelia syndrome 1"	"corneal dystrophy, Fuchs endothelial, 3"
+	"alacrima, congenital, autosomal dominant"	"multinodular goiter-cystic kidney-polydactyly syndrome"	"LADD syndrome"	"aplasia of lacrimal and salivary glands"	"tetraamelia with ectodermal dysplasia and lacrimal duct abnormalities"	"Waardenburg syndrome type 4C"
 "Lacrimal gland hypoplasia"	1.0	0.0	1.0	1.0	0.0	1.0
 "Absent lacrimal punctum"	0.0	0.0	1.0	1.0	1.0	0.0
 "Bilateral triphalangeal thumbs"	0.0	1.0	1.0	0.0	0.0	0.0

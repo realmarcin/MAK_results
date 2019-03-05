@@ -1,4 +1,4 @@
-	"heart, malformation of"	"holoprosencephaly-hypokinesia-congenital contractures syndrome"	"Pilarowski-Bjornsson syndrome"
+	"heart-hand syndrome type 3"	"Hirschsprung disease-type D brachydactyly syndrome"	"blepharocheilodontic syndrome 2"
 "Brachydactyly"	1.0	1.0	0.0
 "HP:0000006"	1.0	0.0	0.0
 "Short toe"	1.0	0.0	0.0

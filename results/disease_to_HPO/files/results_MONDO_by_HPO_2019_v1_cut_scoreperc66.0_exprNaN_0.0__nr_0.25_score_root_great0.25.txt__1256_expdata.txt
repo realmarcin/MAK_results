@@ -1,4 +1,4 @@
-	"X-linked corneal dermoid"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 6"	"chondrodysplasia with joint dislocations, gPAPP type"
+	"deafness dystonia syndrome"	"Hermansky-Pudlak syndrome 4"	"Hermansky-Pudlak syndrome 5"	"Hermansky-Pudlak syndrome 8"
 "Mental deterioration"	1.0	0.0	0.0	0.0
 "Dystonia"	1.0	0.0	0.0	0.0
 "Spasticity"	1.0	0.0	0.0	0.0

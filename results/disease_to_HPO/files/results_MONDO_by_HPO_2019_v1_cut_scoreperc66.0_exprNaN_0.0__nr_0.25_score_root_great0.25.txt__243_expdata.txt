@@ -1,4 +1,4 @@
-	"familial temporal lobe epilepsy 2"	"periodic fever-infantile enterocolitis-autoinflammatory syndrome"	"hereditary spastic paraplegia 73"	"autosomal dominant nonsyndromic deafness 67"	"Shashi-Pena syndrome; SHAPNS"	"nephronophthisis 20"
+	"DPAGT1-CDG"	"mitochondrial proton-transporting ATP synthase complex deficiency"	"postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome"	"epileptic encephalopathy, early infantile, 29"	"intellectual disability, autosomal recessive 57; MRT57"	"intellectual disability, autosomal recessive 58; MRT58"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	0.0	1.0	0.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0	1.0	0.0

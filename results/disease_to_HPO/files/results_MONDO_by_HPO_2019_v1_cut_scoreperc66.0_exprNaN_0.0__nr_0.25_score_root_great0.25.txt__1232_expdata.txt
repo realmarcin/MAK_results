@@ -1,4 +1,4 @@
-	"hypothyroidism, congenital, nongoitrous, 2"	"autosomal recessive cutis laxa type 2B"	"intellectual disability, autosomal recessive 14"	"Moyamoya disease 5"	"cone-rod dystrophy 16"	"dystonia 21"	"peroxisome biogenesis disorder 11B"	"osteogenesis imperfecta type 15"	"immunodeficiency 39"	"myofibrillar myopathy 8"
+	"craniotelencephalic dysplasia"	"lethal polymalformative syndrome, Boissel type"	"lissencephaly 4"	"complex cortical dysplasia with other brain malformations 1"	"intellectual disability, autosomal recessive 34"	"Baraitser-winter syndrome 2"	"peroxisome biogenesis disorder 11A (Zellweger)"	"hydrocephalus, nonsyndromic, autosomal recessive 2"	"lissencephaly 7 with cerebellar hypoplasia"	"lissencephaly 8; LIS8"
 "Talipes calcaneovalgus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Nephrogenic diabetes insipidus"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Lissencephaly"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

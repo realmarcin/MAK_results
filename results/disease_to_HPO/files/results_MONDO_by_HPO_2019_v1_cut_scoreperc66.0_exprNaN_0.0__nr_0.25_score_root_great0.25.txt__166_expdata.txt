@@ -1,4 +1,4 @@
-	"Sotos syndrome 1"	"lymphoma, non-Hodgkin, familial"	"Seckel syndrome 8"
+	"spinocerebellar ataxia type 29"	"familial infantile myoclonic epilepsy"	"pontocerebellar hypoplasia type 10"
 "Delayed fine motor development"	1.0	1.0	1.0
 "Delayed social development"	1.0	0.0	0.0
 "HP:0025405"	1.0	0.0	1.0

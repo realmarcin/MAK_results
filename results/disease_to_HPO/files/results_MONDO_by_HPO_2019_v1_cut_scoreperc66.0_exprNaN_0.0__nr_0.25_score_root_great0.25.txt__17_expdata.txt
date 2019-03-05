@@ -1,4 +1,4 @@
-	"Cri-du-chat syndrome"	"Parotidomegaly, hereditary bilateral"	"myofibrillar myopathy 6"
+	"inherited Creutzfeldt-Jakob disease"	"Perry syndrome"	"autosomal recessive Parkinson disease 14"
 "Depressivity"	1.0	1.0	1.0
 "Tremor"	1.0	1.0	1.0
 "Supranuclear gaze palsy"	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"dens evaginatus"	"nystagmus, hereditary vertical"	"autosomal dominant optic atrophy, classic form"	"optic atrophy with negative Electroretinograms"	"nystagmus, myoclonic"
+	"optic atrophy with or without deafness, ophthalmoplegia, myopathy, ataxia, and neuropathy"	"NYS2"	"autosomal dominant optic atrophy and cataract"	"autosomal dominant optic atrophy, classic form"	"nystagmus 1, congenital, X-linked"
 "Strabismus"	1.0	1.0	0.0	1.0	0.0
 "HP:0000006"	1.0	1.0	1.0	1.0	0.0
 "Ataxia"	1.0	0.0	1.0	1.0	0.0

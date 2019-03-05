@@ -1,4 +1,4 @@
-	"gnathodiaphyseal dysplasia"	"otospondylomegaepiphyseal dysplasia, autosomal recessive"	"Silverman-Handmaker type dyssegmental dysplasia"	"otoonychoperoneal syndrome"	"ichthyosis, hystrix-like, with deafness"	"retinitis pigmentosa 42"
+	"osteoglophonic dwarfism"	"Greenberg dysplasia"	"dyssegmental dysplasia, Rolland-Desbuquois type"	"lethal osteosclerotic bone dysplasia"	"Marshall-Smith syndrome"	"autosomal recessive cutis laxa type 2B"
 "Malar flattening"	1.0	1.0	1.0	1.0	1.0	1.0
 "Midface retrusion"	1.0	1.0	1.0	1.0	1.0	1.0
 "Shallow orbits"	1.0	0.0	1.0	0.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"biliary malformation with renal tubular insufficiency"	"syndromic X-linked intellectual disability 94"	"EIG7"	"Seckel syndrome 5"	"Weill-Marchesani syndrome 3"	"glaucoma 3, primary congenital, E; GLC3E"
+	"biliary atresia"	"X-linked myopathy with postural muscle atrophy"	"diffuse panbronchiolitis"	"nephronophthisis 12"	"karyomegalic interstitial nephritis"	"nephronophthisis 20"
 "HP:0000007"	0.0	0.0	0.0	1.0	1.0	1.0
 "HP:0000006"	0.0	0.0	0.0	1.0	0.0	0.0
 "Renal cyst"	0.0	0.0	0.0	0.0	0.0	1.0

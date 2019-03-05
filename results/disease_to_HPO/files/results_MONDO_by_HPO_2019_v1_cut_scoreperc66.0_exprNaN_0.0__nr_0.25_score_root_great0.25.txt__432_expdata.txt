@@ -1,4 +1,4 @@
-	"acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome"	"autoimmune hemolytic anemia"	"Ethanolaminosis"	"reticulum cell sarcoma"	"epilepsy, idiopathic generalized, susceptibility to, 11"	"cardiomyopathy-hypotonia-lactic acidosis syndrome"
+	"chorea-acanthocytosis"	"Tangier disease"	"congenital lethal erythroderma"	"familial hemophagocytic lymphohistiocytosis type 1"	"neonatal ichthyosis-sclerosing cholangitis syndrome"	"DK1-CDG"
 "Hepatomegaly"	1.0	1.0	0.0	1.0	1.0	1.0
 "Splenomegaly"	1.0	1.0	0.0	1.0	1.0	1.0
 "Dry skin"	0.0	1.0	1.0	0.0	1.0	1.0

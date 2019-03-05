@@ -1,4 +1,4 @@
-	"X-linked centronuclear myopathy"	"Pallister-W syndrome"	"DFNY1"	"cone-rod dystrophy 1"
+	"myoclonic epilepsy, progressive"	"Paine syndrome"	"retinitis pigmentosa Y-linked"	"setting-Sun phenomenon, familial benign"
 "HP:0001417"	1.0	1.0	0.0	0.0
 "Microcephaly"	0.0	1.0	0.0	0.0
 "Generalized myoclonic seizures"	1.0	1.0	0.0	0.0

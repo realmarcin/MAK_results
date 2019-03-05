@@ -1,4 +1,4 @@
-	"leukocyte adhesion deficiency 1"	"choroidal osteoma, bilateral"	"hydrocephalus-costovertebral dysplasia-Sprengel anomaly syndrome"	"spondylocostal dysostosis 3, autosomal recessive"	"autosomal recessive nonsyndromic deafness 86"
+	"celiac artery stenosis from compression by median arcuate ligament of diaphragm"	"chylomicronemia, familial, due to circulating inhibitor of lipoprotein lipase"	"infundibulopelvic stenosis-multicystic kidney syndrome"	"maturity-onset diabetes of the young type 8"	"congenital diarrhea 6"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0
 "Diarrhea"	0.0	0.0	0.0	0.0	1.0
 "Abdominal pain"	1.0	1.0	1.0	1.0	1.0

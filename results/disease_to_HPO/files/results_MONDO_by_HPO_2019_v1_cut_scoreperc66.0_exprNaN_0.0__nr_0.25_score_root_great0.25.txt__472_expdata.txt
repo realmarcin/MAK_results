@@ -1,4 +1,4 @@
-	"ankyloblepharon filiforme adnatum-cleft palate syndrome"	"familial cutaneous collagenoma"	"RHYNS syndrome"	"autosomal recessive bestrophinopathy"
+	"anisocoria (disease)"	"cardiomyopathy, familial restrictive, 1"	"ETM2"	"tremor, hereditary essential, and idiopathic normal pressure hydrocephalus"
 "HP:0000006"	1.0	1.0	1.0	1.0
 "Ventriculomegaly"	0.0	1.0	0.0	1.0
 "Fatigue"	1.0	0.0	1.0	0.0

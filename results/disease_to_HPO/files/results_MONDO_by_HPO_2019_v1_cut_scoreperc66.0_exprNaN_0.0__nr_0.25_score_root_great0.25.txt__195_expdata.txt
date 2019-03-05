@@ -1,4 +1,4 @@
-	"Ramon syndrome"	"X-linked cone-rod dystrophy 3"	"X-linked hereditary sensory and autonomic neuropathy with deafness"	"hereditary spastic paraplegia 34"	"developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency"
+	"leukocyte adhesion deficiency type II"	"severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome"	"Brooks-Wisniewski-brown syndrome"	"syndromic X-linked intellectual disability Najm type"	"DYRK1A-related intellectual disability syndrome"
 "Microcephaly"	1.0	1.0	1.0	1.0	1.0
 "Bulbous nose"	1.0	0.0	1.0	0.0	1.0
 "Hyperactivity"	0.0	1.0	1.0	0.0	1.0

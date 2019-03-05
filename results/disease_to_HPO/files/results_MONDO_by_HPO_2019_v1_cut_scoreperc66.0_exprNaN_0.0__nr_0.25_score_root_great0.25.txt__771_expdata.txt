@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"CHAND syndrome"	"enamel hypoplasia, cataracts, and aqueductal stenosis"	"agonadism, 46,XY, with mental retardation, short stature, retarded bone age, and multiple extragenital malformations"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Klippel-Feil syndrome 2, autosomal recessive"	"ectodermal dysplasia with intellectual disability and syndactyly"	"enamel hypoplasia, cataracts, and aqueductal stenosis"
 "Ventriculomegaly"	0.0	0.0	0.0	1.0	1.0
 "Headache"	0.0	0.0	0.0	1.0	1.0
 "Dental crowding"	0.0	0.0	0.0	1.0	1.0

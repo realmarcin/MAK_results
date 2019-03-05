@@ -1,4 +1,4 @@
-	"glycoprotein storage disease"	"syndromic X-linked intellectual disability Lubs type"	"intellectual disability, X-linked 91"	"intellectual disability, X-linked 93"	"Alzheimer disease, susceptibility to, mitochondrial"
+	"glycogen storage disease VII"	"Danon disease"	"glycogen storage disease IXd"	"glycogen storage disease due to phosphoglycerate kinase 1 deficiency"	"mitochondrial myopathy with reversible cytochrome C oxidase deficiency"
 "Hemolytic anemia"	1.0	0.0	0.0	1.0	0.0
 "Exercise-induced muscle cramps"	1.0	1.0	0.0	1.0	0.0
 "Exercise intolerance"	1.0	1.0	1.0	1.0	0.0

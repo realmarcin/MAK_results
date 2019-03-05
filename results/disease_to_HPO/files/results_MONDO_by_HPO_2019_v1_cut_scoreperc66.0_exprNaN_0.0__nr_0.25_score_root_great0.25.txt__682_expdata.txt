@@ -1,4 +1,4 @@
-	"ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant"	"tricho-retino-dento-digital syndrome"	"Undritz anomaly"	"intellectual disability, autosomal dominant 14"	"uncombable hair syndrome 3; UHS3"	"Seckel syndrome 10"
+	"Rapp-Hodgkin syndrome"	"uncombable hair syndrome"	"tricho-retino-dento-digital syndrome"	"trichohepatoenteric syndrome 2"	"uncombable hair syndrome 2; UHS2"	"uncombable hair syndrome 3; UHS3"
 "Pili canaliculi"	1.0	1.0	1.0	1.0	1.0	1.0
 "Progressive alopecia"	1.0	0.0	0.0	0.0	0.0	0.0
 "Decreased number of sweat glands"	1.0	0.0	0.0	0.0	0.0	0.0

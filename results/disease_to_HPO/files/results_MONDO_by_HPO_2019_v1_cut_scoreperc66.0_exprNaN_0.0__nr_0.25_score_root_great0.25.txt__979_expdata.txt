@@ -1,4 +1,4 @@
-	"growth hormone secreting pituitary adenoma 1"	"nevus, epidermal"	"colonic atresia (disease)"	"Worth syndrome"	"neuronopathy, distal hereditary motor, type 7B"	"spermatogenic failure 30"
+	"acromegaloid facial appearance syndrome"	"hereditary neutrophilia"	"Coffin-Lowry syndrome"	"autosomal dominant osteopetrosis 1"	"Worth syndrome"	"osteopetrosis, autosomal dominant 3"
 "Large hands"	1.0	0.0	1.0	0.0	0.0	0.0
 "Tapered finger"	1.0	0.0	1.0	0.0	0.0	0.0
 "Highly arched eyebrow"	1.0	0.0	1.0	0.0	0.0	0.0

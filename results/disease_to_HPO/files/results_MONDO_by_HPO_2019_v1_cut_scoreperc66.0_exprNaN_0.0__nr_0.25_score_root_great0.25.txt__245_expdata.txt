@@ -1,4 +1,4 @@
-	"fallot complex-intellectual disability-growth delay syndrome"	"glucose-galactose malabsorption"	"pyruvate dehydrogenase phosphatase deficiency"	"acne inversa, familial, 2"	"amyotrohpic lateral sclerosis type 22"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
+	"ALG3-CDG"	"fumaric aciduria"	"ALG9-CDG"	"chromosome 1p32-p31 deletion syndrome"	"autosomal recessive spinocerebellar ataxia 18"	"spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits"
 "HP:0000007"	1.0	1.0	1.0	0.0	1.0	0.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	0.0	1.0	1.0	1.0	1.0	0.0

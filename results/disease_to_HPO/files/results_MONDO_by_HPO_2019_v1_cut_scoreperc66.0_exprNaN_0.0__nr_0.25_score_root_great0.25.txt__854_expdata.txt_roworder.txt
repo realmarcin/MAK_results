@@ -1,4 +1,4 @@
 "x"
-"1" "hereditary.spastic.paraplegia.77"
-"2" "immunodeficiency..common.variable..1"
-"3" "reticular.dystrophy.of.retinal.pigment.epithelium"
+"1" "transketolase.deficiency"
+"2" "hereditary.spastic.paraplegia.24"
+"3" "proximal.renal.tubular.acidosis"

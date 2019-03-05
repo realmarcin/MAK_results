@@ -1,4 +1,4 @@
-	"ataxia-microcephaly-cataract syndrome"	"MHC class II deficiency"	"leukocyte adhesion deficiency type II"	"autosomal recessive limb-girdle muscular dystrophy type 2O"
+	"ataxia - deafness - intellectual disability syndrome"	"Bardet-Biedl syndrome 1"	"radioulnar synostosis-developmental delay-hypotonia syndrome"	"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B2"
 "Strabismus"	1.0	1.0	1.0	1.0
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	0.0	1.0

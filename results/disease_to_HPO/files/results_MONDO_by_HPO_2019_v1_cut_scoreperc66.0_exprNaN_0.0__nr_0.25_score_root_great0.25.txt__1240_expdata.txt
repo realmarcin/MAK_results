@@ -1,4 +1,4 @@
-	"hypothyroidism, congenital, nongoitrous, 2"	"xylosidase deficiency"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+	"craniotelencephalic dysplasia"	"46,XX sex reversal 2"	"testicular anomalies with or without congenital heart disease"	"46,XX sex reversal 4"
 "Craniosynostosis"	1.0	0.0	0.0	0.0
 "Absent septum pellucidum"	1.0	0.0	0.0	0.0
 "Preauricular skin tag"	1.0	0.0	0.0	0.0

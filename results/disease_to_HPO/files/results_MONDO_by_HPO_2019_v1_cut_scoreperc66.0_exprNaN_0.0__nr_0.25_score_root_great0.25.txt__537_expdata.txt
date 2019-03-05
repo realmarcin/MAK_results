@@ -1,4 +1,4 @@
-	"cytochrome-c oxidase deficiency disease"	"lysinuric protein intolerance"	"hydroxyprolinemia (disease)"	"hypermetabolism due to defect 1N mitochondria"	"prominent glabella-microcephaly-hypogenitalism syndrome"	"Sandhoff disease"
+	"cystinuria (disease)"	"hyperdibasic aminoaciduria type 1"	"seizures-intellectual disability due to hydroxylysinuria syndrome"	"hyperlysinuria with hyperammonemia"	"lysine malabsorption syndrome"	"saccharopinuria"
 "Argininuria"	1.0	1.0	0.0	0.0	0.0	0.0
 "Hyperlysinuria"	1.0	1.0	1.0	1.0	1.0	1.0
 "Ornithinuria"	1.0	1.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Liddle syndrome 1"	"spondyloepiphyseal dysplasia, MacDermot type"	"spondylometaphyseal dysplasia, Kozlowski type"	"spondylometaphyseal dysplasia, Schmidt type"	"Riley-Day syndrome"	"epileptic encephalopathy, early infantile, 63"
+	"pseudoachondroplasia"	"spondyloepiphyseal dysplasia congenita"	"spondyloepimetaphyseal dysplasia, Strudwick type"	"spondylometaphyseal dysplasia, Kozlowski type"	"Dyggve-Melchior-Clausen disease"	"spondyloepimetaphyseal dysplasia, di rocco type"
 "Flared metaphysis"	0.0	0.0	0.0	1.0	0.0	0.0
 "High forehead"	0.0	0.0	0.0	1.0	0.0	0.0
 "Platyspondyly"	1.0	1.0	1.0	1.0	1.0	1.0

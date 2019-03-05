@@ -1,4 +1,4 @@
-	"Bloom syndrome"	"alveolar soft part sarcoma (disease)"	"CAD-CDG"	"orofaciodigital syndrome XV"
+	"blepharophimosis-ptosis-esotropia-syndactyly-short stature syndrome"	"intellectual disability, microcephaly, growth retardation, joint contractures, and facial dysmorphism"	"Zimmermann-Laband syndrome 2"	"Alazami-Yuan syndrome; ALYUS"
 "Widow's peak"	0.0	1.0	1.0	0.0
 "Thick eyebrow"	1.0	1.0	1.0	1.0
 "Atopic dermatitis"	0.0	1.0	0.0	0.0

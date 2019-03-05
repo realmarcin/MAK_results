@@ -1,4 +1,4 @@
-	"neuropathy, hereditary sensory and autonomic, type 1A"	"autosomal recessive nonsyndromic deafness 13"	"split hand-foot malformation 4"	"familial hemophagocytic lymphohistiocytosis 3"
+	"neuropathy, hereditary sensorimotor, with upper motor neuron, visual pathway and autonomic disturbance"	"age related macular degeneration 1"	"Charcot-Marie-Tooth disease type 4G"	"macular degeneration, age-related, 3"
 "Hyperextensible skin"	0.0	0.0	0.0	1.0
 "HP:0000006"	0.0	1.0	0.0	1.0
 "Distal amyotrophy"	1.0	0.0	0.0	1.0

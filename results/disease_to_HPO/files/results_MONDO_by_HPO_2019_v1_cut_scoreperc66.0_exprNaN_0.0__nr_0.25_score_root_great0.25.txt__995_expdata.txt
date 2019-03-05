@@ -1,4 +1,4 @@
-	"autosomal dominant Kenny-Caffey syndrome"	"Liddle syndrome 1"	"spondyloepiphyseal dysplasia, MacDermot type"	"odontochondrodysplasia"	"Riley-Day syndrome"	"channelopathy-associated congenital insensitivity to pain"	"metaphyseal chondrodysplasia-retinitis pigmentosa syndrome"	"microphthalmia, isolated, with coloboma 4"	"Threoninemia"	"atypical hemolytic-uremic syndrome with MCP/CD46 anomaly"
+	"3-M syndrome"	"pseudoachondroplasia"	"spondyloepiphyseal dysplasia congenita"	"spondylometaphyseal dysplasia, 'corner fracture' type"	"Dyggve-Melchior-Clausen disease"	"Schimke immuno-osseous dysplasia"	"metaphyseal chondrodysplasia, Spahr type"	"Desbuquois dysplasia 1"	"three M syndrome 1"	"three M syndrome 2"
 "Myopathy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Facial palsy"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Elevated serum creatine phosphokinase"	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

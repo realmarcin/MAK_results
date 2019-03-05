@@ -1,4 +1,4 @@
-	"amyotrophic lateral sclerosis-parkinsonism-dementia complex"	"Carney-Stratakis syndrome"	"C1Q deficiency"	"asphyxiating thoracic dystrophy 5"
+	"amyotrophic lateral sclerosis type 1"	"bilateral frontoparietal polymicrogyria"	"hereditary spastic paraplegia 48"	"amyotrophic lateral sclerosis type 16"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Esotropia"	0.0	1.0	0.0	0.0
 "Hyperreflexia"	1.0	1.0	1.0	1.0

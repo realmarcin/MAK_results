@@ -1,4 +1,4 @@
-	"alcohol dependence"	"focal segmental glomerulosclerosis 1"	"pseudopseudohypoparathyroidism"	"chromosome 1q21.1 deletion syndrome"
+	"pseudohypoparathyroidism type 1A"	"pseudohypoparathyroidism type 1B"	"pseudohypoparathyroidism type 1C"	"pseudopseudohypoparathyroidism"
 "Broad distal phalanx of the thumb"	1.0	0.0	1.0	0.0
 "Hypogonadism"	1.0	0.0	1.0	0.0
 "Choroid plexus calcification"	1.0	0.0	1.0	0.0

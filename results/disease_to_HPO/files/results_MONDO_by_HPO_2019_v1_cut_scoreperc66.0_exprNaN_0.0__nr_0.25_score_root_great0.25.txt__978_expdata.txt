@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"chromosome 22q13 duplication syndrome"	"cardiac anomalies - developmental delay - facial dysmorphism syndrome"
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Plagiocephaly"	0.0	0.0	0.0	1.0
 "Intellectual disability, moderate"	0.0	0.0	0.0	1.0

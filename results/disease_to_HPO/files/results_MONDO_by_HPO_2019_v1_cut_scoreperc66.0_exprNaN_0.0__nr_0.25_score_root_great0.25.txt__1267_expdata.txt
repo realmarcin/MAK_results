@@ -1,4 +1,4 @@
-	"intellectual disability, X-linked 58"	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"Simpson-Golabi-Behmel syndrome type 2"	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"chromosome 22q13 duplication syndrome"
 "Broad palm"	1.0	0.0	0.0	0.0
 "Pneumonia"	1.0	0.0	0.0	0.0
 "Short finger"	1.0	0.0	0.0	0.0

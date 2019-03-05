@@ -1,4 +1,4 @@
-	"atelosteogenesis type III"	"ATHS"	"omphalocele, autosomal"	"neuropathy, hereditary sensory and autonomic, type 2A"	"lethal omphalocele-cleft palate syndrome"
+	"atelosteogenesis type I"	"atelosteogenesis type III"	"autosomal dominant omodysplasia"	"acromesomelic dysplasia, Hunter-Thompson type"	"autosomal recessive omodysplasia"
 "Elbow dislocation"	1.0	1.0	1.0	1.0	1.0
 "Patellar dislocation"	0.0	0.0	1.0	1.0	0.0
 "Rhizomelic arm shortening"	0.0	0.0	1.0	0.0	0.0

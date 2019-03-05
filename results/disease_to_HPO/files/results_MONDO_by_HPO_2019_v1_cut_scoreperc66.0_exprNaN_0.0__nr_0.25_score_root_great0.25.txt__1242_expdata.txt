@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"dominant pericentral pigmentary retinopathy"	"CHAND syndrome"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"retinoblastoma"	"Klippel-Feil syndrome 2, autosomal recessive"
 "Osteosarcoma"	0.0	0.0	1.0	0.0
 "Vitritis"	0.0	0.0	1.0	0.0
 "Retinal calcification"	0.0	0.0	1.0	0.0

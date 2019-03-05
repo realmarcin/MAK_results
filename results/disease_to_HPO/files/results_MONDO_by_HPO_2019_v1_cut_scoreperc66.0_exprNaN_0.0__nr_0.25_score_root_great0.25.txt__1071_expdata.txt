@@ -1,4 +1,4 @@
-	"myofibromatosis, infantile, 1"	"multiple epiphyseal dysplasia, Lowry type"	"nephropathy, progressive tubulointerstitial, with cholestatic liver disease"	"Fanconi anemia complementation group i"	"hereditary spastic paraplegia 28"
+	"fibrochondrogenesis 1"	"Stüve-Wiedemann syndrome"	"spondyloepimetaphyseal dysplasia, Missouri type"	"spondylometaphyseal dysplasia, A4 type"	"multiple epiphyseal dysplasia, with miniepiphyses"
 "Broad ischia"	1.0	1.0	0.0	1.0	0.0
 "Sclerotic humeral metaphysis"	0.0	0.0	0.0	1.0	0.0
 "Osteoporotic metatarsal"	0.0	0.0	0.0	1.0	0.0

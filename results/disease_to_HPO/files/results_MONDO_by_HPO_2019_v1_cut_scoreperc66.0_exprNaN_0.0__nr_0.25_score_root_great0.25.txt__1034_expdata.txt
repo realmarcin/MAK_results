@@ -1,4 +1,4 @@
-	"MRX89"	"hypercholesterolemia, autosomal dominant, 3"	"MGR12"	"cone-rod dystrophy 18"
+	"moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome"	"blepharophimosis - intellectual disability syndrome, SBBYS type"	"early-onset myopathy with fatal cardiomyopathy"	"left ventricular noncompaction 8"
 "Abnormality of the nasolacrimal system"	0.0	1.0	0.0	0.0
 "Microdontia"	0.0	1.0	0.0	0.0
 "Prominent occiput"	0.0	1.0	0.0	0.0

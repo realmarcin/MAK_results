@@ -1,4 +1,4 @@
-	"L-ferritin deficiency"	"cardiomyopathy, dilated, with woolly hair, keratoderma, and tooth agenesis"	"nephronophthisis 20"
+	"microcephaly-thin corpus callosum-intellectual disability syndrome"	"intellectual disability, autosomal recessive 43"	"intellectual disability, autosomal recessive 58; MRT58"
 "HP:0000007"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0

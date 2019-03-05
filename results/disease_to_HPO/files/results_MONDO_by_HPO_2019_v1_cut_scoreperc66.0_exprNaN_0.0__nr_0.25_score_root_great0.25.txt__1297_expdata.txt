@@ -1,4 +1,4 @@
-	"Perlman syndrome"	"setting-Sun phenomenon, familial benign"	"osteogenesis imperfecta type 11"	"chromosome 17q21.31 duplication syndrome"
+	"short-rib thoracic dysplasia 9 with or without polydactyly"	"craniosynostosis, Adelaide type"	"osteogenesis imperfecta type 5"	"Gorlin-Chaudhry-Moss syndrome"
 "Hepatomegaly"	1.0	0.0	0.0	0.0
 "Microcephaly"	1.0	0.0	0.0	0.0
 "Ataxia"	1.0	0.0	0.0	0.0

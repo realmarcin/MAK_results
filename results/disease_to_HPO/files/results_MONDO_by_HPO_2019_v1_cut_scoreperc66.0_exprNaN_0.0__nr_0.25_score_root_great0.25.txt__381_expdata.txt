@@ -1,4 +1,4 @@
-	"Pick disease"	"familial chronic myelocytic leukemia-like syndrome"	"episodic ataxia type 3"	"ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant"	"myopia 24, autosomal dominant"	"mosaic variegated aneuploidy syndrome 3"
+	"photomyoclonus, diabetes mellitus, deafness, nephropathy, and cerebral dysfunction"	"fatal familial insomnia"	"episodic ataxia type 4"	"familial cortical myoclonus"	"spinocerebellar ataxia type 37"	"psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome"
 "HP:0000006"	1.0	1.0	1.0	1.0	1.0	0.0
 "Ataxia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Myoclonus"	0.0	1.0	0.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"malignant hyperthermia, susceptibility to, 3"	"malocclusion due to protuberant upper front teeth"	"embryonal rhabdomyosarcoma (disease)"	"craniolenticulosutural dysplasia"
+	"malignant hyperthermia, susceptibility to, 2"	"malignant hyperthermia, susceptibility to, 3"	"myoglobinuria, acute recurrent, autosomal recessive"	"MONDO:0011910"
 "HP:0001425"	1.0	1.0	0.0	1.0
 "Hyperphosphatemia"	1.0	1.0	0.0	0.0
 "Fever"	1.0	1.0	1.0	0.0

@@ -1,4 +1,4 @@
-	"hereditary spastic paraplegia 5A"	"Carney-Stratakis syndrome"	"Charcot-Marie-Tooth disease type 4J"	"hereditary spastic paraplegia 38"	"GABA aminotransferase deficiency"	"amelogenesis imperfecta hypomaturation type 2A3"
+	"hereditary spastic paraplegia 23"	"bilateral frontoparietal polymicrogyria"	"hereditary spastic paraplegia 18"	"hereditary spastic paraplegia 35"	"hereditary spastic paraplegia 45"	"hereditary spastic paraplegia 44"
 "Seizures"	1.0	1.0	1.0	1.0	0.0	1.0
 "Spastic paraplegia"	1.0	0.0	1.0	1.0	1.0	1.0
 "Hyperreflexia"	1.0	1.0	1.0	0.0	1.0	1.0

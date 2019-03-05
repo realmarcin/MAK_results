@@ -1,4 +1,4 @@
-	"brachytelephalangy-dysmorphism-Kallmann syndrome"	"junctional epidermolysis bullosa, non-Herlitz type"	"epidermolysis bullosa simplex with muscular dystrophy"	"frontometaphyseal dysplasia 1"	"Brugada syndrome 3"
+	"Brachymorphism-onychodysplasia-dysphalangism syndrome"	"recessive dystrophic epidermolysis bullosa"	"junctional epidermolysis bullosa, non-Herlitz type"	"focal dermal hypoplasia"	"chromosome 22q11.2 deletion syndrome, distal"
 "Nail dysplasia"	1.0	1.0	1.0	1.0	0.0
 "Ankyloglossia"	0.0	1.0	0.0	0.0	1.0
 "Bone marrow hypocellularity"	0.0	0.0	0.0	0.0	0.0

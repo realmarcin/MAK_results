@@ -1,4 +1,4 @@
-	"exchondrosis of pinna, posterior"	"hereditary diffuse gastric adenocarcinoma"	"heterochromia iridis (disease)"
+	"esophageal ring, lower"	"gastric volvulus, intrathoracic"	"hiatus hernia (disease)"
 "Abnormality of the thorax"	0.0	0.0	1.0
 "HP:0000006"	1.0	1.0	1.0
 "Dysphagia"	1.0	0.0	0.0

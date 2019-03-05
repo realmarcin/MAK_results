@@ -1,4 +1,4 @@
-	"xylosidase deficiency"	"hypospadias, hypertelorism, upper 51D coloboma, and mixed-type hearing loss"	"periventricular nodular heterotopia 6"	"neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+	"46,XX sex reversal 2"	"arhinia, choanal atresia, and microphthalmia"	"testicular anomalies with or without congenital heart disease"	"46,XX sex reversal 4"
 "Synophrys"	0.0	1.0	0.0	0.0
 "Micropenis"	1.0	1.0	1.0	1.0
 "Hypoplastic labia majora"	0.0	1.0	0.0	0.0

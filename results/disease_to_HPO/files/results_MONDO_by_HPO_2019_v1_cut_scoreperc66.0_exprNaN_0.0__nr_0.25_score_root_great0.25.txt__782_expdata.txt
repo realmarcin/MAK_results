@@ -1,4 +1,4 @@
-	"rheumatoid arthritis"	"Revesz syndrome"	"Rett syndrome"	"testicular microlithiasis (disease)"	"pigmented nodular adrenocortical disease, primary, 1"
+	"retinoschisis, autosomal dominant"	"enhanced S-cone syndrome"	"X-linked retinoschisis"	"cone-rod synaptic disorder, congenital nonprogressive"	"retinal cone dystrophy 4"
 "Retinoschisis"	1.0	1.0	1.0	0.0	0.0
 "Cystic retinal degeneration"	0.0	0.0	1.0	0.0	0.0
 "Electronegative electroretinogram"	0.0	0.0	1.0	1.0	1.0

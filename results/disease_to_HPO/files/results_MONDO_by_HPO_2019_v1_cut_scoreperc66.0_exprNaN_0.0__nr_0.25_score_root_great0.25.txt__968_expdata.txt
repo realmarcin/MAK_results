@@ -1,4 +1,4 @@
-	"Fanconi anemia complementation group C"	"hemopoietic proliferation"	"thrombocytopenia with elevated serum IgA and renal disease"	"cardiomyopathy, familial restrictive, 3"	"brachydactyly, type A1, with short stature, scoliosis, microcephaly, ptosis, hearing loss, and mental retardation"	"46,XX ovarian dysgenesis-short stature syndrome"
+	"congenital factor X deficiency"	"hemophilia B"	"X-linked thrombocytopenia with normal platelets"	"congenital factor XI deficiency"	"factor 5 and Factor VIII, combined deficiency of, 2"	"platelet-type bleeding disorder 19"
 "Increased IgE level"	0.0	0.0	1.0	0.0	0.0	0.0
 "Eczema"	0.0	0.0	1.0	0.0	0.0	0.0
 "Epistaxis"	1.0	0.0	1.0	1.0	1.0	1.0

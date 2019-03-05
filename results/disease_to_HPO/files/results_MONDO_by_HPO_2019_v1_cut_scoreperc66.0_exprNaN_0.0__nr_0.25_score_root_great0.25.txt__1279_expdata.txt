@@ -1,4 +1,4 @@
-	"cancer, familial, with 1N vitro Radioresistance"	"corticosterone methyloxidase type 1 deficiency"	"X-linked intellectual disability-craniofacioskeletal syndrome"	"osteogenesis imperfecta type 14"
+	"Gordon syndrome"	"microcephaly-albinism-digital anomalies syndrome"	"syndromic X-linked intellectual disability Shrimpton type"	"distal arthrogryposis type 5D"
 "Ophthalmoplegia"	1.0	0.0	0.0	0.0
 "Pectus excavatum"	1.0	0.0	0.0	0.0
 "Lumbar hyperlordosis"	1.0	0.0	0.0	0.0

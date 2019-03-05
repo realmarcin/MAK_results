@@ -1,4 +1,4 @@
-	"cutaneous photosensitivity-lethal colitis syndrome"	"Nijmegen breakage syndrome-like disorder"	"neurodegeneration with brain iron accumulation 4"	"craniosynostosis 6"
+	"Cushing disease due to pituitary adenoma"	"progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 5"	"Wolfram-like syndrome"	"skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome"
 "Ptosis"	0.0	1.0	0.0	1.0
 "Hearing impairment"	0.0	1.0	1.0	0.0
 "Depressivity"	1.0	1.0	1.0	1.0

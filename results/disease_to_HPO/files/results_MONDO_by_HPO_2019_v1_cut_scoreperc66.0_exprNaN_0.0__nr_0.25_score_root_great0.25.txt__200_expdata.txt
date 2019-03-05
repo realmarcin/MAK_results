@@ -1,4 +1,4 @@
-	"globulin anomaly involving beta (2A)-globulin"	"Peutz-Jeghers syndrome"	"tyrosinemia type II"	"pituitary hormone deficiency, combined, 1"
+	"glioma susceptibility 1"	"familial adenomatous polyposis 1"	"constitutional mismatch repair deficiency syndrome"	"glioma susceptibility 3"
 "Ependymoma"	1.0	0.0	1.0	0.0
 "Astrocytoma"	1.0	1.0	1.0	1.0
 "HP:0001428"	1.0	0.0	0.0	0.0

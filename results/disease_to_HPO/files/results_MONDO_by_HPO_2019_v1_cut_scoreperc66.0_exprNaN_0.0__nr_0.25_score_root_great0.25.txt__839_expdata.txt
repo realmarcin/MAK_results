@@ -1,4 +1,4 @@
-	"ovarian dysgenesis 2"	"CFTDX"	"MRX88"	"intellectual disability, X-linked 100"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"Loeys-Dietz syndrome 1"
+	"MRX84"	"X-linked intellectual disability-retinitis pigmentosa syndrome"	"MRX92"	"intellectual disability, X-linked 99"	"ichthyosis follicularis-alopecia-photophobia syndrome"	"MPDU1-CDG"
 "Microcephaly"	0.0	1.0	0.0	0.0	1.0	1.0
 "Seizures"	0.0	0.0	0.0	0.0	1.0	1.0
 "Muscular hypotonia"	0.0	0.0	0.0	0.0	1.0	1.0

@@ -1,4 +1,4 @@
 "x"
-"1" "cardiomyopathy.associated.with.myopathy.and.sudden.death"
-"2" "candidiasis..familial..8"
-"3" "LIPE.related.familial.partial.lipodystrophy"
+"1" "dilated.cardiomyopathy.hypergonadotropic.hypogonadism.syndrome"
+"2" "microphthalmia..syndromic.12"
+"3" "intellectual.disability..autosomal.recessive.45"

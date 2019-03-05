@@ -1,4 +1,4 @@
-	"brachydactyly-arterial hypertension syndrome"	"SHFLD1"	"dwarfism, familial, with muscle spasms"
+	"Brachmann-de Lange-like facial changes with microcephaly, metatarsus adductus, and developmental delay"	"cleft chin"	"OFC3"
 "Abnormality of the face"	1.0	1.0	1.0
 "Unusual dermatoglyphics"	1.0	0.0	0.0
 "Chin with vertical crease"	0.0	1.0	0.0

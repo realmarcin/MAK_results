@@ -1,4 +1,4 @@
 "x"
-"1" "pseudohypoparathyroidism.type.1A"
-"2" "discrimination..Two.point..reduction.1N"
-"3" "Raynaud.disease"
+"1" "Tietz.syndrome"
+"2" "dilution..pigmentary"
+"3" "raindrop.hypopigmentation"

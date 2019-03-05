@@ -1,4 +1,4 @@
-	"nevus, epidermal"	"storm syndrome"	"Morquio syndrome C"	"Fanconi anemia complementation group L"	"myopia, high, with cataract and vitreoretinal degeneration"	"hypertrophic cardiomyopathy 21"
+	"hereditary neutrophilia"	"platelet storage pool deficiency"	"monosomy 7 of bone marrow"	"Fanconi anemia complementation group G"	"myelodysplastic syndrome"	"autosomal dominant aplasia and myelodysplasia"
 "Myelodysplasia"	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of reticulocytes"	0.0	0.0	0.0	0.0	0.0	0.0
 "Abnormality of cells of the granulocytic lineage"	0.0	0.0	0.0	0.0	0.0	0.0

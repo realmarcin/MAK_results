@@ -1,4 +1,4 @@
-	"glomerulopathy with fibronectin deposits 1"	"mitochondrial DNA depletion syndrome 4a"	"pilodental dysplasia-refractive errors syndrome"	"rippling muscle disease 1"
+	"hypotrichosis-lymphedema-telangiectasia-renal defect syndrome"	"alopecia universalis"	"Bjornstad syndrome"	"PARC syndrome"
 "Wide nasal bridge"	1.0	0.0	0.0	0.0
 "Global developmental delay"	1.0	0.0	0.0	0.0
 "Mandibular prognathia"	1.0	0.0	0.0	0.0

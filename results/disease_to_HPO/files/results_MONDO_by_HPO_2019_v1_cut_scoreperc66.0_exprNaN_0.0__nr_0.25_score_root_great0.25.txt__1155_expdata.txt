@@ -1,4 +1,4 @@
-	"Diamond-Blackfan anemia 1"	"Ethanolaminosis"	"short stature due to partial GHR deficiency"	"drug metabolism, poor, CYP2D6-related"	"hereditary hypotrichosis with recurrent skin vesicles"	"Dowling-Degos disease 4"
+	"congenital dyserythropoietic anemia type 3"	"congenital lethal erythroderma"	"hemochromatosis type 3"	"familial hemophagocytic lymphohistiocytosis 3"	"familial hemophagocytic lymphohistiocytosis 5"	"vasculitis due to ADA2 deficiency"
 "Cutis marmorata"	0.0	0.0	0.0	0.0	0.0	1.0
 "Dilatation"	0.0	0.0	0.0	0.0	0.0	1.0
 "Lupus anticoagulant"	0.0	0.0	0.0	0.0	0.0	1.0

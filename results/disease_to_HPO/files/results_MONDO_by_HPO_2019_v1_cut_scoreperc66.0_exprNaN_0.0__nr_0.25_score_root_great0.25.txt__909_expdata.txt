@@ -1,4 +1,4 @@
-	"abducens nerve palsy"	"amyotonia congenita"	"macular coloboma-cleft palate-hallux valgus syndrome"	"visceral steatosis, congenital"	"Prepapillary vascular loops"	"thiopurine S-methyltransferase deficiency"
+	"prune belly syndrome"	"amyloidosis, cutaneous bullous"	"familial reactive perforating collagenosis"	"fascial dystrophy, congenital"	"prenatal bowing"	"normophosphatemic familial tumoral calcinosis"
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0	1.0
 "Hydroureter"	1.0	0.0	0.0	0.0	0.0	0.0
 "Hydronephrosis"	1.0	0.0	0.0	0.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"channelopathy-associated congenital insensitivity to pain"	"Perlman syndrome"	"bladder exstrophy (disease)"	"dilated cardiomyopathy 1C"
+	"Schimke immuno-osseous dysplasia"	"short-rib thoracic dysplasia 9 with or without polydactyly"	"Eiken syndrome"	"mucopolysaccharidosis type 9"
 "HP:0000007"	1.0	1.0	1.0	1.0
 "Depressed nasal bridge"	1.0	0.0	0.0	1.0
 "Bifid uvula"	0.0	1.0	0.0	1.0

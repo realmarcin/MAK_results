@@ -1,4 +1,4 @@
-	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"congenital muscular dystrophy 1B"	"branchiogenic deafness syndrome"	"Meckel syndrome, type 6"	"Charcot-Marie-Tooth disease axonal type 2Q"	"hypomyelination with brain stem and spinal cord involvement and leg spasticity"
+	"ichthyosis follicularis-alopecia-photophobia syndrome"	"autosomal recessive congenital ichthyosis 5"	"congenital reticular ichthyosiform erythroderma"	"autosomal recessive congenital ichthyosis 6"	"autosomal recessive congenital ichthyosis 10"	"cardiofaciocutaneous syndrome 4"
 "Muscular hypotonia"	1.0	0.0	0.0	0.0	0.0	1.0
 "Hypoplasia of the corpus callosum"	1.0	0.0	0.0	0.0	0.0	1.0
 "Short stature"	1.0	0.0	0.0	0.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"Charcot-Marie-Tooth disease type 1B"	"inclusion body myositis"	"STUT1"	"CHAND syndrome"
+	"Klippel-Feil syndrome 1, autosomal dominant"	"incisors, shovel-shaped"	"Sprengel deformity (disease)"	"Klippel-Feil syndrome 2, autosomal recessive"
 "Hemivertebrae"	0.0	0.0	1.0	0.0
 "Cervical segmentation defect"	0.0	0.0	1.0	0.0
 "Sprengel anomaly"	1.0	0.0	1.0	1.0

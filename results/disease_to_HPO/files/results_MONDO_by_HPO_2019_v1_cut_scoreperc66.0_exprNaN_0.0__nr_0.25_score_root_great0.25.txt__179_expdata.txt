@@ -1,4 +1,4 @@
-	"syndromic X-linked intellectual disability 17"	"mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria"	"immunodeficiency, common variable, 7"	"dilated cardiomyopathy 1NN"	"FTDALS4"	"candidiasis, familial, 9"
+	"amyotrophic lateral sclerosis type 15"	"amyotrophic lateral sclerosis type 10"	"amyotrophic lateral sclerosis type 17"	"FTDALS2"	"FTDALS3"	"FTDALS4"
 "Hyporeflexia"	0.0	0.0	1.0	1.0	1.0	1.0
 "HP:0003676"	1.0	0.0	0.0	1.0	1.0	1.0
 "Bulbar palsy"	0.0	0.0	0.0	1.0	1.0	1.0

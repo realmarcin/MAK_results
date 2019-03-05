@@ -1,4 +1,4 @@
-	"familial juvenile hypertrophy of the breast"	"Treacher-Collins syndrome 1"	"skeletal dysplasia and progressive central nervous system degeneration, lethal"	"MPDU1-CDG"
+	"branchiootorenal syndrome 1"	"Nager acrofacial dysostosis"	"branchiootic syndrome 1"	"branchiogenic deafness syndrome"
 "Cleft palate"	1.0	1.0	0.0	1.0
 "HP:0003828"	1.0	1.0	1.0	0.0
 "Preauricular pit"	1.0	0.0	1.0	1.0

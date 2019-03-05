@@ -1,4 +1,4 @@
-	"reticular dystrophy of retinal pigment epithelium"	"hypouricemia, hypercalcinuria, and decreased bone density"	"immunodeficiency, common variable, 1"
+	"proximal renal tubular acidosis"	"Bamforth-Lazarus syndrome"	"hereditary spastic paraplegia 24"
 "Cleft palate"	0.0	1.0	0.0
 "HP:0000007"	0.0	1.0	1.0
 "Choanal atresia"	0.0	1.0	0.0

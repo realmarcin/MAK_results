@@ -1,4 +1,4 @@
 "x"
-"1" "hypouricemia..hypercalcinuria..and.decreased.bone.density"
-"2" "immunodeficiency..common.variable..1"
-"3" "reticular.dystrophy.of.retinal.pigment.epithelium"
+"1" "Bamforth.Lazarus.syndrome"
+"2" "hereditary.spastic.paraplegia.24"
+"3" "proximal.renal.tubular.acidosis"

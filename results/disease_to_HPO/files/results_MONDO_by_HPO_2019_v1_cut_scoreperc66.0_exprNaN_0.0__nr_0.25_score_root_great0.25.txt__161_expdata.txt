@@ -1,4 +1,4 @@
-	"autosomal recessive nonsyndromic deafness 9"	"lymphoma, non-Hodgkin, familial"	"hypotrichosis 6"	"cranioectodermal dysplasia 2"	"melanoma, cutaneous malignant, susceptibility to, 9"
+	"FAME1"	"familial infantile myoclonic epilepsy"	"epilepsy, familial adult myoclonic, 2"	"FAME3"	"FAME4"
 "EEG with photoparoxysmal response"	1.0	0.0	1.0	1.0	0.0
 "Giant somatosensory evoked potentials"	1.0	0.0	1.0	1.0	0.0
 "EEG with irregular generalized spike and wave complexes"	1.0	1.0	1.0	0.0	0.0

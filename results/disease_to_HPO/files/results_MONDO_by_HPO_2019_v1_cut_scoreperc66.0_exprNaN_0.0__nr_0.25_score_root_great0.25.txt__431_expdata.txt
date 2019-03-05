@@ -1,4 +1,4 @@
-	"fragile site, Distamycin a type, rare, fra(16)(q22.1)"	"porphyria due to ALA dehydratase deficiency"	"mosaic variegated aneuploidy syndrome 2"	"Emery-Dreifuss muscular dystrophy 7, autosomal dominant"	"schizophrenia 19"	"immunodeficiency 11b with atopic dermatitis"	"Galloway-Mowat syndrome 5"	"epileptic encephalopathy, early infantile, 62"
+	"chromosome 16p12.1 deletion syndrome, 520kb"	"guanidinoacetate methyltransferase deficiency"	"intellectual disability, autosomal dominant 2"	"hypermethioninemia due to adenosine kinase deficiency"	"Joubert syndrome 30"	"intellectual disability, autosomal dominant 47"	"Galloway-Mowat syndrome 4"	"epilepsy, familial focal, with variable foci 4"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Abnormality of cardiovascular system morphology"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

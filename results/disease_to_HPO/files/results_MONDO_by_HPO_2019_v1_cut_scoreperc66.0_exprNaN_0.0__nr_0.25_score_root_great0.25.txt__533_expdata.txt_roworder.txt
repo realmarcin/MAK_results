@@ -1,4 +1,4 @@
 "x"
-"1" "cerebral.sclerosis.similar.to.Pelizaeus.Merzbacher.disease"
-"2" "myoclonus.cerebellar.ataxia.deafness.syndrome"
-"3" "severe.neonatal.onset.encephalopathy.with.microcephaly"
+"1" "cerebrotendinous.xanthomatosis"
+"2" "myoclonus.and.ataxia"
+"3" "epileptic.encephalopathy..early.infantile..2"

@@ -1,4 +1,4 @@
-	"Kaposi sarcoma, susceptibility to"	"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant 1"	"polydactyly of a triphalangeal thumb"	"thrombophilia due to protein S deficiency, autosomal recessive"	"porokeratosis 8, disseminated superficial actinic type"	"retinal dystrophy with or without macular staphyloma"
+	"hypogonadotropic hypogonadism 2 with or without anosmia"	"mirror movements 1"	"polydactyly of a biphalangeal thumb"	"mirror movements 2"	"mirror movements 3"	"gaze palsy, familial horizontal, with progressive scoliosis, 2"
 "HP:0000006"	1.0	1.0	0.0	1.0	0.0	0.0
 "Intellectual disability"	1.0	0.0	0.0	0.0	0.0	1.0
 "Agenesis of corpus callosum"	1.0	1.0	0.0	0.0	0.0	1.0

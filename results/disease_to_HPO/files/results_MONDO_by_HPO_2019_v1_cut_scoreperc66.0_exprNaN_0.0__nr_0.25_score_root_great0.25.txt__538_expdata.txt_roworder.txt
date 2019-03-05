@@ -1,4 +1,4 @@
 "x"
-"1" "Stimmler.syndrome"
-"2" "B.cell.chronic.lymphocytic.leukemia"
-"3" "leukocyte.nuclear.appendages..hereditary.prevalence.of"
+"1" "neutropenia..severe.congenital..1..autosomal.dominant"
+"2" "acute.monocytic.leukemia"
+"3" "B.cell.chronic.lymphocytic.leukemia"

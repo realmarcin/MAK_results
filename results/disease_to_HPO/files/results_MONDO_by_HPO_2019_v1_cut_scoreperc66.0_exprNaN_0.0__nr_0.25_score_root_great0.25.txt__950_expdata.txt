@@ -1,4 +1,4 @@
-	"dystonia 12"	"radial heads, posterior dislocation of"	"fibrosclerosis, multifocal"	"pellagra-like syndrome"	"Richieri Costa-Pereira syndrome"	"sudden infant death syndrome"
+	"dystonia 5"	"IHPS1"	"hyaline fibromatosis syndrome"	"hypomyelinating leukodystrophy 3"	"Roberts syndrome"	"Schilder disease"
 "Projectile vomiting"	0.0	1.0	0.0	1.0	0.0	0.0
 "Hypochloremic metabolic alkalosis"	0.0	1.0	0.0	0.0	0.0	0.0
 "Progressive flexion contractures"	1.0	0.0	1.0	1.0	1.0	0.0

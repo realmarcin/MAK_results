@@ -1,4 +1,4 @@
-	"dwarfism with stiff joints and ocular abnormalities"	"pityriasis rubra pilaris"	"rhizomelic chondrodysplasia punctata type 1"	"Laron syndrome"
+	"dwarfism, Levi type"	"isolated growth hormone deficiency type II"	"chondrodysplasia calcificans Metaphysealis"	"isolated growth hormone deficiency type IA"
 "HP:0000007"	1.0	0.0	1.0	1.0
 "HP:0000006"	1.0	1.0	0.0	0.0
 "Severe short stature"	1.0	1.0	1.0	1.0

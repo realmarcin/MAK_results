@@ -1,4 +1,4 @@
-	"hypoglycemia, leucine-induced"	"Richards-Rundle syndrome"	"microcephalic primordial dwarfism, Toriello type"	"mitochondrial complex III deficiency nuclear type 4"	"polymicrogyria, bilateral perisylvian, autosomal recessive"	"immunodeficiency 37"
+	"glycogen storage disease due to hepatic glycogen synthase deficiency"	"succinyl-CoA:3-ketoacid CoA transferase deficiency"	"methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency"	"mitochondrial complex III deficiency nuclear type 3"	"hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency"	"ketoacidosis due to monocarboxylate transporter-1 deficiency"
 "Ketonuria"	1.0	1.0	1.0	0.0	1.0	1.0
 "Ketotic hypoglycemia"	1.0	0.0	0.0	0.0	0.0	1.0
 "Abnormality of the gastrointestinal tract"	1.0	0.0	0.0	0.0	0.0	0.0

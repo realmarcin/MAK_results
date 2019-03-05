@@ -1,4 +1,4 @@
-	"spinocerebellar ataxia type 26"	"dilated cardiomyopathy 1DD"	"autosomal recessive limb-girdle muscular dystrophy type 2Q"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"	"intellectual disability, autosomal dominant 55, with seizures"
+	"epileptic encephalopathy, early infantile, 3"	"GABA aminotransferase deficiency"	"epileptic encephalopathy, early infantile, 12"	"multiple mitochondrial dysfunctions syndrome 4"	"microcephaly 19, primary, autosomal recessive"	"epileptic encephalopathy, early infantile, 58"
 "HP:0000007"	1.0	1.0	1.0	1.0	0.0	0.0
 "Posterior fossa cyst"	0.0	1.0	0.0	0.0	0.0	0.0
 "Tall stature"	0.0	1.0	0.0	0.0	0.0	0.0

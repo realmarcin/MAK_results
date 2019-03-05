@@ -1,4 +1,4 @@
-	"ribose-5-P isomerase deficiency"	"dilated cardiomyopathy 1HH"	"nephrotic syndrome, type 8"	"Bardet-Biedl syndrome 2"
+	"familial partial lipodystrophy, Kobberling type"	"PLIN1-related familial partial lipodystrophy"	"CIDEC-related familial partial lipodystrophy"	"LIPE-related familial partial lipodystrophy"
 "Acanthosis nigricans"	1.0	1.0	1.0	1.0
 "Polycystic ovaries"	1.0	1.0	1.0	1.0
 "Abdominal obesity"	0.0	0.0	0.0	1.0

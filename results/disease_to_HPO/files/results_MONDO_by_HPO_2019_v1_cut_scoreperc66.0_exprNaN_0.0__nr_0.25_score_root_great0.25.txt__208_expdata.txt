@@ -1,4 +1,4 @@
-	"muscle cramps, familial"	"Fraser-like syndrome"	"Cowden syndrome 6"	"urofacial syndrome 2"
+	"Cowden syndrome 1"	"brittle cornea syndrome 1"	"Cowden syndrome 5"	"Cowden syndrome 6"
 "Congenital hip dislocation"	0.0	1.0	0.0	0.0
 "Hearing impairment"	1.0	1.0	1.0	1.0
 "Scoliosis"	1.0	1.0	1.0	1.0

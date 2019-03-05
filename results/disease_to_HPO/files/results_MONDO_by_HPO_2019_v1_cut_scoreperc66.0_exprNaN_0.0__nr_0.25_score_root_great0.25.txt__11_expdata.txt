@@ -1,4 +1,4 @@
-	"Jervell and Lange-Nielsen syndrome 2"	"Meckel syndrome, type 8"	"chromosome 11p13 deletion syndrome, distal"
+	"intellectual disability, autosomal dominant 22"	"chromosome 13q14 deletion syndrome"	"craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome"
 "Hypertelorism"	1.0	1.0	1.0
 "Intellectual disability"	1.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0

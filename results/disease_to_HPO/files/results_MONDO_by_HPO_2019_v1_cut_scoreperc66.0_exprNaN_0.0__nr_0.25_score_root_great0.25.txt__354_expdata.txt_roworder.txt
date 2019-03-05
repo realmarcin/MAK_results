@@ -1,4 +1,4 @@
 "x"
-"1" "Melnick.Needles.syndrome"
-"2" "polyposis.syndrome..hereditary.mixed..2"
-"3" "macular.corneal.dystrophy"
+"1" "isolated.congenital.megalocornea"
+"2" "congenital.stromal.corneal.dystrophy"
+"3" "congenital.hereditary.endothelial.dystrophy.of.cornea"

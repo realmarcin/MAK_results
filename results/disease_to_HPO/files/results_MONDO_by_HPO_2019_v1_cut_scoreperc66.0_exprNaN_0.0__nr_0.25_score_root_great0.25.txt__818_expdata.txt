@@ -1,4 +1,4 @@
-	"autosomal recessive limb-girdle muscular dystrophy type 2D"	"dilated cardiomyopathy 1X"	"arthrogryposis, renal dysfunction, and cholestasis 2"	"congenital bile acid synthesis defect 3"	"LCC"	"Joubert syndrome 22"	"early-onset epileptic encephalopathy-cortical blindness-intellectual disability-facial dysmorphism syndrome"	"Ververi-Brady syndrome"	"neurodevelopmental disorder with brain, liver, and lung abnormalities"
+	"periventricular heterotopia with microcephaly, autosomal recessive"	"lissencephaly due to TUBA1A mutation"	"microcephaly, seizures, and developmental delay"	"pontocerebellar hypoplasia type 2D"	"infantile cerebellar-retinal degeneration"	"Warburg micro syndrome 4"	"pontocerebellar hypoplasia type 2E"	"neurodevelopmental disorder with spastic quadriplegia and brain abnormalities with or without seizures"	"leukodystrophy, hypomyelinating, 17"
 "Hypoplasia of the corpus callosum"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Intellectual disability, severe"	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0
 "Hypoplasia of the brainstem"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

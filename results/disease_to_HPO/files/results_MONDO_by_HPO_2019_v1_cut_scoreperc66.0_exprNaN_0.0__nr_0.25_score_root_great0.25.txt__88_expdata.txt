@@ -1,4 +1,4 @@
-	"ectodermal dysplasia, trichoodontoonychial type"	"immunodeficiency, X-linked, with deficiency of 115,000 Dalton surface glycoprotein"	"alpha thalassemia"	"tubulointerstitial nephritis and uveitis syndrome"	"spondyloepimetaphyseal dysplasia, Pakistani type"
+	"Clouston syndrome"	"ichthyosis follicularis-alopecia-photophobia syndrome"	"dystrophic epidermolysis bullosa pruriginosa"	"skin fragility-woolly hair-palmoplantar keratoderma syndrome"	"keratosis follicularis spinulosa decalvans, autosomal dominant"
 "HP:0001596"	1.0	1.0	0.0	1.0	1.0
 "Conjunctivitis"	1.0	1.0	0.0	0.0	1.0
 "Photophobia"	1.0	1.0	0.0	0.0	1.0

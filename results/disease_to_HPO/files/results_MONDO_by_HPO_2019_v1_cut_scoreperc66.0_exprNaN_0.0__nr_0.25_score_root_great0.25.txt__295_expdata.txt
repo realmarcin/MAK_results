@@ -1,4 +1,4 @@
-	"thyroid cancer, nonmedullary, 2"	"ventricular extrasystoles with syncopal episodes-perodactyly-robin sequence syndrome"	"cervical hypertrichosis-peripheral neuropathy syndrome"	"recessive X-linked ichthyosis"
+	"DiGeorge syndrome"	"velocardiofacial syndrome"	"hypertelorism, microtia, facial clefting syndrome"	"child syndrome"
 "Cleft palate"	1.0	1.0	1.0	0.0
 "Specific learning disability"	1.0	1.0	1.0	0.0
 "Umbilical hernia"	1.0	1.0	0.0	1.0

@@ -1,4 +1,4 @@
-	"cyanosis, transient neonatal"	"melanoma, cutaneous malignant, susceptibility to, 10"	"polycystic liver disease 2; PCLD2"	"spermatogenic failure 25"	"intellectual developmental disorder with dysmorphic facies and behavioral abnormalities"	"osteopetrosis, autosomal dominant 3"
+	"intellectual disability, autosomal dominant 6"	"Aicardi-Goutieres syndrome 7"	"epileptic encephalopathy, early infantile, 37; EIEE37"	"multiple mitochondrial dysfunctions syndrome 6"	"neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"	"mental retardation, autosomal dominant 58"
 "HP:0003676"	0.0	0.0	0.0	1.0	1.0	0.0
 "Choreoathetosis"	0.0	0.0	1.0	0.0	1.0	0.0
 "Absent speech"	0.0	1.0	1.0	1.0	0.0	0.0

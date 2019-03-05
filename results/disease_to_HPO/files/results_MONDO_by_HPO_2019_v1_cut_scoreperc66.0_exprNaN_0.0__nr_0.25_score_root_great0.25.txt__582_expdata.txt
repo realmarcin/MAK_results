@@ -1,4 +1,4 @@
-	"spondylo-ocular syndrome"	"foveal hypoplasia - optic nerve decussation defect - anterior segment dysgenesis syndrome"	"PSNP2"	"palmoplantar keratoderma, nonepidermolytic, focal 1"	"hereditary spastic paraplegia 47"	"even-plus syndrome"
+	"GNE myopathy"	"myofibrillar myopathy 3"	"myofibrillar myopathy 4"	"Emery-Dreifuss muscular dystrophy 5, autosomal dominant"	"distal myopathy with posterior leg and anterior hand involvement"	"progressive scapulohumeroperoneal distal myopathy"
 "Cardiomyopathy"	1.0	1.0	1.0	1.0	1.0	0.0
 "Polyneuropathy"	0.0	1.0	1.0	0.0	0.0	0.0
 "Elevated serum creatine phosphokinase"	1.0	1.0	1.0	1.0	0.0	0.0

@@ -1,4 +1,4 @@
-	"Patterson-Stevenson-Fontaine syndrome"	"anosmia for isobutyric acid"	"Ehlers-Danlos syndrome, fibronectinemic type"	"Fibulo-ulnar hypoplasia-renal anomalies syndrome"	"lipase deficiency, combined"	"ulna hypoplasia-intellectual disability syndrome"
+	"split hand-foot malformation 1"	"microphthalmia with limb anomalies"	"split hand-foot malformation 6"	"Fuhrmann syndrome"	"fibular aplasia, tibial campomelia, and oligosyndactyly syndrome"	"phocomelia, Schinzel type"
 "Hand oligodactyly"	1.0	1.0	1.0	1.0	1.0	1.0
 "Aplasia of the ulna"	0.0	0.0	0.0	0.0	0.0	1.0
 "Foot oligodactyly"	1.0	1.0	1.0	1.0	1.0	1.0

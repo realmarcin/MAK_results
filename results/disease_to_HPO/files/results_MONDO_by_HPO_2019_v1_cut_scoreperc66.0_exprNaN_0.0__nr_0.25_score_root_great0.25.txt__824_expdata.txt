@@ -1,4 +1,4 @@
-	"incisors, rotation of upper central"	"autosomal recessive Robinow syndrome"	"autosomal dominant auditory neuropathy 1"	"STAT3-related early-onset multisystem autoimmune disease"
+	"incisors, lower central, absence of"	"Richieri Costa-Pereira syndrome"	"arthrogryposis-severe scoliosis syndrome"	"orofaciodigital syndrome type 14"
 "Agenesis of mandibular central incisor"	1.0	1.0	0.0	0.0
 "Abnormality of the aryepiglottic fold"	0.0	1.0	0.0	0.0
 "Aplasia of the epiglottis"	0.0	1.0	0.0	1.0

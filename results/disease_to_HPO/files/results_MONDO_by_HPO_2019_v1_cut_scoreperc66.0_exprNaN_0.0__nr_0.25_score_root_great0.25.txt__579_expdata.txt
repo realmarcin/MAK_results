@@ -1,4 +1,4 @@
-	"progressive familial heart block type II"	"hereditary spastic paraplegia 3A"	"arterial tortuosity syndrome"	"short stature due to growth hormone qualitative anomaly"	"atrioventricular septal defect 5"	"sudden cardiac failure, alcohol-induced; SCFAI"
+	"hawkinsinuria"	"Sneddon syndrome"	"arterial calcification, generalized, of infancy, 1"	"pituitary hormone deficiency, combined, 2"	"arterial calcification, generalized, of infancy, 2"	"sudden cardiac failure, infantile; SCFI"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0
 "Hypertension"	0.0	1.0	1.0	0.0	1.0	0.0
 "Congestive heart failure"	0.0	0.0	1.0	0.0	1.0	1.0

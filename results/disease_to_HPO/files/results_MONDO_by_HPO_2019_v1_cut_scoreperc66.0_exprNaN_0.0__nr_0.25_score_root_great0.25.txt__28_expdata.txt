@@ -1,4 +1,4 @@
-	"hypokalemic periodic paralysis, type 2"	"fetal valproate syndrome"	"familial papillary thyroid carcinoma with renal papillary neoplasia"
+	"brachydactylous dwarfism, Mseleni type"	"spondyloenchondrodysplasia"	"cloverleaf skull-multiple congenital anomalies syndrome"
 "Rhizomelia"	0.0	1.0	1.0
 "Abnormality of the metaphysis"	1.0	1.0	1.0
 "Abnormality of epiphysis morphology"	1.0	1.0	1.0

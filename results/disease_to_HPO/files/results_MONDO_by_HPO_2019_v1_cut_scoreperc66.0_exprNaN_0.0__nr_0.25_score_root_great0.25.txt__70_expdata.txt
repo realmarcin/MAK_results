@@ -1,4 +1,4 @@
-	"pyruvate dehydrogenase E1-beta deficiency"	"thrombocythemia 3"	"paroxysmal nocturnal hemoglobinuria 2"	"neonatal severe cardiopulmonary failure due to mitochondrial methylation defect"
+	"developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency"	"encephalomyopathy, mitochondrial, due to voltage-dependent anion channel deficiency"	"multiple congenital anomalies-hypotonia-seizures syndrome 3"	"cardiac anomalies - developmental delay - facial dysmorphism syndrome"
 "Hypertelorism"	1.0	1.0	0.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	1.0	1.0

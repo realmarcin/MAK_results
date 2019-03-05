@@ -1,4 +1,4 @@
-	"progressive familial intrahepatic cholestasis type 2"	"autosomal recessive nonsyndromic deafness 16"	"breath-holding Spells"	"patent ductus arteriosus 2; PDA2"
+	"vacuolar Neuromyopathy"	"hereditary proximal myopathy with early respiratory failure"	"distal myopathy with early respiratory muscle involvement"	"myopathy, distal, 5; MPD5"
 "Rimmed vacuoles"	1.0	1.0	1.0	1.0
 "Muscle fiber splitting"	1.0	1.0	1.0	1.0
 "Quadriceps muscle weakness"	0.0	0.0	1.0	0.0

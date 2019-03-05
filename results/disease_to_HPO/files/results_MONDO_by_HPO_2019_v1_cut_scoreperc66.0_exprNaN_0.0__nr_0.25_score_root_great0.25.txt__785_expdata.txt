@@ -1,4 +1,4 @@
-	"lymphedema-cerebral arteriovenous anomaly syndrome"	"polyneuropathy-hand defect syndrome"	"hepatic veno-occlusive disease-immunodeficiency syndrome"	"cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome"	"brachydactyly type A1D"
+	"primary intestinal lymphangiectasia"	"aplasia cutis congenita-intestinal lymphangiectasia syndrome"	"Hennekam lymphangiectasia-lymphedema syndrome 1"	"Hennekam lymphangiectasia-lymphedema syndrome 2"	"lymphedema, hereditary, type III"
 "Conical incisor"	0.0	0.0	1.0	0.0	0.0
 "Intestinal lymphangiectasia"	1.0	1.0	1.0	1.0	1.0
 "Thyroid lymphangiectasia"	0.0	0.0	1.0	0.0	0.0

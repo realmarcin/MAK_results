@@ -1,4 +1,4 @@
 "x"
-"1" "neuronal.intestinal.pseudoobstruction"
-"2" "BCYM1A"
-"3" "DDX41.related.hematologic.malignancy.predisposition.syndrome"
+"1" "multiple.intestinal.atresia"
+"2" "spondylocostal.dysostosis.anal.and.genitourinary.malformations.syndrome"
+"3" "congenital.secretory.sodium.diarrhea.8"

@@ -1,4 +1,4 @@
 "x"
-"1" "lipoid.proteinosis"
-"2" "Marden.Walker.syndrome"
-"3" "paragangliomas.3"
+"1" "pyruvate.dehydrogenase.E3.deficiency"
+"2" "maple.syrup.urine.disease"
+"3" "dilated.cardiomyopathy.1J"

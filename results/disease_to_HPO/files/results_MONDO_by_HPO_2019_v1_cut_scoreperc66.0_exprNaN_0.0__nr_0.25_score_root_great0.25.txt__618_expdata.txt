@@ -1,4 +1,4 @@
-	"myelinated optic nerve fibers"	"congenital myasthenic syndrome 10"	"mycosis fungoides"	"patent ductus venosus"	"Rubinstein-Taybi syndrome due to 16p13.3 microdeletion"	"congenital myasthenic syndrome 14"	"congenital myasthenic syndrome 2C"	"congenital myasthenic syndrome 3B"	"congenital myasthenic syndrome 3C"	"congenital myasthenic syndrome 9"	"congenital myasthenic syndrome 11"	"maturity-onset diabetes of the young type 13"
+	"myasthenia, limb-girdle, autoimmune"	"congenital myasthenic syndrome 6"	"congenital myasthenic syndrome 10"	"congenital myasthenic syndrome 1A"	"congenital myasthenic syndrome 12"	"congenital myasthenic syndrome 15"	"congenital myasthenic syndrome 2A"	"congenital myasthenic syndrome 3A"	"congenital myasthenic syndrome 3B"	"congenital myasthenic syndrome 4B"	"congenital myasthenic syndrome 9"	"congenital myasthenic syndrome 11"
 "Ptosis"	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Easy fatigability"	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
 "Hashimoto thyroiditis"	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

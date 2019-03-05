@@ -1,4 +1,4 @@
-	"keloid formation"	"cytochrome-c oxidase deficiency disease"	"chronic Epstein-Barr virus infection syndrome"	"glaucoma 1, open angle, G"	"Adams-Oliver syndrome 3"	"short-rib thoracic dysplasia 19 with or without polydactyly"
+	"KBG syndrome"	"cystinuria (disease)"	"Wolcott-Rallison syndrome"	"glomerulocystic kidney disease with hyperuricemia and isosthenuria"	"short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome"	"Fanconi anemia, complementation group S"
 "Hypertelorism"	1.0	0.0	1.0	0.0	1.0	1.0
 "Clinodactyly"	1.0	0.0	0.0	0.0	1.0	1.0
 "Global developmental delay"	1.0	0.0	1.0	0.0	1.0	1.0

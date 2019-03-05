@@ -1,4 +1,4 @@
-	"Kabuki syndrome 2"	"Ritscher-Schinzel syndrome 2"	"fallot complex-intellectual disability-growth delay syndrome"	"acne inversa, familial, 2"	"paroxysmal nocturnal hemoglobinuria 2"	"Ehlers-Danlos syndrome, musculocontractural type 2"
+	"X-linked cerebral-cerebellar-coloboma syndrome syndrome"	"MEND syndrome"	"ALG3-CDG"	"chromosome 1p32-p31 deletion syndrome"	"multiple congenital anomalies-hypotonia-seizures syndrome 3"	"chromosome 22q13 duplication syndrome"
 "Seizures"	1.0	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0	1.0
 "Generalized hypotonia"	1.0	1.0	0.0	1.0	1.0	0.0

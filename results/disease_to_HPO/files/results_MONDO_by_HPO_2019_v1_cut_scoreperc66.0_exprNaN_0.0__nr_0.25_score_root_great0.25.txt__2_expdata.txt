@@ -1,4 +1,4 @@
-	"intellectual disability, X-linked 46"	"testicular anomalies with or without congenital heart disease"	"orofaciodigital syndrome XV"
+	"X-linked intellectual disability, Stocco dos Santos type"	"severe intellectual disability-short stature-behavioral abnormalities-facial dysmorphism syndrome"	"Alazami-Yuan syndrome; ALYUS"
 "Strabismus"	1.0	1.0	0.0
 "Microcephaly"	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0

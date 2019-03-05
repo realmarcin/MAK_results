@@ -1,4 +1,4 @@
 "x"
-"1" "BRWNS"
-"2" "intellectual.disability..autosomal.dominant.46"
-"3" "intellectual.disability..X.linked.41"
+"1" "microcephaly.14..primary..autosomal.recessive"
+"2" "intellectual.disability..autosomal.dominant.45"
+"3" "MRX89"

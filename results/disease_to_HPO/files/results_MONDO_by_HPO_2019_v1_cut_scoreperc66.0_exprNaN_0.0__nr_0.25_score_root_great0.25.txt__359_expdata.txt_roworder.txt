@@ -1,4 +1,4 @@
 "x"
-"1" "brachydactyly.arterial.hypertension.syndrome"
-"2" "SHFLD1"
-"3" "dwarfism..familial..with.muscle.spasms"
+"1" "Brachmann.de.Lange.like.facial.changes.with.microcephaly..metatarsus.adductus..and.developmental.delay"
+"2" "cleft.chin"
+"3" "OFC3"

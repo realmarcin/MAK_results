@@ -1,4 +1,4 @@
 "x"
-"1" "ectodermal.dysplasia.syndactyly.syndrome.1"
-"2" "Antley.Bixler.syndrome.with.genital.anomalies.and.disordered.steroidogenesis"
-"3" "hereditary.spastic.paraplegia.51"
+"1" "congenital.adrenal.hyperplasia.due.to.cytochrome.P450.oxidoreductase.deficiency"
+"2" "congenital.lipoid.adrenal.hyperplasia.due.to.STAR.deficency"
+"3" "congenital.adrenal.insufficiency"

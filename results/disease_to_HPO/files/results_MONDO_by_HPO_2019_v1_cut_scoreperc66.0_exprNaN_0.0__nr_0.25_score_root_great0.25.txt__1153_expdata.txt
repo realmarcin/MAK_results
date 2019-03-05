@@ -1,4 +1,4 @@
-	"aplasia cutis congenita (disease)"	"cardiac valvular defect, developmental"	"prenatal bowing"	"EJM4"	"retinitis pigmentosa 54"	"NYS7"
+	"aortic arch interruption, facial palsy, and retinal coloboma"	"cardiac septal defects with coarctation of the aorta"	"urban-Rogers-Meyer syndrome"	"atrial heart septal defect 4"	"dilated cardiomyopathy 1S"	"aortic valve disease 2"
 "HP:0000007"	0.0	1.0	1.0	0.0	0.0	0.0
 "Clinodactyly of the 5th finger"	0.0	0.0	1.0	0.0	0.0	0.0
 "Epicanthus"	0.0	0.0	1.0	0.0	0.0	0.0

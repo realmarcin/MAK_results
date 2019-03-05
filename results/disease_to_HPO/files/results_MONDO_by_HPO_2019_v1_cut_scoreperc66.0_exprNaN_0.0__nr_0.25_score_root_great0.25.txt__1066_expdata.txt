@@ -1,4 +1,4 @@
-	"iris hypoplasia with glaucoma"	"enteropathy, familial, with villous edema and immunoglobulin G2 deficiency"	"spinocerebellar ataxia type 26"	"autosomal recessive limb-girdle muscular dystrophy type 2Q"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4"	"advanced sleep phase syndrome 3"	"neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"	"intellectual disability, autosomal dominant 55, with seizures"
+	"epileptic encephalopathy, early infantile, 1"	"band heterotopia of brain"	"epileptic encephalopathy, early infantile, 3"	"epileptic encephalopathy, early infantile, 12"	"multiple mitochondrial dysfunctions syndrome 4"	"hypomyelinating leukodystrophy 13"	"microcephaly 19, primary, autosomal recessive"	"epileptic encephalopathy, early infantile, 58"
 "HP:0000007"	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0
 "Seizures"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
 "Sleep disturbance"	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0

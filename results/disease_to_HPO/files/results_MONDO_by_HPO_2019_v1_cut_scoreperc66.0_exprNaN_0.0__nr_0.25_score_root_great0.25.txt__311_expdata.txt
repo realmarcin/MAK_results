@@ -1,4 +1,4 @@
-	"mitochondrial complex V (ATP synthase) deficiency nuclear type 3"	"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 1"	"epileptic encephalopathy, early infantile, 17"	"primary ciliary dyskinesia 30"	"intellectual disability, autosomal recessive 50"
+	"mitochondrial complex V (ATP synthase) deficiency nuclear type 2"	"mitochondrial pyruvate carrier deficiency"	"mitochondrial DNA depletion syndrome 13"	"progressive encephalopathy with leukodystrophy due to DECR deficiency"	"Al-Raqad syndrome"
 "Long philtrum"	1.0	1.0	0.0	0.0	0.0
 "HP:0000007"	1.0	1.0	1.0	1.0	1.0
 "Global developmental delay"	1.0	1.0	1.0	1.0	1.0
