@@ -1,7 +1,7 @@
 start = 1
 stop = 14
 data = yeast_cmonkey.txt
-crit = MSER_KENDALLR_GEERE
+crit = KENDALL_FEM
 R = /global/home/users/marcin/common/Miner.R
 runminer_param = /global/scratch/users/marcin/yeast_row/parameter_example.txt
 workspace = yeast_row/

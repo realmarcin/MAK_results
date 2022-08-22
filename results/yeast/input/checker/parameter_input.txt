@@ -1,7 +1,7 @@
 start = 7
 stop = 14
 data = yeast_cmonkey.txt
-crit = MSEC_KENDALLC_GEECE
+crit = MSEC_KENDALLC_FEMC
 R = /global/home/users/marcin/common/Miner.R
 runminer_param = /global/scratch/marcin/yeast_checker/parameter_example.txt
 workspace = yeast_checker/

@@ -1,7 +1,7 @@
 start = 1
 stop = 14
 data = yeast_cmonkey.txt
-crit = KENDALLC_GEECE
+crit = KENDALLC_FEMC
 frxn_sign = TRUE
 R = /global/home/users/marcin/common/Miner.R
 runminer_param = /global/scratch/marcin/yeast_const/parameter_example.txt
