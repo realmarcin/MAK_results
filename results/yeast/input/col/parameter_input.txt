@@ -1,4 +1,4 @@
-start = 6
+start = 1
 stop = 14
 data = yeast_cmonkey.txt
 crit = MSEC_KENDALLC_FEMC
